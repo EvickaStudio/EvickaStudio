@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>- 🔭 I’m currently working on improving my programming skills and building personal projects.<br>- 🌱 I’m currently learning new programming languages and frameworks to expand my knowledge.<br>- 👯 I’m looking to collaborate on open source projects and contribute to the community.<br>
+## About Me<br><br>- 🔭 I’m working on improving my programming skills and building personal projects.<br>- 🌱 I’m currently learning new programming languages and frameworks to expand my knowledge.<br>- 👯 I’m looking to collaborate on open source projects and contribute to the community.<br>
 
 
 # 💻 Tech Stack:
