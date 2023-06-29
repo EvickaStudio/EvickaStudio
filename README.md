@@ -1,4 +1,4 @@
-![Image description](https://i.imgur.com/xBy4X0n.png)
+![Image description](https://i.imgur.com/dmpx4ak.png)
 
 
 # 💻 Tech Stack:
