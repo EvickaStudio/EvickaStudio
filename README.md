@@ -1,4 +1,4 @@
-![Image description](https://i.ibb.co/Jy3wr9L/github2.png)
+![Image description](https://i.postimg.cc/1tNpqXZ5/github2.png)
 
 
 # 💻 Tech Stack:
