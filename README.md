@@ -8,7 +8,7 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvickaStudio&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EvickaStudio&theme=onestar&no-frame=true&column=3&row=2)
+![](https://github-profile-trophy.vercel.app/?username=EvickaStudio&theme=gotham&no-frame=true&column=3&row=2)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EvickaStudio&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=EvickaStudio&limit=5&theme=gotham&combine_all_yearly_contributions=true)
