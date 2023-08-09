@@ -1,1 +1,1 @@
-![Image description](https://i.postimg.cc/59ZkvSDZ/github3.png)
+![Image description](https://raw.githubusercontent.com/EvickaStudio/EvickaStudio/main/github3.png)
