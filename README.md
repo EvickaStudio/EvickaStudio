@@ -7,8 +7,12 @@ I'm a Computer Science and Software Engineering student based in Germany. I have
 ## 🛠️ Skills and Technologies
 
 - Programming languages: `Python`, `Go`, `Java`
-- Databases: `MySQL`, `MariaDB`, `PostgreSQL`
+- Databases: `MySQL`, `SQLite`, `MariaDB`
+- IDEs: `JetBrains (IntelliJ)`, `VS Code`
 - OS: `Linux (CachyOS)`, `Windows`
+- Design: `Photoshop`, `Illustrator`, `Gimp`
+- Fotography: `Adobe Lightroom`, `Capture One`
+- 3D: `Blender`, `ZBrush`
 - Others: `Git`, `Docker`
 
 <!-- ## 🏆 Achievements
