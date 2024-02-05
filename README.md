@@ -41,3 +41,9 @@ You can reach me on [LinkedIn](your-linkedin-url) or send me an email at (your-e
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvickaStudio&theme=transparent" alt="Top languages">
 </div>
+
+## 🕔 WakaTime stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=evickastudio&layout=compact" alt="WakaTime stats">
+</div>
