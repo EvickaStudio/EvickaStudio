@@ -33,7 +33,7 @@ You can reach me on [LinkedIn](your-linkedin-url) or send me an email at (your-e
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvickaStudio&show_icons=true&theme=dark" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvickaStudio&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" alt="GitHub stats">
 </div>
 
 ## 🔝 Top Languages
