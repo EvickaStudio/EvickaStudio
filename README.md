@@ -45,5 +45,5 @@ You can reach me on [LinkedIn](your-linkedin-url) or send me an email at (your-e
 ## 🕔 WakaTime stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=evickastudio&layout=compact" alt="WakaTime stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=evickastudio&layout=compact&theme=transparent" alt="WakaTime stats">
 </div>
