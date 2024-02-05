@@ -39,5 +39,5 @@ You can reach me on [LinkedIn](your-linkedin-url) or send me an email at (your-e
 ## 🔝 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvickaStudio&layout=compact&theme=dark" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvickaStudio&theme=transparent" alt="Top languages">
 </div>
