@@ -9,7 +9,7 @@ I'm a Computer Science and Software Engineering student based in Germany. I have
 - Programming languages: `Python`, `Go`, `Java`
 - Databases: `MySQL`, `SQLite`, `MariaDB`
 - IDEs: `JetBrains (IntelliJ)`, `VS Code`
-- OS: `Linux (CachyOS)`, `Windows`
+- OS: `Linux (CachyOS, Debain, Ubuntu)`, `Windows`
 - Design: `Photoshop`, `Illustrator`, `Gimp`
 - Fotography: `Adobe Lightroom`, `Capture One`
 - 3D: `Blender`, `ZBrush`
