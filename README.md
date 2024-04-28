@@ -1,4 +1,4 @@
-![Image description](https://cdn.evickastudio.de/evickaNewGithubreadme3transparent-min.png)
+![Image description](https://cloud.evicka.de/evickaNewGithubreadme3transparent-min.png)
 
 # Hi there 👋, I'm Erik!
 
