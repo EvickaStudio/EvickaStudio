@@ -9,9 +9,13 @@
        style="margin-right: 20px; margin-bottom: 20px;"
   />
 
-# Hi there, I'm Erik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hey, I'm Erik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-  I’m a **Computer Science & Software Engineering** student from Germany who enjoys discovering new coding concepts, exploring design principles, and integrating different services and techniques into my personal projects. I often work on **automation**, build or wrap **RESTful APIs**, and experiment with **graphics and 3D design**.
+  I am a **Computer Science & Software Engineering** student from Germany. I am currently focusing mainly on learning new programming languages and expanding my programming skills in programming languages I already know, as well as frameworks and programming concepts. My projects mostly deal with automating various processes to save time and effort for others and myself. 
+
+An example of this is MoodleMate, a Python program that uses a self-written Moodle REST API wrapper to retrieve notifications from most Moodle learning platforms and forward them to various notification services such as Discord to have all the information at a certain point so that you don't lose track. MoodleMate is one of the projects I've been working on the longest, as I keep coming up with better ways to improve communication and other aspects, from several codebase restructurings to containerizing the project into a simple docker container so that the program works properly on all instances.
+
+I am also very familiar with graphics and some 3D design, so I like to create new design concepts for my projects, logos, design websites or try to get involved creatively in other places.
 </div>
 
 <br clear="left"/>
@@ -27,8 +31,6 @@
 - 🔬 Currently focusing on new coding paradigms and design workflows  
 - 👀 I enjoy working with GUIs, graphics, and some 3D modeling  
 - 🌱 Learning about advanced DevOps principles and containerization  
-- 💬 Ask me about anything from automation to dabbling in RESTful APIs  
-<!-- - 🦾 Occasionally I toy with game engines and real-time rendering tools   -->
 
 <br>
 
@@ -38,7 +40,7 @@
 
 | **Category**          | **Technologies**                                                                                                 |
 |-----------------------|------------------------------------------------------------------------------------------------------------------|
-| **Programming**       | `Python`, `Java`                                                                                                 |
+| **Programming**       | `Python`, `Java`,`Rust`                                                                                           |
 | **Databases**         | `SQL (MySQL, SQLite, MariaDB)`                                                                                   |
 | **IDEs**              | `JetBrains (IntelliJ)`, `VS Code`, `Zed`                                                                         |
 | **Operating Systems** | `Linux (EndeavourOS, CachyOS, Debian, Ubuntu)`, `Windows`                                                        |
