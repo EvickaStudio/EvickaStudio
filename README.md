@@ -1,15 +1,15 @@
-[![My-Banner](https://cdn.evickastudio.de/static/media/render.webp)](#)
+
 
 <div>
   <img
        align="left"
-       src="https://cdn.evickastudio.de/static/media/logo_light.svg"
+       src="https://raw.githubusercontent.com/EvickaStudio/EvickaStudio/refs/heads/main/ev.gif"
        alt="Transparent Evicka EV Logo"
        width="200"
        style="margin-right: 20px; margin-bottom: 20px;"
   />
 
-# Hey, I'm Erik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hey, I'm Erik
 
   I am a **Computer Science & Software Engineering** student from Germany. I am currently focusing mainly on learning new programming languages and expanding my programming skills in programming languages I already know, as well as frameworks and programming concepts. My projects mostly deal with automating various processes to save time and effort for others and myself. 
 
