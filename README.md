@@ -1,7 +1,7 @@
 <div>
   <img
        align="left"
-       src="https://raw.githubusercontent.com/EvickaStudio/EvickaStudio/refs/heads/main/ev.gif"
+       src="https://raw.githubusercontent.com/EvickaStudio/EvickaStudio/refs/heads/main/evfinal.gif"
        alt="Transparent Evicka EV Logo"
        width="200"
        style="margin-right: 20px; margin-bottom: 20px;"
