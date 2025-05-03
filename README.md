@@ -48,24 +48,6 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ---
 
-## 🛠️ Setup
-
-### 🖥️ Hardware
-
-#### Desktop
-
-- **CPU**: AMD Ryzen 5 3600
-- **GPU**: NVIDIA RTX 2070 Super
-- **RAM**: 16 GB DDR4
-
-#### Laptop
-
-- **CPU**: Intel Core i7-1260p
-- **GPU**: Intel Iris Xe
-- **RAM**: 16 GB DDR5
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
