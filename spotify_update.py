@@ -4,6 +4,9 @@ import base64
 import requests
 import re
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
 
 SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
 CURRENTLY_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
@@ -83,6 +86,7 @@ def generate_markdown():
 
 def update_readme():
     snippet = generate_markdown()
+    print("DEBUG: Spotify snippet\n" + snippet)
     try:
         with open("README.md", "r", encoding="utf-8") as f:
             content = f.read()
