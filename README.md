@@ -96,17 +96,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<img src="https://i.scdn.co/image/ab67616d0000b273aa9c9efc9a5509baea585572" alt="Cover Art" width="100"/>
-**[Corduroy Couch](https://open.spotify.com/track/29By44i2i7g0m9lb478kEW)** by Brown Horse
-Album: All The Right Weaknesses
-2:55 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 4:24
+<img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" alt="Cover Art" width="100"/>
+**[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand
+Album: Franz Ferdinand
+3:24 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 3:57
 
 ### 📜 Recently Played
-<img src="https://i.scdn.co/image/ab67616d0000485190a8571786d2c2be4262503c" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Melodie Is A Wound](https://open.spotify.com/track/1qCOC3y2zuswTq6PZoL2ID)** by Stereolab
-<img src="https://i.scdn.co/image/ab67616d0000485190a8571786d2c2be4262503c" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Aerial Troubles](https://open.spotify.com/track/4Qnub0myMdKdCdymx5cS3d)** by Stereolab
-<img src="https://i.scdn.co/image/ab67616d0000485190a8571786d2c2be4262503c" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Mystical Plosives](https://open.spotify.com/track/0Etfi5oTtqTj5M1lb6SJ35)** by Stereolab
-<img src="https://i.scdn.co/image/ab67616d000048516a7ffb7ecffe490b3abd82af" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5)** by The Mamas & The Papas
-<img src="https://i.scdn.co/image/ab67616d000048510409f5f74c3acc5d35ecdbbd" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Paper Machine](https://open.spotify.com/track/259op6g3A12uwePehZntdk)** by 藤丸バンド
+<img src="https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo)** by The Police
+<img src="https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by The Police
+<img src="https://i.scdn.co/image/ab67616d0000485147a51205061053303846cb79" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex
+<img src="https://i.scdn.co/image/ab67616d00004851aa9c9efc9a5509baea585572" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Verna Bloom](https://open.spotify.com/track/6shim8dQM9t0jZVvBZQHOd)** by Brown Horse
+<img src="https://i.scdn.co/image/ab67616d000048516c7112082b63beefffe40151" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by Radiohead
 
-_Last updated: 2025-05-30 16:15:42Z UTC_
+_Last updated: 2025-05-30 16:45:21Z UTC_
 <!-- SPOTIFY-END -->
