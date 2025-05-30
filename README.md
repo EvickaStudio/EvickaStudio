@@ -9,12 +9,11 @@
 </div>
 Hey, I'm Erik
 
-  I am a **Computer Science & Software Engineering** student from Germany. I am currently focusing mainly on learning new programming languages and expanding my programming skills in programming languages I already know, as well as frameworks and programming concepts. My projects mostly deal with automating various processes to save time and effort for others and myself. 
+  I am a **Computer Science & Software Engineering** student from Germany. I am currently focusing mainly on learning new programming languages and expanding my programming skills in programming languages I already know, as well as frameworks and programming concepts. My projects mostly deal with automating various processes to save time and effort for others and myself.
 
 An example of this is MoodleMate, a Python program that uses a self-written Moodle REST API wrapper to retrieve notifications from most Moodle learning platforms and forward them to various notification services such as Discord to have all the information at a certain point so that you don't lose track. MoodleMate is one of the projects I've been working on the longest, as I keep coming up with better ways to improve communication and other aspects, from several codebase restructurings to containerizing the project into a simple docker container so that the program works properly on all instances.
 
 I am also very familiar with graphics and some 3D design, so I like to create new design concepts for my projects, logos, design websites or try to get involved creatively in other places.
-
 
 <br clear="left"/>
 
@@ -91,4 +90,10 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
   />
 </p>
 
----
+ ---
+
+## 🎧 Spotify
+
+<!-- SPOTIFY-START -->
+*Loading Spotify data...*
+<!-- SPOTIFY-END -->
