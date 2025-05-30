@@ -96,14 +96,22 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27323b8d9fab5f1622562e9949e" alt="Cover Art" width="120"/>
+</p>
+
+**[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)**
+by LVL1
+Album: PLAY
+
+1:53 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 3:07
 
 ### 📜 Recently Played
+- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
+- **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida (Classical Current)
 - **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by dreamcache (esc)
 - **[Easy Lovers - Alternate Take](https://open.spotify.com/track/17wn00VCpnwY2GVIiLyXdD)** by Piero Piccioni (Camille 2000 (Original Motion Picture Soundtrack))
 - **[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)** by Mort Garson (Mother Earth's Plantasia)
-- **[ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ)** by セキトオ・シゲオ (華麗なるエレクトーン -ザ・ワード-)
-- **[Efficace Swing](https://open.spotify.com/track/4RduagyN6mPKY5h81Gzb8P)** by Cortex (Cortex, Vol. 2)
 
-_Last updated: 2025-05-30 17:29:33Z UTC_
+_Last updated: 2025-05-30 17:44:15Z UTC_
 <!-- SPOTIFY-END -->
