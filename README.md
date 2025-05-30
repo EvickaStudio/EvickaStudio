@@ -99,31 +99,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 Not playing anything right now.
 
 ### 📜 Recently Played
-<img src="https://i.scdn.co/image/ab67616d00004851bcdc5625685ad7a01a744f8b" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/>
-[Easy Lovers - Alternate Take](https://open.spotify.com/track/17wn00VCpnwY2GVIiLyXdD)
-by Piero Piccioni
-Album: Camille 2000 (Original Motion Picture Soundtrack)
+- **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by dreamcache (esc)
+- **[Easy Lovers - Alternate Take](https://open.spotify.com/track/17wn00VCpnwY2GVIiLyXdD)** by Piero Piccioni (Camille 2000 (Original Motion Picture Soundtrack))
+- **[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)** by Mort Garson (Mother Earth's Plantasia)
+- **[ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ)** by セキトオ・シゲオ (華麗なるエレクトーン -ザ・ワード-)
+- **[Efficace Swing](https://open.spotify.com/track/4RduagyN6mPKY5h81Gzb8P)** by Cortex (Cortex, Vol. 2)
 
-<img src="https://i.scdn.co/image/ab67616d0000485119112975fac887f75c0b095b" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/>
-[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)
-by Mort Garson
-Album: Mother Earth's Plantasia
-
-<img src="https://i.scdn.co/image/ab67616d00004851583e3a677882a4a4e7115234" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/>
-[ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ)
-by セキトオ・シゲオ
-Album: 華麗なるエレクトーン -ザ・ワード-
-
-<img src="https://i.scdn.co/image/ab67616d00004851b58aae7b21918689bd2ee7a0" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/>
-[Efficace Swing](https://open.spotify.com/track/4RduagyN6mPKY5h81Gzb8P)
-by Cortex
-Album: Cortex, Vol. 2
-
-<img src="https://i.scdn.co/image/ab67616d00004851fab13dc56058ea0dfb124dc7" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/>
-[Mahè](https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq)
-by Piero Umiliani
-Album: La ragazza dalla pelle di luna
-
-
-_Last updated: 2025-05-30 17:24:59Z UTC_
+_Last updated: 2025-05-30 17:29:33Z UTC_
 <!-- SPOTIFY-END -->
