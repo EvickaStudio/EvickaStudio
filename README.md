@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730549784d17946caf93ae74fc" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27381a3294d8cb52667c8701e6f" alt="Cover Art" width="120"/>
 </p>
 
-**[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)**
-by Lilac
-Album: amiss (+ winter)
+**[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)**
+by Santigold
+Album: Master of My Make-Believe
 
-1:37 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:13
+3:59 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 4:44
 
 ### 📜 Recently Played
+- **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by Ritter Lean (Einsame Insel)
+- **[Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR)** by Lorde (Melodrama)
+- **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by RudeClub (rated R)
+- **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by Lilac (amiss (+ winter))
 - **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by archive computer (soul doubt)
-- **[LOST ALL HOPE\\](https://open.spotify.com/track/36e2Pi2XN5hr4EqynImfCU)** by Zaram, LuvKaiju (LOST ALL HOPE\\)
-- **[Raindrops](https://open.spotify.com/track/52TTlu9jMl55vDnXnwQkcs)** by Nokia Angel (Raindrops)
-- **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by t0ni (EXIT LIFE)
-- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by S1RENA (Bildschirm)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: amiss (+ winter)
 4. [upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)
 5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-05-30 19:34:02Z UTC_
+_Last updated: 2025-05-30 19:48:01Z UTC_
 <!-- SPOTIFY-END -->
