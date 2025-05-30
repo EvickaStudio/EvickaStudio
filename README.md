@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738244ce3d50d625e462f971b8" alt="Cover Art" width="120"/>
 </p>
 
-**[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
-by Led Zeppelin
-Album: Led Zeppelin IV (Deluxe Edition)
+**[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)**
+by Skepsiz, headless_DATA
+Album: PUNK PARADOX!
 
-1:33 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 8:02
+1:08 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 2:50
 
 ### 📜 Recently Played
-- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
-- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
-- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
-- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
-- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
+- **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by Enquirer (for you)
+- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by Basement Jaxx, 100 gecs (where's my head at _)
+- **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex (Troupeau bleu)
+- **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by pluko (OXY)
 
-_Last updated: 2025-05-30 17:54:53Z UTC_
+_Last updated: 2025-05-30 18:27:08Z UTC_
 <!-- SPOTIFY-END -->
