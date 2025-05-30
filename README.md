@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27302859310b61e59756abb90ad" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e" alt="Cover Art" width="120"/>
 </p>
 
-**[Space Song](https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2)**
-by Beach House
-Album: Depression Cherry
+**[Exchange](https://open.spotify.com/track/2HuMQkNVpFIsur2cRWWQmX)**
+by Massive Attack
+Album: Mezzanine
 
-4:06 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 5:20
+1:14 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:11
 
 ### 📜 Recently Played
-- **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by Aphex Twin (Come To Daddy)
-- **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by Starship (Knee Deep In The Hoopla)
-- **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by jonatan leandoer96 (Nectar)
-- **[The Beginning](https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR)** by Flawed Mangoes (Killswitch Melodies)
-- **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by Woesum, Bladee (Blue Summer)
+- **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by Duster (Capsule Losing Contact)
+- **[Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr)** by Radiohead (OK Computer)
+- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by DVRKLXGHT (EUPHORIA)
+- **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by Clams Casino, Imogen Heap (Instrumental Relics)
+- **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by Sidewalks and Skeletons (White Light)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Depression Cherry
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 23:12:02Z UTC_
+_Last updated: 2025-05-30 23:29:25Z UTC_
 <!-- SPOTIFY-END -->
