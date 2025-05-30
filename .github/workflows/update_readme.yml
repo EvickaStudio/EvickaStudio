@@ -1,5 +1,8 @@
 name: Update README with Spotify Data
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '*/30 * * * *'
