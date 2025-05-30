@@ -61,7 +61,7 @@ def callback() -> Union[str, Tuple[str, int]]:
 
 def main() -> None:
     # Open Spotify auth URL
-    scopes = "user-read-currently-playing user-read-recently-played"
+    scopes = "user-read-currently-playing user-read-recently-played user-top-read"  # noqa: E501
     auth_url = (
         "https://accounts.spotify.com/authorize"
         f"?client_id={CLIENT_ID}"
