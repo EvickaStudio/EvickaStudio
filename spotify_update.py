@@ -5,7 +5,6 @@ import requests
 import re
 from datetime import datetime
 
-
 SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
 CURRENTLY_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
 RECENTLY_PLAYED_URL = "https://api.spotify.com/v1/me/player/recently-played?limit=5"
@@ -36,7 +35,20 @@ def get_currently_playing(token):
     artists = ", ".join([artist["name"] for artist in item.get("artists", [])])
     name = item.get("name")
     url = item.get("external_urls", {}).get("spotify")
-    return f"[{name} by {artists}]({url})"
+    album = item.get("album", {}).get("name", "")
+    images = item.get("album", {}).get("images", [])
+    cover_url = images[0]["url"] if images else ""
+    duration_ms = item.get("duration_ms", 0)
+    progress_ms = data.get("progress_ms", 0)
+    return {
+        "name": name,
+        "artists": artists,
+        "album": album,
+        "url": url,
+        "cover_url": cover_url,
+        "duration_ms": duration_ms,
+        "progress_ms": progress_ms
+    }
 
 def get_recently_played(token):
     headers = {"Authorization": f"Bearer {token}"}
@@ -49,8 +61,29 @@ def get_recently_played(token):
         artists = ", ".join([artist["name"] for artist in item.get("artists", [])])
         name = item.get("name")
         url = item.get("external_urls", {}).get("spotify")
-        tracks.append(f"- [{name} by {artists}]({url})")
+        album = item.get("album", {}).get("name", "")
+        images = item.get("album", {}).get("images", [])
+        cover_url = images[-1]["url"] if images else ""
+        tracks.append({
+            "name": name,
+            "artists": artists,
+            "album": album,
+            "url": url,
+            "cover_url": cover_url
+        })
     return tracks
+
+def format_duration(ms):
+    minutes = ms // 60000
+    seconds = (ms % 60000) // 1000
+    return f"{minutes}:{seconds:02d}"
+
+def create_progress_bar(progress_ms, duration_ms, width=20):
+    if not progress_ms or not duration_ms:
+        return "▬" * width
+    progress = min(progress_ms / duration_ms, 1.0)
+    filled = int(progress * width)
+    return "▬" * filled + "🔘" + "▬" * (width - filled - 1)
 
 def generate_markdown():
     client_id = os.getenv("SPOTIFY_CLIENT_ID")
@@ -62,24 +95,31 @@ def generate_markdown():
         token = get_access_token(client_id, client_secret, refresh_token)
     except Exception as e:
         return f"**Error refreshing Spotify token**: {e}"
-    now_playing = get_currently_playing(token)
-    recently_played = []
+    now = get_currently_playing(token)
+    recent = []
     try:
-        recently_played = get_recently_played(token)
+        recent = get_recently_played(token)
     except Exception:
-        recently_played = []
+        recent = []
     md = []
     md.append("### 🟢 Now Playing")
-    if now_playing:
-        md.append(f"- {now_playing}")
+    if now:
+        md.append(f"<img src=\"{now['cover_url']}\" alt=\"Cover Art\" width=\"100\"/>")
+        md.append(f"**[{now['name']}]({now['url']})** by {now['artists']}")
+        md.append(f"Album: {now['album']}")
+        md.append(f"{format_duration(now['progress_ms'])} {create_progress_bar(now['progress_ms'], now['duration_ms'])} {format_duration(now['duration_ms'])}")
     else:
-        md.append("- Not playing anything right now.")
+        md.append("Not playing anything right now.")
     md.append("")
     md.append("### 📜 Recently Played")
-    if recently_played:
-        md.extend(recently_played)
+    if recent:
+        for track in recent:
+            md.append(f"<img src=\"{track['cover_url']}\" alt=\"Cover Art\" width=\"64\" style=\"vertical-align:middle;margin-right:10px;\"/> "
+                      f"**[{track['name']}]({track['url']})** by {track['artists']}")
     else:
-        md.append("- No recently played tracks.")
+        md.append("No recently played tracks.")
+    md.append("")
+    md.append(f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%SZ')} UTC_")
     return "\n".join(md)
 
 def update_readme():
