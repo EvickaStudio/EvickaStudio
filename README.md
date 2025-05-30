@@ -96,22 +96,14 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" alt="Cover Art" width="120"/>
-</p>
-
-**[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)**
-by Tyler, The Creator
-Album: IGOR
-
-2:37 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:15
+Not playing anything right now.
 
 ### 📜 Recently Played
-- **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by southstar (Miss You)
-- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by Baby B3ns, Yung Hurn (Liebe in Stereo)
-- **[Hubba Bubba](https://open.spotify.com/track/1LhYl7a5VxCqpD1NgOhUJa)** by Ski Aggu (2022 war film gewesen)
-- **[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)** by DJ Traytex (All Good Things (Come To An End))
-- **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by Yung Hurn, Brutalismus 3000 (ALLEINE (Brutalismus 3000 RMX))
+- **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by Freddie Dredd (Suffer)
+- **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/5RuROg27RZTvqixblmzYG5)** by Fred again.., Swedish House Mafia, Future (USB)
+- **[Cola - Sped Up Version](https://open.spotify.com/track/0WdpnMtkBOmVTk17tCWQfj)** by sped up nightcore (Cola (Sped Up Version))
+- **[Want To Love - Just Raw](https://open.spotify.com/track/3DJsIwc3Z9scW5yR3wnyjf)** by Aloboi (Raw Tracks and Reworks)
+- **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by Tyler, The Creator (IGOR)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +119,5 @@ Album: IGOR
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 20:50:34Z UTC_
+_Last updated: 2025-05-30 21:11:12Z UTC_
 <!-- SPOTIFY-END -->
