@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386c3c5c43eac883f9252e2dd" alt="Cover Art" width="120"/>
 </p>
 
-**[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)**
-by Deftones
-Album: Diamond Eyes
+**[bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb)**
+by Fantasy Camp
+Album: long way home
 
-1:30 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:32
+1:39 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:06
 
 ### 📜 Recently Played
-- **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by Kanye West, DJ Premier (Graduation)
-- **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by Mediavolo (A Secret Sound)
-- **[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)** by Juli (Es ist Juli)
-- **[Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u)** by Beach House (Beach House)
-- **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by DR0NE3 (Built This Way (Slowed))
+- **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by Radiohead (Kid A)
+- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by jonatan leandoer96 (Under Heaven)
+- **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by Bladee (333)
+- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by Novulent (unknown feelings)
+- **[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)** by Deftones (Diamond Eyes)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Diamond Eyes
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 22:33:07Z UTC_
+_Last updated: 2025-05-30 22:48:43Z UTC_
 <!-- SPOTIFY-END -->
