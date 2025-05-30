@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733174a9f789d91a20d3ef14aa" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ee3e3c7bca1637a6a1c4fd79" alt="Cover Art" width="120"/>
 </p>
 
-**[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)**
-by Masayoshi Takanaka
-Album: SEYCHELLES
+**[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)**
+by Elusin
+Album: SYNFUELS
 
-3:33 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 4:12
+1:23 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:33
 
 ### 📜 Recently Played
+- **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by Thundercat (It Is What It Is)
+- **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by Empire Of The Sun (Walking On A Dream (10th Anniversary Edition))
+- **[Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j)** by Kavinsky (Nightcall)
+- **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by Masayoshi Takanaka (SEYCHELLES)
 - **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
-- **[Waste My Mind](https://open.spotify.com/track/6NP8HBlNKQzsq8K9O5dK0f)** by ThxSoMch (Waste My Mind)
-- **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by quannnic (kenopsia)
-- **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by Deftones (Around the Fur)
-- **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by Superheaven (Ours Is Chrome)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: SEYCHELLES
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 21:37:49Z UTC_
+_Last updated: 2025-05-30 21:47:45Z UTC_
 <!-- SPOTIFY-END -->
