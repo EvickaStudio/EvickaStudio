@@ -95,5 +95,13 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ## 🎧 Spotify
 
 <!-- SPOTIFY-START -->
-*Loading Spotify data...*
+### 🟢 Now Playing
+- [DELILAH by Bktherula](https://open.spotify.com/track/5g4Bh7TJ8dM8dCfGsD7822)
+
+### 📜 Recently Played
+- [Willst du by Dilla, emi x](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)
+- [On The Floor by Jennifer Lopez, Pitbull](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)
+- [UNISEXKLO by Ikkimel, Lucry & Suena](https://open.spotify.com/track/4hRzKXmuyPUDL71Wb7YG59)
+- [Carmen Blues by Alberto Baldan Bembo](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)
+- [Love Theme by Michael Small](https://open.spotify.com/track/1w5LNMQslctoeOwoQjwqnu)
 <!-- SPOTIFY-END -->
