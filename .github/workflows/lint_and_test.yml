@@ -24,4 +24,4 @@ jobs:
       - name: Run lint
         run: flake8
       - name: Run tests
-        run: pytest --maxfail=1 --disable-warnings -q
+        run: python -m pytest --maxfail=1 --disable-warnings -q
