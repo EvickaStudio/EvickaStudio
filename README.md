@@ -96,17 +96,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<img src="https://i.scdn.co/image/ab67616d0000b273161d1f6c7b990b840972ce4c" alt="Cover Art" width="100"/>
-**[GUEST LIST](https://open.spotify.com/track/3jSUNWdgF5XvkBh7Dk2ugb)** by Ifeme C.S., Suurshi
-Album: GUEST LIST
-1:41 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:14
+<img src="https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc" alt="Cover Art" width="100"/>
+**[What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l)** by Marvin Gaye
+Album: What's Going On
+2:02 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:53
 
 ### 📜 Recently Played
-<img src="https://i.scdn.co/image/ab67616d000048511ee6732ccb8f07bd15b33beb" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Peace Be Unto You (PBUY)](https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0)** by Asake
-<img src="https://i.scdn.co/image/ab67616d000048510b9a2e9ae3e1a8b328bfe56d" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by Charli xcx
-<img src="https://i.scdn.co/image/ab67616d000048511a246fe6f19c189a558a553d" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[DELILAH](https://open.spotify.com/track/5g4Bh7TJ8dM8dCfGsD7822)** by Bktherula
-<img src="https://i.scdn.co/image/ab67616d00004851bc64ea02e431dde41250a817" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by Dilla, emi x
-<img src="https://i.scdn.co/image/ab67616d00004851d7b2aa3834b82b1cbe899a48" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by Jennifer Lopez, Pitbull
+<img src="https://i.scdn.co/image/ab67616d00004851df636d19d4b1759a55490d43" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso)** by Roy Ayers Ubiquity
+<img src="https://i.scdn.co/image/ab67616d00004851584302fee10c0d0a12c40c97" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by Sade
+<img src="https://i.scdn.co/image/ab67616d000048513f850168b013e9646c15e209" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo)** by Ojerime
+<img src="https://i.scdn.co/image/ab67616d000048510d920d65d4e7c30cedc5eb53" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town
+<img src="https://i.scdn.co/image/ab67616d000048518613cdc715d4fd0af252a715" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx)** by SPINALL, Omah Lay, Tyla
 
-_Last updated: 2025-05-30 15:13:02Z UTC_
+_Last updated: 2025-05-30 15:39:30Z UTC_
 <!-- SPOTIFY-END -->
