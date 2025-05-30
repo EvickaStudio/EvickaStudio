@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27386c3c5c43eac883f9252e2dd" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27302859310b61e59756abb90ad" alt="Cover Art" width="120"/>
 </p>
 
-**[bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb)**
-by Fantasy Camp
-Album: long way home
+**[Space Song](https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2)**
+by Beach House
+Album: Depression Cherry
 
-1:39 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:06
+4:06 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 5:20
 
 ### 📜 Recently Played
-- **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by Radiohead (Kid A)
-- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by jonatan leandoer96 (Under Heaven)
-- **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by Bladee (333)
-- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by Novulent (unknown feelings)
-- **[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)** by Deftones (Diamond Eyes)
+- **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by Aphex Twin (Come To Daddy)
+- **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by Starship (Knee Deep In The Hoopla)
+- **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by jonatan leandoer96 (Nectar)
+- **[The Beginning](https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR)** by Flawed Mangoes (Killswitch Melodies)
+- **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by Woesum, Bladee (Blue Summer)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: long way home
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 22:48:43Z UTC_
+_Last updated: 2025-05-30 23:12:02Z UTC_
 <!-- SPOTIFY-END -->
