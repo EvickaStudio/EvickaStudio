@@ -3,14 +3,17 @@
 Script to obtain Spotify OAuth refresh token.
 Requires:
   pip install flask requests
-Ensure SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET are set as environment variables.
+Ensure SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET are set as
+environment variables.
 """
 
 import os
-import requests
 import webbrowser
-from flask import Flask, request
+from typing import Tuple, Union
+
+import requests  # type: ignore
 from dotenv import load_dotenv
+from flask import Flask, request
 
 load_dotenv()
 
@@ -21,11 +24,14 @@ REDIRECT_URI = "http://127.0.0.1:8888/callback"
 TOKEN_URL = "https://accounts.spotify.com/api/token"
 
 if not CLIENT_ID or not CLIENT_SECRET:
-    print("Error: Set SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET environment variables.")
+    print(
+        "Error: Set SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET environment variables."  # noqa: E501
+    )
     exit(1)
 
+
 @app.route("/callback")
-def callback():
+def callback() -> Union[str, Tuple[str, int]]:
     code = request.args.get("code")
     if not code:
         return "Error: Missing code parameter.", 400
@@ -50,9 +56,10 @@ def callback():
     shutdown = request.environ.get("werkzeug.server.shutdown")
     if shutdown:
         shutdown()
-    return f"<html><body><h1>Success</h1><p>Copy your refresh token:</p><pre>{refresh_token}</pre></body></html>"
+    return f"<html><body><h1>Success</h1><p>Copy your refresh token:</p><pre>{refresh_token}</pre></body></html>"  # noqa: E501
 
-def main():
+
+def main() -> None:
     # Open Spotify auth URL
     scopes = "user-read-currently-playing user-read-recently-played"
     auth_url = (
@@ -66,6 +73,7 @@ def main():
     webbrowser.open(auth_url)
     print("Waiting for callback and token exchange...")
     app.run(host="127.0.0.1", port=8888)
+
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,4 @@
+spotipy>=2.22.0
+requests>=2.25.1
+python-dotenv>=0.21.0
+types-requests>=2.32.0.20250515

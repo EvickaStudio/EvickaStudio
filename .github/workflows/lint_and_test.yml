@@ -1,0 +1,27 @@
+name: Lint & Test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: lint-and-test
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dev dependencies
+        run: pip install -r requirements-dev.txt
+      - name: Run pre-commit
+        run: pre-commit run --all-files
+      - name: Run lint
+        run: flake8
+      - name: Run tests
+        run: pytest --maxfail=1 --disable-warnings -q

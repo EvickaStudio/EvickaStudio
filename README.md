@@ -1,7 +1,7 @@
 <div>
   <img
        align="left"
-       src="https://raw.githubusercontent.com/EvickaStudio/EvickaStudio/refs/heads/main/evfinal.gif"
+       src="assets/evfinal.gif"
        alt="Transparent Evicka EV Logo"
        width="200"
        style="margin-right: 20px; margin-bottom: 20px;"
@@ -19,7 +19,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ---
 
-![imgag](evkheadpostersmol.webp)
+![imgag](assets/evkheadpostersmol.webp)
 
 ---
 
@@ -29,9 +29,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
   <img align="left" height="180px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png" alt="Spacer" />
 </div>
 
-- 🔬 Currently focusing on new coding paradigms and design workflows  
-- 👀 I enjoy working with GUIs, graphics, and some 3D modeling  
-- 🌱 Learning about advanced DevOps principles and containerization  
+- 🔬 Currently focusing on new coding paradigms and design workflows
+- 👀 I enjoy working with GUIs, graphics, and some 3D modeling
+- 🌱 Learning about advanced DevOps principles and containerization
 
 <br>
 
@@ -113,5 +113,5 @@ Album: PUNK PARADOX!
 - **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex (Troupeau bleu)
 - **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by pluko (OXY)
 
-_Last updated: 2025-05-30 18:27:08Z UTC_
+_Last updated: 2025-05-30 17:54:53Z UTC_
 <!-- SPOTIFY-END -->
