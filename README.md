@@ -96,12 +96,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-- [DELILAH by Bktherula](https://open.spotify.com/track/5g4Bh7TJ8dM8dCfGsD7822)
+<img src="https://i.scdn.co/image/ab67616d0000b273161d1f6c7b990b840972ce4c" alt="Cover Art" width="100"/>
+**[GUEST LIST](https://open.spotify.com/track/3jSUNWdgF5XvkBh7Dk2ugb)** by Ifeme C.S., Suurshi
+Album: GUEST LIST
+0:33 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:14
 
 ### 📜 Recently Played
-- [Willst du by Dilla, emi x](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)
-- [On The Floor by Jennifer Lopez, Pitbull](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)
-- [UNISEXKLO by Ikkimel, Lucry & Suena](https://open.spotify.com/track/4hRzKXmuyPUDL71Wb7YG59)
-- [Carmen Blues by Alberto Baldan Bembo](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)
-- [Love Theme by Michael Small](https://open.spotify.com/track/1w5LNMQslctoeOwoQjwqnu)
+<img src="https://i.scdn.co/image/ab67616d000048511ee6732ccb8f07bd15b33beb" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Peace Be Unto You (PBUY)](https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0)** by Asake
+<img src="https://i.scdn.co/image/ab67616d000048510b9a2e9ae3e1a8b328bfe56d" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by Charli xcx
+<img src="https://i.scdn.co/image/ab67616d000048511a246fe6f19c189a558a553d" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[DELILAH](https://open.spotify.com/track/5g4Bh7TJ8dM8dCfGsD7822)** by Bktherula
+<img src="https://i.scdn.co/image/ab67616d00004851bc64ea02e431dde41250a817" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by Dilla, emi x
+<img src="https://i.scdn.co/image/ab67616d00004851d7b2aa3834b82b1cbe899a48" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by Jennifer Lopez, Pitbull
+
+_Last updated: 2025-05-30 15:11:55Z UTC_
 <!-- SPOTIFY-END -->
