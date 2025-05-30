@@ -99,7 +99,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <img src="https://i.scdn.co/image/ab67616d0000b273161d1f6c7b990b840972ce4c" alt="Cover Art" width="100"/>
 **[GUEST LIST](https://open.spotify.com/track/3jSUNWdgF5XvkBh7Dk2ugb)** by Ifeme C.S., Suurshi
 Album: GUEST LIST
-0:33 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:14
+1:41 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:14
 
 ### 📜 Recently Played
 <img src="https://i.scdn.co/image/ab67616d000048511ee6732ccb8f07bd15b33beb" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Peace Be Unto You (PBUY)](https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0)** by Asake
@@ -108,5 +108,5 @@ Album: GUEST LIST
 <img src="https://i.scdn.co/image/ab67616d00004851bc64ea02e431dde41250a817" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by Dilla, emi x
 <img src="https://i.scdn.co/image/ab67616d00004851d7b2aa3834b82b1cbe899a48" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by Jennifer Lopez, Pitbull
 
-_Last updated: 2025-05-30 15:11:55Z UTC_
+_Last updated: 2025-05-30 15:13:02Z UTC_
 <!-- SPOTIFY-END -->
