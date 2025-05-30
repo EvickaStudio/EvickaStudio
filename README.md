@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731bfaef6a7db928e9abc999ed" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730549784d17946caf93ae74fc" alt="Cover Art" width="120"/>
 </p>
 
-**[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)**
-by t0ni
-Album: EXIT LIFE
+**[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)**
+by Lilac
+Album: amiss (+ winter)
 
-0:28 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:18
+1:37 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:13
 
 ### 📜 Recently Played
-- **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by Bladee (Eversince)
-- **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by Yung Lean (Starz)
-- **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by RYLO (fern als heimweh)
-- **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by my!lane (Sakura's Shadows)
-- **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by akiaura, LONOWN, Olya Holiday (Midnight Skin)
+- **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by archive computer (soul doubt)
+- **[LOST ALL HOPE\\](https://open.spotify.com/track/36e2Pi2XN5hr4EqynImfCU)** by Zaram, LuvKaiju (LOST ALL HOPE\\)
+- **[Raindrops](https://open.spotify.com/track/52TTlu9jMl55vDnXnwQkcs)** by Nokia Angel (Raindrops)
+- **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by t0ni (EXIT LIFE)
+- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by S1RENA (Bildschirm)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: EXIT LIFE
 4. [upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)
 5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-05-30 19:24:00Z UTC_
+_Last updated: 2025-05-30 19:34:02Z UTC_
 <!-- SPOTIFY-END -->
