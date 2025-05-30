@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27323b8d9fab5f1622562e9949e" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120"/>
 </p>
 
-**[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)**
-by LVL1
-Album: PLAY
+**[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
+by Led Zeppelin
+Album: Led Zeppelin IV (Deluxe Edition)
 
-1:53 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 3:07
+1:33 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 8:02
 
 ### 📜 Recently Played
+- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
+- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
+- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
 - **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
-- **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida (Classical Current)
-- **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by dreamcache (esc)
-- **[Easy Lovers - Alternate Take](https://open.spotify.com/track/17wn00VCpnwY2GVIiLyXdD)** by Piero Piccioni (Camille 2000 (Original Motion Picture Soundtrack))
-- **[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)** by Mort Garson (Mother Earth's Plantasia)
 
-_Last updated: 2025-05-30 17:44:15Z UTC_
+_Last updated: 2025-05-30 17:54:53Z UTC_
 <!-- SPOTIFY-END -->
