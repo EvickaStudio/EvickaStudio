@@ -4,9 +4,7 @@ import base64
 import requests
 import re
 from datetime import datetime
-from dotenv import load_dotenv
 
-load_dotenv()
 
 SPOTIFY_TOKEN_URL = "https://accounts.spotify.com/api/token"
 CURRENTLY_PLAYING_URL = "https://api.spotify.com/v1/me/player/currently-playing"
