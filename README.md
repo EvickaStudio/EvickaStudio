@@ -96,22 +96,14 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671" alt="Cover Art" width="120"/>
-</p>
-
-**[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)**
-by Hole
-Album: Celebrity Skin
-
-4:07 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 5:29
+Not playing anything right now.
 
 ### 📜 Recently Played
+- **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by Hole (Celebrity Skin)
 - **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by Aphex Twin (Selected Ambient Works 85-92)
 - **[Exchange](https://open.spotify.com/track/2HuMQkNVpFIsur2cRWWQmX)** by Massive Attack (Mezzanine)
 - **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by Duster (Capsule Losing Contact)
 - **[Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr)** by Radiohead (OK Computer)
-- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by DVRKLXGHT (EUPHORIA)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +119,5 @@ Album: Celebrity Skin
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 23:40:14Z UTC_
+_Last updated: 2025-05-30 23:47:52Z UTC_
 <!-- SPOTIFY-END -->
