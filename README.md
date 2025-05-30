@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335e4e4c3ba5906d638bfaf89" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15" alt="Cover Art" width="120"/>
 </p>
 
-**[IN A MOOD](https://open.spotify.com/track/6S607PgLLmP9NiZK4PY9m0)**
-by berryblue
-Album: GOT ME LIKE
+**[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)**
+by Deftones
+Album: Diamond Eyes
 
-2:04 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 3:07
+1:30 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:32
 
 ### 📜 Recently Played
-- **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by Kanye West, Dwele (Graduation)
-- **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by lil hero (pawwwfect!)
-- **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by Wisp (Pandora)
-- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by Crystal Castles (Amnesty (I))
-- **[Blissed](https://open.spotify.com/track/5dcG6HCp0jF90Fx2pRKycM)** by Suzy Sheer (Blissed)
+- **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by Kanye West, DJ Premier (Graduation)
+- **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by Mediavolo (A Secret Sound)
+- **[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)** by Juli (Es ist Juli)
+- **[Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u)** by Beach House (Beach House)
+- **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by DR0NE3 (Built This Way (Slowed))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: GOT ME LIKE
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 22:12:01Z UTC_
+_Last updated: 2025-05-30 22:33:07Z UTC_
 <!-- SPOTIFY-END -->
