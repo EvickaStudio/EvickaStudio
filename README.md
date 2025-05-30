@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273564a9a003ccbb2156629ac57" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a120fdc8cba308894bdd21c7" alt="Cover Art" width="120"/>
 </p>
 
-**[Morning Dew](https://open.spotify.com/track/0YkXRZcetpqI3VzjE9Sey6)**
-by Xavier Wulf, BONES
-Album: Caves
+**[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)**
+by Baby B3ns, Yung Hurn
+Album: Liebe in Stereo
 
-1:16 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 3:13
+2:44 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 3:10
 
 ### 📜 Recently Played
+- **[Hubba Bubba](https://open.spotify.com/track/1LhYl7a5VxCqpD1NgOhUJa)** by Ski Aggu (2022 war film gewesen)
+- **[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)** by DJ Traytex (All Good Things (Come To An End))
+- **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by Yung Hurn, Brutalismus 3000 (ALLEINE (Brutalismus 3000 RMX))
+- **[Morning Dew](https://open.spotify.com/track/0YkXRZcetpqI3VzjE9Sey6)** by Xavier Wulf, BONES (Caves)
 - **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by Cult Member, Mia Martina (U Weren't Here I Really Miss You (slowed))
-- **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by CRO (Raop)
-- **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by IVOXYGEN (Blurry World)
-- **[Dirty Secrets](https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5)** by d4vd (Dirty Secrets)
-- **[Fleece](https://open.spotify.com/track/2tdfTvq5PrseNIZIuJyz2v)** by Crystal Castles (Amnesty (I))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Caves
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 20:32:31Z UTC_
+_Last updated: 2025-05-30 20:44:21Z UTC_
 <!-- SPOTIFY-END -->
