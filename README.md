@@ -96,17 +96,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<img src="https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc" alt="Cover Art" width="100"/>
-**[What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l)** by Marvin Gaye
-Album: What's Going On
-2:02 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:53
+<img src="https://i.scdn.co/image/ab67616d0000b273aa9c9efc9a5509baea585572" alt="Cover Art" width="100"/>
+**[Corduroy Couch](https://open.spotify.com/track/29By44i2i7g0m9lb478kEW)** by Brown Horse
+Album: All The Right Weaknesses
+2:55 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 4:24
 
 ### 📜 Recently Played
-<img src="https://i.scdn.co/image/ab67616d00004851df636d19d4b1759a55490d43" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso)** by Roy Ayers Ubiquity
-<img src="https://i.scdn.co/image/ab67616d00004851584302fee10c0d0a12c40c97" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by Sade
-<img src="https://i.scdn.co/image/ab67616d000048513f850168b013e9646c15e209" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo)** by Ojerime
-<img src="https://i.scdn.co/image/ab67616d000048510d920d65d4e7c30cedc5eb53" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town
-<img src="https://i.scdn.co/image/ab67616d000048518613cdc715d4fd0af252a715" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx)** by SPINALL, Omah Lay, Tyla
+<img src="https://i.scdn.co/image/ab67616d0000485190a8571786d2c2be4262503c" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Melodie Is A Wound](https://open.spotify.com/track/1qCOC3y2zuswTq6PZoL2ID)** by Stereolab
+<img src="https://i.scdn.co/image/ab67616d0000485190a8571786d2c2be4262503c" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Aerial Troubles](https://open.spotify.com/track/4Qnub0myMdKdCdymx5cS3d)** by Stereolab
+<img src="https://i.scdn.co/image/ab67616d0000485190a8571786d2c2be4262503c" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Mystical Plosives](https://open.spotify.com/track/0Etfi5oTtqTj5M1lb6SJ35)** by Stereolab
+<img src="https://i.scdn.co/image/ab67616d000048516a7ffb7ecffe490b3abd82af" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5)** by The Mamas & The Papas
+<img src="https://i.scdn.co/image/ab67616d000048510409f5f74c3acc5d35ecdbbd" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Paper Machine](https://open.spotify.com/track/259op6g3A12uwePehZntdk)** by 藤丸バンド
 
-_Last updated: 2025-05-30 15:39:30Z UTC_
+_Last updated: 2025-05-30 16:15:42Z UTC_
 <!-- SPOTIFY-END -->
