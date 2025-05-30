@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273780766f32cfa6359c93ae2dc" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733174a9f789d91a20d3ef14aa" alt="Cover Art" width="120"/>
 </p>
 
-**[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)**
-by quannnic
-Album: kenopsia
+**[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)**
+by Masayoshi Takanaka
+Album: SEYCHELLES
 
-2:14 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 4:05
+3:33 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 4:12
 
 ### 📜 Recently Played
+- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
+- **[Waste My Mind](https://open.spotify.com/track/6NP8HBlNKQzsq8K9O5dK0f)** by ThxSoMch (Waste My Mind)
+- **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by quannnic (kenopsia)
 - **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by Deftones (Around the Fur)
 - **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by Superheaven (Ours Is Chrome)
-- **[Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)** by Dire Straits (Dire Straits)
-- **[Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm)** by John Williams, London Symphony Orchestra (Star Wars: A New Hope (Original Motion Picture Soundtrack))
-- **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by Freddie Dredd (Suffer)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: kenopsia
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 21:27:47Z UTC_
+_Last updated: 2025-05-30 21:37:49Z UTC_
 <!-- SPOTIFY-END -->
