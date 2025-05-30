@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c05580dbdc3782ffcf874f52" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273564a9a003ccbb2156629ac57" alt="Cover Art" width="120"/>
 </p>
 
-**[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)**
-by Mietze Conte
-Album: nanana
+**[Morning Dew](https://open.spotify.com/track/0YkXRZcetpqI3VzjE9Sey6)**
+by Xavier Wulf, BONES
+Album: Caves
 
-1:30 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 2:02
+1:16 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 3:13
 
 ### 📜 Recently Played
-- **[Ненавижу(?)](https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo)** by Xopowo (Ненавижу)
-- **[Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)** by Pixies (Surfer Rosa (2007 Remaster))
-- **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by Radiohead (In Rainbows)
-- **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by Foo Fighters (The Colour And The Shape)
-- **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by Basement (Colourmeinkindness)
+- **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by Cult Member, Mia Martina (U Weren't Here I Really Miss You (slowed))
+- **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by CRO (Raop)
+- **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by IVOXYGEN (Blurry World)
+- **[Dirty Secrets](https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5)** by d4vd (Dirty Secrets)
+- **[Fleece](https://open.spotify.com/track/2tdfTvq5PrseNIZIuJyz2v)** by Crystal Castles (Amnesty (I))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: nanana
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 20:13:53Z UTC_
+_Last updated: 2025-05-30 20:32:31Z UTC_
 <!-- SPOTIFY-END -->
