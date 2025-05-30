@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee3e3c7bca1637a6a1c4fd79" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27335e4e4c3ba5906d638bfaf89" alt="Cover Art" width="120"/>
 </p>
 
-**[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)**
-by Elusin
-Album: SYNFUELS
+**[IN A MOOD](https://open.spotify.com/track/6S607PgLLmP9NiZK4PY9m0)**
+by berryblue
+Album: GOT ME LIKE
 
-1:23 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:33
+2:04 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 3:07
 
 ### 📜 Recently Played
-- **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by Thundercat (It Is What It Is)
-- **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by Empire Of The Sun (Walking On A Dream (10th Anniversary Edition))
-- **[Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j)** by Kavinsky (Nightcall)
-- **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by Masayoshi Takanaka (SEYCHELLES)
-- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
+- **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by Kanye West, Dwele (Graduation)
+- **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by lil hero (pawwwfect!)
+- **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by Wisp (Pandora)
+- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by Crystal Castles (Amnesty (I))
+- **[Blissed](https://open.spotify.com/track/5dcG6HCp0jF90Fx2pRKycM)** by Suzy Sheer (Blissed)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: SYNFUELS
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 21:47:45Z UTC_
+_Last updated: 2025-05-30 22:12:01Z UTC_
 <!-- SPOTIFY-END -->
