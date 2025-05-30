@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671" alt="Cover Art" width="120"/>
 </p>
 
-**[Exchange](https://open.spotify.com/track/2HuMQkNVpFIsur2cRWWQmX)**
-by Massive Attack
-Album: Mezzanine
+**[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)**
+by Hole
+Album: Celebrity Skin
 
-1:14 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:11
+4:07 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 5:29
 
 ### 📜 Recently Played
+- **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by Aphex Twin (Selected Ambient Works 85-92)
+- **[Exchange](https://open.spotify.com/track/2HuMQkNVpFIsur2cRWWQmX)** by Massive Attack (Mezzanine)
 - **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by Duster (Capsule Losing Contact)
 - **[Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr)** by Radiohead (OK Computer)
 - **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by DVRKLXGHT (EUPHORIA)
-- **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by Clams Casino, Imogen Heap (Instrumental Relics)
-- **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by Sidewalks and Skeletons (White Light)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Mezzanine
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 23:29:25Z UTC_
+_Last updated: 2025-05-30 23:40:14Z UTC_
 <!-- SPOTIFY-END -->
