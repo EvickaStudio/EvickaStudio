@@ -104,9 +104,14 @@ def generate_markdown():
     md = []
     md.append("### 🟢 Now Playing")
     if now:
-        md.append(f"<img src=\"{now['cover_url']}\" alt=\"Cover Art\" width=\"100\"/>")
-        md.append(f"**[{now['name']}]({now['url']})** by {now['artists']}")
+        md.append("<p align=\"center\">")
+        md.append(f"<img src=\"{now['cover_url']}\" alt=\"Cover Art\" width=\"120\"/>")
+        md.append("</p>")
+        md.append("")
+        md.append(f"[{now['name']}]({now['url']})")
+        md.append(f"by {now['artists']}")
         md.append(f"Album: {now['album']}")
+        md.append("")
         md.append(f"{format_duration(now['progress_ms'])} {create_progress_bar(now['progress_ms'], now['duration_ms'])} {format_duration(now['duration_ms'])}")
     else:
         md.append("Not playing anything right now.")
@@ -114,8 +119,11 @@ def generate_markdown():
     md.append("### 📜 Recently Played")
     if recent:
         for track in recent:
-            md.append(f"<img src=\"{track['cover_url']}\" alt=\"Cover Art\" width=\"64\" style=\"vertical-align:middle;margin-right:10px;\"/> "
-                      f"**[{track['name']}]({track['url']})** by {track['artists']}")
+            md.append(f"<img src=\"{track['cover_url']}\" alt=\"Cover Art\" width=\"64\" style=\"vertical-align:middle;margin-right:10px;\"/>")
+            md.append(f"[{track['name']}]({track['url']})")
+            md.append(f"by {track['artists']}")
+            md.append(f"Album: {track['album']}")
+            md.append("")
     else:
         md.append("No recently played tracks.")
     md.append("")
