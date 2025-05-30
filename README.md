@@ -96,17 +96,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" alt="Cover Art" width="100"/>
-**[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand
-Album: Franz Ferdinand
-3:24 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 3:57
+<img src="https://i.scdn.co/image/ab67616d0000b27319112975fac887f75c0b095b" alt="Cover Art" width="100"/>
+**[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)** by Mort Garson
+Album: Mother Earth's Plantasia
+1:03 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 2:58
 
 ### 📜 Recently Played
-<img src="https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo)** by The Police
-<img src="https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by The Police
-<img src="https://i.scdn.co/image/ab67616d0000485147a51205061053303846cb79" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex
-<img src="https://i.scdn.co/image/ab67616d00004851aa9c9efc9a5509baea585572" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Verna Bloom](https://open.spotify.com/track/6shim8dQM9t0jZVvBZQHOd)** by Brown Horse
-<img src="https://i.scdn.co/image/ab67616d000048516c7112082b63beefffe40151" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by Radiohead
+<img src="https://i.scdn.co/image/ab67616d00004851583e3a677882a4a4e7115234" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ)** by セキトオ・シゲオ
+<img src="https://i.scdn.co/image/ab67616d00004851b58aae7b21918689bd2ee7a0" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Efficace Swing](https://open.spotify.com/track/4RduagyN6mPKY5h81Gzb8P)** by Cortex
+<img src="https://i.scdn.co/image/ab67616d00004851fab13dc56058ea0dfb124dc7" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[Mahè](https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq)** by Piero Umiliani
+<img src="https://i.scdn.co/image/ab67616d000048512832c76386b5931717eddd3f" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno)** by André 3000
+<img src="https://i.scdn.co/image/ab67616d00004851bb61ea59e6648c11454b5bfe" alt="Cover Art" width="64" style="vertical-align:middle;margin-right:10px;"/> **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida
 
-_Last updated: 2025-05-30 16:45:21Z UTC_
+_Last updated: 2025-05-30 17:11:18Z UTC_
 <!-- SPOTIFY-END -->
