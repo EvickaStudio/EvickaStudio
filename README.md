@@ -97,27 +97,35 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a2bee75d84d48e6f0bb6df0c" alt="Cover Art" width="120"/>
 </p>
 
-**[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)**
-by jonatan leandoer96, Frederik Valentin
-Album: Sugar World
+**[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)**
+by akiaura, LONOWN, Olya Holiday
+Album: Midnight Skin
 
-0:14 ▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:56
+0:42 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:20
 
 ### 📜 Recently Played
-- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by ChromeStylist (Erotica)
-- **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by meat computer (how it feels to get run over)
-- **[Nostalgia - Rhythm Version](https://open.spotify.com/track/5wDyH8jsJYgqmmvanjG39y)** by Piero Umiliani (La ragazza fuori strada)
-- **[Mary et Jeff](https://open.spotify.com/track/0ztpWjYYFWQaw5DnPDIYkl)** by Cortex (Troupeau bleu)
-- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by DJmegan23, BBY GOYARD (Seraphim Ballads)
+- **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by Baby B3ns (Herzcrash)
+- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by Snow Strippers (The Snow Strippers)
+- **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by Men At Work (Business As Usual)
+- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
+- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by mickyi, S1RENA (zone out ep ⋆｡°✩)
 
 ### 🌟 Top Artists (Short Term)
-Error fetching top artists.
+1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+2. [blombi19](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+3. [5v](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+4. [Tamino404](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+5. [agelast222](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
 ### 🎶 Top Tracks (Short Term)
-Error fetching top tracks.
+1. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
+2. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
+3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+4. [upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)
+5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-05-30 18:45:44Z UTC_
+_Last updated: 2025-05-30 19:09:59Z UTC_
 <!-- SPOTIFY-END -->
