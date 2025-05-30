@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2bee75d84d48e6f0bb6df0c" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731bfaef6a7db928e9abc999ed" alt="Cover Art" width="120"/>
 </p>
 
-**[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)**
-by akiaura, LONOWN, Olya Holiday
-Album: Midnight Skin
+**[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)**
+by t0ni
+Album: EXIT LIFE
 
-0:42 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:20
+0:28 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:18
 
 ### 📜 Recently Played
-- **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by Baby B3ns (Herzcrash)
-- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by Snow Strippers (The Snow Strippers)
-- **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by Men At Work (Business As Usual)
-- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
-- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by mickyi, S1RENA (zone out ep ⋆｡°✩)
+- **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by Bladee (Eversince)
+- **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by Yung Lean (Starz)
+- **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by RYLO (fern als heimweh)
+- **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by my!lane (Sakura's Shadows)
+- **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by akiaura, LONOWN, Olya Holiday (Midnight Skin)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Midnight Skin
 4. [upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)
 5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-05-30 19:09:59Z UTC_
+_Last updated: 2025-05-30 19:24:00Z UTC_
 <!-- SPOTIFY-END -->
