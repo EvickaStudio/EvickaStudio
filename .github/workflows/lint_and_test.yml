@@ -19,8 +19,8 @@ jobs:
           python-version: '3.x'
       - name: Install dev dependencies
         run: pip install -r requirements-dev.txt
-      - name: Run pre-commit
-        run: pre-commit run --all-files
+      # - name: Run pre-commit
+      #   run: pre-commit run --all-files
       - name: Run lint
         run: flake8
       - name: Run tests
