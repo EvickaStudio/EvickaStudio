@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27381a3294d8cb52667c8701e6f" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c05580dbdc3782ffcf874f52" alt="Cover Art" width="120"/>
 </p>
 
-**[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)**
-by Santigold
-Album: Master of My Make-Believe
+**[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)**
+by Mietze Conte
+Album: nanana
 
-3:59 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 4:44
+1:30 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 2:02
 
 ### 📜 Recently Played
-- **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by Ritter Lean (Einsame Insel)
-- **[Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR)** by Lorde (Melodrama)
-- **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by RudeClub (rated R)
-- **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by Lilac (amiss (+ winter))
-- **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by archive computer (soul doubt)
+- **[Ненавижу(?)](https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo)** by Xopowo (Ненавижу)
+- **[Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)** by Pixies (Surfer Rosa (2007 Remaster))
+- **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by Radiohead (In Rainbows)
+- **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by Foo Fighters (The Colour And The Shape)
+- **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by Basement (Colourmeinkindness)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -124,8 +124,8 @@ Album: Master of My Make-Believe
 1. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
 2. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-4. [upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)
-5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 19:48:01Z UTC_
+_Last updated: 2025-05-30 20:13:53Z UTC_
 <!-- SPOTIFY-END -->
