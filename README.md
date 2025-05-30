@@ -96,14 +96,22 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273780766f32cfa6359c93ae2dc" alt="Cover Art" width="120"/>
+</p>
+
+**[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)**
+by quannnic
+Album: kenopsia
+
+2:14 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 4:05
 
 ### 📜 Recently Played
+- **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by Deftones (Around the Fur)
+- **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by Superheaven (Ours Is Chrome)
+- **[Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)** by Dire Straits (Dire Straits)
+- **[Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm)** by John Williams, London Symphony Orchestra (Star Wars: A New Hope (Original Motion Picture Soundtrack))
 - **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by Freddie Dredd (Suffer)
-- **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/5RuROg27RZTvqixblmzYG5)** by Fred again.., Swedish House Mafia, Future (USB)
-- **[Cola - Sped Up Version](https://open.spotify.com/track/0WdpnMtkBOmVTk17tCWQfj)** by sped up nightcore (Cola (Sped Up Version))
-- **[Want To Love - Just Raw](https://open.spotify.com/track/3DJsIwc3Z9scW5yR3wnyjf)** by Aloboi (Raw Tracks and Reworks)
-- **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by Tyler, The Creator (IGOR)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -119,5 +127,5 @@ Not playing anything right now.
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-30 21:11:12Z UTC_
+_Last updated: 2025-05-30 21:27:47Z UTC_
 <!-- SPOTIFY-END -->
