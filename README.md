@@ -97,21 +97,27 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738244ce3d50d625e462f971b8" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120"/>
 </p>
 
-**[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)**
-by Skepsiz, headless_DATA
-Album: PUNK PARADOX!
+**[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)**
+by jonatan leandoer96, Frederik Valentin
+Album: Sugar World
 
-1:08 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 2:50
+0:14 ▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:56
 
 ### 📜 Recently Played
-- **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by Enquirer (for you)
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
-- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by Basement Jaxx, 100 gecs (where's my head at _)
-- **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex (Troupeau bleu)
-- **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by pluko (OXY)
+- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by ChromeStylist (Erotica)
+- **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by meat computer (how it feels to get run over)
+- **[Nostalgia - Rhythm Version](https://open.spotify.com/track/5wDyH8jsJYgqmmvanjG39y)** by Piero Umiliani (La ragazza fuori strada)
+- **[Mary et Jeff](https://open.spotify.com/track/0ztpWjYYFWQaw5DnPDIYkl)** by Cortex (Troupeau bleu)
+- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by DJmegan23, BBY GOYARD (Seraphim Ballads)
 
-_Last updated: 2025-05-30 17:54:53Z UTC_
+### 🌟 Top Artists (Short Term)
+Error fetching top artists.
+
+### 🎶 Top Tracks (Short Term)
+Error fetching top tracks.
+
+_Last updated: 2025-05-30 18:45:44Z UTC_
 <!-- SPOTIFY-END -->
