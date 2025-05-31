@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731e0698afbe4673a84fe32c52" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="Cover Art" width="120"/>
 </p>
 
-**[Plastic Surgery](https://open.spotify.com/track/5gzoBTffaHN5QYrT1XG5Gk)**
-by Bladee, Ecco2k
-Album: Plastic Surgery
+**[Another life (feat. Rema)](https://open.spotify.com/track/1ljtQrsf55VCwjqXjro7Po)**
+by PinkPantheress, Rema
+Album: Heaven knows
 
-2:18 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 3:00
+2:18 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 2:52
 
 ### 📜 Recently Played
-- **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by Snow Strippers (The Snow Strippers)
-- **[LIGHTS OFF](https://open.spotify.com/track/4TrjN7oHO4vJ5cN1W0MX5D)** by Bandiicam (LIGHTS OFF)
-- **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by Crystal Castles (Crystal Castles (II))
-- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by o0o, Aidan Swank, oaf1 (DUI_002)
-- **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by Blythe Star (If I Give You My Heart, Can I Trust You With It?)
+- **[settle4tonight](https://open.spotify.com/track/3jwZgEvt98tdw2rVF0tyTK)** by El!jah (settle4tonight)
+- **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by Rooster (Rooster Debut)
+- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by Levi Ryan (operation wandering soul)
+- **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by Nokia Angel (Born Angel)
+- **[Plastic Surgery](https://open.spotify.com/track/5gzoBTffaHN5QYrT1XG5Gk)** by Bladee, Ecco2k (Plastic Surgery)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Plastic Surgery
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 19:09:25Z UTC_
+_Last updated: 2025-05-31 19:22:26Z UTC_
 <!-- SPOTIFY-END -->
