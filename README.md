@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735b09d199301a34f922336a47" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737d6a58daf08f2c34fea1b250" alt="Cover Art" width="120"/>
 </p>
 
-**[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)**
-by Bladee, Yung Sherman
-Album: Cold Visions
+**[Realize Remix (feat. Softcult & whatsaheart)](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq)**
+by Trxy!, Softcult, whatsaheart
+Album: Realize Remix (feat. Softcult & whatsaheart)
 
-1:21 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 2:12
+0:53 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:55
 
 ### 📜 Recently Played
-- **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by Joji (BALLADS 1)
-- **[Blick über die Stadt](https://open.spotify.com/track/1mhLW4sxzBsKnpZrAD722C)** by 52Blue (L(i)ebe)
-- **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by Edwin Rosen (Die Sterne)
-- **[der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)** by RYLO (der plattenspieler kratzt)
-- **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by jonatan leandoer96 (Psychopath Ballads)
+- **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by Max Fry (zombie)
+- **[radar](https://open.spotify.com/track/218EsnPhF2Fk5jA9fDqKSj)** by lil hero (pawwwfect!)
+- **[RATHER LIE (with The Weeknd)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn)** by Playboi Carti, The Weeknd (MUSIC)
+- **[Where You Are (feat. WILLOW)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW)** by PinkPantheress, WILLOW (Where you are (feat. WILLOW))
+- **[agony](https://open.spotify.com/track/0JvhSZngvrshUUlFCtA6uD)** by Ilykimchi, Niles (agony)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Cold Visions
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 19:47:32Z UTC_
+_Last updated: 2025-05-31 20:12:33Z UTC_
 <!-- SPOTIFY-END -->
