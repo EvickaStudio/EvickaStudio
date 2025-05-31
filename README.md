@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5a006414c7faeeb09a1cc18" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27329b3e86d9ba180cf4bd95aff" alt="Cover Art" width="120"/>
 </p>
 
-**[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)**
-by ChromeStylist
-Album: Erotica
+**[girl on my throne - too late for summer mix](https://open.spotify.com/track/6uOGwSBWgov7b1JFDQREJe)**
+by Oklou, Casey MQ
+Album: galore anniversary
 
-1:28 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 2:56
+0:38 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:16
 
 ### 📜 Recently Played
-- **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by Jane Remover (Frailty)
-- **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by Bob Dylan (Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))
-- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
-- **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by Ecco2k (Black Boy)
-- **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by Yung Lean, Black Kray, Bladee (Warlord (Deluxe))
+- **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by Hiko Momoji, meat computer (white light)
+- **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by adore (dancing while the world burns)
+- **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by archive computer (stay alone)
+- **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by Nokia Angel (Pass Out)
+- **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by DJmegan23 (sound-proofed wilderness)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Erotica
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 20:48:34Z UTC_
+_Last updated: 2025-05-31 21:10:37Z UTC_
 <!-- SPOTIFY-END -->
