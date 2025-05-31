@@ -97,28 +97,28 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273429d2c451afd520ce02edf78" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735b09d199301a34f922336a47" alt="Cover Art" width="120"/>
 </p>
 
-**[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)**
-by jonatan leandoer96
-Album: Psychopath Ballads
+**[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)**
+by Bladee, Yung Sherman
+Album: Cold Visions
 
-2:19 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 3:30
+1:21 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 2:12
 
 ### 📜 Recently Played
-- **[words - Higgo Remix](https://open.spotify.com/track/1HzVoPGDJajmXaEOzjEdwN)** by piri, Tommy Villiers, Higgo (words (Higgo Remix))
-- **[fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3)** by ericdoa (fantasize)
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
-- **[Another life (feat. Rema)](https://open.spotify.com/track/1ljtQrsf55VCwjqXjro7Po)** by PinkPantheress, Rema (Heaven knows)
-- **[settle4tonight](https://open.spotify.com/track/3jwZgEvt98tdw2rVF0tyTK)** by El!jah (settle4tonight)
+- **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by Joji (BALLADS 1)
+- **[Blick über die Stadt](https://open.spotify.com/track/1mhLW4sxzBsKnpZrAD722C)** by 52Blue (L(i)ebe)
+- **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by Edwin Rosen (Die Sterne)
+- **[der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)** by RYLO (der plattenspieler kratzt)
+- **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by jonatan leandoer96 (Psychopath Ballads)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 2. [blombi19](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 3. [5v](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-4. [Tamino404](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-5. [agelast222](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+4. [agelast222](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+5. [Tamino404](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 
 ### 🎶 Top Tracks (Short Term)
 1. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
@@ -127,5 +127,5 @@ Album: Psychopath Ballads
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 19:34:05Z UTC_
+_Last updated: 2025-05-31 19:47:32Z UTC_
 <!-- SPOTIFY-END -->
