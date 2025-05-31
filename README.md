@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273effbed04be3a9ea1a973ce38" alt="Cover Art" width="120"/>
 </p>
 
-**[I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB)**
-by Chief Keef, Lil Reese
-Album: Finally Rich
+**[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)**
+by uusymon
+Album: Stardust
 
-1:23 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:53
+0:30 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:22
 
 ### 📜 Recently Played
+- **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by RYLO, veil (tränen statt wut)
+- **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by S1RENA (Heb ab)
+- **[I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB)** by Chief Keef, Lil Reese (Finally Rich)
 - **[Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah)** by $uicideboy$ (New World Depression)
 - **[Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)** by Playboi Carti, Lil Uzi Vert (Die Lit)
-- **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by Ufo361, Pashanim (allein allein)
-- **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by Yung Hurn, skrt cobain (CRAZY HORSE CLUB MIXTAPE, VOL. 1)
-- **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by Lil Peep, Nedarb (beamer boy)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Finally Rich
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 23:28:29Z UTC_
+_Last updated: 2025-05-31 23:38:44Z UTC_
 <!-- SPOTIFY-END -->
