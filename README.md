@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120"/>
 </p>
 
-**[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)**
-by Radiohead
-Album: Kid A
+**[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
+by Good Kid
+Album: Good Kid 4
 
-1:17 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 5:09
+1:01 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:32
 
 ### 📜 Recently Played
-- **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by augenschliesser, Spartakdakar, gothband1t (Kunst für Künstler 1)
-- **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by Jane Remover (Frailty)
-- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
-- **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by Men At Work (Business As Usual)
-- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
+- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by 5v (upset)
+- **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by Tamino404 (mondlicht)
+- **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by Varg²™, Bladee, VS-55 (ᚦ)
+- **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by Bob Dylan (Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))
+- **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by Yung Lean (Unknown Memory)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Kid A
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 16:13:48Z UTC_
+_Last updated: 2025-05-31 16:37:47Z UTC_
 <!-- SPOTIFY-END -->
