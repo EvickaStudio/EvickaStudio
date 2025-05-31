@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ae13b99a1652b484e2481b11" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a3f277a73ba1f56f3647dfc8" alt="Cover Art" width="120"/>
 </p>
 
-**[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)**
-by requiem for you
-Album: for you, 親愛なる
+**[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)**
+by S1RENA
+Album: Planet
 
-2:07 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 2:43
+0:48 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 2:09
 
 ### 📜 Recently Played
-- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
-- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
-- **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida (Classical Current)
-- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by o0o, Aidan Swank, oaf1 (DUI_002)
-- **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by Radiohead (Kid A)
+- **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by Tre Flip, Aukina (Tears)
+- **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by The Police (Reggatta De Blanc (Remastered 2003))
+- **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by Led Zeppelin (Led Zeppelin IV (Deluxe Edition))
+- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: for you, 親愛なる
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 14:50:01Z UTC_
+_Last updated: 2025-05-31 15:11:15Z UTC_
 <!-- SPOTIFY-END -->
