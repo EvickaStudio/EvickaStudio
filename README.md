@@ -97,28 +97,28 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ef52797492f7067be5cdf629" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" alt="Cover Art" width="120"/>
 </p>
 
-**[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)**
-by SWEET SPINE
-Album: Darkness
+**[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)**
+by Deftones
+Album: White Pony
 
-1:54 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:48
+2:57 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 4:49
 
 ### 📜 Recently Played
-- **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by Wisp (Pandora)
-- **[Change (In the House of Flies)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3)** by Deftones (White Pony)
-- **[mr. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ)** by EKKSTACY (mr. mole)
-- **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by Traumatin (Schließ bitte ab wenn ich geh)
-- **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by diggidaniel (Augenblick)
+- **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by Duster (Contemporary Movement)
+- **[Perfekte Welle](https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK)** by Juli (Es ist Juli)
+- **[In a Night](https://open.spotify.com/track/0pBLDWK554CvL2KZJsOeN1)** by Asal (Missing Something)
+- **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by Tamino404, eedriaen (jederzeit)
+- **[Borderline](https://open.spotify.com/track/7wJb5QGiP64QWsI3ApSqaB)** by 6host (Borderline)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 2. [blombi19](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 3. [5v](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 4. [agelast222](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-5. [Tamino404](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+5. [Der Witz](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 
 ### 🎶 Top Tracks (Short Term)
 1. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
@@ -127,5 +127,5 @@ Album: Darkness
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 21:47:32Z UTC_
+_Last updated: 2025-05-31 22:11:15Z UTC_
 <!-- SPOTIFY-END -->
