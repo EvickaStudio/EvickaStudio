@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120"/>
 </p>
 
-**[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)**
-by Men At Work
-Album: Business As Usual
+**[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)**
+by Yung Lean
+Album: Unknown Memory
 
-3:38 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘 3:45
+1:29 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 3:59
 
 ### 📜 Recently Played
-- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
-- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by mickyi, S1RENA (zone out ep ⋆｡°✩)
-- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by Franco Micalizzi (Stridulum - The Visitor (Original Motion Picture Soundtrack))
-- **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by jonatan leandoer96, Frederik Valentin (Sugar World)
-- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
+- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by o0o, Aidan Swank, oaf1 (DUI_002)
+- **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by Radiohead (Kid A)
+- **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by augenschliesser, Spartakdakar, gothband1t (Kunst für Künstler 1)
+- **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by Jane Remover (Frailty)
+- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Business As Usual
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 08:51:48Z UTC_
+_Last updated: 2025-05-31 09:12:04Z UTC_
 <!-- SPOTIFY-END -->
