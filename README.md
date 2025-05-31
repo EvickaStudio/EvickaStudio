@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27329b3e86d9ba180cf4bd95aff" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120"/>
 </p>
 
-**[girl on my throne - too late for summer mix](https://open.spotify.com/track/6uOGwSBWgov7b1JFDQREJe)**
-by Oklou, Casey MQ
-Album: galore anniversary
+**[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
+by EASY EASY
+Album: schädel
 
-0:38 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:16
+1:24 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 3:06
 
 ### 📜 Recently Played
-- **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by Hiko Momoji, meat computer (white light)
-- **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by adore (dancing while the world burns)
-- **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by archive computer (stay alone)
-- **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by Nokia Angel (Pass Out)
-- **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by DJmegan23 (sound-proofed wilderness)
+- **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by strangerperson (Seelen)
+- **[Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)** by GoodBooks, Crystal Castles (Control Freaks (The Remixes))
+- **[bad bitch molly addict](https://open.spotify.com/track/0fvDBzHfS0UhJ6GAi4uS9R)** by d3r, Pr0xy, jakubshaggy (bad bitch molly addict)
+- **[three](https://open.spotify.com/track/0YvtuzxqHtn4f5cEQnBKJC)** by Cult Member (2017 Archives)
+- **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by meat computer (team edward)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: galore anniversary
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 21:10:37Z UTC_
+_Last updated: 2025-05-31 21:26:49Z UTC_
 <!-- SPOTIFY-END -->
