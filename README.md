@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273906569877fb49820ab5821e2" alt="Cover Art" width="120"/>
 </p>
 
-**[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)**
-by Nokia Angel
-Album: Stay Cold
+**[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)**
+by Sg Lily, Buffalobang, Eera
+Album: XTC FINAL
 
-3:28 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 3:53
+2:02 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 2:19
 
 ### 📜 Recently Played
-- **[hades in the dead of winter](https://open.spotify.com/track/3y3UinzynYb7JRWsvJH7Gu)** by my dead girlfriend (hades (the nine stages of change at the deceased remains))
-- **[Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH)** by Superheaven (Ours Is Chrome)
-- **[Avalon](https://open.spotify.com/track/5Zs526IB2ezqyXc9WthLuY)** by Zeruel (Avalon)
-- **[Realize Remix (feat. Softcult & whatsaheart)](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq)** by Trxy!, Softcult, whatsaheart (Realize Remix (feat. Softcult & whatsaheart))
-- **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by Max Fry (zombie)
+- **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by Ecco2k (Black Boy)
+- **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by Yung Lean, Black Kray, Bladee (Warlord (Deluxe))
+- **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by Traumatin (Verdien dich nicht)
+- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by Edwin Rosen (Die Sterne)
+- **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by Nokia Angel (Stay Cold)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Stay Cold
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 20:30:15Z UTC_
+_Last updated: 2025-05-31 20:41:12Z UTC_
 <!-- SPOTIFY-END -->
