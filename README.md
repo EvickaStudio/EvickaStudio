@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d3523d30b378d98bc4b83ed9" alt="Cover Art" width="120"/>
 </p>
 
-**[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)**
-by The Police
-Album: Reggatta De Blanc (Remastered 2003)
+**[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)**
+by Enquirer
+Album: for you
 
-2:12 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 4:50
+0:46 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:17
 
 ### 📜 Recently Played
-- **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by Led Zeppelin (Led Zeppelin IV (Deluxe Edition))
-- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
-- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
-- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
-- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
+- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by Basement Jaxx, 100 gecs (where's my head at _)
+- **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex (Troupeau bleu)
+- **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by pluko (OXY)
+- **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by S1RENA (Planet)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Reggatta De Blanc (Remastered 2003)
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 10:48:24Z UTC_
+_Last updated: 2025-05-31 11:09:31Z UTC_
 <!-- SPOTIFY-END -->
