@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737b22026ee8da9c5a077113a2" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731e0698afbe4673a84fe32c52" alt="Cover Art" width="120"/>
 </p>
 
-**[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)**
-by Blythe Star
-Album: If I Give You My Heart, Can I Trust You With It?
+**[Plastic Surgery](https://open.spotify.com/track/5gzoBTffaHN5QYrT1XG5Gk)**
+by Bladee, Ecco2k
+Album: Plastic Surgery
 
-1:41 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 5:18
+2:18 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 3:00
 
 ### 📜 Recently Played
-- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
-- **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by 5star (komm zurück)
-- **[1234uhr](https://open.spotify.com/track/25ZUW6wK1Psvs7722kxoWI)** by Tamino404, SWEETBOYBLONDEY (1234uhr)
-- **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by uusymon, hqwilli, sparr00w (Kuschel EP)
-- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by kevin (jeans unten)
+- **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by Snow Strippers (The Snow Strippers)
+- **[LIGHTS OFF](https://open.spotify.com/track/4TrjN7oHO4vJ5cN1W0MX5D)** by Bandiicam (LIGHTS OFF)
+- **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by Crystal Castles (Crystal Castles (II))
+- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by o0o, Aidan Swank, oaf1 (DUI_002)
+- **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by Blythe Star (If I Give You My Heart, Can I Trust You With It?)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: If I Give You My Heart, Can I Trust You With It?
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 18:52:22Z UTC_
+_Last updated: 2025-05-31 19:09:25Z UTC_
 <!-- SPOTIFY-END -->
