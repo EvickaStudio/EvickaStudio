@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27323ac84a525286001770abc8e" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d72bbdbb7fbb9081f604a58d" alt="Cover Art" width="120"/>
 </p>
 
-**[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)**
-by Aphex Twin
-Album: Come To Daddy
+**[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)**
+by Pink Katana
+Album: Wieso fickst du meinen Kopf?
 
-0:24 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:57
+0:03 🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:28
 
 ### 📜 Recently Played
-- **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by blombi19, p3pppa (herzkasper)
-- **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by blombi19 (herzkasper)
-- **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by mint (end this)
-- **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by Bladee (Eversince)
-- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by Oklou, Bladee (choke enough)
+- **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by uusymon, Trashmann (Kratom)
+- **[keiner könnte](https://open.spotify.com/track/1HSOwusn1V6Rj1es4iFrPQ)** by 5star (keiner könnte)
+- **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by blombi19 (herzkasper)
+- **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by blombi19 (herzkasper)
+- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by kevin (hollywood)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Come To Daddy
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 17:10:05Z UTC_
+_Last updated: 2025-05-31 17:28:25Z UTC_
 <!-- SPOTIFY-END -->
