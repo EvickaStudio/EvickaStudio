@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="Cover Art" width="120"/>
 </p>
 
-**[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
-by Good Kid
-Album: Good Kid 4
+**[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)**
+by Bladee
+Album: The Fool
 
-1:01 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:32
+1:14 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 2:14
 
 ### 📜 Recently Played
-- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by 5v (upset)
-- **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by Tamino404 (mondlicht)
-- **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by Varg²™, Bladee, VS-55 (ᚦ)
-- **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by Bob Dylan (Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))
-- **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by Yung Lean (Unknown Memory)
+- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by Bladee (The Fool)
+- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by Bladee (The Fool)
+- **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by Holy Fuck (Congrats)
+- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by Lyn (PERSONA5 ORIGINAL SOUNDTRACK)
+- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by Good Kid (Good Kid 4)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Good Kid 4
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 16:37:47Z UTC_
+_Last updated: 2025-05-31 16:53:06Z UTC_
 <!-- SPOTIFY-END -->
