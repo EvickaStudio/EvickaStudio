@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ade0e0ac697b0ed71ad8d01d" alt="Cover Art" width="120"/>
 </p>
 
-**[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)**
-by jonatan leandoer96, Frederik Valentin
-Album: Sugar World
+**[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)**
+by yaego, jsn
+Album: ID63
 
-3:40 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 3:56
+3:21 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:58
 
 ### 📜 Recently Played
-- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
-- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by ChromeStylist (Erotica)
-- **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by meat computer (how it feels to get run over)
-- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by DJmegan23, BBY GOYARD (Seraphim Ballads)
-- **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by 999 Heartake Sabileye (A Boy Named Hexd)
+- **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by Men At Work (Business As Usual)
+- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
+- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by mickyi, S1RENA (zone out ep ⋆｡°✩)
+- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by Franco Micalizzi (Stridulum - The Visitor (Original Motion Picture Soundtrack))
+- **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by jonatan leandoer96, Frederik Valentin (Sugar World)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Sugar World
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-05-31 11:34:06Z UTC_
+_Last updated: 2025-05-31 11:47:52Z UTC_
 <!-- SPOTIFY-END -->
