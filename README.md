@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d6a58daf08f2c34fea1b250" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="Cover Art" width="120"/>
 </p>
 
-**[Realize Remix (feat. Softcult & whatsaheart)](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq)**
-by Trxy!, Softcult, whatsaheart
-Album: Realize Remix (feat. Softcult & whatsaheart)
+**[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)**
+by Nokia Angel
+Album: Stay Cold
 
-0:53 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:55
+3:28 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 3:53
 
 ### 📜 Recently Played
+- **[hades in the dead of winter](https://open.spotify.com/track/3y3UinzynYb7JRWsvJH7Gu)** by my dead girlfriend (hades (the nine stages of change at the deceased remains))
+- **[Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH)** by Superheaven (Ours Is Chrome)
+- **[Avalon](https://open.spotify.com/track/5Zs526IB2ezqyXc9WthLuY)** by Zeruel (Avalon)
+- **[Realize Remix (feat. Softcult & whatsaheart)](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq)** by Trxy!, Softcult, whatsaheart (Realize Remix (feat. Softcult & whatsaheart))
 - **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by Max Fry (zombie)
-- **[radar](https://open.spotify.com/track/218EsnPhF2Fk5jA9fDqKSj)** by lil hero (pawwwfect!)
-- **[RATHER LIE (with The Weeknd)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn)** by Playboi Carti, The Weeknd (MUSIC)
-- **[Where You Are (feat. WILLOW)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW)** by PinkPantheress, WILLOW (Where you are (feat. WILLOW))
-- **[agony](https://open.spotify.com/track/0JvhSZngvrshUUlFCtA6uD)** by Ilykimchi, Niles (agony)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Realize Remix (feat. Softcult & whatsaheart)
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 20:12:33Z UTC_
+_Last updated: 2025-05-31 20:30:15Z UTC_
 <!-- SPOTIFY-END -->
