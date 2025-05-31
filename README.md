@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ff3ca7ab8d1f19e61fd47850" alt="Cover Art" width="120"/>
 </p>
 
-**[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
-by EASY EASY
-Album: schädel
+**[mr. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ)**
+by EKKSTACY
+Album: mr. mole
 
-1:24 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 3:06
+0:41 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:12
 
 ### 📜 Recently Played
+- **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by Traumatin (Schließ bitte ab wenn ich geh)
+- **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by diggidaniel (Augenblick)
+- **[wenn der himmel nicht mehr blau ist](https://open.spotify.com/track/353M9lOui0IXgNyLQQEK0P)** by DANZINGER 99 (aber immer noch besser als in dieser welt in der ich wach bin)
+- **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by EASY EASY (schädel)
 - **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by strangerperson (Seelen)
-- **[Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)** by GoodBooks, Crystal Castles (Control Freaks (The Remixes))
-- **[bad bitch molly addict](https://open.spotify.com/track/0fvDBzHfS0UhJ6GAi4uS9R)** by d3r, Pr0xy, jakubshaggy (bad bitch molly addict)
-- **[three](https://open.spotify.com/track/0YvtuzxqHtn4f5cEQnBKJC)** by Cult Member (2017 Archives)
-- **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by meat computer (team edward)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: schädel
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 21:26:49Z UTC_
+_Last updated: 2025-05-31 21:36:28Z UTC_
 <!-- SPOTIFY-END -->
