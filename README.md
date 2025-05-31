@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734bfd3b203425485e6954a305" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" alt="Cover Art" width="120"/>
 </p>
 
-**[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)**
-by jigitz
-Album: don't come back
+**[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)**
+by Chrystal, NOTION
+Album: The Days (NOTION Remix)
 
-0:30 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:04
+1:11 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:53
 
 ### 📜 Recently Played
-- **[Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV)** by 6arelyhuman (Internet Famous)
-- **[Righteous](https://open.spotify.com/track/1xZCK1MXhE4EkHGYENzP9U)** by Mo Beats (Righteous)
-- **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by my!lane (Sakura's Shadows)
-- **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by Aloboi (Justcore Extravaganza)
-- **[SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b)** by WEEDMANE, Suicideyear (SUICIDE YEAR)
+- **[Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM)** by Chris Travis (Side Effects EP)
+- **[Vanilla Sky](https://open.spotify.com/track/45S1AYnCco4cXjFpoctV7u)** by Bladee, Ecco2k (Vanilla Sky)
+- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by oaf1 (its hard :/)
+- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by Levi Ryan (operation wandering soul)
+- **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by meat computer (slept on the floor still dreamt about you)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: don't come back
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 22:31:28Z UTC_
+_Last updated: 2025-05-31 22:48:09Z UTC_
 <!-- SPOTIFY-END -->
