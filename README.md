@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120"/>
 </p>
 
-**[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)**
+**[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)**
 by Bladee
-Album: The Fool
+Album: Eversince
 
-2:09 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 2:18
+1:14 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 3:06
 
 ### 📜 Recently Played
+- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by Oklou, Bladee (choke enough)
+- **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by Bladee (The Fool)
+- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by Bladee (The Fool)
+- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by Bladee (The Fool)
 - **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by Holy Fuck (Congrats)
-- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by Lyn (PERSONA5 ORIGINAL SOUNDTRACK)
-- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by Good Kid (Good Kid 4)
-- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by 5v (upset)
-- **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by Tamino404 (mondlicht)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: The Fool
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 09:39:37Z UTC_
+_Last updated: 2025-05-31 09:47:44Z UTC_
 <!-- SPOTIFY-END -->
