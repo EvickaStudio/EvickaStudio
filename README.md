@@ -96,22 +96,14 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120"/>
-</p>
-
-**[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)**
-by Bladee
-Album: Eversince
-
-1:14 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 3:06
+Not playing anything right now.
 
 ### 📜 Recently Played
-- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by Oklou, Bladee (choke enough)
-- **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by Bladee (The Fool)
-- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by Bladee (The Fool)
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by Bladee (The Fool)
-- **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by Holy Fuck (Congrats)
+- **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by Aphex Twin (Come To Daddy)
+- **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by blombi19, p3pppa (herzkasper)
+- **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by blombi19 (herzkasper)
+- **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by mint (end this)
+- **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by Bladee (Eversince)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +119,5 @@ Album: Eversince
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 09:47:44Z UTC_
+_Last updated: 2025-05-31 10:12:09Z UTC_
 <!-- SPOTIFY-END -->
