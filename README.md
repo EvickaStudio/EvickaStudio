@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732d0373a546372d162a12b270" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120"/>
 </p>
 
-**[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)**
-by meat computer
-Album: how it feels to get run over
+**[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)**
+by jonatan leandoer96, Frederik Valentin
+Album: Sugar World
 
-2:13 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 2:47
+3:40 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 3:56
 
 ### 📜 Recently Played
+- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
+- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by ChromeStylist (Erotica)
+- **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by meat computer (how it feels to get run over)
 - **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by DJmegan23, BBY GOYARD (Seraphim Ballads)
 - **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by 999 Heartake Sabileye (A Boy Named Hexd)
-- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by jigitz (don't come back)
-- **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by Skepsiz, headless_DATA (PUNK PARADOX!)
-- **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by Enquirer (for you)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -124,8 +124,8 @@ Album: how it feels to get run over
 1. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
 2. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-05-31 11:23:53Z UTC_
+_Last updated: 2025-05-31 11:34:06Z UTC_
 <!-- SPOTIFY-END -->
