@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273765477417d5c4f5d78d1e05e" alt="Cover Art" width="120"/>
 </p>
 
-**[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)**
-by Chrystal, NOTION
-Album: The Days (NOTION Remix)
+**[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)**
+by Lil Peep, Nedarb
+Album: beamer boy
 
-1:11 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:53
+0:47 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:23
 
 ### 📜 Recently Played
-- **[Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM)** by Chris Travis (Side Effects EP)
-- **[Vanilla Sky](https://open.spotify.com/track/45S1AYnCco4cXjFpoctV7u)** by Bladee, Ecco2k (Vanilla Sky)
-- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by oaf1 (its hard :/)
-- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by Levi Ryan (operation wandering soul)
-- **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by meat computer (slept on the floor still dreamt about you)
+- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by kevin (hollywood)
+- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by Bladee, Ecco2k, Thaiboy Digital (TL;DR)
+- **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by Yung Hurn, meat computer (CRAZY HORSE CLUB MIXTAPE, VOL. 1)
+- **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by ilyproxy, leander, Hadesthegrim (Poser)
+- **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by RudeClub, oaf1 (Crash)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: The Days (NOTION Remix)
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 22:48:09Z UTC_
+_Last updated: 2025-05-31 23:11:34Z UTC_
 <!-- SPOTIFY-END -->
