@@ -96,14 +96,22 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27323b8d9fab5f1622562e9949e" alt="Cover Art" width="120"/>
+</p>
+
+**[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)**
+by LVL1
+Album: PLAY
+
+2:20 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 3:07
 
 ### 📜 Recently Played
+- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
+- **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida (Classical Current)
+- **[tu m'écœures](https://open.spotify.com/track/134qJV3EisUsF6VBk4gkrA)** by ama???!!!!, kysmelo (tu m'écœures)
 - **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by Hole (Celebrity Skin)
 - **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by Aphex Twin (Selected Ambient Works 85-92)
-- **[Exchange](https://open.spotify.com/track/2HuMQkNVpFIsur2cRWWQmX)** by Massive Attack (Mezzanine)
-- **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by Duster (Capsule Losing Contact)
-- **[Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr)** by Radiohead (OK Computer)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -119,5 +127,5 @@ Not playing anything right now.
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 07:27:15Z UTC_
+_Last updated: 2025-05-31 07:36:55Z UTC_
 <!-- SPOTIFY-END -->
