@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273906569877fb49820ab5821e2" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5a006414c7faeeb09a1cc18" alt="Cover Art" width="120"/>
 </p>
 
-**[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)**
-by Sg Lily, Buffalobang, Eera
-Album: XTC FINAL
+**[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)**
+by ChromeStylist
+Album: Erotica
 
-2:02 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 2:19
+1:28 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 2:56
 
 ### 📜 Recently Played
+- **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by Jane Remover (Frailty)
+- **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by Bob Dylan (Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))
+- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
 - **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by Ecco2k (Black Boy)
 - **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by Yung Lean, Black Kray, Bladee (Warlord (Deluxe))
-- **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by Traumatin (Verdien dich nicht)
-- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by Edwin Rosen (Die Sterne)
-- **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by Nokia Angel (Stay Cold)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: XTC FINAL
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 20:41:12Z UTC_
+_Last updated: 2025-05-31 20:48:34Z UTC_
 <!-- SPOTIFY-END -->
