@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e767fb456c65f6dabbd47ed7" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737b22026ee8da9c5a077113a2" alt="Cover Art" width="120"/>
 </p>
 
-**[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)**
-by uusymon, hqwilli, sparr00w
-Album: Kuschel EP
+**[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)**
+by Blythe Star
+Album: If I Give You My Heart, Can I Trust You With It?
 
-1:27 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 2:18
+1:41 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 5:18
 
 ### 📜 Recently Played
+- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
+- **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by 5star (komm zurück)
+- **[1234uhr](https://open.spotify.com/track/25ZUW6wK1Psvs7722kxoWI)** by Tamino404, SWEETBOYBLONDEY (1234uhr)
+- **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by uusymon, hqwilli, sparr00w (Kuschel EP)
 - **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by kevin (jeans unten)
-- **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by sparr00w (Bitte lass mich einfach los)
-- **[eine nase](https://open.spotify.com/track/2iUlwFCblKdSkQnzFwhhxc)** by Yung Hurn (CRAZY HORSE CLUB MIXTAPE, VOL. 1)
-- **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by Tamino404, Keule (es ist nicht mehr 2016)
-- **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by Destroy Lonely (If Looks Could Kill)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Kuschel EP
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 18:43:38Z UTC_
+_Last updated: 2025-05-31 18:52:22Z UTC_
 <!-- SPOTIFY-END -->
