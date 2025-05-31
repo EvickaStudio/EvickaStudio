@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27323ac84a525286001770abc8e" alt="Cover Art" width="120"/>
 </p>
 
-**[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)**
-by Bladee
-Album: The Fool
+**[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)**
+by Aphex Twin
+Album: Come To Daddy
 
-1:14 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 2:14
+0:24 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:57
 
 ### 📜 Recently Played
-- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by Bladee (The Fool)
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by Bladee (The Fool)
-- **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by Holy Fuck (Congrats)
-- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by Lyn (PERSONA5 ORIGINAL SOUNDTRACK)
-- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by Good Kid (Good Kid 4)
+- **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by blombi19, p3pppa (herzkasper)
+- **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by blombi19 (herzkasper)
+- **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by mint (end this)
+- **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by Bladee (Eversince)
+- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by Oklou, Bladee (choke enough)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: The Fool
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 16:53:06Z UTC_
+_Last updated: 2025-05-31 17:10:05Z UTC_
 <!-- SPOTIFY-END -->
