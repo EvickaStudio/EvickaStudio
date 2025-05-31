@@ -96,14 +96,22 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e767fb456c65f6dabbd47ed7" alt="Cover Art" width="120"/>
+</p>
+
+**[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)**
+by uusymon, hqwilli, sparr00w
+Album: Kuschel EP
+
+1:27 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 2:18
 
 ### 📜 Recently Played
-- **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by jonatan leandoer96 (Psychopath Ballads)
-- **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by Bladee (Into Dust)
-- **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by Crystal Castles (Crystal Castles (II))
-- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by Neil Young (Throw Your Hatred Down (Live))
-- **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by Pink Katana (Wieso fickst du meinen Kopf?)
+- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by kevin (jeans unten)
+- **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by sparr00w (Bitte lass mich einfach los)
+- **[eine nase](https://open.spotify.com/track/2iUlwFCblKdSkQnzFwhhxc)** by Yung Hurn (CRAZY HORSE CLUB MIXTAPE, VOL. 1)
+- **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by Tamino404, Keule (es ist nicht mehr 2016)
+- **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by Destroy Lonely (If Looks Could Kill)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -119,5 +127,5 @@ Not playing anything right now.
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 18:16:00Z UTC_
+_Last updated: 2025-05-31 18:43:38Z UTC_
 <!-- SPOTIFY-END -->
