@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273765477417d5c4f5d78d1e05e" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a76616abf60ce17491e95891" alt="Cover Art" width="120"/>
 </p>
 
-**[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)**
-by Lil Peep, Nedarb
-Album: beamer boy
+**[I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB)**
+by Chief Keef, Lil Reese
+Album: Finally Rich
 
-0:47 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:23
+1:23 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:53
 
 ### 📜 Recently Played
-- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by kevin (hollywood)
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by Bladee, Ecco2k, Thaiboy Digital (TL;DR)
-- **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by Yung Hurn, meat computer (CRAZY HORSE CLUB MIXTAPE, VOL. 1)
-- **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by ilyproxy, leander, Hadesthegrim (Poser)
-- **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by RudeClub, oaf1 (Crash)
+- **[Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah)** by $uicideboy$ (New World Depression)
+- **[Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)** by Playboi Carti, Lil Uzi Vert (Die Lit)
+- **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by Ufo361, Pashanim (allein allein)
+- **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by Yung Hurn, skrt cobain (CRAZY HORSE CLUB MIXTAPE, VOL. 1)
+- **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by Lil Peep, Nedarb (beamer boy)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: beamer boy
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 23:11:34Z UTC_
+_Last updated: 2025-05-31 23:28:29Z UTC_
 <!-- SPOTIFY-END -->
