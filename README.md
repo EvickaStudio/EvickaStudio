@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ff3ca7ab8d1f19e61fd47850" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ef52797492f7067be5cdf629" alt="Cover Art" width="120"/>
 </p>
 
-**[mr. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ)**
-by EKKSTACY
-Album: mr. mole
+**[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)**
+by SWEET SPINE
+Album: Darkness
 
-0:41 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:12
+1:54 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 3:48
 
 ### 📜 Recently Played
+- **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by Wisp (Pandora)
+- **[Change (In the House of Flies)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3)** by Deftones (White Pony)
+- **[mr. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ)** by EKKSTACY (mr. mole)
 - **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by Traumatin (Schließ bitte ab wenn ich geh)
 - **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by diggidaniel (Augenblick)
-- **[wenn der himmel nicht mehr blau ist](https://open.spotify.com/track/353M9lOui0IXgNyLQQEK0P)** by DANZINGER 99 (aber immer noch besser als in dieser welt in der ich wach bin)
-- **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by EASY EASY (schädel)
-- **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by strangerperson (Seelen)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: mr. mole
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 21:36:28Z UTC_
+_Last updated: 2025-05-31 21:47:32Z UTC_
 <!-- SPOTIFY-END -->
