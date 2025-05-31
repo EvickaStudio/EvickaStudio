@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27378c582c67f2104448ec471ab" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Cover Art" width="120"/>
 </p>
 
-**[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)**
-by PinkPantheress
-Album: Take me home
+**[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)**
+by Radiohead
+Album: Kid A
 
-2:47 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:20
+1:17 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 5:09
 
 ### 📜 Recently Played
-- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by ChromeStylist (Erotica)
-- **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by meat computer (how it feels to get run over)
-- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by DJmegan23, BBY GOYARD (Seraphim Ballads)
-- **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by 999 Heartake Sabileye (A Boy Named Hexd)
-- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by jigitz (don't come back)
+- **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by augenschliesser, Spartakdakar, gothband1t (Kunst für Künstler 1)
+- **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by Jane Remover (Frailty)
+- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
+- **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by Men At Work (Business As Usual)
+- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Take me home
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 15:47:33Z UTC_
+_Last updated: 2025-05-31 16:13:48Z UTC_
 <!-- SPOTIFY-END -->
