@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273effbed04be3a9ea1a973ce38" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d67816ddee3a4d403459c7c4" alt="Cover Art" width="120"/>
 </p>
 
-**[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)**
-by uusymon
-Album: Stardust
+**[emotion engine](https://open.spotify.com/track/6671hmfatqJ9gcrxSy1TvA)**
+by Dazegxd, Kaiyko
+Album: vKiSS
 
-0:30 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:22
+3:10 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 4:15
 
 ### 📜 Recently Played
+- **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by Snow Strippers (Night Killaz Vol. 1)
+- **[Robins](https://open.spotify.com/track/75024A8Vt0otJIUZXzYJ10)** by hqwilli (Robins)
+- **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by uusymon (Stardust)
+- **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by James Jetski (Diva)
 - **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by RYLO, veil (tränen statt wut)
-- **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by S1RENA (Heb ab)
-- **[I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB)** by Chief Keef, Lil Reese (Finally Rich)
-- **[Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah)** by $uicideboy$ (New World Depression)
-- **[Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)** by Playboi Carti, Lil Uzi Vert (Die Lit)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Stardust
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 23:38:44Z UTC_
+_Last updated: 2025-05-31 23:47:53Z UTC_
 <!-- SPOTIFY-END -->
