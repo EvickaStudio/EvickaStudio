@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734bfd3b203425485e6954a305" alt="Cover Art" width="120"/>
 </p>
 
-**[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)**
-by Deftones
-Album: White Pony
+**[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)**
+by jigitz
+Album: don't come back
 
-2:57 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 4:49
+0:30 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:04
 
 ### 📜 Recently Played
-- **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by Duster (Contemporary Movement)
-- **[Perfekte Welle](https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK)** by Juli (Es ist Juli)
-- **[In a Night](https://open.spotify.com/track/0pBLDWK554CvL2KZJsOeN1)** by Asal (Missing Something)
-- **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by Tamino404, eedriaen (jederzeit)
-- **[Borderline](https://open.spotify.com/track/7wJb5QGiP64QWsI3ApSqaB)** by 6host (Borderline)
+- **[Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV)** by 6arelyhuman (Internet Famous)
+- **[Righteous](https://open.spotify.com/track/1xZCK1MXhE4EkHGYENzP9U)** by Mo Beats (Righteous)
+- **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by my!lane (Sakura's Shadows)
+- **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by Aloboi (Justcore Extravaganza)
+- **[SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b)** by WEEDMANE, Suicideyear (SUICIDE YEAR)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: White Pony
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 22:11:15Z UTC_
+_Last updated: 2025-05-31 22:31:28Z UTC_
 <!-- SPOTIFY-END -->
