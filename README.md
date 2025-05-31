@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273429d2c451afd520ce02edf78" alt="Cover Art" width="120"/>
 </p>
 
-**[Another life (feat. Rema)](https://open.spotify.com/track/1ljtQrsf55VCwjqXjro7Po)**
-by PinkPantheress, Rema
-Album: Heaven knows
+**[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)**
+by jonatan leandoer96
+Album: Psychopath Ballads
 
-2:18 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 2:52
+2:19 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 3:30
 
 ### 📜 Recently Played
+- **[words - Higgo Remix](https://open.spotify.com/track/1HzVoPGDJajmXaEOzjEdwN)** by piri, Tommy Villiers, Higgo (words (Higgo Remix))
+- **[fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3)** by ericdoa (fantasize)
+- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
+- **[Another life (feat. Rema)](https://open.spotify.com/track/1ljtQrsf55VCwjqXjro7Po)** by PinkPantheress, Rema (Heaven knows)
 - **[settle4tonight](https://open.spotify.com/track/3jwZgEvt98tdw2rVF0tyTK)** by El!jah (settle4tonight)
-- **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by Rooster (Rooster Debut)
-- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by Levi Ryan (operation wandering soul)
-- **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by Nokia Angel (Born Angel)
-- **[Plastic Surgery](https://open.spotify.com/track/5gzoBTffaHN5QYrT1XG5Gk)** by Bladee, Ecco2k (Plastic Surgery)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Heaven knows
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 19:22:26Z UTC_
+_Last updated: 2025-05-31 19:34:05Z UTC_
 <!-- SPOTIFY-END -->
