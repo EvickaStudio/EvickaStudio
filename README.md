@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120"/>
 </p>
 
-**[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)**
-by Yung Lean
-Album: Unknown Memory
+**[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
+by Good Kid
+Album: Good Kid 4
 
-1:29 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 3:59
+2:47 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 3:32
 
 ### 📜 Recently Played
-- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by o0o, Aidan Swank, oaf1 (DUI_002)
-- **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by Radiohead (Kid A)
-- **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by augenschliesser, Spartakdakar, gothband1t (Kunst für Künstler 1)
-- **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by Jane Remover (Frailty)
-- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
+- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by 5v (upset)
+- **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by Tamino404 (mondlicht)
+- **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by Varg²™, Bladee, VS-55 (ᚦ)
+- **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by Bob Dylan (Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))
+- **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by Yung Lean (Unknown Memory)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Unknown Memory
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 09:12:04Z UTC_
+_Last updated: 2025-05-31 09:29:16Z UTC_
 <!-- SPOTIFY-END -->
