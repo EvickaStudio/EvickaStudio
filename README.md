@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d72bbdbb7fbb9081f604a58d" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273af54621b48da9687dc86011b" alt="Cover Art" width="120"/>
 </p>
 
-**[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)**
-by Pink Katana
-Album: Wieso fickst du meinen Kopf?
+**[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)**
+by Crystal Castles
+Album: Crystal Castles (II)
 
-0:03 🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:28
+2:23 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 4:44
 
 ### 📜 Recently Played
+- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by Neil Young (Throw Your Hatred Down (Live))
+- **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by Pink Katana (Wieso fickst du meinen Kopf?)
+- **[Kachba Junge](https://open.spotify.com/track/4zbtIcZGMJgOeA4TB13vEN)** by Aachen Demon (Kachba Junge)
 - **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by uusymon, Trashmann (Kratom)
 - **[keiner könnte](https://open.spotify.com/track/1HSOwusn1V6Rj1es4iFrPQ)** by 5star (keiner könnte)
-- **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by blombi19 (herzkasper)
-- **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by blombi19 (herzkasper)
-- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by kevin (hollywood)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Wieso fickst du meinen Kopf?
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 17:28:25Z UTC_
+_Last updated: 2025-05-31 17:38:53Z UTC_
 <!-- SPOTIFY-END -->
