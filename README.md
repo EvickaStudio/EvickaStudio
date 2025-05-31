@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738244ce3d50d625e462f971b8" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732d0373a546372d162a12b270" alt="Cover Art" width="120"/>
 </p>
 
-**[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)**
-by Skepsiz, headless_DATA
-Album: PUNK PARADOX!
+**[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)**
+by meat computer
+Album: how it feels to get run over
 
-0:39 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:50
+0:42 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:47
 
 ### 📜 Recently Played
+- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by DJmegan23, BBY GOYARD (Seraphim Ballads)
+- **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by 999 Heartake Sabileye (A Boy Named Hexd)
+- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by jigitz (don't come back)
+- **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by Skepsiz, headless_DATA (PUNK PARADOX!)
 - **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by Enquirer (for you)
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
-- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by Basement Jaxx, 100 gecs (where's my head at _)
-- **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex (Troupeau bleu)
-- **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by pluko (OXY)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: PUNK PARADOX!
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 15:29:09Z UTC_
+_Last updated: 2025-05-31 15:39:56Z UTC_
 <!-- SPOTIFY-END -->
