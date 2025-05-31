@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f39424b069f0ace613d5002c" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486" alt="Cover Art" width="120"/>
 </p>
 
-**[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)**
-by Kilian Knight
-Album: Es wird bald vorbei sein (Allein sein)
+**[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)**
+by The Police
+Album: Reggatta De Blanc (Remastered 2003)
 
-0:52 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:43
+2:12 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 4:50
 
 ### 📜 Recently Played
+- **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by Led Zeppelin (Led Zeppelin IV (Deluxe Edition))
+- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
 - **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
 - **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
-- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
-- **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida (Classical Current)
-- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by kevin (hollywood)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Es wird bald vorbei sein (Allein sein)
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 10:33:50Z UTC_
+_Last updated: 2025-05-31 10:48:24Z UTC_
 <!-- SPOTIFY-END -->
