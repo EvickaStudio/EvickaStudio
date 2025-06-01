@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738cff60f4f7347d871f78be2f" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79" alt="Cover Art" width="120"/>
 </p>
 
-**[Tema di Andrea](https://open.spotify.com/track/4yDUfLfG4wi3Ktfd9Fi7fH)**
-by Alberto Baldan Bembo
-Album: L'amica di mia madre (Colonna sonora originale del film)
+**[Sabbat, pt. 3](https://open.spotify.com/track/0CycZ8pvvdqSyBxJLapOOI)**
+by Cortex
+Album: Troupeau bleu
 
-2:29 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘 2:34
+0:20 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 0:31
 
 ### 📜 Recently Played
-- **[Nicole](https://open.spotify.com/track/0vNKuD2WdRqoOmpn3Ho4i1)** by Enrico Intra (Momento Intra)
-- **[A Taste Of Honey](https://open.spotify.com/track/71ZgxJIApKmssV44AD1Zva)** by Lionel Hampton (You Better Know It!!!)
-- **[Red Sun](https://open.spotify.com/track/6oveYXy8E4ouDgDT7JkdIv)** by SERAPHINE NOIR, Ash Lee (Red Sun)
-- **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by Cortex (Inedit 79)
-- **[Water and Waves](https://open.spotify.com/track/3TZMLsHWWUkMY51wSaNkaH)** by Sven Libaek (Nature Walkabout (Original Television Soundtrack) [Remastered])
+- **[deep in it](https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg)** by berlioz, Ted Jasper (deep in it)
+- **[Chaser](https://open.spotify.com/track/72MfFeKxnBCeuwN62QnshP)** by Piero Umiliani (Il corpo (Original Motion Picture Soundtrack))
+- **[Ballade](https://open.spotify.com/track/69oDHCpVOoUUd9RfyyA42c)** by Piero Piccioni (Camille 2000 (Original Motion Picture Soundtrack))
+- **[Ostavi trag](https://open.spotify.com/track/65zw2RY8Qp0JJDcQNSejNY)** by September (Zadnja avantura)
+- **[White Sands](https://open.spotify.com/track/5xLzGWWwVcIzFb5bL8eU84)** by Alessandro Alessandroni (Panoramic Feelings (Mellow Carefree Lounge Music))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: L'amica di mia madre (Colonna sonora originale del film)
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 19:09:51Z UTC_
+_Last updated: 2025-06-01 19:23:41Z UTC_
 <!-- SPOTIFY-END -->
