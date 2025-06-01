@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27386a069f343886806cd5c4ab3" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c6d0592361763bd8db30fc97" alt="Cover Art" width="120"/>
 </p>
 
-**[Träum von dir](https://open.spotify.com/track/1WEVnmXBmPC3qEib5Gr8H4)**
-by Blumengarten
-Album: Ich liebe dich für immer
+**[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)**
+by Edwin Rosen
+Album: Die Sonne in deinem Zimmer
 
-2:09 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 4:07
+0:42 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:05
 
 ### 📜 Recently Played
-- **[Nordpol](https://open.spotify.com/track/0ESqAkzr4XDrznNJqeFnzO)** by Steintor Herrenchor (oh scheiße Gefühle)
-- **[Empathie](https://open.spotify.com/track/5pfpargS6mOsnZkYass0Js)** by wurms, MC WINDHUND (Empathie)
-- **[nachmittagsverkehr](https://open.spotify.com/track/3hZ8CYjHDRhWOB8HiP699x)** by Kasi, antonius, Ericson (nachmittagsverkehr)
-- **[Gefahr](https://open.spotify.com/track/05wVoeLQbj0hH4l1b4PdpQ)** by Luis Ake (Ehrenvoll, Luis Ake)
-- **[KALTE NACHT](https://open.spotify.com/track/377yXfID2pxqwij7gefJBN)** by diggidaniel (verschwende mich)
+- **[helicopter](https://open.spotify.com/track/18jrEdTKxaz6ThhoZeffIK)** by DANZINGER 99 (aber immer noch besser als in dieser welt in der ich wach bin)
+- **[Polara](https://open.spotify.com/track/2RKR3PYJBJOdfQBvsCcubo)** by Steintor Herrenchor (oh scheiße Gefühle)
+- **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by diggidaniel (Zwing mich zu meinem Glück)
+- **[Durch Gläser sehen](https://open.spotify.com/track/0jovdETdEGpLDYEDRyxG5m)** by Nicki Papa (Wendepunkt)
+- **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by Luis Ake, sparr00w (Horse Trance: Melodien der Freiheit)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Ich liebe dich für immer
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 21:47:56Z UTC_
+_Last updated: 2025-06-01 22:11:41Z UTC_
 <!-- SPOTIFY-END -->
