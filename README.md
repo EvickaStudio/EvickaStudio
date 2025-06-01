@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273209741a83d409fe19e44ca67" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27357c31aa05f7f2c006f3d0d64" alt="Cover Art" width="120"/>
 </p>
 
-**[GmdH](https://open.spotify.com/track/2N7umuRBdK014bDuwREFZS)**
-by Ritter Lean
-Album: Ob ein Atze fliegen kann
+**[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)**
+by Streichelt
+Album: Zuckerrand
 
-0:26 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:54
+2:15 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 3:18
 
 ### 📜 Recently Played
-- **[Seismograph](https://open.spotify.com/track/7xFnG9kPjtKls2oZsUlYwi)** by Luis Ake, TRÄNEN (Ehrenvoll, Luis Ake)
-- **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by Steintor Herrenchor (Collide Session #18 - Steintor Herrenchor)
-- **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by diamando, DeeLou (Zigaretten)
-- **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by Edwin Rosen (21 Nächte wach)
-- **[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)** by wurms, MDW (Slide)
+- **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by Steintor Herrenchor (wohin)
+- **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by diggidaniel (Gib mir einen Grund)
+- **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by Yung Hurn (CRAZY HORSE CLUB MIXTAPE, VOL. 1)
+- **[GmdH](https://open.spotify.com/track/2N7umuRBdK014bDuwREFZS)** by Ritter Lean (Ob ein Atze fliegen kann)
+- **[Herz stop](https://open.spotify.com/track/13ky5dmoRVNZFfhxocFsst)** by wurms (Herz stop)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Ob ein Atze fliegen kann
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 23:28:41Z UTC_
+_Last updated: 2025-06-01 23:39:21Z UTC_
 <!-- SPOTIFY-END -->
