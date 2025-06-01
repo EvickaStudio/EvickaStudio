@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c6d0592361763bd8db30fc97" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ced8684aab987c4e3143711a" alt="Cover Art" width="120"/>
 </p>
 
-**[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)**
-by Edwin Rosen
-Album: Die Sonne in deinem Zimmer
+**[Verschwende Dich Nicht](https://open.spotify.com/track/7pCYspneaPTbQLqcpawup9)**
+by Traumatin
+Album: Galerie
 
-0:42 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:05
+0:50 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:57
 
 ### 📜 Recently Played
-- **[helicopter](https://open.spotify.com/track/18jrEdTKxaz6ThhoZeffIK)** by DANZINGER 99 (aber immer noch besser als in dieser welt in der ich wach bin)
-- **[Polara](https://open.spotify.com/track/2RKR3PYJBJOdfQBvsCcubo)** by Steintor Herrenchor (oh scheiße Gefühle)
-- **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by diggidaniel (Zwing mich zu meinem Glück)
-- **[Durch Gläser sehen](https://open.spotify.com/track/0jovdETdEGpLDYEDRyxG5m)** by Nicki Papa (Wendepunkt)
-- **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by Luis Ake, sparr00w (Horse Trance: Melodien der Freiheit)
+- **[perfekt(er)](https://open.spotify.com/track/6gs54Iqdr9vVCyNYXmxVvV)** by $OHO BANI, Ericson, Apsilon (EIN SCHRITT UND ICH FALL)
+- **[ich war da](https://open.spotify.com/track/0VWo0Iq6O2soaV0UkiX8H0)** by Steintor Herrenchor (oh scheiße Gefühle)
+- **[promise](https://open.spotify.com/track/7o9LCQ8RDOrMWV9dc0TmTG)** by DANZINGER 99 (aber immer noch besser als in dieser welt in der ich wach bin)
+- **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by MC WINDHUND (Augen)
+- **[Schönheit / Irrtum](https://open.spotify.com/track/1eZ431fENDVXFaV9SwWsja)** by diggidaniel (Schönheit / Irrtum)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Die Sonne in deinem Zimmer
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 22:11:41Z UTC_
+_Last updated: 2025-06-01 22:32:43Z UTC_
 <!-- SPOTIFY-END -->
