@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738fdf58b2f944bb998304457f" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bc884d49f44179b8e18358d0" alt="Cover Art" width="120"/>
 </p>
 
-**[Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)**
-by MC WINDHUND
-Album: Uschi
+**[Gefahr](https://open.spotify.com/track/05wVoeLQbj0hH4l1b4PdpQ)**
+by Luis Ake
+Album: Ehrenvoll, Luis Ake
 
-3:02 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 3:20
+0:16 ▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:45
 
 ### 📜 Recently Played
+- **[Hab mich oft gefragt](https://open.spotify.com/track/4DBoydGVU7VC9BUelqv9pn)** by Kalte Liebe (Hab mich oft gefragt)
+- **[ohne Funktion](https://open.spotify.com/track/6omyMAbp39fDcAhdfR8ReZ)** by Steintor Herrenchor (oh scheiße Gefühle)
+- **[Tanzalarm](https://open.spotify.com/track/1wtXpsjzyFyCh4mOtHbZTl)** by 01099, Gustav, Paul (Kinder der Nacht)
+- **[Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)** by MC WINDHUND (Uschi)
 - **[Bloody Rain](https://open.spotify.com/track/03lHuGuHgKcWThhKg9qivx)** by Souly (Ich wünschte, es würd' mich kümmern)
-- **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by diggidaniel (verschwende mich)
-- **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by Traumatin, whosroman (Helium)
-- **[Die Sterne](https://open.spotify.com/track/03iodd8jtQZJT936KHWBMy)** by Edwin Rosen (Die Sterne)
-- **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by Edwin Rosen (Die Sterne)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Uschi
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 21:27:30Z UTC_
+_Last updated: 2025-06-01 21:37:12Z UTC_
 <!-- SPOTIFY-END -->
