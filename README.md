@@ -103,15 +103,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120"/>
-</p>
-
-**[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
-by Good Kid
-Album: Good Kid 4
-
-0:50 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:32
+Not playing anything right now.
 
 ### 📜 Recently Played
 - **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by 5v (upset)
@@ -131,8 +123,8 @@ Album: Good Kid 4
 1. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 2. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
 3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
-5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 15:48:21Z UTC_
+_Last updated: 2025-06-01 16:14:01Z UTC_
 <!-- SPOTIFY-END -->
