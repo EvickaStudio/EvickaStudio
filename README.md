@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c911aca0ce7836058f085221" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79" alt="Cover Art" width="120"/>
 </p>
 
-**[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)**
-by Pink Katana
-Album: 4ever
+**[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)**
+by Cortex
+Album: Troupeau bleu
 
-1:17 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 1:34
+4:22 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘 4:26
 
 ### 📜 Recently Played
+- **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by Dave Plugs (SAG WIESO EP)
+- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by Niclov, ilyproxy, leander (all1ne)
+- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by sparr00w (Soundcloud Archive)
+- **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by Pink Katana (4ever)
 - **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by kevin (Es ist peinlich)
-- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by Crystal Castles (Amnesty (I))
-- **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by Ezekiel (Ezekiel Singles ’18-‘20)
-- **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by Boy Fantasy, g0r3c0r3 (BOY FANTASY)
-- **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by Cult Member, Mia Martina (U Weren't Here I Really Miss You (slowed))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: 4ever
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 17:29:01Z UTC_
+_Last updated: 2025-06-01 17:40:40Z UTC_
 <!-- SPOTIFY-END -->
