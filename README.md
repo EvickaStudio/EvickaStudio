@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e1bad46155887c633a0a2a7" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120"/>
 </p>
 
-**[leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)**
-by Edwin Rosen
-Album: leichter//kälter / SSS
+**[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)**
+by Edwin Rosen, sparr00w
+Album: Die Sterne
 
-1:20 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 3:15
+2:50 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 3:18
 
 ### 📜 Recently Played
-- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by Edwin Rosen (leichter//kälter)
-- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by Edwin Rosen (Die Sterne)
-- **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by Edwin Rosen, sparr00w (Die Sterne)
-- **[Efficace Swing](https://open.spotify.com/track/4RduagyN6mPKY5h81Gzb8P)** by Cortex (Cortex, Vol. 2)
-- **[Automne - Colchiques](https://open.spotify.com/track/5Rt5pomA6CvKTuCllwRY74)** by Cortex (Troupeau bleu)
+- **[kontrollverlust](https://open.spotify.com/track/4S8cCU8rqOTMPJqfR21Ft3)** by Edwin Rosen (Die Sterne)
+- **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by Edwin Rosen (Die Sterne)
+- **[Balancieren](https://open.spotify.com/track/3NbLQrcuvDiT3bQkaIDeNT)** by Edwin Rosen (Die Sterne)
+- **[Balancieren](https://open.spotify.com/track/3NbLQrcuvDiT3bQkaIDeNT)** by Edwin Rosen (Die Sterne)
+- **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by Edwin Rosen (mitleerenhänden)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: leichter//kälter / SSS
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 20:48:27Z UTC_
+_Last updated: 2025-06-01 21:10:56Z UTC_
 <!-- SPOTIFY-END -->
