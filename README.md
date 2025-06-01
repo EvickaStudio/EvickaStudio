@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738cff60f4f7347d871f78be2f" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27306ca4f31602ac6aa2aaed7fd" alt="Cover Art" width="120"/>
 </p>
 
-**[Carmen Blues](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)**
-by Alberto Baldan Bembo
-Album: L'amica di mia madre (Colonna sonora originale del film)
+**[He Knows She's Good For You](https://open.spotify.com/track/16XQHmx665fCWkEmGHyRox)**
+by Cyril Chambers
+Album: Childhood Memoires
 
-0:34 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:12
+0:38 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 1:47
 
 ### 📜 Recently Played
-- **[KAZENI FUKARETE](https://open.spotify.com/track/62R52fq2mTu9kluWVBXDF3)** by Cro-Magnon (Hyouge Mono - Otsu)
-- **[Love Theme](https://open.spotify.com/track/1w5LNMQslctoeOwoQjwqnu)** by Michael Small ('klute' - Original Soundtrack Recording - Remastered)
-- **[Sadness Theme](https://open.spotify.com/track/1deOV8lDnZ6u4TpBqOYYUV)** by Franco Micalizzi (Stridulum - The Visitor (Original Motion Picture Soundtrack))
-- **[Reminiscences Of Kirizumi](https://open.spotify.com/track/2TtMyOtO7TWgkHZ18Cyuti)** by Yuji Ohno (Proof Of The Man [人間の証明])
-- **[Sabbat, pt. 3](https://open.spotify.com/track/0CycZ8pvvdqSyBxJLapOOI)** by Cortex (Troupeau bleu)
+- **[Mahè](https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq)** by Piero Umiliani (La ragazza dalla pelle di luna)
+- **[Endless Love](https://open.spotify.com/track/5ApMqACDwOWUOjaztWwU5A)** by Piero Piccioni (Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack))
+- **[Foggy Town](https://open.spotify.com/track/55DbJWtEtgkPA4rUxTk8lv)** by Alessandro Alessandroni (Panoramic Feelings (Mellow Carefree Lounge Music))
+- **[ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ)** by セキトオ・シゲオ (華麗なるエレクトーン -ザ・ワード-)
+- **[Carmen Blues](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)** by Alberto Baldan Bembo (L'amica di mia madre (Colonna sonora originale del film))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: L'amica di mia madre (Colonna sonora originale del film)
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 19:34:20Z UTC_
+_Last updated: 2025-06-01 19:47:46Z UTC_
 <!-- SPOTIFY-END -->
