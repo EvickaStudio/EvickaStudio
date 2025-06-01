@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27386a069f343886806cd5c4ab3" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273209741a83d409fe19e44ca67" alt="Cover Art" width="120"/>
 </p>
 
-**[Die Stadt verblasst](https://open.spotify.com/track/1D9G8qJ3uPcclBZQohhf7M)**
-by Blumengarten, Apsilon
-Album: Ich liebe dich für immer
+**[GmdH](https://open.spotify.com/track/2N7umuRBdK014bDuwREFZS)**
+by Ritter Lean
+Album: Ob ein Atze fliegen kann
 
-0:19 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:03
+0:26 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:54
 
 ### 📜 Recently Played
-- **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by diggidaniel (Zucker für mich)
-- **[ein mensch](https://open.spotify.com/track/3zbXjwihqOba5VH0lIhbXS)** by JEREMIAS (trust)
-- **[okay!](https://open.spotify.com/track/21SMupJDpMF1Hwzyhm0vQy)** by Replay Okay, Zsá Zsá (okay!)
-- **[Junge Hunde](https://open.spotify.com/track/1HB7vPJ7MXiv8fHInxfqWi)** by EASY EASY (Junge Hunde)
-- **[Kristall Kristall](https://open.spotify.com/track/2PeTymoOAl2p6Z1kEhVSFe)** by NILS KEPPEL (Kristall Kristall)
+- **[Seismograph](https://open.spotify.com/track/7xFnG9kPjtKls2oZsUlYwi)** by Luis Ake, TRÄNEN (Ehrenvoll, Luis Ake)
+- **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by Steintor Herrenchor (Collide Session #18 - Steintor Herrenchor)
+- **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by diamando, DeeLou (Zigaretten)
+- **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by Edwin Rosen (21 Nächte wach)
+- **[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)** by wurms, MDW (Slide)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Ich liebe dich für immer
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 23:11:39Z UTC_
+_Last updated: 2025-06-01 23:28:41Z UTC_
 <!-- SPOTIFY-END -->
