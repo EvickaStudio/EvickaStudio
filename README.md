@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fa50fa84bd7d87cd60d33179" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386a069f343886806cd5c4ab3" alt="Cover Art" width="120"/>
 </p>
 
-**[Lieblingslieder](https://open.spotify.com/track/5HD9po1b3WKX0VPkuvFFfA)**
-by Traumatin
-Album: Lieblingslieder
+**[Die Stadt verblasst](https://open.spotify.com/track/1D9G8qJ3uPcclBZQohhf7M)**
+by Blumengarten, Apsilon
+Album: Ich liebe dich für immer
 
-1:55 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 3:20
+0:19 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:03
 
 ### 📜 Recently Played
-- **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by Pink Katana (In mein Herz)
-- **[eine Woche](https://open.spotify.com/track/1L5Yx9t9a4kUOGx0gdiX9p)** by Steintor Herrenchor (Eine Woche Geburtstag)
-- **[mein herz setzt aus_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR)** by Kasi (harddrive2024)
-- **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by TEMMIS (Klinge)
-- **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by diggidaniel (So weit)
+- **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by diggidaniel (Zucker für mich)
+- **[ein mensch](https://open.spotify.com/track/3zbXjwihqOba5VH0lIhbXS)** by JEREMIAS (trust)
+- **[okay!](https://open.spotify.com/track/21SMupJDpMF1Hwzyhm0vQy)** by Replay Okay, Zsá Zsá (okay!)
+- **[Junge Hunde](https://open.spotify.com/track/1HB7vPJ7MXiv8fHInxfqWi)** by EASY EASY (Junge Hunde)
+- **[Kristall Kristall](https://open.spotify.com/track/2PeTymoOAl2p6Z1kEhVSFe)** by NILS KEPPEL (Kristall Kristall)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Lieblingslieder
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 22:48:31Z UTC_
+_Last updated: 2025-06-01 23:11:39Z UTC_
 <!-- SPOTIFY-END -->
