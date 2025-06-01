@@ -96,14 +96,22 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120"/>
+</p>
+
+**[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
+by Led Zeppelin
+Album: Led Zeppelin IV (Deluxe Edition)
+
+7:45 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘 8:02
 
 ### 📜 Recently Played
-- **[waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX)** by Riovaz, Kanii (waiting alonE)
-- **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by Calvin Harris (Motion)
-- **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by PinkPantheress (Heaven knows)
-- **[Butterflies](https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M)** by TV Girl, George Clanton, Jordana (Fauxllennium)
-- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by Good Kid (Good Kid 4)
+- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
+- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
+- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
+- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -119,5 +127,5 @@ Not playing anything right now.
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 11:47:51Z UTC_
+_Last updated: 2025-06-01 12:22:27Z UTC_
 <!-- SPOTIFY-END -->
