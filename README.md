@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732d0373a546372d162a12b270" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a" alt="Cover Art" width="120"/>
 </p>
 
-**[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)**
-by meat computer
-Album: how it feels to get run over
+**[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)**
+by Men At Work
+Album: Business As Usual
 
-0:29 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:47
+3:31 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 3:45
 
 ### 📜 Recently Played
-- **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by 999 Heartake Sabileye (A Boy Named Hexd)
-- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by jigitz (don't come back)
-- **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by Skepsiz, headless_DATA (PUNK PARADOX!)
-- **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by Enquirer (for you)
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
+- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by Sg Lily, Buffalobang, Eera (XTC FINAL)
+- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by mickyi, S1RENA (zone out ep ⋆｡°✩)
+- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by Franco Micalizzi (Stridulum - The Visitor (Original Motion Picture Soundtrack))
+- **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by jonatan leandoer96, Frederik Valentin (Sugar World)
+- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -131,8 +131,8 @@ Album: how it feels to get run over
 1. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 2. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
 3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-06-01 14:48:31Z UTC_
+_Last updated: 2025-06-01 15:11:30Z UTC_
 <!-- SPOTIFY-END -->
