@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738fdf58b2f944bb998304457f" alt="Cover Art" width="120"/>
 </p>
 
-**[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)**
-by Edwin Rosen, sparr00w
-Album: Die Sterne
+**[Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)**
+by MC WINDHUND
+Album: Uschi
 
-2:50 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬ 3:18
+3:02 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 3:20
 
 ### 📜 Recently Played
-- **[kontrollverlust](https://open.spotify.com/track/4S8cCU8rqOTMPJqfR21Ft3)** by Edwin Rosen (Die Sterne)
-- **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by Edwin Rosen (Die Sterne)
-- **[Balancieren](https://open.spotify.com/track/3NbLQrcuvDiT3bQkaIDeNT)** by Edwin Rosen (Die Sterne)
-- **[Balancieren](https://open.spotify.com/track/3NbLQrcuvDiT3bQkaIDeNT)** by Edwin Rosen (Die Sterne)
-- **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by Edwin Rosen (mitleerenhänden)
+- **[Bloody Rain](https://open.spotify.com/track/03lHuGuHgKcWThhKg9qivx)** by Souly (Ich wünschte, es würd' mich kümmern)
+- **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by diggidaniel (verschwende mich)
+- **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by Traumatin, whosroman (Helium)
+- **[Die Sterne](https://open.spotify.com/track/03iodd8jtQZJT936KHWBMy)** by Edwin Rosen (Die Sterne)
+- **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by Edwin Rosen (Die Sterne)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Die Sterne
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 21:10:56Z UTC_
+_Last updated: 2025-06-01 21:27:30Z UTC_
 <!-- SPOTIFY-END -->
