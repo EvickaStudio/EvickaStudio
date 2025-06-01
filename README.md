@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739367a9bdd1e91b31f31c9e03" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332c80123c30ac60522a4c843" alt="Cover Art" width="120"/>
 </p>
 
-**[What She Feels Like](https://open.spotify.com/track/7jUIcwevWK3TbvF0BS0Xky)**
-by loopgarden
-Album: Noiris
+**[Mubu](https://open.spotify.com/track/3cBBt4Wupd7wbUG0vfylLl)**
+by Alberto Baldan Bembo
+Album: Lingua d'argento
 
-0:31 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:32
+0:11 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:52
 
 ### 📜 Recently Played
-- **[Luna, amore e no](https://open.spotify.com/track/1LlQI0PyVcf9iiDPbSLxFp)** by Piero Piccioni (Amore mio aiutami (Original Motion Picture Soundtrack))
-- **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by Aphex Twin (Come To Daddy)
-- **[Despues de Las Seis](https://open.spotify.com/track/5fDUoqo9mb7cRpwZPC5txX)** by Agustin Pereyra Lucena (La Rana)
-- **[Gonzales Go](https://open.spotify.com/track/3EIAv6o2dgciRkUmdljQfJ)** by Alberto Baldan Bembo (L'amica di mia madre (Colonna sonora originale del film))
-- **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by Masayoshi Takanaka (SEYCHELLES)
+- **[A Winning Team](https://open.spotify.com/track/0xWK8T2MsDk5uHQT4raGIJ)** by Cortex (Inedit 79)
+- **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida (Classical Current)
+- **[Night Lights - 1965 Version](https://open.spotify.com/track/3kaqke7JPH3noG3BFjx6W5)** by Gerry Mulligan Sextet (Night Lights (Expanded Edition))
+- **[Hannibal March](https://open.spotify.com/track/3yxY2V433vwZkl3les7SUE)** by Cortex (Inedit 79)
+- **[Nostalgia - Rhythm Version](https://open.spotify.com/track/5wDyH8jsJYgqmmvanjG39y)** by Piero Umiliani (La ragazza fuori strada)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Noiris
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 20:13:12Z UTC_
+_Last updated: 2025-06-01 20:31:49Z UTC_
 <!-- SPOTIFY-END -->
