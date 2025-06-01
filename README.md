@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc884d49f44179b8e18358d0" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386a069f343886806cd5c4ab3" alt="Cover Art" width="120"/>
 </p>
 
-**[Gefahr](https://open.spotify.com/track/05wVoeLQbj0hH4l1b4PdpQ)**
-by Luis Ake
-Album: Ehrenvoll, Luis Ake
+**[Träum von dir](https://open.spotify.com/track/1WEVnmXBmPC3qEib5Gr8H4)**
+by Blumengarten
+Album: Ich liebe dich für immer
 
-0:16 ▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:45
+2:09 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 4:07
 
 ### 📜 Recently Played
-- **[Hab mich oft gefragt](https://open.spotify.com/track/4DBoydGVU7VC9BUelqv9pn)** by Kalte Liebe (Hab mich oft gefragt)
-- **[ohne Funktion](https://open.spotify.com/track/6omyMAbp39fDcAhdfR8ReZ)** by Steintor Herrenchor (oh scheiße Gefühle)
-- **[Tanzalarm](https://open.spotify.com/track/1wtXpsjzyFyCh4mOtHbZTl)** by 01099, Gustav, Paul (Kinder der Nacht)
-- **[Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)** by MC WINDHUND (Uschi)
-- **[Bloody Rain](https://open.spotify.com/track/03lHuGuHgKcWThhKg9qivx)** by Souly (Ich wünschte, es würd' mich kümmern)
+- **[Nordpol](https://open.spotify.com/track/0ESqAkzr4XDrznNJqeFnzO)** by Steintor Herrenchor (oh scheiße Gefühle)
+- **[Empathie](https://open.spotify.com/track/5pfpargS6mOsnZkYass0Js)** by wurms, MC WINDHUND (Empathie)
+- **[nachmittagsverkehr](https://open.spotify.com/track/3hZ8CYjHDRhWOB8HiP699x)** by Kasi, antonius, Ericson (nachmittagsverkehr)
+- **[Gefahr](https://open.spotify.com/track/05wVoeLQbj0hH4l1b4PdpQ)** by Luis Ake (Ehrenvoll, Luis Ake)
+- **[KALTE NACHT](https://open.spotify.com/track/377yXfID2pxqwij7gefJBN)** by diggidaniel (verschwende mich)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Ehrenvoll, Luis Ake
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 21:37:12Z UTC_
+_Last updated: 2025-06-01 21:47:56Z UTC_
 <!-- SPOTIFY-END -->
