@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732b2d0e7625b03dc9a5728ebe" alt="Cover Art" width="120"/>
 </p>
 
-**[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)**
-by Cortex
-Album: Troupeau bleu
+**[Volto di donna - Trumpet Version](https://open.spotify.com/track/0FFRAdBmkWoMRNS5R6f14l)**
+by Piero Umiliani
+Album: La ragazza fuori strada
 
-4:22 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘 4:26
+1:14 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 3:28
 
 ### 📜 Recently Played
+- **[Gungala nido](https://open.spotify.com/track/1UMF4tcuC8J1XpJ1qp9Ws3)** by Luigi Malatesta, Franco Bixio, Sandro Brugnolini (Gungala, la pantera nuda (Original Motion Picture Soundtrack))
+- **[Tears In Brasil](https://open.spotify.com/track/4gUSLTXPpzgZeCK9lo4OOP)** by Piero Piccioni (Camille 2000 (Original Motion Picture Soundtrack))
+- **[Linda](https://open.spotify.com/track/6zE2xJvFmHEPECsvLki2CE)** by Alberto Baldan Bembo (L'amica di mia madre (Colonna sonora originale del film))
+- **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by Cortex (Troupeau bleu)
 - **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by Dave Plugs (SAG WIESO EP)
-- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by Niclov, ilyproxy, leander (all1ne)
-- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by sparr00w (Soundcloud Archive)
-- **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by Pink Katana (4ever)
-- **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by kevin (Es ist peinlich)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Troupeau bleu
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 17:40:40Z UTC_
+_Last updated: 2025-06-01 17:48:24Z UTC_
 <!-- SPOTIFY-END -->
