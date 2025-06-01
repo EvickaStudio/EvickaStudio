@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bb61ea59e6648c11454b5bfe" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120"/>
 </p>
 
-**[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)**
-by Laurindo Almeida
-Album: Classical Current
+**[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
+by Led Zeppelin
+Album: Led Zeppelin IV (Deluxe Edition)
 
-1:25 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 2:50
+5:42 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 8:02
 
 ### 📜 Recently Played
-- **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by mikeycyrus (minicyrus)
-- **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by Bob Dylan (Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))
-- **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by Yung Lean (Unknown Memory)
-- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by o0o, Aidan Swank, oaf1 (DUI_002)
-- **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by Radiohead (Kid A)
+- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
+- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
+- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
+- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -121,11 +121,11 @@ Album: Classical Current
 5. [Der Witz](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 
 ### 🎶 Top Tracks (Short Term)
-1. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
-2. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
+1. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
+2. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
 3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
-5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 13:47:59Z UTC_
+_Last updated: 2025-06-01 14:10:52Z UTC_
 <!-- SPOTIFY-END -->
