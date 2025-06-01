@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27332c80123c30ac60522a4c843" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e1bad46155887c633a0a2a7" alt="Cover Art" width="120"/>
 </p>
 
-**[Mubu](https://open.spotify.com/track/3cBBt4Wupd7wbUG0vfylLl)**
-by Alberto Baldan Bembo
-Album: Lingua d'argento
+**[leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)**
+by Edwin Rosen
+Album: leichter//kälter / SSS
 
-0:11 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:52
+1:20 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 3:15
 
 ### 📜 Recently Played
-- **[A Winning Team](https://open.spotify.com/track/0xWK8T2MsDk5uHQT4raGIJ)** by Cortex (Inedit 79)
-- **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by Laurindo Almeida (Classical Current)
-- **[Night Lights - 1965 Version](https://open.spotify.com/track/3kaqke7JPH3noG3BFjx6W5)** by Gerry Mulligan Sextet (Night Lights (Expanded Edition))
-- **[Hannibal March](https://open.spotify.com/track/3yxY2V433vwZkl3les7SUE)** by Cortex (Inedit 79)
-- **[Nostalgia - Rhythm Version](https://open.spotify.com/track/5wDyH8jsJYgqmmvanjG39y)** by Piero Umiliani (La ragazza fuori strada)
+- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by Edwin Rosen (leichter//kälter)
+- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by Edwin Rosen (Die Sterne)
+- **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by Edwin Rosen, sparr00w (Die Sterne)
+- **[Efficace Swing](https://open.spotify.com/track/4RduagyN6mPKY5h81Gzb8P)** by Cortex (Cortex, Vol. 2)
+- **[Automne - Colchiques](https://open.spotify.com/track/5Rt5pomA6CvKTuCllwRY74)** by Cortex (Troupeau bleu)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Lingua d'argento
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 20:31:49Z UTC_
+_Last updated: 2025-06-01 20:48:27Z UTC_
 <!-- SPOTIFY-END -->
