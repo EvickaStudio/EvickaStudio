@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120"/>
 </p>
 
-**[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)**
-by jonatan leandoer96, Frederik Valentin
-Album: Sugar World
+**[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)**
+by Yung Lean
+Album: Unknown Memory
 
-1:44 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 3:56
+2:22 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 3:59
 
 ### 📜 Recently Played
-- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
-- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by ChromeStylist (Erotica)
-- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
-- **[I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p)** by Type O Negative (Life Is Killing Me)
-- **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by meat computer (how it feels to get run over)
+- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by o0o, Aidan Swank, oaf1 (DUI_002)
+- **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by Radiohead (Kid A)
+- **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by augenschliesser, Spartakdakar, gothband1t (Kunst für Künstler 1)
+- **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by Jane Remover (Frailty)
+- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +127,5 @@ Album: Sugar World
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-06-01 13:00:45Z UTC_
+_Last updated: 2025-06-01 13:35:20Z UTC_
 <!-- SPOTIFY-END -->
