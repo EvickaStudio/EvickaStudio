@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d3523d30b378d98bc4b83ed9" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c911aca0ce7836058f085221" alt="Cover Art" width="120"/>
 </p>
 
-**[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)**
-by Enquirer
-Album: for you
+**[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)**
+by Pink Katana
+Album: 4ever
 
-0:27 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:17
+1:17 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 1:34
 
 ### 📜 Recently Played
-- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
-- **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by Santigold (Master of My Make-Believe)
-- **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by 5v (ashes2ashes)
-- **[IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)** by BONES (Champion)
-- **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by Yung Lean (Unknown Memory)
+- **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by kevin (Es ist peinlich)
+- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by Crystal Castles (Amnesty (I))
+- **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by Ezekiel (Ezekiel Singles ’18-‘20)
+- **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by Boy Fantasy, g0r3c0r3 (BOY FANTASY)
+- **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by Cult Member, Mia Martina (U Weren't Here I Really Miss You (slowed))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: for you
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 17:10:15Z UTC_
+_Last updated: 2025-06-01 17:29:01Z UTC_
 <!-- SPOTIFY-END -->
