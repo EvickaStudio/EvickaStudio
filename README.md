@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cff60f4f7347d871f78be2f" alt="Cover Art" width="120"/>
 </p>
 
-**[Sabbat, pt. 3](https://open.spotify.com/track/0CycZ8pvvdqSyBxJLapOOI)**
-by Cortex
-Album: Troupeau bleu
+**[Carmen Blues](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)**
+by Alberto Baldan Bembo
+Album: L'amica di mia madre (Colonna sonora originale del film)
 
-0:20 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 0:31
+0:34 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:12
 
 ### 📜 Recently Played
-- **[deep in it](https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg)** by berlioz, Ted Jasper (deep in it)
-- **[Chaser](https://open.spotify.com/track/72MfFeKxnBCeuwN62QnshP)** by Piero Umiliani (Il corpo (Original Motion Picture Soundtrack))
-- **[Ballade](https://open.spotify.com/track/69oDHCpVOoUUd9RfyyA42c)** by Piero Piccioni (Camille 2000 (Original Motion Picture Soundtrack))
-- **[Ostavi trag](https://open.spotify.com/track/65zw2RY8Qp0JJDcQNSejNY)** by September (Zadnja avantura)
-- **[White Sands](https://open.spotify.com/track/5xLzGWWwVcIzFb5bL8eU84)** by Alessandro Alessandroni (Panoramic Feelings (Mellow Carefree Lounge Music))
+- **[KAZENI FUKARETE](https://open.spotify.com/track/62R52fq2mTu9kluWVBXDF3)** by Cro-Magnon (Hyouge Mono - Otsu)
+- **[Love Theme](https://open.spotify.com/track/1w5LNMQslctoeOwoQjwqnu)** by Michael Small ('klute' - Original Soundtrack Recording - Remastered)
+- **[Sadness Theme](https://open.spotify.com/track/1deOV8lDnZ6u4TpBqOYYUV)** by Franco Micalizzi (Stridulum - The Visitor (Original Motion Picture Soundtrack))
+- **[Reminiscences Of Kirizumi](https://open.spotify.com/track/2TtMyOtO7TWgkHZ18Cyuti)** by Yuji Ohno (Proof Of The Man [人間の証明])
+- **[Sabbat, pt. 3](https://open.spotify.com/track/0CycZ8pvvdqSyBxJLapOOI)** by Cortex (Troupeau bleu)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Troupeau bleu
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 19:23:41Z UTC_
+_Last updated: 2025-06-01 19:34:20Z UTC_
 <!-- SPOTIFY-END -->
