@@ -96,22 +96,14 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d67816ddee3a4d403459c7c4" alt="Cover Art" width="120"/>
-</p>
-
-**[emotion engine](https://open.spotify.com/track/6671hmfatqJ9gcrxSy1TvA)**
-by Dazegxd, Kaiyko
-Album: vKiSS
-
-3:10 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 4:15
+Not playing anything right now.
 
 ### 📜 Recently Played
-- **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by Snow Strippers (Night Killaz Vol. 1)
-- **[Robins](https://open.spotify.com/track/75024A8Vt0otJIUZXzYJ10)** by hqwilli (Robins)
-- **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by uusymon (Stardust)
-- **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by James Jetski (Diva)
-- **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by RYLO, veil (tränen statt wut)
+- **[waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX)** by Riovaz, Kanii (waiting alonE)
+- **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by Calvin Harris (Motion)
+- **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by PinkPantheress (Heaven knows)
+- **[Butterflies](https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M)** by TV Girl, George Clanton, Jordana (Fauxllennium)
+- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by Good Kid (Good Kid 4)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -127,5 +119,5 @@ Album: vKiSS
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-05-31 23:47:53Z UTC_
+_Last updated: 2025-06-01 01:13:54Z UTC_
 <!-- SPOTIFY-END -->
