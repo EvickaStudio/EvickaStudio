@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce11877304a4166375a8a970" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cff60f4f7347d871f78be2f" alt="Cover Art" width="120"/>
 </p>
 
-**[Water and Waves](https://open.spotify.com/track/3TZMLsHWWUkMY51wSaNkaH)**
-by Sven Libaek
-Album: Nature Walkabout (Original Television Soundtrack) [Remastered]
+**[Tema di Andrea](https://open.spotify.com/track/4yDUfLfG4wi3Ktfd9Fi7fH)**
+by Alberto Baldan Bembo
+Album: L'amica di mia madre (Colonna sonora originale del film)
 
-0:40 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 1:19
+2:29 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘 2:34
 
 ### 📜 Recently Played
-- **[The Word 2](https://open.spotify.com/track/1Lioa0er3gSDauLn76V2he)** by セキトオ・シゲオ, Masamichi Torii (Special Sound Selection: The Word)
-- **[Mexican Dream](https://open.spotify.com/track/1quput6F30wXk7Ym6XMPvS)** by Piero Piccioni (Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack))
-- **[Love Montage](https://open.spotify.com/track/1uPSbVIkIU5oZsFfIzsdmI)** by Michael Small ('klute' - Original Soundtrack Recording - Remastered)
-- **[Morning](https://open.spotify.com/track/7dEvUHcPU9jCXeYkKnHGKi)** by Azymuth (Azymuth (Deluxe Edition))
-- **[Tropical Club](https://open.spotify.com/track/76L1qBa3xJlxJ5HKzk8VbM)** by Alberto Baldan Bembo (L'amica di mia madre (Colonna sonora originale del film))
+- **[Nicole](https://open.spotify.com/track/0vNKuD2WdRqoOmpn3Ho4i1)** by Enrico Intra (Momento Intra)
+- **[A Taste Of Honey](https://open.spotify.com/track/71ZgxJIApKmssV44AD1Zva)** by Lionel Hampton (You Better Know It!!!)
+- **[Red Sun](https://open.spotify.com/track/6oveYXy8E4ouDgDT7JkdIv)** by SERAPHINE NOIR, Ash Lee (Red Sun)
+- **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by Cortex (Inedit 79)
+- **[Water and Waves](https://open.spotify.com/track/3TZMLsHWWUkMY51wSaNkaH)** by Sven Libaek (Nature Walkabout (Original Television Soundtrack) [Remastered])
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Nature Walkabout (Original Television Soundtrack) [Remastered]
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 18:53:21Z UTC_
+_Last updated: 2025-06-01 19:09:51Z UTC_
 <!-- SPOTIFY-END -->
