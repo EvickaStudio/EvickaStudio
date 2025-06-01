@@ -97,21 +97,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120"/>
 </p>
 
-**[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
-by Led Zeppelin
-Album: Led Zeppelin IV (Deluxe Edition)
+**[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)**
+by jonatan leandoer96, Frederik Valentin
+Album: Sugar World
 
-7:45 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘 8:02
+1:44 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 3:56
 
 ### 📜 Recently Played
-- **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by Crystal Statues, Crescent, resiiii (Lose Control)
-- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
-- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
-- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by LVL1 (PLAY)
-- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by White Town (Women in Technology)
+- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
+- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by ChromeStylist (Erotica)
+- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
+- **[I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p)** by Type O Negative (Life Is Killing Me)
+- **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by meat computer (how it feels to get run over)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -124,8 +124,8 @@ Album: Led Zeppelin IV (Deluxe Edition)
 1. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
 2. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+5. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
-_Last updated: 2025-06-01 12:22:27Z UTC_
+_Last updated: 2025-06-01 13:00:45Z UTC_
 <!-- SPOTIFY-END -->
