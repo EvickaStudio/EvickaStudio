@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9cae5eebb801556fa999d9a" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d3523d30b378d98bc4b83ed9" alt="Cover Art" width="120"/>
 </p>
 
-**[Raindrops](https://open.spotify.com/track/52TTlu9jMl55vDnXnwQkcs)**
-by Nokia Angel
-Album: Raindrops
+**[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)**
+by Enquirer
+Album: for you
 
-1:09 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 3:08
+0:27 ▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:17
 
 ### 📜 Recently Played
-- **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by jonatan leandoer96, Frederik Valentin (Sugar World)
-- **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by Slowdive (Souvlaki)
-- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by 5v (upset)
-- **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by Tamino404 (mondlicht)
-- **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by Varg²™, Bladee, VS-55 (ᚦ)
+- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by PinkPantheress (Take me home)
+- **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by Santigold (Master of My Make-Believe)
+- **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by 5v (ashes2ashes)
+- **[IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)** by BONES (Champion)
+- **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by Yung Lean (Unknown Memory)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Raindrops
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 16:52:43Z UTC_
+_Last updated: 2025-06-01 17:10:15Z UTC_
 <!-- SPOTIFY-END -->
