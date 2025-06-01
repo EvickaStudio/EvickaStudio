@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737fc5d1436f400b1f27872fc9" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273661eb5e103f62d0627b9e9e2" alt="Cover Art" width="120"/>
 </p>
 
-**[Lounge Music](https://open.spotify.com/track/09TniPpd0w5MScSVLtlOSa)**
-by Michael Small
-Album: 'klute' - Original Soundtrack Recording - Remastered
+**[Morning](https://open.spotify.com/track/7dEvUHcPU9jCXeYkKnHGKi)**
+by Azymuth
+Album: Azymuth (Deluxe Edition)
 
-0:41 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:05
+1:46 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 3:48
 
 ### 📜 Recently Played
-- **[Ricordandoti](https://open.spotify.com/track/4acYM2ql5qiU7yXtz9KM1n)** by Piero Umiliani (La ragazza dalla pelle di luna)
-- **[The Breeze and I](https://open.spotify.com/track/3xCjjJupMl5TD6LbsFAbk3)** by Laurindo Almeida (Classical Current)
-- **[Jorge do Fusa](https://open.spotify.com/track/7r4JrZ8PEfXALYz05jcqKY)** by Garoto (Projeto Memoria Brasileira : Viva Garoto)
-- **[Samoa](https://open.spotify.com/track/5bECtLHt4A5a7kEYK6gh0b)** by Alberto Baldan Bembo (Lingua d'argento)
-- **[Love Story - 2024 Remastered Version](https://open.spotify.com/track/057hCbfZV3NcensFMGNrXH)** by O'Donel Levy (Black Velvet (2024 Remastered Version))
+- **[Tropical Club](https://open.spotify.com/track/76L1qBa3xJlxJ5HKzk8VbM)** by Alberto Baldan Bembo (L'amica di mia madre (Colonna sonora originale del film))
+- **[Sophisticated July](https://open.spotify.com/track/7gmXkANE4EGNVdeBINCvsI)** by Luigi Malatesta, Franco Bixio, Sandro Brugnolini (Gungala, la pantera nuda (Original Motion Picture Soundtrack))
+- **[Letters to Jun(E)](https://open.spotify.com/track/4wG1OI56aIbNlvQcI2P8VA)** by Witness (Hope Springs Eternal)
+- **[Tema di Susie](https://open.spotify.com/track/1YOOCK06gvytuk1jPk5XdN)** by Alessandro Alessandroni (Sangue di sbirro (Original Motion Picture Soundtrack))
+- **[hot slow](https://open.spotify.com/track/2hIPKg0LBYhZYmwZS6eQ20)** by berlioz (open this wall)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: 'klute' - Original Soundtrack Recording - Remastered
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 18:15:59Z UTC_
+_Last updated: 2025-06-01 18:44:10Z UTC_
 <!-- SPOTIFY-END -->
