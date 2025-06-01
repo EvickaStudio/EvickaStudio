@@ -1,3 +1,9 @@
+![Evicka Studio Banner](assets/banner_2.webp)
+
+<br clear="left"/>
+
+---
+
 <div>
   <img
        align="left"
@@ -7,6 +13,7 @@
        style="margin-right: 20px; margin-bottom: 20px;"
   />
 </div>
+
 Hey, I'm Erik
 
   I am a **Computer Science & Software Engineering** student from Germany. I am currently focusing mainly on learning new programming languages and expanding my programming skills in programming languages I already know, as well as frameworks and programming concepts. My projects mostly deal with automating various processes to save time and effort for others and myself.
