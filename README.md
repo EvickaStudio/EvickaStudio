@@ -103,14 +103,22 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2734e85d09d7a1cbf8fb5aa5cf0" alt="Cover Art" width="120"/>
+</p>
+
+**[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)**
+by Cult Member, Mia Martina
+Album: U Weren't Here I Really Miss You (slowed)
+
+0:19 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:08
 
 ### 📜 Recently Played
+- **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by Edwin Rosen, sparr00w (Die Sterne)
+- **[kontrollverlust](https://open.spotify.com/track/4S8cCU8rqOTMPJqfR21Ft3)** by Edwin Rosen (Die Sterne)
 - **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by 5v (i rly hate it here..)
 - **[exist in me](https://open.spotify.com/track/0PZweQfenOcra3aN7oNgEP)** by zaya (exist in me)
 - **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by Cult Member, Mia Martina (U Weren't Here I Really Miss You (slowed))
-- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by Traumatin (König Der Welt)
-- **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by Basement (Colourmeinkindness)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -126,5 +134,5 @@ Not playing anything right now.
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 07:47:48Z UTC_
+_Last updated: 2025-06-02 08:18:49Z UTC_
 <!-- SPOTIFY-END -->
