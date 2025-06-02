@@ -102,37 +102,61 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ## 🎧 Spotify
 
 <!-- SPOTIFY-START -->
+
+
 ### 🟢 Now Playing
+
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce11877304a4166375a8a970" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**[Water and Waves](https://open.spotify.com/track/3TZMLsHWWUkMY51wSaNkaH)**
-by Sven Libaek
-Album: Nature Walkabout (Original Television Soundtrack) [Remastered]
+**🎵 [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr)**
+*by* **d4vd**
+*Album:* Petals to Thorns
 
-0:27 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:19
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:26 • 4:02
+</span>
+</p>
+
+
 
 ### 📜 Recently Played
-- **[SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)** by Sleepisformortals (SO DUMB)
-- **[Lass mich schlafen/Тишина](https://open.spotify.com/track/0BVX1IM7AG43HG6MeKCcJf)** by Traumatin, bishkek (Lass mich schlafen/Тишина)
-- **[Shadow (I’m Breaking Down)](https://open.spotify.com/track/0Dtz6spSgAATlLo4q86GVp)** by Destroy Boys (Funeral Soundtrack #4)
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
-- **[Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP)** by ThxSoMch (Keep It Tucked)
 
-### 🌟 Top Artists (Short Term)
-1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-2. [blombi19](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-3. [5v](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-4. [Der Witz](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
-5. [agelast222](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
+🎤 **[The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle)** by **Coldplay** *(A Rush of Blood to the Head)*
+🎤 **[Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)** by **Coldplay** *(Parachutes)*
+🎤 **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)*
+🎤 **[Water and Waves](https://open.spotify.com/track/3TZMLsHWWUkMY51wSaNkaH)** by **Sven Libaek** *(Nature Walkabout (Original Television Soundtrack) [Remastered])*
 
-### 🎶 Top Tracks (Short Term)
-1. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
-2. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-3. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
-5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 20:14:01Z UTC_
+
+### 🌟 Top Artists *(Short Term)*
+
+🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥈 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+🥉 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+
+
+
+### 🎶 Top Tracks *(Short Term)*
+
+🥇 [**ᚦᚦᚦᚦperfect violation ᚦᚦ**](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
+🥈 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+🥉 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+🏅 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
+
+
+🕐 Last updated: 2025-06-02 20:33:39Z UTC
 <!-- SPOTIFY-END -->
