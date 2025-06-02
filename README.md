@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ca40908d43a2a80fb34de8a3" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737aafb170cd6302177ce374e3" alt="Cover Art" width="120"/>
 </p>
 
-**[Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC)**
-by The Cure
-Album: Three Imaginary Boys
+**[All the Lovers](https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW)**
+by Kylie Minogue
+Album: Aphrodite
 
-0:55 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 2:35
+1:33 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 3:19
 
 ### 📜 Recently Played
-- **[Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)** by Joy Division (Unknown Pleasures (Collector's Edition))
-- **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by Flawless Issues (Good Vibrations)
-- **[I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy)** by Wisp (I remember how your hands felt on mine)
-- **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by Edwin Rosen (Verschwende deine Zeit)
-- **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by Pink Katana (Den Mutigen gehört die Welt)
+- **[Banghra - Vocal Radio Edit](https://open.spotify.com/track/0IMa8eTruiBICW9NpTXB7q)** by Krid P (Banghra (All Mixes))
+- **[Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann)** by SACHI (Wildfire)
+- **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by NXFEIT, Sillyelly, Hen848 (CASSA DRITTISSIMA !!)
+- **[141 Schneeschieber](https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP)** by TAKTSTÖRER (141 Schneeschieber)
+- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by DVRKLXGHT (EUPHORIA)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Three Imaginary Boys
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 16:49:04Z UTC_
+_Last updated: 2025-06-02 17:12:04Z UTC_
 <!-- SPOTIFY-END -->
