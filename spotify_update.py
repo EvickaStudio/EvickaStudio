@@ -149,7 +149,7 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
         block.extend(
             [
                 '<p align="center">',
-                f'<img src="{cover_url}" alt="Cover Art" width="120" style="border-radius: 8px;"/>',
+                f'<img src="{cover_url}" alt="Cover Art" width="120" style="border-radius: 8px;"/>', # noqa: E501
                 "</p>",
                 "",
                 f"**🎵 [{name}]({url})**",
@@ -209,7 +209,7 @@ def generate_top_artists_block(sp: spotipy.Spotify) -> List[str]:
     """
     block: List[str] = ["", "### 🌟 Top Artists *(Short Term)*", ""]
     try:
-        results = sp.current_user_top_artists(limit=TOP_LIMIT, time_range="short_term")
+        results = sp.current_user_top_artists(limit=TOP_LIMIT, time_range="short_term") # noqa: E501
         items = results.get("items", [])
         if not items:
             block.extend(["No top artists data available.", "", ""])
@@ -239,7 +239,7 @@ def generate_top_tracks_block(sp: spotipy.Spotify) -> List[str]:
     """
     block: List[str] = ["", "### 🎶 Top Tracks *(Short Term)*", ""]
     try:
-        results = sp.current_user_top_tracks(limit=TOP_LIMIT, time_range="short_term")
+        results = sp.current_user_top_tracks(limit=TOP_LIMIT, time_range="short_term") # noqa: E501
         items = results.get("items", [])
         if not items:
             block.extend(["No top tracks data available.", "", ""])
@@ -271,7 +271,7 @@ def generate_markdown() -> str:
     md.extend(generate_top_artists_block(sp))
     md.extend(generate_top_tracks_block(sp))
     md.append(
-        f"🕐 Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%SZ')} UTC"
+        f"🕐 Last updated: {datetime.now(datetime.UTC).strftime('%Y-%m-%d %H:%M:%SZ')} UTC" # noqa: E501
     )
     return "\n".join(md)
 
@@ -291,7 +291,7 @@ def update_readme() -> None:
         pattern = re.compile(
             r"<!-- SPOTIFY-START -->(.*?)<!-- SPOTIFY-END -->", re.DOTALL
         )
-        new_section = f"<!-- SPOTIFY-START -->\n{snippet}\n<!-- SPOTIFY-END -->"
+        new_section = f"<!-- SPOTIFY-START -->\n{snippet}\n<!-- SPOTIFY-END -->" # noqa: E501
         updated = pattern.sub(new_section, content)
         with open(path, "w", encoding="utf-8") as f:
             f.write(updated)
