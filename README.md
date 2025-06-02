@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d8858b611d0ca8ffb52fa6f" alt="Cover Art" width="120"/>
 </p>
 
-**[Teen X (feat. Future)](https://open.spotify.com/track/5uYqmEN6TAAE8ss8YmprNV)**
-by Playboi Carti, Future
-Album: Whole Lotta Red
+**[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)**
+by meat computer
+Album: without you
 
-0:11 ▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:25
+1:37 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 1:55
 
 ### 📜 Recently Played
-- **[Autobahn](https://open.spotify.com/track/0J1KXi6cO3xMSo5JqB8zka)** by Dropped here (Autobahn)
-- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by mickyi, S1RENA (zone out ep ⋆｡°✩)
-- **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by uusymon, Trashmann (Kratom)
-- **[rise up + sunrise](https://open.spotify.com/track/4VuneVSx8Mg7IXD3BbrApC)** by Psyke, humanangst (rise up + sunrise)
-- **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by sparr00w (Ich kann die Sterne nicht mehr Zählen)
+- **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by boy 2000 (tape 2000)
+- **[Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)** by Snow Strippers (April Mixtape 3)
+- **[Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)** by Bladee, Mechatok (Good Luck)
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by Dj Billybool, Bladee (Som Jag)
+- **[Swang](https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL)** by Rae Sremmurd (SremmLife 2 (Deluxe))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Whole Lotta Red
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 10:14:15Z UTC_
+_Last updated: 2025-06-02 10:40:09Z UTC_
 <!-- SPOTIFY-END -->
