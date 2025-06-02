@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27381999087974d63098ba9de17" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10" alt="Cover Art" width="120"/>
 </p>
 
-**[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)**
-by strangerperson
-Album: Kisses und Flowers
+**[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)**
+by Basement
+Album: Colourmeinkindness
 
-2:43 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:20
+1:43 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 3:47
 
 ### 📜 Recently Played
+- **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by Hole (Celebrity Skin)
+- **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by Wisp (Pandora)
+- **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by strangerperson (Kisses und Flowers)
 - **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by TEMMIS (Wenn du da bist)
 - **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by EASY EASY, Leocardo DiNaprio (helios)
-- **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by herz. (kopflos durch die nacht)
-- **[Ich bleib](https://open.spotify.com/track/5rA5nQkEswo9hBuQ6y4P1h)** by Carlo5 (Teil 2: Drunter/Drüber)
-- **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by Steintor Herrenchor, diggidaniel (wollte nie)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Kisses und Flowers
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 13:42:41Z UTC_
+_Last updated: 2025-06-02 13:53:31Z UTC_
 <!-- SPOTIFY-END -->
