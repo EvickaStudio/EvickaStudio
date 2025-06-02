@@ -103,14 +103,22 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb" alt="Cover Art" width="120"/>
+</p>
+
+**[Teen X (feat. Future)](https://open.spotify.com/track/5uYqmEN6TAAE8ss8YmprNV)**
+by Playboi Carti, Future
+Album: Whole Lotta Red
+
+0:11 ▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:25
 
 ### 📜 Recently Played
-- **[Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)** by Edwin Rosen (mitleerenhänden)
-- **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by quannnic (kenopsia)
-- **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by Ecco2k, Thaiboy Digital, Bladee (Trash Island)
-- **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by Baby B3ns (Herzcrash)
-- **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by 2hollis (SHEDIM)
+- **[Autobahn](https://open.spotify.com/track/0J1KXi6cO3xMSo5JqB8zka)** by Dropped here (Autobahn)
+- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by mickyi, S1RENA (zone out ep ⋆｡°✩)
+- **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by uusymon, Trashmann (Kratom)
+- **[rise up + sunrise](https://open.spotify.com/track/4VuneVSx8Mg7IXD3BbrApC)** by Psyke, humanangst (rise up + sunrise)
+- **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by sparr00w (Ich kann die Sterne nicht mehr Zählen)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -126,5 +134,5 @@ Not playing anything right now.
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 09:49:31Z UTC_
+_Last updated: 2025-06-02 10:14:15Z UTC_
 <!-- SPOTIFY-END -->
