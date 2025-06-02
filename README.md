@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273468781e982047d50971d6c07" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273674753c026f188eea01dca97" alt="Cover Art" width="120"/>
 </p>
 
-**[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)**
-by Juli
-Album: Es ist Juli
+**[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)**
+by jonatan leandoer96
+Album: Under Heaven
 
-2:08 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 3:46
+2:24 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 4:07
 
 ### 📜 Recently Played
-- **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by Bladee (The Fool)
-- **[Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r)** by Radiohead (Pablo Honey)
-- **[floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)** by Felix Bosques Harima (floods (outro))
-- **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by Basement (Colourmeinkindness)
-- **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by Hole (Celebrity Skin)
+- **[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)** by Juli (Es ist Juli)
+- **[Nite Walker](https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8)** by Sickboyrari (City Of Crows)
+- **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by Evanora Unlimited, Ecco2k (Dibiyu)
+- **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by Nokia Angel (In My Head)
+- **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by Levi Ryan (operation wandering soul)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Es ist Juli
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 14:13:29Z UTC_
+_Last updated: 2025-06-02 14:36:53Z UTC_
 <!-- SPOTIFY-END -->
