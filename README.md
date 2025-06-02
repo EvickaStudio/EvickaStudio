@@ -104,28 +104,28 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273628967d97d55f37df6e6a437" alt="Cover Art" width="120"/>
 </p>
 
-**[Hell Above](https://open.spotify.com/track/3EKh7JNsBrGoh2xqPotBKT)**
-by Pierce The Veil
-Album: Collide With The Sky
+**[nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG)**
+by camoufly, Dazegxd
+Album: nothing left 2 say / give u everything
 
-2:14 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 3:43
+0:37 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:15
 
 ### 📜 Recently Played
+- **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by Mall Grab (How The Dogs Chill, Vol.1)
+- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
+- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by Bring Me The Horizon (Sempiternal (Expanded Edition))
+- **[Hell Above](https://open.spotify.com/track/3EKh7JNsBrGoh2xqPotBKT)** by Pierce The Veil (Collide With The Sky)
 - **[Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E)** by Weezer (Weezer)
-- **[I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p)** by Type O Negative (Life Is Killing Me)
-- **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by Deftones (Around the Fur)
-- **[wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo)** by saraunh0ly (wutiwant)
-- **[No Wind Resistance!](https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP)** by Kinneret (DMZ)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 2. [blombi19](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 3. [5v](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-4. [agelast222](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-5. [Der Witz](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
+4. [Der Witz](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
+5. [agelast222](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
 ### 🎶 Top Tracks (Short Term)
 1. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
@@ -134,5 +134,5 @@ Album: Collide With The Sky
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 19:33:59Z UTC_
+_Last updated: 2025-06-02 19:47:33Z UTC_
 <!-- SPOTIFY-END -->
