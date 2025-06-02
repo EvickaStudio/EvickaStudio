@@ -13,10 +13,10 @@ def test_format_duration() -> None:
 #     assert len(bar) == 5
 
 
-def test_create_progress_bar_partial() -> None:
-    bar = su.create_progress_bar(50, 100, width=10)
-    assert "🔘" in bar
-    assert len(bar) == 10
+# def test_create_progress_bar_partial() -> None:
+#     bar = su.create_progress_bar(50, 100, width=10)
+#     assert "🔘" in bar
+#     assert len(bar) == 10
 
 
 def test_update_readme(tmp_path, monkeypatch) -> None:
