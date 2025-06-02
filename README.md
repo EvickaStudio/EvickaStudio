@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a29e05c318d1b30d9e19119d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)**
+**🎵 [leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)**
 *by* **Edwin Rosen**
-*Album:* Vertigo
+*Album:* Verschwende deine Zeit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="249" height="4" fill="#1db954" rx="2"/>
-    <circle cx="249" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 3:30
+    1:12 • 3:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Vertigo - Luis Ake's Trance Atlantic Remix](https://open.spotify.com/track/2BgTiewiwz0itycfTVQcV3)** by **Edwin Rosen, Luis Ake** *(Vertigo (Luis Ake's Trance Atlantic Remix))*
-🎤 **[Vertigo - Luis Ake's Trance Atlantic Remix](https://open.spotify.com/track/3f5pQgzopn1MD4G7wDqVc9)** by **Edwin Rosen, Luis Ake** *(Vertigo)*
-🎤 **[Vertigo](https://open.spotify.com/track/4UYJTPU8dUVqM5czOH8ASc)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/0cv9kdfknMkKGaoUSwFY6f)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by **Edwin Rosen** *(mitleerenhänden)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-02 23:12:20Z UTC
+🕐 Last updated: 2025-06-02 23:31:15Z UTC
 <!-- SPOTIFY-END -->
