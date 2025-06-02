@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dd30fcbd5d7fa6ccb531cf6" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273111818000579959e9201cba4" alt="Cover Art" width="120"/>
 </p>
 
-**[Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)**
-by diggidaniel
-Album: Hilflos vor dir
+**[morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3)**
+by Mayberg
+Album: morgen
 
-0:04 🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:04
+3:03 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:47
 
 ### 📜 Recently Played
-- **[Decke](https://open.spotify.com/track/0GWpJoKVqAKurYBDmJyZ5z)** by MC WINDHUND (Decke)
-- **[camel blau](https://open.spotify.com/track/4UiejpFxgHo53xCAOuj37M)** by wurms, MC WINDHUND (camel blau)
-- **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by Streichelt (Zuckerrand)
-- **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by Steintor Herrenchor (wohin)
-- **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by diggidaniel (Gib mir einen Grund)
+- **[Das erste Mal](https://open.spotify.com/track/4WeHpXTdNPBa3WI1qLI84W)** by Souly (Ich wünschte, es würd' mich kümmern)
+- **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by Steintor Herrenchor (Luisa)
+- **[schweigen uns an_v3](https://open.spotify.com/track/5rC9q9S9eHyf0o3r6dXH5Y)** by Kasi, antonius (harddrive2024)
+- **[Supernova](https://open.spotify.com/track/4EZj1D2nzMlsyqykZ55jKN)** by Blumengarten (Ich liebe dich für immer)
+- **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by Traumatin (Schließ bitte ab wenn ich geh)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Hilflos vor dir
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-01 23:47:46Z UTC_
+_Last updated: 2025-06-02 01:04:24Z UTC_
 <!-- SPOTIFY-END -->
