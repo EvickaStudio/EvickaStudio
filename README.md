@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273111818000579959e9201cba4" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27374827cb35c2330ca720970f6" alt="Cover Art" width="120"/>
 </p>
 
-**[morgen](https://open.spotify.com/track/1Ks5tlTGMwitXxDD05PSl3)**
-by Mayberg
-Album: morgen
+**[Alle 13 Tage](https://open.spotify.com/track/0WZzrzs0F06ZGnyBdk30lS)**
+by Streichelt
+Album: Alle 13 Tage
 
-3:03 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:47
+2:31 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 3:35
 
 ### 📜 Recently Played
-- **[Das erste Mal](https://open.spotify.com/track/4WeHpXTdNPBa3WI1qLI84W)** by Souly (Ich wünschte, es würd' mich kümmern)
-- **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by Steintor Herrenchor (Luisa)
-- **[schweigen uns an_v3](https://open.spotify.com/track/5rC9q9S9eHyf0o3r6dXH5Y)** by Kasi, antonius (harddrive2024)
-- **[Supernova](https://open.spotify.com/track/4EZj1D2nzMlsyqykZ55jKN)** by Blumengarten (Ich liebe dich für immer)
-- **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by Traumatin (Schließ bitte ab wenn ich geh)
+- **[Ich bin nur ein Kohlenstoffatom](https://open.spotify.com/track/6RXWi0n7xl5cP9pLjmznyN)** by Luis Ake (Ehrenvoll, Luis Ake)
+- **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by b3nn3t, strangerperson (laut nachgedacht)
+- **[Du bist immer für mich da](https://open.spotify.com/track/3jLLoSPLIJrhtfY8QPVVld)** by Mayberg (Du bist immer für mich da)
+- **[beifahrersitz](https://open.spotify.com/track/5kbShNqgrOyePahnsNxDZg)** by Kasi, antonius, Ericson (beifahrersitz)
+- **[Alles leid außer dir](https://open.spotify.com/track/1jWvVCt5KYiCVezAxFZE5Y)** by EASY EASY (Alles leid außer dir)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: morgen
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 01:04:24Z UTC_
+_Last updated: 2025-06-02 02:58:20Z UTC_
 <!-- SPOTIFY-END -->
