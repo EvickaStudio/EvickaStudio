@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273975ce7d2d796841b5f3e66c1" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730940e6b24f977f68b5fc35d1" alt="Cover Art" width="120"/>
 </p>
 
-**[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)**
-by Muted Color
-Album: Pastel
+**[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)**
+by Neil Young
+Album: Harvest (50th Anniversary Edition)
 
-0:45 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:01
+2:05 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 3:07
 
 ### 📜 Recently Played
-- **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by EKKSTACY (misery)
-- **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by re6ce (vampire)
-- **[Awake - Live at Studio Tessmar](https://open.spotify.com/track/106LPFFVp2Q4yx13qeYRbD)** by orbit (Perspectives (Live Session))
-- **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by Eera (Cant Stop Wasting Time)
-- **[REY](https://open.spotify.com/track/5ihhTpaOjekmGBxmpm9T8H)** by gard (PEACE & LOVE)
+- **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by Don Henley (Building The Perfect Beast (Remastered 2024))
+- **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by Led Zeppelin (Led Zeppelin IV (Deluxe Edition))
+- **[Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)** by Replay Okay (Sie ist anders <facts3)
+- **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by 日本アニメ(ーター)見本市, TeddyLoid, Daoko (日本アニメ(ーター)見本市 「ME!ME!ME!」)
+- **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by Jennifer Lopez, Pitbull (Love?)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Pastel
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 18:17:53Z UTC_
+_Last updated: 2025-06-02 18:48:14Z UTC_
 <!-- SPOTIFY-END -->
