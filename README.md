@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737aafb170cd6302177ce374e3" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735fcd8144ff007592c8018cd7" alt="Cover Art" width="120"/>
 </p>
 
-**[All the Lovers](https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW)**
-by Kylie Minogue
-Album: Aphrodite
+**[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)**
+by Moe Shop, TORIENA
+Album: Moe Moe
 
-1:33 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 3:19
+1:03 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:09
 
 ### 📜 Recently Played
-- **[Banghra - Vocal Radio Edit](https://open.spotify.com/track/0IMa8eTruiBICW9NpTXB7q)** by Krid P (Banghra (All Mixes))
-- **[Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann)** by SACHI (Wildfire)
-- **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by NXFEIT, Sillyelly, Hen848 (CASSA DRITTISSIMA !!)
-- **[141 Schneeschieber](https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP)** by TAKTSTÖRER (141 Schneeschieber)
-- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by DVRKLXGHT (EUPHORIA)
+- **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by SNAP! (The Madman's Return)
+- **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by Sam Gellaitry (Assumptions (Jengi Remix))
+- **[(I Just) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm)** by Cutting Crew (Broadcast)
+- **[Shut Up (And Sleep with Me) - Radio Original](https://open.spotify.com/track/3OROMM18k0lel45mi6YSuU)** by DJ Ostkurve, Sin With Sebastian (Shut Up (And Sleep with Me))
+- **[Lost in Music - 1995 Remaster](https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3)** by Sister Sledge (We Are Family (1995 Remaster))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Aphrodite
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 17:12:04Z UTC_
+_Last updated: 2025-06-02 17:32:32Z UTC_
 <!-- SPOTIFY-END -->
