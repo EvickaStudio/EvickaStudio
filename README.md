@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27381999087974d63098ba9de17" alt="Cover Art" width="120"/>
 </p>
 
-**[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)**
-by Kanye West
-Album: Donda
+**[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)**
+by strangerperson
+Album: Kisses und Flowers
 
-2:57 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 5:39
+2:43 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:20
 
 ### 📜 Recently Played
-- **[Want To Love - Just Raw](https://open.spotify.com/track/3DJsIwc3Z9scW5yR3wnyjf)** by Aloboi (Raw Tracks and Reworks)
-- **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by EKKSTACY (NEGATIVE)
-- **[INTERNET LOVE](https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb)** by IVOXYGEN (INTERNET LOVE)
-- **[Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC)** by Nick Drake (Pink Moon)
-- **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by Flawless Issues (Cut the Rope)
+- **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by TEMMIS (Wenn du da bist)
+- **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by EASY EASY, Leocardo DiNaprio (helios)
+- **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by herz. (kopflos durch die nacht)
+- **[Ich bleib](https://open.spotify.com/track/5rA5nQkEswo9hBuQ6y4P1h)** by Carlo5 (Teil 2: Drunter/Drüber)
+- **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by Steintor Herrenchor, diggidaniel (wollte nie)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Donda
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 13:06:09Z UTC_
+_Last updated: 2025-06-02 13:42:41Z UTC_
 <!-- SPOTIFY-END -->
