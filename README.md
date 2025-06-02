@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd" alt="Cover Art" width="120"/>
 </p>
 
-**[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
-by mint
-Album: gold
+**[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)**
+by Kanye West
+Album: Donda
 
-3:37 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 3:51
+2:57 ▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬ 5:39
 
 ### 📜 Recently Played
-- **[detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH)** by Charli xcx (how i'm feeling now)
-- **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by fliggsy (Project Life)
-- **[Ultraviolette](https://open.spotify.com/track/7keRNACP2omTVizl5TRuiR)** by Blumengarten (Ich liebe dich für immer)
-- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by Edwin Rosen (leichter//kälter)
-- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by Novulent (unknown feelings)
+- **[Want To Love - Just Raw](https://open.spotify.com/track/3DJsIwc3Z9scW5yR3wnyjf)** by Aloboi (Raw Tracks and Reworks)
+- **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by EKKSTACY (NEGATIVE)
+- **[INTERNET LOVE](https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb)** by IVOXYGEN (INTERNET LOVE)
+- **[Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC)** by Nick Drake (Pink Moon)
+- **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by Flawless Issues (Cut the Rope)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: gold
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 12:25:41Z UTC_
+_Last updated: 2025-06-02 13:06:09Z UTC_
 <!-- SPOTIFY-END -->
