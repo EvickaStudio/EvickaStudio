@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734123c0f9b6689205d20f350f" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732568a5b51d322cbd987106f7" alt="Cover Art" width="120"/>
 </p>
 
-**[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)**
-by 100 gecs, Laura Les, Dylan Brady
-Album: 1000 gecs
+**[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)**
+by Lil Peep
+Album: Star Shopping
 
-1:31 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 1:54
+1:03 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 2:22
 
 ### 📜 Recently Played
-- **[Xerces](https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS)** by Deftones (Saturday Night Wrist)
-- **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by Crystal Castles (Crystal Castles (II))
-- **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by Pink Katana, sparr00w (SUW)
-- **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by meat computer (without you)
-- **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by boy 2000 (tape 2000)
+- **[Ich hasse, wenn](https://open.spotify.com/track/1ZN0a7X6ob3OtqeZG9pJ1c)** by amelie (Ich hasse, wenn)
+- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
+- **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by Pathetic (2008)
+- **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by Mietze Conte (nanana)
+- **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by jonatan leandoer96 (Nectar)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: 1000 gecs
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 10:52:00Z UTC_
+_Last updated: 2025-06-02 11:11:27Z UTC_
 <!-- SPOTIFY-END -->
