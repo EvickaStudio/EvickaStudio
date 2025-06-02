@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f53b4bc868aaed2f1b49546a" alt="Cover Art" width="120"/>
 </p>
 
-**[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)**
-by sparr00w
-Album: Nadja
+**[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)**
+by Traumatin
+Album: König Der Welt
 
-0:15 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:13
+2:51 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:28
 
 ### 📜 Recently Played
-- **[movies for guys](https://open.spotify.com/track/30YaPM8Aba7TVcyaiZFbWC)** by Jane Remover (Frailty)
-- **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by blombi19 (herzkasper)
-- **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by adore (did i tell u that i miss u)
-- **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by fliggsy (Project Life)
-- **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by lil eyes, 1800yassine, Asterio, treason434 (feelings im bauch (feat. treason434) [techno remix])
+- **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by Basement (Colourmeinkindness)
+- **[FOR THE NIGHT! - SPED UP](https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD)** by Clover! (FOR THE NIGHT!)
+- **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by 5v (kein zufall)
+- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by sparr00w (Nadja)
+- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by Novulent (unknown feelings)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Nadja
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 05:36:11Z UTC_
+_Last updated: 2025-06-02 05:50:34Z UTC_
 <!-- SPOTIFY-END -->
