@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732568a5b51d322cbd987106f7" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="Cover Art" width="120"/>
 </p>
 
-**[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)**
-by Lil Peep
-Album: Star Shopping
+**[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)**
+by Starship
+Album: Knee Deep In The Hoopla
 
-1:03 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 2:22
+2:16 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 4:56
 
 ### 📜 Recently Played
-- **[Ich hasse, wenn](https://open.spotify.com/track/1ZN0a7X6ob3OtqeZG9pJ1c)** by amelie (Ich hasse, wenn)
-- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by requiem for you (for you, 親愛なる)
-- **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by Pathetic (2008)
-- **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by Mietze Conte (nanana)
-- **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by jonatan leandoer96 (Nectar)
+- **[Blue](https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK)** by PinkPantheress (Heaven knows)
+- **[I Feel Fantastic](https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD)** by Riovaz (I Feel Fantastic)
+- **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by lil hero (pawwwfect!)
+- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by toobrokeforfiji (Kein Raster)
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Star Shopping
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 11:11:27Z UTC_
+_Last updated: 2025-06-02 11:27:27Z UTC_
 <!-- SPOTIFY-END -->
