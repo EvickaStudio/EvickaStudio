@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360f2a4ae94bb9296fa99c3b2" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120"/>
 </p>
 
-**[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)**
-by jigitz
-Album: make believe
+**[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)**
+by Ecco2k, Thaiboy Digital, Bladee
+Album: Trash Island
 
-1:01 ▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬ 2:17
+0:55 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 2:00
 
 ### 📜 Recently Played
-- **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by Sidewalks and Skeletons (White Light)
-- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by Snow Strippers (The Snow Strippers)
-- **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by akiaura, LONOWN, Olya Holiday (Midnight Skin)
-- **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by The Police (Reggatta De Blanc (Remastered 2003))
-- **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by S1RENA (Planet)
+- **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by Baby B3ns (Herzcrash)
+- **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by 2hollis (SHEDIM)
+- **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by Elusin (Silhouette)
+- **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by Woesum, Bladee (Blue Summer)
+- **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by agelast222 (agelast222)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: make believe
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 08:46:56Z UTC_
+_Last updated: 2025-06-02 09:14:40Z UTC_
 <!-- SPOTIFY-END -->
