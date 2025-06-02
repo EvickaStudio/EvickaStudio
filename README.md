@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273628967d97d55f37df6e6a437" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce11877304a4166375a8a970" alt="Cover Art" width="120"/>
 </p>
 
-**[nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG)**
-by camoufly, Dazegxd
-Album: nothing left 2 say / give u everything
+**[Water and Waves](https://open.spotify.com/track/3TZMLsHWWUkMY51wSaNkaH)**
+by Sven Libaek
+Album: Nature Walkabout (Original Television Soundtrack) [Remastered]
 
-0:37 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:15
+0:27 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 1:19
 
 ### 📜 Recently Played
-- **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by Mall Grab (How The Dogs Chill, Vol.1)
-- **[ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)** by yaego, jsn (ID63)
-- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by Bring Me The Horizon (Sempiternal (Expanded Edition))
-- **[Hell Above](https://open.spotify.com/track/3EKh7JNsBrGoh2xqPotBKT)** by Pierce The Veil (Collide With The Sky)
-- **[Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E)** by Weezer (Weezer)
+- **[SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)** by Sleepisformortals (SO DUMB)
+- **[Lass mich schlafen/Тишина](https://open.spotify.com/track/0BVX1IM7AG43HG6MeKCcJf)** by Traumatin, bishkek (Lass mich schlafen/Тишина)
+- **[Shadow (I’m Breaking Down)](https://open.spotify.com/track/0Dtz6spSgAATlLo4q86GVp)** by Destroy Boys (Funeral Soundtrack #4)
+- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by Franz Ferdinand (Franz Ferdinand)
+- **[Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP)** by ThxSoMch (Keep It Tucked)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: nothing left 2 say / give u everything
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 19:47:33Z UTC_
+_Last updated: 2025-06-02 20:14:01Z UTC_
 <!-- SPOTIFY-END -->
