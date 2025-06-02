@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730940e6b24f977f68b5fc35d1" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d" alt="Cover Art" width="120"/>
 </p>
 
-**[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)**
-by Neil Young
-Album: Harvest (50th Anniversary Edition)
+**[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)**
+by MGMT
+Album: Little Dark Age
 
-2:05 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 3:07
+2:28 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 4:59
 
 ### 📜 Recently Played
-- **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by Don Henley (Building The Perfect Beast (Remastered 2024))
-- **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by Led Zeppelin (Led Zeppelin IV (Deluxe Edition))
-- **[Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)** by Replay Okay (Sie ist anders <facts3)
-- **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by 日本アニメ(ーター)見本市, TeddyLoid, Daoko (日本アニメ(ーター)見本市 「ME!ME!ME!」)
-- **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by Jennifer Lopez, Pitbull (Love?)
+- **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by Anamanaguchi, Hatsune Miku (Miku)
+- **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by Holy Fuck (Congrats)
+- **[Deira City Centre](https://open.spotify.com/track/7fm0RfFil17f017qchrnyK)** by Night Lovell (Concept Vague)
+- **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by Freddie Dredd (GTG)
+- **[EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo)** by CYPARISS (EMPTY DREAMS)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Harvest (50th Anniversary Edition)
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 18:48:14Z UTC_
+_Last updated: 2025-06-02 19:10:07Z UTC_
 <!-- SPOTIFY-END -->
