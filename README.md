@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120"/>
 </p>
 
-**[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)**
-by Jane Remover
-Album: Revengeseekerz
+**[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)**
+by sparr00w
+Album: Nadja
 
-0:23 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:50
+0:15 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 2:13
 
 ### 📜 Recently Played
-- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by Traumatin (König Der Welt)
-- **[dein lieblingstrack](https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL)** by Kasi, antonius (dein lieblingstrack)
-- **[du fehlst mir nicht](https://open.spotify.com/track/1NN4zX46c1YffgmMcBy7Va)** by katlix (I HATE KATLIX)
-- **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by toobrokeforfiji (Was is mit UNS los?)
-- **[reich](https://open.spotify.com/track/0H8JA19H6FVUyCbP8ZNdlU)** by JEREMIAS (trust)
+- **[movies for guys](https://open.spotify.com/track/30YaPM8Aba7TVcyaiZFbWC)** by Jane Remover (Frailty)
+- **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by blombi19 (herzkasper)
+- **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by adore (did i tell u that i miss u)
+- **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by fliggsy (Project Life)
+- **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by lil eyes, 1800yassine, Asterio, treason434 (feelings im bauch (feat. treason434) [techno remix])
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Revengeseekerz
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 05:14:15Z UTC_
+_Last updated: 2025-06-02 05:36:11Z UTC_
 <!-- SPOTIFY-END -->
