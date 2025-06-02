@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731298f1ce7b0e4fb6a3caba57" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273975ce7d2d796841b5f3e66c1" alt="Cover Art" width="120"/>
 </p>
 
-**[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)**
-by Aphex Twin
-Album: Richard D. James Album
+**[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)**
+by Muted Color
+Album: Pastel
 
-2:57 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 3:48
+0:45 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:01
 
 ### 📜 Recently Played
-- **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by SALEM (Fires In Heaven)
-- **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by IVOXYGEN (casino143)
-- **[Ocean](https://open.spotify.com/track/6i51XkiNGhMc856cfuISEc)** by orbit (Summer Someday)
-- **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by Studio Killers (Jenny (Hearteye Speed Mix))
-- **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by Moe Shop, TORIENA (Moe Moe)
+- **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by EKKSTACY (misery)
+- **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by re6ce (vampire)
+- **[Awake - Live at Studio Tessmar](https://open.spotify.com/track/106LPFFVp2Q4yx13qeYRbD)** by orbit (Perspectives (Live Session))
+- **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by Eera (Cant Stop Wasting Time)
+- **[REY](https://open.spotify.com/track/5ihhTpaOjekmGBxmpm9T8H)** by gard (PEACE & LOVE)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Richard D. James Album
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 17:48:50Z UTC_
+_Last updated: 2025-06-02 18:17:53Z UTC_
 <!-- SPOTIFY-END -->
