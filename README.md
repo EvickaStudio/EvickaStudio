@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738d503c929a51256940c8bfcc" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="Cover Art" width="120"/>
 </p>
 
-**[dein lieblingstrack](https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL)**
-by Kasi, antonius
-Album: dein lieblingstrack
+**[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)**
+by Jane Remover
+Album: Revengeseekerz
 
-1:39 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 2:24
+0:23 ▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:50
 
 ### 📜 Recently Played
+- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by Traumatin (König Der Welt)
+- **[dein lieblingstrack](https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL)** by Kasi, antonius (dein lieblingstrack)
 - **[du fehlst mir nicht](https://open.spotify.com/track/1NN4zX46c1YffgmMcBy7Va)** by katlix (I HATE KATLIX)
 - **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by toobrokeforfiji (Was is mit UNS los?)
 - **[reich](https://open.spotify.com/track/0H8JA19H6FVUyCbP8ZNdlU)** by JEREMIAS (trust)
-- **[Ultraviolette](https://open.spotify.com/track/7keRNACP2omTVizl5TRuiR)** by Blumengarten (Ich liebe dich für immer)
-- **[Selbstzweifel](https://open.spotify.com/track/0jrG4TxgtxSCzvp3zcOByR)** by MC WINDHUND (Selbstzweifel)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: dein lieblingstrack
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 04:49:57Z UTC_
+_Last updated: 2025-06-02 05:14:15Z UTC_
 <!-- SPOTIFY-END -->
