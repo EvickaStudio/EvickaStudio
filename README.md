@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c4604290202855ab73b8044" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27398206bc01dfb0a131ba2c9a2" alt="Cover Art" width="120"/>
 </p>
 
-**[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)**
-by Edwin Rosen
-Album: Balancieren
+**[Wellblech](https://open.spotify.com/track/1Z6JcXlTUaPSmiVkN2530P)**
+by NILS KEPPEL
+Album: Wellblech
 
-1:18 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 3:40
+0:48 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:11
 
 ### 📜 Recently Played
-- **[Sonne scheint nicht](https://open.spotify.com/track/1a46zaZBqDOCsSmg7IdGdZ)** by Carlo5, BABYJOY (Teil 3: Letztes Semester)
-- **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by Leocardo DiNaprio, Traumatin (geist)
-- **[LOVE](https://open.spotify.com/track/5vbyahzhy06ZKQkAkhHfpe)** by TEMMIS (LOVE)
-- **[Mit dir kann ich alleine sein](https://open.spotify.com/track/6OYxGokMBWj8wCbDIbhFmB)** by JEREMIAS (Von Wind und Anonymität)
-- **[Wie weit](https://open.spotify.com/track/3kwC3JqIi6GcoGuStgHR5r)** by MilleniumKid (DYSTOPIE)
+- **[regen༺♡✧+++](https://open.spotify.com/track/7n25BiOJchTevJkXBw1FGs)** by DANZINGER 99, DJ<3 (Hotel+++)
+- **[genug sein](https://open.spotify.com/track/3wqzmt8a0F5DZ6BzkFgmT7)** by Steintor Herrenchor (Eine Woche Geburtstag)
+- **[sag mir was ich nicht weiß](https://open.spotify.com/track/6OIlJfOLUQWctYOOFSZB11)** by JEREMIAS (trust)
+- **[Amicelli](https://open.spotify.com/track/3yuHT1CFZyIqSlkk6ZHOjf)** by Pavelo & Schnell, Ikkimel (Volumen & Kraft)
+- **[Superhot](https://open.spotify.com/track/48Ig9iwIuLfaYF6qDirO6l)** by TEMMIS (Superhot)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Balancieren
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 03:50:53Z UTC_
+_Last updated: 2025-06-02 04:24:06Z UTC_
 <!-- SPOTIFY-END -->
