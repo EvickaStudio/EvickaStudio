@@ -106,11 +106,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 Not playing anything right now.
 
 ### 📜 Recently Played
+- **[Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)** by Edwin Rosen (mitleerenhänden)
 - **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by quannnic (kenopsia)
 - **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by Ecco2k, Thaiboy Digital, Bladee (Trash Island)
 - **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by Baby B3ns (Herzcrash)
 - **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by 2hollis (SHEDIM)
-- **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by Elusin (Silhouette)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -126,5 +126,5 @@ Not playing anything right now.
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 09:34:57Z UTC_
+_Last updated: 2025-06-02 09:49:31Z UTC_
 <!-- SPOTIFY-END -->
