@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273468781e982047d50971d6c07" alt="Cover Art" width="120"/>
 </p>
 
-**[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)**
-by Basement
-Album: Colourmeinkindness
+**[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)**
+by Juli
+Album: Es ist Juli
 
-1:43 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 3:47
+2:08 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 3:46
 
 ### 📜 Recently Played
+- **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by Bladee (The Fool)
+- **[Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r)** by Radiohead (Pablo Honey)
+- **[floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)** by Felix Bosques Harima (floods (outro))
+- **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by Basement (Colourmeinkindness)
 - **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by Hole (Celebrity Skin)
-- **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by Wisp (Pandora)
-- **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by strangerperson (Kisses und Flowers)
-- **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by TEMMIS (Wenn du da bist)
-- **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by EASY EASY, Leocardo DiNaprio (helios)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Colourmeinkindness
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 13:53:31Z UTC_
+_Last updated: 2025-06-02 14:13:29Z UTC_
 <!-- SPOTIFY-END -->
