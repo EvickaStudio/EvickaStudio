@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735fcd8144ff007592c8018cd7" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731298f1ce7b0e4fb6a3caba57" alt="Cover Art" width="120"/>
 </p>
 
-**[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)**
-by Moe Shop, TORIENA
-Album: Moe Moe
+**[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)**
+by Aphex Twin
+Album: Richard D. James Album
 
-1:03 ▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:09
+2:57 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 3:48
 
 ### 📜 Recently Played
-- **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by SNAP! (The Madman's Return)
-- **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by Sam Gellaitry (Assumptions (Jengi Remix))
-- **[(I Just) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm)** by Cutting Crew (Broadcast)
-- **[Shut Up (And Sleep with Me) - Radio Original](https://open.spotify.com/track/3OROMM18k0lel45mi6YSuU)** by DJ Ostkurve, Sin With Sebastian (Shut Up (And Sleep with Me))
-- **[Lost in Music - 1995 Remaster](https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3)** by Sister Sledge (We Are Family (1995 Remaster))
+- **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by SALEM (Fires In Heaven)
+- **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by IVOXYGEN (casino143)
+- **[Ocean](https://open.spotify.com/track/6i51XkiNGhMc856cfuISEc)** by orbit (Summer Someday)
+- **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by Studio Killers (Jenny (Hearteye Speed Mix))
+- **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by Moe Shop, TORIENA (Moe Moe)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Moe Moe
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 17:32:32Z UTC_
+_Last updated: 2025-06-02 17:48:50Z UTC_
 <!-- SPOTIFY-END -->
