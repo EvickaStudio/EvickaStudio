@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120"/>
 </p>
 
-**[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)**
-by a-ha
-Album: Hunting High and Low
+**[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)**
+by Aphex Twin
+Album: Selected Ambient Works 85-92
 
-1:02 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:45
+3:49 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 4:53
 
 ### 📜 Recently Played
-- **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by humanangst, agelast222 (the day i met astagel)
-- **[Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm)** by John Williams, London Symphony Orchestra (Star Wars: A New Hope (Original Motion Picture Soundtrack))
-- **[show me calcium](https://open.spotify.com/track/5zWJgjOltU9B6t1kEvkS3w)** by alfie (show me calcium)
-- **[Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT)** by SOPHIE (OIL OF EVERY PEARL'S UN-INSIDES)
-- **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by diggidaniel (Zwing mich zu meinem Glück)
+- **[Serotonin 2008](https://open.spotify.com/track/76TzdcnsJSdCFFhs6vjZsF)** by Joshka (TANO*C EXTRA)
+- **[PAIN2](https://open.spotify.com/track/6re3ywZ67bGdMHCt8xv5qA)** by PERSONAL ANIMOSITY, elox1m (PAIN2)
+- **[North Atlantic - Cult Member Remix](https://open.spotify.com/track/0jum0Itpag2bRxmH2uhwfH)** by Niko Demus, MFM, Cult Member (Cruise Control (Remixes))
+- **[should have](https://open.spotify.com/track/7MadgpP9SWuQgvsNJkeiaf)** by døves, Wicca Phase Springs Eternal (acoustic ep)
+- **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by a-ha (Hunting High and Low)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Hunting High and Low
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 15:34:47Z UTC_
+_Last updated: 2025-06-02 15:50:48Z UTC_
 <!-- SPOTIFY-END -->
