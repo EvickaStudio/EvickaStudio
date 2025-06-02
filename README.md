@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)**
+**🎵 [Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)**
 *by* **Edwin Rosen**
-*Album:* Verschwende deine Zeit
+*Album:* Die Sterne
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:38
+    1:06 • 2:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
+🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
+🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
+🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-02 22:12:39Z UTC
+🕐 Last updated: 2025-06-02 22:33:55Z UTC
 <!-- SPOTIFY-END -->
