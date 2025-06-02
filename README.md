@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120"/>
 </p>
 
-**[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)**
-by Radiohead
-Album: In Rainbows
+**[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
+by mint
+Album: gold
 
-3:25 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 4:08
+3:37 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬ 3:51
 
 ### 📜 Recently Played
-- **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by Tom Petty (Full Moon Fever)
-- **[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)** by Deftones (Diamond Eyes)
-- **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by Superheaven (Ours Is Chrome)
-- **[drifting](https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR)** by Night Tapes (drifting)
-- **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by Starship (Knee Deep In The Hoopla)
+- **[detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH)** by Charli xcx (how i'm feeling now)
+- **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by fliggsy (Project Life)
+- **[Ultraviolette](https://open.spotify.com/track/7keRNACP2omTVizl5TRuiR)** by Blumengarten (Ich liebe dich für immer)
+- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by Edwin Rosen (leichter//kälter)
+- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by Novulent (unknown feelings)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: In Rainbows
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 11:47:43Z UTC_
+_Last updated: 2025-06-02 12:25:41Z UTC_
 <!-- SPOTIFY-END -->
