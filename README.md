@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15" alt="Cover Art" width="120"/>
 </p>
 
-**[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)**
-by Starship
-Album: Knee Deep In The Hoopla
+**[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)**
+by Deftones
+Album: Diamond Eyes
 
-2:16 ▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬ 4:56
+1:18 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 4:32
 
 ### 📜 Recently Played
+- **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by Superheaven (Ours Is Chrome)
+- **[drifting](https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR)** by Night Tapes (drifting)
+- **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by Starship (Knee Deep In The Hoopla)
 - **[Blue](https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK)** by PinkPantheress (Heaven knows)
 - **[I Feel Fantastic](https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD)** by Riovaz (I Feel Fantastic)
-- **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by lil hero (pawwwfect!)
-- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by toobrokeforfiji (Kein Raster)
-- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by Kilian Knight (Es wird bald vorbei sein (Allein sein))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Knee Deep In The Hoopla
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 11:27:27Z UTC_
+_Last updated: 2025-06-02 11:37:55Z UTC_
 <!-- SPOTIFY-END -->
