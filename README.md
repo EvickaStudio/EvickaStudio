@@ -103,22 +103,14 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f53b4bc868aaed2f1b49546a" alt="Cover Art" width="120"/>
-</p>
-
-**[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)**
-by Traumatin
-Album: König Der Welt
-
-2:51 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 3:28
+Not playing anything right now.
 
 ### 📜 Recently Played
+- **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by 5v (i rly hate it here..)
+- **[exist in me](https://open.spotify.com/track/0PZweQfenOcra3aN7oNgEP)** by zaya (exist in me)
+- **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by Cult Member, Mia Martina (U Weren't Here I Really Miss You (slowed))
+- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by Traumatin (König Der Welt)
 - **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by Basement (Colourmeinkindness)
-- **[FOR THE NIGHT! - SPED UP](https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD)** by Clover! (FOR THE NIGHT!)
-- **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by 5v (kein zufall)
-- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by sparr00w (Nadja)
-- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by Novulent (unknown feelings)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -129,10 +121,10 @@ Album: König Der Welt
 
 ### 🎶 Top Tracks (Short Term)
 1. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
-2. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
-3. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+2. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+3. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 05:50:34Z UTC_
+_Last updated: 2025-06-02 06:19:42Z UTC_
 <!-- SPOTIFY-END -->
