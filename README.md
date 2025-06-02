@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27396a5f58c7bb18b04342dffb9" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735cff8ff56a513082503aaa39" alt="Cover Art" width="120"/>
 </p>
 
-**[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)**
-by DJ Traytex
-Album: All Good Things (Come To An End)
+**[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)**
+by wurms, MDW
+Album: Slide
 
-0:37 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:24
+0:47 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 2:12
 
 ### 📜 Recently Played
-- **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by Kelly Clarkson (Breakaway)
-- **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by Dilla, emi x (Willst du)
-- **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by Bladee (333)
-- **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by Souly, overshiaat, Bovskey (Oh Mein Gott (Bovskey Version))
-- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by jonatan leandoer96 (Under Heaven)
+- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by Edwin Rosen (Balancieren)
+- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by Snow Strippers (Night Killaz Vol. 1)
+- **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/7lIJcect8KQD2dxHPcEfBp)** by Punk Christ (ORGANISCHE CHEMIE)
+- **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by SUICIDAL-IDOL (ecstacy (slowed))
+- **[Never Let Go (Of Me)](https://open.spotify.com/track/2IxPD80hhWrq9mwYYW8ge7)** by Baltra (Never Let Go (Of Me))
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: All Good Things (Come To An End)
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 14:52:14Z UTC_
+_Last updated: 2025-06-02 15:14:06Z UTC_
 <!-- SPOTIFY-END -->
