@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273077cac00c2d9075e6f742570" alt="Cover Art" width="120"/>
 </p>
 
-**[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)**
-by Deftones
-Album: Around the Fur
+**[Hell Above](https://open.spotify.com/track/3EKh7JNsBrGoh2xqPotBKT)**
+by Pierce The Veil
+Album: Collide With The Sky
 
-4:08 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬ 4:59
+2:14 ▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬ 3:43
 
 ### 📜 Recently Played
+- **[Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E)** by Weezer (Weezer)
+- **[I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p)** by Type O Negative (Life Is Killing Me)
+- **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by Deftones (Around the Fur)
 - **[wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo)** by saraunh0ly (wutiwant)
 - **[No Wind Resistance!](https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP)** by Kinneret (DMZ)
-- **[No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d)** by Galantis (The Aviary)
-- **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by MGMT (Little Dark Age)
-- **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by Anamanaguchi, Hatsune Miku (Miku)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Around the Fur
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 19:24:46Z UTC_
+_Last updated: 2025-06-02 19:33:59Z UTC_
 <!-- SPOTIFY-END -->
