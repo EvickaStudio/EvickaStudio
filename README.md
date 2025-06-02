@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27398206bc01dfb0a131ba2c9a2" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738d503c929a51256940c8bfcc" alt="Cover Art" width="120"/>
 </p>
 
-**[Wellblech](https://open.spotify.com/track/1Z6JcXlTUaPSmiVkN2530P)**
-by NILS KEPPEL
-Album: Wellblech
+**[dein lieblingstrack](https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL)**
+by Kasi, antonius
+Album: dein lieblingstrack
 
-0:48 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:11
+1:39 ▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬ 2:24
 
 ### 📜 Recently Played
-- **[regen༺♡✧+++](https://open.spotify.com/track/7n25BiOJchTevJkXBw1FGs)** by DANZINGER 99, DJ<3 (Hotel+++)
-- **[genug sein](https://open.spotify.com/track/3wqzmt8a0F5DZ6BzkFgmT7)** by Steintor Herrenchor (Eine Woche Geburtstag)
-- **[sag mir was ich nicht weiß](https://open.spotify.com/track/6OIlJfOLUQWctYOOFSZB11)** by JEREMIAS (trust)
-- **[Amicelli](https://open.spotify.com/track/3yuHT1CFZyIqSlkk6ZHOjf)** by Pavelo & Schnell, Ikkimel (Volumen & Kraft)
-- **[Superhot](https://open.spotify.com/track/48Ig9iwIuLfaYF6qDirO6l)** by TEMMIS (Superhot)
+- **[du fehlst mir nicht](https://open.spotify.com/track/1NN4zX46c1YffgmMcBy7Va)** by katlix (I HATE KATLIX)
+- **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by toobrokeforfiji (Was is mit UNS los?)
+- **[reich](https://open.spotify.com/track/0H8JA19H6FVUyCbP8ZNdlU)** by JEREMIAS (trust)
+- **[Ultraviolette](https://open.spotify.com/track/7keRNACP2omTVizl5TRuiR)** by Blumengarten (Ich liebe dich für immer)
+- **[Selbstzweifel](https://open.spotify.com/track/0jrG4TxgtxSCzvp3zcOByR)** by MC WINDHUND (Selbstzweifel)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Wellblech
 4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
-_Last updated: 2025-06-02 04:24:06Z UTC_
+_Last updated: 2025-06-02 04:49:57Z UTC_
 <!-- SPOTIFY-END -->
