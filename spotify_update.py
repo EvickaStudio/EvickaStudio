@@ -271,7 +271,7 @@ def generate_markdown() -> str:
     md.extend(generate_top_artists_block(sp))
     md.extend(generate_top_tracks_block(sp))
     md.append(
-        f"🕐 Last updated: {datetime.now(datetime.UTC).strftime('%Y-%m-%d %H:%M:%SZ')} UTC"  # noqa: E501
+        f"🕐 Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%SZ')} UTC"  # noqa: E501
     )
     return "\n".join(md)
 
