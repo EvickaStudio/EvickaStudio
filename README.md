@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9" alt="Cover Art" width="120"/>
 </p>
 
-**[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)**
-by Aphex Twin
-Album: Selected Ambient Works 85-92
+**[Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i)**
+by Kanye West
+Album: Yeezus
 
-3:49 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬ 4:53
+2:48 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬ 3:49
 
 ### 📜 Recently Played
-- **[Serotonin 2008](https://open.spotify.com/track/76TzdcnsJSdCFFhs6vjZsF)** by Joshka (TANO*C EXTRA)
-- **[PAIN2](https://open.spotify.com/track/6re3ywZ67bGdMHCt8xv5qA)** by PERSONAL ANIMOSITY, elox1m (PAIN2)
-- **[North Atlantic - Cult Member Remix](https://open.spotify.com/track/0jum0Itpag2bRxmH2uhwfH)** by Niko Demus, MFM, Cult Member (Cruise Control (Remixes))
-- **[should have](https://open.spotify.com/track/7MadgpP9SWuQgvsNJkeiaf)** by døves, Wicca Phase Springs Eternal (acoustic ep)
-- **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by a-ha (Hunting High and Low)
+- **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by DR0NE3 (Built This Way (Slowed))
+- **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by lil eyes (schnell)
+- **[It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE)** by Opus III (Mind Fruit)
+- **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by SMiLE.dk (Smile)
+- **[Black Milk](https://open.spotify.com/track/1Rezzt36ybaT2ZbDZpv83D)** by Massive Attack, Elizabeth Fraser (Mezzanine)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Selected Ambient Works 85-92
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 15:50:48Z UTC_
+_Last updated: 2025-06-02 16:16:32Z UTC_
 <!-- SPOTIFY-END -->
