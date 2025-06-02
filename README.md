@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273674753c026f188eea01dca97" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27396a5f58c7bb18b04342dffb9" alt="Cover Art" width="120"/>
 </p>
 
-**[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)**
-by jonatan leandoer96
-Album: Under Heaven
+**[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)**
+by DJ Traytex
+Album: All Good Things (Come To An End)
 
-2:24 ▬▬▬▬▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬ 4:07
+0:37 ▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:24
 
 ### 📜 Recently Played
-- **[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)** by Juli (Es ist Juli)
-- **[Nite Walker](https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8)** by Sickboyrari (City Of Crows)
-- **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by Evanora Unlimited, Ecco2k (Dibiyu)
-- **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by Nokia Angel (In My Head)
-- **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by Levi Ryan (operation wandering soul)
+- **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by Kelly Clarkson (Breakaway)
+- **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by Dilla, emi x (Willst du)
+- **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by Bladee (333)
+- **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by Souly, overshiaat, Bovskey (Oh Mein Gott (Bovskey Version))
+- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by jonatan leandoer96 (Under Heaven)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -130,9 +130,9 @@ Album: Under Heaven
 ### 🎶 Top Tracks (Short Term)
 1. [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 2. [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-3. [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)
-4. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-5. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+3. [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 14:36:53Z UTC_
+_Last updated: 2025-06-02 14:52:14Z UTC_
 <!-- SPOTIFY-END -->
