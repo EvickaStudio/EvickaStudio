@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c4604290202855ab73b8044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)**
+**🎵 [Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)**
 *by* **Edwin Rosen**
-*Album:* Die Sterne
+*Album:* Balancieren
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="17" height="4" fill="#1db954" rx="2"/>
+    <circle cx="17" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:36
+    0:12 • 3:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
-🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
-🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[kontrollverlust](https://open.spotify.com/track/4S8cCU8rqOTMPJqfR21Ft3)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Die Sterne](https://open.spotify.com/track/03iodd8jtQZJT936KHWBMy)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Balancieren](https://open.spotify.com/track/3NbLQrcuvDiT3bQkaIDeNT)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-02 22:33:55Z UTC
+🕐 Last updated: 2025-06-02 22:49:02Z UTC
 <!-- SPOTIFY-END -->
