@@ -104,21 +104,21 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <!-- SPOTIFY-START -->
 ### 🟢 Now Playing
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735cff8ff56a513082503aaa39" alt="Cover Art" width="120"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Cover Art" width="120"/>
 </p>
 
-**[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)**
-by wurms, MDW
-Album: Slide
+**[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)**
+by a-ha
+Album: Hunting High and Low
 
-0:47 ▬▬▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬ 2:12
+1:02 ▬▬▬▬▬🔘▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 3:45
 
 ### 📜 Recently Played
-- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by Edwin Rosen (Balancieren)
-- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by Snow Strippers (Night Killaz Vol. 1)
-- **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/7lIJcect8KQD2dxHPcEfBp)** by Punk Christ (ORGANISCHE CHEMIE)
-- **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by SUICIDAL-IDOL (ecstacy (slowed))
-- **[Never Let Go (Of Me)](https://open.spotify.com/track/2IxPD80hhWrq9mwYYW8ge7)** by Baltra (Never Let Go (Of Me))
+- **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by humanangst, agelast222 (the day i met astagel)
+- **[Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm)** by John Williams, London Symphony Orchestra (Star Wars: A New Hope (Original Motion Picture Soundtrack))
+- **[show me calcium](https://open.spotify.com/track/5zWJgjOltU9B6t1kEvkS3w)** by alfie (show me calcium)
+- **[Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT)** by SOPHIE (OIL OF EVERY PEARL'S UN-INSIDES)
+- **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by diggidaniel (Zwing mich zu meinem Glück)
 
 ### 🌟 Top Artists (Short Term)
 1. [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -134,5 +134,5 @@ Album: Slide
 4. [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 5. [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
-_Last updated: 2025-06-02 15:14:06Z UTC_
+_Last updated: 2025-06-02 15:34:47Z UTC_
 <!-- SPOTIFY-END -->
