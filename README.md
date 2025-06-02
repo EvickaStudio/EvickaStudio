@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a29e05c318d1b30d9e19119d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr)**
-*by* **d4vd**
-*Album:* Petals to Thorns
+**🎵 [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)**
+*by* **Edwin Rosen**
+*Album:* Vertigo
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 4:02
+    2:50 • 3:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr)** by **d4vd** *(Petals to Thorns)*
 🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
 🎤 **[The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle)** by **Coldplay** *(A Rush of Blood to the Head)*
 🎤 **[Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg)** by **Coldplay** *(Parachutes)*
 🎤 **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)*
-🎤 **[Water and Waves](https://open.spotify.com/track/3TZMLsHWWUkMY51wSaNkaH)** by **Sven Libaek** *(Nature Walkabout (Original Television Soundtrack) [Remastered])*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-02 20:33:39Z UTC
+🕐 Last updated: 2025-06-02 20:40:10Z UTC
 <!-- SPOTIFY-END -->
