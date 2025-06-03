@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273022428a1bd7e689809e1f9a0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cd8da721432699dcc9623b8a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It's Possible](https://open.spotify.com/track/7HWfJgLLbH5NjcghGM74tM)**
-*by* **Piero Piccioni, Catherine Howe**
-*Album:* Il Dio sotto la pelle - God Under the Skin (Original Motion Picture Soundtrack)
+**🎵 [Drowning Love - Chasing Kou](https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V)**
+*by* **Penguin Piano**
+*Album:* Intersteller
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 4:55
+    1:31 • 1:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny)** by **spirit blue** *(ps / dm)*
-🎤 **[deep in it](https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg)** by **berlioz, Ted Jasper** *(deep in it)*
-🎤 **[Nicole](https://open.spotify.com/track/0vNKuD2WdRqoOmpn3Ho4i1)** by **Enrico Intra** *(Momento Intra)*
-🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
-🎤 **[Tausend Fucks](https://open.spotify.com/track/7s6BNRizuXsqBQS3716ZeS)** by **Trashmann** *(Tausend Fucks)*
+🎤 **[Sᓰᒪᐺᘿᖇ ᏋᎩᏋᏕ](https://open.spotify.com/track/4xBDk2P0QFL0o5zjxgZLfl)** by **uziellsiilver** *(Sᓰᒪᐺᘿᖇ ᏋᎩᏋᏕ)*
+🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
+🎤 **[Illusione perfetta](https://open.spotify.com/track/68wSf9grpSGuK6C1SfG2kG)** by **Piero Piccioni** *(Anna Karenina (Original Motion Picture Soundtrack))*
+🎤 **[Passage](https://open.spotify.com/track/1E0yH4SqP3qkPIAjDUtdoT)** by **Toshifumi Hinata** *(ひとつぶの海)*
+🎤 **[Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L)** by **Darondo** *(Let My People Go)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 16:17:26Z UTC
+🕐 Last updated: 2025-06-03 16:49:20Z UTC
 <!-- SPOTIFY-END -->
