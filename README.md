@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273084051346f432cc68a1279cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273acf8615af25342526c651b46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14)**
-*by* **Marty Robbins**
-*Album:* Gunfighter Ballads And Trail Songs
+**🎵 [Constantly](https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr)**
+*by* **Hyce, BoyPee, Brown Joel**
+*Album:* Constantly
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="258" height="4" fill="#1db954" rx="2"/>
+    <circle cx="258" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 3:55
+    2:46 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM)** by **Darius Rucker** *(True Believers)*
+🎤 **[Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14)** by **Marty Robbins** *(Gunfighter Ballads And Trail Songs)*
 🎤 **[American Nights](https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB)** by **Zach Bryan** *(The Great American Bar Scene)*
 🎤 **[Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn)** by **Glen Campbell** *(Southern Nights)*
 🎤 **[Shake the Frost (Live)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o)** by **Tyler Childers** *(Live on Red Barn Radio I & II)*
-🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
-🎤 **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 19:24:49Z UTC
+🕐 Last updated: 2025-06-03 19:34:13Z UTC
 <!-- SPOTIFY-END -->
