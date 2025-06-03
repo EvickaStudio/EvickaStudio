@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c2e86645e9f4a91aa45fe951" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)**
-*by* **SyKo**
-*Album:* #BrooklynBloodPop! (Edits)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 1:59
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by **my!lane** *(Sakura's Shadows)*
-🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
-🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)*
+🎤 **[MORNING BLUNT](https://open.spotify.com/track/19uXnEMXEynR2pAvU7ycac)** by **gard** *(PEACE & LOVE)*
+🎤 **[LOBOTOMY ALT](https://open.spotify.com/track/07FJO9sfWMA3hsS8KyqTbu)** by **SQL2VD** *(LOBOTOMY ALT)*
+🎤 **[ROI Hardstyle - slowed](https://open.spotify.com/track/6DhXDcI7fmjgfChkciqAro)** by **velours** *(ROI Hardstyle)*
+🎤 **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)*
+🎤 **[ilomilo tekkno (sped up)](https://open.spotify.com/track/13JMGEaIAXzOndW8ETk7wC)** by **TEKKNO** *(ilomilo tekkno (sped up))*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 07:47:51Z UTC
+🕐 Last updated: 2025-06-03 08:18:33Z UTC
 <!-- SPOTIFY-END -->
