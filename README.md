@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)**
+*by* **Tame Impala**
+*Album:* Currents
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:59 • 5:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)*
-🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
-🎤 **[RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
-🎤 **[Borderline](https://open.spotify.com/track/7wJb5QGiP64QWsI3ApSqaB)** by **6host** *(Borderline)*
+🎤 **[Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ)** by **Wisp** *(Once then we'll be free)*
+🎤 **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)*
+🎤 **[wish i was dead](https://open.spotify.com/track/5Pu42rdkSXGzT528BAQRFO)** by **EKKSTACY** *(misery)*
+🎤 **[WWELWDIS](https://open.spotify.com/track/7HtNefcMaYfCn0ePprnX9B)** by **sparr00w** *(WWELWDIS)*
+🎤 **[On Fye](https://open.spotify.com/track/6qLQ0K5jkOB0QrbDwNmKg9)** by **The Simps, Eyedress, zzzahara** *(Siblings)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 07:13:25Z UTC
+🕐 Last updated: 2025-06-03 07:32:04Z UTC
 <!-- SPOTIFY-END -->
