@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cd8da721432699dcc9623b8a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Drowning Love - Chasing Kou](https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V)**
-*by* **Penguin Piano**
-*Album:* Intersteller
+**🎵 [This Love](https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4)**
+*by* **Pantera**
+*Album:* Vulgar Display of Power
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 1:53
+    1:01 • 6:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Sᓰᒪᐺᘿᖇ ᏋᎩᏋᏕ](https://open.spotify.com/track/4xBDk2P0QFL0o5zjxgZLfl)** by **uziellsiilver** *(Sᓰᒪᐺᘿᖇ ᏋᎩᏋᏕ)*
-🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
-🎤 **[Illusione perfetta](https://open.spotify.com/track/68wSf9grpSGuK6C1SfG2kG)** by **Piero Piccioni** *(Anna Karenina (Original Motion Picture Soundtrack))*
-🎤 **[Passage](https://open.spotify.com/track/1E0yH4SqP3qkPIAjDUtdoT)** by **Toshifumi Hinata** *(ひとつぶの海)*
-🎤 **[Didn't I](https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L)** by **Darondo** *(Let My People Go)*
+🎤 **[Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH)** by **100 gecs** *(10,000 gecs)*
+🎤 **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))*
+🎤 **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)*
+🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[I Wanted to Leave](https://open.spotify.com/track/61iGwqhbDwkXanVo5LwJyF)** by **SYML** *(I Wanted to Leave)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 16:49:20Z UTC
+🕐 Last updated: 2025-06-03 17:12:41Z UTC
 <!-- SPOTIFY-END -->
