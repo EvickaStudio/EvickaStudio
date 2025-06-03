@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8deaf5aea5573e3f3853584" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c6d0592361763bd8db30fc97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)**
-*by* **Rooster**
-*Album:* Rooster Debut
+**🎵 [Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)**
+*by* **Edwin Rosen**
+*Album:* Die Sonne in deinem Zimmer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="37" height="4" fill="#1db954" rx="2"/>
+    <circle cx="37" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 3:03
+    0:22 • 3:05
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
-🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
-🎤 **[Kn1fe<3](https://open.spotify.com/track/7tyBMXkSI6G0xIEvFCfxzE)** by **DJmegan23, sophie meiers** *(Kn1fe<3)*
-🎤 **[I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)** by **Mike Posner, Seeb** *(At Night, Alone.)*
-🎤 **[Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)** by **Mietze Conte** *(Mietzee)*
+🎤 **[okay!](https://open.spotify.com/track/21SMupJDpMF1Hwzyhm0vQy)** by **Replay Okay, Zsá Zsá** *(okay!)*
+🎤 **[Fell In Luv (feat. Bryson Tiller)](https://open.spotify.com/track/1s9DTymg5UQrdorZf43JQm)** by **Playboi Carti, Bryson Tiller** *(Die Lit)*
+🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
+🎤 **[radar](https://open.spotify.com/track/218EsnPhF2Fk5jA9fDqKSj)** by **lil hero** *(pawwwfect!)*
+🎤 **[Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM)** by **Chris Travis** *(Side Effects EP)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 06:18:58Z UTC
+🕐 Last updated: 2025-06-03 06:50:12Z UTC
 <!-- SPOTIFY-END -->
