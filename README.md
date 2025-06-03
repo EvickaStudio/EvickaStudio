@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [CARNIVAL](https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq)**
+*by* **¥$, Kanye West, Ty Dolla $ign**
+*Album:* VULTURES 1
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="240" height="4" fill="#1db954" rx="2"/>
+    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:31 • 4:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[MORNING BLUNT](https://open.spotify.com/track/19uXnEMXEynR2pAvU7ycac)** by **gard** *(PEACE & LOVE)*
-🎤 **[LOBOTOMY ALT](https://open.spotify.com/track/07FJO9sfWMA3hsS8KyqTbu)** by **SQL2VD** *(LOBOTOMY ALT)*
-🎤 **[ROI Hardstyle - slowed](https://open.spotify.com/track/6DhXDcI7fmjgfChkciqAro)** by **velours** *(ROI Hardstyle)*
-🎤 **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)*
-🎤 **[ilomilo tekkno (sped up)](https://open.spotify.com/track/13JMGEaIAXzOndW8ETk7wC)** by **TEKKNO** *(ilomilo tekkno (sped up))*
+🎤 **[fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt)** by **9lives** *(33.1FM)*
+🎤 **[DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)** by **VAPORCHROME** *(Cybertrax)*
+🎤 **[Must Have Been A Dream](https://open.spotify.com/track/1ca0rbjTN6wbY48NLA5o7M)** by **Computer Kill** *(Must Have Been A Dream)*
+🎤 **[Levitating To Heaven](https://open.spotify.com/track/6IU3mAXATisq1fJEuaiOmu)** by **Zachariehs** *(Levitating To Heaven)*
+🎤 **[Ral Grad](https://open.spotify.com/track/7Csc3LFRvRA9s5gLbSM3Mf)** by **Harto Falión, Eera** *(Academy)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 09:14:27Z UTC
+🕐 Last updated: 2025-06-03 09:34:32Z UTC
 <!-- SPOTIFY-END -->
