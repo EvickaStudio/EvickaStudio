@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b7267f57d1292443416628a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)**
-*by* **Foo Fighters**
-*Album:* The Colour And The Shape
+**🎵 [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5)**
+*by* **BICEP, Clara La San**
+*Album:* Water
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:18 • 4:10
+    1:34 • 4:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
-🎤 **[Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)** by **Freddie Dredd** *(Opaul)*
-🎤 **[Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)** by **Pitbull, Kesha** *(Global Warming: Meltdown (Deluxe Version))*
-🎤 **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)*
-🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
+🎤 **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz)** by **Crystal Waters, The Basement Boys** *(Surprise)*
+🎤 **[Change (In the House of Flies)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3)** by **Deftones** *(White Pony)*
+🎤 **[Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN)** by **Fleshwater** *(We're Not Here to Be Loved)*
+🎤 **[Future](https://open.spotify.com/track/5tO9JLCEnF9r7FrHNVrKvu)** by **Split Chain** *(Future)*
+🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
 
 
 
@@ -153,10 +153,10 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**ᚦᚦᚦᚦperfect violation ᚦᚦ**](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 🥈 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-🥉 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-🏅 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+🥉 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+🏅 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 14:53:46Z UTC
+🕐 Last updated: 2025-06-03 15:14:49Z UTC
 <!-- SPOTIFY-END -->
