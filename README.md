@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn)**
-*by* **Jim Croce**
-*Album:* You Don't Mess Around With Jim
+**🎵 [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE)**
+*by* **Elliott Smith**
+*Album:* Either/Or
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:28
+    2:04 • 2:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[The Times They Are A-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6)** by **Bob Dylan** *(The Times They Are A-Changin')*
+🎤 **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
+🎤 **[River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k)** by **Nick Drake** *(Five Leaves Left)*
+🎤 **[Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn)** by **Jim Croce** *(You Don't Mess Around With Jim)*
 🎤 **[Shadowplay - 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
-🎤 **[Out of Touch](https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit)** by **Daryl Hall & John Oates** *(The Very Best Of)*
-🎤 **[The Great Gig in the Sky](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[BRASILIAN SKIES](https://open.spotify.com/track/3bMc9oRaUWnojCrYTUXXcQ)** by **Masayoshi Takanaka** *(BRASILIAN SKIES)*
-🎤 **[Blue Velvet](https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 20:34:42Z UTC
+🕐 Last updated: 2025-06-03 20:49:01Z UTC
 <!-- SPOTIFY-END -->
