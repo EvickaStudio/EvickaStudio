@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736acd1f62ec443b40bf8a75f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CARNIVAL](https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq)**
-*by* **¥$, Kanye West, Ty Dolla $ign**
-*Album:* VULTURES 1
+**🎵 [it's what you do](https://open.spotify.com/track/7o94st4iGT01PmDX3Os28u)**
+*by* **i wanna be a jack-o-lantern, six days after christmas**
+*Album:* cold autumn nights
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:31 • 4:24
+    1:31 • 1:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt)** by **9lives** *(33.1FM)*
-🎤 **[DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)** by **VAPORCHROME** *(Cybertrax)*
-🎤 **[Must Have Been A Dream](https://open.spotify.com/track/1ca0rbjTN6wbY48NLA5o7M)** by **Computer Kill** *(Must Have Been A Dream)*
-🎤 **[Levitating To Heaven](https://open.spotify.com/track/6IU3mAXATisq1fJEuaiOmu)** by **Zachariehs** *(Levitating To Heaven)*
-🎤 **[Ral Grad](https://open.spotify.com/track/7Csc3LFRvRA9s5gLbSM3Mf)** by **Harto Falión, Eera** *(Academy)*
+🎤 **[Out Getting Ribs](https://open.spotify.com/track/29RVgDaIL6YbihkzJxxi8B)** by **Feeling Blew** *(Out Getting Ribs)*
+🎤 **[galore galore galore](https://open.spotify.com/track/6uakZvgFon6O4gxbN5o8Gr)** by **bunii** *(galore galore galore)*
+🎤 **[jisatsu girl (自殺)](https://open.spotify.com/track/4chJRTJIZMyo8ESGTPvyMy)** by **requiem for you** *(jisatsu girl (自殺))*
+🎤 **[Ballad Of Big Nothing](https://open.spotify.com/track/4HqRhdpxH9zFUkf1kzbr3H)** by **Elliott Smith** *(Either/Or)*
+🎤 **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 09:34:32Z UTC
+🕐 Last updated: 2025-06-03 09:50:14Z UTC
 <!-- SPOTIFY-END -->
