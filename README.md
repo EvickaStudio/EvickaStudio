@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [This Love](https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4)**
-*by* **Pantera**
-*Album:* Vulgar Display of Power
+**🎵 [Miss Camaraderie](https://open.spotify.com/track/6ZuK9R7q9qebFj1K3QwUyI)**
+*by* **Azealia Banks**
+*Album:* Broke with Expensive Taste
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 6:33
+    0:12 • 5:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH)** by **100 gecs** *(10,000 gecs)*
-🎤 **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))*
-🎤 **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)*
-🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
-🎤 **[I Wanted to Leave](https://open.spotify.com/track/61iGwqhbDwkXanVo5LwJyF)** by **SYML** *(I Wanted to Leave)*
+🎤 **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by **Santigold** *(Master of My Make-Believe)*
+🎤 **[Void in Blue](https://open.spotify.com/track/0eZjwNa0wGZSzsOnt4T2hG)** by **Glare** *(Void in Blue)*
+🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
+🎤 **[Werewolf (feat. Bring Me The Horizon)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP)** by **Lil Uzi Vert, Bring Me The Horizon** *(Pink Tape)*
+🎤 **[This Love](https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4)** by **Pantera** *(Vulgar Display of Power)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 17:12:41Z UTC
+🕐 Last updated: 2025-06-03 17:33:21Z UTC
 <!-- SPOTIFY-END -->
