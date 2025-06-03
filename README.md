@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)**
-*by* **Declan McKenna**
-*Album:* What Do You Think About the Car?
+**🎵 [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS)**
+*by* **Billy Idol**
+*Album:* Rebel Yell
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="185" height="4" fill="#1db954" rx="2"/>
-    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 4:12
+    3:29 • 4:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)*
-🎤 **[Miss Camaraderie](https://open.spotify.com/track/6ZuK9R7q9qebFj1K3QwUyI)** by **Azealia Banks** *(Broke with Expensive Taste)*
-🎤 **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by **Santigold** *(Master of My Make-Believe)*
-🎤 **[Void in Blue](https://open.spotify.com/track/0eZjwNa0wGZSzsOnt4T2hG)** by **Glare** *(Void in Blue)*
+🎤 **[Redbone](https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo)** by **Childish Gambino** *("Awaken, My Love!")*
+🎤 **[Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i)** by **Ne-Yo** *(Year Of The Gentleman)*
+🎤 **[Lost in the Fire (feat. The Weeknd)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS)** by **Gesaffelstein, The Weeknd** *(Hyperion)*
+🎤 **[Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3)** by **Kali Uchis** *(Red Moon In Venus)*
+🎤 **[Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo)** by **Ojerime** *(B4 I Breakdown)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 17:48:46Z UTC
+🕐 Last updated: 2025-06-03 18:18:35Z UTC
 <!-- SPOTIFY-END -->
