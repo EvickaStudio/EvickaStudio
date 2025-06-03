@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
-*by* **Led Zeppelin**
-*Album:* Led Zeppelin IV (Deluxe Edition)
+**🎵 [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)**
+*by* **Foo Fighters**
+*Album:* The Colour And The Shape
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:18 • 8:02
+    3:18 • 4:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
+🎤 **[Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)** by **Freddie Dredd** *(Opaul)*
+🎤 **[Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)** by **Pitbull, Kesha** *(Global Warming: Meltdown (Deluxe Version))*
+🎤 **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)*
 🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
-🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
-🎤 **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by **White Town** *(Women in Technology)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 14:39:04Z UTC
+🕐 Last updated: 2025-06-03 14:53:46Z UTC
 <!-- SPOTIFY-END -->
