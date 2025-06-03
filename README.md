@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734863c8620f7c3fa135068768" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Feel Love - 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18)**
-*by* **Donna Summer**
-*Album:* Bad Girls (Deluxe Edition)
+**🎵 [CASTLE OF GLASS](https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5)**
+*by* **Linkin Park**
+*Album:* LIVING THINGS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:18 • 8:15
+    0:22 • 3:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[There's a Cat Licking Your Birthday Cake](https://open.spotify.com/track/5pJLbVlYQIbUVYlLjWIi0c)** by **Parry Gripp** *(There's a Cat Licking Your Birthday Cake)*
-🎤 **[So hoch der Himmel ist (O'Bros Remake)](https://open.spotify.com/track/1xi3bRo5G89vRtANyeS9fD)** by **Johannes Hartl Und Freunde, Veronika Lohmer, O'Bros** *(So hoch der Himmel ist (O'Bros Remake))*
-🎤 **[ten](https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i)** by **Fred again.., Jozzy** *(ten days)*
-🎤 **[Sleeves Touch My Elbows](https://open.spotify.com/track/0ej3RoZrDPhwQ7A6T8UoIS)** by **1tbsp, Mora y los Metegoles** *(Mosquito Love)*
-🎤 **[It Gets Better - Forever Mix](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo)** by **KETTAMA** *(It Gets Better (Forever Mix))*
+🎤 **[Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp)** by **Deftones** *(Koi No Yokan)*
+🎤 **[Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)** by **Pixies** *(Surfer Rosa (2007 Remaster))*
+🎤 **[Praise You (Radio Edit)](https://open.spotify.com/track/1j8GQQGyC26O1TeW4LLvjk)** by **Fatboy Slim** *(Praise You EP)*
+🎤 **[Pure Hooney - Radio Cut](https://open.spotify.com/track/0UN8kFyL1YkoLZFjI8lW8m)** by **Studio 45, Joe & Jessey** *(Pure Hooney)*
+🎤 **[I Feel Love - 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18)** by **Donna Summer** *(Bad Girls (Deluxe Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 15:36:29Z UTC
+🕐 Last updated: 2025-06-03 15:51:47Z UTC
 <!-- SPOTIFY-END -->
