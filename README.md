@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Miss Camaraderie](https://open.spotify.com/track/6ZuK9R7q9qebFj1K3QwUyI)**
-*by* **Azealia Banks**
-*Album:* Broke with Expensive Taste
+**🎵 [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)**
+*by* **Declan McKenna**
+*Album:* What Do You Think About the Car?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 5:09
+    2:35 • 4:12
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)*
+🎤 **[Miss Camaraderie](https://open.spotify.com/track/6ZuK9R7q9qebFj1K3QwUyI)** by **Azealia Banks** *(Broke with Expensive Taste)*
 🎤 **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by **Santigold** *(Master of My Make-Believe)*
 🎤 **[Void in Blue](https://open.spotify.com/track/0eZjwNa0wGZSzsOnt4T2hG)** by **Glare** *(Void in Blue)*
-🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
-🎤 **[Werewolf (feat. Bring Me The Horizon)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP)** by **Lil Uzi Vert, Bring Me The Horizon** *(Pink Tape)*
-🎤 **[This Love](https://open.spotify.com/track/0Yfpc5zHc9pElVCQ1bPlF4)** by **Pantera** *(Vulgar Display of Power)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 17:33:21Z UTC
+🕐 Last updated: 2025-06-03 17:48:46Z UTC
 <!-- SPOTIFY-END -->
