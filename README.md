@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b1a09f557807bd925d6cbb90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wasted (Nightcore)](https://open.spotify.com/track/5lfVYOAwQNpEPt1PeCtFXd)**
-*by* **activist, ඞ, ice, Murkis**
-*Album:* Wasted (Nightcore)
+**🎵 [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn)**
+*by* **Jim Croce**
+*Album:* You Don't Mess Around With Jim
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="40" height="4" fill="#1db954" rx="2"/>
-    <circle cx="40" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 3:14
+    0:05 • 2:28
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Murder In My Mind - Sped Up](https://open.spotify.com/track/0tNVojhn4cENgWHd5FtKy1)** by **Kordhell** *(Sped Up, Vol. 1)*
-🎤 **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)*
-🎤 **[sex money feelings die - slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI)** by **Lykke Li** *(sex money feelings die (slowed version))*
-🎤 **[Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA)** by **Stegosaurus Rex** *(The Dino Soars)*
-🎤 **[Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL)** by **slowthai** *(UGLY)*
+🎤 **[Shadowplay - 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[Out of Touch](https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit)** by **Daryl Hall & John Oates** *(The Very Best Of)*
+🎤 **[The Great Gig in the Sky](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d)** by **Pink Floyd** *(The Dark Side of the Moon)*
+🎤 **[BRASILIAN SKIES](https://open.spotify.com/track/3bMc9oRaUWnojCrYTUXXcQ)** by **Masayoshi Takanaka** *(BRASILIAN SKIES)*
+🎤 **[Blue Velvet](https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 20:14:33Z UTC
+🕐 Last updated: 2025-06-03 20:34:42Z UTC
 <!-- SPOTIFY-END -->
