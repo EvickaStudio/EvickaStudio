@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f084db0a6107ee0265572d9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736ebd5e789646a833b8f7d4ba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nightmare - Slowed](https://open.spotify.com/track/5inKSD0Oz1NXIrph2SiaBv)**
-*by* **plenka**
-*Album:* Slowed, Sped Up
+**🎵 [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)**
+*by* **No Doubt**
+*Album:* Tragic Kingdom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 4:00
+    3:29 • 4:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)** by **Jawnino** *(40)*
+🎤 **[shadows](https://open.spotify.com/track/2Bs0RFcxDaTgmpM1Kdmy46)** by **shxpe** *(shadows)*
+🎤 **[snowstorm](https://open.spotify.com/track/0MvetQHaePpXIjKzcjfEUv)** by **lannarie** *(notes of nothing)*
+🎤 **[Nightmare - Slowed](https://open.spotify.com/track/5inKSD0Oz1NXIrph2SiaBv)** by **plenka** *(Slowed, Sped Up)*
 🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
-🎤 **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by **Enquirer** *(for you)*
-🎤 **[She Doesn't Mind](https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8)** by **Sean Paul** *(Tomahawk Technique)*
-🎤 **[I Know There's Gonna Be (Good Times)](https://open.spotify.com/track/2fHFLyzAQYlguX5q0DfKlD)** by **Jamie xx, Young Thug, Popcaan** *(In Colour)*
-🎤 **[Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG)** by **Damian Marley** *(Welcome to Jamrock)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 21:11:24Z UTC
+🕐 Last updated: 2025-06-03 21:28:30Z UTC
 <!-- SPOTIFY-END -->
