@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f56bd14c15f36c9dad626d9b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1a09f557807bd925d6cbb90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)**
-*by* **Jawnino**
-*Album:* 40
+**🎵 [Wasted (Nightcore)](https://open.spotify.com/track/5lfVYOAwQNpEPt1PeCtFXd)**
+*by* **activist, ඞ, ice, Murkis**
+*Album:* Wasted (Nightcore)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 4:36
+    0:26 • 3:14
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Burning Desire](https://open.spotify.com/track/6xaOGD9CBxXgydQYtWXUKL)** by **purity., Exkryptt** *(Burning Desire)*
-🎤 **[Running Nowhere](https://open.spotify.com/track/3xRc0k4beGHaZSNJg9GHoj)** by **Dreamsun** *(Running Nowhere)*
-🎤 **[In My Room - Slowed](https://open.spotify.com/track/6aNtxtJi0CuqSNt5pkk8Ov)** by **life illustrated** *(In My Room (Slowed))*
-🎤 **[all night long](https://open.spotify.com/track/5kgALb8k4zITfMW6qNql0e)** by **Dazegxd** *(all night long)*
-🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
+🎤 **[Murder In My Mind - Sped Up](https://open.spotify.com/track/0tNVojhn4cENgWHd5FtKy1)** by **Kordhell** *(Sped Up, Vol. 1)*
+🎤 **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)*
+🎤 **[sex money feelings die - slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI)** by **Lykke Li** *(sex money feelings die (slowed version))*
+🎤 **[Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA)** by **Stegosaurus Rex** *(The Dino Soars)*
+🎤 **[Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL)** by **slowthai** *(UGLY)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 19:48:09Z UTC
+🕐 Last updated: 2025-06-03 20:14:33Z UTC
 <!-- SPOTIFY-END -->
