@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f39424b069f0ace613d5002c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)**
+*by* **Kilian Knight**
+*Album:* Es wird bald vorbei sein (Allein sein)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="112" height="4" fill="#1db954" rx="2"/>
+    <circle cx="112" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:01 • 2:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[Greed](https://open.spotify.com/track/4nevmz4M90Ix9Y8PTBasqu)** by **Freddie Dredd** *(Freddie's Inferno)*
-🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
-🎤 **[ASTRO - Super Slowed Opium Remix](https://open.spotify.com/track/25UHfCnc3Y8flOOXLCHudX)** by **Slowboy, zaichkou888, IVOXYGEN, nocap beats** *(ASTRO (Opium Remix))*
-🎤 **[it's what you do](https://open.spotify.com/track/7o94st4iGT01PmDX3Os28u)** by **i wanna be a jack-o-lantern, six days after christmas** *(cold autumn nights)*
+🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
+🎤 **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by **White Town** *(Women in Technology)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)*
+🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 12:25:46Z UTC
+🕐 Last updated: 2025-06-03 13:07:18Z UTC
 <!-- SPOTIFY-END -->
