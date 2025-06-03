@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736ebd5e789646a833b8f7d4ba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS)**
-*by* **Billy Idol**
-*Album:* Rebel Yell
+**🎵 [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)**
+*by* **No Doubt**
+*Album:* Tragic Kingdom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="129" height="4" fill="#1db954" rx="2"/>
+    <circle cx="129" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:29 • 4:59
+    1:53 • 4:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Redbone](https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo)** by **Childish Gambino** *("Awaken, My Love!")*
-🎤 **[Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i)** by **Ne-Yo** *(Year Of The Gentleman)*
-🎤 **[Lost in the Fire (feat. The Weeknd)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS)** by **Gesaffelstein, The Weeknd** *(Hyperion)*
-🎤 **[Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3)** by **Kali Uchis** *(Red Moon In Venus)*
-🎤 **[Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo)** by **Ojerime** *(B4 I Breakdown)*
+🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
+🎤 **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)*
+🎤 **[Durch den Monsun - Radio Mix](https://open.spotify.com/track/41YOS7VuxHEEwYHLfa7VWM)** by **Tokio Hotel** *(Schrei (so laut du kannst) [New Version])*
+🎤 **[Inside Out](https://open.spotify.com/track/1tbL1iLdlz8fLqopGAL6zZ)** by **Martin Dupont** *(Hot Paradox)*
+🎤 **[Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)** by **Cocteau Twins** *(Heaven or Las Vegas)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 18:18:35Z UTC
+🕐 Last updated: 2025-06-03 18:48:47Z UTC
 <!-- SPOTIFY-END -->
