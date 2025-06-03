@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f084db0a6107ee0265572d9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE)**
-*by* **Elliott Smith**
-*Album:* Either/Or
+**🎵 [Nightmare - Slowed](https://open.spotify.com/track/5inKSD0Oz1NXIrph2SiaBv)**
+*by* **plenka**
+*Album:* Slowed, Sped Up
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="130" height="4" fill="#1db954" rx="2"/>
+    <circle cx="130" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:21
+    1:44 • 4:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Times They Are A-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6)** by **Bob Dylan** *(The Times They Are A-Changin')*
-🎤 **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
-🎤 **[River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k)** by **Nick Drake** *(Five Leaves Left)*
-🎤 **[Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn)** by **Jim Croce** *(You Don't Mess Around With Jim)*
-🎤 **[Shadowplay - 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by **Enquirer** *(for you)*
+🎤 **[She Doesn't Mind](https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8)** by **Sean Paul** *(Tomahawk Technique)*
+🎤 **[I Know There's Gonna Be (Good Times)](https://open.spotify.com/track/2fHFLyzAQYlguX5q0DfKlD)** by **Jamie xx, Young Thug, Popcaan** *(In Colour)*
+🎤 **[Welcome To Jamrock](https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG)** by **Damian Marley** *(Welcome to Jamrock)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 20:49:01Z UTC
+🕐 Last updated: 2025-06-03 21:11:24Z UTC
 <!-- SPOTIFY-END -->
