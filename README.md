@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273acf8615af25342526c651b46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f56bd14c15f36c9dad626d9b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Constantly](https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr)**
-*by* **Hyce, BoyPee, Brown Joel**
-*Album:* Constantly
+**🎵 [It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)**
+*by* **Jawnino**
+*Album:* 40
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="258" height="4" fill="#1db954" rx="2"/>
-    <circle cx="258" cy="2" r="6" fill="#1db954"/>
+    <rect width="52" height="4" fill="#1db954" rx="2"/>
+    <circle cx="52" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:46 • 3:13
+    0:48 • 4:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM)** by **Darius Rucker** *(True Believers)*
-🎤 **[Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14)** by **Marty Robbins** *(Gunfighter Ballads And Trail Songs)*
-🎤 **[American Nights](https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB)** by **Zach Bryan** *(The Great American Bar Scene)*
-🎤 **[Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn)** by **Glen Campbell** *(Southern Nights)*
-🎤 **[Shake the Frost (Live)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o)** by **Tyler Childers** *(Live on Red Barn Radio I & II)*
+🎤 **[Burning Desire](https://open.spotify.com/track/6xaOGD9CBxXgydQYtWXUKL)** by **purity., Exkryptt** *(Burning Desire)*
+🎤 **[Running Nowhere](https://open.spotify.com/track/3xRc0k4beGHaZSNJg9GHoj)** by **Dreamsun** *(Running Nowhere)*
+🎤 **[In My Room - Slowed](https://open.spotify.com/track/6aNtxtJi0CuqSNt5pkk8Ov)** by **life illustrated** *(In My Room (Slowed))*
+🎤 **[all night long](https://open.spotify.com/track/5kgALb8k4zITfMW6qNql0e)** by **Dazegxd** *(all night long)*
+🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 19:34:13Z UTC
+🕐 Last updated: 2025-06-03 19:48:09Z UTC
 <!-- SPOTIFY-END -->
