@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273084051346f432cc68a1279cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)**
-*by* **MF DOOM**
-*Album:* MM..FOOD
+**🎵 [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14)**
+*by* **Marty Robbins**
+*Album:* Gunfighter Ballads And Trail Songs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:40 • 4:18
+    2:03 • 3:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
-🎤 **[GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm)** by **Adele** *(Skyfall)*
-🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
+🎤 **[American Nights](https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB)** by **Zach Bryan** *(The Great American Bar Scene)*
+🎤 **[Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn)** by **Glen Campbell** *(Southern Nights)*
+🎤 **[Shake the Frost (Live)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o)** by **Tyler Childers** *(Live on Red Barn Radio I & II)*
+🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
+🎤 **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 19:10:05Z UTC
+🕐 Last updated: 2025-06-03 19:24:49Z UTC
 <!-- SPOTIFY-END -->
