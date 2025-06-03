@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
 🎤 **[Greed](https://open.spotify.com/track/4nevmz4M90Ix9Y8PTBasqu)** by **Freddie Dredd** *(Freddie's Inferno)*
 🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
 🎤 **[ASTRO - Super Slowed Opium Remix](https://open.spotify.com/track/25UHfCnc3Y8flOOXLCHudX)** by **Slowboy, zaichkou888, IVOXYGEN, nocap beats** *(ASTRO (Opium Remix))*
 🎤 **[it's what you do](https://open.spotify.com/track/7o94st4iGT01PmDX3Os28u)** by **i wanna be a jack-o-lantern, six days after christmas** *(cold autumn nights)*
-🎤 **[Out Getting Ribs](https://open.spotify.com/track/29RVgDaIL6YbihkzJxxi8B)** by **Feeling Blew** *(Out Getting Ribs)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 11:47:56Z UTC
+🕐 Last updated: 2025-06-03 12:25:46Z UTC
 <!-- SPOTIFY-END -->
