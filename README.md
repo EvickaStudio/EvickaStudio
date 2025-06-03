@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273219635130a8061d76abfae5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Echo](https://open.spotify.com/track/5bRqdjdVRfd1zOY1xesNgu)**
-*by* **Berq**
-*Album:* Echo
+**🎵 [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1)**
+*by* **Aphex Twin**
+*Album:* Selected Ambient Works 85-92
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 3:10
+    2:11 • 4:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
-🎤 **[ROCKET MAN](https://open.spotify.com/track/08DSpSvxK19NIXYHRWriQs)** by **Up The RIvals** *(ROCKET MAN)*
-🎤 **[QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM)** by **Aphex Twin** *(Drukqs)*
-🎤 **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)*
-🎤 **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)*
+🎤 **[Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3)** by **Deftones** *(Saturday Night Wrist)*
+🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
+🎤 **[camel blau](https://open.spotify.com/track/4UiejpFxgHo53xCAOuj37M)** by **wurms, MC WINDHUND** *(camel blau)*
+🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
+🎤 **[Echo](https://open.spotify.com/track/5bRqdjdVRfd1zOY1xesNgu)** by **Berq** *(Echo)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 05:34:49Z UTC
+🕐 Last updated: 2025-06-03 05:49:39Z UTC
 <!-- SPOTIFY-END -->
