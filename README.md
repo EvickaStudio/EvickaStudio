@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b7267f57d1292443416628a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734863c8620f7c3fa135068768" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5)**
-*by* **BICEP, Clara La San**
-*Album:* Water
+**🎵 [I Feel Love - 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18)**
+*by* **Donna Summer**
+*Album:* Bad Girls (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 4:16
+    5:18 • 8:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz)** by **Crystal Waters, The Basement Boys** *(Surprise)*
-🎤 **[Change (In the House of Flies)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3)** by **Deftones** *(White Pony)*
-🎤 **[Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN)** by **Fleshwater** *(We're Not Here to Be Loved)*
-🎤 **[Future](https://open.spotify.com/track/5tO9JLCEnF9r7FrHNVrKvu)** by **Split Chain** *(Future)*
-🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
+🎤 **[There's a Cat Licking Your Birthday Cake](https://open.spotify.com/track/5pJLbVlYQIbUVYlLjWIi0c)** by **Parry Gripp** *(There's a Cat Licking Your Birthday Cake)*
+🎤 **[So hoch der Himmel ist (O'Bros Remake)](https://open.spotify.com/track/1xi3bRo5G89vRtANyeS9fD)** by **Johannes Hartl Und Freunde, Veronika Lohmer, O'Bros** *(So hoch der Himmel ist (O'Bros Remake))*
+🎤 **[ten](https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i)** by **Fred again.., Jozzy** *(ten days)*
+🎤 **[Sleeves Touch My Elbows](https://open.spotify.com/track/0ej3RoZrDPhwQ7A6T8UoIS)** by **1tbsp, Mora y los Metegoles** *(Mosquito Love)*
+🎤 **[It Gets Better - Forever Mix](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo)** by **KETTAMA** *(It Gets Better (Forever Mix))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 15:14:49Z UTC
+🕐 Last updated: 2025-06-03 15:36:29Z UTC
 <!-- SPOTIFY-END -->
