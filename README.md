@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fd3d13da17a1014a3538f9df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d300c3d8fa06ee9699eb6679" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hundert grad](https://open.spotify.com/track/2sUs7mkUFYEm0kqFyOQ0wa)**
-*by* **b3nn3t**
-*Album:* laut nachgedacht
+**🎵 [wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)**
+*by* **Steintor Herrenchor**
+*Album:* Collide Session #18 - Steintor Herrenchor
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:10
+    2:30 • 3:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Haut an Haut](https://open.spotify.com/track/43npphURzkZ9nwXcV0EoLN)** by **diggidaniel** *(Haut an Haut)*
+🎤 **[Ohne Plan](https://open.spotify.com/track/1uZkRjDtBl8uU5W5lWZ4M3)** by **strangerperson** *(Ohne Plan)*
+🎤 **[Dunkle Wolken](https://open.spotify.com/track/5Oc3o6QmHRMofF6WKgM9bW)** by **TEMMIS** *(LOVE Extended)*
+🎤 **[hundert grad](https://open.spotify.com/track/2sUs7mkUFYEm0kqFyOQ0wa)** by **b3nn3t** *(laut nachgedacht)*
 🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
-🎤 **[Bett Aus Angst](https://open.spotify.com/track/3P12RK6ZTsoFBZZQKjTFDx)** by **Drückeberger** *(Bett Aus Angst)*
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
-🎤 **[graublau](https://open.spotify.com/track/2xXfU4DnXVuZNvUe9Db5IM)** by **SCHRAMM** *(graublau)*
-🎤 **[Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)** by **nobis, Absteige** *(Vorschlaghammer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 10:40:20Z UTC
+🕐 Last updated: 2025-06-04 10:52:16Z UTC
 <!-- SPOTIFY-END -->
