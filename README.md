@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738505fbae0399bb99de4204ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273be5fab6674c3c16278e8b716" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dial](https://open.spotify.com/track/5S3xMuxpKbCkDdFCmzHJq9)**
-*by* **EASY EASY**
-*Album:* dial
+**🎵 [Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS)**
+*by* **JEREMIAS**
+*Album:* Blaue Augen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:31
+    2:13 • 2:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)** by **Kicker Dibs** *(Sonnemondstern)*
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
-🎤 **[Wolkenlos](https://open.spotify.com/track/3bAuECcPvLgYyepOvqoMW6)** by **strangerperson** *(Wolkenlos)*
-🎤 **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)*
+🎤 **[3. Stock](https://open.spotify.com/track/2M5xIJ2GySzBSKjhKdkjUL)** by **AnnenMayKantereit** *(Alles nix konkretes)*
+🎤 **[Superhot](https://open.spotify.com/track/48Ig9iwIuLfaYF6qDirO6l)** by **TEMMIS** *(Superhot)*
+🎤 **[zwischen allem und nichts](https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn)** by **Kasi, antonius** *(sommernacht <3)*
+🎤 **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 09:14:00Z UTC
+🕐 Last updated: 2025-06-04 09:34:16Z UTC
 <!-- SPOTIFY-END -->
