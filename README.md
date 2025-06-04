@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736aff3c416f4949344c16df05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ad3be9b45a3c309a9f9da0d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Du bist nur eine Hülle (da ist nichts)](https://open.spotify.com/track/7aKFFgbAmwUW8lqxTYKuVJ)**
-*by* **lauenburg**
-*Album:* Du bist nur eine Hülle (da ist nichts)
+**🎵 [Youngin mit Cash](https://open.spotify.com/track/0xMZiZOu7Ubj6tc55rY55f)**
+*by* **Beyazz**
+*Album:* get numb with me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 2:07
+    1:07 • 2:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Augenringe](https://open.spotify.com/track/1GECp43mOmp6VdRvUhS9vu)** by **nobis** *(Augenringe)*
-🎤 **[Raub dir den Verstand](https://open.spotify.com/track/5TQYrbFcJ0A3JCFj6geqvN)** by **Kilian Knight** *(Raub dir den Verstand)*
-🎤 **[Entweder/Oder](https://open.spotify.com/track/3qQHNy3rlzeTkgUwF6MEnr)** by **strangerperson** *(Aus tiefstem Herzen)*
-🎤 **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)*
-🎤 **[Berlin Boujee (Mama hat gesagt)](https://open.spotify.com/track/2txAhDJY0OobirWcQvcQOG)** by **Ritter Lean** *(Auch ein Atze muss mal weinen)*
+🎤 **[Nur ein Wort](https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3)** by **flö** *(Nur ein Wort)*
+🎤 **[mit dem wind](https://open.spotify.com/track/0YFl5AilwYFZvm6zHzisKL)** by **TYM** *(mit dem wind)*
+🎤 **[Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)** by **strangerperson** *(Wie der Raum in dem wir leben)*
+🎤 **[Nie passiert](https://open.spotify.com/track/6nqqZPM8ykobeZ1U6V4CQ0)** by **TEMMIS** *(LOVE Extended)*
+🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 11:11:21Z UTC
+🕐 Last updated: 2025-06-04 11:28:17Z UTC
 <!-- SPOTIFY-END -->
