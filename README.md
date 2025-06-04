@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e92361af5facda3ec7e989b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
-*by* **Good Kid**
-*Album:* Good Kid 4
+**🎵 [es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)**
+*by* **Tamino404, Keule**
+*Album:* es ist nicht mehr 2016
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 3:32
+    1:49 • 2:19
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
-🎤 **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by **Varg²™, Bladee, VS-55** *(ᚦ)*
-🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
-🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)*
+🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
+🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
+🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
 
 
 
@@ -154,9 +154,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**ᚦᚦᚦᚦperfect violation ᚦᚦ**](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 🥈 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 🥉 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
-🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 🏅 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-03 23:48:02Z UTC
+🕐 Last updated: 2025-06-04 01:02:38Z UTC
 <!-- SPOTIFY-END -->
