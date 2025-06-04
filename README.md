@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f39424b069f0ace613d5002c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738505fbae0399bb99de4204ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)**
-*by* **Kilian Knight**
-*Album:* Es wird bald vorbei sein (Allein sein)
+**🎵 [dial](https://open.spotify.com/track/5S3xMuxpKbCkDdFCmzHJq9)**
+*by* **EASY EASY**
+*Album:* dial
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:43
+    3:01 • 3:31
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)*
-🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
-🎤 **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
+🎤 **[Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)** by **Kicker Dibs** *(Sonnemondstern)*
+🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
+🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
+🎤 **[Wolkenlos](https://open.spotify.com/track/3bAuECcPvLgYyepOvqoMW6)** by **strangerperson** *(Wolkenlos)*
+🎤 **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by **TEMMIS** *(Wenn du da bist)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 08:47:14Z UTC
+🕐 Last updated: 2025-06-04 09:14:00Z UTC
 <!-- SPOTIFY-END -->
