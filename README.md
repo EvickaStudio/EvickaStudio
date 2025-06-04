@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a659e974921703e00eac9c89" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ddb73014564c72a5f8ab1008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blick über die Stadt](https://open.spotify.com/track/1mhLW4sxzBsKnpZrAD722C)**
-*by* **52Blue**
-*Album:* L(i)ebe
+**🎵 [Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)**
+*by* **Eera, DJH**
+*Album:* Smile (Bass)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="262" height="4" fill="#1db954" rx="2"/>
+    <circle cx="262" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 2:37
+    2:35 • 2:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
+🎤 **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by **lil hero** *(pawwwfect!)*
+🎤 **[TOXIC WASTE](https://open.spotify.com/track/6tAkYD0aGx4MaQeiBpdfgc)** by **1spxce** *(SILENT HILL)*
+🎤 **[I Feel Fantastic](https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD)** by **Riovaz** *(I Feel Fantastic)*
+🎤 **[Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr)** by **A$AP Rocky** *(Tailor Swif)*
+🎤 **[All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9)** by **Kanye West, Syleena Johnson** *(The College Dropout)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 16:00:16Z UTC
+🕐 Last updated: 2025-06-04 16:26:41Z UTC
 <!-- SPOTIFY-END -->
