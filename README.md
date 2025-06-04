@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27362a547dfe95c3ef8b07def3e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)**
-*by* **Snow Strippers**
-*Album:* April Mixtape 3
+**🎵 [Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)**
+*by* **nobis**
+*Album:* Zum Glück (Bist du nicht mehr da)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="232" height="4" fill="#1db954" rx="2"/>
-    <circle cx="232" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:49 • 3:38
+    2:11 • 3:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[dieselbe Leier](https://open.spotify.com/track/6kQ62Rc00IZKcdng15bNG8)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
-🎤 **[Unsichtbar](https://open.spotify.com/track/0dew0zJSX97myv4kExr1Iu)** by **Drückeberger** *(Unsichtbar)*
-🎤 **[Spät](https://open.spotify.com/track/7KWXTbGSehCiFbZLtqfSUh)** by **diggidaniel** *(Spät)*
-🎤 **[Alles brennt](https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO)** by **TEMMIS** *(Alles brennt)*
-🎤 **[der schlechteste (mit ritter lean)](https://open.spotify.com/track/0Se7XhBWk4FV20i4JkYgFm)** by **Ski Aggu, Ritter Lean** *(Wilmersdorfs Kind)*
+🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
+🎤 **[sleep alone.° ੈ✩](https://open.spotify.com/track/2yOqitXcB3VIgl1B0Oepy9)** by **Flawless Issues** *(Modern Past)*
+🎤 **[Society](https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1)** by **Pathetic** *(Society)*
+🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
+🎤 **[Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)** by **H3artcrush, Punkinloveee** *(Freak Show)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 12:25:41Z UTC
+🕐 Last updated: 2025-06-04 13:07:28Z UTC
 <!-- SPOTIFY-END -->
