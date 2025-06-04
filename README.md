@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)**
-*by* **The Police**
-*Album:* Reggatta De Blanc (Remastered 2003)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:36 • 4:50
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by **Led Zeppelin** *(Led Zeppelin IV (Deluxe Edition))*
-🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
-🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
+🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
+🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
+🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
+🎤 **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(Planet)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 14:48:59Z UTC
+🕐 Last updated: 2025-06-04 15:37:20Z UTC
 <!-- SPOTIFY-END -->
