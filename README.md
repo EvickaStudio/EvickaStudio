@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d55a59436d62beff364b699" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738fdf58b2f944bb998304457f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 ["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)**
-*by* **Edwin Rosen**
-*Album:* "1119"
+**🎵 [Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)**
+*by* **MC WINDHUND**
+*Album:* Uschi
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="285" height="4" fill="#1db954" rx="2"/>
+    <circle cx="285" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 2:49
+    3:10 • 3:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Should I stay or should i die](https://open.spotify.com/track/6Axdu52baKjJ6QwSw2lP1g)** by **Rrotzer, Timor** *(BubbleGumPunk)*
-🎤 **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)*
-🎤 **[Hoffnung](https://open.spotify.com/track/5Zuu2lp1u6vPMCeboe9buo)** by **TEMMIS** *(Tageslicht fall auf mich - EP)*
-🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
-🎤 **[Blaue Augen](https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS)** by **JEREMIAS** *(Blaue Augen)*
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[Alle Farben](https://open.spotify.com/track/3YGE4ji9cuQOpnPtCoNUYl)** by **Ritter Lean** *(Auch ein Atze muss mal weinen)*
+🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
+🎤 **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)*
+🎤 **[Keine Zeit](https://open.spotify.com/track/4y8vjbTVGjXV8nJnOTTXKk)** by **strangerperson** *(Keine Zeit)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 09:49:44Z UTC
+🕐 Last updated: 2025-06-04 10:14:31Z UTC
 <!-- SPOTIFY-END -->
