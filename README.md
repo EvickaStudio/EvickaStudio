@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27391e75711a12ae785e9e24894" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)**
-*by* **Slowdive**
-*Album:* Souvlaki
+**🎵 [I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)**
+*by* **Cortex**
+*Album:* Inedit 79
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="160" height="4" fill="#1db954" rx="2"/>
-    <circle cx="160" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 4:45
+    0:16 • 3:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
-🎤 **[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)** by **Deftones** *(Diamond Eyes)*
-🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
-🎤 **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)** by **Jawnino** *(40)*
+🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
+🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 16:55:42Z UTC
+🕐 Last updated: 2025-06-04 17:12:28Z UTC
 <!-- SPOTIFY-END -->
