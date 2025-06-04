@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ad3be9b45a3c309a9f9da0d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737e2634ded2995ab65f8d2d6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Youngin mit Cash](https://open.spotify.com/track/0xMZiZOu7Ubj6tc55rY55f)**
-*by* **Beyazz**
-*Album:* get numb with me
+**🎵 [Gespenster](https://open.spotify.com/track/4URPOoy8a6nAdDZPG0wtCr)**
+*by* **Drückeberger**
+*Album:* Gespenster
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:55
+    0:16 • 2:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Rückkehr](https://open.spotify.com/track/5F0VCPEpO78iL9TVpFWueb)** by **strangerperson** *(Rückkehr)*
+🎤 **[LOVE](https://open.spotify.com/track/5vbyahzhy06ZKQkAkhHfpe)** by **TEMMIS** *(LOVE)*
+🎤 **[I Would Lie](https://open.spotify.com/track/6FZO6mSht7epq08dCtcqmi)** by **zwanzignullvier** *(I Would Lie)*
+🎤 **[Youngin mit Cash](https://open.spotify.com/track/0xMZiZOu7Ubj6tc55rY55f)** by **Beyazz** *(get numb with me)*
 🎤 **[Nur ein Wort](https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3)** by **flö** *(Nur ein Wort)*
-🎤 **[mit dem wind](https://open.spotify.com/track/0YFl5AilwYFZvm6zHzisKL)** by **TYM** *(mit dem wind)*
-🎤 **[Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)** by **strangerperson** *(Wie der Raum in dem wir leben)*
-🎤 **[Nie passiert](https://open.spotify.com/track/6nqqZPM8ykobeZ1U6V4CQ0)** by **TEMMIS** *(LOVE Extended)*
-🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 11:28:17Z UTC
+🕐 Last updated: 2025-06-04 11:39:19Z UTC
 <!-- SPOTIFY-END -->
