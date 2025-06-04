@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d300c3d8fa06ee9699eb6679" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736aff3c416f4949344c16df05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)**
-*by* **Steintor Herrenchor**
-*Album:* Collide Session #18 - Steintor Herrenchor
+**🎵 [Du bist nur eine Hülle (da ist nichts)](https://open.spotify.com/track/7aKFFgbAmwUW8lqxTYKuVJ)**
+*by* **lauenburg**
+*Album:* Du bist nur eine Hülle (da ist nichts)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:30 • 3:48
+    0:04 • 2:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Haut an Haut](https://open.spotify.com/track/43npphURzkZ9nwXcV0EoLN)** by **diggidaniel** *(Haut an Haut)*
-🎤 **[Ohne Plan](https://open.spotify.com/track/1uZkRjDtBl8uU5W5lWZ4M3)** by **strangerperson** *(Ohne Plan)*
-🎤 **[Dunkle Wolken](https://open.spotify.com/track/5Oc3o6QmHRMofF6WKgM9bW)** by **TEMMIS** *(LOVE Extended)*
-🎤 **[hundert grad](https://open.spotify.com/track/2sUs7mkUFYEm0kqFyOQ0wa)** by **b3nn3t** *(laut nachgedacht)*
-🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
+🎤 **[Augenringe](https://open.spotify.com/track/1GECp43mOmp6VdRvUhS9vu)** by **nobis** *(Augenringe)*
+🎤 **[Raub dir den Verstand](https://open.spotify.com/track/5TQYrbFcJ0A3JCFj6geqvN)** by **Kilian Knight** *(Raub dir den Verstand)*
+🎤 **[Entweder/Oder](https://open.spotify.com/track/3qQHNy3rlzeTkgUwF6MEnr)** by **strangerperson** *(Aus tiefstem Herzen)*
+🎤 **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)*
+🎤 **[Berlin Boujee (Mama hat gesagt)](https://open.spotify.com/track/2txAhDJY0OobirWcQvcQOG)** by **Ritter Lean** *(Auch ein Atze muss mal weinen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 10:52:16Z UTC
+🕐 Last updated: 2025-06-04 11:11:21Z UTC
 <!-- SPOTIFY-END -->
