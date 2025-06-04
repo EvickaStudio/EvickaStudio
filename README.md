@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c2e275f3e14280dd2cea2de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739de62bd8805f8a1b77cbedf5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)**
-*by* **agelast222**
-*Album:* SOLARCORP
+**🎵 [Dancing Through the Night - Single Edit](https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF)**
+*by* **Raveboy**
+*Album:* Dancing Through the Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="284" height="4" fill="#1db954" rx="2"/>
+    <circle cx="284" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 3:16
+    3:16 • 3:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[nothing last 4ever](https://open.spotify.com/track/1wzCEEvNOyAxzgifct7SQj)** by **Rebzyyx, syris** *(nothing last 4ever)*
-🎤 **[murderous](https://open.spotify.com/track/4dSOcrtvvPB7mcPy2cAZ0R)** by **korpsebunny** *(murderous)*
-🎤 **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)*
-🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
-🎤 **[Call Across Rooms](https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz)** by **Grouper** *(Ruins)*
+🎤 **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)*
+🎤 **[Project Lee](https://open.spotify.com/track/4BWB4sloTnnEych80RIJhH)** by **Dj Settler** *(Project Lee)*
+🎤 **[no margin 4 error](https://open.spotify.com/track/3u9S1IYsDNk0BN11HJUTPL)** by **archive computer** *(no margin 4 error)*
+🎤 **[oxytocin](https://open.spotify.com/track/2GJ3YGXlNEuxBqf80IRcmX)** by **Mobezzy** *(INTEREA)*
+🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 04:39:56Z UTC
+🕐 Last updated: 2025-06-04 04:53:47Z UTC
 <!-- SPOTIFY-END -->
