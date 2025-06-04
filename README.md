@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ddb73014564c72a5f8ab1008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)**
-*by* **Eera, DJH**
-*Album:* Smile (Bass)
+**🎵 [Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)**
+*by* **Radiohead**
+*Album:* In Rainbows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 2:58
+    1:18 • 4:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by **lil hero** *(pawwwfect!)*
-🎤 **[TOXIC WASTE](https://open.spotify.com/track/6tAkYD0aGx4MaQeiBpdfgc)** by **1spxce** *(SILENT HILL)*
-🎤 **[I Feel Fantastic](https://open.spotify.com/track/6B2uIq7JV0UfleZOHAulKD)** by **Riovaz** *(I Feel Fantastic)*
-🎤 **[Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr)** by **A$AP Rocky** *(Tailor Swif)*
-🎤 **[All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9)** by **Kanye West, Syleena Johnson** *(The College Dropout)*
+🎤 **[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)** by **Deftones** *(Diamond Eyes)*
+🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
+🎤 **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by **quannnic** *(kenopsia)*
+🎤 **[Enjoy Yourself](https://open.spotify.com/track/4Wejm1M4YtPuZnwXcPM8OV)** by **berryblue** *(Uh Oh)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 16:26:41Z UTC
+🕐 Last updated: 2025-06-04 16:44:52Z UTC
 <!-- SPOTIFY-END -->
