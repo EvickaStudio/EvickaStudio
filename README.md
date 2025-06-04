@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d18e118fbf8a0151a508d883" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)**
-*by* **lauenburg**
-*Album:* Turmalin
+**🎵 [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)**
+*by* **Snow Strippers**
+*Album:* April Mixtape 3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+    <rect width="232" height="4" fill="#1db954" rx="2"/>
+    <circle cx="232" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:38
+    2:49 • 3:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)*
-🎤 **[Bloody Rain](https://open.spotify.com/track/03lHuGuHgKcWThhKg9qivx)** by **Souly** *(Ich wünschte, es würd' mich kümmern)*
-🎤 **[Gespenster](https://open.spotify.com/track/4URPOoy8a6nAdDZPG0wtCr)** by **Drückeberger** *(Gespenster)*
-🎤 **[Rückkehr](https://open.spotify.com/track/5F0VCPEpO78iL9TVpFWueb)** by **strangerperson** *(Rückkehr)*
-🎤 **[LOVE](https://open.spotify.com/track/5vbyahzhy06ZKQkAkhHfpe)** by **TEMMIS** *(LOVE)*
+🎤 **[dieselbe Leier](https://open.spotify.com/track/6kQ62Rc00IZKcdng15bNG8)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[Unsichtbar](https://open.spotify.com/track/0dew0zJSX97myv4kExr1Iu)** by **Drückeberger** *(Unsichtbar)*
+🎤 **[Spät](https://open.spotify.com/track/7KWXTbGSehCiFbZLtqfSUh)** by **diggidaniel** *(Spät)*
+🎤 **[Alles brennt](https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO)** by **TEMMIS** *(Alles brennt)*
+🎤 **[der schlechteste (mit ritter lean)](https://open.spotify.com/track/0Se7XhBWk4FV20i4JkYgFm)** by **Ski Aggu, Ritter Lean** *(Wilmersdorfs Kind)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 11:47:34Z UTC
+🕐 Last updated: 2025-06-04 12:25:41Z UTC
 <!-- SPOTIFY-END -->
