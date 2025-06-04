@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a067a53f540b6e4f7d24aba0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c2e275f3e14280dd2cea2de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)**
-*by* **Central Sonic**
-*Album:* Club Scenes - Psytrance
+**🎵 [MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)**
+*by* **agelast222**
+*Album:* SOLARCORP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 3:12
+    2:20 • 3:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Ich romantisiere Drogen](https://open.spotify.com/track/5f53Pdy4937QSXB3h5HJIA)** by **Punk Christ, Love Pact** *(NERVENKONSTRUKT)*
-🎤 **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)*
-🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
-🎤 **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)*
-🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
+🎤 **[nothing last 4ever](https://open.spotify.com/track/1wzCEEvNOyAxzgifct7SQj)** by **Rebzyyx, syris** *(nothing last 4ever)*
+🎤 **[murderous](https://open.spotify.com/track/4dSOcrtvvPB7mcPy2cAZ0R)** by **korpsebunny** *(murderous)*
+🎤 **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)*
+🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[Call Across Rooms](https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz)** by **Grouper** *(Ruins)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 04:03:41Z UTC
+🕐 Last updated: 2025-06-04 04:39:56Z UTC
 <!-- SPOTIFY-END -->
