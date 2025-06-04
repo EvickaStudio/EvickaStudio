@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a2f4114eb1e98cafef5a3f3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)**
+*by* **RADWIMPS**
+*Album:* RADWIMPS 4 ～おかずのごはん～
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:37 • 4:41
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)*
+🎤 **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)*
+🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
 🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
 🎤 **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by **Souly, overshiaat, Bovskey** *(Oh Mein Gott (Bovskey Version))*
-🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
-🎤 **[hold up](https://open.spotify.com/track/579PAYUpxvtf6PLK73Mplo)** by **Dropped here** *(hold up)*
-🎤 **[schwarzweiß](https://open.spotify.com/track/53hFo1zfs5ARgXmzcmSxKw)** by **blombi19** *(schwarzweiß)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 06:48:33Z UTC
+🕐 Last updated: 2025-06-04 07:13:16Z UTC
 <!-- SPOTIFY-END -->
