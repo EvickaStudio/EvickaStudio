@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735028ab593b655dff1ffb7682" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [schwarzweiß](https://open.spotify.com/track/53hFo1zfs5ARgXmzcmSxKw)**
-*by* **blombi19**
-*Album:* schwarzweiß
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="218" height="4" fill="#1db954" rx="2"/>
-    <circle cx="218" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 1:56
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)*
-🎤 **[keine kraft](https://open.spotify.com/track/5tSzocu3ONCE5cIdcXe9Oh)** by **Mobezzy, Steve276** *(keine kraft)*
-🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
-🎤 **[life after life](https://open.spotify.com/track/0oufNGimO4F8exn0CTKkWe)** by **dose** *(life after life)*
-🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
+🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
+🎤 **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by **Souly, overshiaat, Bovskey** *(Oh Mein Gott (Bovskey Version))*
+🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
+🎤 **[hold up](https://open.spotify.com/track/579PAYUpxvtf6PLK73Mplo)** by **Dropped here** *(hold up)*
+🎤 **[schwarzweiß](https://open.spotify.com/track/53hFo1zfs5ARgXmzcmSxKw)** by **blombi19** *(schwarzweiß)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-04 06:18:44Z UTC
+🕐 Last updated: 2025-06-04 06:48:33Z UTC
 <!-- SPOTIFY-END -->
