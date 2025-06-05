@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d714b16e3312d8fb0c4b80d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f922300411db724163aa8eda" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)**
-*by* **Kilian Knight**
-*Album:* Nimm mir die Angst
+**🎵 [Butterflies](https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M)**
+*by* **TV Girl, George Clanton, Jordana**
+*Album:* Fauxllennium
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:50
+    0:34 • 4:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
-🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
-🎤 **[nuts](https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK)** by **Lil Peep, rainy bear** *(LIVE FOREVER)*
-🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
-🎤 **[changes](https://open.spotify.com/track/780m9E2Kw6EY204EveWIk3)** by **Love Pact** *(changes)*
+🎤 **[easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE)** by **lil hero** *(pawwwfect!)*
+🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
+🎤 **[Another life (feat. Rema)](https://open.spotify.com/track/1ljtQrsf55VCwjqXjro7Po)** by **PinkPantheress, Rema** *(Heaven knows)*
+🎤 **[drifting](https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR)** by **Night Tapes** *(drifting)*
+🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-05 09:33:32Z UTC
+🕐 Last updated: 2025-06-05 09:49:30Z UTC
 <!-- SPOTIFY-END -->
