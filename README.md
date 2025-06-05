@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273317b8e4b1a3b72425f090af3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338f2b7d6d3f0249faa6440ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)**
-*by* **Max Fry**
-*Album:* zombie
+**🎵 [Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)**
+*by* **Flawless Issues**
+*Album:* Good Vibrations
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="266" height="4" fill="#1db954" rx="2"/>
+    <circle cx="266" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 2:11
+    2:40 • 3:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
+🎤 **[if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl)** by **EKKSTACY** *(FOREVER)*
+🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
 🎤 **[can we change the subject?](https://open.spotify.com/track/2nvBWdzpTrda0eV950VGoG)** by **re6ce** *(can we change the subject?)*
 🎤 **[North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)** by **ESP** *(RIFT Two)*
-🎤 **[Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
 
 
 
@@ -151,12 +151,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**ᚦᚦᚦᚦperfect violation ᚦᚦ**](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
-🥈 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+🥇 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+🥈 [**ᚦᚦᚦᚦperfect violation ᚦᚦ**](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)
 🥉 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 🏅 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
+🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 17:26:12Z UTC
+🕐 Last updated: 2025-06-05 17:35:14Z UTC
 <!-- SPOTIFY-END -->
