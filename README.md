@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ef52797492f7067be5cdf629" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)**
-*by* **SWEET SPINE**
-*Album:* Darkness
+**🎵 [Miss Camaraderie](https://open.spotify.com/track/6ZuK9R7q9qebFj1K3QwUyI)**
+*by* **Azealia Banks**
+*Album:* Broke with Expensive Taste
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 3:48
+    1:03 • 5:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by **Dilla, emi x** *(Willst du)*
+🎤 **[Future](https://open.spotify.com/track/5tO9JLCEnF9r7FrHNVrKvu)** by **Split Chain** *(Future)*
+🎤 **[Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8)** by **KID BRUNSWICK** *(Heaven Without You)*
+🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
 🎤 **[Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3)** by **Deftones** *(Saturday Night Wrist)*
-🎤 **[bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb)** by **Fantasy Camp** *(long way home)*
-🎤 **[desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny)** by **spirit blue** *(ps / dm)*
-🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
-🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 21:29:22Z UTC
+🕐 Last updated: 2025-06-05 21:40:40Z UTC
 <!-- SPOTIFY-END -->
