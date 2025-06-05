@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ef52797492f7067be5cdf629" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)**
-*by* **LSD and the Search for God**
-*Album:* LSD and the Search for God
+**🎵 [Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)**
+*by* **SWEET SPINE**
+*Album:* Darkness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 5:04
+    1:20 • 3:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3)** by **Deftones** *(Saturday Night Wrist)*
+🎤 **[bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb)** by **Fantasy Camp** *(long way home)*
+🎤 **[desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny)** by **spirit blue** *(ps / dm)*
+🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
 🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
-🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5)** by **The Mamas & The Papas** *(The Papas & The Mamas)*
-🎤 **[What More Can I Do](https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1)** by **54 Ultra** *(What More Can I Do)*
-🎤 **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 21:12:00Z UTC
+🕐 Last updated: 2025-06-05 21:29:22Z UTC
 <!-- SPOTIFY-END -->
