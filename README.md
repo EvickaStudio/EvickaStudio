@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379d5627e754e5c56d4973ccc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)**
-*by* **Flawless Issues**
-*Album:* Cut the Rope
+**🎵 [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)**
+*by* **Bob Dylan**
+*Album:* Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="112" height="4" fill="#1db954" rx="2"/>
-    <circle cx="112" cy="2" r="6" fill="#1db954"/>
+    <rect width="28" height="4" fill="#1db954" rx="2"/>
+    <circle cx="28" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:38
+    0:14 • 2:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[CARNIVAL](https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq)** by **¥$, Kanye West, Ty Dolla $ign** *(VULTURES 1)*
 🎤 **[Bimbo Doll](https://open.spotify.com/track/5HeZL5bRFJl8mGBQUT2ny9)** by **dreamsoda** *(Bimbo Doll)*
 🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
 🎤 **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)*
 🎤 **[fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt)** by **9lives** *(33.1FM)*
-🎤 **[Flowers](https://open.spotify.com/track/63gSn7x2pYtLofjpqFP7pK)** by **Elipropperr, Tek lintowe** *(Hotel Song)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 19:09:41Z UTC
+🕐 Last updated: 2025-06-05 19:21:57Z UTC
 <!-- SPOTIFY-END -->
