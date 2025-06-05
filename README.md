@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cddfe70492c57a78e4d86b1c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273315686b3698c807eb82cb210" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)**
-*by* **SUICIDAL-IDOL**
-*Album:* ecstacy (slowed)
+**🎵 [Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)**
+*by* **citrulinq, Kiki<3**
+*Album:* Hard Resonance
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 1:59
+    2:06 • 2:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[three](https://open.spotify.com/track/0YvtuzxqHtn4f5cEQnBKJC)** by **Cult Member** *(2017 Archives)*
-🎤 **[Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc)** by **Charli xcx** *(Pop 2)*
-🎤 **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by **Sidewalks and Skeletons** *(White Light)*
-🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Gold Leaf](https://open.spotify.com/track/663DgGllN6cFFltvzLJ990)** by **A. G. Cook** *(7G)*
+🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
+🎤 **[push away](https://open.spotify.com/track/1n3lfcD8qBb17pDAPM2Tm6)** by **lor2mg** *(unrequited)*
+🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[generation x](https://open.spotify.com/track/3dL5ALCRy6tanqZg9osfh8)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[show me calcium](https://open.spotify.com/track/5zWJgjOltU9B6t1kEvkS3w)** by **alfie** *(show me calcium)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-05 13:54:52Z UTC
+🕐 Last updated: 2025-06-05 14:12:59Z UTC
 <!-- SPOTIFY-END -->
