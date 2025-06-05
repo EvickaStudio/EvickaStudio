@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27338f2b7d6d3f0249faa6440ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27301054a4b4c24ec84353bd087" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)**
-*by* **Flawless Issues**
-*Album:* Good Vibrations
+**🎵 [radar](https://open.spotify.com/track/218EsnPhF2Fk5jA9fDqKSj)**
+*by* **lil hero**
+*Album:* pawwwfect!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:40 • 3:00
+    1:49 • 2:22
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
-🎤 **[if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl)** by **EKKSTACY** *(FOREVER)*
-🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
-🎤 **[can we change the subject?](https://open.spotify.com/track/2nvBWdzpTrda0eV950VGoG)** by **re6ce** *(can we change the subject?)*
-🎤 **[North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)** by **ESP** *(RIFT Two)*
+🎤 **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by **a-ha** *(Hunting High and Low)*
+🎤 **[Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5)** by **PinkPantheress** *(Turn it up)*
+🎤 **[Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV)** by **6arelyhuman** *(Internet Famous)*
+🎤 **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)*
+🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 17:35:14Z UTC
+🕐 Last updated: 2025-06-05 17:47:47Z UTC
 <!-- SPOTIFY-END -->
