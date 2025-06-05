@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273154c3562dc92bcd302c72c9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f608bed027b464bd239f4b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)**
-*by* **Anamanaguchi, Hatsune Miku**
-*Album:* Miku
+**🎵 [Hiding](https://open.spotify.com/track/1LI8RWdVS2RWTn3GPPhVsA)**
+*by* **Slowboy, IVOXYGEN, Bodycam**
+*Album:* Hiding
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
+    <rect width="78" height="4" fill="#1db954" rx="2"/>
+    <circle cx="78" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:53 • 3:43
+    0:43 • 2:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by **Flawless Issues** *(Cut the Rope)*
-🎤 **[Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI)** by **Dr. Dog** *(Shame, Shame (Deluxe Edition))*
-🎤 **[Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)** by **Dire Straits** *(Dire Straits)*
-🎤 **[Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0)** by **Cage The Elephant** *(Melophobia)*
-🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
+🎤 **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)*
+🎤 **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)*
+🎤 **[Love U](https://open.spotify.com/track/6HdD9VoQ3fz4mvQ6RRxGEk)** by **Razihel** *(Love U)*
+🎤 **[Doktorspiele - English Version](https://open.spotify.com/track/7CSJZbmQd5YsNdwYfeGsNj)** by **Alex C., Yass** *(Euphoria (International Edition))*
+🎤 **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 19:33:47Z UTC
+🕐 Last updated: 2025-06-05 19:47:43Z UTC
 <!-- SPOTIFY-END -->
