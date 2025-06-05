@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27391772af5a4044692736f17bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27316eb1e685e6bd37ab3228de6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN)**
-*by* **Jake Antonio**
-*Album:* wants and needs
+**🎵 [Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)**
+*by* **Joy Division**
+*Album:* Unknown Pleasures (Collector's Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:02 • 4:40
+    3:14 • 3:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[TRRST](https://open.spotify.com/track/0M56diRArdi0vRYmLBeltn)** by **IC3PEAK, ZillaKami** *(До Свидания)*
+🎤 **[Cooler Than Me](https://open.spotify.com/track/26CCPKPZQGVYSXLJVDgCEo)** by **Ethan Fields** *(Cooler Than Me)*
+🎤 **[Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
 🎤 **[Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)** by **BICEP** *(Bicep)*
 🎤 **[Closer](https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV)** by **Gaskin** *(Closer)*
-🎤 **[wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN)** by **Jake Antonio** *(wants and needs)*
-🎤 **[Pretty Green Eyes (Sunset Ibiza Mix)](https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm)** by **KETTAMA** *(Pretty Green Eyes (Sunset Ibiza Mix))*
-🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 20:27:47Z UTC
+🕐 Last updated: 2025-06-05 20:36:36Z UTC
 <!-- SPOTIFY-END -->
