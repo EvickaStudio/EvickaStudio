@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[TRRST](https://open.spotify.com/track/0M56diRArdi0vRYmLBeltn)** by **IC3PEAK, ZillaKami** *(До Свидания)*
-🎤 **[Cooler Than Me](https://open.spotify.com/track/26CCPKPZQGVYSXLJVDgCEo)** by **Ethan Fields** *(Cooler Than Me)*
-🎤 **[Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
-🎤 **[Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)** by **BICEP** *(Bicep)*
-🎤 **[Closer](https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV)** by **Gaskin** *(Closer)*
+🎤 **[Blue Velvet](https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
+🎤 **[The Beginning](https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR)** by **Flawed Mangoes** *(Killswitch Melodies)*
+🎤 **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by **herz.** *(kopflos durch die nacht)*
+🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
+🎤 **[Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)** by **Pixies** *(Surfer Rosa (2007 Remaster))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 20:36:36Z UTC
+🕐 Last updated: 2025-06-05 20:48:01Z UTC
 <!-- SPOTIFY-END -->
