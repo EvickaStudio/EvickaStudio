@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee8b603d6c666ba428daac30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Disintegration - Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW)**
-*by* **The Cure**
-*Album:* Disintegration (Deluxe Edition)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    6:19 • 8:19
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by **Jane Remover** *(Frailty)*
+🎤 **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by **akiaura, LONOWN, Olya Holiday** *(Midnight Skin)*
+🎤 **[Little Lies - 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl)** by **Fleetwood Mac** *(Tango In the Night (Deluxe Edition))*
+🎤 **[Disintegration - Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW)** by **The Cure** *(Disintegration (Deluxe Edition))*
 🎤 **[Still Ill - 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J)** by **The Smiths** *(The Smiths)*
-🎤 **[I Wanna Be Adored - Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4)** by **The Stone Roses** *(The Stone Roses)*
-🎤 **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by **Tom Petty** *(Full Moon Fever)*
-🎤 **[American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh)** by **Estelle, Kanye West** *(Shine)*
-🎤 **[Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9)** by **Mark Morrison** *(Return of the Mack)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 22:48:41Z UTC
+🕐 Last updated: 2025-06-05 23:13:47Z UTC
 <!-- SPOTIFY-END -->
