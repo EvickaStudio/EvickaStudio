@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d83f62c3b0ce8212640f419" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Miss Camaraderie](https://open.spotify.com/track/6ZuK9R7q9qebFj1K3QwUyI)**
-*by* **Azealia Banks**
-*Album:* Broke with Expensive Taste
+**🎵 [Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX)**
+*by* **6euroneunzig**
+*Album:* Zur Party
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 5:09
+    1:33 • 2:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[FΛSHION - Slow](https://open.spotify.com/track/73PYyeg1BaHxPnlGJ4Rymu)** by **Britney Manson** *(FASHION (Slow + Speed Up Edit))*
+🎤 **[Miss Camaraderie](https://open.spotify.com/track/6ZuK9R7q9qebFj1K3QwUyI)** by **Azealia Banks** *(Broke with Expensive Taste)*
 🎤 **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by **Dilla, emi x** *(Willst du)*
 🎤 **[Future](https://open.spotify.com/track/5tO9JLCEnF9r7FrHNVrKvu)** by **Split Chain** *(Future)*
 🎤 **[Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8)** by **KID BRUNSWICK** *(Heaven Without You)*
-🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
-🎤 **[Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3)** by **Deftones** *(Saturday Night Wrist)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 21:40:40Z UTC
+🕐 Last updated: 2025-06-05 21:48:23Z UTC
 <!-- SPOTIFY-END -->
