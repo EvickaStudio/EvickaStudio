@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273154c3562dc92bcd302c72c9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)**
-*by* **Bob Dylan**
-*Album:* Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)
+**🎵 [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)**
+*by* **Anamanaguchi, Hatsune Miku**
+*Album:* Miku
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:29
+    2:53 • 3:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[CARNIVAL](https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq)** by **¥$, Kanye West, Ty Dolla $ign** *(VULTURES 1)*
-🎤 **[Bimbo Doll](https://open.spotify.com/track/5HeZL5bRFJl8mGBQUT2ny9)** by **dreamsoda** *(Bimbo Doll)*
-🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
-🎤 **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)*
-🎤 **[fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt)** by **9lives** *(33.1FM)*
+🎤 **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by **Flawless Issues** *(Cut the Rope)*
+🎤 **[Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI)** by **Dr. Dog** *(Shame, Shame (Deluxe Edition))*
+🎤 **[Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)** by **Dire Straits** *(Dire Straits)*
+🎤 **[Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0)** by **Cage The Elephant** *(Melophobia)*
+🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 19:21:57Z UTC
+🕐 Last updated: 2025-06-05 19:33:47Z UTC
 <!-- SPOTIFY-END -->
