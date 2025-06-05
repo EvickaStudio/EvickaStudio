@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370c7ac83711bfe0e365cd471" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d42793fc31d74ac8398f7b9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)**
-*by* **Nokia Angel**
-*Album:* Pass Out
+**🎵 [LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)**
+*by* **Drux, Lunaa, pradaaslife**
+*Album:* Scrapclub
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="137" height="4" fill="#1db954" rx="2"/>
+    <circle cx="137" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:41
+    1:18 • 2:52
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[faLL\\](https://open.spotify.com/track/3h7633l3aNFjltpLEEBp4K)** by **Zaram** *(Angel___Music)*
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
-🎤 **[LIGHTS OFF](https://open.spotify.com/track/4TrjN7oHO4vJ5cN1W0MX5D)** by **Bandiicam** *(LIGHTS OFF)*
-🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)*
+🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
+🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
+🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-05 11:27:45Z UTC
+🕐 Last updated: 2025-06-05 11:38:02Z UTC
 <!-- SPOTIFY-END -->
