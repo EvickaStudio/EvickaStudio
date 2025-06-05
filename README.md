@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27317875748754302f7f4dcc3e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f56bd14c15f36c9dad626d9b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [T-Shirt hoch Titten raus](https://open.spotify.com/track/2fAU23vgyHytVQN92tTWrE)**
-*by* **VICKY**
-*Album:* T-Shirt hoch Titten raus
+**🎵 [It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)**
+*by* **Jawnino**
+*Album:* 40
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 1:24
+    1:13 • 4:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
+🎤 **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))*
+🎤 **[T-Shirt hoch Titten raus](https://open.spotify.com/track/2fAU23vgyHytVQN92tTWrE)** by **VICKY** *(T-Shirt hoch Titten raus)*
 🎤 **[Cola - Sped Up Version](https://open.spotify.com/track/0WdpnMtkBOmVTk17tCWQfj)** by **sped up nightcore** *(Cola (Sped Up Version))*
 🎤 **[Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM)** by **Chris Travis** *(Side Effects EP)*
-🎤 **[Ballern und Tanzen](https://open.spotify.com/track/4DZXSseE56O7fyQInYr6KG)** by **Jerome, Strobe** *(Ballern und Tanzen)*
-🎤 **[La Bilirrubina](https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ)** by **Juan Luis Guerra 4.40** *(Bachata Rosa)*
-🎤 **[Celebrate the Summer - Partystylerz Remix](https://open.spotify.com/track/60Qp0hrY78WG9FnoE7V9qC)** by **Lacuna, Partystylerz** *(Celebrate the Summer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-05 15:34:04Z UTC
+🕐 Last updated: 2025-06-05 15:50:51Z UTC
 <!-- SPOTIFY-END -->
