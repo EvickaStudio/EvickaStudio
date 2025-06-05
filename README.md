@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27316933d0a075d51e03c0a1037" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)**
-*by* **Aphex Twin**
-*Album:* Selected Ambient Works 85-92
+**🎵 [Shell Shokk - Original Mix](https://open.spotify.com/track/358jF3oPsuhkT88RqYZ7E4)**
+*by* **Deepforces**
+*Album:* Shokk EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 4:53
+    5:48 • 6:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)*
-🎤 **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[ten](https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i)** by **Fred again.., Jozzy** *(ten days)*
-🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by **SMiLE.dk** *(Smile)*
+🎤 **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-05 14:50:59Z UTC
+🕐 Last updated: 2025-06-05 15:13:32Z UTC
 <!-- SPOTIFY-END -->
