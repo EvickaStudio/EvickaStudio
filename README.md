@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273315686b3698c807eb82cb210" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736b8a4828e057b7dc1c4a4d39" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)**
-*by* **citrulinq, Kiki<3**
-*Album:* Hard Resonance
+**🎵 [ten](https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i)**
+*by* **Fred again.., Jozzy**
+*Album:* ten days
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="127" height="4" fill="#1db954" rx="2"/>
+    <circle cx="127" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 2:43
+    1:16 • 3:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
-🎤 **[push away](https://open.spotify.com/track/1n3lfcD8qBb17pDAPM2Tm6)** by **lor2mg** *(unrequited)*
-🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
-🎤 **[generation x](https://open.spotify.com/track/3dL5ALCRy6tanqZg9osfh8)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[show me calcium](https://open.spotify.com/track/5zWJgjOltU9B6t1kEvkS3w)** by **alfie** *(show me calcium)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-05 14:12:59Z UTC
+🕐 Last updated: 2025-06-05 14:35:49Z UTC
 <!-- SPOTIFY-END -->
