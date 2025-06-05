@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d4322a9004288009f6da2975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27391772af5a4044692736f17bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)**
-*by* **BICEP**
-*Album:* Bicep
+**🎵 [wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN)**
+*by* **Jake Antonio**
+*Album:* wants and needs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="58" height="4" fill="#1db954" rx="2"/>
-    <circle cx="58" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 4:29
+    4:02 • 4:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)** by **BICEP** *(Bicep)*
+🎤 **[Closer](https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV)** by **Gaskin** *(Closer)*
+🎤 **[wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN)** by **Jake Antonio** *(wants and needs)*
+🎤 **[Pretty Green Eyes (Sunset Ibiza Mix)](https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm)** by **KETTAMA** *(Pretty Green Eyes (Sunset Ibiza Mix))*
 🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
-🎤 **[Void in Blue](https://open.spotify.com/track/0eZjwNa0wGZSzsOnt4T2hG)** by **Glare** *(Void in Blue)*
-🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
-🎤 **[Werewolf (feat. Bring Me The Horizon)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP)** by **Lil Uzi Vert, Bring Me The Horizon** *(Pink Tape)*
-🎤 **[HAND OF GOD](https://open.spotify.com/track/5uU3WcUlNxcbP2nGiTihW8)** by **Savage Ga$p, SXMPRA, GODHANDUSA** *(HAND OF GOD)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-05 20:11:49Z UTC
+🕐 Last updated: 2025-06-05 20:27:47Z UTC
 <!-- SPOTIFY-END -->
