@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)**
+*by* **Tyler, The Creator**
+*Album:* IGOR
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:16 • 6:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[limited in love](https://open.spotify.com/track/7eCXs1WpVy7xxedmyM2gVb)** by **usedcvnt, AKIBA** *(ultraviolet)*
-🎤 **[epicenter of happiness](https://open.spotify.com/track/59xVhNymnqUk0AI5rEK8Fx)** by **usedcvnt** *(the world doesn't care)*
-🎤 **[143 ways to lose urself](https://open.spotify.com/track/0WVwOSGn9J8Ccq5wuBDLmJ)** by **usedcvnt** *(ultraviolet)*
-🎤 **[problem after problem and over and over](https://open.spotify.com/track/7sVLSH5z9kLlXRSifbo32y)** by **usedcvnt** *(wonderfulcore)*
+🎤 **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)*
+🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
+🎤 **[Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv)** by **camoufly** *(In Plain Sight)*
+🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
+🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-06 07:48:24Z UTC
+🕐 Last updated: 2025-06-06 08:17:23Z UTC
 <!-- SPOTIFY-END -->
