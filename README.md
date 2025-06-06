@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b51eba04f93bc3224016ed0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a38d78cbd27d7749e3e5c97d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)**
-*by* **kevin**
-*Album:* jeans unten
+**🎵 [Sandstorm](https://open.spotify.com/track/3dxDj8pDPlIHCIrUPXuCeG)**
+*by* **Darude**
+*Album:* Before the Storm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="162" height="4" fill="#1db954" rx="2"/>
+    <circle cx="162" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:32
+    2:02 • 3:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Eternal Winter Nye](https://open.spotify.com/track/23q9oTEI2m3mePpIFdubxv)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Nicki Papa, Saiya Tiaw** *(Eternal Winter Nye)*
-🎤 **[How to Hold a Knife](https://open.spotify.com/track/5yuoMga1IlXwWgkAvrxlUx)** by **quannnic** *(Stepdream)*
-🎤 **[Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1)** by **VIOLENT VIRA** *(Blood on the Sheets)*
-🎤 **[Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ)** by **Loathe, Teenage Wrist** *(Is It Really You?)*
-🎤 **[No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB)** by **Radiohead** *(OK Computer)*
+🎤 **[Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt)** by **Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter** *(Music Sounds Better With You)*
+🎤 **[Freestyler](https://open.spotify.com/track/4eZO97RGFo7IN6gm24Nv0S)** by **Bomfunk MC's** *(In Stereo)*
+🎤 **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)*
+🎤 **[(I Just) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm)** by **Cutting Crew** *(Broadcast)*
+🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-06 11:47:41Z UTC
+🕐 Last updated: 2025-06-06 12:24:33Z UTC
 <!-- SPOTIFY-END -->
