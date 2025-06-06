@@ -106,26 +106,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306f096ed9235267e442460c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)**
-*by* **pluko**
-*Album:* OXY
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 3:18
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-06 20:14:50Z UTC
+🕐 Last updated: 2025-06-06 20:34:26Z UTC
 <!-- SPOTIFY-END -->
