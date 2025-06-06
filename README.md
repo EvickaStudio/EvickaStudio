@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737dd78d755aab2eba725472b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)**
-*by* **snor, d3r**
-*Album:* wish I didnt kno her ##biblemusic
+**🎵 [Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
+*by* **Good Kid**
+*Album:* Good Kid 4
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="161" height="4" fill="#1db954" rx="2"/>
+    <circle cx="161" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 2:08
+    1:54 • 3:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)*
-🎤 **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)*
-🎤 **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)*
-🎤 **[Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)** by **Playboi Carti, Lil Uzi Vert** *(Die Lit)*
-🎤 **[Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah)** by **$uicideboy$** *(New World Depression)*
+🎤 **[IN A MOOD](https://open.spotify.com/track/6S607PgLLmP9NiZK4PY9m0)** by **berryblue** *(GOT ME LIKE)*
+🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
+🎤 **[iseeghosts! [waitaminute]](https://open.spotify.com/track/4uk9IiI4kzDqfOowW83SMl)** by **yaego, skrta** *(iseeghosts! [waitaminute])*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-06 10:52:04Z UTC
+🕐 Last updated: 2025-06-06 11:11:44Z UTC
 <!-- SPOTIFY-END -->
