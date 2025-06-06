@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9e8765d0977ac605d639fad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734e85d09d7a1cbf8fb5aa5cf0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)**
-*by* **3LNA**
-*Album:* HERZ BRICHT
+**🎵 [U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)**
+*by* **Cult Member, Mia Martina**
+*Album:* U Weren't Here I Really Miss You (slowed)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:44
+    2:18 • 3:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
-🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
-🎤 **[i need 2 feel reality](https://open.spotify.com/track/5Fh2RRSUeKXdOzVWsq1vWd)** by **usedcvnt** *(wonderfulcore)*
+🎤 **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)*
+🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
+🎤 **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)*
+🎤 **[Drowning Love - Chasing Kou](https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V)** by **Penguin Piano** *(Intersteller)*
+🎤 **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-06 13:04:07Z UTC
+🕐 Last updated: 2025-06-06 13:41:50Z UTC
 <!-- SPOTIFY-END -->
