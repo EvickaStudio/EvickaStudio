@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bf60464bd744ce4f86a8797a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f56bd14c15f36c9dad626d9b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)**
-*by* **akiaura, LONOWN, STM**
-*Album:* Destruction Age
+**🎵 [It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)**
+*by* **Jawnino**
+*Album:* 40
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="232" height="4" fill="#1db954" rx="2"/>
-    <circle cx="232" cy="2" r="6" fill="#1db954"/>
+    <rect width="194" height="4" fill="#1db954" rx="2"/>
+    <circle cx="194" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:25 • 3:07
+    2:59 • 4:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
-🎤 **[Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)** by **limedisx.** *(Stars)*
+🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
+🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
+🎤 **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)*
+🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
+🎤 **[I'm On My Own](https://open.spotify.com/track/1O3NUmt3lxCl4LCG9XjNam)** by **Snow Strippers** *(April Mixtape 3)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-06 18:47:23Z UTC
+🕐 Last updated: 2025-06-06 19:10:28Z UTC
 <!-- SPOTIFY-END -->
