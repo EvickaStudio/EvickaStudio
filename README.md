@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730660d2ff59ea964e06496199" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [a tear at eventide](https://open.spotify.com/track/1kYjm4rIRWdHNnVWY3n6XR)**
-*by* **usedcvnt, Bendel**
-*Album:* the world doesn't care
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:32
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[they called me Violet](https://open.spotify.com/track/2W7WPr0o1Vw1h8osFxPUuP)** by **usedcvnt** *(they called me Violet)*
-🎤 **[Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj)** by **ThxSoMch** *(Would You?)*
-🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
-🎤 **[Tausend Fucks](https://open.spotify.com/track/7s6BNRizuXsqBQS3716ZeS)** by **Trashmann** *(Tausend Fucks)*
-🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
+🎤 **[limited in love](https://open.spotify.com/track/7eCXs1WpVy7xxedmyM2gVb)** by **usedcvnt, AKIBA** *(ultraviolet)*
+🎤 **[epicenter of happiness](https://open.spotify.com/track/59xVhNymnqUk0AI5rEK8Fx)** by **usedcvnt** *(the world doesn't care)*
+🎤 **[143 ways to lose urself](https://open.spotify.com/track/0WVwOSGn9J8Ccq5wuBDLmJ)** by **usedcvnt** *(ultraviolet)*
+🎤 **[problem after problem and over and over](https://open.spotify.com/track/7sVLSH5z9kLlXRSifbo32y)** by **usedcvnt** *(wonderfulcore)*
+🎤 **[a tear at eventide](https://open.spotify.com/track/1kYjm4rIRWdHNnVWY3n6XR)** by **usedcvnt, Bendel** *(the world doesn't care)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-06 07:12:45Z UTC
+🕐 Last updated: 2025-06-06 07:29:56Z UTC
 <!-- SPOTIFY-END -->
