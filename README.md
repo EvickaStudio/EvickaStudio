@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
 🎤 **[limited in love](https://open.spotify.com/track/7eCXs1WpVy7xxedmyM2gVb)** by **usedcvnt, AKIBA** *(ultraviolet)*
 🎤 **[epicenter of happiness](https://open.spotify.com/track/59xVhNymnqUk0AI5rEK8Fx)** by **usedcvnt** *(the world doesn't care)*
 🎤 **[143 ways to lose urself](https://open.spotify.com/track/0WVwOSGn9J8Ccq5wuBDLmJ)** by **usedcvnt** *(ultraviolet)*
 🎤 **[problem after problem and over and over](https://open.spotify.com/track/7sVLSH5z9kLlXRSifbo32y)** by **usedcvnt** *(wonderfulcore)*
-🎤 **[a tear at eventide](https://open.spotify.com/track/1kYjm4rIRWdHNnVWY3n6XR)** by **usedcvnt, Bendel** *(the world doesn't care)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-06 07:29:56Z UTC
+🕐 Last updated: 2025-06-06 07:40:50Z UTC
 <!-- SPOTIFY-END -->
