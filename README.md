@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739cfb2965eb96f70dfaa8896d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733b51eba04f93bc3224016ed0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1)**
-*by* **VIOLENT VIRA**
-*Album:* Blood on the Sheets
+**🎵 [jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)**
+*by* **kevin**
+*Album:* jeans unten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 3:49
+    2:11 • 2:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Eternal Winter Nye](https://open.spotify.com/track/23q9oTEI2m3mePpIFdubxv)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Nicki Papa, Saiya Tiaw** *(Eternal Winter Nye)*
+🎤 **[How to Hold a Knife](https://open.spotify.com/track/5yuoMga1IlXwWgkAvrxlUx)** by **quannnic** *(Stepdream)*
+🎤 **[Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1)** by **VIOLENT VIRA** *(Blood on the Sheets)*
 🎤 **[Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ)** by **Loathe, Teenage Wrist** *(Is It Really You?)*
 🎤 **[No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB)** by **Radiohead** *(OK Computer)*
-🎤 **[I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy)** by **Wisp** *(I remember how your hands felt on mine)*
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-06 11:37:53Z UTC
+🕐 Last updated: 2025-06-06 11:47:41Z UTC
 <!-- SPOTIFY-END -->
