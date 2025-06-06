@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730be7430f0aac3543d88e07b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b7873c680671277489987d80" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)**
-*by* **VAPORCHROME**
-*Album:* Cybertrax
+**🎵 [CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)**
+*by* **BONES**
+*Album:* UNRENDERED
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 3:26
+    1:02 • 2:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)*
-🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
-🎤 **[RiRi](https://open.spotify.com/track/7ikrPIZmWKbH1ZU2CLKOA6)** by **gard** *(PEACE & LOVE)*
-🎤 **[Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj)** by **ThxSoMch** *(Would You?)*
-🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
+🎤 **[Nite Walker](https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8)** by **Sickboyrari** *(City Of Crows)*
+🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
+🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
+🎤 **[ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)** by **oaf1** *(ilove urr girl)*
+🎤 **[DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)** by **VAPORCHROME** *(Cybertrax)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-06 09:39:40Z UTC
+🕐 Last updated: 2025-06-06 09:49:12Z UTC
 <!-- SPOTIFY-END -->
