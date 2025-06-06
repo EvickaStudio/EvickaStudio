@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733041581d8dc408915d909e32" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d492d6ee3390533d381ae553" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Miroirs: III. Une barque sur l'océan](https://open.spotify.com/track/4JOEMgLkrHp8K1XNmyNffH)**
-*by* **Maurice Ravel, André Laplante**
-*Album:* Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante Défunte
+**🎵 [allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)**
+*by* **Ufo361, Pashanim**
+*Album:* allein allein
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:01 • 7:08
+    1:25 • 2:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[New Home (Slowed)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW)** by **Austin Farwell** *(New Home (Slowed))*
-🎤 **[Drowning Love - Chasing Kou](https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V)** by **Penguin Piano** *(Intersteller)*
-🎤 **[Smokin' mice](https://open.spotify.com/track/7k5LtCwsEm4p6QqOf1UPdh)** by **SlushhKitten, hqwilli** *(Smokin' mice)*
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
+🎤 **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by **Skepsiz, headless_DATA** *(PUNK PARADOX!)*
+🎤 **[Sterne](https://open.spotify.com/track/4v7RqzNt5swsYhQJB6XgRW)** by **Drückeberger, OSTARA** *(Armselig)*
+🎤 **[wespenstich](https://open.spotify.com/track/3Z1WmO2s4mscNTuInYTTZy)** by **Leocardo DiNaprio** *(wespenstich)*
+🎤 **[Broken Wings (I Don't Feel A Thing)](https://open.spotify.com/track/0FsMbOPLgOsPGFV0n2PfwM)** by **Walter Frosch** *(Broken Wings (I Don't Feel A Thing))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-06 10:14:06Z UTC
+🕐 Last updated: 2025-06-06 10:40:10Z UTC
 <!-- SPOTIFY-END -->
