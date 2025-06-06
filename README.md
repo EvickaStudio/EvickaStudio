@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b7873c680671277489987d80" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733041581d8dc408915d909e32" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)**
-*by* **BONES**
-*Album:* UNRENDERED
+**🎵 [Miroirs: III. Une barque sur l'océan](https://open.spotify.com/track/4JOEMgLkrHp8K1XNmyNffH)**
+*by* **Maurice Ravel, André Laplante**
+*Album:* Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante Défunte
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="105" height="4" fill="#1db954" rx="2"/>
-    <circle cx="105" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:58
+    6:01 • 7:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Nite Walker](https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8)** by **Sickboyrari** *(City Of Crows)*
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
-🎤 **[ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)** by **oaf1** *(ilove urr girl)*
-🎤 **[DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)** by **VAPORCHROME** *(Cybertrax)*
+🎤 **[New Home (Slowed)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW)** by **Austin Farwell** *(New Home (Slowed))*
+🎤 **[Drowning Love - Chasing Kou](https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V)** by **Penguin Piano** *(Intersteller)*
+🎤 **[Smokin' mice](https://open.spotify.com/track/7k5LtCwsEm4p6QqOf1UPdh)** by **SlushhKitten, hqwilli** *(Smokin' mice)*
+🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
+🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-06 09:49:12Z UTC
+🕐 Last updated: 2025-06-06 10:14:06Z UTC
 <!-- SPOTIFY-END -->
