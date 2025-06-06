@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730be7430f0aac3543d88e07b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)**
-*by* **The Police**
-*Album:* Reggatta De Blanc (Remastered 2003)
+**🎵 [DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)**
+*by* **VAPORCHROME**
+*Album:* Cybertrax
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:11 • 4:50
+    2:06 • 3:26
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Praise You (Radio Edit)](https://open.spotify.com/track/1j8GQQGyC26O1TeW4LLvjk)** by **Fatboy Slim** *(Praise You EP)*
-🎤 **[Pure Hooney - Radio Cut](https://open.spotify.com/track/0UN8kFyL1YkoLZFjI8lW8m)** by **Studio 45, Joe & Jessey** *(Pure Hooney)*
-🎤 **[I Feel Love - 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18)** by **Donna Summer** *(Bad Girls (Deluxe Edition))*
-🎤 **[Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5)** by **Kylie Minogue** *(Tension (Deluxe))*
-🎤 **[Problématique](https://open.spotify.com/track/08DVeb5frpxJ2UX7tYLvWe)** by **Kim Petras** *(Problématique)*
+🎤 **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)*
+🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
+🎤 **[RiRi](https://open.spotify.com/track/7ikrPIZmWKbH1ZU2CLKOA6)** by **gard** *(PEACE & LOVE)*
+🎤 **[Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj)** by **ThxSoMch** *(Would You?)*
+🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-06 09:17:08Z UTC
+🕐 Last updated: 2025-06-06 09:39:40Z UTC
 <!-- SPOTIFY-END -->
