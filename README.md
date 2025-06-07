@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27359c754b92e2b9b8e13e37ac7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [me or him ?](https://open.spotify.com/track/6VAWgRLDuBiPttVgG5mCey)**
+**🎵 [0.0mg](https://open.spotify.com/track/4Hs7GsNpnndVUtWFPh3ONp)**
 *by* **meat computer**
-*Album:* slept on the floor still dreamt about you
+*Album:* 0.0mg
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 1:39
+    1:08 • 1:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Touched](https://open.spotify.com/track/06LFlnTQoygiPq6j4tFnZS)** by **Spira me, Sg Lily, Opal** *(Touched)*
-🎤 **[algae](https://open.spotify.com/track/5ecZuTNm5xNLcWthygcQCt)** by **blackwinterwells, d0llywood1** *(Stone Ocean)*
-🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[breakdown in a cave](https://open.spotify.com/track/6EAEau6IbN2rRhkkAGUH9F)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[life is shitty](https://open.spotify.com/track/44AOXVPm88PRrAU5C7vYsf)** by **Xxcrush, Capoxxo** *(lifeeee)*
+🎤 **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[I <3 MERCURY\\](https://open.spotify.com/track/7Hw1L2E83JJ5TPW9GpVSad)** by **Zaram** *(I <3 MERCURY\\)*
+🎤 **[Throat Pain](https://open.spotify.com/track/2pKPfRtV69495AHe5D1K9i)** by **Ezekiel, Polly Urethane** *(Throat Pain)*
+🎤 **[PLASTER](https://open.spotify.com/track/59Aq073IvY2zYwG52RhbiF)** by **2hollis** *(2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 15:49:25Z UTC
+🕐 Last updated: 2025-06-07 16:13:52Z UTC
 <!-- SPOTIFY-END -->
