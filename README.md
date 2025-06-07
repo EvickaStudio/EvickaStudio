@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735955c8361d9c03da73511451" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f8e7e1a9346e2d1bc32e0f71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)**
-*by* **oaf1**
-*Album:* its hard :/
+**🎵 [Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)**
+*by* **5v**
+*Album:* Idk Bettr..
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 2:10
+    1:12 • 1:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Idk](https://open.spotify.com/track/4S3xJq2pI49P6fmcMTDn8B)** by **dreamcache, B07gem** *(Idk)*
-🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
-🎤 **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by **Lilac** *(amiss (+ winter))*
-🎤 **[Life's Unfair](https://open.spotify.com/track/6X6nAlGNDF0XjMa17Yy0tH)** by **5v** *(Life's Unfair)*
-🎤 **[astagel aatum #diebrennenden (hotelgodlin)](https://open.spotify.com/track/3WhOiIMLQAiHv2XWNN78A8)** by **agelast222** *(astagel aatum #diebrennenden (hotelgodlin))*
+🎤 **[trust](https://open.spotify.com/track/6GnFlTeCYuCzsmICRilTYB)** by **archive computer, capoxxo** *(trust)*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[b4 u go](https://open.spotify.com/track/70913MHL9VTFQ5ch58RAYb)** by **5v** *(b4 u go)*
+🎤 **[fragranc](https://open.spotify.com/track/5bsGJc1p0mbcqbYAoKQoBD)** by **i9bonsai, Kiryano** *(##seedling)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 18:54:01Z UTC
+🕐 Last updated: 2025-06-07 19:09:11Z UTC
 <!-- SPOTIFY-END -->
