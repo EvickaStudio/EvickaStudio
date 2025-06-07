@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730549784d17946caf93ae74fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735955c8361d9c03da73511451" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)**
-*by* **Lilac**
-*Album:* amiss (+ winter)
+**🎵 [its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)**
+*by* **oaf1**
+*Album:* its hard :/
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="16" height="4" fill="#1db954" rx="2"/>
-    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 3:13
+    1:46 • 2:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Idk](https://open.spotify.com/track/4S3xJq2pI49P6fmcMTDn8B)** by **dreamcache, B07gem** *(Idk)*
+🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
+🎤 **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by **Lilac** *(amiss (+ winter))*
 🎤 **[Life's Unfair](https://open.spotify.com/track/6X6nAlGNDF0XjMa17Yy0tH)** by **5v** *(Life's Unfair)*
 🎤 **[astagel aatum #diebrennenden (hotelgodlin)](https://open.spotify.com/track/3WhOiIMLQAiHv2XWNN78A8)** by **agelast222** *(astagel aatum #diebrennenden (hotelgodlin))*
-🎤 **[searching](https://open.spotify.com/track/4ip4yGaadmxwPxvboZRoUh)** by **Capoxxo, mayh3mp** *(searching)*
-🎤 **[Special](https://open.spotify.com/track/647Yp7Igxqwgvxy7o5OEy2)** by **Loveboy, Lil Dovas, with3r, Sg37, Uknoxoxo** *(It's Complicated)*
-🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub** *(Sugar Dalmatian)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 18:44:10Z UTC
+🕐 Last updated: 2025-06-07 18:54:01Z UTC
 <!-- SPOTIFY-END -->
