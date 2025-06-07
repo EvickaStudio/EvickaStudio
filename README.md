@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736304ee61e0717cb42716b101" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)**
-*by* **Jack Pfeffer, Mother Soki**
-*Album:* stinkbug (Over and Over)
+**🎵 [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)**
+*by* **Sade**
+*Album:* Promise
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 3:55
+    3:48 • 6:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[PRETTYLIES](https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU)** by **hxly xo** *(Umbrae)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
-🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
-🎤 **[It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)** by **Jawnino** *(40)*
+🎤 **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)*
+🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
+🎤 **[I'm On My Own](https://open.spotify.com/track/1O3NUmt3lxCl4LCG9XjNam)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
+🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 12:21:54Z UTC
+🕐 Last updated: 2025-06-07 13:00:10Z UTC
 <!-- SPOTIFY-END -->
