@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730f54082fc5ade7f8cfa017f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b2dd3cfb4c34e1d44101ff7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [all that i want is u <3](https://open.spotify.com/track/20JOdw9OPJD2wXRktX0ERa)**
-*by* **bliiiss, Capoxxo**
-*Album:* all that i want is u <3
+**🎵 [dont ever repeat this](https://open.spotify.com/track/7rGFJ2Q5lH4OyPvUiUdrzC)**
+*by* **Capoxxo, dreamcache**
+*Album:* dont ever repeat this
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="141" height="4" fill="#1db954" rx="2"/>
-    <circle cx="141" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:03
+    2:04 • 2:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
+🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
+🎤 **[all that i want is u <3](https://open.spotify.com/track/20JOdw9OPJD2wXRktX0ERa)** by **bliiiss, Capoxxo** *(all that i want is u <3)*
 🎤 **[u make me feel like im special](https://open.spotify.com/track/2FFKHoWfI8uCd1w6azhiCk)** by **Capoxxo** *(u make me feel like im special)*
 🎤 **[stuck in wpg](https://open.spotify.com/track/1VL0g5od7B0Ewd3l9gkzbi)** by **meat computer** *(stuck in wpg)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[back on my feet](https://open.spotify.com/track/4ACHBgg6bJ704Ymw2w1Yc3)** by **Buffalobang** *(back on my feet)*
-🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
 
 
 
@@ -144,8 +144,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🏅 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 17:40:00Z UTC
+🕐 Last updated: 2025-06-07 17:47:42Z UTC
 <!-- SPOTIFY-END -->
