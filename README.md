@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f8e7e1a9346e2d1bc32e0f71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a41f1fa4c0b5ecf7e57270ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)**
-*by* **5v**
-*Album:* Idk Bettr..
+**🎵 [drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)**
+*by* **RudeClub**
+*Album:* rated R
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="4" height="4" fill="#1db954" rx="2"/>
+    <circle cx="4" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 1:57
+    0:02 • 2:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[trust](https://open.spotify.com/track/6GnFlTeCYuCzsmICRilTYB)** by **archive computer, capoxxo** *(trust)*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[b4 u go](https://open.spotify.com/track/70913MHL9VTFQ5ch58RAYb)** by **5v** *(b4 u go)*
-🎤 **[fragranc](https://open.spotify.com/track/5bsGJc1p0mbcqbYAoKQoBD)** by **i9bonsai, Kiryano** *(##seedling)*
-🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
+🎤 **[first try](https://open.spotify.com/track/2jHya29V5JRlmXDGqMflH4)** by **Buffalobang** *(first try)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
+🎤 **[cigarette](https://open.spotify.com/track/5GSMPIXDxi46oCwMfcgEvu)** by **oaf1** *(cigarette)*
+🎤 **[cursed audio 010](https://open.spotify.com/track/2CjW8PCh7yhxjDrz50IlAZ)** by **meat computer** *(social distancing from reality)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 19:09:11Z UTC
+🕐 Last updated: 2025-06-07 19:23:27Z UTC
 <!-- SPOTIFY-END -->
