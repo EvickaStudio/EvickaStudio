@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27388d585a787578261ab6b3672" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a79e480e414c4d47954eff38" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [77 spiders](https://open.spotify.com/track/3HwiGErM6OLa8EoV77stLr)**
-*by* **archive computer**
-*Album:* 77 spiders
+**🎵 [its not all bad](https://open.spotify.com/track/4DMJEAfEAjrdbwF7T2pio0)**
+*by* **Yeah0k!**
+*Album:* its not all bad
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="83" height="4" fill="#1db954" rx="2"/>
+    <circle cx="83" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 1:24
+    0:39 • 2:22
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[earth](https://open.spotify.com/track/115CJdhY2G6UysK1Uf8Ejr)** by **emotegi, VisaS2K** *(earth)*
-🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
-🎤 **[0.0mg](https://open.spotify.com/track/4Hs7GsNpnndVUtWFPh3ONp)** by **meat computer** *(0.0mg)*
-🎤 **[life is shitty](https://open.spotify.com/track/44AOXVPm88PRrAU5C7vYsf)** by **Xxcrush, Capoxxo** *(lifeeee)*
-🎤 **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[its okay 2 cry\\](https://open.spotify.com/track/22G6ChG5lOHkxfPR1revKw)** by **Zaram** *(its okay 2 cry\\)*
+🎤 **[only1](https://open.spotify.com/track/5lBUl7GkVC6xjOu15JD5ip)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[fentanyl](https://open.spotify.com/track/2K30Fn5CIuxphnlzCg6C1c)** by **Levi Ryan** *(fentanyl)*
+🎤 **[hurt](https://open.spotify.com/track/3kLgOLV4rB8Sjjyadqijam)** by **archive computer** *(hurt)*
+🎤 **[Everything Melts](https://open.spotify.com/track/0dsirxxQIkoQgai7MrGaxR)** by **David Shawty** *(Everything Melts)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 16:53:50Z UTC
+🕐 Last updated: 2025-06-07 17:10:21Z UTC
 <!-- SPOTIFY-END -->
