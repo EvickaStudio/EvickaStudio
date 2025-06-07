@@ -106,26 +106,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27359c754b92e2b9b8e13e37ac7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [0.0mg](https://open.spotify.com/track/4Hs7GsNpnndVUtWFPh3ONp)**
-*by* **meat computer**
-*Album:* 0.0mg
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 1:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 16:13:52Z UTC
+🕐 Last updated: 2025-06-07 16:38:07Z UTC
 <!-- SPOTIFY-END -->
