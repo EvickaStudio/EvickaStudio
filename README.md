@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b2dd3cfb4c34e1d44101ff7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dont ever repeat this](https://open.spotify.com/track/7rGFJ2Q5lH4OyPvUiUdrzC)**
-*by* **Capoxxo, dreamcache**
-*Album:* dont ever repeat this
+**🎵 [Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)**
+*by* **Ecco2k**
+*Album:* E
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:57
+    2:25 • 3:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
-🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
-🎤 **[all that i want is u <3](https://open.spotify.com/track/20JOdw9OPJD2wXRktX0ERa)** by **bliiiss, Capoxxo** *(all that i want is u <3)*
-🎤 **[u make me feel like im special](https://open.spotify.com/track/2FFKHoWfI8uCd1w6azhiCk)** by **Capoxxo** *(u make me feel like im special)*
-🎤 **[stuck in wpg](https://open.spotify.com/track/1VL0g5od7B0Ewd3l9gkzbi)** by **meat computer** *(stuck in wpg)*
+🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[1000 Perfect Diamonds](https://open.spotify.com/track/7rhSH2MbSSFG5TBFXYEGtc)** by **DJmegan23, 8ngelonline** *(You Weren't Supposed To See That...)*
+🎤 **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)*
+🎤 **[BLUE PHEASANT](https://open.spotify.com/track/5dbCYDuvpQy4MQdfmYQYcd)** by **Kame Kami, DJmegan23** *(BLUE PHEASANT / YELLOW MONKEY)*
+🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 17:47:42Z UTC
+🕐 Last updated: 2025-06-07 18:15:43Z UTC
 <!-- SPOTIFY-END -->
