@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b436be08f26b7ce554c7423f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273424d54bc4cc6824b33a1659f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)**
-*by* **Nedaj**
-*Album:* GENESIS
+**🎵 [lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)**
+*by* **upgrades, Aukina, dreamstation**
+*Album:* lucked out
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:40 • 3:09
+    2:41 • 3:26
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)** by **limedisx.** *(Stars)*
+🎤 **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)*
+🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
+🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
 🎤 **[PRETTYLIES](https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU)** by **hxly xo** *(Umbrae)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
-🎤 **[Ampelmann](https://open.spotify.com/track/5hRh8JIZH6D816ehYqTBrm)** by **Swoopy, Spira me, Opal** *(Ampelmann)*
-🎤 **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by **RudeClub** *(rated R)*
-🎤 **[first try](https://open.spotify.com/track/2jHya29V5JRlmXDGqMflH4)** by **Buffalobang** *(first try)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 19:34:08Z UTC
+🕐 Last updated: 2025-06-07 19:47:42Z UTC
 <!-- SPOTIFY-END -->
