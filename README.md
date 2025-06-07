@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372b543ea8ddca65a5f0298b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d8fe32fd8a14ae647d208977" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tough evening](https://open.spotify.com/track/2TgMlKJVHz0v9DtpZYr4UJ)**
-*by* **Buffalobang, Sg Lily**
-*Album:* tough evening
+**🎵 [LOST ALL HOPE\\](https://open.spotify.com/track/36e2Pi2XN5hr4EqynImfCU)**
+*by* **Zaram, LuvKaiju**
+*Album:* LOST ALL HOPE\\
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="291" height="4" fill="#1db954" rx="2"/>
+    <circle cx="291" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 2:39
+    1:39 • 1:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)*
-🎤 **[have it all](https://open.spotify.com/track/2foIwr4yaBugBNSfwaG4JT)** by **Sg Lily** *(have it all)*
-🎤 **[generation x](https://open.spotify.com/track/3dL5ALCRy6tanqZg9osfh8)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[amygdala +icdamix+](https://open.spotify.com/track/3bXjG4GeqZy8thDQwauzpM)** by **temcandoanything, Ecco2k** *(amygdala +icdamix+)*
-🎤 **[Brexia](https://open.spotify.com/track/3D04a67iE9lOeJ51rXaO6F)** by **Palmistry, Yung Lean** *(TINKERBELL)*
+🎤 **[broken](https://open.spotify.com/track/2DYCOsVX4oCsSH6Q2ipy2t)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[red pandaaaaa :D](https://open.spotify.com/track/5eWQvO9fv0KGxiSeFR4I8x)** by **jequya** *(red pandaaaaa :D)*
+🎤 **[Put The Gloxx Down](https://open.spotify.com/track/0WLFaTpY1JywzZWatICDK0)** by **DJmegan23** *(You Weren't Supposed To See That...)*
+🎤 **[i do](https://open.spotify.com/track/3LpzX6SBNbQmPpvRoBCpUX)** by **2hollis** *(White Tiger)*
+🎤 **[LSD Racing Team](https://open.spotify.com/track/5AK1v847LeWu3RBaSawxNT)** by **Kiryano** *(01 Refine)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 14:30:27Z UTC
+🕐 Last updated: 2025-06-07 14:47:41Z UTC
 <!-- SPOTIFY-END -->
