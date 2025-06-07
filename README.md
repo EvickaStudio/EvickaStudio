@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730549784d17946caf93ae74fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)**
-*by* **Ecco2k**
-*Album:* E
+**🎵 [amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)**
+*by* **Lilac**
+*Album:* amiss (+ winter)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="203" height="4" fill="#1db954" rx="2"/>
-    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:25 • 3:34
+    0:10 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[1000 Perfect Diamonds](https://open.spotify.com/track/7rhSH2MbSSFG5TBFXYEGtc)** by **DJmegan23, 8ngelonline** *(You Weren't Supposed To See That...)*
-🎤 **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)*
-🎤 **[BLUE PHEASANT](https://open.spotify.com/track/5dbCYDuvpQy4MQdfmYQYcd)** by **Kame Kami, DJmegan23** *(BLUE PHEASANT / YELLOW MONKEY)*
-🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[Life's Unfair](https://open.spotify.com/track/6X6nAlGNDF0XjMa17Yy0tH)** by **5v** *(Life's Unfair)*
+🎤 **[astagel aatum #diebrennenden (hotelgodlin)](https://open.spotify.com/track/3WhOiIMLQAiHv2XWNN78A8)** by **agelast222** *(astagel aatum #diebrennenden (hotelgodlin))*
+🎤 **[searching](https://open.spotify.com/track/4ip4yGaadmxwPxvboZRoUh)** by **Capoxxo, mayh3mp** *(searching)*
+🎤 **[Special](https://open.spotify.com/track/647Yp7Igxqwgvxy7o5OEy2)** by **Loveboy, Lil Dovas, with3r, Sg37, Uknoxoxo** *(It's Complicated)*
+🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub** *(Sugar Dalmatian)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 18:15:43Z UTC
+🕐 Last updated: 2025-06-07 18:44:10Z UTC
 <!-- SPOTIFY-END -->
