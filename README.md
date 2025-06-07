@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27372b543ea8ddca65a5f0298b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [tough evening](https://open.spotify.com/track/2TgMlKJVHz0v9DtpZYr4UJ)**
+*by* **Buffalobang, Sg Lily**
+*Album:* tough evening
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="276" height="4" fill="#1db954" rx="2"/>
+    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:27 • 2:39
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
-🎤 **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)*
+🎤 **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)*
+🎤 **[have it all](https://open.spotify.com/track/2foIwr4yaBugBNSfwaG4JT)** by **Sg Lily** *(have it all)*
+🎤 **[generation x](https://open.spotify.com/track/3dL5ALCRy6tanqZg9osfh8)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[amygdala +icdamix+](https://open.spotify.com/track/3bXjG4GeqZy8thDQwauzpM)** by **temcandoanything, Ecco2k** *(amygdala +icdamix+)*
+🎤 **[Brexia](https://open.spotify.com/track/3D04a67iE9lOeJ51rXaO6F)** by **Palmistry, Yung Lean** *(TINKERBELL)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 14:10:48Z UTC
+🕐 Last updated: 2025-06-07 14:30:27Z UTC
 <!-- SPOTIFY-END -->
