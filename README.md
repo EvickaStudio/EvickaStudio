@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273168960813d8647b8a9ea3089" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)**
-*by* **RudeClub**
-*Album:* Sugar Dalmatian
+**🎵 [me or him ?](https://open.spotify.com/track/6VAWgRLDuBiPttVgG5mCey)**
+*by* **meat computer**
+*Album:* slept on the floor still dreamt about you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 1:31
+    0:29 • 1:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Touched](https://open.spotify.com/track/06LFlnTQoygiPq6j4tFnZS)** by **Spira me, Sg Lily, Opal** *(Touched)*
+🎤 **[algae](https://open.spotify.com/track/5ecZuTNm5xNLcWthygcQCt)** by **blackwinterwells, d0llywood1** *(Stone Ocean)*
+🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
 🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
 🎤 **[breakdown in a cave](https://open.spotify.com/track/6EAEau6IbN2rRhkkAGUH9F)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Bbyimweird2](https://open.spotify.com/track/1Olfq6iPsAAgvAGnOdcuPt)** by **Capoxxo** *(Bbyimweird2)*
-🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
-🎤 **[Blew My High >:](https://open.spotify.com/track/1B1b0aaSp1mfNwSv5S7U9s)** by **DJmegan23** *(Trenches)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 15:42:01Z UTC
+🕐 Last updated: 2025-06-07 15:49:25Z UTC
 <!-- SPOTIFY-END -->
