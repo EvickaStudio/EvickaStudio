@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d8fe32fd8a14ae647d208977" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27358b06d5f307a1afb0c326eb3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LOST ALL HOPE\\](https://open.spotify.com/track/36e2Pi2XN5hr4EqynImfCU)**
-*by* **Zaram, LuvKaiju**
-*Album:* LOST ALL HOPE\\
+**🎵 [Cocaine & Dirty Bathrooms](https://open.spotify.com/track/0YqSh4NIeHZIIS3wncFAez)**
+*by* **w3bcam**
+*Album:* Cocaine & Dirty Bathrooms
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 1:42
+    1:08 • 2:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[broken](https://open.spotify.com/track/2DYCOsVX4oCsSH6Q2ipy2t)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[red pandaaaaa :D](https://open.spotify.com/track/5eWQvO9fv0KGxiSeFR4I8x)** by **jequya** *(red pandaaaaa :D)*
-🎤 **[Put The Gloxx Down](https://open.spotify.com/track/0WLFaTpY1JywzZWatICDK0)** by **DJmegan23** *(You Weren't Supposed To See That...)*
-🎤 **[i do](https://open.spotify.com/track/3LpzX6SBNbQmPpvRoBCpUX)** by **2hollis** *(White Tiger)*
-🎤 **[LSD Racing Team](https://open.spotify.com/track/5AK1v847LeWu3RBaSawxNT)** by **Kiryano** *(01 Refine)*
+🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
+🎤 **[i wish my dad was still alive](https://open.spotify.com/track/0URmsHOFzwaBU8NDaL7l55)** by **meat computer** *(i wish my dad was still alive)*
+🎤 **[Wolfs](https://open.spotify.com/track/5YW955Zh5sNriLvgYxHKOh)** by **Sg Lily, swoopy, Sg37** *(It's Complicated)*
+🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[wtf](https://open.spotify.com/track/5xcgbOE6uEB2389ktVWsC8)** by **Sg Lily** *(wtf)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 14:47:41Z UTC
+🕐 Last updated: 2025-06-07 15:11:30Z UTC
 <!-- SPOTIFY-END -->
