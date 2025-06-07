@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a79e480e414c4d47954eff38" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fef6b3d6bb7e54606b68a3ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [its not all bad](https://open.spotify.com/track/4DMJEAfEAjrdbwF7T2pio0)**
-*by* **Yeah0k!**
-*Album:* its not all bad
+**🎵 [back on my feet](https://open.spotify.com/track/4ACHBgg6bJ704Ymw2w1Yc3)**
+*by* **Buffalobang**
+*Album:* back on my feet
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="83" height="4" fill="#1db954" rx="2"/>
-    <circle cx="83" cy="2" r="6" fill="#1db954"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:22
+    0:09 • 3:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[its okay 2 cry\\](https://open.spotify.com/track/22G6ChG5lOHkxfPR1revKw)** by **Zaram** *(its okay 2 cry\\)*
-🎤 **[only1](https://open.spotify.com/track/5lBUl7GkVC6xjOu15JD5ip)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[fentanyl](https://open.spotify.com/track/2K30Fn5CIuxphnlzCg6C1c)** by **Levi Ryan** *(fentanyl)*
-🎤 **[hurt](https://open.spotify.com/track/3kLgOLV4rB8Sjjyadqijam)** by **archive computer** *(hurt)*
-🎤 **[Everything Melts](https://open.spotify.com/track/0dsirxxQIkoQgai7MrGaxR)** by **David Shawty** *(Everything Melts)*
+🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
+🎤 **[faLL\\](https://open.spotify.com/track/37lTG7Cp7mdLi0hQqsERLe)** by **Zaram** *(faLL\\)*
+🎤 **[morning again](https://open.spotify.com/track/2mUWmbStBzGF3a7Xtje67I)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[just run](https://open.spotify.com/track/3V3Nxh75DimrMxJgVlooev)** by **meat computer** *(just run)*
+🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-07 17:10:21Z UTC
+🕐 Last updated: 2025-06-07 17:28:52Z UTC
 <!-- SPOTIFY-END -->
