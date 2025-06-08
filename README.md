@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9)**
-*by* **Kanye West, Syleena Johnson**
-*Album:* The College Dropout
+**🎵 [(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)**
+*by* **Deftones**
+*Album:* Gore
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:37 • 3:43
+    2:19 • 5:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by **The Police** *(Reggatta De Blanc (Remastered 2003))*
+🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
+🎤 **[All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9)** by **Kanye West, Syleena Johnson** *(The College Dropout)*
 🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
 🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
-🎤 **[Have You Got It in You?](https://open.spotify.com/track/7Jlf6YCwGzfHWJByUkb6ll)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
-🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 19:23:34Z UTC
+🕐 Last updated: 2025-06-08 19:33:54Z UTC
 <!-- SPOTIFY-END -->
