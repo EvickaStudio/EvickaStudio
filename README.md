@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27305ee6d4378009999c4ecf5c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)**
-*by* **The Police**
-*Album:* Reggatta De Blanc (Remastered 2003)
+**🎵 [worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)**
+*by* **bliiiss**
+*Album:* worthit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 4:50
+    2:04 • 2:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
-🎤 **[Have You Got It in You?](https://open.spotify.com/track/7Jlf6YCwGzfHWJByUkb6ll)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
-🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
+🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)*
+🎤 **[I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy)** by **Wisp** *(I remember how your hands felt on mine)*
+🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
+🎤 **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 22:31:44Z UTC
+🕐 Last updated: 2025-06-08 22:48:19Z UTC
 <!-- SPOTIFY-END -->
