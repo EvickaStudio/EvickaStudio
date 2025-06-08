@@ -106,26 +106,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d67816ddee3a4d403459c7c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [emotion engine](https://open.spotify.com/track/6671hmfatqJ9gcrxSy1TvA)**
-*by* **Dazegxd, Kaiyko**
-*Album:* vKiSS
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="7" height="4" fill="#1db954" rx="2"/>
-    <circle cx="7" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 4:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 16:37:42Z UTC
+🕐 Last updated: 2025-06-08 16:52:15Z UTC
 <!-- SPOTIFY-END -->
