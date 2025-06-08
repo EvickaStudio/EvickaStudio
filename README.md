@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ec1bc2abea061f5f09fa9b64" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc)**
-*by* **Charli xcx**
-*Album:* Pop 2
+**🎵 [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)**
+*by* **Empire Of The Sun**
+*Album:* Walking On A Dream (10th Anniversary Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="271" height="4" fill="#1db954" rx="2"/>
-    <circle cx="271" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:56 • 5:26
+    2:33 • 3:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
-🎤 **[Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)** by **Empire Of The Sun** *(Ice On The Dune)*
-🎤 **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)*
-🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
-🎤 **[SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b)** by **WEEDMANE, Suicideyear** *(SUICIDE YEAR)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
+🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc)** by **Charli xcx** *(Pop 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 18:54:55Z UTC
+🕐 Last updated: 2025-06-08 19:09:41Z UTC
 <!-- SPOTIFY-END -->
