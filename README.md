@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326b69067483c23ef2a8e27ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27341d09ee88ebfa33cc22e3238" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i already miss yesterday](https://open.spotify.com/track/1XR8KNFg4asgV1JvyRPxha)**
-*by* **ERRx**
-*Album:* i already miss yesterday
+**🎵 [Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)**
+*by* **Ion Miles, SIRA, BHZ**
+*Album:* Berliner Märchen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="200" height="4" fill="#1db954" rx="2"/>
+    <circle cx="200" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 1:32
+    1:22 • 2:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Black Duck](https://open.spotify.com/track/11j8mhNCAbLRUSrkb18EMZ)** by **Rodney Vernzi** *(Black Duck)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
-🎤 **[I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy)** by **Wisp** *(I remember how your hands felt on mine)*
-🎤 **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)*
-🎤 **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by **The Police** *(Reggatta De Blanc (Remastered 2003))*
+🎤 **[Taglieben](https://open.spotify.com/track/3oDzxFfcTPuKwMaOCe59pk)** by **Guther** *(I Know You Know)*
+🎤 **[LONEDANCER](https://open.spotify.com/track/6S0eoLrpiErcz5wp7tfh6n)** by **DESTROY BORING, Belis** *(LONEDANCER)*
+🎤 **[solitude](https://open.spotify.com/track/4igif1G3HTvCdIlWSr4YtE)** by **tonser** *(solitude)*
+🎤 **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)*
+🎤 **[WAIT FOR ME](https://open.spotify.com/track/6SQrDWnCDErzdhOYi9GCLc)** by **DIRTY GLASSEZ** *(WAIT FOR ME)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 19:47:44Z UTC
+🕐 Last updated: 2025-06-08 20:12:53Z UTC
 <!-- SPOTIFY-END -->
