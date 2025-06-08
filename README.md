@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273bf60464bd744ce4f86a8797a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)**
+*by* **akiaura, LONOWN, STM**
+*Album:* Destruction Age
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="5" height="4" fill="#1db954" rx="2"/>
+    <circle cx="5" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:03 • 3:07
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
+🎤 **[Sugar Hiccup](https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv)** by **Cocteau Twins** *(Head Over Heels)*
+🎤 **[tired of life](https://open.spotify.com/track/5vGyQLpCGtWmBrB67uEO1t)** by **meat computer** *(soundtrack to the end of a world)*
 🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
-🎤 **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)*
-🎤 **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by **Jane Remover** *(Frailty)*
-🎤 **[LOST ALL HOPE\\](https://open.spotify.com/track/36e2Pi2XN5hr4EqynImfCU)** by **Zaram, LuvKaiju** *(LOST ALL HOPE\\)*
-🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 17:10:10Z UTC
+🕐 Last updated: 2025-06-08 17:28:26Z UTC
 <!-- SPOTIFY-END -->
