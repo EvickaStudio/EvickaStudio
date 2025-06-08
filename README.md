@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372ec94a6ab05d0bba914ed42" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cf06b7a58c6bf3e90102bf05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)**
-*by* **Elusin**
-*Album:* Silhouette
+**🎵 [Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)**
+*by* **Empire Of The Sun**
+*Album:* Ice On The Dune
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="161" height="4" fill="#1db954" rx="2"/>
+    <circle cx="161" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 2:34
+    1:50 • 3:24
 </span>
 </p>
 
@@ -131,19 +131,19 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[HOME](https://open.spotify.com/track/3yFjzSGEvNFE1YbA3lYR2M)** by **rari kari** *(LIMINAL)*
-🎤 **[Enjoy Yourself](https://open.spotify.com/track/4Wejm1M4YtPuZnwXcPM8OV)** by **berryblue** *(Uh Oh)*
-🎤 **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by **lil hero** *(pawwwfect!)*
-🎤 **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by **PinkPantheress** *(Heaven knows)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)*
+🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
+🎤 **[SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b)** by **WEEDMANE, Suicideyear** *(SUICIDE YEAR)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥉 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 18:15:25Z UTC
+🕐 Last updated: 2025-06-08 18:44:35Z UTC
 <!-- SPOTIFY-END -->
