@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27359c3c0bc91f30cfcdc3aa709" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Embrace](https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL)**
-*by* **Pastel Ghost**
-*Album:* Abyss
+**🎵 [Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)**
+*by* **mol$, Ripsquad Archive, 240pearl**
+*Album:* Rip+
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="164" height="4" fill="#1db954" rx="2"/>
-    <circle cx="164" cy="2" r="6" fill="#1db954"/>
+    <rect width="260" height="4" fill="#1db954" rx="2"/>
+    <circle cx="260" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:51 • 3:24
+    1:31 • 1:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[Yugoslavskiy Groove](https://open.spotify.com/track/0CRZ3cFFZEUglP5RlU2f9o)** by **Soft Blade** *(Softic)*
+🎤 **[Embrace](https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL)** by **Pastel Ghost** *(Abyss)*
 🎤 **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
 🎤 **[9](https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa)** by **Dean Blunt, Panda Bear** *(ZUSHI)*
-🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
-🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
-🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 23:38:53Z UTC
+🕐 Last updated: 2025-06-08 23:47:28Z UTC
 <!-- SPOTIFY-END -->
