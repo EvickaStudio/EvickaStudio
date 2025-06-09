@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273154c3562dc92bcd302c72c9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)**
-*by* **Dire Straits**
-*Album:* Dire Straits
+**🎵 [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)**
+*by* **Anamanaguchi, Hatsune Miku**
+*Album:* Miku
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="124" height="4" fill="#1db954" rx="2"/>
-    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+    <rect width="69" height="4" fill="#1db954" rx="2"/>
+    <circle cx="69" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 4:01
+    0:51 • 3:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
-🎤 **[slaughtered](https://open.spotify.com/track/5N4tOlw1mWK6x63Pu5qtbq)** by **dolldamage** *(slaughtered)*
-🎤 **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)*
-🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
-🎤 **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by **Jennifer Lopez, Pitbull** *(Love?)*
+🎤 **[get u off my mind](https://open.spotify.com/track/0nBZciKoSZ9bHnV6DmMdUd)** by **LOVELI LORI** *(get u off my mind)*
+🎤 **[galore galore galore](https://open.spotify.com/track/6uakZvgFon6O4gxbN5o8Gr)** by **bunii** *(galore galore galore)*
+🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
+🎤 **[jisatsu girl (自殺)](https://open.spotify.com/track/4chJRTJIZMyo8ESGTPvyMy)** by **requiem for you** *(jisatsu girl (自殺))*
+🎤 **[Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)** by **Dire Straits** *(Dire Straits)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 10:41:01Z UTC
+🕐 Last updated: 2025-06-09 10:52:49Z UTC
 <!-- SPOTIFY-END -->
