@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736f01d9e9df05d4bc6c022343" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273142bf369c134735fb966cd20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Werewolf (feat. Bring Me The Horizon)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP)**
-*by* **Lil Uzi Vert, Bring Me The Horizon**
-*Album:* Pink Tape
+**🎵 [dumb pop song](https://open.spotify.com/track/5pX2l924HmPM4cAh9F38KG)**
+*by* **meat computer**
+*Album:* dumb pop song
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:17 • 3:59
+    1:35 • 2:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[feel so bad](https://open.spotify.com/track/2llUjacr3wDDrVLbFLCSCa)** by **sodistilled** *(feel so bad)*
-🎤 **[FALLING](https://open.spotify.com/track/20TuZfhMZRyVaZGTNDXR44)** by **pluko** *(OXY)*
-🎤 **[Led](https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT)** by **GOTOU寄生獣, OmenXIII** *(Led)*
-🎤 **[Hiding](https://open.spotify.com/track/1LI8RWdVS2RWTn3GPPhVsA)** by **Slowboy, IVOXYGEN, Bodycam** *(Hiding)*
-🎤 **[LOVESHOTS](https://open.spotify.com/track/1WLJM9YCpakOH4ll4Stk5Y)** by **XANAKIN SKYWOK** *(LOVESHOTS)*
+🎤 **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)*
+🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[in your head](https://open.spotify.com/track/5NCnVxcLV3XriDtoygz3TK)** by **cloudyfield** *(in your head)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 14:37:10Z UTC
+🕐 Last updated: 2025-06-09 14:52:38Z UTC
 <!-- SPOTIFY-END -->
