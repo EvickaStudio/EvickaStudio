@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735a8d0ecc491d78cbdcd602c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)**
-*by* **Joey Cash**
-*Album:* r u kissin any1?
+**🎵 [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O)**
+*by* **Bassvictim**
+*Album:* Basspunk
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 3:42
+    2:35 • 3:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[every dream u r](https://open.spotify.com/track/2b0e9gUf5JbZdS5hHic9ak)** by **DJmegan23** *(Thou Art All Lost And Forgotten)*
-🎤 **[meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3)** by **The Hellp** *(meant2be)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[knows](https://open.spotify.com/track/1CBh6vh0R2mRsRqvHKaw6W)** by **Mietze Conte** *(knows)*
+🎤 **[liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso)** by **damon r.** *(liverounds)*
+🎤 **[weirdo type beat](https://open.spotify.com/track/2WI9w3LqMQDI7VUXV89yz6)** by **meat computer** *(weirdo type beat)*
+🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
+🎤 **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
 
 
 
@@ -144,8 +144,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥉 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
+🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 16:16:00Z UTC
+🕐 Last updated: 2025-06-09 16:48:13Z UTC
 <!-- SPOTIFY-END -->
