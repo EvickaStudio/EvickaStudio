@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ef39b96027ef007a51741367" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)**
-*by* **toobrokeforfiji**
-*Album:* Kein Raster
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 3:35
-</span>
-</p>
+❌ Error fetching now playing track.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)*
-🎤 **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[Vip](https://open.spotify.com/track/7baactXf3RfNKYjluddRFz)** by **Odece, hqwilli, sparr00w** *(Vip)*
-🎤 **[Smokin' mice](https://open.spotify.com/track/7k5LtCwsEm4p6QqOf1UPdh)** by **SlushhKitten, hqwilli** *(Smokin' mice)*
+🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
+🎤 **[cool kids](https://open.spotify.com/track/1VWAL2aR1YQ0nHmvwTUJO2)** by **CHRIS YONGE** *(Maybe I've Gone Mad)*
+🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
+🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
+🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 06:50:41Z UTC
+🕐 Last updated: 2025-06-09 07:14:13Z UTC
 <!-- SPOTIFY-END -->
