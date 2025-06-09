@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735734a79f1f9db08cb5410514" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nachts wach](https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA)**
-*by* **Miksu / Macloud, makko**
-*Album:* Nachts wach
+**🎵 [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S)**
+*by* **Aphex Twin**
+*Album:* Selected Ambient Works 85-92
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:58
+    1:26 • 9:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)*
-🎤 **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)*
-🎤 **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/7lIJcect8KQD2dxHPcEfBp)** by **Punk Christ** *(ORGANISCHE CHEMIE)*
-🎤 **[Problématique](https://open.spotify.com/track/08DVeb5frpxJ2UX7tYLvWe)** by **Kim Petras** *(Problématique)*
-🎤 **[Nice 2 Know Ya - Instrumental](https://open.spotify.com/track/5rlUoCX2fvOgUS7gjCbgdi)** by **Sylendanna** *(Nice 2 Know Ya (Instrumental))*
+🎤 **[Rilkean Heart](https://open.spotify.com/track/1oNfCMHwcVQtQPwpBqj49O)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r)** by **Radiohead** *(Pablo Honey)*
+🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
+🎤 **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by **SMiLE.dk** *(Smile)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 05:50:57Z UTC
+🕐 Last updated: 2025-06-09 06:20:31Z UTC
 <!-- SPOTIFY-END -->
