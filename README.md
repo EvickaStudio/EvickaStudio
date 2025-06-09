@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c87b539fb5303710bd47c636" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27323ac84a525286001770abc8e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [arcturian templars #ängel (hotelgodlin)](https://open.spotify.com/track/1l0kNsXEU9CJeLscd79mHO)**
-*by* **agelast222**
-*Album:* agelast222
+**🎵 [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)**
+*by* **Aphex Twin**
+*Album:* Come To Daddy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 3:02
+    1:02 • 2:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Nite Walker](https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8)** by **Sickboyrari** *(City Of Crows)*
-🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[PLASTER](https://open.spotify.com/track/59Aq073IvY2zYwG52RhbiF)** by **2hollis** *(2)*
-🎤 **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)*
+🎤 **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by **999 Heartake Sabileye** *(A Boy Named Hexd)*
+🎤 **[DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)** by **VAPORCHROME** *(Cybertrax)*
+🎤 **[BLUE PHEASANT](https://open.spotify.com/track/5dbCYDuvpQy4MQdfmYQYcd)** by **Kame Kami, DJmegan23** *(BLUE PHEASANT / YELLOW MONKEY)*
+🎤 **[Keep My Coo](https://open.spotify.com/track/5r9pmRvq2fHFDsMClWZqjh)** by **Lil Peep** *(Keep My Coo)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 23:12:27Z UTC
+🕐 Last updated: 2025-06-09 23:29:59Z UTC
 <!-- SPOTIFY-END -->
