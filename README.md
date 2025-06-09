@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27386f8b7c502d591bd6d25aae4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27306f6af6fba254554d452489b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [marine x](https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm)**
-*by* **Levi Ryan, Blksmiith**
-*Album:* marine x
+**🎵 [Cabin](https://open.spotify.com/track/3zIFQsdDFLmm6V7Ifu03Z6)**
+*by* **Somewhere Special**
+*Album:* Cabin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 3:07
+    1:54 • 2:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[internet crush.](https://open.spotify.com/track/5yF6YPreKAtrRl1yZ8PBUQ)** by **beau** *(beau.)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Techno](https://open.spotify.com/track/3ER19hlwxCg7KqtX1oW2hi)** by **The Hellp** *(LL Revisited)*
-🎤 **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)*
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
+🎤 **[The Science of Giving In (Part I)](https://open.spotify.com/track/2gDQsd8tzYPdXikU0RQtso)** by **User2222** *(Blame Games)*
+🎤 **[Trust Goes Both Ways](https://open.spotify.com/track/44YAjGu3fS9a5BYmXj8oDQ)** by **t0ni** *(Ego Death Memories)*
+🎤 **[Ask Her - Remix](https://open.spotify.com/track/3JH2RuDKZAkY5Y9Judugto)** by **Suzy Sheer, Cosmetics** *(Ask Her (Remix))*
+🎤 **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))*
+🎤 **[Sinamen](https://open.spotify.com/track/6fIqKnxQquUdo1pOqFdjTO)** by **The Hellp** *(LL)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 18:46:53Z UTC
+🕐 Last updated: 2025-06-09 19:10:05Z UTC
 <!-- SPOTIFY-END -->
