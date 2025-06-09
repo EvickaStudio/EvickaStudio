@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27338defa8607d869a4c5ce0ceb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27359c3c0bc91f30cfcdc3aa709" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [itsMyLand](https://open.spotify.com/track/2adnz56PdWJ8Lusej8if8P)**
-*by* **Ripsquad Archive, cav3y, Lusi**
-*Album:* cav3y x cclusi pak
+**🎵 [Pop Out #Bliss](https://open.spotify.com/track/6vm8krqMVbntTXxEukQOz2)**
+*by* **mol$, Ripsquad Archive**
+*Album:* Rip+
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="255" height="4" fill="#1db954" rx="2"/>
+    <circle cx="255" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 2:38
+    1:18 • 1:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[slowlyylosingg](https://open.spotify.com/track/3F66j51qU0hrZlFFTTetVr)** by **Ripsquad Archive, cav3y, Lusi** *(cav3y x cclusi pak)*
-🎤 **[allALonee4reallnow](https://open.spotify.com/track/4Ol7njoaHHBYroRnfR54vc)** by **Ripsquad Archive, cav3y, Lusi** *(cav3y x cclusi pak)*
-🎤 **[allALonee4reallnow](https://open.spotify.com/track/4Ol7njoaHHBYroRnfR54vc)** by **Ripsquad Archive, cav3y, Lusi** *(cav3y x cclusi pak)*
-🎤 **[lusi please focus!](https://open.spotify.com/track/2qQUMLcQFnvyedlEI2KBb3)** by **Ripsquad Archive** *(lusi please focus!)*
-🎤 **[ripGo tango](https://open.spotify.com/track/5cBqSCFTsk21rr306hjT9N)** by **Ripsquad Archive** *(ripGo tango)*
+🎤 **[Flawless](https://open.spotify.com/track/3f86FWNViPpwtC4qqgW7Tg)** by **mol$, Ripsquad Archive, Acid Souljah** *(Rip+)*
+🎤 **[Lets Go](https://open.spotify.com/track/6awJ2Ys54YrSGXTbfoDw88)** by **mol$, Ripsquad Archive** *(Rip+)*
+🎤 **[Avalanche](https://open.spotify.com/track/08ML2wRkoWTHHHSHdLHUvD)** by **mol$, Ripsquad Archive** *(Rip+)*
+🎤 **[someeecloudssss](https://open.spotify.com/track/24McBhUJliHzVELmx16NnU)** by **Ripsquad Archive, cav3y, Lusi, sharkboy** *(cav3y x cclusi pak)*
+🎤 **[itsMyLand](https://open.spotify.com/track/2adnz56PdWJ8Lusej8if8P)** by **Ripsquad Archive, cav3y, Lusi** *(cav3y x cclusi pak)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 19:34:58Z UTC
+🕐 Last updated: 2025-06-09 19:47:38Z UTC
 <!-- SPOTIFY-END -->
