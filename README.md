@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e672690c2f8f55770c9d854d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a97cc86221a5d3302be26680" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)**
-*by* **Sleepisformortals**
-*Album:* SO DUMB
+**🎵 [Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)**
+*by* **my!lane**
+*Album:* Sakura's Shadows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 3:57
+    1:57 • 2:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Society](https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1)** by **Pathetic** *(Society)*
+🎤 **[SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)** by **Sleepisformortals** *(SO DUMB)*
+🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
 🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
 🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
-🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)*
-🎤 **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by **999 Heartake Sabileye** *(A Boy Named Hexd)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 23:41:47Z UTC
+🕐 Last updated: 2025-06-09 23:49:22Z UTC
 <!-- SPOTIFY-END -->
