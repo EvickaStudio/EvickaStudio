@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273172d2e50da5aa9c77cdfaf98" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731caf5408c4ddfdeab123ae21" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MCM](https://open.spotify.com/track/5uw5MJdIfWgbOq6UZTgUGg)**
-*by* **Ripsquad Archive**
-*Album:* MCM
+**🎵 [Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)**
+*by* **Eera**
+*Album:* Crash
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="196" height="4" fill="#1db954" rx="2"/>
-    <circle cx="196" cy="2" r="6" fill="#1db954"/>
+    <rect width="45" height="4" fill="#1db954" rx="2"/>
+    <circle cx="45" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 3:13
+    0:47 • 5:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[alone](https://open.spotify.com/track/6RcGnDf9hEyxJ8T6Wywn9j)** by **Ripsquad Archive** *(alone)*
-🎤 **[so chill like a pharmagirl](https://open.spotify.com/track/3JQSBJeqw8HWrg5584xytf)** by **Ripsquad Archive** *(so chill like a pharmagirl)*
-🎤 **[toe](https://open.spotify.com/track/2LHJK0mNfaYeWsokLNFECJ)** by **Ripsquad Archive** *(toe)*
-🎤 **[come clean](https://open.spotify.com/track/1TwGpDsVoeljfqh1ouh28k)** by **Ripsquad Archive** *(come clean)*
-🎤 **[Clerk](https://open.spotify.com/track/2ganaFYwmjM2MtV2TACdFz)** by **Ripsquad Archive** *(Clerk)*
+🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
+🎤 **[rip zyzz aesthetics pak](https://open.spotify.com/track/6RNHkR8joR3gPOuRPz3zaI)** by **Ripsquad Archive** *(rip zyzz aesthetics pak)*
+🎤 **[memory](https://open.spotify.com/track/0rzSTsGzuKAAIMNltZXa8V)** by **Ripsquad Archive** *(memory)*
+🎤 **[Dola Beach](https://open.spotify.com/track/1jklBf0fRL38NHZNW0esXR)** by **Ripsquad Archive** *(Dola Beach)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 20:14:10Z UTC
+🕐 Last updated: 2025-06-09 20:34:08Z UTC
 <!-- SPOTIFY-END -->
