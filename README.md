@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9bdda96df329eeb4d82bc47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [crying in the club](https://open.spotify.com/track/4EIq7cUppvIO9iUTcc2sIM)**
-*by* **stella the pixie, Creepybuggirl, emorave**
-*Album:* crying in the club
+**🎵 [Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)**
+*by* **Dire Straits**
+*Album:* Dire Straits
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="133" height="4" fill="#1db954" rx="2"/>
-    <circle cx="133" cy="2" r="6" fill="#1db954"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 2:45
+    1:40 • 4:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[luv in my cup](https://open.spotify.com/track/77TQXZbTigvheyBTOxx6Uv)** by **whyhaze** *(luv in my cup)*
-🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
+🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
+🎤 **[slaughtered](https://open.spotify.com/track/5N4tOlw1mWK6x63Pu5qtbq)** by **dolldamage** *(slaughtered)*
+🎤 **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)*
+🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by **Jennifer Lopez, Pitbull** *(Love?)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 10:14:35Z UTC
+🕐 Last updated: 2025-06-09 10:41:01Z UTC
 <!-- SPOTIFY-END -->
