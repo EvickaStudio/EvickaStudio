@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e1794dbc0e960dcc8d5ebc7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)**
-*by* **Bassvictim**
-*Album:* Basspunk 2
+**🎵 [Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)**
+*by* **ear**
+*Album:* Nerves
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="1" height="4" fill="#1db954" rx="2"/>
-    <circle cx="1" cy="2" r="6" fill="#1db954"/>
+    <rect width="4" height="4" fill="#1db954" rx="2"/>
+    <circle cx="4" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:00 • 2:55
+    0:02 • 3:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[just don't](https://open.spotify.com/track/7dignw6Xutm9A83JlW7mAO)** by **meat computer** *(just don't)*
-🎤 **[empty stressful half dreams](https://open.spotify.com/track/5XNHOKTE5eMjggNvRtUktz)** by **meat computer** *(empty stressful half dreams)*
-🎤 **[haha swag](https://open.spotify.com/track/7fEGlvM24St5RqYoGSZ48q)** by **meat computer** *(haha swag)*
-🎤 **[shadow world illusion self](https://open.spotify.com/track/0RWVuKxLc7oRGiylZnb112)** by **meat computer** *(shadow world illusion self)*
-🎤 **[in my room](https://open.spotify.com/track/1H6b3u2dqB088ewlrL9QVg)** by **meat computer** *(in my room)*
+🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
+🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
+🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
+🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[open air mental asylum](https://open.spotify.com/track/7e9EduAuOQrtx6OhJZuGOn)** by **meat computer** *(open air mental asylum)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 15:33:49Z UTC
+🕐 Last updated: 2025-06-09 15:50:12Z UTC
 <!-- SPOTIFY-END -->
