@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ed02c2537c4c00de58fa415" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O)**
-*by* **Bassvictim**
-*Album:* Basspunk
+**🎵 [Would You Remember Me If Tomorrow I Was Gone](https://open.spotify.com/track/39oq6qiOrIxQmruwsVAZLm)**
+*by* **Eera**
+*Album:* Cant Stop Wasting Time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 3:01
+    1:39 • 3:31
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[knows](https://open.spotify.com/track/1CBh6vh0R2mRsRqvHKaw6W)** by **Mietze Conte** *(knows)*
-🎤 **[liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso)** by **damon r.** *(liverounds)*
-🎤 **[weirdo type beat](https://open.spotify.com/track/2WI9w3LqMQDI7VUXV89yz6)** by **meat computer** *(weirdo type beat)*
-🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
-🎤 **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
+🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
+🎤 **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)*
+🎤 **[North Atlantic - Cult Member Remix](https://open.spotify.com/track/0jum0Itpag2bRxmH2uhwfH)** by **Niko Demus, MFM, Cult Member** *(Cruise Control (Remixes))*
+🎤 **[Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO)** by **The Hellp** *(Hot Fun)*
+🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 16:48:13Z UTC
+🕐 Last updated: 2025-06-09 17:11:14Z UTC
 <!-- SPOTIFY-END -->
