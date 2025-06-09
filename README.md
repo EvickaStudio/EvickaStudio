@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731a9724c8243197da35e28a5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)**
-*by* **Sade**
-*Album:* Promise
+**🎵 [Styles - Remix](https://open.spotify.com/track/6cIJiTH000SaA9z96SS31G)**
+*by* **Dewobo Music, Styles**
+*Album:* Styles
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 6:21
+    2:21 • 3:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[SWITCHBLADE](https://open.spotify.com/track/1VwZlU73rsLYhcJt40aA5a)** by **WesGhost** *(DON'T WORRY, I'LL BE FINE)*
-🎤 **[Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8)** by **KID BRUNSWICK** *(Heaven Without You)*
-🎤 **[Leathers](https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ)** by **Deftones** *(Koi No Yokan)*
-🎤 **[Major Crimes](https://open.spotify.com/track/3nh5RSXnRSHWuQbOJvQr0g)** by **HEALTH, Window Weather** *(Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack))*
-🎤 **[Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)** by **Pixies** *(Surfer Rosa (2007 Remaster))*
+🎤 **[Divebomb - Crystal Castles Remix](https://open.spotify.com/track/4vCTXPB8xiZ97wDdnUGJtY)** by **The Whip, Crystal Castles** *(Kitsuné: Divebomb)*
+🎤 **[Leuchtfeuer](https://open.spotify.com/track/3wtrCWvDAbYMOQ39lfVflG)** by **fliggsy** *(Days b4 rider music 2)*
+🎤 **[Mr. Big Rider](https://open.spotify.com/track/1m7iOdloO7RsZC0N9Kw2gv)** by **fliggsy** *(Days b4 rider music 2)*
+🎤 **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by **herz.** *(kopflos durch die nacht)*
+🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 21:49:29Z UTC
+🕐 Last updated: 2025-06-09 22:12:35Z UTC
 <!-- SPOTIFY-END -->
