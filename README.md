@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e556ac04c7c3e03b41387392" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [subtle hypnotic swag](https://open.spotify.com/track/0RUh08yEijKNkKWFNBuzwn)**
-*by* **meat computer**
-*Album:* subtle hypnotic swag
+**🎵 [Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="1" height="4" fill="#1db954" rx="2"/>
+    <circle cx="1" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:17
+    0:00 • 2:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[playlist friendly unit shifter](https://open.spotify.com/track/2p18SqON596E1Z9ANOm6bm)** by **meat computer** *(playlist friendly unit shifter)*
-🎤 **[dehumanizing audio](https://open.spotify.com/track/09OV6yDxCB8bSYXrETdOfG)** by **meat computer** *(dehumanizing audio)*
-🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
-🎤 **[void grasping](https://open.spotify.com/track/7bI3K5Vu0rqobrZVH233rZ)** by **meat computer** *(void grasping)*
-🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
+🎤 **[just don't](https://open.spotify.com/track/7dignw6Xutm9A83JlW7mAO)** by **meat computer** *(just don't)*
+🎤 **[empty stressful half dreams](https://open.spotify.com/track/5XNHOKTE5eMjggNvRtUktz)** by **meat computer** *(empty stressful half dreams)*
+🎤 **[haha swag](https://open.spotify.com/track/7fEGlvM24St5RqYoGSZ48q)** by **meat computer** *(haha swag)*
+🎤 **[shadow world illusion self](https://open.spotify.com/track/0RWVuKxLc7oRGiylZnb112)** by **meat computer** *(shadow world illusion self)*
+🎤 **[in my room](https://open.spotify.com/track/1H6b3u2dqB088ewlrL9QVg)** by **meat computer** *(in my room)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 15:13:52Z UTC
+🕐 Last updated: 2025-06-09 15:33:49Z UTC
 <!-- SPOTIFY-END -->
