@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27305f7d7f6f2a7e067e1845f1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)**
-*by* **Somewhere Special**
-*Album:* Blizzard Warning
+**🎵 [In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)**
+*by* **Ayegy**
+*Album:* In It, Not of It
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="41" height="4" fill="#1db954" rx="2"/>
+    <circle cx="41" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:58
+    0:27 • 3:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[LOL](https://open.spotify.com/track/4T6CsBPqb22niY7S67pTSF)** by **Ilykimchi** *(LOL)*
-🎤 **[Eternal High](https://open.spotify.com/track/0FHlkIxtC3gDivUrQvrbEQ)** by **dreamstation, Levi Ryan** *(Dreamcore, Vol. 1)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[homecoming](https://open.spotify.com/track/5SWhEhbc0ShOzEQEIvCYJz)** by **Levi Ryan** *(soviet winter)*
-🎤 **[2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5)** by **Mietze Conte** *(Mietzee)*
+🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
+🎤 **[Dirty 003](https://open.spotify.com/track/2y7X3tbeOSiOXTKHN3CgSB)** by **The Hellp** *(Vol. 1)*
+🎤 **[꧂꧁ৡⵢ꧂꧁](https://open.spotify.com/track/6L6pGkh8zb4aVQgEfdke2r)** by **snafu** *(꧂꧁ৡⵢ꧂꧁)*
+🎤 **[the fire\\](https://open.spotify.com/track/6S11xfTugWLgNwKNZjbWWZ)** by **Zaram, Lonely Spirit** *(the fire\\)*
+🎤 **[Flop](https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO)** by **Bassvictim** *(Basspunk)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 17:47:53Z UTC
+🕐 Last updated: 2025-06-09 18:18:20Z UTC
 <!-- SPOTIFY-END -->
