@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306f6af6fba254554d452489b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a214159eaeb88bf98e4dda0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cabin](https://open.spotify.com/track/3zIFQsdDFLmm6V7Ifu03Z6)**
-*by* **Somewhere Special**
-*Album:* Cabin
+**🎵 [lusi please focus!](https://open.spotify.com/track/2qQUMLcQFnvyedlEI2KBb3)**
+*by* **Ripsquad Archive**
+*Album:* lusi please focus!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+    <rect width="118" height="4" fill="#1db954" rx="2"/>
+    <circle cx="118" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:33
+    1:03 • 2:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Science of Giving In (Part I)](https://open.spotify.com/track/2gDQsd8tzYPdXikU0RQtso)** by **User2222** *(Blame Games)*
-🎤 **[Trust Goes Both Ways](https://open.spotify.com/track/44YAjGu3fS9a5BYmXj8oDQ)** by **t0ni** *(Ego Death Memories)*
-🎤 **[Ask Her - Remix](https://open.spotify.com/track/3JH2RuDKZAkY5Y9Judugto)** by **Suzy Sheer, Cosmetics** *(Ask Her (Remix))*
-🎤 **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))*
-🎤 **[Sinamen](https://open.spotify.com/track/6fIqKnxQquUdo1pOqFdjTO)** by **The Hellp** *(LL)*
+🎤 **[ripGo tango](https://open.spotify.com/track/5cBqSCFTsk21rr306hjT9N)** by **Ripsquad Archive** *(ripGo tango)*
+🎤 **[Clerk](https://open.spotify.com/track/2ganaFYwmjM2MtV2TACdFz)** by **Ripsquad Archive** *(Clerk)*
+🎤 **[ON A BENDER](https://open.spotify.com/track/7o2LTpT6iP8BPUwYzzz0v9)** by **Ripsquad Archive** *(ON A BENDER)*
+🎤 **[memory](https://open.spotify.com/track/0rzSTsGzuKAAIMNltZXa8V)** by **Ripsquad Archive** *(memory)*
+🎤 **[9_21](https://open.spotify.com/track/1xjJUlU9ClWae8ToZDiyN1)** by **The Hellp** *(LL)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 19:10:05Z UTC
+🕐 Last updated: 2025-06-09 19:25:32Z UTC
 <!-- SPOTIFY-END -->
