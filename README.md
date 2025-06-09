@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ed02c2537c4c00de58fa415" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bac68f24fe1420eb887a5f04" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Would You Remember Me If Tomorrow I Was Gone](https://open.spotify.com/track/39oq6qiOrIxQmruwsVAZLm)**
-*by* **Eera**
-*Album:* Cant Stop Wasting Time
+**🎵 [Feel The Light](https://open.spotify.com/track/2GZP17O3nwewmDWBWDCBcz)**
+*by* **Somewhere Special**
+*Album:* Feel The Light
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="122" height="4" fill="#1db954" rx="2"/>
+    <circle cx="122" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 3:31
+    1:01 • 2:31
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
-🎤 **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)*
-🎤 **[North Atlantic - Cult Member Remix](https://open.spotify.com/track/0jum0Itpag2bRxmH2uhwfH)** by **Niko Demus, MFM, Cult Member** *(Cruise Control (Remixes))*
-🎤 **[Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO)** by **The Hellp** *(Hot Fun)*
-🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
+🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
+🎤 **[Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)** by **Cece Natalie** *(Miracle)*
+🎤 **[Live too fast](https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5)** by **The Hellp** *(Hazel)*
+🎤 **[HEROINES](https://open.spotify.com/track/0miSopDAmulQjAxfY7tUXD)** by **Palmistry** *(T2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 17:11:14Z UTC
+🕐 Last updated: 2025-06-09 17:30:57Z UTC
 <!-- SPOTIFY-END -->
