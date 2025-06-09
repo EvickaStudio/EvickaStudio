@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f79c2d231526409896d8c118" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl)**
-*by* **Portwave**
-*Album:* Shadow Lady
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="196" height="4" fill="#1db954" rx="2"/>
-    <circle cx="196" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:17 • 5:02
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by **NXFEIT, Sillyelly, Hen848** *(CASSA DRITTISSIMA !!)*
-🎤 **[Vielleicht](https://open.spotify.com/track/1jrkw3v7ZK4kCiusVaapp7)** by **DEGrande** *(Vielleicht)*
-🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
-🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
-🎤 **[(I Just) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm)** by **Cutting Crew** *(Broadcast)*
+🎤 **[Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)** by **Declan McKenna** *(What Do You Think About the Car?)*
+🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
+🎤 **[Ral Grad](https://open.spotify.com/track/7Csc3LFRvRA9s5gLbSM3Mf)** by **Harto Falión, Eera** *(Academy)*
+🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
+🎤 **[GOTHEX - slowed](https://open.spotify.com/track/6QWdbwWtSW1D4i6sHmzYD4)** by **N!GHTvisiøn** *(GOTHEX)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 08:19:06Z UTC
+🕐 Last updated: 2025-06-09 08:47:47Z UTC
 <!-- SPOTIFY-END -->
