@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d55a59436d62beff364b699" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f79c2d231526409896d8c118" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 ["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)**
-*by* **Edwin Rosen**
-*Album:* "1119"
+**🎵 [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl)**
+*by* **Portwave**
+*Album:* Shadow Lady
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="146" height="4" fill="#1db954" rx="2"/>
-    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:49
+    3:17 • 5:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
-🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
-🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
-🎤 **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)*
-🎤 **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))*
+🎤 **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by **NXFEIT, Sillyelly, Hen848** *(CASSA DRITTISSIMA !!)*
+🎤 **[Vielleicht](https://open.spotify.com/track/1jrkw3v7ZK4kCiusVaapp7)** by **DEGrande** *(Vielleicht)*
+🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
+🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
+🎤 **[(I Just) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm)** by **Cutting Crew** *(Broadcast)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 07:48:04Z UTC
+🕐 Last updated: 2025-06-09 08:19:06Z UTC
 <!-- SPOTIFY-END -->
