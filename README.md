@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273674753c026f188eea01dca97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369c9183efed4fe011115f737" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)**
-*by* **jonatan leandoer96**
-*Album:* Under Heaven
+**🎵 [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa)**
+*by* **Kool & The Gang**
+*Album:* Ladies' Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="244" height="4" fill="#1db954" rx="2"/>
-    <circle cx="244" cy="2" r="6" fill="#1db954"/>
+    <rect width="167" height="4" fill="#1db954" rx="2"/>
+    <circle cx="167" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:21 • 4:07
+    3:34 • 6:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Beginning](https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR)** by **Flawed Mangoes** *(Killswitch Melodies)*
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[movies for guys](https://open.spotify.com/track/30YaPM8Aba7TVcyaiZFbWC)** by **Jane Remover** *(Frailty)*
+🎤 **[One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV)** by **Daft Punk** *(Discovery)*
+🎤 **[After Prom](https://open.spotify.com/track/0yZD8YhTDX1d3mq7ZS6kfu)** by **Farrah Abraham** *(My Teenage Dream Ended)*
+🎤 **[I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ)** by **La Bionda** *(The Collection)*
+🎤 **[Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)** by **Brutalismus 3000** *(GOODBYE SALÒ)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 02:59:45Z UTC
+🕐 Last updated: 2025-06-09 03:52:53Z UTC
 <!-- SPOTIFY-END -->
