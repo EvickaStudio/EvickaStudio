@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)**
+*by* **ESP**
+*Album:* RIFT Two
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="240" height="4" fill="#1db954" rx="2"/>
+    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:27 • 3:03
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
-🎤 **[cool kids](https://open.spotify.com/track/1VWAL2aR1YQ0nHmvwTUJO2)** by **CHRIS YONGE** *(Maybe I've Gone Mad)*
-🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
-🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
-🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
+🎤 **[Cola - Sped Up Version](https://open.spotify.com/track/0WdpnMtkBOmVTk17tCWQfj)** by **sped up nightcore** *(Cola (Sped Up Version))*
+🎤 **[Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM)** by **Chris Travis** *(Side Effects EP)*
+🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/5RuROg27RZTvqixblmzYG5)** by **Fred again.., Swedish House Mafia, Future** *(USB)*
+🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
+🎤 **[Cus Of U](https://open.spotify.com/track/1cWtzIkNzScoxY8yvmhn2H)** by **1lilcozy** *(Cus Of U)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 07:14:13Z UTC
+🕐 Last updated: 2025-06-09 07:32:02Z UTC
 <!-- SPOTIFY-END -->
