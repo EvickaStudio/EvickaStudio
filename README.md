@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731a9724c8243197da35e28a5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Styles - Remix](https://open.spotify.com/track/6cIJiTH000SaA9z96SS31G)**
-*by* **Dewobo Music, Styles**
-*Album:* Styles
+**🎵 [Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)**
+*by* **Pastel Ghost**
+*Album:* Abyss
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 3:21
+    2:41 • 4:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Divebomb - Crystal Castles Remix](https://open.spotify.com/track/4vCTXPB8xiZ97wDdnUGJtY)** by **The Whip, Crystal Castles** *(Kitsuné: Divebomb)*
-🎤 **[Leuchtfeuer](https://open.spotify.com/track/3wtrCWvDAbYMOQ39lfVflG)** by **fliggsy** *(Days b4 rider music 2)*
-🎤 **[Mr. Big Rider](https://open.spotify.com/track/1m7iOdloO7RsZC0N9Kw2gv)** by **fliggsy** *(Days b4 rider music 2)*
-🎤 **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by **herz.** *(kopflos durch die nacht)*
-🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
+🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **Pathetic** *(2008)*
+🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[hallucinations](https://open.spotify.com/track/4CFr5Z5sKjDanTWYKrmWCj)** by **vinter, STM** *(hallucinations)*
+🎤 **[Im So Into You](https://open.spotify.com/track/7EV4Bvwok8pTVYUPBrRG41)** by **LOMAJI** *(Im So Into You)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 22:12:35Z UTC
+🕐 Last updated: 2025-06-09 22:34:37Z UTC
 <!-- SPOTIFY-END -->
