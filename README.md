@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c87b539fb5303710bd47c636" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)**
-*by* **Playboi Carti, Lil Uzi Vert**
-*Album:* Die Lit
+**🎵 [arcturian templars #ängel (hotelgodlin)](https://open.spotify.com/track/1l0kNsXEU9CJeLscd79mHO)**
+*by* **agelast222**
+*Album:* agelast222
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:33
+    1:56 • 3:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)*
-🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
-🎤 **[It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)** by **Jawnino** *(40)*
-🎤 **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)*
-🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
+🎤 **[Nite Walker](https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8)** by **Sickboyrari** *(City Of Crows)*
+🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[PLASTER](https://open.spotify.com/track/59Aq073IvY2zYwG52RhbiF)** by **2hollis** *(2)*
+🎤 **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 22:50:32Z UTC
+🕐 Last updated: 2025-06-09 23:12:27Z UTC
 <!-- SPOTIFY-END -->
