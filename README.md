@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27353a5fa57131d61ad8cb556b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c05580dbdc3782ffcf874f52" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)**
-*by* **bliiiss**
-*Album:* ☾⋆⁺₊✧
+**🎵 [nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)**
+*by* **Mietze Conte**
+*Album:* nanana
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:20
+    1:17 • 2:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Passive And Plastic](https://open.spotify.com/track/26EHKiRiz0DU40iA8H3CCA)** by **Reserv** *(Passive And Plastic)*
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
-🎤 **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
-🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
+🎤 **[Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK)** by **Mother Mother** *(O My Heart)*
+🎤 **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
+🎤 **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)*
+🎤 **[Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ)** by **Harmless** *(I'm Sure)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 05:14:38Z UTC
+🕐 Last updated: 2025-06-09 05:36:44Z UTC
 <!-- SPOTIFY-END -->
