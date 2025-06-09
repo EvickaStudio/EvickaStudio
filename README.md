@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27359c3c0bc91f30cfcdc3aa709" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273172d2e50da5aa9c77cdfaf98" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pop Out #Bliss](https://open.spotify.com/track/6vm8krqMVbntTXxEukQOz2)**
-*by* **mol$, Ripsquad Archive**
-*Album:* Rip+
+**🎵 [MCM](https://open.spotify.com/track/5uw5MJdIfWgbOq6UZTgUGg)**
+*by* **Ripsquad Archive**
+*Album:* MCM
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 1:32
+    2:06 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Flawless](https://open.spotify.com/track/3f86FWNViPpwtC4qqgW7Tg)** by **mol$, Ripsquad Archive, Acid Souljah** *(Rip+)*
-🎤 **[Lets Go](https://open.spotify.com/track/6awJ2Ys54YrSGXTbfoDw88)** by **mol$, Ripsquad Archive** *(Rip+)*
-🎤 **[Avalanche](https://open.spotify.com/track/08ML2wRkoWTHHHSHdLHUvD)** by **mol$, Ripsquad Archive** *(Rip+)*
-🎤 **[someeecloudssss](https://open.spotify.com/track/24McBhUJliHzVELmx16NnU)** by **Ripsquad Archive, cav3y, Lusi, sharkboy** *(cav3y x cclusi pak)*
-🎤 **[itsMyLand](https://open.spotify.com/track/2adnz56PdWJ8Lusej8if8P)** by **Ripsquad Archive, cav3y, Lusi** *(cav3y x cclusi pak)*
+🎤 **[alone](https://open.spotify.com/track/6RcGnDf9hEyxJ8T6Wywn9j)** by **Ripsquad Archive** *(alone)*
+🎤 **[so chill like a pharmagirl](https://open.spotify.com/track/3JQSBJeqw8HWrg5584xytf)** by **Ripsquad Archive** *(so chill like a pharmagirl)*
+🎤 **[toe](https://open.spotify.com/track/2LHJK0mNfaYeWsokLNFECJ)** by **Ripsquad Archive** *(toe)*
+🎤 **[come clean](https://open.spotify.com/track/1TwGpDsVoeljfqh1ouh28k)** by **Ripsquad Archive** *(come clean)*
+🎤 **[Clerk](https://open.spotify.com/track/2ganaFYwmjM2MtV2TACdFz)** by **Ripsquad Archive** *(Clerk)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 19:47:38Z UTC
+🕐 Last updated: 2025-06-09 20:14:10Z UTC
 <!-- SPOTIFY-END -->
