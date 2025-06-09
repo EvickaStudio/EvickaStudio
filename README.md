@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273154c3562dc92bcd302c72c9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b436be08f26b7ce554c7423f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)**
-*by* **Anamanaguchi, Hatsune Miku**
-*Album:* Miku
+**🎵 [GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)**
+*by* **Nedaj**
+*Album:* GENESIS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 3:43
+    0:58 • 3:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[get u off my mind](https://open.spotify.com/track/0nBZciKoSZ9bHnV6DmMdUd)** by **LOVELI LORI** *(get u off my mind)*
-🎤 **[galore galore galore](https://open.spotify.com/track/6uakZvgFon6O4gxbN5o8Gr)** by **bunii** *(galore galore galore)*
-🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
-🎤 **[jisatsu girl (自殺)](https://open.spotify.com/track/4chJRTJIZMyo8ESGTPvyMy)** by **requiem for you** *(jisatsu girl (自殺))*
-🎤 **[Down To The Waterline](https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q)** by **Dire Straits** *(Dire Straits)*
+🎤 **[PRETTYLIES](https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU)** by **hxly xo** *(Umbrae)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
+🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
+🎤 **[Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv)** by **camoufly** *(In Plain Sight)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 10:52:49Z UTC
+🕐 Last updated: 2025-06-09 11:11:51Z UTC
 <!-- SPOTIFY-END -->
