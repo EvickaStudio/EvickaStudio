@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736304ee61e0717cb42716b101" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)**
-*by* **Pink Floyd**
-*Album:* The Dark Side of the Moon
+**🎵 [stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)**
+*by* **Jack Pfeffer, Mother Soki**
+*Album:* stinkbug (Over and Over)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:10
+    3:35 • 3:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
+🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
 🎤 **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)*
-🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
-🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
-🎤 **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)*
-🎤 **[PRETTYLIES](https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU)** by **hxly xo** *(Umbrae)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 09:35:10Z UTC
+🕐 Last updated: 2025-06-09 09:49:42Z UTC
 <!-- SPOTIFY-END -->
