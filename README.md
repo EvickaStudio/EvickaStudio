@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273142bf369c134735fb966cd20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e556ac04c7c3e03b41387392" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dumb pop song](https://open.spotify.com/track/5pX2l924HmPM4cAh9F38KG)**
+**🎵 [subtle hypnotic swag](https://open.spotify.com/track/0RUh08yEijKNkKWFNBuzwn)**
 *by* **meat computer**
-*Album:* dumb pop song
+*Album:* subtle hypnotic swag
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="181" height="4" fill="#1db954" rx="2"/>
-    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+    <rect width="283" height="4" fill="#1db954" rx="2"/>
+    <circle cx="283" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 2:38
+    2:09 • 2:17
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
-🎤 **[in your head](https://open.spotify.com/track/5NCnVxcLV3XriDtoygz3TK)** by **cloudyfield** *(in your head)*
+🎤 **[playlist friendly unit shifter](https://open.spotify.com/track/2p18SqON596E1Z9ANOm6bm)** by **meat computer** *(playlist friendly unit shifter)*
+🎤 **[dehumanizing audio](https://open.spotify.com/track/09OV6yDxCB8bSYXrETdOfG)** by **meat computer** *(dehumanizing audio)*
+🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
+🎤 **[void grasping](https://open.spotify.com/track/7bI3K5Vu0rqobrZVH233rZ)** by **meat computer** *(void grasping)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 14:52:38Z UTC
+🕐 Last updated: 2025-06-09 15:13:52Z UTC
 <!-- SPOTIFY-END -->
