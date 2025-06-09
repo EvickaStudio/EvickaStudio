@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27305f7d7f6f2a7e067e1845f1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386f8b7c502d591bd6d25aae4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)**
-*by* **Ayegy**
-*Album:* In It, Not of It
+**🎵 [marine x](https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm)**
+*by* **Levi Ryan, Blksmiith**
+*Album:* marine x
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="41" height="4" fill="#1db954" rx="2"/>
-    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 3:16
+    1:35 • 3:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
-🎤 **[Dirty 003](https://open.spotify.com/track/2y7X3tbeOSiOXTKHN3CgSB)** by **The Hellp** *(Vol. 1)*
-🎤 **[꧂꧁ৡⵢ꧂꧁](https://open.spotify.com/track/6L6pGkh8zb4aVQgEfdke2r)** by **snafu** *(꧂꧁ৡⵢ꧂꧁)*
-🎤 **[the fire\\](https://open.spotify.com/track/6S11xfTugWLgNwKNZjbWWZ)** by **Zaram, Lonely Spirit** *(the fire\\)*
-🎤 **[Flop](https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO)** by **Bassvictim** *(Basspunk)*
+🎤 **[internet crush.](https://open.spotify.com/track/5yF6YPreKAtrRl1yZ8PBUQ)** by **beau** *(beau.)*
+🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Techno](https://open.spotify.com/track/3ER19hlwxCg7KqtX1oW2hi)** by **The Hellp** *(LL Revisited)*
+🎤 **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)*
+🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 18:18:20Z UTC
+🕐 Last updated: 2025-06-09 18:46:53Z UTC
 <!-- SPOTIFY-END -->
