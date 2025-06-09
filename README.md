@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d55a59436d62beff364b699" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)**
-*by* **ESP**
-*Album:* RIFT Two
+**🎵 ["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)**
+*by* **Edwin Rosen**
+*Album:* "1119"
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 3:03
+    1:23 • 2:49
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Cola - Sped Up Version](https://open.spotify.com/track/0WdpnMtkBOmVTk17tCWQfj)** by **sped up nightcore** *(Cola (Sped Up Version))*
-🎤 **[Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM)** by **Chris Travis** *(Side Effects EP)*
-🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/5RuROg27RZTvqixblmzYG5)** by **Fred again.., Swedish House Mafia, Future** *(USB)*
-🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
-🎤 **[Cus Of U](https://open.spotify.com/track/1cWtzIkNzScoxY8yvmhn2H)** by **1lilcozy** *(Cus Of U)*
+🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
+🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
+🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
+🎤 **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)*
+🎤 **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 07:32:02Z UTC
+🕐 Last updated: 2025-06-09 07:48:04Z UTC
 <!-- SPOTIFY-END -->
