@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369c9183efed4fe011115f737" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730389027010b78a5e7dce426b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa)**
-*by* **Kool & The Gang**
-*Album:* Ladies' Night
+**🎵 [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)**
+*by* **Foo Fighters**
+*Album:* The Colour And The Shape
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="167" height="4" fill="#1db954" rx="2"/>
-    <circle cx="167" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:34 • 6:25
+    1:57 • 4:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[One More Time](https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV)** by **Daft Punk** *(Discovery)*
-🎤 **[After Prom](https://open.spotify.com/track/0yZD8YhTDX1d3mq7ZS6kfu)** by **Farrah Abraham** *(My Teenage Dream Ended)*
-🎤 **[I Wanna Be Your Lover](https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ)** by **La Bionda** *(The Collection)*
-🎤 **[Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)** by **Brutalismus 3000** *(GOODBYE SALÒ)*
+🎤 **[floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)** by **Felix Bosques Harima** *(floods (outro))*
+🎤 **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by **Tom Petty** *(Full Moon Fever)*
+🎤 **[American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh)** by **Estelle, Kanye West** *(Shine)*
+🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
+🎤 **[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)** by **Juli** *(Es ist Juli)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 03:52:53Z UTC
+🕐 Last updated: 2025-06-09 04:24:54Z UTC
 <!-- SPOTIFY-END -->
