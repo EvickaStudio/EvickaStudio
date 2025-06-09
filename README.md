@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bac68f24fe1420eb887a5f04" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Feel The Light](https://open.spotify.com/track/2GZP17O3nwewmDWBWDCBcz)**
+**🎵 [Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)**
 *by* **Somewhere Special**
-*Album:* Feel The Light
+*Album:* Blizzard Warning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="122" height="4" fill="#1db954" rx="2"/>
-    <circle cx="122" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:31
+    1:57 • 2:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
-🎤 **[Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)** by **Cece Natalie** *(Miracle)*
-🎤 **[Live too fast](https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5)** by **The Hellp** *(Hazel)*
-🎤 **[HEROINES](https://open.spotify.com/track/0miSopDAmulQjAxfY7tUXD)** by **Palmistry** *(T2)*
+🎤 **[LOL](https://open.spotify.com/track/4T6CsBPqb22niY7S67pTSF)** by **Ilykimchi** *(LOL)*
+🎤 **[Eternal High](https://open.spotify.com/track/0FHlkIxtC3gDivUrQvrbEQ)** by **dreamstation, Levi Ryan** *(Dreamcore, Vol. 1)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[homecoming](https://open.spotify.com/track/5SWhEhbc0ShOzEQEIvCYJz)** by **Levi Ryan** *(soviet winter)*
+🎤 **[2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5)** by **Mietze Conte** *(Mietzee)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 17:30:57Z UTC
+🕐 Last updated: 2025-06-09 17:47:53Z UTC
 <!-- SPOTIFY-END -->
