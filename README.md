@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27359c3c0bc91f30cfcdc3aa709" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)**
-*by* **mol$, Ripsquad Archive, 240pearl**
-*Album:* Rip+
+**🎵 [Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)**
+*by* **jonatan leandoer96, Frederik Valentin**
+*Album:* Sugar World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 1:46
+    3:01 • 3:56
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
-🎤 **[Yugoslavskiy Groove](https://open.spotify.com/track/0CRZ3cFFZEUglP5RlU2f9o)** by **Soft Blade** *(Softic)*
-🎤 **[Embrace](https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL)** by **Pastel Ghost** *(Abyss)*
-🎤 **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
-🎤 **[9](https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa)** by **Dean Blunt, Panda Bear** *(ZUSHI)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
+🎤 **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)*
+🎤 **[searching](https://open.spotify.com/track/4ip4yGaadmxwPxvboZRoUh)** by **Capoxxo, mayh3mp** *(searching)*
+🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-08 23:47:28Z UTC
+🕐 Last updated: 2025-06-09 01:05:50Z UTC
 <!-- SPOTIFY-END -->
