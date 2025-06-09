@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d4cd1945d81d715bda6f0014" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273584302fee10c0d0a12c40c97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8)**
-*by* **KID BRUNSWICK**
-*Album:* Heaven Without You
+**🎵 [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)**
+*by* **Sade**
+*Album:* Promise
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:55
+    2:22 • 6:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[SWITCHBLADE](https://open.spotify.com/track/1VwZlU73rsLYhcJt40aA5a)** by **WesGhost** *(DON'T WORRY, I'LL BE FINE)*
+🎤 **[Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8)** by **KID BRUNSWICK** *(Heaven Without You)*
 🎤 **[Leathers](https://open.spotify.com/track/0RLhtEt50QUwKXNwKI4dSJ)** by **Deftones** *(Koi No Yokan)*
 🎤 **[Major Crimes](https://open.spotify.com/track/3nh5RSXnRSHWuQbOJvQr0g)** by **HEALTH, Window Weather** *(Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack))*
 🎤 **[Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)** by **Pixies** *(Surfer Rosa (2007 Remaster))*
-🎤 **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)*
-🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 21:42:01Z UTC
+🕐 Last updated: 2025-06-09 21:49:29Z UTC
 <!-- SPOTIFY-END -->
