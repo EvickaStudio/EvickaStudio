@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)**
+*by* **Current Joys**
+*Album:* A Different Age
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="255" height="4" fill="#1db954" rx="2"/>
+    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:04 • 3:36
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[40 Days](https://open.spotify.com/track/4qyJE4D584f7qJCRSy7HOE)** by **Slowdive** *(Souvlaki)*
-🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[Hole in the Earth](https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB)** by **Deftones** *(Saturday Night Wrist)*
-🎤 **[Black Milk](https://open.spotify.com/track/1Rezzt36ybaT2ZbDZpv83D)** by **Massive Attack, Elizabeth Fraser** *(Mezzanine)*
-🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
+🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
+🎤 **[Fade - Slowed Down](https://open.spotify.com/track/4xOGaI5x6bPGuvobDufzT8)** by **Alex Lustig, Sølv** *(Fade (Extended))*
+🎤 **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Mary](https://open.spotify.com/track/36TbBJ7mLPOZMAYs0p4mxb)** by **Alex G** *(Trick)*
+🎤 **[You Don't Love Me (No, No, No) - Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ)** by **Dawn Penn** *(No, No, No)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 07:12:50Z UTC
+🕐 Last updated: 2025-06-10 07:30:23Z UTC
 <!-- SPOTIFY-END -->
