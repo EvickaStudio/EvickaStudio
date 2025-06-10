@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736df16a6861c9c4765fb9b36b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c1f6d2a405c71584e27a0b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In Europe, Kinda Sad](https://open.spotify.com/track/7AS495TUkmqZtlEiL8Pcp0)**
-*by* **1tbsp**
-*Album:* In Europe, Kinda Sad
+**🎵 [Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)**
+*by* **OG Florin**
+*Album:* ILY<3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:33 • 5:40
+    3:04 • 4:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Awake - Live at Studio Tessmar](https://open.spotify.com/track/106LPFFVp2Q4yx13qeYRbD)** by **orbit** *(Perspectives (Live Session))*
+🎤 **[Velvet Ring - 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP)** by **Big Thief** *(Masterpiece (2023 Remaster))*
+🎤 **[In Europe, Kinda Sad](https://open.spotify.com/track/7AS495TUkmqZtlEiL8Pcp0)** by **1tbsp** *(In Europe, Kinda Sad)*
 🎤 **[меланхолия нимфоманки](https://open.spotify.com/track/6KKL9RAnoPWNimC6TwLhQO)** by **vecher 1998** *(меланхолия нимфоманки)*
 🎤 **[wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN)** by **Jake Antonio** *(wants and needs)*
-🎤 **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz)** by **Crystal Waters, The Basement Boys** *(Surprise)*
-🎤 **[Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)** by **BICEP** *(Bicep)*
-🎤 **[Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5)** by **100 gecs** *(10,000 gecs)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 11:27:19Z UTC
+🕐 Last updated: 2025-06-10 11:37:58Z UTC
 <!-- SPOTIFY-END -->
