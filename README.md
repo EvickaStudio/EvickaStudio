@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d4322a9004288009f6da2975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736df16a6861c9c4765fb9b36b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)**
-*by* **BICEP**
-*Album:* Bicep
+**🎵 [In Europe, Kinda Sad](https://open.spotify.com/track/7AS495TUkmqZtlEiL8Pcp0)**
+*by* **1tbsp**
+*Album:* In Europe, Kinda Sad
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 4:29
+    3:33 • 5:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[меланхолия нимфоманки](https://open.spotify.com/track/6KKL9RAnoPWNimC6TwLhQO)** by **vecher 1998** *(меланхолия нимфоманки)*
+🎤 **[wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN)** by **Jake Antonio** *(wants and needs)*
+🎤 **[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz)** by **Crystal Waters, The Basement Boys** *(Surprise)*
+🎤 **[Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)** by **BICEP** *(Bicep)*
 🎤 **[Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5)** by **100 gecs** *(10,000 gecs)*
-🎤 **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)*
-🎤 **[Fahrradsattel](https://open.spotify.com/track/0P0nhrK36P885ltXsdRovK)** by **Pisse** *(Kohlrübenwinter)*
-🎤 **[Digital Silence](https://open.spotify.com/track/05UdmOwDMr4LsAk56AFfsE)** by **Peter McPoland** *(Piggy)*
-🎤 **[Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo)** by **Lebanon Hanover** *(Tomb for Two)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 11:11:09Z UTC
+🕐 Last updated: 2025-06-10 11:27:19Z UTC
 <!-- SPOTIFY-END -->
