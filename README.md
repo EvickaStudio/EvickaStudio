@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1509c9a483365e651ce223e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c540d2b785636ef4baf0acc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My)**
-*by* **Rick James**
-*Album:* Come Get It! (Expanded Edition)
+**🎵 [888](https://open.spotify.com/track/4He8osOTt4dzl3HTHcjP43)**
+*by* **SWEET SPINE**
+*Album:* 888
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:07 • 4:57
+    0:16 • 3:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)*
-🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
-🎤 **[I'm On My Own](https://open.spotify.com/track/1O3NUmt3lxCl4LCG9XjNam)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
-🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
+🎤 **[Not Worth It](https://open.spotify.com/track/1XLRbmOA8GbWDVQhAt2JQK)** by **ZillaKami** *(DOG BOY)*
+🎤 **[A Sad Cartoon](https://open.spotify.com/track/2fyDWKsx5904KnZMGllmAv)** by **Loathe** *(I Let It in and It Took Everything)*
+🎤 **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))*
+🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
+🎤 **[Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3)** by **Kali Uchis** *(Red Moon In Venus)*
 
 
 
@@ -151,8 +151,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🎶 Top Tracks *(Short Term)*
 
-❌ Error fetching top tracks.
+No top tracks data available.
 
 
-🕐 Last updated: 2025-06-10 17:49:04Z UTC
+🕐 Last updated: 2025-06-10 18:17:52Z UTC
 <!-- SPOTIFY-END -->
