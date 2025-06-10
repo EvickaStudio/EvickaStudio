@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c1e3d3c3c0230977a2eb5c3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273567a71695181017949f14f99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mary's Theme](https://open.spotify.com/track/2wo8xxzFHcB7WorvcIBkfD)**
-*by* **Stelvio Cipriani**
-*Album:* Femina Ridens (Original Motion Picture Soundtrack)
+**🎵 [You Know You Like It](https://open.spotify.com/track/57kR5SniQIbsbVoIjjOUDa)**
+*by* **DJ Snake, AlunaGeorge**
+*Album:* You Know You Like It
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:10
+    1:01 • 4:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Mexican Dream](https://open.spotify.com/track/1quput6F30wXk7Ym6XMPvS)** by **Piero Piccioni** *(Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack))*
-🎤 **[Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh)** by **Aphex Twin** *(Drukqs)*
-🎤 **[Alone](https://open.spotify.com/track/1lHqf91hPyXG3QrJ4PlsDc)** by **ayrtn** *(Ghost...)*
-🎤 **[Black Beatles / Pockets Full of Charlie](https://open.spotify.com/track/5a77KLwcApmJi9Li9seC0M)** by **EsDeeKid Archive** *(Black Beatles / Pockets Full of Charlie)*
-🎤 **[Arc'teryx](https://open.spotify.com/track/6yHFVcu3QgKyHMNGLFNYzG)** by **YT** *(Arc'teryx)*
+🎤 **[Lost in the Fire (feat. The Weeknd)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS)** by **Gesaffelstein, The Weeknd** *(Hyperion)*
+🎤 **[Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz)** by **Drake** *(More Life)*
+🎤 **[Greenpoint](https://open.spotify.com/track/5MXTc01uCrzj6p6NbNwXUy)** by **Elijah Fox** *(City in the Sky (Piano Works))*
+🎤 **[Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA)** by **Ludwig Göransson** *(Oppenheimer (Original Motion Picture Soundtrack))*
+🎤 **[Mary's Theme](https://open.spotify.com/track/2wo8xxzFHcB7WorvcIBkfD)** by **Stelvio Cipriani** *(Femina Ridens (Original Motion Picture Soundtrack))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 20:34:23Z UTC
+🕐 Last updated: 2025-06-10 20:48:19Z UTC
 <!-- SPOTIFY-END -->
