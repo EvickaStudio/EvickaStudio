@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733c814f8afa852904e9db8a9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c2c19a5a47ec89f9ccbf09f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM)**
-*by* **Darius Rucker**
-*Album:* True Believers
+**🎵 [waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)**
+*by* **Ripsquad Archive**
+*Album:* waitt2Rs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:28 • 4:58
+    0:24 • 3:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14)** by **Marty Robbins** *(Gunfighter Ballads And Trail Songs)*
-🎤 **[Dial Drunk (with Post Malone)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK)** by **Noah Kahan, Post Malone** *(Dial Drunk (with Post Malone))*
-🎤 **[Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE)** by **Tyler Childers** *(Purgatory)*
-🎤 **[Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723)** by **Frank Ocean** *(channel ORANGE)*
-🎤 **[Swang](https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL)** by **Rae Sremmurd** *(SremmLife 2 (Deluxe))*
+🎤 **[Silver Springs - 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC)** by **Fleetwood Mac** *(Rumours (Super Deluxe))*
+🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
+🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
+🎤 **[Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G)** by **Zach Bryan** *(Burn, Burn, Burn)*
+🎤 **[Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM)** by **Darius Rucker** *(True Believers)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 21:12:31Z UTC
+🕐 Last updated: 2025-06-10 21:30:02Z UTC
 <!-- SPOTIFY-END -->
