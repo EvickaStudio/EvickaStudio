@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273db060eca4487746c7307a965" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [My Boo - Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU)**
-*by* **Ghost Town DJs**
-*Album:* My Boo (Hitman's Club Mix)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="127" height="4" fill="#1db954" rx="2"/>
-    <circle cx="127" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 5:46
-</span>
-</p>
+❌ Error fetching now playing track.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8)** by **Earth, Wind & Fire** *(Raise!)*
-🎤 **[Hot Stuff - 12" Version](https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg)** by **Donna Summer** *(Bad Girls (Deluxe Edition))*
-🎤 **[You Make Me Feel (Mighty Real)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ)** by **Sylvester** *(Step II)*
-🎤 **[Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG)** by **CHIC** *(Risqué)*
-🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
+🎤 **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[141 Schneeschieber](https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP)** by **TAKTSTÖRER** *(141 Schneeschieber)*
+🎤 **[Xenozis](https://open.spotify.com/track/59yfwAIsmdmNZBPXg966xu)** by **Tevvez** *(Xenozis)*
+🎤 **[CARNIVAL](https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq)** by **¥$, Kanye West, Ty Dolla $ign** *(VULTURES 1)*
+🎤 **[predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl)** by **aldn** *(predictable)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 01:03:20Z UTC
+🕐 Last updated: 2025-06-10 02:56:06Z UTC
 <!-- SPOTIFY-END -->
