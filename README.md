@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d3e47e52f8f218c9ba12b8eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27381727cf46d21d415690a743d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x)**
-*by* **10cc**
-*Album:* The Original Soundtrack
+**🎵 [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)**
+*by* **Delta Spirit**
+*Album:* Delta Spirit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:50 • 6:06
+    2:56 • 3:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5)** by **Steely Dan** *(Can't Buy A Thrill)*
-🎤 **[Silver Springs - 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC)** by **Fleetwood Mac** *(Rumours (Super Deluxe))*
-🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
-🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
-🎤 **[Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE)** by **Tyler Childers** *(Purgatory)*
+🎤 **[Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC)** by **Nick Drake** *(Pink Moon)*
+🎤 **[After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v)** by **Mr.Kitty** *(Time)*
+🎤 **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
+🎤 **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)*
+🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 22:12:20Z UTC
+🕐 Last updated: 2025-06-10 22:34:04Z UTC
 <!-- SPOTIFY-END -->
