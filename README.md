@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735dea29c48ba78738305f36ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733016a78232d08129409756f4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [A Quick One Before the Eternal Worm Devours Appalachia](https://open.spotify.com/track/5UJD2UkKSsRYeyii3MdRhp)**
-*by* **Lizard in the Spring**
-*Album:* A Quick One Before the Eternal Worm Devours Appalachia
+**🎵 [Crossfire](https://open.spotify.com/track/5lJH3o6AFW9Aig1CdRdAF1)**
+*by* **Stephen**
+*Album:* Sincerely
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:23 • 5:22
+    4:05 • 4:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[hospital beach](https://open.spotify.com/track/47rZJ6OpbxEzNmnkTpKkhI)** by **Cottonwood Firing Squad** *(you missed the best part)*
-🎤 **[G6 Anthem](https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN)** by **Lucy Bedroque** *(Unmusique)*
-🎤 **[No Wind Resistance!](https://open.spotify.com/track/5zgkOLH6HfY5w8thZoS2jP)** by **Kinneret** *(DMZ)*
-🎤 **[paystub](https://open.spotify.com/track/3ioDzr76vQzmr4KF9XivId)** by **ericdoa** *(DOA)*
-🎤 **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by **MGMT** *(Little Dark Age)*
+🎤 **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)*
+🎤 **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)*
+🎤 **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)*
+🎤 **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)*
+🎤 **[Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0)** by **Cage The Elephant** *(Melophobia)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 10:14:05Z UTC
+🕐 Last updated: 2025-06-10 10:39:47Z UTC
 <!-- SPOTIFY-END -->
