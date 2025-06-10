@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c34d1fd03be443e6c1e5e257" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c1e3d3c3c0230977a2eb5c3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wish You Were Mine - Slowed + Reverb](https://open.spotify.com/track/45SQjLg3N9I6nAIRcwUzOh)**
-*by* **skyemane**
-*Album:* Wish You Were Mine (Slowed + Reverb)
+**🎵 [Mary's Theme](https://open.spotify.com/track/2wo8xxzFHcB7WorvcIBkfD)**
+*by* **Stelvio Cipriani**
+*Album:* Femina Ridens (Original Motion Picture Soundtrack)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 3:44
+    0:32 • 2:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Can you kiss me first](https://open.spotify.com/track/2RJD6EyGDQVg1Ow2vfVrqp)** by **College** *(Teenage color Ep)*
-🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[RESTLESS](https://open.spotify.com/track/2o7kgmWRr9g3FYSpW13RrS)** by **Lestmor** *(RESTLESS)*
-🎤 **[Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx)** by **Yellowcard** *(Ocean Avenue)*
-🎤 **[Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2)** by **Kings of Leon** *(Only By The Night)*
+🎤 **[Mexican Dream](https://open.spotify.com/track/1quput6F30wXk7Ym6XMPvS)** by **Piero Piccioni** *(Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack))*
+🎤 **[Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh)** by **Aphex Twin** *(Drukqs)*
+🎤 **[Alone](https://open.spotify.com/track/1lHqf91hPyXG3QrJ4PlsDc)** by **ayrtn** *(Ghost...)*
+🎤 **[Black Beatles / Pockets Full of Charlie](https://open.spotify.com/track/5a77KLwcApmJi9Li9seC0M)** by **EsDeeKid Archive** *(Black Beatles / Pockets Full of Charlie)*
+🎤 **[Arc'teryx](https://open.spotify.com/track/6yHFVcu3QgKyHMNGLFNYzG)** by **YT** *(Arc'teryx)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 20:14:20Z UTC
+🕐 Last updated: 2025-06-10 20:34:23Z UTC
 <!-- SPOTIFY-END -->
