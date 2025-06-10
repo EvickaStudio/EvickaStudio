@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27303698799fc2c3b803631702b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d3e47e52f8f218c9ba12b8eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)**
-*by* **Plymhides**
-*Album:* Special
+**🎵 [I'm Not In Love](https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x)**
+*by* **10cc**
+*Album:* The Original Soundtrack
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:50
+    3:50 • 6:06
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
-🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5)** by **Steely Dan** *(Can't Buy A Thrill)*
+🎤 **[Silver Springs - 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC)** by **Fleetwood Mac** *(Rumours (Super Deluxe))*
+🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
+🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
+🎤 **[Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE)** by **Tyler Childers** *(Purgatory)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 21:49:08Z UTC
+🕐 Last updated: 2025-06-10 22:12:20Z UTC
 <!-- SPOTIFY-END -->
