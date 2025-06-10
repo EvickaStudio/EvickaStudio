@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ec93734d42345154b422c8d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318c6750a7de879dbe57dc9b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1)**
-*by* **The Marías**
-*Album:* CINEMA
+**🎵 [Fly-day Chinatown](https://open.spotify.com/track/73yXCwINoNqUBJRAgPJPsY)**
+*by* **泰葉**
+*Album:* TRANSIT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="184" height="4" fill="#1db954" rx="2"/>
-    <circle cx="184" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 4:13
+    0:51 • 3:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Birds Dont Sing](https://open.spotify.com/track/21LkHnuxPxVrOZ5gCaG7aM)** by **TV Girl** *(French Exit)*
-🎤 **[Fake Loathe](https://open.spotify.com/track/54BsnN2gPNna9aGGDKe0jf)** by **Blue Iverson** *(Hotep)*
-🎤 **[Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q)** by **Vendredi sur Mer** *(Premiers émois)*
-🎤 **[Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i)** by **Ne-Yo** *(Year Of The Gentleman)*
-🎤 **[Unplanned](https://open.spotify.com/track/1XvqBaBiyOowzxSUD3G09b)** by **Clara La San** *(Good Mourning)*
+🎤 **[Computerliebe (Die Module spielen verrückt)](https://open.spotify.com/track/3CtuGidVS3Tt6vDG25rRdz)** by **Paso Doble** *(Fantasie [Deluxe Edition])*
+🎤 **[Disintegration - Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW)** by **The Cure** *(Disintegration (Deluxe Edition))*
+🎤 **[Unloveable - 2017 Master](https://open.spotify.com/track/14WNN9XlshGSckMBNcP6Ez)** by **The Smiths** *(The Queen Is Dead (Deluxe Edition))*
+🎤 **[Major Tom (Völlig losgelöst) - Single Version](https://open.spotify.com/track/6u0F8YTqdUic3gMpgTcNDX)** by **Peter Schilling** *(Major Tom (Völlig losgelöst) [All Versions])*
+🎤 **[Teenage Girl](https://open.spotify.com/track/0dbNBaBT018rXYpNf03Oya)** by **Cherry Glazerr** *(Papa Cremp)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 18:47:54Z UTC
+🕐 Last updated: 2025-06-10 19:09:55Z UTC
 <!-- SPOTIFY-END -->
