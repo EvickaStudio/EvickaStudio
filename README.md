@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e578f59632d549a53315586e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj)**
-*by* **ThxSoMch**
-*Album:* Would You?
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="248" height="4" fill="#1db954" rx="2"/>
-    <circle cx="248" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 2:30
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[GROWING PAINS](https://open.spotify.com/track/0c2KWU0fM6QNGVPyOel6Qm)** by **o0o** *(GROWING PAINS)*
-🎤 **[XxX_TALLER_XxX](https://open.spotify.com/track/1OG2C2b1tS25GXHI3Sbxca)** by **DJmegan23, microsoft points** *(M2AF:)*
-🎤 **[your eyes](https://open.spotify.com/track/25r8Qz7RTm2uM9HgLLm7aB)** by **Merivana, suisside** *(your eyes)*
-🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
-🎤 **[Gloomy forest](https://open.spotify.com/track/5V7j5wgjp2Rf25EZ392Thp)** by **blawhitt** *(Gloomy forest)*
+🎤 **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)*
+🎤 **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)*
+🎤 **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by **a-ha** *(Hunting High and Low)*
+🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
+🎤 **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 08:18:12Z UTC
+🕐 Last updated: 2025-06-10 08:47:18Z UTC
 <!-- SPOTIFY-END -->
