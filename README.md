@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27345170fa4eb25befaa413d092" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)**
+*by* **Evanora Unlimited, Ecco2k**
+*Album:* Dibiyu
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:31 • 2:06
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
+🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
+🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
 🎤 **[Righteous](https://open.spotify.com/track/1xZCK1MXhE4EkHGYENzP9U)** by **Mo Beats** *(Righteous)*
 🎤 **[Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP)** by **ThxSoMch** *(Keep It Tucked)*
-🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 23:40:32Z UTC
+🕐 Last updated: 2025-06-10 23:47:50Z UTC
 <!-- SPOTIFY-END -->
