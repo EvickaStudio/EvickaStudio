@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e3d76ee42c4db6ea8c580765" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [picnic](https://open.spotify.com/track/6ZQ9NNvZL8Go6iU0Cwpce7)**
+*by* **i9bonsai**
+*Album:* picnic
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:29 • 2:38
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)*
-🎤 **[141 Schneeschieber](https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP)** by **TAKTSTÖRER** *(141 Schneeschieber)*
-🎤 **[Xenozis](https://open.spotify.com/track/59yfwAIsmdmNZBPXg966xu)** by **Tevvez** *(Xenozis)*
-🎤 **[CARNIVAL](https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq)** by **¥$, Kanye West, Ty Dolla $ign** *(VULTURES 1)*
-🎤 **[predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl)** by **aldn** *(predictable)*
+🎤 **[Shitfaced](https://open.spotify.com/track/6mA7x8nrj8TV93cSThm8JX)** by **d1v, swoopy, Buffalobang, Sg37, Opal** *(It's Complicated)*
+🎤 **[Loser](https://open.spotify.com/track/10Xz7fcllcjWkqNxD7GSmK)** by **Spira me, with3r** *(Pretender)*
+🎤 **[how im made](https://open.spotify.com/track/2YbU67O0ZQvZzH2304698r)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)*
+🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
+🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 02:56:06Z UTC
+🕐 Last updated: 2025-06-10 03:44:57Z UTC
 <!-- SPOTIFY-END -->
