@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737ed02c2537c4c00de58fa415" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)**
+*by* **Eera**
+*Album:* Cant Stop Wasting Time
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:27 • 2:11
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)** by **INTERWORLD** *(METAMORPHOSIS)*
+🎤 **[If You Care](https://open.spotify.com/track/7xCNNGCjueh2oU9k31Cesu)** by **akiaura, LONOWN, DJ Pointless** *(Destruction Age)*
+🎤 **[Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)** by **Gehlektek, TakaTuka** *(Acid Pirate 13)*
 🎤 **[Psycho Dreams](https://open.spotify.com/track/0Jk1o19bxKAFzt3BtD2fx3)** by **Kill Eva, ENCASSATOR** *(Psycho Dreams)*
 🎤 **[Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3)** by **Syn Cole** *(Feel Good)*
-🎤 **[Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK)** by **Gym Class Heroes** *(The Papercut Chronicles)*
-🎤 **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))*
-🎤 **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 09:14:29Z UTC
+🕐 Last updated: 2025-06-10 09:34:24Z UTC
 <!-- SPOTIFY-END -->
