@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732f439cdd9c519a227189bf3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love Reigns](https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw)**
-*by* **Mall Grab**
-*Album:* What I Breathe
+**🎵 [Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)**
+*by* **GoodBooks, Crystal Castles**
+*Album:* Control Freaks (The Remixes)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:14 • 4:54
+    1:16 • 4:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by **akiaura, LONOWN, Olya Holiday** *(Midnight Skin)*
-🎤 **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
-🎤 **[California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)** by **Delta Spirit** *(Delta Spirit)*
-🎤 **[Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC)** by **Nick Drake** *(Pink Moon)*
+🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
+🎤 **[Paradise Kiss](https://open.spotify.com/track/2deVFBK0cR6940I0wgfi6L)** by **Braxton Knight** *(Paradise Kiss)*
+🎤 **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b)** by **WEEDMANE, Suicideyear** *(SUICIDE YEAR)*
+🎤 **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by **Yung Lean** *(Unknown Memory)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 22:49:58Z UTC
+🕐 Last updated: 2025-06-10 23:11:55Z UTC
 <!-- SPOTIFY-END -->
