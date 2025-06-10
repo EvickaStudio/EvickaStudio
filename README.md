@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)**
-*by* **Kanye West**
-*Album:* The College Dropout
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 4:38
-</span>
-</p>
+❌ Error fetching now playing track.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW)** by **MGMT** *(Oracular Spectacular)*
-🎤 **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)*
-🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
-🎤 **[Kn1fe<3](https://open.spotify.com/track/7tyBMXkSI6G0xIEvFCfxzE)** by **DJmegan23, sophie meiers** *(Kn1fe<3)*
+🎤 **[40 Days](https://open.spotify.com/track/4qyJE4D584f7qJCRSy7HOE)** by **Slowdive** *(Souvlaki)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Hole in the Earth](https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB)** by **Deftones** *(Saturday Night Wrist)*
+🎤 **[Black Milk](https://open.spotify.com/track/1Rezzt36ybaT2ZbDZpv83D)** by **Massive Attack, Elizabeth Fraser** *(Mezzanine)*
+🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 06:49:05Z UTC
+🕐 Last updated: 2025-06-10 07:12:50Z UTC
 <!-- SPOTIFY-END -->
