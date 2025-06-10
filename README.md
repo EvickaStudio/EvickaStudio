@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27397f77dd83347bf87ac64558b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* Schnuffel
+**🎵 [Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)**
+*by* **Kanye West**
+*Album:* The College Dropout
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="196" height="4" fill="#1db954" rx="2"/>
-    <circle cx="196" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 3:15
+    0:58 • 4:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)*
-🎤 **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)*
-🎤 **[Hubba Bubba](https://open.spotify.com/track/1LhYl7a5VxCqpD1NgOhUJa)** by **Ski Aggu** *(2022 war film gewesen)*
-🎤 **[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)** by **DJ Traytex** *(All Good Things (Come To An End))*
-🎤 **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW)** by **MGMT** *(Oracular Spectacular)*
+🎤 **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)*
+🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
+🎤 **[Kn1fe<3](https://open.spotify.com/track/7tyBMXkSI6G0xIEvFCfxzE)** by **DJmegan23, sophie meiers** *(Kn1fe<3)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 06:18:46Z UTC
+🕐 Last updated: 2025-06-10 06:49:05Z UTC
 <!-- SPOTIFY-END -->
