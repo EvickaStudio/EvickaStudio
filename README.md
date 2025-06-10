@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)**
-*by* **Sun Kil Moon**
-*Album:* Ghosts of the Great Highway
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    9:11 • 14:32
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)** by **OG Florin** *(ILY<3)*
-🎤 **[Awake - Live at Studio Tessmar](https://open.spotify.com/track/106LPFFVp2Q4yx13qeYRbD)** by **orbit** *(Perspectives (Live Session))*
-🎤 **[Velvet Ring - 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP)** by **Big Thief** *(Masterpiece (2023 Remaster))*
-🎤 **[In Europe, Kinda Sad](https://open.spotify.com/track/7AS495TUkmqZtlEiL8Pcp0)** by **1tbsp** *(In Europe, Kinda Sad)*
-🎤 **[меланхолия нимфоманки](https://open.spotify.com/track/6KKL9RAnoPWNimC6TwLhQO)** by **vecher 1998** *(меланхолия нимфоманки)*
+🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
+🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)*
+🎤 **[Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)** by **Sun Kil Moon** *(Ghosts of the Great Highway)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 11:47:42Z UTC
+🕐 Last updated: 2025-06-10 12:26:04Z UTC
 <!-- SPOTIFY-END -->
