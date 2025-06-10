@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e578f59632d549a53315586e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O)**
-*by* **Bassvictim**
-*Album:* Basspunk
+**🎵 [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj)**
+*by* **ThxSoMch**
+*Album:* Would You?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 3:01
+    2:05 • 2:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12)** by **Zsá Zsá** *(bad bunnies)*
-🎤 **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))*
-🎤 **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)*
-🎤 **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)*
-🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
+🎤 **[GROWING PAINS](https://open.spotify.com/track/0c2KWU0fM6QNGVPyOel6Qm)** by **o0o** *(GROWING PAINS)*
+🎤 **[XxX_TALLER_XxX](https://open.spotify.com/track/1OG2C2b1tS25GXHI3Sbxca)** by **DJmegan23, microsoft points** *(M2AF:)*
+🎤 **[your eyes](https://open.spotify.com/track/25r8Qz7RTm2uM9HgLLm7aB)** by **Merivana, suisside** *(your eyes)*
+🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
+🎤 **[Gloomy forest](https://open.spotify.com/track/5V7j5wgjp2Rf25EZ392Thp)** by **blawhitt** *(Gloomy forest)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 07:47:55Z UTC
+🕐 Last updated: 2025-06-10 08:18:12Z UTC
 <!-- SPOTIFY-END -->
