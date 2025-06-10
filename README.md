@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a97cc86221a5d3302be26680" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273db060eca4487746c7307a965" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)**
-*by* **my!lane**
-*Album:* Sakura's Shadows
+**🎵 [My Boo - Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU)**
+*by* **Ghost Town DJs**
+*Album:* My Boo (Hitman's Club Mix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="127" height="4" fill="#1db954" rx="2"/>
+    <circle cx="127" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:32
+    2:27 • 5:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Society](https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1)** by **Pathetic** *(Society)*
-🎤 **[SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)** by **Sleepisformortals** *(SO DUMB)*
-🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
+🎤 **[Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8)** by **Earth, Wind & Fire** *(Raise!)*
+🎤 **[Hot Stuff - 12" Version](https://open.spotify.com/track/2Vnw8zKmjhr1jczUeaqiQg)** by **Donna Summer** *(Bad Girls (Deluxe Edition))*
+🎤 **[You Make Me Feel (Mighty Real)](https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ)** by **Sylvester** *(Step II)*
+🎤 **[Good Times](https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG)** by **CHIC** *(Risqué)*
+🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-09 23:49:22Z UTC
+🕐 Last updated: 2025-06-10 01:03:20Z UTC
 <!-- SPOTIFY-END -->
