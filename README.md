@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e3d76ee42c4db6ea8c580765" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d736b2c5f252f84ad45d5be6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [picnic](https://open.spotify.com/track/6ZQ9NNvZL8Go6iU0Cwpce7)**
-*by* **i9bonsai**
-*Album:* picnic
+**🎵 [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p)**
+*by* **Type O Negative**
+*Album:* Life Is Killing Me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="56" height="4" fill="#1db954" rx="2"/>
-    <circle cx="56" cy="2" r="6" fill="#1db954"/>
+    <rect width="284" height="4" fill="#1db954" rx="2"/>
+    <circle cx="284" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:38
+    4:52 • 5:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Shitfaced](https://open.spotify.com/track/6mA7x8nrj8TV93cSThm8JX)** by **d1v, swoopy, Buffalobang, Sg37, Opal** *(It's Complicated)*
-🎤 **[Loser](https://open.spotify.com/track/10Xz7fcllcjWkqNxD7GSmK)** by **Spira me, with3r** *(Pretender)*
-🎤 **[how im made](https://open.spotify.com/track/2YbU67O0ZQvZzH2304698r)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)*
-🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
-🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
+🎤 **[Schrei - 2006](https://open.spotify.com/track/2O3T4KTlTTV5Y4fCiAN4qq)** by **Tokio Hotel** *(Schrei (so laut du kannst) [New Version])*
+🎤 **[Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT)** by **Crystal Castles** *(Crystal Castles)*
+🎤 **[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)** by **Deftones** *(White Pony)*
+🎤 **[Perfekte Welle](https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK)** by **Juli** *(Es ist Juli)*
+🎤 **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 03:44:57Z UTC
+🕐 Last updated: 2025-06-10 04:15:38Z UTC
 <!-- SPOTIFY-END -->
