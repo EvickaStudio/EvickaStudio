@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318c6750a7de879dbe57dc9b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ebd62f6f29aa44187fddeaf3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fly-day Chinatown](https://open.spotify.com/track/73yXCwINoNqUBJRAgPJPsY)**
-*by* **泰葉**
-*Album:* TRANSIT
+**🎵 [BADDIE](https://open.spotify.com/track/3vufDB24xb1eaS0IBP39ah)**
+*by* **Ikkimel, Money Boy, Barré, GX488, kira on the phone**
+*Album:* FOTZE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 3:30
+    0:41 • 2:41
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Computerliebe (Die Module spielen verrückt)](https://open.spotify.com/track/3CtuGidVS3Tt6vDG25rRdz)** by **Paso Doble** *(Fantasie [Deluxe Edition])*
-🎤 **[Disintegration - Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW)** by **The Cure** *(Disintegration (Deluxe Edition))*
-🎤 **[Unloveable - 2017 Master](https://open.spotify.com/track/14WNN9XlshGSckMBNcP6Ez)** by **The Smiths** *(The Queen Is Dead (Deluxe Edition))*
-🎤 **[Major Tom (Völlig losgelöst) - Single Version](https://open.spotify.com/track/6u0F8YTqdUic3gMpgTcNDX)** by **Peter Schilling** *(Major Tom (Völlig losgelöst) [All Versions])*
-🎤 **[Teenage Girl](https://open.spotify.com/track/0dbNBaBT018rXYpNf03Oya)** by **Cherry Glazerr** *(Papa Cremp)*
+🎤 **[Locals (Girls like us) [with gabby start]](https://open.spotify.com/track/0MK6lVnmhVulpP62vkZBWV)** by **underscores, gabby start** *(Wallsocket)*
+🎤 **[Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh)** by **Stunna Sandy** *(Make It Look Sexy)*
+🎤 **[you've been a bad girl](https://open.spotify.com/track/6Gron8VFcNPwj7ZamJe7Pt)** by **Artemas** *(yustyna)*
+🎤 **[I'll Do It](https://open.spotify.com/track/7LG2yBVYNvx0avAxNpFNVV)** by **Sviral.** *(I'll Do It)*
+🎤 **[Fly-day Chinatown](https://open.spotify.com/track/73yXCwINoNqUBJRAgPJPsY)** by **泰葉** *(TRANSIT)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 19:09:55Z UTC
+🕐 Last updated: 2025-06-10 19:24:49Z UTC
 <!-- SPOTIFY-END -->
