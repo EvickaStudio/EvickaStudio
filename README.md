@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27385e5dcc05cc216a10f141480" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c34d1fd03be443e6c1e5e257" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Don't Look Back in Anger - Remastered](https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd)**
-*by* **Oasis**
-*Album:* (What's The Story) Morning Glory? [Remastered]
+**🎵 [Wish You Were Mine - Slowed + Reverb](https://open.spotify.com/track/45SQjLg3N9I6nAIRcwUzOh)**
+*by* **skyemane**
+*Album:* Wish You Were Mine (Slowed + Reverb)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:23 • 4:49
+    2:54 • 3:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC)** by **The Cure** *(Three Imaginary Boys)*
-🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
-🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by **Hole** *(Celebrity Skin)*
-🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[Can you kiss me first](https://open.spotify.com/track/2RJD6EyGDQVg1Ow2vfVrqp)** by **College** *(Teenage color Ep)*
+🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
+🎤 **[RESTLESS](https://open.spotify.com/track/2o7kgmWRr9g3FYSpW13RrS)** by **Lestmor** *(RESTLESS)*
+🎤 **[Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx)** by **Yellowcard** *(Ocean Avenue)*
+🎤 **[Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2)** by **Kings of Leon** *(Only By The Night)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 19:47:47Z UTC
+🕐 Last updated: 2025-06-10 20:14:20Z UTC
 <!-- SPOTIFY-END -->
