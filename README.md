@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)**
-*by* **Current Joys**
-*Album:* A Different Age
+**🎵 [Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O)**
+*by* **Bassvictim**
+*Album:* Basspunk
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+    <rect width="10" height="4" fill="#1db954" rx="2"/>
+    <circle cx="10" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:04 • 3:36
+    0:06 • 3:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12)** by **Zsá Zsá** *(bad bunnies)*
+🎤 **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))*
+🎤 **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)*
+🎤 **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)*
 🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
-🎤 **[Fade - Slowed Down](https://open.spotify.com/track/4xOGaI5x6bPGuvobDufzT8)** by **Alex Lustig, Sølv** *(Fade (Extended))*
-🎤 **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Mary](https://open.spotify.com/track/36TbBJ7mLPOZMAYs0p4mxb)** by **Alex G** *(Trick)*
-🎤 **[You Don't Love Me (No, No, No) - Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ)** by **Dawn Penn** *(No, No, No)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 07:30:23Z UTC
+🕐 Last updated: 2025-06-10 07:47:55Z UTC
 <!-- SPOTIFY-END -->
