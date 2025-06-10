@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ebd62f6f29aa44187fddeaf3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [BADDIE](https://open.spotify.com/track/3vufDB24xb1eaS0IBP39ah)**
-*by* **Ikkimel, Money Boy, Barré, GX488, kira on the phone**
-*Album:* FOTZE
+**🎵 [Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)**
+*by* **Hole**
+*Album:* Celebrity Skin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:41
+    4:25 • 5:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[BADDIE](https://open.spotify.com/track/3vufDB24xb1eaS0IBP39ah)** by **Ikkimel, Money Boy, Barré, GX488, kira on the phone** *(FOTZE)*
 🎤 **[Locals (Girls like us) [with gabby start]](https://open.spotify.com/track/0MK6lVnmhVulpP62vkZBWV)** by **underscores, gabby start** *(Wallsocket)*
 🎤 **[Make It Look Sexy](https://open.spotify.com/track/2lqHDG4oecllOc2GyeKOZh)** by **Stunna Sandy** *(Make It Look Sexy)*
 🎤 **[you've been a bad girl](https://open.spotify.com/track/6Gron8VFcNPwj7ZamJe7Pt)** by **Artemas** *(yustyna)*
-🎤 **[I'll Do It](https://open.spotify.com/track/7LG2yBVYNvx0avAxNpFNVV)** by **Sviral.** *(I'll Do It)*
-🎤 **[Fly-day Chinatown](https://open.spotify.com/track/73yXCwINoNqUBJRAgPJPsY)** by **泰葉** *(TRANSIT)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 19:24:49Z UTC
+🕐 Last updated: 2025-06-10 19:34:06Z UTC
 <!-- SPOTIFY-END -->
