@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c540d2b785636ef4baf0acc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ec93734d42345154b422c8d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [888](https://open.spotify.com/track/4He8osOTt4dzl3HTHcjP43)**
-*by* **SWEET SPINE**
-*Album:* 888
+**🎵 [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1)**
+*by* **The Marías**
+*Album:* CINEMA
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 3:34
+    2:35 • 4:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Not Worth It](https://open.spotify.com/track/1XLRbmOA8GbWDVQhAt2JQK)** by **ZillaKami** *(DOG BOY)*
-🎤 **[A Sad Cartoon](https://open.spotify.com/track/2fyDWKsx5904KnZMGllmAv)** by **Loathe** *(I Let It in and It Took Everything)*
-🎤 **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))*
-🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
-🎤 **[Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3)** by **Kali Uchis** *(Red Moon In Venus)*
+🎤 **[Birds Dont Sing](https://open.spotify.com/track/21LkHnuxPxVrOZ5gCaG7aM)** by **TV Girl** *(French Exit)*
+🎤 **[Fake Loathe](https://open.spotify.com/track/54BsnN2gPNna9aGGDKe0jf)** by **Blue Iverson** *(Hotep)*
+🎤 **[Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q)** by **Vendredi sur Mer** *(Premiers émois)*
+🎤 **[Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i)** by **Ne-Yo** *(Year Of The Gentleman)*
+🎤 **[Unplanned](https://open.spotify.com/track/1XvqBaBiyOowzxSUD3G09b)** by **Clara La San** *(Good Mourning)*
 
 
 
@@ -151,8 +151,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🎶 Top Tracks *(Short Term)*
 
-No top tracks data available.
+🥇 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+🥈 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+🥉 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
+🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
+🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 18:17:52Z UTC
+🕐 Last updated: 2025-06-10 18:47:54Z UTC
 <!-- SPOTIFY-END -->
