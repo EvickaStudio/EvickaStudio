@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730bfc38d01a4510e6da138cd5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27303698799fc2c3b803631702b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)**
-*by* **Olmatri, SlushhKitten**
-*Album:* Zwei Welten
+**🎵 [Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)**
+*by* **Plymhides**
+*Album:* Special
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="167" height="4" fill="#1db954" rx="2"/>
-    <circle cx="167" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:33
+    1:58 • 2:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
+🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
+🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
 🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
 🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
-🎤 **[Silver Springs - 2004 Remaster](https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC)** by **Fleetwood Mac** *(Rumours (Super Deluxe))*
-🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 21:41:46Z UTC
+🕐 Last updated: 2025-06-10 21:49:08Z UTC
 <!-- SPOTIFY-END -->
