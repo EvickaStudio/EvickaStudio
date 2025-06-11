@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d920d65d4e7c30cedc5eb53" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273877095373e9e719feaae2f70" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)**
-*by* **White Town**
-*Album:* Women in Technology
+**🎵 [Faster n Harder (w/ Tara Yummy)](https://open.spotify.com/track/3Llmkp7FprXaaLwTjDPjX2)**
+*by* **6arelyhuman, Tara Yummy**
+*Album:* Faster n Harder (w/ Tara Yummy)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="58" height="4" fill="#1db954" rx="2"/>
+    <circle cx="58" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 4:19
+    0:23 • 2:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Be My Angel](https://open.spotify.com/track/3R6kyOmqWcAsqZqqe9CGL0)** by **Mazzy Star** *(She Hangs Brightly)*
-🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi)** by **U96** *(Club Bizarre)*
-🎤 **[режу](https://open.spotify.com/track/1hIBMIvH1wWRscC5AZ5JBm)** by **Psychosis** *(голод)*
-🎤 **[Lovedata](https://open.spotify.com/track/0byrx9AGVNLUhMrZBuHZNC)** by **Heatace** *(Lovedata)*
+🎤 **[Ocean](https://open.spotify.com/track/6i51XkiNGhMc856cfuISEc)** by **orbit** *(Summer Someday)*
+🎤 **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[Borderline](https://open.spotify.com/track/7wJb5QGiP64QWsI3ApSqaB)** by **6host** *(Borderline)*
+🎤 **[Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ)** by **Harmless** *(I'm Sure)*
+🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 05:50:56Z UTC
+🕐 Last updated: 2025-06-11 06:19:07Z UTC
 <!-- SPOTIFY-END -->
