@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27380f13ef9d8602427bdf88984" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)**
-*by* **H3artcrush, Punkinloveee**
-*Album:* Freak Show
+**🎵 [Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
+*by* **Good Kid**
+*Album:* Good Kid 4
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="59" height="4" fill="#1db954" rx="2"/>
-    <circle cx="59" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 2:05
+    1:29 • 3:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
-🎤 **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)*
-🎤 **[nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG)** by **camoufly, Dazegxd** *(nothing left 2 say / give u everything)*
-🎤 **[Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc)** by **Charli xcx** *(Pop 2)*
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by **Flawless Issues** *(Cut the Rope)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)*
+🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
+🎤 **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by **EKKSTACY** *(NEGATIVE)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 04:48:19Z UTC
+🕐 Last updated: 2025-06-11 05:14:02Z UTC
 <!-- SPOTIFY-END -->
