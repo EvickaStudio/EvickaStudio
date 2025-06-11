@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736ebdd8068060dfb00e588efa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fed2de7f38d3c59404009673" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Crystal Blue](https://open.spotify.com/track/5pUiPwQNv9LeNs7KLIkiPB)**
-*by* **Silent Boy, Sace, defyer**
-*Album:* Crystal Blue
+**🎵 [Chrysalis](https://open.spotify.com/track/6RsiADhOnDmMjmvAWbuEME)**
+*by* **Bby Eco**
+*Album:* O₂O
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:34
+    0:31 • 2:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
 🎤 **[PRETTYLIES](https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU)** by **hxly xo** *(Umbrae)*
 🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
 🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
 🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 22:12:17Z UTC
+🕐 Last updated: 2025-06-11 22:33:45Z UTC
 <!-- SPOTIFY-END -->
