@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273016b62b14afd38fbf9c05576" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c30c9d1ef0396091063a7e70" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lover For Tonight](https://open.spotify.com/track/6URF4E3yKBStbZoou3J9Ol)**
+**🎵 [Sometimes](https://open.spotify.com/track/2aSiaWovCvK3bu7nf2CkSE)**
 *by* **.com**
-*Album:* Lover For Tonight
+*Album:* Sometimes
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:27
+    0:58 • 2:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[egirl195](https://open.spotify.com/track/3QHk7GD33O69lt6rNeEad3)** by **Loser64** *(egirl195)*
-🎤 **[Within and Apart](https://open.spotify.com/track/6AWdqnTYWflgLpp245rrBr)** by **Orchid Mantis** *(Far From This World)*
-🎤 **[just disappear](https://open.spotify.com/track/1vyzpxoYnE4Frk3y2v6XiN)** by **Enkei, wiv2, wiv** *(just disappear)*
-🎤 **[angel](https://open.spotify.com/track/35YjuzZevlQNidhmj2jKYu)** by **Øneheart, aysi** *(angel)*
-🎤 **[just disappear](https://open.spotify.com/track/1vyzpxoYnE4Frk3y2v6XiN)** by **Enkei, wiv2, wiv** *(just disappear)*
+🎤 **[desperate ex gf](https://open.spotify.com/track/6YZC0Gk88dnF4BZs0aAv7a)** by **Faerybabyy** *(Jabbermouth)*
+🎤 **[Pile Of Glass](https://open.spotify.com/track/2GTUTHbWgPANXLtsWmJzen)** by **Kanpeki** *(Love Me Or Kill Me)*
+🎤 **[Naive](https://open.spotify.com/track/79czPfl52BLZvhZ89JzauG)** by **DJ_Dave, Sipper** *(Naive)*
+🎤 **[Like You - DJ_Dave Edit](https://open.spotify.com/track/4uGQLBrs4i0H33N1TClM8Y)** by **Bby Eco, DJ_Dave** *(O₂O⁺)*
+🎤 **[Hello Juliet](https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX)** by **Clarion** *(Clarion)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 23:13:22Z UTC
+🕐 Last updated: 2025-06-11 23:31:16Z UTC
 <!-- SPOTIFY-END -->
