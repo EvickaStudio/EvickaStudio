@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273897de13d496e00c2d72f8ee1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27357e5c71b87b4f0a1eebe8052" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1)**
-*by* **PinkPantheress, Sam Gellaitry**
-*Album:* Picture in my mind
+**🎵 [Alpha](https://open.spotify.com/track/3Gtha3Fwdu0yqpphxjXiTo)**
+*by* **Tevvez**
+*Album:* Alpha
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="83" height="4" fill="#1db954" rx="2"/>
+    <circle cx="83" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 2:56
+    1:08 • 4:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
-🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
-🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
-🎤 **[Raindrops](https://open.spotify.com/track/52TTlu9jMl55vDnXnwQkcs)** by **Nokia Angel** *(Raindrops)*
+🎤 **[Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)** by **Empire Of The Sun** *(Ice On The Dune)*
+🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
+🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
+🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
+🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
 
 
 
@@ -154,9 +154,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 🥈 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 🥉 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
+🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-11 01:02:53Z UTC
+🕐 Last updated: 2025-06-11 02:54:49Z UTC
 <!-- SPOTIFY-END -->
