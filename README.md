@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27345170fa4eb25befaa413d092" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273897de13d496e00c2d72f8ee1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)**
-*by* **Evanora Unlimited, Ecco2k**
-*Album:* Dibiyu
+**🎵 [Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1)**
+*by* **PinkPantheress, Sam Gellaitry**
+*Album:* Picture in my mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:06
+    2:21 • 2:56
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
-🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
-🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
-🎤 **[Righteous](https://open.spotify.com/track/1xZCK1MXhE4EkHGYENzP9U)** by **Mo Beats** *(Righteous)*
-🎤 **[Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP)** by **ThxSoMch** *(Keep It Tucked)*
+🎤 **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
+🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
+🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
+🎤 **[Raindrops](https://open.spotify.com/track/52TTlu9jMl55vDnXnwQkcs)** by **Nokia Angel** *(Raindrops)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-10 23:47:50Z UTC
+🕐 Last updated: 2025-06-11 01:02:53Z UTC
 <!-- SPOTIFY-END -->
