@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c0a7f8d483d355d834e5cb1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273016b62b14afd38fbf9c05576" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Human Attire](https://open.spotify.com/track/3PgcvLwiKyWeyCuUDpqbkk)**
-*by* **Clarion**
-*Album:* Clarion
+**🎵 [Lover For Tonight](https://open.spotify.com/track/6URF4E3yKBStbZoou3J9Ol)**
+*by* **.com**
+*Album:* Lover For Tonight
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="28" height="4" fill="#1db954" rx="2"/>
+    <circle cx="28" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 3:12
+    0:13 • 2:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk)** by **Pearly Drops** *(Call For Help)*
-🎤 **[Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)** by **ear** *(Nerves)*
-🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
-🎤 **[PRETTYLIES](https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU)** by **hxly xo** *(Umbrae)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[egirl195](https://open.spotify.com/track/3QHk7GD33O69lt6rNeEad3)** by **Loser64** *(egirl195)*
+🎤 **[Within and Apart](https://open.spotify.com/track/6AWdqnTYWflgLpp245rrBr)** by **Orchid Mantis** *(Far From This World)*
+🎤 **[just disappear](https://open.spotify.com/track/1vyzpxoYnE4Frk3y2v6XiN)** by **Enkei, wiv2, wiv** *(just disappear)*
+🎤 **[angel](https://open.spotify.com/track/35YjuzZevlQNidhmj2jKYu)** by **Øneheart, aysi** *(angel)*
+🎤 **[just disappear](https://open.spotify.com/track/1vyzpxoYnE4Frk3y2v6XiN)** by **Enkei, wiv2, wiv** *(just disappear)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 22:49:52Z UTC
+🕐 Last updated: 2025-06-11 23:13:22Z UTC
 <!-- SPOTIFY-END -->
