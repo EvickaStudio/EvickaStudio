@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e6988b763326740b2bb46650" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a88381635ea5e3b91c37a81f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)**
-*by* **Good Kid**
-*Album:* Good Kid 4
+**🎵 [Lovedata](https://open.spotify.com/track/0byrx9AGVNLUhMrZBuHZNC)**
+*by* **Heatace**
+*Album:* Lovedata
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+    <rect width="204" height="4" fill="#1db954" rx="2"/>
+    <circle cx="204" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 3:32
+    2:21 • 3:26
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by **Flawless Issues** *(Cut the Rope)*
-🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
-🎤 **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)*
-🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
-🎤 **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by **EKKSTACY** *(NEGATIVE)*
+🎤 **[Орион](https://open.spotify.com/track/7CUUDCtHRZUTJ0jUaBeMOY)** by **DSPRITE** *(Lithium)*
+🎤 **[горный мёд](https://open.spotify.com/track/2MtzvTS2cthbh5ExTRAz9Q)** by **лампочка34** *(горный мёд)*
+🎤 **[Not Who I Used to Be](https://open.spotify.com/track/4CYD4fOEs9nswlGAAqz4C9)** by **blood moon** *(Mayura)*
+🎤 **[Air Bnb Sonnet](https://open.spotify.com/track/2RH5vqBNPnuXkJvuumNmxr)** by **The Hellp** *(Enemy)*
+🎤 **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 05:14:02Z UTC
+🕐 Last updated: 2025-06-11 05:35:23Z UTC
 <!-- SPOTIFY-END -->
