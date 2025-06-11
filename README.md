@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27336e04e1268654b842794c3db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27331a1a6e5e73647571d865a28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)**
-*by* **S1RENA**
-*Album:* Atlantis
+**🎵 [fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)**
+*by* **mint**
+*Album:* fresh air x
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:21
+    1:18 • 2:17
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
+🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
+🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
+🎤 **[Kachba Junge](https://open.spotify.com/track/4zbtIcZGMJgOeA4TB13vEN)** by **Aachen Demon** *(Kachba Junge)*
 🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
-🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
-🎤 **[keiner könnte](https://open.spotify.com/track/1HSOwusn1V6Rj1es4iFrPQ)** by **5star** *(keiner könnte)*
-🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
-🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 14:51:38Z UTC
+🕐 Last updated: 2025-06-11 15:14:12Z UTC
 <!-- SPOTIFY-END -->
