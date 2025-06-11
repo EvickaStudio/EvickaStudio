@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c475ea69b1597db49c62874" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735911dc1602a9d100ebe955fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)**
-*by* **Edwin Rosen**
-*Album:* 21 Nächte wach
+**🎵 [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8)**
+*by* **PinkPantheress**
+*Album:* Boy's a liar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 2:42
+    1:33 • 2:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[mr. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ)** by **EKKSTACY** *(mr. mole)*
-🎤 **[The righteous wrath of an honorable man](https://open.spotify.com/track/4h9x2ICDsuzxMwSJCkliLp)** by **Colin Stetson** *(New History Warfare Vol. 2: Judges)*
-🎤 **[Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
-🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
+🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[Popstars](https://open.spotify.com/track/3AI9xPLbQyU0l09p2ND9AW)** by **Kill Eva, Мэйби Бэйби** *(Popstars)*
+🎤 **[Girl, so confusing](https://open.spotify.com/track/41krZZovstMJKeJZJtbL78)** by **Charli xcx** *(BRAT)*
+🎤 **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))*
+🎤 **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by **SMiLE.dk** *(Smile)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 06:48:57Z UTC
+🕐 Last updated: 2025-06-11 07:12:59Z UTC
 <!-- SPOTIFY-END -->
