@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a88381635ea5e3b91c37a81f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d920d65d4e7c30cedc5eb53" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lovedata](https://open.spotify.com/track/0byrx9AGVNLUhMrZBuHZNC)**
-*by* **Heatace**
-*Album:* Lovedata
+**🎵 [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)**
+*by* **White Town**
+*Album:* Women in Technology
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="204" height="4" fill="#1db954" rx="2"/>
-    <circle cx="204" cy="2" r="6" fill="#1db954"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 3:26
+    0:28 • 4:19
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Орион](https://open.spotify.com/track/7CUUDCtHRZUTJ0jUaBeMOY)** by **DSPRITE** *(Lithium)*
-🎤 **[горный мёд](https://open.spotify.com/track/2MtzvTS2cthbh5ExTRAz9Q)** by **лампочка34** *(горный мёд)*
-🎤 **[Not Who I Used to Be](https://open.spotify.com/track/4CYD4fOEs9nswlGAAqz4C9)** by **blood moon** *(Mayura)*
-🎤 **[Air Bnb Sonnet](https://open.spotify.com/track/2RH5vqBNPnuXkJvuumNmxr)** by **The Hellp** *(Enemy)*
-🎤 **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)*
+🎤 **[Be My Angel](https://open.spotify.com/track/3R6kyOmqWcAsqZqqe9CGL0)** by **Mazzy Star** *(She Hangs Brightly)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi)** by **U96** *(Club Bizarre)*
+🎤 **[режу](https://open.spotify.com/track/1hIBMIvH1wWRscC5AZ5JBm)** by **Psychosis** *(голод)*
+🎤 **[Lovedata](https://open.spotify.com/track/0byrx9AGVNLUhMrZBuHZNC)** by **Heatace** *(Lovedata)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 05:35:23Z UTC
+🕐 Last updated: 2025-06-11 05:50:56Z UTC
 <!-- SPOTIFY-END -->
