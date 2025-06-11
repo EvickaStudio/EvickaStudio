@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733c9047f9aa5d0d1e03827039" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739567b80f50a5b9f0178ae993" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sugar (feat. Francesco Yates)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)**
-*by* **Robin Schulz, Francesco Yates**
-*Album:* Sugar
+**🎵 [Tell më](https://open.spotify.com/track/1ObrUCFugAMJoXcvpggbOd)**
+*by* **Yeat**
+*Album:* 2093
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 3:39
+    1:25 • 4:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[When I'm Small](https://open.spotify.com/track/3y1EzRl5UEQxxd1f6Bv2aN)** by **Phantogram** *(Eyelid Movies)*
-🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
-🎤 **[cool kids](https://open.spotify.com/track/1VWAL2aR1YQ0nHmvwTUJO2)** by **CHRIS YONGE** *(Maybe I've Gone Mad)*
-🎤 **[NBTSA](https://open.spotify.com/track/3hYOKyqcQF4UHo9Autlje3)** by **Joyce Manor** *(Polyvinyl 4-Track Singles Series, Vol. 3)*
-🎤 **[Sandy Kim](https://open.spotify.com/track/70JkATjg7LzZ9HA22SmmcK)** by **Acid Ghost** *(Vacation II)*
+🎤 **[Love U](https://open.spotify.com/track/6HdD9VoQ3fz4mvQ6RRxGEk)** by **Razihel** *(Love U)*
+🎤 **[FALLEN ANGEL!](https://open.spotify.com/track/2oiWhVg66ut5pJ7Dh5AbgQ)** by **7sirens, Gxnesis** *(FALLEN ANGEL!)*
+🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
+🎤 **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)*
+🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 08:17:42Z UTC
+🕐 Last updated: 2025-06-11 08:46:33Z UTC
 <!-- SPOTIFY-END -->
