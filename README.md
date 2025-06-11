@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273424d54bc4cc6824b33a1659f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)**
+*by* **upgrades, Aukina, dreamstation**
+*Album:* lucked out
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:13 • 3:26
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
 🎤 **[Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)** by **limedisx.** *(Stars)*
 🎤 **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)*
+🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
+🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
+🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
 
-🕐 Last updated: 2025-06-11 09:50:14Z UTC
+🕐 Last updated: 2025-06-11 10:14:16Z UTC
 <!-- SPOTIFY-END -->
