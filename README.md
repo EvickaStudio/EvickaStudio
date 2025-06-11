@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735911dc1602a9d100ebe955fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1d88e55d668aa44d8507e70" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8)**
-*by* **PinkPantheress**
-*Album:* Boy's a liar
+**🎵 [‧͙🕷～shadowedSoul.dll 魂ཀ+](https://open.spotify.com/track/38NFaD1HGekoCm0FM3SdwS)**
+*by* **lexycat**
+*Album:* ‧͙🕷～shadowedSoul.dll 魂ཀ+
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="120" height="4" fill="#1db954" rx="2"/>
+    <circle cx="120" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:11
+    0:47 • 1:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[Popstars](https://open.spotify.com/track/3AI9xPLbQyU0l09p2ND9AW)** by **Kill Eva, Мэйби Бэйби** *(Popstars)*
-🎤 **[Girl, so confusing](https://open.spotify.com/track/41krZZovstMJKeJZJtbL78)** by **Charli xcx** *(BRAT)*
-🎤 **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))*
-🎤 **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by **SMiLE.dk** *(Smile)*
+🎤 **[PS.](https://open.spotify.com/track/4rhaKxD2QfFfoBAp06TH1l)** by **EASY EASY** *(EASY EASY)*
+🎤 **[haha swag](https://open.spotify.com/track/7fEGlvM24St5RqYoGSZ48q)** by **meat computer** *(haha swag)*
+🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
+🎤 **[Cus Of U](https://open.spotify.com/track/1cWtzIkNzScoxY8yvmhn2H)** by **1lilcozy** *(Cus Of U)*
+🎤 **[Luxury](https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS)** by **Azealia Banks** *(Broke with Expensive Taste)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 07:12:59Z UTC
+🕐 Last updated: 2025-06-11 07:30:48Z UTC
 <!-- SPOTIFY-END -->
