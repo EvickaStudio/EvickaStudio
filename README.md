@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Theme from Psych](https://open.spotify.com/track/4xvCq9lfW7V18EnrJWi4Ru)** by **TV Theme Song Library** *(TV Theme Library - Hit TV Show Themes)*
-🎤 **[Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)** by **Pinegrove** *(Need 2)*
-🎤 **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)*
-🎤 **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
+🎤 **[my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)** by **cholorofilm** *(my heart :()*
+🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
+🎤 **[Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[YAKIMOTO BLISS](https://open.spotify.com/track/5lzDzpwQsmAwRXWBtGlrmS)** by **DJmegan23** *(YAKIMOTO BLISS)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 17:48:28Z UTC
+🕐 Last updated: 2025-06-11 18:18:02Z UTC
 <!-- SPOTIFY-END -->
