@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Theme from Psych](https://open.spotify.com/track/4xvCq9lfW7V18EnrJWi4Ru)** by **TV Theme Song Library** *(TV Theme Library - Hit TV Show Themes)*
+🎤 **[Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)** by **Pinegrove** *(Need 2)*
+🎤 **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)*
+🎤 **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)*
 🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Ral Grad](https://open.spotify.com/track/7Csc3LFRvRA9s5gLbSM3Mf)** by **Harto Falión, Eera** *(Academy)*
-🎤 **[mr. ikari & the cruel angels](https://open.spotify.com/track/05nN7qZAfHyswFUCpbqyx0)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[Das Herz ist mir bedrückt](https://open.spotify.com/track/6jtn5NbR4MybWrnYNi88fF)** by **strangerperson** *(Das Herz ist mir bedrückt)*
-🎤 **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 17:32:03Z UTC
+🕐 Last updated: 2025-06-11 17:48:28Z UTC
 <!-- SPOTIFY-END -->
