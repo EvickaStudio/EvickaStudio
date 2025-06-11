@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2731c2c19a5a47ec89f9ccbf09f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)**
+*by* **Ripsquad Archive**
+*Album:* waitt2Rs
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="22" height="4" fill="#1db954" rx="2"/>
+    <circle cx="22" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:14 • 3:03
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
+🎤 **[fucked up](https://open.spotify.com/track/6ilYeHjC7WRqM6CaHPGctu)** by **Lil Keen** *(fucked up)*
+🎤 **[99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)** by **Shoota Tori, Bon Aquâ** *(99-01)*
 🎤 **[Für Immer](https://open.spotify.com/track/6kfb0y1HaJXfILKMNpfGZJ)** by **Happysadgirl, Aexhy** *(Für Immer)*
-🎤 **[Allein Allein - Whos Jay? Remix](https://open.spotify.com/track/5HLHKR9rGuwQX7XiXGUCtc)** by **Who‘s Jay?** *(Allein Allein (Whos Jay? Remix))*
-🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
-🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **snor, d3r** *(wish I didnt kno her ##biblemusic)*
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 19:10:10Z UTC
+🕐 Last updated: 2025-06-11 19:25:25Z UTC
 <!-- SPOTIFY-END -->
