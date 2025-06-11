@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273468781e982047d50971d6c07" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27380f13ef9d8602427bdf88984" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)**
-*by* **Juli**
-*Album:* Es ist Juli
+**🎵 [Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)**
+*by* **H3artcrush, Punkinloveee**
+*Album:* Freak Show
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:11 • 3:46
+    0:24 • 2:05
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Have You Got It in You?](https://open.spotify.com/track/7Jlf6YCwGzfHWJByUkb6ll)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
-🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
-🎤 **[Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE)** by **Deftones** *(Diamond Eyes)*
-🎤 **[Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u)** by **Beach House** *(Beach House)*
-🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
+🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)*
+🎤 **[nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG)** by **camoufly, Dazegxd** *(nothing left 2 say / give u everything)*
+🎤 **[Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc)** by **Charli xcx** *(Pop 2)*
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 04:15:47Z UTC
+🕐 Last updated: 2025-06-11 04:48:19Z UTC
 <!-- SPOTIFY-END -->
