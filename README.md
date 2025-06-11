@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Für Immer](https://open.spotify.com/track/6kfb0y1HaJXfILKMNpfGZJ)** by **Happysadgirl, Aexhy** *(Für Immer)*
+🎤 **[Allein Allein - Whos Jay? Remix](https://open.spotify.com/track/5HLHKR9rGuwQX7XiXGUCtc)** by **Who‘s Jay?** *(Allein Allein (Whos Jay? Remix))*
 🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
 🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **snor, d3r** *(wish I didnt kno her ##biblemusic)*
 🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
-🎤 **[im #obsessed w u lol](https://open.spotify.com/track/0zrfuDuwwMpletThdSgwGp)** by **korpsebunny** *(im #obsessed w u lol)*
-🎤 **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by **Blythe Star** *(If I Give You My Heart, Can I Trust You With It?)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 18:48:09Z UTC
+🕐 Last updated: 2025-06-11 19:10:10Z UTC
 <!-- SPOTIFY-END -->
