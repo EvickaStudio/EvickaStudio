@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1d88e55d668aa44d8507e70" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [‧͙🕷～shadowedSoul.dll 魂ཀ+](https://open.spotify.com/track/38NFaD1HGekoCm0FM3SdwS)**
-*by* **lexycat**
-*Album:* ‧͙🕷～shadowedSoul.dll 魂ཀ+
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 1:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[PS.](https://open.spotify.com/track/4rhaKxD2QfFfoBAp06TH1l)** by **EASY EASY** *(EASY EASY)*
-🎤 **[haha swag](https://open.spotify.com/track/7fEGlvM24St5RqYoGSZ48q)** by **meat computer** *(haha swag)*
-🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
-🎤 **[Cus Of U](https://open.spotify.com/track/1cWtzIkNzScoxY8yvmhn2H)** by **1lilcozy** *(Cus Of U)*
-🎤 **[Luxury](https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS)** by **Azealia Banks** *(Broke with Expensive Taste)*
+🎤 **[When I'm Small](https://open.spotify.com/track/3y1EzRl5UEQxxd1f6Bv2aN)** by **Phantogram** *(Eyelid Movies)*
+🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
+🎤 **[cool kids](https://open.spotify.com/track/1VWAL2aR1YQ0nHmvwTUJO2)** by **CHRIS YONGE** *(Maybe I've Gone Mad)*
+🎤 **[NBTSA](https://open.spotify.com/track/3hYOKyqcQF4UHo9Autlje3)** by **Joyce Manor** *(Polyvinyl 4-Track Singles Series, Vol. 3)*
+🎤 **[Sandy Kim](https://open.spotify.com/track/70JkATjg7LzZ9HA22SmmcK)** by **Acid Ghost** *(Vacation II)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 07:30:48Z UTC
+🕐 Last updated: 2025-06-11 07:47:46Z UTC
 <!-- SPOTIFY-END -->
