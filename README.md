@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357e5c71b87b4f0a1eebe8052" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alpha](https://open.spotify.com/track/3Gtha3Fwdu0yqpphxjXiTo)**
-*by* **Tevvez**
-*Album:* Alpha
+**🎵 [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)**
+*by* **Cavetown**
+*Album:* Cavetown
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="83" height="4" fill="#1db954" rx="2"/>
-    <circle cx="83" cy="2" r="6" fill="#1db954"/>
+    <rect width="250" height="4" fill="#1db954" rx="2"/>
+    <circle cx="250" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 4:07
+    2:30 • 2:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)** by **Empire Of The Sun** *(Ice On The Dune)*
-🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
-🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
-🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
-🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
+🎤 **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
+🎤 **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)*
+🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
+🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[bipolar](https://open.spotify.com/track/4R4tfhmLBLzBQNmsvxArKZ)** by **wifiskeleton** *(pony)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-11 02:54:49Z UTC
+🕐 Last updated: 2025-06-11 03:43:51Z UTC
 <!-- SPOTIFY-END -->
