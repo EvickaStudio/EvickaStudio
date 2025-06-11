@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27323b8d9fab5f1622562e9949e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)**
-*by* **LVL1**
-*Album:* PLAY
+**🎵 [Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
+*by* **Led Zeppelin**
+*Album:* Led Zeppelin IV (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 3:07
+    0:26 • 8:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
+🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
+🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
+🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
 🎤 **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by **White Town** *(Women in Technology)*
-🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
-🎤 **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)*
-🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
 
 
-🕐 Last updated: 2025-06-11 11:27:38Z UTC
+🕐 Last updated: 2025-06-11 11:38:17Z UTC
 <!-- SPOTIFY-END -->
