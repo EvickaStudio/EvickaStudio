@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273468781e982047d50971d6c07" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)**
-*by* **Cavetown**
-*Album:* Cavetown
+**🎵 [Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)**
+*by* **Juli**
+*Album:* Es ist Juli
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:30 • 2:59
+    3:11 • 3:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
-🎤 **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)*
-🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
-🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[bipolar](https://open.spotify.com/track/4R4tfhmLBLzBQNmsvxArKZ)** by **wifiskeleton** *(pony)*
+🎤 **[Have You Got It in You?](https://open.spotify.com/track/7Jlf6YCwGzfHWJByUkb6ll)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
+🎤 **[Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE)** by **Deftones** *(Diamond Eyes)*
+🎤 **[Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u)** by **Beach House** *(Beach House)*
+🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
 
 
 
@@ -154,9 +154,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 🥈 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 🥉 [**your clothes**](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)
-🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
+🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-11 03:43:51Z UTC
+🕐 Last updated: 2025-06-11 04:15:47Z UTC
 <!-- SPOTIFY-END -->
