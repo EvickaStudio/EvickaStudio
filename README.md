@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Arcadia](https://open.spotify.com/track/6nX0oVPdZxDnI2hfN0tkz3)** by **uusymon** *(Arcadia)*
-🎤 **[Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I)** by **01099, Zachi, Gustav** *(Altbau)*
-🎤 **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
-🎤 **[Pacific standard time (PST)](https://open.spotify.com/track/3PIAvpoMnpEIk2z0EElnB7)** by **60 juno** *(Swell blue)*
+🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
+🎤 **[Mich selbst](https://open.spotify.com/track/3zgJSDzUoGjVuuMRrtU1fx)** by **kevin** *(7)*
+🎤 **[schon ok](https://open.spotify.com/track/0O2VCCisPJbQveigg1mUI1)** by **Maikel** *(schon ok)*
+🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
+🎤 **[Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n)** by **The Cure** *(Wish)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 10:52:42Z UTC
+🕐 Last updated: 2025-06-12 11:11:07Z UTC
 <!-- SPOTIFY-END -->
