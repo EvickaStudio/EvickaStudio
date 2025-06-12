@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Sing and Play](https://open.spotify.com/track/1JTOe9dYcqpd58GgGhcwxA)** by **Computer Kill** *(Sing and Play)*
-🎤 **[BORN TO FROLIC](https://open.spotify.com/track/7iQJbUltAs4RFnbsWHn5AR)** by **IX Fall$** *(LIFEQUAKE)*
-🎤 **[No Me Mires Asi](https://open.spotify.com/track/2vpdqcNVhLpQVHcxh4RrvM)** by **Future Nobodies** *(Things Don't Last Forever)*
-🎤 **[Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW)** by **DJ_Dave, kitty ray** *(Still Miss U)*
-🎤 **[Rise n' shine](https://open.spotify.com/track/6bmAJXDDIlPRbk2gsOLzO5)** by **Faerybabyy** *(Rise n' shine)*
+🎤 **[Mom, I'm coming home](https://open.spotify.com/track/3FWmQG3eS7RQAfu9emw3iF)** by **Aspen Forest** *(Mom, I'm coming home)*
+🎤 **[Terrorizer](https://open.spotify.com/track/2nLvQV4YJvkZDlEHPpZSRa)** by **.com** *(Terrorizer)*
+🎤 **[PLAY DEAD](https://open.spotify.com/track/68eV6EPn1IjDChKO9NdVEY)** by **IX Fall$, Star Trash, florent!a** *(PIXIEDUST003)*
+🎤 **[shoot me down](https://open.spotify.com/track/5mJEuvnDHI0zXpCSgyLsWi)** by **Hax!** *(shoot me down)*
+🎤 **[Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH)** by **Future Nobodies** *(Apasionada / Over It)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 05:34:07Z UTC
+🕐 Last updated: 2025-06-12 05:49:37Z UTC
 <!-- SPOTIFY-END -->
