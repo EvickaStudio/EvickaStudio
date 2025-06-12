@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732325418d07051b281cfb4206" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)**
-*by* **Computer Kill**
-*Album:* Haunted
+**🎵 [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)**
+*by* **Empire Of The Sun**
+*Album:* Walking On A Dream (10th Anniversary Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 4:38
+    1:13 • 3:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)*
 🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
 🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
 🎤 **[Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT)** by **Crystal Castles** *(Crystal Castles)*
-🎤 **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)*
-🎤 **[meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3)** by **The Hellp** *(meant2be)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 21:38:58Z UTC
+🕐 Last updated: 2025-06-12 21:47:53Z UTC
 <!-- SPOTIFY-END -->
