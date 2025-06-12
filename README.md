@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d6e8fcbb65970a5329b6ef2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)**
-*by* **Alex G**
-*Album:* Trick
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 2:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[She Hates All the Drugs I Do](https://open.spotify.com/track/31it4Mk15weVbWhIhXKl7d)** by **Future Nobodies** *(Unloveable)*
-🎤 **[Blackout](https://open.spotify.com/track/6iY0tEFapwcBgc0lR4XeWX)** by **Future Nobodies** *(Hotel De La Muerte)*
-🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[schwert_♡.+++](https://open.spotify.com/track/6Lwima0bdNMEIkR0fG3ZUq)** by **DANZINGER 99** *(Hotel+++)*
-🎤 **[Sleight Of Hand](https://open.spotify.com/track/2fDuEgPKlSuaemvZwIaTpY)** by **Provoker** *(Demon Compass)*
+🎤 **[Tila](https://open.spotify.com/track/0YMX1MrMuHFCmCon0CjoEy)** by **Oxis** *(Oxis 7)*
+🎤 **[Truest of Blues](https://open.spotify.com/track/6HH7GDPdApDwODnhzGBiZR)** by **The Bird, True Blue** *(Truest of Blues)*
+🎤 **[With All Due Respect](https://open.spotify.com/track/1Z8xz4JX8scCQVPH1J9PEW)** by **Faerybabyy** *(With All Due Respect)*
+🎤 **[I'll Stay](https://open.spotify.com/track/53DEjZXuHIH5b6YA1EFQMs)** by **The Mirrors** *(I'll Stay)*
+🎤 **[FRIENDLY FIRE ENABLED](https://open.spotify.com/track/0q7YuwyICAqIkSMFC3t0Iu)** by **IX Fall$** *(PIXIEDUST003)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 07:13:12Z UTC
+🕐 Last updated: 2025-06-12 07:30:30Z UTC
 <!-- SPOTIFY-END -->
