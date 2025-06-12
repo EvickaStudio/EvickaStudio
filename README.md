@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Tell Me](https://open.spotify.com/track/3yJNSt9DMWMnmnoYTKp1hw)** by **Arverne** *(Arverne)*
-🎤 **[i miss you so much](https://open.spotify.com/track/6Nh6dvhIPeKmVaQEtKDenp)** by **Atalea*** *(ANGELSYNTH)*
-🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
-🎤 **[save point](https://open.spotify.com/track/7xIoOwtqmH4BtSa679neM5)** by **timesgone** *(heavens wrath)*
-🎤 **[shards of titania](https://open.spotify.com/track/7L76hiEQz1Job8NiPgBItP)** by **Atalea*** *(ANGELSYNTH)*
+🎤 **[Control](https://open.spotify.com/track/1egU0vXPlPc56JEKSHgWcL)** by **.com** *(Control)*
+🎤 **[OneWish / akiaura](https://open.spotify.com/track/54aEDbxV7Tt4hK9rni7d3b)** by **hentai boys** *(4EVER)*
+🎤 **[Bird on a Wire](https://open.spotify.com/track/0hcqinpvUZ8p8IdqJtGw7k)** by **User2222** *(Blame Games)*
+🎤 **[buried, yet so frail](https://open.spotify.com/track/5jqrHtalLOgQXjTtkdAdHp)** by **IX Fall$** *(PIXIEDUST002)*
+🎤 **[somedays](https://open.spotify.com/track/3tCTMML5LUE0AOkmfnxx3l)** by **vhs sports** *(somedays)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 06:19:26Z UTC
+🕐 Last updated: 2025-06-12 06:49:08Z UTC
 <!-- SPOTIFY-END -->
