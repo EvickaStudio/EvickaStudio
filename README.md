@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Jawless](https://open.spotify.com/track/1nUmB6AXhgotF5WoHOowK0)** by **Oxis** *(Oxis 7)*
-🎤 **[You Know I Wanna](https://open.spotify.com/track/7g7XGSvcCOlQxh9dWSFu4h)** by **.com** *(You Know I Wanna)*
-🎤 **[Why Do I Fall for Every Girl I See](https://open.spotify.com/track/1oPimY3jaqYYZBIAR5DsYA)** by **.com** *(Why Do I Fall for Every Girl I See)*
-🎤 **[STARLIGHT](https://open.spotify.com/track/24eI838iUMgdyGOwQ2Law9)** by **IX Fall$, JVNLIII** *(PIXIEDUST003)*
-🎤 **[Somewhen](https://open.spotify.com/track/5Gle4rCTUXWZkE7dgVqBce)** by **Future Nobodies** *(Hotel De La Muerte)*
+🎤 **[Sing and Play](https://open.spotify.com/track/1JTOe9dYcqpd58GgGhcwxA)** by **Computer Kill** *(Sing and Play)*
+🎤 **[BORN TO FROLIC](https://open.spotify.com/track/7iQJbUltAs4RFnbsWHn5AR)** by **IX Fall$** *(LIFEQUAKE)*
+🎤 **[No Me Mires Asi](https://open.spotify.com/track/2vpdqcNVhLpQVHcxh4RrvM)** by **Future Nobodies** *(Things Don't Last Forever)*
+🎤 **[Still Miss U](https://open.spotify.com/track/3C3rtf7n8TNyUarr5fnRMW)** by **DJ_Dave, kitty ray** *(Still Miss U)*
+🎤 **[Rise n' shine](https://open.spotify.com/track/6bmAJXDDIlPRbk2gsOLzO5)** by **Faerybabyy** *(Rise n' shine)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 05:13:03Z UTC
+🕐 Last updated: 2025-06-12 05:34:07Z UTC
 <!-- SPOTIFY-END -->
