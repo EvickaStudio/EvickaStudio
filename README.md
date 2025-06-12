@@ -110,7 +110,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <img src="https://i.scdn.co/image/ab67616d0000b2734c5513a9b2427a9f673727c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hitachi / knuck!es + k1ba](https://open.spotify.com/track/4BiDtH08Qhs48lhTsRaAXy)**
+**🎵 [DualShock / forzey crusade](https://open.spotify.com/track/1gZXEw4YlYYAxG8DJmG4RC)**
 *by* **hentai boys**
 *Album:* 4EVER
 
@@ -118,12 +118,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="117" height="4" fill="#1db954" rx="2"/>
+    <circle cx="117" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 2:43
+    1:22 • 3:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[WHEN I CRY](https://open.spotify.com/track/3MhlFvO2TSMDltzrIkVxxm)** by **IX Fall$, florent!a** *(WHEN I CRY)*
-🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
-🎤 **[I Still Love You](https://open.spotify.com/track/4M6uwucTTB1TmeB9TY6J2X)** by **Future Nobodies** *(Future Nobodies)*
-🎤 **[i saw her](https://open.spotify.com/track/2qJXTjnPgepxuVRg9fW7BA)** by **AKIBA, aak3** *(000)*
-🎤 **[why you came back ?](https://open.spotify.com/track/1Js14E0hkFgbjYwvh41Qkp)** by **Hax!** *(inside my burning house)*
+🎤 **[Thinkin' Bout](https://open.spotify.com/track/25Ib3nWNdXQUkhwMf4o64O)** by **Alex Hagen** *(Thinkin' Bout)*
+🎤 **[Stay](https://open.spotify.com/track/6DZ25mf9q9igteV0qxeGWM)** by **.com** *(Stay)*
+🎤 **[Forester](https://open.spotify.com/track/0cOkRwWf8sJDBAToD7fNfG)** by **Pearly Drops** *(Call For Help)*
+🎤 **[If Only I Could (demo)](https://open.spotify.com/track/22XR5vBmwKZgS6WLFC32r7)** by **Aspen Forest** *(If Only I Could)*
+🎤 **[Tarot](https://open.spotify.com/track/5kJbH9clVHj3iYcgQrxbLU)** by **Future Nobodies** *(Future Nobodies)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 04:04:10Z UTC
+🕐 Last updated: 2025-06-12 04:39:48Z UTC
 <!-- SPOTIFY-END -->
