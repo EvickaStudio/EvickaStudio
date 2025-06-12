@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Mom, I'm coming home](https://open.spotify.com/track/3FWmQG3eS7RQAfu9emw3iF)** by **Aspen Forest** *(Mom, I'm coming home)*
-🎤 **[Terrorizer](https://open.spotify.com/track/2nLvQV4YJvkZDlEHPpZSRa)** by **.com** *(Terrorizer)*
-🎤 **[PLAY DEAD](https://open.spotify.com/track/68eV6EPn1IjDChKO9NdVEY)** by **IX Fall$, Star Trash, florent!a** *(PIXIEDUST003)*
-🎤 **[shoot me down](https://open.spotify.com/track/5mJEuvnDHI0zXpCSgyLsWi)** by **Hax!** *(shoot me down)*
-🎤 **[Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH)** by **Future Nobodies** *(Apasionada / Over It)*
+🎤 **[Tell Me](https://open.spotify.com/track/3yJNSt9DMWMnmnoYTKp1hw)** by **Arverne** *(Arverne)*
+🎤 **[i miss you so much](https://open.spotify.com/track/6Nh6dvhIPeKmVaQEtKDenp)** by **Atalea*** *(ANGELSYNTH)*
+🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[save point](https://open.spotify.com/track/7xIoOwtqmH4BtSa679neM5)** by **timesgone** *(heavens wrath)*
+🎤 **[shards of titania](https://open.spotify.com/track/7L76hiEQz1Job8NiPgBItP)** by **Atalea*** *(ANGELSYNTH)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 05:49:37Z UTC
+🕐 Last updated: 2025-06-12 06:19:26Z UTC
 <!-- SPOTIFY-END -->
