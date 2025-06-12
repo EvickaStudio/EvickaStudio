@@ -107,12 +107,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273130dc4fdbd143767ec6cc08a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e1e88b0d92d89a9623b164ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)**
-*by* **.com**
-*Album:* In Their Shadows
+**🎵 [my only fantasy](https://open.spotify.com/track/4c6sTli5muBTbAJQuaMcSE)**
+*by* **.com, Flowerbabe**
+*Album:* my only fantasy
 
 
 <p align="center">
@@ -123,7 +123,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 4:34
+    1:56 • 3:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Through](https://open.spotify.com/track/0ySDQZYa8vzUUXZUDh9ajM)** by **Robertuezrns** *(Through)*
-🎤 **[EmotionEngine / forzey crusade](https://open.spotify.com/track/4j8HnSXVLfvrbNSQtF14Xf)** by **hentai boys** *(4EVER)*
-🎤 **[Pocky Boy](https://open.spotify.com/track/6Ts2TyVBF6Osom4IV88JNr)** by **yeule** *(Serotonin II)*
-🎤 **[desperate ex gf](https://open.spotify.com/track/6YZC0Gk88dnF4BZs0aAv7a)** by **Faerybabyy** *(Jabbermouth)*
-🎤 **[Pile Of Glass](https://open.spotify.com/track/2GTUTHbWgPANXLtsWmJzen)** by **Kanpeki** *(Love Me Or Kill Me)*
+🎤 **[connie](https://open.spotify.com/track/48H1248yJApFJRiVYalE5h)** by **Faerybabyy** *(Jabbermouth)*
+🎤 **[makelovecauseyouregonnadie](https://open.spotify.com/track/20If8fKkUDyAAGwnwnqDQE)** by **orbit, Sillage** *(Demos)*
+🎤 **[evermore](https://open.spotify.com/track/2ZX2wJKscsXXDeLYJrXEBC)** by **Sillage** *(evermore)*
+🎤 **[Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A)** by **Pearly Drops** *(Call For Help)*
+🎤 **[into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj)** by **Ayleen Valentine** *(into me)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-11 23:48:35Z UTC
+🕐 Last updated: 2025-06-12 01:01:59Z UTC
 <!-- SPOTIFY-END -->
