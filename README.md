@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739df541068947167e3aa893d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a214159eaeb88bf98e4dda0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [C'est Toi](https://open.spotify.com/track/4KFWEVHfTAdmMSqo0A7WBe)**
-*by* **VSN7**
-*Album:* C'est Toi
+**🎵 [lusi please focus!](https://open.spotify.com/track/2qQUMLcQFnvyedlEI2KBb3)**
+*by* **Ripsquad Archive**
+*Album:* lusi please focus!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 2:59
+    0:55 • 2:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
-🎤 **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(Planet)*
-🎤 **[Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)** by **limedisx.** *(Stars)*
-🎤 **[It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)** by **Jawnino** *(40)*
-🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
+🎤 **[Morning Dew](https://open.spotify.com/track/0YkXRZcetpqI3VzjE9Sey6)** by **Xavier Wulf, BONES** *(Caves)*
+🎤 **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[All I Want](https://open.spotify.com/track/0XoHwEJbsK7FjoWyYNjn7I)** by **Bladee, Mechatok** *(All I Want)*
+🎤 **[Purify Me](https://open.spotify.com/track/4QLLA4OVStBaxNsz5sm0gA)** by **Heatace** *(Purify Me)*
+🎤 **[EVA LONELY LONELY HARDSTYLE - SPED UP](https://open.spotify.com/track/3cR9bnsvr8EiiTYdbDhmlL)** by **azrxel** *(EVA LONELY LONELY HARDSTYLE)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 23:12:33Z UTC
+🕐 Last updated: 2025-06-12 23:29:40Z UTC
 <!-- SPOTIFY-END -->
