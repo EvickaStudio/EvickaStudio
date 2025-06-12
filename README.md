@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27398791bb09d81128ca3ace69f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c5513a9b2427a9f673727c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [With All Due Respect](https://open.spotify.com/track/1Z8xz4JX8scCQVPH1J9PEW)**
-*by* **Faerybabyy**
-*Album:* With All Due Respect
+**🎵 [Hitachi / knuck!es + k1ba](https://open.spotify.com/track/4BiDtH08Qhs48lhTsRaAXy)**
+*by* **hentai boys**
+*Album:* 4EVER
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="206" height="4" fill="#1db954" rx="2"/>
-    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 2:08
+    2:21 • 2:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[GODSPEED](https://open.spotify.com/track/4hJLo4ZNIkTsNAa8LBT5bS)** by **IX Fall$** *(GODSPEED)*
-🎤 **[Angel.Memory](https://open.spotify.com/track/3n4VsGp2CbMvXyzgQ6Vp7i)** by **Dusqk** *(Angel/MEM)*
-🎤 **[Sardine](https://open.spotify.com/track/3eApHP5kUNLUkR3eEAWPIX)** by **Oxis** *(Oxis 3)*
-🎤 **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)*
-🎤 **[Long Sardine x Mr. Brightside](https://open.spotify.com/track/3LSfoRpyN83w68NgkpeGLR)** by **Oxis** *(Long Sardine x Mr. Brightside)*
+🎤 **[WHEN I CRY](https://open.spotify.com/track/3MhlFvO2TSMDltzrIkVxxm)** by **IX Fall$, florent!a** *(WHEN I CRY)*
+🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
+🎤 **[I Still Love You](https://open.spotify.com/track/4M6uwucTTB1TmeB9TY6J2X)** by **Future Nobodies** *(Future Nobodies)*
+🎤 **[i saw her](https://open.spotify.com/track/2qJXTjnPgepxuVRg9fW7BA)** by **AKIBA, aak3** *(000)*
+🎤 **[why you came back ?](https://open.spotify.com/track/1Js14E0hkFgbjYwvh41Qkp)** by **Hax!** *(inside my burning house)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 03:43:10Z UTC
+🕐 Last updated: 2025-06-12 04:04:10Z UTC
 <!-- SPOTIFY-END -->
