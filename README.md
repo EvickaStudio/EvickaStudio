@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b5bddfe7293d6312e6cd8947" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27398791bb09d81128ca3ace69f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FRIENDLY FIRE ENABLED](https://open.spotify.com/track/0q7YuwyICAqIkSMFC3t0Iu)**
-*by* **IX Fall$**
-*Album:* PIXIEDUST003
+**🎵 [With All Due Respect](https://open.spotify.com/track/1Z8xz4JX8scCQVPH1J9PEW)**
+*by* **Faerybabyy**
+*Album:* With All Due Respect
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 2:55
+    1:28 • 2:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)*
-🎤 **[Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0)** by **Pearly Drops** *(Call For Help)*
-🎤 **[I hate it when somebody says your name (no drums)](https://open.spotify.com/track/6KGaMuNPpyfMFmxuNTYzEd)** by **Sillage, Roby Fayer, Amit Shauli** *(I hate it when somebody says your name (no drums))*
-🎤 **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)*
-🎤 **[Chrysalis](https://open.spotify.com/track/6RsiADhOnDmMjmvAWbuEME)** by **Bby Eco** *(O₂O)*
+🎤 **[GODSPEED](https://open.spotify.com/track/4hJLo4ZNIkTsNAa8LBT5bS)** by **IX Fall$** *(GODSPEED)*
+🎤 **[Angel.Memory](https://open.spotify.com/track/3n4VsGp2CbMvXyzgQ6Vp7i)** by **Dusqk** *(Angel/MEM)*
+🎤 **[Sardine](https://open.spotify.com/track/3eApHP5kUNLUkR3eEAWPIX)** by **Oxis** *(Oxis 3)*
+🎤 **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)*
+🎤 **[Long Sardine x Mr. Brightside](https://open.spotify.com/track/3LSfoRpyN83w68NgkpeGLR)** by **Oxis** *(Long Sardine x Mr. Brightside)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 02:53:41Z UTC
+🕐 Last updated: 2025-06-12 03:43:10Z UTC
 <!-- SPOTIFY-END -->
