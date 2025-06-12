@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273543533e92a8a336dee9e9bd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)**
-*by* **Yung Lean**
-*Album:* Stranger
+**🎵 [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi)**
+*by* **PinkPantheress**
+*Album:* Heaven knows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 3:34
+    1:43 • 2:45
 </span>
 </p>
 
@@ -131,19 +131,19 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
-🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **Pathetic** *(2008)*
-🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[words - Higgo Remix](https://open.spotify.com/track/1HzVoPGDJajmXaEOzjEdwN)** by **piri, Tommy Villiers, Higgo** *(words (Higgo Remix))*
-🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
+🎤 **[Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5)** by **BICEP, Clara La San** *(Water)*
+🎤 **[Butterflies](https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M)** by **TV Girl, George Clanton, Jordana** *(Fauxllennium)*
+🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
+🎤 **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🥉 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+🥈 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 17:32:25Z UTC
+🕐 Last updated: 2025-06-12 17:48:31Z UTC
 <!-- SPOTIFY-END -->
