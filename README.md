@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[you're too weak](https://open.spotify.com/track/14MpaNw9G7MHYfOHdp9YNo)** by **wiv** *(wivcore)*
-🎤 **[ours](https://open.spotify.com/track/01qf6hVf9cZ6AdqLeOWNUO)** by **60 juno** *(ours)*
-🎤 **[voice message](https://open.spotify.com/track/5vokHAAOvtTuwGGErUZZVJ)** by **Heatace** *(voice message)*
-🎤 **[I Don't Want to Share You (Too Shy)](https://open.spotify.com/track/4H99I6kb8p7uhXiV1T1BDm)** by **Future Nobodies** *(Future Nobodies)*
-🎤 **[ascendant](https://open.spotify.com/track/3EKlHNIGMtNZlQQteYnyVt)** by **wiv** *(wivcore)*
+🎤 **[daydream](https://open.spotify.com/track/0wKu18l578oTKjsTgGqTkE)** by **AKIBA, kiroku** *(ii)*
+🎤 **[ULTRA 99 - Slowed](https://open.spotify.com/track/6gtdr7uVWSj9Om6qH2WjuO)** by **IX Fall$** *(ULTRA 99)*
+🎤 **[Turning Over a New Leaf](https://open.spotify.com/track/1ixXNc8iCkRniJhICf9xpy)** by **Found Space** *(Turning Over a New Leaf)*
+🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
+🎤 **[who you are - remix](https://open.spotify.com/track/4hH9QrNeHZATRamJw56FMM)** by **ERRx, Brooke Elise** *(who you are (remix))*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 08:17:43Z UTC
+🕐 Last updated: 2025-06-12 08:46:37Z UTC
 <!-- SPOTIFY-END -->
