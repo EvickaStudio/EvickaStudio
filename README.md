@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0dbe5cdee230af2f14fa97b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27341d09ee88ebfa33cc22e3238" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)**
-*by* **DJ Worm, Eurohead, SPÖKE**
-*Album:* In My Heart / In My Mind
+**🎵 [Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)**
+*by* **Ion Miles, SIRA, BHZ**
+*Album:* Berliner Märchen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 4:04
+    1:15 • 2:03
 </span>
 </p>
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 14:52:15Z UTC
+🕐 Last updated: 2025-06-12 15:13:59Z UTC
 <!-- SPOTIFY-END -->
