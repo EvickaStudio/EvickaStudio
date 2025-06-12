@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b860e6e67b500bc71797439" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [love me not](https://open.spotify.com/track/1MnbE6AkAtMRgmuPWQ4SSJ)**
-*by* **dreamstation, jinkasei**
-*Album:* love me not
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="93" height="4" fill="#1db954" rx="2"/>
-    <circle cx="93" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 3:38
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
-🎤 **[Places X Faces](https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN)** by **Aspen Forest** *(Places X Faces)*
-🎤 **[Juvenile - Sped Up](https://open.spotify.com/track/6wDmBWqU10jj0i3bx4Gf1A)** by **Aspen Forest** *(Juvenile)*
-🎤 **[WITHOUT U TONIGHT](https://open.spotify.com/track/2jB8YRKPixz3HjPommMQYp)** by **IX Fall$, KENTENSHI, florent!a** *(WITHOUT U TONIGHT)*
-🎤 **[Thinkin' Bout](https://open.spotify.com/track/25Ib3nWNdXQUkhwMf4o64O)** by **Alex Hagen** *(Thinkin' Bout)*
+🎤 **[Jawless](https://open.spotify.com/track/1nUmB6AXhgotF5WoHOowK0)** by **Oxis** *(Oxis 7)*
+🎤 **[You Know I Wanna](https://open.spotify.com/track/7g7XGSvcCOlQxh9dWSFu4h)** by **.com** *(You Know I Wanna)*
+🎤 **[Why Do I Fall for Every Girl I See](https://open.spotify.com/track/1oPimY3jaqYYZBIAR5DsYA)** by **.com** *(Why Do I Fall for Every Girl I See)*
+🎤 **[STARLIGHT](https://open.spotify.com/track/24eI838iUMgdyGOwQ2Law9)** by **IX Fall$, JVNLIII** *(PIXIEDUST003)*
+🎤 **[Somewhen](https://open.spotify.com/track/5Gle4rCTUXWZkE7dgVqBce)** by **Future Nobodies** *(Hotel De La Muerte)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 04:53:44Z UTC
+🕐 Last updated: 2025-06-12 05:13:03Z UTC
 <!-- SPOTIFY-END -->
