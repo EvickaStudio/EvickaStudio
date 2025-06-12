@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[daydream](https://open.spotify.com/track/0wKu18l578oTKjsTgGqTkE)** by **AKIBA, kiroku** *(ii)*
-🎤 **[ULTRA 99 - Slowed](https://open.spotify.com/track/6gtdr7uVWSj9Om6qH2WjuO)** by **IX Fall$** *(ULTRA 99)*
-🎤 **[Turning Over a New Leaf](https://open.spotify.com/track/1ixXNc8iCkRniJhICf9xpy)** by **Found Space** *(Turning Over a New Leaf)*
-🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
-🎤 **[who you are - remix](https://open.spotify.com/track/4hH9QrNeHZATRamJw56FMM)** by **ERRx, Brooke Elise** *(who you are (remix))*
+🎤 **[Arcadia](https://open.spotify.com/track/6nX0oVPdZxDnI2hfN0tkz3)** by **uusymon** *(Arcadia)*
+🎤 **[Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I)** by **01099, Zachi, Gustav** *(Altbau)*
+🎤 **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
+🎤 **[Pacific standard time (PST)](https://open.spotify.com/track/3PIAvpoMnpEIk2z0EElnB7)** by **60 juno** *(Swell blue)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 08:46:37Z UTC
+🕐 Last updated: 2025-06-12 10:52:42Z UTC
 <!-- SPOTIFY-END -->
