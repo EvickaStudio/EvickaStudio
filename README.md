@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Tila](https://open.spotify.com/track/0YMX1MrMuHFCmCon0CjoEy)** by **Oxis** *(Oxis 7)*
-🎤 **[Truest of Blues](https://open.spotify.com/track/6HH7GDPdApDwODnhzGBiZR)** by **The Bird, True Blue** *(Truest of Blues)*
-🎤 **[With All Due Respect](https://open.spotify.com/track/1Z8xz4JX8scCQVPH1J9PEW)** by **Faerybabyy** *(With All Due Respect)*
-🎤 **[I'll Stay](https://open.spotify.com/track/53DEjZXuHIH5b6YA1EFQMs)** by **The Mirrors** *(I'll Stay)*
-🎤 **[FRIENDLY FIRE ENABLED](https://open.spotify.com/track/0q7YuwyICAqIkSMFC3t0Iu)** by **IX Fall$** *(PIXIEDUST003)*
+🎤 **[Open Your Eyes](https://open.spotify.com/track/6EV3KcksXaX2oLrLrYq23v)** by **User2222** *(2222)*
+🎤 **[chemicals](https://open.spotify.com/track/4X0WZdYIKOxTn2Q9w1qJUC)** by **upgrades, Aukina** *(chemicals)*
+🎤 **[Spleen](https://open.spotify.com/track/0SRLyqWl027JnCuzX24gjc)** by **EVNTYD** *(Spleen / Ever Left)*
+🎤 **[in the mood for love](https://open.spotify.com/track/1echNHYTozsR0g0O58hdHL)** by **Hax!** *(inside my burning house)*
+🎤 **[Extra Utero](https://open.spotify.com/track/0japBe08wAEXpXBZtfZocR)** by **Coward Syndrome** *(Coward Syndrome)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 07:30:30Z UTC
+🕐 Last updated: 2025-06-12 07:47:47Z UTC
 <!-- SPOTIFY-END -->
