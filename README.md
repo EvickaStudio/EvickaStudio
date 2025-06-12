@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2732417400ddf7445276814eeb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)**
+*by* **$uicideboy$**
+*Album:* 7th or St. Tammany
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:42 • 2:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
-🎤 **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by **quannnic** *(kenopsia)*
-🎤 **[Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC)** by **The Cure** *(Three Imaginary Boys)*
-🎤 **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by **Hole** *(Celebrity Skin)*
-🎤 **[Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3)** by **Kali Uchis** *(Red Moon In Venus)*
+🎤 **[arcturian templars #ängel (hotelgodlin)](https://open.spotify.com/track/1l0kNsXEU9CJeLscd79mHO)** by **agelast222** *(agelast222)*
+🎤 **[Somewhen](https://open.spotify.com/track/5Gle4rCTUXWZkE7dgVqBce)** by **Future Nobodies** *(Hotel De La Muerte)*
+🎤 **[LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
+🎤 **[ours](https://open.spotify.com/track/01qf6hVf9cZ6AdqLeOWNUO)** by **60 juno** *(ours)*
+🎤 **[floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)** by **Felix Bosques Harima** *(floods (outro))*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 22:12:21Z UTC
+🕐 Last updated: 2025-06-12 22:33:39Z UTC
 <!-- SPOTIFY-END -->
