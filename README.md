@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fbb690abbb502edd3c70f933" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273543533e92a8a336dee9e9bd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [One Day More](https://open.spotify.com/track/6cdcZzuQzUhspZo2aJfKaH)**
-*by* **"Les Misérables Original London Cast" Ensemble**
-*Album:* Les Misérables (Original 1985 London Cast Recording)
+**🎵 [Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)**
+*by* **Yung Lean**
+*Album:* Stranger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 3:36
+    2:03 • 3:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Raise You Up / Just Be](https://open.spotify.com/track/7wPKI3MoEixp4m36JYbmQf)** by **Full Company, Kinky Boots Ensemble** *(Kinky Boots (Original Broadway Cast Recording))*
-🎤 **[End Of Act 1: Memory](https://open.spotify.com/track/5tlzPWUvrHRkc1SSvpiviT)** by **Andrew Lloyd Webber, "Cats" 1981 Original London Cast, Elaine Paige** *(Cats (Original London Cast Recording / 1981))*
-🎤 **[As If We Never Said Goodbye](https://open.spotify.com/track/2cwENimYctSV8AD1vxzlHF)** by **Nicole Scherzinger, Andrew Lloyd Webber** *(SUNSET BLVD: The Album)*
-🎤 **[Me And The Sky](https://open.spotify.com/track/6N4bifNtBKSSDmIL3qZRh8)** by **Jenn Colella, 'Come From Away' Company** *(Come From Away (Original Broadway Cast Recording))*
-🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
+🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
+🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **Pathetic** *(2008)*
+🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[words - Higgo Remix](https://open.spotify.com/track/1HzVoPGDJajmXaEOzjEdwN)** by **piri, Tommy Villiers, Higgo** *(words (Higgo Remix))*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 17:12:03Z UTC
+🕐 Last updated: 2025-06-12 17:32:25Z UTC
 <!-- SPOTIFY-END -->
