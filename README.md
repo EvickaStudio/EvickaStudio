@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e1e88b0d92d89a9623b164ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5bddfe7293d6312e6cd8947" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [my only fantasy](https://open.spotify.com/track/4c6sTli5muBTbAJQuaMcSE)**
-*by* **.com, Flowerbabe**
-*Album:* my only fantasy
+**🎵 [FRIENDLY FIRE ENABLED](https://open.spotify.com/track/0q7YuwyICAqIkSMFC3t0Iu)**
+*by* **IX Fall$**
+*Album:* PIXIEDUST003
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="155" height="4" fill="#1db954" rx="2"/>
-    <circle cx="155" cy="2" r="6" fill="#1db954"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 3:45
+    1:37 • 2:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[connie](https://open.spotify.com/track/48H1248yJApFJRiVYalE5h)** by **Faerybabyy** *(Jabbermouth)*
-🎤 **[makelovecauseyouregonnadie](https://open.spotify.com/track/20If8fKkUDyAAGwnwnqDQE)** by **orbit, Sillage** *(Demos)*
-🎤 **[evermore](https://open.spotify.com/track/2ZX2wJKscsXXDeLYJrXEBC)** by **Sillage** *(evermore)*
-🎤 **[Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A)** by **Pearly Drops** *(Call For Help)*
-🎤 **[into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj)** by **Ayleen Valentine** *(into me)*
+🎤 **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)*
+🎤 **[Winter](https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0)** by **Pearly Drops** *(Call For Help)*
+🎤 **[I hate it when somebody says your name (no drums)](https://open.spotify.com/track/6KGaMuNPpyfMFmxuNTYzEd)** by **Sillage, Roby Fayer, Amit Shauli** *(I hate it when somebody says your name (no drums))*
+🎤 **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)*
+🎤 **[Chrysalis](https://open.spotify.com/track/6RsiADhOnDmMjmvAWbuEME)** by **Bby Eco** *(O₂O)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 01:01:59Z UTC
+🕐 Last updated: 2025-06-12 02:53:41Z UTC
 <!-- SPOTIFY-END -->
