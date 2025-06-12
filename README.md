@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e279c0bd83178109ce8df9ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273213a198f455f191c001534b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)**
-*by* **kevin**
-*Album:* Es ist peinlich
+**🎵 [Блесс](https://open.spotify.com/track/59pNi3MZnUOyiErK5mpGoT)**
+*by* **xe1to**
+*Album:* Блесс
 
 
 <p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="20" height="4" fill="#282828" rx="2"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 2:33
+    0:57 • 1:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
-🎤 **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)** by **Kanye West, Chris Martin** *(Graduation)*
-🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
-🎤 **[Peso](https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3)** by **A$AP Rocky** *(LIVE.LOVE.A$AP)*
+🎤 **[Mi amor](https://open.spotify.com/track/20eRVuNjJ6j2MfvSrYSteh)** by **cyberia, QKReign** *(Mi amor)*
+🎤 **[Summerfrost](https://open.spotify.com/track/3DI9ead5Ml8BVnUPv6BBS9)** by **heffy** *(Dolly Mithril)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[Ask Her - Remix](https://open.spotify.com/track/3JH2RuDKZAkY5Y9Judugto)** by **Suzy Sheer, Cosmetics** *(Ask Her (Remix))*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 19:24:41Z UTC
+🕐 Last updated: 2025-06-12 21:51:25Z UTC
 <!-- SPOTIFY-END -->
