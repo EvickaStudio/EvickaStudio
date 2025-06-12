@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Open Your Eyes](https://open.spotify.com/track/6EV3KcksXaX2oLrLrYq23v)** by **User2222** *(2222)*
-🎤 **[chemicals](https://open.spotify.com/track/4X0WZdYIKOxTn2Q9w1qJUC)** by **upgrades, Aukina** *(chemicals)*
-🎤 **[Spleen](https://open.spotify.com/track/0SRLyqWl027JnCuzX24gjc)** by **EVNTYD** *(Spleen / Ever Left)*
-🎤 **[in the mood for love](https://open.spotify.com/track/1echNHYTozsR0g0O58hdHL)** by **Hax!** *(inside my burning house)*
-🎤 **[Extra Utero](https://open.spotify.com/track/0japBe08wAEXpXBZtfZocR)** by **Coward Syndrome** *(Coward Syndrome)*
+🎤 **[you're too weak](https://open.spotify.com/track/14MpaNw9G7MHYfOHdp9YNo)** by **wiv** *(wivcore)*
+🎤 **[ours](https://open.spotify.com/track/01qf6hVf9cZ6AdqLeOWNUO)** by **60 juno** *(ours)*
+🎤 **[voice message](https://open.spotify.com/track/5vokHAAOvtTuwGGErUZZVJ)** by **Heatace** *(voice message)*
+🎤 **[I Don't Want to Share You (Too Shy)](https://open.spotify.com/track/4H99I6kb8p7uhXiV1T1BDm)** by **Future Nobodies** *(Future Nobodies)*
+🎤 **[ascendant](https://open.spotify.com/track/3EKlHNIGMtNZlQQteYnyVt)** by **wiv** *(wivcore)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 07:47:47Z UTC
+🕐 Last updated: 2025-06-12 08:17:43Z UTC
 <!-- SPOTIFY-END -->
