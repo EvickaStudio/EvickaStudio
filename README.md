@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl)**
-*by* **Playboi Carti**
-*Album:* Playboi Carti
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 3:01
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Greaze Mode](https://open.spotify.com/track/3nG784YlxS4VQOF0qiHKVP)** by **Skepta, Nafe Smallz** *(Ignorance is Bliss)*
-🎤 **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by **Ufo361, Pashanim** *(allein allein)*
-🎤 **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by **Destroy Lonely** *(If Looks Could Kill)*
-🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[Touched](https://open.spotify.com/track/06LFlnTQoygiPq6j4tFnZS)** by **Spira me, Sg Lily, Opal** *(Touched)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
+🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-13 01:03:19Z UTC
+🕐 Last updated: 2025-06-13 02:54:56Z UTC
 <!-- SPOTIFY-END -->
