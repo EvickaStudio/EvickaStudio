@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349bdbd5880802dcbe4e0b2dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc)**
-*by* **Charli xcx**
-*Album:* how i'm feeling now
+**🎵 [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh)**
+*by* **Estelle, Kanye West**
+*Album:* Shine
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="64" height="4" fill="#1db954" rx="2"/>
+    <circle cx="64" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:29
+    1:01 • 4:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by **PinkPantheress** *(Heaven knows)*
-🎤 **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by **Santigold** *(Master of My Make-Believe)*
-🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)** by **GoodBooks, Crystal Castles** *(Control Freaks (The Remixes))*
+🎤 **[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)** by **Juli** *(Es ist Juli)*
+🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
+🎤 **[Have You Got It in You?](https://open.spotify.com/track/7Jlf6YCwGzfHWJByUkb6ll)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc)** by **Charli xcx** *(how i'm feeling now)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-13 14:34:43Z UTC
+🕐 Last updated: 2025-06-13 14:51:09Z UTC
 <!-- SPOTIFY-END -->
