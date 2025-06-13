@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736ebd5e789646a833b8f7d4ba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh)**
-*by* **Estelle, Kanye West**
-*Album:* Shine
+**🎵 [Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)**
+*by* **No Doubt**
+*Album:* Tragic Kingdom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="64" height="4" fill="#1db954" rx="2"/>
-    <circle cx="64" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 4:44
+    4:00 • 4:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)** by **GoodBooks, Crystal Castles** *(Control Freaks (The Remixes))*
-🎤 **[Geile Zeit](https://open.spotify.com/track/3hT1h7FiFFxoLqiTMJM7Ew)** by **Juli** *(Es ist Juli)*
-🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
-🎤 **[Have You Got It in You?](https://open.spotify.com/track/7Jlf6YCwGzfHWJByUkb6ll)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
-🎤 **[claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc)** by **Charli xcx** *(how i'm feeling now)*
+🎤 **[mr. mole](https://open.spotify.com/track/4cM821CD4u0mHo0mWTWiYQ)** by **EKKSTACY** *(mr. mole)*
+🎤 **[Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[Saccharine](https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT)** by **VIOLENT VIRA** *(Saccharine)*
+🎤 **[Denkmal](https://open.spotify.com/track/58zHoX9U5VlSXLUUmWTfe2)** by **Wir sind Helden** *(Die Reklamation)*
+🎤 **[Knights](https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0)** by **Crystal Castles** *(Crystal Castles)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-13 14:51:09Z UTC
+🕐 Last updated: 2025-06-13 15:13:23Z UTC
 <!-- SPOTIFY-END -->
