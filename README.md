@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349e389fecc0f32c3f2eb1371" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ᕱᕱ](https://open.spotify.com/track/7e6yrgLdvtYIHDsJaBnl3o)**
-*by* **snafu**
-*Album:* ᕱᕱ
+**🎵 [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl)**
+*by* **Playboi Carti**
+*Album:* Playboi Carti
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:45
+    1:06 • 3:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[私の小さな死](https://open.spotify.com/track/6frvjdYYAJWxfMlzWSKe8M)** by **Rory in early 20s** *(私の小さな死)*
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[меланхолия нимфоманки](https://open.spotify.com/track/6KKL9RAnoPWNimC6TwLhQO)** by **vecher 1998** *(меланхолия нимфоманки)*
-🎤 **[Ненавижу(?)](https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo)** by **Xopowo** *(Ненавижу)*
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
+🎤 **[Greaze Mode](https://open.spotify.com/track/3nG784YlxS4VQOF0qiHKVP)** by **Skepta, Nafe Smallz** *(Ignorance is Bliss)*
+🎤 **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by **Ufo361, Pashanim** *(allein allein)*
+🎤 **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by **Destroy Lonely** *(If Looks Could Kill)*
+🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-12 23:48:47Z UTC
+🕐 Last updated: 2025-06-13 01:03:19Z UTC
 <!-- SPOTIFY-END -->
