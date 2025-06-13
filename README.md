@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737a9214e709915022f75a9044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273436242b181b86112c54839e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)**
-*by* **Basement Jaxx**
-*Album:* Rooty
+**🎵 [Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)**
+*by* **Computer Kill**
+*Album:* Computer Kill
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:52 • 4:45
+    3:24 • 3:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Long Sardine x Mr. Brightside](https://open.spotify.com/track/3LSfoRpyN83w68NgkpeGLR)** by **Oxis** *(Long Sardine x Mr. Brightside)*
+🎤 **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)*
+🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
 🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
-🎤 **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by **Good Kid** *(Good Kid 4)*
-🎤 **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)*
-🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
-🎤 **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by **Varg²™, Bladee, VS-55** *(ᚦ)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-13 20:33:43Z UTC
+🕐 Last updated: 2025-06-13 20:50:04Z UTC
 <!-- SPOTIFY-END -->
