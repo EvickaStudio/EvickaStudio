@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
 🎤 **[Touched](https://open.spotify.com/track/06LFlnTQoygiPq6j4tFnZS)** by **Spira me, Sg Lily, Opal** *(Touched)*
 🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
 🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
 🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-13 02:54:56Z UTC
+🕐 Last updated: 2025-06-13 03:43:50Z UTC
 <!-- SPOTIFY-END -->
