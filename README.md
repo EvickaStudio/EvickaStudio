@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737a9214e709915022f75a9044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)**
-*by* **Basement Jaxx**
-*Album:* Rooty
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 4:45
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
-🎤 **[light](https://open.spotify.com/track/4JcS9WIUfDny6XJ82GqMpZ)** by **2hollis** *(boy)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)** by **Brothel in Belize** *(envy)*
-🎤 **[Picture in My Mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1)** by **PinkPantheress, Sam Gellaitry** *(Picture in my mind)*
+🎤 **[into me](https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj)** by **Ayleen Valentine** *(into me)*
+🎤 **[ideology](https://open.spotify.com/track/1Xnco9wBPYyUPGRogkH8kw)** by **copperplate** *(contentment)*
+🎤 **[desperate ex gf](https://open.spotify.com/track/6YZC0Gk88dnF4BZs0aAv7a)** by **Faerybabyy** *(Jabbermouth)*
+🎤 **[SOMM@ (frankfurt) - REM1X](https://open.spotify.com/track/6b9MBQCVguLZwm43VTinhb)** by **TYM, S1RENA, NIKKI3K** *(CHYP1MK0PF)*
+🎤 **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-13 08:45:59Z UTC
+🕐 Last updated: 2025-06-13 09:33:48Z UTC
 <!-- SPOTIFY-END -->
