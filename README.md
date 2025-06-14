@@ -106,7 +106,26 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273436242b181b86112c54839e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)**
+*by* **Computer Kill**
+*Album:* Computer Kill
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="93" height="4" fill="#1db954" rx="2"/>
+    <circle cx="93" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:14 • 3:58
+</span>
+</p>
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-14 07:27:14Z UTC
+🕐 Last updated: 2025-06-14 07:36:51Z UTC
 <!-- SPOTIFY-END -->
