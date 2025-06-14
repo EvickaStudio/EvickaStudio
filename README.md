@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27343d86723704f8c02b7047a16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27391756e6204367e198ddc8f10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
+**🎵 [My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)**
+*by* **Peake**
+*Album:* My Woeful Heart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:13
+    0:15 • 1:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[Salt Water](https://open.spotify.com/track/5Xk5nvGIzIev5kn96CyrFA)** by **Evanora Unlimited, Taraneh** *(Perfect Answer)*
-🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
-🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
-🎤 **[she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)** by **archive computer** *(she knows)*
+🎤 **[playlist friendly unit shifter](https://open.spotify.com/track/2p18SqON596E1Z9ANOm6bm)** by **meat computer** *(playlist friendly unit shifter)*
+🎤 **[the fire\\](https://open.spotify.com/track/6S11xfTugWLgNwKNZjbWWZ)** by **Zaram, Lonely Spirit** *(the fire\\)*
+🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[No Country](https://open.spotify.com/track/2Xb7JyGAJPLLt3QmwTYutY)** by **Evanora Unlimited** *(Perfect Answer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 16:51:39Z UTC
+🕐 Last updated: 2025-06-14 17:10:02Z UTC
 <!-- SPOTIFY-END -->
