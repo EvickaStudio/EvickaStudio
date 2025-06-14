@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27378d99add5aa286c06e3a2a5b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [connie](https://open.spotify.com/track/48H1248yJApFJRiVYalE5h)**
-*by* **Faerybabyy**
-*Album:* Jabbermouth
+**🎵 [Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)**
+*by* **Ecco2k, Thaiboy Digital, Bladee**
+*Album:* Trash Island
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 1:54
+    0:12 • 2:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Must Have Been A Dream](https://open.spotify.com/track/1ca0rbjTN6wbY48NLA5o7M)** by **Computer Kill** *(Must Have Been A Dream)*
+🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
+🎤 **[Lies / nctrn](https://open.spotify.com/track/7FxiBpCXVnU7bSNz2n6GOY)** by **hentai boys** *(4EVER)*
+🎤 **[connie](https://open.spotify.com/track/48H1248yJApFJRiVYalE5h)** by **Faerybabyy** *(Jabbermouth)*
 🎤 **[BLOOD SHOT EYES](https://open.spotify.com/track/2usoFNphUNb7gtZ36TqcCx)** by **The Masqs, .com** *(BLOOD SHOT EYES)*
-🎤 **[POISON FLIP - LeeJi Remix](https://open.spotify.com/track/6zVbbGP5fZU4ELwjNyPf4k)** by **berryblue, LeeJi** *(GOT ME LIKE)*
-🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
-🎤 **[never enough](https://open.spotify.com/track/17dThjNLsDRXsX855um2a1)** by **otuka** *(never enough)*
-🎤 **[easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE)** by **lil hero** *(pawwwfect!)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 19:23:06Z UTC
+🕐 Last updated: 2025-06-14 19:33:49Z UTC
 <!-- SPOTIFY-END -->
