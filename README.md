@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273211667ead19d27c2de052787" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6d8e3ad5743739f6a81b3b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)**
-*by* **archive computer**
-*Album:* risking all and everything
+**🎵 [You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)**
+*by* **DJmegan23**
+*Album:* Dopamine Machine 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="118" height="4" fill="#1db954" rx="2"/>
+    <circle cx="118" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 3:25
+    0:56 • 2:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[broken](https://open.spotify.com/track/2DYCOsVX4oCsSH6Q2ipy2t)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Brexia](https://open.spotify.com/track/3D04a67iE9lOeJ51rXaO6F)** by **Palmistry, Yung Lean** *(TINKERBELL)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
+🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Phone](https://open.spotify.com/track/6L7Ajavq9QvBpJXuXzlgvi)** by **Rooster** *(Rooster Debut)*
+🎤 **[Claws (o0o rmx)](https://open.spotify.com/track/1w1NBZ2BRJcIdZdReFpxaO)** by **o0o** *(Claws (o0o rmx))*
+🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 15:11:35Z UTC
+🕐 Last updated: 2025-06-14 15:29:29Z UTC
 <!-- SPOTIFY-END -->
