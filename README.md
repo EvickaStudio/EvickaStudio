@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eb95b2b3d04e4486a9b908ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738be5f774863b2318e6fdac49" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)**
-*by* **IVOXYGEN**
-*Album:* Blurry World
+**🎵 [bleibt für ewich](https://open.spotify.com/track/57N0wZOmB1jRtgUFIxVV3S)**
+*by* **b3nn3t**
+*Album:* bleibt für ewich
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="247" height="4" fill="#1db954" rx="2"/>
+    <circle cx="247" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 3:36
+    1:37 • 1:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
-🎤 **[Air Bnb Sonnet](https://open.spotify.com/track/2RH5vqBNPnuXkJvuumNmxr)** by **The Hellp** *(Enemy)*
-🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
-🎤 **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)*
-🎤 **[LOST ALL HOPE\\](https://open.spotify.com/track/36e2Pi2XN5hr4EqynImfCU)** by **Zaram, LuvKaiju** *(LOST ALL HOPE\\)*
+🎤 **[Nirvana](https://open.spotify.com/track/3BfdAGi5A2EQ5WtxN7VfZ1)** by **Longus Mongus, Monk, BHZ, Ion Miles** *(halb:vier)*
+🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
+🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
+🎤 **[Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo)** by **Ojerime** *(B4 I Breakdown)*
+🎤 **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 11:09:40Z UTC
+🕐 Last updated: 2025-06-14 11:24:19Z UTC
 <!-- SPOTIFY-END -->
