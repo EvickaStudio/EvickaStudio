@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273468781e982047d50971d6c07" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Perfekte Welle](https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK)**
-*by* **Juli**
-*Album:* Es ist Juli
+**🎵 [Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)**
+*by* **Dire Straits**
+*Album:* Communiqué
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 3:19
+    0:55 • 3:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
-🎤 **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)*
-🎤 **[Taipei](https://open.spotify.com/track/1vEKhtokUAEVX39Zi6avoG)** by **Drain Gang Archive** *(Taipei)*
-🎤 **[mirage](https://open.spotify.com/track/5BEP7tyEOMrw4MLOT42jem)** by **Drain Gang Archive** *(Mirage)*
+🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
+🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
+🎤 **[Digital Bath](https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS)** by **Deftones** *(White Pony)*
+🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
+🎤 **[Perfekte Welle](https://open.spotify.com/track/2LV5joNDrsyuXEh4FBARVK)** by **Juli** *(Es ist Juli)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-14 22:32:05Z UTC
+🕐 Last updated: 2025-06-14 22:48:19Z UTC
 <!-- SPOTIFY-END -->
