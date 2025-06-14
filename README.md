@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c1f6d2a405c71584e27a0b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)**
-*by* **blombi19**
-*Album:* abiogenese
+**🎵 [Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)**
+*by* **OG Florin**
+*Album:* ILY<3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 3:33
+    4:05 • 4:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)*
-🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
-🎤 **[Champion God Level](https://open.spotify.com/track/3aujFAv6o9EhKOPJYnGlMg)** by **fliggsy** *(Champion God Level)*
-🎤 **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)*
-🎤 **[life after life](https://open.spotify.com/track/0oufNGimO4F8exn0CTKkWe)** by **dose** *(life after life)*
+🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
+🎤 **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by **MGMT** *(Little Dark Age)*
+🎤 **[12 Stout Street](https://open.spotify.com/track/58Zrwv2urNcl404kX6HsAS)** by **Rx Papi, Gud** *(Foreign Exchange)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
 
 
 
@@ -144,8 +144,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥉 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
+🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 11:47:41Z UTC
+🕐 Last updated: 2025-06-14 13:00:14Z UTC
 <!-- SPOTIFY-END -->
