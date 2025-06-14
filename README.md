@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273852ad5d79941de06639ec637" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)**
-*by* **Crystal Castles**
-*Album:* Amnesty (I)
+**🎵 [roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)**
+*by* **Tamino404**
+*Album:* roter knopf
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 3:08
+    1:14 • 2:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Miss Me When I'm Gone](https://open.spotify.com/track/2IZlgcixX4n84o06RgsJic)** by **Chris Travis** *(Pizza and Codeine)*
-🎤 **[Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH)** by **Superheaven** *(Ours Is Chrome)*
-🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
-🎤 **[B.O.R. (Birth of Rap)](https://open.spotify.com/track/5pIpewM8Pq4Xxn6yMN2uJx)** by **Lil B** *(6 Kiss)*
-🎤 **[Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz)** by **Crystal Castles** *(Crystal Castles)*
+🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
+🎤 **[Bastard](https://open.spotify.com/track/1u6zqsXN5WdTBJktOc0YlI)** by **leander, Hadesthegrim** *(Bastard)*
+🎤 **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)*
+🎤 **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)*
+🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 09:49:02Z UTC
+🕐 Last updated: 2025-06-14 10:12:24Z UTC
 <!-- SPOTIFY-END -->
