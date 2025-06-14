@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273042d8ed3b7c459b12081502a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730f437f89d66d1651df3b905d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [like a drug](https://open.spotify.com/track/65Mjj3dijmVHka2YFXuUem)**
-*by* **meat computer**
-*Album:* like a drug
+**🎵 [I'm Megan](https://open.spotify.com/track/52x1yAWK71UYhHKV4CwKVh)**
+*by* **DJmegan23**
+*Album:* Dear God.. Its Beautiful
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 1:25
+    1:10 • 1:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
-🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
-🎤 **[no margin 4 error](https://open.spotify.com/track/3u9S1IYsDNk0BN11HJUTPL)** by **archive computer** *(no margin 4 error)*
-🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[nothing2 lose](https://open.spotify.com/track/6ZlJ8X4mzXghjiEuhcvo2n)** by **2hollis** *(2)*
+🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
+🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
+🎤 **[only1](https://open.spotify.com/track/5lBUl7GkVC6xjOu15JD5ip)** by **meat computer** *(slept on the floor still dreamt about you)*
 
 
 
@@ -152,11 +152,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
-🥈 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
-🥉 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
+🥈 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
+🥉 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
-🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
+🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 15:48:30Z UTC
+🕐 Last updated: 2025-06-14 16:13:39Z UTC
 <!-- SPOTIFY-END -->
