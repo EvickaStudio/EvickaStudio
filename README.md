@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c1f6d2a405c71584e27a0b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27393f65ff081545e79a0ae56a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)**
-*by* **OG Florin**
-*Album:* ILY<3
+**🎵 [alone again](https://open.spotify.com/track/0IuM052fhNpyLJwyZlBsSF)**
+*by* **meat computer**
+*Album:* alone again
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:05 • 4:20
+    1:52 • 2:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
-🎤 **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by **MGMT** *(Little Dark Age)*
-🎤 **[12 Stout Street](https://open.spotify.com/track/58Zrwv2urNcl404kX6HsAS)** by **Rx Papi, Gud** *(Foreign Exchange)*
-🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
+🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Sold Out](https://open.spotify.com/track/0symmj4uSnBmiMblgJb5BZ)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)*
+🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 13:00:14Z UTC
+🕐 Last updated: 2025-06-14 13:30:24Z UTC
 <!-- SPOTIFY-END -->
