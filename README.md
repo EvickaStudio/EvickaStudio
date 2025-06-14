@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c4604290202855ab73b8044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)**
-*by* **Edwin Rosen**
-*Album:* Balancieren
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="275" height="4" fill="#1db954" rx="2"/>
-    <circle cx="275" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:22 • 3:40
-</span>
-</p>
+❌ Error fetching now playing track.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)** by **Hello Hannes** *(Hate Crime Against Myself)*
-🎤 **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)*
-🎤 **[Eislaufen 2k24](https://open.spotify.com/track/09sPmkKTfsWiH65SMhRrKn)** by **Rowli, Hank, Beats by Luca** *(Eislaufen 2k24)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
+🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
+🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[hopeless](https://open.spotify.com/track/5SYVuaC2cmgLUvTJrZS1fO)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)*
+🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 18:54:46Z UTC
+🕐 Last updated: 2025-06-14 19:09:11Z UTC
 <!-- SPOTIFY-END -->
