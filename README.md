@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cda99731b36556d7ba9cbcc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)**
-*by* **Ecco2k, Thaiboy Digital, Bladee**
-*Album:* Trash Island
+**🎵 [Camouflage](https://open.spotify.com/track/1tMSSnH47S3CTDomxJxNF7)**
+*by* **Seba**
+*Album:* Producer 06
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="31" height="4" fill="#1db954" rx="2"/>
-    <circle cx="31" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 2:00
+    4:58 • 8:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Must Have Been A Dream](https://open.spotify.com/track/1ca0rbjTN6wbY48NLA5o7M)** by **Computer Kill** *(Must Have Been A Dream)*
-🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
-🎤 **[Lies / nctrn](https://open.spotify.com/track/7FxiBpCXVnU7bSNz2n6GOY)** by **hentai boys** *(4EVER)*
-🎤 **[connie](https://open.spotify.com/track/48H1248yJApFJRiVYalE5h)** by **Faerybabyy** *(Jabbermouth)*
-🎤 **[BLOOD SHOT EYES](https://open.spotify.com/track/2usoFNphUNb7gtZ36TqcCx)** by **The Masqs, .com** *(BLOOD SHOT EYES)*
+🎤 **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)*
+🎤 **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
+🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 19:33:49Z UTC
+🕐 Last updated: 2025-06-14 19:47:38Z UTC
 <!-- SPOTIFY-END -->
