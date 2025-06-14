@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a12aefbe83bde74fb8bfc92a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c2e275f3e14280dd2cea2de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Friends](https://open.spotify.com/track/656gU5TJunfBBMyvqXy850)**
-*by* **Elusin**
-*Album:* Friends
+**🎵 [MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)**
+*by* **agelast222**
+*Album:* SOLARCORP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:51 • 4:04
+    1:59 • 3:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[train to warsaw](https://open.spotify.com/track/1dYpF7nsnF67lHiuviw2tB)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[HOME](https://open.spotify.com/track/1ai5vhccieRyfIaVClbEYX)** by **Gao the Arsonist** *(OUR BONES ARE ARTIFACTS)*
-🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
-🎤 **[Obsessed with Death](https://open.spotify.com/track/05ifP6Zr5ISYYPN1ofLDVT)** by **Bladee** *(Requiem)*
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)*
+🎤 **[I <3 MERCURY\\](https://open.spotify.com/track/4ZAdhy4BKUSsl0v8FpQ7tO)** by **Zaram** *(Angel___Music)*
+🎤 **[just run](https://open.spotify.com/track/3V3Nxh75DimrMxJgVlooev)** by **meat computer** *(just run)*
+🎤 **[Friends](https://open.spotify.com/track/656gU5TJunfBBMyvqXy850)** by **Elusin** *(Friends)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 14:30:10Z UTC
+🕐 Last updated: 2025-06-14 14:42:19Z UTC
 <!-- SPOTIFY-END -->
