@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27378d99add5aa286c06e3a2a5b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [connie](https://open.spotify.com/track/48H1248yJApFJRiVYalE5h)**
+*by* **Faerybabyy**
+*Album:* Jabbermouth
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:37 • 1:54
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
-🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[hopeless](https://open.spotify.com/track/5SYVuaC2cmgLUvTJrZS1fO)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
+🎤 **[BLOOD SHOT EYES](https://open.spotify.com/track/2usoFNphUNb7gtZ36TqcCx)** by **The Masqs, .com** *(BLOOD SHOT EYES)*
+🎤 **[POISON FLIP - LeeJi Remix](https://open.spotify.com/track/6zVbbGP5fZU4ELwjNyPf4k)** by **berryblue, LeeJi** *(GOT ME LIKE)*
+🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
+🎤 **[never enough](https://open.spotify.com/track/17dThjNLsDRXsX855um2a1)** by **otuka** *(never enough)*
+🎤 **[easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE)** by **lil hero** *(pawwwfect!)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 19:09:11Z UTC
+🕐 Last updated: 2025-06-14 19:23:06Z UTC
 <!-- SPOTIFY-END -->
