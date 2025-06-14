@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d57e3b601a8171f7e122b2ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733bfeff0722efb8f054dfba16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)**
-*by* **Clams Casino, Imogen Heap**
-*Album:* Instrumental Relics
+**🎵 [Play Em Like Atari](https://open.spotify.com/track/2KRfNaClGnlVyWkLwHbiVN)**
+*by* **Drain Gang Archive**
+*Album:* Play Em Like Atari
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:17 • 4:37
+    0:53 • 3:49
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)** by **Dean Blunt, TYSON** *(Rinsed)*
-🎤 **[Pa'que Gozes](https://open.spotify.com/track/2sAPKFawTXnA4vudQKTFAu)** by **Yan Rymond** *(Alegria Latina)*
-🎤 **[Girl Gone Wild](https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb)** by **Madonna** *(MDNA)*
-🎤 **[Le Freak - Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa)** by **CHIC** *(Les Plus Grands Success De Chic - Chic's Greatest Hits)*
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
+🎤 **[hold me down like gravity](https://open.spotify.com/track/4Aapz7lm6XTjuhTSb2gFBd)** by **Drain Gang Archive** *(HOLD ME DOWN LIKE GRAVITY)*
+🎤 **[rain check](https://open.spotify.com/track/5mkwXXNLr8pkaU7v9rsyQH)** by **Drain Gang Archive** *(Rain Check)*
+🎤 **[Bleach](https://open.spotify.com/track/1OMmOKi0ay6FNVsqSjWKkf)** by **Drain Gang Archive** *(Bleach)*
+🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
+🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-14 21:47:39Z UTC
+🕐 Last updated: 2025-06-14 22:11:15Z UTC
 <!-- SPOTIFY-END -->
