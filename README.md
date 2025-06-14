@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6d8e3ad5743739f6a81b3b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731e0a5d54ea61d621fcaa4084" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)**
-*by* **DJmegan23**
-*Album:* Dopamine Machine 2
+**🎵 [no margin 4 error](https://open.spotify.com/track/3u9S1IYsDNk0BN11HJUTPL)**
+*by* **archive computer**
+*Album:* no margin 4 error
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="83" height="4" fill="#1db954" rx="2"/>
+    <circle cx="83" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:21
+    0:32 • 1:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Phone](https://open.spotify.com/track/6L7Ajavq9QvBpJXuXzlgvi)** by **Rooster** *(Rooster Debut)*
-🎤 **[Claws (o0o rmx)](https://open.spotify.com/track/1w1NBZ2BRJcIdZdReFpxaO)** by **o0o** *(Claws (o0o rmx))*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
+🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
+🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[morning again](https://open.spotify.com/track/2mUWmbStBzGF3a7Xtje67I)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[purextc](https://open.spotify.com/track/3Lv7M6z3QY4b9LbmHI1FSL)** by **Levi Ryan** *(out of spite)*
+🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 15:29:29Z UTC
+🕐 Last updated: 2025-06-14 15:40:56Z UTC
 <!-- SPOTIFY-END -->
