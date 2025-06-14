@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ac9f99a0bcc4b0a9df1078b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a7f185d67a53e6dc5c72d91a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cycle](https://open.spotify.com/track/36C9fDK9YKzahKUZuqaae2)**
-*by* **stixz**
-*Album:* cycle
+**🎵 [Diamonds In My Eyes](https://open.spotify.com/track/6D0U1ZDXM4rOHtWide5gpd)**
+*by* **caspr archive**
+*Album:* Diamonds In My Eyes
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 2:14
+    2:36 • 3:22
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Exclusive](https://open.spotify.com/track/7qvnxWY4WKWgVfPL0cfl9L)** by **pulsi, Doktor Sterben, Kinaro** *(Exclusive)*
+🎤 **[Hab deine Nummer gelöscht](https://open.spotify.com/track/0WSh1fCwaGgc84v9KODGFo)** by **Maliq** *(Sex Drugs Love)*
+🎤 **[cycle](https://open.spotify.com/track/36C9fDK9YKzahKUZuqaae2)** by **stixz** *(cycle)*
 🎤 **[seen u in last fall](https://open.spotify.com/track/6vUsvP62dPnQ0s3GoUfOWp)** by **cholorofilm** *(seen u in last fall)*
 🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
-🎤 **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)*
-🎤 **[You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)** by **Ecco2k, Bladee, Thaiboy Digital** *(Trash Island)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-14 23:41:52Z UTC
+🕐 Last updated: 2025-06-14 23:49:27Z UTC
 <!-- SPOTIFY-END -->
