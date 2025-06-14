@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d908dfcf8d278821c5da625a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300e7a2761ea1925d33834d65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Le Freak - Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa)**
-*by* **CHIC**
-*Album:* Les Plus Grands Success De Chic - Chic's Greatest Hits
+**🎵 [Pa'que Gozes](https://open.spotify.com/track/2sAPKFawTXnA4vudQKTFAu)**
+*by* **Yan Rymond**
+*Album:* Alegria Latina
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 3:35
+    4:51 • 5:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Girl Gone Wild](https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb)** by **Madonna** *(MDNA)*
+🎤 **[Le Freak - Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa)** by **CHIC** *(Les Plus Grands Success De Chic - Chic's Greatest Hits)*
 🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
 🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
 🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
-🎤 **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-14 21:27:36Z UTC
+🕐 Last updated: 2025-06-14 21:37:57Z UTC
 <!-- SPOTIFY-END -->
