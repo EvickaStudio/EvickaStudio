@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eb95b2b3d04e4486a9b908ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)**
-*by* **Edwin Rosen**
-*Album:* mitleerenhänden
+**🎵 [Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)**
+*by* **IVOXYGEN**
+*Album:* Blurry World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 3:29
+    2:39 • 3:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
-🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
-🎤 **[mid](https://open.spotify.com/track/0bDdzFjqEeA64NaQ6m2gYg)** by **lor2mg** *(LOR4LIFE)*
-🎤 **[HOME](https://open.spotify.com/track/3yFjzSGEvNFE1YbA3lYR2M)** by **rari kari** *(LIMINAL)*
+🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
+🎤 **[Air Bnb Sonnet](https://open.spotify.com/track/2RH5vqBNPnuXkJvuumNmxr)** by **The Hellp** *(Enemy)*
+🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
+🎤 **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)*
+🎤 **[LOST ALL HOPE\\](https://open.spotify.com/track/36e2Pi2XN5hr4EqynImfCU)** by **Zaram, LuvKaiju** *(LOST ALL HOPE\\)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 10:48:49Z UTC
+🕐 Last updated: 2025-06-14 11:09:40Z UTC
 <!-- SPOTIFY-END -->
