@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cda99731b36556d7ba9cbcc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360ddc59c8d590a37cf2348f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Camouflage](https://open.spotify.com/track/1tMSSnH47S3CTDomxJxNF7)**
-*by* **Seba**
-*Album:* Producer 06
+**🎵 [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)**
+*by* **ThxSoMch**
+*Album:* SPIT IN MY FACE!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+    <rect width="122" height="4" fill="#1db954" rx="2"/>
+    <circle cx="122" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:58 • 8:38
+    1:00 • 2:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)*
-🎤 **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)*
-🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
-🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
+🎤 **[Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)** by **H3artcrush, Punkinloveee** *(Freak Show)*
+🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
+🎤 **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)*
+🎤 **[Places](https://open.spotify.com/track/3mWwAGFtKP7znNKfBALzyq)** by **Jimothy Lacoste** *(Places)*
+🎤 **[Самое отвратительное](https://open.spotify.com/track/5T5a5K0UJjqir85p0ZW8Ux)** by **lostlxc3y** *(Самое отвратительное)*
 
 
 
@@ -154,9 +154,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 🥈 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 🥉 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
-🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
+🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-14 19:47:38Z UTC
+🕐 Last updated: 2025-06-14 20:12:49Z UTC
 <!-- SPOTIFY-END -->
