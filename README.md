@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cab4f838e534628d172d8257" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a12aefbe83bde74fb8bfc92a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)**
-*by* **Levi Ryan, gl0wrm**
-*Album:* meant to hurt
+**🎵 [Friends](https://open.spotify.com/track/656gU5TJunfBBMyvqXy850)**
+*by* **Elusin**
+*Album:* Friends
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 3:14
+    2:51 • 4:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
-🎤 **[77 spiders](https://open.spotify.com/track/3HwiGErM6OLa8EoV77stLr)** by **archive computer** *(77 spiders)*
-🎤 **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)*
-🎤 **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)*
-🎤 **[cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)** by **2hollis** *(whiplash / cliche)*
+🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[train to warsaw](https://open.spotify.com/track/1dYpF7nsnF67lHiuviw2tB)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[HOME](https://open.spotify.com/track/1ai5vhccieRyfIaVClbEYX)** by **Gao the Arsonist** *(OUR BONES ARE ARTIFACTS)*
+🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
+🎤 **[Obsessed with Death](https://open.spotify.com/track/05ifP6Zr5ISYYPN1ofLDVT)** by **Bladee** *(Requiem)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 14:10:22Z UTC
+🕐 Last updated: 2025-06-14 14:30:10Z UTC
 <!-- SPOTIFY-END -->
