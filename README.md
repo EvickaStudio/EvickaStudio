@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326e42b71afd75d9b029f5c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27343d86723704f8c02b7047a16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)**
-*by* **Thrilliam Angels, floweroom**
-*Album:* This Sunrise Is Brutal
+**🎵 [jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 1:26
+    0:34 • 2:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Covered Eyes](https://open.spotify.com/track/3NqE9pG70Esz3YM0d7tflQ)** by **Evanora Unlimited** *(Perfect Answer)*
-🎤 **[Stunn](https://open.spotify.com/track/6wHDFttQM9JU16Oq41SXvq)** by **The Hellp** *(LL)*
-🎤 **[GOD](https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC)** by **2hollis** *(2)*
-🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
-🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
+🎤 **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[Salt Water](https://open.spotify.com/track/5Xk5nvGIzIev5kn96CyrFA)** by **Evanora Unlimited, Taraneh** *(Perfect Answer)*
+🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
+🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
+🎤 **[she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)** by **archive computer** *(she knows)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 16:36:38Z UTC
+🕐 Last updated: 2025-06-14 16:51:39Z UTC
 <!-- SPOTIFY-END -->
