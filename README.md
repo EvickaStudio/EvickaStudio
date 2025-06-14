@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d7a92a4e7caecba01294e8d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)**
-*by* **Thrilliam Angels, Frost Children, David Arms Deal, vrde**
-*Album:* Iliad Unspoken
+**🎵 [Eislaufen 2k24](https://open.spotify.com/track/09sPmkKTfsWiH65SMhRrKn)**
+*by* **Rowli, Hank, Beats by Luca**
+*Album:* Eislaufen 2k24
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="275" height="4" fill="#1db954" rx="2"/>
-    <circle cx="275" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 2:17
+    1:56 • 2:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[marine x](https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm)** by **Levi Ryan, Blksmiith** *(marine x)*
-🎤 **[Chained Up](https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU)** by **Snow Strippers** *(Night Killaz Vol. 2)*
-🎤 **[fall into](https://open.spotify.com/track/0dbDI6jBhRgrRt7bKKCmRm)** by **lor2mg** *(fall into)*
-🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
-🎤 **[ANKLE SPRAINZ (DJM23)](https://open.spotify.com/track/4FjjqzZhRISFtEKL0S8Jz7)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
+🎤 **[crashout](https://open.spotify.com/track/6B2aLOyMWKDDGOT5PDRs8Q)** by **lor2mg** *(getaway)*
+🎤 **[liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso)** by **damon r.** *(liverounds)*
+🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 18:15:23Z UTC
+🕐 Last updated: 2025-06-14 18:44:37Z UTC
 <!-- SPOTIFY-END -->
