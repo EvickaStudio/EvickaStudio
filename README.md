@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d4915d8fae2cd93186ca4869" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733f40125dc86422780af2f6d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Electronica](https://open.spotify.com/track/4ok1TfaMUQhp3zwwA3o3rt)**
-*by* **Brothel in Belize**
-*Album:* Electronica
+**🎵 [words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)**
+*by* **SHEMYYY**
+*Album:* words you say
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 2:00
+    1:31 • 1:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[homecoming](https://open.spotify.com/track/5SWhEhbc0ShOzEQEIvCYJz)** by **Levi Ryan** *(soviet winter)*
+🎤 **[sixline](https://open.spotify.com/track/0Rgoksq3x1l7tnXr1M9XFA)** by **lor2mg** *(getaway)*
+🎤 **[Electronica](https://open.spotify.com/track/4ok1TfaMUQhp3zwwA3o3rt)** by **Brothel in Belize** *(Electronica)*
 🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
 🎤 **[Thinking 2 Much](https://open.spotify.com/track/2ElJ0Q4UMS16zjridsNOTX)** by **DJmegan23, Mixie** *(Thou Art All Lost And Forgotten)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
-🎤 **[low light](https://open.spotify.com/track/17FGEPZDoDo63uxJckYjXd)** by **Levi Ryan** *(low light)*
-🎤 **[rubber](https://open.spotify.com/track/2sxCg3DWemTVhIpUkviFFO)** by **lor2mg** *(rubber)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 17:39:14Z UTC
+🕐 Last updated: 2025-06-14 17:47:43Z UTC
 <!-- SPOTIFY-END -->
