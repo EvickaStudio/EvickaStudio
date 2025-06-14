@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273852ad5d79941de06639ec637" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f9cae5eebb801556fa999d9a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)**
-*by* **Tamino404**
-*Album:* roter knopf
+**🎵 [Raindrops](https://open.spotify.com/track/52TTlu9jMl55vDnXnwQkcs)**
+*by* **Nokia Angel**
+*Album:* Raindrops
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="170" height="4" fill="#1db954" rx="2"/>
-    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 2:11
+    1:19 • 3:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
-🎤 **[Bastard](https://open.spotify.com/track/1u6zqsXN5WdTBJktOc0YlI)** by **leander, Hadesthegrim** *(Bastard)*
-🎤 **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)*
-🎤 **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)*
-🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
+🎤 **[UK Dream](https://open.spotify.com/track/7q3v5xHoFvLRLBDoL0jYo6)** by **Palmistry** *(TINKERBELL)*
+🎤 **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)*
+🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 10:12:24Z UTC
+🕐 Last updated: 2025-06-14 10:34:12Z UTC
 <!-- SPOTIFY-END -->
