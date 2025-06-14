@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273319f6643f9fc6a44402896d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cab4f838e534628d172d8257" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)**
-*by* **sparr00w**
-*Album:* Soundcloud Archive
+**🎵 [meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)**
+*by* **Levi Ryan, gl0wrm**
+*Album:* meant to hurt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="275" height="4" fill="#1db954" rx="2"/>
-    <circle cx="275" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 1:47
+    0:41 • 3:14
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
-🎤 **[Golden God](https://open.spotify.com/track/4Nv2DmZ8VvCavaOtlIHPHQ)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[2008](https://open.spotify.com/track/4FOuhsFBiLRtEzabE3SL3c)** by **DJmegan23** *(Trenches)*
-🎤 **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
+🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
+🎤 **[77 spiders](https://open.spotify.com/track/3HwiGErM6OLa8EoV77stLr)** by **archive computer** *(77 spiders)*
+🎤 **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)*
+🎤 **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)*
+🎤 **[cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)** by **2hollis** *(whiplash / cliche)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 13:48:20Z UTC
+🕐 Last updated: 2025-06-14 14:10:22Z UTC
 <!-- SPOTIFY-END -->
