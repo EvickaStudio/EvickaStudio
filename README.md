@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393f65ff081545e79a0ae56a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273319f6643f9fc6a44402896d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [alone again](https://open.spotify.com/track/0IuM052fhNpyLJwyZlBsSF)**
-*by* **meat computer**
-*Album:* alone again
+**🎵 [Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)**
+*by* **sparr00w**
+*Album:* Soundcloud Archive
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="279" height="4" fill="#1db954" rx="2"/>
-    <circle cx="279" cy="2" r="6" fill="#1db954"/>
+    <rect width="275" height="4" fill="#1db954" rx="2"/>
+    <circle cx="275" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:52 • 2:00
+    1:38 • 1:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[Sold Out](https://open.spotify.com/track/0symmj4uSnBmiMblgJb5BZ)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)*
-🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[Golden God](https://open.spotify.com/track/4Nv2DmZ8VvCavaOtlIHPHQ)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[2008](https://open.spotify.com/track/4FOuhsFBiLRtEzabE3SL3c)** by **DJmegan23** *(Trenches)*
+🎤 **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Blue Light**](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)
 
 
-🕐 Last updated: 2025-06-14 13:30:24Z UTC
+🕐 Last updated: 2025-06-14 13:48:20Z UTC
 <!-- SPOTIFY-END -->
