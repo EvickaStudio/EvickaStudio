@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27391756e6204367e198ddc8f10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273653b47f995c326ab7c592e26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)**
-*by* **Peake**
-*Album:* My Woeful Heart
+**🎵 [rubber](https://open.spotify.com/track/2sxCg3DWemTVhIpUkviFFO)**
+*by* **lor2mg**
+*Album:* rubber
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 1:45
+    2:01 • 2:05
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[playlist friendly unit shifter](https://open.spotify.com/track/2p18SqON596E1Z9ANOm6bm)** by **meat computer** *(playlist friendly unit shifter)*
-🎤 **[the fire\\](https://open.spotify.com/track/6S11xfTugWLgNwKNZjbWWZ)** by **Zaram, Lonely Spirit** *(the fire\\)*
-🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
-🎤 **[No Country](https://open.spotify.com/track/2Xb7JyGAJPLLt3QmwTYutY)** by **Evanora Unlimited** *(Perfect Answer)*
+🎤 **[virgin suicides](https://open.spotify.com/track/3qJrVNkG1OflvNhMj0J9Db)** by **Brothel in Belize** *(virgin suicides)*
+🎤 **[without you.](https://open.spotify.com/track/0giFwZsDiXt1VjyZSSTSUV)** by **SHEMYYY** *(without you.)*
+🎤 **[so cold](https://open.spotify.com/track/23IaFP72OKCvQftMPsQoa6)** by **DJmegan23, Senses** *(Thou Art All Lost And Forgotten)*
+🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
+🎤 **[digital holocaust](https://open.spotify.com/track/38fW2bWMcuy4fTyCzQTBbr)** by **Levi Ryan** *(soviet winter)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 17:10:02Z UTC
+🕐 Last updated: 2025-06-14 17:28:44Z UTC
 <!-- SPOTIFY-END -->
