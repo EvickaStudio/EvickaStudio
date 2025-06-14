@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733f40125dc86422780af2f6d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)**
-*by* **SHEMYYY**
-*Album:* words you say
+**🎵 [Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)**
+*by* **Thrilliam Angels, Frost Children, David Arms Deal, vrde**
+*Album:* Iliad Unspoken
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="275" height="4" fill="#1db954" rx="2"/>
+    <circle cx="275" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 1:57
+    2:06 • 2:17
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[homecoming](https://open.spotify.com/track/5SWhEhbc0ShOzEQEIvCYJz)** by **Levi Ryan** *(soviet winter)*
-🎤 **[sixline](https://open.spotify.com/track/0Rgoksq3x1l7tnXr1M9XFA)** by **lor2mg** *(getaway)*
-🎤 **[Electronica](https://open.spotify.com/track/4ok1TfaMUQhp3zwwA3o3rt)** by **Brothel in Belize** *(Electronica)*
-🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[Thinking 2 Much](https://open.spotify.com/track/2ElJ0Q4UMS16zjridsNOTX)** by **DJmegan23, Mixie** *(Thou Art All Lost And Forgotten)*
+🎤 **[marine x](https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm)** by **Levi Ryan, Blksmiith** *(marine x)*
+🎤 **[Chained Up](https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU)** by **Snow Strippers** *(Night Killaz Vol. 2)*
+🎤 **[fall into](https://open.spotify.com/track/0dbDI6jBhRgrRt7bKKCmRm)** by **lor2mg** *(fall into)*
+🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
+🎤 **[ANKLE SPRAINZ (DJM23)](https://open.spotify.com/track/4FjjqzZhRISFtEKL0S8Jz7)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
 
 
 
@@ -144,8 +144,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥉 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**DJmegan23**](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-14 17:47:43Z UTC
+🕐 Last updated: 2025-06-14 18:15:23Z UTC
 <!-- SPOTIFY-END -->
