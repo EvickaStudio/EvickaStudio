@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cf0b29eb06a92aa96acae64" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed422d1fa6541907ce533756" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Haunt Muskie](https://open.spotify.com/track/3ldyywwove50bW6LR2SYvE)**
-*by* **C418**
-*Album:* Minecraft - Volume Beta
+**🎵 [freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)**
+*by* **archive computer**
+*Album:* freedom from the world
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 6:01
+    1:01 • 1:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
-🎤 **[Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)** by **Surf Curse** *(Freaks)*
-🎤 **[Ms. Jackson](https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG)** by **Pashanim** *(Ms. Jackson)*
-🎤 **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)*
+🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)*
+🎤 **[Dying](https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe)** by **Cold Hart, Lil Peep** *(The OC Season 3)*
+🎤 **[Omori](https://open.spotify.com/track/3ceYSXb7oDbqk5LBK7b92q)** by **Yatsu** *(Omori)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-15 13:48:10Z UTC
+🕐 Last updated: 2025-06-15 14:10:34Z UTC
 <!-- SPOTIFY-END -->
