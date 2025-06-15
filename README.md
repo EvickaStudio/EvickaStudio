@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734e47aeb51f9bf9bcf8a20a93" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Letters to Jun(E)](https://open.spotify.com/track/4wG1OI56aIbNlvQcI2P8VA)**
-*by* **Witness**
-*Album:* Hope Springs Eternal
+**🎵 [Automne - Colchiques](https://open.spotify.com/track/5Rt5pomA6CvKTuCllwRY74)**
+*by* **Cortex**
+*Album:* Troupeau bleu
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 1:37
+    0:28 • 2:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Gonzales Go](https://open.spotify.com/track/3EIAv6o2dgciRkUmdljQfJ)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
-🎤 **[Troupeau bleu](https://open.spotify.com/track/2DTHWr5NK1igQZxctpYTA9)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Love Theme](https://open.spotify.com/track/1w5LNMQslctoeOwoQjwqnu)** by **Michael Small** *('klute' - Original Soundtrack Recording - Remastered)*
-🎤 **[Nostalgia - Rhythm Version](https://open.spotify.com/track/5wDyH8jsJYgqmmvanjG39y)** by **Piero Umiliani** *(La ragazza fuori strada)*
-🎤 **[Linda](https://open.spotify.com/track/6zE2xJvFmHEPECsvLki2CE)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
+🎤 **[A Winning Team](https://open.spotify.com/track/0xWK8T2MsDk5uHQT4raGIJ)** by **Cortex** *(Inedit 79)*
+🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
+🎤 **[Nicole](https://open.spotify.com/track/0vNKuD2WdRqoOmpn3Ho4i1)** by **Enrico Intra** *(Momento Intra)*
+🎤 **[One For The Wandering Mind](https://open.spotify.com/track/1wHb8rCwq3Rrqq3bmBEleH)** by **Dorian Concept** *(The Jitters)*
+🎤 **[Letters to Jun(E)](https://open.spotify.com/track/4wG1OI56aIbNlvQcI2P8VA)** by **Witness** *(Hope Springs Eternal)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 18:53:35Z UTC
+🕐 Last updated: 2025-06-15 19:09:37Z UTC
 <!-- SPOTIFY-END -->
