@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27336ed87e3a077308f3bb2f2c1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737435432dabe712a7ff47ed93" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)**
-*by* **FiNCH, Little Big**
-*Album:* Finchi's Love Tape
+**🎵 [bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)**
+*by* **Yung Lean**
+*Album:* Poison Ivy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 3:02
+    1:59 • 4:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K)** by **Pixies** *(Death to the Pixies)*
-🎤 **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)*
-🎤 **[Heb ab - sped up](https://open.spotify.com/track/27vUyn9Jmnky5ru1kuJgYu)** by **S1RENA** *(Heb ab)*
-🎤 **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
+🎤 **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)*
+🎤 **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
+🎤 **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR)** by **Joost** *(Europapa)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 23:11:35Z UTC
+🕐 Last updated: 2025-06-15 23:28:36Z UTC
 <!-- SPOTIFY-END -->
