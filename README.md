@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27367429daf4ee66966646d4574" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e236619d1054db8f6e092221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)**
-*by* **Soap Boyz**
-*Album:* Scheide
+**🎵 [AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)**
+*by* **Chapo102, 102 Boyz, Stacks102**
+*Album:* MISCHKONSUM EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="193" height="4" fill="#1db954" rx="2"/>
+    <circle cx="193" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 3:30
+    1:53 • 2:56
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Dancing Through the Night - Single Edit](https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF)** by **Raveboy** *(Dancing Through the Night)*
+🎤 **[Bando Engel](https://open.spotify.com/track/2oKGkjUY62IELUIgMRd0rI)** by **Dante YN** *(Kleinstadt Uniques)*
+🎤 **[fleeting moment](https://open.spotify.com/track/7mufYrXSD7uIGfzrGljWhb)** by **misani** *(moonlit meadows)*
+🎤 **[Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)** by **Soap Boyz** *(Scheide)*
 🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[Strano mercoledi - Original](https://open.spotify.com/track/3IweaHGiqTtCdrJq26dnYi)** by **Piero Piccioni** *(Appassionata)*
-🎤 **[All Caps](https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP)** by **SERAPHINE NOIR, Nona Shipov** *(All Caps)*
-🎤 **[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)** by **Mort Garson** *(Mother Earth's Plantasia)*
-🎤 **[It's Possible](https://open.spotify.com/track/7HWfJgLLbH5NjcghGM74tM)** by **Piero Piccioni, Catherine Howe** *(Il Dio sotto la pelle - God Under the Skin (Original Motion Picture Soundtrack))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 21:27:44Z UTC
+🕐 Last updated: 2025-06-15 21:38:06Z UTC
 <!-- SPOTIFY-END -->
