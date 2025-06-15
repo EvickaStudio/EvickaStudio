@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fa5bc52a1db732e5d621f2a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bc3f2817c8ae462c79fa924c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [im #obsessed w u lol](https://open.spotify.com/track/0qjgm8RYJmRX3Nu6ZIwyJt)**
-*by* **evrythnghurtz, adorken**
-*Album:* im #obsessed w u lol
+**🎵 [Obedient](https://open.spotify.com/track/5adW1n6jrFcc4sRAtFeQVX)**
+*by* **Bladee, Ecco2k**
+*Album:* Red Light
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="241" height="4" fill="#1db954" rx="2"/>
-    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:30
+    0:30 • 2:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)*
-🎤 **[Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx)** by **Patrick Watson** *(Je te laisserai des mots)*
-🎤 **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)*
-🎤 **[Keep My Coo](https://open.spotify.com/track/5r9pmRvq2fHFDsMClWZqjh)** by **Lil Peep** *(Keep My Coo)*
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
+🎤 **[singularity](https://open.spotify.com/track/78mW9Pan78OWNWIdLmT5AP)** by **k0d4m4** *(singularity)*
+🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
+🎤 **[viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8)** by **eevee** *(unexpected)*
+🎤 **[форева](https://open.spotify.com/track/3THzrFBk7SFzWWSh3Giuq0)** by **источник** *(так я в детстве все и представлял)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-15 10:37:08Z UTC
+🕐 Last updated: 2025-06-15 10:51:47Z UTC
 <!-- SPOTIFY-END -->
