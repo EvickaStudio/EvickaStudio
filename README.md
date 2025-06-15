@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736ba7eb6bbc6607629eb8a60c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730359e1e7a35282b49deffce0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)**
-*by* **Ritter Lean**
-*Album:* Einsame Insel
+**🎵 [Seit zwei drei Jahren](https://open.spotify.com/track/3OQKkxVm19JnHCS8I4vr9g)**
+*by* **sparr00w**
+*Album:* Nadja
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 2:44
+    0:59 • 1:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[GOLDKRONE](https://open.spotify.com/track/3yuGQEAZEbM4SnDFqOzoR1)** by **Kkuba102, 102 Boyz, Uncle F** *(SACHSCHADEN EP)*
-🎤 **[Unendlichkeit (Remix)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN)** by **MilleniumKid, JBS, The Boy The G** *(Unendlichkeit (Remix))*
-🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
-🎤 **[oxidized](https://open.spotify.com/track/1aOPnTT8VZIuYswvzzzfh8)** by **MAQ 22** *(Catch-22)*
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
+🎤 **[Mr Vain (feat. Tamika)](https://open.spotify.com/track/2UthFHQ34gEPNQ0qa6ihTa)** by **S3RL, Tamika** *(Mr Vain (feat. Tamika))*
+🎤 **[life after life](https://open.spotify.com/track/0oufNGimO4F8exn0CTKkWe)** by **dose** *(life after life)*
+🎤 **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)*
+🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-15 11:34:04Z UTC
+🕐 Last updated: 2025-06-15 11:47:35Z UTC
 <!-- SPOTIFY-END -->
