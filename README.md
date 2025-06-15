@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735cba2dbd9ce5c0e779ebd366" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27336ed87e3a077308f3bb2f2c1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)**
-*by* **5v, Odece**
-*Album:* bodyguard
+**🎵 [Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)**
+*by* **FiNCH, Little Big**
+*Album:* Finchi's Love Tape
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="168" height="4" fill="#1db954" rx="2"/>
+    <circle cx="168" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 1:29
+    1:42 • 3:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
-🎤 **[Träumen](https://open.spotify.com/track/1CqBpLMzzGj5fS4uT0mtnb)** by **CKK, toobrokeforfiji** *(Träumen)*
-🎤 **[Awake - Live at Studio Tessmar](https://open.spotify.com/track/106LPFFVp2Q4yx13qeYRbD)** by **orbit** *(Perspectives (Live Session))*
-🎤 **[keine kraft](https://open.spotify.com/track/5tSzocu3ONCE5cIdcXe9Oh)** by **Mobezzy, Steve276** *(keine kraft)*
-🎤 **[No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)** by **Galantis** *(No Money)*
+🎤 **[Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K)** by **Pixies** *(Death to the Pixies)*
+🎤 **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)*
+🎤 **[Heb ab - sped up](https://open.spotify.com/track/27vUyn9Jmnky5ru1kuJgYu)** by **S1RENA** *(Heb ab)*
+🎤 **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)*
+🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 22:49:34Z UTC
+🕐 Last updated: 2025-06-15 23:11:35Z UTC
 <!-- SPOTIFY-END -->
