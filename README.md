@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c6d0592361763bd8db30fc97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c475ea69b1597db49c62874" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)**
+**🎵 [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)**
 *by* **Edwin Rosen**
-*Album:* Die Sonne in deinem Zimmer
+*Album:* 21 Nächte wach
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 3:05
+    1:49 • 2:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
+🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
 🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
 🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[Perfekt](https://open.spotify.com/track/1uQmE4SKgtM4piHBqzdpu6)** by **Strive, Mobezzy** *(Perfekt)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-15 07:38:08Z UTC
+🕐 Last updated: 2025-06-15 07:47:42Z UTC
 <!-- SPOTIFY-END -->
