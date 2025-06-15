@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c2e275f3e14280dd2cea2de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)**
-*by* **agelast222**
-*Album:* SOLARCORP
+**🎵 [WIMHOf](https://open.spotify.com/track/1xoK00RybgwoF22LQ93VK5)**
+*by* **agelast222, gard**
+*Album:* SOLAR TACTICS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 3:16
+    0:52 • 1:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[VON ZEPPELIN](https://open.spotify.com/track/3r5kh7mN1OK2D2I90MdWQ6)** by **agelast222** *(SOLARCORP)*
-🎤 **[SONNENFARM FLAVOUR ....](https://open.spotify.com/track/6hOQPZLIOgb6ppfGV4lNGB)** by **agelast222, omgliney** *(SOLARCORP)*
-🎤 **[DIE FIRMA .... NIKOLA & MILAS](https://open.spotify.com/track/4H7hrakBCntdeOCVvLj7Zp)** by **agelast222** *(SOLARCORP)*
-🎤 **[GUDRUN ....](https://open.spotify.com/track/074g0Vkwrz0d7HQ3RjTiME)** by **agelast222, Gato** *(SOLARCORP)*
-🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[300BLk](https://open.spotify.com/track/0EOnXckkEtpuQORTuh1K7W)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[ROCk DAYs](https://open.spotify.com/track/17vUtB9CGZ9nTZ2uQamjOP)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 20:13:02Z UTC
+🕐 Last updated: 2025-06-15 20:31:26Z UTC
 <!-- SPOTIFY-END -->
