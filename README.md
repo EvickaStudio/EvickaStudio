@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed422d1fa6541907ce533756" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)**
-*by* **archive computer**
-*Album:* freedom from the world
+**🎵 [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)**
+*by* **MGMT**
+*Album:* Little Dark Age
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="143" height="4" fill="#1db954" rx="2"/>
+    <circle cx="143" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 1:59
+    2:23 • 4:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)*
-🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
-🎤 **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)*
-🎤 **[Dying](https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe)** by **Cold Hart, Lil Peep** *(The OC Season 3)*
-🎤 **[Omori](https://open.spotify.com/track/3ceYSXb7oDbqk5LBK7b92q)** by **Yatsu** *(Omori)*
+🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
+🎤 **[Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT)** by **Klangkuenstler** *(Deine Angst)*
+🎤 **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)*
+🎤 **[Dieser kleine Junge](https://open.spotify.com/track/7l8Zm1r5XSM7rSGuzZIQSk)** by **Brown-Eyes White Boy** *(Dieser kleine Junge)*
+🎤 **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)*
 
 
 
@@ -155,8 +155,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 🥉 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
-🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
+🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 14:10:34Z UTC
+🕐 Last updated: 2025-06-15 14:30:12Z UTC
 <!-- SPOTIFY-END -->
