@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dd30fcbd5d7fa6ccb531cf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f8a2d9994e3a897d56bd4e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)**
-*by* **diggidaniel**
-*Album:* Hilflos vor dir
+**🎵 [connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)**
+*by* **wiv**
+*Album:* connected
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="64" height="4" fill="#1db954" rx="2"/>
-    <circle cx="64" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 3:04
+    1:40 • 2:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
-🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[SSS](https://open.spotify.com/track/0mradpJjKccCx8pkgYRMua)** by **Edwin Rosen** *(Verschwende deine Zeit)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[Terror](https://open.spotify.com/track/4lg2hjAKigjscEfmxuCdny)** by **uusymon, 1antibody** *(Terror)*
+🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
+🎤 **[Things to Do](https://open.spotify.com/track/1V9lCLSierc1RFpERt6ak9)** by **Alex G** *(Race)*
+🎤 **[Out of My League](https://open.spotify.com/track/5qEn8c0MBzyRKgQq91Vevi)** by **Fitz and The Tantrums** *(Out of My League)*
+🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
 
 
 
@@ -155,8 +155,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 🥉 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
-🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
+🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-15 08:52:31Z UTC
+🕐 Last updated: 2025-06-15 09:12:30Z UTC
 <!-- SPOTIFY-END -->
