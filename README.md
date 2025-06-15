@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e8f887a1cc17bf97ce2c1389" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cff60f4f7347d871f78be2f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Red Sun](https://open.spotify.com/track/6oveYXy8E4ouDgDT7JkdIv)**
-*by* **SERAPHINE NOIR, Ash Lee**
-*Album:* Red Sun
+**🎵 [Carmen Blues](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)**
+*by* **Alberto Baldan Bembo**
+*Album:* L'amica di mia madre (Colonna sonora originale del film)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="85" height="4" fill="#1db954" rx="2"/>
-    <circle cx="85" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:46
+    1:59 • 2:12
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Tema di Susie](https://open.spotify.com/track/1YOOCK06gvytuk1jPk5XdN)** by **Alessandro Alessandroni** *(Sangue di sbirro (Original Motion Picture Soundtrack))*
-🎤 **[Mary et Jeff](https://open.spotify.com/track/0ztpWjYYFWQaw5DnPDIYkl)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Again](https://open.spotify.com/track/4esTbs8mGAcaiKBCsNmI4G)** by **SERAPHINE NOIR, Ash Lee** *(Again)*
-🎤 **[Love Story - 2024 Remastered Version](https://open.spotify.com/track/057hCbfZV3NcensFMGNrXH)** by **O'Donel Levy** *(Black Velvet (2024 Remastered Version))*
-🎤 **[Easy Lovers - Alternate Take](https://open.spotify.com/track/17wn00VCpnwY2GVIiLyXdD)** by **Piero Piccioni** *(Camille 2000 (Original Motion Picture Soundtrack))*
+🎤 **[Sabbat, pt. 3](https://open.spotify.com/track/0CycZ8pvvdqSyBxJLapOOI)** by **Cortex** *(Troupeau bleu)*
+🎤 **[Go Round](https://open.spotify.com/track/3CKsKWOasAzsjlhdWk9DGs)** by **Cortex** *(Troupeau bleu)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[Ricordandoti](https://open.spotify.com/track/4acYM2ql5qiU7yXtz9KM1n)** by **Piero Umiliani** *(La ragazza dalla pelle di luna)*
+🎤 **[Red Sun](https://open.spotify.com/track/6oveYXy8E4ouDgDT7JkdIv)** by **SERAPHINE NOIR, Ash Lee** *(Red Sun)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 17:29:20Z UTC
+🕐 Last updated: 2025-06-15 17:41:03Z UTC
 <!-- SPOTIFY-END -->
