@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735d3be82ed147ba917dc86d51" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a29e05c318d1b30d9e19119d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [pain, inhermemory](https://open.spotify.com/track/3cuBVQF4wrR04mbKunLnJV)**
-*by* **Sayako**
-*Album:* pain, inhermemory
+**🎵 [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)**
+*by* **Edwin Rosen**
+*Album:* Vertigo
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="204" height="4" fill="#1db954" rx="2"/>
+    <circle cx="204" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 1:30
+    2:23 • 3:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
-🎤 **[2025](https://open.spotify.com/track/5bdRXiz7mgdt2pR44pTHMt)** by **Psyke** *(2025)*
-🎤 **[Hab deine Nummer gelöscht](https://open.spotify.com/track/0WSh1fCwaGgc84v9KODGFo)** by **Maliq** *(Sex Drugs Love)*
-🎤 **[seen u in last fall](https://open.spotify.com/track/6vUsvP62dPnQ0s3GoUfOWp)** by **cholorofilm** *(seen u in last fall)*
-🎤 **[Together](https://open.spotify.com/track/6uEDeHyJNKLoR9Ya49bFkO)** by **S3RL, Fatshaudi, Luca Rain** *(Together)*
+🎤 **[Perfekt](https://open.spotify.com/track/1uQmE4SKgtM4piHBqzdpu6)** by **Strive, Mobezzy** *(Perfekt)*
+🎤 **[IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/track/7DIpqkrDONZ0jFRDFkRqGb)** by **makko, lucidbeatz** *(IM GLASHAUS MIT SCHEINEN WERFEN)*
+🎤 **[Diamonds In My Eyes](https://open.spotify.com/track/6D0U1ZDXM4rOHtWide5gpd)** by **caspr archive** *(Diamonds In My Eyes)*
+🎤 **[cycle](https://open.spotify.com/track/36C9fDK9YKzahKUZuqaae2)** by **stixz** *(cycle)*
+🎤 **[like a drug](https://open.spotify.com/track/65Mjj3dijmVHka2YFXuUem)** by **meat computer** *(like a drug)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-15 07:12:07Z UTC
+🕐 Last updated: 2025-06-15 07:28:07Z UTC
 <!-- SPOTIFY-END -->
