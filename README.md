@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc3f2817c8ae462c79fa924c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aa34e56c440a5e8790b524c3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Obedient](https://open.spotify.com/track/5adW1n6jrFcc4sRAtFeQVX)**
-*by* **Bladee, Ecco2k**
-*Album:* Red Light
+**🎵 [New Flesh](https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU)**
+*by* **Current Joys**
+*Album:* Wild Heart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:59
+    2:33 • 2:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[singularity](https://open.spotify.com/track/78mW9Pan78OWNWIdLmT5AP)** by **k0d4m4** *(singularity)*
-🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8)** by **eevee** *(unexpected)*
-🎤 **[форева](https://open.spotify.com/track/3THzrFBk7SFzWWSh3Giuq0)** by **источник** *(так я в детстве все и представлял)*
+🎤 **[Goth (Slowed + Reverb)](https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz)** by **Sidewalks and Skeletons** *(Goth (Slowed + Reverb))*
+🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
+🎤 **[Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv)** by **PlayaPhonk** *(Phonky Town)*
+🎤 **[Vampire Diaries](https://open.spotify.com/track/4pdBhHxKdIsZI4rVF6rq0d)** by **Audereus, SXZDU, sixzee** *(Vampire Diaries)*
+🎤 **[Endlos_demo](https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH)** by **Mayberg** *(Endlos_demo)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-15 10:51:47Z UTC
+🕐 Last updated: 2025-06-15 11:09:54Z UTC
 <!-- SPOTIFY-END -->
