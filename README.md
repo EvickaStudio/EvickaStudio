@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7f185d67a53e6dc5c72d91a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Diamonds In My Eyes](https://open.spotify.com/track/6D0U1ZDXM4rOHtWide5gpd)**
-*by* **caspr archive**
-*Album:* Diamonds In My Eyes
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:36 • 3:22
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Exclusive](https://open.spotify.com/track/7qvnxWY4WKWgVfPL0cfl9L)** by **pulsi, Doktor Sterben, Kinaro** *(Exclusive)*
-🎤 **[Hab deine Nummer gelöscht](https://open.spotify.com/track/0WSh1fCwaGgc84v9KODGFo)** by **Maliq** *(Sex Drugs Love)*
-🎤 **[cycle](https://open.spotify.com/track/36C9fDK9YKzahKUZuqaae2)** by **stixz** *(cycle)*
-🎤 **[seen u in last fall](https://open.spotify.com/track/6vUsvP62dPnQ0s3GoUfOWp)** by **cholorofilm** *(seen u in last fall)*
-🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
+🎤 **[Together](https://open.spotify.com/track/6uEDeHyJNKLoR9Ya49bFkO)** by **S3RL, Fatshaudi, Luca Rain** *(Together)*
+🎤 **[Indie Rider](https://open.spotify.com/track/6LRPT1c3gHgQqQpPHmBRLk)** by **fliggsy** *(Days b4 rider music 2)*
+🎤 **[Tried to Live](https://open.spotify.com/track/6S9gYhBoi5bjn7fYrMtsYs)** by **Nosgov, 5v** *(I Die 10000 Times a Day)*
+🎤 **[W!THER](https://open.spotify.com/track/57MzL91nq3FsCnMQHd4xuE)** by **riifty, morecalcium** *(SOC!AL RELAPSE)*
+🎤 **[Wake Up](https://open.spotify.com/track/2SRDFZJXedM02axRQIEGBm)** by **Wintercastle, Dj Foreign Money, gard** *(Champions League)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-14 23:49:27Z UTC
+🕐 Last updated: 2025-06-15 01:09:29Z UTC
 <!-- SPOTIFY-END -->
