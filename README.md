@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735d3be82ed147ba917dc86d51" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [pain, inhermemory](https://open.spotify.com/track/3cuBVQF4wrR04mbKunLnJV)**
+*by* **Sayako**
+*Album:* pain, inhermemory
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:42 • 1:30
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
+🎤 **[2025](https://open.spotify.com/track/5bdRXiz7mgdt2pR44pTHMt)** by **Psyke** *(2025)*
+🎤 **[Hab deine Nummer gelöscht](https://open.spotify.com/track/0WSh1fCwaGgc84v9KODGFo)** by **Maliq** *(Sex Drugs Love)*
+🎤 **[seen u in last fall](https://open.spotify.com/track/6vUsvP62dPnQ0s3GoUfOWp)** by **cholorofilm** *(seen u in last fall)*
 🎤 **[Together](https://open.spotify.com/track/6uEDeHyJNKLoR9Ya49bFkO)** by **S3RL, Fatshaudi, Luca Rain** *(Together)*
-🎤 **[Indie Rider](https://open.spotify.com/track/6LRPT1c3gHgQqQpPHmBRLk)** by **fliggsy** *(Days b4 rider music 2)*
-🎤 **[Tried to Live](https://open.spotify.com/track/6S9gYhBoi5bjn7fYrMtsYs)** by **Nosgov, 5v** *(I Die 10000 Times a Day)*
-🎤 **[W!THER](https://open.spotify.com/track/57MzL91nq3FsCnMQHd4xuE)** by **riifty, morecalcium** *(SOC!AL RELAPSE)*
-🎤 **[Wake Up](https://open.spotify.com/track/2SRDFZJXedM02axRQIEGBm)** by **Wintercastle, Dj Foreign Money, gard** *(Champions League)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-15 06:45:57Z UTC
+🕐 Last updated: 2025-06-15 07:12:07Z UTC
 <!-- SPOTIFY-END -->
