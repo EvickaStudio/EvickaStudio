@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a29e05c318d1b30d9e19119d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c6d0592361763bd8db30fc97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)**
+**🎵 [Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)**
 *by* **Edwin Rosen**
-*Album:* Vertigo
+*Album:* Die Sonne in deinem Zimmer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="204" height="4" fill="#1db954" rx="2"/>
-    <circle cx="204" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:23 • 3:30
+    0:40 • 3:05
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
 🎤 **[Perfekt](https://open.spotify.com/track/1uQmE4SKgtM4piHBqzdpu6)** by **Strive, Mobezzy** *(Perfekt)*
-🎤 **[IM GLASHAUS MIT SCHEINEN WERFEN](https://open.spotify.com/track/7DIpqkrDONZ0jFRDFkRqGb)** by **makko, lucidbeatz** *(IM GLASHAUS MIT SCHEINEN WERFEN)*
-🎤 **[Diamonds In My Eyes](https://open.spotify.com/track/6D0U1ZDXM4rOHtWide5gpd)** by **caspr archive** *(Diamonds In My Eyes)*
-🎤 **[cycle](https://open.spotify.com/track/36C9fDK9YKzahKUZuqaae2)** by **stixz** *(cycle)*
-🎤 **[like a drug](https://open.spotify.com/track/65Mjj3dijmVHka2YFXuUem)** by **meat computer** *(like a drug)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-15 07:28:07Z UTC
+🕐 Last updated: 2025-06-15 07:38:08Z UTC
 <!-- SPOTIFY-END -->
