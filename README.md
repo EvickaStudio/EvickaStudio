@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273022428a1bd7e689809e1f9a0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27367429daf4ee66966646d4574" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It's Possible](https://open.spotify.com/track/7HWfJgLLbH5NjcghGM74tM)**
-*by* **Piero Piccioni, Catherine Howe**
-*Album:* Il Dio sotto la pelle - God Under the Skin (Original Motion Picture Soundtrack)
+**🎵 [Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)**
+*by* **Soap Boyz**
+*Album:* Scheide
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="212" height="4" fill="#1db954" rx="2"/>
+    <circle cx="212" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:44 • 4:55
+    2:29 • 3:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Morning](https://open.spotify.com/track/7dEvUHcPU9jCXeYkKnHGKi)** by **Azymuth** *(Azymuth (Deluxe Edition))*
-🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
-🎤 **[Mexican Dream](https://open.spotify.com/track/1quput6F30wXk7Ym6XMPvS)** by **Piero Piccioni** *(Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack))*
-🎤 **[ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ)** by **セキトオ・シゲオ** *(華麗なるエレクトーン -ザ・ワード-)*
-🎤 **[Automne - Colchiques](https://open.spotify.com/track/5Rt5pomA6CvKTuCllwRY74)** by **Cortex** *(Troupeau bleu)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
+🎤 **[Strano mercoledi - Original](https://open.spotify.com/track/3IweaHGiqTtCdrJq26dnYi)** by **Piero Piccioni** *(Appassionata)*
+🎤 **[All Caps](https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP)** by **SERAPHINE NOIR, Nona Shipov** *(All Caps)*
+🎤 **[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)** by **Mort Garson** *(Mother Earth's Plantasia)*
+🎤 **[It's Possible](https://open.spotify.com/track/7HWfJgLLbH5NjcghGM74tM)** by **Piero Piccioni, Catherine Howe** *(Il Dio sotto la pelle - God Under the Skin (Original Motion Picture Soundtrack))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 21:11:06Z UTC
+🕐 Last updated: 2025-06-15 21:27:44Z UTC
 <!-- SPOTIFY-END -->
