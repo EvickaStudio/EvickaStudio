@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273647e8069c98c7b23b6c80648" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)**
-*by* **Kanye West**
-*Album:* My Beautiful Dark Twisted Fantasy
+**🎵 [Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)**
+*by* **Sewerslvt**
+*Album:* Draining Love Story
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="285" height="4" fill="#1db954" rx="2"/>
-    <circle cx="285" cy="2" r="6" fill="#1db954"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:45 • 4:59
+    0:18 • 5:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)*
-🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
-🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
-🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
-🎤 **[No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)** by **Galantis** *(No Money)*
+🎤 **[Left](https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi)** by **sign crushes motorist** *(i'll be okay)*
+🎤 **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)*
+🎤 **[Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw)** by **Käärijä** *(Cha Cha Cha)*
+🎤 **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)*
+🎤 **[Die Nacht](https://open.spotify.com/track/3ti85AY2vl920YH5u3dwMr)** by **unstimmig** *(Die Nacht)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 16:14:02Z UTC
+🕐 Last updated: 2025-06-15 16:38:21Z UTC
 <!-- SPOTIFY-END -->
