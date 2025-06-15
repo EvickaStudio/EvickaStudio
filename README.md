@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e76545c739c0e3dcc657c6dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bb61ea59e6648c11454b5bfe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [deep in it](https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg)**
-*by* **berlioz, Ted Jasper**
-*Album:* deep in it
+**🎵 [The Breeze and I](https://open.spotify.com/track/3xCjjJupMl5TD6LbsFAbk3)**
+*by* **Laurindo Almeida**
+*Album:* Classical Current
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
+    <rect width="118" height="4" fill="#1db954" rx="2"/>
+    <circle cx="118" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:34
+    1:34 • 4:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Aspetto ancora un giorno](https://open.spotify.com/track/3Qyz5OhjUzQFnjawpdrB1O)** by **Piero Piccioni** *(Quelle strane occasioni)*
-🎤 **[Ostavi trag](https://open.spotify.com/track/65zw2RY8Qp0JJDcQNSejNY)** by **September** *(Zadnja avantura)*
-🎤 **[Carmen Blues](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
-🎤 **[Sabbat, pt. 3](https://open.spotify.com/track/0CycZ8pvvdqSyBxJLapOOI)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Go Round](https://open.spotify.com/track/3CKsKWOasAzsjlhdWk9DGs)** by **Cortex** *(Troupeau bleu)*
+🎤 **[Samoa](https://open.spotify.com/track/5bECtLHt4A5a7kEYK6gh0b)** by **Alberto Baldan Bembo** *(Lingua d'argento)*
+🎤 **[Volto di donna - Trumpet Version](https://open.spotify.com/track/0FFRAdBmkWoMRNS5R6f14l)** by **Piero Umiliani** *(La ragazza fuori strada)*
+🎤 **[Ballade](https://open.spotify.com/track/69oDHCpVOoUUd9RfyyA42c)** by **Piero Piccioni** *(Camille 2000 (Original Motion Picture Soundtrack))*
+🎤 **[Sadness Theme](https://open.spotify.com/track/1deOV8lDnZ6u4TpBqOYYUV)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))*
+🎤 **[Tropical Club](https://open.spotify.com/track/76L1qBa3xJlxJ5HKzk8VbM)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 17:48:29Z UTC
+🕐 Last updated: 2025-06-15 18:16:00Z UTC
 <!-- SPOTIFY-END -->
