@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bb61ea59e6648c11454b5bfe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732b2d0e7625b03dc9a5728ebe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Breeze and I](https://open.spotify.com/track/3xCjjJupMl5TD6LbsFAbk3)**
-*by* **Laurindo Almeida**
-*Album:* Classical Current
+**🎵 [Nostalgia - Rhythm Version](https://open.spotify.com/track/5wDyH8jsJYgqmmvanjG39y)**
+*by* **Piero Umiliani**
+*Album:* La ragazza fuori strada
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="283" height="4" fill="#1db954" rx="2"/>
+    <circle cx="283" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 4:00
+    3:17 • 3:28
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Samoa](https://open.spotify.com/track/5bECtLHt4A5a7kEYK6gh0b)** by **Alberto Baldan Bembo** *(Lingua d'argento)*
-🎤 **[Volto di donna - Trumpet Version](https://open.spotify.com/track/0FFRAdBmkWoMRNS5R6f14l)** by **Piero Umiliani** *(La ragazza fuori strada)*
-🎤 **[Ballade](https://open.spotify.com/track/69oDHCpVOoUUd9RfyyA42c)** by **Piero Piccioni** *(Camille 2000 (Original Motion Picture Soundtrack))*
-🎤 **[Sadness Theme](https://open.spotify.com/track/1deOV8lDnZ6u4TpBqOYYUV)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))*
-🎤 **[Tropical Club](https://open.spotify.com/track/76L1qBa3xJlxJ5HKzk8VbM)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
+🎤 **[Linda](https://open.spotify.com/track/6zE2xJvFmHEPECsvLki2CE)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
+🎤 **[Mahè](https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq)** by **Piero Umiliani** *(La ragazza dalla pelle di luna)*
+🎤 **[Street Market / Love Scene](https://open.spotify.com/track/1lLRV5Ya7jD3vX8rKFhxy8)** by **Michael Small** *('klute' - Original Soundtrack Recording - Remastered)*
+🎤 **[Tears In Brasil](https://open.spotify.com/track/4gUSLTXPpzgZeCK9lo4OOP)** by **Piero Piccioni** *(Camille 2000 (Original Motion Picture Soundtrack))*
+🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 18:16:00Z UTC
+🕐 Last updated: 2025-06-15 18:44:22Z UTC
 <!-- SPOTIFY-END -->
