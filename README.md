@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ae6e1e4f061eab4ae1f91f91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Caps](https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP)**
-*by* **SERAPHINE NOIR, Nona Shipov**
-*Album:* All Caps
+**🎵 [Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 2:42
+    1:39 • 2:37
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Poxa](https://open.spotify.com/track/4NaIl2XLSgc5AoFIZm1NIU)** by **Cortex** *(Cortex, Vol. 2)*
+🎤 **[White Sands](https://open.spotify.com/track/5xLzGWWwVcIzFb5bL8eU84)** by **Alessandro Alessandroni** *(Panoramic Feelings (Mellow Carefree Lounge Music))*
+🎤 **[Tema di Barbara](https://open.spotify.com/track/3pz7qpUHb2aPhBhOHtWVy6)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
+🎤 **[All Caps](https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP)** by **SERAPHINE NOIR, Nona Shipov** *(All Caps)*
 🎤 **[Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)** by **Mort Garson** *(Mother Earth's Plantasia)*
-🎤 **[It's Possible](https://open.spotify.com/track/7HWfJgLLbH5NjcghGM74tM)** by **Piero Piccioni, Catherine Howe** *(Il Dio sotto la pelle - God Under the Skin (Original Motion Picture Soundtrack))*
-🎤 **[Morning](https://open.spotify.com/track/7dEvUHcPU9jCXeYkKnHGKi)** by **Azymuth** *(Azymuth (Deluxe Edition))*
-🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
-🎤 **[Mexican Dream](https://open.spotify.com/track/1quput6F30wXk7Ym6XMPvS)** by **Piero Piccioni** *(Colpo Rovente - Red Hot Shot (Original Motion Picture Soundtrack))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 19:34:13Z UTC
+🕐 Last updated: 2025-06-15 19:47:34Z UTC
 <!-- SPOTIFY-END -->
