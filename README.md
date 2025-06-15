@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737bbcf357527cda0c401c3e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273315686b3698c807eb82cb210" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)**
-*by* **agelast222**
-*Album:* ADAMAS SONG
+**🎵 [Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)**
+*by* **citrulinq, Kiki<3**
+*Album:* Hard Resonance
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="22" height="4" fill="#1db954" rx="2"/>
+    <circle cx="22" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 1:39
+    0:12 • 2:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)*
-🎤 **[elfbar (freestyle)](https://open.spotify.com/track/0CS7Rq2swLuq1SPAyVKJWC)** by **Iuvumi, 1ndertat** *(elfbar (freestyle))*
-🎤 **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)*
-🎤 **[Schiff](https://open.spotify.com/track/2i5et2xTyQQ9IqYdF8YxHo)** by **Filow** *(Schiff)*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
+🎤 **[Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl)** by **Aphex Twin** *(Drukqs)*
+🎤 **[Was It Weird I Listened to Im God by Clams Casino,s When I Lost My Virginity](https://open.spotify.com/track/5T92IFQuMqrWbPlZLf6Utv)** by **DEADGHOSTBABY** *(Child Sacrifice)*
+🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
+🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
+🎤 **[Deira City Centre](https://open.spotify.com/track/7fm0RfFil17f017qchrnyK)** by **Night Lovell** *(Concept Vague)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-15 14:50:15Z UTC
+🕐 Last updated: 2025-06-15 15:11:32Z UTC
 <!-- SPOTIFY-END -->
