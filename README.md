@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)**
-*by* **Edwin Rosen, sparr00w**
-*Album:* Die Sterne
+**🎵 [SSS](https://open.spotify.com/track/0mradpJjKccCx8pkgYRMua)**
+*by* **Edwin Rosen**
+*Album:* Verschwende deine Zeit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:45 • 3:18
+    1:25 • 2:41
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Vertigo - Luis Ake's Trance Atlantic Remix](https://open.spotify.com/track/2BgTiewiwz0itycfTVQcV3)** by **Edwin Rosen, Luis Ake** *(Vertigo (Luis Ake's Trance Atlantic Remix))*
-🎤 **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by **Edwin Rosen** *(mitleerenhänden)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Take Me Home**](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)
 
 
-🕐 Last updated: 2025-06-15 08:15:19Z UTC
+🕐 Last updated: 2025-06-15 08:42:08Z UTC
 <!-- SPOTIFY-END -->
