@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389c39ba1acdf33ed7acd3867" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fa5bc52a1db732e5d621f2a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV)**
-*by* **Labrinth**
-*Album:* Euphoria (Original Score from the HBO Series)
+**🎵 [im #obsessed w u lol](https://open.spotify.com/track/0qjgm8RYJmRX3Nu6ZIwyJt)**
+*by* **evrythnghurtz, adorken**
+*Album:* im #obsessed w u lol
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="170" height="4" fill="#1db954" rx="2"/>
-    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 2:33
+    2:00 • 2:30
 </span>
 </p>
 
@@ -131,18 +131,18 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Winterschlaf](https://open.spotify.com/track/5uu0UTwWZeSpyKcIS8T78M)** by **Tamino404** *(es ist nicht mehr 2016)*
-🎤 **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)*
-🎤 **[Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp)** by **Lil Tracy** *(Anarchy)*
-🎤 **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)*
-🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
+🎤 **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)*
+🎤 **[Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx)** by **Patrick Watson** *(Je te laisserai des mots)*
+🎤 **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)*
+🎤 **[Keep My Coo](https://open.spotify.com/track/5r9pmRvq2fHFDsMClWZqjh)** by **Lil Peep** *(Keep My Coo)*
+🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥇 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 🏅 [**DJmegan23**](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-15 10:13:08Z UTC
+🕐 Last updated: 2025-06-15 10:37:08Z UTC
 <!-- SPOTIFY-END -->
