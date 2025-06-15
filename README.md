@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731177117edbacace0239da72b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733110ac6b32c463f398a9e051" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl)**
-*by* **my dead girlfriend**
-*Album:* hades (the nine stages of change at the deceased remains)
+**🎵 [Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)**
+*by* **Wir sind Helden**
+*Album:* Von hier an blind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:00 • 4:32
+    2:43 • 3:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[lomomoto#](https://open.spotify.com/track/1MRUW05pHgu15jkebzP1w6)** by **Mietze Conte** *(Mietzee)*
+🎤 **[danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl)** by **my dead girlfriend** *(hades (the nine stages of change at the deceased remains))*
 🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
 🎤 **[Ohne Dich](https://open.spotify.com/track/0Lym3XzkptNzplQXIeXHu6)** by **Marsi, Mondieuz** *(Ohne Dich)*
 🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
-🎤 **[Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)** by **Krewella** *(Get Wet)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-15 09:41:38Z UTC
+🕐 Last updated: 2025-06-15 09:48:54Z UTC
 <!-- SPOTIFY-END -->
