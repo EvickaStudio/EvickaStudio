@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736d82586633548d5c122ee00c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f81de92cf7edcc005e3b13cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq)**
-*by* **Mother Mother**
-*Album:* O My Heart
+**🎵 [Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)**
+*by* **Pink Katana**
+*Album:* Der Drache wirft sein Auge auf die Stadt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="218" height="4" fill="#1db954" rx="2"/>
-    <circle cx="218" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 3:01
+    0:55 • 2:37
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
-🎤 **[Porcelain Angel](https://open.spotify.com/track/4XMCjvNxxNPBZDHOnzORN6)** by **kiLLa Laharl, s0cliché** *(Digital Shrine)*
-🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
-🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
-🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
+🎤 **[Fright Night](https://open.spotify.com/track/7ygPkAIBQw6nO57ufxdivZ)** by **decaying, INDEBT PRODUCTION** *(Fright Night)*
+🎤 **[Tränen stillen keinen Durst](https://open.spotify.com/track/06cX1gmzT8uBgPD5eYY3fJ)** by **Kalte Liebe** *(Tränen stillen keinen Durst)*
+🎤 **[Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc)** by **SOFFIE** *(Für immer Frühling)*
+🎤 **[Doktorspiele](https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f)** by **Alex C., Yass** *(Euphorie)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-16 03:52:56Z UTC
+🕐 Last updated: 2025-06-16 04:25:58Z UTC
 <!-- SPOTIFY-END -->
