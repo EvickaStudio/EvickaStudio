@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27337d148c0dcdcd5a106176bec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736d82586633548d5c122ee00c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)**
-*by* **Sickboyrari**
-*Album:* City Of Doves
+**🎵 [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq)**
+*by* **Mother Mother**
+*Album:* O My Heart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
+    <rect width="218" height="4" fill="#1db954" rx="2"/>
+    <circle cx="218" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:42 • 3:13
+    2:12 • 3:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)*
-🎤 **[Television / So Far So Good](https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI)** by **Rex Orange County** *(Apricot Princess)*
-🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
+🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
+🎤 **[Porcelain Angel](https://open.spotify.com/track/4XMCjvNxxNPBZDHOnzORN6)** by **kiLLa Laharl, s0cliché** *(Digital Shrine)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
+🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
+🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-16 02:59:00Z UTC
+🕐 Last updated: 2025-06-16 03:52:56Z UTC
 <!-- SPOTIFY-END -->
