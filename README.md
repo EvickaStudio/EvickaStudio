@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27343d86723704f8c02b7047a16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)**
-*by* **Chrystal, NOTION**
-*Album:* The Days (NOTION Remix)
+**🎵 [bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:38 • 3:53
+    1:57 • 2:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[three](https://open.spotify.com/track/0YvtuzxqHtn4f5cEQnBKJC)** by **Cult Member** *(2017 Archives)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by **Hole** *(Celebrity Skin)*
-🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
-🎤 **[Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
+🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
+🎤 **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)*
+🎤 **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)*
+🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
 
-🕐 Last updated: 2025-06-16 12:26:19Z UTC
+🕐 Last updated: 2025-06-16 13:07:48Z UTC
 <!-- SPOTIFY-END -->
