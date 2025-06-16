@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737652eb7317840da8b5c281da" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e340d0195cde766329e06def" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [du_spürst+nur-<3.durch-pillen+++](https://open.spotify.com/track/7buy6nBCpSDTWOYq4eVnDs)**
-*by* **DANZINGER 99**
-*Album:* du_spürst+nur-<3.durch-pillen+++
+**🎵 [Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)**
+*by* **TEMMIS**
+*Album:* Arterien
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 1:35
+    2:20 • 2:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Sonnenuntergang](https://open.spotify.com/track/5MXzMhcB2hgUC87fkLDaRV)** by **Lugatti & 9ine, Longus Mongus** *(MKS 3.0)*
-🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[ZAZA , fick deinen dad](https://open.spotify.com/track/114Nyyiamd0mwr7UFxJE01)** by **b3, lusi 7896, 1antibody, drillkanu, f1ns** *(ZAZA , fick deinen dad)*
-🎤 **[Souvenir](https://open.spotify.com/track/2ISMwHqa6AOZQXykuKhDWS)** by **lusi 7896, humanangst** *(Souvenir)*
-🎤 **[Lessons](https://open.spotify.com/track/6b2m2xoyx32g1U0hQldJJw)** by **Eric Diamond, Ski Beatz, LIFEOFTHOM** *(Breakfast Special)*
+🎤 **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)*
+🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
+🎤 **[schwarzweiß](https://open.spotify.com/track/53hFo1zfs5ARgXmzcmSxKw)** by **blombi19** *(schwarzweiß)*
+🎤 **[if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6)** by **Destroy Lonely** *(if looks could kill)*
+🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
 
 
 
@@ -155,8 +155,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 🥉 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
-🏅 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
+🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-16 16:47:31Z UTC
+🕐 Last updated: 2025-06-16 17:11:57Z UTC
 <!-- SPOTIFY-END -->
