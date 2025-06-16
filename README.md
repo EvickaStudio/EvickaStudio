@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2732c2e275f3e14280dd2cea2de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)**
+*by* **agelast222**
+*Album:* SOLARCORP
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:11 • 3:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[ROAD GIG](https://open.spotify.com/track/50cyJleglFt97WdE7fv8IY)** by **Indie Anthony** *(ROAD GIG)*
-🎤 **[open your eyes](https://open.spotify.com/track/4b8tM1j2DT686qAaQ2tOgp)** by **otuka** *(open your eyes)*
-🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D)** by **Kaito Shoma, DJ Paul, Kingpin Skinny Pimp** *(Scary Garry)*
+🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
+🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
 🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-16 09:52:01Z UTC
+🕐 Last updated: 2025-06-16 10:14:43Z UTC
 <!-- SPOTIFY-END -->
