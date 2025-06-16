@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733ec81a42a97a423241e71405" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27301054a4b4c24ec84353bd087" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [alone](https://open.spotify.com/track/6RcGnDf9hEyxJ8T6Wywn9j)**
-*by* **Ripsquad Archive**
-*Album:* alone
+**🎵 [gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)**
+*by* **lil hero**
+*Album:* pawwwfect!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:56
+    1:30 • 2:38
 </span>
 </p>
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-16 18:48:28Z UTC
+🕐 Last updated: 2025-06-16 19:10:08Z UTC
 <!-- SPOTIFY-END -->
