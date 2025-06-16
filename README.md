@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273870805e63e465b0ff22b3aca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737652eb7317840da8b5c281da" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KEIN BB BELT](https://open.spotify.com/track/1ae7TEUzp9RX9vbv6pUUs1)**
-*by* **dc**
-*Album:* KEIN BB BELT
+**🎵 [du_spürst+nur-<3.durch-pillen+++](https://open.spotify.com/track/7buy6nBCpSDTWOYq4eVnDs)**
+*by* **DANZINGER 99**
+*Album:* du_spürst+nur-<3.durch-pillen+++
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 1:50
+    1:21 • 1:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[STUDDED BRACELETS](https://open.spotify.com/track/61sRH8jcOypqY1QApOziCk)** by **ewrykk, lusi 7896** *(STUDDED BRACELETS)*
-🎤 **[NEUER ABSCHNITT](https://open.spotify.com/track/1ZoVo0xbrmINGVK1tNxjct)** by **lusi 7896, Nosgov** *(NEUER ABSCHNITT)*
-🎤 **[Never Be](https://open.spotify.com/track/00nZZ5ESWxCLOB1Fv5f2cM)** by **Hope, Ebubé** *(Never Be)*
-🎤 **[Water It Down](https://open.spotify.com/track/6lLKNevfFf8TuTUVotEhvN)** by **1antibody, lusi 7896, tarozan** *(Water It Down)*
-🎤 **[Steak in mein Bauch](https://open.spotify.com/track/2327jnP9A7we8V8gMtknuL)** by **Fatmeier, dc** *(Steak in mein Bauch)*
+🎤 **[Sonnenuntergang](https://open.spotify.com/track/5MXzMhcB2hgUC87fkLDaRV)** by **Lugatti & 9ine, Longus Mongus** *(MKS 3.0)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
+🎤 **[ZAZA , fick deinen dad](https://open.spotify.com/track/114Nyyiamd0mwr7UFxJE01)** by **b3, lusi 7896, 1antibody, drillkanu, f1ns** *(ZAZA , fick deinen dad)*
+🎤 **[Souvenir](https://open.spotify.com/track/2ISMwHqa6AOZQXykuKhDWS)** by **lusi 7896, humanangst** *(Souvenir)*
+🎤 **[Lessons](https://open.spotify.com/track/6b2m2xoyx32g1U0hQldJJw)** by **Eric Diamond, Ski Beatz, LIFEOFTHOM** *(Breakfast Special)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
 
-🕐 Last updated: 2025-06-16 16:16:20Z UTC
+🕐 Last updated: 2025-06-16 16:47:31Z UTC
 <!-- SPOTIFY-END -->
