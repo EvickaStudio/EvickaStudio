@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee8b603d6c666ba428daac30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e8129013df222c67e121ae52" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Disintegration - Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW)**
-*by* **The Cure**
-*Album:* Disintegration (Deluxe Edition)
+**🎵 [Places X Faces](https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN)**
+*by* **Aspen Forest**
+*Album:* Places X Faces
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    7:00 • 8:19
+    1:38 • 2:23
 </span>
 </p>
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-16 19:25:07Z UTC
+🕐 Last updated: 2025-06-16 19:34:48Z UTC
 <!-- SPOTIFY-END -->
