@@ -126,7 +126,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**Der Witz**](https://open.spotify.com/artist/7A7f89PrvDupKgLupuHRJc)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**DJmegan23**](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
 
-🕐 Last updated: 2025-06-16 13:56:44Z UTC
+🕐 Last updated: 2025-06-16 14:16:30Z UTC
 <!-- SPOTIFY-END -->
