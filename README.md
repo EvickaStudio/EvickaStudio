@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a88c6c3a82fe3a1c66219bd4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi)**
-*by* **Snow Strippers, Lil Uzi Vert**
-*Album:* April Mixtape 3
+**🎵 [Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)**
+*by* **Lykke Li, Autoerotique**
+*Album:* Little Bit (feat. Autoerotique) [Remix]
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="193" height="4" fill="#1db954" rx="2"/>
+    <circle cx="193" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:31
+    2:31 • 3:54
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)*
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
+🎤 **[976-EVIL](https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5)** by **Deftones** *(Diamond Eyes)*
+🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
+🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
+🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**how it feels to get run over**](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)
 
 
-🕐 Last updated: 2025-06-16 11:11:54Z UTC
+🕐 Last updated: 2025-06-16 11:27:41Z UTC
 <!-- SPOTIFY-END -->
