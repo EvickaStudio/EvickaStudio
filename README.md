@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d18434daf7d4085106107843" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300e438fd4ab3435a82d46f2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [私の小さな死](https://open.spotify.com/track/6frvjdYYAJWxfMlzWSKe8M)**
-*by* **Rory in early 20s**
-*Album:* 私の小さな死
+**🎵 [komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)**
+*by* **5star**
+*Album:* komm zurück
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 1:42
+    1:11 • 1:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
-🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
-🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
+🎤 **[MARLBORO REDS](https://open.spotify.com/track/74oxCGemnCDyMnatXIzHwm)** by **The Masqs** *(BLEED 2)*
+🎤 **[Gentle reset](https://open.spotify.com/track/04YGAdVSfrNVZPl2h0ZldS)** by **60 juno** *(Gentle reset)*
+🎤 **[Young Love](https://open.spotify.com/track/6d7HIswP9Be5QahNkBQx2X)** by **Wisteria** *(Young Love)*
+🎤 **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by **EKKSTACY** *(NEGATIVE)*
+🎤 **[rosalia](https://open.spotify.com/track/2vFirY0npDeVDCU7NeOjW8)** by **Faerybabyy, Mica, Sinnerella** *(rosalia)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 18:18:09Z UTC
+🕐 Last updated: 2025-06-17 18:48:13Z UTC
 <!-- SPOTIFY-END -->
