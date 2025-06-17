@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739866f83629f29c777e667e9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)**
-*by* **DJmegan23**
-*Album:* sound-proofed wilderness
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc)** by **Charli xcx** *(Pop 2)*
-🎤 **[Our Time to Shine](https://open.spotify.com/track/57Jn9IZhDAIXEHub5ilX4l)** by **DJ Kai, Star Stable** *(Our Time to Shine)*
-🎤 **[Fire](https://open.spotify.com/track/0J9dyAEyUZzIPZevkqzAvG)** by **Luca Hänni, Sunlike Brothers** *(Fire)*
-🎤 **[Untouched - Designer Drugs Remix Edit](https://open.spotify.com/track/6jqJrnCHVPcIY7O996tEAF)** by **The Veronicas** *(Untouched (Remixes))*
+🎤 **[gore](https://open.spotify.com/track/4HctrcdHYxakHotOkc5Qcd)** by **Perto** *(bozo)*
+🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[binary code](https://open.spotify.com/track/4ExXS46gKp608wdwE5GhUC)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ)** by **meat computer** *(i feel like a dog)*
+🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 17:12:25Z UTC
+🕐 Last updated: 2025-06-17 17:33:10Z UTC
 <!-- SPOTIFY-END -->
