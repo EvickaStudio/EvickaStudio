@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d0395ea346930597d3ce41f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b746d4b486c896e637dec186" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)**
-*by* **snor, cholorofilm, Mezha**
-*Album:* cnt live without u :c </3
+**🎵 [Wieso bist du nicht da](https://open.spotify.com/track/1IWu6NnBEjtmK5jOfUPFEF)**
+*by* **ArniTheSavage**
+*Album:* Wieso bist du nicht da
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 2:20
+    2:26 • 2:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)*
-🎤 **[Gym Class](https://open.spotify.com/track/4BfJmlzP0ErWns1YM1XASc)** by **Lil Peep** *(Gym Class)*
-🎤 **[Motherlode](https://open.spotify.com/track/6lrduzUfN6mAeHnPxBV3nF)** by **Clarry Berry** *(Motherlode)*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
-🎤 **[FULL Hp](https://open.spotify.com/track/1hJ8y4MTGfxuhesKBke1UT)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by **SMiLE.dk** *(Smile)*
+🎤 **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)*
+🎤 **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))*
+🎤 **[Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)** by **Pitbull, Kesha** *(Global Warming: Meltdown (Deluxe Version))*
+🎤 **[Приглашение-Сыктывкар-Club "HOST" 16.02.2013](https://open.spotify.com/track/5xE2kDm44jMLNFlTvfYGjk)** by **Gio Pika** *(Избранное)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 15:35:15Z UTC
+🕐 Last updated: 2025-06-17 15:51:29Z UTC
 <!-- SPOTIFY-END -->
