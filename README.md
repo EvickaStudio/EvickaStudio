@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2734cc95ef370b507d9e14d3a00" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Feel Me](https://open.spotify.com/track/0yclDnzBzShzanIkW0e6rb)**
+*by* **Gygas**
+*Album:* Tapes from the Attic
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:40 • 4:08
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
-🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
-🎤 **[1975](https://open.spotify.com/track/6mf2YhtRwQUdnORRrRQ3hP)** by **MAJAN, CRO** *(1975)*
-🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
+🎤 **[grave](https://open.spotify.com/track/15eUomdL0Vr93UD0anZOZw)** by **godtearz, Psychosis** *(grave)*
+🎤 **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)*
+🎤 **[Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)** by **mol$, Ripsquad Archive, 240pearl** *(Rip+)*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
+🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-17 06:19:12Z UTC
+🕐 Last updated: 2025-06-17 06:49:21Z UTC
 <!-- SPOTIFY-END -->
