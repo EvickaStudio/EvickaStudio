@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e809124125e310ba06470d7e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)**
+*by* **meat computer**
+*Album:* team edward
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:13 • 1:27
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
+🎤 **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)*
 🎤 **[gore](https://open.spotify.com/track/4HctrcdHYxakHotOkc5Qcd)** by **Perto** *(bozo)*
 🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
-🎤 **[binary code](https://open.spotify.com/track/4ExXS46gKp608wdwE5GhUC)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ)** by **meat computer** *(i feel like a dog)*
-🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 17:33:10Z UTC
+🕐 Last updated: 2025-06-17 17:49:26Z UTC
 <!-- SPOTIFY-END -->
