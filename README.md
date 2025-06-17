@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK)** by **Mother Mother** *(O My Heart)*
-🎤 **[ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)** by **oaf1** *(ilove urr girl)*
-🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
-🎤 **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)*
-🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
+🎤 **[fashionova](https://open.spotify.com/track/5hvyFJYMtTSivsYF27AmsL)** by **Levi Ryan, bleach.bath** *(fashionova)*
+🎤 **[Angel.Memory](https://open.spotify.com/track/3n4VsGp2CbMvXyzgQ6Vp7i)** by **Dusqk** *(Angel/MEM)*
+🎤 **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)*
+🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
+🎤 **[Intergallactic](https://open.spotify.com/track/1Ad4Uns8u9aytqNdPueSsP)** by **TYM** *(Sandstorm exuleD)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-17 01:02:43Z UTC
+🕐 Last updated: 2025-06-17 02:54:59Z UTC
 <!-- SPOTIFY-END -->
