@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3f277a73ba1f56f3647dfc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)**
-*by* **S1RENA**
-*Album:* Planet
+**🎵 [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)**
+*by* **The Police**
+*Album:* Reggatta De Blanc (Remastered 2003)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:09
+    0:07 • 4:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX)** by **Riovaz, Kanii** *(waiting alonE)*
-🎤 **[Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg)** by **TV Girl, George Clanton, Magdalena Bay** *(Fauxllennium (Japanese Deluxe Edition))*
-🎤 **[nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG)** by **camoufly, Dazegxd** *(nothing left 2 say / give u everything)*
-🎤 **[American Boy](https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh)** by **Estelle, Kanye West** *(Shine)*
-🎤 **[Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG)** by **PinkPantheress** *(Fancy That)*
+🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
+🎤 **[Mr. Big Rider](https://open.spotify.com/track/1m7iOdloO7RsZC0N9Kw2gv)** by **fliggsy** *(Days b4 rider music 2)*
+🎤 **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)*
+🎤 **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(Planet)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 23:29:26Z UTC
+🕐 Last updated: 2025-06-17 23:41:23Z UTC
 <!-- SPOTIFY-END -->
