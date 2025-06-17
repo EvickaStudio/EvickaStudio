@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a594bc3cf53b919d84828fd4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)**
-*by* **limedisx.**
-*Album:* Stars
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 3:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Vanilla Sky](https://open.spotify.com/track/45S1AYnCco4cXjFpoctV7u)** by **Bladee, Ecco2k** *(Vanilla Sky)*
-🎤 **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)*
-🎤 **[Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj)** by **The Beach Boys** *(Greatest Hits)*
-🎤 **[Shit Changed](https://open.spotify.com/track/38hCL8cBJbOVr9gt0XedSB)** by **Ufo361, Sonus030** *(Nur für dich)*
-🎤 **[Hey Now Hey Now](https://open.spotify.com/track/2V7xWRfNRhfuYLfrjl1mRc)** by **Mainstream Moguls** *(Mainstream Moguls)*
+🎤 **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)*
+🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
+🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
+🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
+🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 14:13:26Z UTC
+🕐 Last updated: 2025-06-17 14:37:15Z UTC
 <!-- SPOTIFY-END -->
