@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379d5627e754e5c56d4973ccc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)**
-*by* **Bladee**
-*Album:* 333
+**🎵 [Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)**
+*by* **Flawless Issues**
+*Album:* Cut the Rope
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 2:14
+    2:13 • 2:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
+🎤 **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)*
+🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
 🎤 **[bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb)** by **Fantasy Camp** *(long way home)*
 🎤 **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)*
-🎤 **[Bastard](https://open.spotify.com/track/1u6zqsXN5WdTBJktOc0YlI)** by **leander, Hadesthegrim** *(Bastard)*
-🎤 **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)*
-🎤 **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by **Ufo361, Pashanim** *(allein allein)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 21:44:08Z UTC
+🕐 Last updated: 2025-06-17 21:51:25Z UTC
 <!-- SPOTIFY-END -->
