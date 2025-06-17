@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739efda673310de265a2c1cf1f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)**
-*by* **Yung Hurn, meat computer**
-*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
+**🎵 [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)**
+*by* **Surf Curse**
+*Album:* Freaks
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:49
+    2:27 • 2:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
-🎤 **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)*
-🎤 **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[hurt](https://open.spotify.com/track/3kLgOLV4rB8Sjjyadqijam)** by **archive computer** *(hurt)*
+🎤 **[Dark Blue](https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW)** by **User2222** *(Dark Blue)*
+🎤 **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[haha swag](https://open.spotify.com/track/7fEGlvM24St5RqYoGSZ48q)** by **meat computer** *(haha swag)*
+🎤 **[Cocaine & Dirty Bathrooms](https://open.spotify.com/track/0YqSh4NIeHZIIS3wncFAez)** by **w3bcam** *(Cocaine & Dirty Bathrooms)*
 
 
 
@@ -143,9 +143,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**DJmegan23**](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 20:50:23Z UTC
+🕐 Last updated: 2025-06-17 21:12:05Z UTC
 <!-- SPOTIFY-END -->
