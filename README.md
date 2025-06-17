@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27328d6cbb3d289216c208c01b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [ZUCKER - Remix](https://open.spotify.com/track/7ykUSnlWwheGIgpWxXkNIL)**
+*by* **TYM, Nadir**
+*Album:* ZUCKER - REMIX
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:29 • 3:37
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[zwischen allem und nichts](https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn)** by **Kasi, antonius** *(sommernacht <3)*
+🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
+🎤 **[Things to Do](https://open.spotify.com/track/1V9lCLSierc1RFpERt6ak9)** by **Alex G** *(Race)*
 🎤 **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)*
-🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
-🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
-🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
-🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
 
 
 
@@ -124,9 +143,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 14:52:54Z UTC
+🕐 Last updated: 2025-06-17 15:13:54Z UTC
 <!-- SPOTIFY-END -->
