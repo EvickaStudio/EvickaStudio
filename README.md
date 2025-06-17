@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cc95ef370b507d9e14d3a00" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Feel Me](https://open.spotify.com/track/0yclDnzBzShzanIkW0e6rb)**
-*by* **Gygas**
-*Album:* Tapes from the Attic
+**🎵 [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)**
+*by* **Radiohead**
+*Album:* In Rainbows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 4:08
+    2:39 • 3:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[grave](https://open.spotify.com/track/15eUomdL0Vr93UD0anZOZw)** by **godtearz, Psychosis** *(grave)*
-🎤 **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)*
-🎤 **[Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)** by **mol$, Ripsquad Archive, 240pearl** *(Rip+)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
+🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
+🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-17 06:49:21Z UTC
+🕐 Last updated: 2025-06-17 07:13:01Z UTC
 <!-- SPOTIFY-END -->
