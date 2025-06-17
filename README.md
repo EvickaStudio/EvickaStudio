@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27300e438fd4ab3435a82d46f2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273caa12776b4bcbb425d122dca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)**
-*by* **5star**
-*Album:* komm zurück
+**🎵 [2025](https://open.spotify.com/track/5bdRXiz7mgdt2pR44pTHMt)**
+*by* **Psyke**
+*Album:* 2025
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 1:46
+    1:24 • 2:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[MARLBORO REDS](https://open.spotify.com/track/74oxCGemnCDyMnatXIzHwm)** by **The Masqs** *(BLEED 2)*
-🎤 **[Gentle reset](https://open.spotify.com/track/04YGAdVSfrNVZPl2h0ZldS)** by **60 juno** *(Gentle reset)*
-🎤 **[Young Love](https://open.spotify.com/track/6d7HIswP9Be5QahNkBQx2X)** by **Wisteria** *(Young Love)*
-🎤 **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by **EKKSTACY** *(NEGATIVE)*
-🎤 **[rosalia](https://open.spotify.com/track/2vFirY0npDeVDCU7NeOjW8)** by **Faerybabyy, Mica, Sinnerella** *(rosalia)*
+🎤 **[seen u in last fall](https://open.spotify.com/track/6vUsvP62dPnQ0s3GoUfOWp)** by **cholorofilm** *(seen u in last fall)*
+🎤 **[sanctuary](https://open.spotify.com/track/62hrQA9iXVJ2CsW72DfUls)** by **SHEMYYY** *(sanctuary)*
+🎤 **[like a drug](https://open.spotify.com/track/65Mjj3dijmVHka2YFXuUem)** by **meat computer** *(like a drug)*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
+🎤 **[Blick über die Stadt](https://open.spotify.com/track/1mhLW4sxzBsKnpZrAD722C)** by **52Blue** *(L(i)ebe)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 18:48:13Z UTC
+🕐 Last updated: 2025-06-17 19:10:07Z UTC
 <!-- SPOTIFY-END -->
