@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f194a6c8e0456ca5e347bb1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739866f83629f29c777e667e9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hung Up - SDP Extended Vocal](https://open.spotify.com/track/7y9exW0UAq7UszjxqPhzEq)**
-*by* **Madonna, Stuart Price**
-*Album:* Hung Up
+**🎵 [flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)**
+*by* **DJmegan23**
+*Album:* sound-proofed wilderness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="123" height="4" fill="#1db954" rx="2"/>
-    <circle cx="123" cy="2" r="6" fill="#1db954"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:15 • 7:56
+    0:30 • 2:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[P.Y.T. (Pretty Young Thing)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k)** by **Michael Jackson** *(Thriller)*
-🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[Society](https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1)** by **Pathetic** *(Society)*
-🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc)** by **Charli xcx** *(Pop 2)*
+🎤 **[Our Time to Shine](https://open.spotify.com/track/57Jn9IZhDAIXEHub5ilX4l)** by **DJ Kai, Star Stable** *(Our Time to Shine)*
+🎤 **[Fire](https://open.spotify.com/track/0J9dyAEyUZzIPZevkqzAvG)** by **Luca Hänni, Sunlike Brothers** *(Fire)*
+🎤 **[Untouched - Designer Drugs Remix Edit](https://open.spotify.com/track/6jqJrnCHVPcIY7O996tEAF)** by **The Veronicas** *(Untouched (Remixes))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-17 16:49:02Z UTC
+🕐 Last updated: 2025-06-17 17:12:25Z UTC
 <!-- SPOTIFY-END -->
