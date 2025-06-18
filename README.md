@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a61806fc4404696ecaa48e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e14a62375f1cac7db495e63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MR. SWAG (feat. makko)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9)**
-*by* **Maikel, makko**
-*Album:* MR. SWAG (feat. makko)
+**🎵 [Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)**
+*by* **Nightcore**
+*Album:* Back to Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 2:39
+    0:57 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
-🎤 **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)*
-🎤 **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)*
-🎤 **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by **Enquirer** *(for you)*
-🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
+🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
+🎤 **[Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu)** by **Juice WRLD** *(Death Race For Love (Bonus Track Version))*
+🎤 **[i'm the one in love](https://open.spotify.com/track/0RlRqK8oIV7DuV3UCGVcjQ)** by **timesgone, DNA** *(i'm the one in love)*
+🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
+🎤 **[Hold Me Close](https://open.spotify.com/track/0XjWu0ld7kthYqgTqAmUjF)** by **Carter Tomorrow** *(Hold Me Close)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-18 14:52:47Z UTC
+🕐 Last updated: 2025-06-18 15:13:56Z UTC
 <!-- SPOTIFY-END -->
