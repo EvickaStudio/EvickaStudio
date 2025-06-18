@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738986ae67eb43c33cc64234d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)**
-*by* **agelast222**
-*Album:* Last Bible
+**🎵 [Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)**
+*by* **Flawless Issues**
+*Album:* Self Reflection/ Carfentanyl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:31
+    0:25 • 2:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Mr. Forgettable](https://open.spotify.com/track/3lJD5BzSARTxNj1OYRyraX)** by **David Kushner** *(Footprints I Found)*
-🎤 **[Meine Gang (Bang Bang) - feat. Danju](https://open.spotify.com/track/4aqFOur4hjlFpGTvhtSVjb)** by **CRO, Danju** *(Melodie (Deluxe-Premium Edition))*
-🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
-🎤 **[nur das eine mal](https://open.spotify.com/track/2gliHWWr4YJHkMidpXG4tg)** by **Steintor Herrenchor** *(nur das eine mal)*
-🎤 **[Red Armor](https://open.spotify.com/track/4lokwaruKSA4UVymx6JqXc)** by **Niki Istrefi** *(EUROMANTIC001)*
+🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
+🎤 **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)*
+🎤 **[I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl)** by **Elliott Fullam** *(What's Wrong)*
+🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 06:49:42Z UTC
+🕐 Last updated: 2025-06-18 07:13:27Z UTC
 <!-- SPOTIFY-END -->
