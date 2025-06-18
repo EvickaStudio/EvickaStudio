@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c271701c8c4b212938f83478" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732885831e5db979a4db14c7dc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)**
-*by* **kevin**
-*Album:* hollywood
+**🎵 [Dying](https://open.spotify.com/track/4tRSUIr61rjZd4oUQuGVDe)**
+*by* **Cold Hart, Lil Peep**
+*Album:* The OC Season 3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:30 • 2:33
+    0:24 • 3:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[FAFB](https://open.spotify.com/track/25ERGFwjI1BUph1oqqTb6O)** by **Lucio101, Omar101, 1019** *(FAFB)*
-🎤 **[Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp)** by **Ghostemane** *(ANTI-ICON)*
-🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
-🎤 **[SSS](https://open.spotify.com/track/0mradpJjKccCx8pkgYRMua)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
+🎤 **[Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8)** by **Roar** *(I Can't Handle Change)*
+🎤 **[Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX)** by **6euroneunzig** *(Zur Party)*
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
 
 
 
@@ -155,8 +155,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 🥉 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
-🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
+🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-18 13:07:40Z UTC
+🕐 Last updated: 2025-06-18 13:44:23Z UTC
 <!-- SPOTIFY-END -->
