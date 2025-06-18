@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273064d25ba90710fa9b570838d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)**
-*by* **Replay Okay**
-*Album:* Sie ist anders <facts3
+**🎵 [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)**
+*by* **Radiohead**
+*Album:* Kid A
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 1:33
+    4:06 • 4:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
-🎤 **[Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ)** by **Wisp** *(Once then we'll be free)*
-🎤 **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)*
-🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
-🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
+🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
+🎤 **[Geiles Leben - Madizin Single Mix](https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2)** by **Glasperlenspiel, Madizin** *(Tag X (Geiles Leben Edition))*
+🎤 **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))*
+🎤 **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)*
+🎤 **[Fahrradsattel](https://open.spotify.com/track/0P0nhrK36P885ltXsdRovK)** by **Pisse** *(Kohlrübenwinter)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 11:47:31Z UTC
+🕐 Last updated: 2025-06-18 12:26:13Z UTC
 <!-- SPOTIFY-END -->
