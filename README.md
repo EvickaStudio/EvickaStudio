@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a01620a3146cdfb6d8e4166c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)**
-*by* **Pixies**
-*Album:* Surfer Rosa (2007 Remaster)
+**🎵 [Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)**
+*by* **DR0NE3**
+*Album:* Built This Way (Slowed)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 3:54
+    2:49 • 4:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)*
-🎤 **[The Breeze and I](https://open.spotify.com/track/3xCjjJupMl5TD6LbsFAbk3)** by **Laurindo Almeida** *(Classical Current)*
-🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
-🎤 **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)*
-🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
+🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
+🎤 **[No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB)** by **Radiohead** *(OK Computer)*
+🎤 **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)*
+🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
+🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 05:13:52Z UTC
+🕐 Last updated: 2025-06-18 05:35:08Z UTC
 <!-- SPOTIFY-END -->
