@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b4a6961af25f0ccb808d36f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aecfac6a733ba21cfd8efcb5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Innerbloom](https://open.spotify.com/track/5GXeNbxOEbd7sKrbsVLVVx)**
-*by* **RÜFÜS DU SOL**
-*Album:* Bloom
+**🎵 [Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)**
+*by* **52Blue**
+*Album:* Dummer Junge
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="218" height="4" fill="#1db954" rx="2"/>
+    <circle cx="218" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:04 • 9:38
+    2:09 • 2:56
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[All The Things She Said 2020 - Sub Sonik Remix](https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj)** by **DJ Gollum, Scarlet, Sub Sonik** *(All the Things She Said 2020 (Sub Sonik Remix))*
+🎤 **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)*
+🎤 **[tired of life](https://open.spotify.com/track/5vGyQLpCGtWmBrB67uEO1t)** by **meat computer** *(soundtrack to the end of a world)*
+🎤 **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)*
 🎤 **[Ich mag Züge](https://open.spotify.com/track/0DnVcskizKfZAioAA1Wfwz)** by **Baron** *(Ich mag Züge)*
-🎤 **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)*
-🎤 **[Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
-🎤 **[LIGHTS OFF](https://open.spotify.com/track/4TrjN7oHO4vJ5cN1W0MX5D)** by **Bandiicam** *(LIGHTS OFF)*
-🎤 **[DING DONG (feat. Mietze Conte)](https://open.spotify.com/track/3O79HkGiN07QB7kJ3gdCgi)** by **Yung Hurn, Mietze Conte** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-18 15:35:04Z UTC
+🕐 Last updated: 2025-06-18 15:51:33Z UTC
 <!-- SPOTIFY-END -->
