@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735fcd8144ff007592c8018cd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273529bfc94761b405a82166236" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)**
-*by* **Moe Shop, TORIENA**
-*Album:* Moe Moe
+**🎵 [angels](https://open.spotify.com/track/5dEfbusZ8dxYGAKDJ6Dwgr)**
+*by* **re6ce**
+*Album:* angels
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 3:09
+    0:11 • 2:49
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3)** by **Deftones** *(Saturday Night Wrist)*
-🎤 **[Pitch the Baby](https://open.spotify.com/track/1DXD0wVXXHwUYo9AXbcMMI)** by **Cocteau Twins** *(Heaven or Las Vegas)*
-🎤 **[Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
-🎤 **[Pennies - Remastered 2012](https://open.spotify.com/track/6Mc4bMZVQb13wayZbUPtuW)** by **The Smashing Pumpkins** *(Mellon Collie And The Infinite Sadness (Deluxe Edition))*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[Last Minute](https://open.spotify.com/track/4M6yFZaXcEsqlaZDPpn2WM)** by **kitty ray** *(Frostbite (Deluxe))*
+🎤 **[GOT UR NUMB3R (v2)](https://open.spotify.com/track/0diD9SEK0oNBOx0p0QGvAB)** by **bugcried** *(GOT UR NUMB3R (v2))*
+🎤 **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by **Starship** *(Knee Deep In The Hoopla)*
+🎤 **[Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N)** by **GROUPLOVE** *(Never Trust a Happy Song)*
+🎤 **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 11:11:37Z UTC
+🕐 Last updated: 2025-06-18 11:27:46Z UTC
 <!-- SPOTIFY-END -->
