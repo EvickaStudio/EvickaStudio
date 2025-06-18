@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386c11917e8da8aab8f5ea81d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)**
-*by* **Men At Work**
-*Album:* Business As Usual
+**🎵 [KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)**
+*by* **lusi 7896**
+*Album:* KUSH KOMA
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+    <rect width="159" height="4" fill="#1db954" rx="2"/>
+    <circle cx="159" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 3:45
+    1:07 • 2:06
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)*
 🎤 **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by **MGMT** *(Little Dark Age)*
 🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
 🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz)** by **Tory Lanez** *(Alone At Prom)*
-🎤 **[Demonz (feat. Brent Faiyaz) - Interlude](https://open.spotify.com/track/06GhyyKkQrMO73qVArgQVH)** by **Juice WRLD, Brent Faiyaz** *(Death Race For Love (Bonus Track Version))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-18 19:25:32Z UTC
+🕐 Last updated: 2025-06-18 19:35:43Z UTC
 <!-- SPOTIFY-END -->
