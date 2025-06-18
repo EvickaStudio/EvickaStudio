@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b8f8462b31efad4b75c83054" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730c451306175ac0f297b72967" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Play](https://open.spotify.com/track/4EbKAHT7I23BeXQFJ041Ls)**
-*by* **james K**
-*Album:* Play
+**🎵 [Cloud Chaser](https://open.spotify.com/track/535h9R5oP4UHBL2tQLdspG)**
+*by* **Goblins from Mars**
+*Album:* Vol. 4 (Originals)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="64" height="4" fill="#1db954" rx="2"/>
-    <circle cx="64" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 4:34
+    1:10 • 3:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
-🎤 **[Bloodbath (Dance)](https://open.spotify.com/track/5qM5ldkDmlDnBNOsp9YSrj)** by **kmoe** *(K1)*
-🎤 **[Bloodbath (Dance)](https://open.spotify.com/track/5qM5ldkDmlDnBNOsp9YSrj)** by **kmoe** *(K1)*
-🎤 **[just obliterate](https://open.spotify.com/track/2qOi8AB2u9pdsEPDdeowjb)** by **damon r.** *(re)*
-🎤 **[Embrace](https://open.spotify.com/track/5boRDq2wvAdbSxA0A81eQE)** by **Brothel in Belize** *(War)*
+🎤 **[In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)** by **Martin Garrix, Bebe Rexha** *(In the Name of Love)*
+🎤 **[YMCA - Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY)** by **Village People** *(YMCA)*
+🎤 **[Guts Theme](https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY)** by **Rooster** *(Rooster Debut)*
+🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
+🎤 **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 08:18:08Z UTC
+🕐 Last updated: 2025-06-18 08:47:07Z UTC
 <!-- SPOTIFY-END -->
