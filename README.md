@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27311d937d84174216839e1ed28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ddc6c6524a37ba7cb6dfb69d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)**
-*by* **DVRKLXGHT**
-*Album:* EUPHORIA
+**🎵 [*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)**
+*by* **TMY, Keigo, TYM, Maikel**
+*Album:* *Magichnicht*
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 3:03
+    2:59 • 3:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by **NXFEIT, Sillyelly, Hen848** *(CASSA DRITTISSIMA !!)*
-🎤 **[Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw)** by **Bravo 1-2, IVOXYGEN** *(Genesis)*
-🎤 **[Pumpfake](https://open.spotify.com/track/6GwdfiUA3p0zyXpP7LelL5)** by **Sadfriendd, Towa** *(Pumpfake)*
-🎤 **[All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9)** by **Kanye West, Syleena Johnson** *(The College Dropout)*
-🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
+🎤 **[Nice To Know Ya - Sped Up](https://open.spotify.com/track/2Jp4SHXHBDv9FLOQ4oB2Hb)** by **Sylendanna** *(Nice To Know Ya (Sped Up))*
+🎤 **[SEPTEMBER 17](https://open.spotify.com/track/1w7jTH3NDpIHn0440Vdtna)** by **Harrison Borts** *(HARRISONBORTS 2022)*
+🎤 **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)*
+🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
+🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 05:51:14Z UTC
+🕐 Last updated: 2025-06-18 06:19:18Z UTC
 <!-- SPOTIFY-END -->
