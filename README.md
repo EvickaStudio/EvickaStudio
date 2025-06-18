@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6bda9e64ed0ee73bbff71da" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)**
-*by* **mikeeysmind**
-*Album:* Resonance x Genesis x Not allowed
+**🎵 [Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)**
+*by* **Pixies**
+*Album:* Surfer Rosa (2007 Remaster)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 3:55
+    1:38 • 3:54
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)*
-🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
-🎤 **[bunnybunnybunny](https://open.spotify.com/track/1E29IO6Pv3JB4Sa7ZwVjMk)** by **Mietze Conte** *(bunnybunnybunny)*
-🎤 **[blush [2019]](https://open.spotify.com/track/33FpI5pgclw8lutZem3WRy)** by **damon r.** *(re)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)*
+🎤 **[The Breeze and I](https://open.spotify.com/track/3xCjjJupMl5TD6LbsFAbk3)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
+🎤 **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)*
+🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 04:47:49Z UTC
+🕐 Last updated: 2025-06-18 05:13:52Z UTC
 <!-- SPOTIFY-END -->
