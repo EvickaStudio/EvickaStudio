@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ef837137160f8210e2477fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730c5f23cbf0b1ab7e37d0dc67" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Meer fahren](https://open.spotify.com/track/73z3CBj1xVRr1IQckImczP)**
-*by* **Longus Mongus, Monk, BHZ**
-*Album:* Meer fahren
+**🎵 [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz)**
+*by* **Tory Lanez**
+*Album:* Alone At Prom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 3:41
+    2:18 • 3:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM)** by **Lil Peep** *(about u)*
-🎤 **[Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)** by **mol$, Ripsquad Archive, 240pearl** *(Rip+)*
-🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
-🎤 **[ISSO](https://open.spotify.com/track/0zHESRhLQ1B3aLNCdhmZdi)** by **TYM** *(ISSO)*
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[Demonz (feat. Brent Faiyaz) - Interlude](https://open.spotify.com/track/06GhyyKkQrMO73qVArgQVH)** by **Juice WRLD, Brent Faiyaz** *(Death Race For Love (Bonus Track Version))*
+🎤 **[Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY)** by **Kali Uchis** *(Red Moon In Venus)*
+🎤 **[Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn)** by **Brent Faiyaz** *(Fuck The World)*
+🎤 **[Hab deine Nummer gelöscht](https://open.spotify.com/track/0WSh1fCwaGgc84v9KODGFo)** by **Maliq** *(Sex Drugs Love)*
+🎤 **[took a percocet](https://open.spotify.com/track/0xHgGZlkQWALQw48yLR4Zu)** by **siwos, Capoxxo** *(took a percocet)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-18 16:16:05Z UTC
+🕐 Last updated: 2025-06-18 16:48:41Z UTC
 <!-- SPOTIFY-END -->
