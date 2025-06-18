@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d6d8c2eaa1f9031b62f7a3f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j)**
-*by* **Kavinsky**
-*Album:* Nightcall
+**🎵 [Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)**
+*by* **Radiohead**
+*Album:* In Rainbows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="123" height="4" fill="#1db954" rx="2"/>
-    <circle cx="123" cy="2" r="6" fill="#1db954"/>
+    <rect width="127" height="4" fill="#1db954" rx="2"/>
+    <circle cx="127" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 4:18
+    1:45 • 4:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by **Hole** *(Celebrity Skin)*
+🎤 **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by **Sidewalks and Skeletons** *(White Light)*
+🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by **akiaura, LONOWN, Olya Holiday** *(Midnight Skin)*
+🎤 **[Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j)** by **Kavinsky** *(Nightcall)*
 
 
 
@@ -155,8 +155,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 🥉 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
-🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
+🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-18 21:12:10Z UTC
+🕐 Last updated: 2025-06-18 21:29:39Z UTC
 <!-- SPOTIFY-END -->
