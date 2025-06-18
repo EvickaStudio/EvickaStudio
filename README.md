@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738986ae67eb43c33cc64234d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)**
-*by* **Flawless Issues**
-*Album:* Self Reflection/ Carfentanyl
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:01
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[can you tell?](https://open.spotify.com/track/38Y1BydPpwCEtW7LppLVTl)** by **Jane Remover** *(Frailty)*
+🎤 **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))*
+🎤 **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)*
 🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
-🎤 **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)*
-🎤 **[I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl)** by **Elliott Fullam** *(What's Wrong)*
-🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 07:13:27Z UTC
+🕐 Last updated: 2025-06-18 07:31:05Z UTC
 <!-- SPOTIFY-END -->
