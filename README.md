@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730c5f23cbf0b1ab7e37d0dc67" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz)**
-*by* **Tory Lanez**
-*Album:* Alone At Prom
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 3:46
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz)** by **Tory Lanez** *(Alone At Prom)*
 🎤 **[Demonz (feat. Brent Faiyaz) - Interlude](https://open.spotify.com/track/06GhyyKkQrMO73qVArgQVH)** by **Juice WRLD, Brent Faiyaz** *(Death Race For Love (Bonus Track Version))*
 🎤 **[Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY)** by **Kali Uchis** *(Red Moon In Venus)*
-🎤 **[Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn)** by **Brent Faiyaz** *(Fuck The World)*
-🎤 **[Hab deine Nummer gelöscht](https://open.spotify.com/track/0WSh1fCwaGgc84v9KODGFo)** by **Maliq** *(Sex Drugs Love)*
-🎤 **[took a percocet](https://open.spotify.com/track/0xHgGZlkQWALQw48yLR4Zu)** by **siwos, Capoxxo** *(took a percocet)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-18 16:48:41Z UTC
+🕐 Last updated: 2025-06-18 17:13:35Z UTC
 <!-- SPOTIFY-END -->
