@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a94afe91bfd59fb157e364f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338a8040723d47a318341e87c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Junge](https://open.spotify.com/track/10waMsh44ojvTwXAIy213n)**
-*by* **Die Ärzte**
-*Album:* Jazz ist anders
+**🎵 [The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)**
+*by* **Don Henley**
+*Album:* Building The Perfect Beast (Remastered 2024)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 3:07
+    0:51 • 4:49
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Odo](https://open.spotify.com/track/37bNBNB332HXbSy6079cws)** by **Ado** *(Kyougen)*
-🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
-🎤 **[I Saw an Angel](https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2)** by **Puzzle** *(Soaring)*
-🎤 **[Alles anders](https://open.spotify.com/track/5I8PSNvbnnXUpz5ioftyEb)** by **hqwilli** *(Allein im Club)*
-🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
+🎤 **[Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL)** by **slowthai** *(UGLY)*
+🎤 **[Part 2](https://open.spotify.com/track/1vV2dNQNvRaOhyxq9IUahq)** by **Louis Culture** *(Smile Soundsystem)*
+🎤 **[Greaze Mode](https://open.spotify.com/track/3nG784YlxS4VQOF0qiHKVP)** by **Skepta, Nafe Smallz** *(Ignorance is Bliss)*
+🎤 **[Arc'teryx](https://open.spotify.com/track/6yHFVcu3QgKyHMNGLFNYzG)** by **YT** *(Arc'teryx)*
+🎤 **[Alone](https://open.spotify.com/track/1lHqf91hPyXG3QrJ4PlsDc)** by **ayrtn** *(Ghost...)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-18 21:48:40Z UTC
+🕐 Last updated: 2025-06-18 22:12:07Z UTC
 <!-- SPOTIFY-END -->
