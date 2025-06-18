@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27338a8040723d47a318341e87c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)**
-*by* **Don Henley**
-*Album:* Building The Perfect Beast (Remastered 2024)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 4:49
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL)** by **slowthai** *(UGLY)*
-🎤 **[Part 2](https://open.spotify.com/track/1vV2dNQNvRaOhyxq9IUahq)** by **Louis Culture** *(Smile Soundsystem)*
-🎤 **[Greaze Mode](https://open.spotify.com/track/3nG784YlxS4VQOF0qiHKVP)** by **Skepta, Nafe Smallz** *(Ignorance is Bliss)*
-🎤 **[Arc'teryx](https://open.spotify.com/track/6yHFVcu3QgKyHMNGLFNYzG)** by **YT** *(Arc'teryx)*
-🎤 **[Alone](https://open.spotify.com/track/1lHqf91hPyXG3QrJ4PlsDc)** by **ayrtn** *(Ghost...)*
+🎤 **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)*
+🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
+🎤 **[jisatsu girl (自殺)](https://open.spotify.com/track/4chJRTJIZMyo8ESGTPvyMy)** by **requiem for you** *(jisatsu girl (自殺))*
+🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
+🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-18 22:12:07Z UTC
+🕐 Last updated: 2025-06-18 22:33:44Z UTC
 <!-- SPOTIFY-END -->
