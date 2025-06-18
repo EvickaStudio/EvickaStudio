@@ -107,12 +107,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c271701c8c4b212938f83478" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)**
-*by* **Radiohead**
-*Album:* Kid A
+**🎵 [hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)**
+*by* **kevin**
+*Album:* hollywood
 
 
 <p align="center">
@@ -123,7 +123,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:06 • 4:11
+    2:30 • 2:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
-🎤 **[Geiles Leben - Madizin Single Mix](https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2)** by **Glasperlenspiel, Madizin** *(Tag X (Geiles Leben Edition))*
-🎤 **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))*
-🎤 **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)*
-🎤 **[Fahrradsattel](https://open.spotify.com/track/0P0nhrK36P885ltXsdRovK)** by **Pisse** *(Kohlrübenwinter)*
+🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
+🎤 **[FAFB](https://open.spotify.com/track/25ERGFwjI1BUph1oqqTb6O)** by **Lucio101, Omar101, 1019** *(FAFB)*
+🎤 **[Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp)** by **Ghostemane** *(ANTI-ICON)*
+🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
+🎤 **[SSS](https://open.spotify.com/track/0mradpJjKccCx8pkgYRMua)** by **Edwin Rosen** *(Verschwende deine Zeit)*
 
 
 
@@ -153,10 +153,10 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
 🥈 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
-🥉 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
-🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
+🥉 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
+🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-18 12:26:13Z UTC
+🕐 Last updated: 2025-06-18 13:07:40Z UTC
 <!-- SPOTIFY-END -->
