@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3)**
-*by* **Kali Uchis**
-*Album:* Red Moon In Venus
+**🎵 [Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)**
+*by* **Nokia Angel**
+*Album:* Stay Cold
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="106" height="4" fill="#1db954" rx="2"/>
-    <circle cx="106" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 3:07
+    0:52 • 3:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5)** by **PinkPantheress** *(Turn it up)*
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[Dryad #222 (hotelgodlin)](https://open.spotify.com/track/0lIGt4yMpRnlSuI7EZfkli)** by **agelast222** *(agelast222)*
-🎤 **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)*
-🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
+🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
+🎤 **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
+🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 01:02:44Z UTC
+🕐 Last updated: 2025-06-18 02:54:10Z UTC
 <!-- SPOTIFY-END -->
