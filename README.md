@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dc1dec59a3703863b537ec7c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735fcd8144ff007592c8018cd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)**
-*by* **skrt cobain**
-*Album:* r4ver girl
+**🎵 [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)**
+*by* **Moe Shop, TORIENA**
+*Album:* Moe Moe
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 1:56
+    0:48 • 3:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)*
-🎤 **[SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2)** by **XXXTENTACION** *(?)*
-🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
-🎤 **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)*
-🎤 **[Insomnia](https://open.spotify.com/track/6KoMzlo5G71ppwx2oeeFG2)** by **sadimsad** *(Insomnia)*
+🎤 **[Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3)** by **Deftones** *(Saturday Night Wrist)*
+🎤 **[Pitch the Baby](https://open.spotify.com/track/1DXD0wVXXHwUYo9AXbcMMI)** by **Cocteau Twins** *(Heaven or Las Vegas)*
+🎤 **[Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[Pennies - Remastered 2012](https://open.spotify.com/track/6Mc4bMZVQb13wayZbUPtuW)** by **The Smashing Pumpkins** *(Mellon Collie And The Infinite Sadness (Deluxe Edition))*
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 10:52:23Z UTC
+🕐 Last updated: 2025-06-18 11:11:37Z UTC
 <!-- SPOTIFY-END -->
