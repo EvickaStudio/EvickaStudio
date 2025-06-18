@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)**
+*by* **Men At Work**
+*Album:* Business As Usual
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:11 • 3:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by **MGMT** *(Little Dark Age)*
 🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
 🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
 🎤 **[The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz)** by **Tory Lanez** *(Alone At Prom)*
 🎤 **[Demonz (feat. Brent Faiyaz) - Interlude](https://open.spotify.com/track/06GhyyKkQrMO73qVArgQVH)** by **Juice WRLD, Brent Faiyaz** *(Death Race For Love (Bonus Track Version))*
-🎤 **[Moral Conscience](https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY)** by **Kali Uchis** *(Red Moon In Venus)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Godspeed**](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)
 
 
-🕐 Last updated: 2025-06-18 19:10:03Z UTC
+🕐 Last updated: 2025-06-18 19:25:32Z UTC
 <!-- SPOTIFY-END -->
