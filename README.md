@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273543533e92a8a336dee9e9bd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fdf976de3668b6f65c3f6f91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)**
-*by* **Yung Lean**
-*Album:* Stranger
+**🎵 [Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)**
+*by* **Holy Fuck**
+*Album:* Congrats
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="7" height="4" fill="#1db954" rx="2"/>
-    <circle cx="7" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 3:34
+    1:45 • 3:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
-🎤 **[City Treff nur schneller](https://open.spotify.com/track/3ZgCEkFgEkmIOqinjLYf1q)** by **anunyma** *(City Treff)*
-🎤 **[I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)** by **Mike Posner, Seeb** *(At Night, Alone.)*
-🎤 **[i hate this](https://open.spotify.com/track/4HytVTfbsGJEso9qSkJU5g)** by **threedimensionsapart** *(bliss)*
+🎤 **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[Want To Love - Just Raw](https://open.spotify.com/track/3DJsIwc3Z9scW5yR3wnyjf)** by **Aloboi** *(Raw Tracks and Reworks)*
+🎤 **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)*
+🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
+🎤 **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 03:43:34Z UTC
+🕐 Last updated: 2025-06-18 04:15:40Z UTC
 <!-- SPOTIFY-END -->
