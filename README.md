@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a01620a3146cdfb6d8e4166c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27311d937d84174216839e1ed28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)**
-*by* **DR0NE3**
-*Album:* Built This Way (Slowed)
+**🎵 [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)**
+*by* **DVRKLXGHT**
+*Album:* EUPHORIA
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:49 • 4:16
+    2:17 • 3:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
-🎤 **[No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB)** by **Radiohead** *(OK Computer)*
-🎤 **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)*
-🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
-🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
+🎤 **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by **NXFEIT, Sillyelly, Hen848** *(CASSA DRITTISSIMA !!)*
+🎤 **[Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw)** by **Bravo 1-2, IVOXYGEN** *(Genesis)*
+🎤 **[Pumpfake](https://open.spotify.com/track/6GwdfiUA3p0zyXpP7LelL5)** by **Sadfriendd, Towa** *(Pumpfake)*
+🎤 **[All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9)** by **Kanye West, Syleena Johnson** *(The College Dropout)*
+🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 05:35:08Z UTC
+🕐 Last updated: 2025-06-18 05:51:14Z UTC
 <!-- SPOTIFY-END -->
