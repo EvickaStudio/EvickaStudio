@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738f9a34b9d423c2c814a10b09" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a61806fc4404696ecaa48e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)**
-*by* **DJmegan23**
-*Album:* Dopamine Machine 4
+**🎵 [MR. SWAG (feat. makko)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9)**
+*by* **Maikel, makko**
+*Album:* MR. SWAG (feat. makko)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 1:50
+    2:06 • 2:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[hopeless](https://open.spotify.com/track/5SYVuaC2cmgLUvTJrZS1fO)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[was du für mich bist](https://open.spotify.com/track/1yF4oqdTFno6424YoUVDE5)** by **OTIS, NØAH** *(was du für mich bist)*
-🎤 **[derealization](https://open.spotify.com/track/7A2UI8oiwH9e2BvGJDKOcJ)** by **wiv, 68+1** *(derealization)*
-🎤 **[Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)** by **Kanye West, T-Pain** *(Graduation)*
-🎤 **[Ohne Dich](https://open.spotify.com/track/0Lym3XzkptNzplQXIeXHu6)** by **Marsi, Mondieuz** *(Ohne Dich)*
+🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
+🎤 **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)*
+🎤 **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)*
+🎤 **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by **Enquirer** *(for you)*
+🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-18 14:38:57Z UTC
+🕐 Last updated: 2025-06-18 14:52:47Z UTC
 <!-- SPOTIFY-END -->
