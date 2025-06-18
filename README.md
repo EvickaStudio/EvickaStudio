@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730c451306175ac0f297b72967" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346f6a37af54494f2b038eaf0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cloud Chaser](https://open.spotify.com/track/535h9R5oP4UHBL2tQLdspG)**
-*by* **Goblins from Mars**
-*Album:* Vol. 4 (Originals)
+**🎵 [Omnipräsent](https://open.spotify.com/track/6ueEw27MgqwSwN5rFbhDdy)**
+*by* **Longus Mongus, BHZ**
+*Album:* Endlich Wieder Sommer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="105" height="4" fill="#1db954" rx="2"/>
-    <circle cx="105" cy="2" r="6" fill="#1db954"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 3:21
+    1:39 • 2:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)** by **Martin Garrix, Bebe Rexha** *(In the Name of Love)*
-🎤 **[YMCA - Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY)** by **Village People** *(YMCA)*
-🎤 **[Guts Theme](https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY)** by **Rooster** *(Rooster Debut)*
-🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
-🎤 **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX)** by **Lonely God** *(Marlboro Nights)*
+🎤 **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)*
+🎤 **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)*
+🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
+🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 08:47:07Z UTC
+🕐 Last updated: 2025-06-18 09:14:24Z UTC
 <!-- SPOTIFY-END -->
