@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b8f8462b31efad4b75c83054" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)**
-*by* **R.E.M.**
-*Album:* Out Of Time (25th Anniversary Edition)
+**🎵 [Play](https://open.spotify.com/track/4EbKAHT7I23BeXQFJ041Ls)**
+*by* **james K**
+*Album:* Play
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="64" height="4" fill="#1db954" rx="2"/>
+    <circle cx="64" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:19 • 3:45
+    0:58 • 4:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)** by **R.E.M.** *(Out Of Time (25th Anniversary Edition))*
-🎤 **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)*
-🎤 **[Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)** by **limedisx.** *(Stars)*
-🎤 **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)*
-🎤 **[stari*](https://open.spotify.com/track/7cnPmj7ArsPRuLOEpm1nC1)** by **SQF2000, Tamino404** *(stari*)*
+🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
+🎤 **[Bloodbath (Dance)](https://open.spotify.com/track/5qM5ldkDmlDnBNOsp9YSrj)** by **kmoe** *(K1)*
+🎤 **[Bloodbath (Dance)](https://open.spotify.com/track/5qM5ldkDmlDnBNOsp9YSrj)** by **kmoe** *(K1)*
+🎤 **[just obliterate](https://open.spotify.com/track/2qOi8AB2u9pdsEPDdeowjb)** by **damon r.** *(re)*
+🎤 **[Embrace](https://open.spotify.com/track/5boRDq2wvAdbSxA0A81eQE)** by **Brothel in Belize** *(War)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 07:49:23Z UTC
+🕐 Last updated: 2025-06-18 08:18:08Z UTC
 <!-- SPOTIFY-END -->
