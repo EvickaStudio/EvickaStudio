@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ddc6c6524a37ba7cb6dfb69d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)**
-*by* **TMY, Keigo, TYM, Maikel**
-*Album:* *Magichnicht*
+**🎵 [garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)**
+*by* **agelast222**
+*Album:* Last Bible
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:59 • 3:53
+    2:11 • 2:31
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Nice To Know Ya - Sped Up](https://open.spotify.com/track/2Jp4SHXHBDv9FLOQ4oB2Hb)** by **Sylendanna** *(Nice To Know Ya (Sped Up))*
-🎤 **[SEPTEMBER 17](https://open.spotify.com/track/1w7jTH3NDpIHn0440Vdtna)** by **Harrison Borts** *(HARRISONBORTS 2022)*
-🎤 **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)*
-🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
+🎤 **[Mr. Forgettable](https://open.spotify.com/track/3lJD5BzSARTxNj1OYRyraX)** by **David Kushner** *(Footprints I Found)*
+🎤 **[Meine Gang (Bang Bang) - feat. Danju](https://open.spotify.com/track/4aqFOur4hjlFpGTvhtSVjb)** by **CRO, Danju** *(Melodie (Deluxe-Premium Edition))*
+🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
+🎤 **[nur das eine mal](https://open.spotify.com/track/2gliHWWr4YJHkMidpXG4tg)** by **Steintor Herrenchor** *(nur das eine mal)*
+🎤 **[Red Armor](https://open.spotify.com/track/4lokwaruKSA4UVymx6JqXc)** by **Niki Istrefi** *(EUROMANTIC001)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 06:19:18Z UTC
+🕐 Last updated: 2025-06-18 06:49:42Z UTC
 <!-- SPOTIFY-END -->
