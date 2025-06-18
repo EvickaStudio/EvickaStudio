@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c8ba2255c9813ced88ac90c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273064d25ba90710fa9b570838d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)**
-*by* **julie**
-*Album:* my anti-aircraft friend
+**🎵 [Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)**
+*by* **Replay Okay**
+*Album:* Sie ist anders <facts3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 3:14
+    0:35 • 1:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
+🎤 **[Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ)** by **Wisp** *(Once then we'll be free)*
+🎤 **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)*
 🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
 🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
-🎤 **[angels](https://open.spotify.com/track/5dEfbusZ8dxYGAKDJ6Dwgr)** by **re6ce** *(angels)*
-🎤 **[Last Minute](https://open.spotify.com/track/4M6yFZaXcEsqlaZDPpn2WM)** by **kitty ray** *(Frostbite (Deluxe))*
-🎤 **[GOT UR NUMB3R (v2)](https://open.spotify.com/track/0diD9SEK0oNBOx0p0QGvAB)** by **bugcried** *(GOT UR NUMB3R (v2))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-18 11:38:45Z UTC
+🕐 Last updated: 2025-06-18 11:47:31Z UTC
 <!-- SPOTIFY-END -->
