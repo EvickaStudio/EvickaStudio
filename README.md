@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a06091ac8fea840aa3718c4c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LIGHTS OFF](https://open.spotify.com/track/4TrjN7oHO4vJ5cN1W0MX5D)**
-*by* **Bandiicam**
-*Album:* LIGHTS OFF
+**🎵 [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)**
+*by* **Edwin Rosen**
+*Album:* Die Sterne
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:48
+    2:13 • 2:51
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[three](https://open.spotify.com/track/0YvtuzxqHtn4f5cEQnBKJC)** by **Cult Member** *(2017 Archives)*
-🎤 **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)*
-🎤 **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by **quannnic** *(kenopsia)*
-🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
-🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
+🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
+🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
+🎤 **[Cola - Sped Up Version](https://open.spotify.com/track/0WdpnMtkBOmVTk17tCWQfj)** by **sped up nightcore** *(Cola (Sped Up Version))*
+🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 14:50:41Z UTC
+🕐 Last updated: 2025-06-19 15:13:07Z UTC
 <!-- SPOTIFY-END -->
