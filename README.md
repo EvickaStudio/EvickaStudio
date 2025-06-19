@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27350078f234c6050350b9a61db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27357044bed4ce5179bc2502992" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [OC93](https://open.spotify.com/track/3gm38P2DJ89qs1YkBs7LkI)**
+**🎵 [AMPM Truck](https://open.spotify.com/track/7qr3EzjE7YbLkq04lXaDE7)**
 *by* **The Garden**
-*Album:* HORSESHIT ON ROUTE 66
+*Album:* Kiss My Super Bowl Ring
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:58
+    1:43 • 3:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[nightmares](https://open.spotify.com/track/5ps40BNMu8kFbwR4jIM73N)** by **Faerybabyy** *(Lucky Star EP)*
-🎤 **[Fold Ya' Up Like a Blanket](https://open.spotify.com/track/4kKUQBcmLtdEsEOynvwg0G)** by **Enjoy, The Drums** *(Sessions With a Nasty Old Tree)*
-🎤 **[New Harmony](https://open.spotify.com/track/0lKQpOmj1zrcvbO0O3XDNN)** by **Puzzle, Communions** *(X Hail)*
-🎤 **[Orange Crush](https://open.spotify.com/track/5Kxe7hufE6KisnsWzrz4Iv)** by **The Hellp** *(Vol. 1)*
-🎤 **[CJ Mirra - DEATHMETAL Remix](https://open.spotify.com/track/56UgCJI5BsSaYhDYOAtEFh)** by **Panchiko, CJ Mirra** *(R>E>M>I>X>E>D)*
+🎤 **[Manipulating the Whores of the Glendale Wells Fargo Cabaret](https://open.spotify.com/track/5V1d2xc5J4kpl4Tel7SucN)** by **Part Time** *(Return to Cherry)*
+🎤 **[Alone Tonight](https://open.spotify.com/track/68YdAnQ1lW9HjjCYS5m6YG)** by **Gap Girls** *(Street Desires)*
+🎤 **[Poison Oak](https://open.spotify.com/track/2fFCLijfp9sTU5JufH5iNc)** by **Puzzle** *(The Rotten Opera)*
+🎤 **[Confluence](https://open.spotify.com/track/6PGxC0L38TFRsYjcEXJXPH)** by **The Hellp** *(Vol. 1)*
+🎤 **[Andy and Hugh Panchiko - DEATHMETAL Remix](https://open.spotify.com/track/6AN75kTCD5Larv7NV4aehN)** by **Panchiko** *(R>E>M>I>X>E>D)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 22:12:09Z UTC
+🕐 Last updated: 2025-06-19 22:33:26Z UTC
 <!-- SPOTIFY-END -->
