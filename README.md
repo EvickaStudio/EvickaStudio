@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736dc5d3b20464c92142ea8716" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273254342d9f0c11eaa6e6adcfa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CUT - Demo](https://open.spotify.com/track/0hbgFvZRfDlcll9eIcOgIF)**
-*by* **Panchiko**
-*Album:* R>E>M>I>X>E>D
+**🎵 [on the fence](https://open.spotify.com/track/4Wbo2eaINvFoAQxOLHR6qT)**
+*by* **max.**
+*Album:* the wild part 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="275" height="4" fill="#1db954" rx="2"/>
-    <circle cx="275" cy="2" r="6" fill="#1db954"/>
+    <rect width="123" height="4" fill="#1db954" rx="2"/>
+    <circle cx="123" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:46 • 4:06
+    0:49 • 1:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[keygen memory](https://open.spotify.com/track/6ex8Xl7y9XrPJjvBBlymLT)** by **Full Body 2** *(2020initialsequence2022)*
+🎤 **[Terrific As Terrific Gets](https://open.spotify.com/track/1RNAW62ye4rzA4TFGZW88o)** by **Enjoy** *(Deep Cuts, Vol. 2 (2011-2013))*
+🎤 **[Soaring](https://open.spotify.com/track/681Du3nPkvT4zkMJpf1fGF)** by **Puzzle** *(Soaring)*
+🎤 **[CUT - Demo](https://open.spotify.com/track/0hbgFvZRfDlcll9eIcOgIF)** by **Panchiko** *(R>E>M>I>X>E>D)*
 🎤 **[Call The Dogs Out](https://open.spotify.com/track/0VgSrX5gLGo0x0GKZrN4Tv)** by **The Garden** *(Mirror Might Steal Your Charm)*
-🎤 **[n0thin9](https://open.spotify.com/track/1gZ8AbABtHGzeVkNuZu5tj)** by **Mallbangs** *(n0thin9)*
-🎤 **[I Just Want Some Conversation](https://open.spotify.com/track/65cy4iP1m7LivBKVUzPeMi)** by **Mr Floyd Larry** *(I Just Want Some Conversation)*
-🎤 **[Target Feeling](https://open.spotify.com/track/1ROnnduQJKJund4gCUCTse)** by **Enjoy** *(Small Car Big Wheels)*
-🎤 **[Sigh](https://open.spotify.com/track/4yyCVCvKKkB6GkH0uwMbJl)** by **Puzzle** *(Tighten the Reins)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 23:30:07Z UTC
+🕐 Last updated: 2025-06-19 23:42:24Z UTC
 <!-- SPOTIFY-END -->
