@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b215af3bea3b0fc9f6c99d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)**
-*by* **Eera, Rapallo**
-*Album:* Our Chance
+**🎵 ["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)**
+*by* **Edwin Rosen**
+*Album:* mitleerenhänden
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 3:13
+    0:36 • 2:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[i kno](https://open.spotify.com/track/2VYGhT9YFJ6kd6YWLJSnfh)** by **Whitearmor** *(i kno)*
-🎤 **[team](https://open.spotify.com/track/3YTS1OdhWE8Xlmuo56XrjP)** by **damon r.** *(team)*
-🎤 **[KARLAPLAN](https://open.spotify.com/track/6X1eBVRZ2lcqwcLFJMzOK2)** by **Dj Billybool, jonatan leandoer96, Eurohead** *(DYR)*
-🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Sinamen](https://open.spotify.com/track/6fIqKnxQquUdo1pOqFdjTO)** by **The Hellp** *(LL)*
+🎤 **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)*
+🎤 **[3 Messer](https://open.spotify.com/track/4VVUW5n7EAJJNuVLiy6NLi)** by **Hello Hannes** *(3 Messer)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
+🎤 **[TAPPAR ANDAN](https://open.spotify.com/track/4qnlk3UNmGg92cIoBxgvcC)** by **Dj Billybool, Eurohead** *(DYR)*
+🎤 **[L-ON-D-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp)** by **Bassvictim** *(Basspunk)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 17:32:44Z UTC
+🕐 Last updated: 2025-06-19 17:50:46Z UTC
 <!-- SPOTIFY-END -->
