@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f055c4092a440f4563e2042" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273edb4ce20d2432cad4ddfcaa2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)**
-*by* **Somewhere Special**
-*Album:* Disguise
+**🎵 [cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)**
+*by* **2hollis**
+*Album:* whiplash / cliche
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:20
+    0:41 • 2:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
-🎤 **[Nosebleeds in my Calvin Jeans](https://open.spotify.com/track/32s0DUB3owzUyKOXRzfs0j)** by **velvette blue** *(Nosebleeds in my Calvin Jeans)*
-🎤 **[FÖR FORT](https://open.spotify.com/track/2Ki5hh7iLZA53s9yCKTQsw)** by **Dj Billybool, Eurohead, Woesum** *(DYR)*
-🎤 **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[DEMONER](https://open.spotify.com/track/7KS2SEKQTp2ZMEt8Bm3H6R)** by **Dj Billybool, LOAM, Eurohead, Varg²™** *(DYR)*
+🎤 **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)*
+🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
+🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
+🎤 **[tricked out](https://open.spotify.com/track/5HXgmD0Qbdjn8crHpTwlvm)** by **damon r.** *(tricked out)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 16:46:01Z UTC
+🕐 Last updated: 2025-06-19 17:11:07Z UTC
 <!-- SPOTIFY-END -->
