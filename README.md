@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a4cf881dfd3165f3a853183b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273874f15abb7cac70d021ff3b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flew](https://open.spotify.com/track/1aZgq68S4CqJ40sHL9ba7Y)**
-*by* **Dog silent**
-*Album:* Flying Fish
+**🎵 [i told you i said i was okay](https://open.spotify.com/track/5ni06v13TvahZecxThrE8S)**
+*by* **i wanna be a jack-o-lantern**
+*Album:* i told you i said i was okay
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
+    <rect width="145" height="4" fill="#1db954" rx="2"/>
+    <circle cx="145" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 3:35
+    1:11 • 2:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Gwen Everest](https://open.spotify.com/track/0jgS3Mw4Q32NSb6r3iDh4J)** by **Panchiko** *(Failed at Math(s))*
-🎤 **[Crimes](https://open.spotify.com/track/66mrmhEtHFvRwv5DSG32Qa)** by **Puzzle** *(Crimes)*
-🎤 **[In-Between](https://open.spotify.com/track/1FmF8pmIiLEGNNWFdlkhW3)** by **Title Fight** *(Floral Green)*
-🎤 **[skin](https://open.spotify.com/track/5txM7neZKH9qxHqHrQR73R)** by **otuka** *(year of the cat)*
-🎤 **[Soon, Coming Closer](https://open.spotify.com/track/17eCNcVONIKUykIalDYGYU)** by **Julie Doiron** *(Broken Girl)*
+🎤 **[Ginkgo](https://open.spotify.com/track/1Czqh6tbb9gqCQpSkXsqDT)** by **Panchiko** *(Ginkgo)*
+🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
+🎤 **[Kidnapped](https://open.spotify.com/track/5dZ8mgP0LpjN91lKfn3KX6)** by **Puzzle** *(Damage Collection!)*
+🎤 **[Man Of The People](https://open.spotify.com/track/7tj2xSFrPtkxwXXxG9VYLm)** by **The Garden** *(Six Desperate Ballads)*
+🎤 **[party](https://open.spotify.com/track/6VDKp0F4w3L2zijY3eh0uP)** by **wifiskeleton** *(suburban daredevil)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 20:34:54Z UTC
+🕐 Last updated: 2025-06-19 20:50:34Z UTC
 <!-- SPOTIFY-END -->
