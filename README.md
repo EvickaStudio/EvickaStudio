@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273874f15abb7cac70d021ff3b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad24c5e36ddcd1957ad35677" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i told you i said i was okay](https://open.spotify.com/track/5ni06v13TvahZecxThrE8S)**
-*by* **i wanna be a jack-o-lantern**
-*Album:* i told you i said i was okay
+**🎵 [the rot](https://open.spotify.com/track/3ESXgEbWaaoCJcHkiG6yF1)**
+*by* **Dean Blunt**
+*Album:* BLACK METAL 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
+    <rect width="269" height="4" fill="#1db954" rx="2"/>
+    <circle cx="269" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:27
+    3:20 • 3:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Ginkgo](https://open.spotify.com/track/1Czqh6tbb9gqCQpSkXsqDT)** by **Panchiko** *(Ginkgo)*
-🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
-🎤 **[Kidnapped](https://open.spotify.com/track/5dZ8mgP0LpjN91lKfn3KX6)** by **Puzzle** *(Damage Collection!)*
-🎤 **[Man Of The People](https://open.spotify.com/track/7tj2xSFrPtkxwXXxG9VYLm)** by **The Garden** *(Six Desperate Ballads)*
-🎤 **[party](https://open.spotify.com/track/6VDKp0F4w3L2zijY3eh0uP)** by **wifiskeleton** *(suburban daredevil)*
+🎤 **[Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[トーキョーレギー](https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW)** by **Masayoshi Takanaka** *(SEYCHELLES)*
+🎤 **[Freight Yard](https://open.spotify.com/track/7wSu7x4Ee5xwcMx0btOEVQ)** by **The Garden** *(HORSESHIT ON ROUTE 66)*
+🎤 **[love is a place to hide](https://open.spotify.com/track/5z7MDbAs6HidqWBOLMteTs)** by **Puzzle** *(The Rotten Opera)*
+🎤 **[I've Wasted So Much Time](https://open.spotify.com/track/5kjZTaA2gcDjfRKbNI3W7E)** by **Enjoy** *(Deep Cuts (2011-2014))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 20:50:34Z UTC
+🕐 Last updated: 2025-06-19 21:11:38Z UTC
 <!-- SPOTIFY-END -->
