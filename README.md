@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ee838d507511195b9d69205" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b232819316c8ca04bff8f322" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Unbidden Truth](https://open.spotify.com/track/6iAp0jYSHHTfBXPkRvffiI)**
-*by* **Mediavolo**
-*Album:* Away Within
+**🎵 [Infinite Pieces](https://open.spotify.com/track/2uyjJUYMr34Z6TykcGZQtI)**
+*by* **Panchiko**
+*Album:* The Death Of
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="232" height="4" fill="#1db954" rx="2"/>
-    <circle cx="232" cy="2" r="6" fill="#1db954"/>
+    <rect width="247" height="4" fill="#1db954" rx="2"/>
+    <circle cx="247" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:51 • 3:41
+    4:39 • 5:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Runnin Through My Mind](https://open.spotify.com/track/1ASESrfVBTjzjub8jkPpB4)** by **Gap Girls** *(Street Desires)*
-🎤 **[Happiness](https://open.spotify.com/track/4Sqx3m2WDAbp4IyQVoVfkz)** by **Stevie Dinner** *(Ready to Dine)*
-🎤 **[You Won't Like It](https://open.spotify.com/track/0cLD3LSXdXUdp7xjoLINiN)** by **Puzzle** *(Tighten the Reins)*
-🎤 **[Self Medicate - Panchiko Remix](https://open.spotify.com/track/7IxM19rBgiRPzJPxyVcTOJ)** by **Panchiko, CJ’s Mirra Maze** *(Self Medicate (Remixes))*
-🎤 **[AMPM Truck](https://open.spotify.com/track/7qr3EzjE7YbLkq04lXaDE7)** by **The Garden** *(Kiss My Super Bowl Ring)*
+🎤 **[California Here We Go](https://open.spotify.com/track/0GARqhVTsP5GA6q1G3xWph)** by **The Garden** *(California Here We Go)*
+🎤 **[Away](https://open.spotify.com/track/0ALrk4SIJeXxtbSIhp4BXW)** by **Mexican Slum Rats** *(Slumrat)*
+🎤 **[Jean of Arc](https://open.spotify.com/track/45LVUBgYaJVBNCjp31wfTH)** by **Gap Girls** *(Forever Love, Forever After)*
+🎤 **[I'm Content](https://open.spotify.com/track/6noFW1IDazPeODAcO4T8Gf)** by **Enjoy** *(Deep Cuts, Vol. 2 (2011-2013))*
+🎤 **[Excelerate](https://open.spotify.com/track/7kFZ2nH1CZ79PtYgkxawb1)** by **Puzzle** *(Laying in the Sand)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 22:49:40Z UTC
+🕐 Last updated: 2025-06-19 23:12:20Z UTC
 <!-- SPOTIFY-END -->
