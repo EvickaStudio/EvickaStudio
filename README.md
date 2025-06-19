@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735d2fdd1564ccab97e60c656f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739e54c15c0947e01e0e7238c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pitch the Baby](https://open.spotify.com/track/1DXD0wVXXHwUYo9AXbcMMI)**
-*by* **Cocteau Twins**
-*Album:* Heaven or Las Vegas
+**🎵 [Scenes Like This](https://open.spotify.com/track/6SvNYR6Ab2OI8Ywz94P2nJ)**
+*by* **Puzzle**
+*Album:* Soaring
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 3:14
+    1:28 • 2:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Bankrupt (i hear it makes you smile)](https://open.spotify.com/track/5dudQue01IEQr3NweRyiQg)** by **Puzzle** *(Damage Collection!)*
-🎤 **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)*
-🎤 **[Various Types Of Ads](https://open.spotify.com/track/79VIJ0S4PAKXuvKpmfsBRD)** by **Rory in early 20s** *(Various Types Of Ads)*
-🎤 **[DECKED](https://open.spotify.com/track/3dpyLDRP6niAzmUZTysd9W)** by **VAPORCHROME** *(Cybertrax)*
-🎤 **[Untitled Demo 1997](https://open.spotify.com/track/09BgHVKTKv0gqFNep5GUtz)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
+🎤 **[Attracted to You](https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe)** by **PinkPantheress** *(Attracted To You)*
+🎤 **[CUT](https://open.spotify.com/track/2hCFo7Rd91GyhyamQgrV3b)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Dagger](https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8)** by **Slowdive** *(Souvlaki)*
+🎤 **[for her](https://open.spotify.com/track/7iwDR2NBmjqbUGWnFNVEYp)** by **whatsaheart** *(for her)*
+🎤 **[Junk](https://open.spotify.com/track/1xwqtwAB8h7n0d1aFMswsv)** by **Puzzle** *(X Hail)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 19:47:31Z UTC
+🕐 Last updated: 2025-06-19 20:14:44Z UTC
 <!-- SPOTIFY-END -->
