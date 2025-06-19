@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273bde08e14958442b052e0686c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [u make me feel like im special](https://open.spotify.com/track/2FFKHoWfI8uCd1w6azhiCk)**
+*by* **Capoxxo**
+*Album:* u make me feel like im special
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:12 • 2:27
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[numbers & letters](https://open.spotify.com/track/59WSXKLSYzli42GAPIo0GD)** by **Snoozyshemp** *(numbers & letters)*
+🎤 **[Tu Tu Neurotic](https://open.spotify.com/track/07n9sk2MGDjw0SHrSaxmog)** by **The Hellp** *(Vol. 1)*
+🎤 **[Let's Dance in the Dirt!](https://open.spotify.com/track/66bN3aZeNvaeRnSmtOtuNe)** by **Macabre Plaza** *(Remember Me? EP from Mp)*
+🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
 🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
-🎤 **[angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)** by **Clara Kimera, notinbed** *(angel candles)*
-🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
-🎤 **[My Own Mistakes - Slow](https://open.spotify.com/track/7yV3jSgZ1oj4uyQuRx9Spy)** by **Snow Strippers** *(Fast & Slow, Vol. 1)*
-🎤 **[kiss up](https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ)** by **damon r.** *(kiss up)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 15:32:57Z UTC
+🕐 Last updated: 2025-06-19 15:49:38Z UTC
 <!-- SPOTIFY-END -->
