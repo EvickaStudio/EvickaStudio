@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273489e5a9f8e72a80fe983713b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c43ee2c59d5d6b0d4b3a2075" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Apple Vines](https://open.spotify.com/track/2GWoYTVa8Q7HvmqoW5kVvz)**
-*by* **The Autocollants**
-*Album:* Why Couldn't Things Just Stay The Same
+**🎵 [Untitled Demo 1997](https://open.spotify.com/track/09BgHVKTKv0gqFNep5GUtz)**
+*by* **Panchiko**
+*Album:* Ferric Oxide (Demos 1997 - 2001)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="14" height="4" fill="#1db954" rx="2"/>
-    <circle cx="14" cy="2" r="6" fill="#1db954"/>
+    <rect width="107" height="4" fill="#1db954" rx="2"/>
+    <circle cx="107" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 2:39
+    0:57 • 2:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[G.A.T.](https://open.spotify.com/track/2QGuoTtVNjzdZF57mQj9MB)** by **Puzzle, Ms. Boogie** *(X Hail)*
+🎤 **[Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)** by **Dean Blunt, TYSON** *(Rinsed)*
+🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
+🎤 **[Apple Vines](https://open.spotify.com/track/2GWoYTVa8Q7HvmqoW5kVvz)** by **The Autocollants** *(Why Couldn't Things Just Stay The Same)*
 🎤 **[Dsco](https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW)** by **Sweet Trip** *(Velocity: Design: Comfort.)*
-🎤 **[Conviction In Color](https://open.spotify.com/track/261CJznepLxYgPGaZbZm1p)** by **Puzzle** *(Damage Collection!)*
-🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[bipolar](https://open.spotify.com/track/4R4tfhmLBLzBQNmsvxArKZ)** by **wifiskeleton** *(pony)*
-🎤 **[Tesla](https://open.spotify.com/track/3wUne0H6z9p8PdkXZqOKRs)** by **The Simps, Eyedress, zzzahara** *(Siblings)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 19:22:55Z UTC
+🕐 Last updated: 2025-06-19 19:34:42Z UTC
 <!-- SPOTIFY-END -->
