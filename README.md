@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd9b53f981b1719ccca42dac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f055c4092a440f4563e2042" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [NUMMER ETT](https://open.spotify.com/track/16obhdVJLAWDSuwXfzf7Tt)**
-*by* **Dj Billybool, Eurohead, Varg²™**
-*Album:* DYR
+**🎵 [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)**
+*by* **Somewhere Special**
+*Album:* Disguise
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="26" height="4" fill="#1db954" rx="2"/>
-    <circle cx="26" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 3:08
+    1:09 • 2:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Canary Wharf drift](https://open.spotify.com/track/64yioT39hYUlNyQMqEyUE6)** by **Bassvictim, Oatmilkandcodeine** *(Basspunk)*
-🎤 **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
-🎤 **[flash](https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W)** by **2hollis** *(star)*
-🎤 **[haha swag](https://open.spotify.com/track/7fEGlvM24St5RqYoGSZ48q)** by **meat computer** *(haha swag)*
-🎤 **[Restrain](https://open.spotify.com/track/2ioV0IMENcD6dj8ZZAtf7W)** by **Brothel in Belize** *(War)*
+🎤 **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
+🎤 **[Nosebleeds in my Calvin Jeans](https://open.spotify.com/track/32s0DUB3owzUyKOXRzfs0j)** by **velvette blue** *(Nosebleeds in my Calvin Jeans)*
+🎤 **[FÖR FORT](https://open.spotify.com/track/2Ki5hh7iLZA53s9yCKTQsw)** by **Dj Billybool, Eurohead, Woesum** *(DYR)*
+🎤 **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 16:15:30Z UTC
+🕐 Last updated: 2025-06-19 16:46:01Z UTC
 <!-- SPOTIFY-END -->
