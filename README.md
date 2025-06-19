@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273edb4ce20d2432cad4ddfcaa2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b215af3bea3b0fc9f6c99d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)**
-*by* **2hollis**
-*Album:* whiplash / cliche
+**🎵 [Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)**
+*by* **Eera, Rapallo**
+*Album:* Our Chance
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="165" height="4" fill="#1db954" rx="2"/>
+    <circle cx="165" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:59
+    1:46 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[DEMONER](https://open.spotify.com/track/7KS2SEKQTp2ZMEt8Bm3H6R)** by **Dj Billybool, LOAM, Eurohead, Varg²™** *(DYR)*
-🎤 **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)*
-🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
-🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
-🎤 **[tricked out](https://open.spotify.com/track/5HXgmD0Qbdjn8crHpTwlvm)** by **damon r.** *(tricked out)*
+🎤 **[i kno](https://open.spotify.com/track/2VYGhT9YFJ6kd6YWLJSnfh)** by **Whitearmor** *(i kno)*
+🎤 **[team](https://open.spotify.com/track/3YTS1OdhWE8Xlmuo56XrjP)** by **damon r.** *(team)*
+🎤 **[KARLAPLAN](https://open.spotify.com/track/6X1eBVRZ2lcqwcLFJMzOK2)** by **Dj Billybool, jonatan leandoer96, Eurohead** *(DYR)*
+🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Sinamen](https://open.spotify.com/track/6fIqKnxQquUdo1pOqFdjTO)** by **The Hellp** *(LL)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 17:11:07Z UTC
+🕐 Last updated: 2025-06-19 17:32:44Z UTC
 <!-- SPOTIFY-END -->
