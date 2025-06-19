@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739e54c15c0947e01e0e7238c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a4cf881dfd3165f3a853183b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Scenes Like This](https://open.spotify.com/track/6SvNYR6Ab2OI8Ywz94P2nJ)**
-*by* **Puzzle**
-*Album:* Soaring
+**🎵 [Flew](https://open.spotify.com/track/1aZgq68S4CqJ40sHL9ba7Y)**
+*by* **Dog silent**
+*Album:* Flying Fish
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 2:58
+    1:02 • 3:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Attracted to You](https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe)** by **PinkPantheress** *(Attracted To You)*
-🎤 **[CUT](https://open.spotify.com/track/2hCFo7Rd91GyhyamQgrV3b)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Dagger](https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8)** by **Slowdive** *(Souvlaki)*
-🎤 **[for her](https://open.spotify.com/track/7iwDR2NBmjqbUGWnFNVEYp)** by **whatsaheart** *(for her)*
-🎤 **[Junk](https://open.spotify.com/track/1xwqtwAB8h7n0d1aFMswsv)** by **Puzzle** *(X Hail)*
+🎤 **[Gwen Everest](https://open.spotify.com/track/0jgS3Mw4Q32NSb6r3iDh4J)** by **Panchiko** *(Failed at Math(s))*
+🎤 **[Crimes](https://open.spotify.com/track/66mrmhEtHFvRwv5DSG32Qa)** by **Puzzle** *(Crimes)*
+🎤 **[In-Between](https://open.spotify.com/track/1FmF8pmIiLEGNNWFdlkhW3)** by **Title Fight** *(Floral Green)*
+🎤 **[skin](https://open.spotify.com/track/5txM7neZKH9qxHqHrQR73R)** by **otuka** *(year of the cat)*
+🎤 **[Soon, Coming Closer](https://open.spotify.com/track/17eCNcVONIKUykIalDYGYU)** by **Julie Doiron** *(Broken Girl)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 20:14:44Z UTC
+🕐 Last updated: 2025-06-19 20:34:54Z UTC
 <!-- SPOTIFY-END -->
