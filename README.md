@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27392297f0f64dcf1a54b12f9b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FLATLINE](https://open.spotify.com/track/3ncWqfvF0xoWu9ewGtKXNl)**
+**🎵 [Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)**
 *by* **Bladee**
-*Album:* Cold Visions
+*Album:* Eversince
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:54
+    2:16 • 3:06
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
+🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
 🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
-🎤 **[PARANOIA INTRO](https://open.spotify.com/track/68DW4TA3cANDG7Igy9SY3T)** by **Bladee** *(Cold Visions)*
-🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
-🎤 **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)*
-🎤 **[I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)** by **Bladee** *(Spiderr)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-19 11:27:33Z UTC
+🕐 Last updated: 2025-06-19 11:38:39Z UTC
 <!-- SPOTIFY-END -->
