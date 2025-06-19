@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)**
-*by* **Calvin Harris**
-*Album:* Motion
+**🎵 [Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)**
+*by* **sparr00w**
+*Album:* Nadja
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 3:42
+    0:33 • 2:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH)** by **Charli xcx** *(how i'm feeling now)*
-🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
-🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
+🎤 **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by **Yung Hurn, skrt cobain** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
+🎤 **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)*
+🎤 **[Nite Walker](https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8)** by **Sickboyrari** *(City Of Crows)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-19 05:15:15Z UTC
+🕐 Last updated: 2025-06-19 05:41:23Z UTC
 <!-- SPOTIFY-END -->
