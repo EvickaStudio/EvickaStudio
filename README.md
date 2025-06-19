@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c43ee2c59d5d6b0d4b3a2075" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stuck](https://open.spotify.com/track/1MswtG9SfSYHklrO6Wh6rL)**
+**🎵 [Laputa_R>O>T](https://open.spotify.com/track/6OghNYryKi0KmWV3EJVsRb)**
 *by* **Panchiko**
-*Album:* Ferric Oxide (Demos 1997 - 2001)
+*Album:* D>E>A>T>H>M>E>T>A>L
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="123" height="4" fill="#1db954" rx="2"/>
+    <circle cx="123" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:46
+    1:07 • 2:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Open Hearted](https://open.spotify.com/track/2rQ3ewFThBvvAJv8YONe6T)** by **The Garden** *(Six Desperate Ballads)*
+🎤 **[Suck It Up](https://open.spotify.com/track/7lYQN7Et6Tg2fLFLE4z9mq)** by **Puzzle** *(Tighten the Reins)*
+🎤 **[Stuck](https://open.spotify.com/track/1MswtG9SfSYHklrO6Wh6rL)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
 🎤 **[Milk - 2021 Remaster](https://open.spotify.com/track/7Jq4cV3F5puQfUAxL4sHL8)** by **Sweet Trip** *(You Will Never Know Why (2021 Remaster))*
 🎤 **[Chainsaw the Door](https://open.spotify.com/track/6vVSTpASiNAuXW99lkiYY3)** by **The Garden** *(HORSESHIT ON ROUTE 66)*
-🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
-🎤 **[Confined & Feathery](https://open.spotify.com/track/3nQHMb9dehJPa5T7a1q218)** by **Puzzle** *(Damage Collection!)*
-🎤 **[the rot](https://open.spotify.com/track/3ESXgEbWaaoCJcHkiG6yF1)** by **Dean Blunt** *(BLACK METAL 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 21:28:42Z UTC
+🕐 Last updated: 2025-06-19 21:39:51Z UTC
 <!-- SPOTIFY-END -->
