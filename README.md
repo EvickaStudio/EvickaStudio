@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f922300411db724163aa8eda" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Summer 2000 Baby](https://open.spotify.com/track/188JTF6dEXKksYBt9t05TJ)**
+*by* **TV Girl, George Clanton**
+*Album:* Fauxllennium
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:27 • 4:02
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP)** by **Superheaven** *(Ours Is Chrome)*
 🎤 **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)*
 🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
 🎤 **[jisatsu girl (自殺)](https://open.spotify.com/track/4chJRTJIZMyo8ESGTPvyMy)** by **requiem for you** *(jisatsu girl (自殺))*
-🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
-🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**PEARL BOTTOMZ (DJM23)**](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)
 
 
-🕐 Last updated: 2025-06-19 02:55:02Z UTC
+🕐 Last updated: 2025-06-19 03:43:47Z UTC
 <!-- SPOTIFY-END -->
