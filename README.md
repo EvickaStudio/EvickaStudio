@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b8872a5be96ab0939bc2fbc6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27329a898f62b36a73e4c4a7c43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [punchline__now_with_kick__.wav](https://open.spotify.com/track/7tl6oZiFf0QuKb2YP2LM72)**
-*by* **marshall4**
-*Album:* jennys_mix.zip
+**🎵 [Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)**
+*by* **Sidewalks and Skeletons, CASHFORGOLD**
+*Album:* Exorcism
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="270" height="4" fill="#1db954" rx="2"/>
+    <circle cx="270" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:12 • 3:34
+    4:03 • 4:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Taillight](https://open.spotify.com/track/0PIog1mRGWeF8vn19kFi5I)** by **Yuzo Koshiro** *(Wangan Midnight MAXIMUM TUNE 4 Original Sound Track 2020 ver,)*
-🎤 **[In meinem Traum](https://open.spotify.com/track/2RYF2Jkaj4nMBWibLflmwJ)** by **Lukas Meunier** *(Schwerelos)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[eine nase](https://open.spotify.com/track/2iUlwFCblKdSkQnzFwhhxc)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
+🎤 **[words - Higgo Remix](https://open.spotify.com/track/1HzVoPGDJajmXaEOzjEdwN)** by **piri, Tommy Villiers, Higgo** *(words (Higgo Remix))*
+🎤 **[Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi)** by **U96** *(Club Bizarre)*
+🎤 **[Galgentanz](https://open.spotify.com/track/7MkYQiwq4eFQsEBTcIWCwN)** by **Selektivv** *(Galgentanz)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 14:12:41Z UTC
+🕐 Last updated: 2025-06-19 14:34:23Z UTC
 <!-- SPOTIFY-END -->
