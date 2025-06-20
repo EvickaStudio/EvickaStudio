@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7d4795824fbc637cd00dfb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc6177730c52eaaee4045fb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hold me lovingly](https://open.spotify.com/track/1wupFN3vvRbIzFTb90A8ED)**
-*by* **Starberry**
-*Album:* i hope i don't die
+**🎵 [Never Gonna Let You Go](https://open.spotify.com/track/0lZLnrA26Ruiz6YZk7r1KX)**
+*by* **Stevie Dinner, Plant Prophet**
+*Album:* True Story
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 2:46
+    1:22 • 4:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Starchild](https://open.spotify.com/track/5cyGHzdBLoZ30vNdQr1aAp)** by **Computerwife** *(Computerwife)*
-🎤 **[Floating While Dreaming](https://open.spotify.com/track/04ZIyu7eYSLL3A5zNSyhsq)** by **Mr Floyd Larry, Frecks** *(Dream Punk)*
-🎤 **[Look at the Moon](https://open.spotify.com/track/6SloVjZqKGUKn1gIKbXSO0)** by **Puzzle** *(Laying in the Sand)*
-🎤 **[Poison River](https://open.spotify.com/track/2MPQK9zGwtqa233c17BBfH)** by **Stevie Dinner** *(Ready to Dine)*
-🎤 **[Bottom Of The Mine](https://open.spotify.com/track/5uw0aOAJ0nQDuxz6QWoSPT)** by **Turkey** *(The Queen's Diary)*
+🎤 **[Slept on a Bed of Hay](https://open.spotify.com/track/0rVABnJi1xvfgKhhXO2Zjh)** by **Turkey** *(Turkey)*
+🎤 **[Sitting in the Back of My Car](https://open.spotify.com/track/02p4H6XfW0Wrc3lgq8RbEZ)** by **Puzzle** *(X Hail)*
+🎤 **[La La La La La Love](https://open.spotify.com/track/1GzBFngxiiSK3ktG6maCcA)** by **Starberry** *(I Have a Favorite)*
+🎤 **[Bye Bye Birdie](https://open.spotify.com/track/1M4vuRFGAX3ch3dedSE6oF)** by **Gap Girls** *(Street Desires)*
+🎤 **[Thrice Rice](https://open.spotify.com/track/2UG3EFteAJ60AP0NwdLMkn)** by **Mr Floyd Larry** *(Three Months Off)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 03:43:05Z UTC
+🕐 Last updated: 2025-06-20 04:03:46Z UTC
 <!-- SPOTIFY-END -->
