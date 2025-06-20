@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eda1f8db394ef627229f1c0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353a6f718c09186a4e71a25e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bandit!](https://open.spotify.com/track/11ElvcWSu35c4evK8CfAIH)**
-*by* **Turkey**
-*Album:* The Queen's Diary
+**🎵 [Chicken Shit](https://open.spotify.com/track/3CIsvM5IhPlJs8MWDZTcwT)**
+*by* **Puzzle**
+*Album:* Tighten the Reins
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="156" height="4" fill="#1db954" rx="2"/>
-    <circle cx="156" cy="2" r="6" fill="#1db954"/>
+    <rect width="86" height="4" fill="#1db954" rx="2"/>
+    <circle cx="86" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:34
+    0:45 • 2:37
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Number 1 in Customer Service](https://open.spotify.com/track/6Vhhoh93sKo24gqg7K9pv3)** by **Stevie Dinner** *(Mystery Flavor)*
-🎤 **[Half Of Me](https://open.spotify.com/track/1Z0Owq6FyyPsBumpOvvUkt)** by **Puzzle** *(Melodies Of Yesterday (2012-2016))*
-🎤 **[The "Courtesy Bath"](https://open.spotify.com/track/2kX0hEaE9ARDYvYx4KrIcT)** by **Charles** *(The "Courtesy Bath")*
-🎤 **[Pathetic](https://open.spotify.com/track/7Gp7ypBov7R663DwfB6yfC)** by **Computerwife** *(Computerwife)*
-🎤 **[Hold Me Lovingly (A Fantasy)](https://open.spotify.com/track/5AyeYtSvITXcU0I2YcPXtz)** by **Starberry** *(Hold Me Lovingly (A Fantasy))*
+🎤 **[Floaties](https://open.spotify.com/track/0S9dbBcZkdHNSGIOBQCYJZ)** by **Starberry** *(I Have a Favorite)*
+🎤 **[Buttercup Baby](https://open.spotify.com/track/7dxnwPHiHcMQlgdCxLCKGs)** by **Mr Floyd Larry** *(Dream Tape <3 (Demo A))*
+🎤 **[Junkie](https://open.spotify.com/track/2ztINVcCLnwK23wAOle1ey)** by **Stevie Dinner, Plant Prophet** *(True Story)*
+🎤 **[Your Girls 1996](https://open.spotify.com/track/1Pz0VvevbPwDKUoszaygHZ)** by **Charles** *(Let's Start a Family Tonight)*
+🎤 **[I've Been Shot](https://open.spotify.com/track/0OtGXfqEOE3PhO99b43Xnn)** by **Puzzle** *(X Hail)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 05:14:56Z UTC
+🕐 Last updated: 2025-06-20 05:36:24Z UTC
 <!-- SPOTIFY-END -->
