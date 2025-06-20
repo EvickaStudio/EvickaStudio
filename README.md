@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273130dc4fdbd143767ec6cc08a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6736a5f40027f9bf5ec856c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)**
-*by* **.com**
-*Album:* In Their Shadows
+**🎵 [Poison Oak](https://open.spotify.com/track/2fFCLijfp9sTU5JufH5iNc)**
+*by* **Puzzle**
+*Album:* The Rotten Opera
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 4:34
+    1:11 • 2:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
+🎤 **[Mist](https://open.spotify.com/track/0Q7c5SVSp8izEP4cGZ0TOc)** by **Enjoy** *(Deep Cuts (2011-2014))*
+🎤 **[Life's Gonna Go](https://open.spotify.com/track/3qpUhaHkYpoQW2Glg0msns)** by **Puzzle** *(Life's Gonna Go)*
+🎤 **[Barking at the Sea](https://open.spotify.com/track/4Tv72PQXRTSYKUYIoZ2KI5)** by **Puzzle** *(The Rotten Opera)*
+🎤 **[*Shrugs Shoulders*](https://open.spotify.com/track/4hpiH3zMCinsSmkFvbMc7y)** by **Puzzle** *(*Shrugs Shoulders*)*
+🎤 **[World](https://open.spotify.com/track/1dxUYvZOtnGRzlHtsHu9uU)** by **Puzzle** *(Laying in the Sand)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 07:47:57Z UTC
+🕐 Last updated: 2025-06-20 08:46:12Z UTC
 <!-- SPOTIFY-END -->
