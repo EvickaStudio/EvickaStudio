@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)**
+*by* **Gap Girls**
+*Album:* Street Desires
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:35 • 2:35
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
-🎤 **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)*
-🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
-🎤 **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)*
+🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
 🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
+🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 20:49:55Z UTC
+🕐 Last updated: 2025-06-20 21:11:17Z UTC
 <!-- SPOTIFY-END -->
