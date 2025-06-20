@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fc6177730c52eaaee4045fb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eda1f8db394ef627229f1c0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cutting It Close](https://open.spotify.com/track/6vhe26f9CxaoJVsh1CUr7h)**
-*by* **Stevie Dinner, Plant Prophet**
-*Album:* True Story
+**🎵 [Bandit!](https://open.spotify.com/track/11ElvcWSu35c4evK8CfAIH)**
+*by* **Turkey**
+*Album:* The Queen's Diary
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="248" height="4" fill="#1db954" rx="2"/>
-    <circle cx="248" cy="2" r="6" fill="#1db954"/>
+    <rect width="156" height="4" fill="#1db954" rx="2"/>
+    <circle cx="156" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:47 • 4:34
+    1:20 • 2:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[throw a hammer at the sky](https://open.spotify.com/track/4Mb8rUmIhpu3Mgl8pIn5Cc)** by **Puzzle** *(throw a hammer at the sky)*
-🎤 **[I Must Spread My Genes](https://open.spotify.com/track/2vIk0OEGcHeaUbv3s0QXPs)** by **Charles** *(Let's Start a Family Tonight)*
-🎤 **[Three Months Off](https://open.spotify.com/track/0JO3BaC18AJzxzIAkCAJrH)** by **Mr Floyd Larry** *(Three Months Off)*
-🎤 **[By the Candlelight](https://open.spotify.com/track/1JkbdbjdKKL7F0aIMC3tQl)** by **Puzzle** *(Places We Choose Not to Look)*
-🎤 **[Melancholia](https://open.spotify.com/track/6Xi8tHXTcje3StvVpu5AFO)** by **Computerwife** *(Computerwife)*
+🎤 **[Number 1 in Customer Service](https://open.spotify.com/track/6Vhhoh93sKo24gqg7K9pv3)** by **Stevie Dinner** *(Mystery Flavor)*
+🎤 **[Half Of Me](https://open.spotify.com/track/1Z0Owq6FyyPsBumpOvvUkt)** by **Puzzle** *(Melodies Of Yesterday (2012-2016))*
+🎤 **[The "Courtesy Bath"](https://open.spotify.com/track/2kX0hEaE9ARDYvYx4KrIcT)** by **Charles** *(The "Courtesy Bath")*
+🎤 **[Pathetic](https://open.spotify.com/track/7Gp7ypBov7R663DwfB6yfC)** by **Computerwife** *(Computerwife)*
+🎤 **[Hold Me Lovingly (A Fantasy)](https://open.spotify.com/track/5AyeYtSvITXcU0I2YcPXtz)** by **Starberry** *(Hold Me Lovingly (A Fantasy))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 04:55:49Z UTC
+🕐 Last updated: 2025-06-20 05:14:56Z UTC
 <!-- SPOTIFY-END -->
