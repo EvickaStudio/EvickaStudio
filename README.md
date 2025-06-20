@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c271701c8c4b212938f83478" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a005c9584b622c8471d2ffb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)**
-*by* **kevin**
-*Album:* hollywood
+**🎵 [THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)**
+*by* **Konomi Suzuki**
+*Album:* 18 -Colorful Gift-
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:33
+    1:36 • 4:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[im #obsessed w u lol](https://open.spotify.com/track/75nBv1w4XDXABFy6koSz2i)** by **korpsebunny** *(im #obsessed w u lol)*
-🎤 **[YAKIMOTO BLISS](https://open.spotify.com/track/5lzDzpwQsmAwRXWBtGlrmS)** by **DJmegan23** *(YAKIMOTO BLISS)*
-🎤 **[Intro](https://open.spotify.com/track/7w0FV6ViNDZFy9Mu90sQzl)** by **M83** *(Hurry up, We're Dreaming)*
-🎤 **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)*
-🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
+🎤 **[Endlich bist Du da](https://open.spotify.com/track/1CfbGrMXQzo6iTuS0NbMHn)** by **leander** *(Endlich bist Du da)*
+🎤 **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)*
+🎤 **[abiogenese](https://open.spotify.com/track/5z7kx25WTVFovL4b4OwvmE)** by **blombi19** *(abiogenese)*
+🎤 **[Irgendwie, irgendwo, irgendwann (Special 12" Dance Mix)](https://open.spotify.com/track/44fNhBfmBUhaByY0651VIc)** by **Nena** *(Feuer und Flamme)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 13:52:23Z UTC
+🕐 Last updated: 2025-06-20 14:12:27Z UTC
 <!-- SPOTIFY-END -->
