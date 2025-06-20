@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27353a6f718c09186a4e71a25e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6736a5f40027f9bf5ec856c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Chicken Shit](https://open.spotify.com/track/3CIsvM5IhPlJs8MWDZTcwT)**
+**🎵 [Tip My Hat](https://open.spotify.com/track/5g9RF96fUhOBqvnva9RbdZ)**
 *by* **Puzzle**
-*Album:* Tighten the Reins
+*Album:* The Rotten Opera
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:37
+    3:00 • 3:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Floaties](https://open.spotify.com/track/0S9dbBcZkdHNSGIOBQCYJZ)** by **Starberry** *(I Have a Favorite)*
-🎤 **[Buttercup Baby](https://open.spotify.com/track/7dxnwPHiHcMQlgdCxLCKGs)** by **Mr Floyd Larry** *(Dream Tape <3 (Demo A))*
-🎤 **[Junkie](https://open.spotify.com/track/2ztINVcCLnwK23wAOle1ey)** by **Stevie Dinner, Plant Prophet** *(True Story)*
-🎤 **[Your Girls 1996](https://open.spotify.com/track/1Pz0VvevbPwDKUoszaygHZ)** by **Charles** *(Let's Start a Family Tonight)*
-🎤 **[I've Been Shot](https://open.spotify.com/track/0OtGXfqEOE3PhO99b43Xnn)** by **Puzzle** *(X Hail)*
+🎤 **[No Idea](https://open.spotify.com/track/0ShD9xNIPS9V2q6L3jxVKX)** by **Gap Girls** *(Forever Love, Forever After)*
+🎤 **[Baby Blue](https://open.spotify.com/track/03GerbuHA0KK8zYRiA60XT)** by **Stevie Dinner, Plant Prophet** *(True Story)*
+🎤 **[The Offended Olympics](https://open.spotify.com/track/0e4zHORUO0uNncSco9ZHMZ)** by **Charles** *(Let's Start a Family Tonight)*
+🎤 **[Cut It Out](https://open.spotify.com/track/6YdCb2zc3IinOf1trnN9Nm)** by **Computerwife** *(Computerwife)*
+🎤 **[Chicken Shit](https://open.spotify.com/track/3CIsvM5IhPlJs8MWDZTcwT)** by **Puzzle** *(Tighten the Reins)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 05:36:24Z UTC
+🕐 Last updated: 2025-06-20 05:50:31Z UTC
 <!-- SPOTIFY-END -->
