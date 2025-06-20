@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6736a5f40027f9bf5ec856c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Poison Oak](https://open.spotify.com/track/2fFCLijfp9sTU5JufH5iNc)**
-*by* **Puzzle**
-*Album:* The Rotten Opera
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:02
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Mist](https://open.spotify.com/track/0Q7c5SVSp8izEP4cGZ0TOc)** by **Enjoy** *(Deep Cuts (2011-2014))*
-🎤 **[Life's Gonna Go](https://open.spotify.com/track/3qpUhaHkYpoQW2Glg0msns)** by **Puzzle** *(Life's Gonna Go)*
-🎤 **[Barking at the Sea](https://open.spotify.com/track/4Tv72PQXRTSYKUYIoZ2KI5)** by **Puzzle** *(The Rotten Opera)*
-🎤 **[*Shrugs Shoulders*](https://open.spotify.com/track/4hpiH3zMCinsSmkFvbMc7y)** by **Puzzle** *(*Shrugs Shoulders*)*
-🎤 **[World](https://open.spotify.com/track/1dxUYvZOtnGRzlHtsHu9uU)** by **Puzzle** *(Laying in the Sand)*
+🎤 **[Foggy Euphoria](https://open.spotify.com/track/3I0iHNWGtZ7x0Rf25jvfIF)** by **Puzzle** *(Melodies Of Yesterday (2012-2016))*
+🎤 **[Tried To Say](https://open.spotify.com/track/17AKt5E1xSGpmgDodSNahI)** by **Captain Crocodile** *(Fums Down)*
+🎤 **[I've Got the World in My Pocket](https://open.spotify.com/track/7AQWyYKB9HFoPw7gZotoCz)** by **Enjoy** *(Punk Planet)*
+🎤 **[Starbuzz](https://open.spotify.com/track/3s1VKaetnqWgaV0J3cExly)** by **Slater, Puzzle** *(Deep Cuts (2013-2017))*
+🎤 **[Cancel And Cut](https://open.spotify.com/track/0x9NV5s5Px9bxrbsYNPLuO)** by **Enjoy** *(Deep Cuts (2011-2016))*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 08:46:12Z UTC
+🕐 Last updated: 2025-06-20 09:13:31Z UTC
 <!-- SPOTIFY-END -->
