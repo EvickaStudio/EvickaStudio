@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27352d77e720679ad0b4a95c784" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c92a3532b22e647cae44f797" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Race](https://open.spotify.com/track/78bcWFqyuhOrC8wnkpgcft)**
-*by* **Alex G**
-*Album:* Race
+**🎵 [morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)**
+*by* **benzii**
+*Album:* morgengrau
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 3:43
+    1:00 • 3:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))*
-🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
-🎤 **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by **Yung Hurn, skrt cobain** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by **Tom Petty** *(Full Moon Fever)*
+🎤 **[Leb es oder lass es](https://open.spotify.com/track/5bJzKmFNpiTwGwLSNb5zVy)** by **makko** *(Leb es oder lass es)*
+🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
+🎤 **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)*
+🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 15:32:44Z UTC
+🕐 Last updated: 2025-06-20 15:49:11Z UTC
 <!-- SPOTIFY-END -->
