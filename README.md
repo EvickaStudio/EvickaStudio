@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731d1f46d81c472f62eb2915f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7d4795824fbc637cd00dfb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Anywhere But Here](https://open.spotify.com/track/01WfMc1gpjxHCbSkJiFj5g)**
-*by* **Turkey**
-*Album:* Clock Tower
+**🎵 [hold me lovingly](https://open.spotify.com/track/1wupFN3vvRbIzFTb90A8ED)**
+*by* **Starberry**
+*Album:* i hope i don't die
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="184" height="4" fill="#1db954" rx="2"/>
-    <circle cx="184" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 3:06
+    2:12 • 2:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Don't Make Her Wait](https://open.spotify.com/track/2tltVoVsKDGP13i36g6fZw)** by **Puzzle** *(Soaring)*
-🎤 **[im sad that my grandma will die - demo](https://open.spotify.com/track/1JjTlkmepNcts2gE1lI2BD)** by **Starberry** *(im sad that my grandma will die (demo))*
-🎤 **[Death](https://open.spotify.com/track/020Jibwj15TsDU4Xadlrqu)** by **Computerwife** *(Computerwife)*
-🎤 **[Card Declined for Pizza & Wine](https://open.spotify.com/track/4y91o2JGZPmnZudjn7lw8p)** by **Stevie Dinner** *(Mystery Flavor)*
-🎤 **[CRUSH](https://open.spotify.com/track/5zF4EuUjM7j6p6gpDuWwRL)** by **Mr Floyd Larry** *(CRUSH)*
+🎤 **[Starchild](https://open.spotify.com/track/5cyGHzdBLoZ30vNdQr1aAp)** by **Computerwife** *(Computerwife)*
+🎤 **[Floating While Dreaming](https://open.spotify.com/track/04ZIyu7eYSLL3A5zNSyhsq)** by **Mr Floyd Larry, Frecks** *(Dream Punk)*
+🎤 **[Look at the Moon](https://open.spotify.com/track/6SloVjZqKGUKn1gIKbXSO0)** by **Puzzle** *(Laying in the Sand)*
+🎤 **[Poison River](https://open.spotify.com/track/2MPQK9zGwtqa233c17BBfH)** by **Stevie Dinner** *(Ready to Dine)*
+🎤 **[Bottom Of The Mine](https://open.spotify.com/track/5uw0aOAJ0nQDuxz6QWoSPT)** by **Turkey** *(The Queen's Diary)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 02:54:05Z UTC
+🕐 Last updated: 2025-06-20 03:43:05Z UTC
 <!-- SPOTIFY-END -->
