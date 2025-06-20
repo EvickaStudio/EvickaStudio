@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b11aff830416f56822efcc61" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)**
-*by* **Bladee, Mechatok**
-*Album:* Good Luck
+**🎵 [Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)**
+*by* **Wisp**
+*Album:* Pandora
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="180" height="4" fill="#1db954" rx="2"/>
-    <circle cx="180" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 3:28
+    2:12 • 4:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
-🎤 **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by **Jane Remover** *(Frailty)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
-🎤 **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)*
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[life after life](https://open.spotify.com/track/0oufNGimO4F8exn0CTKkWe)** by **dose** *(life after life)*
+🎤 **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
+🎤 **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 22:33:27Z UTC
+🕐 Last updated: 2025-06-20 22:49:48Z UTC
 <!-- SPOTIFY-END -->
