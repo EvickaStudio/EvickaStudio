@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27329e0d754e65c019f50b0644c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [D>E>A>T>H>M>E>T>A>L_R>O>T](https://open.spotify.com/track/5nTx2Ehp81DdJ5nJVnXOON)**
-*by* **Panchiko**
-*Album:* D>E>A>T>H>M>E>T>A>L
+**🎵 [Jerk Driver](https://open.spotify.com/track/277Y8m55I50hdmn9uiyHHb)**
+*by* **Enjoy**
+*Album:* Exploited
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
+    <rect width="9" height="4" fill="#1db954" rx="2"/>
+    <circle cx="9" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:07 • 4:20
+    0:03 • 2:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[X in the Dirt](https://open.spotify.com/track/1GxYp5Ggr6B8RrrkL96RWU)** by **The Garden** *(HORSESHIT ON ROUTE 66)*
-🎤 **[on the fence](https://open.spotify.com/track/4Wbo2eaINvFoAQxOLHR6qT)** by **max.** *(the wild part 1)*
-🎤 **[keygen memory](https://open.spotify.com/track/6ex8Xl7y9XrPJjvBBlymLT)** by **Full Body 2** *(2020initialsequence2022)*
-🎤 **[Terrific As Terrific Gets](https://open.spotify.com/track/1RNAW62ye4rzA4TFGZW88o)** by **Enjoy** *(Deep Cuts, Vol. 2 (2011-2013))*
-🎤 **[Soaring](https://open.spotify.com/track/681Du3nPkvT4zkMJpf1fGF)** by **Puzzle** *(Soaring)*
+🎤 **[After Love](https://open.spotify.com/track/69f6V9428pyzgmdI0mGsjM)** by **Gap Girls** *(Forever Love, Forever After)*
+🎤 **[misery](https://open.spotify.com/track/4CAYxwj1Esx5hG05ZBppkX)** by **max.** *(the wild part 1)*
+🎤 **[No Destination](https://open.spotify.com/track/621BmpFIPgBU9qdCzCcTMh)** by **The Garden** *(Mirror Might Steal Your Charm)*
+🎤 **[You Don't Have to Impress Anyone](https://open.spotify.com/track/7wQPGZcmL53Xn5TsF46Er1)** by **Puzzle** *(Places We Choose Not to Look)*
+🎤 **[Recollection Hall](https://open.spotify.com/track/6VafWtANtDPhhxg2jUAJnO)** by **Enjoy** *(The Sound Of Deceit)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-19 23:49:54Z UTC
+🕐 Last updated: 2025-06-20 01:02:29Z UTC
 <!-- SPOTIFY-END -->
