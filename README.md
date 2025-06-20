@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732549aa7198f266b5f80081c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc6177730c52eaaee4045fb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [By the Candlelight](https://open.spotify.com/track/1JkbdbjdKKL7F0aIMC3tQl)**
-*by* **Puzzle**
-*Album:* Places We Choose Not to Look
+**🎵 [Cutting It Close](https://open.spotify.com/track/6vhe26f9CxaoJVsh1CUr7h)**
+*by* **Stevie Dinner, Plant Prophet**
+*Album:* True Story
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 2:51
+    3:47 • 4:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[throw a hammer at the sky](https://open.spotify.com/track/4Mb8rUmIhpu3Mgl8pIn5Cc)** by **Puzzle** *(throw a hammer at the sky)*
+🎤 **[I Must Spread My Genes](https://open.spotify.com/track/2vIk0OEGcHeaUbv3s0QXPs)** by **Charles** *(Let's Start a Family Tonight)*
+🎤 **[Three Months Off](https://open.spotify.com/track/0JO3BaC18AJzxzIAkCAJrH)** by **Mr Floyd Larry** *(Three Months Off)*
+🎤 **[By the Candlelight](https://open.spotify.com/track/1JkbdbjdKKL7F0aIMC3tQl)** by **Puzzle** *(Places We Choose Not to Look)*
 🎤 **[Melancholia](https://open.spotify.com/track/6Xi8tHXTcje3StvVpu5AFO)** by **Computerwife** *(Computerwife)*
-🎤 **[The Burned Down Theater](https://open.spotify.com/track/6iW1SIFRN9sIqAYXo9vAXG)** by **Turkey** *(Clock Tower)*
-🎤 **[your silence](https://open.spotify.com/track/2Q6s30LPfSjkm3DveU4kOs)** by **Starberry** *(i hope i don't die)*
-🎤 **[Orcachief](https://open.spotify.com/track/5tD6N2iPi7OCTAicVOu2Yy)** by **Jons** *(Serfs of Today)*
-🎤 **[Moneyman](https://open.spotify.com/track/7rYQxJPW1bRou7SQBIXnLO)** by **Puzzle** *(Soaring)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 04:40:52Z UTC
+🕐 Last updated: 2025-06-20 04:55:49Z UTC
 <!-- SPOTIFY-END -->
