@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27329e0d754e65c019f50b0644c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731d1f46d81c472f62eb2915f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Jerk Driver](https://open.spotify.com/track/277Y8m55I50hdmn9uiyHHb)**
-*by* **Enjoy**
-*Album:* Exploited
+**🎵 [Anywhere But Here](https://open.spotify.com/track/01WfMc1gpjxHCbSkJiFj5g)**
+*by* **Turkey**
+*Album:* Clock Tower
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="9" height="4" fill="#1db954" rx="2"/>
-    <circle cx="9" cy="2" r="6" fill="#1db954"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:03 • 2:04
+    1:54 • 3:06
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[After Love](https://open.spotify.com/track/69f6V9428pyzgmdI0mGsjM)** by **Gap Girls** *(Forever Love, Forever After)*
-🎤 **[misery](https://open.spotify.com/track/4CAYxwj1Esx5hG05ZBppkX)** by **max.** *(the wild part 1)*
-🎤 **[No Destination](https://open.spotify.com/track/621BmpFIPgBU9qdCzCcTMh)** by **The Garden** *(Mirror Might Steal Your Charm)*
-🎤 **[You Don't Have to Impress Anyone](https://open.spotify.com/track/7wQPGZcmL53Xn5TsF46Er1)** by **Puzzle** *(Places We Choose Not to Look)*
-🎤 **[Recollection Hall](https://open.spotify.com/track/6VafWtANtDPhhxg2jUAJnO)** by **Enjoy** *(The Sound Of Deceit)*
+🎤 **[Don't Make Her Wait](https://open.spotify.com/track/2tltVoVsKDGP13i36g6fZw)** by **Puzzle** *(Soaring)*
+🎤 **[im sad that my grandma will die - demo](https://open.spotify.com/track/1JjTlkmepNcts2gE1lI2BD)** by **Starberry** *(im sad that my grandma will die (demo))*
+🎤 **[Death](https://open.spotify.com/track/020Jibwj15TsDU4Xadlrqu)** by **Computerwife** *(Computerwife)*
+🎤 **[Card Declined for Pizza & Wine](https://open.spotify.com/track/4y91o2JGZPmnZudjn7lw8p)** by **Stevie Dinner** *(Mystery Flavor)*
+🎤 **[CRUSH](https://open.spotify.com/track/5zF4EuUjM7j6p6gpDuWwRL)** by **Mr Floyd Larry** *(CRUSH)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 01:02:29Z UTC
+🕐 Last updated: 2025-06-20 02:54:05Z UTC
 <!-- SPOTIFY-END -->
