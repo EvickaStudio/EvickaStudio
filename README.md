@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27329871c4130b6b23e2296806b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)**
+*by* **wifiskeleton, i wanna be a jack-o-lantern**
+*Album:* suburban daredevil
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:37 • 1:30
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
+🎤 **[Tru](https://open.spotify.com/track/34TOMmfnvfl8oyrRl4such)** by **P.H.F.** *(I Hate Myself)*
 🎤 **[Foggy Euphoria](https://open.spotify.com/track/3I0iHNWGtZ7x0Rf25jvfIF)** by **Puzzle** *(Melodies Of Yesterday (2012-2016))*
-🎤 **[Tried To Say](https://open.spotify.com/track/17AKt5E1xSGpmgDodSNahI)** by **Captain Crocodile** *(Fums Down)*
-🎤 **[I've Got the World in My Pocket](https://open.spotify.com/track/7AQWyYKB9HFoPw7gZotoCz)** by **Enjoy** *(Punk Planet)*
-🎤 **[Starbuzz](https://open.spotify.com/track/3s1VKaetnqWgaV0J3cExly)** by **Slater, Puzzle** *(Deep Cuts (2013-2017))*
-🎤 **[Cancel And Cut](https://open.spotify.com/track/0x9NV5s5Px9bxrbsYNPLuO)** by **Enjoy** *(Deep Cuts (2011-2016))*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 09:13:31Z UTC
+🕐 Last updated: 2025-06-20 09:33:44Z UTC
 <!-- SPOTIFY-END -->
