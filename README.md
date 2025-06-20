@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c92a3532b22e647cae44f797" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)**
-*by* **benzii**
-*Album:* morgengrau
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 3:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by **Tom Petty** *(Full Moon Fever)*
-🎤 **[Leb es oder lass es](https://open.spotify.com/track/5bJzKmFNpiTwGwLSNb5zVy)** by **makko** *(Leb es oder lass es)*
-🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
-🎤 **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)*
-🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
+🎤 **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)*
+🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
+🎤 **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)*
+🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-20 15:49:11Z UTC
+🕐 Last updated: 2025-06-20 16:15:23Z UTC
 <!-- SPOTIFY-END -->
