@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27323ac84a525286001770abc8e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737c61949f4ddcb807f5cf43d3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)**
-*by* **Aphex Twin**
-*Album:* Come To Daddy
+**🎵 [like a movie](https://open.spotify.com/track/1a8eM0503hUOOcVAcew5PC)**
+*by* **Franko**
+*Album:* like a movie
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:57
+    1:54 • 2:05
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)** by **limedisx.** *(Stars)*
-🎤 **[Stars](https://open.spotify.com/track/73BaddxP2whst4e1UOPvfL)** by **limedisx.** *(Stars)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
-🎤 **[Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)** by **H3artcrush, Punkinloveee** *(Freak Show)*
+🎤 **[be mine](https://open.spotify.com/track/0oDjjShbyVsz1Cg717QFlu)** by **deathtoricky** *(samplez 4 u)*
+🎤 **[I SEE STARS](https://open.spotify.com/track/2YNgZAdK9sGlZxEBzsVVFm)** by **Saam Sultan** *(PASTEL)*
+🎤 **[I Miss You](https://open.spotify.com/track/5jEoqFevBVlABarE6HQqAR)** by **Apovabin** *(I Miss You)*
+🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
+🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-21 19:34:06Z UTC
+🕐 Last updated: 2025-06-21 19:47:39Z UTC
 <!-- SPOTIFY-END -->
