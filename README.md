@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27345e034b798fa7626835c6eea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)**
-*by* **Hiko Momoji, meat computer**
-*Album:* white light
+**🎵 [(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)**
+*by* **Deftones**
+*Album:* Gore
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:48
+    4:04 • 5:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[radar](https://open.spotify.com/track/218EsnPhF2Fk5jA9fDqKSj)** by **lil hero** *(pawwwfect!)*
-🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
-🎤 **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by **Yung Hurn, skrt cobain** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
+🎤 **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)*
+🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
+🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
+🎤 **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by **akiaura, LONOWN, Olya Holiday** *(Midnight Skin)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-21 14:11:52Z UTC
+🕐 Last updated: 2025-06-21 14:32:04Z UTC
 <!-- SPOTIFY-END -->
