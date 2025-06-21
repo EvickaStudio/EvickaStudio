@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737af0c13dce12e734753b4790" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27312e36c27d935e955b44c6581" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)**
-*by* **Yung Lean**
-*Album:* Starz
+**🎵 [True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)**
+*by* **PinkPantheress**
+*Album:* Heaven knows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 3:12
+    0:58 • 2:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
-🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
-🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
+🎤 **[detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH)** by **Charli xcx** *(how i'm feeling now)*
+🎤 **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by **Destroy Lonely** *(If Looks Could Kill)*
+🎤 **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)*
+🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
+🎤 **[Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)** by **GoodBooks, Crystal Castles** *(Control Freaks (The Remixes))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-21 15:11:26Z UTC
+🕐 Last updated: 2025-06-21 15:29:43Z UTC
 <!-- SPOTIFY-END -->
