@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273475af635234813609e631821" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)**
-*by* **mickyi, S1RENA**
-*Album:* zone out ep ⋆｡°✩
+**🎵 [Crimes](https://open.spotify.com/track/66mrmhEtHFvRwv5DSG32Qa)**
+*by* **Puzzle**
+*Album:* Crimes
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="200" height="4" fill="#1db954" rx="2"/>
+    <circle cx="200" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:35
+    2:09 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
-🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
-🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
+🎤 **[Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)** by **Dean Blunt, TYSON** *(Rinsed)*
+🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
+🎤 **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(Planet)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-21 16:39:19Z UTC
+🕐 Last updated: 2025-06-21 16:54:05Z UTC
 <!-- SPOTIFY-END -->
