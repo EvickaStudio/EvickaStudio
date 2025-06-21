@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
 🎤 **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by **Skepsiz, headless_DATA** *(PUNK PARADOX!)*
 🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
 🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
 🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
 
 
-🕐 Last updated: 2025-06-21 10:12:23Z UTC
+🕐 Last updated: 2025-06-21 10:34:59Z UTC
 <!-- SPOTIFY-END -->
