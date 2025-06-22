@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd9b53f981b1719ccca42dac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)**
-*by* **Gap Girls**
-*Album:* Street Desires
+**🎵 [BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)**
+*by* **Dj Billybool, Bladee, Eurohead**
+*Album:* DYR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:35
+    1:10 • 2:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
 🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
-🎤 **[Take Over](https://open.spotify.com/track/1iNKgHv2k6cB09aB5ozR55)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
-🎤 **[From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr)** by **Good Kid** *(From the Start)*
-🎤 **[黄昏のBAY CITY](https://open.spotify.com/track/4wUQvovMEkByMvZNCecZ9v)** by **Junko Yagami** *(黄昏のBAY CITY)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 21:27:45Z UTC
+🕐 Last updated: 2025-06-22 21:38:57Z UTC
 <!-- SPOTIFY-END -->
