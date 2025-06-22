@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27363809e940ee91df00227d7ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ)**
-*by* **OGUZ, Nyctonian**
-*Album:* GOLDEN SZN
+**🎵 [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)**
+*by* **Kanye West, Chris Martin**
+*Album:* Graduation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:42 • 4:54
+    3:15 • 3:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)** by **R.E.M.** *(Out Of Time (25th Anniversary Edition))*
-🎤 **[141 Schneeschieber](https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP)** by **TAKTSTÖRER** *(141 Schneeschieber)*
-🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
-🎤 **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)** by **Pinegrove** *(Need 2)*
+🎤 **[I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg)** by **Rebzyyx** *(I'm so crazy for youuu </3)*
+🎤 **[Down Under (feat. Colin Hay)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)** by **Luude, Colin Hay** *(Down Under (feat. Colin Hay))*
+🎤 **[Obedient](https://open.spotify.com/track/5adW1n6jrFcc4sRAtFeQVX)** by **Bladee, Ecco2k** *(Red Light)*
+🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
+🎤 **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))*
 
 
 
@@ -145,7 +145,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**DJmegan23**](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 18:16:15Z UTC
+🕐 Last updated: 2025-06-22 18:44:39Z UTC
 <!-- SPOTIFY-END -->
