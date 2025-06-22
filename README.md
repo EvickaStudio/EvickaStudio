@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733110ac6b32c463f398a9e051" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d920d65d4e7c30cedc5eb53" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Echolot](https://open.spotify.com/track/1cEQ6mryHemmstSgxJc13O)**
-*by* **Wir sind Helden**
-*Album:* Von hier an blind
+**🎵 [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)**
+*by* **White Town**
+*Album:* Women in Technology
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 4:31
+    2:38 • 4:19
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[nuts](https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK)** by **Lil Peep, rainy bear** *(LIVE FOREVER)*
+🎤 **[Echolot](https://open.spotify.com/track/1cEQ6mryHemmstSgxJc13O)** by **Wir sind Helden** *(Von hier an blind)*
+🎤 **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)*
 🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
 🎤 **[SSS](https://open.spotify.com/track/0mradpJjKccCx8pkgYRMua)** by **Edwin Rosen** *(Verschwende deine Zeit)*
-🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
-🎤 **[Cigarettes and Wine](https://open.spotify.com/track/0scE5rA7sC7Tx8M0AmSkVn)** by **absent, Saint Purple** *(Cigarettes and Wine)*
-🎤 **[Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)** by **Freddie Dredd** *(Opaul)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 15:41:03Z UTC
+🕐 Last updated: 2025-06-22 15:48:36Z UTC
 <!-- SPOTIFY-END -->
