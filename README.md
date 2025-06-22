@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738091875467b5dc7d33e81c98" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)**
-*by* **Punk Christ**
-*Album:* Nachtwache
+**🎵 [Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)**
+*by* **Crystal Castles**
+*Album:* Crystal Castles (II)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:15
+    3:30 • 4:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
+🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
+🎤 **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)*
 🎤 **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)*
 🎤 **[Flowers](https://open.spotify.com/track/7Abdi621pkzX6WSXgGH4pR)** by **aye6** *(Flowers)*
-🎤 **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)*
-🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[OLYMPIA](https://open.spotify.com/track/249MSbYpwdCyxIZs5OuA0n)** by **$OHO BANI, Ericson** *(TRÄUM $OHO)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 13:35:23Z UTC
+🕐 Last updated: 2025-06-22 13:48:22Z UTC
 <!-- SPOTIFY-END -->
