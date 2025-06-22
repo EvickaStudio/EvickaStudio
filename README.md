@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27300e438fd4ab3435a82d46f2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c094bb9243bea9cff34c56f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)**
-*by* **5star**
-*Album:* komm zurück
+**🎵 [castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)**
+*by* **Lil Peep, Lil Tracy**
+*Album:* castles
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="161" height="4" fill="#1db954" rx="2"/>
+    <circle cx="161" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 1:46
+    1:17 • 2:24
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[i <3 btc](https://open.spotify.com/track/1fdkvNOKrNTdrBiYJRtT4C)** by **Capoxxo** *(i <3 btc)*
-🎤 **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)*
-🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
-🎤 **[JUNGER BOSS](https://open.spotify.com/track/2XjHFoRwP3sN7562PfNwou)** by **agelast222** *(SOLARCORP)*
-🎤 **[1c3b3rg](https://open.spotify.com/track/2Dz6eGIHbSaBWbFSu6KCdA)** by **TMTTMF** *(Rdlghdstrct2)*
+🎤 **[Mein Fetisch](https://open.spotify.com/track/5J5y6d3rFK1wbQKJEyBNsh)** by **$OHO BANI** *(Mein Fetisch)*
+🎤 **[Bleib](https://open.spotify.com/track/4RgYBDjNhQkQA6SXzxbQ9w)** by **Kidd Kazama** *(Bleib)*
+🎤 **[As the World Caves In - Wuki Remix](https://open.spotify.com/track/3L740L9Y186igjbzxz7Vfr)** by **Sarah Cothran, Wuki** *(As the World Caves In (Wuki Remix))*
+🎤 **[traurig･:__✧｡+++](https://open.spotify.com/track/2m5GgX8Bom56piVdmp1dAI)** by **DANZINGER 99, AMANDUS 99** *(traurig･:__✧｡+++)*
+🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 11:47:45Z UTC
+🕐 Last updated: 2025-06-22 12:22:17Z UTC
 <!-- SPOTIFY-END -->
