@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732ce568cea781a649d842ac81" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e97e5e337986f555fe68f715" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Abendrot](https://open.spotify.com/track/7CruQL6pEGMbeRDC6vRXOV)**
-*by* **The Cratez, Tarek K.I.Z**
-*Album:* NONSTOP
+**🎵 [Healthcare](https://open.spotify.com/track/7rtKLWYEqk3Cnnv1XINPvi)**
+*by* **RomancePlanet**
+*Album:* Healthcare
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="143" height="4" fill="#1db954" rx="2"/>
+    <circle cx="143" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:47
+    1:05 • 2:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
-🎤 **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)*
-🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
-🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
-🎤 **[Break down](https://open.spotify.com/track/3weEmMnV5bopuD9XyJSQtt)** by **Dropped here** *(Break down)*
+🎤 **[Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk)** by **Porter Robinson** *(Worlds)*
+🎤 **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)*
+🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
+🎤 **[Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)** by **Lukas, Der Rapper, Gomme-Hymne** *(Wenn Der Gommemode Angeht!)*
+🎤 **[i crash, u crash](https://open.spotify.com/track/2mmvUIfawPzUCbw3j9uJKk)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 14:11:27Z UTC
+🕐 Last updated: 2025-06-22 14:31:04Z UTC
 <!-- SPOTIFY-END -->
