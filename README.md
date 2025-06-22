@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273154c3562dc92bcd302c72c9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)**
-*by* **Anamanaguchi, Hatsune Miku**
-*Album:* Miku
+**🎵 [Remember Summer Days](https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R)**
+*by* **Anri**
+*Album:* Timely!!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:20 • 3:43
+    2:18 • 4:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Fly-day Chinatown](https://open.spotify.com/track/73yXCwINoNqUBJRAgPJPsY)** by **泰葉** *(TRANSIT)*
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[Drowning Love - Chasing Kou](https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V)** by **Penguin Piano** *(Intersteller)*
-🎤 **[Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i)** by **Kanye West** *(Yeezus)*
+🎤 **[Heaven](https://open.spotify.com/track/76YdWrd7Yw9GuU0LirE088)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
+🎤 **[No More What Ifs](https://open.spotify.com/track/2SQ9RmQAOxGICUSt9T5dIX)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
+🎤 **[It's Going Down Now](https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28)** by **高橋あず美, Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
+🎤 **[I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm)** by **Rosa Walton, Hallie Coggins** *(Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack))*
+🎤 **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 20:31:37Z UTC
+🕐 Last updated: 2025-06-22 20:48:34Z UTC
 <!-- SPOTIFY-END -->
