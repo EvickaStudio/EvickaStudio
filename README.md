@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27381376e47003d45f6513b5657" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737b7fb46fd5ea7ca6259e74ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love Tonight](https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9)**
-*by* **Shouse**
-*Album:* Love Tonight
+**🎵 [Falkor's Return](https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ)**
+*by* **Indecorum**
+*Album:* Sanctus
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="97" height="4" fill="#1db954" rx="2"/>
-    <circle cx="97" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:40 • 8:13
+    2:43 • 3:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ZU DEN HUNDEN](https://open.spotify.com/track/7nwJciynBkmT0rct6ulm1q)** by **Saiya Tiaw** *(BETON)*
-🎤 **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by **TEMMIS** *(Wenn du da bist)*
-🎤 **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by **a-ha** *(Hunting High and Low)*
-🎤 **[North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)** by **ESP** *(RIFT Two)*
-🎤 **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)*
+🎤 **[SIE LIEBT NUR DIE DRUGS](https://open.spotify.com/track/67jbhWvRZ7nF1jegDiF0F9)** by **Laer Xirtam** *(ALTER EGO)*
+🎤 **[Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj)** by **Juice WRLD** *(Legends Never Die)*
+🎤 **[Fright Night](https://open.spotify.com/track/7ygPkAIBQw6nO57ufxdivZ)** by **decaying, INDEBT PRODUCTION** *(Fright Night)*
+🎤 **[Nachts wach](https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA)** by **Miksu / Macloud, makko** *(Nachts wach)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 14:49:16Z UTC
+🕐 Last updated: 2025-06-22 15:11:40Z UTC
 <!-- SPOTIFY-END -->
