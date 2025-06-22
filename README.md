@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f8345e3dcb771ef6eaf1f8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f79c2d231526409896d8c118" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Upside Down](https://open.spotify.com/track/1O6Y59UFcRXmp9JFIhhjG7)**
-*by* **SlushhKitten, hqwilli**
-*Album:* Upside Down
+**🎵 [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl)**
+*by* **Portwave**
+*Album:* Shadow Lady
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:41
+    3:30 • 5:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu)** by **Ikkimel** *(WHO'S THAT)*
-🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5)** by **BICEP, Clara La San** *(Water)*
-🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
-🎤 **[Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv)** by **camoufly** *(In Plain Sight)*
+🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)*
+🎤 **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[Upside Down](https://open.spotify.com/track/1O6Y59UFcRXmp9JFIhhjG7)** by **SlushhKitten, hqwilli** *(Upside Down)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 23:11:49Z UTC
+🕐 Last updated: 2025-06-22 23:29:06Z UTC
 <!-- SPOTIFY-END -->
