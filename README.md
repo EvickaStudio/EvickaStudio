@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27332af0f98dc1abcb8ae797ead" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300e438fd4ab3435a82d46f2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1c3b3rg](https://open.spotify.com/track/2Dz6eGIHbSaBWbFSu6KCdA)**
-*by* **TMTTMF**
-*Album:* Rdlghdstrct2
+**🎵 [komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)**
+*by* **5star**
+*Album:* komm zurück
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="0" height="4" fill="#1db954" rx="2"/>
-    <circle cx="0" cy="2" r="6" fill="#1db954"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:00 • 3:01
+    1:12 • 1:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)*
-🎤 **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[safety](https://open.spotify.com/track/3342r99l4qg0HeVAAJ2Mya)** by **2hollis** *(White Tiger)*
-🎤 **[generation x](https://open.spotify.com/track/3dL5ALCRy6tanqZg9osfh8)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[i <3 btc](https://open.spotify.com/track/1fdkvNOKrNTdrBiYJRtT4C)** by **Capoxxo** *(i <3 btc)*
+🎤 **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)*
+🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
+🎤 **[JUNGER BOSS](https://open.spotify.com/track/2XjHFoRwP3sN7562PfNwou)** by **agelast222** *(SOLARCORP)*
+🎤 **[1c3b3rg](https://open.spotify.com/track/2Dz6eGIHbSaBWbFSu6KCdA)** by **TMTTMF** *(Rdlghdstrct2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 11:35:22Z UTC
+🕐 Last updated: 2025-06-22 11:47:45Z UTC
 <!-- SPOTIFY-END -->
