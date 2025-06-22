@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730894733c00d108333c26d7ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b6865909f834058fb8d96c65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [helicopter](https://open.spotify.com/track/18jrEdTKxaz6ThhoZeffIK)**
-*by* **DANZINGER 99**
-*Album:* aber immer noch besser als in dieser welt in der ich wach bin
+**🎵 [generation x](https://open.spotify.com/track/3dL5ALCRy6tanqZg9osfh8)**
+*by* **Levi Ryan**
+*Album:* operation wandering soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="97" height="4" fill="#1db954" rx="2"/>
-    <circle cx="97" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 1:25
+    1:34 • 2:24
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
-🎤 **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)*
-🎤 **[No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)** by **Galantis** *(No Money)*
+🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
 🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 11:10:16Z UTC
+🕐 Last updated: 2025-06-22 11:25:24Z UTC
 <!-- SPOTIFY-END -->
