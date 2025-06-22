@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27331a1a6e5e73647571d865a28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)**
-*by* **mint**
-*Album:* fresh air x
+**🎵 [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)**
+*by* **Kanye West, Rick Ross**
+*Album:* My Beautiful Dark Twisted Fantasy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="226" height="4" fill="#1db954" rx="2"/>
+    <circle cx="226" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:17
+    4:25 • 5:51
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
+🎤 **[Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)** by **Sewerslvt** *(Draining Love Story)*
+🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
 🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
 🎤 **[☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(☾⋆⁺₊✧)*
-🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
-🎤 **[Mr. Forgettable](https://open.spotify.com/track/3lJD5BzSARTxNj1OYRyraX)** by **David Kushner** *(Footprints I Found)*
-🎤 **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 19:09:43Z UTC
+🕐 Last updated: 2025-06-22 19:23:57Z UTC
 <!-- SPOTIFY-END -->
