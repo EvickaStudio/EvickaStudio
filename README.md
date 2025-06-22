@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e97e5e337986f555fe68f715" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27381376e47003d45f6513b5657" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Healthcare](https://open.spotify.com/track/7rtKLWYEqk3Cnnv1XINPvi)**
-*by* **RomancePlanet**
-*Album:* Healthcare
+**🎵 [Love Tonight](https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9)**
+*by* **Shouse**
+*Album:* Love Tonight
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="143" height="4" fill="#1db954" rx="2"/>
-    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 2:16
+    2:40 • 8:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk)** by **Porter Robinson** *(Worlds)*
-🎤 **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)*
-🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
-🎤 **[Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)** by **Lukas, Der Rapper, Gomme-Hymne** *(Wenn Der Gommemode Angeht!)*
-🎤 **[i crash, u crash](https://open.spotify.com/track/2mmvUIfawPzUCbw3j9uJKk)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
+🎤 **[ZU DEN HUNDEN](https://open.spotify.com/track/7nwJciynBkmT0rct6ulm1q)** by **Saiya Tiaw** *(BETON)*
+🎤 **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by **a-ha** *(Hunting High and Low)*
+🎤 **[North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)** by **ESP** *(RIFT Two)*
+🎤 **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 14:31:04Z UTC
+🕐 Last updated: 2025-06-22 14:49:16Z UTC
 <!-- SPOTIFY-END -->
