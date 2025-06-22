@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732ce568cea781a649d842ac81" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)**
-*by* **Crystal Castles**
-*Album:* Crystal Castles (II)
+**🎵 [Abendrot](https://open.spotify.com/track/7CruQL6pEGMbeRDC6vRXOV)**
+*by* **The Cratez, Tarek K.I.Z**
+*Album:* NONSTOP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="261" height="4" fill="#1db954" rx="2"/>
-    <circle cx="261" cy="2" r="6" fill="#1db954"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:30 • 4:02
+    0:29 • 2:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
-🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
-🎤 **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)*
-🎤 **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)*
-🎤 **[Flowers](https://open.spotify.com/track/7Abdi621pkzX6WSXgGH4pR)** by **aye6** *(Flowers)*
+🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
+🎤 **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)*
+🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
+🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
+🎤 **[Break down](https://open.spotify.com/track/3weEmMnV5bopuD9XyJSQtt)** by **Dropped here** *(Break down)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 13:48:22Z UTC
+🕐 Last updated: 2025-06-22 14:11:27Z UTC
 <!-- SPOTIFY-END -->
