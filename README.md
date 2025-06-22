@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c54cdb1c73df04d02b21765a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731177117edbacace0239da72b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zu schön um wahr zu sein](https://open.spotify.com/track/3vuizylIn6nbzvDpowL0Kr)**
-*by* **ArniTheSavage**
-*Album:* Zu schön um wahr zu sein
+**🎵 [danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl)**
+*by* **my dead girlfriend**
+*Album:* hades (the nine stages of change at the deceased remains)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 1:55
+    1:00 • 4:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[like cats & dogs](https://open.spotify.com/track/4Udk5XNwCks4aGcDqdwzBE)** by **tomcbumpz** *(don't look down)*
-🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
-🎤 **[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)** by **DJ Traytex** *(All Good Things (Come To An End))*
-🎤 **[scream and run](https://open.spotify.com/track/6iIbkAVSU5P9DlzLdavHh2)** by **mykel** *(scream and run)*
-🎤 **[Dancing Through the Night - Single Edit](https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF)** by **Raveboy** *(Dancing Through the Night)*
+🎤 **[Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)** by **Machine Girl** *(Wlfgrl)*
+🎤 **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)*
+🎤 **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[Theme from Psych](https://open.spotify.com/track/4xvCq9lfW7V18EnrJWi4Ru)** by **TV Theme Song Library** *(TV Theme Library - Hit TV Show Themes)*
+🎤 **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 16:54:19Z UTC
+🕐 Last updated: 2025-06-22 17:10:18Z UTC
 <!-- SPOTIFY-END -->
