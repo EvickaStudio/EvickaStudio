@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f79c2d231526409896d8c118" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736631be482e2fbedd45de9e5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl)**
-*by* **Portwave**
-*Album:* Shadow Lady
+**🎵 [where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)**
+*by* **Basement Jaxx, 100 gecs**
+*Album:* where's my head at _
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="115" height="4" fill="#1db954" rx="2"/>
+    <circle cx="115" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:30 • 5:02
+    0:58 • 2:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
-🎤 **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)*
-🎤 **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[Upside Down](https://open.spotify.com/track/1O6Y59UFcRXmp9JFIhhjG7)** by **SlushhKitten, hqwilli** *(Upside Down)*
+🎤 **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)*
+🎤 **[LIGHTS OFF](https://open.spotify.com/track/4TrjN7oHO4vJ5cN1W0MX5D)** by **Bandiicam** *(LIGHTS OFF)*
+🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
+🎤 **[Ненавижу(?)](https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo)** by **Xopowo** *(Ненавижу)*
+🎤 **[Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl)** by **Portwave** *(Shadow Lady)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 23:29:06Z UTC
+🕐 Last updated: 2025-06-22 23:40:51Z UTC
 <!-- SPOTIFY-END -->
