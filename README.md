@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b3c3ff5c61aa59356954f05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732d0373a546372d162a12b270" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Look at the beautiful stars](https://open.spotify.com/track/4Zd0ZfElXwghxm0R3bX8og)**
-*by* **ALFANI.X**
-*Album:* Look at the beautiful stars
+**🎵 [how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)**
+*by* **meat computer**
+*Album:* how it feels to get run over
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="177" height="4" fill="#1db954" rx="2"/>
+    <circle cx="177" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:01
+    1:39 • 2:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
-🎤 **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)*
-🎤 **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))*
-🎤 **[Tagebuch Freestyle Chapter 1](https://open.spotify.com/track/0uBM97AqqWH4EyYaerc3pw)** by **neji.mp3** *(Tagebuch Freestyle Chapter 1)*
-🎤 **[Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw)** by **The Meeting Places** *(Find Yourself Along The Way)*
+🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
+🎤 **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)*
+🎤 **[Gott segne die Säure](https://open.spotify.com/track/2PB0uECe4pzlPtdxPwNx5C)** by **KLAMER** *(Gott segne die Säure)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 16:14:11Z UTC
+🕐 Last updated: 2025-06-22 16:39:11Z UTC
 <!-- SPOTIFY-END -->
