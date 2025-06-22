@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cb5c680f9191cc7ceeefd604" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)**
-*by* **Kanye West, Rick Ross**
-*Album:* My Beautiful Dark Twisted Fantasy
+**🎵 [Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt - Remix](https://open.spotify.com/track/2DZGs97ibWcEFHZQ3imUpM)**
+*by* **INTERWEB 成长**
+*Album:* Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt (Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="226" height="4" fill="#1db954" rx="2"/>
-    <circle cx="226" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:25 • 5:51
+    2:21 • 6:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[LOSER](https://open.spotify.com/track/3mZ70vxe7qPzQ0QrOO1P7e)** by **YBRE, can't be bought** *(LOSER)*
+🎤 **[Nice To Know Ya - Sped Up](https://open.spotify.com/track/2Jp4SHXHBDv9FLOQ4oB2Hb)** by **Sylendanna** *(Nice To Know Ya (Sped Up))*
+🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
+🎤 **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)*
 🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
-🎤 **[Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)** by **Sewerslvt** *(Draining Love Story)*
-🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
-🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
-🎤 **[☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(☾⋆⁺₊✧)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 19:23:57Z UTC
+🕐 Last updated: 2025-06-22 19:34:23Z UTC
 <!-- SPOTIFY-END -->
