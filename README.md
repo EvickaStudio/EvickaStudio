@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b9826a0336c5f40e976a13ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd9b53f981b1719ccca42dac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)**
-*by* **archive computer**
-*Album:* soul doubt
+**🎵 [BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)**
+*by* **Dj Billybool, Bladee, Eurohead**
+*Album:* DYR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="184" height="4" fill="#1db954" rx="2"/>
-    <circle cx="184" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 2:39
+    0:32 • 2:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
-🎤 **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by **sparr00w** *(Ich kann die Sterne nicht mehr Zählen)*
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
+🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)** by **Bladee, Mechatok** *(Good Luck)*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 22:32:26Z UTC
+🕐 Last updated: 2025-06-22 22:49:04Z UTC
 <!-- SPOTIFY-END -->
