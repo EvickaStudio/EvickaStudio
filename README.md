@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e67835d0a5d81fa4f268b513" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr)**
-*by* **Good Kid**
-*Album:* From the Start
+**🎵 [Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)**
+*by* **Gap Girls**
+*Album:* Street Desires
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:30
+    0:34 • 2:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Take Over](https://open.spotify.com/track/1iNKgHv2k6cB09aB5ozR55)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
+🎤 **[From the Start](https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr)** by **Good Kid** *(From the Start)*
 🎤 **[黄昏のBAY CITY](https://open.spotify.com/track/4wUQvovMEkByMvZNCecZ9v)** by **Junko Yagami** *(黄昏のBAY CITY)*
-🎤 **[Heartbeat, Heartbreak](https://open.spotify.com/track/4ZJKi7HXFDG2emN6xIdbmV)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[Be Yourself Or Die Dreaming](https://open.spotify.com/track/38Ag3lftAiZfCxe5W7Psnp)** by **Nouvelle Story** *(Be Yourself Or Die Dreaming)*
-🎤 **[The Whims of Fate](https://open.spotify.com/track/73DCreJgfFdFxVnjsMSeo4)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Color Your Night](https://open.spotify.com/track/7sDb2MqZdvulzRavioCCQe)** by **Chewie Melodies, Pealeaf** *(Persona 3 Reload)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-22 21:11:11Z UTC
+🕐 Last updated: 2025-06-22 21:27:45Z UTC
 <!-- SPOTIFY-END -->
