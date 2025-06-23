@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273614806167e83311f562aae55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)**
-*by* **Sam Gellaitry**
-*Album:* Assumptions (Jengi Remix)
+**🎵 [Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)**
+*by* **Hole**
+*Album:* Celebrity Skin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+    <rect width="215" height="4" fill="#1db954" rx="2"/>
+    <circle cx="215" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:13 • 3:40
+    3:56 • 5:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
-🎤 **[easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE)** by **lil hero** *(pawwwfect!)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by **PinkPantheress** *(Heaven knows)*
-🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
+🎤 **[Out of Touch](https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit)** by **Daryl Hall & John Oates** *(The Very Best Of)*
+🎤 **[Shadowplay - 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[Tema di Andrea](https://open.spotify.com/track/4yDUfLfG4wi3Ktfd9Fi7fH)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
+🎤 **[Ostavi trag](https://open.spotify.com/track/65zw2RY8Qp0JJDcQNSejNY)** by **September** *(Zadnja avantura)*
+🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 22:13:04Z UTC
+🕐 Last updated: 2025-06-23 22:34:53Z UTC
 <!-- SPOTIFY-END -->
