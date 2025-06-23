@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273094a24a9c0002a98299a90fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b6865909f834058fb8d96c65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [rain check](https://open.spotify.com/track/5mkwXXNLr8pkaU7v9rsyQH)**
-*by* **Drain Gang Archive**
-*Album:* Rain Check
+**🎵 [economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)**
+*by* **Levi Ryan**
+*Album:* operation wandering soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="98" height="4" fill="#1db954" rx="2"/>
+    <circle cx="98" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 3:18
+    0:46 • 2:22
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Faust](https://open.spotify.com/track/0Nrd79QrK5WXiqxKMgTUX3)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
-🎤 **[sleep walk 2 the jeweler](https://open.spotify.com/track/0zvT2KOwhsWGiAUmtSCfuQ)** by **Drain Gang Archive** *(Sleep Walk 2 The Jeweler)*
+🎤 **[GT-R](https://open.spotify.com/track/1pmLlsMPKAS7ewp06Ibz9X)** by **Ecco2k** *(GT-R)*
+🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[XxX_TALLER_XxX](https://open.spotify.com/track/1OG2C2b1tS25GXHI3Sbxca)** by **DJmegan23, microsoft points** *(M2AF:)*
+🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-23 07:14:48Z UTC
+🕐 Last updated: 2025-06-23 07:34:16Z UTC
 <!-- SPOTIFY-END -->
