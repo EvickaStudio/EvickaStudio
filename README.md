@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)**
-*by* **Ecco2k, Bladee, Thaiboy Digital**
-*Album:* Trash Island
+**🎵 [Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:37
+    0:31 • 2:05
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
-🎤 **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)*
-🎤 **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)*
-🎤 **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)*
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
+🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
+🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[Taipei](https://open.spotify.com/track/1vEKhtokUAEVX39Zi6avoG)** by **Drain Gang Archive** *(Taipei)*
+🎤 **[Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ)** by **Jane Remover** *(Flash in the Pan)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-23 06:20:21Z UTC
+🕐 Last updated: 2025-06-23 06:51:23Z UTC
 <!-- SPOTIFY-END -->
