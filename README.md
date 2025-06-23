@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2bee75d84d48e6f0bb6df0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)**
-*by* **akiaura, LONOWN, Olya Holiday**
-*Album:* Midnight Skin
+**🎵 [Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)**
+*by* **Snow Strippers**
+*Album:* The Snow Strippers
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
+    <rect width="99" height="4" fill="#1db954" rx="2"/>
+    <circle cx="99" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:47 • 3:20
+    0:59 • 2:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
-🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
-🎤 **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)*
-🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
+🎤 **[detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH)** by **Charli xcx** *(how i'm feeling now)*
+🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
+🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
+🎤 **[Midnight Skin](https://open.spotify.com/track/0oUFmeqCc12TGlspkvgjP4)** by **akiaura, LONOWN, Olya Holiday** *(Midnight Skin)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 23:27:02Z UTC
+🕐 Last updated: 2025-06-23 23:38:04Z UTC
 <!-- SPOTIFY-END -->
