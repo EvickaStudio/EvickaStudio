@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)**
-*by* **Wisp**
-*Album:* Pandora
+**🎵 [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)**
+*by* **Aphex Twin**
+*Album:* Selected Ambient Works 85-92
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="193" height="4" fill="#1db954" rx="2"/>
+    <circle cx="193" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 4:21
+    3:09 • 4:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[Song For Lovers](https://open.spotify.com/track/7qbCY2WYtIKjcTLAOtqliw)** by **Bachelors of Science** *(Science Fiction)*
-🎤 **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)*
-🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
-🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo)** by **Ojerime** *(B4 I Breakdown)*
+🎤 **[cool kids](https://open.spotify.com/track/1VWAL2aR1YQ0nHmvwTUJO2)** by **CHRIS YONGE** *(Maybe I've Gone Mad)*
+🎤 **[Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r)** by **Radiohead** *(Pablo Honey)*
+🎤 **[I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy)** by **Wisp** *(I remember how your hands felt on mine)*
+🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-23 01:06:52Z UTC
+🕐 Last updated: 2025-06-23 03:03:40Z UTC
 <!-- SPOTIFY-END -->
