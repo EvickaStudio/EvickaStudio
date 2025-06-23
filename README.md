@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273edd524a576db274dede2bc43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)**
-*by* **blombi19**
-*Album:* video
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 1:59
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Black Sheep](https://open.spotify.com/track/4XMsJitroppOkDYJlEmuKo)** by **Whispersinyahead** *(Black Sheep)*
+🎤 **[Junge](https://open.spotify.com/track/10waMsh44ojvTwXAIy213n)** by **Die Ärzte** *(Jazz ist anders)*
+🎤 **[video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)** by **blombi19** *(video)*
 🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
 🎤 **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)*
-🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[H2D - (Eurohead x Varg²™ Remix)](https://open.spotify.com/track/1MQXhg7hdHN8BiP5gIj3VK)** by **Varg²™, Eurohead, Bladee, Ecco2k** *(H2D (Eurohead x Varg²™ Remix))*
-🎤 **[bf847](https://open.spotify.com/track/2nWr3QxoMGafCBV67VLZhm)** by **PRINT, march** *(bf847)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 15:51:33Z UTC
+🕐 Last updated: 2025-06-23 16:16:24Z UTC
 <!-- SPOTIFY-END -->
