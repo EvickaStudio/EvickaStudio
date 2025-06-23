@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)**
-*by* **Crystal Castles**
-*Album:* Crystal Castles (II)
+**🎵 [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)**
+*by* **Sun Kil Moon**
+*Album:* Ghosts of the Great Highway
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 4:02
+    9:52 • 14:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Trippin in Amsterdam](https://open.spotify.com/track/2BUfrN8kbmlqPT7vLFq9vP)** by **Gap Girls** *(Street Desires)*
-🎤 **[im sad that my grandma will die - demo](https://open.spotify.com/track/1JjTlkmepNcts2gE1lI2BD)** by **Starberry** *(im sad that my grandma will die (demo))*
-🎤 **[Does It Get Better](https://open.spotify.com/track/54FbeF0O7Q9gzNYSWplqo4)** by **Neptuna Run, Like Glass** *(Does It Get Better)*
-🎤 **[Baby Blue](https://open.spotify.com/track/03GerbuHA0KK8zYRiA60XT)** by **Stevie Dinner, Plant Prophet** *(True Story)*
+🎤 **[Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)** by **Pinegrove** *(Need 2)*
+🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
+🎤 **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
+🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-23 04:46:27Z UTC
+🕐 Last updated: 2025-06-23 05:15:40Z UTC
 <!-- SPOTIFY-END -->
