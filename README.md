@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a39ca9e425a49a9f941be95" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273713c9bec51d8e04b1f974ab7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [rockstarshawty.wav](https://open.spotify.com/track/6q3XlySLLwdlknfOmlCJ7m)**
-*by* **03osc**
-*Album:* OSCWRLD333
+**🎵 [*‧.₊˚*੭*ˊᵕˋ੭.*](https://open.spotify.com/track/6MlWtBhbww5btOEpVEVEbt)**
+*by* **reverie**
+*Album:* ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:02
+    0:26 • 2:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[angels in camo](https://open.spotify.com/track/7a4dV5aM4pHsTdOkqIVK8l)** by **Jane Remover** *(Revengeseekerz)*
-🎤 **[Live too fast](https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Best Song Ever Made](https://open.spotify.com/track/4o82TSyDPmDYBIzqbzwSdP)** by **DJmegan23** *(Dopamine Machine 3)*
-🎤 **[Motorola](https://open.spotify.com/track/7wBJ8JG7PPXtTUvkJjGox2)** by **joaha** *(Motorola)*
-🎤 **[Dream Sequence](https://open.spotify.com/track/3StAvB1whUmjwepXozjKFD)** by **Jane Remover** *(Flash in the Pan)*
+🎤 **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)*
+🎤 **[Up Up](https://open.spotify.com/track/0qROSCQDsC8a2RaFLsXXrN)** by **Elusin** *(SYNFUELS)*
+🎤 **[downer](https://open.spotify.com/track/4W9RfRaZ69A02s6an1uJM3)** by **Whitearmor** *(downer)*
+🎤 **[Open Your Eyes](https://open.spotify.com/track/6EV3KcksXaX2oLrLrYq23v)** by **User2222** *(2222)*
+🎤 **[Blew My High >:](https://open.spotify.com/track/1B1b0aaSp1mfNwSv5S7U9s)** by **DJmegan23** *(Trenches)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-23 09:16:10Z UTC
+🕐 Last updated: 2025-06-23 09:42:48Z UTC
 <!-- SPOTIFY-END -->
