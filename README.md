@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731fdbfa28a607c767a3bdc0fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Your Faces](https://open.spotify.com/track/3mKe7pLdShaRYEpqwMI92M)**
-*by* **Nokia Angel**
-*Album:* Born Angel
+**🎵 [Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)**
+*by* **Crystal Castles**
+*Album:* Crystal Castles (II)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="127" height="4" fill="#1db954" rx="2"/>
-    <circle cx="127" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 3:32
+    3:00 • 4:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
-🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
-🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
-🎤 **[I'll Do It (Sped Up)](https://open.spotify.com/track/3TvimWTDQPPoDzQtI0BBRZ)** by **Six Dior** *(I'll Do It (Sped Up))*
+🎤 **[Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Trippin in Amsterdam](https://open.spotify.com/track/2BUfrN8kbmlqPT7vLFq9vP)** by **Gap Girls** *(Street Desires)*
+🎤 **[im sad that my grandma will die - demo](https://open.spotify.com/track/1JjTlkmepNcts2gE1lI2BD)** by **Starberry** *(im sad that my grandma will die (demo))*
+🎤 **[Does It Get Better](https://open.spotify.com/track/54FbeF0O7Q9gzNYSWplqo4)** by **Neptuna Run, Like Glass** *(Does It Get Better)*
+🎤 **[Baby Blue](https://open.spotify.com/track/03GerbuHA0KK8zYRiA60XT)** by **Stevie Dinner, Plant Prophet** *(True Story)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-23 04:01:46Z UTC
+🕐 Last updated: 2025-06-23 04:46:27Z UTC
 <!-- SPOTIFY-END -->
