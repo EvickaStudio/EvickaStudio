@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273929fe4d0ac924189984516fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731616f5fad059c7e239347cb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)**
+**🎵 [Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)**
 *by* **User2222**
-*Album:* User2222 Greatest Hits
+*Album:* Blame Games
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 4:07
+    2:38 • 2:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Promise](https://open.spotify.com/track/4OtaepBwuVf6vo4FF2MZ4l)** by **ESP** *(Promise)*
-🎤 **[*‧.₊˚*੭*ˊᵕˋ੭.*](https://open.spotify.com/track/6MlWtBhbww5btOEpVEVEbt)** by **reverie** *(˚₊‧꒰ა ☆ ໒꒱ ‧₊˚)*
-🎤 **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)*
-🎤 **[Up Up](https://open.spotify.com/track/0qROSCQDsC8a2RaFLsXXrN)** by **Elusin** *(SYNFUELS)*
+🎤 **[hidden track (pxe)](https://open.spotify.com/track/0bxUA5SIKgxJXxHrslSmWZ)** by **dose** *(hidden track (pxe))*
+🎤 **[ITS OK TO NOT BE OK](https://open.spotify.com/track/7d2sD0YaynMaal6sfvfCPT)** by **Bladee** *(Spiderr)*
+🎤 **[Crisis](https://open.spotify.com/track/2zG12U8d84yyp9CQ7kHNe0)** by **ESP** *(Promise)*
+🎤 **[Annika](https://open.spotify.com/track/5Pc4ylk5pVh6tCn2nlpH1z)** by **Whitearmor, Gud** *(Frutta E Verdura)*
+🎤 **[Tantalus - Nymph Mix](https://open.spotify.com/track/2OcXB1lXXGGQliBTrRQUMd)** by **Peake** *(Tantalus (Nymph Mix))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-23 09:52:35Z UTC
+🕐 Last updated: 2025-06-23 10:15:11Z UTC
 <!-- SPOTIFY-END -->
