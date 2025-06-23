@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)**
-*by* **Sun Kil Moon**
-*Album:* Ghosts of the Great Highway
+**🎵 [Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)**
+*by* **Cortex**
+*Album:* Troupeau bleu
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="203" height="4" fill="#1db954" rx="2"/>
-    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+    <rect width="9" height="4" fill="#1db954" rx="2"/>
+    <circle cx="9" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    9:52 • 14:32
+    0:08 • 4:26
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)** by **Pinegrove** *(Need 2)*
-🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
-🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
-🎤 **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
-🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
+🎤 **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by **Starship** *(Knee Deep In The Hoopla)*
+🎤 **[City Treff nur schneller](https://open.spotify.com/track/3ZgCEkFgEkmIOqinjLYf1q)** by **anunyma** *(City Treff)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[show me calcium](https://open.spotify.com/track/5zWJgjOltU9B6t1kEvkS3w)** by **alfie** *(show me calcium)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-23 05:15:40Z UTC
+🕐 Last updated: 2025-06-23 05:42:45Z UTC
 <!-- SPOTIFY-END -->
