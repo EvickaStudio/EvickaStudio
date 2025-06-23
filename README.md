@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273094a24a9c0002a98299a90fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)**
-*by* **Bassvictim**
-*Album:* Basspunk 2
+**🎵 [rain check](https://open.spotify.com/track/5mkwXXNLr8pkaU7v9rsyQH)**
+*by* **Drain Gang Archive**
+*Album:* Rain Check
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:05
+    0:05 • 3:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
-🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Taipei](https://open.spotify.com/track/1vEKhtokUAEVX39Zi6avoG)** by **Drain Gang Archive** *(Taipei)*
-🎤 **[Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ)** by **Jane Remover** *(Flash in the Pan)*
+🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Faust](https://open.spotify.com/track/0Nrd79QrK5WXiqxKMgTUX3)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
+🎤 **[sleep walk 2 the jeweler](https://open.spotify.com/track/0zvT2KOwhsWGiAUmtSCfuQ)** by **Drain Gang Archive** *(Sleep Walk 2 The Jeweler)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 
 
-🕐 Last updated: 2025-06-23 06:51:23Z UTC
+🕐 Last updated: 2025-06-23 07:14:48Z UTC
 <!-- SPOTIFY-END -->
