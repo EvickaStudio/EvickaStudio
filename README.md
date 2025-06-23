@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d3074cfa4d396fa426d8abde" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)**
-*by* **Nokia Angel**
-*Album:* Stay Cold
+**🎵 [safety](https://open.spotify.com/track/3342r99l4qg0HeVAAJ2Mya)**
+*by* **2hollis**
+*Album:* White Tiger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 3:53
+    1:40 • 2:28
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[alone](https://open.spotify.com/track/6RcGnDf9hEyxJ8T6Wywn9j)** by **Ripsquad Archive** *(alone)*
-🎤 **[Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F)** by **Bladee** *(333)*
-🎤 **[2008](https://open.spotify.com/track/4FOuhsFBiLRtEzabE3SL3c)** by **DJmegan23** *(Trenches)*
-🎤 **[Bleach](https://open.spotify.com/track/1OMmOKi0ay6FNVsqSjWKkf)** by **Drain Gang Archive** *(Bleach)*
-🎤 **[insect](https://open.spotify.com/track/0JzyaUCccuaWUg9oNutwcx)** by **dose** *(insect)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)*
+🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
+🎤 **[Happily Ever After](https://open.spotify.com/track/6PlupK3wnLqxSFSP9oW4GW)** by **Ecco2k** *(D&G)*
+🎤 **[Happily Ever After](https://open.spotify.com/track/6PlupK3wnLqxSFSP9oW4GW)** by **Ecco2k** *(D&G)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 11:47:41Z UTC
+🕐 Last updated: 2025-06-23 12:26:56Z UTC
 <!-- SPOTIFY-END -->
