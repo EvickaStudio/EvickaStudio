@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d3074cfa4d396fa426d8abde" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [safety](https://open.spotify.com/track/3342r99l4qg0HeVAAJ2Mya)**
-*by* **2hollis**
-*Album:* White Tiger
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 2:28
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)*
-🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
-🎤 **[Happily Ever After](https://open.spotify.com/track/6PlupK3wnLqxSFSP9oW4GW)** by **Ecco2k** *(D&G)*
-🎤 **[Happily Ever After](https://open.spotify.com/track/6PlupK3wnLqxSFSP9oW4GW)** by **Ecco2k** *(D&G)*
+🎤 **[H2D - (Eurohead x Varg²™ Remix)](https://open.spotify.com/track/1MQXhg7hdHN8BiP5gIj3VK)** by **Varg²™, Eurohead, Bladee, Ecco2k** *(H2D (Eurohead x Varg²™ Remix))*
+🎤 **[bf847](https://open.spotify.com/track/2nWr3QxoMGafCBV67VLZhm)** by **PRINT, march** *(bf847)*
+🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
+🎤 **[forget wys](https://open.spotify.com/track/46mljV5AlCn6TjeD7CVWfO)** by **dose** *(forget wys)*
+🎤 **[I Think...](https://open.spotify.com/track/2DUvIOB03qVtZrOi7xurRI)** by **Bladee** *(The Fool)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 12:26:56Z UTC
+🕐 Last updated: 2025-06-23 13:08:26Z UTC
 <!-- SPOTIFY-END -->
