@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273409d1e2c96191661b3a498b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hero of My Story 3style3](https://open.spotify.com/track/6K1UQU8GHs36G1Kv012i41)**
-*by* **Bladee**
-*Album:* 333
+**🎵 [Bleach](https://open.spotify.com/track/1OMmOKi0ay6FNVsqSjWKkf)**
+*by* **Drain Gang Archive**
+*Album:* Bleach
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="115" height="4" fill="#1db954" rx="2"/>
-    <circle cx="115" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 1:59
+    1:46 • 2:24
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[insect](https://open.spotify.com/track/0JzyaUCccuaWUg9oNutwcx)** by **dose** *(insect)*
+🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
+🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
+🎤 **[Hero of My Story 3style3](https://open.spotify.com/track/6K1UQU8GHs36G1Kv012i41)** by **Bladee** *(333)*
 🎤 **[first try](https://open.spotify.com/track/2jHya29V5JRlmXDGqMflH4)** by **Buffalobang** *(first try)*
-🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
-🎤 **[Stunn](https://open.spotify.com/track/6wHDFttQM9JU16Oq41SXvq)** by **The Hellp** *(LL)*
-🎤 **[searching](https://open.spotify.com/track/4ip4yGaadmxwPxvboZRoUh)** by **Capoxxo, mayh3mp** *(searching)*
-🎤 **[Golden God](https://open.spotify.com/track/4Nv2DmZ8VvCavaOtlIHPHQ)** by **Yung Lean, Bladee** *(Psykos)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 11:28:03Z UTC
+🕐 Last updated: 2025-06-23 11:39:08Z UTC
 <!-- SPOTIFY-END -->
