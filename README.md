@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)**
-*by* **SALEM**
-*Album:* Fires In Heaven
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 2:56
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq)** by **Mariya Takeuchi** *(Expressions)*
+🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
 🎤 **[i kno](https://open.spotify.com/track/2VYGhT9YFJ6kd6YWLJSnfh)** by **Whitearmor** *(i kno)*
 🎤 **[PXE](https://open.spotify.com/track/5wm9T96psOQhQWSVn39U69)** by **Ecco2k** *(PXE)*
 🎤 **[xXx_FASTER_xXx](https://open.spotify.com/track/0xEgIgqASwTJdhCC7KI2Gm)** by **DJmegan23, microsoft points** *(M2AF:)*
-🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
-🎤 **[Wallet Won't Fold](https://open.spotify.com/track/5YOHwjNuOh5BhhObHuAj0Y)** by **Drain Gang Archive** *(Wallet Won't Fold)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-23 07:50:01Z UTC
+🕐 Last updated: 2025-06-23 08:18:58Z UTC
 <!-- SPOTIFY-END -->
