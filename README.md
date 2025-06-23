@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)**
-*by* **Hole**
-*Album:* Celebrity Skin
+**🎵 [Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)**
+*by* **Snow Strippers**
+*Album:* The Snow Strippers
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:56 • 5:29
+    0:20 • 3:06
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Out of Touch](https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit)** by **Daryl Hall & John Oates** *(The Very Best Of)*
-🎤 **[Shadowplay - 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
-🎤 **[Tema di Andrea](https://open.spotify.com/track/4yDUfLfG4wi3Ktfd9Fi7fH)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
-🎤 **[Ostavi trag](https://open.spotify.com/track/65zw2RY8Qp0JJDcQNSejNY)** by **September** *(Zadnja avantura)*
-🎤 **[OH! TENGO SUERTE](https://open.spotify.com/track/7E4qUlNYocWix5FKBdw5CN)** by **Masayoshi Takanaka** *(SEYCHELLES)*
+🎤 **[Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E)** by **Weezer** *(Weezer)*
+🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
+🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by **Hole** *(Celebrity Skin)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 22:34:53Z UTC
+🕐 Last updated: 2025-06-23 22:50:22Z UTC
 <!-- SPOTIFY-END -->
