@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d1430224d631eaa5954f13c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c76d1428658b3503b23a7e45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA)**
-*by* **Beach House**
-*Album:* Depression Cherry
+**🎵 [Play Em Like Atari](https://open.spotify.com/track/34uzB2MBbxtrXMhYPUfz2g)**
+*by* **Drain Gang Archive**
+*Album:* Play Em Like Atari
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="107" height="4" fill="#1db954" rx="2"/>
+    <circle cx="107" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 5:20
+    1:22 • 3:49
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[exist in me](https://open.spotify.com/track/0PZweQfenOcra3aN7oNgEP)** by **zaya** *(exist in me)*
-🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
-🎤 **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)*
-🎤 **[It's a Dream - Infused mix](https://open.spotify.com/track/0KNR7j4Su86TZ6RNEtomv0)** by **DJ Panda** *(It's a Dream)*
-🎤 **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by **Traumatin, whosroman** *(Helium)*
+🎤 **[SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[Hallow Kitty](https://open.spotify.com/track/6sizQj16amSoj5iXMDCx5J)** by **Kwam.E, OVE** *(Hallow Kitty)*
+🎤 **[вновь мы ближе](https://open.spotify.com/track/1uJMSzPR8tCD18cYRZkjfH)** by **LONOWN, niteboi** *(вновь мы ближе)*
+🎤 **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)*
+🎤 **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 17:11:56Z UTC
+🕐 Last updated: 2025-06-23 17:33:14Z UTC
 <!-- SPOTIFY-END -->
