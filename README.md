@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736dfc5392b3a59e8d655fe750" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d754d2ef29e3f7dcd73caa3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1000 Perfect Diamonds](https://open.spotify.com/track/7rhSH2MbSSFG5TBFXYEGtc)**
-*by* **DJmegan23, 8ngelonline**
-*Album:* You Weren't Supposed To See That...
+**🎵 [Hero of My Story 3style3](https://open.spotify.com/track/6K1UQU8GHs36G1Kv012i41)**
+*by* **Bladee**
+*Album:* 333
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="115" height="4" fill="#1db954" rx="2"/>
+    <circle cx="115" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 1:22
+    0:45 • 1:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[back on my feet](https://open.spotify.com/track/4ACHBgg6bJ704Ymw2w1Yc3)** by **Buffalobang** *(back on my feet)*
-🎤 **[GREEN SPORE VALLEY](https://open.spotify.com/track/496TD3rnHUlD3hJiTU2vmp)** by **2hollis** *(META)*
-🎤 **[You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)** by **Ecco2k, Bladee, Thaiboy Digital** *(Trash Island)*
-🎤 **[13](https://open.spotify.com/track/5zyaj0Ln5PpRrbruCsxaYq)** by **Whitearmor** *(Karma)*
-🎤 **[LDM](https://open.spotify.com/track/1zV72LFybhhjlhGwXPDZc4)** by **ESP** *(LDM)*
+🎤 **[first try](https://open.spotify.com/track/2jHya29V5JRlmXDGqMflH4)** by **Buffalobang** *(first try)*
+🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
+🎤 **[Stunn](https://open.spotify.com/track/6wHDFttQM9JU16Oq41SXvq)** by **The Hellp** *(LL)*
+🎤 **[searching](https://open.spotify.com/track/4ip4yGaadmxwPxvboZRoUh)** by **Capoxxo, mayh3mp** *(searching)*
+🎤 **[Golden God](https://open.spotify.com/track/4Nv2DmZ8VvCavaOtlIHPHQ)** by **Yung Lean, Bladee** *(Psykos)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 11:12:04Z UTC
+🕐 Last updated: 2025-06-23 11:28:03Z UTC
 <!-- SPOTIFY-END -->
