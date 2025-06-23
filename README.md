@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="21" height="4" fill="#1db954" rx="2"/>
+    <circle cx="21" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:11 • 2:37
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[victim +jersey+](https://open.spotify.com/track/6aKt5HYnvawRYXemiQdO7H)** by **temcandoanything, CactusTeam, Ecco2k** *(victim +jersey+)*
+🎤 **[condolence letter](https://open.spotify.com/track/5GQqX9NEbbsMSmC95XJCC6)** by **Levi Ryan** *(soviet winter)*
+🎤 **[liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso)** by **damon r.** *(liverounds)*
+🎤 **[liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso)** by **damon r.** *(liverounds)*
 🎤 **[Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq)** by **Mariya Takeuchi** *(Expressions)*
-🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
-🎤 **[i kno](https://open.spotify.com/track/2VYGhT9YFJ6kd6YWLJSnfh)** by **Whitearmor** *(i kno)*
-🎤 **[PXE](https://open.spotify.com/track/5wm9T96psOQhQWSVn39U69)** by **Ecco2k** *(PXE)*
-🎤 **[xXx_FASTER_xXx](https://open.spotify.com/track/0xEgIgqASwTJdhCC7KI2Gm)** by **DJmegan23, microsoft points** *(M2AF:)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-23 08:18:58Z UTC
+🕐 Last updated: 2025-06-23 08:48:08Z UTC
 <!-- SPOTIFY-END -->
