@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273653d416881e60f9a4ce6acfd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)**
-*by* **Puzzle**
-*Album:* X Hail
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:57
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Osmosis](https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y)** by **Good Kid** *(Good Kid 3)*
+🎤 **[No Time to Explain](https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC)** by **Good Kid** *(No Time to Explain)*
+🎤 **[Bubbly](https://open.spotify.com/track/7aLtFOQyLWC1L1XPN8RC3b)** by **Good Kid** *(Bubbly)*
+🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
 🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
-🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
-🎤 **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)*
-🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[radar](https://open.spotify.com/track/218EsnPhF2Fk5jA9fDqKSj)** by **lil hero** *(pawwwfect!)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 21:12:10Z UTC
+🕐 Last updated: 2025-06-23 21:30:06Z UTC
 <!-- SPOTIFY-END -->
