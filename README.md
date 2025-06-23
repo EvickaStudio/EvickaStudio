@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f67a8d19b2c7130f0437887b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)**
+*by* **Freddie Dredd**
+*Album:* GTG
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:16 • 1:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Psycho Pass](https://open.spotify.com/track/3kZAm2TC74lBJFPDoV40Qc)** by **Xavier Wulf** *(Blood Shore Season 2)*
+🎤 **[Jalouse](https://open.spotify.com/track/4gujJ5efKCRLC3moKJktE7)** by **Ecco2k** *(PXE)*
 🎤 **[Osmosis](https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y)** by **Good Kid** *(Good Kid 3)*
 🎤 **[No Time to Explain](https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC)** by **Good Kid** *(No Time to Explain)*
 🎤 **[Bubbly](https://open.spotify.com/track/7aLtFOQyLWC1L1XPN8RC3b)** by **Good Kid** *(Bubbly)*
-🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 21:30:06Z UTC
+🕐 Last updated: 2025-06-23 21:41:59Z UTC
 <!-- SPOTIFY-END -->
