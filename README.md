@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f56bd14c15f36c9dad626d9b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736b5084a3dc6ba46f4c999deb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)**
-*by* **Jawnino**
-*Album:* 40
+**🎵 [Little Ghost](https://open.spotify.com/track/0qnE2zGsoGm0GaWEYvMUUi)**
+*by* **Provoker**
+*Album:* Demon Compass
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="119" height="4" fill="#1db954" rx="2"/>
-    <circle cx="119" cy="2" r="6" fill="#1db954"/>
+    <rect width="112" height="4" fill="#1db954" rx="2"/>
+    <circle cx="112" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:50 • 4:36
+    1:24 • 3:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
-🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
-🎤 **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)*
-🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
-🎤 **[I'm On My Own](https://open.spotify.com/track/1O3NUmt3lxCl4LCG9XjNam)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
+🎤 **[The Beginning](https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR)** by **Flawed Mangoes** *(Killswitch Melodies)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)*
+🎤 **[Just Give Me One More Day](https://open.spotify.com/track/2WD3vroGcaxzfp8dclzCcA)** by **Alej, Alejandro Vargas** *(Just Give Me One More Day)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 20:14:23Z UTC
+🕐 Last updated: 2025-06-23 20:34:14Z UTC
 <!-- SPOTIFY-END -->
