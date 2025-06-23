@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731616f5fad059c7e239347cb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)**
-*by* **User2222**
-*Album:* Blame Games
+**🎵 [Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)**
+*by* **Whitearmor**
+*Album:* In the Abyss: Music for Weddings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="145" height="4" fill="#1db954" rx="2"/>
+    <circle cx="145" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 2:59
+    2:01 • 4:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[hidden track (pxe)](https://open.spotify.com/track/0bxUA5SIKgxJXxHrslSmWZ)** by **dose** *(hidden track (pxe))*
-🎤 **[ITS OK TO NOT BE OK](https://open.spotify.com/track/7d2sD0YaynMaal6sfvfCPT)** by **Bladee** *(Spiderr)*
-🎤 **[Crisis](https://open.spotify.com/track/2zG12U8d84yyp9CQ7kHNe0)** by **ESP** *(Promise)*
-🎤 **[Annika](https://open.spotify.com/track/5Pc4ylk5pVh6tCn2nlpH1z)** by **Whitearmor, Gud** *(Frutta E Verdura)*
-🎤 **[Tantalus - Nymph Mix](https://open.spotify.com/track/2OcXB1lXXGGQliBTrRQUMd)** by **Peake** *(Tantalus (Nymph Mix))*
+🎤 **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)*
+🎤 **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[Rented Starship](https://open.spotify.com/track/3FYv1H2K5bVaKSTz3QwHCg)** by **Rooster** *(Rooster Debut)*
+🎤 **[its okay 2 cry\\](https://open.spotify.com/track/3bFY6pq8RxxQupf37Q2e82)** by **Zaram** *(Angel___Music)*
+🎤 **[The Science of Giving In (Part I)](https://open.spotify.com/track/2gDQsd8tzYPdXikU0RQtso)** by **User2222** *(Blame Games)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**where's my head at _**](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)
 
 
-🕐 Last updated: 2025-06-23 10:15:11Z UTC
+🕐 Last updated: 2025-06-23 10:41:39Z UTC
 <!-- SPOTIFY-END -->
