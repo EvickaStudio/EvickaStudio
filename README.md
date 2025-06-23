@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273409d1e2c96191661b3a498b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bleach](https://open.spotify.com/track/1OMmOKi0ay6FNVsqSjWKkf)**
-*by* **Drain Gang Archive**
-*Album:* Bleach
+**🎵 [Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)**
+*by* **Nokia Angel**
+*Album:* Stay Cold
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 2:24
+    1:08 • 3:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[alone](https://open.spotify.com/track/6RcGnDf9hEyxJ8T6Wywn9j)** by **Ripsquad Archive** *(alone)*
+🎤 **[Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F)** by **Bladee** *(333)*
+🎤 **[2008](https://open.spotify.com/track/4FOuhsFBiLRtEzabE3SL3c)** by **DJmegan23** *(Trenches)*
+🎤 **[Bleach](https://open.spotify.com/track/1OMmOKi0ay6FNVsqSjWKkf)** by **Drain Gang Archive** *(Bleach)*
 🎤 **[insect](https://open.spotify.com/track/0JzyaUCccuaWUg9oNutwcx)** by **dose** *(insect)*
-🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
-🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
-🎤 **[Hero of My Story 3style3](https://open.spotify.com/track/6K1UQU8GHs36G1Kv012i41)** by **Bladee** *(333)*
-🎤 **[first try](https://open.spotify.com/track/2jHya29V5JRlmXDGqMflH4)** by **Buffalobang** *(first try)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 11:39:08Z UTC
+🕐 Last updated: 2025-06-23 11:47:41Z UTC
 <!-- SPOTIFY-END -->
