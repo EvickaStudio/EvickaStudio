@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9d56cda4b554b0d1e9722a2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273653d416881e60f9a4ce6acfd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sooner](https://open.spotify.com/track/2VKilJaIWvpUswtBiW3GfL)**
-*by* **slowthai**
-*Album:* UGLY
+**🎵 [Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)**
+*by* **Puzzle**
+*Album:* X Hail
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:54
+    0:42 • 2:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[One Thing](https://open.spotify.com/track/1ywPdB8JxixAVtlazK8hNl)** by **KiLLOWEN** *(Pub Therapy)*
-🎤 **[It's Cold Out - Extended Mix](https://open.spotify.com/track/4asp5AAvCxTpFrL6y08id7)** by **Jawnino** *(40)*
-🎤 **[Beautiful Love](https://open.spotify.com/track/6ErJIbRtHLJqJBJcu8m2Zg)** by **heffy** *(Sick Sad Obsession)*
-🎤 **[stain](https://open.spotify.com/track/148swfiNCHmZqSYkUOtXrH)** by **Max Fry** *(more than dead to me)*
-🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
+🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
+🎤 **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)*
+🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[radar](https://open.spotify.com/track/218EsnPhF2Fk5jA9fDqKSj)** by **lil hero** *(pawwwfect!)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-23 20:51:25Z UTC
+🕐 Last updated: 2025-06-23 21:12:10Z UTC
 <!-- SPOTIFY-END -->
