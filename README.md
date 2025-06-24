@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a6ba454df44d588fbc6bc983" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG)**
-*by* **Klaxons**
-*Album:* Myths Of The Near Future
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 2:45
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS)** by **Muyeez, Seyi Vibez** *(Instagram)*
+🎤 **[Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS)** by **Seyi Vibez** *(Loseyi Professor)*
+🎤 **[Kai!](https://open.spotify.com/track/0C3zMmE4yo1qBq6MGfkwX0)** by **Olamide, Wizkid** *(Olamidé)*
+🎤 **[Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG)** by **Klaxons** *(Myths Of The Near Future)*
 🎤 **[Lady - Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6)** by **Modjo** *(Modjo (Remastered))*
-🎤 **[The Way I Are](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn)** by **Timbaland, Keri Hilson, D.O.E.** *(Shock Value)*
-🎤 **[Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5)** by **Kanye West** *(808s & Heartbreak)*
-🎤 **[Stockholm Syndrome](https://open.spotify.com/track/7wByhVwzusalGgbjs7HJXL)** by **M()RE** *(Five Years)*
-🎤 **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)*
 
 
 
@@ -154,9 +135,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
 🥈 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 🥉 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
-🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 🏅 [**großstadt lifestyle**](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)
+🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-24 21:47:57Z UTC
+🕐 Last updated: 2025-06-24 22:12:27Z UTC
 <!-- SPOTIFY-END -->
