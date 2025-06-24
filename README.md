@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386c11917e8da8aab8f5ea81d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)**
-*by* **Wisp**
-*Album:* Pandora
+**🎵 [KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)**
+*by* **lusi 7896**
+*Album:* KUSH KOMA
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="296" height="4" fill="#1db954" rx="2"/>
+    <circle cx="296" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:51 • 3:05
+    2:05 • 2:06
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[mirage](https://open.spotify.com/track/5BEP7tyEOMrw4MLOT42jem)** by **Drain Gang Archive** *(Mirage)*
+🎤 **[i need help](https://open.spotify.com/track/7EJ2iHbRuAlsGLreswLWOT)** by **Nicoteen Ninyo** *(i need help)*
 🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 14:15:10Z UTC
+🕐 Last updated: 2025-06-24 14:39:25Z UTC
 <!-- SPOTIFY-END -->
