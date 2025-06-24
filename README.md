@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731db27fa11dbafa67857da8f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273837a1624ef43921664d609a0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)**
-*by* **Mike Posner, Seeb**
-*Album:* At Night, Alone.
+**🎵 [nightvision](https://open.spotify.com/track/62GEtzoxZT64Gyyomu2NFd)**
+*by* **lannarie**
+*Album:* notes of nothing
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="37" height="4" fill="#1db954" rx="2"/>
-    <circle cx="37" cy="2" r="6" fill="#1db954"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 3:17
+    0:06 • 1:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[heart so heavy, my liver can handle it](https://open.spotify.com/track/5ze1nYQHjMn52eQeYhSVn8)** by **cholorofilm** *(heart so heavy, my liver can handle it)*
-🎤 **[a velvet goldmine](https://open.spotify.com/track/4Xx7kANLN7PDGrBxdLkEGB)** by **reverie** *(transsexual sounds)*
-🎤 **[size up](https://open.spotify.com/track/3smW4OE0MJGAqBjNyofsax)** by **RiCK!** *(ich hasse alle ausser dich)*
-🎤 **[murd6r](https://open.spotify.com/track/5qfHR23E5hEljhs9xadMTx)** by **Drux, mikeycyrus** *(murd6r)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)*
+🎤 **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by **NXFEIT, Sillyelly, Hen848** *(CASSA DRITTISSIMA !!)*
+🎤 **[Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3)** by **Syn Cole** *(Feel Good)*
+🎤 **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)*
+🎤 **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 17:13:36Z UTC
+🕐 Last updated: 2025-06-24 17:34:40Z UTC
 <!-- SPOTIFY-END -->
