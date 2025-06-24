@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e9e71ae4a21567b7c7b9f553" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273170f1908b3c5d98608defc9b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)**
-*by* **Nightcore Reality, meme my**
-*Album:* Angel with a Shotgun
+**🎵 [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)**
+*by* **Trxy!**
+*Album:* Realize
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="100" height="4" fill="#1db954" rx="2"/>
-    <circle cx="100" cy="2" r="6" fill="#1db954"/>
+    <rect width="218" height="4" fill="#1db954" rx="2"/>
+    <circle cx="218" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 3:15
+    1:24 • 1:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
-🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
-🎤 **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)*
-🎤 **[Wenn die Sonne scheint](https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg)** by **Rowli, Hank** *(Teenage Tears)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[Various Types Of Ads](https://open.spotify.com/track/79VIJ0S4PAKXuvKpmfsBRD)** by **Rory in early 20s** *(Various Types Of Ads)*
+🎤 **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)*
+🎤 **[Ms. Jackson](https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG)** by **Pashanim** *(Ms. Jackson)*
+🎤 **[Allein Allein - Whos Jay? Remix](https://open.spotify.com/track/5HLHKR9rGuwQX7XiXGUCtc)** by **Who‘s Jay?** *(Allein Allein (Whos Jay? Remix))*
+🎤 **[Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)** by **Nightcore Reality, meme my** *(Angel with a Shotgun)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 15:35:48Z UTC
+🕐 Last updated: 2025-06-24 15:51:33Z UTC
 <!-- SPOTIFY-END -->
