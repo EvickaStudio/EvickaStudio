@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dde6c6894221a008d5c0abf7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [better days](https://open.spotify.com/track/3hPxeqVispRkA8yWOjAcYJ)**
-*by* **steezy prime, Devon Rea, fnonose**
-*Album:* half past three
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 2:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[youth](https://open.spotify.com/track/4dXVVNd2zbfiN28oPCL10J)** by **steezy prime, Ayzic** *(beyond the pines)*
-🎤 **[Going South](https://open.spotify.com/track/1HKOKulRETpMWu2CtLoiwO)** by **Blumen** *(La Hague)*
-🎤 **[We're home, Now](https://open.spotify.com/track/2ze2KpLo5X1ACtqi10rOBp)** by **softy** *(The Day I Passed)*
-🎤 **[Liquid Spots](https://open.spotify.com/track/7hEdlA5hxgZOOA6J1bfNoh)** by **Rudy Raw, Phlocalyst, Sátyr** *(Imagenero)*
-🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
+🎤 **[New Beginnings](https://open.spotify.com/track/4vxItbZpDtTmH5ZRNPq63m)** by **Osaki, Tibeauthetraveler** *(New Beginnings)*
+🎤 **[When We Speak](https://open.spotify.com/track/4TFnUYS0vbUHzHCT75WL80)** by **Team Astro** *(Three of Us)*
+🎤 **[fuji](https://open.spotify.com/track/3ICibjXxX610PI6rcQZvRY)** by **Bert, Jhove** *(offline)*
+🎤 **[Whispers of Eden](https://open.spotify.com/track/7HcwhoGMSjXHWNSgbmwYoH)** by **Nogymx** *(Mirage of the Mind)*
+🎤 **[Bodies](https://open.spotify.com/track/2v1GOJAYFs0iNvrkWMKNQW)** by **kudo** *(Staring Through)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 09:51:14Z UTC
+🕐 Last updated: 2025-06-24 10:14:32Z UTC
 <!-- SPOTIFY-END -->
