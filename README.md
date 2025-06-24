@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a01620a3146cdfb6d8e4166c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731db27fa11dbafa67857da8f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)**
-*by* **DR0NE3**
-*Album:* Built This Way (Slowed)
+**🎵 [I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)**
+*by* **Mike Posner, Seeb**
+*Album:* At Night, Alone.
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="37" height="4" fill="#1db954" rx="2"/>
+    <circle cx="37" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:36 • 4:16
+    0:24 • 3:17
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ)** by **Harmless** *(I'm Sure)*
-🎤 **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)*
-🎤 **[Ral Grad](https://open.spotify.com/track/7Csc3LFRvRA9s5gLbSM3Mf)** by **Harto Falión, Eera** *(Academy)*
-🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
+🎤 **[heart so heavy, my liver can handle it](https://open.spotify.com/track/5ze1nYQHjMn52eQeYhSVn8)** by **cholorofilm** *(heart so heavy, my liver can handle it)*
+🎤 **[a velvet goldmine](https://open.spotify.com/track/4Xx7kANLN7PDGrBxdLkEGB)** by **reverie** *(transsexual sounds)*
+🎤 **[size up](https://open.spotify.com/track/3smW4OE0MJGAqBjNyofsax)** by **RiCK!** *(ich hasse alle ausser dich)*
+🎤 **[murd6r](https://open.spotify.com/track/5qfHR23E5hEljhs9xadMTx)** by **Drux, mikeycyrus** *(murd6r)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 16:47:46Z UTC
+🕐 Last updated: 2025-06-24 17:13:36Z UTC
 <!-- SPOTIFY-END -->
