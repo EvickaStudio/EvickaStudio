@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b47d309281c66820b7137f5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eb0b5234363986a0b9176b8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)**
-*by* **MGMT**
-*Album:* Little Dark Age
+**🎵 [No Security](https://open.spotify.com/track/5y2K7jr9M8t1HRAu9jzssT)**
+*by* **Skepta**
+*Album:* No Security
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="83" height="4" fill="#1db954" rx="2"/>
-    <circle cx="83" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 4:59
+    2:24 • 3:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)** by **Replay Okay** *(Sie ist anders <facts3)*
-🎤 **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[Skepta Interlude](https://open.spotify.com/track/2dfqS3MRtbLZSZA1IL8xY5)** by **Drake** *(More Life)*
+🎤 **[Doorman](https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB)** by **slowthai, Mura Masa** *(Nothing Great About Britain)*
+🎤 **[Lean 4 Real (feat. Skepta)](https://open.spotify.com/track/1JgkiUg9mSXSwcb5Gbi4Ur)** by **Playboi Carti, Skepta** *(Die Lit)*
+🎤 **[Wind (feat. Cold)](https://open.spotify.com/track/2XSyyHoGfa3Ns9g4Y0Afdl)** by **Jawnino, Cold** *(40)*
+🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 07:13:59Z UTC
+🕐 Last updated: 2025-06-24 07:32:18Z UTC
 <!-- SPOTIFY-END -->
