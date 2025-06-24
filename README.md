@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273315686b3698c807eb82cb210" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732bb869ead16fa67aba28c756" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)**
-*by* **citrulinq, Kiki<3**
-*Album:* Hard Resonance
+**🎵 [Fresh air](https://open.spotify.com/track/2FwEd0cP4RS6GsVSq17yJx)**
+*by* **Euology**
+*Album:* Fresh air
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="59" height="4" fill="#1db954" rx="2"/>
-    <circle cx="59" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:43
+    0:39 • 3:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by **Ufo361, Pashanim** *(allein allein)*
-🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
-🎤 **[Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)** by **Playboi Carti, Lil Uzi Vert** *(Die Lit)*
-🎤 **[Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah)** by **$uicideboy$** *(New World Depression)*
-🎤 **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by **Destroy Lonely** *(If Looks Could Kill)*
+🎤 **[drifting fever](https://open.spotify.com/track/38lPzSLmrr8rq7OQaNPkI7)** by **baby.murcielaga** *(DEAD BY DEFAULT)*
+🎤 **[Twelve Years](https://open.spotify.com/track/3QIFfQr3gnmaB7HJkEi8nQ)** by **Roving** *(Spindrift)*
+🎤 **[Cyanine](https://open.spotify.com/track/38oP9DknNbzos0kKO6AP54)** by **Gaeri Rothschild** *(Absolute)*
+🎤 **[9°](https://open.spotify.com/track/3kV9aUUnqRC7ITnfqypXuS)** by **DreamWeaver** *(Cloud9)*
+🎤 **[Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m)** by **Grizzly Bear** *(Veckatimest)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 05:51:53Z UTC
+🕐 Last updated: 2025-06-24 06:19:55Z UTC
 <!-- SPOTIFY-END -->
