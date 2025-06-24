@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
 🎤 **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)*
 🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
 🎤 **[Moon & Stars (feat. Maggie Lindemann)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu)** by **$NOT, Maggie Lindemann** *(- TRAGEDY +)*
 🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 13:08:00Z UTC
+🕐 Last updated: 2025-06-24 13:44:32Z UTC
 <!-- SPOTIFY-END -->
