@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27317b86f6123bd6012eaad6503" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e9e71ae4a21567b7c7b9f553" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hin & Her](https://open.spotify.com/track/0YuSMNVNyMeVTjGH3kqoG5)**
-*by* **Matze**
-*Album:* Hin & Her
+**🎵 [Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)**
+*by* **Nightcore Reality, meme my**
+*Album:* Angel with a Shotgun
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="100" height="4" fill="#1db954" rx="2"/>
+    <circle cx="100" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 1:48
+    1:05 • 3:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)*
-🎤 **[Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)** by **H3artcrush, Punkinloveee** *(Freak Show)*
-🎤 **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)*
-🎤 **[Судно (Борис Рижий)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO)** by **Molchat Doma** *(Этажи)*
-🎤 **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)*
+🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
+🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
+🎤 **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)*
+🎤 **[Wenn die Sonne scheint](https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg)** by **Rowli, Hank** *(Teenage Tears)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 15:14:19Z UTC
+🕐 Last updated: 2025-06-24 15:35:48Z UTC
 <!-- SPOTIFY-END -->
