@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273478bd3156fc329a64c1472c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273452ad2701aba59fbe28d25f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [A Better Place](https://open.spotify.com/track/14fjRdR9iusUysHJHatVOB)**
-*by* **Project AER, cxlt.**
-*Album:* Growth Patterns
+**🎵 [Passage](https://open.spotify.com/track/6cufoTEyHexO8Qmh3W3ve8)**
+*by* **mell-ø, Ambulo**
+*Album:* Time To Go
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="3" height="4" fill="#1db954" rx="2"/>
-    <circle cx="3" cy="2" r="6" fill="#1db954"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 1:59
+    1:43 • 1:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Solstice](https://open.spotify.com/track/39WHHBBCumamjOAYuMeY1M)** by **Sling Dilly, Sleepermane** *(Weightless)*
-🎤 **[Ethereal](https://open.spotify.com/track/3OGLIMjuSTYFLioQ6AnzpB)** by **Hevi, H.1** *(When I’m Gone)*
-🎤 **[Midnight Thoughts](https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq)** by **Yasumu** *(Way of Life)*
-🎤 **[Noctilucent](https://open.spotify.com/track/0kPNG3ntMof3FaXvbR3Q8i)** by **Ambulo, squeeda** *(Polar)*
-🎤 **[clear eyes, blind sight](https://open.spotify.com/track/4Lx7mjMqpeNAe3jb58QzPh)** by **idylla** *(blindsighted)*
+🎤 **[Afterglow](https://open.spotify.com/track/4JniCFU7RuaucBbS21CWoP)** by **Casiio, Sleepermane** *(Particles)*
+🎤 **[Away](https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY)** by **Chiccote's Beats** *(Illusion)*
+🎤 **[Wall](https://open.spotify.com/track/0btpkq8i4yCP05HUDVGHBX)** by **xander., No Spirit** *(Cabin Fever, Pt. 3)*
+🎤 **[Sentiero](https://open.spotify.com/track/2PibRGWGJE3XQMA3h4xJaw)** by **So.Lo, Goson** *(QuietPath Vol.2)*
+🎤 **[Silent Emotions](https://open.spotify.com/track/7c9zubjktm2D4LrbZdldgw)** by **Dimension 32, softy** *(Silent Emotions)*
 
 
 
@@ -154,9 +154,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
 🥈 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 🥉 [**waitt2Rs**](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)
-🏅 [**for you**](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
+🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 10:53:29Z UTC
+🕐 Last updated: 2025-06-24 11:11:55Z UTC
 <!-- SPOTIFY-END -->
