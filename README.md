@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273170f1908b3c5d98608defc9b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)**
-*by* **Trxy!**
-*Album:* Realize
+**🎵 [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S)**
+*by* **Aphex Twin**
+*Album:* Selected Ambient Works 85-92
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="218" height="4" fill="#1db954" rx="2"/>
-    <circle cx="218" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 1:55
+    1:04 • 9:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Various Types Of Ads](https://open.spotify.com/track/79VIJ0S4PAKXuvKpmfsBRD)** by **Rory in early 20s** *(Various Types Of Ads)*
-🎤 **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)*
-🎤 **[Ms. Jackson](https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG)** by **Pashanim** *(Ms. Jackson)*
-🎤 **[Allein Allein - Whos Jay? Remix](https://open.spotify.com/track/5HLHKR9rGuwQX7XiXGUCtc)** by **Who‘s Jay?** *(Allein Allein (Whos Jay? Remix))*
-🎤 **[Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)** by **Nightcore Reality, meme my** *(Angel with a Shotgun)*
+🎤 **[Kimdracula](https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq)** by **Deftones** *(Saturday Night Wrist)*
+🎤 **[I DONT LIKE PEOPLE (WHITEARMOR INTERLUDE)](https://open.spotify.com/track/705GSYU14F0WEvPLS11hAl)** by **Bladee, Whitearmor** *(Cold Visions)*
+🎤 **[Solitude - Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk)** by **M83, Felsmann + Tiley** *(Solitude (Felsmann + Tiley Reinterpretation))*
+🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr)** by **blackbear** *(deadroses)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 15:51:33Z UTC
+🕐 Last updated: 2025-06-24 16:16:11Z UTC
 <!-- SPOTIFY-END -->
