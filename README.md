@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732f5066ea2ce297e83fe6c724" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h)**
-*by* **Kanye West**
-*Album:* The Life Of Pablo
+**🎵 [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)**
+*by* **Jane Remover**
+*Album:* Frailty
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="41" height="4" fill="#1db954" rx="2"/>
-    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 5:01
+    1:01 • 4:14
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by **Steintor Herrenchor** *(Luisa)*
-🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
-🎤 **[Aloe Lite](https://open.spotify.com/track/0TpJF2IIk9idRMJuSSXMLh)** by **Good Kid** *(Good Kid 2)*
+🎤 **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)*
+🎤 **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)*
+🎤 **[theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl)** by **sign crushes motorist** *(i'll be okay)*
+🎤 **[exist in me](https://open.spotify.com/track/0PZweQfenOcra3aN7oNgEP)** by **zaya** *(exist in me)*
+🎤 **[wdw](https://open.spotify.com/track/7zUh5NJYQWhJgyZZRnJS0N)** by **5star, Tr1esch** *(wdw)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 08:18:13Z UTC
+🕐 Last updated: 2025-06-24 08:47:39Z UTC
 <!-- SPOTIFY-END -->
