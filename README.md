@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273471ed8ce2f2d7510a428a1df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO)**
-*by* **Lil Tecca**
-*Album:* We Love You Tecca
+**🎵 [Scared](https://open.spotify.com/track/09m46Qi4alQpglRAx1w0zs)**
+*by* **Bushy B**
+*Album:* W241
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 2:11
+    0:31 • 3:37
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm)** by **Adele** *(Skyfall)*
-🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
-🎤 **[Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ)** by **Death Grips** *(The Money Store)*
-🎤 **[nightvision](https://open.spotify.com/track/62GEtzoxZT64Gyyomu2NFd)** by **lannarie** *(notes of nothing)*
-🎤 **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD)** by **Connie Francis** *(Connie Francis Sings Second Hand Love & Other Hits)*
+🎤 **[Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh)** by **Chike, Mohbad** *(Egwu)*
+🎤 **[Mary](https://open.spotify.com/track/36TbBJ7mLPOZMAYs0p4mxb)** by **Alex G** *(Trick)*
+🎤 **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)*
+🎤 **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 17:50:44Z UTC
+🕐 Last updated: 2025-06-24 18:18:11Z UTC
 <!-- SPOTIFY-END -->
