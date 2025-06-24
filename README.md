@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732f5066ea2ce297e83fe6c724" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353b23267042306ee961f462e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)**
-*by* **Jane Remover**
-*Album:* Frailty
+**🎵 [Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV)**
+*by* **Dilla**
+*Album:* Führerschein
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 4:14
+    3:06 • 4:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)*
-🎤 **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)*
-🎤 **[theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl)** by **sign crushes motorist** *(i'll be okay)*
-🎤 **[exist in me](https://open.spotify.com/track/0PZweQfenOcra3aN7oNgEP)** by **zaya** *(exist in me)*
-🎤 **[wdw](https://open.spotify.com/track/7zUh5NJYQWhJgyZZRnJS0N)** by **5star, Tr1esch** *(wdw)*
+🎤 **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)*
+🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
+🎤 **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)*
+🎤 **[We Major](https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE)** by **Kanye West, Nas, Really Doe** *(Late Registration)*
+🎤 **[Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3)** by **Syn Cole** *(Feel Good)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 08:47:39Z UTC
+🕐 Last updated: 2025-06-24 09:15:09Z UTC
 <!-- SPOTIFY-END -->
