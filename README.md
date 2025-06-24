@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a78236d9c646409aa783018" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a6ba454df44d588fbc6bc983" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)**
-*by* **Tevvez**
-*Album:* Divinity
+**🎵 [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG)**
+*by* **Klaxons**
+*Album:* Myths Of The Near Future
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 3:01
+    0:48 • 2:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Вместе](https://open.spotify.com/track/5zY7NDKOOLOziPJfVpGCDk)** by **Hexia, molly** *(Вместе)*
-🎤 **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by **Enquirer** *(for you)*
-🎤 **[to rise higher](https://open.spotify.com/track/6PldJafWpVVLFlP000i4U0)** by **blawhitt** *(to rise higher)*
-🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[Self Reflection](https://open.spotify.com/track/018W10vZTcbL4c58L4RwQ7)** by **Flawless Issues** *(Modern Past)*
+🎤 **[Lady - Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6)** by **Modjo** *(Modjo (Remastered))*
+🎤 **[The Way I Are](https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn)** by **Timbaland, Keri Hilson, D.O.E.** *(Shock Value)*
+🎤 **[Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5)** by **Kanye West** *(808s & Heartbreak)*
+🎤 **[Stockholm Syndrome](https://open.spotify.com/track/7wByhVwzusalGgbjs7HJXL)** by **M()RE** *(Five Years)*
+🎤 **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**großstadt lifestyle**](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)
 
 
-🕐 Last updated: 2025-06-24 21:30:18Z UTC
+🕐 Last updated: 2025-06-24 21:47:57Z UTC
 <!-- SPOTIFY-END -->
