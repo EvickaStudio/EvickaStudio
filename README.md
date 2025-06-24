@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736ee371132e1e8315f9b70d12" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273478bd3156fc329a64c1472c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Noctilucent](https://open.spotify.com/track/0kPNG3ntMof3FaXvbR3Q8i)**
-*by* **Ambulo, squeeda**
-*Album:* Polar
+**🎵 [A Better Place](https://open.spotify.com/track/14fjRdR9iusUysHJHatVOB)**
+*by* **Project AER, cxlt.**
+*Album:* Growth Patterns
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="3" height="4" fill="#1db954" rx="2"/>
+    <circle cx="3" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:55
+    0:01 • 1:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Solstice](https://open.spotify.com/track/39WHHBBCumamjOAYuMeY1M)** by **Sling Dilly, Sleepermane** *(Weightless)*
+🎤 **[Ethereal](https://open.spotify.com/track/3OGLIMjuSTYFLioQ6AnzpB)** by **Hevi, H.1** *(When I’m Gone)*
+🎤 **[Midnight Thoughts](https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq)** by **Yasumu** *(Way of Life)*
+🎤 **[Noctilucent](https://open.spotify.com/track/0kPNG3ntMof3FaXvbR3Q8i)** by **Ambulo, squeeda** *(Polar)*
 🎤 **[clear eyes, blind sight](https://open.spotify.com/track/4Lx7mjMqpeNAe3jb58QzPh)** by **idylla** *(blindsighted)*
-🎤 **[Breathtaking](https://open.spotify.com/track/41IF2s8wuTC4oBXvGnsL7g)** by **Purrple Cat** *(Adventure Island)*
-🎤 **[Sacrifice](https://open.spotify.com/track/1xYBDCComkNeNQq3vFTPM9)** by **Kinissue** *(The Realization)*
-🎤 **[Sentimental Mood](https://open.spotify.com/track/5kPaCd3Qv2cHwChpbGUrTS)** by **Worldtraveller, Max Merseny** *(Morning Coffee)*
-🎤 **[Innocent](https://open.spotify.com/track/2MDdGTAPKDbREhhetuXX9n)** by **Oatmello, Epektase, Dayn** *(Dove)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 10:41:10Z UTC
+🕐 Last updated: 2025-06-24 10:53:29Z UTC
 <!-- SPOTIFY-END -->
