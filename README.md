@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273837a1624ef43921664d609a0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nightvision](https://open.spotify.com/track/62GEtzoxZT64Gyyomu2NFd)**
-*by* **lannarie**
-*Album:* notes of nothing
+**🎵 [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO)**
+*by* **Lil Tecca**
+*Album:* We Love You Tecca
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="15" height="4" fill="#1db954" rx="2"/>
-    <circle cx="15" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 1:58
+    1:38 • 2:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)*
-🎤 **[MISA & LIGHT](https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO)** by **NXFEIT, Sillyelly, Hen848** *(CASSA DRITTISSIMA !!)*
-🎤 **[Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3)** by **Syn Cole** *(Feel Good)*
-🎤 **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)*
-🎤 **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)*
+🎤 **[Skyfall](https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm)** by **Adele** *(Skyfall)*
+🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
+🎤 **[Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ)** by **Death Grips** *(The Money Store)*
+🎤 **[nightvision](https://open.spotify.com/track/62GEtzoxZT64Gyyomu2NFd)** by **lannarie** *(notes of nothing)*
+🎤 **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 17:34:40Z UTC
+🕐 Last updated: 2025-06-24 17:50:44Z UTC
 <!-- SPOTIFY-END -->
