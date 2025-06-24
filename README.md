@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27375eb09f5dcf8b8d4dd37def8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tru](https://open.spotify.com/track/34TOMmfnvfl8oyrRl4such)**
-*by* **P.H.F.**
-*Album:* I Hate Myself
+**🎵 [shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)**
+*by* **meat computer**
+*Album:* slept on the floor still dreamt about you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="91" height="4" fill="#1db954" rx="2"/>
-    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 4:22
+    0:48 • 1:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Here](https://open.spotify.com/track/3LUrKQkLPdESiHk37LBW8A)** by **Enjoy** *(Deep Cuts (2011-2014))*
-🎤 **[love is a place to hide](https://open.spotify.com/track/5z7MDbAs6HidqWBOLMteTs)** by **Puzzle** *(The Rotten Opera)*
-🎤 **[I'll Show Up](https://open.spotify.com/track/2EC9uOYjRdFWQQlWYapaen)** by **Slater, Puzzle** *(Deep Cuts (2013-2017))*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[nasty](https://open.spotify.com/track/55tKfkJo8iEqZINMJbzcL0)** by **Ayesha Erotica** *(nasty)*
+🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
+🎤 **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)*
+🎤 **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 04:48:54Z UTC
+🕐 Last updated: 2025-06-24 05:15:17Z UTC
 <!-- SPOTIFY-END -->
