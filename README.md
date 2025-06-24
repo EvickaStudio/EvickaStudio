@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f5c35aa6c17c4da93e05c0a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c1fc9df94a5e92d1ca15a026" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [A Little Help](https://open.spotify.com/track/6AJqu3x3CXRejmOyY9ASgU)**
-*by* **HM Surf**
-*Album:* Pool Days
+**🎵 [Pure Bliss](https://open.spotify.com/track/7yyV8oeANSz5KP6eYyWatR)**
+*by* **SPEECHLESS**
+*Album:* Future Feelings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="95" height="4" fill="#1db954" rx="2"/>
-    <circle cx="95" cy="2" r="6" fill="#1db954"/>
+    <rect width="28" height="4" fill="#1db954" rx="2"/>
+    <circle cx="28" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:21
+    0:14 • 2:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[a lonely star](https://open.spotify.com/track/7c1VFRJucQcoD5Lr4wWzQK)** by **Jhove** *(falling dreams)*
-🎤 **[Dozing](https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX)** by **Chris Mazuera** *(Dozing)*
-🎤 **[pure](https://open.spotify.com/track/5gGjV0hLzjO7FD6c0k76FB)** by **Bcalm** *(Innocence)*
-🎤 **[Dover](https://open.spotify.com/track/5hGHPtrvgzSVwUTQOPBeOX)** by **xander., Wishes and Dreams, pines & pines** *(Timeless Melodies)*
-🎤 **[Towards The Mountains](https://open.spotify.com/track/1qr4Kt8yWy4AOCS9TjOJdx)** by **Plant Guy** *(In Harmony With Nature)*
+🎤 **[Mujinas Ramen Shop](https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl)** by **Flitz&Suppe, Mr. Käfer** *(Yokai)*
+🎤 **[a sign from her](https://open.spotify.com/track/1Quoks7iGxfDyqBhBA02Bp)** by **Mau, Kanisan** *(Les jours d’après)*
+🎤 **[Blue Moon](https://open.spotify.com/track/5eR5Mr9XS3lYz6Ptf7s8Hw)** by **Sleepermane, Dontcry** *(Habituals)*
+🎤 **[Sugar Haze](https://open.spotify.com/track/1FV03fVKxLOh2a6vn8q5OZ)** by **HM Surf** *(Cocobolo)*
+🎤 **[A Little Help](https://open.spotify.com/track/6AJqu3x3CXRejmOyY9ASgU)** by **HM Surf** *(Pool Days)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 11:28:00Z UTC
+🕐 Last updated: 2025-06-24 11:39:23Z UTC
 <!-- SPOTIFY-END -->
