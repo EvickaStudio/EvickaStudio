@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eb0b5234363986a0b9176b8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273130dc4fdbd143767ec6cc08a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [No Security](https://open.spotify.com/track/5y2K7jr9M8t1HRAu9jzssT)**
-*by* **Skepta**
-*Album:* No Security
+**🎵 [Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)**
+*by* **.com**
+*Album:* In Their Shadows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="123" height="4" fill="#1db954" rx="2"/>
+    <circle cx="123" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 3:39
+    1:53 • 4:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Skepta Interlude](https://open.spotify.com/track/2dfqS3MRtbLZSZA1IL8xY5)** by **Drake** *(More Life)*
-🎤 **[Doorman](https://open.spotify.com/track/6bTAz3pg5ywBeZHCQoleJB)** by **slowthai, Mura Masa** *(Nothing Great About Britain)*
-🎤 **[Lean 4 Real (feat. Skepta)](https://open.spotify.com/track/1JgkiUg9mSXSwcb5Gbi4Ur)** by **Playboi Carti, Skepta** *(Die Lit)*
-🎤 **[Wind (feat. Cold)](https://open.spotify.com/track/2XSyyHoGfa3Ns9g4Y0Afdl)** by **Jawnino, Cold** *(40)*
-🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
+🎤 **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)*
+🎤 **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)*
+🎤 **[Want To Love - Just Raw](https://open.spotify.com/track/3DJsIwc3Z9scW5yR3wnyjf)** by **Aloboi** *(Raw Tracks and Reworks)*
+🎤 **[Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv)** by **PlayaPhonk** *(Phonky Town)*
+🎤 **[Deira City Centre](https://open.spotify.com/track/7fm0RfFil17f017qchrnyK)** by **Night Lovell** *(Concept Vague)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Lose Control**](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)
 
 
-🕐 Last updated: 2025-06-24 07:32:18Z UTC
+🕐 Last updated: 2025-06-24 07:49:38Z UTC
 <!-- SPOTIFY-END -->
