@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e672690c2f8f55770c9d854d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a78236d9c646409aa783018" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)**
-*by* **Sleepisformortals**
-*Album:* SO DUMB
+**🎵 [Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)**
+*by* **Tevvez**
+*Album:* Divinity
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 3:57
+    0:43 • 3:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
+🎤 **[Вместе](https://open.spotify.com/track/5zY7NDKOOLOziPJfVpGCDk)** by **Hexia, molly** *(Вместе)*
+🎤 **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by **Enquirer** *(for you)*
+🎤 **[to rise higher](https://open.spotify.com/track/6PldJafWpVVLFlP000i4U0)** by **blawhitt** *(to rise higher)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Self Reflection](https://open.spotify.com/track/018W10vZTcbL4c58L4RwQ7)** by **Flawless Issues** *(Modern Past)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**großstadt lifestyle**](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)
 
 
-🕐 Last updated: 2025-06-24 21:12:12Z UTC
+🕐 Last updated: 2025-06-24 21:30:18Z UTC
 <!-- SPOTIFY-END -->
