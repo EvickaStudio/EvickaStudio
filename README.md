@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e01e0774271613d3f1d6bf17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Soft to Touch](https://open.spotify.com/track/4TgBqnWiaJaqvMO9YQDQ8p)**
-*by* **Kupla**
-*Album:* Life Forms
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 2:50
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[We Met](https://open.spotify.com/track/5BqulqMgCNnyoK8wZriHoI)** by **Yasumu** *(Until Forever)*
-🎤 **[Endurance](https://open.spotify.com/track/4vNZrEHXF8UOdcCCubQvaT)** by **Kupla** *(Somewhere. Nowhere.)*
-🎤 **[Pure Bliss](https://open.spotify.com/track/7yyV8oeANSz5KP6eYyWatR)** by **SPEECHLESS** *(Future Feelings)*
-🎤 **[Mujinas Ramen Shop](https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl)** by **Flitz&Suppe, Mr. Käfer** *(Yokai)*
-🎤 **[a sign from her](https://open.spotify.com/track/1Quoks7iGxfDyqBhBA02Bp)** by **Mau, Kanisan** *(Les jours d’après)*
+🎤 **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Moon & Stars (feat. Maggie Lindemann)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu)** by **$NOT, Maggie Lindemann** *(- TRAGEDY +)*
+🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 11:47:45Z UTC
+🕐 Last updated: 2025-06-24 12:26:10Z UTC
 <!-- SPOTIFY-END -->
