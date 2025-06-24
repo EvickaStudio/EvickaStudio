@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273452ad2701aba59fbe28d25f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f5c35aa6c17c4da93e05c0a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Passage](https://open.spotify.com/track/6cufoTEyHexO8Qmh3W3ve8)**
-*by* **mell-ø, Ambulo**
-*Album:* Time To Go
+**🎵 [A Little Help](https://open.spotify.com/track/6AJqu3x3CXRejmOyY9ASgU)**
+*by* **HM Surf**
+*Album:* Pool Days
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+    <rect width="95" height="4" fill="#1db954" rx="2"/>
+    <circle cx="95" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 1:50
+    0:44 • 2:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Afterglow](https://open.spotify.com/track/4JniCFU7RuaucBbS21CWoP)** by **Casiio, Sleepermane** *(Particles)*
-🎤 **[Away](https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY)** by **Chiccote's Beats** *(Illusion)*
-🎤 **[Wall](https://open.spotify.com/track/0btpkq8i4yCP05HUDVGHBX)** by **xander., No Spirit** *(Cabin Fever, Pt. 3)*
-🎤 **[Sentiero](https://open.spotify.com/track/2PibRGWGJE3XQMA3h4xJaw)** by **So.Lo, Goson** *(QuietPath Vol.2)*
-🎤 **[Silent Emotions](https://open.spotify.com/track/7c9zubjktm2D4LrbZdldgw)** by **Dimension 32, softy** *(Silent Emotions)*
+🎤 **[a lonely star](https://open.spotify.com/track/7c1VFRJucQcoD5Lr4wWzQK)** by **Jhove** *(falling dreams)*
+🎤 **[Dozing](https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX)** by **Chris Mazuera** *(Dozing)*
+🎤 **[pure](https://open.spotify.com/track/5gGjV0hLzjO7FD6c0k76FB)** by **Bcalm** *(Innocence)*
+🎤 **[Dover](https://open.spotify.com/track/5hGHPtrvgzSVwUTQOPBeOX)** by **xander., Wishes and Dreams, pines & pines** *(Timeless Melodies)*
+🎤 **[Towards The Mountains](https://open.spotify.com/track/1qr4Kt8yWy4AOCS9TjOJdx)** by **Plant Guy** *(In Harmony With Nature)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**The Lamp Is Low**](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)
 
 
-🕐 Last updated: 2025-06-24 11:11:55Z UTC
+🕐 Last updated: 2025-06-24 11:28:00Z UTC
 <!-- SPOTIFY-END -->
