@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273206093348fcb3162c402efe9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)**
-*by* **Mechatok, Ecco2k, Bladee**
-*Album:* Expression On Your Face
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 2:53
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
 🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
 🎤 **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)*
 🎤 **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by **Skepsiz, headless_DATA** *(PUNK PARADOX!)*
-🎤 **[wokeuplikethis*](https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt)** by **Playboi Carti, Lil Uzi Vert** *(Playboi Carti)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 21:12:17Z UTC
+🕐 Last updated: 2025-06-25 21:30:09Z UTC
 <!-- SPOTIFY-END -->
