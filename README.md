@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732b46ebf547a745096109d8fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)**
-*by* **Whitearmor**
-*Album:* In the Abyss: Music for Weddings
+**🎵 [großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)**
+*by* **ilyproxy, Aachen Demon**
+*Album:* großstadt lifestyle
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:41 • 4:11
+    2:30 • 2:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
-🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 19:34:22Z UTC
+🕐 Last updated: 2025-06-25 19:47:48Z UTC
 <!-- SPOTIFY-END -->
