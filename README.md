@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c813652aff42ed4b65c22523" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739866f83629f29c777e667e9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Smokin' mice](https://open.spotify.com/track/7k5LtCwsEm4p6QqOf1UPdh)**
-*by* **SlushhKitten, hqwilli**
-*Album:* Smokin' mice
+**🎵 [flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)**
+*by* **DJmegan23**
+*Album:* sound-proofed wilderness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="43" height="4" fill="#1db954" rx="2"/>
+    <circle cx="43" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:40
+    0:19 • 2:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
-🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ)** by **meat computer** *(i feel like a dog)*
+🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
+🎤 **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[I Might Brake, But I Won't](https://open.spotify.com/track/3LQ4vCiFSFbFLtFFwPQmlo)** by **Jairos, Rinblade, Mori Mori** *(I Might Brake, But I Won't)*
+🎤 **[Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz)** by **Crystal Castles** *(Crystal Castles)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 08:48:08Z UTC
+🕐 Last updated: 2025-06-25 09:15:26Z UTC
 <!-- SPOTIFY-END -->
