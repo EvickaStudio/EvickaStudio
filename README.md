@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cdccb671cc1dd54ff42d573e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Time to Pretend](https://open.spotify.com/track/1U0mXbREaTeDN7alQ3D3RE)**
-*by* **MGMT**
-*Album:* Time To Pretend
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="21" height="4" fill="#1db954" rx="2"/>
-    <circle cx="21" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 4:21
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Time to Pretend](https://open.spotify.com/track/1U0mXbREaTeDN7alQ3D3RE)** by **MGMT** *(Time To Pretend)*
 🎤 **[Silence of the Lambs](https://open.spotify.com/track/0mQEWoesnmt58MzH1LIOus)** by **Babyteeth** *(Silence of the Lambs)*
 🎤 **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)*
 🎤 **[C ma shit pt. 2](https://open.spotify.com/track/1iJRSsTH0ZHRihrkZ8Mvkc)** by **Realo, Simala, abel31, Recklessboise** *(C ma shit pt. 2)*
 🎤 **[nuts](https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK)** by **Lil Peep, rainy bear** *(LIVE FOREVER)*
-🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 14:13:13Z UTC
+🕐 Last updated: 2025-06-25 14:37:02Z UTC
 <!-- SPOTIFY-END -->
