@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)**
-*by* **Gap Girls**
-*Album:* Street Desires
+**🎵 [Acid Rain](https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m)**
+*by* **Lorn**
+*Album:* The Maze To Nowhere
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="226" height="4" fill="#1db954" rx="2"/>
-    <circle cx="226" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:35
+    1:06 • 2:52
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j)** by **Kavinsky** *(Nightcall)*
+🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
+🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
 🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
-🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 20:35:14Z UTC
+🕐 Last updated: 2025-06-25 20:51:50Z UTC
 <!-- SPOTIFY-END -->
