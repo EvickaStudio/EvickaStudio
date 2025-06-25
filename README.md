@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8ced8a4d6b6b61eb592f3dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB)**
-*by* **A$AP Rocky**
-*Album:* LIVE.LOVE.A$AP
+**🎵 [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)**
+*by* **R.E.M.**
+*Album:* Out Of Time (25th Anniversary Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 3:20
+    0:19 • 3:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Tantalus - Nymph Mix](https://open.spotify.com/track/2OcXB1lXXGGQliBTrRQUMd)** by **Peake** *(Tantalus (Nymph Mix))*
-🎤 **[condolence letter](https://open.spotify.com/track/5GQqX9NEbbsMSmC95XJCC6)** by **Levi Ryan** *(soviet winter)*
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
+🎤 **[Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo)** by **Ojerime** *(B4 I Breakdown)*
+🎤 **[Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE)** by **Flawed Mangoes** *(Killswitch Lullaby)*
+🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
+🎤 **[Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB)** by **A$AP Rocky** *(LIVE.LOVE.A$AP)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 10:40:47Z UTC
+🕐 Last updated: 2025-06-25 10:53:09Z UTC
 <!-- SPOTIFY-END -->
