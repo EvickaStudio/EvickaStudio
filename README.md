@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273380d45ee816361339657105f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737bbcf357527cda0c401c3e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)**
-*by* **Levi Ryan**
-*Album:* the rest of our lives
+**🎵 [ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)**
+*by* **agelast222**
+*Album:* ADAMAS SONG
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 2:42
+    1:03 • 1:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
-🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
-🎤 **[Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[Mortar](https://open.spotify.com/track/5cZcJjUSylaovI900KsF6k)** by **Brothel in Belize** *(War)*
-🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[Calvin Klein](https://open.spotify.com/track/5VJgNWFTLddohDapUgesbK)** by **Oatmilkandcodeine, Gweilo Ghost** *(Real romance)*
+🎤 **[starr](https://open.spotify.com/track/6DQFSSKfCWgQEC6fbUjFe8)** by **o0o** *(starr)*
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[blue lips](https://open.spotify.com/track/5aaRid0vjfAJ8vYO0hSBgM)** by **lor2mg** *(blue lips)*
+🎤 **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 11:28:36Z UTC
+🕐 Last updated: 2025-06-25 11:40:16Z UTC
 <!-- SPOTIFY-END -->
