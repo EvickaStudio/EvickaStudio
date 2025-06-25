@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)**
+*by* **Wisp**
+*Album:* Pandora
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="78" height="4" fill="#1db954" rx="2"/>
+    <circle cx="78" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:48 • 3:05
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS)** by **Muyeez, Seyi Vibez** *(Instagram)*
-🎤 **[Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS)** by **Seyi Vibez** *(Loseyi Professor)*
-🎤 **[Kai!](https://open.spotify.com/track/0C3zMmE4yo1qBq6MGfkwX0)** by **Olamide, Wizkid** *(Olamidé)*
-🎤 **[Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG)** by **Klaxons** *(Myths Of The Near Future)*
-🎤 **[Lady - Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6)** by **Modjo** *(Modjo (Remastered))*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 06:19:51Z UTC
+🕐 Last updated: 2025-06-25 06:50:17Z UTC
 <!-- SPOTIFY-END -->
