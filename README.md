@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d38880429217973f5e060735" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360f22bc4db0ead1db562c58d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Never Let Go (Of Me) - Slowed Extended Version](https://open.spotify.com/track/4lHOVmWsKUBwfRoikWtunT)**
-*by* **Baltra**
-*Album:* Never Let Go (Of Me) [Heist Edit]
+**🎵 [Wasted - Nightcore](https://open.spotify.com/track/36brujMXvK6VR869nQwKZB)**
+*by* **Murkish, Huken, harmony haven**
+*Album:* Wasted (Instrumental)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+    <rect width="229" height="4" fill="#1db954" rx="2"/>
+    <circle cx="229" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:19 • 7:14
+    2:29 • 3:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by **Holy Fuck** *(Congrats)*
-🎤 **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)*
-🎤 **[SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b)** by **WEEDMANE, Suicideyear** *(SUICIDE YEAR)*
-🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
-🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
+🎤 **[Skins - Slowed + Reverb](https://open.spotify.com/track/2RiZE2yJhLAguRhlhwdTux)** by **KREZUS, Surreal_dvd** *(Skins (Remixes))*
+🎤 **[i love u.](https://open.spotify.com/track/4XxJF5UIyLXnm5HB53wM9P)** by **wiv** *(i love u.)*
+🎤 **[LIARY](https://open.spotify.com/track/59wAdH0glIkiT16yghAHNm)** by **UdieNnx, HXVSAGE, DJ PORTU** *(LIARY)*
+🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 12:26:16Z UTC
+🕐 Last updated: 2025-06-25 13:08:23Z UTC
 <!-- SPOTIFY-END -->
