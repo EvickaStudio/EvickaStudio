@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273380d45ee816361339657105f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)**
-*by* **Snow Strippers**
-*Album:* April Mixtape 3
+**🎵 [the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)**
+*by* **Levi Ryan**
+*Album:* the rest of our lives
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="163" height="4" fill="#1db954" rx="2"/>
-    <circle cx="163" cy="2" r="6" fill="#1db954"/>
+    <rect width="52" height="4" fill="#1db954" rx="2"/>
+    <circle cx="52" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:51
+    0:28 • 2:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[U Weren't Here I Really Miss You - slowed](https://open.spotify.com/track/0gCkIC8Zo808SZ1BzYIGwV)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You (slowed))*
-🎤 **[Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)** by **Mietze Conte** *(Mietzee)*
-🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
-🎤 **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)*
-🎤 **[dark out](https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9)** by **Max Fry** *(dark out)*
+🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
+🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)** by **Eera** *(Cant Stop Wasting Time)*
+🎤 **[Mortar](https://open.spotify.com/track/5cZcJjUSylaovI900KsF6k)** by **Brothel in Belize** *(War)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 11:11:56Z UTC
+🕐 Last updated: 2025-06-25 11:28:36Z UTC
 <!-- SPOTIFY-END -->
