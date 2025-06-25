@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371340c55289f59acb3ecd40f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)**
-*by* **Wisp**
-*Album:* Pandora
+**🎵 [No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d)**
+*by* **Galantis**
+*Album:* The Aviary
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="217" height="4" fill="#1db954" rx="2"/>
-    <circle cx="217" cy="2" r="6" fill="#1db954"/>
+    <rect width="236" height="4" fill="#1db954" rx="2"/>
+    <circle cx="236" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:09 • 4:21
+    2:30 • 3:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
-🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
-🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/0yprHxnEj3ItXtnU4jUFF9)** by **Fred again.., Swedish House Mafia, Future** *(USB)*
-🎤 **[gun show](https://open.spotify.com/track/6BCRlRKqMEOydKLv1VZBdO)** by **lil hero** *(pawwwfect!)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc)** by **Charli xcx** *(how i'm feeling now)*
+🎤 **[The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi)** by **PinkPantheress** *(Heaven knows)*
+🎤 **[Realize Remix (feat. Softcult & whatsaheart)](https://open.spotify.com/track/3ATTmeGOsd9VvM7WARymcq)** by **Trxy!, Softcult, whatsaheart** *(Realize Remix (feat. Softcult & whatsaheart))*
+🎤 **[Darkness](https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG)** by **SWEET SPINE** *(Darkness)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 09:52:24Z UTC
+🕐 Last updated: 2025-06-25 10:14:19Z UTC
 <!-- SPOTIFY-END -->
