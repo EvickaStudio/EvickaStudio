@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335c24e8d94b50ef607545578" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273653d416881e60f9a4ce6acfd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)**
-*by* **Whitearmor, Gud**
-*Album:* Frutta E Verdura
+**🎵 [Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)**
+*by* **Puzzle**
+*Album:* X Hail
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="267" height="4" fill="#1db954" rx="2"/>
+    <circle cx="267" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 3:04
+    2:37 • 2:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Society](https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1)** by **Pathetic** *(Society)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
+🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 15:52:23Z UTC
+🕐 Last updated: 2025-06-25 16:16:44Z UTC
 <!-- SPOTIFY-END -->
