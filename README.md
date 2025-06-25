@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360f22bc4db0ead1db562c58d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ca733061d51ddadda9fca9c3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wasted - Nightcore](https://open.spotify.com/track/36brujMXvK6VR869nQwKZB)**
-*by* **Murkish, Huken, harmony haven**
-*Album:* Wasted (Instrumental)
+**🎵 [beamer boy](https://open.spotify.com/track/5K5MBX1I7GdYKaaI0zKLno)**
+*by* **Lil Peep, Nedarb**
+*Album:* CALIFORNIA GIRLS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 3:16
+    0:30 • 3:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Skins - Slowed + Reverb](https://open.spotify.com/track/2RiZE2yJhLAguRhlhwdTux)** by **KREZUS, Surreal_dvd** *(Skins (Remixes))*
-🎤 **[i love u.](https://open.spotify.com/track/4XxJF5UIyLXnm5HB53wM9P)** by **wiv** *(i love u.)*
-🎤 **[LIARY](https://open.spotify.com/track/59wAdH0glIkiT16yghAHNm)** by **UdieNnx, HXVSAGE, DJ PORTU** *(LIARY)*
-🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
-🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
+🎤 **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by **Pink Katana** *(4ever)*
+🎤 **[When Will It End](https://open.spotify.com/track/5F8RUGunSSBdu8Tn5qc63M)** by **Birth Day** *(Boyhood)*
+🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[We Major](https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE)** by **Kanye West, Nas, Really Doe** *(Late Registration)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-25 13:08:23Z UTC
+🕐 Last updated: 2025-06-25 13:45:25Z UTC
 <!-- SPOTIFY-END -->
