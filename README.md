@@ -110,7 +110,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)**
+**🎵 [Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)**
 *by* **Whitearmor**
 *Album:* In the Abyss: Music for Weddings
 
@@ -118,12 +118,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="161" height="4" fill="#1db954" rx="2"/>
+    <circle cx="161" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:17
+    2:15 • 4:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
 
 
 
@@ -144,7 +144,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🏅 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 🏅 [**DJmegan23**](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA)
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**BLOMSTERTID**](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)
 
 
-🕐 Last updated: 2025-06-26 07:13:38Z UTC
+🕐 Last updated: 2025-06-26 07:31:57Z UTC
 <!-- SPOTIFY-END -->
