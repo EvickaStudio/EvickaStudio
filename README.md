@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a189f597883a86c643c524d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [take me by the hand - Aaron Hibell remix](https://open.spotify.com/track/6wtzU740nPNrISiUyFjLyc)**
-*by* **Oklou, Bladee, Aaron Hibell**
-*Album:* take me by the hand (Aaron Hibell remix)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 4:30
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
-🎤 **[Das Schlimmste](https://open.spotify.com/track/2JNhh7XJOROirdAXPh57dd)** by **Trashmann** *(Das Schlimmste)*
-🎤 **[Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3)** by **Dilla** *(Mein schönstes Kleid)*
-🎤 **[2007](https://open.spotify.com/track/3L3atOrrQFm0SZJYp664HH)** by **Ion Miles, SIRA, BHZ** *(2007)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[Circle](https://open.spotify.com/track/5yMHe4HFhcKJrvmgYnReu2)** by **MW_** *(Inside)*
+🎤 **[Czemu Kocham Złą Laskę](https://open.spotify.com/track/4htmYE6oQwm1i722tIgQ7g)** by **Yung Adisz, partycja, morecalcium** *(Czemu Kocham Złą Laskę)*
+🎤 **[Lays](https://open.spotify.com/track/7021baFwLubf6lfesjJk75)** by **Wintercastle, Dj Foreign Money, gard, shosharascal** *(Champions League)*
+🎤 **[Now and at the Hour of Our Death (feat. BONES)](https://open.spotify.com/track/5g3PPNIHL5yMci2pio9ZoI)** by **$uicideboy$, BONES** *(Now and at the Hour of Our Death (feat. BONES))*
+🎤 **[PROGRAMMYERT](https://open.spotify.com/track/6LXKoMOl7g66LTWtU1kxzc)** by **TYM** *(PYP³)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 08:17:46Z UTC
+🕐 Last updated: 2025-06-27 08:46:46Z UTC
 <!-- SPOTIFY-END -->
