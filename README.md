@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c00165dc09dc33a849d91306" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a189f597883a86c643c524d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Excited](https://open.spotify.com/track/3MQjLWaPXOCt1OlfSEaTCm)**
-*by* **Wintercastle, Aceii, woody**
-*Album:* leitmotif.
+**🎵 [take me by the hand - Aaron Hibell remix](https://open.spotify.com/track/6wtzU740nPNrISiUyFjLyc)**
+*by* **Oklou, Bladee, Aaron Hibell**
+*Album:* take me by the hand (Aaron Hibell remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 2:53
+    1:19 • 4:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
-🎤 **[iodine](https://open.spotify.com/track/6MRELppKC46QQH6oahgnPm)** by **emotionals** *(iodine)*
-🎤 **[Ich will nicht mehr Zug fahren](https://open.spotify.com/track/1uqi6OER3UnCYainktwjZj)** by **Psyke** *(Spiegel)*
-🎤 **[abandoned](https://open.spotify.com/track/0S5EBdC7m5vw8KPzqJ9ROO)** by **hateoryx** *(oddball ##doerock)*
-🎤 **[HYPNOTIC!](https://open.spotify.com/track/4I7v4ImMfhc1x9H6Ey94oy)** by **Clover!** *(HYPNOTIC!)*
+🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
+🎤 **[Das Schlimmste](https://open.spotify.com/track/2JNhh7XJOROirdAXPh57dd)** by **Trashmann** *(Das Schlimmste)*
+🎤 **[Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3)** by **Dilla** *(Mein schönstes Kleid)*
+🎤 **[2007](https://open.spotify.com/track/3L3atOrrQFm0SZJYp664HH)** by **Ion Miles, SIRA, BHZ** *(2007)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 07:47:34Z UTC
+🕐 Last updated: 2025-06-27 08:17:46Z UTC
 <!-- SPOTIFY-END -->
