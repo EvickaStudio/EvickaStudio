@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0dbe5cdee230af2f14fa97b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)**
-*by* **DJ Worm, Eurohead, SPÖKE**
-*Album:* In My Heart / In My Mind
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 4:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
-🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(Planet)*
+🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
+🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 17:48:49Z UTC
+🕐 Last updated: 2025-06-27 18:17:48Z UTC
 <!-- SPOTIFY-END -->
