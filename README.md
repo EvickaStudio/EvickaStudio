@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7e4eb536ee4db43698d1279" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [abandoned](https://open.spotify.com/track/0S5EBdC7m5vw8KPzqJ9ROO)**
-*by* **hateoryx**
-*Album:* oddball ##doerock
+**🎵 [Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)**
+*by* **Whitearmor**
+*Album:* In the Abyss: Music for Weddings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:08
+    2:40 • 4:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[HYPNOTIC!](https://open.spotify.com/track/4I7v4ImMfhc1x9H6Ey94oy)** by **Clover!** *(HYPNOTIC!)*
-🎤 **[AUSVERSEHN](https://open.spotify.com/track/2VYDVr27sw9gQB8wagLScJ)** by **mikeycyrus** *(AUSVERSEHN)*
-🎤 **[sinkin down slowly](https://open.spotify.com/track/6t1bTRqL3aTRNdWn4tEI2f)** by **Dropped here** *(sinkin down slowly)*
-🎤 **[Illegal - Nia Archives Remix](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro)** by **PinkPantheress, Nia Archives** *(Illegal (Nia Archives Remix))*
-🎤 **[heart shaped candy](https://open.spotify.com/track/1TF2R89vy41aOskt5CjYjy)** by **joni75** *(heart shaped candy)*
+🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 09:13:50Z UTC
+🕐 Last updated: 2025-06-27 09:33:52Z UTC
 <!-- SPOTIFY-END -->
