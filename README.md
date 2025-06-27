@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f9c6d0e7696a708308ff311" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733581edd7f47409392604e6e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)**
-*by* **Maxi Nagl, Tamino404**
-*Album:* Maxi Nagl Prod Tape #1
+**🎵 [Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)**
+*by* **hqwilli**
+*Album:* Die letzten in der Bar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:37
+    1:12 • 1:29
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
 🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[im regen vor deim haus](https://open.spotify.com/track/2U3SQBOHmqDoX5yVmB7xhm)** by **b3nn3t** *(laut nachgedacht)*
+🎤 **[BAUCHFREY](https://open.spotify.com/track/1qVL0mULkTV2GQaxmTRfbR)** by **TYM** *(PYP³)*
+🎤 **[Verletzt](https://open.spotify.com/track/2os37G8kPHxzOsXrKFBjyf)** by **Maxi Nagl, Yelus, Moonvers** *(Verletzt)*
+🎤 **[1000 Karat](https://open.spotify.com/track/6JCNaE2Jtj6zk0kHZ0LDje)** by **Streichelt, coville** *(Zuckerrand)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 16:16:14Z UTC
+🕐 Last updated: 2025-06-27 16:44:45Z UTC
 <!-- SPOTIFY-END -->
