@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fd3d13da17a1014a3538f9df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735c0f0bde156f48e1dc710904" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)**
-*by* **b3nn3t, strangerperson**
-*Album:* laut nachgedacht
+**🎵 [Sterben](https://open.spotify.com/track/4EePmzewiAy8Rjce0el6Zj)**
+*by* **Drückeberger**
+*Album:* Armselig
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="41" height="4" fill="#1db954" rx="2"/>
-    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:19
+    0:12 • 3:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
-🎤 **[Wie du den Tag zurückdrehst](https://open.spotify.com/track/1gvZcuESbZKl09ONmb7W4a)** by **Streichelt** *(Wie du den Tag zurückdrehst)*
-🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
-🎤 **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by **5v** *(kein zufall)*
+🎤 **[Tragen Engel Schwerter](https://open.spotify.com/track/6jVl2GwUmdmAcLacBnnTFP)** by **Nicki Papa** *(Wendepunkt)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
+🎤 **[Mich selbst](https://open.spotify.com/track/3zgJSDzUoGjVuuMRrtU1fx)** by **kevin** *(7)*
+🎤 **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by **herz.** *(kopflos durch die nacht)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 22:50:35Z UTC
+🕐 Last updated: 2025-06-27 23:12:50Z UTC
 <!-- SPOTIFY-END -->
