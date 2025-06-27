@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734b24882e533a5f7c287e8fb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a3536f1e119499e5e536a802" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)**
-*by* **5v**
-*Album:* geist
+**🎵 [tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)**
+*by* **5v, Crescent**
+*Album:* tell me where we are
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="155" height="4" fill="#1db954" rx="2"/>
-    <circle cx="155" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:08
+    1:25 • 2:31
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[you wouldnt get it](https://open.spotify.com/track/0RBcdHoVPUwwzthp24rlro)** by **RudeClub, Angst** *(you wouldnt get it)*
-🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by **diggidaniel** *(So weit)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
+🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
+🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
+🎤 **[Lieblingslieder](https://open.spotify.com/track/5HD9po1b3WKX0VPkuvFFfA)** by **Traumatin** *(Lieblingslieder)*
+🎤 **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by **uusymon** *(Stardust)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 20:33:07Z UTC
+🕐 Last updated: 2025-06-27 20:48:45Z UTC
 <!-- SPOTIFY-END -->
