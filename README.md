@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273af3ad49a4151027043137be1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [AUSVERSEHN](https://open.spotify.com/track/2VYDVr27sw9gQB8wagLScJ)**
+*by* **mikeycyrus**
+*Album:* AUSVERSEHN
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:24 • 1:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
-🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[sinkin down slowly](https://open.spotify.com/track/6t1bTRqL3aTRNdWn4tEI2f)** by **Dropped here** *(sinkin down slowly)*
+🎤 **[Illegal - Nia Archives Remix](https://open.spotify.com/track/0c1s95bO4ZqOOmFl8mfsro)** by **PinkPantheress, Nia Archives** *(Illegal (Nia Archives Remix))*
+🎤 **[heart shaped candy](https://open.spotify.com/track/1TF2R89vy41aOskt5CjYjy)** by **joni75** *(heart shaped candy)*
+🎤 **[Everything, Everywhere Ends](https://open.spotify.com/track/1hSFSKfDb62wNYAJi0xpFY)** by **Spira me, with3r, Eera** *(Everything, Everywhere Ends)*
+🎤 **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 07:13:23Z UTC
+🕐 Last updated: 2025-06-27 07:31:21Z UTC
 <!-- SPOTIFY-END -->
