@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736630a8104843573cc41524e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27330ce3696c64bbf034762acf3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ily fr](https://open.spotify.com/track/0lGUTSnK5uyW3TLPwxdIV1)**
-*by* **bliiiss**
-*Album:* ily fr
+**🎵 [hänge fest](https://open.spotify.com/track/5bSKnDc0itwwZ5PYfj2sJ7)**
+*by* **Leocardo DiNaprio**
+*Album:* hänge fest
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 1:29
+    0:53 • 2:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by **diggidaniel** *(Zwing mich zu meinem Glück)*
-🎤 **[Usher](https://open.spotify.com/track/20wwsiGjeZZbsOOLHnzHmW)** by **pradaaslife, Lunaa** *(Scrapclub)*
-🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
-🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
-🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)*
+🎤 **[Weit Entfernt](https://open.spotify.com/track/2V5sOjankNjqgIfxuRR7As)** by **S1RENA** *(weit entfernt ep ☆)*
+🎤 **[Dissolving In Your Memories](https://open.spotify.com/track/6tz1aJNRzW2A2rqUXzMIOu)** by **Spira me, Buffalobang** *(A Graceful Break Of Violence)*
+🎤 **[Junge Hunde](https://open.spotify.com/track/5iYJ0zbg16yF9f3HwQxFFi)** by **EASY EASY** *(EASY EASY)*
+🎤 **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 23:30:23Z UTC
+🕐 Last updated: 2025-06-27 23:48:19Z UTC
 <!-- SPOTIFY-END -->
