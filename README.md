@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b46ebf547a745096109d8fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737a9214e709915022f75a9044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)**
-*by* **ilyproxy, Aachen Demon**
-*Album:* großstadt lifestyle
+**🎵 [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)**
+*by* **Basement Jaxx**
+*Album:* Rooty
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+    <rect width="142" height="4" fill="#1db954" rx="2"/>
+    <circle cx="142" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:30
+    2:16 • 4:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
 🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
 🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
 🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 17:12:41Z UTC
+🕐 Last updated: 2025-06-27 17:31:58Z UTC
 <!-- SPOTIFY-END -->
