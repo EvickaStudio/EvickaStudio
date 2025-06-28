@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cc625ccc89750cb24b734569" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [alles was ich hab](https://open.spotify.com/track/15LSDwFuYWV00StCWjUxPb)**
-*by* **5v, juuhnkpop**
-*Album:* alles was ich hab
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 2:20
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Original](https://open.spotify.com/track/5LL5TcO289Wzc9RGHqMcqA)** by **Pavelo & Schnell** *(Autoradio)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[Klettverschluss](https://open.spotify.com/track/5DK4lNGkh4fKxiKAkXRIj0)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[Blick über die Stadt](https://open.spotify.com/track/1mhLW4sxzBsKnpZrAD722C)** by **52Blue** *(L(i)ebe)*
-🎤 **[schwert_♡.+++](https://open.spotify.com/track/6Lwima0bdNMEIkR0fG3ZUq)** by **DANZINGER 99** *(Hotel+++)*
+🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[TRUE 2 MYSELF](https://open.spotify.com/track/2etJj05SB2LY2xxMUh1D4C)** by **Dave Plugs** *(BACK AT IT EP)*
+🎤 **[raucherschaeden](https://open.spotify.com/track/5uYKK8CGh0kvPoz29CzHdA)** by **b3nn3t, sotbarn** *(laut nachgedacht)*
+🎤 **[Bad Bitch By My Side](https://open.spotify.com/track/5RAkOrt46hj9zwfmmJuTaR)** by **fliggsy** *(Rider Music 2)*
+🎤 **[schmetterlin99flyin999+++](https://open.spotify.com/track/5c4HtO1DrLsYx3rZ8sT3If)** by **DANZINGER 99** *(Hotel+++)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 05:50:00Z UTC
+🕐 Last updated: 2025-06-28 06:17:01Z UTC
 <!-- SPOTIFY-END -->
