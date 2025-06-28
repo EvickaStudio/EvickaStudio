@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e01ac37bc244589abca90316" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733f40125dc86422780af2f6d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [the way im are](https://open.spotify.com/track/6ZvWVk066RMzlL5FMCnWTv)**
-*by* **temcandoanything**
-*Album:* blue screen'd my navii
+**🎵 [words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)**
+*by* **SHEMYYY**
+*Album:* words you say
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="83" height="4" fill="#1db954" rx="2"/>
-    <circle cx="83" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:34
+    1:43 • 1:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Fires In Heaven](https://open.spotify.com/track/5hg3OaB6PToSJ2FKyZHKBC)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Dark Blue](https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW)** by **User2222** *(Dark Blue)*
-🎤 **[Dumpster fire](https://open.spotify.com/track/6joVOYeKHWl5g744BuB3dg)** by **kmoe** *(K1)*
-🎤 **[Heart Breaks 2005](https://open.spotify.com/track/2eYZH6TtHrS2Phdp5dN1aZ)** by **Dusqk** *(Heaven/exe)*
-🎤 **[The Devil Works Hard... But I Work Harder](https://open.spotify.com/track/4gQljtPoXCy6vhL5kbIT2m)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[L.L.L](https://open.spotify.com/track/0KUTFU19NDKa8zhszK3ZuE)** by **Woesum** *(Protected)*
+🎤 **[The Meadow Where I Died](https://open.spotify.com/track/6EYnaxvl2fkGN7vPmooa77)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[noodles](https://open.spotify.com/track/6Sa5OT6oXo6dlXrDd4koWU)** by **xaptiox** *(noodles)*
+🎤 **[how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)** by **mint** *(how can u even make me feel so unwell)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 18:45:53Z UTC
+🕐 Last updated: 2025-06-28 19:09:21Z UTC
 <!-- SPOTIFY-END -->
