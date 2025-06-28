@@ -110,7 +110,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)**
+**🎵 [Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)**
 *by* **Whitearmor**
 *Album:* In the Abyss: Music for Weddings
 
@@ -118,12 +118,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="83" height="4" fill="#1db954" rx="2"/>
-    <circle cx="83" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 4:35
+    0:30 • 2:17
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
 🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
 🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 11:47:45Z UTC
+🕐 Last updated: 2025-06-28 12:22:43Z UTC
 <!-- SPOTIFY-END -->
