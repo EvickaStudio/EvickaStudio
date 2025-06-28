@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379450bf703e4df601996baad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e01ac37bc244589abca90316" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Auto Tune Tears](https://open.spotify.com/track/0maAgr7RKJuPoxcpJxftVQ)**
-*by* **PRINT**
-*Album:* Provar
+**🎵 [the way im are](https://open.spotify.com/track/6ZvWVk066RMzlL5FMCnWTv)**
+*by* **temcandoanything**
+*Album:* blue screen'd my navii
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="83" height="4" fill="#1db954" rx="2"/>
+    <circle cx="83" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:39
+    0:42 • 2:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Eternal Return](https://open.spotify.com/track/7f9lmB5KzC6nYGzEvxgoX0)** by **Ayegy** *(Eternal Return)*
-🎤 **[my twenty first reason </3](https://open.spotify.com/track/4K475XgrOAIwfIbp0Pks2B)** by **wifiskeleton** *(suburban daredevil)*
-🎤 **[It's Ok - Just Raw](https://open.spotify.com/track/1LjqAtBw3935Ritelug0cX)** by **Aloboi** *(Justcore Extravaganza)*
-🎤 **[Goes..!](https://open.spotify.com/track/5EK2RDuKuVwOJGZKIQi0eZ)** by **dreamstation, GnB Chili** *(Dreamcore, Vol. 1)*
-🎤 **[gymnastics - cece natalie house remix](https://open.spotify.com/track/2SANR29IcggqNI8xxB8USl)** by **Cece Natalie** *(Recycling Bin Collection 2)*
+🎤 **[Fires In Heaven](https://open.spotify.com/track/5hg3OaB6PToSJ2FKyZHKBC)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Dark Blue](https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW)** by **User2222** *(Dark Blue)*
+🎤 **[Dumpster fire](https://open.spotify.com/track/6joVOYeKHWl5g744BuB3dg)** by **kmoe** *(K1)*
+🎤 **[Heart Breaks 2005](https://open.spotify.com/track/2eYZH6TtHrS2Phdp5dN1aZ)** by **Dusqk** *(Heaven/exe)*
+🎤 **[The Devil Works Hard... But I Work Harder](https://open.spotify.com/track/4gQljtPoXCy6vhL5kbIT2m)** by **Ayegy** *(BLACKTHORN)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 18:16:10Z UTC
+🕐 Last updated: 2025-06-28 18:45:53Z UTC
 <!-- SPOTIFY-END -->
