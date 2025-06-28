@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27330ce3696c64bbf034762acf3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fd3d13da17a1014a3538f9df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hänge fest](https://open.spotify.com/track/5bSKnDc0itwwZ5PYfj2sJ7)**
-*by* **Leocardo DiNaprio**
-*Album:* hänge fest
+**🎵 [ich](https://open.spotify.com/track/6b4v4ISEfWX3G9Iw9K3NlN)**
+*by* **b3nn3t**
+*Album:* laut nachgedacht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="96" height="4" fill="#1db954" rx="2"/>
-    <circle cx="96" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:45
+    1:25 • 1:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)*
-🎤 **[Weit Entfernt](https://open.spotify.com/track/2V5sOjankNjqgIfxuRR7As)** by **S1RENA** *(weit entfernt ep ☆)*
-🎤 **[Dissolving In Your Memories](https://open.spotify.com/track/6tz1aJNRzW2A2rqUXzMIOu)** by **Spira me, Buffalobang** *(A Graceful Break Of Violence)*
-🎤 **[Junge Hunde](https://open.spotify.com/track/5iYJ0zbg16yF9f3HwQxFFi)** by **EASY EASY** *(EASY EASY)*
-🎤 **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)*
+🎤 **[Samstagfrüh](https://open.spotify.com/track/4tw6zQnSKfr2ZG1QB4C25k)** by **Ritter Lean** *(Muss mein eigener Atze sein)*
+🎤 **[Herz stop](https://open.spotify.com/track/13ky5dmoRVNZFfhxocFsst)** by **wurms** *(Herz stop)*
+🎤 **[Superhot](https://open.spotify.com/track/48Ig9iwIuLfaYF6qDirO6l)** by **TEMMIS** *(Superhot)*
+🎤 **[keine sorge](https://open.spotify.com/track/44PwRqnEGThdNTNNoue6EE)** by **Ski Aggu** *(Wilmersdorfs Kind)*
+🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-27 23:48:19Z UTC
+🕐 Last updated: 2025-06-28 01:01:24Z UTC
 <!-- SPOTIFY-END -->
