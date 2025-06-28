@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379450bf703e4df601996baad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)**
-*by* **Wisp**
-*Album:* Pandora
+**🎵 [Auto Tune Tears](https://open.spotify.com/track/0maAgr7RKJuPoxcpJxftVQ)**
+*by* **PRINT**
+*Album:* Provar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="267" height="4" fill="#1db954" rx="2"/>
-    <circle cx="267" cy="2" r="6" fill="#1db954"/>
+    <rect width="235" height="4" fill="#1db954" rx="2"/>
+    <circle cx="235" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:53 • 4:21
+    2:04 • 2:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Planet](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(Planet)*
+🎤 **[Eternal Return](https://open.spotify.com/track/7f9lmB5KzC6nYGzEvxgoX0)** by **Ayegy** *(Eternal Return)*
+🎤 **[my twenty first reason </3](https://open.spotify.com/track/4K475XgrOAIwfIbp0Pks2B)** by **wifiskeleton** *(suburban daredevil)*
+🎤 **[It's Ok - Just Raw](https://open.spotify.com/track/1LjqAtBw3935Ritelug0cX)** by **Aloboi** *(Justcore Extravaganza)*
+🎤 **[Goes..!](https://open.spotify.com/track/5EK2RDuKuVwOJGZKIQi0eZ)** by **dreamstation, GnB Chili** *(Dreamcore, Vol. 1)*
+🎤 **[gymnastics - cece natalie house remix](https://open.spotify.com/track/2SANR29IcggqNI8xxB8USl)** by **Cece Natalie** *(Recycling Bin Collection 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 17:48:15Z UTC
+🕐 Last updated: 2025-06-28 18:16:10Z UTC
 <!-- SPOTIFY-END -->
