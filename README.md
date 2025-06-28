@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27343d86723704f8c02b7047a16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d5cbe04aab2a34b0d802e9a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
+**🎵 [Motherlode](https://open.spotify.com/track/6lrduzUfN6mAeHnPxBV3nF)**
+*by* **Clarry Berry**
+*Album:* Motherlode
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="115" height="4" fill="#1db954" rx="2"/>
+    <circle cx="115" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 2:03
+    0:52 • 2:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Anders](https://open.spotify.com/track/0Z15svxDzrpLRyFGLd3ZOp)** by **Keule** *(Anders)*
-🎤 **[Abknallen](https://open.spotify.com/track/28XJEdLyCOaXbVJUWMHZ4b)** by **fliggsy** *(You Either Die A Hero Or See Yourself Become The Villain)*
-🎤 **[Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss)** by **fyne** *(Monster)*
-🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
-🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[fahr uns bitte weit](https://open.spotify.com/track/1wW7d2zxXaHb89tGFzvrjx)** by **ghostboo** *(fahr uns bitte weit)*
+🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)** by **nobis, Absteige** *(Vorschlaghammer)*
+🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 05:13:16Z UTC
+🕐 Last updated: 2025-06-28 05:34:03Z UTC
 <!-- SPOTIFY-END -->
