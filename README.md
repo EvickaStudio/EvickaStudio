@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273266a29d1b9a50d64bd1a943b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c0e05bd09aba8fd5796becd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zusammen allein](https://open.spotify.com/track/4RUBlvgdUwEBLGSh3by3YO)**
-*by* **Tape Head, NONI**
-*Album:* Zusammen allein
+**🎵 [Wie ich fall](https://open.spotify.com/track/3guhcOw6o35kAXRXoKLB25)**
+*by* **Keule, Jagger**
+*Album:* Wie ich fall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:30
+    0:50 • 3:12
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Wolkenlos](https://open.spotify.com/track/3bAuECcPvLgYyepOvqoMW6)** by **strangerperson** *(Wolkenlos)*
-🎤 **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)*
-🎤 **[Alle 13 Tage](https://open.spotify.com/track/0WZzrzs0F06ZGnyBdk30lS)** by **Streichelt** *(Alle 13 Tage)*
-🎤 **[barkeeper](https://open.spotify.com/track/1Yb6JcT6PFF5VftO3oionX)** by **Ellie Mic** *(stuck)*
-🎤 **[Schock](https://open.spotify.com/track/7fwMWxd5VUQn5sJdbqGrfr)** by **Tape Head, NONI** *(Schock)*
+🎤 **[Machtlos](https://open.spotify.com/track/0G1elLFbHGXCKsvnbuY8lM)** by **Tape Head, NONI** *(Machtlos)*
+🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
+🎤 **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Self Fulfilling Prophecy](https://open.spotify.com/track/5Oix6oEWm9ZnKDWejYQfv4)** by **fliggsy** *(Rider Music 2)*
+🎤 **[Deine Jacke](https://open.spotify.com/track/73hhb1qwyqsFM9yYZMkjZe)** by **zwanzignullvier** *(Deine Jacke)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 04:39:22Z UTC
+🕐 Last updated: 2025-06-28 04:55:10Z UTC
 <!-- SPOTIFY-END -->
