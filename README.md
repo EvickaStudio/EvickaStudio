@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b11aff830416f56822efcc61" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)**
-*by* **Bladee, Mechatok**
-*Album:* Good Luck
+**🎵 [Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)**
+*by* **Playboi Carti, Lil Uzi Vert**
+*Album:* Die Lit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 3:28
+    2:20 • 2:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv)** by **Xxtarlit⚸** *(A Thousand Things I Could Tell You)*
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
-🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
+🎤 **[Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB)** by **A$AP Rocky** *(LIVE.LOVE.A$AP)*
+🎤 **[Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)** by **Pinegrove** *(Need 2)*
+🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
+🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)** by **Bladee, Mechatok** *(Good Luck)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 15:11:50Z UTC
+🕐 Last updated: 2025-06-28 15:29:52Z UTC
 <!-- SPOTIFY-END -->
