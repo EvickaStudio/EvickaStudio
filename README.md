@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273765915ef76941de9056f3c6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Augenringe](https://open.spotify.com/track/1GECp43mOmp6VdRvUhS9vu)**
+*by* **nobis**
+*Album:* Augenringe
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:42 • 3:32
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
 🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
 🎤 **[TRUE 2 MYSELF](https://open.spotify.com/track/2etJj05SB2LY2xxMUh1D4C)** by **Dave Plugs** *(BACK AT IT EP)*
 🎤 **[raucherschaeden](https://open.spotify.com/track/5uYKK8CGh0kvPoz29CzHdA)** by **b3nn3t, sotbarn** *(laut nachgedacht)*
-🎤 **[Bad Bitch By My Side](https://open.spotify.com/track/5RAkOrt46hj9zwfmmJuTaR)** by **fliggsy** *(Rider Music 2)*
-🎤 **[schmetterlin99flyin999+++](https://open.spotify.com/track/5c4HtO1DrLsYx3rZ8sT3If)** by **DANZINGER 99** *(Hotel+++)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 07:27:57Z UTC
+🕐 Last updated: 2025-06-28 07:38:25Z UTC
 <!-- SPOTIFY-END -->
