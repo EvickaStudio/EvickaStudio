@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)**
+*by* **Edwin Rosen, sparr00w**
+*Album:* Die Sterne
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="285" height="4" fill="#1db954" rx="2"/>
+    <circle cx="285" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:09 • 3:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[emulator](https://open.spotify.com/track/4W4BXsqL0qXNxAIVJXW9sn)** by **Brothel in Belize** *(emulator)*
 🎤 **[complicated](https://open.spotify.com/track/6i2NAO6Y67XJMhVvNBl1tD)** by **wenszy** *(complicated)*
 🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[Tight](https://open.spotify.com/track/6CtM6g3aZ5MfGwAY1d5kli)** by **The Bird** *(Tight)*
-🎤 **[bipolar](https://open.spotify.com/track/4R4tfhmLBLzBQNmsvxArKZ)** by **wifiskeleton** *(pony)*
-🎤 **[If I'm Born I Have To Live](https://open.spotify.com/track/6ttVp6mDcydXU9qhlaNVYW)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 21:11:14Z UTC
+🕐 Last updated: 2025-06-28 21:27:50Z UTC
 <!-- SPOTIFY-END -->
