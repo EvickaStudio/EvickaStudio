@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273049e2c1720db1749192c5ade" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DayDay](https://open.spotify.com/track/6Wj6uflU7GqgctkBghxQ3K)**
-*by* **Nation**
-*Album:* RIFT Two
+**🎵 [sane again - CactusTeam remix](https://open.spotify.com/track/2xIXD39sVs5wGhuNgxmTrK)**
+*by* **Frou Frou, CactusTeam**
+*Album:* sane again (CactusTeam Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="206" height="4" fill="#1db954" rx="2"/>
-    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 3:18
+    1:30 • 2:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[stardust](https://open.spotify.com/track/5YLsjbHK1vjPgsFimlDiPm)** by **ethn reis** *(stardust)*
+🎤 **[Embrace](https://open.spotify.com/track/5boRDq2wvAdbSxA0A81eQE)** by **Brothel in Belize** *(War)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[DayDay](https://open.spotify.com/track/6Wj6uflU7GqgctkBghxQ3K)** by **Nation** *(RIFT Two)*
 🎤 **[Summit](https://open.spotify.com/track/3Htw9ODiZ6bMAv2GJXvHLC)** by **User2222** *(User2222 Greatest Hits)*
-🎤 **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[I Need You - Just Raw](https://open.spotify.com/track/6AwddHpVXZTPCcXK67rLAf)** by **Aloboi** *(Justcore Extravaganza)*
-🎤 **[tell me](https://open.spotify.com/track/0PDHwlcKPeSNYbzDuAhqfU)** by **wenszy, mymy** *(tell me)*
-🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 19:23:43Z UTC
+🕐 Last updated: 2025-06-28 19:33:56Z UTC
 <!-- SPOTIFY-END -->
