@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27333cd7345671d06f897a1ccaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273266a29d1b9a50d64bd1a943b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/4tdv3spzS6ZhdlxV9xVx3O)**
-*by* **DANZINGER 99**
-*Album:* Hotel+++
+**🎵 [Zusammen allein](https://open.spotify.com/track/4RUBlvgdUwEBLGSh3by3YO)**
+*by* **Tape Head, NONI**
+*Album:* Zusammen allein
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 3:19
+    0:13 • 2:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq)** by **MC WINDHUND** *(Klassenclown)*
-🎤 **[try again](https://open.spotify.com/track/7o6vc2VQdvSRPfXWFMQnnk)** by **gicc, c4pri** *(try again)*
-🎤 **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)*
-🎤 **[Tausend Mal verdrückt](https://open.spotify.com/track/5BVwDzcGyiyF031VkTWfJT)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[bags voller luv](https://open.spotify.com/track/1QKnxc9FgjIU8hWYXAhXZ8)** by **Keule, Censei, SWIN** *(bags voller luv)*
+🎤 **[Wolkenlos](https://open.spotify.com/track/3bAuECcPvLgYyepOvqoMW6)** by **strangerperson** *(Wolkenlos)*
+🎤 **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)*
+🎤 **[Alle 13 Tage](https://open.spotify.com/track/0WZzrzs0F06ZGnyBdk30lS)** by **Streichelt** *(Alle 13 Tage)*
+🎤 **[barkeeper](https://open.spotify.com/track/1Yb6JcT6PFF5VftO3oionX)** by **Ellie Mic** *(stuck)*
+🎤 **[Schock](https://open.spotify.com/track/7fwMWxd5VUQn5sJdbqGrfr)** by **Tape Head, NONI** *(Schock)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 04:00:19Z UTC
+🕐 Last updated: 2025-06-28 04:39:22Z UTC
 <!-- SPOTIFY-END -->
