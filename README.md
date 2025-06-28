@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2730c16f36e0169895f5d95d2f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)**
+*by* **Pink Katana**
+*Album:* 1x
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:51 • 1:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
-🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Bladee, Eurohead** *(DYR)*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
+🎤 **[Herz Wie Ein Stein](https://open.spotify.com/track/3dsGcTXsj4ll7kNqQsibn7)** by **Lil Soda Boi, Sin Davis** *(Herz Wie Ein Stein)*
+🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[im feuer](https://open.spotify.com/track/4whqW1O8VKy1i8Nzhe42Na)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
+🎤 **[mad shy](https://open.spotify.com/track/6z16u9pGPxlo5xWWpgle30)** by **Dropped here** *(mad shy)*
+🎤 **[Kate Moss](https://open.spotify.com/track/3CKvbgToq3umqvaHjC14bM)** by **S1RENA** *(Kate Moss)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 14:10:47Z UTC
+🕐 Last updated: 2025-06-28 14:30:39Z UTC
 <!-- SPOTIFY-END -->
