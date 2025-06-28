@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cffa2c5a6e7b062d50c70db2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b76feb8c941aede81fbedb7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [neues jahr](https://open.spotify.com/track/6ZygEBxK1XSMYJagygKEvF)**
-*by* **wurms**
-*Album:* neues jahr
+**🎵 [come get me](https://open.spotify.com/track/0NxdAGmYDPjpTwGVuz8Zf5)**
+*by* **emorave**
+*Album:* come get me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="267" height="4" fill="#1db954" rx="2"/>
-    <circle cx="267" cy="2" r="6" fill="#1db954"/>
+    <rect width="255" height="4" fill="#1db954" rx="2"/>
+    <circle cx="255" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:25
+    1:58 • 2:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
-🎤 **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[Hoffnung](https://open.spotify.com/track/5Zuu2lp1u6vPMCeboe9buo)** by **TEMMIS** *(Tageslicht fall auf mich - EP)*
-🎤 **[Memento](https://open.spotify.com/track/294klLo8mW1Mi69CFmXAjk)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[idc](https://open.spotify.com/track/6kHgwf0WtGsUa7nJfz57Z0)** by **Keule** *(ein blick in mein kopf)*
+🎤 **[Dunkelgrau](https://open.spotify.com/track/41yrvZBX3yssg2naai5BF5)** by **Tape Head, NONI** *(Dunkelgrau)*
+🎤 **[angst vor mir selbst](https://open.spotify.com/track/3qvgza1MC1iz6ShcsD1tHo)** by **Keule, Matt Mendo** *(angst vor mir selbst)*
+🎤 **[Sahaquiel](https://open.spotify.com/track/7wK2KnA6EyeW4S3QIFdd1X)** by **martijn** *(Sahaquiel)*
+🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[was festes](https://open.spotify.com/track/60A1gXkYZ5HFGhRKTGCJZW)** by **wurms, MC WINDHUND** *(was festes)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 02:50:30Z UTC
+🕐 Last updated: 2025-06-28 03:40:34Z UTC
 <!-- SPOTIFY-END -->
