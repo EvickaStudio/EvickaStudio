@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c0e05bd09aba8fd5796becd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27343d86723704f8c02b7047a16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wie ich fall](https://open.spotify.com/track/3guhcOw6o35kAXRXoKLB25)**
-*by* **Keule, Jagger**
-*Album:* Wie ich fall
+**🎵 [reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="159" height="4" fill="#1db954" rx="2"/>
+    <circle cx="159" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 3:12
+    1:05 • 2:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Machtlos](https://open.spotify.com/track/0G1elLFbHGXCKsvnbuY8lM)** by **Tape Head, NONI** *(Machtlos)*
-🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
-🎤 **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Self Fulfilling Prophecy](https://open.spotify.com/track/5Oix6oEWm9ZnKDWejYQfv4)** by **fliggsy** *(Rider Music 2)*
-🎤 **[Deine Jacke](https://open.spotify.com/track/73hhb1qwyqsFM9yYZMkjZe)** by **zwanzignullvier** *(Deine Jacke)*
+🎤 **[Anders](https://open.spotify.com/track/0Z15svxDzrpLRyFGLd3ZOp)** by **Keule** *(Anders)*
+🎤 **[Abknallen](https://open.spotify.com/track/28XJEdLyCOaXbVJUWMHZ4b)** by **fliggsy** *(You Either Die A Hero Or See Yourself Become The Villain)*
+🎤 **[Monster](https://open.spotify.com/track/7BiS3n0pLB3ls0Oqj2Awss)** by **fyne** *(Monster)*
+🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
+🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 04:55:10Z UTC
+🕐 Last updated: 2025-06-28 05:13:16Z UTC
 <!-- SPOTIFY-END -->
