@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b76feb8c941aede81fbedb7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27333cd7345671d06f897a1ccaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [come get me](https://open.spotify.com/track/0NxdAGmYDPjpTwGVuz8Zf5)**
-*by* **emorave**
-*Album:* come get me
+**🎵 [ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/4tdv3spzS6ZhdlxV9xVx3O)**
+*by* **DANZINGER 99**
+*Album:* Hotel+++
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:18
+    1:01 • 3:19
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Dunkelgrau](https://open.spotify.com/track/41yrvZBX3yssg2naai5BF5)** by **Tape Head, NONI** *(Dunkelgrau)*
-🎤 **[angst vor mir selbst](https://open.spotify.com/track/3qvgza1MC1iz6ShcsD1tHo)** by **Keule, Matt Mendo** *(angst vor mir selbst)*
-🎤 **[Sahaquiel](https://open.spotify.com/track/7wK2KnA6EyeW4S3QIFdd1X)** by **martijn** *(Sahaquiel)*
-🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[was festes](https://open.spotify.com/track/60A1gXkYZ5HFGhRKTGCJZW)** by **wurms, MC WINDHUND** *(was festes)*
+🎤 **[Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq)** by **MC WINDHUND** *(Klassenclown)*
+🎤 **[try again](https://open.spotify.com/track/7o6vc2VQdvSRPfXWFMQnnk)** by **gicc, c4pri** *(try again)*
+🎤 **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)*
+🎤 **[Tausend Mal verdrückt](https://open.spotify.com/track/5BVwDzcGyiyF031VkTWfJT)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[bags voller luv](https://open.spotify.com/track/1QKnxc9FgjIU8hWYXAhXZ8)** by **Keule, Censei, SWIN** *(bags voller luv)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 03:40:34Z UTC
+🕐 Last updated: 2025-06-28 04:00:19Z UTC
 <!-- SPOTIFY-END -->
