@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3d564dedd3150506a4f966a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad4dbbc907e128a63e2df15e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)**
-*by* **5v**
-*Album:* charlottes web
+**🎵 [try again](https://open.spotify.com/track/7o6vc2VQdvSRPfXWFMQnnk)**
+*by* **gicc, c4pri**
+*Album:* try again
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 2:08
+    2:02 • 2:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
-🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
-🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[Discounterherz](https://open.spotify.com/track/5u35caoAeK6QsJ52HwaJbz)** by **Streichelt** *(Discounterherz)*
+🎤 **[zu mir bin ich manchmal viel zu hart](https://open.spotify.com/track/0H7xjqUiBKtZF5svIDOnS5)** by **Keule, veil** *(ein blick in mein kopf)*
+🎤 **[Neben Dir](https://open.spotify.com/track/2XU6NpIYwo9y2EwxhmM8Gk)** by **Rrotzer** *(DUMME IDEE)*
+🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 21:47:43Z UTC
+🕐 Last updated: 2025-06-28 22:11:22Z UTC
 <!-- SPOTIFY-END -->
