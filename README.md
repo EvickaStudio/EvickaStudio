@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27328d8c67effa267a818e53bec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)**
-*by* **Wisp**
-*Album:* Pandora
+**🎵 [Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)**
+*by* **Anatole Muster, Juliana Chahayed**
+*Album:* Wonderful now but it's fast
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 3:05
+    0:24 • 2:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
+🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
+🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
+🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Special**](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)
 
 
-🕐 Last updated: 2025-06-28 16:53:02Z UTC
+🕐 Last updated: 2025-06-28 17:10:34Z UTC
 <!-- SPOTIFY-END -->
