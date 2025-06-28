@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fd3d13da17a1014a3538f9df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cffa2c5a6e7b062d50c70db2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich](https://open.spotify.com/track/6b4v4ISEfWX3G9Iw9K3NlN)**
-*by* **b3nn3t**
-*Album:* laut nachgedacht
+**🎵 [neues jahr](https://open.spotify.com/track/6ZygEBxK1XSMYJagygKEvF)**
+*by* **wurms**
+*Album:* neues jahr
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="267" height="4" fill="#1db954" rx="2"/>
+    <circle cx="267" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 1:45
+    2:09 • 2:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Samstagfrüh](https://open.spotify.com/track/4tw6zQnSKfr2ZG1QB4C25k)** by **Ritter Lean** *(Muss mein eigener Atze sein)*
-🎤 **[Herz stop](https://open.spotify.com/track/13ky5dmoRVNZFfhxocFsst)** by **wurms** *(Herz stop)*
-🎤 **[Superhot](https://open.spotify.com/track/48Ig9iwIuLfaYF6qDirO6l)** by **TEMMIS** *(Superhot)*
-🎤 **[keine sorge](https://open.spotify.com/track/44PwRqnEGThdNTNNoue6EE)** by **Ski Aggu** *(Wilmersdorfs Kind)*
-🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
+🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
+🎤 **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[Hoffnung](https://open.spotify.com/track/5Zuu2lp1u6vPMCeboe9buo)** by **TEMMIS** *(Tageslicht fall auf mich - EP)*
+🎤 **[Memento](https://open.spotify.com/track/294klLo8mW1Mi69CFmXAjk)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[idc](https://open.spotify.com/track/6kHgwf0WtGsUa7nJfz57Z0)** by **Keule** *(ein blick in mein kopf)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-28 01:01:24Z UTC
+🕐 Last updated: 2025-06-28 02:50:30Z UTC
 <!-- SPOTIFY-END -->
