@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c176d07d683bde2f36e3353e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nächte in der Trap](https://open.spotify.com/track/7Ettk6tYui5ucUeRlEyZE3)**
-*by* **Beyazz**
-*Album:* Nächte in der Trap
+**🎵 [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)**
+*by* **LSD and the Search for God**
+*Album:* LSD and the Search for God
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="180" height="4" fill="#1db954" rx="2"/>
+    <circle cx="180" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 2:18
+    3:02 • 5:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Irgendeine Kleinstadt](https://open.spotify.com/track/1y5oww3sAqHnTH64WVV6PL)** by **Tamino404, kevin** *(es ist nicht mehr 2016)*
-🎤 **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)*
-🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
-🎤 **[Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)** by **R.E.M.** *(Out Of Time (25th Anniversary Edition))*
+🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
+🎤 **[Skateboards & Air Force](https://open.spotify.com/track/6hI4IhPW9JGM9o5hqjnErt)** by **Lio, trabbey** *(Skateboards & Air Force)*
+🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
+🎤 **[Sie liebt mich nicht](https://open.spotify.com/track/3tCI6AHrsPEfCkgYcuvWL3)** by **Kidd Azzurra** *(Sie liebt mich nicht)*
+🎤 **[Among Us](https://open.spotify.com/track/6AfopDriwpgSKhJ32h9pwh)** by **iamjuampi** *(Among Us)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-06-29 17:10:50Z UTC
+🕐 Last updated: 2025-06-29 17:30:31Z UTC
 <!-- SPOTIFY-END -->
