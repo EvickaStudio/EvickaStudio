@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c176d07d683bde2f36e3353e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)**
-*by* **R.E.M.**
-*Album:* Out Of Time (25th Anniversary Edition)
+**🎵 [Nächte in der Trap](https://open.spotify.com/track/7Ettk6tYui5ucUeRlEyZE3)**
+*by* **Beyazz**
+*Album:* Nächte in der Trap
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="21" height="4" fill="#1db954" rx="2"/>
-    <circle cx="21" cy="2" r="6" fill="#1db954"/>
+    <rect width="165" height="4" fill="#1db954" rx="2"/>
+    <circle cx="165" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 3:45
+    1:16 • 2:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[wanna go back](https://open.spotify.com/track/6FRX0d3fzz70Cgu0Btsm4f)** by **alleycat** *(wanna go back)*
-🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
-🎤 **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)*
-🎤 **[Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI)** by **Dr. Dog** *(Shame, Shame (Deluxe Edition))*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Irgendeine Kleinstadt](https://open.spotify.com/track/1y5oww3sAqHnTH64WVV6PL)** by **Tamino404, kevin** *(es ist nicht mehr 2016)*
+🎤 **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)*
+🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)** by **R.E.M.** *(Out Of Time (25th Anniversary Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-06-29 16:54:16Z UTC
+🕐 Last updated: 2025-06-29 17:10:50Z UTC
 <!-- SPOTIFY-END -->
