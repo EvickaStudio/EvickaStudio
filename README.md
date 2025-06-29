@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ddd6ac6904cf5b21cf151fc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH)**
-*by* **Wisp**
-*Album:* Your face
+**🎵 [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)**
+*by* **R.E.M.**
+*Album:* Out Of Time (25th Anniversary Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="21" height="4" fill="#1db954" rx="2"/>
+    <circle cx="21" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:52 • 3:47
+    0:16 • 3:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[mr. ikari & the cruel angels](https://open.spotify.com/track/05nN7qZAfHyswFUCpbqyx0)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[Irgendwie, irgendwo, irgendwann (Special 12" Dance Mix)](https://open.spotify.com/track/44fNhBfmBUhaByY0651VIc)** by **Nena** *(Feuer und Flamme)*
-🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[wanna go back](https://open.spotify.com/track/6FRX0d3fzz70Cgu0Btsm4f)** by **alleycat** *(wanna go back)*
+🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
+🎤 **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)*
+🎤 **[Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI)** by **Dr. Dog** *(Shame, Shame (Deluxe Edition))*
+🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-06-29 16:38:54Z UTC
+🕐 Last updated: 2025-06-29 16:54:16Z UTC
 <!-- SPOTIFY-END -->
