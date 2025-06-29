@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)**
+*by* **Whitearmor**
+*Album:* In the Abyss: Music for Weddings
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:22 • 2:17
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
 🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
 🎤 **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)*
 🎤 **[In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)** by **Martin Garrix, Bebe Rexha** *(In the Name of Love)*
 🎤 **[Flötenmann](https://open.spotify.com/track/0SPpHRfCSLBKuQMJtU1ikl)** by **INFOTZRICO, Brian** *(Flötenmann)*
-🎤 **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-06-29 21:38:49Z UTC
+🕐 Last updated: 2025-06-29 21:47:28Z UTC
 <!-- SPOTIFY-END -->
