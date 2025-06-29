@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371340c55289f59acb3ecd40f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)**
-*by* **Tom Petty**
-*Album:* Full Moon Fever
+**🎵 [No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d)**
+*by* **Galantis**
+*Album:* The Aviary
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="247" height="4" fill="#1db954" rx="2"/>
-    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:24 • 4:07
+    0:35 • 3:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
-🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
-🎤 **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE)** by **lil hero** *(pawwwfect!)*
+🎤 **[Assumptions](https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh)** by **Sam Gellaitry** *(Assumptions (Jengi Remix))*
+🎤 **[Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv)** by **camoufly** *(In Plain Sight)*
+🎤 **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by **PinkPantheress** *(Heaven knows)*
+🎤 **[Cabin](https://open.spotify.com/track/3zIFQsdDFLmm6V7Ifu03Z6)** by **Somewhere Special** *(Cabin)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-06-29 18:16:19Z UTC
+🕐 Last updated: 2025-06-29 18:45:04Z UTC
 <!-- SPOTIFY-END -->
