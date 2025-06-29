@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)**
-*by* **TV Girl**
-*Album:* Who Really Cares
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="31" height="4" fill="#1db954" rx="2"/>
-    <circle cx="31" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 2:47
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
+🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
 🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)*
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
-🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-06-29 10:37:34Z UTC
+🕐 Last updated: 2025-06-29 10:51:18Z UTC
 <!-- SPOTIFY-END -->
