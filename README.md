@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734de4da55422167fcc47fba65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)**
-*by* **Eyedress**
-*Album:* Jealous
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="38" height="4" fill="#1db954" rx="2"/>
-    <circle cx="38" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:02
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Diamonds](https://open.spotify.com/track/1lAUOryDWVSCKSUdB3yvpM)** by **Chris Travis** *(Side Effects EP)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by **Jane Remover** *(Frailty)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
 
 
 
@@ -155,8 +136,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
 🥉 [**großstadt lifestyle**](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
-🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
+🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 05:52:51Z UTC
+🕐 Last updated: 2025-06-30 06:20:18Z UTC
 <!-- SPOTIFY-END -->
