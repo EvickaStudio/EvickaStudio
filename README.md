@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)**
+*by* **Whitearmor**
+*Album:* In the Abyss: Music for Weddings
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:56 • 4:35
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
 🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
 🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
 🎤 **[Lose Control - Tea with Quincy Mix](https://open.spotify.com/track/6D07amx8jFdSqGG2l8PbmL)** by **Dino Lenny** *(Lose Control)*
-🎤 **[Deeply](https://open.spotify.com/track/7iUxHYCYe2fhlJ7YbBZ9Nh)** by **Frink** *(Deeply)*
-🎤 **[Speranta](https://open.spotify.com/track/5hUG4khCMWpNXKOH5kTMgP)** by **Ada Kaleh, Traumer** *("Assembling Pieces" LP : Digital Bonuses)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-30 05:15:49Z UTC
+🕐 Last updated: 2025-06-30 05:43:16Z UTC
 <!-- SPOTIFY-END -->
