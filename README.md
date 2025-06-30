@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730294fa9dc81f95fd0da0baf7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731d1869ab51e0d5fb38efb83c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Home Is Where the Heart Is](https://open.spotify.com/track/6YuHSZn9WcRSNv9T5xVHsJ)**
-*by* **Gladys Knight & The Pips**
-*Album:* The Apollo Original Motion Picture Soundtrack
+**🎵 [Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)**
+*by* **Commodores**
+*Album:* Natural High
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:33 • 5:11
+    1:18 • 6:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Sail On](https://open.spotify.com/track/2QglMIKYxa06BFSXG6KwvC)** by **Commodores** *(Midnight Magic)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)** by **Mel & Tim** *(Stax Volt Chartbusters Vol 1)*
+🎤 **[Home Is Where the Heart Is](https://open.spotify.com/track/6YuHSZn9WcRSNv9T5xVHsJ)** by **Gladys Knight & The Pips** *(The Apollo Original Motion Picture Soundtrack)*
 🎤 **[Use Ta Be My Girl](https://open.spotify.com/track/5K3aLetDYAPtX1q0PTR1a5)** by **The O'Jays** *(So Full Of Love)*
-🎤 **[Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh)** by **Gregory Abbott** *(Shake You Down (Expanded Edition))*
-🎤 **[Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4)** by **Patti Austin** *(Every Home Should Have One)*
-🎤 **[Let It Be](https://open.spotify.com/track/6Vw6CPzyMdkJAnwpDtaHPs)** by **Gladys Knight & The Pips** *(If I Were Your Woman)*
-🎤 **[Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 20:33:15Z UTC
+🕐 Last updated: 2025-06-30 20:50:16Z UTC
 <!-- SPOTIFY-END -->
