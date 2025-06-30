@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273844c49f66d6a27021c385a7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Can’t Get You Outta My Mind](https://open.spotify.com/track/0DAB7zllnVRa11y6Jm0oOh)**
-*by* **Mall Grab**
-*Album:* Dust (Compilation)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="137" height="4" fill="#1db954" rx="2"/>
-    <circle cx="137" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:52 • 6:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
+🎤 **[Sex On The Beach](https://open.spotify.com/track/4erJBoqNtQtSgwTmnSGY7A)** by **DJ Assault** *(Greatest Hits Vol. 1)*
+🎤 **[Can’t Get You Outta My Mind](https://open.spotify.com/track/0DAB7zllnVRa11y6Jm0oOh)** by **Mall Grab** *(Dust (Compilation))*
 🎤 **[shure](https://open.spotify.com/track/2tP6jywGcRohtRddGTshsO)** by **Brayden Potts** *(winona)*
 🎤 **[Make You Scream - yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q)** by **VTSS, yunè pinku** *(Make You Scream (yunè pinku Remix))*
-🎤 **[2080](https://open.spotify.com/track/3xRIlGAlgRVfjrNa9IO7F1)** by **Cult Member** *(Ethernet)*
-🎤 **[2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5)** by **Mietze Conte** *(Mietzee)*
-🎤 **[Logic](https://open.spotify.com/track/4egwGq65exfjAIb1UKPGMw)** by **Euology** *(Logic)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 16:15:46Z UTC
+🕐 Last updated: 2025-06-30 16:47:17Z UTC
 <!-- SPOTIFY-END -->
