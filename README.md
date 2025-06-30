@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ca0a592e87f641eef08644db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Untitled3](https://open.spotify.com/track/5daybOzR7VYrvBK9KVCYQQ)**
+*by* **dj something**
+*Album:* I Feel Like DJ Something
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="165" height="4" fill="#1db954" rx="2"/>
+    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:22 • 2:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Elissa Steamer](https://open.spotify.com/track/7abcagsR4g404TgAcWXeaP)** by **DJ Houseplants** *(Elissa Steamer)*
+🎤 **[Cinderella 99](https://open.spotify.com/track/756Fgt1LumbFbQ6Qz5Da6E)** by **Cult Member** *(Ethernet)*
 🎤 **[Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3)** by **Fullempty** *(Every Day 2005)*
 🎤 **[About You](https://open.spotify.com/track/3H65gq0kD06OsRK22Rlr3X)** by **DELACOUR** *(About You)*
 🎤 **[Turismo](https://open.spotify.com/track/13BZC0WZY2UBSyGla9zeG0)** by **Vrdnyn** *(Turismo)*
-🎤 **[Illusions - Radio-Edit](https://open.spotify.com/track/5onIt4dYZZN7GuuBIe2MzS)** by **Brickman** *(Reflections)*
-🎤 **[Broken - mixed](https://open.spotify.com/track/41EpyRVYrMhJ9AKvEESvXt)** by **Cassio Kohl** *(DJ-Kicks (Breach))*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 15:34:39Z UTC
+🕐 Last updated: 2025-06-30 15:50:55Z UTC
 <!-- SPOTIFY-END -->
