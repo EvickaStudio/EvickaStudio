@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9c903069dab033b532c4f7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)**
-*by* **Gladys Knight & The Pips**
-*Album:* Imagination (Expanded Edition)
+**🎵 [Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)**
+*by* **Gap Girls**
+*Album:* Street Desires
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 4:39
+    0:32 • 2:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
+🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
 🎤 **[Misty Blue](https://open.spotify.com/track/20JcxdRw8gvqTY1EEpYxHb)** by **Dorothy Moore** *(Misty Blue)*
 🎤 **[Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh)** by **The Spinners** *(Spinners)*
-🎤 **[When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av)** by **Percy Sledge** *(When a Man Loves a Woman)*
-🎤 **[The Way We Were / Try to Remember](https://open.spotify.com/track/0bjLBTsge0KYD47MpydSIC)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp)** by **Raydio** *(Rock On)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 21:41:23Z UTC
+🕐 Last updated: 2025-06-30 21:48:51Z UTC
 <!-- SPOTIFY-END -->
