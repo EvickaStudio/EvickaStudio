@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273457fbed8f290e081bb51ab5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e8f98893b18f61ff7da0e6e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS)**
-*by* **The Spinners**
-*Album:* Spinners
+**🎵 [Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ)**
+*by* **Commodores**
+*Album:* Hot On The Tracks
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 3:50
+    2:20 • 6:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
+🎤 **[Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS)** by **The Spinners** *(Spinners)*
 🎤 **[Love Finds Its Own Way](https://open.spotify.com/track/751iqUFTzPOdYQZq9Apeel)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
 🎤 **[The Way We Were / Try to Remember - Single Version](https://open.spotify.com/track/1Pz39jyfPKGY3z9HZJmrHj)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b)** by **Diana Ross & The Supremes** *(Reflections (Expanded Edition))*
-🎤 **[Where Peaceful Waters Flow](https://open.spotify.com/track/171QpKcPDUCJCzooUdRlSd)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 19:34:33Z UTC
+🕐 Last updated: 2025-06-30 19:47:47Z UTC
 <!-- SPOTIFY-END -->
