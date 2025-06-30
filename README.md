@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273870a5288e37abe4b4ea05013" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)**
+*by* **60 juno**
+*Album:* Embedded
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:11 • 3:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[FEEL FOR YOU](https://open.spotify.com/track/4EghW5I4NsG8VnZKHvUgHS)** by **DJ BOG** *(FEEL FOR YOU)*
-🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
-🎤 **[Sex On The Beach](https://open.spotify.com/track/4erJBoqNtQtSgwTmnSGY7A)** by **DJ Assault** *(Greatest Hits Vol. 1)*
-🎤 **[Can’t Get You Outta My Mind](https://open.spotify.com/track/0DAB7zllnVRa11y6Jm0oOh)** by **Mall Grab** *(Dust (Compilation))*
-🎤 **[shure](https://open.spotify.com/track/2tP6jywGcRohtRddGTshsO)** by **Brayden Potts** *(winona)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
+🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
+🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 18:18:13Z UTC
+🕐 Last updated: 2025-06-30 18:48:19Z UTC
 <!-- SPOTIFY-END -->
