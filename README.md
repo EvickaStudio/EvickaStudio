@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
+🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
+🎤 **[Lose Control - Tea with Quincy Mix](https://open.spotify.com/track/6D07amx8jFdSqGG2l8PbmL)** by **Dino Lenny** *(Lose Control)*
 🎤 **[Deeply](https://open.spotify.com/track/7iUxHYCYe2fhlJ7YbBZ9Nh)** by **Frink** *(Deeply)*
 🎤 **[Speranta](https://open.spotify.com/track/5hUG4khCMWpNXKOH5kTMgP)** by **Ada Kaleh, Traumer** *("Assembling Pieces" LP : Digital Bonuses)*
-🎤 **[Zero Gravity](https://open.spotify.com/track/3t77AfBKRaeOFd2NDHVduK)** by **Brickman** *(Reflections)*
-🎤 **[Bleu Mood](https://open.spotify.com/track/1azldKFvU6qiXKS7ClpkLd)** by **Mara Lakour** *(Various, Vol. 2)*
-🎤 **[Chikyu-u 002](https://open.spotify.com/track/1xV07RDwmg4DUBqCYkv1pK)** by **R.M** *(Chikyu-u 001/002)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-06-30 04:45:33Z UTC
+🕐 Last updated: 2025-06-30 05:15:49Z UTC
 <!-- SPOTIFY-END -->
