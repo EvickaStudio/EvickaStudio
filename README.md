@@ -125,8 +125,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 22:50:43Z UTC
+🕐 Last updated: 2025-06-30 23:12:12Z UTC
 <!-- SPOTIFY-END -->
