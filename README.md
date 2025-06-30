@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273946264bbeb79cdbaef579fd0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)**
-*by* **anna luna**
-*Album:* rotten
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:10
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
+🎤 **[I Know](https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ)** by **Moritz** *(I Know)*
+🎤 **[Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK)** by **Gym Class Heroes** *(The Papercut Chronicles)*
+🎤 **[SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b)** by **WEEDMANE, Suicideyear** *(SUICIDE YEAR)*
+🎤 **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)*
+🎤 **[every single day](https://open.spotify.com/track/12GSmDYwG6HIUieDnPeLqv)** by **kets4eki, Pröz** *(party2daybreak)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 22:12:31Z UTC
+🕐 Last updated: 2025-06-30 22:34:25Z UTC
 <!-- SPOTIFY-END -->
