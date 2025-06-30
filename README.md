@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273953266dd2b87e48db1df2290" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c78b010ecd853cbb524e7e66" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Need U](https://open.spotify.com/track/1odq82Rs0DSNr5LIhyOoQ5)**
-*by* **DOS**
-*Album:* Cant Even
+**🎵 [Unspoken Thoughts](https://open.spotify.com/track/7AGGevGpCSJlkrKxvbcsSc)**
+*by* **Rad&Co**
+*Album:* Unspoken Thoughts (EP)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:44 • 5:57
+    3:19 • 3:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Need U](https://open.spotify.com/track/1odq82Rs0DSNr5LIhyOoQ5)** by **DOS** *(Cant Even)*
 🎤 **[Dub City](https://open.spotify.com/track/0hLUZTVuDuDUOAV4NYWGUa)** by **DELACOUR** *(Dub City)*
 🎤 **[No Remorse](https://open.spotify.com/track/4B8dW0fsRrN57yunOzplcs)** by **Soundboarders** *(House File)*
 🎤 **[Inhale](https://open.spotify.com/track/6BLjMWYOlcVC87cJtE8eIO)** by **Mara Lakour** *(NRMND002 EP)*
 🎤 **[Sad But Ambitious](https://open.spotify.com/track/2azJg1vzDZ8DDcPz4p9vTJ)** by **Marc Brauner** *(Sad But Ambitious)*
-🎤 **[Fractal](https://open.spotify.com/track/6KwBWp8GovMYJFrLi2g3sH)** by **Frink** *(Sutil)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 11:40:59Z UTC
+🕐 Last updated: 2025-06-30 11:49:33Z UTC
 <!-- SPOTIFY-END -->
