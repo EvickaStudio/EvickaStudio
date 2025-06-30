@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e8f98893b18f61ff7da0e6e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ)**
-*by* **Commodores**
-*Album:* Hot On The Tracks
+**🎵 [Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)**
+*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
+*Album:* Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 6:21
+    2:17 • 3:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
-🎤 **[Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS)** by **The Spinners** *(Spinners)*
-🎤 **[Love Finds Its Own Way](https://open.spotify.com/track/751iqUFTzPOdYQZq9Apeel)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[The Way We Were / Try to Remember - Single Version](https://open.spotify.com/track/1Pz39jyfPKGY3z9HZJmrHj)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[How 'Bout Us](https://open.spotify.com/track/1jc24HfkDT31GLKlxesuZl)** by **Champaign** *(How 'Bout Us (Expanded Edition))*
+🎤 **[The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp)** by **The Supremes** *(The Story Of The Supremes)*
+🎤 **[It's Summer](https://open.spotify.com/track/1wXV1nHOUn6AqhVm5OWtd9)** by **Gladys Knight & The Pips** *(Nitty Gritty)*
+🎤 **[The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0)** by **James Carr** *(You Got My Mind Messed Up)*
+🎤 **[Funny How Time Slips Away](https://open.spotify.com/track/4EmDfJApR28fMkhXZw6bKD)** by **Dorothy Moore** *(Misty Blue)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 19:47:47Z UTC
+🕐 Last updated: 2025-06-30 20:13:40Z UTC
 <!-- SPOTIFY-END -->
