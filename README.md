@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ca0a592e87f641eef08644db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273844c49f66d6a27021c385a7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Untitled3](https://open.spotify.com/track/5daybOzR7VYrvBK9KVCYQQ)**
-*by* **dj something**
-*Album:* I Feel Like DJ Something
+**🎵 [Can’t Get You Outta My Mind](https://open.spotify.com/track/0DAB7zllnVRa11y6Jm0oOh)**
+*by* **Mall Grab**
+*Album:* Dust (Compilation)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="137" height="4" fill="#1db954" rx="2"/>
+    <circle cx="137" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 2:29
+    2:52 • 6:14
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Elissa Steamer](https://open.spotify.com/track/7abcagsR4g404TgAcWXeaP)** by **DJ Houseplants** *(Elissa Steamer)*
-🎤 **[Cinderella 99](https://open.spotify.com/track/756Fgt1LumbFbQ6Qz5Da6E)** by **Cult Member** *(Ethernet)*
-🎤 **[Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3)** by **Fullempty** *(Every Day 2005)*
-🎤 **[About You](https://open.spotify.com/track/3H65gq0kD06OsRK22Rlr3X)** by **DELACOUR** *(About You)*
-🎤 **[Turismo](https://open.spotify.com/track/13BZC0WZY2UBSyGla9zeG0)** by **Vrdnyn** *(Turismo)*
+🎤 **[shure](https://open.spotify.com/track/2tP6jywGcRohtRddGTshsO)** by **Brayden Potts** *(winona)*
+🎤 **[Make You Scream - yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q)** by **VTSS, yunè pinku** *(Make You Scream (yunè pinku Remix))*
+🎤 **[2080](https://open.spotify.com/track/3xRIlGAlgRVfjrNa9IO7F1)** by **Cult Member** *(Ethernet)*
+🎤 **[2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5)** by **Mietze Conte** *(Mietzee)*
+🎤 **[Logic](https://open.spotify.com/track/4egwGq65exfjAIb1UKPGMw)** by **Euology** *(Logic)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 15:50:55Z UTC
+🕐 Last updated: 2025-06-30 16:15:46Z UTC
 <!-- SPOTIFY-END -->
