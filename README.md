@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[FEEL FOR YOU](https://open.spotify.com/track/4EghW5I4NsG8VnZKHvUgHS)** by **DJ BOG** *(FEEL FOR YOU)*
 🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
 🎤 **[Sex On The Beach](https://open.spotify.com/track/4erJBoqNtQtSgwTmnSGY7A)** by **DJ Assault** *(Greatest Hits Vol. 1)*
 🎤 **[Can’t Get You Outta My Mind](https://open.spotify.com/track/0DAB7zllnVRa11y6Jm0oOh)** by **Mall Grab** *(Dust (Compilation))*
 🎤 **[shure](https://open.spotify.com/track/2tP6jywGcRohtRddGTshsO)** by **Brayden Potts** *(winona)*
-🎤 **[Make You Scream - yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q)** by **VTSS, yunè pinku** *(Make You Scream (yunè pinku Remix))*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 17:48:43Z UTC
+🕐 Last updated: 2025-06-30 18:18:13Z UTC
 <!-- SPOTIFY-END -->
