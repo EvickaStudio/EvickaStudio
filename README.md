@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f04aed2395ab9d25456d13d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27350ffc621ac2871d6df31409e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Deeply](https://open.spotify.com/track/7iUxHYCYe2fhlJ7YbBZ9Nh)**
-*by* **Frink**
-*Album:* Deeply
+**🎵 [Broken](https://open.spotify.com/track/6IvyojBvzsSRjR14PxxiyB)**
+*by* **Cassio Kohl**
+*Album:* Broken
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:14 • 6:28
+    2:04 • 7:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Lose Control - Tea with Quincy Mix](https://open.spotify.com/track/6D07amx8jFdSqGG2l8PbmL)** by **Dino Lenny** *(Lose Control)*
+🎤 **[Deeply](https://open.spotify.com/track/7iUxHYCYe2fhlJ7YbBZ9Nh)** by **Frink** *(Deeply)*
 🎤 **[Speranta](https://open.spotify.com/track/5hUG4khCMWpNXKOH5kTMgP)** by **Ada Kaleh, Traumer** *("Assembling Pieces" LP : Digital Bonuses)*
 🎤 **[Zero Gravity](https://open.spotify.com/track/3t77AfBKRaeOFd2NDHVduK)** by **Brickman** *(Reflections)*
 🎤 **[Bleu Mood](https://open.spotify.com/track/1azldKFvU6qiXKS7ClpkLd)** by **Mara Lakour** *(Various, Vol. 2)*
-🎤 **[Chikyu-u 002](https://open.spotify.com/track/1xV07RDwmg4DUBqCYkv1pK)** by **R.M** *(Chikyu-u 001/002)*
-🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 10:40:58Z UTC
+🕐 Last updated: 2025-06-30 10:53:34Z UTC
 <!-- SPOTIFY-END -->
