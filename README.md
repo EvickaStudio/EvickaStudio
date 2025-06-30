@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eb4d41687d9ef76b854b727b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273457fbed8f290e081bb51ab5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Too Much, Too Little, Too Late (with Deniece Williams)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm)**
-*by* **Johnny Mathis, Deniece Williams**
-*Album:* The Essential Johnny Mathis 3.0
+**🎵 [Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh)**
+*by* **The Spinners**
+*Album:* Spinners
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 2:58
+    1:37 • 4:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Baby, Don't Change Your Mind](https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX)** by **Gladys Knight & The Pips** *(The Greatest Hits)*
-🎤 **[Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0)** by **Commodores** *(Commodores)*
-🎤 **[When I Need You](https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk)** by **Leo Sayer** *(Endless Flight)*
-🎤 **[Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)** by **Commodores** *(Natural High)*
-🎤 **[Sail On](https://open.spotify.com/track/2QglMIKYxa06BFSXG6KwvC)** by **Commodores** *(Midnight Magic)*
+🎤 **[When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av)** by **Percy Sledge** *(When a Man Loves a Woman)*
+🎤 **[The Way We Were / Try to Remember](https://open.spotify.com/track/0bjLBTsge0KYD47MpydSIC)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp)** by **Raydio** *(Rock On)*
+🎤 **[I Can See Clearly Now](https://open.spotify.com/track/17WBjhf0bGnd4dK7ofbQW0)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Too Much, Too Little, Too Late (with Deniece Williams)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm)** by **Johnny Mathis, Deniece Williams** *(The Essential Johnny Mathis 3.0)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 21:12:08Z UTC
+🕐 Last updated: 2025-06-30 21:29:38Z UTC
 <!-- SPOTIFY-END -->
