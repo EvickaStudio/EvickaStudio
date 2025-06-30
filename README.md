@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27329cb85e9b801d145dd9e08bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273addc92b46c047e1b0bb34231" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fractal](https://open.spotify.com/track/6KwBWp8GovMYJFrLi2g3sH)**
-*by* **Frink**
-*Album:* Sutil
+**🎵 [Inhale](https://open.spotify.com/track/6BLjMWYOlcVC87cJtE8eIO)**
+*by* **Mara Lakour**
+*Album:* NRMND002 EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 6:48
+    4:17 • 7:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Sad But Ambitious](https://open.spotify.com/track/2azJg1vzDZ8DDcPz4p9vTJ)** by **Marc Brauner** *(Sad But Ambitious)*
+🎤 **[Fractal](https://open.spotify.com/track/6KwBWp8GovMYJFrLi2g3sH)** by **Frink** *(Sutil)*
 🎤 **[Fascination](https://open.spotify.com/track/678s3GakaG4KIQ1aWt1M68)** by **Horsemen** *(Earthquake VA)*
 🎤 **[Bloom](https://open.spotify.com/track/40EcyIQoY1429p3gGiI63l)** by **Malin Genie** *(Bloom)*
 🎤 **[Broken](https://open.spotify.com/track/6IvyojBvzsSRjR14PxxiyB)** by **Cassio Kohl** *(Broken)*
-🎤 **[Lose Control - Tea with Quincy Mix](https://open.spotify.com/track/6D07amx8jFdSqGG2l8PbmL)** by **Dino Lenny** *(Lose Control)*
-🎤 **[Deeply](https://open.spotify.com/track/7iUxHYCYe2fhlJ7YbBZ9Nh)** by **Frink** *(Deeply)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-06-30 11:11:59Z UTC
+🕐 Last updated: 2025-06-30 11:28:11Z UTC
 <!-- SPOTIFY-END -->
