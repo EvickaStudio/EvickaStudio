@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce971717f2929cafce01ebb5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)**
-*by* **TYM**
-*Album:* ZUCKER
+**🎵 [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)**
+*by* **Panchiko**
+*Album:* D>E>A>T>H>M>E>T>A>L
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:24
+    2:27 • 4:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi)** by **U96** *(Club Bizarre)*
-🎤 **[angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)** by **Clara Kimera, notinbed** *(angel candles)*
-🎤 **[World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO)** by **DJ_Dave** *(World's Hardest Game)*
-🎤 **[Everything, Everywhere Ends](https://open.spotify.com/track/1hSFSKfDb62wNYAJi0xpFY)** by **Spira me, with3r, Eera** *(Everything, Everywhere Ends)*
+🎤 **[Play Em Like Atari](https://open.spotify.com/track/2KRfNaClGnlVyWkLwHbiVN)** by **Drain Gang Archive** *(Play Em Like Atari)*
+🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
+🎤 **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)*
+🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
+🎤 **[give it up](https://open.spotify.com/track/14Uzh8I088cnwy7KMVhC4K)** by **2hollis** *(White Tiger)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 11:47:44Z UTC
+🕐 Last updated: 2025-07-01 12:26:27Z UTC
 <!-- SPOTIFY-END -->
