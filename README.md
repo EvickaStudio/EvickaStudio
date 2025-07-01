@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fc53e838af5b3a7d576341c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Jalouse](https://open.spotify.com/track/4gujJ5efKCRLC3moKJktE7)**
-*by* **Ecco2k**
-*Album:* PXE
+**🎵 [Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)**
+*by* **Gap Girls**
+*Album:* Street Desires
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="206" height="4" fill="#1db954" rx="2"/>
-    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 2:12
+    0:50 • 2:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[Canary Wharf drift](https://open.spotify.com/track/64yioT39hYUlNyQMqEyUE6)** by **Bassvictim, Oatmilkandcodeine** *(Basspunk)*
-🎤 **[Electronica](https://open.spotify.com/track/4ok1TfaMUQhp3zwwA3o3rt)** by **Brothel in Belize** *(Electronica)*
-🎤 **[GOD](https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC)** by **2hollis** *(2)*
-🎤 **[Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ)** by **Jane Remover** *(Flash in the Pan)*
+🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
+🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-07-01 16:16:44Z UTC
+🕐 Last updated: 2025-07-01 16:48:24Z UTC
 <!-- SPOTIFY-END -->
