@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737a1d1b24d9e53e8729d63578" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273457fbed8f290e081bb51ab5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Funny How Time Slips Away](https://open.spotify.com/track/4EmDfJApR28fMkhXZw6bKD)**
-*by* **Dorothy Moore**
-*Album:* Misty Blue
+**🎵 [Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS)**
+*by* **The Spinners**
+*Album:* Spinners
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="69" height="4" fill="#1db954" rx="2"/>
+    <circle cx="69" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 3:52
+    0:53 • 3:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Home Is Where the Heart Is](https://open.spotify.com/track/6YuHSZn9WcRSNv9T5xVHsJ)** by **Gladys Knight & The Pips** *(The Apollo Original Motion Picture Soundtrack)*
+🎤 **[Funny How Time Slips Away](https://open.spotify.com/track/4EmDfJApR28fMkhXZw6bKD)** by **Dorothy Moore** *(Misty Blue)*
 🎤 **[Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4)** by **Patti Austin** *(Every Home Should Have One)*
 🎤 **[Warm and Tender Love - Single Version](https://open.spotify.com/track/3AcmG9xPYVeir8E6StWIQO)** by **Percy Sledge** *(Warm & Tender Soul)*
 🎤 **[Love Finds Its Own Way](https://open.spotify.com/track/751iqUFTzPOdYQZq9Apeel)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[How 'Bout Us](https://open.spotify.com/track/1jc24HfkDT31GLKlxesuZl)** by **Champaign** *(How 'Bout Us (Expanded Edition))*
-🎤 **[Use Ta Be My Girl](https://open.spotify.com/track/5K3aLetDYAPtX1q0PTR1a5)** by **The O'Jays** *(So Full Of Love)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 23:42:27Z UTC
+🕐 Last updated: 2025-07-01 23:50:21Z UTC
 <!-- SPOTIFY-END -->
