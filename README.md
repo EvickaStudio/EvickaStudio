@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9c903069dab033b532c4f7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)**
-*by* **Gladys Knight & The Pips**
-*Album:* Imagination (Expanded Edition)
+**🎵 [Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)**
+*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
+*Album:* Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 4:39
+    0:42 • 3:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
-🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp)** by **Raydio** *(Rock On)*
+🎤 **[I Can See Clearly Now](https://open.spotify.com/track/17WBjhf0bGnd4dK7ofbQW0)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[The Way We Were / Try to Remember - Single Version](https://open.spotify.com/track/1Pz39jyfPKGY3z9HZJmrHj)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[It's Summer](https://open.spotify.com/track/1wXV1nHOUn6AqhVm5OWtd9)** by **Gladys Knight & The Pips** *(Nitty Gritty)*
+🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 22:50:31Z UTC
+🕐 Last updated: 2025-07-01 23:12:17Z UTC
 <!-- SPOTIFY-END -->
