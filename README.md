@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)**
-*by* **Twenty One Pilots**
-*Album:* Blurryface
+**🎵 [Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)**
+*by* **Pastel Ghost**
+*Album:* Abyss
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 3:22
+    2:33 • 4:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[eine Woche](https://open.spotify.com/track/1L5Yx9t9a4kUOGx0gdiX9p)** by **Steintor Herrenchor** *(Eine Woche Geburtstag)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)*
-🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
-🎤 **[Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b)** by **Diana Ross & The Supremes** *(Reflections (Expanded Edition))*
+🎤 **[Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)** by **Playboi Carti, Lil Uzi Vert** *(Die Lit)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
+🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[John Dee](https://open.spotify.com/track/7BLFY8GsDyUkaARTv0uwKH)** by **Ghostemane** *(John Dee)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 09:52:22Z UTC
+🕐 Last updated: 2025-07-01 10:14:30Z UTC
 <!-- SPOTIFY-END -->
