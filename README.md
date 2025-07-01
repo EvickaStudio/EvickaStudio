@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f05fa1637fb8f219bcb55e2d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)**
+*by* **Bladee**
+*Album:* Ste The Beautiful Martyr 1st Attempt
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:03 • 2:56
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 🎤 **[Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E)** by **Weezer** *(Weezer)*
 🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
 🎤 **[Leach](https://open.spotify.com/track/3pnw86Nzm1nLdX5w9ZeObP)** by **Superheaven** *(Ours Is Chrome)*
 🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 20:34:23Z UTC
+🕐 Last updated: 2025-07-01 20:51:00Z UTC
 <!-- SPOTIFY-END -->
