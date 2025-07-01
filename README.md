@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273aed77cb497de50cd4f14c934" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)**
+*by* **Brothel in Belize**
+*Album:* envy
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="1" height="4" fill="#1db954" rx="2"/>
+    <circle cx="1" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:00 • 2:08
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[SAD MEAL](https://open.spotify.com/track/1pM2b7KNVG3DPgLoX8c7wV)** by **Bladee** *(Cold Visions)*
-🎤 **[ONE SECOND (feat. Yung Lean)](https://open.spotify.com/track/2TGwmgjl7qszphP6hfe6Df)** by **Bladee, Yung Lean** *(Cold Visions)*
-🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
-🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
-🎤 **[WODRAINER](https://open.spotify.com/track/5JUVGhN9kashmZGVf5lSf2)** by **Bladee** *(Cold Visions)*
+🎤 **[SAMBUCA 2](https://open.spotify.com/track/4X9GzubG8MdUXx1TkPZqUO)** by **Palmistry** *(T2)*
+🎤 **[Faust](https://open.spotify.com/track/0Nrd79QrK5WXiqxKMgTUX3)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
+🎤 **[Ratgirl](https://open.spotify.com/track/6cAmHeHEEXHCz9bQ8ZfNYV)** by **Pearly Drops** *(Ratgirl)*
+🎤 **[take me by the hand - Aaron Hibell remix](https://open.spotify.com/track/6wtzU740nPNrISiUyFjLyc)** by **Oklou, Bladee, Aaron Hibell** *(take me by the hand (Aaron Hibell remix))*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-07-01 14:51:05Z UTC
+🕐 Last updated: 2025-07-01 15:13:46Z UTC
 <!-- SPOTIFY-END -->
