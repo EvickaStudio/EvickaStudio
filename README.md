@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ca49d8467e46e11b4df3d444" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b0dbe5cdee230af2f14fa97b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)**
-*by* **Baby B3ns**
-*Album:* Herzcrash
+**🎵 [In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)**
+*by* **DJ Worm, Eurohead, SPÖKE**
+*Album:* In My Heart / In My Mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="193" height="4" fill="#1db954" rx="2"/>
-    <circle cx="193" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:57
+    1:22 • 4:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
+🎤 **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)*
+🎤 **[Self Fulfilling Prophecy](https://open.spotify.com/track/5Oix6oEWm9ZnKDWejYQfv4)** by **fliggsy** *(Rider Music 2)*
+🎤 **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
+🎤 **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by **Baby B3ns** *(Herzcrash)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 19:25:24Z UTC
+🕐 Last updated: 2025-07-01 19:35:15Z UTC
 <!-- SPOTIFY-END -->
