@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273206093348fcb3162c402efe9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fragile](https://open.spotify.com/track/1WRVDs7XUvbc7quxIJDU4f)**
-*by* **Ecco2k**
-*Album:* E
+**🎵 [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)**
+*by* **Mechatok, Ecco2k, Bladee**
+*Album:* Expression On Your Face
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="19" height="4" fill="#1db954" rx="2"/>
-    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:53
+    0:38 • 2:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/6BP8dGvxMoSACclrkcf0S4)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
+🎤 **[hold me down like gravity](https://open.spotify.com/track/4Aapz7lm6XTjuhTSb2gFBd)** by **Drain Gang Archive** *(HOLD ME DOWN LIKE GRAVITY)*
+🎤 **[XxX_TALLER_XxX](https://open.spotify.com/track/1OG2C2b1tS25GXHI3Sbxca)** by **DJmegan23, microsoft points** *(M2AF:)*
+🎤 **[Blue Eyes](https://open.spotify.com/track/0ifJZJq09BTa75v6iQPz74)** by **Ecco2k** *(E)*
+🎤 **[Time](https://open.spotify.com/track/4KfZSdlJ2YYZA4Q1p9WzUK)** by **Ecco2k** *(E)*
+🎤 **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 18:17:43Z UTC
+🕐 Last updated: 2025-07-01 18:47:34Z UTC
 <!-- SPOTIFY-END -->
