@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[GOT UR NUMB3R (v2)](https://open.spotify.com/track/0diD9SEK0oNBOx0p0QGvAB)** by **bugcried** *(GOT UR NUMB3R (v2))*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
-🎤 **[Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
+🎤 **[Hin & Her](https://open.spotify.com/track/0YuSMNVNyMeVTjGH3kqoG5)** by **Matze** *(Hin & Her)*
+🎤 **[MEIN TEE WIRD LANGSAM KALT](https://open.spotify.com/track/0vU1xp5OLSb0bsNqvumHgX)** by **Chapo102, 102 Boyz, Longus Mongus, Stacks102** *(COUNTRYCLUB)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
 
 
 
@@ -132,12 +132,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
-🥈 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
+🥇 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
+🥈 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
 🥉 [**großstadt lifestyle**](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 13:07:29Z UTC
+🕐 Last updated: 2025-07-01 13:44:11Z UTC
 <!-- SPOTIFY-END -->
