@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b125fe3170a337763c6a90bc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce971717f2929cafce01ebb5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)**
-*by* **Clara Kimera, notinbed**
-*Album:* angel candles
+**🎵 [ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)**
+*by* **TYM**
+*Album:* ZUCKER
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 2:09
+    0:45 • 2:24
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi)** by **U96** *(Club Bizarre)*
+🎤 **[angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)** by **Clara Kimera, notinbed** *(angel candles)*
 🎤 **[World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO)** by **DJ_Dave** *(World's Hardest Game)*
 🎤 **[Everything, Everywhere Ends](https://open.spotify.com/track/1hSFSKfDb62wNYAJi0xpFY)** by **Spira me, with3r, Eera** *(Everything, Everywhere Ends)*
-🎤 **[Overdrive](https://open.spotify.com/track/7LpF77VCwHLyEumWMlunVN)** by **Hinoni** *(Hinoni)*
-🎤 **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 11:39:10Z UTC
+🕐 Last updated: 2025-07-01 11:47:44Z UTC
 <!-- SPOTIFY-END -->
