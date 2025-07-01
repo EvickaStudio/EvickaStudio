@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)**
-*by* **Ecco2k, Thaiboy Digital, Bladee**
-*Album:* Trash Island
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 2:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
+🎤 **[SAD MEAL](https://open.spotify.com/track/1pM2b7KNVG3DPgLoX8c7wV)** by **Bladee** *(Cold Visions)*
+🎤 **[ONE SECOND (feat. Yung Lean)](https://open.spotify.com/track/2TGwmgjl7qszphP6hfe6Df)** by **Bladee, Yung Lean** *(Cold Visions)*
+🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
+🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
+🎤 **[WODRAINER](https://open.spotify.com/track/5JUVGhN9kashmZGVf5lSf2)** by **Bladee** *(Cold Visions)*
 
 
 
@@ -155,8 +136,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
 🥉 [**großstadt lifestyle**](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
-🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
+🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-07-01 14:34:04Z UTC
+🕐 Last updated: 2025-07-01 14:51:05Z UTC
 <!-- SPOTIFY-END -->
