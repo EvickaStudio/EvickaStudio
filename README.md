@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27317e3743d01b198e54b16cc63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)**
-*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
-*Album:* Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
+**🎵 [Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1)**
+*by* **Shirley Brown**
+*Album:* Woman to Woman [Stax Remasters]
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:28 • 3:30
+    1:47 • 3:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[It's Summer](https://open.spotify.com/track/1wXV1nHOUn6AqhVm5OWtd9)** by **Gladys Knight & The Pips** *(Nitty Gritty)*
-🎤 **[When I Need You](https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk)** by **Leo Sayer** *(Endless Flight)*
-🎤 **[How 'Bout Us](https://open.spotify.com/track/1jc24HfkDT31GLKlxesuZl)** by **Champaign** *(How 'Bout Us (Expanded Edition))*
-🎤 **[I Can See Clearly Now](https://open.spotify.com/track/17WBjhf0bGnd4dK7ofbQW0)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Where Peaceful Waters Flow](https://open.spotify.com/track/171QpKcPDUCJCzooUdRlSd)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Sail On](https://open.spotify.com/track/2QglMIKYxa06BFSXG6KwvC)** by **Commodores** *(Midnight Magic)*
+🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
+🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)** by **Mel & Tim** *(Stax Volt Chartbusters Vol 1)*
+🎤 **[Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ)** by **Commodores** *(Hot On The Tracks)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-01 08:18:14Z UTC
+🕐 Last updated: 2025-07-01 08:48:07Z UTC
 <!-- SPOTIFY-END -->
