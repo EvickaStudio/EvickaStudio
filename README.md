@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273edb4ce20d2432cad4ddfcaa2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc53e838af5b3a7d576341c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)**
-*by* **2hollis**
-*Album:* whiplash / cliche
+**🎵 [Jalouse](https://open.spotify.com/track/4gujJ5efKCRLC3moKJktE7)**
+*by* **Ecco2k**
+*Album:* PXE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:59
+    1:31 • 2:12
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[bf847](https://open.spotify.com/track/2nWr3QxoMGafCBV67VLZhm)** by **PRINT, march** *(bf847)*
-🎤 **[Undertow - damon r. Remix](https://open.spotify.com/track/6AbVHHJ188tEvQdWwWesKj)** by **The Hellp, damon r.** *(Enemy Remixed)*
-🎤 **[GT-R](https://open.spotify.com/track/1pmLlsMPKAS7ewp06Ibz9X)** by **Ecco2k** *(GT-R)*
-🎤 **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)*
-🎤 **[Restrain](https://open.spotify.com/track/2ioV0IMENcD6dj8ZZAtf7W)** by **Brothel in Belize** *(War)*
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[Canary Wharf drift](https://open.spotify.com/track/64yioT39hYUlNyQMqEyUE6)** by **Bassvictim, Oatmilkandcodeine** *(Basspunk)*
+🎤 **[Electronica](https://open.spotify.com/track/4ok1TfaMUQhp3zwwA3o3rt)** by **Brothel in Belize** *(Electronica)*
+🎤 **[GOD](https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC)** by **2hollis** *(2)*
+🎤 **[Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ)** by **Jane Remover** *(Flash in the Pan)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Wedding Bells**](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)
 
 
-🕐 Last updated: 2025-07-01 15:50:32Z UTC
+🕐 Last updated: 2025-07-01 16:16:44Z UTC
 <!-- SPOTIFY-END -->
