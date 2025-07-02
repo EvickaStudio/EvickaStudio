@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f8a4585ebbdb64cba7ab345f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Just Don't Want to Be Lonely](https://open.spotify.com/track/48IWmxvjgnWJ7V6eyE7qDw)**
+*by* **Blue Magic**
+*Album:* Blue Magic
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    4:27 • 7:12
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ)** by **Smokey Robinson & The Miracles** *(Going To A Go-Go)*
+🎤 **[Can't Give It Up No More](https://open.spotify.com/track/53vAwZgr3pxy2ZHdAQyX7v)** by **Gladys Knight & The Pips** *(Neither One Of Us)*
+🎤 **[Me and Mrs. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi)** by **Billy Paul** *(360 Degrees of Billy Paul (Expanded Edition))*
+🎤 **[Way Back Home](https://open.spotify.com/track/3SjWoL6RVmj5mofAfESnjc)** by **Jr. Walker & The All Stars** *(Moody Jr.)*
 🎤 **[Heaven In The Rain](https://open.spotify.com/track/3n5Ej3SwdjnwMgyh6HyM6D)** by **Ray, Goodman & Brown** *(The Best Of Ray, Goodman & Brown)*
-🎤 **[What's Come over Me](https://open.spotify.com/track/5A8VvOzCZcjkVXZhANKOqj)** by **Blue Magic** *(Soulful Spell - The Best Of Blue Magic)*
-🎤 **[Three Times A Lady](https://open.spotify.com/track/0wncUWg5piLmDhn8wry8jM)** by **Commodores** *(Three Times A Lady Hit Pac)*
-🎤 **[Reachin' Out For Your Love](https://open.spotify.com/track/1N2nUNAjEVO0Lbh976iMgw)** by **Johnny Bristol** *(Hang On In There Baby)*
-🎤 **[La La Peace Song](https://open.spotify.com/track/3sO121rWBWHUHzK1VAIHo4)** by **Al Wilson** *(La La Peace Song)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 06:19:51Z UTC
+🕐 Last updated: 2025-07-02 06:50:03Z UTC
 <!-- SPOTIFY-END -->
