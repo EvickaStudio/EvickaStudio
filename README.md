@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dd30fcbd5d7fa6ccb531cf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300ee034eb8c693c5cac740f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)**
-*by* **diggidaniel**
-*Album:* Hilflos vor dir
+**🎵 [Hidalgo](https://open.spotify.com/track/1uDABDbm65H8ubCIpKJMiE)**
+*by* **French Police**
+*Album:* Pedaleo Nocturno
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="119" height="4" fill="#1db954" rx="2"/>
-    <circle cx="119" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 3:04
+    2:16 • 3:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Ich wollte nie Museumsbauer werden](https://open.spotify.com/track/5JDhdWhjE852L0FsPdsiFE)** by **Konstantin Unwohl** *(Im Institut für Strömungstechnik)*
-🎤 **[Bei Dir](https://open.spotify.com/track/7eAz3qC8eZqM43JJUb8cSd)** by **maxel** *(Bei Dir)*
-🎤 **[Awake - Live at Studio Tessmar](https://open.spotify.com/track/106LPFFVp2Q4yx13qeYRbD)** by **orbit** *(Perspectives (Live Session))*
-🎤 **[Komm und verlieb dich in mich](https://open.spotify.com/track/7uzKcjHLbIdm95ydiMuKNC)** by **Luis Ake** *(Komm und verlieb dich in mich)*
-🎤 **[Youth](https://open.spotify.com/track/7aedw23IK5CJeCrGQxn1IC)** by **Rendez Vous** *(Rendez-Vous)*
+🎤 **[unter ihrem dress](https://open.spotify.com/track/0fUSdXwgftvDECtVpSZ2cn)** by **Dilla, emi x** *(unter ihrem dress)*
+🎤 **[Eyes](https://open.spotify.com/track/1cYIU27QEfF4u0EGSvsbFJ)** by **Motorama** *(Eyes)*
+🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[Haunted](https://open.spotify.com/track/28Eeiq05meRMWEC3IqxwdS)** by **Perverse State** *(Endurance)*
+🎤 **[Muriel](https://open.spotify.com/track/2XFKqTITVGtf5G3ppVSMt6)** by **Grafi, dissy** *(Muriel)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 14:52:07Z UTC
+🕐 Last updated: 2025-07-02 15:13:46Z UTC
 <!-- SPOTIFY-END -->
