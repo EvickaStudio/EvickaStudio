@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27348f4f3941b6c9e1c6eb0503f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273397efe5dc86951c0ef81b512" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It Should Have Been Me](https://open.spotify.com/track/4iY1U3YRGoBEgaRNlvhZyJ)**
-*by* **Gladys Knight & The Pips**
-*Album:* Feelin' Bluesy
+**🎵 [La La Peace Song](https://open.spotify.com/track/3sO121rWBWHUHzK1VAIHo4)**
+*by* **Al Wilson**
+*Album:* La La Peace Song
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="291" height="4" fill="#1db954" rx="2"/>
+    <circle cx="291" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:47
+    3:44 • 3:50
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Gotta Hold On To This Feeling](https://open.spotify.com/track/1rpSV3oxcWfykhF4JyewA7)** by **Jr. Walker & The All Stars** *(Gotta Hold On To This Feeling / What Does It Take To Win Your Love)*
+🎤 **[It Should Have Been Me](https://open.spotify.com/track/4iY1U3YRGoBEgaRNlvhZyJ)** by **Gladys Knight & The Pips** *(Feelin' Bluesy)*
+🎤 **[You've Got My Mind Messed Up](https://open.spotify.com/track/2vKLLaiKDqsway2zivLhjh)** by **James Carr** *(You Got My Mind Messed Up)*
 🎤 **[Pool Of Love](https://open.spotify.com/track/0JOmDgryKBWFgUIZ4s3H7Q)** by **Ray, Goodman & Brown** *(The Best Of Ray, Goodman & Brown)*
 🎤 **[Love Won't Let Me Wait - 45 Version](https://open.spotify.com/track/0hGlEv05CFThJmE2vmzNUu)** by **Major Harris** *(Love Won't Let Me Wait / After Loving You [Digital 45])*
-🎤 **[Hang On In There Baby](https://open.spotify.com/track/5JkyxMA5YSeq0m9N5P3LHC)** by **Johnny Bristol** *(Disco Nights)*
-🎤 **[Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc)** by **Jr. Walker & The All Stars** *(Shotgun)*
-🎤 **[Part Time Love](https://open.spotify.com/track/7mLycCjH8XrLU6KxhsyGnH)** by **Gladys Knight & The Pips** *(2nd Anniversary (Expanded Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 05:44:04Z UTC
+🕐 Last updated: 2025-07-02 05:54:07Z UTC
 <!-- SPOTIFY-END -->
