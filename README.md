@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad5cfda0e22c949378aa8d64" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273db458aeca30d6fc092847e5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Special Lady](https://open.spotify.com/track/1feLX66blOEJIO4Jtdst77)**
-*by* **Ray, Goodman & Brown**
-*Album:* Ray, Goodman & Brown
+**🎵 [Jealous Kind Of Fella](https://open.spotify.com/track/1dtKN6wwlolkM8XZy2y9C1)**
+*by* **Garland Green**
+*Album:* Jealous Kind Of Fella
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="22" height="4" fill="#1db954" rx="2"/>
-    <circle cx="22" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 4:15
+    2:07 • 2:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
-🎤 **[Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh)** by **Gregory Abbott** *(Shake You Down (Expanded Edition))*
-🎤 **[Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0)** by **Commodores** *(Commodores)*
-🎤 **[Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b)** by **Diana Ross & The Supremes** *(Reflections (Expanded Edition))*
-🎤 **[Where Peaceful Waters Flow](https://open.spotify.com/track/171QpKcPDUCJCzooUdRlSd)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Neither One Of Us (Wants To Be The First To Say Goodbye)](https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS)** by **Gladys Knight & The Pips** *(Neither One Of Us)*
+🎤 **[Tighten Up, Pt. 1](https://open.spotify.com/track/6IIcvtmuGpWIasqOpyGlyY)** by **Archie Bell & The Drells** *(Tighten Up)*
+🎤 **[Misty Blue](https://open.spotify.com/track/20JcxdRw8gvqTY1EEpYxHb)** by **Dorothy Moore** *(Misty Blue)*
+🎤 **[You Are Everything](https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g)** by **The Stylistics** *(The Stylistics - The Original Debut Album)*
+🎤 **[My World Is Empty Without You](https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh)** by **The Supremes** *(I Hear A Symphony)*
 
 
 
@@ -144,8 +144,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 01:03:38Z UTC
+🕐 Last updated: 2025-07-02 02:55:58Z UTC
 <!-- SPOTIFY-END -->
