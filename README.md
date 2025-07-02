@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273397efe5dc86951c0ef81b512" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [La La Peace Song](https://open.spotify.com/track/3sO121rWBWHUHzK1VAIHo4)**
-*by* **Al Wilson**
-*Album:* La La Peace Song
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:44 • 3:50
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Gotta Hold On To This Feeling](https://open.spotify.com/track/1rpSV3oxcWfykhF4JyewA7)** by **Jr. Walker & The All Stars** *(Gotta Hold On To This Feeling / What Does It Take To Win Your Love)*
-🎤 **[It Should Have Been Me](https://open.spotify.com/track/4iY1U3YRGoBEgaRNlvhZyJ)** by **Gladys Knight & The Pips** *(Feelin' Bluesy)*
-🎤 **[You've Got My Mind Messed Up](https://open.spotify.com/track/2vKLLaiKDqsway2zivLhjh)** by **James Carr** *(You Got My Mind Messed Up)*
-🎤 **[Pool Of Love](https://open.spotify.com/track/0JOmDgryKBWFgUIZ4s3H7Q)** by **Ray, Goodman & Brown** *(The Best Of Ray, Goodman & Brown)*
-🎤 **[Love Won't Let Me Wait - 45 Version](https://open.spotify.com/track/0hGlEv05CFThJmE2vmzNUu)** by **Major Harris** *(Love Won't Let Me Wait / After Loving You [Digital 45])*
+🎤 **[Heaven In The Rain](https://open.spotify.com/track/3n5Ej3SwdjnwMgyh6HyM6D)** by **Ray, Goodman & Brown** *(The Best Of Ray, Goodman & Brown)*
+🎤 **[What's Come over Me](https://open.spotify.com/track/5A8VvOzCZcjkVXZhANKOqj)** by **Blue Magic** *(Soulful Spell - The Best Of Blue Magic)*
+🎤 **[Three Times A Lady](https://open.spotify.com/track/0wncUWg5piLmDhn8wry8jM)** by **Commodores** *(Three Times A Lady Hit Pac)*
+🎤 **[Reachin' Out For Your Love](https://open.spotify.com/track/1N2nUNAjEVO0Lbh976iMgw)** by **Johnny Bristol** *(Hang On In There Baby)*
+🎤 **[La La Peace Song](https://open.spotify.com/track/3sO121rWBWHUHzK1VAIHo4)** by **Al Wilson** *(La La Peace Song)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 05:54:07Z UTC
+🕐 Last updated: 2025-07-02 06:19:51Z UTC
 <!-- SPOTIFY-END -->
