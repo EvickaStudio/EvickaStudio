@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a00b7112b4faa75fb61e3d69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)**
-*by* **sparr00w**
-*Album:* Bitte lass mich einfach los
+**🎵 [casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)**
+*by* **IVOXYGEN**
+*Album:* casino143
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 3:01
+    0:15 • 2:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
-🎤 **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
-🎤 **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)*
-🎤 **[Alles brennt](https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO)** by **TEMMIS** *(Alles brennt)*
+🎤 **[Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)** by **GoodBooks, Crystal Castles** *(Control Freaks (The Remixes))*
+🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
+🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
+🎤 **[Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by **uusymon** *(Stardust)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 10:14:18Z UTC
+🕐 Last updated: 2025-07-02 10:40:28Z UTC
 <!-- SPOTIFY-END -->
