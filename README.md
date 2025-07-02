@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f05fa1637fb8f219bcb55e2d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)**
+*by* **Bladee**
+*Album:* Ste The Beautiful Martyr 1st Attempt
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="295" height="4" fill="#1db954" rx="2"/>
+    <circle cx="295" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:53 • 2:56
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
+🎤 **[fahr uns bitte weit](https://open.spotify.com/track/1wW7d2zxXaHb89tGFzvrjx)** by **ghostboo** *(fahr uns bitte weit)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 🎤 **[sportwagen✰✰+++](https://open.spotify.com/track/6TWMC0MocKEwTkZQNfvHbS)** by **DANZINGER 99, AMANDUS 99** *(Hotel+++)*
 🎤 **[ich fall auf](https://open.spotify.com/track/1nzDS8uDkwp8sHEC4qfR5R)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 
 
 
@@ -126,7 +145,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🏅 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 07:48:31Z UTC
+🕐 Last updated: 2025-07-02 08:18:10Z UTC
 <!-- SPOTIFY-END -->
