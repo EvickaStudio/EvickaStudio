@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27346d76e5dcad3810835643df1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732f78de68a0de43f44c619303" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Behind Us Now](https://open.spotify.com/track/0vFMdF7dJ1tFviLICcw6yo)**
-*by* **Patti Austin**
-*Album:* Patti Austin
+**🎵 [How Sweet It Is (To Be Loved By You)](https://open.spotify.com/track/5Rb211KhnOhLLXPpt8awxU)**
+*by* **Jr. Walker & The All Stars**
+*Album:* Road Runner
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:59 • 4:59
+    2:51 • 3:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Love I Lost (feat. Teddy Pendergrass) - Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
-🎤 **[Passion](https://open.spotify.com/track/7t6rBShDDf0SObI9rLrlw6)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
-🎤 **[(I'm A) Road Runner](https://open.spotify.com/track/2wuEt9idXjHQyAKKfc5hzn)** by **Jr. Walker & The All Stars** *(Shotgun)*
-🎤 **[Every Beat of My Heart](https://open.spotify.com/track/3IAY2CRWKj16tBFDAVTJKX)** by **Gladys Knight & The Pips** *(Letter Full of Tears)*
-🎤 **[Precious, Precious](https://open.spotify.com/track/4HNUAQvD91QvdWvkmTyYml)** by **Jackie Moore** *(Sweet Charlie Babe)*
+🎤 **[Float On](https://open.spotify.com/track/7xg0Rbj3SVOVzQVJEqh5Zd)** by **The Floaters** *(The Floaters)*
+🎤 **[The Bells](https://open.spotify.com/track/3yLfTf22Z4QnjrDNVq6HQu)** by **The Originals** *(Portrait Of The Originals)*
+🎤 **[Rock Your Baby](https://open.spotify.com/track/39ZwPBjIPjXl1SlO8NKsWF)** by **George McCrae** *(Rock Your Baby)*
+🎤 **[Stop to Start](https://open.spotify.com/track/1jxI4xo29IaC2gSBb3eQcZ)** by **Blue Magic** *(Blue Magic)*
+🎤 **[Dancing to Your Music](https://open.spotify.com/track/6CP6aBUvs3QuXLHaxJD5Hj)** by **Archie Bell & The Drells** *(Dancing to Your Music)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 03:47:48Z UTC
+🕐 Last updated: 2025-07-02 04:23:28Z UTC
 <!-- SPOTIFY-END -->
