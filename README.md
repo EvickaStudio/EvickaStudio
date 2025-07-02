@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27300ee034eb8c693c5cac740f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b624b25370b43076f93cdc97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hidalgo](https://open.spotify.com/track/1uDABDbm65H8ubCIpKJMiE)**
-*by* **French Police**
-*Album:* Pedaleo Nocturno
+**🎵 [Du bist genauso..](https://open.spotify.com/track/0YGJORDkU6W3nRu69J8J9d)**
+*by* **Urbannino**
+*Album:* Du bist genauso..
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="270" height="4" fill="#1db954" rx="2"/>
+    <circle cx="270" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 3:02
+    2:39 • 2:56
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[unter ihrem dress](https://open.spotify.com/track/0fUSdXwgftvDECtVpSZ2cn)** by **Dilla, emi x** *(unter ihrem dress)*
-🎤 **[Eyes](https://open.spotify.com/track/1cYIU27QEfF4u0EGSvsbFJ)** by **Motorama** *(Eyes)*
-🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Haunted](https://open.spotify.com/track/28Eeiq05meRMWEC3IqxwdS)** by **Perverse State** *(Endurance)*
-🎤 **[Muriel](https://open.spotify.com/track/2XFKqTITVGtf5G3ppVSMt6)** by **Grafi, dissy** *(Muriel)*
+🎤 **[Amarillo](https://open.spotify.com/track/2v9un3fiEBWQperAt7NyKx)** by **Konstantin Unwohl** *(Im Institut für Strömungstechnik)*
+🎤 **[Eldest Sister](https://open.spotify.com/track/6YKlxj6cqKDs6rfs0jzKJO)** by **Evanora Unlimited** *(Lustful Expanse)*
+🎤 **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)*
+🎤 **[Pirouette](https://open.spotify.com/track/6tu82VxI7sN4zdeQd19H9f)** by **Lil Narnia** *(Wisteria)*
+🎤 **[Lost n_u](https://open.spotify.com/track/6GH0we8qNjbpaVTX0ixdWF)** by **Occult X** *(Lost n_u)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 15:13:46Z UTC
+🕐 Last updated: 2025-07-02 15:34:29Z UTC
 <!-- SPOTIFY-END -->
