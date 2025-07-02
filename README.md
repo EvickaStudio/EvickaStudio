@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)**
-*by* **Yung Hurn, EN6O**
-*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:28
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)*
-🎤 **[Doktorspiele - English Version](https://open.spotify.com/track/7CSJZbmQd5YsNdwYfeGsNj)** by **Alex C., Yass** *(Euphoria (International Edition))*
-🎤 **[Want To Love - Just Raw](https://open.spotify.com/track/3DJsIwc3Z9scW5yR3wnyjf)** by **Aloboi** *(Raw Tracks and Reworks)*
-🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
-🎤 **[Faster n Harder](https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV)** by **6arelyhuman** *(Internet Famous)*
+🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
+🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5)** by **Mietze Conte** *(Mietzee)*
+🎤 **[Unendlichkeit (Remix)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN)** by **MilleniumKid, JBS, The Boy The G** *(Unendlichkeit (Remix))*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 12:25:41Z UTC
+🕐 Last updated: 2025-07-02 13:06:50Z UTC
 <!-- SPOTIFY-END -->
