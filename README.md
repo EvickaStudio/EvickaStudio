@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b624b25370b43076f93cdc97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27388065a2343eea43d9d6237f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Du bist genauso..](https://open.spotify.com/track/0YGJORDkU6W3nRu69J8J9d)**
-*by* **Urbannino**
-*Album:* Du bist genauso..
+**🎵 [Du trägst keine Liebe in dir](https://open.spotify.com/track/164e7qDCVo5DN43cWMKT6q)**
+*by* **SALÒ**
+*Album:* Du trägst keine Liebe in dir
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 2:56
+    0:44 • 3:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Amarillo](https://open.spotify.com/track/2v9un3fiEBWQperAt7NyKx)** by **Konstantin Unwohl** *(Im Institut für Strömungstechnik)*
-🎤 **[Eldest Sister](https://open.spotify.com/track/6YKlxj6cqKDs6rfs0jzKJO)** by **Evanora Unlimited** *(Lustful Expanse)*
-🎤 **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)*
-🎤 **[Pirouette](https://open.spotify.com/track/6tu82VxI7sN4zdeQd19H9f)** by **Lil Narnia** *(Wisteria)*
-🎤 **[Lost n_u](https://open.spotify.com/track/6GH0we8qNjbpaVTX0ixdWF)** by **Occult X** *(Lost n_u)*
+🎤 **[rave](https://open.spotify.com/track/6j1EmlyByUmp3Xu5B3r17a)** by **Saiya Tiaw** *(rave)*
+🎤 **[Trymaju - Luis Ake Remix](https://open.spotify.com/track/70djI0fC7yoKhvP6i0jm0o)** by **Nürnberg, Luis Ake** *(Paharda (Remixes))*
+🎤 **[BELPHEGOR](https://open.spotify.com/track/1Z5DRYyDblfgEY5MAoUVkC)** by **elithesleepgod** *(BELPHEGOR)*
+🎤 **[fallen](https://open.spotify.com/track/65qo8OLrleFH5bUOsDxRUo)** by **GAST** *(fallen)*
+🎤 **[nacht](https://open.spotify.com/track/00AqOgHE0XPiRbSkAfOe3K)** by **Ignaz** *(change)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 15:34:29Z UTC
+🕐 Last updated: 2025-07-02 15:51:28Z UTC
 <!-- SPOTIFY-END -->
