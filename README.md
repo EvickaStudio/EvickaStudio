@@ -107,12 +107,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732f78de68a0de43f44c619303" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27304cf3e07d4f8555879aaf1ba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [How Sweet It Is (To Be Loved By You)](https://open.spotify.com/track/5Rb211KhnOhLLXPpt8awxU)**
+**🎵 [Take Me Girl, I'm Ready](https://open.spotify.com/track/2SFH3yc7xD8rnXJgK30LoT)**
 *by* **Jr. Walker & The All Stars**
-*Album:* Road Runner
+*Album:* Rainbow Funk
 
 
 <p align="center">
@@ -123,7 +123,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:51 • 3:02
+    3:46 • 4:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Float On](https://open.spotify.com/track/7xg0Rbj3SVOVzQVJEqh5Zd)** by **The Floaters** *(The Floaters)*
-🎤 **[The Bells](https://open.spotify.com/track/3yLfTf22Z4QnjrDNVq6HQu)** by **The Originals** *(Portrait Of The Originals)*
-🎤 **[Rock Your Baby](https://open.spotify.com/track/39ZwPBjIPjXl1SlO8NKsWF)** by **George McCrae** *(Rock Your Baby)*
-🎤 **[Stop to Start](https://open.spotify.com/track/1jxI4xo29IaC2gSBb3eQcZ)** by **Blue Magic** *(Blue Magic)*
-🎤 **[Dancing to Your Music](https://open.spotify.com/track/6CP6aBUvs3QuXLHaxJD5Hj)** by **Archie Bell & The Drells** *(Dancing to Your Music)*
+🎤 **[Storms of Troubled Times](https://open.spotify.com/track/1YbeoGR0yDx2QwIDKjrdYS)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[God Bless Whoever Sent You](https://open.spotify.com/track/2dnUxyCOfoMgQQbMZprkof)** by **The Originals** *(Superstar Series - Celebrating Motown's Twentieth Anniversary)*
+🎤 **[Three Ring Circus](https://open.spotify.com/track/78JkN8xN065YM5ZZP9x8he)** by **Blue Magic** *(Soulful Spell - The Best Of Blue Magic)*
+🎤 **[Medley: I Won't Last a Day Without You / Let Me Be the One](https://open.spotify.com/track/0Pvip11A1LDfZxExGmYWiv)** by **Al Wilson** *(La La Peace Song)*
+🎤 **[(If Loving You is Wrong) I Don't Want to Be Right - 2022 Remaster](https://open.spotify.com/track/4lKXoHLe4CYxeUbps63FDz)** by **Luther Ingram** *(Absolutely the Best of Luther Ingram (If Loving You is Wrong) I Don't Want to Be Right (Deluxe Edition) [2022 Remaster])*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 04:23:28Z UTC
+🕐 Last updated: 2025-07-02 04:48:55Z UTC
 <!-- SPOTIFY-END -->
