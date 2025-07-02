@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b3142a2c80952b6bf706681e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f9c903069dab033b532c4f7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Here I Go Again](https://open.spotify.com/track/766SLubGdNRCoBFfTue0AY)**
-*by* **Archie Bell & The Drells**
-*Album:* There's Gonna Be A Showdown
+**🎵 [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)**
+*by* **Gladys Knight & The Pips**
+*Album:* Imagination (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
+    <rect width="106" height="4" fill="#1db954" rx="2"/>
+    <circle cx="106" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 2:13
+    1:39 • 4:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Break Up To Make Up](https://open.spotify.com/track/7lM1UzajLd21s1ZuRfpGgA)** by **The Stylistics** *(The Best Of The Stylistics)*
-🎤 **[Walk In The Night](https://open.spotify.com/track/0C4CdjZponKJGIaTvLVP53)** by **Jr. Walker & The All Stars** *(Moody Jr.)*
-🎤 **[The Way It Should Be](https://open.spotify.com/track/5nhaRwO8z9A9dS3EhRS94G)** by **Ray, Goodman & Brown** *(Ray, Goodman & Brown)*
-🎤 **[Just Don't Want to Be Lonely](https://open.spotify.com/track/48IWmxvjgnWJ7V6eyE7qDw)** by **Blue Magic** *(Blue Magic)*
-🎤 **[The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ)** by **Smokey Robinson & The Miracles** *(Going To A Go-Go)*
+🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
+🎤 **[SAMBUCA 2](https://open.spotify.com/track/4X9GzubG8MdUXx1TkPZqUO)** by **Palmistry** *(T2)*
+🎤 **[flash](https://open.spotify.com/track/46bUjfJt7SVePcWtBVKa7W)** by **2hollis** *(star)*
+🎤 **[Working My Way Back to You / Forgive Me, Girl](https://open.spotify.com/track/2BfQU2QWF3gFasnjKfpVFU)** by **The Spinners** *(The Platinum Collection)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 07:13:31Z UTC
+🕐 Last updated: 2025-07-02 07:31:28Z UTC
 <!-- SPOTIFY-END -->
