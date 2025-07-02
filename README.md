@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27304cf3e07d4f8555879aaf1ba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Take Me Girl, I'm Ready](https://open.spotify.com/track/2SFH3yc7xD8rnXJgK30LoT)**
-*by* **Jr. Walker & The All Stars**
-*Album:* Rainbow Funk
+**🎵 [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA)**
+*by* **Commodores**
+*Album:* Commodores
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
+    <rect width="236" height="4" fill="#1db954" rx="2"/>
+    <circle cx="236" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:46 • 4:01
+    3:22 • 4:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Storms of Troubled Times](https://open.spotify.com/track/1YbeoGR0yDx2QwIDKjrdYS)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[God Bless Whoever Sent You](https://open.spotify.com/track/2dnUxyCOfoMgQQbMZprkof)** by **The Originals** *(Superstar Series - Celebrating Motown's Twentieth Anniversary)*
-🎤 **[Three Ring Circus](https://open.spotify.com/track/78JkN8xN065YM5ZZP9x8he)** by **Blue Magic** *(Soulful Spell - The Best Of Blue Magic)*
-🎤 **[Medley: I Won't Last a Day Without You / Let Me Be the One](https://open.spotify.com/track/0Pvip11A1LDfZxExGmYWiv)** by **Al Wilson** *(La La Peace Song)*
-🎤 **[(If Loving You is Wrong) I Don't Want to Be Right - 2022 Remaster](https://open.spotify.com/track/4lKXoHLe4CYxeUbps63FDz)** by **Luther Ingram** *(Absolutely the Best of Luther Ingram (If Loving You is Wrong) I Don't Want to Be Right (Deluxe Edition) [2022 Remaster])*
+🎤 **[These Eyes](https://open.spotify.com/track/3bCElt3VUnMl1piGwMol3f)** by **Jr. Walker & The All Stars** *(Gotta Hold On To This Feeling / What Does It Take To Win Your Love)*
+🎤 **[Help Me Make It Through The Night](https://open.spotify.com/track/01gc96njmCGB8VFS3wPKyC)** by **Gladys Knight & The Pips** *(Standing Ovation)*
+🎤 **[I Like Your Style](https://open.spotify.com/track/37M42ILI7qQZJwfAGw40dk)** by **The Originals** *(Portrait Of The Originals)*
+🎤 **[You And I](https://open.spotify.com/track/4hciqwt20fn3JZ998GkpWz)** by **Johnny Bristol** *(Hang On In There Baby)*
+🎤 **[Oh Girl](https://open.spotify.com/track/0cFlXjTxFdMGGPfLVpt3Wv)** by **The Chi-Lites** *(20 Greatest Hits)*
 
 
 
@@ -144,8 +144,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 04:48:55Z UTC
+🕐 Last updated: 2025-07-02 05:15:33Z UTC
 <!-- SPOTIFY-END -->
