@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273417b2794be7fc442d1558d3c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Youth](https://open.spotify.com/track/7aedw23IK5CJeCrGQxn1IC)**
+*by* **Rendez Vous**
+*Album:* Rendez-Vous
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    4:05 • 5:04
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
-🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
+🎤 **[Haut an Haut](https://open.spotify.com/track/43npphURzkZ9nwXcV0EoLN)** by **diggidaniel** *(Haut an Haut)*
+🎤 **[Miss Me](https://open.spotify.com/track/37VBx7dOJoPbujBNhhyDOS)** by **Darcy Baylis, foxwedding** *(Miss Me / Morphine)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5)** by **Mietze Conte** *(Mietzee)*
-🎤 **[Unendlichkeit (Remix)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN)** by **MilleniumKid, JBS, The Boy The G** *(Unendlichkeit (Remix))*
+🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-02 14:12:58Z UTC
+🕐 Last updated: 2025-07-02 14:35:20Z UTC
 <!-- SPOTIFY-END -->
