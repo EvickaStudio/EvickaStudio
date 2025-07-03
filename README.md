@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27350f1eee85264bdb932d0cfc5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730b92315857819fc4a1592160" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Herzschlag Der Figur](https://open.spotify.com/track/1MfMkM8w6S7vECu4NwjacQ)**
-*by* **Die Selektion**
-*Album:* Herzschlag Der Figur
+**🎵 [LUST](https://open.spotify.com/track/7iuUnyDkX9xeQ7uFrBOqPI)**
+*by* **Julian Klincewicz**
+*Album:* HEY, I LIKE YOU
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 5:23
+    3:24 • 4:37
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Боль](https://open.spotify.com/track/076qI7V5F8Qz1LFASBFvW8)** by **культодиночества** *(Истлеть)*
-🎤 **[Zakochany Czlowiek](https://open.spotify.com/track/7kgpcoTkhTl4Enq7kOvYuT)** by **Better Person** *(Zakochany Czlowiek)*
-🎤 **[Tag//Nacht](https://open.spotify.com/track/1YuF8Cb72HyZrlwWITakq4)** by **The Doomers** *(Zeitlos)*
-🎤 **[Lost n_u](https://open.spotify.com/track/6GH0we8qNjbpaVTX0ixdWF)** by **Occult X** *(Lost n_u)*
-🎤 **[Young Love](https://open.spotify.com/track/6d7HIswP9Be5QahNkBQx2X)** by **Wisteria** *(Young Love)*
+🎤 **[zwei](https://open.spotify.com/track/6zoVzjPG0ZCxEEKe6PjZq3)** by **Obernauer** *(zwei)*
+🎤 **[mfw you](https://open.spotify.com/track/7CWTuhQ0cwDwzHufYqSzwt)** by **Janek Hru** *(not even close)*
+🎤 **[sleep alone.° ੈ✩](https://open.spotify.com/track/3QYvvVgyt15Tz4ty8AnTeq)** by **Flawless Issues** *(sleep alone.° ੈ✩)*
+🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
+🎤 **[Humblekids](https://open.spotify.com/track/6thbyav4GpfxBWhJu2AcTp)** by **Fiasko Leitmotiv** *(Humblekids)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-03 15:51:13Z UTC
+🕐 Last updated: 2025-07-03 16:15:59Z UTC
 <!-- SPOTIFY-END -->
