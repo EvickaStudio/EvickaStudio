@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d64680504dfbcf7b21096907" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)**
-*by* **RYLO, veil**
-*Album:* tränen statt wut
+**🎵 [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)**
+*by* **Basement**
+*Album:* Colourmeinkindness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="143" height="4" fill="#1db954" rx="2"/>
-    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 2:32
+    0:33 • 3:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
-🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[Overdrive](https://open.spotify.com/track/7LpF77VCwHLyEumWMlunVN)** by **Hinoni** *(Hinoni)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
+🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
+🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
+🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)*
+🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-03 14:34:58Z UTC
+🕐 Last updated: 2025-07-03 14:51:55Z UTC
 <!-- SPOTIFY-END -->
