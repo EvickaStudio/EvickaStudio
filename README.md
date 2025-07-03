@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737f12309621ff3786376b1b63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eae6dacbb4f9e1540be0c603" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Weird Science (Don't Leave My Arms)](https://open.spotify.com/track/6pgDGpVbuEugw7LHURnciw)**
-*by* **Current Joys**
-*Album:* Young Love / No One Will Dance / Neon Gold
+**🎵 [Spectral Tease](https://open.spotify.com/track/5ZTd8bac69tY3TYh1i4oxH)**
+*by* **Mareux**
+*Album:* Spectral Tease
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 2:31
+    0:40 • 5:05
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Bei dir ist noch Licht](https://open.spotify.com/track/2pPwlYvRRDv1PTAJyrDmk7)** by **Silberstreif** *(Sowas von egal (German Synth Wave Underground 1980-85))*
-🎤 **[Transit](https://open.spotify.com/track/5I7BreTXtP6xbYgqDt2Rea)** by **Body Maintenance** *(Body Maintenance)*
-🎤 **[Tu nombre](https://open.spotify.com/track/12ehwLASNQnazJlc13PHaP)** by **Climas Interiores** *(El Olvido)*
-🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
+🎤 **[ich laufe vor mir davon](https://open.spotify.com/track/5Zw6O0pYVGNN1eZ5jLJQwY)** by **BRUCH** *(ich laufe vor mir davon)*
+🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
+🎤 **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)*
+🎤 **[Youth](https://open.spotify.com/track/7aedw23IK5CJeCrGQxn1IC)** by **Rendez Vous** *(Rendez-Vous)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-03 20:13:20Z UTC
+🕐 Last updated: 2025-07-03 20:33:06Z UTC
 <!-- SPOTIFY-END -->
