@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Faceless](https://open.spotify.com/track/5wUz9G4VleMTx6UJOM0GCj)** by **Kontravoid** *(Faceless)*
 🎤 **[Saturdays In Silesia](https://open.spotify.com/track/1pEK8Eh8NjkRzxONSvQsOa)** by **Rational Youth** *(Cold War Night Life (Expanded))*
 🎤 **[Eldest Sister](https://open.spotify.com/track/6YKlxj6cqKDs6rfs0jzKJO)** by **Evanora Unlimited** *(Lustful Expanse)*
 🎤 **[unter ihrem dress](https://open.spotify.com/track/0fUSdXwgftvDECtVpSZ2cn)** by **Dilla, emi x** *(unter ihrem dress)*
 🎤 **[Andere Stadt](https://open.spotify.com/track/07GcgjiwrCl2mE9c05be24)** by **TEMMIS** *(Wenn du da bist)*
-🎤 **[LUST](https://open.spotify.com/track/7iuUnyDkX9xeQ7uFrBOqPI)** by **Julian Klincewicz** *(HEY, I LIKE YOU)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-03 17:33:59Z UTC
+🕐 Last updated: 2025-07-03 17:50:07Z UTC
 <!-- SPOTIFY-END -->
