@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730b92315857819fc4a1592160" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [LUST](https://open.spotify.com/track/7iuUnyDkX9xeQ7uFrBOqPI)**
-*by* **Julian Klincewicz**
-*Album:* HEY, I LIKE YOU
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:24 • 4:37
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[zwei](https://open.spotify.com/track/6zoVzjPG0ZCxEEKe6PjZq3)** by **Obernauer** *(zwei)*
-🎤 **[mfw you](https://open.spotify.com/track/7CWTuhQ0cwDwzHufYqSzwt)** by **Janek Hru** *(not even close)*
-🎤 **[sleep alone.° ੈ✩](https://open.spotify.com/track/3QYvvVgyt15Tz4ty8AnTeq)** by **Flawless Issues** *(sleep alone.° ੈ✩)*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
-🎤 **[Humblekids](https://open.spotify.com/track/6thbyav4GpfxBWhJu2AcTp)** by **Fiasko Leitmotiv** *(Humblekids)*
+🎤 **[Saturdays In Silesia](https://open.spotify.com/track/1pEK8Eh8NjkRzxONSvQsOa)** by **Rational Youth** *(Cold War Night Life (Expanded))*
+🎤 **[Eldest Sister](https://open.spotify.com/track/6YKlxj6cqKDs6rfs0jzKJO)** by **Evanora Unlimited** *(Lustful Expanse)*
+🎤 **[unter ihrem dress](https://open.spotify.com/track/0fUSdXwgftvDECtVpSZ2cn)** by **Dilla, emi x** *(unter ihrem dress)*
+🎤 **[Andere Stadt](https://open.spotify.com/track/07GcgjiwrCl2mE9c05be24)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[LUST](https://open.spotify.com/track/7iuUnyDkX9xeQ7uFrBOqPI)** by **Julian Klincewicz** *(HEY, I LIKE YOU)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-03 16:15:59Z UTC
+🕐 Last updated: 2025-07-03 16:47:13Z UTC
 <!-- SPOTIFY-END -->
