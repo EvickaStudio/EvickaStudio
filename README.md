@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)**
-*by* **Basement**
-*Album:* Colourmeinkindness
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 3:47
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
+🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
 🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
 🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
 🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)*
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-03 14:51:55Z UTC
+🕐 Last updated: 2025-07-03 15:13:48Z UTC
 <!-- SPOTIFY-END -->
