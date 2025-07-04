@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27395c274d0b7efa59eaeca6153" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e6780192c665fa69f6c69ca3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Chikyu-u 002](https://open.spotify.com/track/1xV07RDwmg4DUBqCYkv1pK)**
-*by* **R.M**
-*Album:* Chikyu-u 001/002
+**🎵 [Zero Gravity](https://open.spotify.com/track/3t77AfBKRaeOFd2NDHVduK)**
+*by* **Brickman**
+*Album:* Reflections
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:24 • 9:23
+    2:04 • 7:06
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Bleu Mood](https://open.spotify.com/track/1azldKFvU6qiXKS7ClpkLd)** by **Mara Lakour** *(Various, Vol. 2)*
+🎤 **[Chikyu-u 002](https://open.spotify.com/track/1xV07RDwmg4DUBqCYkv1pK)** by **R.M** *(Chikyu-u 001/002)*
 🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
 🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
 🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
-🎤 **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-04 19:34:19Z UTC
+🕐 Last updated: 2025-07-04 19:47:35Z UTC
 <!-- SPOTIFY-END -->
