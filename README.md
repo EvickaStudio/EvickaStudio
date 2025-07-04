@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273232e85d4b66ee90ffb20afdd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f1ce2fb546f0b71e5efa6592" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [yk](https://open.spotify.com/track/0bmD3On2Crm4VzgGTLS0jW)**
-*by* **Yatsu, Yungmon**
-*Album:* Let's Go!!
+**🎵 [they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)**
+*by* **Dignified Burial, æmilia**
+*Album:* they should have found me by now
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
+    <rect width="267" height="4" fill="#1db954" rx="2"/>
+    <circle cx="267" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:05
+    2:49 • 3:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[WMY](https://open.spotify.com/track/2Rfqe3HAShk2WL6wFtd0Zr)** by **Yatsu** *(Let's Go!!)*
-🎤 **[sturm (intro)](https://open.spotify.com/track/7H10OujscJUwECkEpfU34s)** by **DAN.I, Aloboi** *(sturm (intro))*
-🎤 **[KADEWE](https://open.spotify.com/track/5GLCXSfW6jg5yPeaMx5Obj)** by **Maikel** *(KADEWE)*
-🎤 **[KADEWE](https://open.spotify.com/track/5GLCXSfW6jg5yPeaMx5Obj)** by **Maikel** *(KADEWE)*
-🎤 **[Mein Kanak](https://open.spotify.com/track/0M5atMaXIrmTea4ZPsw3U4)** by **babyhauro** *(Mein Kanak)*
+🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
+🎤 **[Past](https://open.spotify.com/track/1sRNGDQoPQ08mpw986TIrH)** by **MW_** *(Inside)*
+🎤 **[SBB](https://open.spotify.com/track/2Dy5hWZ36ACRJK4DrpQt5A)** by **Wintercastle, Dj Foreign Money, gard** *(Champions League)*
+🎤 **[MESSAGES!](https://open.spotify.com/track/5CT8H8lEFdrehHSSFamR8g)** by **xaduma, Pr0xy, morecalcium** *(MESSAGES!)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**großstadt lifestyle**](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)
 
 
-🕐 Last updated: 2025-07-04 08:17:46Z UTC
+🕐 Last updated: 2025-07-04 08:46:33Z UTC
 <!-- SPOTIFY-END -->
