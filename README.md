@@ -106,26 +106,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a40e4b29bfacc9ef505b86d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)**
-*by* **Black**
-*Album:* Wonderful Life
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:30 • 4:47
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-05 19:09:59Z UTC
+🕐 Last updated: 2025-07-05 19:23:43Z UTC
 <!-- SPOTIFY-END -->
