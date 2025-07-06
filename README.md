@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27304ab6ae778994959dbc3a694" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373b3f8aa709236fc885b859b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)**
-*by* **Eera**
-*Album:* Not Now
+**🎵 [Always](https://open.spotify.com/track/7Lg4dEz9IVE5iUILPEdyUv)**
+*by* **camoufly**
+*Album:* In Plain Sight
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="146" height="4" fill="#1db954" rx="2"/>
-    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 3:30
+    0:40 • 2:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Butterflies](https://open.spotify.com/track/6QS2LVMAXz7FmjYxWGJU8M)** by **TV Girl, George Clanton, Jordana** *(Fauxllennium)*
+🎤 **[words - Higgo Remix](https://open.spotify.com/track/1HzVoPGDJajmXaEOzjEdwN)** by **piri, Tommy Villiers, Higgo** *(words (Higgo Remix))*
+🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/0yprHxnEj3ItXtnU4jUFF9)** by **Fred again.., Swedish House Mafia, Future** *(USB)*
+🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
 🎤 **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)*
-🎤 **[Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5)** by **BICEP, Clara La San** *(Water)*
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
-🎤 **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-06 13:36:22Z UTC
+🕐 Last updated: 2025-07-06 13:49:36Z UTC
 <!-- SPOTIFY-END -->
