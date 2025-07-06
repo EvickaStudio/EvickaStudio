@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273522bf1cf2904eb73ccf11259" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273adedda73f789c0e9c55765b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dreiklangsdimensionen - Remastered 2005](https://open.spotify.com/track/6T5M7HGvF8YBh2fxhYDyML)**
-*by* **Rheingold**
-*Album:* Rheingold (Remastered 2005)
+**🎵 [Lovers](https://open.spotify.com/track/1RwxKES3r0aRHiREuyPqeM)**
+*by* **Streetmark**
+*Album:* Dry
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:11 • 5:53
+    0:48 • 5:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Wie a Glock'n...](https://open.spotify.com/track/1bspyBk1HTTLlLgI9PRDzO)** by **Marianne Mendt** *(Wie a Glock'n...)*
+🎤 **[Sieh mal an](https://open.spotify.com/track/2YPe5ibjZIBI9KQPCh8YdC)** by **Horst Krüger-Band** *(Die Tagesreise)*
+🎤 **[Sonntag](https://open.spotify.com/track/5h97jNsdDe83UD6HaIehve)** by **Manfred Krug** *(Ein Hauch Von Frühling)*
+🎤 **[Dreiklangsdimensionen - Remastered 2005](https://open.spotify.com/track/6T5M7HGvF8YBh2fxhYDyML)** by **Rheingold** *(Rheingold (Remastered 2005))*
 🎤 **[Monotonie](https://open.spotify.com/track/0pbz8TUuSPhG4poXauYUAI)** by **Ideal** *(Der Ernst des Lebens)*
-🎤 **[Am Abend mancher Tage](https://open.spotify.com/track/2stqQvn6vBUnO1XWAynqe1)** by **Lift** *(Mein Herz soll ein Wasser sein)*
-🎤 **[Die Allee](https://open.spotify.com/track/2qrZxuNDgemNwd73OF0kcp)** by **Horst Krüger-Band** *(hallo 22 (DDR Funk & Soul von 1971 - 1981) [Kompiliert von Max Herre & Dexter])*
-🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
-🎤 **[I Can See Clearly Now](https://open.spotify.com/track/17WBjhf0bGnd4dK7ofbQW0)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-06 15:30:12Z UTC
+🕐 Last updated: 2025-07-06 15:42:11Z UTC
 <!-- SPOTIFY-END -->
