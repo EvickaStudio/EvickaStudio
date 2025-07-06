@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9fec03e89474c832fd88595" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX)**
-*by* **Riovaz, Kanii**
-*Album:* waiting alonE
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="156" height="4" fill="#1db954" rx="2"/>
-    <circle cx="156" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 2:53
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[It's Summer](https://open.spotify.com/track/1wXV1nHOUn6AqhVm5OWtd9)** by **Gladys Knight & The Pips** *(Nitty Gritty)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX)** by **Riovaz, Kanii** *(waiting alonE)*
 🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
 🎤 **[We R Who We R](https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd)** by **Kesha** *(Cannibal (Expanded Edition))*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-06 11:47:46Z UTC
+🕐 Last updated: 2025-07-06 12:22:55Z UTC
 <!-- SPOTIFY-END -->
