@@ -118,12 +118,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 3:33
+    1:43 • 3:33
 </span>
 </p>
 
@@ -133,9 +133,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
 🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
-🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
+🎤 **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)*
+🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-06 20:50:03Z UTC
+🕐 Last updated: 2025-07-06 21:11:15Z UTC
 <!-- SPOTIFY-END -->
