@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27363013c4f0b1e142703aaa21e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [X](https://open.spotify.com/track/2ig0bjq1eYFX4nvJbjZPmd)**
-*by* **Ocboyblau**
-*Album:* X
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:18
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)** by **Dean Blunt, TYSON** *(Rinsed)*
+🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
+🎤 **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)*
+🎤 **[X](https://open.spotify.com/track/2ig0bjq1eYFX4nvJbjZPmd)** by **Ocboyblau** *(X)*
 🎤 **[Bastille](https://open.spotify.com/track/5w6w6tzud97TSCc4467VXc)** by **TM, Ezco 44** *(Abchecks & Sunsets)*
-🎤 **[hood ist am weinen](https://open.spotify.com/track/043U9dGolu4VSIfGWVlfMF)** by **OVE, TM** *(hood ist am weinen)*
-🎤 **[Äquator](https://open.spotify.com/track/1SnWg35HlU8sn4X4Yi3N0v)** by **Yung Kafa & Kücük Efendi** *(Dickicht)*
-🎤 **[Helle Blaue Jeans - Rmx](https://open.spotify.com/track/5OAEeKYLvpZB3LXpQejhuh)** by **Jack Bump, Lucky L** *(Teufelskreis Tape)*
-🎤 **[Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-06 14:11:18Z UTC
+🕐 Last updated: 2025-07-06 14:30:52Z UTC
 <!-- SPOTIFY-END -->
