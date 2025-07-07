@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735816f1231a4d46036122edc6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Stuck In My Mind](https://open.spotify.com/track/6RkH6XZeVHhcKkvzre2Cwj)**
-*by* **Odysseus**
-*Album:* Stuck In My Mind
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:50 • 5:16
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Love GT](https://open.spotify.com/track/5roP8U3zzKrUnsV98uWg3Q)** by **Rad&Co** *(Love GT)*
-🎤 **[Lijnbaan Dubb](https://open.spotify.com/track/2skWsDVCQQlpMPCVnp7Xzj)** by **Malin Genie, Per Hammar** *(Scania)*
-🎤 **[Not Your Type](https://open.spotify.com/track/77cNv0DURtX2W87RKaX8qU)** by **Sideluv** *(Not Your Type)*
-🎤 **[Feeling Blue](https://open.spotify.com/track/4RHRb1GhgAsw3uM69k96xt)** by **Palmate** *(Above the Horizon)*
-🎤 **[Shimmer](https://open.spotify.com/track/0PPNWbGBpB2TcWq7QVnqGD)** by **Fullempty** *(Shimmer)*
+🎤 **[Do You Feel It Too?](https://open.spotify.com/track/5dQoiKWoAxqIkVzHZsyOTN)** by **Monolithic** *(Here And Now)*
+🎤 **[Only You](https://open.spotify.com/track/1HyVvliLnZ8FTwXTrkaie0)** by **Sideluv, Digital Tourist** *(Only You)*
+🎤 **[Cool Kids](https://open.spotify.com/track/377BAzWMgxB9nd6iGKDco5)** by **GIJS** *(Cool Kids)*
+🎤 **[Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3)** by **Fullempty** *(Every Day 2005)*
+🎤 **[Stuck In My Mind](https://open.spotify.com/track/6RkH6XZeVHhcKkvzre2Cwj)** by **Odysseus** *(Stuck In My Mind)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 21:49:37Z UTC
+🕐 Last updated: 2025-07-07 22:12:58Z UTC
 <!-- SPOTIFY-END -->
