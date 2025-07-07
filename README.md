@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730141e06842581735bbfd50dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731a0ad85a5dd15cb498f79358" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Расскажи мне всё](https://open.spotify.com/track/2ufVMmXetQZ3Zzh1OK286u)**
-*by* **emosplash**
-*Album:* Код 102
+**🎵 [Turismo](https://open.spotify.com/track/13BZC0WZY2UBSyGla9zeG0)**
+*by* **Vrdnyn**
+*Album:* Turismo
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="255" height="4" fill="#1db954" rx="2"/>
+    <circle cx="255" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 3:19
+    1:58 • 2:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
-🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
-🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **Pathetic** *(2008)*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt)** by **adore** *(did i tell u that i miss u)*
-🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
+🎤 **[ok, i can love u.](https://open.spotify.com/track/4Cq1MwoRZZpsNJ8MlWNVCb)** by **witxoutessence, Nakedleisure** *(ok, i can love u.)*
+🎤 **[Veno](https://open.spotify.com/track/74b2CQJhjhf9zTNzbYyUj1)** by **Fullempty** *(Veno)*
+🎤 **[меланхолия нимфоманки](https://open.spotify.com/track/6KKL9RAnoPWNimC6TwLhQO)** by **vecher 1998** *(меланхолия нимфоманки)*
+🎤 **[Код 102](https://open.spotify.com/track/2YqXFGaCdwDartqPVJCtti)** by **emosplash, Avenax** *(Код 102)*
+🎤 **[Loveless](https://open.spotify.com/track/7Em9XS5HLzAqzNAkL7pe4S)** by **Gygas** *(Nothing Is Creatied. Nothing Is Destroyed. Everything Is Transformed)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 17:11:57Z UTC
+🕐 Last updated: 2025-07-07 17:33:40Z UTC
 <!-- SPOTIFY-END -->
