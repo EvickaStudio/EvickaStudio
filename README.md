@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273764ef5f24230e647c64406d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27321e04d27cc28812e95728614" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Feeling Blue](https://open.spotify.com/track/4RHRb1GhgAsw3uM69k96xt)**
-*by* **Palmate**
-*Album:* Above the Horizon
+**🎵 [Lijnbaan Dubb](https://open.spotify.com/track/2skWsDVCQQlpMPCVnp7Xzj)**
+*by* **Malin Genie, Per Hammar**
+*Album:* Scania
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 4:07
+    5:37 • 8:35
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Not Your Type](https://open.spotify.com/track/77cNv0DURtX2W87RKaX8qU)** by **Sideluv** *(Not Your Type)*
+🎤 **[Feeling Blue](https://open.spotify.com/track/4RHRb1GhgAsw3uM69k96xt)** by **Palmate** *(Above the Horizon)*
 🎤 **[Shimmer](https://open.spotify.com/track/0PPNWbGBpB2TcWq7QVnqGD)** by **Fullempty** *(Shimmer)*
 🎤 **[México Grand Prix](https://open.spotify.com/track/5ZOntYjoJgWEd5rqBUqN6n)** by **Odysseus** *(Y2K)*
 🎤 **[endless nights](https://open.spotify.com/track/7iSF70iXUw1OW44bDfR4k9)** by **Nvrtheless** *(endless nights)*
-🎤 **[Solar](https://open.spotify.com/track/5nHpvzyYqWqYP83uDLoSiV)** by **Mara Lakour** *(NRMND002 EP)*
-🎤 **[From 98](https://open.spotify.com/track/3gULk6p3DN9bFahGL3d1HY)** by **infime** *(From 98)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 21:28:45Z UTC
+🕐 Last updated: 2025-07-07 21:40:23Z UTC
 <!-- SPOTIFY-END -->
