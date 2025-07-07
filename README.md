@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738cf2e63811e0aa79df293bb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Released Dubb - Mihai Popoviciu Radio Edit](https://open.spotify.com/track/787BnnXEc77OMX0IE0wnPs)**
-*by* **Per Hammar**
-*Album:* Released EP
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:51
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Illusions - Radio-Edit](https://open.spotify.com/track/5onIt4dYZZN7GuuBIe2MzS)** by **Brickman** *(Reflections)*
-🎤 **[Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W)** by **Vrdnyn** *(Shoreditch)*
-🎤 **[Inhale](https://open.spotify.com/track/6BLjMWYOlcVC87cJtE8eIO)** by **Mara Lakour** *(NRMND002 EP)*
-🎤 **[Fractal](https://open.spotify.com/track/6KwBWp8GovMYJFrLi2g3sH)** by **Frink** *(Sutil)*
-🎤 **[Fascination](https://open.spotify.com/track/678s3GakaG4KIQ1aWt1M68)** by **Horsemen** *(Earthquake VA)*
+🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
+🎤 **[Paradise](https://open.spotify.com/track/2kKMxha1iB9SSosC7S3AXF)** by **dentist** *(Paradise)*
+🎤 **[Feel The Piano](https://open.spotify.com/track/62i0meK1L0UqQf3uNQY2BY)** by **Raymond Castoldi** *(X-Ray Records 1992-1994)*
+🎤 **[Reborn - Nadja Lind Radio Edit](https://open.spotify.com/track/5dGBNmpPeFT5s7R7iX6BI0)** by **Brickman, Nadja Lind** *(Reborn)*
+🎤 **[No Remorse](https://open.spotify.com/track/4B8dW0fsRrN57yunOzplcs)** by **Soundboarders** *(House File)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 04:01:32Z UTC
+🕐 Last updated: 2025-07-07 04:46:14Z UTC
 <!-- SPOTIFY-END -->
