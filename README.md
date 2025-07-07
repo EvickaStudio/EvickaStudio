@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27328ae88bf30a05830027ad71a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27329cb85e9b801d145dd9e08bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [What 2 Say](https://open.spotify.com/track/6JJGzBznbCEF00yqfnXD9G)**
-*by* **belac**
-*Album:* What 2 Say
+**🎵 [Fractal](https://open.spotify.com/track/6KwBWp8GovMYJFrLi2g3sH)**
+*by* **Frink**
+*Album:* Sutil
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 3:12
+    0:47 • 6:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[All I Need](https://open.spotify.com/track/00K7347Fe23BxCjpiiSKwM)** by **Fullempty** *(All I Need)*
+🎤 **[The Way We Are](https://open.spotify.com/track/0qcANLmgDq3piisgdjKGEi)** by **Palmate** *(The Way We Are)*
+🎤 **[What 2 Say](https://open.spotify.com/track/6JJGzBznbCEF00yqfnXD9G)** by **belac** *(What 2 Say)*
 🎤 **[Released Dubb - Mihai Popoviciu Radio Edit](https://open.spotify.com/track/787BnnXEc77OMX0IE0wnPs)** by **Per Hammar** *(Released EP)*
 🎤 **[Narin](https://open.spotify.com/track/3ar51mmHiRMCicvO54ekG6)** by **FTRMNK** *(Volume 1)*
-🎤 **[groove that never stops](https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds)** by **Jake Antonio** *(groove that never stops)*
-🎤 **[Never Forget](https://open.spotify.com/track/5vJ8E7GVvEtnxQVKZDGScC)** by **Fullempty** *(Never Forget)*
-🎤 **[LIQUOR STORE](https://open.spotify.com/track/0PccUXFHLQRoxB32a7fENH)** by **Adi T, SCREW** *(LIQUOR STORE)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 19:37:49Z UTC
+🕐 Last updated: 2025-07-07 19:47:43Z UTC
 <!-- SPOTIFY-END -->
