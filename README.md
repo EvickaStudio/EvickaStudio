@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dc54e8d50505290b1769f2fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730ca02a6603f6294877082bbc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [U Got Me](https://open.spotify.com/track/7Hox1mJ1hkc1elcPGBEA7S)**
-*by* **Odysseus**
-*Album:* Y2K
+**🎵 [blu](https://open.spotify.com/track/0Yj7rjDkJ5IlKQL9RNTzOo)**
+*by* **Nvrtheless**
+*Album:* blu
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="272" height="4" fill="#1db954" rx="2"/>
-    <circle cx="272" cy="2" r="6" fill="#1db954"/>
+    <rect width="286" height="4" fill="#1db954" rx="2"/>
+    <circle cx="286" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:46
+    2:44 • 2:52
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[away with u](https://open.spotify.com/track/6RZ04py1es69jjU4YY75DD)** by **Nvrtheless** *(away with u)*
-🎤 **[Paris](https://open.spotify.com/track/6Q8HMKb65EsiWDoEJ4M08Z)** by **FTRMNK** *(Volume 2)*
-🎤 **[тоска](https://open.spotify.com/track/2muKQKGSsXzc4I4L09FVkS)** by **vecher 1998** *(тоска)*
-🎤 **[Vivid Places](https://open.spotify.com/track/3SmFKy7kmJFiNZzwoLtm4o)** by **Meanetik** *(Vivid Places)*
-🎤 **[The Morning - DJibouti Remix](https://open.spotify.com/track/7dzGUUFmJWMRP34jaUbfmc)** by **DJ Houseplants, DJibouti, Uchii** *(The Morning (DJibouti Remix))*
+🎤 **[Falling In A Black Hole](https://open.spotify.com/track/4mfL1QfnuoaUNyYMcDULQf)** by **Dimi Darko** *(Falling In a Black Hole / Higher)*
+🎤 **[забытые воспоминания - Slowed](https://open.spotify.com/track/3msJHGCIij0WTzJUrHE8MU)** by **vecher 1998, VSN7** *(забытые воспоминания (Slowed))*
+🎤 **[Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W)** by **Vrdnyn** *(Shoreditch)*
+🎤 **[Pull up on me](https://open.spotify.com/track/3p7UP0ckE6lFVNqu4I1ke0)** by **Fullempty** *(Pull up on me)*
+🎤 **[U Got Me](https://open.spotify.com/track/7Hox1mJ1hkc1elcPGBEA7S)** by **Odysseus** *(Y2K)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 20:34:55Z UTC
+🕐 Last updated: 2025-07-07 20:51:20Z UTC
 <!-- SPOTIFY-END -->
