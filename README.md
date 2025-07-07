@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e6780192c665fa69f6c69ca3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738caee1ee417532b34d322b02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Reflections](https://open.spotify.com/track/6mhHn5HeAgJlfyU9UvNMKi)**
-*by* **Brickman**
-*Album:* Reflections
+**🎵 [groove that never stops](https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds)**
+*by* **Jake Antonio**
+*Album:* groove that never stops
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:03 • 8:40
+    1:19 • 4:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Never Forget](https://open.spotify.com/track/5vJ8E7GVvEtnxQVKZDGScC)** by **Fullempty** *(Never Forget)*
+🎤 **[LIQUOR STORE](https://open.spotify.com/track/0PccUXFHLQRoxB32a7fENH)** by **Adi T, SCREW** *(LIQUOR STORE)*
+🎤 **[Darling](https://open.spotify.com/track/3WMgtLgzzgCixu86kVMgNh)** by **Rad&Co** *(Darling)*
+🎤 **[Reflections](https://open.spotify.com/track/6mhHn5HeAgJlfyU9UvNMKi)** by **Brickman** *(Reflections)*
 🎤 **[Tmb](https://open.spotify.com/track/3yUN8TxzWKGn0JxYhqbrtW)** by **belac** *(Tmb)*
-🎤 **[Zoe](https://open.spotify.com/track/0YRSAod5aBFOooy5146GdS)** by **FTRMNK** *(Volume 2)*
-🎤 **[What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO)** by **Fullempty** *(What Sade said)*
-🎤 **[Midnight Club](https://open.spotify.com/track/6cg9Tnerna1V1ZCwPqaJWf)** by **DELACOUR** *(Midnight Club)*
-🎤 **[Alchemy](https://open.spotify.com/track/1A2k31fWrVCkDh1e5ie7vb)** by **Rad&Co** *(Alchemy)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 19:11:20Z UTC
+🕐 Last updated: 2025-07-07 19:27:09Z UTC
 <!-- SPOTIFY-END -->
