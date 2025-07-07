@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730ca02a6603f6294877082bbc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273addc92b46c047e1b0bb34231" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [blu](https://open.spotify.com/track/0Yj7rjDkJ5IlKQL9RNTzOo)**
-*by* **Nvrtheless**
-*Album:* blu
+**🎵 [Solar](https://open.spotify.com/track/5nHpvzyYqWqYP83uDLoSiV)**
+*by* **Mara Lakour**
+*Album:* NRMND002 EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 2:52
+    6:10 • 7:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Falling In A Black Hole](https://open.spotify.com/track/4mfL1QfnuoaUNyYMcDULQf)** by **Dimi Darko** *(Falling In a Black Hole / Higher)*
-🎤 **[забытые воспоминания - Slowed](https://open.spotify.com/track/3msJHGCIij0WTzJUrHE8MU)** by **vecher 1998, VSN7** *(забытые воспоминания (Slowed))*
-🎤 **[Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W)** by **Vrdnyn** *(Shoreditch)*
-🎤 **[Pull up on me](https://open.spotify.com/track/3p7UP0ckE6lFVNqu4I1ke0)** by **Fullempty** *(Pull up on me)*
-🎤 **[U Got Me](https://open.spotify.com/track/7Hox1mJ1hkc1elcPGBEA7S)** by **Odysseus** *(Y2K)*
+🎤 **[From 98](https://open.spotify.com/track/3gULk6p3DN9bFahGL3d1HY)** by **infime** *(From 98)*
+🎤 **[Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8)** by **belac** *(Be with Me 2009)*
+🎤 **[By myself](https://open.spotify.com/track/6i8uHffWNMpB9jY6iGALyN)** by **Fullempty** *(By myself)*
+🎤 **[I Can't Be With U](https://open.spotify.com/track/0j4GTRRzQGwU8YYiDjPrNG)** by **Odysseus** *(Virtual Boi)*
+🎤 **[blu](https://open.spotify.com/track/0Yj7rjDkJ5IlKQL9RNTzOo)** by **Nvrtheless** *(blu)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 20:51:20Z UTC
+🕐 Last updated: 2025-07-07 21:12:05Z UTC
 <!-- SPOTIFY-END -->
