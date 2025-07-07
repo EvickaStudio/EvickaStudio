@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736114ffa71996fd0c7ce41390" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)**
+*by* **Mietze Conte**
+*Album:* Under my Bed
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:17 • 2:04
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **snor, cholorofilm, Mezha** *(cnt live without u :c </3)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
+🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
-🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 09:52:22Z UTC
+🕐 Last updated: 2025-07-07 10:15:10Z UTC
 <!-- SPOTIFY-END -->
