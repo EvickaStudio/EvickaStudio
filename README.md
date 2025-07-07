@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27329cb85e9b801d145dd9e08bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ccdf89f1a4905c69a9d66ac1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fractal](https://open.spotify.com/track/6KwBWp8GovMYJFrLi2g3sH)**
-*by* **Frink**
-*Album:* Sutil
+**🎵 [She Who Sees All](https://open.spotify.com/track/702TQdZDsXUIMXsBz4nFuY)**
+*by* **Soul Wun, Mauricesax**
+*Album:* Blue Light
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 6:48
+    1:57 • 3:51
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[All I Need](https://open.spotify.com/track/00K7347Fe23BxCjpiiSKwM)** by **Fullempty** *(All I Need)*
-🎤 **[The Way We Are](https://open.spotify.com/track/0qcANLmgDq3piisgdjKGEi)** by **Palmate** *(The Way We Are)*
-🎤 **[What 2 Say](https://open.spotify.com/track/6JJGzBznbCEF00yqfnXD9G)** by **belac** *(What 2 Say)*
-🎤 **[Released Dubb - Mihai Popoviciu Radio Edit](https://open.spotify.com/track/787BnnXEc77OMX0IE0wnPs)** by **Per Hammar** *(Released EP)*
-🎤 **[Narin](https://open.spotify.com/track/3ar51mmHiRMCicvO54ekG6)** by **FTRMNK** *(Volume 1)*
+🎤 **[295/Simplicity](https://open.spotify.com/track/7kDknk90GkV22ubqd0bYoh)** by **Fullempty** *(295/Simplicity)*
+🎤 **[Real](https://open.spotify.com/track/3JpRc6KU3ksRsgsAW3BpHj)** by **Blimp, Good Luck** *(Real)*
+🎤 **[All the Way](https://open.spotify.com/track/4ir3TvOuSccCwx648hL4V3)** by **belac** *(All the Way)*
+🎤 **[Always On My Mind (Let U Go)](https://open.spotify.com/track/13Ob3O6YKqgGDWwiRJSqyb)** by **Novaj, Louis Seigner** *(Always On My Mind (Let U Go))*
+🎤 **[lose my mind](https://open.spotify.com/track/37fil52Y3apEozIQbH0zhG)** by **Jake Antonio** *(lose my mind)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 19:47:43Z UTC
+🕐 Last updated: 2025-07-07 20:14:34Z UTC
 <!-- SPOTIFY-END -->
