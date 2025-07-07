@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732683176790260f11d1121768" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734a620ee10a485b76190d1c32" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [You Just Hall - Greg Ochman Remix](https://open.spotify.com/track/2fsFOW96EdmV5tdxIKg0Wx)**
-*by* **Robilardo, Greg Ochman**
-*Album:* You Just Hall (Greg Ochman Remix)
+**🎵 [know u better](https://open.spotify.com/track/7yqnEO2nyVdQas3MtjcZN2)**
+*by* **Nvrtheless**
+*Album:* know u better
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 3:51
+    2:40 • 3:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)** by **Odysseus** *(Y2K)*
-🎤 **[Good Friends](https://open.spotify.com/track/1AC7R2SgUqRfqGmtJk9Zlk)** by **Fullempty** *(All I Need)*
-🎤 **[юность](https://open.spotify.com/track/5J5sXRzXnbCrbF9R3RBdRo)** by **vecher 1998** *(юность)*
-🎤 **[Ni**A from Da](https://open.spotify.com/track/0257WjVzt4LyG3WqLRNI8g)** by **emosplash** *(Код 102)*
-🎤 **[Be Alright](https://open.spotify.com/track/3sugAQd6qk12TX5orZ6sza)** by **FTRMNK** *(Volume 2)*
+🎤 **[Inhale](https://open.spotify.com/track/6BLjMWYOlcVC87cJtE8eIO)** by **Mara Lakour** *(NRMND002 EP)*
+🎤 **[Crystals](https://open.spotify.com/track/5G55Gs8kOEmBnD6uoK1SLd)** by **Vrdnyn** *(Crystals)*
+🎤 **[Onetwentynine](https://open.spotify.com/track/4XfBa2KBuTNvSpKHfrR9f2)** by **Fullempty** *(Imagination)*
+🎤 **[Sunshine Avenue](https://open.spotify.com/track/0hZX0E5L3KqdOSKiNQsT0a)** by **FTRMNK** *(Volume 2)*
+🎤 **[90s Dreams](https://open.spotify.com/track/3tmRzh73Udb31PBi86ihB1)** by **Dave Knud** *(90s Dreams)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 18:18:04Z UTC
+🕐 Last updated: 2025-07-07 18:48:37Z UTC
 <!-- SPOTIFY-END -->
