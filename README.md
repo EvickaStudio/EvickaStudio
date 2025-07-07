@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f011b8697db3055f543952bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cf2e63811e0aa79df293bb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Speranta](https://open.spotify.com/track/5hUG4khCMWpNXKOH5kTMgP)**
-*by* **Ada Kaleh, Traumer**
-*Album:* "Assembling Pieces" LP : Digital Bonuses
+**🎵 [Released Dubb - Mihai Popoviciu Radio Edit](https://open.spotify.com/track/787BnnXEc77OMX0IE0wnPs)**
+*by* **Per Hammar**
+*Album:* Released EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:15 • 7:36
+    1:39 • 2:51
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Zero Gravity](https://open.spotify.com/track/3t77AfBKRaeOFd2NDHVduK)** by **Brickman** *(Reflections)*
-🎤 **[Bleu Mood](https://open.spotify.com/track/1azldKFvU6qiXKS7ClpkLd)** by **Mara Lakour** *(Various, Vol. 2)*
-🎤 **[Chikyu-u 002](https://open.spotify.com/track/1xV07RDwmg4DUBqCYkv1pK)** by **R.M** *(Chikyu-u 001/002)*
-🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
-🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
+🎤 **[Illusions - Radio-Edit](https://open.spotify.com/track/5onIt4dYZZN7GuuBIe2MzS)** by **Brickman** *(Reflections)*
+🎤 **[Shoreditch](https://open.spotify.com/track/6DtWaLBRRPnHbDBVjnls9W)** by **Vrdnyn** *(Shoreditch)*
+🎤 **[Inhale](https://open.spotify.com/track/6BLjMWYOlcVC87cJtE8eIO)** by **Mara Lakour** *(NRMND002 EP)*
+🎤 **[Fractal](https://open.spotify.com/track/6KwBWp8GovMYJFrLi2g3sH)** by **Frink** *(Sutil)*
+🎤 **[Fascination](https://open.spotify.com/track/678s3GakaG4KIQ1aWt1M68)** by **Horsemen** *(Earthquake VA)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 03:02:20Z UTC
+🕐 Last updated: 2025-07-07 04:01:32Z UTC
 <!-- SPOTIFY-END -->
