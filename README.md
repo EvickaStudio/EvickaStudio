@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736114ffa71996fd0c7ce41390" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)**
-*by* **Mietze Conte**
-*Album:* Under my Bed
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="185" height="4" fill="#1db954" rx="2"/>
-    <circle cx="185" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 2:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **snor, cholorofilm, Mezha** *(cnt live without u :c </3)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)*
+🎤 **[Woo girl](https://open.spotify.com/track/1DUEAnIg8vL5E4c6IKpeVY)** by **Drux, Lunaa** *(Scrapclub)*
+🎤 **[my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)** by **cholorofilm** *(my heart :()*
+🎤 **[Heb ab - sped up](https://open.spotify.com/track/27vUyn9Jmnky5ru1kuJgYu)** by **S1RENA** *(Heb ab)*
+🎤 **[moment - Bonus Track](https://open.spotify.com/track/2Del3YTc68Ps0RAAkVw7EE)** by **emotionals, Pitfall** *(attachment)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-07 10:15:10Z UTC
+🕐 Last updated: 2025-07-07 10:41:30Z UTC
 <!-- SPOTIFY-END -->
