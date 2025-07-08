@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730b12e7848a7ece2fe3ac9409" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ca49d8467e46e11b4df3d444" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Odio](https://open.spotify.com/track/55oOMQsNUAEvqsZgMBy8It)**
-*by* **Ufo361, Yung Hurn**
-*Album:* 808
+**🎵 [Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)**
+*by* **Baby B3ns**
+*Album:* Herzcrash
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 3:37
+    0:40 • 1:57
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
-🎤 **[wie willst du](https://open.spotify.com/track/2YPDPCTwst4ZyO7MG00qPB)** by **Yung Hurn** *(wie willst du)*
-🎤 **[AUS MEIN KOPF (SLOWED)](https://open.spotify.com/track/4Ow08jJXyhh0X9wj5s7Eki)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[CAKE](https://open.spotify.com/track/1vZ9i9yO2e4BILYRghIKgA)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[Roboter](https://open.spotify.com/track/3gwid8qvEEyPKYUMd1EKme)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[Leaked Song](https://open.spotify.com/track/7M0aI1E5ykkJkehMNxYZ72)** by **Yung Hurn** *(Y)*
+🎤 **[Von ganz weit weg](https://open.spotify.com/track/1Eh4LQx2XVw3Z9CCzd7Vt3)** by **strangerperson** *(Von ganz weit weg)*
+🎤 **[Hoch bis zum Mond](https://open.spotify.com/track/068O2Xrj7zPw3HwZ8bq48H)** by **skrt cobain, EN6O** *(Hoch bis zum Mond)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 17:50:29Z UTC
+🕐 Last updated: 2025-07-08 18:18:15Z UTC
 <!-- SPOTIFY-END -->
