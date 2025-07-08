@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [YOLO (feat. Gola Gianni)](https://open.spotify.com/track/7aAeZIyMQUpf5KX2J5tOOx)**
-*by* **Yung Hurn, Gola Gianni**
-*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="40" height="4" fill="#1db954" rx="2"/>
-    <circle cx="40" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[MAINFRAME BB](https://open.spotify.com/track/2uSooGLZlSMvim8CbSPKTe)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[SLOW SPOOK](https://open.spotify.com/track/0i0bAc9zbAQoDAm7NwZr5Y)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[YOLO (feat. Gola Gianni)](https://open.spotify.com/track/7aAeZIyMQUpf5KX2J5tOOx)** by **Yung Hurn, Gola Gianni** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 🎤 **[eine nase](https://open.spotify.com/track/2iUlwFCblKdSkQnzFwhhxc)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 🎤 **[DING DONG (feat. Mietze Conte)](https://open.spotify.com/track/3O79HkGiN07QB7kJ3gdCgi)** by **Yung Hurn, Mietze Conte** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by **Yung Hurn, skrt cobain** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[<3 aus <3 (SLOWED)](https://open.spotify.com/track/4LUV2MuOV9ubTqdMWLB5Rz)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[<3 aus <3](https://open.spotify.com/track/1BiyFQ1rxBE2YvtHsvyOVQ)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 17:12:31Z UTC
+🕐 Last updated: 2025-07-08 17:33:41Z UTC
 <!-- SPOTIFY-END -->
