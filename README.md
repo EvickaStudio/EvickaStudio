@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ca49d8467e46e11b4df3d444" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)**
-*by* **Baby B3ns**
-*Album:* Herzcrash
+**🎵 [I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)**
+*by* **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom**
+*Album:* Iliad Unspoken
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="90" height="4" fill="#1db954" rx="2"/>
+    <circle cx="90" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 1:57
+    0:31 • 1:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[CAKE](https://open.spotify.com/track/1vZ9i9yO2e4BILYRghIKgA)** by **Dave Plugs** *(SAG WIESO EP)*
-🎤 **[Roboter](https://open.spotify.com/track/3gwid8qvEEyPKYUMd1EKme)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[Leaked Song](https://open.spotify.com/track/7M0aI1E5ykkJkehMNxYZ72)** by **Yung Hurn** *(Y)*
-🎤 **[Von ganz weit weg](https://open.spotify.com/track/1Eh4LQx2XVw3Z9CCzd7Vt3)** by **strangerperson** *(Von ganz weit weg)*
-🎤 **[Hoch bis zum Mond](https://open.spotify.com/track/068O2Xrj7zPw3HwZ8bq48H)** by **skrt cobain, EN6O** *(Hoch bis zum Mond)*
+🎤 **[MourningStar](https://open.spotify.com/track/5EXRDdvHhiOzsac2kNb2Dm)** by **Woesum** *(Protected)*
+🎤 **[Enchanted Death Melody](https://open.spotify.com/track/7nQcdpl3DGWovbSlBm0nTw)** by **Dj Smokey, Varg²™, Eurohead** *(Enchanted Death Melody)*
+🎤 **[he rambled](https://open.spotify.com/track/3Y9OUMJuQwUGOITYqYA9bm)** by **meat computer** *(he rambled)*
+🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
+🎤 **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 18:18:15Z UTC
+🕐 Last updated: 2025-07-08 18:49:32Z UTC
 <!-- SPOTIFY-END -->
