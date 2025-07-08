@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bb8ac49accddea76318df704" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dc54e8d50505290b1769f2fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Loveless](https://open.spotify.com/track/7Em9XS5HLzAqzNAkL7pe4S)**
-*by* **Gygas**
-*Album:* Nothing Is Creatied. Nothing Is Destroyed. Everything Is Transformed
+**🎵 [U Got Me](https://open.spotify.com/track/7Hox1mJ1hkc1elcPGBEA7S)**
+*by* **Odysseus**
+*Album:* Y2K
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="295" height="4" fill="#1db954" rx="2"/>
+    <circle cx="295" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:57
+    2:44 • 2:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Parabolica](https://open.spotify.com/track/4igYgl4H8mQO0McZO1Ma6C)** by **Monolithic** *(Parabolica)*
-🎤 **[never told u](https://open.spotify.com/track/0abGEkxlO5z5tqJXnlAAA9)** by **Nvrtheless** *(never told u)*
-🎤 **[4 U](https://open.spotify.com/track/4ODNzEQLHGZpL353cCf4aQ)** by **Sideluv, øverfeel.** *(4 U)*
-🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
-🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
+🎤 **[Код 102](https://open.spotify.com/track/2YqXFGaCdwDartqPVJCtti)** by **emosplash, Avenax** *(Код 102)*
+🎤 **[know u better](https://open.spotify.com/track/7yqnEO2nyVdQas3MtjcZN2)** by **Nvrtheless** *(know u better)*
+🎤 **[Drunk on Petroleum](https://open.spotify.com/track/1ulyAvGQoVBSCXWq1dzV1c)** by **Sleepyeyes** *(Forgot About Her)*
+🎤 **[No Feelings](https://open.spotify.com/track/7JqUzCEIijure99GZ6w2bk)** by **Sideluv** *(No Feelings)*
+🎤 **[Start Again](https://open.spotify.com/track/3v8EGMl4fchj8JdVSY96w2)** by **Palmate** *(Start Again)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 08:48:04Z UTC
+🕐 Last updated: 2025-07-08 09:15:32Z UTC
 <!-- SPOTIFY-END -->
