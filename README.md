@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735ba2bc1a201a98f0e5ca64f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)**
-*by* **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom**
-*Album:* Iliad Unspoken
+**🎵 [HowManyDays?](https://open.spotify.com/track/4jpYp1wEBZ5ebPaOIGloee)**
+*by* **Woesum**
+*Album:* Protected
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="90" height="4" fill="#1db954" rx="2"/>
-    <circle cx="90" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 1:44
+    0:53 • 3:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[MourningStar](https://open.spotify.com/track/5EXRDdvHhiOzsac2kNb2Dm)** by **Woesum** *(Protected)*
-🎤 **[Enchanted Death Melody](https://open.spotify.com/track/7nQcdpl3DGWovbSlBm0nTw)** by **Dj Smokey, Varg²™, Eurohead** *(Enchanted Death Melody)*
-🎤 **[he rambled](https://open.spotify.com/track/3Y9OUMJuQwUGOITYqYA9bm)** by **meat computer** *(he rambled)*
-🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
-🎤 **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)*
+🎤 **[void grasping](https://open.spotify.com/track/7bI3K5Vu0rqobrZVH233rZ)** by **meat computer** *(void grasping)*
+🎤 **[Run away](https://open.spotify.com/track/16kgZLmoyRObHMNKgvVS3g)** by **KirbLaGoop, meat computer** *(Adventures Of The Goop)*
+🎤 **[Swag So Outlandish](https://open.spotify.com/track/0PxzAm9IiYDlaIQfmK5KQh)** by **Thrilliam Angels, Ninajirachi, vrde** *(Iliad Unspoken)*
+🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
+🎤 **[Pressed](https://open.spotify.com/track/4qdKJ5OSd5rSF2gWl4nCvb)** by **Woesum** *(Protected)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 18:49:32Z UTC
+🕐 Last updated: 2025-07-08 19:10:25Z UTC
 <!-- SPOTIFY-END -->
