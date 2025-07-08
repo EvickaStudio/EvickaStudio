@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d4d9946aa274b48acb75f117" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Unconditional Love](https://open.spotify.com/track/35c6sdyTu4euKo4WDMmtMg)**
+*by* **Sideluv**
+*Album:* Unconditional Love
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="221" height="4" fill="#1db954" rx="2"/>
+    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:31 • 3:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)** by **Odysseus** *(Y2K)*
+🎤 **[Расскажи мне всё](https://open.spotify.com/track/2ufVMmXetQZ3Zzh1OK286u)** by **emosplash** *(Код 102)*
+🎤 **[Can’t Get You Outta My Mind](https://open.spotify.com/track/0DAB7zllnVRa11y6Jm0oOh)** by **Mall Grab** *(Dust (Compilation))*
 🎤 **[The girl with broken dreams](https://open.spotify.com/track/7DzhgkrwVvnOfhTq1C3cYS)** by **Sideluv** *(The girl with broken dreams)*
 🎤 **[тоска](https://open.spotify.com/track/2muKQKGSsXzc4I4L09FVkS)** by **vecher 1998** *(тоска)*
-🎤 **[Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8)** by **belac** *(Be with Me 2009)*
-🎤 **[Parabolica](https://open.spotify.com/track/4igYgl4H8mQO0McZO1Ma6C)** by **Monolithic** *(Parabolica)*
-🎤 **[So Good](https://open.spotify.com/track/4W0jfxOPoHdB4XxdBuD1E4)** by **Monolithic** *(Herbie)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 11:48:23Z UTC
+🕐 Last updated: 2025-07-08 12:26:46Z UTC
 <!-- SPOTIFY-END -->
