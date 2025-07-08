@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d4d9946aa274b48acb75f117" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379cf43651dd1c7b896e642e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Unconditional Love](https://open.spotify.com/track/35c6sdyTu4euKo4WDMmtMg)**
-*by* **Sideluv**
-*Album:* Unconditional Love
+**🎵 [I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)**
+*by* **Bladee**
+*Album:* Spiderr
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="147" height="4" fill="#1db954" rx="2"/>
+    <circle cx="147" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 3:24
+    1:15 • 2:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)** by **Odysseus** *(Y2K)*
-🎤 **[Расскажи мне всё](https://open.spotify.com/track/2ufVMmXetQZ3Zzh1OK286u)** by **emosplash** *(Код 102)*
-🎤 **[Can’t Get You Outta My Mind](https://open.spotify.com/track/0DAB7zllnVRa11y6Jm0oOh)** by **Mall Grab** *(Dust (Compilation))*
-🎤 **[The girl with broken dreams](https://open.spotify.com/track/7DzhgkrwVvnOfhTq1C3cYS)** by **Sideluv** *(The girl with broken dreams)*
-🎤 **[тоска](https://open.spotify.com/track/2muKQKGSsXzc4I4L09FVkS)** by **vecher 1998** *(тоска)*
+🎤 **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
+🎤 **[Ni**A from Da](https://open.spotify.com/track/0257WjVzt4LyG3WqLRNI8g)** by **emosplash** *(Код 102)*
+🎤 **[Feel Better Baby](https://open.spotify.com/track/6qy6mBTAyD43n0fu60eEDv)** by **Odysseus** *(Feel Better Baby)*
+🎤 **[Elissa Steamer](https://open.spotify.com/track/7abcagsR4g404TgAcWXeaP)** by **DJ Houseplants** *(Elissa Steamer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 12:26:46Z UTC
+🕐 Last updated: 2025-07-08 13:07:40Z UTC
 <!-- SPOTIFY-END -->
