@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27398eb18bc4af48b09b3bacca1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735ba2bc1a201a98f0e5ca64f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [undankbar](https://open.spotify.com/track/4IgHe3hgYt8IrlaQHu25qV)**
-*by* **Skepsiz**
-*Album:* FALTER
+**🎵 [MourningStar](https://open.spotify.com/track/5EXRDdvHhiOzsac2kNb2Dm)**
+*by* **Woesum**
+*Album:* Protected
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 1:59
+    2:21 • 3:34
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)*
-🎤 **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by **Souly, overshiaat, Bovskey** *(Oh Mein Gott (Bovskey Version))*
-🎤 **[Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)** by **Kanye West** *(ye)*
-🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
-🎤 **[18](https://open.spotify.com/track/6pnxY5BQZJxacBkdkP9htQ)** by **dose** *(18)*
+🎤 **[Enchanted Death Melody](https://open.spotify.com/track/7nQcdpl3DGWovbSlBm0nTw)** by **Dj Smokey, Varg²™, Eurohead** *(Enchanted Death Melody)*
+🎤 **[he rambled](https://open.spotify.com/track/3Y9OUMJuQwUGOITYqYA9bm)** by **meat computer** *(he rambled)*
+🎤 **[can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
+🎤 **[Shit Changed](https://open.spotify.com/track/38hCL8cBJbOVr9gt0XedSB)** by **Ufo361, Sonus030** *(Nur für dich)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 13:46:46Z UTC
+🕐 Last updated: 2025-07-08 14:13:07Z UTC
 <!-- SPOTIFY-END -->
