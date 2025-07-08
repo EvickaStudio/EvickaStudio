@@ -110,7 +110,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <img src="https://i.scdn.co/image/ab67616d0000b2735ba2bc1a201a98f0e5ca64f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [HowManyDays?](https://open.spotify.com/track/4jpYp1wEBZ5ebPaOIGloee)**
+**🎵 [L.L.L](https://open.spotify.com/track/0KUTFU19NDKa8zhszK3ZuE)**
 *by* **Woesum**
 *Album:* Protected
 
@@ -118,12 +118,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="208" height="4" fill="#1db954" rx="2"/>
+    <circle cx="208" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 3:38
+    2:32 • 3:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[void grasping](https://open.spotify.com/track/7bI3K5Vu0rqobrZVH233rZ)** by **meat computer** *(void grasping)*
-🎤 **[Run away](https://open.spotify.com/track/16kgZLmoyRObHMNKgvVS3g)** by **KirbLaGoop, meat computer** *(Adventures Of The Goop)*
-🎤 **[Swag So Outlandish](https://open.spotify.com/track/0PxzAm9IiYDlaIQfmK5KQh)** by **Thrilliam Angels, Ninajirachi, vrde** *(Iliad Unspoken)*
-🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
-🎤 **[Pressed](https://open.spotify.com/track/4qdKJ5OSd5rSF2gWl4nCvb)** by **Woesum** *(Protected)*
+🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
+🎤 **[ShadowRichGang... (ANTHEM)](https://open.spotify.com/track/1BOUBYm27IARQNZmIXKF9F)** by **Shadow Wizard Money Gang, Dj Smokey** *(ఠ:g((⊠tt●)..E.leC(t)®▓N⑄iఠ..mಠUS1.(K) ⑵ఠ:g((⊠tt●)..E.leC(t)®▓N⑄iఠ..mಠUS1.(K) ⑵)*
+🎤 **[Silver Globe](https://open.spotify.com/track/5EcHH5L76C10QEwpKsNp2U)** by **Wraith9** *(Silver Globe / American Idol)*
+🎤 **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[HowManyDays?](https://open.spotify.com/track/4jpYp1wEBZ5ebPaOIGloee)** by **Woesum** *(Protected)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 19:10:25Z UTC
+🕐 Last updated: 2025-07-08 19:25:35Z UTC
 <!-- SPOTIFY-END -->
