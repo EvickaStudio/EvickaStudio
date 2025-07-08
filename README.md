@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273104aeff9a3801d766fae2b45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b72523b8a6ad7d33167a2879" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Way We Are](https://open.spotify.com/track/0qcANLmgDq3piisgdjKGEi)**
-*by* **Palmate**
-*Album:* The Way We Are
+**🎵 [Soben - Monolithic's Daydream Dub](https://open.spotify.com/track/6UUCqhdnT7xYySSygRLso9)**
+*by* **DJ Houseplants, Monolithic**
+*Album:* Soben (Monolithic's Daydream Dub)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 4:07
+    0:37 • 4:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Be Alright](https://open.spotify.com/track/3sugAQd6qk12TX5orZ6sza)** by **FTRMNK** *(Volume 2)*
+🎤 **[Can We Talk?](https://open.spotify.com/track/4i8ankRR67jcgSMJQTLWbL)** by **Sideluv** *(Can We Talk?)*
+🎤 **[The Way We Are](https://open.spotify.com/track/0qcANLmgDq3piisgdjKGEi)** by **Palmate** *(The Way We Are)*
+🎤 **[Haunt Me](https://open.spotify.com/track/0kbtRYI7dnrfxqgq8ZO6H3)** by **Shroomyland** *(Haunt Me)*
 🎤 **[Cyan](https://open.spotify.com/track/4lfJ1sQABf0E4Om5nhuUI1)** by **Monolithic** *(Control/Aufsteigen)*
-🎤 **[ok, i can love u.](https://open.spotify.com/track/4Cq1MwoRZZpsNJ8MlWNVCb)** by **witxoutessence, Nakedleisure** *(ok, i can love u.)*
-🎤 **[How It Used to Be](https://open.spotify.com/track/7ia7N8CZeD153jUfc6a9pf)** by **DJ Houseplants, Jacopo Sb** *(How It Used to Be)*
-🎤 **[Too Young To Be This Sad](https://open.spotify.com/track/58XElnfZC6eoHqBgOFbgD6)** by **Sideluv** *(Too Young To Be This Sad)*
-🎤 **[Luma](https://open.spotify.com/track/78IQiiejyopze7P2I3kEvM)** by **Palmate** *(Luma)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 09:42:06Z UTC
+🕐 Last updated: 2025-07-08 09:52:13Z UTC
 <!-- SPOTIFY-END -->
