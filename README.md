@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27328c50326b4e477d500965a43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)**
-*by* **RomancePlanet**
-*Album:* ALONE IN THE DARK
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 2:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
 🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
 🎤 **[Music](https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y)** by **underscores** *(Music)*
 🎤 **[Windchime (My Sacrifice)](https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef)** by **Ayegy** *(BLACKTHORN)*
 🎤 **[L.L.L](https://open.spotify.com/track/0KUTFU19NDKa8zhszK3ZuE)** by **Woesum** *(Protected)*
-🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 19:35:32Z UTC
+🕐 Last updated: 2025-07-08 19:47:49Z UTC
 <!-- SPOTIFY-END -->
