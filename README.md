@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273088e80c50d3d69c4d52b25d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8)**
-*by* **belac**
-*Album:* Be with Me 2009
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 3:16
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[The girl with broken dreams](https://open.spotify.com/track/7DzhgkrwVvnOfhTq1C3cYS)** by **Sideluv** *(The girl with broken dreams)*
+🎤 **[тоска](https://open.spotify.com/track/2muKQKGSsXzc4I4L09FVkS)** by **vecher 1998** *(тоска)*
+🎤 **[Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8)** by **belac** *(Be with Me 2009)*
 🎤 **[Parabolica](https://open.spotify.com/track/4igYgl4H8mQO0McZO1Ma6C)** by **Monolithic** *(Parabolica)*
 🎤 **[So Good](https://open.spotify.com/track/4W0jfxOPoHdB4XxdBuD1E4)** by **Monolithic** *(Herbie)*
-🎤 **[Sunshine Avenue](https://open.spotify.com/track/0hZX0E5L3KqdOSKiNQsT0a)** by **FTRMNK** *(Volume 2)*
-🎤 **[Someone Else](https://open.spotify.com/track/2I8Q57SBpNcVjrXLs6fqZe)** by **Sideluv** *(Someone Else)*
-🎤 **[Feeling Blue](https://open.spotify.com/track/4RHRb1GhgAsw3uM69k96xt)** by **Palmate** *(Above the Horizon)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 10:39:49Z UTC
+🕐 Last updated: 2025-07-08 10:52:53Z UTC
 <!-- SPOTIFY-END -->
