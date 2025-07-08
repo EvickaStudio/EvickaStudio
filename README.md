@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27325cf515a4d0d2aabec7aef40" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [powerless](https://open.spotify.com/track/7yeCJsNY9QIa78Ue7Gky3c)**
+*by* **Senses, remghost**
+*Album:* powerless
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:16 • 1:49
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[calling for me](https://open.spotify.com/track/0Lw1s61I2yeWo1m8JKcGVz)** by **Rebzyyx** *(calling for me)*
+🎤 **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)*
+🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
 🎤 **[Swag So Outlandish](https://open.spotify.com/track/0PxzAm9IiYDlaIQfmK5KQh)** by **Thrilliam Angels, Ninajirachi, vrde** *(Iliad Unspoken)*
 🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
-🎤 **[Pressed](https://open.spotify.com/track/4qdKJ5OSd5rSF2gWl4nCvb)** by **Woesum** *(Protected)*
-🎤 **[zu staub + Ayegy flip](https://open.spotify.com/track/7DqnjhN11IzTLHcmVvAZnP)** by **benzii, Ayegy** *(zu staub + Ayegy flip)*
-🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 15:34:01Z UTC
+🕐 Last updated: 2025-07-08 15:51:22Z UTC
 <!-- SPOTIFY-END -->
