@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379cf43651dd1c7b896e642e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27398eb18bc4af48b09b3bacca1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)**
-*by* **Bladee**
-*Album:* Spiderr
+**🎵 [undankbar](https://open.spotify.com/track/4IgHe3hgYt8IrlaQHu25qV)**
+*by* **Skepsiz**
+*Album:* FALTER
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 2:33
+    0:29 • 1:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[Ni**A from Da](https://open.spotify.com/track/0257WjVzt4LyG3WqLRNI8g)** by **emosplash** *(Код 102)*
-🎤 **[Feel Better Baby](https://open.spotify.com/track/6qy6mBTAyD43n0fu60eEDv)** by **Odysseus** *(Feel Better Baby)*
-🎤 **[Elissa Steamer](https://open.spotify.com/track/7abcagsR4g404TgAcWXeaP)** by **DJ Houseplants** *(Elissa Steamer)*
+🎤 **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)*
+🎤 **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by **Souly, overshiaat, Bovskey** *(Oh Mein Gott (Bovskey Version))*
+🎤 **[Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)** by **Kanye West** *(ye)*
+🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
+🎤 **[18](https://open.spotify.com/track/6pnxY5BQZJxacBkdkP9htQ)** by **dose** *(18)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 13:07:40Z UTC
+🕐 Last updated: 2025-07-08 13:46:46Z UTC
 <!-- SPOTIFY-END -->
