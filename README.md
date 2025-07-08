@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dc54e8d50505290b1769f2fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dark Beach](https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr)**
-*by* **Pastel Ghost**
-*Album:* Abyss
+**🎵 [Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)**
+*by* **Odysseus**
+*Album:* Y2K
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="16" height="4" fill="#1db954" rx="2"/>
-    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 3:42
+    2:00 • 3:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by **lil eyes, 1800yassine, Asterio, treason434** *(feelings im bauch (feat. treason434) [techno remix])*
-🎤 **[LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)** by **Drux, Lunaa, pradaaslife** *(Scrapclub)*
-🎤 **[Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO)** by **TV Girl** *(Who Really Cares)*
-🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
-🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)** by **Odysseus** *(Y2K)*
+🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
+🎤 **[Balcony in Milano](https://open.spotify.com/track/7g1K0Hq3OIBhbhQSxA6GFc)** by **Palmate** *(Balcony in Milano)*
+🎤 **[sega saturn](https://open.spotify.com/track/6CeO9V6e7Lq0rChLTsphHk)** by **Dp** *(dvdp_)*
+🎤 **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 07:49:06Z UTC
+🕐 Last updated: 2025-07-08 08:18:28Z UTC
 <!-- SPOTIFY-END -->
