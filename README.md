@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e77ecae9169e22bbe544e479" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d1704ec8a2a0f114b3ce8453" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [GET HIGHER](https://open.spotify.com/track/3MiqSOZesQI2NctPFdSyzP)**
-*by* **SOPHIE**
-*Album:* PRODUCT
+**🎵 [down](https://open.spotify.com/track/4TsTsXukyNBJ5EfYFOw8LG)**
+*by* **Effie**
+*Album:* E
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 3:00
+    0:43 • 2:14
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Music](https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y)** by **underscores** *(Music)*
-🎤 **[Windchime (My Sacrifice)](https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[L.L.L](https://open.spotify.com/track/0KUTFU19NDKa8zhszK3ZuE)** by **Woesum** *(Protected)*
+🎤 **[counting sheep](https://open.spotify.com/track/7pi13RnplIT775YSmTN5WA)** by **ultra caro** *(counting sheep)*
+🎤 **[Wish 4](https://open.spotify.com/track/0r8g99yZ1U4Jv1PyD58Wom)** by **galen tipton, Shmu, diana starshine** *(dewCLAWS)*
+🎤 **[go](https://open.spotify.com/track/4H448E9IQ0TV4nmLRMJ2BH)** by **nate sib** *(for us)*
+🎤 **[Poplife](https://open.spotify.com/track/2cClnOEBnNJWxbLuTFVIgK)** by **umru, underscores** *(Poplife)*
+🎤 **[WHERE U R (angel with no feathers)](https://open.spotify.com/track/3G8ZoCkS3o9EGrF9W8VmvQ)** by **FiFi Zhang** *(WHERE U R (angel with no feathers))*
 
 
 
@@ -153,10 +153,10 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
 🥈 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
-🥉 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
+🥉 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
+🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
-🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 21:30:38Z UTC
+🕐 Last updated: 2025-07-08 21:48:14Z UTC
 <!-- SPOTIFY-END -->
