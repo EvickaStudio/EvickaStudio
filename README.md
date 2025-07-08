@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b72523b8a6ad7d33167a2879" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cb6ab5df7cf4a36e2460a570" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Soben - Monolithic's Daydream Dub](https://open.spotify.com/track/6UUCqhdnT7xYySSygRLso9)**
-*by* **DJ Houseplants, Monolithic**
-*Album:* Soben (Monolithic's Daydream Dub)
+**🎵 [So Good](https://open.spotify.com/track/4W0jfxOPoHdB4XxdBuD1E4)**
+*by* **Monolithic**
+*Album:* Herbie
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 4:13
+    0:30 • 3:51
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Be Alright](https://open.spotify.com/track/3sugAQd6qk12TX5orZ6sza)** by **FTRMNK** *(Volume 2)*
-🎤 **[Can We Talk?](https://open.spotify.com/track/4i8ankRR67jcgSMJQTLWbL)** by **Sideluv** *(Can We Talk?)*
-🎤 **[The Way We Are](https://open.spotify.com/track/0qcANLmgDq3piisgdjKGEi)** by **Palmate** *(The Way We Are)*
-🎤 **[Haunt Me](https://open.spotify.com/track/0kbtRYI7dnrfxqgq8ZO6H3)** by **Shroomyland** *(Haunt Me)*
-🎤 **[Cyan](https://open.spotify.com/track/4lfJ1sQABf0E4Om5nhuUI1)** by **Monolithic** *(Control/Aufsteigen)*
+🎤 **[Sunshine Avenue](https://open.spotify.com/track/0hZX0E5L3KqdOSKiNQsT0a)** by **FTRMNK** *(Volume 2)*
+🎤 **[Someone Else](https://open.spotify.com/track/2I8Q57SBpNcVjrXLs6fqZe)** by **Sideluv** *(Someone Else)*
+🎤 **[Feeling Blue](https://open.spotify.com/track/4RHRb1GhgAsw3uM69k96xt)** by **Palmate** *(Above the Horizon)*
+🎤 **[юность](https://open.spotify.com/track/5J5sXRzXnbCrbF9R3RBdRo)** by **vecher 1998** *(юность)*
+🎤 **[wants and needs](https://open.spotify.com/track/5W0MG8q8pKaMS2TAiSQXBN)** by **Jake Antonio** *(wants and needs)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 09:52:13Z UTC
+🕐 Last updated: 2025-07-08 10:14:04Z UTC
 <!-- SPOTIFY-END -->
