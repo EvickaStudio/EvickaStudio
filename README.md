@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2730b12e7848a7ece2fe3ac9409" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Odio](https://open.spotify.com/track/55oOMQsNUAEvqsZgMBy8It)**
+*by* **Ufo361, Yung Hurn**
+*Album:* 808
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:04 • 3:37
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[MAINFRAME BB](https://open.spotify.com/track/2uSooGLZlSMvim8CbSPKTe)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[SLOW SPOOK](https://open.spotify.com/track/0i0bAc9zbAQoDAm7NwZr5Y)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[YOLO (feat. Gola Gianni)](https://open.spotify.com/track/7aAeZIyMQUpf5KX2J5tOOx)** by **Yung Hurn, Gola Gianni** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[eine nase](https://open.spotify.com/track/2iUlwFCblKdSkQnzFwhhxc)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[DING DONG (feat. Mietze Conte)](https://open.spotify.com/track/3O79HkGiN07QB7kJ3gdCgi)** by **Yung Hurn, Mietze Conte** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
+🎤 **[wie willst du](https://open.spotify.com/track/2YPDPCTwst4ZyO7MG00qPB)** by **Yung Hurn** *(wie willst du)*
+🎤 **[AUS MEIN KOPF (SLOWED)](https://open.spotify.com/track/4Ow08jJXyhh0X9wj5s7Eki)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 17:33:41Z UTC
+🕐 Last updated: 2025-07-08 17:50:29Z UTC
 <!-- SPOTIFY-END -->
