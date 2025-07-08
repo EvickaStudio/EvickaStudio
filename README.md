@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736df8deb2f8291c27eca9003e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI)**
-*by* **Greta Isaac**
-*Album:* SOFT SCOOP TALKING DOG
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 2:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI)** by **Greta Isaac** *(SOFT SCOOP TALKING DOG)*
 🎤 **[Juliette](https://open.spotify.com/track/1nWHVI1MjwTAZ7vhLYRgVK)** by **Nikki Nair, Blaketheman1000, Harmony** *(Violence is the Answer)*
 🎤 **[MOLLY](https://open.spotify.com/track/4E3cUfbOAj2ZvF1Dfq4z7M)** by **whiterosemoxie** *(MOLLY)*
 🎤 **[Dancing with your eyes closed](https://open.spotify.com/track/1QkeomwCeKgXOEWoMHzrXr)** by **Jane Remover** *(Dancing with your eyes closed)*
 🎤 **[OOH](https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2)** by **SOPHIE** *(PRODUCT)*
-🎤 **[Talk 2 Me](https://open.spotify.com/track/1twfzIIdZiI08eM7yVhE9E)** by **SONIKKU** *(Talk 2 Me)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-08 22:12:50Z UTC
+🕐 Last updated: 2025-07-08 22:34:37Z UTC
 <!-- SPOTIFY-END -->
