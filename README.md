@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cecb0b3e5c5c9fa0be6cbbf9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273effbed04be3a9ea1a973ce38" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)**
-*by* **Horst Krüger-Band**
-*Album:* Die Tagesreise
+**🎵 [Downer](https://open.spotify.com/track/04Ixo22901T3hkpxGHs75x)**
+*by* **uusymon, SGUCCY**
+*Album:* Stardust
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:09 • 7:21
+    0:37 • 2:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Do You Feel It Too?](https://open.spotify.com/track/5dQoiKWoAxqIkVzHZsyOTN)** by **Monolithic** *(Here And Now)*
-🎤 **[Only You](https://open.spotify.com/track/1HyVvliLnZ8FTwXTrkaie0)** by **Sideluv, Digital Tourist** *(Only You)*
-🎤 **[Cool Kids](https://open.spotify.com/track/377BAzWMgxB9nd6iGKDco5)** by **GIJS** *(Cool Kids)*
-🎤 **[Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3)** by **Fullempty** *(Every Day 2005)*
-🎤 **[Stuck In My Mind](https://open.spotify.com/track/6RkH6XZeVHhcKkvzre2Cwj)** by **Odysseus** *(Stuck In My Mind)*
+🎤 **[Champion God Level](https://open.spotify.com/track/3aujFAv6o9EhKOPJYnGlMg)** by **fliggsy** *(Champion God Level)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
+🎤 **[hopeless](https://open.spotify.com/track/5SYVuaC2cmgLUvTJrZS1fO)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu)** by **Juice WRLD** *(Death Race For Love (Bonus Track Version))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 
 
-🕐 Last updated: 2025-07-08 07:14:18Z UTC
+🕐 Last updated: 2025-07-08 07:32:26Z UTC
 <!-- SPOTIFY-END -->
