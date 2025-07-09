@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730bf09e0934a3a16e1e3646c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)**
-*by* **The Truth**
-*Album:* U.S.T
+**🎵 [Embrace](https://open.spotify.com/track/5boRDq2wvAdbSxA0A81eQE)**
+*by* **Brothel in Belize**
+*Album:* War
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 3:13
+    0:14 • 2:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[eyes wide shut](https://open.spotify.com/track/1kMDt1D8FYwiVMCGLGFymQ)** by **Levi Ryan** *(eyes wide shut)*
+🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
 🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
 🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
-🎤 **[Dove](https://open.spotify.com/track/6ZVnXxqY49wg7rT92P0gG1)** by **Brothel in Belize** *(War)*
-🎤 **[No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)** by **Radiohead** *(OK Computer OKNOTOK 1997 2017)*
-🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-09 09:42:33Z UTC
+🕐 Last updated: 2025-07-09 09:52:54Z UTC
 <!-- SPOTIFY-END -->
