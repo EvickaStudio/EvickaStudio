@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27303c6d47d159d8d9ddf7c54e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LOOKING4 V3](https://open.spotify.com/track/30qP8xQaNHAMP413DmmnO1)**
-*by* **o0o**
-*Album:* Album Music
+**🎵 [zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)**
+*by* **meat computer**
+*Album:* slept on the floor still dreamt about you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 3:39
+    1:31 • 1:40
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[playlist friendly unit shifter](https://open.spotify.com/track/2p18SqON596E1Z9ANOm6bm)** by **meat computer** *(playlist friendly unit shifter)*
-🎤 **[ShadowRichGang... (ANTHEM)](https://open.spotify.com/track/1BOUBYm27IARQNZmIXKF9F)** by **Shadow Wizard Money Gang, Dj Smokey** *(ఠ:g((⊠tt●)..E.leC(t)®▓N⑄iఠ..mಠUS1.(K) ⑵ఠ:g((⊠tt●)..E.leC(t)®▓N⑄iఠ..mಠUS1.(K) ⑵)*
-🎤 **[Something To Hold Onto - Harder](https://open.spotify.com/track/0GsHB38VzK64XRiP9bCFr2)** by **Joon Gloom** *(Something To Hold Onto)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[summer](https://open.spotify.com/track/7rZakQcep7Tqhrwb5U72ml)** by **damon r.** *(summer)*
+🎤 **[Pressed](https://open.spotify.com/track/4qdKJ5OSd5rSF2gWl4nCvb)** by **Woesum** *(Protected)*
+🎤 **[Dx3](https://open.spotify.com/track/6h3NoAoGFI7tckq3Kmk6WL)** by **Evanora Unlimited** *(Empty Fold / Dx3)*
+🎤 **[Silver Globe](https://open.spotify.com/track/5EcHH5L76C10QEwpKsNp2U)** by **Wraith9** *(Silver Globe / American Idol)*
+🎤 **[happy bad](https://open.spotify.com/track/2yUY9GL6Slgl7sYqopf8xa)** by **Xxcrush, meat computer** *(happy bad)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-09 20:14:17Z UTC
+🕐 Last updated: 2025-07-09 20:34:37Z UTC
 <!-- SPOTIFY-END -->
