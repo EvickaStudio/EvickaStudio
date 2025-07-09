@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27303c6d47d159d8d9ddf7c54e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [LOOKING4 V3](https://open.spotify.com/track/30qP8xQaNHAMP413DmmnO1)**
+*by* **o0o**
+*Album:* Album Music
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:05 • 3:39
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[playlist friendly unit shifter](https://open.spotify.com/track/2p18SqON596E1Z9ANOm6bm)** by **meat computer** *(playlist friendly unit shifter)*
+🎤 **[ShadowRichGang... (ANTHEM)](https://open.spotify.com/track/1BOUBYm27IARQNZmIXKF9F)** by **Shadow Wizard Money Gang, Dj Smokey** *(ఠ:g((⊠tt●)..E.leC(t)®▓N⑄iఠ..mಠUS1.(K) ⑵ఠ:g((⊠tt●)..E.leC(t)®▓N⑄iఠ..mಠUS1.(K) ⑵)*
+🎤 **[Something To Hold Onto - Harder](https://open.spotify.com/track/0GsHB38VzK64XRiP9bCFr2)** by **Joon Gloom** *(Something To Hold Onto)*
 🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
 🎤 **[tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-09 19:47:36Z UTC
+🕐 Last updated: 2025-07-09 20:14:17Z UTC
 <!-- SPOTIFY-END -->
