@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe9b3367ceab9394d2dd6fc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c74860a81669dc7740765b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [filter](https://open.spotify.com/track/22dPNUNgcPLni0olaov6NC)**
-*by* **fawn burke**
-*Album:* filter
+**🎵 [Effy](https://open.spotify.com/track/7lhkusbgbLMpypV7NQGq5M)**
+*by* **Sidney Phillips**
+*Album:* I'm So Tired of Being Staunchly
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 3:16
+    0:10 • 2:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[promise](https://open.spotify.com/track/6FXoqHSCCGOeB1s0MKVnuP)** by **2hollis** *(boy)*
-🎤 **[luvntry](https://open.spotify.com/track/7Hiy7rTGbpnHPTQHdssZ2e)** by **kenesukoh, i9bonsai** *(luvntry)*
-🎤 **[Dariacore's Such a Silly Genre Am I Right](https://open.spotify.com/track/0i3VRbMQ56RJWH0Dza4flu)** by **fen** *(Dariacore's Such a Silly Genre Am I Right)*
-🎤 **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)*
-🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[ava](https://open.spotify.com/track/3RDDSyBIC1rWUvNZmZwgc2)** by **xo** *(ava)*
+🎤 **[sometimes](https://open.spotify.com/track/2HKROSMPefjkoubJlwKA4H)** by **BLOODiDOL** *(sometimes)*
+🎤 **[junji ito - Dan Larkin Remix](https://open.spotify.com/track/4u3XkJICWthfdzAF1FbHfM)** by **Dan Larkin, emotegi** *(junji ito (Dan Larkin Remix))*
+🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
+🎤 **[walk](https://open.spotify.com/track/7h5yxw22TmdZyUPineE1av)** by **cewer** *(walk)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 08:18:37Z UTC
+🕐 Last updated: 2025-07-10 08:47:45Z UTC
 <!-- SPOTIFY-END -->
