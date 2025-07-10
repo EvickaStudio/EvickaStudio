@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739219d82bdc374717b4870080" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dc7478b120f321cdde5c47bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lovedog takes a vacation](https://open.spotify.com/track/2yVdg3gd2g7IgcByv5N5in)**
-*by* **sacha online, luvwillow**
-*Album:* a momentary lapse in judgement
+**🎵 [Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)**
+*by* **Somewhere Special**
+*Album:* Used2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 1:59
+    2:35 • 2:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Effy](https://open.spotify.com/track/7lhkusbgbLMpypV7NQGq5M)** by **Sidney Phillips** *(I'm So Tired of Being Staunchly)*
-🎤 **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)*
-🎤 **[walk](https://open.spotify.com/track/7h5yxw22TmdZyUPineE1av)** by **cewer** *(walk)*
-🎤 **[sometimes](https://open.spotify.com/track/2HKROSMPefjkoubJlwKA4H)** by **BLOODiDOL** *(sometimes)*
-🎤 **[junji ito - Dan Larkin Remix](https://open.spotify.com/track/4u3XkJICWthfdzAF1FbHfM)** by **Dan Larkin, emotegi** *(junji ito (Dan Larkin Remix))*
+🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
+🎤 **[don't go](https://open.spotify.com/track/45SVlPzr6DfGfxpEgeYP0K)** by **ethn reis** *(let go)*
+🎤 **[Void](https://open.spotify.com/track/17xljV9RAqvjXqLJnvvYxK)** by **Chicken Lover, saraunh0ly** *(Void)*
+🎤 **[I See White](https://open.spotify.com/track/33QdwrQ0h9yazluUNLVLzJ)** by **Digiaches** *(I See White)*
+🎤 **[u x me / waves](https://open.spotify.com/track/7nmu9SGzWd2yslV97Fvt5j)** by **Corrupt8boss** *(gecs on the internet 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 17:50:35Z UTC
+🕐 Last updated: 2025-07-10 18:18:41Z UTC
 <!-- SPOTIFY-END -->
