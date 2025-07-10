@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730ca02a6603f6294877082bbc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273518422b2784996b6b0fee74b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [blu](https://open.spotify.com/track/0Yj7rjDkJ5IlKQL9RNTzOo)**
-*by* **Nvrtheless**
-*Album:* blu
+**🎵 [90s Dreams](https://open.spotify.com/track/3tmRzh73Udb31PBi86ihB1)**
+*by* **Dave Knud**
+*Album:* 90s Dreams
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="41" height="4" fill="#1db954" rx="2"/>
-    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+    <rect width="215" height="4" fill="#1db954" rx="2"/>
+    <circle cx="215" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 2:52
+    3:11 • 4:26
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[забытые воспоминания](https://open.spotify.com/track/5ftdGE9mCLQUUy3tTnN0Vu)** by **vecher 1998, VSN7** *(забытые воспоминания)*
-🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
-🎤 **[Unconditional Love](https://open.spotify.com/track/35c6sdyTu4euKo4WDMmtMg)** by **Sideluv** *(Unconditional Love)*
-🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
-🎤 **[Waterfall](https://open.spotify.com/track/086iuh3xnBANKx1VabmhAE)** by **Thaiboy Digital, Bladee, Ecco2k** *(Trash Island)*
+🎤 **[Loveless](https://open.spotify.com/track/7Em9XS5HLzAqzNAkL7pe4S)** by **Gygas** *(Nothing Is Creatied. Nothing Is Destroyed. Everything Is Transformed)*
+🎤 **[Zoe](https://open.spotify.com/track/0YRSAod5aBFOooy5146GdS)** by **FTRMNK** *(Volume 2)*
+🎤 **[Falling In A Black Hole](https://open.spotify.com/track/4mfL1QfnuoaUNyYMcDULQf)** by **Dimi Darko** *(Falling In a Black Hole / Higher)*
+🎤 **[Broken - mixed](https://open.spotify.com/track/41EpyRVYrMhJ9AKvEESvXt)** by **Cassio Kohl** *(DJ-Kicks (Breach))*
+🎤 **[blu](https://open.spotify.com/track/0Yj7rjDkJ5IlKQL9RNTzOo)** by **Nvrtheless** *(blu)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 20:14:18Z UTC
+🕐 Last updated: 2025-07-10 20:35:06Z UTC
 <!-- SPOTIFY-END -->
