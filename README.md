@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dc7478b120f321cdde5c47bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737dee9165c799a6ce1b859e82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)**
-*by* **Somewhere Special**
-*Album:* Used2
+**🎵 [burnt](https://open.spotify.com/track/1U0eKYneVGFfIhz4BOolA4)**
+*by* **lustr**
+*Album:* burnt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 2:46
+    0:54 • 2:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
-🎤 **[don't go](https://open.spotify.com/track/45SVlPzr6DfGfxpEgeYP0K)** by **ethn reis** *(let go)*
-🎤 **[Void](https://open.spotify.com/track/17xljV9RAqvjXqLJnvvYxK)** by **Chicken Lover, saraunh0ly** *(Void)*
-🎤 **[I See White](https://open.spotify.com/track/33QdwrQ0h9yazluUNLVLzJ)** by **Digiaches** *(I See White)*
-🎤 **[u x me / waves](https://open.spotify.com/track/7nmu9SGzWd2yslV97Fvt5j)** by **Corrupt8boss** *(gecs on the internet 2)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[don't stop](https://open.spotify.com/track/6v5IMp0PApa8VOmgI6Afw9)** by **ethn reis** *(don't stop)*
+🎤 **[God Forgive Me - Bonus Track](https://open.spotify.com/track/6EYtxrkf1AdMl4K0r2W6nM)** by **PRINT** *(Provar)*
+🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 18:18:41Z UTC
+🕐 Last updated: 2025-07-10 18:49:06Z UTC
 <!-- SPOTIFY-END -->
