@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[This Way/That Way](https://open.spotify.com/track/3TPW7t0PaZ35u1L8NaCGU7)** by **Ayegy** *(BLACKTHORN)*
 🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
 🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
 🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
 🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
-🎤 **[440 khz maximum exposure](https://open.spotify.com/track/1jI9tuGPClgdtCsb08kaNv)** by **meat computer** *(440 khz maximum exposure)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 07:14:40Z UTC
+🕐 Last updated: 2025-07-10 07:32:53Z UTC
 <!-- SPOTIFY-END -->
