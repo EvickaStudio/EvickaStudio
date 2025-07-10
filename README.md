@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2730ca02a6603f6294877082bbc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [blu](https://open.spotify.com/track/0Yj7rjDkJ5IlKQL9RNTzOo)**
+*by* **Nvrtheless**
+*Album:* blu
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="41" height="4" fill="#1db954" rx="2"/>
+    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:24 • 2:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Doubt of Love](https://open.spotify.com/track/328QsOwp1sR08ll6M4qRDN)** by **PRINT** *(Provar)*
-🎤 **[magic](https://open.spotify.com/track/5QDgRZwAwMc3qxTxwDyNrk)** by **xo** *(magic)*
-🎤 **[just to be (mean)](https://open.spotify.com/track/0iTwQevcNZmkJdx6ZoLc9Y)** by **fawn burke** *(just to be (mean))*
-🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
-🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
+🎤 **[забытые воспоминания](https://open.spotify.com/track/5ftdGE9mCLQUUy3tTnN0Vu)** by **vecher 1998, VSN7** *(забытые воспоминания)*
+🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
+🎤 **[Unconditional Love](https://open.spotify.com/track/35c6sdyTu4euKo4WDMmtMg)** by **Sideluv** *(Unconditional Love)*
+🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
+🎤 **[Waterfall](https://open.spotify.com/track/086iuh3xnBANKx1VabmhAE)** by **Thaiboy Digital, Bladee, Ecco2k** *(Trash Island)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 19:47:27Z UTC
+🕐 Last updated: 2025-07-10 20:14:18Z UTC
 <!-- SPOTIFY-END -->
