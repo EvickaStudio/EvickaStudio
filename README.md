@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737dee9165c799a6ce1b859e82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27383b5e76b8078979b09a18d8f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [burnt](https://open.spotify.com/track/1U0eKYneVGFfIhz4BOolA4)**
-*by* **lustr**
-*Album:* burnt
+**🎵 [just to be (mean)](https://open.spotify.com/track/0iTwQevcNZmkJdx6ZoLc9Y)**
+*by* **fawn burke**
+*Album:* just to be (mean)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+    <rect width="115" height="4" fill="#1db954" rx="2"/>
+    <circle cx="115" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 2:20
+    0:43 • 1:54
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[don't stop](https://open.spotify.com/track/6v5IMp0PApa8VOmgI6Afw9)** by **ethn reis** *(don't stop)*
-🎤 **[God Forgive Me - Bonus Track](https://open.spotify.com/track/6EYtxrkf1AdMl4K0r2W6nM)** by **PRINT** *(Provar)*
-🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
+🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
+🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
+🎤 **[NYUTH](https://open.spotify.com/track/3p79z237PGNK6zD0CXwWOz)** by **The Truth** *(NYUTH)*
+🎤 **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[plus!](https://open.spotify.com/track/7Lo4sD0fpx8pUYKn9DoQck)** by **xo** *(plus!)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 18:49:06Z UTC
+🕐 Last updated: 2025-07-10 19:10:46Z UTC
 <!-- SPOTIFY-END -->
