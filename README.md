@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27397df6d8f6bae3f81878c2170" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273703ccba6709f3eb61754089b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Get Myself Together](https://open.spotify.com/track/2MckhlhlL3Qp8DHaWyURri)**
-*by* **April21, Pitfall, blissed05**
-*Album:* My World
+**🎵 [KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)**
+*by* **SPIKEMYHEART, FLUX ROSE**
+*Album:* KISS ME
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="173" height="4" fill="#1db954" rx="2"/>
+    <circle cx="173" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:50 • 2:57
+    1:39 • 2:52
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[promise](https://open.spotify.com/track/6FXoqHSCCGOeB1s0MKVnuP)** by **2hollis** *(boy)*
-🎤 **[5amlondon](https://open.spotify.com/track/6AOrV4ynK502K7QF2Y9tFk)** by **RADA** *(5amlondon)*
-🎤 **[Stab](https://open.spotify.com/track/2FroxF4rZXkAlDUOV7E16S)** by **80gawd** *(uui87)*
-🎤 **[villa](https://open.spotify.com/track/7lT9AVb4wYrt4ZwqJm8hDV)** by **Slyy Stone** *(villa)*
-🎤 **[to the end](https://open.spotify.com/track/3TsQ6GvVygG9OVCCAaCSH8)** by **15forevr** *(to the end)*
+🎤 **[ava](https://open.spotify.com/track/3RDDSyBIC1rWUvNZmZwgc2)** by **xo** *(ava)*
+🎤 **[wherever you are](https://open.spotify.com/track/5BP6u6zxzEJcU3zwb10ONl)** by **Bigdog30k** *(seeing the beauty)*
+🎤 **[X/25MG](https://open.spotify.com/track/5iRWBr9wD8lk6yMUz5NvHb)** by **Star Boy Archive** *(5ivestarz)*
+🎤 **[foreverafter](https://open.spotify.com/track/3VZOJnsqdsEPBl12HD2EGu)** by **syverina** *(foreverafter)*
+🎤 **[Dariacore's Such a Silly Genre Am I Right](https://open.spotify.com/track/0i3VRbMQ56RJWH0Dza4flu)** by **fen** *(Dariacore's Such a Silly Genre Am I Right)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 17:14:21Z UTC
+🕐 Last updated: 2025-07-10 17:34:48Z UTC
 <!-- SPOTIFY-END -->
