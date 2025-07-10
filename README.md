@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273091de042aeff0b905939b26d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Heartbreak](https://open.spotify.com/track/4ytKWPtRuklv5DEivYU8G5)**
-*by* **Shroomyland**
-*Album:* Heartbreak
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 4:43
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Veno](https://open.spotify.com/track/74b2CQJhjhf9zTNzbYyUj1)** by **Fullempty** *(Veno)*
+🎤 **[Heartbreak](https://open.spotify.com/track/4ytKWPtRuklv5DEivYU8G5)** by **Shroomyland** *(Heartbreak)*
 🎤 **[Я это ты](https://open.spotify.com/track/4rKNCmC0cRfGhqNJL8UYYe)** by **emosplash** *(Код 102)*
 🎤 **[Time Goes By](https://open.spotify.com/track/0UOkp5Jj3eH98MjMNmoyU9)** by **JJohn** *(Waves Of Time (Deluxe))*
 🎤 **[LIQUOR STORE](https://open.spotify.com/track/0PccUXFHLQRoxB32a7fENH)** by **Adi T, SCREW** *(LIQUOR STORE)*
-🎤 **[know u better](https://open.spotify.com/track/7yqnEO2nyVdQas3MtjcZN2)** by **Nvrtheless** *(know u better)*
-🎤 **[90s Dreams](https://open.spotify.com/track/3tmRzh73Udb31PBi86ihB1)** by **Dave Knud** *(90s Dreams)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 20:51:40Z UTC
+🕐 Last updated: 2025-07-10 21:13:18Z UTC
 <!-- SPOTIFY-END -->
