@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cecb0b3e5c5c9fa0be6cbbf9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fe9b3367ceab9394d2dd6fc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)**
-*by* **Horst Krüger-Band**
-*Album:* Die Tagesreise
+**🎵 [filter](https://open.spotify.com/track/22dPNUNgcPLni0olaov6NC)**
+*by* **fawn burke**
+*Album:* filter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:36 • 7:21
+    0:55 • 3:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
-🎤 **[This Way/That Way](https://open.spotify.com/track/3TPW7t0PaZ35u1L8NaCGU7)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
+🎤 **[promise](https://open.spotify.com/track/6FXoqHSCCGOeB1s0MKVnuP)** by **2hollis** *(boy)*
+🎤 **[luvntry](https://open.spotify.com/track/7Hiy7rTGbpnHPTQHdssZ2e)** by **kenesukoh, i9bonsai** *(luvntry)*
+🎤 **[Dariacore's Such a Silly Genre Am I Right](https://open.spotify.com/track/0i3VRbMQ56RJWH0Dza4flu)** by **fen** *(Dariacore's Such a Silly Genre Am I Right)*
+🎤 **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 07:49:11Z UTC
+🕐 Last updated: 2025-07-10 08:18:37Z UTC
 <!-- SPOTIFY-END -->
