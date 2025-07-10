@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27397df6d8f6bae3f81878c2170" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Get Myself Together](https://open.spotify.com/track/2MckhlhlL3Qp8DHaWyURri)**
+*by* **April21, Pitfall, blissed05**
+*Album:* My World
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:50 • 2:57
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)*
-🎤 **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[promise](https://open.spotify.com/track/6FXoqHSCCGOeB1s0MKVnuP)** by **2hollis** *(boy)*
+🎤 **[5amlondon](https://open.spotify.com/track/6AOrV4ynK502K7QF2Y9tFk)** by **RADA** *(5amlondon)*
+🎤 **[Stab](https://open.spotify.com/track/2FroxF4rZXkAlDUOV7E16S)** by **80gawd** *(uui87)*
+🎤 **[villa](https://open.spotify.com/track/7lT9AVb4wYrt4ZwqJm8hDV)** by **Slyy Stone** *(villa)*
+🎤 **[to the end](https://open.spotify.com/track/3TsQ6GvVygG9OVCCAaCSH8)** by **15forevr** *(to the end)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-10 16:49:16Z UTC
+🕐 Last updated: 2025-07-10 17:14:21Z UTC
 <!-- SPOTIFY-END -->
