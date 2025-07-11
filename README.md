@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e0afe2f1be449cef35a6b8d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739fa434e29dc99e69038994f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Amnesia By The Sea](https://open.spotify.com/track/54z9K59ddqwlrjIY3vwpYK)**
-*by* **Kleinefrigo, Orbital Drum System**
-*Album:* Amnesia By The Sea
+**🎵 [All I Need](https://open.spotify.com/track/00K7347Fe23BxCjpiiSKwM)**
+*by* **Fullempty**
+*Album:* All I Need
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 5:12
+    1:18 • 4:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Paris](https://open.spotify.com/track/6Q8HMKb65EsiWDoEJ4M08Z)** by **FTRMNK** *(Volume 2)*
+🎤 **[I'll Be Gone](https://open.spotify.com/track/4Xi8xfDYcr5G9XXcaiMKR1)** by **DJBOEING** *(Serenity)*
+🎤 **[Amnesia By The Sea](https://open.spotify.com/track/54z9K59ddqwlrjIY3vwpYK)** by **Kleinefrigo, Orbital Drum System** *(Amnesia By The Sea)*
 🎤 **[Luma](https://open.spotify.com/track/78IQiiejyopze7P2I3kEvM)** by **Palmate** *(Luma)*
 🎤 **[We Used To Date](https://open.spotify.com/track/1SNgacBRl9d9CsmXXl6VlM)** by **Sideluv** *(We Used To Date)*
-🎤 **[Never Forget](https://open.spotify.com/track/5vJ8E7GVvEtnxQVKZDGScC)** by **Fullempty** *(Never Forget)*
-🎤 **[All I Want](https://open.spotify.com/track/5N6GyJTFXaqAYQPeJdyDlV)** by **Digital Tourist** *(All I Want)*
-🎤 **[Haunt Me](https://open.spotify.com/track/0kbtRYI7dnrfxqgq8ZO6H3)** by **Shroomyland** *(Haunt Me)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 19:27:26Z UTC
+🕐 Last updated: 2025-07-11 19:38:40Z UTC
 <!-- SPOTIFY-END -->
