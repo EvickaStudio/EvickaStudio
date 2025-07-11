@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dd599fcfc5cf65c775085b1f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a80bc47097cd61738a288c3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sunshine Waves](https://open.spotify.com/track/7zcYDLSVivZiPNailgZ90f)**
-*by* **Palmate**
-*Album:* Sunshine Waves
+**🎵 [Only You](https://open.spotify.com/track/1HyVvliLnZ8FTwXTrkaie0)**
+*by* **Sideluv, Digital Tourist**
+*Album:* Only You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:20 • 3:39
+    3:02 • 3:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[4 U](https://open.spotify.com/track/4ODNzEQLHGZpL353cCf4aQ)** by **Sideluv, øverfeel.** *(4 U)*
-🎤 **[295/Simplicity](https://open.spotify.com/track/7kDknk90GkV22ubqd0bYoh)** by **Fullempty** *(295/Simplicity)*
-🎤 **[Be Alright](https://open.spotify.com/track/3sugAQd6qk12TX5orZ6sza)** by **FTRMNK** *(Volume 2)*
-🎤 **[меланхолия нимфоманки](https://open.spotify.com/track/6KKL9RAnoPWNimC6TwLhQO)** by **vecher 1998** *(меланхолия нимфоманки)*
-🎤 **[Unconditional Love](https://open.spotify.com/track/35c6sdyTu4euKo4WDMmtMg)** by **Sideluv** *(Unconditional Love)*
+🎤 **[Pull up on me](https://open.spotify.com/track/3p7UP0ckE6lFVNqu4I1ke0)** by **Fullempty** *(Pull up on me)*
+🎤 **[Sunshine Avenue](https://open.spotify.com/track/0hZX0E5L3KqdOSKiNQsT0a)** by **FTRMNK** *(Volume 2)*
+🎤 **[юность](https://open.spotify.com/track/5J5sXRzXnbCrbF9R3RBdRo)** by **vecher 1998** *(юность)*
+🎤 **[The Morning - Radio Edit](https://open.spotify.com/track/0qu5sJ39enV53dIQZ0mfGf)** by **DJ Houseplants, Uchii** *(The Morning)*
+🎤 **[Sunshine Waves](https://open.spotify.com/track/7zcYDLSVivZiPNailgZ90f)** by **Palmate** *(Sunshine Waves)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 17:33:54Z UTC
+🕐 Last updated: 2025-07-11 17:49:59Z UTC
 <!-- SPOTIFY-END -->
