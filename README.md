@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d2ea0c3b33812c1865f747af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e0afe2f1be449cef35a6b8d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Haunt Me](https://open.spotify.com/track/0kbtRYI7dnrfxqgq8ZO6H3)**
-*by* **Shroomyland**
-*Album:* Haunt Me
+**🎵 [Amnesia By The Sea](https://open.spotify.com/track/54z9K59ddqwlrjIY3vwpYK)**
+*by* **Kleinefrigo, Orbital Drum System**
+*Album:* Amnesia By The Sea
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:31 • 5:13
+    1:24 • 5:12
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Was Lost and You Found Me](https://open.spotify.com/track/3mBT0BUV3Cq373567yfjp4)** by **DJ Houseplants** *(Was Lost and You Found Me)*
-🎤 **[while true](https://open.spotify.com/track/1hufJ3XYlRjQmmlakUMunN)** by **Palmate** *(while true)*
-🎤 **[Can We Talk?](https://open.spotify.com/track/4i8ankRR67jcgSMJQTLWbL)** by **Sideluv** *(Can We Talk?)*
-🎤 **[Bby](https://open.spotify.com/track/3KaYxjfxa3oTRMz1f4PcaO)** by **Fullempty** *(Bby)*
-🎤 **[You Only Know](https://open.spotify.com/track/5KXr2jeZeFyRPugvKzmDqG)** by **Meanetik** *(You Only Know)*
+🎤 **[Luma](https://open.spotify.com/track/78IQiiejyopze7P2I3kEvM)** by **Palmate** *(Luma)*
+🎤 **[We Used To Date](https://open.spotify.com/track/1SNgacBRl9d9CsmXXl6VlM)** by **Sideluv** *(We Used To Date)*
+🎤 **[Never Forget](https://open.spotify.com/track/5vJ8E7GVvEtnxQVKZDGScC)** by **Fullempty** *(Never Forget)*
+🎤 **[All I Want](https://open.spotify.com/track/5N6GyJTFXaqAYQPeJdyDlV)** by **Digital Tourist** *(All I Want)*
+🎤 **[Haunt Me](https://open.spotify.com/track/0kbtRYI7dnrfxqgq8ZO6H3)** by **Shroomyland** *(Haunt Me)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 19:10:39Z UTC
+🕐 Last updated: 2025-07-11 19:27:26Z UTC
 <!-- SPOTIFY-END -->
