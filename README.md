@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273764ef5f24230e647c64406d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27310ce6e281e32b774b5dc096e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Feeling Blue](https://open.spotify.com/track/4RHRb1GhgAsw3uM69k96xt)**
-*by* **Palmate**
-*Album:* Above the Horizon
+**🎵 [You Only Know](https://open.spotify.com/track/5KXr2jeZeFyRPugvKzmDqG)**
+*by* **Meanetik**
+*Album:* You Only Know
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 4:07
+    1:45 • 3:20
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Not Your Type](https://open.spotify.com/track/77cNv0DURtX2W87RKaX8qU)** by **Sideluv** *(Not Your Type)*
-🎤 **[What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO)** by **Fullempty** *(What Sade said)*
-🎤 **[Cool Kids](https://open.spotify.com/track/377BAzWMgxB9nd6iGKDco5)** by **GIJS** *(Cool Kids)*
-🎤 **[Код 102](https://open.spotify.com/track/2YqXFGaCdwDartqPVJCtti)** by **emosplash, Avenax** *(Код 102)*
-🎤 **[Again](https://open.spotify.com/track/6dNx7Ue4yUFxnUdc8Gp1nB)** by **Shroomyland** *(Again)*
+🎤 **[Bloom](https://open.spotify.com/track/13kuP4Oa5Q4IgOyaj6EyhM)** by **DELACOUR** *(Bloom)*
+🎤 **[Ni**A from Da](https://open.spotify.com/track/0257WjVzt4LyG3WqLRNI8g)** by **emosplash** *(Код 102)*
+🎤 **[The Way We Are](https://open.spotify.com/track/0qcANLmgDq3piisgdjKGEi)** by **Palmate** *(The Way We Are)*
+🎤 **[Too Young To Be This Sad](https://open.spotify.com/track/58XElnfZC6eoHqBgOFbgD6)** by **Sideluv** *(Too Young To Be This Sad)*
+🎤 **[Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3)** by **Fullempty** *(Every Day 2005)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 18:18:16Z UTC
+🕐 Last updated: 2025-07-11 18:48:31Z UTC
 <!-- SPOTIFY-END -->
