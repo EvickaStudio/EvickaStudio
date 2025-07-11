@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737e7c583c65267392553f143c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dd599fcfc5cf65c775085b1f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lose Control - Tea with Quincy Mix](https://open.spotify.com/track/6D07amx8jFdSqGG2l8PbmL)**
-*by* **Dino Lenny**
-*Album:* Lose Control
+**🎵 [Sunshine Waves](https://open.spotify.com/track/7zcYDLSVivZiPNailgZ90f)**
+*by* **Palmate**
+*Album:* Sunshine Waves
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="248" height="4" fill="#1db954" rx="2"/>
-    <circle cx="248" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    7:40 • 9:16
+    3:20 • 3:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
-🎤 **[Fascination](https://open.spotify.com/track/678s3GakaG4KIQ1aWt1M68)** by **Horsemen** *(Earthquake VA)*
-🎤 **[No Remorse](https://open.spotify.com/track/4B8dW0fsRrN57yunOzplcs)** by **Soundboarders** *(House File)*
-🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
-🎤 **[Bleu Mood](https://open.spotify.com/track/1azldKFvU6qiXKS7ClpkLd)** by **Mara Lakour** *(Various, Vol. 2)*
+🎤 **[4 U](https://open.spotify.com/track/4ODNzEQLHGZpL353cCf4aQ)** by **Sideluv, øverfeel.** *(4 U)*
+🎤 **[295/Simplicity](https://open.spotify.com/track/7kDknk90GkV22ubqd0bYoh)** by **Fullempty** *(295/Simplicity)*
+🎤 **[Be Alright](https://open.spotify.com/track/3sugAQd6qk12TX5orZ6sza)** by **FTRMNK** *(Volume 2)*
+🎤 **[меланхолия нимфоманки](https://open.spotify.com/track/6KKL9RAnoPWNimC6TwLhQO)** by **vecher 1998** *(меланхолия нимфоманки)*
+🎤 **[Unconditional Love](https://open.spotify.com/track/35c6sdyTu4euKo4WDMmtMg)** by **Sideluv** *(Unconditional Love)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 17:12:57Z UTC
+🕐 Last updated: 2025-07-11 17:33:54Z UTC
 <!-- SPOTIFY-END -->
