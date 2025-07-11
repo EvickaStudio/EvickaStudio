@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739fa434e29dc99e69038994f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273520fa14851124a15b916aaa1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All I Need](https://open.spotify.com/track/00K7347Fe23BxCjpiiSKwM)**
-*by* **Fullempty**
-*Album:* All I Need
+**🎵 [Start Again](https://open.spotify.com/track/3v8EGMl4fchj8JdVSY96w2)**
+*by* **Palmate**
+*Album:* Start Again
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 4:07
+    2:18 • 3:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Plug](https://open.spotify.com/track/3igjgyRC8xviSnmW1CadxG)** by **Sideluv** *(Plug)*
+🎤 **[All I Need](https://open.spotify.com/track/00K7347Fe23BxCjpiiSKwM)** by **Fullempty** *(All I Need)*
 🎤 **[Paris](https://open.spotify.com/track/6Q8HMKb65EsiWDoEJ4M08Z)** by **FTRMNK** *(Volume 2)*
 🎤 **[I'll Be Gone](https://open.spotify.com/track/4Xi8xfDYcr5G9XXcaiMKR1)** by **DJBOEING** *(Serenity)*
 🎤 **[Amnesia By The Sea](https://open.spotify.com/track/54z9K59ddqwlrjIY3vwpYK)** by **Kleinefrigo, Orbital Drum System** *(Amnesia By The Sea)*
-🎤 **[Luma](https://open.spotify.com/track/78IQiiejyopze7P2I3kEvM)** by **Palmate** *(Luma)*
-🎤 **[We Used To Date](https://open.spotify.com/track/1SNgacBRl9d9CsmXXl6VlM)** by **Sideluv** *(We Used To Date)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 19:38:40Z UTC
+🕐 Last updated: 2025-07-11 19:47:21Z UTC
 <!-- SPOTIFY-END -->
