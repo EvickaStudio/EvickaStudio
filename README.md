@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273520fa14851124a15b916aaa1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ea25a357b17dd06101122d83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Start Again](https://open.spotify.com/track/3v8EGMl4fchj8JdVSY96w2)**
-*by* **Palmate**
-*Album:* Start Again
+**🎵 [a full moon](https://open.spotify.com/track/2qcjBeve1twFNpu3nnOaSw)**
+*by* **kushforthesoul**
+*Album:* a full moon
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 3:38
+    1:56 • 3:15
 </span>
 </p>
 
@@ -131,20 +131,20 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Plug](https://open.spotify.com/track/3igjgyRC8xviSnmW1CadxG)** by **Sideluv** *(Plug)*
-🎤 **[All I Need](https://open.spotify.com/track/00K7347Fe23BxCjpiiSKwM)** by **Fullempty** *(All I Need)*
-🎤 **[Paris](https://open.spotify.com/track/6Q8HMKb65EsiWDoEJ4M08Z)** by **FTRMNK** *(Volume 2)*
-🎤 **[I'll Be Gone](https://open.spotify.com/track/4Xi8xfDYcr5G9XXcaiMKR1)** by **DJBOEING** *(Serenity)*
-🎤 **[Amnesia By The Sea](https://open.spotify.com/track/54z9K59ddqwlrjIY3vwpYK)** by **Kleinefrigo, Orbital Drum System** *(Amnesia By The Sea)*
+🎤 **[Tomorrow At Dawn](https://open.spotify.com/track/19VAtkxLdJ8YQu6Bdb1x8S)** by **Palmate** *(Tomorrow At Dawn)*
+🎤 **[Back 2 U](https://open.spotify.com/track/4qbpFCZAZUHigAdwXkqjYy)** by **Sideluv** *(Back 2 U)*
+🎤 **[By myself](https://open.spotify.com/track/6i8uHffWNMpB9jY6iGALyN)** by **Fullempty** *(By myself)*
+🎤 **[Loveless](https://open.spotify.com/track/7Em9XS5HLzAqzNAkL7pe4S)** by **Gygas** *(Nothing Is Creatied. Nothing Is Destroyed. Everything Is Transformed)*
+🎤 **[México Grand Prix](https://open.spotify.com/track/5ZOntYjoJgWEd5rqBUqN6n)** by **Odysseus** *(Y2K)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
-🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🏅 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
+🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥉 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 19:47:21Z UTC
+🕐 Last updated: 2025-07-11 20:14:40Z UTC
 <!-- SPOTIFY-END -->
