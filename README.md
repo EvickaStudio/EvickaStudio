@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27350ffc621ac2871d6df31409e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27395c274d0b7efa59eaeca6153" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Broken](https://open.spotify.com/track/6IvyojBvzsSRjR14PxxiyB)**
-*by* **Cassio Kohl**
-*Album:* Broken
+**🎵 [Chikyu-u 002](https://open.spotify.com/track/1xV07RDwmg4DUBqCYkv1pK)**
+*by* **R.M**
+*Album:* Chikyu-u 001/002
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:29 • 7:48
+    3:17 • 9:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
-🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
-🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
+🎤 **[Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)** by **Odysseus** *(Y2K)*
+🎤 **[Deeply](https://open.spotify.com/track/7iUxHYCYe2fhlJ7YbBZ9Nh)** by **Frink** *(Deeply)*
+🎤 **[Расскажи мне всё](https://open.spotify.com/track/2ufVMmXetQZ3Zzh1OK286u)** by **emosplash** *(Код 102)*
+🎤 **[Bloom](https://open.spotify.com/track/40EcyIQoY1429p3gGiI63l)** by **Malin Genie** *(Bloom)*
+🎤 **[Broken](https://open.spotify.com/track/6IvyojBvzsSRjR14PxxiyB)** by **Cassio Kohl** *(Broken)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 15:51:01Z UTC
+🕐 Last updated: 2025-07-11 16:16:00Z UTC
 <!-- SPOTIFY-END -->
