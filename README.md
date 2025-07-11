@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310ce6e281e32b774b5dc096e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d2ea0c3b33812c1865f747af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [You Only Know](https://open.spotify.com/track/5KXr2jeZeFyRPugvKzmDqG)**
-*by* **Meanetik**
-*Album:* You Only Know
+**🎵 [Haunt Me](https://open.spotify.com/track/0kbtRYI7dnrfxqgq8ZO6H3)**
+*by* **Shroomyland**
+*Album:* Haunt Me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 3:20
+    3:31 • 5:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Bloom](https://open.spotify.com/track/13kuP4Oa5Q4IgOyaj6EyhM)** by **DELACOUR** *(Bloom)*
-🎤 **[Ni**A from Da](https://open.spotify.com/track/0257WjVzt4LyG3WqLRNI8g)** by **emosplash** *(Код 102)*
-🎤 **[The Way We Are](https://open.spotify.com/track/0qcANLmgDq3piisgdjKGEi)** by **Palmate** *(The Way We Are)*
-🎤 **[Too Young To Be This Sad](https://open.spotify.com/track/58XElnfZC6eoHqBgOFbgD6)** by **Sideluv** *(Too Young To Be This Sad)*
-🎤 **[Every Day 2005](https://open.spotify.com/track/71GCilijISWzoS65kfDku3)** by **Fullempty** *(Every Day 2005)*
+🎤 **[Was Lost and You Found Me](https://open.spotify.com/track/3mBT0BUV3Cq373567yfjp4)** by **DJ Houseplants** *(Was Lost and You Found Me)*
+🎤 **[while true](https://open.spotify.com/track/1hufJ3XYlRjQmmlakUMunN)** by **Palmate** *(while true)*
+🎤 **[Can We Talk?](https://open.spotify.com/track/4i8ankRR67jcgSMJQTLWbL)** by **Sideluv** *(Can We Talk?)*
+🎤 **[Bby](https://open.spotify.com/track/3KaYxjfxa3oTRMz1f4PcaO)** by **Fullempty** *(Bby)*
+🎤 **[You Only Know](https://open.spotify.com/track/5KXr2jeZeFyRPugvKzmDqG)** by **Meanetik** *(You Only Know)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 18:48:31Z UTC
+🕐 Last updated: 2025-07-11 19:10:39Z UTC
 <!-- SPOTIFY-END -->
