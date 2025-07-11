@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea25a357b17dd06101122d83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a665cf4431f2fbdee0e32c3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [a full moon](https://open.spotify.com/track/2qcjBeve1twFNpu3nnOaSw)**
-*by* **kushforthesoul**
-*Album:* a full moon
+**🎵 [Dub City](https://open.spotify.com/track/0hLUZTVuDuDUOAV4NYWGUa)**
+*by* **DELACOUR**
+*Album:* Dub City
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
+    <rect width="156" height="4" fill="#1db954" rx="2"/>
+    <circle cx="156" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 3:15
+    1:59 • 3:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Tomorrow At Dawn](https://open.spotify.com/track/19VAtkxLdJ8YQu6Bdb1x8S)** by **Palmate** *(Tomorrow At Dawn)*
-🎤 **[Back 2 U](https://open.spotify.com/track/4qbpFCZAZUHigAdwXkqjYy)** by **Sideluv** *(Back 2 U)*
-🎤 **[By myself](https://open.spotify.com/track/6i8uHffWNMpB9jY6iGALyN)** by **Fullempty** *(By myself)*
-🎤 **[Loveless](https://open.spotify.com/track/7Em9XS5HLzAqzNAkL7pe4S)** by **Gygas** *(Nothing Is Creatied. Nothing Is Destroyed. Everything Is Transformed)*
-🎤 **[México Grand Prix](https://open.spotify.com/track/5ZOntYjoJgWEd5rqBUqN6n)** by **Odysseus** *(Y2K)*
+🎤 **[Stuck In My Mind](https://open.spotify.com/track/6RkH6XZeVHhcKkvzre2Cwj)** by **Odysseus** *(Stuck In My Mind)*
+🎤 **[Balcony in Milano](https://open.spotify.com/track/7g1K0Hq3OIBhbhQSxA6GFc)** by **Palmate** *(Balcony in Milano)*
+🎤 **[Tryna Hold On](https://open.spotify.com/track/0yDXsTjLcFgPDRkuayRlgp)** by **DJ Houseplants, Jacopo Sb** *(Tryna Hold On)*
+🎤 **[Narin](https://open.spotify.com/track/3ar51mmHiRMCicvO54ekG6)** by **FTRMNK** *(Volume 1)*
+🎤 **[a full moon](https://open.spotify.com/track/2qcjBeve1twFNpu3nnOaSw)** by **kushforthesoul** *(a full moon)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 20:14:40Z UTC
+🕐 Last updated: 2025-07-11 20:34:50Z UTC
 <!-- SPOTIFY-END -->
