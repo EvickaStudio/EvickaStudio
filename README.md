@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce259b78833d4ed81df3a530" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737e7c583c65267392553f143c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bleu Mood](https://open.spotify.com/track/1azldKFvU6qiXKS7ClpkLd)**
-*by* **Mara Lakour**
-*Album:* Various, Vol. 2
+**🎵 [Lose Control - Tea with Quincy Mix](https://open.spotify.com/track/6D07amx8jFdSqGG2l8PbmL)**
+*by* **Dino Lenny**
+*Album:* Lose Control
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    7:12 • 7:25
+    7:40 • 9:16
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Speranta](https://open.spotify.com/track/5hUG4khCMWpNXKOH5kTMgP)** by **Ada Kaleh, Traumer** *("Assembling Pieces" LP : Digital Bonuses)*
-🎤 **[Zero Gravity](https://open.spotify.com/track/3t77AfBKRaeOFd2NDHVduK)** by **Brickman** *(Reflections)*
-🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
-🎤 **[Chikyu-u 002](https://open.spotify.com/track/1xV07RDwmg4DUBqCYkv1pK)** by **R.M** *(Chikyu-u 001/002)*
-🎤 **[Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)** by **Odysseus** *(Y2K)*
+🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
+🎤 **[Fascination](https://open.spotify.com/track/678s3GakaG4KIQ1aWt1M68)** by **Horsemen** *(Earthquake VA)*
+🎤 **[No Remorse](https://open.spotify.com/track/4B8dW0fsRrN57yunOzplcs)** by **Soundboarders** *(House File)*
+🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
+🎤 **[Bleu Mood](https://open.spotify.com/track/1azldKFvU6qiXKS7ClpkLd)** by **Mara Lakour** *(Various, Vol. 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 16:47:40Z UTC
+🕐 Last updated: 2025-07-11 17:12:57Z UTC
 <!-- SPOTIFY-END -->
