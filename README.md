@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6da54fc10c5983a0c3c9369" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [After Hours](https://open.spotify.com/track/5DlhArcEYDrzLODv4Y6TmX)**
-*by* **Shroomyland**
-*Album:* After Hours
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="167" height="4" fill="#1db954" rx="2"/>
-    <circle cx="167" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:50 • 5:05
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Onetwentynine](https://open.spotify.com/track/4XfBa2KBuTNvSpKHfrR9f2)** by **Fullempty** *(Imagination)*
-🎤 **[The Morning - DJibouti Remix](https://open.spotify.com/track/7dzGUUFmJWMRP34jaUbfmc)** by **DJ Houseplants, DJibouti, Uchii** *(The Morning (DJibouti Remix))*
-🎤 **[No Feelings](https://open.spotify.com/track/7JqUzCEIijure99GZ6w2bk)** by **Sideluv** *(No Feelings)*
-🎤 **[Dub City](https://open.spotify.com/track/0hLUZTVuDuDUOAV4NYWGUa)** by **DELACOUR** *(Dub City)*
-🎤 **[Stuck In My Mind](https://open.spotify.com/track/6RkH6XZeVHhcKkvzre2Cwj)** by **Odysseus** *(Stuck In My Mind)*
+🎤 **[How It Used to Be](https://open.spotify.com/track/7ia7N8CZeD153jUfc6a9pf)** by **DJ Houseplants, Jacopo Sb** *(How It Used to Be)*
+🎤 **[Bad Situations](https://open.spotify.com/track/3SRaRS1of3P9FzIVqCEvDi)** by **Sideluv** *(Bad Situations)*
+🎤 **[Midnight Club](https://open.spotify.com/track/6cg9Tnerna1V1ZCwPqaJWf)** by **DELACOUR** *(Midnight Club)*
+🎤 **[U Got Me](https://open.spotify.com/track/7Hox1mJ1hkc1elcPGBEA7S)** by **Odysseus** *(Y2K)*
+🎤 **[After Hours](https://open.spotify.com/track/5DlhArcEYDrzLODv4Y6TmX)** by **Shroomyland** *(After Hours)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 20:51:23Z UTC
+🕐 Last updated: 2025-07-11 21:12:17Z UTC
 <!-- SPOTIFY-END -->
