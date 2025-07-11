@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a80bc47097cd61738a288c3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273764ef5f24230e647c64406d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Only You](https://open.spotify.com/track/1HyVvliLnZ8FTwXTrkaie0)**
-*by* **Sideluv, Digital Tourist**
-*Album:* Only You
+**🎵 [Feeling Blue](https://open.spotify.com/track/4RHRb1GhgAsw3uM69k96xt)**
+*by* **Palmate**
+*Album:* Above the Horizon
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:02 • 3:15
+    2:54 • 4:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Pull up on me](https://open.spotify.com/track/3p7UP0ckE6lFVNqu4I1ke0)** by **Fullempty** *(Pull up on me)*
-🎤 **[Sunshine Avenue](https://open.spotify.com/track/0hZX0E5L3KqdOSKiNQsT0a)** by **FTRMNK** *(Volume 2)*
-🎤 **[юность](https://open.spotify.com/track/5J5sXRzXnbCrbF9R3RBdRo)** by **vecher 1998** *(юность)*
-🎤 **[The Morning - Radio Edit](https://open.spotify.com/track/0qu5sJ39enV53dIQZ0mfGf)** by **DJ Houseplants, Uchii** *(The Morning)*
-🎤 **[Sunshine Waves](https://open.spotify.com/track/7zcYDLSVivZiPNailgZ90f)** by **Palmate** *(Sunshine Waves)*
+🎤 **[Not Your Type](https://open.spotify.com/track/77cNv0DURtX2W87RKaX8qU)** by **Sideluv** *(Not Your Type)*
+🎤 **[What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO)** by **Fullempty** *(What Sade said)*
+🎤 **[Cool Kids](https://open.spotify.com/track/377BAzWMgxB9nd6iGKDco5)** by **GIJS** *(Cool Kids)*
+🎤 **[Код 102](https://open.spotify.com/track/2YqXFGaCdwDartqPVJCtti)** by **emosplash, Avenax** *(Код 102)*
+🎤 **[Again](https://open.spotify.com/track/6dNx7Ue4yUFxnUdc8Gp1nB)** by **Shroomyland** *(Again)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 17:49:59Z UTC
+🕐 Last updated: 2025-07-11 18:18:16Z UTC
 <!-- SPOTIFY-END -->
