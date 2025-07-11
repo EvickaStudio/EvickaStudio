@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Everybody's Got A Gun And They're Aiming At Me](https://open.spotify.com/track/2zdKbCgjOmgRSQqfoMnzUC)** by **dgnr8** *(Bruises)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
-🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
+🎤 **[Es braucht nicht viel, ich will nur sein](https://open.spotify.com/track/12udUDOGGzpXI0cVpjC6sb)** by **strangerperson** *(Es braucht nicht viel, ich will nur sein)*
+🎤 **[Pressure](https://open.spotify.com/track/0gQvQcwBhow9Ul0UMx5tbt)** by **Sleepy Opiate** *(Pressure)*
+🎤 **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))*
+🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
+🎤 **[i know better (teary eyes)](https://open.spotify.com/track/2DpGt5UbHv68erhNBpFzMI)** by **freya langley, FLOURYSH** *(i know better than to let you go)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 10:53:11Z UTC
+🕐 Last updated: 2025-07-11 11:12:06Z UTC
 <!-- SPOTIFY-END -->
