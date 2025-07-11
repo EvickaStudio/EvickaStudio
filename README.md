@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736138153f00f9378f1d112caf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731151a30078d107d4ea25934f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ättestupa](https://open.spotify.com/track/0Q18CWf1Ml4J3ZnxovpuM4)**
-*by* **Holograms**
-*Album:* Forever
+**🎵 [Run away](https://open.spotify.com/track/16kgZLmoyRObHMNKgvVS3g)**
+*by* **KirbLaGoop, meat computer**
+*Album:* Adventures Of The Goop
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="277" height="4" fill="#1db954" rx="2"/>
-    <circle cx="277" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:16 • 3:33
+    0:48 • 2:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
+🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
+🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
+🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-11 07:51:01Z UTC
+🕐 Last updated: 2025-07-11 08:17:52Z UTC
 <!-- SPOTIFY-END -->
