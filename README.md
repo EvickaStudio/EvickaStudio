@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27383825ea06154bef1cd7114e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c72a58f12410a9afa7910fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dark Blue](https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW)**
-*by* **User2222**
-*Album:* Dark Blue
+**🎵 [Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)**
+*by* **SSIEGE**
+*Album:* Fading Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="164" height="4" fill="#1db954" rx="2"/>
-    <circle cx="164" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 3:33
+    2:15 • 3:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Wingspan](https://open.spotify.com/track/6HmTAsOX9oARMyFdMY4E7g)** by **The Hellp** *(Vol. 1)*
-🎤 **[Nie Gesagt](https://open.spotify.com/track/1GTnl5tw91EOslefYJHy01)** by **Drückeberger** *(Nie Gesagt)*
-🎤 **[beckenrand](https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0)** by **SCHRAMM** *(beckenrand)*
-🎤 **[scheißegal](https://open.spotify.com/track/4kKQ18vrBXRSGTreZ03QwV)** by **Clemo** *(scheißegal)*
-🎤 **[bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)** by **Leocardo DiNaprio, emi x** *(bis es tag wird)*
+🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
+🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
+🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
+🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
+🎤 **[If I'm Born I Have To Live](https://open.spotify.com/track/6ttVp6mDcydXU9qhlaNVYW)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 17:10:32Z UTC
+🕐 Last updated: 2025-07-12 17:29:58Z UTC
 <!-- SPOTIFY-END -->
