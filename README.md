@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c72a58f12410a9afa7910fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730cf946efac17ab64df486775" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)**
-*by* **SSIEGE**
-*Album:* Fading Summer
+**🎵 [Baby, Don't Change Your Mind](https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX)**
+*by* **Gladys Knight & The Pips**
+*Album:* The Greatest Hits
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+    <rect width="176" height="4" fill="#1db954" rx="2"/>
+    <circle cx="176" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 3:25
+    1:53 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
-🎤 **[Drying Roses](https://open.spotify.com/track/7kfYMLdmVqpoCCES2wGqn1)** by **Flawless Issues** *(Drying Roses)*
-🎤 **[Tunichtgut PT2](https://open.spotify.com/track/6inSOTrZr4Qxr9ZH3LfafR)** by **Wayward Rubyn, Niki Powernap** *(Tagedieb & Taugenichts)*
-🎤 **[All Black Everything](https://open.spotify.com/track/1SoWPeZevO4OpVfuzNKhPL)** by **luc** *(All Black Everything)*
-🎤 **[Alles gut](https://open.spotify.com/track/1ne1D2aSouP3XotVarAHmZ)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
+🎤 **[Too Much, Too Little, Too Late (with Deniece Williams)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm)** by **Johnny Mathis, Deniece Williams** *(The Essential Johnny Mathis 3.0)*
+🎤 **[The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp)** by **The Supremes** *(The Story Of The Supremes)*
+🎤 **[Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)** by **Commodores** *(Natural High)*
+🎤 **[I Can See Clearly Now](https://open.spotify.com/track/17WBjhf0bGnd4dK7ofbQW0)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 11:47:47Z UTC
+🕐 Last updated: 2025-07-12 12:22:58Z UTC
 <!-- SPOTIFY-END -->
