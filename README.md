@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357b0ca127bac0dd2ffb7e012" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273827da7e4746cf7941c63a807" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Randale](https://open.spotify.com/track/7DfGqpkFy4MZJgn2lPbh7G)**
-*by* **Asservatenkammer**
-*Album:* Chaos im Lebenslauf
+**🎵 [T-U-N](https://open.spotify.com/track/4pqRalJk2A8TH8QAGdd0qC)**
+*by* **curcuma**
+*Album:* T-U-N
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 2:39
+    0:40 • 2:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[idrm](https://open.spotify.com/track/4ZN2sHbUM4pB4n9EUXvs4q)** by **aus** *(idrm)*
-🎤 **[erfrieren](https://open.spotify.com/track/5dNzKq3y0kRgYjs5TbA5N7)** by **Ignaz** *(träumen-erfrieren-fliegen)*
-🎤 **[Fiel mir nie schwer](https://open.spotify.com/track/5hI28L7tWjRU5cwHNWbqU2)** by **Urbannino** *(noch Zehn gute Jahre)*
-🎤 **[Nichts Zu Verlieren](https://open.spotify.com/track/7MPGVy1OF2fKxgjBoncuiP)** by **Streichholz** *(Nichts Zu Verlieren)*
-🎤 **[geld](https://open.spotify.com/track/6XpZn4DrO0Sn25E7G2g6tK)** by **heinrich** *(geld)*
+🎤 **[Leave Me Now](https://open.spotify.com/track/7JyIIwXRQHp8sLH726seFy)** by **SOFTBLECH** *(Leave Me Now)*
+🎤 **[Light Room](https://open.spotify.com/track/7JxPK8UzTCBBkLhwYd3FGq)** by **Human Tetris** *(Common Feeling)*
+🎤 **[nacht](https://open.spotify.com/track/00AqOgHE0XPiRbSkAfOe3K)** by **Ignaz** *(change)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
+🎤 **[Drowning in Sadness](https://open.spotify.com/track/72iF3CLciF5BzOGA7tPgBJ)** by **Midnight Darkwave** *(Drowning in Sadness)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 15:50:07Z UTC
+🕐 Last updated: 2025-07-12 16:14:19Z UTC
 <!-- SPOTIFY-END -->
