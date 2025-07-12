@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcc11a888c9d7853e06dc61c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)**
-*by* **SQF2000**
-*Album:* YOLOCORE
+**🎵 [Chaos](https://open.spotify.com/track/7uyFBp1ZiB025NWRNurPot)**
+*by* **toobrokeforfiji**
+*Album:* Was is mit UNS los?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="216" height="4" fill="#1db954" rx="2"/>
+    <circle cx="216" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:43
+    2:19 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Oceans](https://open.spotify.com/track/0XahsqAZULPMHkVmFJC2Nf)** by **twentyseven** *(Oceans)*
-🎤 **[Divgalvains Teļš](https://open.spotify.com/track/23bq4wuB0OSgZLtD5BTjXf)** by **Naave** *(Viss Tomēr Ir Pelēks)*
-🎤 **[Качели](https://open.spotify.com/track/2oFDPvqYxd79lXdhRLzzgy)** by **Лучшая подруга, ВЛАЖНОСТЬ** *(Качели)*
-🎤 **[pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)** by **5star, Talia Dorr** *(pappschild)*
-🎤 **[/ppp/](https://open.spotify.com/track/03ozRFvcVcEqpjzMU9Kkf6)** by **Boris Schnell** *(Lunar)*
+🎤 **[In deinem Arm](https://open.spotify.com/track/03OTYDPYFgRlGu2R9YGkwD)** by **Thomas Rosendorn** *(In deinem Arm)*
+🎤 **[SAG WIESO](https://open.spotify.com/track/7GZX0mKgq0PDSRjPBNhLKs)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[was jetzt?](https://open.spotify.com/track/3AAYIf7M6NqD886DCeBIi6)** by **malasangre, wiza** *(was jetzt?)*
+🎤 **[kopfzerbrechen](https://open.spotify.com/track/3pf4odONm6tVTwoyerhrPa)** by **Metmyself!** *(kopfzerbrechen)*
+🎤 **[Leere](https://open.spotify.com/track/2cIh3MAo25DxWK3JhELz2M)** by **Keiner Will Stille** *(Leere)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 10:50:53Z UTC
+🕐 Last updated: 2025-07-12 11:10:40Z UTC
 <!-- SPOTIFY-END -->
