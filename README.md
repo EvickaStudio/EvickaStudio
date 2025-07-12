@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273827da7e4746cf7941c63a807" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27335c591dfd1632882383b1d76" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [T-U-N](https://open.spotify.com/track/4pqRalJk2A8TH8QAGdd0qC)**
-*by* **curcuma**
-*Album:* T-U-N
+**🎵 [Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)**
+*by* **nobis, Absteige**
+*Album:* Vorschlaghammer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:47
+    1:08 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Leave Me Now](https://open.spotify.com/track/7JyIIwXRQHp8sLH726seFy)** by **SOFTBLECH** *(Leave Me Now)*
-🎤 **[Light Room](https://open.spotify.com/track/7JxPK8UzTCBBkLhwYd3FGq)** by **Human Tetris** *(Common Feeling)*
-🎤 **[nacht](https://open.spotify.com/track/00AqOgHE0XPiRbSkAfOe3K)** by **Ignaz** *(change)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[Drowning in Sadness](https://open.spotify.com/track/72iF3CLciF5BzOGA7tPgBJ)** by **Midnight Darkwave** *(Drowning in Sadness)*
+🎤 **[Leipzig OST](https://open.spotify.com/track/2m9LQwqR2j7NgIw6fBRUxT)** by **Elende Leiber** *(Leipzig OST)*
+🎤 **[dunkelheit](https://open.spotify.com/track/3xJBUmEoLsR8tkqkOtmUGd)** by **Ignaz** *(dunkelheit)*
+🎤 **[Schulterblick](https://open.spotify.com/track/52BDBFhOsrLo4O49BPU9Ri)** by **Bernstein** *(Schulterblick)*
+🎤 **[Idles & Sudoku](https://open.spotify.com/track/2alRkmwAel7uYdLOhwRlU0)** by **Grand Hotel Schilling** *(Idles & Sudoku)*
+🎤 **[Einbruch](https://open.spotify.com/track/20aNUq4CRov6PtyH4yWDtZ)** by **eckstein** *(Einbruch)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 16:14:19Z UTC
+🕐 Last updated: 2025-07-12 16:39:36Z UTC
 <!-- SPOTIFY-END -->
