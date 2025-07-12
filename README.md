@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed78d4837e9e8cd6ddd80c91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27358de3a03d04610c2ae3a8d97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FISHNETS](https://open.spotify.com/track/6UOd4Ij2uvZ4dcCULtdibq)**
-*by* **The Masqs, Dxrkknght**
-*Album:* FISHNETS
+**🎵 [spinnennetz](https://open.spotify.com/track/0ORMTH9iEusmQuI2dhW1ZF)**
+*by* **Leocardo DiNaprio**
+*Album:* stadtgeflüster
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="49" height="4" fill="#1db954" rx="2"/>
-    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 1:56
+    2:17 • 2:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Fail at Love](https://open.spotify.com/track/6WL1zq8dpvQp41JNKJDX7c)** by **SCHRAMM** *(How to fail at Love - EP)*
-🎤 **[wir passieren](https://open.spotify.com/track/0NMJRnktIfVWF9sYoBBFqV)** by **Tape Head, NONI** *(wir passieren)*
-🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
-🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
-🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
+🎤 **[Spuren Im Schnee](https://open.spotify.com/track/37kqbpYdNJa73LxUYP8G8D)** by **Drückeberger** *(Armselig)*
+🎤 **[Schleife.](https://open.spotify.com/track/0w1XDjNKePKw6QiP8CzF4v)** by **German Bot** *(Schleife.)*
+🎤 **[WAND](https://open.spotify.com/track/3yUf9jXOSByCiBWRHpFWvi)** by **Deutsche Vita** *(WAND)*
+🎤 **[Ich bin Ich (Wir sind wir)](https://open.spotify.com/track/5Zz1fcJoqIiE8MGbfStvp5)** by **nobis** *(Ich bin Ich (Wir sind wir))*
+🎤 **[FISHNETS](https://open.spotify.com/track/6UOd4Ij2uvZ4dcCULtdibq)** by **The Masqs, Dxrkknght** *(FISHNETS)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 14:32:27Z UTC
+🕐 Last updated: 2025-07-12 14:49:25Z UTC
 <!-- SPOTIFY-END -->
