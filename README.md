@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730cf946efac17ab64df486775" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Baby, Don't Change Your Mind](https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX)**
-*by* **Gladys Knight & The Pips**
-*Album:* The Greatest Hits
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="176" height="4" fill="#1db954" rx="2"/>
-    <circle cx="176" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 3:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Too Much, Too Little, Too Late (with Deniece Williams)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm)** by **Johnny Mathis, Deniece Williams** *(The Essential Johnny Mathis 3.0)*
-🎤 **[The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp)** by **The Supremes** *(The Story Of The Supremes)*
-🎤 **[Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)** by **Commodores** *(Natural High)*
-🎤 **[I Can See Clearly Now](https://open.spotify.com/track/17WBjhf0bGnd4dK7ofbQW0)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[How Does It Feel?](https://open.spotify.com/track/2Y5gt29YykN3H2ByH1GBpB)** by **Malta Mina** *(How Does It Feel?)*
+🎤 **[Slow Küssen](https://open.spotify.com/track/5gjX8H1QJ0IYM3Ms1hkrfn)** by **insschlosswollen** *(Hast du heute vom Fliegen geträumt?)*
+🎤 **[Labyrinth](https://open.spotify.com/track/1iCeKMY6ZNI9w2LSHWkxC4)** by **Neuser** *(Labyrinth - Teil 1)*
+🎤 **[Детство](https://open.spotify.com/track/0vW6DtuvN33RqCYNfHmkCS)** by **Лодка** *(Четыре победы)*
+🎤 **[Ich tanze wie ich will](https://open.spotify.com/track/2kwrcAjbzRvc54k4yEo6O2)** by **Heldenviertel** *(Mitfahrer durchs Land)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 12:22:58Z UTC
+🕐 Last updated: 2025-07-12 13:02:38Z UTC
 <!-- SPOTIFY-END -->
