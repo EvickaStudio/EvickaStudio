@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730daff12eb02c05b44cbda213" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27333725fdd683acf9332571d24" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint](https://open.spotify.com/track/5V0GcRiy2UKEb1X19NnsFw)**
-*by* **lauenburg**
-*Album:* Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough)
+**🎵 [/ppp/](https://open.spotify.com/track/03ozRFvcVcEqpjzMU9Kkf6)**
+*by* **Boris Schnell**
+*Album:* Lunar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="100" height="4" fill="#1db954" rx="2"/>
+    <circle cx="100" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:49 • 3:15
+    1:20 • 3:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Ein Strauß Auf Einem Grab](https://open.spotify.com/track/6eVIUGTY0GuR95ZBBseYMd)** by **Miese Mau** *(Centipede EP)*
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[Schlaflos](https://open.spotify.com/track/6JeuYQEAXuWyvFhHPmzJgQ)** by **LOY, just.in, noXi** *(Schlaflos)*
-🎤 **[pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)** by **5star, Talia Dorr** *(pappschild)*
-🎤 **[Качели](https://open.spotify.com/track/2oFDPvqYxd79lXdhRLzzgy)** by **Лучшая подруга, ВЛАЖНОСТЬ** *(Качели)*
+🎤 **[NN Weltweit](https://open.spotify.com/track/69AiVFD4lBpRG2LVY6uoUI)** by **Nicki Papa** *(Wendepunkt)*
+🎤 **[Tunichtgut PT2](https://open.spotify.com/track/6inSOTrZr4Qxr9ZH3LfafR)** by **Wayward Rubyn, Niki Powernap** *(Tagedieb & Taugenichts)*
+🎤 **[trust me](https://open.spotify.com/track/4URp2LkBazcHGQYYbQMLH3)** by **sparrows** *(trust me)*
+🎤 **[Auf bessere Tage](https://open.spotify.com/track/0eZhbZQML701oKDvQQaLiS)** by **lauenburg** *(Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough))*
+🎤 **[SAG WIESO](https://open.spotify.com/track/7GZX0mKgq0PDSRjPBNhLKs)** by **Dave Plugs** *(SAG WIESO EP)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 08:55:02Z UTC
+🕐 Last updated: 2025-07-12 09:12:38Z UTC
 <!-- SPOTIFY-END -->
