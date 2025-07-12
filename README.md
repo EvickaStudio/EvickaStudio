@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730f52f14651d7eb3db9874774" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e477eef057127f6c5039c56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Autopilot](https://open.spotify.com/track/6Ezag7rNKvM1bXucREGQ3k)**
-*by* **t_blade**
-*Album:* Autopilot
+**🎵 [All Black Everything](https://open.spotify.com/track/1SoWPeZevO4OpVfuzNKhPL)**
+*by* **luc**
+*Album:* All Black Everything
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+    <rect width="9" height="4" fill="#1db954" rx="2"/>
+    <circle cx="9" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 2:28
+    0:03 • 1:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Bis uns ein Feiertag vereint](https://open.spotify.com/track/3Ggtfdhc6DHfLL7fjmuyDg)** by **Ungemach** *(Es war noch nie so leicht)*
+🎤 **[blonde handelsgold](https://open.spotify.com/track/26204BI5RxDs35PJ1g3Cc0)** by **sixtǝǝn⭐︎** *(blonde handelsgold)*
+🎤 **[Autopilot](https://open.spotify.com/track/6Ezag7rNKvM1bXucREGQ3k)** by **t_blade** *(Autopilot)*
 🎤 **[Berlin](https://open.spotify.com/track/2eAwSjAnAYvABsEDTKkV8C)** by **Lucafromspain, Lt. Louis** *(Berlin)*
 🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
-🎤 **[Auf bessere Tage](https://open.spotify.com/track/0eZhbZQML701oKDvQQaLiS)** by **lauenburg** *(Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough))*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
-🎤 **[Schluckauf](https://open.spotify.com/track/6i7u8rDtrZB5qkfJwHfqrF)** by **Wavyfrisch** *(Schluckauf)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 11:26:33Z UTC
+🕐 Last updated: 2025-07-12 11:36:46Z UTC
 <!-- SPOTIFY-END -->
