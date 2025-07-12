@@ -107,12 +107,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27367511ea4cce9e0c14618440a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27384d4c73c602a0e9d95a2f5d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rush (Missing Out On Me)](https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9)**
-*by* **1tbsp, cherry chola, Purient**
-*Album:* Rush (Missing Out On Me)
+**🎵 [Thought I Could Fly - boy 2000 remix](https://open.spotify.com/track/36hkBhRInApMp254LK8Kok)**
+*by* **Klyne, boy 2000**
+*Album:* Thought I Could Fly (boy 2000 remix)
 
 
 <p align="center">
@@ -123,7 +123,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 2:24
+    2:24 • 3:24
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
-🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
-🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
+🎤 **[Keep Coming Back](https://open.spotify.com/track/14DYxE6jGYSEIbNe997myD)** by **Baltra** *(Keep Coming Back)*
+🎤 **[End Credits - Club Mix](https://open.spotify.com/track/5zhHmUksI8MV1mDswqmFrt)** by **Mall Grab, Real Lies** *(End Credits (Club Mix))*
+🎤 **[Dice Roll](https://open.spotify.com/track/2oQkrDcYkK36hzek1CxJEA)** by **upper class, D.K.denz** *(DOUBLE DOWN)*
+🎤 **[Lay Low - Sunflwr Edit](https://open.spotify.com/track/5aEZzHmyMJxpS3oaf3PQIQ)** by **Pìjus, sunflwr** *(Lay Low)*
+🎤 **[What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO)** by **Fullempty** *(What Sade said)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 22:50:25Z UTC
+🕐 Last updated: 2025-07-12 23:13:26Z UTC
 <!-- SPOTIFY-END -->
