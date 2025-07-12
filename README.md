@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273703ccba6709f3eb61754089b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)**
+*by* **SPIKEMYHEART, FLUX ROSE**
+*Album:* KISS ME
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:19 • 2:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Shimmer](https://open.spotify.com/track/0PPNWbGBpB2TcWq7QVnqGD)** by **Fullempty** *(Shimmer)*
 🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
 🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
 🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
 🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
-🎤 **[How It Used to Be](https://open.spotify.com/track/7ia7N8CZeD153jUfc6a9pf)** by **DJ Houseplants, Jacopo Sb** *(How It Used to Be)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 07:41:56Z UTC
+🕐 Last updated: 2025-07-12 07:49:32Z UTC
 <!-- SPOTIFY-END -->
