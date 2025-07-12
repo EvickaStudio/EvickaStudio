@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319ec54f7cb4138362633f609" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27383825ea06154bef1cd7114e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)**
-*by* **Streichelt**
-*Album:* Fern
+**🎵 [Dark Blue](https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW)**
+*by* **User2222**
+*Album:* Dark Blue
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="164" height="4" fill="#1db954" rx="2"/>
+    <circle cx="164" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:06
+    1:56 • 3:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)** by **Brothel in Belize** *(envy)*
-🎤 **[cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)** by **2hollis** *(whiplash / cliche)*
-🎤 **[Tausend Mal verdrückt](https://open.spotify.com/track/5BVwDzcGyiyF031VkTWfJT)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)** by **nobis, Absteige** *(Vorschlaghammer)*
-🎤 **[Leipzig OST](https://open.spotify.com/track/2m9LQwqR2j7NgIw6fBRUxT)** by **Elende Leiber** *(Leipzig OST)*
+🎤 **[Wingspan](https://open.spotify.com/track/6HmTAsOX9oARMyFdMY4E7g)** by **The Hellp** *(Vol. 1)*
+🎤 **[Nie Gesagt](https://open.spotify.com/track/1GTnl5tw91EOslefYJHy01)** by **Drückeberger** *(Nie Gesagt)*
+🎤 **[beckenrand](https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0)** by **SCHRAMM** *(beckenrand)*
+🎤 **[scheißegal](https://open.spotify.com/track/4kKQ18vrBXRSGTreZ03QwV)** by **Clemo** *(scheißegal)*
+🎤 **[bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)** by **Leocardo DiNaprio, emi x** *(bis es tag wird)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 16:53:15Z UTC
+🕐 Last updated: 2025-07-12 17:10:32Z UTC
 <!-- SPOTIFY-END -->
