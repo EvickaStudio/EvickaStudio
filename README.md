@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27358de3a03d04610c2ae3a8d97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c1840020af578e7aa88d8c52" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [spinnennetz](https://open.spotify.com/track/0ORMTH9iEusmQuI2dhW1ZF)**
-*by* **Leocardo DiNaprio**
-*Album:* stadtgeflüster
+**🎵 [Rise](https://open.spotify.com/track/4JJxsJIgicyZoepJKX3Nvy)**
+*by* **Jany Green**
+*Album:* Rise
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 2:43
+    0:39 • 1:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Spuren Im Schnee](https://open.spotify.com/track/37kqbpYdNJa73LxUYP8G8D)** by **Drückeberger** *(Armselig)*
-🎤 **[Schleife.](https://open.spotify.com/track/0w1XDjNKePKw6QiP8CzF4v)** by **German Bot** *(Schleife.)*
-🎤 **[WAND](https://open.spotify.com/track/3yUf9jXOSByCiBWRHpFWvi)** by **Deutsche Vita** *(WAND)*
-🎤 **[Ich bin Ich (Wir sind wir)](https://open.spotify.com/track/5Zz1fcJoqIiE8MGbfStvp5)** by **nobis** *(Ich bin Ich (Wir sind wir))*
-🎤 **[FISHNETS](https://open.spotify.com/track/6UOd4Ij2uvZ4dcCULtdibq)** by **The Masqs, Dxrkknght** *(FISHNETS)*
+🎤 **[settle down](https://open.spotify.com/track/34lGsaiTzoaIFETEPCt8aj)** by **Dexndre, Skeleton Boy** *(cathedrals)*
+🎤 **[radar](https://open.spotify.com/track/0MrgfX3AkBTpAyhAojz8gX)** by **ENDE** *(radar)*
+🎤 **[can't close my eyes](https://open.spotify.com/track/51yeEN1GXwDZaLqe2w9BUP)** by **Hax!, LMG** *(can't close my eyes)*
+🎤 **[Viele Sorgen Aber Kein Cent](https://open.spotify.com/track/6DWHMdFXLYnKfruKPXfDmy)** by **HC$O** *(Viele Sorgen Aber Kein Cent)*
+🎤 **[In Meinen Träumen](https://open.spotify.com/track/6XXdyzQDFrBvmBI4GPh1BM)** by **German Bot** *(In Meinen Träumen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 14:49:25Z UTC
+🕐 Last updated: 2025-07-12 15:12:26Z UTC
 <!-- SPOTIFY-END -->
