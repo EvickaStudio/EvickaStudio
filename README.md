@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357b0ca127bac0dd2ffb7e012" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schnulze](https://open.spotify.com/track/3bZRNooQkcLEEq7iS9Gg2U)**
-*by* **Asservatenkammer**
-*Album:* Chaos im Lebenslauf
+**🎵 [Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)**
+*by* **SQF2000**
+*Album:* YOLOCORE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:28 • 3:29
+    0:34 • 2:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[blonde handelsgold](https://open.spotify.com/track/26204BI5RxDs35PJ1g3Cc0)** by **sixtǝǝn⭐︎** *(blonde handelsgold)*
-🎤 **[Schnulze](https://open.spotify.com/track/3bZRNooQkcLEEq7iS9Gg2U)** by **Asservatenkammer** *(Chaos im Lebenslauf)*
-🎤 **[Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)** by **Horst Krüger-Band** *(Die Tagesreise)*
-🎤 **[Winter Latenight](https://open.spotify.com/track/15C7ponA1I6FHbcg4sEY4V)** by **Reverb** *(Winter Latenight)*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[Oceans](https://open.spotify.com/track/0XahsqAZULPMHkVmFJC2Nf)** by **twentyseven** *(Oceans)*
+🎤 **[Divgalvains Teļš](https://open.spotify.com/track/23bq4wuB0OSgZLtD5BTjXf)** by **Naave** *(Viss Tomēr Ir Pelēks)*
+🎤 **[Качели](https://open.spotify.com/track/2oFDPvqYxd79lXdhRLzzgy)** by **Лучшая подруга, ВЛАЖНОСТЬ** *(Качели)*
+🎤 **[pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)** by **5star, Talia Dorr** *(pappschild)*
+🎤 **[/ppp/](https://open.spotify.com/track/03ozRFvcVcEqpjzMU9Kkf6)** by **Boris Schnell** *(Lunar)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 10:35:44Z UTC
+🕐 Last updated: 2025-07-12 10:50:53Z UTC
 <!-- SPOTIFY-END -->
