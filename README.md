@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739f1b9a0bb57b7ac2c8baf7a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)**
+*by* **Deutsche Vita**
+*Album:* DEUTSCHE VITA
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="12" height="4" fill="#1db954" rx="2"/>
+    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:09 • 3:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Armselig](https://open.spotify.com/track/7G21hN7cENQUpowzf6ngWy)** by **Drückeberger** *(Armselig)*
+🎤 **[Dein Wort ꧁•☆•꧂](https://open.spotify.com/track/03ZbTXZGUCorQoFnlPlLo1)** by **34TJAY** *(Dein Wort ꧁•☆•꧂)*
+🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[scheißegal](https://open.spotify.com/track/4kKQ18vrBXRSGTreZ03QwV)** by **Clemo** *(scheißegal)*
 🎤 **[How Does It Feel?](https://open.spotify.com/track/2Y5gt29YykN3H2ByH1GBpB)** by **Malta Mina** *(How Does It Feel?)*
-🎤 **[Slow Küssen](https://open.spotify.com/track/5gjX8H1QJ0IYM3Ms1hkrfn)** by **insschlosswollen** *(Hast du heute vom Fliegen geträumt?)*
-🎤 **[Labyrinth](https://open.spotify.com/track/1iCeKMY6ZNI9w2LSHWkxC4)** by **Neuser** *(Labyrinth - Teil 1)*
-🎤 **[Детство](https://open.spotify.com/track/0vW6DtuvN33RqCYNfHmkCS)** by **Лодка** *(Четыре победы)*
-🎤 **[Ich tanze wie ich will](https://open.spotify.com/track/2kwrcAjbzRvc54k4yEo6O2)** by **Heldenviertel** *(Mitfahrer durchs Land)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 13:50:55Z UTC
+🕐 Last updated: 2025-07-12 14:11:26Z UTC
 <!-- SPOTIFY-END -->
