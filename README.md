@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e477eef057127f6c5039c56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c72a58f12410a9afa7910fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Black Everything](https://open.spotify.com/track/1SoWPeZevO4OpVfuzNKhPL)**
-*by* **luc**
-*Album:* All Black Everything
+**🎵 [Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)**
+*by* **SSIEGE**
+*Album:* Fading Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="9" height="4" fill="#1db954" rx="2"/>
-    <circle cx="9" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:03 • 1:47
+    1:19 • 3:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Bis uns ein Feiertag vereint](https://open.spotify.com/track/3Ggtfdhc6DHfLL7fjmuyDg)** by **Ungemach** *(Es war noch nie so leicht)*
-🎤 **[blonde handelsgold](https://open.spotify.com/track/26204BI5RxDs35PJ1g3Cc0)** by **sixtǝǝn⭐︎** *(blonde handelsgold)*
-🎤 **[Autopilot](https://open.spotify.com/track/6Ezag7rNKvM1bXucREGQ3k)** by **t_blade** *(Autopilot)*
-🎤 **[Berlin](https://open.spotify.com/track/2eAwSjAnAYvABsEDTKkV8C)** by **Lucafromspain, Lt. Louis** *(Berlin)*
-🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
+🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
+🎤 **[Drying Roses](https://open.spotify.com/track/7kfYMLdmVqpoCCES2wGqn1)** by **Flawless Issues** *(Drying Roses)*
+🎤 **[Tunichtgut PT2](https://open.spotify.com/track/6inSOTrZr4Qxr9ZH3LfafR)** by **Wayward Rubyn, Niki Powernap** *(Tagedieb & Taugenichts)*
+🎤 **[All Black Everything](https://open.spotify.com/track/1SoWPeZevO4OpVfuzNKhPL)** by **luc** *(All Black Everything)*
+🎤 **[Alles gut](https://open.spotify.com/track/1ne1D2aSouP3XotVarAHmZ)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 11:36:46Z UTC
+🕐 Last updated: 2025-07-12 11:47:47Z UTC
 <!-- SPOTIFY-END -->
