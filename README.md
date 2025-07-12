@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d8d4ff9c1ba8f883345a2ea2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Plage](https://open.spotify.com/track/1H5QcaZMYKE96lKG3Gx5wK)**
-*by* **James Jetski**
-*Album:* Companion
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 3:01
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Winter Latenight](https://open.spotify.com/track/15C7ponA1I6FHbcg4sEY4V)** by **Reverb** *(Winter Latenight)*
+🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[Alles egal](https://open.spotify.com/track/3FrGFegncxS9KvtLG8NY7Z)** by **Miese Mau** *(Blumenstrauß)*
+🎤 **[Plage](https://open.spotify.com/track/1H5QcaZMYKE96lKG3Gx5wK)** by **James Jetski** *(Companion)*
 🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
-🎤 **[Alles gut](https://open.spotify.com/track/1ne1D2aSouP3XotVarAHmZ)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
-🎤 **[fukt up](https://open.spotify.com/track/65SrmSUPaKxoSpVjb6czZr)** by **kristof*** *(fukt up)*
-🎤 **[All Black Everything](https://open.spotify.com/track/1SoWPeZevO4OpVfuzNKhPL)** by **luc** *(All Black Everything)*
-🎤 **[abgefärbt](https://open.spotify.com/track/5VNJBjhVdGyDySKlFuFIx6)** by **Dimanche** *(abgefärbt)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 09:31:19Z UTC
+🕐 Last updated: 2025-07-12 09:48:03Z UTC
 <!-- SPOTIFY-END -->
