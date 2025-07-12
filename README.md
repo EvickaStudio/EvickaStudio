@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273731603176366e9d800a4ba92" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27357b0ca127bac0dd2ffb7e012" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Metamorphose](https://open.spotify.com/track/63ZRukIAwP5w8tfWc7qbrM)**
-*by* **Kissing Disease**
-*Album:* Metamorphose
+**🎵 [Randale](https://open.spotify.com/track/7DfGqpkFy4MZJgn2lPbh7G)**
+*by* **Asservatenkammer**
+*Album:* Chaos im Lebenslauf
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:40
+    0:24 • 2:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[fuer_dich](https://open.spotify.com/track/5U5ogqAYs3iCpVFi5SypXc)** by **GALAX** *(fuer_dich)*
-🎤 **[CAPPUCCINO](https://open.spotify.com/track/5uoFsdEwMgKXOtnwJWlBRS)** by **Robert Alan** *(Funny Guy)*
-🎤 **[Sarg für zwei](https://open.spotify.com/track/3DyNvQdGDnPETrg2ZxZpff)** by **Absteige** *(Sarg für zwei)*
-🎤 **[Joy Of Missing Out](https://open.spotify.com/track/2WnqDrQGPpPvAXLTC8doy9)** by **Spell Trouble** *(Soft Fantasy)*
-🎤 **[Trotzdem OK](https://open.spotify.com/track/61AYLltOecDEBVjut9mR27)** by **HC$O** *(Trotzdem OK)*
+🎤 **[idrm](https://open.spotify.com/track/4ZN2sHbUM4pB4n9EUXvs4q)** by **aus** *(idrm)*
+🎤 **[erfrieren](https://open.spotify.com/track/5dNzKq3y0kRgYjs5TbA5N7)** by **Ignaz** *(träumen-erfrieren-fliegen)*
+🎤 **[Fiel mir nie schwer](https://open.spotify.com/track/5hI28L7tWjRU5cwHNWbqU2)** by **Urbannino** *(noch Zehn gute Jahre)*
+🎤 **[Nichts Zu Verlieren](https://open.spotify.com/track/7MPGVy1OF2fKxgjBoncuiP)** by **Streichholz** *(Nichts Zu Verlieren)*
+🎤 **[geld](https://open.spotify.com/track/6XpZn4DrO0Sn25E7G2g6tK)** by **heinrich** *(geld)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 15:31:39Z UTC
+🕐 Last updated: 2025-07-12 15:50:07Z UTC
 <!-- SPOTIFY-END -->
