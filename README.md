@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273703ccba6709f3eb61754089b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737e0513a62e983d1d761f89c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)**
-*by* **SPIKEMYHEART, FLUX ROSE**
-*Album:* KISS ME
+**🎵 [Divgalvains Teļš](https://open.spotify.com/track/23bq4wuB0OSgZLtD5BTjXf)**
+*by* **Naave**
+*Album:* Viss Tomēr Ir Pelēks
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="173" height="4" fill="#1db954" rx="2"/>
+    <circle cx="173" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 2:52
+    1:09 • 1:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Shimmer](https://open.spotify.com/track/0PPNWbGBpB2TcWq7QVnqGD)** by **Fullempty** *(Shimmer)*
+🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
+🎤 **[Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)** by **SQF2000** *(YOLOCORE)*
+🎤 **[Schluckauf](https://open.spotify.com/track/6i7u8rDtrZB5qkfJwHfqrF)** by **Wavyfrisch** *(Schluckauf)*
+🎤 **[was jetzt?](https://open.spotify.com/track/3AAYIf7M6NqD886DCeBIi6)** by **malasangre, wiza** *(was jetzt?)*
 🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
-🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 07:49:32Z UTC
+🕐 Last updated: 2025-07-12 08:15:41Z UTC
 <!-- SPOTIFY-END -->
