@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcc11a888c9d7853e06dc61c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730f52f14651d7eb3db9874774" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Chaos](https://open.spotify.com/track/7uyFBp1ZiB025NWRNurPot)**
-*by* **toobrokeforfiji**
-*Album:* Was is mit UNS los?
+**🎵 [Autopilot](https://open.spotify.com/track/6Ezag7rNKvM1bXucREGQ3k)**
+*by* **t_blade**
+*Album:* Autopilot
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="216" height="4" fill="#1db954" rx="2"/>
-    <circle cx="216" cy="2" r="6" fill="#1db954"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 3:13
+    2:20 • 2:28
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[In deinem Arm](https://open.spotify.com/track/03OTYDPYFgRlGu2R9YGkwD)** by **Thomas Rosendorn** *(In deinem Arm)*
-🎤 **[SAG WIESO](https://open.spotify.com/track/7GZX0mKgq0PDSRjPBNhLKs)** by **Dave Plugs** *(SAG WIESO EP)*
-🎤 **[was jetzt?](https://open.spotify.com/track/3AAYIf7M6NqD886DCeBIi6)** by **malasangre, wiza** *(was jetzt?)*
-🎤 **[kopfzerbrechen](https://open.spotify.com/track/3pf4odONm6tVTwoyerhrPa)** by **Metmyself!** *(kopfzerbrechen)*
-🎤 **[Leere](https://open.spotify.com/track/2cIh3MAo25DxWK3JhELz2M)** by **Keiner Will Stille** *(Leere)*
+🎤 **[Berlin](https://open.spotify.com/track/2eAwSjAnAYvABsEDTKkV8C)** by **Lucafromspain, Lt. Louis** *(Berlin)*
+🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
+🎤 **[Auf bessere Tage](https://open.spotify.com/track/0eZhbZQML701oKDvQQaLiS)** by **lauenburg** *(Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough))*
+🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[Schluckauf](https://open.spotify.com/track/6i7u8rDtrZB5qkfJwHfqrF)** by **Wavyfrisch** *(Schluckauf)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 11:10:40Z UTC
+🕐 Last updated: 2025-07-12 11:26:33Z UTC
 <!-- SPOTIFY-END -->
