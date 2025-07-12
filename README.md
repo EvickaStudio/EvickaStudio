@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730c2d9546842bd9c68b303d7d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735540c4a8e7ef3f7acd7634cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eyebright](https://open.spotify.com/track/0fqkuMLEFdMAaaFzMZeyZt)**
-*by* **Froman**
-*Album:* Eyebright
+**🎵 [Never Forget](https://open.spotify.com/track/5vJ8E7GVvEtnxQVKZDGScC)**
+*by* **Fullempty**
+*Album:* Never Forget
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 4:21
+    3:14 • 4:00
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[trust me](https://open.spotify.com/track/0dlrTpcU6rkElbDhPw4SUO)** by **1-800 GIRLS** *(trust me)*
+🎤 **[feel it yet? - Pìjus Remix](https://open.spotify.com/track/7vOuN0g6feJQI6TaGYA8uB)** by **sunflwr, Ella Rosa, Pìjus** *(feel it yet? (Pìjus Remix))*
+🎤 **[Lying In The Sand](https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo)** by **Bubble Love, Ross from Friends** *(Lying In The Sand)*
+🎤 **[Eyebright](https://open.spotify.com/track/0fqkuMLEFdMAaaFzMZeyZt)** by **Froman** *(Eyebright)*
 🎤 **[Your Energy](https://open.spotify.com/track/1HBOqAH3pZqt4wIq6xDlsV)** by **DJ Houseplants** *(Your Energy)*
-🎤 **[It Hurts So Bad](https://open.spotify.com/track/40VNuzeQ7ZUw2T4E52pEjM)** by **1tbsp, DJ ADHD** *(Hotel Living)*
-🎤 **[fused (DJ-Kicks) - VIP Edit](https://open.spotify.com/track/6S98fWmtapkp4IBcHeoZ5u)** by **Logic1000** *(fused (DJ-Kicks) [VIP Edit])*
-🎤 **[Расскажи мне всё](https://open.spotify.com/track/2ufVMmXetQZ3Zzh1OK286u)** by **emosplash** *(Код 102)*
-🎤 **[Innadream](https://open.spotify.com/track/39OWi2zw0JQ34MILmKQQpd)** by **Pretty Girl** *(Innadream)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 23:32:52Z UTC
+🕐 Last updated: 2025-07-12 23:50:04Z UTC
 <!-- SPOTIFY-END -->
