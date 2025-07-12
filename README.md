@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737e0513a62e983d1d761f89c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a6b188d3afd62afeeb6137cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Divgalvains Teļš](https://open.spotify.com/track/23bq4wuB0OSgZLtD5BTjXf)**
-*by* **Naave**
-*Album:* Viss Tomēr Ir Pelēks
+**🎵 [pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)**
+*by* **5star, Talia Dorr**
+*Album:* pappschild
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="277" height="4" fill="#1db954" rx="2"/>
+    <circle cx="277" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 1:59
+    2:07 • 2:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
-🎤 **[Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)** by **SQF2000** *(YOLOCORE)*
-🎤 **[Schluckauf](https://open.spotify.com/track/6i7u8rDtrZB5qkfJwHfqrF)** by **Wavyfrisch** *(Schluckauf)*
-🎤 **[was jetzt?](https://open.spotify.com/track/3AAYIf7M6NqD886DCeBIi6)** by **malasangre, wiza** *(was jetzt?)*
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
+🎤 **[Качели](https://open.spotify.com/track/2oFDPvqYxd79lXdhRLzzgy)** by **Лучшая подруга, ВЛАЖНОСТЬ** *(Качели)*
+🎤 **[geisterbahn](https://open.spotify.com/track/0g3KVufWROYTsuWYKeotc5)** by **fritz** *(geisterbahn)*
+🎤 **[Mitten in der Nacht](https://open.spotify.com/track/6qcrmrThuBet7mgK0zpaah)** by **Thomas Rosendorn** *(Mitten in der Nacht)*
+🎤 **[Leere](https://open.spotify.com/track/2cIh3MAo25DxWK3JhELz2M)** by **Keiner Will Stille** *(Leere)*
+🎤 **[Oceans](https://open.spotify.com/track/0XahsqAZULPMHkVmFJC2Nf)** by **twentyseven** *(Oceans)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 08:15:41Z UTC
+🕐 Last updated: 2025-07-12 08:43:41Z UTC
 <!-- SPOTIFY-END -->
