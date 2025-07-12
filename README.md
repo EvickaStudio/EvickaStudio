@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27333725fdd683acf9332571d24" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d8d4ff9c1ba8f883345a2ea2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [/ppp/](https://open.spotify.com/track/03ozRFvcVcEqpjzMU9Kkf6)**
-*by* **Boris Schnell**
-*Album:* Lunar
+**🎵 [Plage](https://open.spotify.com/track/1H5QcaZMYKE96lKG3Gx5wK)**
+*by* **James Jetski**
+*Album:* Companion
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="100" height="4" fill="#1db954" rx="2"/>
-    <circle cx="100" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 3:58
+    0:05 • 3:01
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[NN Weltweit](https://open.spotify.com/track/69AiVFD4lBpRG2LVY6uoUI)** by **Nicki Papa** *(Wendepunkt)*
-🎤 **[Tunichtgut PT2](https://open.spotify.com/track/6inSOTrZr4Qxr9ZH3LfafR)** by **Wayward Rubyn, Niki Powernap** *(Tagedieb & Taugenichts)*
-🎤 **[trust me](https://open.spotify.com/track/4URp2LkBazcHGQYYbQMLH3)** by **sparrows** *(trust me)*
-🎤 **[Auf bessere Tage](https://open.spotify.com/track/0eZhbZQML701oKDvQQaLiS)** by **lauenburg** *(Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough))*
-🎤 **[SAG WIESO](https://open.spotify.com/track/7GZX0mKgq0PDSRjPBNhLKs)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
+🎤 **[Alles gut](https://open.spotify.com/track/1ne1D2aSouP3XotVarAHmZ)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
+🎤 **[fukt up](https://open.spotify.com/track/65SrmSUPaKxoSpVjb6czZr)** by **kristof*** *(fukt up)*
+🎤 **[All Black Everything](https://open.spotify.com/track/1SoWPeZevO4OpVfuzNKhPL)** by **luc** *(All Black Everything)*
+🎤 **[abgefärbt](https://open.spotify.com/track/5VNJBjhVdGyDySKlFuFIx6)** by **Dimanche** *(abgefärbt)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 09:12:38Z UTC
+🕐 Last updated: 2025-07-12 09:31:19Z UTC
 <!-- SPOTIFY-END -->
