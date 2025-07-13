@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)**
-*by* **sparr00w**
-*Album:* Nadja
+**🎵 [Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)**
+*by* **Charli xcx, Bladee**
+*Album:* Brat and it’s completely different but also still brat
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="296" height="4" fill="#1db954" rx="2"/>
-    <circle cx="296" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 2:16
+    1:03 • 2:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Die Nacht](https://open.spotify.com/track/3ti85AY2vl920YH5u3dwMr)** by **unstimmig** *(Die Nacht)*
-🎤 **[Late Time](https://open.spotify.com/track/4fPcT9H0iynHtwLhRoFCKZ)** by **Symba** *(Late Time)*
-🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
-🎤 **[I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl)** by **Elliott Fullam** *(What's Wrong)*
-🎤 **[Champion God Level](https://open.spotify.com/track/3aujFAv6o9EhKOPJYnGlMg)** by **fliggsy** *(Champion God Level)*
+🎤 **[Verdient](https://open.spotify.com/track/5jqdb9Av5ZiY6tt0wzjJJ1)** by **EASY EASY** *(Echoes etc., Vol. 2)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[Look at the beautiful stars](https://open.spotify.com/track/4Zd0ZfElXwghxm0R3bX8og)** by **ALFANI.X** *(Look at the beautiful stars)*
+🎤 **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)*
+🎤 **[Melodie](https://open.spotify.com/track/2iGBtxtGTwomOhHoHptFSl)** by **OMG** *(Melodie / Kayseri)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 18:16:38Z UTC
+🕐 Last updated: 2025-07-13 18:46:12Z UTC
 <!-- SPOTIFY-END -->
