@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738946cfb563e1a39e95bd5b11" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27361fb7ccfbcb4e59e1c3f7044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [With You](https://open.spotify.com/track/0wz61OVJCCt8HyiE5zhypP)**
-*by* **Froman**
-*Album:* With You
+**🎵 [How To Luv](https://open.spotify.com/track/0nlWlr1exOfz0C9Pom8Zzv)**
+*by* **Pìjus**
+*Album:* How To Luv
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+    <rect width="226" height="4" fill="#1db954" rx="2"/>
+    <circle cx="226" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 3:47
+    3:15 • 4:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Black Sky](https://open.spotify.com/track/0NrU3lU7QBa7QpUb5F9DQS)** by **Digital Tourist** *(Black Sky)*
-🎤 **[That I Miss You](https://open.spotify.com/track/2whXCHubf2PxRu1vvsL8dM)** by **Shroomyland** *(That I Miss You)*
-🎤 **[LLTB](https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI)** by **Jam City, Wet** *(Jam City Presents EFM)*
-🎤 **[U Got Me](https://open.spotify.com/track/77D0jG0Iy6OdHDPTbvNqyA)** by **Vrdnyn, JEV** *(U Got Me)*
-🎤 **[Sunshine Waves](https://open.spotify.com/track/7zcYDLSVivZiPNailgZ90f)** by **Palmate** *(Sunshine Waves)*
+🎤 **[The City Never Felt So Good](https://open.spotify.com/track/3gighwbMyIfJKVpauvANY2)** by **1tbsp** *(megacity1000)*
+🎤 **[BE THERE](https://open.spotify.com/track/4JJbG9YxCNqfW2AtoZBprU)** by **DIRTY GLASSEZ** *(BASIC INSTINCTS)*
+🎤 **[back 2 me](https://open.spotify.com/track/44twAeFMfhTOSeIh7FoBGg)** by **Nvrtheless** *(back 2 me)*
+🎤 **[Waves](https://open.spotify.com/track/2R1KuqiTUIw1h4bPuNiG6d)** by **Blimp** *(Waves)*
+🎤 **[Orchid](https://open.spotify.com/track/3xdSSVSMGzZxHVL0j2xbyf)** by **Froman** *(April / Orchid)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 04:07:45Z UTC
+🕐 Last updated: 2025-07-13 04:47:59Z UTC
 <!-- SPOTIFY-END -->
