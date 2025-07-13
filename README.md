@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273767af63b304d5e70f785719a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5312b348febfd8d158fa1f4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dislate - Rhadow Remix](https://open.spotify.com/track/3RO4cAbOwA36C3HDYqtpZR)**
-*by* **Frink, Rhadow**
-*Album:* Dislate EP
+**🎵 [Sense Of Swing](https://open.spotify.com/track/0X6VFnpK2qlNx70zn3ovQJ)**
+*by* **Malin Genie**
+*Album:* Sense Of Swing EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="100" height="4" fill="#1db954" rx="2"/>
-    <circle cx="100" cy="2" r="6" fill="#1db954"/>
+    <rect width="156" height="4" fill="#1db954" rx="2"/>
+    <circle cx="156" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:42 • 8:06
+    4:02 • 7:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The Foolish & The Senseless Alike](https://open.spotify.com/track/1HHOpbjJ2FxyPJ0S9zkJDi)** by **Malin Genie** *(Vixere II/II)*
-🎤 **[Timecode](https://open.spotify.com/track/5iZQJggNpsUaOlQyiihlvy)** by **Mara Lakour** *(Virtual Area)*
-🎤 **[Red Echo](https://open.spotify.com/track/2Jzp30ytlNOPKLuOvLR8wX)** by **Per Hammar** *(Memories, Pt. III)*
-🎤 **[Le Velour](https://open.spotify.com/track/7oQSoa9pewmNvK8hsiCBdi)** by **Shonky** *(Le Velour EP)*
-🎤 **[Sad But Ambitious](https://open.spotify.com/track/2azJg1vzDZ8DDcPz4p9vTJ)** by **Marc Brauner** *(Sad But Ambitious)*
+🎤 **[1938](https://open.spotify.com/track/4chgvFaE2aMqvhXXEuvvOF)** by **Legit Trip** *(De Jo)*
+🎤 **[Everybody Hz](https://open.spotify.com/track/48E9KOpR0OS1szw012OdO3)** by **Per Hammar** *(Everybody Hz)*
+🎤 **[I've Never Been To Tokyo](https://open.spotify.com/track/4TwlmYaTyw77VKUQ1QRJh2)** by **Matthieu Faubourg** *(Simplicity Is The Ultimate Sophistication)*
+🎤 **[Scape - Edit](https://open.spotify.com/track/5cJpCbZCtadcK4GfjoLblm)** by **Janeret** *(Scape)*
+🎤 **[Dislate - Rhadow Remix](https://open.spotify.com/track/3RO4cAbOwA36C3HDYqtpZR)** by **Frink, Rhadow** *(Dislate EP)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 06:18:50Z UTC
+🕐 Last updated: 2025-07-13 06:49:49Z UTC
 <!-- SPOTIFY-END -->
