@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27308d354e1c6b5bf8b30bcd87f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1802c4e7de0e301c5045e77" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Like Lain](https://open.spotify.com/track/22Hyu44S9WlUAE6EHCmS8z)**
-*by* **Harto Falión, evilgiane**
-*Album:* The Hurtless
+**🎵 [Eternal Return](https://open.spotify.com/track/7f9lmB5KzC6nYGzEvxgoX0)**
+*by* **Ayegy**
+*Album:* Eternal Return
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="18" height="4" fill="#1db954" rx="2"/>
-    <circle cx="18" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 1:29
+    0:39 • 2:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)*
+🎤 **[Dx3](https://open.spotify.com/track/6h3NoAoGFI7tckq3Kmk6WL)** by **Evanora Unlimited** *(Empty Fold / Dx3)*
+🎤 **[HowManyDays?](https://open.spotify.com/track/4jpYp1wEBZ5ebPaOIGloee)** by **Woesum** *(Protected)*
+🎤 **[Like Lain](https://open.spotify.com/track/22Hyu44S9WlUAE6EHCmS8z)** by **Harto Falión, evilgiane** *(The Hurtless)*
 🎤 **[open air mental asylum](https://open.spotify.com/track/7e9EduAuOQrtx6OhJZuGOn)** by **meat computer** *(open air mental asylum)*
-🎤 **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)*
-🎤 **[playlist friendly unit shifter](https://open.spotify.com/track/2p18SqON596E1Z9ANOm6bm)** by **meat computer** *(playlist friendly unit shifter)*
-🎤 **[weirdo type beat](https://open.spotify.com/track/2WI9w3LqMQDI7VUXV89yz6)** by **meat computer** *(weirdo type beat)*
-🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 21:29:01Z UTC
+🕐 Last updated: 2025-07-13 21:40:45Z UTC
 <!-- SPOTIFY-END -->
