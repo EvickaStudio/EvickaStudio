@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ee58b8ce747da91d69a862cc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)**
-*by* **meat computer**
-*Album:* slept on the floor still dreamt about you
+**🎵 [No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)**
+*by* **Radiohead**
+*Album:* OK Computer OKNOTOK 1997 2017
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="122" height="4" fill="#1db954" rx="2"/>
-    <circle cx="122" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 1:40
+    0:46 • 3:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Run away](https://open.spotify.com/track/16kgZLmoyRObHMNKgvVS3g)** by **KirbLaGoop, meat computer** *(Adventures Of The Goop)*
+🎤 **[LOOKING4 V3](https://open.spotify.com/track/30qP8xQaNHAMP413DmmnO1)** by **o0o** *(Album Music)*
+🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
 🎤 **[Swag So Outlandish](https://open.spotify.com/track/0PxzAm9IiYDlaIQfmK5KQh)** by **Thrilliam Angels, Ninajirachi, vrde** *(Iliad Unspoken)*
-🎤 **[if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6)** by **Destroy Lonely** *(if looks could kill)*
-🎤 **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))*
-🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 19:24:53Z UTC
+🕐 Last updated: 2025-07-13 19:35:03Z UTC
 <!-- SPOTIFY-END -->
