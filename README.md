@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27376091476f9e08c85888a135f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)**
-*by* **Somewhere Special**
-*Album:* Secret
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:36 • 3:41
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[The Meadow Where I Died](https://open.spotify.com/track/6EYnaxvl2fkGN7vPmooa77)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
+🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
 🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
 🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[The Devil Works Hard... But I Work Harder](https://open.spotify.com/track/4gQljtPoXCy6vhL5kbIT2m)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[stada2mg EDM document 1 "DAGG"](https://open.spotify.com/track/68g3TSNLZRZy1Tt272f982)** by **DJ Worm, Eurohead, SPÖKE** *(stada2mg EDM document 1 "DAGG")*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 22:12:07Z UTC
+🕐 Last updated: 2025-07-13 22:34:22Z UTC
 <!-- SPOTIFY-END -->
