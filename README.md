@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e3364f818fb717c610d600ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27341cb766c4629e6a870500c72" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DX Sport - Mixed](https://open.spotify.com/track/3Qivude9YHcdoIC24WNCwo)**
-*by* **Per Hammar**
-*Album:* Pathfinder LP (Mixed Tracks)
+**🎵 [We Do - Edit](https://open.spotify.com/track/6vT7FSKpD8af0DtLQH33hC)**
+*by* **Traumer**
+*Album:* We Do (Edit)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
+    <rect width="246" height="4" fill="#1db954" rx="2"/>
+    <circle cx="246" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:26 • 5:48
+    2:59 • 3:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Senior - Radio Underground](https://open.spotify.com/track/5KdBLfkuQDaOdPEYBj9bIZ)** by **Joakim Adelardo** *(Senior (Radio Underground))*
+🎤 **[Swinging - Radio Edit](https://open.spotify.com/track/4z60WOIYwmFKtlAUecJXuj)** by **F3LIX A.** *(Swinging)*
+🎤 **[Parfois](https://open.spotify.com/track/4jU2zrKOcbuSImgFFIx9fF)** by **Mara Lakour** *(Parfois)*
+🎤 **[DX Sport - Mixed](https://open.spotify.com/track/3Qivude9YHcdoIC24WNCwo)** by **Per Hammar** *(Pathfinder LP (Mixed Tracks))*
 🎤 **[Phaethon](https://open.spotify.com/track/7rE0gHlI331NA5qvDhxHhO)** by **Malin Genie** *(Phaethon)*
-🎤 **[Sunday blues](https://open.spotify.com/track/4ESwkGCyueRheJClLZJLHJ)** by **Mr. G** *(Rexperience #01 mixed by D'julz)*
-🎤 **[After Some Time - Andrew Azara Remix](https://open.spotify.com/track/26nFr3BtKOFwD2j1qCKdEj)** by **Daniel Meister, Andrew Azara** *(Moving EP)*
-🎤 **[Cluborama](https://open.spotify.com/track/7hkPcD1amaJSi02KEy2eLw)** by **Shonky** *(Cluborama)*
-🎤 **[Celestial](https://open.spotify.com/track/0C4AreW0DzdUYFJV8x7wkw)** by **Mara Lakour** *(Celestial)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 07:32:15Z UTC
+🕐 Last updated: 2025-07-13 07:48:00Z UTC
 <!-- SPOTIFY-END -->
