@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27361fb7ccfbcb4e59e1c3f7044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cf2e63811e0aa79df293bb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [How To Luv](https://open.spotify.com/track/0nlWlr1exOfz0C9Pom8Zzv)**
-*by* **Pìjus**
-*Album:* How To Luv
+**🎵 [Released Dubb - Mihai Popoviciu Remix](https://open.spotify.com/track/1WMXmPOOYqAHTLQMoLnn61)**
+*by* **Per Hammar**
+*Album:* Released EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="226" height="4" fill="#1db954" rx="2"/>
-    <circle cx="226" cy="2" r="6" fill="#1db954"/>
+    <rect width="28" height="4" fill="#1db954" rx="2"/>
+    <circle cx="28" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:15 • 4:18
+    0:41 • 7:14
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[The City Never Felt So Good](https://open.spotify.com/track/3gighwbMyIfJKVpauvANY2)** by **1tbsp** *(megacity1000)*
-🎤 **[BE THERE](https://open.spotify.com/track/4JJbG9YxCNqfW2AtoZBprU)** by **DIRTY GLASSEZ** *(BASIC INSTINCTS)*
-🎤 **[back 2 me](https://open.spotify.com/track/44twAeFMfhTOSeIh7FoBGg)** by **Nvrtheless** *(back 2 me)*
-🎤 **[Waves](https://open.spotify.com/track/2R1KuqiTUIw1h4bPuNiG6d)** by **Blimp** *(Waves)*
-🎤 **[Orchid](https://open.spotify.com/track/3xdSSVSMGzZxHVL0j2xbyf)** by **Froman** *(April / Orchid)*
+🎤 **[Pass It - Anas M Remix Radio Version](https://open.spotify.com/track/4x7pJelV8FpkUIPPum8k4Q)** by **Etzu Mahkayah, Anas M** *(Letters From Tomorrow #5)*
+🎤 **[Solar](https://open.spotify.com/track/5nHpvzyYqWqYP83uDLoSiV)** by **Mara Lakour** *(NRMND002 EP)*
+🎤 **[Oso - Original Mix](https://open.spotify.com/track/2HxcV4EED5LjRdJz32QOc6)** by **Frink** *(Oso EP)*
+🎤 **[Lijnbaan Dubb](https://open.spotify.com/track/2skWsDVCQQlpMPCVnp7Xzj)** by **Malin Genie, Per Hammar** *(Scania)*
+🎤 **[How To Luv](https://open.spotify.com/track/0nlWlr1exOfz0C9Pom8Zzv)** by **Pìjus** *(How To Luv)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 04:47:59Z UTC
+🕐 Last updated: 2025-07-13 05:15:41Z UTC
 <!-- SPOTIFY-END -->
