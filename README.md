@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273084997e544a06ea0697fac2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)**
-*by* **meat computer**
-*Album:* stay ?
+**🎵 [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K)**
+*by* **Pixies**
+*Album:* Death to the Pixies
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="95" height="4" fill="#1db954" rx="2"/>
+    <circle cx="95" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 1:51
+    1:12 • 3:49
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
-🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
-🎤 **[fw24](https://open.spotify.com/track/4ElTEqO5KuickZgw8aRw2H)** by **lil london** *(fw24)*
-🎤 **[Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)** by **Bladee, Mechatok** *(Good Luck)*
-🎤 **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)*
+🎤 **[Project Lee](https://open.spotify.com/track/4BWB4sloTnnEych80RIJhH)** by **Dj Settler** *(Project Lee)*
+🎤 **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)*
+🎤 **[IMMER (MIT MAKKO)](https://open.spotify.com/track/4FkFhmuX1rnAyZIp336AdB)** by **Ski Aggu, makko** *(Wilmersdorfs Kind)*
+🎤 **[epicenter of happiness](https://open.spotify.com/track/4qEE1XPcwmyLMum63tRqro)** by **usedcvnt** *(epicenter of happiness)*
+🎤 **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 16:39:59Z UTC
+🕐 Last updated: 2025-07-13 16:53:16Z UTC
 <!-- SPOTIFY-END -->
