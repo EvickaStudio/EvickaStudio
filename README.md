@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739c64a3dde833e85849e30a7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e3364f818fb717c610d600ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cluborama](https://open.spotify.com/track/7hkPcD1amaJSi02KEy2eLw)**
-*by* **Shonky**
-*Album:* Cluborama
+**🎵 [DX Sport - Mixed](https://open.spotify.com/track/3Qivude9YHcdoIC24WNCwo)**
+*by* **Per Hammar**
+*Album:* Pathfinder LP (Mixed Tracks)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="279" height="4" fill="#1db954" rx="2"/>
-    <circle cx="279" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:35 • 7:04
+    5:26 • 5:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Phaethon](https://open.spotify.com/track/7rE0gHlI331NA5qvDhxHhO)** by **Malin Genie** *(Phaethon)*
+🎤 **[Sunday blues](https://open.spotify.com/track/4ESwkGCyueRheJClLZJLHJ)** by **Mr. G** *(Rexperience #01 mixed by D'julz)*
+🎤 **[After Some Time - Andrew Azara Remix](https://open.spotify.com/track/26nFr3BtKOFwD2j1qCKdEj)** by **Daniel Meister, Andrew Azara** *(Moving EP)*
+🎤 **[Cluborama](https://open.spotify.com/track/7hkPcD1amaJSi02KEy2eLw)** by **Shonky** *(Cluborama)*
 🎤 **[Celestial](https://open.spotify.com/track/0C4AreW0DzdUYFJV8x7wkw)** by **Mara Lakour** *(Celestial)*
-🎤 **[Cloudy](https://open.spotify.com/track/3gI42RGu4HBBLP1pE0FMYs)** by **Frink** *(Cloudy)*
-🎤 **[Sense Of Swing](https://open.spotify.com/track/0X6VFnpK2qlNx70zn3ovQJ)** by **Malin Genie** *(Sense Of Swing EP)*
-🎤 **[1938](https://open.spotify.com/track/4chgvFaE2aMqvhXXEuvvOF)** by **Legit Trip** *(De Jo)*
-🎤 **[Everybody Hz](https://open.spotify.com/track/48E9KOpR0OS1szw012OdO3)** by **Per Hammar** *(Everybody Hz)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 07:13:34Z UTC
+🕐 Last updated: 2025-07-13 07:32:15Z UTC
 <!-- SPOTIFY-END -->
