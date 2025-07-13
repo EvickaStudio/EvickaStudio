@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d8d431d8a515b8792eaeceb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738946cfb563e1a39e95bd5b11" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Only You (Nvrtheless Remix)](https://open.spotify.com/track/3u6MGwwHa16lxJmeobSYj1)**
-*by* **Sideluv, Digital Tourist, Nvrtheless**
-*Album:* Only You (Nvrtheless Remix)
+**🎵 [With You](https://open.spotify.com/track/0wz61OVJCCt8HyiE5zhypP)**
+*by* **Froman**
+*Album:* With You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 3:58
+    3:00 • 3:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC)** by **Palmate** *(Simulacra)*
-🎤 **[baby, i don't wanna know](https://open.spotify.com/track/6z26Ysi2Sir470kJD7BGJj)** by **Shroomyland** *(baby, i don't wanna know)*
-🎤 **[lomomoto#](https://open.spotify.com/track/1MRUW05pHgu15jkebzP1w6)** by **Mietze Conte** *(Mietzee)*
-🎤 **[Slug](https://open.spotify.com/track/0pI7zATeng92EknYPfi2B2)** by **CRUSH3d** *(LOVESTAR)*
-🎤 **[From 98](https://open.spotify.com/track/3gULk6p3DN9bFahGL3d1HY)** by **infime** *(From 98)*
+🎤 **[Black Sky](https://open.spotify.com/track/0NrU3lU7QBa7QpUb5F9DQS)** by **Digital Tourist** *(Black Sky)*
+🎤 **[That I Miss You](https://open.spotify.com/track/2whXCHubf2PxRu1vvsL8dM)** by **Shroomyland** *(That I Miss You)*
+🎤 **[LLTB](https://open.spotify.com/track/1Ywt0ieG8EC4osUu1LkNzI)** by **Jam City, Wet** *(Jam City Presents EFM)*
+🎤 **[U Got Me](https://open.spotify.com/track/77D0jG0Iy6OdHDPTbvNqyA)** by **Vrdnyn, JEV** *(U Got Me)*
+🎤 **[Sunshine Waves](https://open.spotify.com/track/7zcYDLSVivZiPNailgZ90f)** by **Palmate** *(Sunshine Waves)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 03:12:50Z UTC
+🕐 Last updated: 2025-07-13 04:07:45Z UTC
 <!-- SPOTIFY-END -->
