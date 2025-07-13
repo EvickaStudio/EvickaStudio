@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273763c9aaa9eaaadf540c5481c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d8d431d8a515b8792eaeceb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [right away - DJ COR Remix](https://open.spotify.com/track/0WJJ6YagVFGw0BOyVi1hKr)**
-*by* **boy 2000, DJ COR**
-*Album:* club 2000
+**🎵 [Only You (Nvrtheless Remix)](https://open.spotify.com/track/3u6MGwwHa16lxJmeobSYj1)**
+*by* **Sideluv, Digital Tourist, Nvrtheless**
+*Album:* Only You (Nvrtheless Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:08
+    1:30 • 3:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[lilmore](https://open.spotify.com/track/6JGwTLFHHMimYgtulniLGU)** by **Haus Geek** *(mind)*
-🎤 **[Cicadas](https://open.spotify.com/track/6FVEXFJa6qRzSvCweM3bvA)** by **Blame Your Genes** *(Fever Dreams)*
-🎤 **[RUNNIN THAT SHIT](https://open.spotify.com/track/0yc7wczIOJdTVp0bhhaPCY)** by **Loverground** *(RUNNIN THAT SHIT)*
-🎤 **[Count That](https://open.spotify.com/track/599Pip8JCTngNXVRI00Bbv)** by **Pìjus** *(Lay Low)*
-🎤 **[Baby Dragon - 1tbsp Remix](https://open.spotify.com/track/5judmA9ZUgbjrMjSftwMxN)** by **Mona Yim, 1tbsp** *(Baby Dragon (1tbsp Remix))*
+🎤 **[Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC)** by **Palmate** *(Simulacra)*
+🎤 **[baby, i don't wanna know](https://open.spotify.com/track/6z26Ysi2Sir470kJD7BGJj)** by **Shroomyland** *(baby, i don't wanna know)*
+🎤 **[lomomoto#](https://open.spotify.com/track/1MRUW05pHgu15jkebzP1w6)** by **Mietze Conte** *(Mietzee)*
+🎤 **[Slug](https://open.spotify.com/track/0pI7zATeng92EknYPfi2B2)** by **CRUSH3d** *(LOVESTAR)*
+🎤 **[From 98](https://open.spotify.com/track/3gULk6p3DN9bFahGL3d1HY)** by **infime** *(From 98)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 01:11:34Z UTC
+🕐 Last updated: 2025-07-13 03:12:50Z UTC
 <!-- SPOTIFY-END -->
