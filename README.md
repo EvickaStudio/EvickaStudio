@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735540c4a8e7ef3f7acd7634cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273763c9aaa9eaaadf540c5481c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Never Forget](https://open.spotify.com/track/5vJ8E7GVvEtnxQVKZDGScC)**
-*by* **Fullempty**
-*Album:* Never Forget
+**🎵 [right away - DJ COR Remix](https://open.spotify.com/track/0WJJ6YagVFGw0BOyVi1hKr)**
+*by* **boy 2000, DJ COR**
+*Album:* club 2000
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:14 • 4:00
+    1:20 • 2:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[trust me](https://open.spotify.com/track/0dlrTpcU6rkElbDhPw4SUO)** by **1-800 GIRLS** *(trust me)*
-🎤 **[feel it yet? - Pìjus Remix](https://open.spotify.com/track/7vOuN0g6feJQI6TaGYA8uB)** by **sunflwr, Ella Rosa, Pìjus** *(feel it yet? (Pìjus Remix))*
-🎤 **[Lying In The Sand](https://open.spotify.com/track/3OW31vfqhbTcT5Po1L81Lo)** by **Bubble Love, Ross from Friends** *(Lying In The Sand)*
-🎤 **[Eyebright](https://open.spotify.com/track/0fqkuMLEFdMAaaFzMZeyZt)** by **Froman** *(Eyebright)*
-🎤 **[Your Energy](https://open.spotify.com/track/1HBOqAH3pZqt4wIq6xDlsV)** by **DJ Houseplants** *(Your Energy)*
+🎤 **[lilmore](https://open.spotify.com/track/6JGwTLFHHMimYgtulniLGU)** by **Haus Geek** *(mind)*
+🎤 **[Cicadas](https://open.spotify.com/track/6FVEXFJa6qRzSvCweM3bvA)** by **Blame Your Genes** *(Fever Dreams)*
+🎤 **[RUNNIN THAT SHIT](https://open.spotify.com/track/0yc7wczIOJdTVp0bhhaPCY)** by **Loverground** *(RUNNIN THAT SHIT)*
+🎤 **[Count That](https://open.spotify.com/track/599Pip8JCTngNXVRI00Bbv)** by **Pìjus** *(Lay Low)*
+🎤 **[Baby Dragon - 1tbsp Remix](https://open.spotify.com/track/5judmA9ZUgbjrMjSftwMxN)** by **Mona Yim, 1tbsp** *(Baby Dragon (1tbsp Remix))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-12 23:50:04Z UTC
+🕐 Last updated: 2025-07-13 01:11:34Z UTC
 <!-- SPOTIFY-END -->
