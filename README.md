@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b1802c4e7de0e301c5045e77" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c3fa49789f2e66801cdb70fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eternal Return](https://open.spotify.com/track/7f9lmB5KzC6nYGzEvxgoX0)**
-*by* **Ayegy**
-*Album:* Eternal Return
+**🎵 [drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)**
+*by* **bludwalk**
+*Album:* drunk on arrival
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="4" height="4" fill="#1db954" rx="2"/>
+    <circle cx="4" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:15
+    0:02 • 2:30
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[Eternal Return](https://open.spotify.com/track/7f9lmB5KzC6nYGzEvxgoX0)** by **Ayegy** *(Eternal Return)*
 🎤 **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)*
 🎤 **[Dx3](https://open.spotify.com/track/6h3NoAoGFI7tckq3Kmk6WL)** by **Evanora Unlimited** *(Empty Fold / Dx3)*
 🎤 **[HowManyDays?](https://open.spotify.com/track/4jpYp1wEBZ5ebPaOIGloee)** by **Woesum** *(Protected)*
-🎤 **[Like Lain](https://open.spotify.com/track/22Hyu44S9WlUAE6EHCmS8z)** by **Harto Falión, evilgiane** *(The Hurtless)*
-🎤 **[open air mental asylum](https://open.spotify.com/track/7e9EduAuOQrtx6OhJZuGOn)** by **meat computer** *(open air mental asylum)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 21:40:45Z UTC
+🕐 Last updated: 2025-07-13 21:48:15Z UTC
 <!-- SPOTIFY-END -->
