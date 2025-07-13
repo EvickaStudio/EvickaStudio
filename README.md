@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730e7aec9f2a6d14a7244d7f64" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c72a58f12410a9afa7910fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Simpli](https://open.spotify.com/track/67Y5voIJz7JT21yMz59HlS)**
-*by* **Frink**
-*Album:* Brownaser
+**🎵 [Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)**
+*by* **SSIEGE**
+*Album:* Fading Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
+    <rect width="292" height="4" fill="#1db954" rx="2"/>
+    <circle cx="292" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:23 • 6:30
+    3:20 • 3:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[First Contact](https://open.spotify.com/track/4kAv1OWYHlBUOhNQUYtiWW)** by **Mara Lakour** *(Parfois)*
-🎤 **[Camille - DJ Honesty Remix](https://open.spotify.com/track/5QOMJLGa650HNxSLcFtf83)** by **Politics Of Dancing, Dj Honesty** *(Camille EP)*
-🎤 **[Mastodon](https://open.spotify.com/track/4pzpAPdFN0SLGx9oc5dagB)** by **Malin Genie** *(Vixere II/II)*
-🎤 **[We Do - Edit](https://open.spotify.com/track/6vT7FSKpD8af0DtLQH33hC)** by **Traumer** *(We Do (Edit))*
-🎤 **[Senior - Radio Underground](https://open.spotify.com/track/5KdBLfkuQDaOdPEYBj9bIZ)** by **Joakim Adelardo** *(Senior (Radio Underground))*
+🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
+🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
+🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
+🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
+🎤 **[Scania - S.A.M. Reshape](https://open.spotify.com/track/0EFDZgG8w6bpZirlS620EU)** by **Malin Genie, Per Hammar, Samuel Andre Madson** *(Scania)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 08:15:36Z UTC
+🕐 Last updated: 2025-07-13 08:44:34Z UTC
 <!-- SPOTIFY-END -->
