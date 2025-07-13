@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e92361af5facda3ec7e989b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c094bb9243bea9cff34c56f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)**
-*by* **Tamino404, Keule**
-*Album:* es ist nicht mehr 2016
+**🎵 [white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)**
+*by* **Lil Peep, Lil Tracy**
+*Album:* castles
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="130" height="4" fill="#1db954" rx="2"/>
+    <circle cx="130" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 2:19
+    1:08 • 2:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))*
-🎤 **[Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)** by **R.E.M.** *(Out Of Time (25th Anniversary Edition))*
-🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
+🎤 **[Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc)** by **SOFFIE** *(Für immer Frühling)*
+🎤 **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
+🎤 **[3 Messer](https://open.spotify.com/track/4VVUW5n7EAJJNuVLiy6NLi)** by **Hello Hannes** *(3 Messer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 15:48:37Z UTC
+🕐 Last updated: 2025-07-13 16:14:39Z UTC
 <!-- SPOTIFY-END -->
