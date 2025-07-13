@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3fa49789f2e66801cdb70fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27376091476f9e08c85888a135f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)**
-*by* **bludwalk**
-*Album:* drunk on arrival
+**🎵 [Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)**
+*by* **Somewhere Special**
+*Album:* Secret
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 2:30
+    3:36 • 3:41
 </span>
 </p>
 
@@ -131,20 +131,20 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[Eternal Return](https://open.spotify.com/track/7f9lmB5KzC6nYGzEvxgoX0)** by **Ayegy** *(Eternal Return)*
-🎤 **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)*
-🎤 **[Dx3](https://open.spotify.com/track/6h3NoAoGFI7tckq3Kmk6WL)** by **Evanora Unlimited** *(Empty Fold / Dx3)*
-🎤 **[HowManyDays?](https://open.spotify.com/track/4jpYp1wEBZ5ebPaOIGloee)** by **Woesum** *(Protected)*
+🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
+🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
+🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+🎤 **[The Devil Works Hard... But I Work Harder](https://open.spotify.com/track/4gQljtPoXCy6vhL5kbIT2m)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[stada2mg EDM document 1 "DAGG"](https://open.spotify.com/track/68g3TSNLZRZy1Tt272f982)** by **DJ Worm, Eurohead, SPÖKE** *(stada2mg EDM document 1 "DAGG")*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
-🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥉 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🏅 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
 🏅 [**Yung Hurn**](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx)
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 21:48:15Z UTC
+🕐 Last updated: 2025-07-13 22:12:07Z UTC
 <!-- SPOTIFY-END -->
