@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)**
-*by* **Yung Hurn, meat computer**
-*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
+**🎵 [tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)**
+*by* **meat computer**
+*Album:* slept on the floor still dreamt about you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 2:49
+    0:09 • 1:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
-🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
-🎤 **[No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)** by **Radiohead** *(OK Computer OKNOTOK 1997 2017)*
+🎤 **[just don't](https://open.spotify.com/track/7dignw6Xutm9A83JlW7mAO)** by **meat computer** *(just don't)*
+🎤 **[This Way/That Way](https://open.spotify.com/track/3TPW7t0PaZ35u1L8NaCGU7)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
+🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
+🎤 **[Windchime (My Sacrifice)](https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef)** by **Ayegy** *(BLACKTHORN)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 19:47:50Z UTC
+🕐 Last updated: 2025-07-13 20:13:19Z UTC
 <!-- SPOTIFY-END -->
