@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)**
-*by* **meat computer**
-*Album:* slept on the floor still dreamt about you
+**🎵 [With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+    <rect width="217" height="4" fill="#1db954" rx="2"/>
+    <circle cx="217" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 1:03
+    1:58 • 2:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[just don't](https://open.spotify.com/track/7dignw6Xutm9A83JlW7mAO)** by **meat computer** *(just don't)*
-🎤 **[This Way/That Way](https://open.spotify.com/track/3TPW7t0PaZ35u1L8NaCGU7)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
-🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
-🎤 **[Windchime (My Sacrifice)](https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
+🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
+🎤 **[he rambled](https://open.spotify.com/track/3Y9OUMJuQwUGOITYqYA9bm)** by **meat computer** *(he rambled)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 20:13:19Z UTC
+🕐 Last updated: 2025-07-13 20:32:23Z UTC
 <!-- SPOTIFY-END -->
