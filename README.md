@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273469de7bfa3867059052c104d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cecb0b3e5c5c9fa0be6cbbf9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)**
-*by* **Leocardo DiNaprio, Traumatin**
-*Album:* geist
+**🎵 [Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)**
+*by* **Horst Krüger-Band**
+*Album:* Die Tagesreise
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:38
+    0:11 • 7:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
 🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
 🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
-🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
-🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-13 10:51:43Z UTC
+🕐 Last updated: 2025-07-13 11:10:19Z UTC
 <!-- SPOTIFY-END -->
