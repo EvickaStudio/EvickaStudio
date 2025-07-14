@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f05fa1637fb8f219bcb55e2d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739f1b9a0bb57b7ac2c8baf7a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)**
-*by* **Bladee**
-*Album:* Ste The Beautiful Martyr 1st Attempt
+**🎵 [DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)**
+*by* **Deutsche Vita**
+*Album:* DEUTSCHE VITA
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="232" height="4" fill="#1db954" rx="2"/>
-    <circle cx="232" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:56
+    1:21 • 3:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
-🎤 **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)*
-🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
+🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
+🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
+🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
+🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
+🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-14 17:13:39Z UTC
+🕐 Last updated: 2025-07-14 17:35:31Z UTC
 <!-- SPOTIFY-END -->
