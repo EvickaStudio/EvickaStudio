@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27303698799fc2c3b803631702b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a2376c88a3cb0163b33e7856" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)**
-*by* **Plymhides**
-*Album:* Special
+**🎵 [It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)**
+*by* **Snow Strippers**
+*Album:* April Mixtape 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:50
+    0:03 • 2:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Berliner Märchen](https://open.spotify.com/track/3bYhenwN32LvYsvFHSia3T)** by **Ion Miles, SIRA, BHZ** *(Berliner Märchen)*
-🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
+🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
+🎤 **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)*
+🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
+🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-14 20:15:02Z UTC
+🕐 Last updated: 2025-07-14 20:36:49Z UTC
 <!-- SPOTIFY-END -->
