@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273064d25ba90710fa9b570838d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)**
-*by* **Replay Okay**
-*Album:* Sie ist anders <facts3
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 1:33
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)** by **Kanye West** *(Graduation)*
-🎤 **[Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)** by **Kanye West** *(Graduation)*
-🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[Ненавижу(?)](https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo)** by **Xopowo** *(Ненавижу)*
+🎤 **[Ненавижу(?)](https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo)** by **Xopowo** *(Ненавижу)*
+🎤 **[Pass Nicht Rein (feat. Longus Mongus)](https://open.spotify.com/track/2utqNKlYqg2EiinmFzgYYK)** by **Ion Miles, Longus Mongus, BHZ** *(In Liebe, Ion)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
 
 
-🕐 Last updated: 2025-07-14 09:20:43Z UTC
+🕐 Last updated: 2025-07-14 09:47:18Z UTC
 <!-- SPOTIFY-END -->
