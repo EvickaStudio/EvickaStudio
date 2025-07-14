@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273064d25ba90710fa9b570838d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)**
+*by* **Replay Okay**
+*Album:* Sie ist anders <facts3
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:36 • 1:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Grow The Fuck Up](https://open.spotify.com/track/6yTOXsSJ5mHsXG9rIbfI9r)** by **hqwilli** *(Grow The Fuck Up)*
-🎤 **[The Meadow Where I Died](https://open.spotify.com/track/6EYnaxvl2fkGN7vPmooa77)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
-🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
+🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)** by **Kanye West** *(Graduation)*
+🎤 **[Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)** by **Kanye West** *(Graduation)*
+🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
 
 
 
@@ -134,10 +153,10 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
 🥈 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
-🥉 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
-🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
+🥉 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
+🏅 [**KUSH KOMA**](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)
 
 
-🕐 Last updated: 2025-07-14 08:52:18Z UTC
+🕐 Last updated: 2025-07-14 09:20:43Z UTC
 <!-- SPOTIFY-END -->
