@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27343262ec7efd31eabd8328eb3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ANDERN LEUTE](https://open.spotify.com/track/4yM3wnAL3V83oFFVh5fOoY)**
-*by* **mikeycyrus**
-*Album:* kill mich
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="297" height="4" fill="#1db954" rx="2"/>
-    <circle cx="297" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 1:50
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
+🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
+🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
 🎤 **[control](https://open.spotify.com/track/48VcntupqlmPVbYwej9h2R)** by **polearm** *(EP3)*
-🎤 **[Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)** by **The Radio Dept.** *(Pet Grief)*
-🎤 **[talking to the stars](https://open.spotify.com/track/41EVhWqGXHAC0lOcXuxbEf)** by **Sugure Joka** *(chill af breakcore)*
-🎤 **[Hate](https://open.spotify.com/track/3sfNpIpbLD4rdnaH626ft3)** by **Dearly Somber** *(Dearly Somber / Harvey Waters)*
-🎤 **[Hate](https://open.spotify.com/track/3sfNpIpbLD4rdnaH626ft3)** by **Dearly Somber** *(Dearly Somber / Harvey Waters)*
+🎤 **[Keine Geduld](https://open.spotify.com/track/4cGwHLPNMiddwsPBCsX5SD)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-15 07:51:16Z UTC
+🕐 Last updated: 2025-07-15 08:18:44Z UTC
 <!-- SPOTIFY-END -->
