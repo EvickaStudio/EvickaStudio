@@ -126,7 +126,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
-🏅 [**Yung Hurn**](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx)
+🏅 [**Ecco2k**](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX)
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-15 08:18:44Z UTC
+🕐 Last updated: 2025-07-15 08:49:18Z UTC
 <!-- SPOTIFY-END -->
