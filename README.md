@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273469de7bfa3867059052c104d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)**
+*by* **Leocardo DiNaprio, Traumatin**
+*Album:* geist
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:28 • 2:38
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
+🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
 🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
 🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
-🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
-🎤 **[control](https://open.spotify.com/track/48VcntupqlmPVbYwej9h2R)** by **polearm** *(EP3)*
-🎤 **[Keine Geduld](https://open.spotify.com/track/4cGwHLPNMiddwsPBCsX5SD)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-15 11:12:04Z UTC
+🕐 Last updated: 2025-07-15 11:29:22Z UTC
 <!-- SPOTIFY-END -->
