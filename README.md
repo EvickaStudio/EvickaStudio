@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27328c50326b4e477d500965a43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)**
+*by* **RomancePlanet**
+*Album:* ALONE IN THE DARK
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:19 • 2:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)** by **Dean Blunt, TYSON** *(Rinsed)*
-🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
+🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
+🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
+🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
+🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-16 07:16:07Z UTC
+🕐 Last updated: 2025-07-16 07:41:15Z UTC
 <!-- SPOTIFY-END -->
