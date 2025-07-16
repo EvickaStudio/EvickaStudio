@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737187b111350e4f4a437ad1fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)**
-*by* **Aphex Twin**
-*Album:* Selected Ambient Works 85-92
+**🎵 [Kicked Out by Seven](https://open.spotify.com/track/7C3WQU2fIKc6lZmz8aNVVN)**
+*by* **Double Virgo**
+*Album:* Eros In The Bunker
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="122" height="4" fill="#1db954" rx="2"/>
+    <circle cx="122" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:23 • 4:53
+    1:11 • 2:55
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ)** by **my bloody valentine** *(loveless)*
-🎤 **[Jalouse](https://open.spotify.com/track/4gujJ5efKCRLC3moKJktE7)** by **Ecco2k** *(PXE)*
-🎤 **[And The Parasite Speaks](https://open.spotify.com/track/5i6Eh6QM8GsOLHZRnQiXRe)** by **Felix Lee, Ecco2k** *(Skullstepper)*
-🎤 **[Earthmover](https://open.spotify.com/track/3wSYM0gFBlZ9u8BgcReQhJ)** by **Have A Nice Life** *(Deathconsciousness)*
-🎤 **[Heartlocket](https://open.spotify.com/track/0V3ffkZjCmLQQm2poKUIsD)** by **Elusin** *(SYNFUELS)*
+🎤 **[Leave](https://open.spotify.com/track/6lRJqlbbsSAyoN67hVsF8A)** by **Whirr** *(Distressor)*
+🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)** by **Dean Blunt, TYSON** *(Rinsed)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-16 15:37:34Z UTC
+🕐 Last updated: 2025-07-16 15:52:37Z UTC
 <!-- SPOTIFY-END -->
