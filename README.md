@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)**
-*by* **Slowdive**
-*Album:* Souvlaki
+**🎵 [Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)**
+*by* **Wisp**
+*Album:* Pandora
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="22" height="4" fill="#1db954" rx="2"/>
-    <circle cx="22" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 4:45
+    0:54 • 4:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)*
-🎤 **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)*
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)*
+🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
+🎤 **[Want To Love - Just Raw](https://open.spotify.com/track/2wKxXx8y3cZYQSPQykRAHX)** by **Aloboi** *(Raw Tracks and Reworks)*
+🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-16 11:12:03Z UTC
+🕐 Last updated: 2025-07-16 11:29:41Z UTC
 <!-- SPOTIFY-END -->
