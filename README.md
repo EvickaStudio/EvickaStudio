@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732d45d7d3434c1f8e6b240589" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [9](https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa)**
-*by* **Dean Blunt, Panda Bear**
-*Album:* ZUSHI
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="277" height="4" fill="#1db954" rx="2"/>
-    <circle cx="277" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 1:27
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Fake Viewer](https://open.spotify.com/track/5x2dUaXxqemaAHXadtF0Dx)** by **Buffalobang** *(Sudden Departure, Soccer Club 2)*
-🎤 **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)*
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[Heartlocket](https://open.spotify.com/track/0V3ffkZjCmLQQm2poKUIsD)** by **Elusin** *(SYNFUELS)*
+🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-16 14:12:39Z UTC
+🕐 Last updated: 2025-07-16 14:36:22Z UTC
 <!-- SPOTIFY-END -->
