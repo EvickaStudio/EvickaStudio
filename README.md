@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e88cf0a11c6a92b0eca25159" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)**
-*by* **LSD and the Search for God**
-*Album:* LSD and the Search for God
+**🎵 [Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)**
+*by* **ESPRIT 空想, George Clanton**
+*Album:* 200% Electronica
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="180" height="4" fill="#1db954" rx="2"/>
-    <circle cx="180" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:03 • 5:04
+    1:43 • 2:52
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
-🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
-🎤 **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)*
-🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Setting Sun](https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN)** by **You'll Never Get to Heaven** *(Wave Your Moonlight Hat For The Snowfall Train)*
+🎤 **[Don't You Feel](https://open.spotify.com/track/1vp5IH3t0jGu6kBy9L1DO7)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Gunman Blues](https://open.spotify.com/track/3R1FvfFqqiIxO4E99yu7rG)** by **Felix Lee** *(Skullstepper)*
+🎤 **[Stratosphere](https://open.spotify.com/track/6sEqGYDoVKk88agceDbYGk)** by **Duster** *(Stratosphere)*
+🎤 **[Hit #2](https://open.spotify.com/track/4eXpNnNOexUoA89KpWSpU3)** by **125 Rue Montmartre** *(Discography)*
+🎤 **[Not Much Of A Life](https://open.spotify.com/track/4wo6Mme2DqYRjWZgqrIYNr)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-16 13:10:55Z UTC
+🕐 Last updated: 2025-07-16 13:49:13Z UTC
 <!-- SPOTIFY-END -->
