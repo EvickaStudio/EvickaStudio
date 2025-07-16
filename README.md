@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e88cf0a11c6a92b0eca25159" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732d45d7d3434c1f8e6b240589" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)**
-*by* **ESPRIT 空想, George Clanton**
-*Album:* 200% Electronica
+**🎵 [9](https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa)**
+*by* **Dean Blunt, Panda Bear**
+*Album:* ZUSHI
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="277" height="4" fill="#1db954" rx="2"/>
+    <circle cx="277" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:52
+    1:20 • 1:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Don't You Feel](https://open.spotify.com/track/1vp5IH3t0jGu6kBy9L1DO7)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Gunman Blues](https://open.spotify.com/track/3R1FvfFqqiIxO4E99yu7rG)** by **Felix Lee** *(Skullstepper)*
-🎤 **[Stratosphere](https://open.spotify.com/track/6sEqGYDoVKk88agceDbYGk)** by **Duster** *(Stratosphere)*
-🎤 **[Hit #2](https://open.spotify.com/track/4eXpNnNOexUoA89KpWSpU3)** by **125 Rue Montmartre** *(Discography)*
-🎤 **[Not Much Of A Life](https://open.spotify.com/track/4wo6Mme2DqYRjWZgqrIYNr)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Fake Viewer](https://open.spotify.com/track/5x2dUaXxqemaAHXadtF0Dx)** by **Buffalobang** *(Sudden Departure, Soccer Club 2)*
+🎤 **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-16 13:49:13Z UTC
+🕐 Last updated: 2025-07-16 14:12:39Z UTC
 <!-- SPOTIFY-END -->
