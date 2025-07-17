@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349bdbd5880802dcbe4e0b2dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273380d45ee816361339657105f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH)**
-*by* **Charli xcx**
-*Album:* how i'm feeling now
+**🎵 [the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)**
+*by* **Levi Ryan**
+*Album:* the rest of our lives
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="198" height="4" fill="#1db954" rx="2"/>
-    <circle cx="198" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:25 • 3:39
+    1:44 • 2:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)** by **Pinegrove** *(Need 2)*
-🎤 **[Friends](https://open.spotify.com/track/656gU5TJunfBBMyvqXy850)** by **Elusin** *(Friends)*
-🎤 **[i met sarah in the bathroom](https://open.spotify.com/track/6Csn07rSjTle1myRtfWAyn)** by **awfultune** *(i met sarah in the bathroom)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
-🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
+🎤 **[Enchanted Death Melody](https://open.spotify.com/track/7nQcdpl3DGWovbSlBm0nTw)** by **Dj Smokey, Varg²™, Eurohead** *(Enchanted Death Melody)*
+🎤 **[Stunn](https://open.spotify.com/track/6wHDFttQM9JU16Oq41SXvq)** by **The Hellp** *(LL)*
+🎤 **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by **PinkPantheress** *(Heaven knows)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 15:14:17Z UTC
+🕐 Last updated: 2025-07-17 15:36:50Z UTC
 <!-- SPOTIFY-END -->
