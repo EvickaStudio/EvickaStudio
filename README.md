@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de476d58ded94f36938649dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d0e14b42f8e0f01124759cf0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fe en Rebelión](https://open.spotify.com/track/4O6FylCq09NVEUsF9AV69q)**
-*by* **yaego**
-*Album:* Fe en Rebelión
+**🎵 [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ)**
+*by* **Harmless**
+*Album:* I'm Sure
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="208" height="4" fill="#1db954" rx="2"/>
-    <circle cx="208" cy="2" r="6" fill="#1db954"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:52 • 4:08
+    2:24 • 5:21
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[two](https://open.spotify.com/track/4CYFtUTwSrtcV5An3pO2n2)** by **Cult Member** *(2017 Archives)*
+🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
+🎤 **[Fe en Rebelión](https://open.spotify.com/track/4O6FylCq09NVEUsF9AV69q)** by **yaego** *(Fe en Rebelión)*
 🎤 **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
 🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[LONDON TONIGHT FREESTYLE](https://open.spotify.com/track/7bCk3epmePt4yJH3xkpOAe)** by **Dean Blunt, Skepta, Novelist, A$AP Rocky** *(LONDON TONIGHT FREESTYLE)*
-🎤 **[Ghosttown](https://open.spotify.com/track/7l26dZs9DhSf8xyJ7NxbuP)** by **Yung Lean, Travis Scott** *(Unknown Memory)*
-🎤 **[Be Somebody (feat. A$AP Rocky & Lil B)](https://open.spotify.com/track/0sj2jVLjaomVaFAJZqSZI9)** by **Clams Casino, A$AP Rocky, Lil B** *(32 Levels (Deluxe))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 19:40:42Z UTC
+🕐 Last updated: 2025-07-17 19:48:21Z UTC
 <!-- SPOTIFY-END -->
