@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c628c63ab0c5842f3bc95130" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27393ac32d6aa31ca643411ee48" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/0yprHxnEj3ItXtnU4jUFF9)**
-*by* **Fred again.., Swedish House Mafia, Future**
-*Album:* USB
+**🎵 [Vip](https://open.spotify.com/track/7baactXf3RfNKYjluddRFz)**
+*by* **Odece, hqwilli, sparr00w**
+*Album:* Vip
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 4:27
+    0:35 • 2:28
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))*
-🎤 **[Love Tonight](https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9)** by **Shouse** *(Love Tonight)*
-🎤 **[Europapa](https://open.spotify.com/track/4sZGa0UXFc9Ako9Q0Sc9vk)** by **Joost** *(Unity)*
-🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
-🎤 **[The City Never Felt So Good](https://open.spotify.com/track/3gighwbMyIfJKVpauvANY2)** by **1tbsp** *(megacity1000)*
+🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
+🎤 **[Skin](https://open.spotify.com/track/0Vx1fYmQiObS2rg5ujQYJz)** by **Bladee** *(Eversince)*
+🎤 **[Invisible](https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2)** by **Yung Sherman, Uli K, Bladee** *(Innocence v2)*
+🎤 **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 14:12:29Z UTC
+🕐 Last updated: 2025-07-17 14:36:39Z UTC
 <!-- SPOTIFY-END -->
