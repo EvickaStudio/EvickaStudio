@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737a9214e709915022f75a9044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)**
-*by* **Basement Jaxx**
-*Album:* Rooty
+**🎵 [Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)**
+*by* **Kanye West, DJ Premier**
+*Album:* Graduation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="155" height="4" fill="#1db954" rx="2"/>
-    <circle cx="155" cy="2" r="6" fill="#1db954"/>
+    <rect width="189" height="4" fill="#1db954" rx="2"/>
+    <circle cx="189" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:28 • 4:45
+    2:24 • 3:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[MURDER EVERY 1 U KNOW!](https://open.spotify.com/track/17iGTeBSC6VtWESUk1YqYh)** by **femtanyl, takihasdied** *(MURDER EVERY 1 U KNOW!)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
-🎤 **[i hate this](https://open.spotify.com/track/4HytVTfbsGJEso9qSkJU5g)** by **threedimensionsapart** *(bliss)*
-🎤 **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)*
+🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
+🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
+🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 18:51:39Z UTC
+🕐 Last updated: 2025-07-17 19:12:38Z UTC
 <!-- SPOTIFY-END -->
