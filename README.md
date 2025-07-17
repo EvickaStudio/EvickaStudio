@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)**
-*by* **Kanye West, DJ Premier**
-*Album:* Graduation
+**🎵 [Ghosttown](https://open.spotify.com/track/7l26dZs9DhSf8xyJ7NxbuP)**
+*by* **Yung Lean, Travis Scott**
+*Album:* Unknown Memory
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 3:47
+    2:29 • 5:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
-🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
-🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
-🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
+🎤 **[Be Somebody (feat. A$AP Rocky & Lil B)](https://open.spotify.com/track/0sj2jVLjaomVaFAJZqSZI9)** by **Clams Casino, A$AP Rocky, Lil B** *(32 Levels (Deluxe))*
+🎤 **[WingRiddenAngel](https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO)** by **XXXTENTACION** *(LOOK AT ME: THE ALBUM)*
+🎤 **[Where U From?](https://open.spotify.com/track/1Lf7pGFkFPenD8OfqcwX9N)** by **Dj Twi$t II** *(Where U From?)*
+🎤 **[Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)** by **George Clanton** *(Ooh Rap I Ya)*
+🎤 **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 19:12:38Z UTC
+🕐 Last updated: 2025-07-17 19:28:55Z UTC
 <!-- SPOTIFY-END -->
