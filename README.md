@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735996ecb123a2c1843e594ef7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736ea42c406de1f4371ee0ea10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)**
-*by* **Dj Streaks, benuebermensch**
-*Album:* Houz Singles 2018-2019
+**🎵 [never enough](https://open.spotify.com/track/17dThjNLsDRXsX855um2a1)**
+*by* **otuka**
+*Album:* never enough
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="198" height="4" fill="#1db954" rx="2"/>
-    <circle cx="198" cy="2" r="6" fill="#1db954"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:48 • 7:16
+    0:18 • 1:52
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)*
-🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
-🎤 **[Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH)** by **Superheaven** *(Ours Is Chrome)*
-🎤 **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by **Hole** *(Celebrity Skin)*
+🎤 **[Acknowledgement](https://open.spotify.com/track/2YNJ2wMRwl2L2cudMQ0B6N)** by **Modjo** *(Modjo (Remastered))*
+🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
+🎤 **[Jetpacks for Julian](https://open.spotify.com/track/33VgEbvtB53S0KcppQJwsB)** by **Alison's Halo** *(Eyedazzler)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ)** by **R.E.M.** *(Out Of Time (25th Anniversary Edition))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 17:51:20Z UTC
+🕐 Last updated: 2025-07-17 18:19:05Z UTC
 <!-- SPOTIFY-END -->
