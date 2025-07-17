@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273211667ead19d27c2de052787" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a8b896743fb4053714e2a27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)**
-*by* **archive computer**
-*Album:* risking all and everything
+**🎵 [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH)**
+*by* **Superheaven**
+*Album:* Ours Is Chrome
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="21" height="4" fill="#1db954" rx="2"/>
+    <circle cx="21" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 3:25
+    0:18 • 4:27
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)*
-🎤 **[sometimes](https://open.spotify.com/track/2HKROSMPefjkoubJlwKA4H)** by **BLOODiDOL** *(sometimes)*
-🎤 **[Digital Bath](https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS)** by **Deftones** *(White Pony)*
-🎤 **[Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz)** by **Crystal Castles** *(Crystal Castles)*
-🎤 **[CUT](https://open.spotify.com/track/2hCFo7Rd91GyhyamQgrV3b)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Petals](https://open.spotify.com/track/4VedfquAzkjR15ntcWmNfL)** by **Hole** *(Celebrity Skin)*
+🎤 **[I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy)** by **Wisp** *(I remember how your hands felt on mine)*
+🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
+🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
+🎤 **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 17:13:36Z UTC
+🕐 Last updated: 2025-07-17 17:35:16Z UTC
 <!-- SPOTIFY-END -->
