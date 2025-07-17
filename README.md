@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d370b9f67dd4294dd3513dff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369f3fad64158a156633e8874" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)**
-*by* **Aloboi**
-*Album:* Justcore Extravaganza
+**🎵 [Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)**
+*by* **Nokia Angel**
+*Album:* Roll The Dice
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="31" height="4" fill="#1db954" rx="2"/>
-    <circle cx="31" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:25
+    2:26 • 3:07
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[Where Is My Mind? - 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy)** by **Pixies** *(Surfer Rosa (2007 Remaster))*
-🎤 **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)*
-🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
+🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
+🎤 **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)*
+🎤 **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)*
+🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
+🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 16:16:46Z UTC
+🕐 Last updated: 2025-07-17 16:49:06Z UTC
 <!-- SPOTIFY-END -->
