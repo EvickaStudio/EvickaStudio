@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de476d58ded94f36938649dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ghosttown](https://open.spotify.com/track/7l26dZs9DhSf8xyJ7NxbuP)**
-*by* **Yung Lean, Travis Scott**
-*Album:* Unknown Memory
+**🎵 [Fe en Rebelión](https://open.spotify.com/track/4O6FylCq09NVEUsF9AV69q)**
+*by* **yaego**
+*Album:* Fe en Rebelión
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="208" height="4" fill="#1db954" rx="2"/>
+    <circle cx="208" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 5:09
+    2:52 • 4:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
+🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[LONDON TONIGHT FREESTYLE](https://open.spotify.com/track/7bCk3epmePt4yJH3xkpOAe)** by **Dean Blunt, Skepta, Novelist, A$AP Rocky** *(LONDON TONIGHT FREESTYLE)*
+🎤 **[Ghosttown](https://open.spotify.com/track/7l26dZs9DhSf8xyJ7NxbuP)** by **Yung Lean, Travis Scott** *(Unknown Memory)*
 🎤 **[Be Somebody (feat. A$AP Rocky & Lil B)](https://open.spotify.com/track/0sj2jVLjaomVaFAJZqSZI9)** by **Clams Casino, A$AP Rocky, Lil B** *(32 Levels (Deluxe))*
-🎤 **[WingRiddenAngel](https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO)** by **XXXTENTACION** *(LOOK AT ME: THE ALBUM)*
-🎤 **[Where U From?](https://open.spotify.com/track/1Lf7pGFkFPenD8OfqcwX9N)** by **Dj Twi$t II** *(Where U From?)*
-🎤 **[Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)** by **George Clanton** *(Ooh Rap I Ya)*
-🎤 **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 19:28:55Z UTC
+🕐 Last updated: 2025-07-17 19:40:42Z UTC
 <!-- SPOTIFY-END -->
