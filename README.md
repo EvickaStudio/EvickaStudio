@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273946264bbeb79cdbaef579fd0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d52dafc5d6479b975b206e9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)**
-*by* **anna luna**
-*Album:* rotten
+**🎵 [BIRTH BY SLEEP](https://open.spotify.com/track/0PAZ9gXBM06eNYHBLv4TVx)**
+*by* **j1nabae, Trashiii**
+*Album:* ETHERIA
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:10
+    2:03 • 3:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
-🎤 **[Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)** by **Replay Okay** *(Sie ist anders <facts3)*
-🎤 **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))*
-🎤 **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[To THE Mღღn, Fly Me Sღღn [2014]](https://open.spotify.com/track/2aVBfttLjJYusS7tGITy23)** by **RIVKA** *(To THE Mღღn, Fly Me Sღღn)*
+🎤 **[love of my life fell in love with you](https://open.spotify.com/track/2xEeISVN1MTeAtJ2x5ezzm)** by **My Manifesto** *(love of my life fell in love with you)*
+🎤 **[Resonance but it's drum and bass](https://open.spotify.com/track/6RD6wiCP33MbObEyjnvipH)** by **333-i9** *(Resonance but it's drum and bass)*
+🎤 **[lightaway](https://open.spotify.com/track/4aexO9pNuTk8rIRkz16deq)** by **carbine, bixby** *(inf)*
+🎤 **[bunnybunnybunny](https://open.spotify.com/track/1E29IO6Pv3JB4Sa7ZwVjMk)** by **Mietze Conte** *(bunnybunnybunny)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-17 20:14:26Z UTC
+🕐 Last updated: 2025-07-17 20:36:24Z UTC
 <!-- SPOTIFY-END -->
