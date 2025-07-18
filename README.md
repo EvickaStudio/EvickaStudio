@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d5c2a8413c021c99bec8168c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a8b896743fb4053714e2a27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)**
-*by* **Buffalobang**
-*Album:* exclusion from nerd-tactics: a standalone saga
+**🎵 [I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)**
+*by* **Superheaven**
+*Album:* Ours Is Chrome
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 3:22
+    2:45 • 3:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by **Lilac** *(amiss (+ winter))*
-🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
-🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
-🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
-🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[Tangled dreams](https://open.spotify.com/track/5PCoCu7jl8FJTm6rKAmFDZ)** by **Wisp** *(Tangled dreams)*
+🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-18 13:10:48Z UTC
+🕐 Last updated: 2025-07-18 13:49:00Z UTC
 <!-- SPOTIFY-END -->
