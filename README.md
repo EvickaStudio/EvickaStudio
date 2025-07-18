@@ -134,10 +134,10 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
 🥈 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
-🥉 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
-🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
+🥉 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
+🏅 [**Cindy**](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)
 
 
-🕐 Last updated: 2025-07-18 11:52:06Z UTC
+🕐 Last updated: 2025-07-18 12:26:55Z UTC
 <!-- SPOTIFY-END -->
