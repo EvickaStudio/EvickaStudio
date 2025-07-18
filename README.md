@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2738df07eb123f9615417c99ecd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [blurr](https://open.spotify.com/track/3iAjkusJYYi1afxpADqvIx)**
+*by* **wenszy**
+*Album:* blurr
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:16 • 2:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[To THE Mღღn, Fly Me Sღღn [2014]](https://open.spotify.com/track/2aVBfttLjJYusS7tGITy23)** by **RIVKA** *(To THE Mღღn, Fly Me Sღღn)*
-🎤 **[love of my life fell in love with you](https://open.spotify.com/track/2xEeISVN1MTeAtJ2x5ezzm)** by **My Manifesto** *(love of my life fell in love with you)*
-🎤 **[Resonance but it's drum and bass](https://open.spotify.com/track/6RD6wiCP33MbObEyjnvipH)** by **333-i9** *(Resonance but it's drum and bass)*
-🎤 **[lightaway](https://open.spotify.com/track/4aexO9pNuTk8rIRkz16deq)** by **carbine, bixby** *(inf)*
-🎤 **[bunnybunnybunny](https://open.spotify.com/track/1E29IO6Pv3JB4Sa7ZwVjMk)** by **Mietze Conte** *(bunnybunnybunny)*
+🎤 **[Samaapti](https://open.spotify.com/track/6hsUnQKsamN5EKlZZoOWoE)** by **pradaaslife, Swoopy** *(Treasure Hunt 2)*
+🎤 **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[BIRTH BY SLEEP](https://open.spotify.com/track/0PAZ9gXBM06eNYHBLv4TVx)** by **j1nabae, Trashiii** *(ETHERIA)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 
 
-🕐 Last updated: 2025-07-18 06:20:27Z UTC
+🕐 Last updated: 2025-07-18 06:53:52Z UTC
 <!-- SPOTIFY-END -->
