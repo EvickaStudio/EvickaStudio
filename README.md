@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
 🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
 🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
 🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
 🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
-🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-19 07:12:25Z UTC
+🕐 Last updated: 2025-07-19 07:30:08Z UTC
 <!-- SPOTIFY-END -->
