@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d0ca2f1a99d2d53637b3a2df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)**
-*by* **Basement**
-*Album:* Colourmeinkindness
+**🎵 [Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)**
+*by* **Dean Blunt, TYSON**
+*Album:* Rinsed
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="18" height="4" fill="#1db954" rx="2"/>
-    <circle cx="18" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 3:47
+    1:22 • 1:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by **Superheaven** *(Ours Is Chrome)*
-🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
-🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
-🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
-🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
+🎤 **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)*
+🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
+🎤 **[Rosemary](https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J)** by **Deftones** *(Koi No Yokan)*
+🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
+🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-20 15:12:23Z UTC
+🕐 Last updated: 2025-07-20 15:32:17Z UTC
 <!-- SPOTIFY-END -->
