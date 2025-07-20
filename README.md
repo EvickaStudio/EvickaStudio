@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f11a5383c11039c003e9008b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273852ad5d79941de06639ec637" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [общедомовой](https://open.spotify.com/track/1QVlzjQU2RI4GpVen3x4Ro)**
-*by* **AL-90**
-*Album:* общедомовой
+**🎵 [roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)**
+*by* **Tamino404**
+*Album:* roter knopf
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="54" height="4" fill="#1db954" rx="2"/>
-    <circle cx="54" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 5:07
+    1:46 • 2:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
+🎤 **[Falling In A Black Hole](https://open.spotify.com/track/4mfL1QfnuoaUNyYMcDULQf)** by **Dimi Darko** *(Falling In a Black Hole / Higher)*
+🎤 **[Rush (Missing Out On Me)](https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9)** by **1tbsp, cherry chola, Purient** *(Rush (Missing Out On Me))*
+🎤 **[общедомовой](https://open.spotify.com/track/1QVlzjQU2RI4GpVen3x4Ro)** by **AL-90** *(общедомовой)*
 🎤 **[Feel Me](https://open.spotify.com/track/0yclDnzBzShzanIkW0e6rb)** by **Gygas** *(Tapes from the Attic)*
-🎤 **[Расскажи мне всё](https://open.spotify.com/track/2ufVMmXetQZ3Zzh1OK286u)** by **emosplash** *(Код 102)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[detonate](https://open.spotify.com/track/1M6VHCglQ2PLWeAsyhgEUH)** by **Charli xcx** *(how i'm feeling now)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-20 16:41:09Z UTC
+🕐 Last updated: 2025-07-20 16:54:40Z UTC
 <!-- SPOTIFY-END -->
