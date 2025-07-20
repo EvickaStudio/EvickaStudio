@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ea14b16bb08ac7019528abe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Playa Shit](https://open.spotify.com/track/2ZydEyo3eQG0Dv4tSybKC3)**
-*by* **NxxxxxS**
-*Album:* Special Intervention
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:36
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Better Man](https://open.spotify.com/track/1s21gtQOt2HcKuNvkzwrxO)** by **Joeyy** *(Better Man)*
+🎤 **[Playa Shit](https://open.spotify.com/track/2ZydEyo3eQG0Dv4tSybKC3)** by **NxxxxxS** *(Special Intervention)*
 🎤 **[Playa Shit](https://open.spotify.com/track/2ZydEyo3eQG0Dv4tSybKC3)** by **NxxxxxS** *(Special Intervention)*
 🎤 **[BRING WET CUNT](https://open.spotify.com/track/73MOBj7zHzGjhvlddecnLM)** by **Zheani** *(The Spiritual Meat Grinder)*
 🎤 **[BRING WET CUNT](https://open.spotify.com/track/73MOBj7zHzGjhvlddecnLM)** by **Zheani** *(The Spiritual Meat Grinder)*
-🎤 **[BRING WET CUNT](https://open.spotify.com/track/73MOBj7zHzGjhvlddecnLM)** by **Zheani** *(The Spiritual Meat Grinder)*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-20 19:25:12Z UTC
+🕐 Last updated: 2025-07-20 19:34:49Z UTC
 <!-- SPOTIFY-END -->
