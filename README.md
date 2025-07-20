@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af4dfa6258bcc120767e716f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Ça Va](https://open.spotify.com/track/2cEGDFroaSagUGVGr3Mrb8)**
-*by* **Nation, Ecco2k**
-*Album:* Ça Va
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 4:01
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[open air mental asylum](https://open.spotify.com/track/7e9EduAuOQrtx6OhJZuGOn)** by **meat computer** *(open air mental asylum)*
-🎤 **[Best Song Ever Made](https://open.spotify.com/track/4o82TSyDPmDYBIzqbzwSdP)** by **DJmegan23** *(Dopamine Machine 3)*
-🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
-🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
-🎤 **[Real Life Man](https://open.spotify.com/track/2mXU6HfPpMR0bmeSFjz5sz)** by **Loukeman** *(Sd-2)*
+🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
+🎤 **[life after life](https://open.spotify.com/track/0oufNGimO4F8exn0CTKkWe)** by **dose** *(life after life)*
+🎤 **[Baby](https://open.spotify.com/track/2zffbc2pTwEiv9JwCIJRiW)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)*
+🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
+🎤 **[Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)** by **Thrilliam Angels, Ecco2k** *(The Static Screams Your Name)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-20 19:47:36Z UTC
+🕐 Last updated: 2025-07-20 20:14:18Z UTC
 <!-- SPOTIFY-END -->
