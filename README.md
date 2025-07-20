@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335c56f0fe8fb436dc188e3a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [THE BADDEST (BADDER) [feat. Ayesha Erotica]](https://open.spotify.com/track/4IbD6fckUgj1qrC2U5VGem)**
-*by* **Joey Valence & Brae, Ayesha Erotica**
-*Album:* NO HANDS (Deluxe Edition)
+**🎵 [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="219" height="4" fill="#1db954" rx="2"/>
+    <circle cx="219" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:23
+    1:46 • 2:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[sleep alone.° ੈ✩](https://open.spotify.com/track/2yOqitXcB3VIgl1B0Oepy9)** by **Flawless Issues** *(Modern Past)*
-🎤 **[wenn der himmel nicht mehr blau ist](https://open.spotify.com/track/353M9lOui0IXgNyLQQEK0P)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
-🎤 **[Das Herz ist mir bedrückt](https://open.spotify.com/track/6jtn5NbR4MybWrnYNi88fF)** by **strangerperson** *(Das Herz ist mir bedrückt)*
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[abusive](https://open.spotify.com/track/7f5o7afMziVh2QUSKAcz1n)** by **MIMIDEATH** *(FOAR EVERYWUN FRUM MIMI)*
+🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
+🎤 **[brush it off !!!](https://open.spotify.com/track/5B1govRjYJpfQNnMGqJjuh)** by **Riovaz** *(Riovaz)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-20 17:31:38Z UTC
+🕐 Last updated: 2025-07-20 17:50:17Z UTC
 <!-- SPOTIFY-END -->
