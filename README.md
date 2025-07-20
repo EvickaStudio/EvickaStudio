@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734a82bda3507d50ac3e039bb0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)**
-*by* **Bassvictim**
-*Album:* Basspunk 2
+**🎵 [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV)**
+*by* **salvia palth**
+*Album:* melanchole
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 2:25
+    1:12 • 2:41
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[abusive](https://open.spotify.com/track/7f5o7afMziVh2QUSKAcz1n)** by **MIMIDEATH** *(FOAR EVERYWUN FRUM MIMI)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
-🎤 **[brush it off !!!](https://open.spotify.com/track/5B1govRjYJpfQNnMGqJjuh)** by **Riovaz** *(Riovaz)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
+🎤 **[Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m)** by **Grizzly Bear** *(Veckatimest)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-20 17:50:17Z UTC
+🕐 Last updated: 2025-07-20 18:17:24Z UTC
 <!-- SPOTIFY-END -->
