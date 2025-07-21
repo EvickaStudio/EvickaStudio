@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bf6dd3e864452f3ce19f3fd0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lanterns](https://open.spotify.com/track/5lXtDp1PzjqkL9EOPXZRRC)**
-*by* **Ozoi the Maid, Yakui The Maid**
-*Album:* Wonderland
+**🎵 [S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)**
+*by* **mickyi, S1RENA**
+*Album:* zone out ep ⋆｡°✩
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:17 • 7:10
+    2:26 • 3:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Spectra Ocean Dream Circuit](https://open.spotify.com/track/3OjuwKFhNKHRjtsVwasQ5W)** by **Starjunk 95** *(Spectra Ocean Dream Circuit)*
-🎤 **[Fast Life](https://open.spotify.com/track/5u1vw4nmCG8iuerg6ppBf0)** by **GEE LEE, India Shan** *(Fast Life)*
-🎤 **[No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8)** by **1tbsp, Mietze Conte** *(No Nein)*
-🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
-🎤 **[Acknowledgement](https://open.spotify.com/track/2YNJ2wMRwl2L2cudMQ0B6N)** by **Modjo** *(Modjo (Remastered))*
+🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
+🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Vip](https://open.spotify.com/track/7baactXf3RfNKYjluddRFz)** by **Odece, hqwilli, sparr00w** *(Vip)*
+🎤 **[Running Away](https://open.spotify.com/track/76FFWGRTp9lEfmn7ROVFsZ)** by **ITSOKTOCRY, rozey** *(GWEN STACY 4EVER)*
+🎤 **[Sex](https://open.spotify.com/track/5g1PPfVJKxaTweGxJhgnue)** by **DjRUM** *(Portrait with Firewood)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-21 18:20:01Z UTC
+🕐 Last updated: 2025-07-21 18:51:55Z UTC
 <!-- SPOTIFY-END -->
