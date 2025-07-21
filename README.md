@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273774096669395b9d64fa2fcbe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)**
-*by* **Ecco2k**
-*Album:* E
+**🎵 [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)**
+*by* **$uicideboy$**
+*Album:* I No Longer Fear the Razor Guarding My Heel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:55 • 4:12
+    1:25 • 2:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)*
-🎤 **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
+🎤 **[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)** by **Lil Peep** *(Star Shopping)*
+🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
+🎤 **[Birdsong](https://open.spotify.com/track/2SBPSEUgaqqKAsVzOEbC1Z)** by **Flawed Mangoes** *(Killswitch Melodies)*
+🎤 **[Sold Out](https://open.spotify.com/track/0symmj4uSnBmiMblgJb5BZ)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-21 17:38:11Z UTC
+🕐 Last updated: 2025-07-21 17:52:11Z UTC
 <!-- SPOTIFY-END -->
