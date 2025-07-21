@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)**
+*by* **Fishmans**
+*Album:* LONG SEASON
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="3" height="4" fill="#1db954" rx="2"/>
+    <circle cx="3" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:26 • 35:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
+🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
+🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
 🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
 🎤 **[See you soon](https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O)** by **Wisp** *(Pandora)*
-🎤 **[Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ)** by **Superheaven** *(Jar)*
-🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
-🎤 **[You're Not Gone, You're Just Dead!](https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1)** by **VIOLENT VIRA** *(You're Not Gone, You're Just Dead!)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-21 19:48:34Z UTC
+🕐 Last updated: 2025-07-21 20:14:46Z UTC
 <!-- SPOTIFY-END -->
