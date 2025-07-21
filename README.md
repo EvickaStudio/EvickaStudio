@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)**
-*by* **mickyi, S1RENA**
-*Album:* zone out ep ⋆｡°✩
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 3:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
-🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Vip](https://open.spotify.com/track/7baactXf3RfNKYjluddRFz)** by **Odece, hqwilli, sparr00w** *(Vip)*
-🎤 **[Running Away](https://open.spotify.com/track/76FFWGRTp9lEfmn7ROVFsZ)** by **ITSOKTOCRY, rozey** *(GWEN STACY 4EVER)*
-🎤 **[Sex](https://open.spotify.com/track/5g1PPfVJKxaTweGxJhgnue)** by **DjRUM** *(Portrait with Firewood)*
+🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
+🎤 **[See you soon](https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O)** by **Wisp** *(Pandora)*
+🎤 **[Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ)** by **Superheaven** *(Jar)*
+🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
+🎤 **[You're Not Gone, You're Just Dead!](https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1)** by **VIOLENT VIRA** *(You're Not Gone, You're Just Dead!)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-21 18:51:55Z UTC
+🕐 Last updated: 2025-07-21 19:12:50Z UTC
 <!-- SPOTIFY-END -->
