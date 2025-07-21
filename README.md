@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738f9fc6d866f4544849ac4a5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)**
-*by* **Martin Garrix, Bebe Rexha**
-*Album:* In the Name of Love
+**🎵 [陽だまりの寒さ](https://open.spotify.com/track/5uE5yMJaIVgkKBL0iBK2OO)**
+*by* **Shizuma Lietova, Rory in early 20s**
+*Album:* 陽だまりの寒さ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 3:15
+    0:07 • 2:25
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)*
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
-🎤 **[mirage](https://open.spotify.com/track/5BEP7tyEOMrw4MLOT42jem)** by **Drain Gang Archive** *(Mirage)*
-🎤 **[Rooftop](https://open.spotify.com/track/2nKFxDpNin6687nvU8nBtW)** by **yong casso, Saucyaf** *(Rooftop)*
-🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by **Freddie Dredd** *(Suffer)*
+🎤 **[Lost](https://open.spotify.com/track/0ytmxOjS0L12GlEdGQJo37)** by **RONEN** *(Hidden)*
+🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
+🎤 **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)*
+🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-21 09:48:16Z UTC
+🕐 Last updated: 2025-07-21 10:15:25Z UTC
 <!-- SPOTIFY-END -->
