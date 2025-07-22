@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ae73fbe53c8d6edb4d59683" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)**
-*by* **o0o, Aidan Swank, oaf1**
-*Album:* DUI_002
+**🎵 [silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)**
+*by* **blombi19**
+*Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="38" height="4" fill="#1db954" rx="2"/>
-    <circle cx="38" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 3:23
+    1:37 • 3:38
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
-🎤 **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)*
-🎤 **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by **Jane Remover** *(Frailty)*
-🎤 **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)*
-🎤 **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
+🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
+🎤 **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by **blombi19, p3pppa** *(herzkasper)*
+🎤 **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 03:05:46Z UTC
+🕐 Last updated: 2025-07-22 04:06:25Z UTC
 <!-- SPOTIFY-END -->
