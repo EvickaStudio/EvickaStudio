@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Wie du den Tag zurückdrehst](https://open.spotify.com/track/1gvZcuESbZKl09ONmb7W4a)** by **Streichelt** *(Wie du den Tag zurückdrehst)*
 🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
 🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
 🎤 **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)*
-🎤 **[Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 17:38:45Z UTC
+🕐 Last updated: 2025-07-22 17:52:01Z UTC
 <!-- SPOTIFY-END -->
