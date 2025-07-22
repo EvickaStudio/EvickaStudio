@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27399190e750483e7eb9c8f4965" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27333036dd313e79b872c52fe40" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Red Crystal Castles super sped](https://open.spotify.com/track/3Yh2qfF9TZTyDjMrrCiFbH)**
-*by* **Newjelly**
-*Album:* Red Crystal Castles super sped
+**🎵 [stalker](https://open.spotify.com/track/6p0zqUWkzZbuHYDHwIJ6bQ)**
+*by* **kuudere**
+*Album:* stalker
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+    <rect width="120" height="4" fill="#1db954" rx="2"/>
+    <circle cx="120" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 2:22
+    1:17 • 3:11
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[echo](https://open.spotify.com/track/6Tf9UlxHPdbKBRL9thTNaR)** by **mint, SlushhKitten** *(echo)*
-🎤 **[i like the way you oiia](https://open.spotify.com/track/4AHctbO19OZb3b7XoAK67l)** by **OIIA Cat, Uiia Cat** *(i like the way you oiia)*
-🎤 **[SIDE BY SIDE](https://open.spotify.com/track/7m3fDnbHr88f3aRFdnPjBh)** by **temcandoanything, Kasane Teto, GUMI, 16:9 krollo ✥** *(SIDE BY SIDE)*
-🎤 **[i know!!](https://open.spotify.com/track/4gkKOpa7XQ8cIkVSUcdjnI)** by **ilymeow** *(i know!!)*
-🎤 **[intact](https://open.spotify.com/track/1FKDFkKj3w5oVPS2eifIJF)** by **vai5000, clwdy** *(intact)*
+🎤 **[learning to grow](https://open.spotify.com/track/5Ldu3ng7T12GosqurB4aDw)** by **vai5000, Disphing** *(there is a you that remains)*
+🎤 **[NO ROLE MODELZ (TECHNO) (SPED UP)](https://open.spotify.com/track/55YGkNE74hpdoDFdAw6FRE)** by **TECHNO N TEQUILLA, chloe evee** *(NO ROLE MODELZ (TECHNO))*
+🎤 **[i think about](https://open.spotify.com/track/3sHQWdpbo28AipCOcazmzI)** by **mint** *(i think about)*
+🎤 **[all night](https://open.spotify.com/track/6TU5KcMHtNgybYLnyUdQ5d)** by **9surgery, dollreal, z4y4** *(all night)*
+🎤 **[deliberate evil](https://open.spotify.com/track/1VxQeD4uBNvAhrr6CoV67x)** by **Emma Aibara** *(deliberate evil)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 10:56:19Z UTC
+🕐 Last updated: 2025-07-22 11:14:14Z UTC
 <!-- SPOTIFY-END -->
