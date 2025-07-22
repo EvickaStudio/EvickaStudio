@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310995a323dc0b2dc5719efbf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)**
-*by* **kevin**
-*Album:* raupenimmersatt
+**🎵 [Rosemary](https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J)**
+*by* **Deftones**
+*Album:* Koi No Yokan
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:41
+    6:18 • 6:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by **sparr00w** *(Ich kann die Sterne nicht mehr Zählen)*
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[I Had It All](https://open.spotify.com/track/3AW4Y0M9HRZZduUaBTNwUQ)** by **dj poolboi** *(Forever Yours)*
-🎤 **[CCB - Mall Grab Breakbeat Remix](https://open.spotify.com/track/6uKvRSNEnnARE92nJhMGFS)** by **3NDLES5, WRX, Crazymike, Mall Grab** *(Sydney Bass (Deluxe Edition))*
-🎤 **[modern black music](https://open.spotify.com/track/4AQMT1P5g1oUOrDe98JXlx)** by **GENDEMA** *(sassy things)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-22 22:35:23Z UTC
+🕐 Last updated: 2025-07-22 22:52:40Z UTC
 <!-- SPOTIFY-END -->
