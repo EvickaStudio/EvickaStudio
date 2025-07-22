@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a8b896743fb4053714e2a27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)**
-*by* **Superheaven**
-*Album:* Ours Is Chrome
+**🎵 [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)**
+*by* **Radiohead**
+*Album:* In Rainbows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="0" height="4" fill="#1db954" rx="2"/>
+    <circle cx="0" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 3:23
+    0:00 • 3:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
-🎤 **[забытые воспоминания](https://open.spotify.com/track/5ftdGE9mCLQUUy3tTnN0Vu)** by **vecher 1998, VSN7** *(забытые воспоминания)*
-🎤 **[ok, i can love u.](https://open.spotify.com/track/4Cq1MwoRZZpsNJ8MlWNVCb)** by **witxoutessence, Nakedleisure** *(ok, i can love u.)*
-🎤 **[Shores](https://open.spotify.com/track/4IoHbphvaJ2lKaAmcWDQ90)** by **DreamKiller** *(Wishful Thinking)*
+🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[exclusion from nerd-tactics: a standalone saga](https://open.spotify.com/track/08vF1bAwWdfoe23mjoZjB8)** by **Buffalobang** *(exclusion from nerd-tactics: a standalone saga)*
+🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-22 23:32:11Z UTC
+🕐 Last updated: 2025-07-22 23:50:38Z UTC
 <!-- SPOTIFY-END -->
