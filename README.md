@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)**
-*by* **Bladee, Ecco2k, Thaiboy Digital**
-*Album:* TL;DR
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 3:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[Unendlichkeit (Remix)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN)** by **MilleniumKid, JBS, The Boy The G** *(Unendlichkeit (Remix))*
-🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
-🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
-🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)*
+🎤 **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)*
+🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 04:50:26Z UTC
+🕐 Last updated: 2025-07-22 05:18:47Z UTC
 <!-- SPOTIFY-END -->
