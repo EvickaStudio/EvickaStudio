@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c77a322e0afd8c86db8682f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)**
-*by* **SHEMYYY**
-*Album:* still looking for you.
+**🎵 [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)**
+*by* **Empire Of The Sun**
+*Album:* Walking On A Dream (10th Anniversary Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="168" height="4" fill="#1db954" rx="2"/>
+    <circle cx="168" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 2:21
+    1:51 • 3:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
-🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
-🎤 **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)*
-🎤 **[The Thin Grey Line](https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3)** by **$uicideboy$** *(New World Depression)*
+🎤 **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by **PinkPantheress** *(Heaven knows)*
+🎤 **[A B](https://open.spotify.com/track/3Y2khY1lCNfbygFPUqtvW1)** by **jequya** *(1p)*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[Blame](https://open.spotify.com/track/2BnVhWkKgXYUOeVTM4Vinj)** by **Sg Lily, Loveboy** *(17 Again)*
+🎤 **[don't need it](https://open.spotify.com/track/66FvpxrI4yYR1Rx0RnkZSP)** by **joss lockwood, boysinblush** *(don't need it)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-22 20:42:31Z UTC
+🕐 Last updated: 2025-07-22 20:54:25Z UTC
 <!-- SPOTIFY-END -->
