@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd6ecbbcd00555446128e6e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a8b896743fb4053714e2a27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [295/Simplicity](https://open.spotify.com/track/7kDknk90GkV22ubqd0bYoh)**
-*by* **Fullempty**
-*Album:* 295/Simplicity
+**🎵 [I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)**
+*by* **Superheaven**
+*Album:* Ours Is Chrome
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 3:51
+    0:15 • 3:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Feel Me](https://open.spotify.com/track/0yclDnzBzShzanIkW0e6rb)** by **Gygas** *(Tapes from the Attic)*
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
-🎤 **[Dark Side Of The Moon](https://open.spotify.com/track/33iv4ikGd0KboI6xNPL80i)** by **suisside** *(Dark Side Of The Moon)*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
+🎤 **[забытые воспоминания](https://open.spotify.com/track/5ftdGE9mCLQUUy3tTnN0Vu)** by **vecher 1998, VSN7** *(забытые воспоминания)*
+🎤 **[ok, i can love u.](https://open.spotify.com/track/4Cq1MwoRZZpsNJ8MlWNVCb)** by **witxoutessence, Nakedleisure** *(ok, i can love u.)*
+🎤 **[Shores](https://open.spotify.com/track/4IoHbphvaJ2lKaAmcWDQ90)** by **DreamKiller** *(Wishful Thinking)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-22 23:13:18Z UTC
+🕐 Last updated: 2025-07-22 23:32:11Z UTC
 <!-- SPOTIFY-END -->
