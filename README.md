@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)**
-*by* **Empire Of The Sun**
-*Album:* Walking On A Dream (10th Anniversary Edition)
+**🎵 [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)**
+*by* **Frank Ocean**
+*Album:* Blonde
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:51 • 3:18
+    1:44 • 4:08
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ)** by **PinkPantheress** *(Heaven knows)*
-🎤 **[A B](https://open.spotify.com/track/3Y2khY1lCNfbygFPUqtvW1)** by **jequya** *(1p)*
-🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
-🎤 **[Blame](https://open.spotify.com/track/2BnVhWkKgXYUOeVTM4Vinj)** by **Sg Lily, Loveboy** *(17 Again)*
-🎤 **[don't need it](https://open.spotify.com/track/66FvpxrI4yYR1Rx0RnkZSP)** by **joss lockwood, boysinblush** *(don't need it)*
+🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
+🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX)** by **jigitz** *(tell you straight)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-22 20:54:25Z UTC
+🕐 Last updated: 2025-07-22 21:12:52Z UTC
 <!-- SPOTIFY-END -->
