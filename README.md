@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27333036dd313e79b872c52fe40" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734bee79e229613cdc330b899d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stalker](https://open.spotify.com/track/6p0zqUWkzZbuHYDHwIJ6bQ)**
-*by* **kuudere**
-*Album:* stalker
+**🎵 [ホワイトブーケ - Saku Remix](https://open.spotify.com/track/3paSZhB2ogHmibnGfXq8GA)**
+*by* **花譜, Saku**
+*Album:* 寓話γ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 3:11
+    0:23 • 3:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[learning to grow](https://open.spotify.com/track/5Ldu3ng7T12GosqurB4aDw)** by **vai5000, Disphing** *(there is a you that remains)*
-🎤 **[NO ROLE MODELZ (TECHNO) (SPED UP)](https://open.spotify.com/track/55YGkNE74hpdoDFdAw6FRE)** by **TECHNO N TEQUILLA, chloe evee** *(NO ROLE MODELZ (TECHNO))*
-🎤 **[i think about](https://open.spotify.com/track/3sHQWdpbo28AipCOcazmzI)** by **mint** *(i think about)*
-🎤 **[all night](https://open.spotify.com/track/6TU5KcMHtNgybYLnyUdQ5d)** by **9surgery, dollreal, z4y4** *(all night)*
-🎤 **[deliberate evil](https://open.spotify.com/track/1VxQeD4uBNvAhrr6CoV67x)** by **Emma Aibara** *(deliberate evil)*
+🎤 **[，．⍟〉〔☃☂☂，．⍟〉〔☃☂☂☀ ススススス](https://open.spotify.com/track/4XnEwNvRFhWLg0UeVUBT9y)** by **3-66-7** *(，．⍟〉〔☃☂☂，．⍟〉〔☃☂☂☀ ススススス)*
+🎤 **[4g](https://open.spotify.com/track/0wO9kWDJ6P0p9S3sFTrDdt)** by **80gawd** *(Kiss)*
+🎤 **[broken wings](https://open.spotify.com/track/00GUrh0rJFYaxoHnoSzPCm)** by **mint** *(broken wings)*
+🎤 **[walk](https://open.spotify.com/track/511EH363IFZSB6t1DDIEDL)** by **Ilykimchi** *(walk)*
+🎤 **[stalker](https://open.spotify.com/track/6p0zqUWkzZbuHYDHwIJ6bQ)** by **kuudere** *(stalker)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 11:14:14Z UTC
+🕐 Last updated: 2025-07-22 11:31:03Z UTC
 <!-- SPOTIFY-END -->
