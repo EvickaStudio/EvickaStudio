@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea203ff75d9502746c7b0019" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b3d875745a54b0e68b842fea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)**
-*by* **5v, mint**
-*Album:* frei
+**🎵 [prayingg](https://open.spotify.com/track/0kbXPBI5gJvpoyL4UDlARY)**
+*by* **halveknots, 5v**
+*Album:* prayingg
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 3:12
+    1:32 • 3:19
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
-🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
-🎤 **[Das Herz ist mir bedrückt](https://open.spotify.com/track/6jtn5NbR4MybWrnYNi88fF)** by **strangerperson** *(Das Herz ist mir bedrückt)*
-🎤 **[Undercover](https://open.spotify.com/track/5ftUt3vu8I5iZ48uOABSF9)** by **Pavelo & Schnell** *(Autoradio)*
+🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
+🎤 **[Soju](https://open.spotify.com/track/7u4iFiCJboaoPcpeg5cUSm)** by **Nadžzz, mint** *(Soju)*
+🎤 **[techno lullaby.](https://open.spotify.com/track/4Pzj49cG8NT3JG5fbcDySi)** by **beau** *(beau.)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[dredd](https://open.spotify.com/track/0ZnO8ycThoYvANIC0q0OqC)** by **polearm** *(dredd)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 07:17:17Z UTC
+🕐 Last updated: 2025-07-22 07:41:40Z UTC
 <!-- SPOTIFY-END -->
