@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27333036dd313e79b872c52fe40" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stalker](https://open.spotify.com/track/6p0zqUWkzZbuHYDHwIJ6bQ)**
-*by* **kuudere**
-*Album:* stalker
+**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
+*by* **mint**
+*Album:* gold
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="76" height="4" fill="#1db954" rx="2"/>
+    <circle cx="76" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 3:11
+    0:58 • 3:51
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Stability](https://open.spotify.com/track/075LhSCrMFNMajvwbgywp5)** by **Nadžzz, mint** *(Stability)*
-🎤 **[Midnight](https://open.spotify.com/track/1DRuwPQdKeB6VHyk5pEsoK)** by **RudeClub** *(Midnight)*
-🎤 **[echo](https://open.spotify.com/track/6Tf9UlxHPdbKBRL9thTNaR)** by **mint, SlushhKitten** *(echo)*
-🎤 **[4g](https://open.spotify.com/track/0wO9kWDJ6P0p9S3sFTrDdt)** by **80gawd** *(Kiss)*
-🎤 **[astray](https://open.spotify.com/track/42VseTHKfYnyockdsY6qYK)** by **polearm** *(EP3)*
+🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)** by **RudeClub** *(i'm just trynna fuck)*
+🎤 **[All-2u](https://open.spotify.com/track/111XuxqfX5uZkpSeCgmmet)** by **MUNZi** *(All-2u)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[stuckinaloop](https://open.spotify.com/track/4DeEKPjmCVtWWPGFVJbruU)** by **1stress** *(stuckinaloop)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 09:18:22Z UTC
+🕐 Last updated: 2025-07-22 09:45:34Z UTC
 <!-- SPOTIFY-END -->
