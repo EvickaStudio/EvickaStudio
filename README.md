@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27330ea56ae0681539f253c7e91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc4a9ee9e9836cf816348bd2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)**
-*by* **oaf1, Lain**
-*Album:* break me down
+**🎵 [Out Of Red](https://open.spotify.com/track/6qOFhRH9y73Cpk8sGeLetL)**
+*by* **MRD**
+*Album:* Out of Red
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:44
+    3:30 • 5:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
-🎤 **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)*
+🎤 **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)*
+🎤 **[All the Way](https://open.spotify.com/track/4ir3TvOuSccCwx648hL4V3)** by **belac** *(All the Way)*
+🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
+🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-22 21:49:34Z UTC
+🕐 Last updated: 2025-07-22 22:13:04Z UTC
 <!-- SPOTIFY-END -->
