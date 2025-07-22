@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27399190e750483e7eb9c8f4965" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)**
-*by* **Lix, Elujjin**
-*Album:* 128
+**🎵 [Red Crystal Castles super sped](https://open.spotify.com/track/3Yh2qfF9TZTyDjMrrCiFbH)**
+*by* **Newjelly**
+*Album:* Red Crystal Castles super sped
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:25
+    1:36 • 2:22
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Disparate Youth - Sped Up](https://open.spotify.com/track/4FLcOXSkWmR5dwrLPvlc2c)** by **vunes** *(Disparate Youth)*
-🎤 **[love's not war](https://open.spotify.com/track/7lgzycJ0yntQOGQDa2Ahqb)** by **kruu** *(love's not war)*
-🎤 **[AIR](https://open.spotify.com/track/2poelc4sc4K2eW7SzZ3EjT)** by **coldspades** *(AIR)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[echo](https://open.spotify.com/track/6Tf9UlxHPdbKBRL9thTNaR)** by **mint, SlushhKitten** *(echo)*
+🎤 **[i like the way you oiia](https://open.spotify.com/track/4AHctbO19OZb3b7XoAK67l)** by **OIIA Cat, Uiia Cat** *(i like the way you oiia)*
+🎤 **[SIDE BY SIDE](https://open.spotify.com/track/7m3fDnbHr88f3aRFdnPjBh)** by **temcandoanything, Kasane Teto, GUMI, 16:9 krollo ✥** *(SIDE BY SIDE)*
+🎤 **[i know!!](https://open.spotify.com/track/4gkKOpa7XQ8cIkVSUcdjnI)** by **ilymeow** *(i know!!)*
+🎤 **[intact](https://open.spotify.com/track/1FKDFkKj3w5oVPS2eifIJF)** by **vai5000, clwdy** *(intact)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 10:43:15Z UTC
+🕐 Last updated: 2025-07-22 10:56:19Z UTC
 <!-- SPOTIFY-END -->
