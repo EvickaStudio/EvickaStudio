@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739b0f28b9e6484bfd943e71ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)**
+*by* **lauenburg**
+*Album:* Wenn du fällst, lass mich hier
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:16 • 3:19
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
+🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
+🎤 **[bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12)** by **Zsá Zsá, Replay Okay** *(bad bunnies)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 🎤 **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)*
-🎤 **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)*
-🎤 **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)*
-🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 
 
-🕐 Last updated: 2025-07-22 05:18:47Z UTC
+🕐 Last updated: 2025-07-22 05:47:06Z UTC
 <!-- SPOTIFY-END -->
