@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733bc4b0a7032f7820fe9f2a28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739e64fda334cd3cf7c3a65c72" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [51 - in geheimer Mission - Teil 36](https://open.spotify.com/track/24h63d92NHEMBhE4mQ7QDz)**
-*by* **Hanni und Nanni**
-*Album:* 51/in geheimer Mission
+**🎵 [Galerie der Toten, Szene 1](https://open.spotify.com/track/6FKWFirkRRZurksUTwemIM)**
+*by* **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel, Peter Schneider**
+*Album:* Die haarsträubenden Fälle des Philip Maloney, No.33 (Das Appartement, Galerie der Toten, Kunstfehler)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 1:18
+    2:36 • 3:13
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[082 - Spuk aus dem Jenseits - Teil 10](https://open.spotify.com/track/2dpVgMUpBymHM08TdpJEgK)** by **TKKG Retro-Archiv** *(082/Spuk aus dem Jenseits)*
-🎤 **[Kapitel 4 - Folge 95: Perlenraub im Strandhotel](https://open.spotify.com/track/3PuJclb0SKdJxb8m2Aui81)** by **Die Playmos, David Bredel, Florian Fickel, Gerrit Schmidt-Foß, Santiago Ziesmer, Ricardo Richter, Nicolás Artajo, Giuliana Jakobeit** *(Folge 95: Perlenraub im Strandhotel (Das Original Playmobil Hörspiel))*
-🎤 **[Kapitel 18 - Ein Platz nur für Lieselotte ... und andere Geschichten - Hörbücher von Kuh Lieselotte](https://open.spotify.com/track/2XQRAHfBB9dJflpiKzx9Ta)** by **Alexander Steffensmeier, Bernd Kohlhepp** *(Ein Platz nur für Lieselotte ... und andere Geschichten [Hörbücher von Kuh Lieselotte (Ungekürzte Lesung)])*
-🎤 **[009 - und die rätselhaften Bilder - Teil 29](https://open.spotify.com/track/0reVbzo79rFQ7hEAwrOVEd)** by **Die drei ???** *(009/und die rätselhaften Bilder)*
-🎤 **[01 - sind immer dagegen - Teil 07](https://open.spotify.com/track/7phL4LpyM4gxSWW5R0SHnh)** by **Hanni und Nanni** *(01/sind immer dagegen)*
+🎤 **[002 - Der blinde Hellseher - Teil 23](https://open.spotify.com/track/7p7MrF2dtCpjKi1Cc2PAuK)** by **TKKG Retro-Archiv** *(002/Der blinde Hellseher)*
+🎤 **[211 - Geiselnahme im Villenviertel - Teil 20](https://open.spotify.com/track/6r06wJ29eBfxKVW6PPE6YD)** by **TKKG** *(211/Geiselnahme im Villenviertel)*
+🎤 **[Kapitel 11 - Lieselotte macht nicht mit - und andere Geschichten - Hörbücher von Kuh Lieselotte](https://open.spotify.com/track/3CPybfjQeR4jSyO2pZyMjC)** by **Alexander Steffensmeier, Bernd Kohlhepp** *(Lieselotte macht nicht mit - und andere Geschichten [Hörbücher von Kuh Lieselotte (Ungekürzte Lesung)])*
+🎤 **[Küstenmorde Folge 01 - Spurlos - Teil 3](https://open.spotify.com/track/6SpGX8rdzO6w0iLCcj6opK)** by **Küstenmorde** *(Küstenmorde Folge 01 - Spurlos)*
+🎤 **[47 - im Kinderdorf - Teil 13](https://open.spotify.com/track/1t7t9Av9KwYaPdt2CjaX6l)** by **Hanni und Nanni** *(47/im Kinderdorf)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-23 04:51:48Z UTC
+🕐 Last updated: 2025-07-23 05:21:48Z UTC
 <!-- SPOTIFY-END -->
