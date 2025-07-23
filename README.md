@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27300139d2c17de59410a8a6a7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27352f95c7940df13ba367d21fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [204 - Verschwörung auf hoher See - Teil 33](https://open.spotify.com/track/7fgEE9KO5PDl45PRriqv9t)**
-*by* **TKKG**
-*Album:* 204/Verschwörung auf hoher See
+**🎵 [Blind Date, Szene 4](https://open.spotify.com/track/1OL2RNngtrU0oHoSIhkRJd)**
+*by* **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel**
+*Album:* Die haarsträubenden Fälle des Philip Maloney, No.31 (Die Nacht der langen Messer, Blind Date, Das Sommerrätsel)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 1:09
+    0:22 • 3:32
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[204 - Verschwörung auf hoher See - Teil 31](https://open.spotify.com/track/1DgB6QRjLufkZxd2ZlinoW)** by **TKKG** *(204/Verschwörung auf hoher See)*
-🎤 **[204 - Verschwörung auf hoher See - Teil 30](https://open.spotify.com/track/3Vgkln7nftKOekr7aoCfae)** by **TKKG** *(204/Verschwörung auf hoher See)*
-🎤 **[204 - Verschwörung auf hoher See - Teil 29](https://open.spotify.com/track/0ZvrWSP8OKAnaxOfD5YN62)** by **TKKG** *(204/Verschwörung auf hoher See)*
-🎤 **[204 - Verschwörung auf hoher See - Teil 28](https://open.spotify.com/track/39xBxpPwoXqMI0RYg7zskc)** by **TKKG** *(204/Verschwörung auf hoher See)*
-🎤 **[204 - Verschwörung auf hoher See - Teil 27](https://open.spotify.com/track/2kEFEYZJZxCqe0GZSjIoSq)** by **TKKG** *(204/Verschwörung auf hoher See)*
+🎤 **[003 - Das leere Grab im Moor - Teil 24](https://open.spotify.com/track/7lw4xMbH7bniObO7OgJ5S0)** by **TKKG Retro-Archiv** *(003/Das leere Grab im Moor)*
+🎤 **[008 - und der grüne Geist - Teil 21](https://open.spotify.com/track/3TTSEeMPv30VCGR0qPmeHX)** by **Die drei ???** *(008/und der grüne Geist)*
+🎤 **[Kapitel 13 - Ein Geburtstagsfest für Lieselotte und andere Geschichten - Hörbücher von Kuh Lieselotte](https://open.spotify.com/track/6CFRc9pqfaKNQWMxX7e10G)** by **Alexander Steffensmeier, Bernd Kohlhepp** *(Ein Geburtstagsfest für Lieselotte und andere Geschichten [Hörbücher von Kuh Lieselotte (Ungekürzte Lesung mit Musik)])*
+🎤 **[214 - Diamantenrausch auf der A9 - Teil 26](https://open.spotify.com/track/60uu9ORDXSIQv9wS4HAIjK)** by **TKKG** *(214/Diamantenrausch auf der A9)*
+🎤 **[20 - sind große Klasse - Teil 35](https://open.spotify.com/track/4VfFwtlZjVxiFRnER8Mh1h)** by **Hanni und Nanni** *(20/sind große Klasse)*
 
 
 
@@ -145,7 +145,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
 🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-23 03:06:56Z UTC
+🕐 Last updated: 2025-07-23 04:07:51Z UTC
 <!-- SPOTIFY-END -->
