@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27352f95c7940df13ba367d21fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733bc4b0a7032f7820fe9f2a28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blind Date, Szene 4](https://open.spotify.com/track/1OL2RNngtrU0oHoSIhkRJd)**
-*by* **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel**
-*Album:* Die haarsträubenden Fälle des Philip Maloney, No.31 (Die Nacht der langen Messer, Blind Date, Das Sommerrätsel)
+**🎵 [51 - in geheimer Mission - Teil 36](https://open.spotify.com/track/24h63d92NHEMBhE4mQ7QDz)**
+*by* **Hanni und Nanni**
+*Album:* 51/in geheimer Mission
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 3:32
+    0:17 • 1:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[003 - Das leere Grab im Moor - Teil 24](https://open.spotify.com/track/7lw4xMbH7bniObO7OgJ5S0)** by **TKKG Retro-Archiv** *(003/Das leere Grab im Moor)*
-🎤 **[008 - und der grüne Geist - Teil 21](https://open.spotify.com/track/3TTSEeMPv30VCGR0qPmeHX)** by **Die drei ???** *(008/und der grüne Geist)*
-🎤 **[Kapitel 13 - Ein Geburtstagsfest für Lieselotte und andere Geschichten - Hörbücher von Kuh Lieselotte](https://open.spotify.com/track/6CFRc9pqfaKNQWMxX7e10G)** by **Alexander Steffensmeier, Bernd Kohlhepp** *(Ein Geburtstagsfest für Lieselotte und andere Geschichten [Hörbücher von Kuh Lieselotte (Ungekürzte Lesung mit Musik)])*
-🎤 **[214 - Diamantenrausch auf der A9 - Teil 26](https://open.spotify.com/track/60uu9ORDXSIQv9wS4HAIjK)** by **TKKG** *(214/Diamantenrausch auf der A9)*
-🎤 **[20 - sind große Klasse - Teil 35](https://open.spotify.com/track/4VfFwtlZjVxiFRnER8Mh1h)** by **Hanni und Nanni** *(20/sind große Klasse)*
+🎤 **[082 - Spuk aus dem Jenseits - Teil 10](https://open.spotify.com/track/2dpVgMUpBymHM08TdpJEgK)** by **TKKG Retro-Archiv** *(082/Spuk aus dem Jenseits)*
+🎤 **[Kapitel 4 - Folge 95: Perlenraub im Strandhotel](https://open.spotify.com/track/3PuJclb0SKdJxb8m2Aui81)** by **Die Playmos, David Bredel, Florian Fickel, Gerrit Schmidt-Foß, Santiago Ziesmer, Ricardo Richter, Nicolás Artajo, Giuliana Jakobeit** *(Folge 95: Perlenraub im Strandhotel (Das Original Playmobil Hörspiel))*
+🎤 **[Kapitel 18 - Ein Platz nur für Lieselotte ... und andere Geschichten - Hörbücher von Kuh Lieselotte](https://open.spotify.com/track/2XQRAHfBB9dJflpiKzx9Ta)** by **Alexander Steffensmeier, Bernd Kohlhepp** *(Ein Platz nur für Lieselotte ... und andere Geschichten [Hörbücher von Kuh Lieselotte (Ungekürzte Lesung)])*
+🎤 **[009 - und die rätselhaften Bilder - Teil 29](https://open.spotify.com/track/0reVbzo79rFQ7hEAwrOVEd)** by **Die drei ???** *(009/und die rätselhaften Bilder)*
+🎤 **[01 - sind immer dagegen - Teil 07](https://open.spotify.com/track/7phL4LpyM4gxSWW5R0SHnh)** by **Hanni und Nanni** *(01/sind immer dagegen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-23 04:07:51Z UTC
+🕐 Last updated: 2025-07-23 04:51:48Z UTC
 <!-- SPOTIFY-END -->
