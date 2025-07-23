@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739e64fda334cd3cf7c3a65c72" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c65fdec8806fe89720f40f16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Galerie der Toten, Szene 1](https://open.spotify.com/track/6FKWFirkRRZurksUTwemIM)**
-*by* **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel, Peter Schneider**
-*Album:* Die haarsträubenden Fälle des Philip Maloney, No.33 (Das Appartement, Galerie der Toten, Kunstfehler)
+**🎵 [Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)**
+*by* **01099, Paul, Ikkimel**
+*Album:* 25grad
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="241" height="4" fill="#1db954" rx="2"/>
-    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:36 • 3:13
+    0:06 • 2:14
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[002 - Der blinde Hellseher - Teil 23](https://open.spotify.com/track/7p7MrF2dtCpjKi1Cc2PAuK)** by **TKKG Retro-Archiv** *(002/Der blinde Hellseher)*
-🎤 **[211 - Geiselnahme im Villenviertel - Teil 20](https://open.spotify.com/track/6r06wJ29eBfxKVW6PPE6YD)** by **TKKG** *(211/Geiselnahme im Villenviertel)*
-🎤 **[Kapitel 11 - Lieselotte macht nicht mit - und andere Geschichten - Hörbücher von Kuh Lieselotte](https://open.spotify.com/track/3CPybfjQeR4jSyO2pZyMjC)** by **Alexander Steffensmeier, Bernd Kohlhepp** *(Lieselotte macht nicht mit - und andere Geschichten [Hörbücher von Kuh Lieselotte (Ungekürzte Lesung)])*
-🎤 **[Küstenmorde Folge 01 - Spurlos - Teil 3](https://open.spotify.com/track/6SpGX8rdzO6w0iLCcj6opK)** by **Küstenmorde** *(Küstenmorde Folge 01 - Spurlos)*
-🎤 **[47 - im Kinderdorf - Teil 13](https://open.spotify.com/track/1t7t9Av9KwYaPdt2CjaX6l)** by **Hanni und Nanni** *(47/im Kinderdorf)*
+🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
+🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
+🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
+🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
+🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-23 05:21:48Z UTC
+🕐 Last updated: 2025-07-23 05:49:59Z UTC
 <!-- SPOTIFY-END -->
