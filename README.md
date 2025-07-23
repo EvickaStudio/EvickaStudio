@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9e8765d0977ac605d639fad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738a07f7ad90ba69b04bcc8b95" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)**
-*by* **3LNA**
-*Album:* HERZ BRICHT
+**🎵 [Song For Lovers](https://open.spotify.com/track/7qbCY2WYtIKjcTLAOtqliw)**
+*by* **Bachelors of Science**
+*Album:* Science Fiction
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="217" height="4" fill="#1db954" rx="2"/>
-    <circle cx="217" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:44
+    5:07 • 6:28
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Ein Teil](https://open.spotify.com/track/7A8hHtHU5SaQ5xaySOTmrd)** by **CRO** *(Raop)*
-🎤 **[Dull Boys](https://open.spotify.com/track/4IdDqsCR2VFPRQ8zXEotj7)** by **Archy Marshall** *(A New Place 2 Drown)*
-🎤 **[brainbutter](https://open.spotify.com/track/7DuYsNKr5oX9uG5IYGWchx)** by **nemesus** *(brainbutter)*
-🎤 **[Reflection](https://open.spotify.com/track/2HBAu9VCJHhmHuzCSJc11z)** by **Cathedral Bells** *(Velvet Spirit)*
-🎤 **[2AM](https://open.spotify.com/track/328YQ9OByKGRtL8o7TqzRI)** by **Katago** *(2AM)*
+🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
+🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
+🎤 **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)*
+🎤 **[like cats & dogs](https://open.spotify.com/track/4Udk5XNwCks4aGcDqdwzBE)** by **tomcbumpz** *(don't look down)*
+🎤 **[Resonance x Genesis x Not allowed](https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I)** by **mikeeysmind** *(Resonance x Genesis x Not allowed)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-23 16:17:17Z UTC
+🕐 Last updated: 2025-07-23 16:50:45Z UTC
 <!-- SPOTIFY-END -->
