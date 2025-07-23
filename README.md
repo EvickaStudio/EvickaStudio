@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27340c6ccaada75d9df62d0cef3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [wrong intentions/HERZ](https://open.spotify.com/track/0GHSFAhcvrOKYypcJClKCx)**
-*by* **gard, humanangst**
-*Album:* wrong intentions/HERZ
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:05
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
+🎤 **[wrong intentions/HERZ](https://open.spotify.com/track/0GHSFAhcvrOKYypcJClKCx)** by **gard, humanangst** *(wrong intentions/HERZ)*
 🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
 🎤 **[gonna b ok](https://open.spotify.com/track/6oNAKlgliyJFicAPRyFkUE)** by **Lil Soda Boi, Lil Yu** *(epic ep pt. II)*
 🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[Raccoon](https://open.spotify.com/track/5Ys85maRuIZyBuzlXUIBVg)** by **James Jetski** *(Just Joking)*
-🎤 **[back to life](https://open.spotify.com/track/6fgrdBE73C9iLxWTifKj1V)** by **d1v** *(finally free)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-23 06:53:32Z UTC
+🕐 Last updated: 2025-07-23 07:18:00Z UTC
 <!-- SPOTIFY-END -->
