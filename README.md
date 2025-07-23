@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379e3ea95151a6bc270666c13" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d9e8765d0977ac605d639fad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)**
-*by* **Junshi, oldoceans**
-*Album:* relation with you, Parfait
+**🎵 [du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)**
+*by* **3LNA**
+*Album:* HERZ BRICHT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="217" height="4" fill="#1db954" rx="2"/>
+    <circle cx="217" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 1:52
+    1:59 • 2:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
-🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
-🎤 **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
-🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[Ein Teil](https://open.spotify.com/track/7A8hHtHU5SaQ5xaySOTmrd)** by **CRO** *(Raop)*
+🎤 **[Dull Boys](https://open.spotify.com/track/4IdDqsCR2VFPRQ8zXEotj7)** by **Archy Marshall** *(A New Place 2 Drown)*
+🎤 **[brainbutter](https://open.spotify.com/track/7DuYsNKr5oX9uG5IYGWchx)** by **nemesus** *(brainbutter)*
+🎤 **[Reflection](https://open.spotify.com/track/2HBAu9VCJHhmHuzCSJc11z)** by **Cathedral Bells** *(Velvet Spirit)*
+🎤 **[2AM](https://open.spotify.com/track/328YQ9OByKGRtL8o7TqzRI)** by **Katago** *(2AM)*
 
 
 
@@ -143,8 +143,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 🥈 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
-🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
+🥉 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-23 15:54:07Z UTC
+🕐 Last updated: 2025-07-23 16:17:17Z UTC
 <!-- SPOTIFY-END -->
