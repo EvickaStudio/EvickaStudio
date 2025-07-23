@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fdf976de3668b6f65c3f6f91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ghosttown](https://open.spotify.com/track/7l26dZs9DhSf8xyJ7NxbuP)**
-*by* **Yung Lean, Travis Scott**
-*Album:* Unknown Memory
+**🎵 [Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)**
+*by* **Holy Fuck**
+*Album:* Congrats
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 5:09
+    0:40 • 3:47
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
-🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
+🎤 **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
+🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
+🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
+🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
+🎤 **[ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/4tdv3spzS6ZhdlxV9xVx3O)** by **DANZINGER 99** *(Hotel+++)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-23 10:55:51Z UTC
+🕐 Last updated: 2025-07-23 11:13:24Z UTC
 <!-- SPOTIFY-END -->
