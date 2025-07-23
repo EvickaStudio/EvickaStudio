@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)**
+*by* **Fishmans**
+*Album:* LONG SEASON
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="3" height="4" fill="#1db954" rx="2"/>
+    <circle cx="3" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:26 • 35:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
-🎤 **[wrong intentions/HERZ](https://open.spotify.com/track/0GHSFAhcvrOKYypcJClKCx)** by **gard, humanangst** *(wrong intentions/HERZ)*
-🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
-🎤 **[gonna b ok](https://open.spotify.com/track/6oNAKlgliyJFicAPRyFkUE)** by **Lil Soda Boi, Lil Yu** *(epic ep pt. II)*
+🎤 **[Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
+🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
+🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
+🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
+🎤 **[Napoleon](https://open.spotify.com/track/6UeXHOH3y0aEhZSo8LXqhv)** by **pradaaslife, Swoopy, Yuri Online** *(Treasure Hunt 2)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-23 07:42:35Z UTC
+🕐 Last updated: 2025-07-23 07:52:39Z UTC
 <!-- SPOTIFY-END -->
