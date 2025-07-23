@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ca1d031b552144e831400460" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300139d2c17de59410a8a6a7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)**
-*by* **meat computer**
-*Album:* help, im falling
+**🎵 [204 - Verschwörung auf hoher See - Teil 33](https://open.spotify.com/track/7fgEE9KO5PDl45PRriqv9t)**
+*by* **TKKG**
+*Album:* 204/Verschwörung auf hoher See
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="10" height="4" fill="#1db954" rx="2"/>
+    <circle cx="10" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 1:58
+    0:02 • 1:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
-🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
-🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
-🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
+🎤 **[204 - Verschwörung auf hoher See - Teil 31](https://open.spotify.com/track/1DgB6QRjLufkZxd2ZlinoW)** by **TKKG** *(204/Verschwörung auf hoher See)*
+🎤 **[204 - Verschwörung auf hoher See - Teil 30](https://open.spotify.com/track/3Vgkln7nftKOekr7aoCfae)** by **TKKG** *(204/Verschwörung auf hoher See)*
+🎤 **[204 - Verschwörung auf hoher See - Teil 29](https://open.spotify.com/track/0ZvrWSP8OKAnaxOfD5YN62)** by **TKKG** *(204/Verschwörung auf hoher See)*
+🎤 **[204 - Verschwörung auf hoher See - Teil 28](https://open.spotify.com/track/39xBxpPwoXqMI0RYg7zskc)** by **TKKG** *(204/Verschwörung auf hoher See)*
+🎤 **[204 - Verschwörung auf hoher See - Teil 27](https://open.spotify.com/track/2kEFEYZJZxCqe0GZSjIoSq)** by **TKKG** *(204/Verschwörung auf hoher See)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Outro**](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)
 
 
-🕐 Last updated: 2025-07-23 01:08:02Z UTC
+🕐 Last updated: 2025-07-23 03:06:56Z UTC
 <!-- SPOTIFY-END -->
