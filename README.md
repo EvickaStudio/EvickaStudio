@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27359e842b6a3566a141f27f815" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)**
-*by* **Bassvictim**
-*Album:* Basspunk 2
+**🎵 [Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)**
+*by* **Kid Cudi**
+*Album:* Man On The Moon II: The Legend Of Mr. Rager
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="85" height="4" fill="#1db954" rx="2"/>
+    <circle cx="85" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 2:24
+    1:23 • 4:54
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[virgin suicides](https://open.spotify.com/track/3qJrVNkG1OflvNhMj0J9Db)** by **Brothel in Belize** *(virgin suicides)*
-🎤 **[sometimes](https://open.spotify.com/track/2HKROSMPefjkoubJlwKA4H)** by **BLOODiDOL** *(sometimes)*
-🎤 **[just don't](https://open.spotify.com/track/7dignw6Xutm9A83JlW7mAO)** by **meat computer** *(just don't)*
-🎤 **[Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
+🎤 **[Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka)** by **PinkPantheress** *(to hell with it)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
+🎤 **[Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)** by **Thrilliam Angels, Ecco2k** *(The Static Screams Your Name)*
+🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-24 09:18:09Z UTC
+🕐 Last updated: 2025-07-24 09:44:44Z UTC
 <!-- SPOTIFY-END -->
