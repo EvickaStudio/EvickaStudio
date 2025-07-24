@@ -106,26 +106,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cecb0b3e5c5c9fa0be6cbbf9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Die Tagesreise](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)**
-*by* **Horst Krüger-Band**
-*Album:* Die Tagesreise
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 7:21
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-24 18:51:48Z UTC
+🕐 Last updated: 2025-07-24 19:12:57Z UTC
 <!-- SPOTIFY-END -->
