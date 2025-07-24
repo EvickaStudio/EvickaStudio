@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735eef4a5a0481a08f2cf993c3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27335c56f0fe8fb436dc188e3a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK)**
-*by* **Yves Tumor**
-*Album:* Mono No Aware
+**🎵 [THE BADDEST (BADDER) [feat. Ayesha Erotica]](https://open.spotify.com/track/4IbD6fckUgj1qrC2U5VGem)**
+*by* **Joey Valence & Brae, Ayesha Erotica**
+*Album:* NO HANDS (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 5:29
+    1:38 • 2:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Be Quiet and Drive (Far Away)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD)** by **Deftones** *(Around the Fur)*
+🎤 **[Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK)** by **Yves Tumor** *(Mono No Aware)*
 🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
 🎤 **[keepsake (it's alright)](https://open.spotify.com/track/19tl1hFds4YRuLyIollIau)** by **t0ni, Antonia XM** *(keepsake (it's alright))*
 🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
-🎤 **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-24 07:41:54Z UTC
+🕐 Last updated: 2025-07-24 07:51:37Z UTC
 <!-- SPOTIFY-END -->
