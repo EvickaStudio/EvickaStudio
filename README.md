@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b90e2a54a29cd65acfe5717" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [summermix 2025 (thinking of jean cocteau)](https://open.spotify.com/track/6Ki4XYgGftTTqppQpMc8f2)**
-*by* **reverie**
-*Album:* summermix 2025 (thinking of jean cocteau)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 12:12
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[wie oft nochmal](https://open.spotify.com/track/3kXphHhYw81pphrhzP0ZSE)** by **pulsi** *(wie oft nochmal)*
-🎤 **[Wasted mine](https://open.spotify.com/track/2BX7YoKx6knpuJWQrQTo2j)** by **eerie, Drux, Cgull** *(I had 2 play it this way)*
-🎤 **[miss me when you're drunk](https://open.spotify.com/track/7BTVPao6IjRPTNMtmvTsv5)** by **aldn** *(miss me when you're drunk)*
+🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
+🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
+🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
 🎤 **[summermix 2025 (thinking of jean cocteau)](https://open.spotify.com/track/6Ki4XYgGftTTqppQpMc8f2)** by **reverie** *(summermix 2025 (thinking of jean cocteau))*
-🎤 **[Offline](https://open.spotify.com/track/13vwOqHnvP3ogL3BkujL2B)** by **IVOXYGEN** *(Offline)*
+🎤 **[wie oft nochmal](https://open.spotify.com/track/3kXphHhYw81pphrhzP0ZSE)** by **pulsi** *(wie oft nochmal)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-25 07:17:20Z UTC
+🕐 Last updated: 2025-07-25 07:41:30Z UTC
 <!-- SPOTIFY-END -->
