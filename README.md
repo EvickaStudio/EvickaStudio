@@ -118,12 +118,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="219" height="4" fill="#1db954" rx="2"/>
+    <circle cx="219" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:59 • 35:16
+    25:47 • 35:16
 </span>
 </p>
 
@@ -151,12 +151,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
-🥈 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
+🥇 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
+🥈 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
 🥉 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-25 20:52:44Z UTC
+🕐 Last updated: 2025-07-25 21:12:33Z UTC
 <!-- SPOTIFY-END -->
