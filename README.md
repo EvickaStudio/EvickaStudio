@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737b04f42e37743f157f786af1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)**
-*by* **Crystal Castles**
-*Album:* Crystal Castles (II)
+**🎵 [i love u.](https://open.spotify.com/track/4XxJF5UIyLXnm5HB53wM9P)**
+*by* **wiv**
+*Album:* i love u.
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 4:11
+    1:12 • 2:02
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
-🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
-🎤 **[The Thin Grey Line](https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3)** by **$uicideboy$** *(New World Depression)*
-🎤 **[opiate](https://open.spotify.com/track/78ZF43uXsrpiYkbLjCT484)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
+🎤 **[Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
+🎤 **[5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp)** by **Dean Blunt, Elias Rønnenfelt** *(lucre)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[Enchanted Death Melody](https://open.spotify.com/track/7nQcdpl3DGWovbSlBm0nTw)** by **Dj Smokey, Varg²™, Eurohead** *(Enchanted Death Melody)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-25 10:14:33Z UTC
+🕐 Last updated: 2025-07-25 10:43:05Z UTC
 <!-- SPOTIFY-END -->
