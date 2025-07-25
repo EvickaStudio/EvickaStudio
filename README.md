@@ -106,7 +106,26 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2738b90e2a54a29cd65acfe5717" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [summermix 2025 (thinking of jean cocteau)](https://open.spotify.com/track/6Ki4XYgGftTTqppQpMc8f2)**
+*by* **reverie**
+*Album:* summermix 2025 (thinking of jean cocteau)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:26 • 12:12
+</span>
+</p>
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-25 06:54:02Z UTC
+🕐 Last updated: 2025-07-25 07:17:20Z UTC
 <!-- SPOTIFY-END -->
