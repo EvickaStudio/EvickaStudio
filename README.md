@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735dc6f96d8ebdc194a3c53bde" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)**
+*by* **Digitalism**
+*Album:* Idealism
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="98" height="4" fill="#1db954" rx="2"/>
+    <circle cx="98" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:14 • 3:46
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
 🎤 **[summermix 2025 (thinking of jean cocteau)](https://open.spotify.com/track/6Ki4XYgGftTTqppQpMc8f2)** by **reverie** *(summermix 2025 (thinking of jean cocteau))*
 🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
 🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
 🎤 **[summermix 2025 (thinking of jean cocteau)](https://open.spotify.com/track/6Ki4XYgGftTTqppQpMc8f2)** by **reverie** *(summermix 2025 (thinking of jean cocteau))*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
 
 
-🕐 Last updated: 2025-07-26 14:33:37Z UTC
+🕐 Last updated: 2025-07-26 14:51:05Z UTC
 <!-- SPOTIFY-END -->
