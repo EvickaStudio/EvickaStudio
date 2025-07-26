@@ -123,8 +123,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
-🥉 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
+🥈 [**Gladys Knight & The Pips**](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1)
+🥉 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 
@@ -134,10 +134,10 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
 🥈 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
-🥉 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
-🏅 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
+🥉 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
+🏅 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
 
 
-🕐 Last updated: 2025-07-26 10:52:13Z UTC
+🕐 Last updated: 2025-07-26 11:11:06Z UTC
 <!-- SPOTIFY-END -->
