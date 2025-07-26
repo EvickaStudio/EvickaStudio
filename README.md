@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2730804a52670c5d67adafe95f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)**
+*by* **diamando, DeeLou**
+*Album:* Zigaretten
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="5" height="4" fill="#1db954" rx="2"/>
+    <circle cx="5" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:03 • 2:50
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
+🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
 🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
 🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
 🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
-🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
 
 
 
@@ -136,8 +155,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 🥉 [**still looking for you.**](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
-🏅 [**iPhone 6**](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)
+🏅 [**White Ferrari**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)
 
 
-🕐 Last updated: 2025-07-26 15:33:29Z UTC
+🕐 Last updated: 2025-07-26 15:51:25Z UTC
 <!-- SPOTIFY-END -->
