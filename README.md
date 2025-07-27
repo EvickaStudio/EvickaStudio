@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a97cc86221a5d3302be26680" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a62bbb65c3202473bce90bda" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)**
-*by* **my!lane**
-*Album:* Sakura's Shadows
+**🎵 [Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)**
+*by* **Somewhere Special**
+*Album:* Undercover Lover
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="181" height="4" fill="#1db954" rx="2"/>
-    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+    <rect width="83" height="4" fill="#1db954" rx="2"/>
+    <circle cx="83" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:43
+    0:46 • 2:46
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by **Destroy Lonely** *(If Looks Could Kill)*
-🎤 **[Acknowledgement](https://open.spotify.com/track/2YNJ2wMRwl2L2cudMQ0B6N)** by **Modjo** *(Modjo (Remastered))*
-🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
-🎤 **[All Your Love](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr)** by **Jai Wolf** *(All Your Love)*
-🎤 **[Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS)** by **Charli xcx** *(BRAT)*
+🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
+🎤 **[kiss up](https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ)** by **damon r.** *(kiss up)*
+🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**White Ferrari**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)
 
 
-🕐 Last updated: 2025-07-27 20:34:43Z UTC
+🕐 Last updated: 2025-07-27 20:51:46Z UTC
 <!-- SPOTIFY-END -->
