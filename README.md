@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27365ee509885af9d1e59ed7b55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)**
+*by* **fakemink, Ecco2k, Mechatok**
+*Album:* MAKKA
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:49 • 3:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
 🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
-🎤 **[summermix 2025 (thinking of jean cocteau)](https://open.spotify.com/track/6Ki4XYgGftTTqppQpMc8f2)** by **reverie** *(summermix 2025 (thinking of jean cocteau))*
 🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**White Ferrari**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)
 
 
-🕐 Last updated: 2025-07-27 19:10:16Z UTC
+🕐 Last updated: 2025-07-27 19:27:00Z UTC
 <!-- SPOTIFY-END -->
