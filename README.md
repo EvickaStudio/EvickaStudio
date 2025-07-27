@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce971717f2929cafce01ebb5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a97cc86221a5d3302be26680" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)**
-*by* **TYM**
-*Album:* ZUCKER
+**🎵 [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)**
+*by* **my!lane**
+*Album:* Sakura's Shadows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="75" height="4" fill="#1db954" rx="2"/>
-    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:24
+    1:39 • 2:43
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny)** by **spirit blue** *(ps / dm)*
-🎤 **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)*
-🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u)** by **Destroy Lonely** *(If Looks Could Kill)*
+🎤 **[Acknowledgement](https://open.spotify.com/track/2YNJ2wMRwl2L2cudMQ0B6N)** by **Modjo** *(Modjo (Remastered))*
+🎤 **[make believe](https://open.spotify.com/track/3xLtfdXKbesvVxzSfmIQWy)** by **jigitz** *(make believe)*
+🎤 **[All Your Love](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr)** by **Jai Wolf** *(All Your Love)*
+🎤 **[Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS)** by **Charli xcx** *(BRAT)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**White Ferrari**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)
 
 
-🕐 Last updated: 2025-07-27 20:14:05Z UTC
+🕐 Last updated: 2025-07-27 20:34:43Z UTC
 <!-- SPOTIFY-END -->
