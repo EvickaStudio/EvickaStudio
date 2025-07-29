@@ -112,11 +112,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
+🎤 **[aerotheworld](https://open.spotify.com/track/2dAKIgZM38cGjPACkJ49ep)** by **yaego, wzrdd** *(ÆRO)*
 🎤 **[Cycles - Switch Angel Remix](https://open.spotify.com/track/0hfOISRLNKgB3HbA3BLfhJ)** by **DJ_Dave, Switch Angel** *(Cycles (Edits))*
 🎤 **[summermix 2025 (thinking of jean cocteau)](https://open.spotify.com/track/6Ki4XYgGftTTqppQpMc8f2)** by **reverie** *(summermix 2025 (thinking of jean cocteau))*
 🎤 **[World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO)** by **DJ_Dave** *(World's Hardest Game)*
-🎤 **[Castles](https://open.spotify.com/track/2sfUCYCJ03AOtatqBmgxAx)** by **DJ_Dave** *(Castles)*
-🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **Pathetic** *(2008)*
 
 
 
@@ -139,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Midnight Train to Georgia**](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)
 
 
-🕐 Last updated: 2025-07-29 20:15:26Z UTC
+🕐 Last updated: 2025-07-29 20:43:41Z UTC
 <!-- SPOTIFY-END -->
