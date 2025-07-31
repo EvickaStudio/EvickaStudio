@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b932b34ed353814d24c3ab9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blame](https://open.spotify.com/track/2BnVhWkKgXYUOeVTM4Vinj)**
-*by* **Sg Lily, Loveboy**
-*Album:* 17 Again
+**🎵 [S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)**
+*by* **mickyi, S1RENA**
+*Album:* zone out ep ⋆｡°✩
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="16" height="4" fill="#1db954" rx="2"/>
-    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+    <rect width="57" height="4" fill="#1db954" rx="2"/>
+    <circle cx="57" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 2:17
+    0:35 • 3:04
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
-🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[Zero Gravity](https://open.spotify.com/track/3t77AfBKRaeOFd2NDHVduK)** by **Brickman** *(Reflections)*
+🎤 **[Downer](https://open.spotify.com/track/04Ixo22901T3hkpxGHs75x)** by **uusymon, SGUCCY** *(Stardust)*
+🎤 **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)*
+🎤 **[Hocus Pocus](https://open.spotify.com/track/4paa1ozjQuE3jrie757wN1)** by **Yung Lean, Bladee** *(Warlord)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 
 
-🕐 Last updated: 2025-07-31 14:46:29Z UTC
+🕐 Last updated: 2025-07-31 15:14:38Z UTC
 <!-- SPOTIFY-END -->
