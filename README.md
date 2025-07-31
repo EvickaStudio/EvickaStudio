@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f00b6026d6d37a2f02a2a494" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)**
-*by* **lustr**
-*Album:* tell me
+**🎵 [Rosemary](https://open.spotify.com/track/4FEr6dIdH6EqLKR0jB560J)**
+*by* **Deftones**
+*Album:* Koi No Yokan
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:03
+    6:16 • 6:53
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Indian Burn](https://open.spotify.com/track/6ZUcrvREvTPDGUMr52hAK4)** by **The Truth** *(U.S.T)*
-🎤 **[Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh)** by **Aphex Twin** *(Drukqs)*
-🎤 **[Teenager](https://open.spotify.com/track/3JVtnUPy4JhlbhQnfzw85l)** by **Deftones** *(White Pony)*
-🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
-🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
+🎤 **[Blight](https://open.spotify.com/track/6zm6c19hYyKJKZwcGLQG6Q)** by **Zeruel** *(Blight)*
+🎤 **[Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ)** by **Superheaven** *(Jar)*
+🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
+🎤 **[Cabin](https://open.spotify.com/track/3zIFQsdDFLmm6V7Ifu03Z6)** by **Somewhere Special** *(Cabin)*
+🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 
 
-🕐 Last updated: 2025-07-31 15:53:51Z UTC
+🕐 Last updated: 2025-07-31 16:17:28Z UTC
 <!-- SPOTIFY-END -->
