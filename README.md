@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733d688f85e1a827a899c53ed1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731dd30fcbd5d7fa6ccb531cf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)**
+**🎵 [Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)**
 *by* **diggidaniel**
-*Album:* Zucker für mich
+*Album:* Hilflos vor dir
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="299" height="4" fill="#1db954" rx="2"/>
+    <circle cx="299" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 2:59
+    3:04 • 3:04
 </span>
 </p>
 
@@ -131,21 +131,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
-🎤 **[So oder so](https://open.spotify.com/track/551Z4NFBDGHzRpqORT0MTt)** by **Urbannino, DeeLou** *(Wenn nichts bleibt, dann..)*
-🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
-🎤 **[Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)** by **nobis, Absteige** *(Vorschlaghammer)*
+🎤 **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[Gleichgewicht](https://open.spotify.com/track/5EVT5XVxvV9YJcwnTApmzz)** by **flö** *(Gleichgewicht)*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
+🎤 **[Zerbricht](https://open.spotify.com/track/0jrhIklg1D9ZtrCNtg8ZHj)** by **MilleniumKid, JBS, nasskalt.** *(Zerbricht)*
+🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥉 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
-🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
-🏅 [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+❌ Error fetching top artists.
 
 
 
@@ -154,9 +150,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
 🥈 [**Die Tagesreise**](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)
 🥉 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
-🏅 [**White Ferrari**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
+🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-07-31 21:33:04Z UTC
+🕐 Last updated: 2025-07-31 21:51:28Z UTC
 <!-- SPOTIFY-END -->
