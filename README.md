@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe26f2e6d623b448d024e8d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d688f85e1a827a899c53ed1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)**
+**🎵 [Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)**
 *by* **diggidaniel**
-*Album:* Augenblick
+*Album:* Zucker für mich
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="189" height="4" fill="#1db954" rx="2"/>
+    <circle cx="189" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 2:38
+    1:53 • 2:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by **herz.** *(kopflos durch die nacht)*
-🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
-🎤 **[Unendlichkeit](https://open.spotify.com/track/7vLqyReIe0h4CNOrcFwIJg)** by **MilleniumKid, JBS** *(DYSTOPIE)*
-🎤 **[Schock](https://open.spotify.com/track/7fwMWxd5VUQn5sJdbqGrfr)** by **Tape Head, NONI** *(Schock)*
-🎤 **[Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)** by **nobis** *(Zum Glück (Bist du nicht mehr da))*
+🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
+🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
+🎤 **[So oder so](https://open.spotify.com/track/551Z4NFBDGHzRpqORT0MTt)** by **Urbannino, DeeLou** *(Wenn nichts bleibt, dann..)*
+🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
+🎤 **[Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)** by **nobis, Absteige** *(Vorschlaghammer)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-07-31 21:12:59Z UTC
+🕐 Last updated: 2025-07-31 21:33:04Z UTC
 <!-- SPOTIFY-END -->
