@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dd5c5f6156d5eb4f23b388ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f575a01fb7f5e92e602b5d20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Security](https://open.spotify.com/track/0hPBecQD8XWt54tFLF2sXG)**
-*by* **Drux**
-*Album:* Security
+**🎵 [OXYTOC1N](https://open.spotify.com/track/3oGXABIWvzYzU6vamnwng1)**
+*by* **S1RENA**
+*Album:* OXYTOC1N
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="14" height="4" fill="#1db954" rx="2"/>
-    <circle cx="14" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:08 • 2:46
+    2:03 • 2:19
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[iPod](https://open.spotify.com/track/4J9PzEeG3FoNrcVxAI2UY7)** by **Maliq, beslik** *(iPod)*
-🎤 **[wiedersehen](https://open.spotify.com/track/5ocxnxCT3wNozlfoPh6T84)** by **diggidaniel** *(wiedersehen)*
-🎤 **[wer bist du wenn keiner schaut??](https://open.spotify.com/track/1xDwlGUQyPBzaHL6iDJphM)** by **b3nn3t** *(wer bist du wenn keiner schaut??)*
-🎤 **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)*
-🎤 **[home](https://open.spotify.com/track/2hHaQlkbuEy8tmA1eAqpRE)** by **IVOXYGEN** *(earthbound)*
+🎤 **[Hab schon 6](https://open.spotify.com/track/1a0L7PzmLCnzu0XJCaQFcy)** by **mikeycyrus, Flaco Sosa** *(Hab schon 6)*
+🎤 **[Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj)** by **Tyler, The Creator** *(DON'T TAP THE GLASS)*
+🎤 **[Meine Erste Cougar](https://open.spotify.com/track/0LofUcW608EvrsJH6yWTwe)** by **Aachen Demon** *(Meine Erste Cougar)*
+🎤 **[GRAILED](https://open.spotify.com/track/2Kvmj9ifFwU4KUEvZDr0ud)** by **1nonly, Freddie Dredd** *(GRAILED)*
+🎤 **[Briefe an dich](https://open.spotify.com/track/3efuNkj7yIfVgB1L25qn5C)** by **52Blue** *(Briefe an dich)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 
 
-🕐 Last updated: 2025-07-31 17:52:25Z UTC
+🕐 Last updated: 2025-07-31 18:20:11Z UTC
 <!-- SPOTIFY-END -->
