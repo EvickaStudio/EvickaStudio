@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734601b70260fb49d0d2f99452" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Teenage Dreams](https://open.spotify.com/track/3sdT8ObHgkkUw0CmnIRgl3)**
-*by* **Ion Miles, SIRA, BHZ**
-*Album:* Beeil dich wir werden erwachsen
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="288" height="4" fill="#1db954" rx="2"/>
-    <circle cx="288" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:52 • 2:59
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Teenage Dreams](https://open.spotify.com/track/3sdT8ObHgkkUw0CmnIRgl3)** by **Ion Miles, SIRA, BHZ** *(Beeil dich wir werden erwachsen)*
 🎤 **[Autopilot](https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x)** by **Dilla** *(Autopilot)*
 🎤 **[Ultra Sonic](https://open.spotify.com/track/7gIJaMaMymcOpwRdlNvubS)** by **IceLipzz, SlushhKitten, LØUS** *(Sonic Ultras)*
 🎤 **[vergessen wie man brennt](https://open.spotify.com/track/7BjaBbKyY2rf6eFCFbf05Q)** by **RYLO** *(vergessen wie man brennt)*
 🎤 **[Meidai](https://open.spotify.com/track/03lgkzh5TtGwmZGw13dRwN)** by **RADWIMPS** *(Meidai)*
-🎤 **[Walking On A Dream - BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j)** by **Empire Of The Sun, BLOND:ISH** *(Walking On A Dream (BLOND:ISH Remix))*
 
 
 
@@ -152,11 +133,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**pflaster**](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)
-🥈 [**White Ferrari**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)
-🥉 [**Die Tagesreise**](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)
-🏅 [**Expression On Your Face**](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)
+🥈 [**Die Tagesreise**](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)
+🥉 [**White Ferrari**](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)
 🏅 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
+🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-07-31 18:53:01Z UTC
+🕐 Last updated: 2025-07-31 19:14:12Z UTC
 <!-- SPOTIFY-END -->
