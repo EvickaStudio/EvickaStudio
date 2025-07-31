@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dd30fcbd5d7fa6ccb531cf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736934d6208e6ebda139672b8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)**
-*by* **diggidaniel**
-*Album:* Hilflos vor dir
+**🎵 [immer wieder](https://open.spotify.com/track/7kQEX57O7KSKDoIlht7NlV)**
+*by* **Leocardo DiNaprio**
+*Album:* immer wieder
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="299" height="4" fill="#1db954" rx="2"/>
-    <circle cx="299" cy="2" r="6" fill="#1db954"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:04 • 3:04
+    0:11 • 3:48
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[Gleichgewicht](https://open.spotify.com/track/5EVT5XVxvV9YJcwnTApmzz)** by **flö** *(Gleichgewicht)*
-🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
-🎤 **[Zerbricht](https://open.spotify.com/track/0jrhIklg1D9ZtrCNtg8ZHj)** by **MilleniumKid, JBS, nasskalt.** *(Zerbricht)*
-🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
+🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[Sekundenschlaf](https://open.spotify.com/track/5bPHtxHppZgUNQZktiG65X)** by **flö** *(Sekundenschlaf)*
+🎤 **[Es braucht nicht viel, ich will nur sein](https://open.spotify.com/track/12udUDOGGzpXI0cVpjC6sb)** by **strangerperson** *(Es braucht nicht viel, ich will nur sein)*
+🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
 
 
 
@@ -154,5 +154,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-07-31 21:51:28Z UTC
+🕐 Last updated: 2025-07-31 22:13:26Z UTC
 <!-- SPOTIFY-END -->
