@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 ["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)**
-*by* **Edwin Rosen**
-*Album:* mitleerenhänden
+**🎵 [A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)**
+*by* **Nokia Angel**
+*Album:* In Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="159" height="4" fill="#1db954" rx="2"/>
+    <circle cx="159" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:50
+    1:48 • 3:22
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)** by **Edwin Rosen** *(leichter//kälter / SSS)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
+🎤 **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Vertigo - Luis Ake's Trance Atlantic Remix](https://open.spotify.com/track/2BgTiewiwz0itycfTVQcV3)** by **Edwin Rosen, Luis Ake** *(Vertigo (Luis Ake's Trance Atlantic Remix))*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
+🎤 **[SSS](https://open.spotify.com/track/0mradpJjKccCx8pkgYRMua)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)** by **Edwin Rosen** *(Verschwende deine Zeit)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 
 
-🕐 Last updated: 2025-07-31 17:15:06Z UTC
+🕐 Last updated: 2025-07-31 17:38:21Z UTC
 <!-- SPOTIFY-END -->
