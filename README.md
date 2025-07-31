@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f575a01fb7f5e92e602b5d20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734601b70260fb49d0d2f99452" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [OXYTOC1N](https://open.spotify.com/track/3oGXABIWvzYzU6vamnwng1)**
-*by* **S1RENA**
-*Album:* OXYTOC1N
+**🎵 [Teenage Dreams](https://open.spotify.com/track/3sdT8ObHgkkUw0CmnIRgl3)**
+*by* **Ion Miles, SIRA, BHZ**
+*Album:* Beeil dich wir werden erwachsen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="265" height="4" fill="#1db954" rx="2"/>
-    <circle cx="265" cy="2" r="6" fill="#1db954"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:19
+    2:52 • 2:59
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Hab schon 6](https://open.spotify.com/track/1a0L7PzmLCnzu0XJCaQFcy)** by **mikeycyrus, Flaco Sosa** *(Hab schon 6)*
-🎤 **[Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj)** by **Tyler, The Creator** *(DON'T TAP THE GLASS)*
-🎤 **[Meine Erste Cougar](https://open.spotify.com/track/0LofUcW608EvrsJH6yWTwe)** by **Aachen Demon** *(Meine Erste Cougar)*
-🎤 **[GRAILED](https://open.spotify.com/track/2Kvmj9ifFwU4KUEvZDr0ud)** by **1nonly, Freddie Dredd** *(GRAILED)*
-🎤 **[Briefe an dich](https://open.spotify.com/track/3efuNkj7yIfVgB1L25qn5C)** by **52Blue** *(Briefe an dich)*
+🎤 **[Autopilot](https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x)** by **Dilla** *(Autopilot)*
+🎤 **[Ultra Sonic](https://open.spotify.com/track/7gIJaMaMymcOpwRdlNvubS)** by **IceLipzz, SlushhKitten, LØUS** *(Sonic Ultras)*
+🎤 **[vergessen wie man brennt](https://open.spotify.com/track/7BjaBbKyY2rf6eFCFbf05Q)** by **RYLO** *(vergessen wie man brennt)*
+🎤 **[Meidai](https://open.spotify.com/track/03lgkzh5TtGwmZGw13dRwN)** by **RADWIMPS** *(Meidai)*
+🎤 **[Walking On A Dream - BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j)** by **Empire Of The Sun, BLOND:ISH** *(Walking On A Dream (BLOND:ISH Remix))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 
 
-🕐 Last updated: 2025-07-31 18:20:11Z UTC
+🕐 Last updated: 2025-07-31 18:53:01Z UTC
 <!-- SPOTIFY-END -->
