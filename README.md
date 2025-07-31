@@ -106,42 +106,27 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736934d6208e6ebda139672b8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [immer wieder](https://open.spotify.com/track/7kQEX57O7KSKDoIlht7NlV)**
-*by* **Leocardo DiNaprio**
-*Album:* immer wieder
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="14" height="4" fill="#1db954" rx="2"/>
-    <circle cx="14" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 3:48
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[immer wieder](https://open.spotify.com/track/7kQEX57O7KSKDoIlht7NlV)** by **Leocardo DiNaprio** *(immer wieder)*
+🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
 🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
 🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
 🎤 **[Sekundenschlaf](https://open.spotify.com/track/5bPHtxHppZgUNQZktiG65X)** by **flö** *(Sekundenschlaf)*
-🎤 **[Es braucht nicht viel, ich will nur sein](https://open.spotify.com/track/12udUDOGGzpXI0cVpjC6sb)** by **strangerperson** *(Es braucht nicht viel, ich will nur sein)*
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-❌ Error fetching top artists.
+🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
+🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥉 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
+🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
+🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 
 
 
@@ -154,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-07-31 22:13:26Z UTC
+🕐 Last updated: 2025-07-31 22:36:59Z UTC
 <!-- SPOTIFY-END -->
