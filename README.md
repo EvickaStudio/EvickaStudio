@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f00b6026d6d37a2f02a2a494" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)**
-*by* **Radiohead**
-*Album:* In Rainbows
+**🎵 [tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)**
+*by* **lustr**
+*Album:* tell me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 4:08
+    0:18 • 2:03
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
-🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[Rinsed](https://open.spotify.com/track/7HXkG71tnUPgjeMEP9688d)** by **Dean Blunt, TYSON** *(Rinsed)*
-🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
+🎤 **[Indian Burn](https://open.spotify.com/track/6ZUcrvREvTPDGUMr52hAK4)** by **The Truth** *(U.S.T)*
+🎤 **[Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh)** by **Aphex Twin** *(Drukqs)*
+🎤 **[Teenager](https://open.spotify.com/track/3JVtnUPy4JhlbhQnfzw85l)** by **Deftones** *(White Pony)*
+🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
+🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 
 
-🕐 Last updated: 2025-07-31 15:39:12Z UTC
+🕐 Last updated: 2025-07-31 15:53:51Z UTC
 <!-- SPOTIFY-END -->
