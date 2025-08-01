@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735e1bad46155887c633a0a2a7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)**
+*by* **Edwin Rosen**
+*Album:* leichter//kälter / SSS
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:08 • 3:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[immer wieder](https://open.spotify.com/track/7kQEX57O7KSKDoIlht7NlV)** by **Leocardo DiNaprio** *(immer wieder)*
-🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
-🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
-🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[Sekundenschlaf](https://open.spotify.com/track/5bPHtxHppZgUNQZktiG65X)** by **flö** *(Sekundenschlaf)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
+🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 05:52:15Z UTC
+🕐 Last updated: 2025-08-01 06:22:42Z UTC
 <!-- SPOTIFY-END -->
