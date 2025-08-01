@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce821c1d5a863b7554297a2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Über den Wolken](https://open.spotify.com/track/73lf3mAkitDtspD9Li1KYR)**
-*by* **flö**
-*Album:* Über den Wolken
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 3:21
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Über den Wolken](https://open.spotify.com/track/73lf3mAkitDtspD9Li1KYR)** by **flö** *(Über den Wolken)*
 🎤 **[Mit Spritz](https://open.spotify.com/track/2BgOpW68MQzdyAvjkP9e5C)** by **Streichelt** *(Mit Spritz)*
 🎤 **[Spät](https://open.spotify.com/track/7KWXTbGSehCiFbZLtqfSUh)** by **diggidaniel** *(Spät)*
 🎤 **[Vielleicht Vielleicht](https://open.spotify.com/track/5EcXrwZKRPym3pRupNCZ2L)** by **MilleniumKid, JBS** *(DYSTOPIE)*
 🎤 **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by **Steintor Herrenchor** *(wohin)*
-🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 07:44:22Z UTC
+🕐 Last updated: 2025-08-01 07:54:43Z UTC
 <!-- SPOTIFY-END -->
