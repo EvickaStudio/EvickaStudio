@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379450bf703e4df601996baad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love When He Saw Her](https://open.spotify.com/track/10Q7cstuTBzH8FzN8hPnhl)**
-*by* **PRINT**
-*Album:* Provar
+**🎵 [Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)**
+*by* **Bladee**
+*Album:* Eversince
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="139" height="4" fill="#1db954" rx="2"/>
+    <circle cx="139" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 3:11
+    1:31 • 3:15
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[downer](https://open.spotify.com/track/4W9RfRaZ69A02s6an1uJM3)** by **Whitearmor** *(downer)*
+🎤 **[Love When He Saw Her](https://open.spotify.com/track/10Q7cstuTBzH8FzN8hPnhl)** by **PRINT** *(Provar)*
 🎤 **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)*
 🎤 **[In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)** by **Ayegy** *(In It, Not of It)*
 🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
-🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 11:43:24Z UTC
+🕐 Last updated: 2025-08-01 11:51:42Z UTC
 <!-- SPOTIFY-END -->
