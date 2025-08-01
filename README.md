@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389d32abaf6f94c2d7c0120b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Smile (reprise)](https://open.spotify.com/track/6ioDDDEkSOzM6fDp0aILuc)**
-*by* **Whitearmor**
-*Album:* In the Abyss: Music for Weddings
+**🎵 [Colorway](https://open.spotify.com/track/6SrjmjVpKZ30ULKpZTGG8K)**
+*by* **Baby Jane**
+*Album:* A Grave Marked Strange
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:44
+    1:10 • 2:36
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[stada2mg EDM document 1 "DAGG"](https://open.spotify.com/track/68g3TSNLZRZy1Tt272f982)** by **DJ Worm, Eurohead, SPÖKE** *(stada2mg EDM document 1 "DAGG")*
-🎤 **[can't breathe](https://open.spotify.com/track/1WI7ZElbt0R5EFF9DDIRsa)** by **SHEMYYY, RADA** *(can't breathe)*
-🎤 **[See you soon](https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O)** by **Wisp** *(Pandora)*
-🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
-🎤 **[envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)** by **Brothel in Belize** *(envy)*
+🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[Embrace](https://open.spotify.com/track/5boRDq2wvAdbSxA0A81eQE)** by **Brothel in Belize** *(War)*
+🎤 **[uu](https://open.spotify.com/track/2IuwQFxfEhtoQVDyhEUtfq)** by **Whitearmor** *(uu)*
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
 
 
 
@@ -143,8 +143,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🏅 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
+🥉 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
+🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 10:15:14Z UTC
+🕐 Last updated: 2025-08-01 10:47:02Z UTC
 <!-- SPOTIFY-END -->
