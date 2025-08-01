@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389d32abaf6f94c2d7c0120b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Colorway](https://open.spotify.com/track/6SrjmjVpKZ30ULKpZTGG8K)**
-*by* **Baby Jane**
-*Album:* A Grave Marked Strange
+**🎵 [Kisses and Hugs](https://open.spotify.com/track/4P9qRMCQ1jBxlhsMb3JkZU)**
+*by* **Whitearmor**
+*Album:* In the Abyss: Music for Weddings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="134" height="4" fill="#1db954" rx="2"/>
-    <circle cx="134" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:36
+    2:32 • 3:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[Embrace](https://open.spotify.com/track/5boRDq2wvAdbSxA0A81eQE)** by **Brothel in Belize** *(War)*
-🎤 **[uu](https://open.spotify.com/track/2IuwQFxfEhtoQVDyhEUtfq)** by **Whitearmor** *(uu)*
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[honest times](https://open.spotify.com/track/77rKEoPWAkXbSK4jgGnqW6)** by **MRD** *(honest times)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)** by **Somewhere Special** *(Undercover Lover)*
+🎤 **[SWE OPEN / Plattan Olympics / RIP munnspelsmannen!](https://open.spotify.com/track/2c3U8zyQRmgOadelT4AVad)** by **DJ Worm, SPÖKE, Eurohead** *(SWEEDISH Open 2025 ***sthlm city i lågor***)*
+🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 10:47:02Z UTC
+🕐 Last updated: 2025-08-01 11:12:00Z UTC
 <!-- SPOTIFY-END -->
