@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e36d2820c58c7a30021a544b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)**
-*by* **Somewhere Special**
-*Album:* Blizzard Warning
+**🎵 [amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)**
+*by* **k0d4m4, fake flowers, echo angel**
+*Album:* ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+    <rect width="266" height="4" fill="#1db954" rx="2"/>
+    <circle cx="266" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:58
+    2:36 • 2:56
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Restrain](https://open.spotify.com/track/2ioV0IMENcD6dj8ZZAtf7W)** by **Brothel in Belize** *(War)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
-🎤 **[Professional Vengeance](https://open.spotify.com/track/2AjTT2CBthpsIQtyxzhSr4)** by **Jane Remover** *(Revengeseekerz)*
-🎤 **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)*
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
+🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 12:27:27Z UTC
+🕐 Last updated: 2025-08-01 13:11:47Z UTC
 <!-- SPOTIFY-END -->
