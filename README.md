@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273632c6dc4378dcf85d9bf7c01" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)**
-*by* **MRD**
-*Album:* fucking highschool people
+**🎵 [Smile (reprise)](https://open.spotify.com/track/6ioDDDEkSOzM6fDp0aILuc)**
+*by* **Whitearmor**
+*Album:* In the Abyss: Music for Weddings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 3:45
+    1:02 • 2:44
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
+🎤 **[stada2mg EDM document 1 "DAGG"](https://open.spotify.com/track/68g3TSNLZRZy1Tt272f982)** by **DJ Worm, Eurohead, SPÖKE** *(stada2mg EDM document 1 "DAGG")*
+🎤 **[can't breathe](https://open.spotify.com/track/1WI7ZElbt0R5EFF9DDIRsa)** by **SHEMYYY, RADA** *(can't breathe)*
+🎤 **[See you soon](https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O)** by **Wisp** *(Pandora)*
+🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
+🎤 **[envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)** by **Brothel in Belize** *(envy)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 09:46:41Z UTC
+🕐 Last updated: 2025-08-01 10:15:14Z UTC
 <!-- SPOTIFY-END -->
