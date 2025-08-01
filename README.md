@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730dcec2fa5bbc819704556a2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273145b08fe181e3b3e05b26a01" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)**
-*by* **EASY EASY, Leocardo DiNaprio**
-*Album:* helios
+**🎵 [End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)**
+*by* **Baby Jane**
+*Album:* A Grave Marked Strange (Sped Up)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="83" height="4" fill="#1db954" rx="2"/>
+    <circle cx="83" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 3:41
+    0:36 • 2:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
-🎤 **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 08:50:28Z UTC
+🕐 Last updated: 2025-08-01 09:19:10Z UTC
 <!-- SPOTIFY-END -->
