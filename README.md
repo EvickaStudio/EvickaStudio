@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273870a5288e37abe4b4ea05013" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273632c6dc4378dcf85d9bf7c01" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)**
-*by* **60 juno**
-*Album:* Embedded
+**🎵 [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)**
+*by* **MRD**
+*Album:* fucking highschool people
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="217" height="4" fill="#1db954" rx="2"/>
-    <circle cx="217" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 3:15
+    3:13 • 3:45
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
-🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
+🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
+🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 17:15:54Z UTC
+🕐 Last updated: 2025-08-01 17:44:31Z UTC
 <!-- SPOTIFY-END -->
