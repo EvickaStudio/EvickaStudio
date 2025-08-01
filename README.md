@@ -110,7 +110,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kisses and Hugs](https://open.spotify.com/track/4P9qRMCQ1jBxlhsMb3JkZU)**
+**🎵 [Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)**
 *by* **Whitearmor**
 *Album:* In the Abyss: Music for Weddings
 
@@ -118,12 +118,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 3:39
+    2:17 • 3:52
 </span>
 </p>
 
@@ -131,19 +131,19 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[honest times](https://open.spotify.com/track/77rKEoPWAkXbSK4jgGnqW6)** by **MRD** *(honest times)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)** by **Somewhere Special** *(Undercover Lover)*
-🎤 **[SWE OPEN / Plattan Olympics / RIP munnspelsmannen!](https://open.spotify.com/track/2c3U8zyQRmgOadelT4AVad)** by **DJ Worm, SPÖKE, Eurohead** *(SWEEDISH Open 2025 ***sthlm city i lågor***)*
-🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
+🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
+🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
+🎤 **[liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso)** by **damon r.** *(liverounds)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥉 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
+🥈 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
+🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-01 11:12:00Z UTC
+🕐 Last updated: 2025-08-01 11:30:13Z UTC
 <!-- SPOTIFY-END -->
