@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731860d9e6c7b98e2f83b03923" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)**
-*by* **Fishmans**
-*Album:* LONG SEASON
+**🎵 [Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)**
+*by* **Urbannino, DeeLou**
+*Album:* Für immer wach
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
+    <rect width="43" height="4" fill="#1db954" rx="2"/>
+    <circle cx="43" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    27:26 • 35:16
+    0:29 • 3:18
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
-🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
+🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
+🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
+🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-02 13:05:41Z UTC
+🕐 Last updated: 2025-08-02 13:41:09Z UTC
 <!-- SPOTIFY-END -->
