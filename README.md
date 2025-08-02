@@ -107,12 +107,12 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27325307eadca563e50683e68e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735d4be9428704a4abace66003" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)**
-*by* **Pink Katana**
-*Album:* 1x
+**🎵 [Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)**
+*by* **S3RL**
+*Album:* Tridactyl
 
 
 <p align="center">
@@ -123,7 +123,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 1:29
+    0:51 • 3:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
-🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
-🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
-🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
+🎤 **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
+🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
 
 
 
@@ -155,8 +155,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 🥉 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
-🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
+🏅 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
 
 
-🕐 Last updated: 2025-08-02 21:30:18Z UTC
+🕐 Last updated: 2025-08-02 21:49:08Z UTC
 <!-- SPOTIFY-END -->
