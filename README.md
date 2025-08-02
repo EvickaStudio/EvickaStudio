@@ -136,8 +136,8 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥈 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 🥉 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
-🏅 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
+🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-02 22:35:09Z UTC
+🕐 Last updated: 2025-08-02 22:52:09Z UTC
 <!-- SPOTIFY-END -->
