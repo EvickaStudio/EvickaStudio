@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a482222523b4cb4fcc3aa56b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c78b010ecd853cbb524e7e66" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Amarillo](https://open.spotify.com/track/2v9un3fiEBWQperAt7NyKx)**
-*by* **Konstantin Unwohl**
-*Album:* Im Institut für Strömungstechnik
+**🎵 [Unspoken Thoughts](https://open.spotify.com/track/7AGGevGpCSJlkrKxvbcsSc)**
+*by* **Rad&Co**
+*Album:* Unspoken Thoughts (EP)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:16 • 4:05
+    2:23 • 3:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Rotkäppchen](https://open.spotify.com/track/4PfxmvtmYalTxBoxrFUA2G)** by **Florida Juicy, Longus Mongus, verifiziert** *(Rotkäppchen)*
-🎤 **[Feels Like We Never Met](https://open.spotify.com/track/21Wo9ACc8VwEI9GadJwxb7)** by **Borninmay** *(Feels Like We Never Met)*
-🎤 **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)*
-🎤 **[Auf Wiedersehen](https://open.spotify.com/track/52fJ4EiT3pA2lGMmjv157A)** by **Hedgesex** *(Auf Wiedersehen)*
-🎤 **[Klinge](https://open.spotify.com/track/2NCcaUGmPpvotD51FbATLv)** by **TEMMIS** *(Klinge)*
+🎤 **[Allein Allein](https://open.spotify.com/track/4HyJ1VGNu3IszMV0sTsqKP)** by **Polarkreis 18** *(The Colour Of Snow)*
+🎤 **[Deine Gefühle](https://open.spotify.com/track/1gxIt4LODgAkMLMlgTB7ax)** by **Miese Mau, muede** *(Deine Gefühle)*
+🎤 **[Little Miss Sunshine](https://open.spotify.com/track/1hEKO4YvVZoGx97dCr5WjW)** by **Kev Koko** *(Little Miss Sunshine)*
+🎤 **[blister](https://open.spotify.com/track/4Cmf31dSY6rpxYjulQVbaX)** by **wavvyboi** *(blister)*
+🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
 
 
 
@@ -154,9 +154,9 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🥇 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 🥈 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 🥉 [**Regina**](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)
-🏅 [**Die Tagesreise**](https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL)
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
+🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-02 18:18:12Z UTC
+🕐 Last updated: 2025-08-02 18:49:24Z UTC
 <!-- SPOTIFY-END -->
