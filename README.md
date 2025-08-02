@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c78b010ecd853cbb524e7e66" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Unspoken Thoughts](https://open.spotify.com/track/7AGGevGpCSJlkrKxvbcsSc)**
-*by* **Rad&Co**
-*Album:* Unspoken Thoughts (EP)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:23 • 3:33
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Lose Control - Tea with Quincy Mix](https://open.spotify.com/track/6D07amx8jFdSqGG2l8PbmL)** by **Dino Lenny** *(Lose Control)*
+🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
 🎤 **[Allein Allein](https://open.spotify.com/track/4HyJ1VGNu3IszMV0sTsqKP)** by **Polarkreis 18** *(The Colour Of Snow)*
 🎤 **[Deine Gefühle](https://open.spotify.com/track/1gxIt4LODgAkMLMlgTB7ax)** by **Miese Mau, muede** *(Deine Gefühle)*
 🎤 **[Little Miss Sunshine](https://open.spotify.com/track/1hEKO4YvVZoGx97dCr5WjW)** by **Kev Koko** *(Little Miss Sunshine)*
-🎤 **[blister](https://open.spotify.com/track/4Cmf31dSY6rpxYjulQVbaX)** by **wavvyboi** *(blister)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-02 18:49:24Z UTC
+🕐 Last updated: 2025-08-02 19:10:10Z UTC
 <!-- SPOTIFY-END -->
