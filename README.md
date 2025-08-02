@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735d4be9428704a4abace66003" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)**
-*by* **The Truth**
-*Album:* U.S.T
+**🎵 [Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)**
+*by* **S3RL**
+*Album:* Tridactyl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="208" height="4" fill="#1db954" rx="2"/>
+    <circle cx="208" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 3:13
+    2:28 • 3:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
-🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
-🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
+🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
+🎤 **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
+🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-02 14:50:50Z UTC
+🕐 Last updated: 2025-08-02 15:12:43Z UTC
 <!-- SPOTIFY-END -->
