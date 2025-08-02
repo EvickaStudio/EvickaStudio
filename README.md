@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731b39487cf698508cbce6a5e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27305a5b26be718847dcf0b2fa6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d)**
-*by* **KUMMER**
-*Album:* KIOX
+**🎵 [Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)**
+*by* **TEMMIS**
+*Album:* Wenn du da bist
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="14" height="4" fill="#1db954" rx="2"/>
-    <circle cx="14" cy="2" r="6" fill="#1db954"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 3:42
+    3:35 • 3:39
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[Zu spät](https://open.spotify.com/track/3pv9iLAsBn8Vq0NNobalZZ)** by **lauenburg** *(Zu spät)*
+🎤 **[Du ohne ich](https://open.spotify.com/track/0VsPJ71Nec3VaiyLPmirHx)** by **DOI** *(Doi)*
+🎤 **[Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY)** by **Flawless Issues** *(Alone Tonight)*
+🎤 **[Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d)** by **KUMMER** *(KIOX)*
 🎤 **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))*
-🎤 **[zu viel on my mind](https://open.spotify.com/track/6T1GA7doGAKom1CjS4GgWG)** by **makko, Kev Koko** *(Leb es oder lass es 2)*
-🎤 **[Tanz](https://open.spotify.com/track/1dQ6Z7YafmbICKPOW4jAt0)** by **Ulepuschkinrose, Firlefranz, Partizan** *(Tanz)*
-🎤 **[Wohlfühlen](https://open.spotify.com/track/1rhKdRhTwLQ6nADtMI9sWt)** by **nand** *(gutgehen)*
-🎤 **[Lookin 4 You](https://open.spotify.com/track/7fPUvXIbqxhbeTymAX90Ms)** by **Moritz** *(Lookin 4 You)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-02 17:34:52Z UTC
+🕐 Last updated: 2025-08-02 17:50:26Z UTC
 <!-- SPOTIFY-END -->
