@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cfa92c259166bfba73af1d47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731b39487cf698508cbce6a5e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Windschutzscheibe](https://open.spotify.com/track/0rbkTTig3aioL30jRzU7CR)**
-*by* **Jay Pop**
-*Album:* Oceanspray
+**🎵 [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d)**
+*by* **KUMMER**
+*Album:* KIOX
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="181" height="4" fill="#1db954" rx="2"/>
-    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 3:41
+    0:10 • 3:42
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
-🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
-🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
-🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
-🎤 **[fallen](https://open.spotify.com/track/65qo8OLrleFH5bUOsDxRUo)** by **GAST** *(fallen)*
+🎤 **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))*
+🎤 **[zu viel on my mind](https://open.spotify.com/track/6T1GA7doGAKom1CjS4GgWG)** by **makko, Kev Koko** *(Leb es oder lass es 2)*
+🎤 **[Tanz](https://open.spotify.com/track/1dQ6Z7YafmbICKPOW4jAt0)** by **Ulepuschkinrose, Firlefranz, Partizan** *(Tanz)*
+🎤 **[Wohlfühlen](https://open.spotify.com/track/1rhKdRhTwLQ6nADtMI9sWt)** by **nand** *(gutgehen)*
+🎤 **[Lookin 4 You](https://open.spotify.com/track/7fPUvXIbqxhbeTymAX90Ms)** by **Moritz** *(Lookin 4 You)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-02 17:14:17Z UTC
+🕐 Last updated: 2025-08-02 17:34:52Z UTC
 <!-- SPOTIFY-END -->
