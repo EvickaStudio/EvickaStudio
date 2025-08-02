@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dd16d30106d252c8e0fa22c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfa92c259166bfba73af1d47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fallen](https://open.spotify.com/track/65qo8OLrleFH5bUOsDxRUo)**
-*by* **GAST**
-*Album:* fallen
+**🎵 [Windschutzscheibe](https://open.spotify.com/track/0rbkTTig3aioL30jRzU7CR)**
+*by* **Jay Pop**
+*Album:* Oceanspray
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 4:13
+    2:14 • 3:41
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)*
-🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
-🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
+🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
+🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
+🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
+🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
+🎤 **[fallen](https://open.spotify.com/track/65qo8OLrleFH5bUOsDxRUo)** by **GAST** *(fallen)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-02 16:56:47Z UTC
+🕐 Last updated: 2025-08-02 17:14:17Z UTC
 <!-- SPOTIFY-END -->
