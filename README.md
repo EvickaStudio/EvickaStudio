@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3d3495b41aade317209c9cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)**
-*by* **Seraphim**
-*Album:* PURGATORY
+**🎵 [Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)**
+*by* **Somewhere Special**
+*Album:* Blizzard Warning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:20
+    2:51 • 2:58
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
+🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
+🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
+🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
 🎤 **[Carried Away (feat. Night Lovell)](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W)** by **$uicideboy$, Night Lovell** *(THY KINGDOM COME)*
 🎤 **[Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE)** by **Wisp** *(If Not Winter)*
-🎤 **[Youth](https://open.spotify.com/track/7ftUTnAjodLfY4EbS1E8YL)** by **orbit** *(Youth / Summertime)*
-🎤 **[bad bitch molly addict](https://open.spotify.com/track/0fvDBzHfS0UhJ6GAi4uS9R)** by **d3r, Pr0xy, jakubshaggy** *(bad bitch molly addict)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-03 13:43:04Z UTC
+🕐 Last updated: 2025-08-03 13:54:19Z UTC
 <!-- SPOTIFY-END -->
