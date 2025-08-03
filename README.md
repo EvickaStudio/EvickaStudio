@@ -106,36 +106,17 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27365ee509885af9d1e59ed7b55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)**
-*by* **fakemink, Ecco2k, Mechatok**
-*Album:* MAKKA
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="199" height="4" fill="#1db954" rx="2"/>
-    <circle cx="199" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 3:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
-🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
+🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
+🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
+🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-03 14:11:28Z UTC
+🕐 Last updated: 2025-08-03 14:33:11Z UTC
 <!-- SPOTIFY-END -->
