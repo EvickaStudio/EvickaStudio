@@ -106,17 +106,36 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2731ee775acf7153a3f50919035" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Time in the Afternoon](https://open.spotify.com/track/65gjM18NojCDOTENUde68G)**
+*by* **orbit**
+*Album:* Time in the Afternoon
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="19" height="4" fill="#1db954" rx="2"/>
+    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:14 • 3:47
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
 🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
 🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
 🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
 🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
 
 
 
@@ -139,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-04 14:49:52Z UTC
+🕐 Last updated: 2025-08-04 15:15:08Z UTC
 <!-- SPOTIFY-END -->
