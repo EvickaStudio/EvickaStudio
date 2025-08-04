@@ -106,26 +106,7 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy)**
-*by* **Steve Lacy**
-*Album:* Gemini Rights
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 3:52
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -158,5 +139,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**I Am A Destiny**](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)
 
 
-🕐 Last updated: 2025-08-04 20:15:33Z UTC
+🕐 Last updated: 2025-08-04 20:43:59Z UTC
 <!-- SPOTIFY-END -->
