@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737a9214e709915022f75a9044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)**
-*by* **Basement Jaxx**
-*Album:* Rooty
+**🎵 [A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)**
+*by* **Frou Frou, Imogen Heap, Guy Sigsworth**
+*Album:* A New Kind Of Love (Demo)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
+    <rect width="145" height="4" fill="#1db954" rx="2"/>
+    <circle cx="145" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 4:45
+    2:05 • 4:19
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
-🎤 **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)*
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
+🎤 **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)*
+🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
+🎤 **[Auszeit](https://open.spotify.com/track/7u13sauQpwexStVJrEeOx5)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-06 13:57:09Z UTC
+🕐 Last updated: 2025-08-06 14:21:40Z UTC
 <!-- SPOTIFY-END -->
