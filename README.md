@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733bd6cec4696094b7f5edad20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273145b08fe181e3b3e05b26a01" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)**
-*by* **Snow Strippers**
-*Album:* Just Your Doll
+**🎵 [End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)**
+*by* **Baby Jane**
+*Album:* A Grave Marked Strange (Sped Up)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="167" height="4" fill="#1db954" rx="2"/>
+    <circle cx="167" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:27
+    1:12 • 2:09
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
-🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
+🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
+🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-06 17:17:03Z UTC
+🕐 Last updated: 2025-08-06 17:45:14Z UTC
 <!-- SPOTIFY-END -->
