@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737aff06f42c0db5496bf0c2b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273454418e1f55d85762666c21a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Truisms 4 Dummies](https://open.spotify.com/track/40oMDrqiESAbKzfnK6avpB)**
-*by* **Headache**
-*Album:* The Head Hurts but the Heart Knows the Truth
+**🎵 [Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)**
+*by* **S1RENA**
+*Album:* Heb ab
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="250" height="4" fill="#1db954" rx="2"/>
+    <circle cx="250" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 4:01
+    2:08 • 2:33
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
-🎤 **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)*
-🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
-🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
-🎤 **[drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)** by **Lil Peep, Xavier Wulf** *(HELLBOY)*
+🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
+🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3)** by **Syn Cole** *(Feel Good)*
+🎤 **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)*
+🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-06 15:15:52Z UTC
+🕐 Last updated: 2025-08-06 15:44:50Z UTC
 <!-- SPOTIFY-END -->
