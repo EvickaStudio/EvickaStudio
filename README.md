@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273946264bbeb79cdbaef579fd0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)**
-*by* **Frou Frou, Imogen Heap, Guy Sigsworth**
-*Album:* A New Kind Of Love (Demo)
+**🎵 [rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)**
+*by* **anna luna**
+*Album:* rotten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 4:19
+    1:49 • 2:10
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
-🎤 **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)*
-🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
-🎤 **[Auszeit](https://open.spotify.com/track/7u13sauQpwexStVJrEeOx5)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)*
+🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[fuckk](https://open.spotify.com/track/1RFl1jsgW0EmRhtRYkrtJk)** by **bliiiss, Capoxxo** *(fuckk)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-06 14:21:40Z UTC
+🕐 Last updated: 2025-08-06 14:49:26Z UTC
 <!-- SPOTIFY-END -->
