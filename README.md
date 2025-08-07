@@ -133,11 +133,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
-🥈 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
-🥉 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
+🥈 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
+🥉 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 🏅 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
-🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
+🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-07 12:28:47Z UTC
+🕐 Last updated: 2025-08-07 13:22:28Z UTC
 <!-- SPOTIFY-END -->
