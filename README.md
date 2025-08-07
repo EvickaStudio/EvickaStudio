@@ -7,7 +7,7 @@
 <div>
   <img
        align="left"
-       src="assets/evfinal.gif"
+       src="assets/liquid-logo-500.gif"
        alt="Transparent Evicka EV Logo"
        width="200"
        style="margin-right: 20px; margin-bottom: 20px;"
