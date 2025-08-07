@@ -1,46 +1,68 @@
-![Evicka Studio Banner](assets/banner_2.webp)
+<p align="center">
+  <img src="assets/banner_2.webp" alt="Evicka Studio Banner" />
+</p>
 
-<br clear="left"/>
+<h2 align="center">EvickaStudio — Welcome to my profile</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EvickaStudio&style=plastic&abbreviated=true&color=ff69b4" alt="Profile views" />
+  <!-- Centering reference: using container alignment per CSS text-align guidance -->
+</p>
+
+<table>
+  <tr>
+    <td width="260" valign="top">
+      <p align="center">
+        <img src="assets/liquid-logo-500.gif" alt="Evicka EV Logo" width="200"/>
+      </p>
+      <h4 align="center">Quick Facts</h4>
+      <ul>
+        <li>🔬 Currently focusing on new coding paradigms and design workflows</li>
+        <li>👀 I enjoy working with GUIs, graphics, and some 3D modeling</li>
+        <li>🌱 Learning about advanced DevOps principles and containerization</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Hey, I'm Erik</h3>
+      <p>
+        I am a <strong>Computer Science & Software Engineering</strong> student from
+        Germany. I am currently focusing mainly on learning new programming
+        languages and expanding my programming skills in programming languages I
+        already know, as well as frameworks and programming concepts. My projects
+        mostly deal with automating various processes to save time and effort for
+        others and myself.
+      </p>
+      <p>
+        An example of this is MoodleMate, a Python program that uses a
+        self-written Moodle REST API wrapper to retrieve notifications from most
+        Moodle learning platforms and forward them to various notification
+        services such as Discord to have all the information at a certain point
+        so that you don't lose track. MoodleMate is one of the projects I've been
+        working on the longest, as I keep coming up with better ways to improve
+        communication and other aspects, from several codebase restructurings to
+        containerizing the project into a simple docker container so that the
+        program works properly on all instances.
+      </p>
+      <p>
+        I am also very familiar with graphics and some 3D design, so I like to
+        create new design concepts for my projects, logos, design websites or try
+        to get involved creatively in other places.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/evkheadpostersmol.webp" alt="Evicka poster collage" />
+</p>
 
 ---
 
-<div>
-  <img
-       align="left"
-       src="assets/liquid-logo-500.gif"
-       alt="Transparent Evicka EV Logo"
-       width="200"
-       style="margin-right: 20px; margin-bottom: 20px;"
-  />
-</div>
+## 📚 Table of Contents
 
-Hey, I'm Erik
-
-  I am a **Computer Science & Software Engineering** student from Germany. I am currently focusing mainly on learning new programming languages and expanding my programming skills in programming languages I already know, as well as frameworks and programming concepts. My projects mostly deal with automating various processes to save time and effort for others and myself.
-
-An example of this is MoodleMate, a Python program that uses a self-written Moodle REST API wrapper to retrieve notifications from most Moodle learning platforms and forward them to various notification services such as Discord to have all the information at a certain point so that you don't lose track. MoodleMate is one of the projects I've been working on the longest, as I keep coming up with better ways to improve communication and other aspects, from several codebase restructurings to containerizing the project into a simple docker container so that the program works properly on all instances.
-
-I am also very familiar with graphics and some 3D design, so I like to create new design concepts for my projects, logos, design websites or try to get involved creatively in other places.
-
-<br clear="left"/>
-
----
-
-![imgag](assets/evkheadpostersmol.webp)
-
----
-
-## ⚡️ A Few Quick Facts
-
-<div>
-  <img align="left" height="180px" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png" alt="Spacer" />
-</div>
-
-- 🔬 Currently focusing on new coding paradigms and design workflows
-- 👀 I enjoy working with GUIs, graphics, and some 3D modeling
-- 🌱 Learning about advanced DevOps principles and containerization
-
-<br>
+- **[🛠️ Skills & Technologies](#️-skills--technologies)**
+- **[📈 Metrics](#-metrics)**
+- **[🎧 Spotify](#-spotify)**
 
 ---
 
@@ -58,46 +80,28 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Metrics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EvickaStudio&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent"
-    alt="GitHub stats"
-    width="45%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=EvickaStudio&theme=transparent"
-    alt="GitHub streak"
-    width="45%"
-  />
-</p>
-
----
-
-## 🔝 Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvickaStudio&theme=transparent&layout=compact"
-    alt="Top Languages"
-    width="45%"
-  />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=EvickaStudio&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" alt="GitHub stats" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvickaStudio&theme=transparent" alt="GitHub streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvickaStudio&theme=transparent&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=evickastudio&layout=compact&theme=transparent" alt="WakaTime stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 🕔 WakaTime Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=evickastudio&layout=compact&theme=transparent"
-    alt="WakaTime stats"
-    width="45%"
-  />
-</p>
-
- ---
 
 ## 🎧 Spotify
 
