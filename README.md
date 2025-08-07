@@ -107,23 +107,23 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bb4e0eb80edf57b93d603db3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)**
-*by* **Somewhere Special**
-*Album:* Blizzard Warning
+**🎵 [Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)**
+*by* **Lil B**
+*Album:* Im Gay
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="246" height="4" fill="#1db954" rx="2"/>
+    <circle cx="246" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 2:58
+    1:57 • 2:23
 </span>
 </p>
 
@@ -131,11 +131,11 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 
 ### 📜 Recently Played
 
-🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
-🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
-🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
+🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
 
 
 
@@ -158,5 +158,5 @@ I am also very familiar with graphics and some 3D design, so I like to create ne
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-07 11:15:39Z UTC
+🕐 Last updated: 2025-08-07 11:39:29Z UTC
 <!-- SPOTIFY-END -->
