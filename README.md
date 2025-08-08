@@ -111,20 +111,20 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273d040bc5b46915b49a64d7b1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Straight Into The Fire](https://open.spotify.com/track/1Aw0wPIW70GsV9KoD8m7Ps)**
-*by* **Zedd**
+**🎵 [Bumble Bee](https://open.spotify.com/track/0L2tjlCReyNfmL37wZh6kF)**
+*by* **Zedd, Botnek**
 *Album:* True Colors
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="51" height="4" fill="#1db954" rx="2"/>
-    <circle cx="51" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 3:41
+    2:42 • 4:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Papercut](https://open.spotify.com/track/62hWYjPL57rbUd5rhvI3Of)** by **Zedd, Troye Sivan** *(True Colors)*
+🎤 **[Straight Into The Fire](https://open.spotify.com/track/1Aw0wPIW70GsV9KoD8m7Ps)** by **Zedd** *(True Colors)*
 🎤 **[True Colors](https://open.spotify.com/track/2KTsF6TFius01SCYmnIkJG)** by **Zedd** *(True Colors)*
 🎤 **[Done With Love](https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE)** by **Zedd** *(True Colors)*
 🎤 **[Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX)** by **Zedd, Logic, X Ambassadors** *(True Colors)*
-🎤 **[Beautiful Now](https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL)** by **Zedd, Jon Bellion** *(True Colors)*
-🎤 **[I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP)** by **Zedd, Selena Gomez** *(True Colors)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 10:42:45Z UTC
+🕐 Last updated: 2025-08-08 10:55:54Z UTC
 <!-- SPOTIFY-END -->
