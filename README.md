@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27341e9614560815b11c1ca543d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa)**
+*by* **Zedd, Elley Duhé**
+*Album:* Happy Now
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:33 • 3:27
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
-🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
-🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
+🎤 **[I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP)** by **Zedd, Selena Gomez** *(True Colors)*
+🎤 **[Beautiful Now](https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL)** by **Zedd, Jon Bellion** *(True Colors)*
+🎤 **[Stay The Night - Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/4bT2zLVv2T4GiK9q9KtI0v)** by **Zedd, Hayley Williams** *(Clarity (Deluxe))*
+🎤 **[Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0)** by **Zedd, Alessia Cara** *(Stay)*
+🎤 **[Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c)** by **Zedd, Foxes** *(Clarity)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 08:50:32Z UTC
+🕐 Last updated: 2025-08-08 09:19:45Z UTC
 <!-- SPOTIFY-END -->
