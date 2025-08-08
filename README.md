@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c271701c8c4b212938f83478" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1000Days](https://open.spotify.com/track/2o9jUKGaUKuNjwXM73Nvtx)**
-*by* **humanangst**
-*Album:* Lost in Translation
+**🎵 [hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)**
+*by* **kevin**
+*Album:* hollywood
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 3:06
+    1:03 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[D!VA](https://open.spotify.com/track/2fmRFDm4RQFyEhnbEySxeV)** by **stixz** *(D!VA)*
-🎤 **[Machtlos](https://open.spotify.com/track/0G1elLFbHGXCKsvnbuY8lM)** by **Tape Head, NONI** *(Machtlos)*
-🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
-🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
-🎤 **[USA](https://open.spotify.com/track/0WisAg3WlmAiCF34FlFAXz)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Saiya Tiaw, Nicki Papa** *(USA)*
+🎤 **[Warst das Du? (feat. Charlize)](https://open.spotify.com/track/2JJeqgQBJ4Qxmdd6PHMH7U)** by **Maliq, Charlize** *(Sex Drugs Love)*
+🎤 **[Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)** by **SQF2000** *(YOLOCORE)*
+🎤 **[deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)** by **Tamino404** *(du hast uns alle vergessen und ich bin stolz auf dich)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 17:12:41Z UTC
+🕐 Last updated: 2025-08-08 17:31:42Z UTC
 <!-- SPOTIFY-END -->
