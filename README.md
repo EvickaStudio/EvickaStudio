@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273151bbac13b915b66264d1cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739dc6898b3e66ca9bc90e4561" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)**
-*by* **JB 50**
-*Album:* Headline
+**🎵 [Durch Gläser sehen](https://open.spotify.com/track/0jovdETdEGpLDYEDRyxG5m)**
+*by* **Nicki Papa**
+*Album:* Wendepunkt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="177" height="4" fill="#1db954" rx="2"/>
-    <circle cx="177" cy="2" r="6" fill="#1db954"/>
+    <rect width="207" height="4" fill="#1db954" rx="2"/>
+    <circle cx="207" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 1:57
+    1:23 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
-🎤 **[Irgendeine Kleinstadt](https://open.spotify.com/track/1y5oww3sAqHnTH64WVV6PL)** by **Tamino404, kevin** *(es ist nicht mehr 2016)*
-🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
-🎤 **[how i feel - sped up](https://open.spotify.com/track/6zpD1yuKQLPKHdYV5wwer6)** by **stixz** *(how i feel)*
-🎤 **[SCHOCK FÜR ELTERN!](https://open.spotify.com/track/3QUIz7suxdlKU6h9xH6Hlf)** by **Skepsiz** *(PUNK PARADOX!)*
+🎤 **[confess](https://open.spotify.com/track/4H7zt2Ou0KV79l3D5EePjq)** by **Skepsiz** *(confess)*
+🎤 **[Nimm alles mit und renn](https://open.spotify.com/track/2PsCYEi0mtEFPHSeO5VSJl)** by **Tamino404, Shinju** *(sternstaub)*
+🎤 **[Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)** by **humanangst** *(Lost in Translation)*
+🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[iPhone 6 - remix](https://open.spotify.com/track/5BfLPLhUP6R1sOnx0OJGda)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1.5 (remixes))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 18:49:26Z UTC
+🕐 Last updated: 2025-08-08 19:10:56Z UTC
 <!-- SPOTIFY-END -->
