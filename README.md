@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b27339667b8510033317b3553ca4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shave It Up](https://open.spotify.com/track/0K2Dy1JAE3I29g2OeyQutL)**
+**🎵 [Codec](https://open.spotify.com/track/1NbjHDezuciBkYHwEiXW84)**
 *by* **Zedd**
 *Album:* Clarity (Deluxe)
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 3:10
+    3:56 • 6:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Clarity](https://open.spotify.com/track/3HrozUzUsMLPNWwuYUHwdV)** by **Zedd, Foxes** *(Clarity (Deluxe))*
+🎤 **[Lost At Sea](https://open.spotify.com/track/1oUec8mUPwzXFtk0beUVbc)** by **Zedd, Ryan Tedder** *(Clarity (Deluxe))*
+🎤 **[Spectrum](https://open.spotify.com/track/42MhtniCyRkj5bsO6HP1lp)** by **Zedd, Matthew Koma** *(Clarity (Deluxe))*
+🎤 **[Shave It Up](https://open.spotify.com/track/0K2Dy1JAE3I29g2OeyQutL)** by **Zedd** *(Clarity (Deluxe))*
 🎤 **[Hourglass](https://open.spotify.com/track/0jE6fcDK21Bq4BjGHlMCGt)** by **Zedd, LIZ** *(Clarity (Deluxe))*
-🎤 **[Illusion](https://open.spotify.com/track/3ID8CH6UCMCIhcGg4Yfy4d)** by **Zedd, Echosmith** *(True Colors)*
-🎤 **[Daisy](https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V)** by **Zedd** *(True Colors)*
-🎤 **[Bumble Bee](https://open.spotify.com/track/0L2tjlCReyNfmL37wZh6kF)** by **Zedd, Botnek** *(True Colors)*
-🎤 **[Papercut](https://open.spotify.com/track/62hWYjPL57rbUd5rhvI3Of)** by **Zedd, Troye Sivan** *(True Colors)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 11:13:26Z UTC
+🕐 Last updated: 2025-08-08 11:31:21Z UTC
 <!-- SPOTIFY-END -->
