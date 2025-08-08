@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)**
-*by* **Bob Dylan**
-*Album:* Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="22" height="4" fill="#1db954" rx="2"/>
-    <circle cx="22" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
 🎤 **[Nacht Für Nacht](https://open.spotify.com/track/7uJJBpzyaltqWCotetW2gh)** by **Tino** *(Nacht Für Nacht)*
 🎤 **[du musst ein engel sein](https://open.spotify.com/track/20Tm9pPDqIm6m6wXXQ12h0)** by **ghostboo, Juri** *(du musst ein engel sein)*
 🎤 **[Astronaut](https://open.spotify.com/track/6GsN5juFEtVGgYdEuhIsHX)** by **Tamino404, Shinju** *(sternstaub)*
-🎤 **[immernoch:(](https://open.spotify.com/track/17FPg0bcxILtp7KmMTOtyZ)** by **GERO** *(immernoch:()*
-🎤 **[lov3rboy](https://open.spotify.com/track/44heMv34hIxouuCQhICwTN)** by **stixz** *(lov3rboy)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 19:35:29Z UTC
+🕐 Last updated: 2025-08-08 19:47:28Z UTC
 <!-- SPOTIFY-END -->
