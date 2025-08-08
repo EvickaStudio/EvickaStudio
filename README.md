@@ -134,11 +134,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
-🥈 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
-🥉 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
+🥈 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
+🥉 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 21:48:40Z UTC
+🕐 Last updated: 2025-08-08 22:12:45Z UTC
 <!-- SPOTIFY-END -->
