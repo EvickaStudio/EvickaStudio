@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273adaf18b7870c09b3a9acc897" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lov3rboy](https://open.spotify.com/track/44heMv34hIxouuCQhICwTN)**
-*by* **stixz**
-*Album:* lov3rboy
+**🎵 [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)**
+*by* **Bob Dylan**
+*Album:* Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="106" height="4" fill="#1db954" rx="2"/>
-    <circle cx="106" cy="2" r="6" fill="#1db954"/>
+    <rect width="22" height="4" fill="#1db954" rx="2"/>
+    <circle cx="22" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:04
+    0:11 • 2:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FRÜHLINGSKINDER](https://open.spotify.com/track/6HQ4bfoKib1Cs71n0D2aSR)** by **Skepsiz** *(FRÜHLINGSKINDER)*
-🎤 **[Blumenfeld](https://open.spotify.com/track/15iTukCUtCpbWRl2r1H980)** by **Good K1d, Kwaku.se** *(Blumenfeld)*
-🎤 **[Bauchgefühl](https://open.spotify.com/track/5o4u7wIcB4XmKzUZjgEDSj)** by **Tamino404, Hashi** *(schlechte luft)*
-🎤 **[Burnout - remix](https://open.spotify.com/track/0Hr5CVA9MqZ8UOQplFThOM)** by **Maxi Nagl, juizz** *(Maxi Nagl Prod Tape #1.5 (remixes))*
-🎤 **[Hausparty](https://open.spotify.com/track/5kWrnW7Jz9lp8fptWjaYg7)** by **GERO** *(Hausparty)*
+🎤 **[Nacht Für Nacht](https://open.spotify.com/track/7uJJBpzyaltqWCotetW2gh)** by **Tino** *(Nacht Für Nacht)*
+🎤 **[du musst ein engel sein](https://open.spotify.com/track/20Tm9pPDqIm6m6wXXQ12h0)** by **ghostboo, Juri** *(du musst ein engel sein)*
+🎤 **[Astronaut](https://open.spotify.com/track/6GsN5juFEtVGgYdEuhIsHX)** by **Tamino404, Shinju** *(sternstaub)*
+🎤 **[immernoch:(](https://open.spotify.com/track/17FPg0bcxILtp7KmMTOtyZ)** by **GERO** *(immernoch:()*
+🎤 **[lov3rboy](https://open.spotify.com/track/44heMv34hIxouuCQhICwTN)** by **stixz** *(lov3rboy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 19:25:25Z UTC
+🕐 Last updated: 2025-08-08 19:35:29Z UTC
 <!-- SPOTIFY-END -->
