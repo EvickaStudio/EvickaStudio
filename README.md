@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273afce4c9cd3313302c0a16ed1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27357e91863241d83d7954c3ad3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)**
-*by* **Mazzy Star**
-*Album:* She Hangs Brightly
+**🎵 [notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)**
+*by* **Tamino404, eedrian**
+*Album:* notfallkontakt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="98" height="4" fill="#1db954" rx="2"/>
+    <circle cx="98" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:59 • 3:16
+    0:46 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
-🎤 **[Breathe (In the Air)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS)** by **Bob Dylan** *(Another Side Of Bob Dylan)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
+🎤 **[Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc)** by **Bob Dylan** *(Highway 61 Revisited)*
+🎤 **[I Live for You (2014 Remaster)](https://open.spotify.com/track/6YU1CWbu43zkv21W0FyN10)** by **George Harrison** *(All Things Must Pass (2014 Remaster))*
+🎤 **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 20:14:32Z UTC
+🕐 Last updated: 2025-08-08 20:35:49Z UTC
 <!-- SPOTIFY-END -->
