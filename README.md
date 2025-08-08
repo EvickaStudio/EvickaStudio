@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27341e9614560815b11c1ca543d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273864f08aa363057917e587f55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa)**
-*by* **Zedd, Elley Duhé**
-*Album:* Happy Now
+**🎵 [Tangerine Rays (feat. Bea Miller)](https://open.spotify.com/track/5D5UVZe2jPOiYrmPjjBhNa)**
+*by* **Zedd, Bea Miller, ellis**
+*Album:* Telos
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="298" height="4" fill="#1db954" rx="2"/>
+    <circle cx="298" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 3:27
+    4:11 • 4:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP)** by **Zedd, Selena Gomez** *(True Colors)*
-🎤 **[Beautiful Now](https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL)** by **Zedd, Jon Bellion** *(True Colors)*
-🎤 **[Stay The Night - Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/4bT2zLVv2T4GiK9q9KtI0v)** by **Zedd, Hayley Williams** *(Clarity (Deluxe))*
-🎤 **[Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0)** by **Zedd, Alessia Cara** *(Stay)*
-🎤 **[Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c)** by **Zedd, Foxes** *(Clarity)*
+🎤 **[Out of Time (feat. Bea Miller)](https://open.spotify.com/track/05nNwJQSvfjaAmJRcjWJKy)** by **Zedd, Bea Miller** *(Telos)*
+🎤 **[365](https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d)** by **Zedd, Katy Perry** *(365)*
+🎤 **[Good Thing (with Kehlani)](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU)** by **Zedd, Kehlani** *(Good Thing (with Kehlani))*
+🎤 **[Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS)** by **Zedd, Matthew Koma** *(Clarity)*
+🎤 **[Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa)** by **Zedd, Elley Duhé** *(Happy Now)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 09:19:45Z UTC
+🕐 Last updated: 2025-08-08 09:46:46Z UTC
 <!-- SPOTIFY-END -->
