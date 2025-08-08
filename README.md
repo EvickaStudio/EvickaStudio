@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d040bc5b46915b49a64d7b1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27339667b8510033317b3553ca4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bumble Bee](https://open.spotify.com/track/0L2tjlCReyNfmL37wZh6kF)**
-*by* **Zedd, Botnek**
-*Album:* True Colors
+**🎵 [Shave It Up](https://open.spotify.com/track/0K2Dy1JAE3I29g2OeyQutL)**
+*by* **Zedd**
+*Album:* Clarity (Deluxe)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="196" height="4" fill="#1db954" rx="2"/>
-    <circle cx="196" cy="2" r="6" fill="#1db954"/>
+    <rect width="147" height="4" fill="#1db954" rx="2"/>
+    <circle cx="147" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:42 • 4:07
+    1:33 • 3:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hourglass](https://open.spotify.com/track/0jE6fcDK21Bq4BjGHlMCGt)** by **Zedd, LIZ** *(Clarity (Deluxe))*
+🎤 **[Illusion](https://open.spotify.com/track/3ID8CH6UCMCIhcGg4Yfy4d)** by **Zedd, Echosmith** *(True Colors)*
+🎤 **[Daisy](https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V)** by **Zedd** *(True Colors)*
+🎤 **[Bumble Bee](https://open.spotify.com/track/0L2tjlCReyNfmL37wZh6kF)** by **Zedd, Botnek** *(True Colors)*
 🎤 **[Papercut](https://open.spotify.com/track/62hWYjPL57rbUd5rhvI3Of)** by **Zedd, Troye Sivan** *(True Colors)*
-🎤 **[Straight Into The Fire](https://open.spotify.com/track/1Aw0wPIW70GsV9KoD8m7Ps)** by **Zedd** *(True Colors)*
-🎤 **[True Colors](https://open.spotify.com/track/2KTsF6TFius01SCYmnIkJG)** by **Zedd** *(True Colors)*
-🎤 **[Done With Love](https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE)** by **Zedd** *(True Colors)*
-🎤 **[Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX)** by **Zedd, Logic, X Ambassadors** *(True Colors)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 10:55:54Z UTC
+🕐 Last updated: 2025-08-08 11:13:26Z UTC
 <!-- SPOTIFY-END -->
