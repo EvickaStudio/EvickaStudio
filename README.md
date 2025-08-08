@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739dc6898b3e66ca9bc90e4561" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273adaf18b7870c09b3a9acc897" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Durch Gläser sehen](https://open.spotify.com/track/0jovdETdEGpLDYEDRyxG5m)**
-*by* **Nicki Papa**
-*Album:* Wendepunkt
+**🎵 [lov3rboy](https://open.spotify.com/track/44heMv34hIxouuCQhICwTN)**
+*by* **stixz**
+*Album:* lov3rboy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="106" height="4" fill="#1db954" rx="2"/>
+    <circle cx="106" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:00
+    0:44 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[confess](https://open.spotify.com/track/4H7zt2Ou0KV79l3D5EePjq)** by **Skepsiz** *(confess)*
-🎤 **[Nimm alles mit und renn](https://open.spotify.com/track/2PsCYEi0mtEFPHSeO5VSJl)** by **Tamino404, Shinju** *(sternstaub)*
-🎤 **[Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)** by **humanangst** *(Lost in Translation)*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
-🎤 **[iPhone 6 - remix](https://open.spotify.com/track/5BfLPLhUP6R1sOnx0OJGda)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1.5 (remixes))*
+🎤 **[FRÜHLINGSKINDER](https://open.spotify.com/track/6HQ4bfoKib1Cs71n0D2aSR)** by **Skepsiz** *(FRÜHLINGSKINDER)*
+🎤 **[Blumenfeld](https://open.spotify.com/track/15iTukCUtCpbWRl2r1H980)** by **Good K1d, Kwaku.se** *(Blumenfeld)*
+🎤 **[Bauchgefühl](https://open.spotify.com/track/5o4u7wIcB4XmKzUZjgEDSj)** by **Tamino404, Hashi** *(schlechte luft)*
+🎤 **[Burnout - remix](https://open.spotify.com/track/0Hr5CVA9MqZ8UOQplFThOM)** by **Maxi Nagl, juizz** *(Maxi Nagl Prod Tape #1.5 (remixes))*
+🎤 **[Hausparty](https://open.spotify.com/track/5kWrnW7Jz9lp8fptWjaYg7)** by **GERO** *(Hausparty)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 19:10:56Z UTC
+🕐 Last updated: 2025-08-08 19:25:25Z UTC
 <!-- SPOTIFY-END -->
