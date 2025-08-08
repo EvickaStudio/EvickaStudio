@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273864f08aa363057917e587f55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d040bc5b46915b49a64d7b1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1685 (feat. Muse)](https://open.spotify.com/track/6vgc41jaY9ed6TbQUp8ccd)**
-*by* **Zedd, Muse**
-*Album:* Telos
+**🎵 [Straight Into The Fire](https://open.spotify.com/track/1Aw0wPIW70GsV9KoD8m7Ps)**
+*by* **Zedd**
+*Album:* True Colors
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:13 • 6:11
+    0:37 • 3:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Automatic Yes (feat. John Mayer)](https://open.spotify.com/track/6oAwQp0fXsZObpl5PLl2GN)** by **Zedd, John Mayer** *(Telos)*
-🎤 **[Descensus (feat. Dora Jar)](https://open.spotify.com/track/37qlyulYbvMAdwFnhw4Czl)** by **Zedd, Dora Jar, Mesto** *(Telos)*
-🎤 **[Dream Brother](https://open.spotify.com/track/4wsCp4k8t9y9e3RMzNPHPe)** by **Zedd, Jeff Buckley** *(Telos)*
-🎤 **[Lucky (feat. Remi Wolf)](https://open.spotify.com/track/6DtU5J0xK0Law03cXT6ar5)** by **Zedd, Remi Wolf** *(Telos)*
-🎤 **[Sona (feat. the olllam)](https://open.spotify.com/track/57B0KiRu388xFAHKYYJWiP)** by **Zedd, the olllam** *(Telos)*
+🎤 **[True Colors](https://open.spotify.com/track/2KTsF6TFius01SCYmnIkJG)** by **Zedd** *(True Colors)*
+🎤 **[Done With Love](https://open.spotify.com/track/0qlAureWHln3vDCsqnkyRE)** by **Zedd** *(True Colors)*
+🎤 **[Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX)** by **Zedd, Logic, X Ambassadors** *(True Colors)*
+🎤 **[Beautiful Now](https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL)** by **Zedd, Jon Bellion** *(True Colors)*
+🎤 **[I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP)** by **Zedd, Selena Gomez** *(True Colors)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 10:14:41Z UTC
+🕐 Last updated: 2025-08-08 10:42:45Z UTC
 <!-- SPOTIFY-END -->
