@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273941dd3b3343d9cb9329d37bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c3d3495b41aade317209c9cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shave It Up](https://open.spotify.com/track/4mtCNSfEwcwvm9iLG1bADY)**
-*by* **Zedd**
-*Album:* Clarity
+**🎵 [PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)**
+*by* **Seraphim**
+*Album:* PURGATORY
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="121" height="4" fill="#1db954" rx="2"/>
-    <circle cx="121" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 3:10
+    0:15 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hourglass](https://open.spotify.com/track/6NwrXtcFbc8OX7wJyBqE89)** by **Zedd, LIZ** *(Clarity)*
-🎤 **[Find You](https://open.spotify.com/track/7mazffu6nlIv0rtRyPDMTD)** by **Zedd, Matthew Koma, Miriam Bryant** *(Clarity (Deluxe))*
-🎤 **[Stay The Night - Tiesto's Club Life Remix](https://open.spotify.com/track/560bmVbJ73hE75bunZ8SNa)** by **Zedd, Hayley Williams, Tiësto** *(Clarity (Deluxe))*
-🎤 **[Clarity - Remix](https://open.spotify.com/track/2zSEnOEVOQGOK7BVWWxcRN)** by **Zedd, Medina** *(Clarity (Deluxe))*
-🎤 **[Breakn' A Sweat - Zedd Remix](https://open.spotify.com/track/4GubwVNqQLCtoqMz2LeQbu)** by **Skrillex, The Doors, Zedd** *(Clarity (Deluxe))*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)*
+🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
 
 
 
@@ -144,8 +144,8 @@
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🥈 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
-🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🏅 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥉 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 12:27:56Z UTC
+🕐 Last updated: 2025-08-08 13:12:55Z UTC
 <!-- SPOTIFY-END -->
