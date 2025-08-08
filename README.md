@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273afce4c9cd3313302c0a16ed1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)**
+*by* **Mazzy Star**
+*Album:* She Hangs Brightly
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:59 • 3:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Lady Writer](https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt)** by **Dire Straits** *(Communiqué)*
+🎤 **[Breathe (In the Air)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53)** by **Pink Floyd** *(The Dark Side of the Moon)*
+🎤 **[It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS)** by **Bob Dylan** *(Another Side Of Bob Dylan)*
 🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
-🎤 **[Nacht Für Nacht](https://open.spotify.com/track/7uJJBpzyaltqWCotetW2gh)** by **Tino** *(Nacht Für Nacht)*
-🎤 **[du musst ein engel sein](https://open.spotify.com/track/20Tm9pPDqIm6m6wXXQ12h0)** by **ghostboo, Juri** *(du musst ein engel sein)*
-🎤 **[Astronaut](https://open.spotify.com/track/6GsN5juFEtVGgYdEuhIsHX)** by **Tamino404, Shinju** *(sternstaub)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 19:47:28Z UTC
+🕐 Last updated: 2025-08-08 20:14:32Z UTC
 <!-- SPOTIFY-END -->
