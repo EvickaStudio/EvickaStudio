@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273151bbac13b915b66264d1cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
+**🎵 [Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)**
+*by* **JB 50**
+*Album:* Headline
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="177" height="4" fill="#1db954" rx="2"/>
+    <circle cx="177" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:54
+    1:09 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)*
-🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
-🎤 **[hm hm](https://open.spotify.com/track/1QzpsWspEJv1M0pIZgV1EW)** by **Tamino404, Shinju** *(sternstaub)*
-🎤 **[srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)** by **cinnemane** *(srrysora)*
-🎤 **[Fall](https://open.spotify.com/track/1IaX8gHwMM9a3HN37oXpzX)** by **hqwilli** *(Allein im Club)*
+🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
+🎤 **[Irgendeine Kleinstadt](https://open.spotify.com/track/1y5oww3sAqHnTH64WVV6PL)** by **Tamino404, kevin** *(es ist nicht mehr 2016)*
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[how i feel - sped up](https://open.spotify.com/track/6zpD1yuKQLPKHdYV5wwer6)** by **stixz** *(how i feel)*
+🎤 **[SCHOCK FÜR ELTERN!](https://open.spotify.com/track/3QUIz7suxdlKU6h9xH6Hlf)** by **Skepsiz** *(PUNK PARADOX!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 
 
-🕐 Last updated: 2025-08-08 18:17:28Z UTC
+🕐 Last updated: 2025-08-08 18:49:26Z UTC
 <!-- SPOTIFY-END -->
