@@ -111,20 +111,20 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273864f08aa363057917e587f55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tangerine Rays (feat. Bea Miller)](https://open.spotify.com/track/5D5UVZe2jPOiYrmPjjBhNa)**
-*by* **Zedd, Bea Miller, ellis**
+**🎵 [1685 (feat. Muse)](https://open.spotify.com/track/6vgc41jaY9ed6TbQUp8ccd)**
+*by* **Zedd, Muse**
 *Album:* Telos
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="298" height="4" fill="#1db954" rx="2"/>
-    <circle cx="298" cy="2" r="6" fill="#1db954"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:11 • 4:12
+    4:13 • 6:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Out of Time (feat. Bea Miller)](https://open.spotify.com/track/05nNwJQSvfjaAmJRcjWJKy)** by **Zedd, Bea Miller** *(Telos)*
-🎤 **[365](https://open.spotify.com/track/2XWjPtKdi5sucFYtVav07d)** by **Zedd, Katy Perry** *(365)*
-🎤 **[Good Thing (with Kehlani)](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU)** by **Zedd, Kehlani** *(Good Thing (with Kehlani))*
-🎤 **[Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS)** by **Zedd, Matthew Koma** *(Clarity)*
-🎤 **[Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa)** by **Zedd, Elley Duhé** *(Happy Now)*
+🎤 **[Automatic Yes (feat. John Mayer)](https://open.spotify.com/track/6oAwQp0fXsZObpl5PLl2GN)** by **Zedd, John Mayer** *(Telos)*
+🎤 **[Descensus (feat. Dora Jar)](https://open.spotify.com/track/37qlyulYbvMAdwFnhw4Czl)** by **Zedd, Dora Jar, Mesto** *(Telos)*
+🎤 **[Dream Brother](https://open.spotify.com/track/4wsCp4k8t9y9e3RMzNPHPe)** by **Zedd, Jeff Buckley** *(Telos)*
+🎤 **[Lucky (feat. Remi Wolf)](https://open.spotify.com/track/6DtU5J0xK0Law03cXT6ar5)** by **Zedd, Remi Wolf** *(Telos)*
+🎤 **[Sona (feat. the olllam)](https://open.spotify.com/track/57B0KiRu388xFAHKYYJWiP)** by **Zedd, the olllam** *(Telos)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-08 09:46:46Z UTC
+🕐 Last updated: 2025-08-08 10:14:41Z UTC
 <!-- SPOTIFY-END -->
