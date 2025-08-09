@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731298f1ce7b0e4fb6a3caba57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273454418e1f55d85762666c21a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)**
-*by* **Aphex Twin**
-*Album:* Richard D. James Album
+**🎵 [Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)**
+*by* **S1RENA**
+*Album:* Heb ab
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:02 • 3:48
+    1:57 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[three](https://open.spotify.com/track/0YvtuzxqHtn4f5cEQnBKJC)** by **Cult Member** *(2017 Archives)*
-🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
-🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
-🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
+🎤 **[I LUV IT (feat. Playboi Carti)](https://open.spotify.com/track/3WY21ibZasLGJE1U6Apmzj)** by **Camila Cabello, Playboi Carti** *(C,XOXO)*
+🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[Just for Me](https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv)** by **PinkPantheress** *(to hell with it)*
+🎤 **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)*
+🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-09 19:34:13Z UTC
+🕐 Last updated: 2025-08-09 19:47:45Z UTC
 <!-- SPOTIFY-END -->
