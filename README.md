@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736b66085355fc7789ca9ab82a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)**
+*by* **kevin**
+*Album:* Letzten Winter
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="235" height="4" fill="#1db954" rx="2"/>
+    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:42 • 3:26
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
-🎤 **[Vielleicht Vielleicht](https://open.spotify.com/track/5EcXrwZKRPym3pRupNCZ2L)** by **MilleniumKid, JBS** *(DYSTOPIE)*
-🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
+🎤 **[Augenringe](https://open.spotify.com/track/1GECp43mOmp6VdRvUhS9vu)** by **nobis** *(Augenringe)*
+🎤 **[los](https://open.spotify.com/track/0SEEmUHVjluYA6SckdIqgR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
+🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-09 20:13:35Z UTC
+🕐 Last updated: 2025-08-09 20:33:12Z UTC
 <!-- SPOTIFY-END -->
