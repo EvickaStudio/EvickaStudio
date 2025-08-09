@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736b66085355fc7789ca9ab82a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcba1e014ae2257ebce7d2b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)**
-*by* **kevin**
-*Album:* Letzten Winter
+**🎵 [I'm God](https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh)**
+*by* **Lil B**
+*Album:* 6 Kiss
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="4" height="4" fill="#1db954" rx="2"/>
+    <circle cx="4" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:42 • 3:26
+    0:04 • 4:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Augenringe](https://open.spotify.com/track/1GECp43mOmp6VdRvUhS9vu)** by **nobis** *(Augenringe)*
-🎤 **[los](https://open.spotify.com/track/0SEEmUHVjluYA6SckdIqgR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
-🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
+🎤 **[sometimes](https://open.spotify.com/track/2HKROSMPefjkoubJlwKA4H)** by **BLOODiDOL** *(sometimes)*
+🎤 **[don't need it](https://open.spotify.com/track/66FvpxrI4yYR1Rx0RnkZSP)** by **joss lockwood, boysinblush** *(don't need it)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-09 20:33:12Z UTC
+🕐 Last updated: 2025-08-09 20:50:11Z UTC
 <!-- SPOTIFY-END -->
