@@ -107,45 +107,26 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273454418e1f55d85762666c21a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)**
-*by* **S1RENA**
-*Album:* Heb ab
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:33
-</span>
-</p>
+❌ Error fetching now playing track.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[I LUV IT (feat. Playboi Carti)](https://open.spotify.com/track/3WY21ibZasLGJE1U6Apmzj)** by **Camila Cabello, Playboi Carti** *(C,XOXO)*
-🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
-🎤 **[Just for Me](https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv)** by **PinkPantheress** *(to hell with it)*
-🎤 **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)*
-🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[Vielleicht Vielleicht](https://open.spotify.com/track/5EcXrwZKRPym3pRupNCZ2L)** by **MilleniumKid, JBS** *(DYSTOPIE)*
+🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
+🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥉 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🏅 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
@@ -159,5 +140,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-09 19:47:45Z UTC
+🕐 Last updated: 2025-08-09 20:13:35Z UTC
 <!-- SPOTIFY-END -->
