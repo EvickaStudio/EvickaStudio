@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcba1e014ae2257ebce7d2b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [I'm God](https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh)**
-*by* **Lil B**
-*Album:* 6 Kiss
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 4:36
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
+🎤 **[Acknowledgement](https://open.spotify.com/track/2YNJ2wMRwl2L2cudMQ0B6N)** by **Modjo** *(Modjo (Remastered))*
+🎤 **[I'm God](https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh)** by **Lil B** *(6 Kiss)*
+🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
 🎤 **[sometimes](https://open.spotify.com/track/2HKROSMPefjkoubJlwKA4H)** by **BLOODiDOL** *(sometimes)*
-🎤 **[don't need it](https://open.spotify.com/track/66FvpxrI4yYR1Rx0RnkZSP)** by **joss lockwood, boysinblush** *(don't need it)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-09 20:50:11Z UTC
+🕐 Last updated: 2025-08-09 21:11:33Z UTC
 <!-- SPOTIFY-END -->
