@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
 🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
 🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
 🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
 🎤 **[toxic city](https://open.spotify.com/track/1TYL7BonBQIssN0zpte1qQ)** by **Lil Peep** *(feelz)*
-🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-09 17:10:30Z UTC
+🕐 Last updated: 2025-08-09 17:30:26Z UTC
 <!-- SPOTIFY-END -->
