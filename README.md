@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732146ebd8109d5f5567b76f0f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273941dd3b3343d9cb9329d37bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)**
-*by* **Nosgov**
-*Album:* World
+**🎵 [Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c)**
+*by* **Zedd, Foxes**
+*Album:* Clarity
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:28 • 2:41
+    0:31 • 4:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
+🎤 **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
 🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
-🎤 **[Acknowledgement](https://open.spotify.com/track/2YNJ2wMRwl2L2cudMQ0B6N)** by **Modjo** *(Modjo (Remastered))*
+🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-10 15:12:27Z UTC
+🕐 Last updated: 2025-08-10 15:31:40Z UTC
 <!-- SPOTIFY-END -->
