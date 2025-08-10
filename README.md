@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1afa2f3c5d7a677fbb03ccb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sea of cloud](https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo)**
-*by* **Nujabes**
-*Album:* Modal Soul
+**🎵 [Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)**
+*by* **Actavis7_**
+*Album:* Far away
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 3:01
+    1:14 • 2:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Please Please Please Let Me Get What I Want - 2005 Remaster](https://open.spotify.com/track/3FbECTR21fmMDoMfYUq7ji)** by **Deftones** *(B-Sides & Rarities)*
-🎤 **[Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[Mann im Mond](https://open.spotify.com/track/5GurVxgkSSr6BivYjGmIvu)** by **humanangst** *(Lost in Translation)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
+🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
+🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
+🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-10 16:15:00Z UTC
+🕐 Last updated: 2025-08-10 16:41:12Z UTC
 <!-- SPOTIFY-END -->
