@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c15a4d33fd18e2cd4a961a30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)**
-*by* **Psyke**
-*Album:* djCEO66
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 1:53
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)*
 🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
 🎤 **[drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)** by **Lil Peep, Xavier Wulf** *(HELLBOY)*
 🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
 🎤 **[sister](https://open.spotify.com/track/7iBRnYx1CRQ1H6drgplfjR)** by **2hollis** *(boy)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-10 17:29:57Z UTC
+🕐 Last updated: 2025-08-10 17:42:19Z UTC
 <!-- SPOTIFY-END -->
