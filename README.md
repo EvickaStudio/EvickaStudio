@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c3d3495b41aade317209c9cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)**
+*by* **Seraphim**
+*Album:* PURGATORY
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:48 • 2:20
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
 🎤 **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)*
-🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
-🎤 **[drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)** by **Lil Peep, Xavier Wulf** *(HELLBOY)*
-🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
-🎤 **[sister](https://open.spotify.com/track/7iBRnYx1CRQ1H6drgplfjR)** by **2hollis** *(boy)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-10 17:49:50Z UTC
+🕐 Last updated: 2025-08-10 18:16:46Z UTC
 <!-- SPOTIFY-END -->
