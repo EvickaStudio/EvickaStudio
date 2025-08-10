@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3d3495b41aade317209c9cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)**
-*by* **Seraphim**
-*Album:* PURGATORY
+**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
+*by* **mint**
+*Album:* gold
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 2:20
+    0:42 • 3:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
-🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)*
+🎤 **[Lost](https://open.spotify.com/track/0ytmxOjS0L12GlEdGQJo37)** by **RONEN** *(Hidden)*
+🎤 **[Nachts wach](https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA)** by **Miksu / Macloud, makko** *(Nachts wach)*
+🎤 **[Was It Weird I Listened to Im God by Clams Casino,s When I Lost My Virginity](https://open.spotify.com/track/5T92IFQuMqrWbPlZLf6Utv)** by **DEADGHOSTBABY** *(Child Sacrifice)*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-10 18:16:46Z UTC
+🕐 Last updated: 2025-08-10 18:46:38Z UTC
 <!-- SPOTIFY-END -->
