@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
+🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
 🎤 **[Jigsaw Falling Into Place](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV)** by **Radiohead** *(In Rainbows)*
 🎤 **[Acknowledgement](https://open.spotify.com/track/2YNJ2wMRwl2L2cudMQ0B6N)** by **Modjo** *(Modjo (Remastered))*
 🎤 **[I'm God](https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh)** by **Lil B** *(6 Kiss)*
-🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
-🎤 **[sometimes](https://open.spotify.com/track/2HKROSMPefjkoubJlwKA4H)** by **BLOODiDOL** *(sometimes)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-10 07:47:25Z UTC
+🕐 Last updated: 2025-08-10 08:16:31Z UTC
 <!-- SPOTIFY-END -->
