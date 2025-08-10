@@ -137,8 +137,8 @@
 🥈 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 🥉 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
 🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
-🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
+🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-10 21:11:39Z UTC
+🕐 Last updated: 2025-08-10 21:29:22Z UTC
 <!-- SPOTIFY-END -->
