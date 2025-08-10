@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c15a4d33fd18e2cd4a961a30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)**
-*by* **Nokia Angel**
-*Album:* In Haze
+**🎵 [djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)**
+*by* **Psyke**
+*Album:* djCEO66
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="200" height="4" fill="#1db954" rx="2"/>
+    <circle cx="200" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 3:22
+    1:16 • 1:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
-🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Castles](https://open.spotify.com/track/2sfUCYCJ03AOtatqBmgxAx)** by **DJ_Dave** *(Castles)*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
+🎤 **[drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)** by **Lil Peep, Xavier Wulf** *(HELLBOY)*
+🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
+🎤 **[sister](https://open.spotify.com/track/7iBRnYx1CRQ1H6drgplfjR)** by **2hollis** *(boy)*
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**non zen darkness manuever**](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)
 
 
-🕐 Last updated: 2025-08-10 17:10:46Z UTC
+🕐 Last updated: 2025-08-10 17:29:57Z UTC
 <!-- SPOTIFY-END -->
