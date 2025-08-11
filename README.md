@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738ef2562a1156ea6766e00ecb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273229b511799188e23773629f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I LUV IT (feat. Playboi Carti)](https://open.spotify.com/track/3WY21ibZasLGJE1U6Apmzj)**
-*by* **Camila Cabello, Playboi Carti**
-*Album:* C,XOXO
+**🎵 [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)**
+*by* **Route 94, Jess Glynne**
+*Album:* My Love
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:47 • 2:54
+    2:37 • 4:19
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)*
-🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
-🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
-🎤 **[And The Parasite Speaks](https://open.spotify.com/track/5i6Eh6QM8GsOLHZRnQiXRe)** by **Felix Lee, Ecco2k** *(Skullstepper)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
+🎤 **[In the Name of Love](https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S)** by **Martin Garrix, Bebe Rexha** *(In the Name of Love)*
+🎤 **[Tether (Eric Prydz Vs. CHVRCHES) - Radio Edit](https://open.spotify.com/track/7JN9mnz4OPVivc9AF0FLAJ)** by **Eric Prydz, CHVRCHES** *(Tether (Eric Prydz Vs. CHVRCHES) [Radio Edit])*
+🎤 **[i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ)** by **meat computer** *(i feel like a dog)*
+🎤 **[skin](https://open.spotify.com/track/1wC8t71wlArDddHbpYedi9)** by **anna luna** *(skin)*
+🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🥉 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 🏅 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 20:50:15Z UTC
+🕐 Last updated: 2025-08-11 21:12:44Z UTC
 <!-- SPOTIFY-END -->
