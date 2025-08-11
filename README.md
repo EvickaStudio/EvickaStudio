@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c56a857a1e66e92c2edae96" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e767fb456c65f6dabbd47ed7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)**
-*by* **Dj Billybool, Eurohead, Bladee**
-*Album:* DYR
+**🎵 [Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)**
+*by* **uusymon, hqwilli, sparr00w**
+*Album:* Kuschel EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="105" height="4" fill="#1db954" rx="2"/>
-    <circle cx="105" cy="2" r="6" fill="#1db954"/>
+    <rect width="173" height="4" fill="#1db954" rx="2"/>
+    <circle cx="173" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 2:35
+    1:20 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV)** by **M83** *(Hurry up, We're Dreaming)*
-🎤 **[Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX)** by **Lonely God** *(Marlboro Nights)*
-🎤 **[99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)** by **Shoota Tori, Bon Aquâ** *(99-01)*
-🎤 **[Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI)** by **VØJ, Narvent** *(Memory Reboot)*
-🎤 **[Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)** by **Kanye West, Kid Cudi, Raekwon** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)*
+🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
+🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 17:36:38Z UTC
+🕐 Last updated: 2025-08-11 17:51:48Z UTC
 <!-- SPOTIFY-END -->
