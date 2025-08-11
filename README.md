@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd078d2eb49deaced9a7d5ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
+**🎵 [825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)**
+*by* **Exodia**
+*Album:* 825 hp
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="182" height="4" fill="#1db954" rx="2"/>
-    <circle cx="182" cy="2" r="6" fill="#1db954"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 2:54
+    0:22 • 3:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)** by **Felix Bosques Harima** *(floods (outro))*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[Dior 2001](https://open.spotify.com/track/6WusSsncC0Oo9sFHKwQii6)** by **RIN** *(Planet Megatron)*
-🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
+🎤 **[Legends](https://open.spotify.com/track/1Knctxx9vGZxpZfF66BIEa)** by **Juice WRLD** *(Legends)*
+🎤 **[Hauseingang](https://open.spotify.com/track/3aLZ0s5ulFLcFCtIZQblpo)** by **Pashanim** *(Hauseingang)*
+🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
+🎤 **[Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP)** by **ThxSoMch** *(Keep It Tucked)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 13:11:51Z UTC
+🕐 Last updated: 2025-08-11 13:49:56Z UTC
 <!-- SPOTIFY-END -->
