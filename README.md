@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273434865d23c617bb7acba085a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)**
+*by* **mint**
+*Album:* time keeps flying by
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:47 • 2:02
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[TUTTO PASSA](https://open.spotify.com/track/46T0QQu9KfMrcBhfZbWknP)** by **3LNA, Bovskey** *(TUTTO PASSA)*
-🎤 **[DJ in Berlin (P.Vanillaboy Edit)](https://open.spotify.com/track/70W4ZdVWdPfDvOwAy9s1kv)** by **3LNA, P.Vanillaboy** *(DJ in Berlin)*
-🎤 **[61 heartbreaks](https://open.spotify.com/track/14d8Uezd7Kju6PWhdrUIrv)** by **3LNA** *(61 heartbreaks)*
-🎤 **[kann nicht schlafen (ich lieg wach)](https://open.spotify.com/track/0J7XFx01lrlEjrvXWDPz2x)** by **3LNA** *(kann nicht schlafen (ich lieg wach))*
-🎤 **[alles verlieren](https://open.spotify.com/track/5o0SGTDb2gcjj0xLj0LT19)** by **3LNA** *(alles verlieren)*
+🎤 **[Nice To Know Ya - Sped Up](https://open.spotify.com/track/2Jp4SHXHBDv9FLOQ4oB2Hb)** by **Sylendanna** *(Nice To Know Ya (Sped Up))*
+🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
+🎤 **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)*
+🎤 **[Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)** by **Hello Hannes** *(Hate Crime Against Myself)*
+🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 09:46:07Z UTC
+🕐 Last updated: 2025-08-11 10:15:05Z UTC
 <!-- SPOTIFY-END -->
