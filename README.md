@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273886986b0aab4dfa9027364e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ef2562a1156ea6766e00ecb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blew My High >:](https://open.spotify.com/track/1B1b0aaSp1mfNwSv5S7U9s)**
-*by* **DJmegan23**
-*Album:* Trenches
+**🎵 [I LUV IT (feat. Playboi Carti)](https://open.spotify.com/track/3WY21ibZasLGJE1U6Apmzj)**
+*by* **Camila Cabello, Playboi Carti**
+*Album:* C,XOXO
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="115" height="4" fill="#1db954" rx="2"/>
-    <circle cx="115" cy="2" r="6" fill="#1db954"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:31
+    2:47 • 2:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sold Out](https://open.spotify.com/track/0symmj4uSnBmiMblgJb5BZ)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
-🎤 **[rotten](https://open.spotify.com/track/7kzDHRsu3Aa0y5QzYa3uB9)** by **anna luna** *(rotten)*
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
+🎤 **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)*
+🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
+🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
+🎤 **[And The Parasite Speaks](https://open.spotify.com/track/5i6Eh6QM8GsOLHZRnQiXRe)** by **Felix Lee, Ecco2k** *(Skullstepper)*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 20:33:14Z UTC
+🕐 Last updated: 2025-08-11 20:50:15Z UTC
 <!-- SPOTIFY-END -->
