@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733110ac6b32c463f398a9e051" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273072e2599e77865ae194b8345" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Echolot](https://open.spotify.com/track/1cEQ6mryHemmstSgxJc13O)**
-*by* **Wir sind Helden**
-*Album:* Von hier an blind
+**🎵 [Pretend](https://open.spotify.com/track/0tGqk0HlYMQ16aj7yJwleF)**
+*by* **alex_g_offline**
+*Album:* 1234
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="131" height="4" fill="#1db954" rx="2"/>
-    <circle cx="131" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 4:31
+    0:48 • 5:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by **The Police** *(Reggatta De Blanc (Remastered 2003))*
-🎤 **[Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj)** by **The Beach Boys** *(Greatest Hits)*
-🎤 **[Various Types Of Ads](https://open.spotify.com/track/79VIJ0S4PAKXuvKpmfsBRD)** by **Rory in early 20s** *(Various Types Of Ads)*
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
-🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)*
+🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[CASTLE OF GLASS](https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5)** by **Linkin Park** *(LIVING THINGS)*
+🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 14:15:22Z UTC
+🕐 Last updated: 2025-08-11 14:45:55Z UTC
 <!-- SPOTIFY-END -->
