@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[TUTTO PASSA](https://open.spotify.com/track/46T0QQu9KfMrcBhfZbWknP)** by **3LNA, Bovskey** *(TUTTO PASSA)*
 🎤 **[DJ in Berlin (P.Vanillaboy Edit)](https://open.spotify.com/track/70W4ZdVWdPfDvOwAy9s1kv)** by **3LNA, P.Vanillaboy** *(DJ in Berlin)*
 🎤 **[61 heartbreaks](https://open.spotify.com/track/14d8Uezd7Kju6PWhdrUIrv)** by **3LNA** *(61 heartbreaks)*
 🎤 **[kann nicht schlafen (ich lieg wach)](https://open.spotify.com/track/0J7XFx01lrlEjrvXWDPz2x)** by **3LNA** *(kann nicht schlafen (ich lieg wach))*
 🎤 **[alles verlieren](https://open.spotify.com/track/5o0SGTDb2gcjj0xLj0LT19)** by **3LNA** *(alles verlieren)*
-🎤 **[Armani Top](https://open.spotify.com/track/2i7GyQmYg4VkMOd2RAqCy9)** by **3LNA, Longus Mongus** *(Armani Top)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 06:55:24Z UTC
+🕐 Last updated: 2025-08-11 07:19:39Z UTC
 <!-- SPOTIFY-END -->
