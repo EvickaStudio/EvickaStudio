@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e4786faa0c08f1e4b8102265" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c56a857a1e66e92c2edae96" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eiszeit](https://open.spotify.com/track/79cvTvPiRhJ6Ubrl3i6Ipy)**
-*by* **James Jetski**
-*Album:* Just Joking
+**🎵 [BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)**
+*by* **Dj Billybool, Eurohead, Bladee**
+*Album:* DYR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:13
+    0:54 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh)** by **Sports** *(Baby Baby)*
-🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
-🎤 **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo)** by **Lebanon Hanover** *(Tomb for Two)*
-🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i)** by **Fred again.., Swedish House Mafia, Future** *(Turn On The Lights again.. (feat. Future))*
+🎤 **[Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV)** by **M83** *(Hurry up, We're Dreaming)*
+🎤 **[Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX)** by **Lonely God** *(Marlboro Nights)*
+🎤 **[99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)** by **Shoota Tori, Bon Aquâ** *(99-01)*
+🎤 **[Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)** by **Kanye West, Kid Cudi, Raekwon** *(My Beautiful Dark Twisted Fantasy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 17:14:41Z UTC
+🕐 Last updated: 2025-08-11 17:36:38Z UTC
 <!-- SPOTIFY-END -->
