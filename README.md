@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273865e92ac710b28784ae8f5a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e4786faa0c08f1e4b8102265" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hubba Bubba](https://open.spotify.com/track/4h1Qse4KJxZ5fy2lbmT3sy)**
-*by* **Ski Aggu**
-*Album:* Hubba Bubba
+**🎵 [Eiszeit](https://open.spotify.com/track/79cvTvPiRhJ6Ubrl3i6Ipy)**
+*by* **James Jetski**
+*Album:* Just Joking
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 1:59
+    2:04 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)** by **Closed on Sunday** *(maul lofi ~ star wars)*
-🎤 **[Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)** by **Sewerslvt** *(Draining Love Story)*
-🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)*
-🎤 **[oxidized](https://open.spotify.com/track/1aOPnTT8VZIuYswvzzzfh8)** by **MAQ 22** *(Catch-22)*
+🎤 **[Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh)** by **Sports** *(Baby Baby)*
+🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
+🎤 **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)*
+🎤 **[Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo)** by **Lebanon Hanover** *(Tomb for Two)*
+🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i)** by **Fred again.., Swedish House Mafia, Future** *(Turn On The Lights again.. (feat. Future))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 16:49:39Z UTC
+🕐 Last updated: 2025-08-11 17:14:41Z UTC
 <!-- SPOTIFY-END -->
