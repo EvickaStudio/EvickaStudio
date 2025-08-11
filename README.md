@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273543533e92a8a336dee9e9bd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)**
-*by* **Yung Lean**
-*Album:* Stranger
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 3:34
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
 🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 🎤 **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)*
 🎤 **[Breakn' A Sweat - Zedd Remix](https://open.spotify.com/track/4GubwVNqQLCtoqMz2LeQbu)** by **Skrillex, The Doors, Zedd** *(Clarity (Deluxe))*
 🎤 **[Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU)** by **DJ Snake, Justin Bieber** *(Encore)*
-🎤 **[My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU)** by **Route 94, Jess Glynne** *(My Love)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 21:29:19Z UTC
+🕐 Last updated: 2025-08-11 21:41:01Z UTC
 <!-- SPOTIFY-END -->
