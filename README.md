@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e767fb456c65f6dabbd47ed7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)**
-*by* **uusymon, hqwilli, sparr00w**
-*Album:* Kuschel EP
+**🎵 [Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)**
+*by* **Ecco2k**
+*Album:* E
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:18
+    2:50 • 3:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
-🎤 **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
+🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
+🎤 **[...And So It Was](https://open.spotify.com/track/5P45rIpV682KkvtZjZtuwB)** by **$uicideboy$, Black Smurf** *(Black $uicide)*
+🎤 **[Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy)** by **Beach House** *(7)*
+🎤 **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-11 17:51:48Z UTC
+🕐 Last updated: 2025-08-11 18:19:48Z UTC
 <!-- SPOTIFY-END -->
