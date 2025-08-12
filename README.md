@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ed02c2537c4c00de58fa415" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f8ca9c4a3d400e89ca86bf56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)**
-*by* **Eera**
-*Album:* Cant Stop Wasting Time
+**🎵 [EVERYDOG HAS ITS DAY](https://open.spotify.com/track/3rLuup3EQbo8Tr6IBg0Dmc)**
+*by* **glaive**
+*Album:* May It Never Falter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="247" height="4" fill="#1db954" rx="2"/>
-    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+    <rect width="269" height="4" fill="#1db954" rx="2"/>
+    <circle cx="269" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 2:33
+    1:58 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
-🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
+🎤 **[GREY+GREY+GREY](https://open.spotify.com/track/7wEs4bYaStkU6SsLZWaXH0)** by **$uicideboy$** *(THY KINGDOM COME)*
+🎤 **[3xstern](https://open.spotify.com/track/16ovdkoG6eeYhygh7S0GAN)** by **cinnemane** *(3xstern)*
+🎤 **[DNA](https://open.spotify.com/track/3WTcZ8EB9ZcVKBTrLVm4Vc)** by **S1RENA** *(DNA)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[the way.](https://open.spotify.com/track/5XHGR0s53JN283A5ncUIyj)** by **wiv** *(the way.)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 19:47:48Z UTC
+🕐 Last updated: 2025-08-12 20:14:47Z UTC
 <!-- SPOTIFY-END -->
