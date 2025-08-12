@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332061a41dbe77a6a41647017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Serenity](https://open.spotify.com/track/32NtiG9IUQ8kxHpCAHJ2Nw)**
+**🎵 [Foggy Morning](https://open.spotify.com/track/4s2rLlLjmt647RM1bcEv0h)**
 *by* **Soothing Oasis**
-*Album:* Peace of Mind
+*Album:* Foggy Morning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:00
+    1:33 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hidden Horizon](https://open.spotify.com/track/1yR3ASjY1RsW3Xq9dztbRc)** by **Avery's Ambient** *(In the Distance)*
-🎤 **[Starlit Skies](https://open.spotify.com/track/132lUl0EQmSoFP6eru6FhG)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Daydreaming](https://open.spotify.com/track/6x9iNwCvyh5XWR1SB2JBLF)** by **Avery's Ambient** *(A New Day)*
-🎤 **[Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Velvet Skies](https://open.spotify.com/track/2hC7SLiEbxkhYJxbzaK7HK)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Drifting on Clouds](https://open.spotify.com/track/5k2FIyYhnaUQLAnCEXLRFp)** by **Soothing Oasis** *(Sleeping Earth)*
+🎤 **[Beneath the Sky](https://open.spotify.com/track/3EIkxp2iDXY8zSvUF6zgtM)** by **Soothing Oasis** *(Beneath the Sky)*
+🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Experience](https://open.spotify.com/track/7dqAiIUUHj3aNk7KfZkXQL)** by **Soothing Oasis** *(Dreaming)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 22:33:52Z UTC
+🕐 Last updated: 2025-08-12 22:49:56Z UTC
 <!-- SPOTIFY-END -->
