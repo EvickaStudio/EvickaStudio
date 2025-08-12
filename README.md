@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d7f4f1ba272607b397ced5ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lucid](https://open.spotify.com/track/0zZvsoQV3gEfOuCHf2OzxL)**
+**🎵 [Serenity](https://open.spotify.com/track/32NtiG9IUQ8kxHpCAHJ2Nw)**
 *by* **Soothing Oasis**
-*Album:* Dreaming
+*Album:* Peace of Mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="86" height="4" fill="#1db954" rx="2"/>
+    <circle cx="86" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:04
+    0:34 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Warmth](https://open.spotify.com/track/11Zf57uWFO946gEDshN4GI)** by **Soothing Oasis** *(Embraced)*
-🎤 **[Instant](https://open.spotify.com/track/16B0D7lwlU5X3sVtqnkNQ8)** by **Soothing Oasis** *(Moments)*
-🎤 **[Breath of Skies](https://open.spotify.com/track/6pZYpVoSiQcg7bg8x73pzX)** by **Soothing Oasis** *(Weightless)*
-🎤 **[Breathing Forest](https://open.spotify.com/track/1RYVfuHGrqEbpAHhQDDr3b)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Hidden Horizon](https://open.spotify.com/track/1yR3ASjY1RsW3Xq9dztbRc)** by **Avery's Ambient** *(In the Distance)*
+🎤 **[Starlit Skies](https://open.spotify.com/track/132lUl0EQmSoFP6eru6FhG)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Daydreaming](https://open.spotify.com/track/6x9iNwCvyh5XWR1SB2JBLF)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)** by **Soothing Oasis** *(Weightless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 22:12:09Z UTC
+🕐 Last updated: 2025-08-12 22:33:52Z UTC
 <!-- SPOTIFY-END -->
