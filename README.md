@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dd16d30106d252c8e0fa22c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d55a59436d62beff364b699" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fallen](https://open.spotify.com/track/65qo8OLrleFH5bUOsDxRUo)**
-*by* **GAST**
-*Album:* fallen
+**🎵 ["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)**
+*by* **Edwin Rosen**
+*Album:* "1119"
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="204" height="4" fill="#1db954" rx="2"/>
-    <circle cx="204" cy="2" r="6" fill="#1db954"/>
+    <rect width="199" height="4" fill="#1db954" rx="2"/>
+    <circle cx="199" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:52 • 4:13
+    1:52 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wach in der Nacht](https://open.spotify.com/track/304dtKQYIeayFTXx050nIF)** by **Pavelo & Schnell** *(Volumen & Kraft)*
-🎤 **[Keine Zeit](https://open.spotify.com/track/4y8vjbTVGjXV8nJnOTTXKk)** by **strangerperson** *(Keine Zeit)*
-🎤 **[fahr uns bitte weit](https://open.spotify.com/track/1wW7d2zxXaHb89tGFzvrjx)** by **ghostboo** *(fahr uns bitte weit)*
-🎤 **[renn mit mir](https://open.spotify.com/track/7iHVqROrdlrIECPu5hlFEr)** by **herz., Vince** *(renn mit mir)*
-🎤 **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
+🎤 **[Kollision](https://open.spotify.com/track/27F1O3FGUIJiQck9pprhJa)** by **Pavelo & Schnell, Poyson** *(Volumen & Kraft)*
+🎤 **[Ohne Plan](https://open.spotify.com/track/1uZkRjDtBl8uU5W5lWZ4M3)** by **strangerperson** *(Ohne Plan)*
+🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
+🎤 **[Viertel nach Vier Pt.2](https://open.spotify.com/track/6lwJC0Ds7KrfjKFKVXGN8Y)** by **lauenburg** *(Viertel nach Vier)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 15:51:47Z UTC
+🕐 Last updated: 2025-08-12 16:16:56Z UTC
 <!-- SPOTIFY-END -->
