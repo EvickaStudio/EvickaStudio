@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27312c322465dfe1d52df4dc746" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed189f9605e2b6b18a0348c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Engelstränen](https://open.spotify.com/track/2TQ08eAvkgWu4PQ80eRf7m)**
-*by* **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa**
-*Album:* 99 in dein Herz
+**🎵 [blaulicht und sirenen](https://open.spotify.com/track/4LTe7q3n3Ws35obMsXc3RG)**
+*by* **Saiya Tiaw**
+*Album:* tränen von dir
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="78" height="4" fill="#1db954" rx="2"/>
-    <circle cx="78" cy="2" r="6" fill="#1db954"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 1:36
+    0:20 • 1:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[</3](https://open.spotify.com/track/492kUcDSKbmusWEtXMH0jV)** by **Saiya Tiaw** *(</3)*
+🎤 **[130 Kmh](https://open.spotify.com/track/5Ow7pPEUXnBPzExUoYYOAI)** by **Saiya Tiaw** *(Kein Wunderland)*
+🎤 **[Engelstränen](https://open.spotify.com/track/2TQ08eAvkgWu4PQ80eRf7m)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
 🎤 **[Weine unter Sternen](https://open.spotify.com/track/0vJDo6PGtODJzF8Fu7z9tt)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
 🎤 **[99 in Flammen](https://open.spotify.com/track/21LoDVx8Gx6u48UZcqr8VV)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
-🎤 **[Wirf mich doch in das Feuer](https://open.spotify.com/track/1N94vFYPRIDOpMT3M1bg5k)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
-🎤 **[STIEGENHAUS](https://open.spotify.com/track/3NOXmPtzHA7a7VMwVXYS8B)** by **Saiya Tiaw** *(BETON)*
-🎤 **[wieso tust du mir weh](https://open.spotify.com/track/4F89fySO5P0fdpEX2Uwy1T)** by **Saiya Tiaw** *(tränen von dir)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 11:39:32Z UTC
+🕐 Last updated: 2025-08-12 11:47:41Z UTC
 <!-- SPOTIFY-END -->
