@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d7f4f1ba272607b397ced5ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [No More Stress](https://open.spotify.com/track/1ltmHkFkxtvrm0hOTKXrs8)**
+**🎵 [Lucid](https://open.spotify.com/track/0zZvsoQV3gEfOuCHf2OzxL)**
 *by* **Soothing Oasis**
-*Album:* Peace of Mind
+*Album:* Dreaming
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 2:13
+    0:15 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Distant](https://open.spotify.com/track/75Lf4sQXCzJAsKIyKQNB2L)** by **Avery's Ambient** *(In the Distance)*
-🎤 **[At Peace](https://open.spotify.com/track/4A4imy8iJK7wZ5ug1Ivff3)** by **Soothing Oasis** *(At Peace)*
-🎤 **[Rashomon effect](https://open.spotify.com/track/029PYDY78KpCy25men6czy)** by **ozma coma, Sgarz** *(Rashomon effect)*
-🎤 **[Die by Fire](https://open.spotify.com/track/59jibZuJQG1rkWTkCKkn6F)** by **David Shawty** *(Die by Fire)*
-🎤 **[swivel](https://open.spotify.com/track/77Vd9HmU9v2lSbKC8pkCvt)** by **tosaku** *(devour)*
+🎤 **[Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Warmth](https://open.spotify.com/track/11Zf57uWFO946gEDshN4GI)** by **Soothing Oasis** *(Embraced)*
+🎤 **[Instant](https://open.spotify.com/track/16B0D7lwlU5X3sVtqnkNQ8)** by **Soothing Oasis** *(Moments)*
+🎤 **[Breath of Skies](https://open.spotify.com/track/6pZYpVoSiQcg7bg8x73pzX)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Breathing Forest](https://open.spotify.com/track/1RYVfuHGrqEbpAHhQDDr3b)** by **Soothing Oasis** *(Breathing Forest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 21:48:03Z UTC
+🕐 Last updated: 2025-08-12 22:12:09Z UTC
 <!-- SPOTIFY-END -->
