@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce0e20fe66a437cc2d82c570" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d3191928aa3c06cfb0035d84" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)**
-*by* **Steintor Herrenchor**
-*Album:* wohin
+**🎵 [keiner hier wartet](https://open.spotify.com/track/00w80R8ZEHhX7jzIzvOoo6)**
+*by* **shuco, robeltobel**
+*Album:* keiner hier wartet
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="189" height="4" fill="#1db954" rx="2"/>
+    <circle cx="189" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 3:27
+    2:22 • 3:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)** by **Leocardo DiNaprio, emi x** *(bis es tag wird)*
-🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
-🎤 **[Melancholie](https://open.spotify.com/track/2Fm1hz750M8JhAmELP95yd)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[Zu spät](https://open.spotify.com/track/3pv9iLAsBn8Vq0NNobalZZ)** by **lauenburg** *(Zu spät)*
-🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[Bunt/Schwarz](https://open.spotify.com/track/2nZsZDULfrqCjIRAO34vSg)** by **NILS KEPPEL** *(Immer im Rauch)*
+🎤 **[Viertel nach Vier Pt.1](https://open.spotify.com/track/6INO4G3yoepCDu1HMzwHEz)** by **lauenburg** *(Viertel nach Vier)*
+🎤 **[der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)** by **RYLO** *(der plattenspieler kratzt)*
+🎤 **[Spät](https://open.spotify.com/track/7KWXTbGSehCiFbZLtqfSUh)** by **diggidaniel** *(Spät)*
+🎤 **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by **Steintor Herrenchor** *(wohin)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 14:36:58Z UTC
+🕐 Last updated: 2025-08-12 14:53:14Z UTC
 <!-- SPOTIFY-END -->
