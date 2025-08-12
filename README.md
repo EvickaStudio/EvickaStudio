@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27304ab6ae778994959dbc3a694" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d8858b611d0ca8ffb52fa6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)**
-*by* **Eera**
-*Album:* Not Now
+**🎵 [without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)**
+*by* **meat computer**
+*Album:* without you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 3:30
+    1:43 • 1:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
 🎤 **[Red Sun](https://open.spotify.com/track/6oveYXy8E4ouDgDT7JkdIv)** by **SERAPHINE NOIR, Ash Lee** *(Red Sun)*
-🎤 **[Morning](https://open.spotify.com/track/61TIb8WIzpUV71mXAgMrHZ)** by **Azymuth** *(Azimuth (Re-Mastered Deluxe Edition))*
-🎤 **[Easy Lovers - Alternate Take](https://open.spotify.com/track/17wn00VCpnwY2GVIiLyXdD)** by **Piero Piccioni** *(Camille 2000 (Original Motion Picture Soundtrack))*
-🎤 **[Troupeau bleu](https://open.spotify.com/track/2DTHWr5NK1igQZxctpYTA9)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Mary et Jeff](https://open.spotify.com/track/0ztpWjYYFWQaw5DnPDIYkl)** by **Cortex** *(Troupeau bleu)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 19:26:31Z UTC
+🕐 Last updated: 2025-08-12 19:36:28Z UTC
 <!-- SPOTIFY-END -->
