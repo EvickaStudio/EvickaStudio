@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730dcec2fa5bbc819704556a2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730894733c00d108333c26d7ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)**
-*by* **EASY EASY, Leocardo DiNaprio**
-*Album:* helios
+**🎵 [wenn der himmel nicht mehr blau ist](https://open.spotify.com/track/353M9lOui0IXgNyLQQEK0P)**
+*by* **DANZINGER 99**
+*Album:* aber immer noch besser als in dieser welt in der ich wach bin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 3:41
+    0:43 • 2:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[strassenzügelichterketten](https://open.spotify.com/track/2xOnvMpJu2klPqlfQ87YK4)** by **GAST** *(GAST)*
-🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
-🎤 **[Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)** by **diggidaniel** *(Hilflos vor dir)*
-🎤 **[Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)** by **Traumatin** *(Genug)*
-🎤 **[Irgendwann](https://open.spotify.com/track/3LHdKh7E2Q5tw7plj1EtlL)** by **Pavelo & Schnell** *(Volumen & Kraft)*
+🎤 **[september](https://open.spotify.com/track/1Ai5OxOGvqBNS3tmSxS27d)** by **dissy** *(bugtape)*
+🎤 **[Eternal Winter Nye](https://open.spotify.com/track/23q9oTEI2m3mePpIFdubxv)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Nicki Papa, Saiya Tiaw** *(Eternal Winter Nye)*
+🎤 **[pain in my brain](https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
+🎤 **[Rückkehr](https://open.spotify.com/track/5F0VCPEpO78iL9TVpFWueb)** by **strangerperson** *(Rückkehr)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 13:45:14Z UTC
+🕐 Last updated: 2025-08-12 14:13:27Z UTC
 <!-- SPOTIFY-END -->
