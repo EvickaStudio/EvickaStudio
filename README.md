@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Drifting Leaves](https://open.spotify.com/track/1G4jILZWiClmzAe8QUV7k0)**
+**🎵 [Fading Horizons](https://open.spotify.com/track/0J2zV2oaFbuxcScNiJ3pTP)**
 *by* **Soothing Oasis**
-*Album:* Riverside
+*Album:* As Dusk Falls
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:14
+    2:02 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Zen](https://open.spotify.com/track/00w36KjjTPvpO9zb4CuIHo)** by **Avery's Ambient** *(A New Day)*
-🎤 **[Altitude](https://open.spotify.com/track/5RssXVfknLYOMlCjncVFxF)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Moonrise](https://open.spotify.com/track/38E3zPQLu15gcim6yL4vzg)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)** by **Avery's Ambient** *(Stillness)*
-🎤 **[Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Closed Eyes](https://open.spotify.com/track/3byiUKyWI11f6fzB4Gp9HC)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Warmth](https://open.spotify.com/track/11Zf57uWFO946gEDshN4GI)** by **Soothing Oasis** *(Embraced)*
+🎤 **[Acceptance](https://open.spotify.com/track/7vOjjGTGgV7vO5IfwJ2sHL)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[A New Day](https://open.spotify.com/track/5b4yr0AdyVcFIYKln7JIIB)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Light](https://open.spotify.com/track/2GpZBrPkHpmEiXDSOy9eTi)** by **Avery's Ambient** *(A New Day)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 04:57:10Z UTC
+🕐 Last updated: 2025-08-12 05:17:16Z UTC
 <!-- SPOTIFY-END -->
