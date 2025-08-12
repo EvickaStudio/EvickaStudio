@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27340826f7f09fd4355f948e91b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730dcec2fa5bbc819704556a2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY)**
-*by* **Flawless Issues**
-*Album:* Alone Tonight
+**🎵 [helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)**
+*by* **EASY EASY, Leocardo DiNaprio**
+*Album:* helios
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+    <rect width="219" height="4" fill="#1db954" rx="2"/>
+    <circle cx="219" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:37
+    2:41 • 3:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Schlüssel im Schnee](https://open.spotify.com/track/5ODB96R32uiY66bh6KEr6Q)** by **nobis** *(Schlüssel im Schnee)*
-🎤 **[<3 aus <3 (SLOWED)](https://open.spotify.com/track/4LUV2MuOV9ubTqdMWLB5Rz)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
-🎤 **[Allein mit mir](https://open.spotify.com/track/4xUG1S7k0nxG1RSmnkXXJg)** by **MilleniumKid, Dropped here** *(Arrhythmie)*
-🎤 **[Wieder gut](https://open.spotify.com/track/2iswi2ayohjT0cCdui9k8N)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[strassenzügelichterketten](https://open.spotify.com/track/2xOnvMpJu2klPqlfQ87YK4)** by **GAST** *(GAST)*
+🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
+🎤 **[Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)** by **diggidaniel** *(Hilflos vor dir)*
+🎤 **[Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)** by **Traumatin** *(Genug)*
+🎤 **[Irgendwann](https://open.spotify.com/track/3LHdKh7E2Q5tw7plj1EtlL)** by **Pavelo & Schnell** *(Volumen & Kraft)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 13:08:08Z UTC
+🕐 Last updated: 2025-08-12 13:45:14Z UTC
 <!-- SPOTIFY-END -->
