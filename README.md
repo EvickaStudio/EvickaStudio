@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c656f3fa869a7d5f75c3c8ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Calm](https://open.spotify.com/track/79QkpuDIB97QZXa01LpN85)**
+*by* **Avery's Ambient**
+*Album:* In The Clouds
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:26 • 2:06
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)*
-🎤 **[Breakn' A Sweat - Zedd Remix](https://open.spotify.com/track/4GubwVNqQLCtoqMz2LeQbu)** by **Skrillex, The Doors, Zedd** *(Clarity (Deluxe))*
-🎤 **[Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU)** by **DJ Snake, Justin Bieber** *(Encore)*
+🎤 **[Beneath the Sky](https://open.spotify.com/track/3EIkxp2iDXY8zSvUF6zgtM)** by **Soothing Oasis** *(Beneath the Sky)*
+🎤 **[Peace of Mind](https://open.spotify.com/track/4sjiDNmvb0l63hvsHkOSZz)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Clouded](https://open.spotify.com/track/7H8kUdYfuP3eP5fvSV5FXl)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Lotus](https://open.spotify.com/track/7CIhDOL9MgrVOTCL19Kk3H)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Night](https://open.spotify.com/track/3U7hItdxazrwnesUBPFruR)** by **Soothing Oasis** *(Starry Night)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 01:02:27Z UTC
+🕐 Last updated: 2025-08-12 02:54:06Z UTC
 <!-- SPOTIFY-END -->
