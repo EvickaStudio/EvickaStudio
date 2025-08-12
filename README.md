@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739c3f8f0e2a4c37802081c5b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Wenn Es Nacht Ist](https://open.spotify.com/track/0fUWPyhOw2zt3thXyEP3U9)**
+*by* **Saiya Tiaw**
+*Album:* Kein Wunderland
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:51 • 2:11
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[rave](https://open.spotify.com/track/6j1EmlyByUmp3Xu5B3r17a)** by **Saiya Tiaw** *(rave)*
+🎤 **[rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN)** by **Saiya Tiaw** *(tränen von dir)*
+🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
 🎤 **[stich](https://open.spotify.com/track/77Z2XSV3JjCV6iZpcSjRJp)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
 🎤 **[alles fühlt sich an wie fallen](https://open.spotify.com/track/36upifGwmteNfUlnsSldLc)** by **Wavylady** *(alles fühlt sich an wie fallen)*
-🎤 **[Wenn Du Willst <3](https://open.spotify.com/track/2ApPEQPsBCyI07uH1dzmkU)** by **babyhauro, Tr1esch** *(Wenn Du Willst <3)*
-🎤 **[Treibsand](https://open.spotify.com/track/6Azg9M7jjz8HjB6hTojmSO)** by **Loco Candy** *(Treibsand (Deluxe))*
-🎤 **[ohne waffe](https://open.spotify.com/track/1N0YclUvQcPbIneE51cah2)** by **b3nn3t** *(ohne waffe)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 10:52:39Z UTC
+🕐 Last updated: 2025-08-12 11:11:42Z UTC
 <!-- SPOTIFY-END -->
