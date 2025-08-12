@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273feedc1df2bbad518c45ab083" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c7473d00e382021e003a5a35" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Drifting Clouds](https://open.spotify.com/track/7wfH95WA75hMvKLhDWftHZ)**
-*by* **Soothing Oasis**
-*Album:* Ancient Stars
+**🎵 [Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)**
+*by* **Avery's Ambient**
+*Album:* Midnight Waves
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:08
+    1:42 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Starling's Song](https://open.spotify.com/track/1dJJkUvWa4JCgdpoURkWau)** by **Avery's Ambient** *(Everglow)*
-🎤 **[Moonlit](https://open.spotify.com/track/1v2mGJdOQlt1ejLrHZu06k)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)** by **Soothing Oasis** *(Sleep Well)*
-🎤 **[Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)** by **Soothing Oasis** *(Evening)*
-🎤 **[Midnight Waves](https://open.spotify.com/track/79buRxInOY9D7YQINtFAtr)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Velvet Skies](https://open.spotify.com/track/2hC7SLiEbxkhYJxbzaK7HK)** by **Avery's Ambient** *(Everglow)*
+🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)** by **Avery's Ambient** *(Stillness)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 03:44:58Z UTC
+🕐 Last updated: 2025-08-12 04:15:04Z UTC
 <!-- SPOTIFY-END -->
