@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27305ee6d4378009999c4ecf5c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a8b896743fb4053714e2a27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)**
-*by* **bliiiss**
-*Album:* worthit
+**🎵 [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED)**
+*by* **Superheaven**
+*Album:* Ours Is Chrome
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:32
+    0:11 • 4:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
-🎤 **[Tendenz steigend](https://open.spotify.com/track/1cdthhd62WrDW1Y4Sf78Er)** by **AMANDUS 99, DANZINGER 99** *(Tendenz steigend)*
-🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
-🎤 **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by **Steintor Herrenchor** *(Luisa)*
+🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
+🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
+🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
+🎤 **[Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5)** by **Deftones** *(Koi No Yokan)*
+🎤 **[ur touch](https://open.spotify.com/track/0HFaxxzW4Umby5k5FJkcj0)** by **joss lockwood** *(ur touch)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 21:12:20Z UTC
+🕐 Last updated: 2025-08-12 21:30:31Z UTC
 <!-- SPOTIFY-END -->
