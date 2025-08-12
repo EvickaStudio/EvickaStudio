@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b6d757ddac963c332ea50f2d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27347a51205061053303846cb79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sadness Theme](https://open.spotify.com/track/1deOV8lDnZ6u4TpBqOYYUV)**
-*by* **Franco Micalizzi**
-*Album:* Stridulum - The Visitor (Original Motion Picture Soundtrack)
+**🎵 [Troupeau bleu](https://open.spotify.com/track/2DTHWr5NK1igQZxctpYTA9)**
+*by* **Cortex**
+*Album:* Troupeau bleu
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 3:29
+    1:04 • 5:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Carmen Blues](https://open.spotify.com/track/6fXTqYvoguyHsWbYYfO3FS)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
-🎤 **[Elevator Vibes](https://open.spotify.com/track/08toLeqUTQsJAB2SFL6m43)** by **The Brothers Nylon** *(Lab Rats)*
-🎤 **[Nicole](https://open.spotify.com/track/17YQ1wOycul3imdEC7yuvh)** by **Enrico Intra, E.Intra** *(Nicole)*
-🎤 **[A Winning Team](https://open.spotify.com/track/0xWK8T2MsDk5uHQT4raGIJ)** by **Cortex** *(Inedit 79)*
-🎤 **[Samoa](https://open.spotify.com/track/5bECtLHt4A5a7kEYK6gh0b)** by **Alberto Baldan Bembo** *(Lingua d'argento)*
+🎤 **[Mary et Jeff](https://open.spotify.com/track/0ztpWjYYFWQaw5DnPDIYkl)** by **Cortex** *(Troupeau bleu)*
+🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
+🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
+🎤 **[Aspetto ancora un giorno](https://open.spotify.com/track/3Qyz5OhjUzQFnjawpdrB1O)** by **Piero Piccioni** *(Quelle strane occasioni)*
+🎤 **[Efficace Swing](https://open.spotify.com/track/4RduagyN6mPKY5h81Gzb8P)** by **Cortex** *(Cortex, Vol. 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 18:50:32Z UTC
+🕐 Last updated: 2025-08-12 19:10:54Z UTC
 <!-- SPOTIFY-END -->
