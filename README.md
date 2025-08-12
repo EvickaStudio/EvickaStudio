@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319112975fac887f75c0b095b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27317c654a194f193221964ec1a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Swingin' Spathiphyllums](https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG)**
-*by* **Mort Garson**
-*Album:* Mother Earth's Plantasia
+**🎵 [Luna, amore e no](https://open.spotify.com/track/1LlQI0PyVcf9iiDPbSLxFp)**
+*by* **Piero Piccioni**
+*Album:* Amore mio aiutami (Original Motion Picture Soundtrack)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+    <rect width="167" height="4" fill="#1db954" rx="2"/>
+    <circle cx="167" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:58
+    1:08 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[One For The Wandering Mind](https://open.spotify.com/track/1wHb8rCwq3Rrqq3bmBEleH)** by **Dorian Concept** *(The Jitters)*
-🎤 **[The Breeze and I](https://open.spotify.com/track/3xCjjJupMl5TD6LbsFAbk3)** by **Laurindo Almeida** *(Classical Current)*
-🎤 **[Linda](https://open.spotify.com/track/6zE2xJvFmHEPECsvLki2CE)** by **Alberto Baldan Bembo** *(L'amica di mia madre (Colonna sonora originale del film))*
-🎤 **[All Caps](https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP)** by **SERAPHINE NOIR, Alexandra Rotmann** *(All Caps)*
-🎤 **[Ricordandoti](https://open.spotify.com/track/4acYM2ql5qiU7yXtz9KM1n)** by **Piero Umiliani** *(La ragazza dalla pelle di luna)*
+🎤 **[Ostavi trag](https://open.spotify.com/track/65zw2RY8Qp0JJDcQNSejNY)** by **September** *(Zadnja avantura)*
+🎤 **[Letters to Jun(E)](https://open.spotify.com/track/4wG1OI56aIbNlvQcI2P8VA)** by **Witness** *(Hope Springs Eternal)*
+🎤 **[Mahè](https://open.spotify.com/track/29eLonNk3JNVWqu58cr7rq)** by **Piero Umiliani** *(La ragazza dalla pelle di luna)*
+🎤 **[The Word 2](https://open.spotify.com/track/1Lioa0er3gSDauLn76V2he)** by **SHIGEO SEKITO, Masamichi Torii** *(Special Sound Selection: The Word)*
+🎤 **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 17:50:59Z UTC
+🕐 Last updated: 2025-08-12 18:19:55Z UTC
 <!-- SPOTIFY-END -->
