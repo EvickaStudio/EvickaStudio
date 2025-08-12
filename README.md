@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d877492cf50f8f510867526" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27312c322465dfe1d52df4dc746" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ZU DEN HUNDEN](https://open.spotify.com/track/7nwJciynBkmT0rct6ulm1q)**
-*by* **Saiya Tiaw**
-*Album:* BETON
+**🎵 [Engelstränen](https://open.spotify.com/track/2TQ08eAvkgWu4PQ80eRf7m)**
+*by* **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa**
+*Album:* 99 in dein Herz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="2" height="4" fill="#1db954" rx="2"/>
-    <circle cx="2" cy="2" r="6" fill="#1db954"/>
+    <rect width="78" height="4" fill="#1db954" rx="2"/>
+    <circle cx="78" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:00 • 1:38
+    0:25 • 1:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[HERZ](https://open.spotify.com/track/63sSsajLC8JA1yGV0p3LxG)** by **Saiya Tiaw** *(BETON)*
-🎤 **[Frost](https://open.spotify.com/track/1pvt6gvsjkaX77Fql0ctMu)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
-🎤 **[rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN)** by **Saiya Tiaw** *(tränen von dir)*
-🎤 **[Frost](https://open.spotify.com/track/1pvt6gvsjkaX77Fql0ctMu)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
-🎤 **[INNENHOF](https://open.spotify.com/track/1HoOvbp4GkOoe3kHNFvbKL)** by **Saiya Tiaw** *(BETON)*
+🎤 **[Weine unter Sternen](https://open.spotify.com/track/0vJDo6PGtODJzF8Fu7z9tt)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
+🎤 **[99 in Flammen](https://open.spotify.com/track/21LoDVx8Gx6u48UZcqr8VV)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
+🎤 **[Wirf mich doch in das Feuer](https://open.spotify.com/track/1N94vFYPRIDOpMT3M1bg5k)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
+🎤 **[STIEGENHAUS](https://open.spotify.com/track/3NOXmPtzHA7a7VMwVXYS8B)** by **Saiya Tiaw** *(BETON)*
+🎤 **[wieso tust du mir weh](https://open.spotify.com/track/4F89fySO5P0fdpEX2Uwy1T)** by **Saiya Tiaw** *(tränen von dir)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 11:28:08Z UTC
+🕐 Last updated: 2025-08-12 11:39:32Z UTC
 <!-- SPOTIFY-END -->
