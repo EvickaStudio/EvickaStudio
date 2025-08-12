@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273959fced1604a9ba0ab6ea491" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)**
-*by* **sparr00w**
-*Album:* Nadja
+**🎵 [Spiegelbild](https://open.spotify.com/track/3oOn3cLdfPh0IQ6jkAD8HR)**
+*by* **Saint Purple**
+*Album:* Spiegelbild
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="286" height="4" fill="#1db954" rx="2"/>
+    <circle cx="286" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 2:16
+    3:01 • 3:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Psp](https://open.spotify.com/track/3FWcT0xVHe5ticfocZt7CS)** by **SWEETBOYBLONDEY, LUDWIG** *(Psp)*
-🎤 **[MACH DAS NICHT](https://open.spotify.com/track/5MiFwKwrc7gO5Yrzusa3Xp)** by **Flippa, KAYYYA** *(MACH DAS NICHT)*
-🎤 **[immer wenn wir streiten](https://open.spotify.com/track/34jjC2DQD5kgOkYt2pmwDu)** by **TELESHOP** *(Velour)*
-🎤 **[Blank Shirt](https://open.spotify.com/track/5Thw9mFRBBSfbsajtxwFXT)** by **Okfella** *(Engel Aus'm Block)*
-🎤 **[1234uhr](https://open.spotify.com/track/25ZUW6wK1Psvs7722kxoWI)** by **Tamino404, SWEETBOYBLONDEY** *(1234uhr)*
+🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
+🎤 **[Druck in meiner Brust](https://open.spotify.com/track/7l06MysqrnCIP1CnpJ3QPk)** by **Brown-Eyes White Boy** *(Metanarkose)*
+🎤 **[Klar](https://open.spotify.com/track/1N0VXsoh0DhzHkj7FQA6Kk)** by **Sadi** *(99)*
+🎤 **[San Pellegrino](https://open.spotify.com/track/38NGYUAs3Gy6mjstb4yT2c)** by **fliggsy** *(No Comment)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 07:48:42Z UTC
+🕐 Last updated: 2025-08-12 08:18:08Z UTC
 <!-- SPOTIFY-END -->
