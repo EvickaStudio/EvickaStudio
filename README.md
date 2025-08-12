@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a8b896743fb4053714e2a27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED)**
-*by* **Superheaven**
-*Album:* Ours Is Chrome
+**🎵 [No More Stress](https://open.spotify.com/track/1ltmHkFkxtvrm0hOTKXrs8)**
+*by* **Soothing Oasis**
+*Album:* Peace of Mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+    <rect width="52" height="4" fill="#1db954" rx="2"/>
+    <circle cx="52" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 4:04
+    0:23 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
-🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
-🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
-🎤 **[Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5)** by **Deftones** *(Koi No Yokan)*
-🎤 **[ur touch](https://open.spotify.com/track/0HFaxxzW4Umby5k5FJkcj0)** by **joss lockwood** *(ur touch)*
+🎤 **[Distant](https://open.spotify.com/track/75Lf4sQXCzJAsKIyKQNB2L)** by **Avery's Ambient** *(In the Distance)*
+🎤 **[At Peace](https://open.spotify.com/track/4A4imy8iJK7wZ5ug1Ivff3)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Rashomon effect](https://open.spotify.com/track/029PYDY78KpCy25men6czy)** by **ozma coma, Sgarz** *(Rashomon effect)*
+🎤 **[Die by Fire](https://open.spotify.com/track/59jibZuJQG1rkWTkCKkn6F)** by **David Shawty** *(Die by Fire)*
+🎤 **[swivel](https://open.spotify.com/track/77Vd9HmU9v2lSbKC8pkCvt)** by **tosaku** *(devour)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 21:30:31Z UTC
+🕐 Last updated: 2025-08-12 21:48:03Z UTC
 <!-- SPOTIFY-END -->
