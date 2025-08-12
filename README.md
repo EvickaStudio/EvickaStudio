@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273627020c2a76eecd5c18d048b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27309ec510203051346eab4c856" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)**
-*by* **TEMMIS**
-*Album:* Klinge
+**🎵 [Dir ist es egal](https://open.spotify.com/track/01qJh6TWu3qUynxyQ2sv72)**
+*by* **MilleniumKid, KRAMER**
+*Album:* Arrhythmie
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 3:06
+    1:25 • 2:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Von ganz weit weg](https://open.spotify.com/track/1Eh4LQx2XVw3Z9CCzd7Vt3)** by **strangerperson** *(Von ganz weit weg)*
-🎤 **[130 Kmh](https://open.spotify.com/track/5Ow7pPEUXnBPzExUoYYOAI)** by **Saiya Tiaw** *(Kein Wunderland)*
-🎤 **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)*
-🎤 **[Glas](https://open.spotify.com/track/2Gn8BlQBO7HLPjgBDqDh5g)** by **lauenburg** *(Glas/Schläfen)*
-🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
+🎤 **[Pyroman](https://open.spotify.com/track/5TWAMS01V94zCROgFzjGP9)** by **Pavelo & Schnell** *(Volumen & Kraft)*
+🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
+🎤 **[Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)** by **lauenburg** *(Turmalin)*
+🎤 **[lichter](https://open.spotify.com/track/1mA008p9HblZSlkd7waDjL)** by **herz., Traumatin** *(lichter)*
+🎤 **[rehaugen](https://open.spotify.com/track/0Egj6csEaYPSCA3QDzKF0O)** by **GAST** *(rehaugen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 15:14:01Z UTC
+🕐 Last updated: 2025-08-12 15:35:04Z UTC
 <!-- SPOTIFY-END -->
