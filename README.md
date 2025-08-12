@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f8ca9c4a3d400e89ca86bf56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27310f53671be005c0d5c0a79d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [EVERYDOG HAS ITS DAY](https://open.spotify.com/track/3rLuup3EQbo8Tr6IBg0Dmc)**
-*by* **glaive**
-*Album:* May It Never Falter
+**🎵 [Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/0iBtXMkVYuPxz8Nhc0Ckv1)**
+*by* **Fred again.., Swedish House Mafia, Future**
+*Album:* USB
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:12
+    2:28 • 4:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[GREY+GREY+GREY](https://open.spotify.com/track/7wEs4bYaStkU6SsLZWaXH0)** by **$uicideboy$** *(THY KINGDOM COME)*
-🎤 **[3xstern](https://open.spotify.com/track/16ovdkoG6eeYhygh7S0GAN)** by **cinnemane** *(3xstern)*
-🎤 **[DNA](https://open.spotify.com/track/3WTcZ8EB9ZcVKBTrLVm4Vc)** by **S1RENA** *(DNA)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[the way.](https://open.spotify.com/track/5XHGR0s53JN283A5ncUIyj)** by **wiv** *(the way.)*
+🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
+🎤 **[Shoota (feat. Lil Uzi Vert)](https://open.spotify.com/track/2BJSMvOGABRxokHKB0OI8i)** by **Playboi Carti, Lil Uzi Vert** *(Die Lit)*
+🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
+🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
+🎤 **[FALLING](https://open.spotify.com/track/20TuZfhMZRyVaZGTNDXR44)** by **pluko** *(OXY)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 20:14:47Z UTC
+🕐 Last updated: 2025-08-12 20:35:40Z UTC
 <!-- SPOTIFY-END -->
