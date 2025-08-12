@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Dream Realm](https://open.spotify.com/track/1U36g1FU275M6AIuinBYVW)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)** by **cinnemane** *(srrysora)*
 🎤 **[Murmur](https://open.spotify.com/track/4ubQ5Hszm199mIkSnUTTuW)** by **Soothing Oasis** *(Stillness)*
 🎤 **[No More Stress](https://open.spotify.com/track/1ltmHkFkxtvrm0hOTKXrs8)** by **Soothing Oasis** *(Peace of Mind)*
 🎤 **[As Dusk Falls](https://open.spotify.com/track/4RlMbOkyGmnRQAlR0B16cX)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Drifting on Clouds](https://open.spotify.com/track/5k2FIyYhnaUQLAnCEXLRFp)** by **Soothing Oasis** *(Sleeping Earth)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 05:51:04Z UTC
+🕐 Last updated: 2025-08-12 06:20:16Z UTC
 <!-- SPOTIFY-END -->
