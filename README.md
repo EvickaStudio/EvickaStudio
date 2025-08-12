@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273959fced1604a9ba0ab6ea491" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Spiegelbild](https://open.spotify.com/track/3oOn3cLdfPh0IQ6jkAD8HR)**
-*by* **Saint Purple**
-*Album:* Spiegelbild
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:10
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
-🎤 **[Druck in meiner Brust](https://open.spotify.com/track/7l06MysqrnCIP1CnpJ3QPk)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[Klar](https://open.spotify.com/track/1N0VXsoh0DhzHkj7FQA6Kk)** by **Sadi** *(99)*
-🎤 **[San Pellegrino](https://open.spotify.com/track/38NGYUAs3Gy6mjstb4yT2c)** by **fliggsy** *(No Comment)*
+🎤 **[stich](https://open.spotify.com/track/77Z2XSV3JjCV6iZpcSjRJp)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
+🎤 **[alles fühlt sich an wie fallen](https://open.spotify.com/track/36upifGwmteNfUlnsSldLc)** by **Wavylady** *(alles fühlt sich an wie fallen)*
+🎤 **[Wenn Du Willst <3](https://open.spotify.com/track/2ApPEQPsBCyI07uH1dzmkU)** by **babyhauro, Tr1esch** *(Wenn Du Willst <3)*
+🎤 **[Treibsand](https://open.spotify.com/track/6Azg9M7jjz8HjB6hTojmSO)** by **Loco Candy** *(Treibsand (Deluxe))*
+🎤 **[ohne waffe](https://open.spotify.com/track/1N0YclUvQcPbIneE51cah2)** by **b3nn3t** *(ohne waffe)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 08:18:08Z UTC
+🕐 Last updated: 2025-08-12 08:47:39Z UTC
 <!-- SPOTIFY-END -->
