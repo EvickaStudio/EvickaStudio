@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732bff9677a72db8c55720a8e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Soft Currents](https://open.spotify.com/track/0gRouemDHMZ5jJ59IyqxEv)**
+**🎵 [Sky Dreams](https://open.spotify.com/track/0AbNe1bWWkCwZKAvjYBbeA)**
 *by* **Avery's Ambient**
-*Album:* Everglow
+*Album:* Obsidian Sky
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="131" height="4" fill="#1db954" rx="2"/>
+    <circle cx="131" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 2:09
+    0:53 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Emotion](https://open.spotify.com/track/65a18AKdVZfdR2hYjaKkrK)** by **Soothing Oasis** *(Moments)*
-🎤 **[In The Clouds](https://open.spotify.com/track/6QI986D0KQr8E64PYCxDKI)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Midnight Waves](https://open.spotify.com/track/79buRxInOY9D7YQINtFAtr)** by **Avery's Ambient** *(Midnight Waves)*
-🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
-🎤 **[Soothing](https://open.spotify.com/track/2tSB3yPpsbuo2c8LOlNhFL)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Dream Realm](https://open.spotify.com/track/1U36g1FU275M6AIuinBYVW)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Moonlit Skies](https://open.spotify.com/track/2N26MsLOsLxB6EjHK4xosr)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Soaring Over the Summit](https://open.spotify.com/track/3qFpzdSwBVqnkvcWCnQbiY)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)** by **Avery's Ambient** *(Stillness)*
+🎤 **[Lingering Voices](https://open.spotify.com/track/2eL0Whi2RrIxKwzwM6FVrf)** by **Avery's Ambient** *(Everglow)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 23:30:27Z UTC
+🕐 Last updated: 2025-08-12 23:48:06Z UTC
 <!-- SPOTIFY-END -->
