@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c7473d00e382021e003a5a35" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)**
+**🎵 [Reflections in Still Water](https://open.spotify.com/track/6aAPatkTReE7bMOEu0V6Wm)**
 *by* **Avery's Ambient**
-*Album:* Midnight Waves
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 2:11
+    1:14 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Velvet Skies](https://open.spotify.com/track/2hC7SLiEbxkhYJxbzaK7HK)** by **Avery's Ambient** *(Everglow)*
-🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)** by **Avery's Ambient** *(Stillness)*
+🎤 **[Fading Light](https://open.spotify.com/track/2sbmEcU4m0rpv67MYxpOu5)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Dancing Shadows](https://open.spotify.com/track/3pttCnPVMPNsUGDoQ6OVnb)** by **Avery's Ambient** *(Awakening Earth)*
+🎤 **[Hold My Hand](https://open.spotify.com/track/6v8J72YZiWYJfQuk5dYciG)** by **Soothing Oasis** *(Embraced)*
+🎤 **[Drifting Leaves](https://open.spotify.com/track/1G4jILZWiClmzAe8QUV7k0)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Night Glow](https://open.spotify.com/track/6OrvXlYgTwdywGn0MNOltG)** by **Soothing Oasis** *(As Dusk Falls)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 04:15:04Z UTC
+🕐 Last updated: 2025-08-12 04:43:30Z UTC
 <!-- SPOTIFY-END -->
