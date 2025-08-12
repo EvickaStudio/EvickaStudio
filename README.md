@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b2543683df4407912b294ebe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c84cb669cd38c51a257699d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)**
-*by* **Tamino404**
-*Album:* du hast uns alle vergessen und ich bin stolz auf dich
+**🎵 [so weit weg](https://open.spotify.com/track/2AxpKD3pT6FteDnqCv1cV1)**
+*by* **rentnerotto, m84this**
+*Album:* so weit weg
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="290" height="4" fill="#1db954" rx="2"/>
-    <circle cx="290" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 1:48
+    1:16 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
-🎤 **[was wir möchten](https://open.spotify.com/track/3nz91mz0Pkd6WBIBgVHLN3)** by **b3nn3t** *(was wir möchten)*
-🎤 **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)*
-🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
-🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
+🎤 **[Augenringe](https://open.spotify.com/track/1GECp43mOmp6VdRvUhS9vu)** by **nobis** *(Augenringe)*
+🎤 **[Mädchen / Junge](https://open.spotify.com/track/4apEJxqqXF80LtTPq5LdJa)** by **CAN MIT ME$$R** *(Mädchen / Junge)*
+🎤 **[interlude](https://open.spotify.com/track/26S6NQixCrPEdvY2hNLhhl)** by **Pink Katana, veil** *(Den Mutigen gehört die Welt)*
+🎤 **[g222](https://open.spotify.com/track/6IrQQyiE2V9FJxtCpGQh9X)** by **lil üganda** *(g222)*
+🎤 **[nightjet](https://open.spotify.com/track/7817Rs5G0BpDA8Ppk2uQPE)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 07:14:21Z UTC
+🕐 Last updated: 2025-08-12 07:32:37Z UTC
 <!-- SPOTIFY-END -->
