@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b2543683df4407912b294ebe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)**
-*by* **mickyi, S1RENA**
-*Album:* zone out ep ⋆｡°✩
+**🎵 [deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)**
+*by* **Tamino404**
+*Album:* du hast uns alle vergessen und ich bin stolz auf dich
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="290" height="4" fill="#1db954" rx="2"/>
+    <circle cx="290" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 2:49
+    1:45 • 1:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dream Realm](https://open.spotify.com/track/1U36g1FU275M6AIuinBYVW)** by **Soothing Oasis** *(Dream Realm)*
-🎤 **[srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)** by **cinnemane** *(srrysora)*
-🎤 **[Murmur](https://open.spotify.com/track/4ubQ5Hszm199mIkSnUTTuW)** by **Soothing Oasis** *(Stillness)*
-🎤 **[No More Stress](https://open.spotify.com/track/1ltmHkFkxtvrm0hOTKXrs8)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[As Dusk Falls](https://open.spotify.com/track/4RlMbOkyGmnRQAlR0B16cX)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[was wir möchten](https://open.spotify.com/track/3nz91mz0Pkd6WBIBgVHLN3)** by **b3nn3t** *(was wir möchten)*
+🎤 **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)*
+🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
+🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 06:51:04Z UTC
+🕐 Last updated: 2025-08-12 07:14:21Z UTC
 <!-- SPOTIFY-END -->
