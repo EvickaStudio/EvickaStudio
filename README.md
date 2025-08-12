@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c84cb669cd38c51a257699d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [so weit weg](https://open.spotify.com/track/2AxpKD3pT6FteDnqCv1cV1)**
-*by* **rentnerotto, m84this**
-*Album:* so weit weg
+**🎵 [Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)**
+*by* **sparr00w**
+*Album:* Nadja
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 2:07
+    1:48 • 2:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Augenringe](https://open.spotify.com/track/1GECp43mOmp6VdRvUhS9vu)** by **nobis** *(Augenringe)*
-🎤 **[Mädchen / Junge](https://open.spotify.com/track/4apEJxqqXF80LtTPq5LdJa)** by **CAN MIT ME$$R** *(Mädchen / Junge)*
-🎤 **[interlude](https://open.spotify.com/track/26S6NQixCrPEdvY2hNLhhl)** by **Pink Katana, veil** *(Den Mutigen gehört die Welt)*
-🎤 **[g222](https://open.spotify.com/track/6IrQQyiE2V9FJxtCpGQh9X)** by **lil üganda** *(g222)*
-🎤 **[nightjet](https://open.spotify.com/track/7817Rs5G0BpDA8Ppk2uQPE)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[Psp](https://open.spotify.com/track/3FWcT0xVHe5ticfocZt7CS)** by **SWEETBOYBLONDEY, LUDWIG** *(Psp)*
+🎤 **[MACH DAS NICHT](https://open.spotify.com/track/5MiFwKwrc7gO5Yrzusa3Xp)** by **Flippa, KAYYYA** *(MACH DAS NICHT)*
+🎤 **[immer wenn wir streiten](https://open.spotify.com/track/34jjC2DQD5kgOkYt2pmwDu)** by **TELESHOP** *(Velour)*
+🎤 **[Blank Shirt](https://open.spotify.com/track/5Thw9mFRBBSfbsajtxwFXT)** by **Okfella** *(Engel Aus'm Block)*
+🎤 **[1234uhr](https://open.spotify.com/track/25ZUW6wK1Psvs7722kxoWI)** by **Tamino404, SWEETBOYBLONDEY** *(1234uhr)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 07:32:37Z UTC
+🕐 Last updated: 2025-08-12 07:48:42Z UTC
 <!-- SPOTIFY-END -->
