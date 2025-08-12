@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739d8858b611d0ca8ffb52fa6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ed02c2537c4c00de58fa415" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)**
-*by* **meat computer**
-*Album:* without you
+**🎵 [Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)**
+*by* **Eera**
+*Album:* Cant Stop Wasting Time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="268" height="4" fill="#1db954" rx="2"/>
-    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+    <rect width="247" height="4" fill="#1db954" rx="2"/>
+    <circle cx="247" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 1:55
+    2:06 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
-🎤 **[Red Sun](https://open.spotify.com/track/6oveYXy8E4ouDgDT7JkdIv)** by **SERAPHINE NOIR, Ash Lee** *(Red Sun)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
+🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 19:36:28Z UTC
+🕐 Last updated: 2025-08-12 19:47:48Z UTC
 <!-- SPOTIFY-END -->
