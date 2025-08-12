@@ -107,7 +107,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)**
+*by* **mickyi, S1RENA**
+*Album:* zone out ep ⋆｡°✩
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:28 • 2:49
+</span>
+</p>
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 06:20:16Z UTC
+🕐 Last updated: 2025-08-12 06:51:04Z UTC
 <!-- SPOTIFY-END -->
