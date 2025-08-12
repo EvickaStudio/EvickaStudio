@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d877492cf50f8f510867526" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27340826f7f09fd4355f948e91b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [WIEN](https://open.spotify.com/track/25vU8LxxVHH7ZOjqRE7tCJ)**
-*by* **Saiya Tiaw**
-*Album:* BETON
+**🎵 [Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY)**
+*by* **Flawless Issues**
+*Album:* Alone Tonight
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="292" height="4" fill="#1db954" rx="2"/>
-    <circle cx="292" cy="2" r="6" fill="#1db954"/>
+    <rect width="12" height="4" fill="#1db954" rx="2"/>
+    <circle cx="12" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 1:09
+    0:06 • 2:37
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[pink floyd cd](https://open.spotify.com/track/2GxLbg3G4sfngz2N6Bn0Ki)** by **Saiya Tiaw** *(tränen von dir)*
-🎤 **[paradox](https://open.spotify.com/track/2T3mSs531KUcZa6CPAT7wN)** by **Saiya Tiaw** *(tränen von dir)*
-🎤 **[tränen von dir](https://open.spotify.com/track/6EAApK4KFWeFtuXNyIc4Tt)** by **Saiya Tiaw** *(tränen von dir)*
-🎤 **[IN DEINEM HERZ IST ES KALT](https://open.spotify.com/track/7wblVGls7DMH6nalzCSixo)** by **Saiya Tiaw** *(IN DEINEM HERZ IST ES KALT)*
-🎤 **[waffen](https://open.spotify.com/track/0SDNw6oNkTBRPNkWabLpIR)** by **Saiya Tiaw** *(tränen von dir)*
+🎤 **[Schlüssel im Schnee](https://open.spotify.com/track/5ODB96R32uiY66bh6KEr6Q)** by **nobis** *(Schlüssel im Schnee)*
+🎤 **[<3 aus <3 (SLOWED)](https://open.spotify.com/track/4LUV2MuOV9ubTqdMWLB5Rz)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
+🎤 **[Allein mit mir](https://open.spotify.com/track/4xUG1S7k0nxG1RSmnkXXJg)** by **MilleniumKid, Dropped here** *(Arrhythmie)*
+🎤 **[Wieder gut](https://open.spotify.com/track/2iswi2ayohjT0cCdui9k8N)** by **Tape Head, NONI** *(Memento Mori)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥉 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 🏅 [**Whitearmor**](https://open.spotify.com/artist/5NV1oaGE9tOgbcwJVUfa8j)
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 12:26:21Z UTC
+🕐 Last updated: 2025-08-12 13:08:08Z UTC
 <!-- SPOTIFY-END -->
