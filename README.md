@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed189f9605e2b6b18a0348c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737d877492cf50f8f510867526" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [blaulicht und sirenen](https://open.spotify.com/track/4LTe7q3n3Ws35obMsXc3RG)**
+**🎵 [WIEN](https://open.spotify.com/track/25vU8LxxVHH7ZOjqRE7tCJ)**
 *by* **Saiya Tiaw**
-*Album:* tränen von dir
+*Album:* BETON
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="292" height="4" fill="#1db954" rx="2"/>
+    <circle cx="292" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 1:27
+    1:08 • 1:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[</3](https://open.spotify.com/track/492kUcDSKbmusWEtXMH0jV)** by **Saiya Tiaw** *(</3)*
-🎤 **[130 Kmh](https://open.spotify.com/track/5Ow7pPEUXnBPzExUoYYOAI)** by **Saiya Tiaw** *(Kein Wunderland)*
-🎤 **[Engelstränen](https://open.spotify.com/track/2TQ08eAvkgWu4PQ80eRf7m)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
-🎤 **[Weine unter Sternen](https://open.spotify.com/track/0vJDo6PGtODJzF8Fu7z9tt)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
-🎤 **[99 in Flammen](https://open.spotify.com/track/21LoDVx8Gx6u48UZcqr8VV)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
+🎤 **[pink floyd cd](https://open.spotify.com/track/2GxLbg3G4sfngz2N6Bn0Ki)** by **Saiya Tiaw** *(tränen von dir)*
+🎤 **[paradox](https://open.spotify.com/track/2T3mSs531KUcZa6CPAT7wN)** by **Saiya Tiaw** *(tränen von dir)*
+🎤 **[tränen von dir](https://open.spotify.com/track/6EAApK4KFWeFtuXNyIc4Tt)** by **Saiya Tiaw** *(tränen von dir)*
+🎤 **[IN DEINEM HERZ IST ES KALT](https://open.spotify.com/track/7wblVGls7DMH6nalzCSixo)** by **Saiya Tiaw** *(IN DEINEM HERZ IST ES KALT)*
+🎤 **[waffen](https://open.spotify.com/track/0SDNw6oNkTBRPNkWabLpIR)** by **Saiya Tiaw** *(tränen von dir)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 11:47:41Z UTC
+🕐 Last updated: 2025-08-12 12:26:21Z UTC
 <!-- SPOTIFY-END -->
