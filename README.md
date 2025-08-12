@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d3191928aa3c06cfb0035d84" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273627020c2a76eecd5c18d048b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [keiner hier wartet](https://open.spotify.com/track/00w80R8ZEHhX7jzIzvOoo6)**
-*by* **shuco, robeltobel**
-*Album:* keiner hier wartet
+**🎵 [ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)**
+*by* **TEMMIS**
+*Album:* Klinge
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 3:45
+    2:04 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bunt/Schwarz](https://open.spotify.com/track/2nZsZDULfrqCjIRAO34vSg)** by **NILS KEPPEL** *(Immer im Rauch)*
-🎤 **[Viertel nach Vier Pt.1](https://open.spotify.com/track/6INO4G3yoepCDu1HMzwHEz)** by **lauenburg** *(Viertel nach Vier)*
-🎤 **[der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)** by **RYLO** *(der plattenspieler kratzt)*
-🎤 **[Spät](https://open.spotify.com/track/7KWXTbGSehCiFbZLtqfSUh)** by **diggidaniel** *(Spät)*
-🎤 **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by **Steintor Herrenchor** *(wohin)*
+🎤 **[Von ganz weit weg](https://open.spotify.com/track/1Eh4LQx2XVw3Z9CCzd7Vt3)** by **strangerperson** *(Von ganz weit weg)*
+🎤 **[130 Kmh](https://open.spotify.com/track/5Ow7pPEUXnBPzExUoYYOAI)** by **Saiya Tiaw** *(Kein Wunderland)*
+🎤 **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)*
+🎤 **[Glas](https://open.spotify.com/track/2Gn8BlQBO7HLPjgBDqDh5g)** by **lauenburg** *(Glas/Schläfen)*
+🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 14:53:14Z UTC
+🕐 Last updated: 2025-08-12 15:14:01Z UTC
 <!-- SPOTIFY-END -->
