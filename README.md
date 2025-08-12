@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27332061a41dbe77a6a41647017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Foggy Morning](https://open.spotify.com/track/4s2rLlLjmt647RM1bcEv0h)**
+**🎵 [Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)**
 *by* **Soothing Oasis**
-*Album:* Foggy Morning
+*Album:* Riverside
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="1" height="4" fill="#1db954" rx="2"/>
+    <circle cx="1" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:12
+    0:00 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Velvet Skies](https://open.spotify.com/track/2hC7SLiEbxkhYJxbzaK7HK)** by **Avery's Ambient** *(Everglow)*
-🎤 **[Drifting on Clouds](https://open.spotify.com/track/5k2FIyYhnaUQLAnCEXLRFp)** by **Soothing Oasis** *(Sleeping Earth)*
-🎤 **[Beneath the Sky](https://open.spotify.com/track/3EIkxp2iDXY8zSvUF6zgtM)** by **Soothing Oasis** *(Beneath the Sky)*
-🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Experience](https://open.spotify.com/track/7dqAiIUUHj3aNk7KfZkXQL)** by **Soothing Oasis** *(Dreaming)*
+🎤 **[Wrapped in Blue](https://open.spotify.com/track/17AT5ZPQFd7IFsv18O2FoB)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Silence of Space](https://open.spotify.com/track/2cxpTQA3M5nCyYaOY9VBe4)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[In the Distance](https://open.spotify.com/track/6ffahfSRBW2SxCucnS8xhS)** by **Avery's Ambient** *(In the Distance)*
+🎤 **[My Love](https://open.spotify.com/track/3kcRUbf7R1ShxWL3m997ED)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 22:49:56Z UTC
+🕐 Last updated: 2025-08-12 23:12:30Z UTC
 <!-- SPOTIFY-END -->
