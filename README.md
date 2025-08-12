@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Fading Horizons](https://open.spotify.com/track/0J2zV2oaFbuxcScNiJ3pTP)**
-*by* **Soothing Oasis**
-*Album:* As Dusk Falls
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 2:18
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Closed Eyes](https://open.spotify.com/track/3byiUKyWI11f6fzB4Gp9HC)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Warmth](https://open.spotify.com/track/11Zf57uWFO946gEDshN4GI)** by **Soothing Oasis** *(Embraced)*
-🎤 **[Acceptance](https://open.spotify.com/track/7vOjjGTGgV7vO5IfwJ2sHL)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[A New Day](https://open.spotify.com/track/5b4yr0AdyVcFIYKln7JIIB)** by **Avery's Ambient** *(A New Day)*
-🎤 **[Light](https://open.spotify.com/track/2GpZBrPkHpmEiXDSOy9eTi)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Murmur](https://open.spotify.com/track/4ubQ5Hszm199mIkSnUTTuW)** by **Soothing Oasis** *(Stillness)*
+🎤 **[No More Stress](https://open.spotify.com/track/1ltmHkFkxtvrm0hOTKXrs8)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[As Dusk Falls](https://open.spotify.com/track/4RlMbOkyGmnRQAlR0B16cX)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Drifting on Clouds](https://open.spotify.com/track/5k2FIyYhnaUQLAnCEXLRFp)** by **Soothing Oasis** *(Sleeping Earth)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 05:17:16Z UTC
+🕐 Last updated: 2025-08-12 05:41:31Z UTC
 <!-- SPOTIFY-END -->
