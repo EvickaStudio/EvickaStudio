@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a8e8b10d2ada6d5a9a459a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Lunar](https://open.spotify.com/track/12uzVXAu5yKkzUFcNVOmCJ)**
-*by* **Soothing Oasis**
-*Album:* Starry Night
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:05
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
+🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
 🎤 **[Fading Light](https://open.spotify.com/track/2sbmEcU4m0rpv67MYxpOu5)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[In the Mist](https://open.spotify.com/track/3hLD6Xv985SnPkFJ9lwyo4)** by **Soothing Oasis** *(Beneath the Sky)*
-🎤 **[Starling's Song](https://open.spotify.com/track/1dJJkUvWa4JCgdpoURkWau)** by **Avery's Ambient** *(Everglow)*
-🎤 **[Reflections](https://open.spotify.com/track/4TYLYZeo5ALnsb1dGCxPXH)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Silence of Space](https://open.spotify.com/track/2cxpTQA3M5nCyYaOY9VBe4)** by **Soothing Oasis** *(Dream Realm)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 07:14:51Z UTC
+🕐 Last updated: 2025-08-13 07:33:26Z UTC
 <!-- SPOTIFY-END -->
