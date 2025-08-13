@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732bff9677a72db8c55720a8e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sky Dreams](https://open.spotify.com/track/0AbNe1bWWkCwZKAvjYBbeA)**
+**🎵 [Unheard](https://open.spotify.com/track/5AYugiQ3DPrH1ukafmob5S)**
 *by* **Avery's Ambient**
-*Album:* Obsidian Sky
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="131" height="4" fill="#1db954" rx="2"/>
-    <circle cx="131" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:02
+    1:29 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dream Realm](https://open.spotify.com/track/1U36g1FU275M6AIuinBYVW)** by **Soothing Oasis** *(Dream Realm)*
-🎤 **[Moonlit Skies](https://open.spotify.com/track/2N26MsLOsLxB6EjHK4xosr)** by **Soothing Oasis** *(Dream Realm)*
-🎤 **[Soaring Over the Summit](https://open.spotify.com/track/3qFpzdSwBVqnkvcWCnQbiY)** by **Soothing Oasis** *(Weightless)*
-🎤 **[Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)** by **Avery's Ambient** *(Stillness)*
-🎤 **[Lingering Voices](https://open.spotify.com/track/2eL0Whi2RrIxKwzwM6FVrf)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Clouds Passing](https://open.spotify.com/track/4AfDkG6fWYPKfavgZDkI0C)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Vision](https://open.spotify.com/track/1907SqFd2xCqmYdkjGWLQS)** by **Soothing Oasis** *(Dreaming)*
+🎤 **[Soft Currents](https://open.spotify.com/track/0gRouemDHMZ5jJ59IyqxEv)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Everglow](https://open.spotify.com/track/1nKYftkIfpsxzaRhD8Q8G2)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Gentle Rainfall](https://open.spotify.com/track/4Kx5dbO1TEr54gR32Y7nL6)** by **Soothing Oasis** *(Stillness)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-12 23:48:06Z UTC
+🕐 Last updated: 2025-08-13 01:03:43Z UTC
 <!-- SPOTIFY-END -->
