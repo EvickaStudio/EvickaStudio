@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Unheard](https://open.spotify.com/track/5AYugiQ3DPrH1ukafmob5S)**
-*by* **Avery's Ambient**
-*Album:* Stillness
+**🎵 [Evening Mist](https://open.spotify.com/track/412S8au6oUosw7iz63piYG)**
+*by* **Soothing Oasis**
+*Album:* As Dusk Falls
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="236" height="4" fill="#1db954" rx="2"/>
+    <circle cx="236" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 2:07
+    1:52 • 2:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Clouds Passing](https://open.spotify.com/track/4AfDkG6fWYPKfavgZDkI0C)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Vision](https://open.spotify.com/track/1907SqFd2xCqmYdkjGWLQS)** by **Soothing Oasis** *(Dreaming)*
-🎤 **[Soft Currents](https://open.spotify.com/track/0gRouemDHMZ5jJ59IyqxEv)** by **Avery's Ambient** *(Everglow)*
-🎤 **[Everglow](https://open.spotify.com/track/1nKYftkIfpsxzaRhD8Q8G2)** by **Avery's Ambient** *(Everglow)*
-🎤 **[Gentle Rainfall](https://open.spotify.com/track/4Kx5dbO1TEr54gR32Y7nL6)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Silent Descent](https://open.spotify.com/track/4pgJJ5kdjPLbEYZODHxa2l)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Through Tall Pines](https://open.spotify.com/track/7q8wG0sHwTep5HRuO36OgC)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Mist](https://open.spotify.com/track/0w9YVUWVvQlk8oMPKWAewA)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Rest](https://open.spotify.com/track/1r1N5VapL0whRbkeBaI9bq)** by **Soothing Oasis** *(Sleeping Earth)*
+🎤 **[Night](https://open.spotify.com/track/0kDFOAAigGT7wTvgCeTNRW)** by **Soothing Oasis** *(Evening)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 01:03:43Z UTC
+🕐 Last updated: 2025-08-13 02:56:34Z UTC
 <!-- SPOTIFY-END -->
