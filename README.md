@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ca733061d51ddadda9fca9c3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e511dcf6876ed8ac12ce9fdd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [beamer boy](https://open.spotify.com/track/5K5MBX1I7GdYKaaI0zKLno)**
-*by* **Lil Peep, Nedarb**
-*Album:* CALIFORNIA GIRLS
+**🎵 [Mein Fetisch](https://open.spotify.com/track/5J5y6d3rFK1wbQKJEyBNsh)**
+*by* **$OHO BANI**
+*Album:* Mein Fetisch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="69" height="4" fill="#1db954" rx="2"/>
+    <circle cx="69" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:23 • 3:23
+    0:33 • 2:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by **Lil Peep, Nedarb** *(beamer boy)*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
-🎤 **[at least one time](https://open.spotify.com/track/2UK2SceExNsvau2zt4FfNr)** by **strangerperson** *(at least one time)*
-🎤 **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)*
-🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)*
+🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
+🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
+🎤 **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 14:53:16Z UTC
+🕐 Last updated: 2025-08-13 15:11:29Z UTC
 <!-- SPOTIFY-END -->
