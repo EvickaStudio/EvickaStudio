@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f2e15ae27f93c98ca6597419" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Softness](https://open.spotify.com/track/1rngLR4hYNsjvQEud5ePrq)**
+**🎵 [As Dusk Falls](https://open.spotify.com/track/4RlMbOkyGmnRQAlR0B16cX)**
 *by* **Soothing Oasis**
-*Album:* Embraced
+*Album:* As Dusk Falls
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="221" height="4" fill="#1db954" rx="2"/>
+    <circle cx="221" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 2:04
+    1:38 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dreamer](https://open.spotify.com/track/7KUNXVZk7JnlBwZihiDPda)** by **Soothing Oasis** *(Foggy Morning)*
-🎤 **[Light](https://open.spotify.com/track/4tNCoVahnWCS4nNdKrhiSd)** by **Soothing Oasis** *(At Peace)*
-🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Flowing](https://open.spotify.com/track/2ZXnSummlIytkdxcf61T7m)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Ancient Oaks](https://open.spotify.com/track/4XYkH36IVadjm4iQe1lE1M)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Willow Trees](https://open.spotify.com/track/23q0mUMfUE8vZjoK02Sokx)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Above the Treetops](https://open.spotify.com/track/53jPZyZVq2K7elZfvi2n8v)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Pinnacle](https://open.spotify.com/track/1fWizHrEOFRvEdNg6OnR41)** by **Soothing Oasis** *(Moments)*
+🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Above the Treetops](https://open.spotify.com/track/53jPZyZVq2K7elZfvi2n8v)** by **Soothing Oasis** *(Weightless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 04:24:08Z UTC
+🕐 Last updated: 2025-08-13 04:49:21Z UTC
 <!-- SPOTIFY-END -->
