@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732146ebd8109d5f5567b76f0f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)**
-*by* **Charli xcx, Bladee**
-*Album:* Brat and it’s completely different but also still brat
+**🎵 [World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)**
+*by* **Nosgov**
+*Album:* World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="5" height="4" fill="#1db954" rx="2"/>
+    <circle cx="5" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:42
+    0:03 • 2:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Loose Cannon](https://open.spotify.com/track/0pfBNEcMxZfy2FwAwGl9EP)** by **Puzzle** *(X Hail)*
-🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
-🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[fr fr - feat. toobrokeforfiji](https://open.spotify.com/track/2M8NhihSMyR96sb9gs7Ark)** by **Boloboys, beslik, makko, toobrokeforfiji** *(Bolotape)*
+🎤 **[THEM SKATES](https://open.spotify.com/track/3MZOI2O6R0lX8KZdu4kDzN)** by **Nedaj** *(THEM SKATES)*
+🎤 **[rot](https://open.spotify.com/track/749PdlskCYiXY9A7CuJoCE)** by **romeo, 5v** *(rot)*
+🎤 **[Meidai](https://open.spotify.com/track/03lgkzh5TtGwmZGw13dRwN)** by **RADWIMPS** *(Meidai)*
+🎤 **[Mrs Jackson](https://open.spotify.com/track/4RTKALt8nsZOUP13OrHHfj)** by **Maliq** *(Mrs Jackson)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 19:10:32Z UTC
+🕐 Last updated: 2025-08-13 19:26:17Z UTC
 <!-- SPOTIFY-END -->
