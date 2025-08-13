@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [As Dusk Falls](https://open.spotify.com/track/4RlMbOkyGmnRQAlR0B16cX)**
-*by* **Soothing Oasis**
-*Album:* As Dusk Falls
+**🎵 [Stillness](https://open.spotify.com/track/3HdPE8jdzKLj7D2wNoNYyY)**
+*by* **Avery's Ambient**
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 2:13
+    1:12 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Willow Trees](https://open.spotify.com/track/23q0mUMfUE8vZjoK02Sokx)** by **Soothing Oasis** *(Breathing Forest)*
-🎤 **[Above the Treetops](https://open.spotify.com/track/53jPZyZVq2K7elZfvi2n8v)** by **Soothing Oasis** *(Weightless)*
-🎤 **[Pinnacle](https://open.spotify.com/track/1fWizHrEOFRvEdNg6OnR41)** by **Soothing Oasis** *(Moments)*
+🎤 **[Breathing Forest](https://open.spotify.com/track/1RYVfuHGrqEbpAHhQDDr3b)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)** by **Soothing Oasis** *(Calming River)*
 🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Above the Treetops](https://open.spotify.com/track/53jPZyZVq2K7elZfvi2n8v)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Fresh Start](https://open.spotify.com/track/6hzVlFmxCRGBXCyFeedkxx)** by **Soothing Oasis** *(Moments)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 04:49:21Z UTC
+🕐 Last updated: 2025-08-13 05:15:10Z UTC
 <!-- SPOTIFY-END -->
