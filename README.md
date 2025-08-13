@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aac8f690eb8be4edaf21ef6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hush](https://open.spotify.com/track/4avf19VLQKupEcJ95lxe5S)**
-*by* **Soothing Oasis**
-*Album:* Stillness
+**🎵 [Rising Mist](https://open.spotify.com/track/1k6CZJQYsbIsWi9VTkzETC)**
+*by* **Avery's Ambient**
+*Album:* Awakening Earth
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 2:06
+    1:20 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Moonbeams](https://open.spotify.com/track/2ycVoZ0nLO3oGlotOkpNlA)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[Lotus](https://open.spotify.com/track/7CIhDOL9MgrVOTCL19Kk3H)** by **Avery's Ambient** *(Night Bloom)*
-🎤 **[Velvet Skies](https://open.spotify.com/track/2hC7SLiEbxkhYJxbzaK7HK)** by **Avery's Ambient** *(Everglow)*
-🎤 **[Calm](https://open.spotify.com/track/79QkpuDIB97QZXa01LpN85)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Unspoken Wishes](https://open.spotify.com/track/18YloL6i12RpHn35auaBhx)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Mirage](https://open.spotify.com/track/5hwH7V9tPw5hdwkuQw0l9N)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Calm Lake](https://open.spotify.com/track/2ra5ptTLSBV9HXP7OOzbFL)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Sleep Well](https://open.spotify.com/track/6D3qroeYPfWcWxa1Lal0f4)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Soft Sigh](https://open.spotify.com/track/6IoIeRoe3zPxLkAsFzFLH5)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Clouded](https://open.spotify.com/track/7H8kUdYfuP3eP5fvSV5FXl)** by **Soothing Oasis** *(Foggy Morning)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 05:38:06Z UTC
+🕐 Last updated: 2025-08-13 05:51:29Z UTC
 <!-- SPOTIFY-END -->
