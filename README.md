@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e511dcf6876ed8ac12ce9fdd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Mein Fetisch](https://open.spotify.com/track/5J5y6d3rFK1wbQKJEyBNsh)**
-*by* **$OHO BANI**
-*Album:* Mein Fetisch
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:26
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
-🎤 **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)*
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
+🎤 **[man!](https://open.spotify.com/track/60n0ODVz659LeJuqgSc2ty)** by **93FEETOFSMOKE, thornskin** *(man!)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[Mein Fetisch](https://open.spotify.com/track/5J5y6d3rFK1wbQKJEyBNsh)** by **$OHO BANI** *(Mein Fetisch)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 15:11:29Z UTC
+🕐 Last updated: 2025-08-13 15:30:22Z UTC
 <!-- SPOTIFY-END -->
