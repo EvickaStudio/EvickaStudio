@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27321092a950bcd0f2ee5cc6dc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a9b12dc66e2cf55cfc6b41e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)**
+**🎵 [Cherry Blossom](https://open.spotify.com/track/5lg3OBhmX1zYgUJttYTIij)**
 *by* **Avery's Ambient**
-*Album:* Night Bloom
+*Album:* Zen Moments
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="298" height="4" fill="#1db954" rx="2"/>
-    <circle cx="298" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 2:03
+    0:29 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sailing Across the Seas](https://open.spotify.com/track/3JK0dsTw54fYm4uTR77j7g)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Closed Eyes](https://open.spotify.com/track/3byiUKyWI11f6fzB4Gp9HC)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Cosmic Sea](https://open.spotify.com/track/6fSojQY6sHl43tVpjxgDKD)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[Imagination](https://open.spotify.com/track/1w55LIIXhbkX91TYEw6mjd)** by **Soothing Oasis** *(Dreaming)*
-🎤 **[Still Waters](https://open.spotify.com/track/0SIX4MU0bBlOwpFdOC5RAS)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Waterfalls](https://open.spotify.com/track/1MbHDNbp5XLuxQvTJHDHEg)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Floating Away](https://open.spotify.com/track/7I2Aw1OKE30uIsFMt7wE9d)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Evening Tide](https://open.spotify.com/track/0RM09xWItBO12GWlajEAiH)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[Through the Fog](https://open.spotify.com/track/3hPBrP0ZbE2hOrZtuVgzg7)** by **Soothing Oasis** *(Through the Valley)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 06:20:20Z UTC
+🕐 Last updated: 2025-08-13 06:51:19Z UTC
 <!-- SPOTIFY-END -->
