@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b3b4dfa9f7966899b59b2d34" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273edd524a576db274dede2bc43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)**
-*by* **julie**
-*Album:* starjump / kit
+**🎵 [video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)**
+*by* **blombi19**
+*Album:* video
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 3:43
+    1:40 • 1:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
-🎤 **[man!](https://open.spotify.com/track/60n0ODVz659LeJuqgSc2ty)** by **93FEETOFSMOKE, thornskin** *(man!)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[Mein Fetisch](https://open.spotify.com/track/5J5y6d3rFK1wbQKJEyBNsh)** by **$OHO BANI** *(Mein Fetisch)*
+🎤 **[Приглашение-Сыктывкар-Club "HOST" 16.02.2013](https://open.spotify.com/track/5xE2kDm44jMLNFlTvfYGjk)** by **Gio Pika** *(Избранное)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[taschen schwer](https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0)** by **5v, James Jetski** *(taschen schwer)*
+🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 16:35:44Z UTC
+🕐 Last updated: 2025-08-13 16:52:04Z UTC
 <!-- SPOTIFY-END -->
