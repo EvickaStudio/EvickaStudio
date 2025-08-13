@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273659fc9ddcbb276d2cae0c40c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27385fb885d41591752340eeccc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)**
-*by* **Punk Christ**
-*Album:* perks of being a wallflower
+**🎵 [Possum Kingdom](https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s)**
+*by* **Toadies**
+*Album:* Rubberneck
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="199" height="4" fill="#1db954" rx="2"/>
-    <circle cx="199" cy="2" r="6" fill="#1db954"/>
+    <rect width="9" height="4" fill="#1db954" rx="2"/>
+    <circle cx="9" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 2:17
+    0:09 • 5:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC)** by **Crazy Town** *(The Gift Of Game)*
+🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
+🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
 🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
 🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[fr fr - feat. toobrokeforfiji](https://open.spotify.com/track/2M8NhihSMyR96sb9gs7Ark)** by **Boloboys, beslik, makko, toobrokeforfiji** *(Bolotape)*
-🎤 **[THEM SKATES](https://open.spotify.com/track/3MZOI2O6R0lX8KZdu4kDzN)** by **Nedaj** *(THEM SKATES)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 19:36:19Z UTC
+🕐 Last updated: 2025-08-13 19:47:42Z UTC
 <!-- SPOTIFY-END -->
