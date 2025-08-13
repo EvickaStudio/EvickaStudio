@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a8e8b10d2ada6d5a9a459a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2e15ae27f93c98ca6597419" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Moonlit](https://open.spotify.com/track/1v2mGJdOQlt1ejLrHZu06k)**
+**🎵 [Softness](https://open.spotify.com/track/1rngLR4hYNsjvQEud5ePrq)**
 *by* **Soothing Oasis**
-*Album:* Starry Night
+*Album:* Embraced
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 2:16
+    0:38 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Goodnight](https://open.spotify.com/track/7EjA8NsWdvmYidR3SQgDv4)** by **Soothing Oasis** *(Sleeping Earth)*
-🎤 **[Calmness](https://open.spotify.com/track/4RDUGJ8bVhETycG7aWG2Yi)** by **Soothing Oasis** *(Foggy Morning)*
-🎤 **[Clear Waters](https://open.spotify.com/track/3wauDEeUTRbu1M3hrtM37J)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Daylight Fades Away](https://open.spotify.com/track/61HGXhzV7OHCVMdRaqBaxY)** by **Soothing Oasis** *(Earth at Rest)*
-🎤 **[Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Dreamer](https://open.spotify.com/track/7KUNXVZk7JnlBwZihiDPda)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Light](https://open.spotify.com/track/4tNCoVahnWCS4nNdKrhiSd)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Flowing](https://open.spotify.com/track/2ZXnSummlIytkdxcf61T7m)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Ancient Oaks](https://open.spotify.com/track/4XYkH36IVadjm4iQe1lE1M)** by **Soothing Oasis** *(Through the Valley)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 03:48:37Z UTC
+🕐 Last updated: 2025-08-13 04:24:08Z UTC
 <!-- SPOTIFY-END -->
