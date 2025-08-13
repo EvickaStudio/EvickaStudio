@@ -107,7 +107,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b3b4dfa9f7966899b59b2d34" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)**
+*by* **julie**
+*Album:* starjump / kit
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:06 • 3:43
+</span>
+</p>
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 16:13:20Z UTC
+🕐 Last updated: 2025-08-13 16:35:44Z UTC
 <!-- SPOTIFY-END -->
