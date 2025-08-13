@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aac8f690eb8be4edaf21ef6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27321092a950bcd0f2ee5cc6dc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rising Mist](https://open.spotify.com/track/1k6CZJQYsbIsWi9VTkzETC)**
+**🎵 [Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)**
 *by* **Avery's Ambient**
-*Album:* Awakening Earth
+*Album:* Night Bloom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="182" height="4" fill="#1db954" rx="2"/>
-    <circle cx="182" cy="2" r="6" fill="#1db954"/>
+    <rect width="298" height="4" fill="#1db954" rx="2"/>
+    <circle cx="298" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:12
+    2:02 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mirage](https://open.spotify.com/track/5hwH7V9tPw5hdwkuQw0l9N)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Calm Lake](https://open.spotify.com/track/2ra5ptTLSBV9HXP7OOzbFL)** by **Avery's Ambient** *(Midnight Waves)*
-🎤 **[Sleep Well](https://open.spotify.com/track/6D3qroeYPfWcWxa1Lal0f4)** by **Soothing Oasis** *(Sleep Well)*
-🎤 **[Soft Sigh](https://open.spotify.com/track/6IoIeRoe3zPxLkAsFzFLH5)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Clouded](https://open.spotify.com/track/7H8kUdYfuP3eP5fvSV5FXl)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Sailing Across the Seas](https://open.spotify.com/track/3JK0dsTw54fYm4uTR77j7g)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Closed Eyes](https://open.spotify.com/track/3byiUKyWI11f6fzB4Gp9HC)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Cosmic Sea](https://open.spotify.com/track/6fSojQY6sHl43tVpjxgDKD)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Imagination](https://open.spotify.com/track/1w55LIIXhbkX91TYEw6mjd)** by **Soothing Oasis** *(Dreaming)*
+🎤 **[Still Waters](https://open.spotify.com/track/0SIX4MU0bBlOwpFdOC5RAS)** by **Soothing Oasis** *(Riverside)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 05:51:29Z UTC
+🕐 Last updated: 2025-08-13 06:20:20Z UTC
 <!-- SPOTIFY-END -->
