@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736631be482e2fbedd45de9e5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)**
-*by* **meat computer**
-*Album:* slept on the floor still dreamt about you
+**🎵 [where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)**
+*by* **Basement Jaxx, 100 gecs**
+*Album:* where's my head at _
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="85" height="4" fill="#1db954" rx="2"/>
-    <circle cx="85" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 1:33
+    1:10 • 2:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
-🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
-🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
+🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[Halcyon](https://open.spotify.com/track/5HzVqcoEmmgnhxtmmz1a56)** by **Stephanie Hawk** *(Droplets of Dreams)*
+🎤 **[Hollow Glow](https://open.spotify.com/track/2svvXycjHrfDjkdPGvp64m)** by **Dietrich+Dietrich** *(Where Fog Begins)*
+🎤 **[syena](https://open.spotify.com/track/1pkvY2VbkYjsMGjAOV19pA)** by **caelora** *(cayla)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 21:11:53Z UTC
+🕐 Last updated: 2025-08-13 21:30:05Z UTC
 <!-- SPOTIFY-END -->
