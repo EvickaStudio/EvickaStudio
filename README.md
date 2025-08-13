@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9b568ed77af3b6dfbc30027" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27382cd01439c783e21898a9f84" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)**
-*by* **Mall Grab**
-*Album:* How The Dogs Chill, Vol.1
+**🎵 [take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)**
+*by* **Oklou, Bladee**
+*Album:* choke enough
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="216" height="4" fill="#1db954" rx="2"/>
-    <circle cx="216" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:00 • 5:32
+    0:19 • 2:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
+🎤 **[Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka)** by **PinkPantheress** *(to hell with it)*
+🎤 **[Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)** by **Lil Peep, Lil Tracy** *(castles)*
+🎤 **[I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm)** by **Superheaven** *(Ours Is Chrome)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 20:34:39Z UTC
+🕐 Last updated: 2025-08-13 20:50:08Z UTC
 <!-- SPOTIFY-END -->
