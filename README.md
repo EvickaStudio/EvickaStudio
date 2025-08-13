@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c94b4072c458ec41ad1782d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)**
-*by* **strangerperson**
-*Album:* Silver Surfer
+**🎵 [Sunsetz](https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4)**
+*by* **Cigarettes After Sex**
+*Album:* Cigarettes After Sex
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:39
+    1:38 • 3:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
+🎤 **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)*
+🎤 **[Delinquent](https://open.spotify.com/track/42MzWXItzH1R1hRWOLij9t)** by **Lyran Dasz** *(Delinquent (Deluxe))*
+🎤 **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)*
 🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
-🎤 **[Things to Do](https://open.spotify.com/track/1V9lCLSierc1RFpERt6ak9)** by **Alex G** *(Race)*
-🎤 **[SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla)** by **Varg²™, Bladee, Escha, Ytem** *(SHINIE)*
-🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 17:28:39Z UTC
+🕐 Last updated: 2025-08-13 17:40:05Z UTC
 <!-- SPOTIFY-END -->
