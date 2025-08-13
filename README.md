@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f05fa1637fb8f219bcb55e2d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d9b568ed77af3b6dfbc30027" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)**
-*by* **Bladee**
-*Album:* Ste The Beautiful Martyr 1st Attempt
+**🎵 [Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)**
+*by* **Mall Grab**
+*Album:* How The Dogs Chill, Vol.1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="216" height="4" fill="#1db954" rx="2"/>
+    <circle cx="216" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 2:56
+    4:00 • 5:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[numb.](https://open.spotify.com/track/2DOE8YtxmmJ4m6FYPOGgfm)** by **MOGY, LMG** *(numb.)*
-🎤 **[Blue Star](https://open.spotify.com/track/6GQSSLqpT90ZT5XJwWm8UA)** by **Prince Innocence** *(Blue Star)*
-🎤 **[patience](https://open.spotify.com/track/65f5izVTlsInVMJkndhsCv)** by **notdavid** *(patience)*
-🎤 **[man!](https://open.spotify.com/track/60n0ODVz659LeJuqgSc2ty)** by **93FEETOFSMOKE, thornskin** *(man!)*
-🎤 **[GOTHIC LOVE](https://open.spotify.com/track/4gcgzziOhMlXXBZjuoY20d)** by **LASTWXRDS** *(GOTHIC LOVE)*
+🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
+🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
+🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
+🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 20:14:14Z UTC
+🕐 Last updated: 2025-08-13 20:34:39Z UTC
 <!-- SPOTIFY-END -->
