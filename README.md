@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27385fb885d41591752340eeccc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f05fa1637fb8f219bcb55e2d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Possum Kingdom](https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s)**
-*by* **Toadies**
-*Album:* Rubberneck
+**🎵 [One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)**
+*by* **Bladee**
+*Album:* Ste The Beautiful Martyr 1st Attempt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="9" height="4" fill="#1db954" rx="2"/>
-    <circle cx="9" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 5:08
+    1:45 • 2:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC)** by **Crazy Town** *(The Gift Of Game)*
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[numb.](https://open.spotify.com/track/2DOE8YtxmmJ4m6FYPOGgfm)** by **MOGY, LMG** *(numb.)*
+🎤 **[Blue Star](https://open.spotify.com/track/6GQSSLqpT90ZT5XJwWm8UA)** by **Prince Innocence** *(Blue Star)*
+🎤 **[patience](https://open.spotify.com/track/65f5izVTlsInVMJkndhsCv)** by **notdavid** *(patience)*
+🎤 **[man!](https://open.spotify.com/track/60n0ODVz659LeJuqgSc2ty)** by **93FEETOFSMOKE, thornskin** *(man!)*
+🎤 **[GOTHIC LOVE](https://open.spotify.com/track/4gcgzziOhMlXXBZjuoY20d)** by **LASTWXRDS** *(GOTHIC LOVE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-13 19:47:42Z UTC
+🕐 Last updated: 2025-08-13 20:14:14Z UTC
 <!-- SPOTIFY-END -->
