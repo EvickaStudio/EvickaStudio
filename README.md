@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27340826f7f09fd4355f948e91b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27333cd7345671d06f897a1ccaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY)**
-*by* **Flawless Issues**
-*Album:* Alone Tonight
+**🎵 [ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/4tdv3spzS6ZhdlxV9xVx3O)**
+*by* **DANZINGER 99**
+*Album:* Hotel+++
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="292" height="4" fill="#1db954" rx="2"/>
-    <circle cx="292" cy="2" r="6" fill="#1db954"/>
+    <rect width="45" height="4" fill="#1db954" rx="2"/>
+    <circle cx="45" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 2:37
+    0:29 • 3:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
-🎤 **[Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)** by **nobis** *(Zum Glück (Bist du nicht mehr da))*
-🎤 **[Lass mich schlafen/Тишина](https://open.spotify.com/track/0BVX1IM7AG43HG6MeKCcJf)** by **Traumatin, bishkek** *(Lass mich schlafen/Тишина)*
-🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
-🎤 **[hochhaus](https://open.spotify.com/track/1HjhRYA6qBUyqBWvZhah0R)** by **ghostboo** *(hochhaus)*
+🎤 **[Find dein Glück](https://open.spotify.com/track/3UGwEBSixeIcOBsl7UrRDL)** by **NILS KEPPEL** *(Find dein Glück)*
+🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[lavendel/duft](https://open.spotify.com/track/5AmKD1GxmnMAbpqvlKbQL7)** by **GALAX** *(lavendel/duft)*
+🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
+🎤 **[fahr uns bitte weit](https://open.spotify.com/track/1wW7d2zxXaHb89tGFzvrjx)** by **ghostboo** *(fahr uns bitte weit)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 19:33:31Z UTC
+🕐 Last updated: 2025-08-14 19:47:42Z UTC
 <!-- SPOTIFY-END -->
