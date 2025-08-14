@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273627020c2a76eecd5c18d048b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730894733c00d108333c26d7ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)**
-*by* **TEMMIS**
-*Album:* Klinge
+**🎵 [bankenviertel](https://open.spotify.com/track/4nOBedVYgYQxlCE11nB8aa)**
+*by* **DANZINGER 99**
+*Album:* aber immer noch besser als in dieser welt in der ich wach bin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 3:06
+    0:58 • 1:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Machtlos](https://open.spotify.com/track/0G1elLFbHGXCKsvnbuY8lM)** by **Tape Head, NONI** *(Machtlos)*
-🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
-🎤 **[wenn der himmel nicht mehr blau ist](https://open.spotify.com/track/353M9lOui0IXgNyLQQEK0P)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
+🎤 **[Ja Okkkk](https://open.spotify.com/track/1NdJMqrZl4aqFf4LEHmh6s)** by **Miese Mau, OSAYA** *(Blumenstrauß)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
+🎤 **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 14:36:51Z UTC
+🕐 Last updated: 2025-08-14 14:53:04Z UTC
 <!-- SPOTIFY-END -->
