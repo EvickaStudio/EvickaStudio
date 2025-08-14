@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aa966c5b28692fd8452d930a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737545d3338b16e8251565efb7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)**
-*by* **Traumatin**
-*Album:* Genug
+**🎵 [bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)**
+*by* **Leocardo DiNaprio, emi x**
+*Album:* bis es tag wird
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 2:37
+    1:17 • 3:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FRAGEN](https://open.spotify.com/track/5HZeXQrgsq3NREZU6ExBUA)** by **AMANDUS 99** *(FRAGEN)*
-🎤 **[Sekundenschlaf](https://open.spotify.com/track/5bPHtxHppZgUNQZktiG65X)** by **flö** *(Sekundenschlaf)*
-🎤 **[naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)** by **ghostboo** *(naiv)*
-🎤 **[promise](https://open.spotify.com/track/7o9LCQ8RDOrMWV9dc0TmTG)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[Atlas & Axis](https://open.spotify.com/track/03M55HHUD6oHg5ZscDMAH9)** by **Pavelo & Schnell** *(Autoradio)*
+🎤 **[Zone Out](https://open.spotify.com/track/6jBkR1afY04mU5cNsQCStC)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[regen](https://open.spotify.com/track/25rfQEBTVnFtoDA1BWS5vc)** by **GALAX, Kerobin** *(regen)*
+🎤 **[Das Herz ist mir bedrückt](https://open.spotify.com/track/6jtn5NbR4MybWrnYNi88fF)** by **strangerperson** *(Das Herz ist mir bedrückt)*
+🎤 **[Dunkelgrau](https://open.spotify.com/track/41yrvZBX3yssg2naai5BF5)** by **Tape Head, NONI** *(Dunkelgrau)*
+🎤 **[Raub dir den Verstand](https://open.spotify.com/track/5TQYrbFcJ0A3JCFj6geqvN)** by **Kilian Knight** *(Raub dir den Verstand)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 20:14:53Z UTC
+🕐 Last updated: 2025-08-14 20:34:58Z UTC
 <!-- SPOTIFY-END -->
