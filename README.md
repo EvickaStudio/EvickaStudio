@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273691e4be8a448ee8cbee162f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e1bad46155887c633a0a2a7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)**
-*by* **makko**
-*Album:* Lieb mich oder lass es, Pt.1+2
+**🎵 [SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)**
+*by* **Edwin Rosen**
+*Album:* leichter//kälter / SSS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 2:54
+    1:31 • 2:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
-🎤 **[du musst ein engel sein](https://open.spotify.com/track/20Tm9pPDqIm6m6wXXQ12h0)** by **ghostboo, Juri** *(du musst ein engel sein)*
-🎤 **[zwei stunden](https://open.spotify.com/track/6ilb5DaEu9zp5WFGkXEHcV)** by **b3nn3t, ben clean** *(zwei stunden)*
-🎤 **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))*
-🎤 **[Von ganz weit weg](https://open.spotify.com/track/1Eh4LQx2XVw3Z9CCzd7Vt3)** by **strangerperson** *(Von ganz weit weg)*
+🎤 **[Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)** by **nobis, Absteige** *(Vorschlaghammer)*
+🎤 **[XTC](https://open.spotify.com/track/3LQ8X70pVusy4YPUsW8yHT)** by **mickyi, S1RENA** *(XTC)*
+🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
+🎤 **[Melancholie](https://open.spotify.com/track/2Fm1hz750M8JhAmELP95yd)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[So oder so](https://open.spotify.com/track/551Z4NFBDGHzRpqORT0MTt)** by **Urbannino, DeeLou** *(Wenn nichts bleibt, dann..)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 18:19:21Z UTC
+🕐 Last updated: 2025-08-14 18:50:37Z UTC
 <!-- SPOTIFY-END -->
