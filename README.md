@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273627020c2a76eecd5c18d048b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)**
+*by* **TEMMIS**
+*Album:* Klinge
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="43" height="4" fill="#1db954" rx="2"/>
+    <circle cx="43" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:26 • 3:06
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[du musst ein engel sein](https://open.spotify.com/track/20Tm9pPDqIm6m6wXXQ12h0)** by **ghostboo, Juri** *(du musst ein engel sein)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[Winter](https://open.spotify.com/track/3NIu0ffILZOVXUcf4msCgg)** by **strangerperson** *(Winter)*
-🎤 **[Tendenz steigend](https://open.spotify.com/track/1cdthhd62WrDW1Y4Sf78Er)** by **AMANDUS 99, DANZINGER 99** *(Tendenz steigend)*
+🎤 **[Machtlos](https://open.spotify.com/track/0G1elLFbHGXCKsvnbuY8lM)** by **Tape Head, NONI** *(Machtlos)*
+🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
+🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
+🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
+🎤 **[wenn der himmel nicht mehr blau ist](https://open.spotify.com/track/353M9lOui0IXgNyLQQEK0P)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 14:13:08Z UTC
+🕐 Last updated: 2025-08-14 14:36:51Z UTC
 <!-- SPOTIFY-END -->
