@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
 🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
 🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
 🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
 🎤 **[Halcyon](https://open.spotify.com/track/5HzVqcoEmmgnhxtmmz1a56)** by **Stephanie Hawk** *(Droplets of Dreams)*
-🎤 **[Hollow Glow](https://open.spotify.com/track/2svvXycjHrfDjkdPGvp64m)** by **Dietrich+Dietrich** *(Where Fog Begins)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 10:14:39Z UTC
+🕐 Last updated: 2025-08-14 10:41:10Z UTC
 <!-- SPOTIFY-END -->
