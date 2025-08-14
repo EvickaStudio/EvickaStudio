@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b32c226dfaba04d596d8ad37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27362a547dfe95c3ef8b07def3e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mein Weg](https://open.spotify.com/track/3ZUbJ5wOu0MVXkMu44hjHk)**
-*by* **Kilian Knight**
-*Album:* Mein Weg
+**🎵 [Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)**
+*by* **nobis**
+*Album:* Zum Glück (Bist du nicht mehr da)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:47
+    0:44 • 3:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Zuckerrand](https://open.spotify.com/track/64G2hh0TqAVlGAHGTLGYc8)** by **Streichelt** *(Zuckerrand)*
-🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
-🎤 **[opiate](https://open.spotify.com/track/78ZF43uXsrpiYkbLjCT484)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
-🎤 **[Hunger](https://open.spotify.com/track/116HO9VvAQSO6GS2JhrIBV)** by **Tape Head, NONI, Stoko** *(Hunger)*
+🎤 **[Lass mich schlafen/Тишина](https://open.spotify.com/track/0BVX1IM7AG43HG6MeKCcJf)** by **Traumatin, bishkek** *(Lass mich schlafen/Тишина)*
+🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[hochhaus](https://open.spotify.com/track/1HjhRYA6qBUyqBWvZhah0R)** by **ghostboo** *(hochhaus)*
+🎤 **[Wann es endet](https://open.spotify.com/track/2ZNXOMmmX0NThxNs93ZiBs)** by **Tape Head, NONI, grim104** *(Wann es endet)*
+🎤 **[Mein Weg](https://open.spotify.com/track/3ZUbJ5wOu0MVXkMu44hjHk)** by **Kilian Knight** *(Mein Weg)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 19:11:17Z UTC
+🕐 Last updated: 2025-08-14 19:25:08Z UTC
 <!-- SPOTIFY-END -->
