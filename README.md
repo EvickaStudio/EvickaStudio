@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d714b16e3312d8fb0c4b80d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730894733c00d108333c26d7ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)**
-*by* **Kilian Knight**
-*Album:* Nimm mir die Angst
+**🎵 [wann ist es so leer geworden?](https://open.spotify.com/track/3RUZxZ1CsbIOuNzAo4cqYK)**
+*by* **DANZINGER 99**
+*Album:* aber immer noch besser als in dieser welt in der ich wach bin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="141" height="4" fill="#1db954" rx="2"/>
+    <circle cx="141" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:50
+    1:00 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wieder gut](https://open.spotify.com/track/2iswi2ayohjT0cCdui9k8N)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[Hochhaus](https://open.spotify.com/track/1vagrF9UKmyBw3I52Shf8k)** by **AMANDUS 99, DANZINGER 99** *(Hochhaus)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
-🎤 **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[Burnout - remix](https://open.spotify.com/track/0Hr5CVA9MqZ8UOQplFThOM)** by **Maxi Nagl, juizz** *(Maxi Nagl Prod Tape #1.5 (remixes))*
+🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
+🎤 **[Amicelli](https://open.spotify.com/track/3yuHT1CFZyIqSlkk6ZHOjf)** by **Pavelo & Schnell, Ikkimel** *(Volumen & Kraft)*
+🎤 **[nightjet](https://open.spotify.com/track/7817Rs5G0BpDA8Ppk2uQPE)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Winter](https://open.spotify.com/track/3NIu0ffILZOVXUcf4msCgg)** by **strangerperson** *(Winter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 15:13:50Z UTC
+🕐 Last updated: 2025-08-14 15:34:51Z UTC
 <!-- SPOTIFY-END -->
