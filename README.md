@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2738c83b94ae474d23da09093e8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Burnout - remix](https://open.spotify.com/track/0Hr5CVA9MqZ8UOQplFThOM)**
+*by* **Maxi Nagl, juizz**
+*Album:* Maxi Nagl Prod Tape #1.5 (remixes)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="127" height="4" fill="#1db954" rx="2"/>
+    <circle cx="127" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:50 • 4:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
-🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
-🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
+🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[Wieder gut](https://open.spotify.com/track/2iswi2ayohjT0cCdui9k8N)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
+🎤 **[nightjet](https://open.spotify.com/track/7817Rs5G0BpDA8Ppk2uQPE)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 11:49:27Z UTC
+🕐 Last updated: 2025-08-14 12:27:22Z UTC
 <!-- SPOTIFY-END -->
