@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27333cd7345671d06f897a1ccaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aa966c5b28692fd8452d930a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/4tdv3spzS6ZhdlxV9xVx3O)**
-*by* **DANZINGER 99**
-*Album:* Hotel+++
+**🎵 [Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)**
+*by* **Traumatin**
+*Album:* Genug
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="45" height="4" fill="#1db954" rx="2"/>
-    <circle cx="45" cy="2" r="6" fill="#1db954"/>
+    <rect width="207" height="4" fill="#1db954" rx="2"/>
+    <circle cx="207" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 3:19
+    1:48 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Find dein Glück](https://open.spotify.com/track/3UGwEBSixeIcOBsl7UrRDL)** by **NILS KEPPEL** *(Find dein Glück)*
-🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[lavendel/duft](https://open.spotify.com/track/5AmKD1GxmnMAbpqvlKbQL7)** by **GALAX** *(lavendel/duft)*
-🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
-🎤 **[fahr uns bitte weit](https://open.spotify.com/track/1wW7d2zxXaHb89tGFzvrjx)** by **ghostboo** *(fahr uns bitte weit)*
+🎤 **[FRAGEN](https://open.spotify.com/track/5HZeXQrgsq3NREZU6ExBUA)** by **AMANDUS 99** *(FRAGEN)*
+🎤 **[Sekundenschlaf](https://open.spotify.com/track/5bPHtxHppZgUNQZktiG65X)** by **flö** *(Sekundenschlaf)*
+🎤 **[naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)** by **ghostboo** *(naiv)*
+🎤 **[promise](https://open.spotify.com/track/7o9LCQ8RDOrMWV9dc0TmTG)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[Atlas & Axis](https://open.spotify.com/track/03M55HHUD6oHg5ZscDMAH9)** by **Pavelo & Schnell** *(Autoradio)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-14 19:47:42Z UTC
+🕐 Last updated: 2025-08-14 20:14:53Z UTC
 <!-- SPOTIFY-END -->
