@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b932b34ed353814d24c3ab9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731dcba4a728ca0b17cbd204a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blame](https://open.spotify.com/track/2BnVhWkKgXYUOeVTM4Vinj)**
-*by* **Sg Lily, Loveboy**
-*Album:* 17 Again
+**🎵 [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)**
+*by* **Manu Chao**
+*Album:* Próxima Estación: Esperanza
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:17
+    0:58 • 3:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
-🎤 **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[Castles](https://open.spotify.com/track/2sfUCYCJ03AOtatqBmgxAx)** by **DJ_Dave** *(Castles)*
-🎤 **[Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c)** by **Zedd, Foxes** *(Clarity)*
+🎤 **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)*
+🎤 **[Feather (feat. Cise Starr & Akin from CYNE)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR)** by **Nujabes, Cise Starr & Akin from CYNE** *(Modal Soul)*
+🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 06:20:09Z UTC
+🕐 Last updated: 2025-08-15 06:51:22Z UTC
 <!-- SPOTIFY-END -->
