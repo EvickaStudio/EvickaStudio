@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e8cde942632132e83620559f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)**
+*by* **Machine Girl**
+*Album:* Wlfgrl
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:41 • 0:46
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Memento](https://open.spotify.com/track/294klLo8mW1Mi69CFmXAjk)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[bluten (2000er jungs)](https://open.spotify.com/track/6bo8H3vBEnuCsAWv4Ebmah)** by **ghostboo** *(bluten (2000er jungs))*
-🎤 **[bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)** by **Leocardo DiNaprio, emi x** *(bis es tag wird)*
-🎤 **[Zone Out](https://open.spotify.com/track/6jBkR1afY04mU5cNsQCStC)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[regen](https://open.spotify.com/track/25rfQEBTVnFtoDA1BWS5vc)** by **GALAX, Kerobin** *(regen)*
+🎤 **[helicopter](https://open.spotify.com/track/18jrEdTKxaz6ThhoZeffIK)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
+🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
+🎤 **[Milka](https://open.spotify.com/track/3iCGsnaeCv2ToZmHwYORsn)** by **Dead Dawg, Ion Miles, BHZ, Monk** *(Kiezromantik)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 03:52:03Z UTC
+🕐 Last updated: 2025-08-15 04:24:21Z UTC
 <!-- SPOTIFY-END -->
