@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)**
-*by* **Frank Ocean**
-*Album:* Blonde
+**🎵 [AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)**
+*by* **Ecco2k**
+*Album:* E
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 4:08
+    1:01 • 4:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)** by **Brutalismus 3000** *(GOODBYE SALÒ)*
-🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
+🎤 **[YEAH RIGHT](https://open.spotify.com/track/52ooD6LHuXFubM6d1CDD93)** by **Joji** *(BALLADS 1)*
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 19:10:12Z UTC
+🕐 Last updated: 2025-08-15 19:25:19Z UTC
 <!-- SPOTIFY-END -->
