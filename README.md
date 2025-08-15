@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b961c4837a258ae0de5a69ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d4322a9004288009f6da2975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Panzerglas](https://open.spotify.com/track/4UCKZ477w6u348Y1yEmPlf)**
-*by* **Miese Mau, NILS KEPPEL**
-*Album:* Blumenstrauß
+**🎵 [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)**
+*by* **BICEP**
+*Album:* Bicep
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 3:28
+    1:20 • 4:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bleibt für ewich](https://open.spotify.com/track/7DGFmeMubdkOv8kYSbrTRs)** by **b3nn3t** *(bleibt für ewich)*
-🎤 **[5.5 Hz Reduce Anxiety - Binaural Beats](https://open.spotify.com/track/1RcQjv1eh5WPMh14IzC0Sw)** by **Neuroflow** *(Theta Waves: Meditation (Binaural Beats))*
-🎤 **[Dawel](https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr)** by **Charles Sardo** *(Dawel)*
-🎤 **[Harmony](https://open.spotify.com/track/78LsVJbbJc4y6AeKpcEOnD)** by **Serenity** *(Rebirth)*
-🎤 **[Embers](https://open.spotify.com/track/2vuRexumQtLM6Wk1zNg9NN)** by **Eisbär und Bergmann** *(Drift Beneath the Stars)*
+🎤 **[bad bitch molly addict](https://open.spotify.com/track/0fvDBzHfS0UhJ6GAi4uS9R)** by **d3r, Pr0xy, jakubshaggy** *(bad bitch molly addict)*
+🎤 **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)*
+🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
+🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[tell you straight](https://open.spotify.com/track/2C96iPyCRXL5sOKivhlOWp)** by **jigitz** *(all my exes live in brooklyn)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 18:18:39Z UTC
+🕐 Last updated: 2025-08-15 18:49:16Z UTC
 <!-- SPOTIFY-END -->
