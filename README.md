@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e06761966f8c5eb183200221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b961c4837a258ae0de5a69ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dirt](https://open.spotify.com/track/26cVsy0I8ZU9jIMCoROvPu)**
-*by* **Sega Bodega**
-*Album:* Dennis
+**🎵 [Panzerglas](https://open.spotify.com/track/4UCKZ477w6u348Y1yEmPlf)**
+*by* **Miese Mau, NILS KEPPEL**
+*Album:* Blumenstrauß
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 4:15
+    2:16 • 3:28
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hotel bronco](https://open.spotify.com/track/33XxWJDDJRqWTsRsYFfhal)** by **Floats** *(hotel bronco)*
-🎤 **[sufrimiento de dios](https://open.spotify.com/track/6owiVeDo5kAXCMHK4Fik8e)** by **xójira** *(psych ward valentine)*
-🎤 **[Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN)** by **Operelly** *(Encyclopedia)*
-🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[bleibt für ewich](https://open.spotify.com/track/7DGFmeMubdkOv8kYSbrTRs)** by **b3nn3t** *(bleibt für ewich)*
+🎤 **[5.5 Hz Reduce Anxiety - Binaural Beats](https://open.spotify.com/track/1RcQjv1eh5WPMh14IzC0Sw)** by **Neuroflow** *(Theta Waves: Meditation (Binaural Beats))*
+🎤 **[Dawel](https://open.spotify.com/track/6imPjyaeTkegHqHQCY7pOr)** by **Charles Sardo** *(Dawel)*
+🎤 **[Harmony](https://open.spotify.com/track/78LsVJbbJc4y6AeKpcEOnD)** by **Serenity** *(Rebirth)*
+🎤 **[Embers](https://open.spotify.com/track/2vuRexumQtLM6Wk1zNg9NN)** by **Eisbär und Bergmann** *(Drift Beneath the Stars)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 17:48:28Z UTC
+🕐 Last updated: 2025-08-15 18:18:39Z UTC
 <!-- SPOTIFY-END -->
