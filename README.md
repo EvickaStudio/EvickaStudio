@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731ee775acf7153a3f50919035" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273632c6dc4378dcf85d9bf7c01" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Time in the Afternoon](https://open.spotify.com/track/65gjM18NojCDOTENUde68G)**
-*by* **orbit**
-*Album:* Time in the Afternoon
+**🎵 [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)**
+*by* **MRD**
+*Album:* fucking highschool people
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:46 • 3:47
+    3:18 • 3:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
-🎤 **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)*
-🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
+🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
+🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 08:46:07Z UTC
+🕐 Last updated: 2025-08-15 09:14:02Z UTC
 <!-- SPOTIFY-END -->
