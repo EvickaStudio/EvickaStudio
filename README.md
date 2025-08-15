@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a04cea5c54f2a1b99f727b2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e06761966f8c5eb183200221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)**
-*by* **lustr**
-*Album:* burnt
+**🎵 [Dirt](https://open.spotify.com/track/26cVsy0I8ZU9jIMCoROvPu)**
+*by* **Sega Bodega**
+*Album:* Dennis
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:20
+    2:32 • 4:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
-🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
-🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
+🎤 **[hotel bronco](https://open.spotify.com/track/33XxWJDDJRqWTsRsYFfhal)** by **Floats** *(hotel bronco)*
+🎤 **[sufrimiento de dios](https://open.spotify.com/track/6owiVeDo5kAXCMHK4Fik8e)** by **xójira** *(psych ward valentine)*
+🎤 **[Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN)** by **Operelly** *(Encyclopedia)*
+🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 17:31:27Z UTC
+🕐 Last updated: 2025-08-15 17:48:28Z UTC
 <!-- SPOTIFY-END -->
