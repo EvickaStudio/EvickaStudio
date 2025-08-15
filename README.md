@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737703ff4a5bb2163ed54ea2b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e076f96642e923876345d280" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)**
-*by* **Nosgov**
-*Album:* Can't Catch a Break
+**🎵 [comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)**
+*by* **DANZINGER 99, NEUNUNDNEUNZIG**
+*Album:* comeback d9 prime era
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="37" height="4" fill="#1db954" rx="2"/>
-    <circle cx="37" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:29
+    0:26 • 1:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
+🎤 **[pain in my brain](https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
 🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
 🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
-🎤 **[USA](https://open.spotify.com/track/0WisAg3WlmAiCF34FlFAXz)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Saiya Tiaw, Nicki Papa** *(USA)*
+🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
+🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 20:14:12Z UTC
+🕐 Last updated: 2025-08-15 20:33:36Z UTC
 <!-- SPOTIFY-END -->
