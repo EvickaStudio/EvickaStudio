@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e8cde942632132e83620559f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732f5066ea2ce297e83fe6c724" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)**
-*by* **Machine Girl**
-*Album:* Wlfgrl
+**🎵 [your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)**
+*by* **Jane Remover**
+*Album:* Frailty
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="268" height="4" fill="#1db954" rx="2"/>
-    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 0:46
+    2:32 • 4:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[helicopter](https://open.spotify.com/track/18jrEdTKxaz6ThhoZeffIK)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)*
-🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
-🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
-🎤 **[Milka](https://open.spotify.com/track/3iCGsnaeCv2ToZmHwYORsn)** by **Dead Dawg, Ion Miles, BHZ, Monk** *(Kiezromantik)*
+🎤 **[Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)** by **Sun Kil Moon** *(Ghosts of the Great Highway)*
+🎤 **[can you tell?](https://open.spotify.com/track/38Y1BydPpwCEtW7LppLVTl)** by **Jane Remover** *(Frailty)*
+🎤 **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))*
+🎤 **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)*
+🎤 **[Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)** by **Machine Girl** *(Wlfgrl)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-15 04:24:21Z UTC
+🕐 Last updated: 2025-08-15 04:49:05Z UTC
 <!-- SPOTIFY-END -->
