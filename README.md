@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
+*by* **Tape Head, NONI, Goldroger**
+*Album:* Memento Mori
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:25 • 2:48
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
+🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
+🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
+🎤 **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)*
 🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
-🎤 **[alter](https://open.spotify.com/track/2KaTM7mybMStf5oM02uOXa)** by **Dion Dugas, Kaiyko** *(rstrui.exe)*
-🎤 **[i fell asleep in a sea of clouds](https://open.spotify.com/track/1QZ6Wyebf5aYFGrVF6DDrZ)** by **Deathbrain** *(a slice of life)*
-🎤 **[Runaways](https://open.spotify.com/track/26ssYVUZk4NUvlAfZOqnDK)** by **Mirror Kisses, George Clanton** *(Heartbeats)*
-🎤 **[chasing sunsets](https://open.spotify.com/track/7o8Gw7U778elkitRRwn2uy)** by **Cleopard2000** *(chasing sunsets)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-16 14:30:23Z UTC
+🕐 Last updated: 2025-08-16 14:48:12Z UTC
 <!-- SPOTIFY-END -->
