@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732ead2e69a891ada48903f869" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [i fell asleep in a sea of clouds](https://open.spotify.com/track/1QZ6Wyebf5aYFGrVF6DDrZ)**
-*by* **Deathbrain**
-*Album:* a slice of life
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 4:19
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[alter](https://open.spotify.com/track/2KaTM7mybMStf5oM02uOXa)** by **Dion Dugas, Kaiyko** *(rstrui.exe)*
+🎤 **[i fell asleep in a sea of clouds](https://open.spotify.com/track/1QZ6Wyebf5aYFGrVF6DDrZ)** by **Deathbrain** *(a slice of life)*
 🎤 **[Runaways](https://open.spotify.com/track/26ssYVUZk4NUvlAfZOqnDK)** by **Mirror Kisses, George Clanton** *(Heartbeats)*
 🎤 **[chasing sunsets](https://open.spotify.com/track/7o8Gw7U778elkitRRwn2uy)** by **Cleopard2000** *(chasing sunsets)*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
-🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-16 13:02:20Z UTC
+🕐 Last updated: 2025-08-16 13:35:35Z UTC
 <!-- SPOTIFY-END -->
