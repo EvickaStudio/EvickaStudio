@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273315594cb244d0b99cb2e1e22" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [mental health](https://open.spotify.com/track/2EtYSZ5X3u7DrrwALKYZyy)**
-*by* **pink luu, Lytra, cxpyyy, luu**
-*Album:* mental health
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:51
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
+🎤 **[mental health](https://open.spotify.com/track/2EtYSZ5X3u7DrrwALKYZyy)** by **pink luu, Lytra, cxpyyy, luu** *(mental health)*
 🎤 **[04:30](https://open.spotify.com/track/7Cgar1fczX18RuU0nUnLuF)** by **pink luu, nami, cxpyyy, luu** *(pain parade)*
 🎤 **[hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)** by **pink luu, cxpyyy, luu** *(0800-111-0-111)*
 🎤 **[Monster](https://open.spotify.com/track/6NIMeK6PIUpPTNKU3C6fMF)** by **l4eiche** *(Monster)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[ritalin](https://open.spotify.com/track/7wCWsBFwvakWqwbiKZFhSZ)** by **pink luu, nami, luu** *(pain parade)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 17:30:11Z UTC
+🕐 Last updated: 2025-08-17 17:42:38Z UTC
 <!-- SPOTIFY-END -->
