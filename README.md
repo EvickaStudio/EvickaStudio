@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273adf3073dc75475898b1ed501" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273315594cb244d0b99cb2e1e22" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [rein in mein zuhause](https://open.spotify.com/track/7d8p99FCBHewKahSBfHnlW)**
-*by* **pink luu, ystn**
-*Album:* rein in mein zuhause
+**🎵 [mental health](https://open.spotify.com/track/2EtYSZ5X3u7DrrwALKYZyy)**
+*by* **pink luu, Lytra, cxpyyy, luu**
+*Album:* mental health
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="65" height="4" fill="#1db954" rx="2"/>
-    <circle cx="65" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 1:56
+    1:47 • 2:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[taschentücher](https://open.spotify.com/track/2jiRplIpJ6t42e9qcv84oF)** by **pink luu, SSJ Twiin** *(taschentücher)*
-🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
-🎤 **[Echte Love](https://open.spotify.com/track/679lY9TcMz2fpUl53NrhV7)** by **l4eiche** *(Echte Love)*
-🎤 **[es tut mir leid](https://open.spotify.com/track/6gmlS4cLXqgu1JvtDOAl1I)** by **cy4ne, pink luu** *(es tut mir leid)*
-🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
+🎤 **[04:30](https://open.spotify.com/track/7Cgar1fczX18RuU0nUnLuF)** by **pink luu, nami, cxpyyy, luu** *(pain parade)*
+🎤 **[hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)** by **pink luu, cxpyyy, luu** *(0800-111-0-111)*
+🎤 **[Monster](https://open.spotify.com/track/6NIMeK6PIUpPTNKU3C6fMF)** by **l4eiche** *(Monster)*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[ritalin](https://open.spotify.com/track/7wCWsBFwvakWqwbiKZFhSZ)** by **pink luu, nami, luu** *(pain parade)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 17:10:48Z UTC
+🕐 Last updated: 2025-08-17 17:30:11Z UTC
 <!-- SPOTIFY-END -->
