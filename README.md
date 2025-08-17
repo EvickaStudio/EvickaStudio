@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a23f8827cbb0cfffc551b26f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27316dda4649fa450e0db51a265" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [100 wings](https://open.spotify.com/track/69X0l7NPEYBucjUShO05xN)**
-*by* **Dexndre**
-*Album:* cathedrals
+**🎵 [Staub](https://open.spotify.com/track/74Xs1K4MxMXNBs2ANbW9P2)**
+*by* **S1RENA**
+*Album:* Staub
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 2:37
+    0:14 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[she wnna](https://open.spotify.com/track/0Jhk0sWoI13AorTkNuJbCq)** by **SUICIDAL-IDOL, Kaneda7** *(she wnna)*
-🎤 **[OUR LOVE IS DIGITAL](https://open.spotify.com/track/2m0Ny6FKJ9GuMu0m1hqtBZ)** by **lavendr, dollreal, Pixel Hood** *(OUR LOVE IS DIGITAL)*
-🎤 **[4 or 5 bullets](https://open.spotify.com/track/4V4ODPW1GDCmA8zijEzbxl)** by **Miguel Angeles** *(4 or 5 bullets)*
-🎤 **[cigarettes](https://open.spotify.com/track/4OksSBz2bjVxSwgqqNWwFl)** by **3DOKI** *(cigarettes)*
-🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu, cxpyyy, luu** *(ABCD)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 20:33:00Z UTC
+🕐 Last updated: 2025-08-17 20:49:52Z UTC
 <!-- SPOTIFY-END -->
