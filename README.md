@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27397f77dd83347bf87ac64558b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a23f8827cbb0cfffc551b26f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* Schnuffel
+**🎵 [100 wings](https://open.spotify.com/track/69X0l7NPEYBucjUShO05xN)**
+*by* **Dexndre**
+*Album:* cathedrals
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="181" height="4" fill="#1db954" rx="2"/>
-    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 3:15
+    1:29 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
-🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
-🎤 **[Bedak :D](https://open.spotify.com/track/5TNZRkMMdOZcqX0CU6naY7)** by **Nomark** *(Bedak :D)*
-🎤 **[Luv ₊˚ෆ - sped-up](https://open.spotify.com/track/3DD1i7i1IT6VU5ds26HOE2)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[Atlantis - sped up](https://open.spotify.com/track/6QdUwjKRMzzQs4Rti0l2Ut)** by **S1RENA** *(Atlantis)*
+🎤 **[she wnna](https://open.spotify.com/track/0Jhk0sWoI13AorTkNuJbCq)** by **SUICIDAL-IDOL, Kaneda7** *(she wnna)*
+🎤 **[OUR LOVE IS DIGITAL](https://open.spotify.com/track/2m0Ny6FKJ9GuMu0m1hqtBZ)** by **lavendr, dollreal, Pixel Hood** *(OUR LOVE IS DIGITAL)*
+🎤 **[4 or 5 bullets](https://open.spotify.com/track/4V4ODPW1GDCmA8zijEzbxl)** by **Miguel Angeles** *(4 or 5 bullets)*
+🎤 **[cigarettes](https://open.spotify.com/track/4OksSBz2bjVxSwgqqNWwFl)** by **3DOKI** *(cigarettes)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 20:13:53Z UTC
+🕐 Last updated: 2025-08-17 20:33:00Z UTC
 <!-- SPOTIFY-END -->
