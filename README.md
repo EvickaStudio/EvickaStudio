@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273659fc9ddcbb276d2cae0c40c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)**
-*by* **Punk Christ**
-*Album:* perks of being a wallflower
+**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
+*by* **Tape Head, NONI, Goldroger**
+*Album:* Memento Mori
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="108" height="4" fill="#1db954" rx="2"/>
-    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:49 • 2:17
+    1:15 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
+🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
+🎤 **[Unendlichkeit](https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H)** by **MilleniumKid, JBS** *(Unendlichkeit)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 13:49:16Z UTC
+🕐 Last updated: 2025-08-17 14:11:10Z UTC
 <!-- SPOTIFY-END -->
