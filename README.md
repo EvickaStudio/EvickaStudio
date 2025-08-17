@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732e9dcd5768182268f8a46dec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d9fc2435584eb0aca677e94" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)**
-*by* **stixz**
-*Album:* fashionscars
+**🎵 [FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* FiFA༺♡✧+++
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="91" height="4" fill="#1db954" rx="2"/>
-    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 1:45
+    1:28 • 2:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[everything is all in ur head](https://open.spotify.com/track/2elkorHHbFcigviCb9apQP)** by **Miguel Angeles, F3lix** *(everything is all in ur head)*
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
-🎤 **[Dance with me](https://open.spotify.com/track/3vZo7sruPDp9hLaRlYqINb)** by **cxpyyy, TheyhxteAnt** *(Dance with me)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
+🎤 **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[Ich romantisiere Drogen](https://open.spotify.com/track/5f53Pdy4937QSXB3h5HJIA)** by **Punk Christ, Love Pact** *(NERVENKONSTRUKT)*
+🎤 **[bad girls club](https://open.spotify.com/track/3NNFXjwY46Dhvbjd7qjGrp)** by **z4y4** *(bad girls club)*
+🎤 **[DIE FIRMA .... NIKOLA & MILAS](https://open.spotify.com/track/4H7hrakBCntdeOCVvLj7Zp)** by **agelast222** *(SOLARCORP)*
+🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 19:34:03Z UTC
+🕐 Last updated: 2025-08-17 19:47:41Z UTC
 <!-- SPOTIFY-END -->
