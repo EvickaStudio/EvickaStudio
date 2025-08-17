@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f0aa399f32f1da0d2229646" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273adf3073dc75475898b1ed501" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [xan romance](https://open.spotify.com/track/28Lfr7bE5QQiM2KGddXZeF)**
-*by* **luu, syris**
-*Album:* xan romance
+**🎵 [rein in mein zuhause](https://open.spotify.com/track/7d8p99FCBHewKahSBfHnlW)**
+*by* **pink luu, ystn**
+*Album:* rein in mein zuhause
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 2:41
+    0:25 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
-🎤 **[bLuTbAd](https://open.spotify.com/track/2HQCRzgWn6ddZXOCCJBzyW)** by **luu, offaflat** *(bLuTbAd)*
-🎤 **[ex-freundin](https://open.spotify.com/track/5NtxjC5g3IVOpdk1AbAgRM)** by **luu, Nosgov** *(ex-freundin)*
-🎤 **[traced around](https://open.spotify.com/track/0TVgzQkriSEYeVRwXZwkiu)** by **4rde, luu, corpse disposal** *(traced around)*
-🎤 **[karamelltanzen](https://open.spotify.com/track/3lcOAKBgD1JNy2KgwF5iJH)** by **l4eiche, luu** *(karamelltanzen)*
+🎤 **[taschentücher](https://open.spotify.com/track/2jiRplIpJ6t42e9qcv84oF)** by **pink luu, SSJ Twiin** *(taschentücher)*
+🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
+🎤 **[Echte Love](https://open.spotify.com/track/679lY9TcMz2fpUl53NrhV7)** by **l4eiche** *(Echte Love)*
+🎤 **[es tut mir leid](https://open.spotify.com/track/6gmlS4cLXqgu1JvtDOAl1I)** by **cy4ne, pink luu** *(es tut mir leid)*
+🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 16:53:03Z UTC
+🕐 Last updated: 2025-08-17 17:10:48Z UTC
 <!-- SPOTIFY-END -->
