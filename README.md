@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27329ed24a9129508f6a27bde4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739f0aa399f32f1da0d2229646" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)**
-*by* **luu, iwannabemissed**
-*Album:* schnuffel
+**🎵 [xan romance](https://open.spotify.com/track/28Lfr7bE5QQiM2KGddXZeF)**
+*by* **luu, syris**
+*Album:* xan romance
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="108" height="4" fill="#1db954" rx="2"/>
-    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 1:43
+    1:17 • 2:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[ULALA](https://open.spotify.com/track/7JyJ18iimrbXrkNGi70Byv)** by **pink luu, Pröz** *(ULALA)*
+🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
+🎤 **[bLuTbAd](https://open.spotify.com/track/2HQCRzgWn6ddZXOCCJBzyW)** by **luu, offaflat** *(bLuTbAd)*
+🎤 **[ex-freundin](https://open.spotify.com/track/5NtxjC5g3IVOpdk1AbAgRM)** by **luu, Nosgov** *(ex-freundin)*
+🎤 **[traced around](https://open.spotify.com/track/0TVgzQkriSEYeVRwXZwkiu)** by **4rde, luu, corpse disposal** *(traced around)*
+🎤 **[karamelltanzen](https://open.spotify.com/track/3lcOAKBgD1JNy2KgwF5iJH)** by **l4eiche, luu** *(karamelltanzen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 16:38:31Z UTC
+🕐 Last updated: 2025-08-17 16:53:03Z UTC
 <!-- SPOTIFY-END -->
