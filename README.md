@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e92361af5facda3ec7e989b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
-*by* **Tape Head, NONI, Goldroger**
-*Album:* Memento Mori
+**🎵 [Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)**
+*by* **Tamino404**
+*Album:* es ist nicht mehr 2016
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="272" height="4" fill="#1db954" rx="2"/>
-    <circle cx="272" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 2:48
+    0:46 • 2:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[Winterschlaf](https://open.spotify.com/track/5uu0UTwWZeSpyKcIS8T78M)** by **Tamino404** *(es ist nicht mehr 2016)*
+🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
+🎤 **[deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)** by **Tamino404** *(du hast uns alle vergessen und ich bin stolz auf dich)*
 🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
 🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
-🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
-🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
 
 
 
@@ -146,7 +146,7 @@
 🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🥉 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
-🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
+🏅 [**Leocardo DiNaprio**](https://open.spotify.com/artist/6oB4vi2HIyph0htfDjToR6)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-17 15:11:42Z UTC
+🕐 Last updated: 2025-08-17 15:30:21Z UTC
 <!-- SPOTIFY-END -->
