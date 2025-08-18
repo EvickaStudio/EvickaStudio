@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738acbf151cb1cddc9b7dc3933" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27323bbec2dae0ddfbb344b042f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Put It In Me](https://open.spotify.com/track/4fEYTr9x7gZ63guaO82RJM)**
-*by* **snowplug**
-*Album:* SnowEP
+**🎵 [Nosebleeds in my Calvin Jeans](https://open.spotify.com/track/32s0DUB3owzUyKOXRzfs0j)**
+*by* **velvette blue**
+*Album:* Nosebleeds in my Calvin Jeans
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:12
+    0:42 • 4:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Semester In Japan](https://open.spotify.com/track/7fdMdPJ3xwCJDMDVqqw7WR)** by **Tommy Fleece** *(audio stars)*
-🎤 **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)*
-🎤 **[Tell Me](https://open.spotify.com/track/7h3nwFlCtiRcS312M4tHEF)** by **Suzy Sheer** *(Blissed)*
-🎤 **[skin - jtvengeance remix](https://open.spotify.com/track/1SmL4xPKEmZJbXOsUHHe8l)** by **JTVENGEANCE, anna luna** *(skin (jtvengeance remix))*
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
+🎤 **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
+🎤 **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)*
+🎤 **[I dont want to hurt him. I like him.](https://open.spotify.com/track/2rD7B3CwpLcauKz1tlRdiP)** by **Gore girl, 8485** *(I dont want to hurt him. I like him.)*
+🎤 **[air](https://open.spotify.com/track/260xDhl08eJzOWWFwB9n1Q)** by **xo** *(whitenoise)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 09:54:33Z UTC
+🕐 Last updated: 2025-08-18 10:15:02Z UTC
 <!-- SPOTIFY-END -->
