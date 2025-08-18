@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c6338591296f5bc085c8f355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f04aed2395ab9d25456d13d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Darling](https://open.spotify.com/track/3WMgtLgzzgCixu86kVMgNh)**
-*by* **Rad&Co**
-*Album:* Darling
+**🎵 [Deeply](https://open.spotify.com/track/7iUxHYCYe2fhlJ7YbBZ9Nh)**
+*by* **Frink**
+*Album:* Deeply
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 3:21
+    0:20 • 6:28
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Bloom](https://open.spotify.com/track/40EcyIQoY1429p3gGiI63l)** by **Malin Genie** *(Bloom)*
+🎤 **[Night Vision](https://open.spotify.com/track/0krhv81TlJ5qRGDJFoM76U)** by **Jason Hersco** *(Night Vision)*
+🎤 **[Darling](https://open.spotify.com/track/3WMgtLgzzgCixu86kVMgNh)** by **Rad&Co** *(Darling)*
 🎤 **[No Remorse](https://open.spotify.com/track/4B8dW0fsRrN57yunOzplcs)** by **Soundboarders** *(House File)*
 🎤 **[Tmb](https://open.spotify.com/track/3yUN8TxzWKGn0JxYhqbrtW)** by **belac** *(Tmb)*
-🎤 **[Unconditional Love](https://open.spotify.com/track/35c6sdyTu4euKo4WDMmtMg)** by **Sideluv** *(Unconditional Love)*
-🎤 **[Shibuya](https://open.spotify.com/track/5hPzmRnfZzCQLlxcthDzGy)** by **Odysseus** *(Y2K)*
-🎤 **[Unspoken Thoughts](https://open.spotify.com/track/4Sapcp022sWJAyZdAvsRfI)** by **Rad&Co** *(Unspoken Thoughts)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 19:27:32Z UTC
+🕐 Last updated: 2025-08-18 19:37:53Z UTC
 <!-- SPOTIFY-END -->
