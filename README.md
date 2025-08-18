@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b50728c78e680e5322c06831" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27365ac3a0ece359db885055224" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [plus!](https://open.spotify.com/track/7Lo4sD0fpx8pUYKn9DoQck)**
-*by* **xo**
-*Album:* plus!
+**🎵 [I fuck with this pain](https://open.spotify.com/track/25oJSGZuxGszb6l2vwN302)**
+*by* **Global, Siisyland, Sodomland**
+*Album:* I fuck with this pain
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 1:43
+    2:26 • 2:50
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[my glue](https://open.spotify.com/track/0B37hZATkkCj1C2WZZnIw8)** by **bliiiss** *(my glue)*
-🎤 **[Chopping Caroline](https://open.spotify.com/track/5wV2QsGT7PgaE7Rt4Cv9QI)** by **SILICONE VALLEY, amy** *(Chopping Caroline)*
-🎤 **[shoegaze909](https://open.spotify.com/track/6VDOxFTI1bZf63kfF1pdxo)** by **Goochems** *(shoegaze909)*
-🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
-🎤 **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)*
+🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
+🎤 **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)*
+🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[summer](https://open.spotify.com/track/7rZakQcep7Tqhrwb5U72ml)** by **damon r.** *(summer)*
+🎤 **[The Only One](https://open.spotify.com/track/6GEmBK8gkfgjV8eZblRpga)** by **DJmegan23, Cereal Experiments, Lusi** *(The Only One)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🥉 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 🏅 [**Leocardo DiNaprio**](https://open.spotify.com/artist/6oB4vi2HIyph0htfDjToR6)
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 11:12:25Z UTC
+🕐 Last updated: 2025-08-18 11:29:14Z UTC
 <!-- SPOTIFY-END -->
