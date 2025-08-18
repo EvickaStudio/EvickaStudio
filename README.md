@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27323bbec2dae0ddfbb344b042f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a4b1528e3b76daf88e26c97c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nosebleeds in my Calvin Jeans](https://open.spotify.com/track/32s0DUB3owzUyKOXRzfs0j)**
-*by* **velvette blue**
-*Album:* Nosebleeds in my Calvin Jeans
+**🎵 [time](https://open.spotify.com/track/5usMf75Fp6syf4LaLj8nsu)**
+*by* **xo**
+*Album:* whitenoise
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="49" height="4" fill="#1db954" rx="2"/>
-    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 4:15
+    1:58 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)*
-🎤 **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)*
-🎤 **[I dont want to hurt him. I like him.](https://open.spotify.com/track/2rD7B3CwpLcauKz1tlRdiP)** by **Gore girl, 8485** *(I dont want to hurt him. I like him.)*
-🎤 **[air](https://open.spotify.com/track/260xDhl08eJzOWWFwB9n1Q)** by **xo** *(whitenoise)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[starDust](https://open.spotify.com/track/64jKxG8863hplIb8i5A35k)** by **veil** *(starDust)*
+🎤 **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[Enzyme](https://open.spotify.com/track/6A7oU5L6aKfnEdMXajsFZJ)** by **Contact Sports** *(Enzyme)*
+🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
+🎤 **[H2D - (Eurohead x Varg²™ Remix)](https://open.spotify.com/track/1MQXhg7hdHN8BiP5gIj3VK)** by **Varg²™, Eurohead, Bladee, Ecco2k** *(H2D (Eurohead x Varg²™ Remix))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 10:15:02Z UTC
+🕐 Last updated: 2025-08-18 10:42:29Z UTC
 <!-- SPOTIFY-END -->
