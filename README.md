@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a4b1528e3b76daf88e26c97c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [time](https://open.spotify.com/track/5usMf75Fp6syf4LaLj8nsu)**
-*by* **xo**
-*Album:* whitenoise
+**🎵 [Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)**
+*by* **Somewhere Special**
+*Album:* Blizzard Warning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:35
+    0:15 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[starDust](https://open.spotify.com/track/64jKxG8863hplIb8i5A35k)** by **veil** *(starDust)*
-🎤 **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)*
-🎤 **[Enzyme](https://open.spotify.com/track/6A7oU5L6aKfnEdMXajsFZJ)** by **Contact Sports** *(Enzyme)*
-🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
-🎤 **[H2D - (Eurohead x Varg²™ Remix)](https://open.spotify.com/track/1MQXhg7hdHN8BiP5gIj3VK)** by **Varg²™, Eurohead, Bladee, Ecco2k** *(H2D (Eurohead x Varg²™ Remix))*
+🎤 **[i wish…](https://open.spotify.com/track/24xZVUFik7aMwT7sePEy1M)** by **SHEMYYY** *(i wish…)*
+🎤 **[Trust me](https://open.spotify.com/track/1cVwRdS0AqtQf3vdjsGcE9)** by **Ruby Bell** *(Trust me (edits))*
+🎤 **[World Keeps Spinning](https://open.spotify.com/track/0Yuwqy2IDayoirpveqZCs4)** by **thayerperiod, ÆM** *(World Keeps Spinning)*
+🎤 **[DNA REPAIR FREQUENCY "FG006"](https://open.spotify.com/track/3REWG291IoPX6EiSWV533w)** by **Focus Group, bleachblonde, w3bcam, Aidan Swank** *(FG COMPILATION "2018-2020")*
+🎤 **[time](https://open.spotify.com/track/5usMf75Fp6syf4LaLj8nsu)** by **xo** *(whitenoise)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 10:42:29Z UTC
+🕐 Last updated: 2025-08-18 10:54:10Z UTC
 <!-- SPOTIFY-END -->
