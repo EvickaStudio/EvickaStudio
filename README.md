@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b50728c78e680e5322c06831" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)**
-*by* **Somewhere Special**
-*Album:* Blizzard Warning
+**🎵 [plus!](https://open.spotify.com/track/7Lo4sD0fpx8pUYKn9DoQck)**
+*by* **xo**
+*Album:* plus!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:58
+    0:35 • 1:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i wish…](https://open.spotify.com/track/24xZVUFik7aMwT7sePEy1M)** by **SHEMYYY** *(i wish…)*
-🎤 **[Trust me](https://open.spotify.com/track/1cVwRdS0AqtQf3vdjsGcE9)** by **Ruby Bell** *(Trust me (edits))*
-🎤 **[World Keeps Spinning](https://open.spotify.com/track/0Yuwqy2IDayoirpveqZCs4)** by **thayerperiod, ÆM** *(World Keeps Spinning)*
-🎤 **[DNA REPAIR FREQUENCY "FG006"](https://open.spotify.com/track/3REWG291IoPX6EiSWV533w)** by **Focus Group, bleachblonde, w3bcam, Aidan Swank** *(FG COMPILATION "2018-2020")*
-🎤 **[time](https://open.spotify.com/track/5usMf75Fp6syf4LaLj8nsu)** by **xo** *(whitenoise)*
+🎤 **[my glue](https://open.spotify.com/track/0B37hZATkkCj1C2WZZnIw8)** by **bliiiss** *(my glue)*
+🎤 **[Chopping Caroline](https://open.spotify.com/track/5wV2QsGT7PgaE7Rt4Cv9QI)** by **SILICONE VALLEY, amy** *(Chopping Caroline)*
+🎤 **[shoegaze909](https://open.spotify.com/track/6VDOxFTI1bZf63kfF1pdxo)** by **Goochems** *(shoegaze909)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI)** by **meat computer** *(how it feels to get run over)*
+🎤 **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 10:54:10Z UTC
+🕐 Last updated: 2025-08-18 11:12:25Z UTC
 <!-- SPOTIFY-END -->
