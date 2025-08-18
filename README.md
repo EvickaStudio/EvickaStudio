@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e3f1f173ede6a5b8447dc793" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Alchemy](https://open.spotify.com/track/1A2k31fWrVCkDh1e5ie7vb)**
-*by* **Rad&Co**
-*Album:* Alchemy
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 3:54
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Alchemy](https://open.spotify.com/track/1A2k31fWrVCkDh1e5ie7vb)** by **Rad&Co** *(Alchemy)*
 🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
 🎤 **[Fascination](https://open.spotify.com/track/678s3GakaG4KIQ1aWt1M68)** by **Horsemen** *(Earthquake VA)*
 🎤 **[Its Just A Dream (House)](https://open.spotify.com/track/76mUB9JoRsGyRyYtnnWpTf)** by **PJ** *(Its Just A Dream (House))*
 🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
-🎤 **[Broken](https://open.spotify.com/track/6IvyojBvzsSRjR14PxxiyB)** by **Cassio Kohl** *(Broken)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 20:13:58Z UTC
+🕐 Last updated: 2025-08-18 20:32:29Z UTC
 <!-- SPOTIFY-END -->
