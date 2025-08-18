@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731e1055d94fced110e934c7ff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373f8a78e291f6c4b5108292f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)**
-*by* **benzii, DJmegan23**
-*Album:* riding it + DJmegan23 flip
+**🎵 [Semester In Japan](https://open.spotify.com/track/7fdMdPJ3xwCJDMDVqqw7WR)**
+*by* **Tommy Fleece**
+*Album:* audio stars
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="185" height="4" fill="#1db954" rx="2"/>
-    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 2:16
+    0:43 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
-🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
+🎤 **[Tell Me](https://open.spotify.com/track/7h3nwFlCtiRcS312M4tHEF)** by **Suzy Sheer** *(Blissed)*
+🎤 **[skin - jtvengeance remix](https://open.spotify.com/track/1SmL4xPKEmZJbXOsUHHe8l)** by **JTVENGEANCE, anna luna** *(skin (jtvengeance remix))*
+🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 09:18:15Z UTC
+🕐 Last updated: 2025-08-18 09:44:26Z UTC
 <!-- SPOTIFY-END -->
