@@ -127,7 +127,7 @@
 🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
-🏅 [**Leocardo DiNaprio**](https://open.spotify.com/artist/6oB4vi2HIyph0htfDjToR6)
+🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-18 21:38:41Z UTC
+🕐 Last updated: 2025-08-18 21:47:47Z UTC
 <!-- SPOTIFY-END -->
