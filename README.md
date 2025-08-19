@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730698b36195e2218b01d1aed1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)**
-*by* **Yung Hurn, meat computer**
-*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
+**🎵 [Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)**
+*by* **Mechatok, Ecco2k, Bladee**
+*Album:* Expression On Your Face
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:49
+    1:03 • 2:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[fw24](https://open.spotify.com/track/4ElTEqO5KuickZgw8aRw2H)** by **lil london** *(fw24)*
-🎤 **[Altbau](https://open.spotify.com/track/4XC1jFNjPxGRkeCvp4TK3S)** by **01099, Paul, Gustav** *(Altbau)*
-🎤 **[Echt](https://open.spotify.com/track/3ZtHhp2FZnhH0LDMjmxP2Q)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
-🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[Tanz](https://open.spotify.com/track/1dQ6Z7YafmbICKPOW4jAt0)** by **Ulepuschkinrose, Firlefranz, Partizan** *(Tanz)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 14:34:41Z UTC
+🕐 Last updated: 2025-08-19 14:51:11Z UTC
 <!-- SPOTIFY-END -->
