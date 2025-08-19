@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2732e9dcd5768182268f8a46dec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [fashionscars](https://open.spotify.com/track/0En4eloc8c56rP0P4P7L0s)**
+*by* **stixz**
+*Album:* fashionscars
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:06 • 1:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Grau](https://open.spotify.com/track/3yb9rB7eN2tiF8mJ20SX4O)** by **CKK, fivestars** *(Grau)*
-🎤 **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)*
-🎤 **[du & ich](https://open.spotify.com/track/1mlZvlMUT6xR4q0zf6FW8N)** by **stixz** *(toxics1ut)*
-🎤 **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Zone Out](https://open.spotify.com/track/6jBkR1afY04mU5cNsQCStC)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
+🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
+🎤 **[CAKE](https://open.spotify.com/track/1vZ9i9yO2e4BILYRghIKgA)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[Weit Entfernt](https://open.spotify.com/track/2V5sOjankNjqgIfxuRR7As)** by **S1RENA** *(weit entfernt ep ☆)*
+🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 10:13:48Z UTC
+🕐 Last updated: 2025-08-19 10:36:36Z UTC
 <!-- SPOTIFY-END -->
