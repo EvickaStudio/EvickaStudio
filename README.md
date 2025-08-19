@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733594f2f90684bb52f47f7ced" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273071114d9a878865d094e833a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [liar liar](https://open.spotify.com/track/4Gtz7Iw3JAiwQIGfqeUP56)**
-*by* **memorie**
-*Album:* liar liar
+**🎵 [still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)**
+*by* **temcandoanything**
+*Album:* still into you +icdamix+
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="216" height="4" fill="#1db954" rx="2"/>
+    <circle cx="216" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:12
+    1:29 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[elixir](https://open.spotify.com/track/3AIf1It9HHMSBTcA7mXY5Z)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)*
-🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
-🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
-🎤 **[Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)** by **Drux** *(Zzz)*
-🎤 **[joyboy99](https://open.spotify.com/track/3tkswOjiYs2aadqsbb5wQd)** by **Deko, Yameii Online** *(Odyssey1)*
+🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
+🎤 **[ihavesexwghosts](https://open.spotify.com/track/06nFjn9Om6TUiaOpY8chIj)** by **gl0wrm** *(ihavesexwghosts)*
+🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
+🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[liar liar](https://open.spotify.com/track/4Gtz7Iw3JAiwQIGfqeUP56)** by **memorie** *(liar liar)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-19 19:34:18Z UTC
+🕐 Last updated: 2025-08-19 19:47:43Z UTC
 <!-- SPOTIFY-END -->
