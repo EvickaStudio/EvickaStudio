@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)**
-*by* **Bassvictim**
-*Album:* Basspunk 2
+**🎵 [Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)**
+*by* **Nokia Angel**
+*Album:* In Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+    <rect width="150" height="4" fill="#1db954" rx="2"/>
+    <circle cx="150" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 2:55
+    1:56 • 3:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
+🎤 **[honest times](https://open.spotify.com/track/77rKEoPWAkXbSK4jgGnqW6)** by **MRD** *(honest times)*
+🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
 🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
 🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 13:40:17Z UTC
+🕐 Last updated: 2025-08-19 13:51:41Z UTC
 <!-- SPOTIFY-END -->
