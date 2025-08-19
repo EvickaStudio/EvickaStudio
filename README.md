@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b33f002869f2dfcc1dcd7035" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273590b4a2e53cf80b88b02b842" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Into The Abyss](https://open.spotify.com/track/0eK9Ene7eCrYq0ZUbM30Xk)**
-*by* **DJmegan23, mol$**
-*Album:* You Weren't Supposed To See That...
+**🎵 [I can give you love](https://open.spotify.com/track/4lPR01Z3VaCDi6Fqkw1iWx)**
+*by* **Psych**
+*Album:* I can give you love
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="219" height="4" fill="#1db954" rx="2"/>
+    <circle cx="219" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 1:51
+    1:27 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
-🎤 **[trust](https://open.spotify.com/track/7fYba5gDhSnMJoQPjqAarN)** by **2hollis** *(2)*
-🎤 **[zara](https://open.spotify.com/track/5BBx8N4D8KaNVUpH9qyvkq)** by **jequya** *(zara)*
-🎤 **[mylife](https://open.spotify.com/track/4LscnrhJgKuClRexTLSAPF)** by **Pitfall** *(mylife)*
-🎤 **[windchimes](https://open.spotify.com/track/6A5WgVMrgE9qd20JFQjgy1)** by **i9bonsai** *(windchimes)*
+🎤 **[gore](https://open.spotify.com/track/4HctrcdHYxakHotOkc5Qcd)** by **Perto** *(bozo)*
+🎤 **[matrix](https://open.spotify.com/track/0Tpp21GZDiDRyawPpbnIBg)** by **Levi Ryan, David Shawty** *(out of spite)*
+🎤 **[DRAIN BOSS](https://open.spotify.com/track/3rIbhqf7kqoZAYPz0kJvKA)** by **DJmegan23** *(猫の騎士)*
+🎤 **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by **RudeClub** *(rated R)*
+🎤 **[Upside Down](https://open.spotify.com/track/7mZ0iCjl1h2JzFCYmmV5Ku)** by **bodyGaard** *(Upside Down)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 18:17:32Z UTC
+🕐 Last updated: 2025-08-19 18:46:16Z UTC
 <!-- SPOTIFY-END -->
