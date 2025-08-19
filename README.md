@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273939c83dfdc793ab3cf38fe02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)**
-*by* **mickyi, S1RENA**
-*Album:* zone out ep ⋆｡°✩
+**🎵 [Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)**
+*by* **hqwilli**
+*Album:* Montauk
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 3:04
+    1:26 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Du lässt mich fallen](https://open.spotify.com/track/3sJhdibGMAl9jlPGmaOlUe)** by **SWEETBOYBLONDEY, LWKI** *(Du lässt mich fallen)*
-🎤 **[Kate Moss](https://open.spotify.com/track/3CKvbgToq3umqvaHjC14bM)** by **S1RENA** *(Kate Moss)*
-🎤 **[Glas](https://open.spotify.com/track/2Gn8BlQBO7HLPjgBDqDh5g)** by **lauenburg** *(Glas/Schläfen)*
-🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
-🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 11:47:30Z UTC
+🕐 Last updated: 2025-08-19 12:25:27Z UTC
 <!-- SPOTIFY-END -->
