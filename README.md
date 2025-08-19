@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de2135ae24c0a4bf2ee0990b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d18e118fbf8a0151a508d883" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Quiet as Ash](https://open.spotify.com/track/5fjP5pXRFEifD0uj0RZviX)**
-*by* **Dietrich+Dietrich**
-*Album:* Where Fog Begins
+**🎵 [Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)**
+*by* **lauenburg**
+*Album:* Turmalin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 5:00
+    0:07 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[was wir möchten](https://open.spotify.com/track/3nz91mz0Pkd6WBIBgVHLN3)** by **b3nn3t** *(was wir möchten)*
+🎤 **[KALTE NACHT](https://open.spotify.com/track/377yXfID2pxqwij7gefJBN)** by **diggidaniel** *(verschwende mich)*
+🎤 **[Quiet as Ash](https://open.spotify.com/track/5fjP5pXRFEifD0uj0RZviX)** by **Dietrich+Dietrich** *(Where Fog Begins)*
 🎤 **[In Awe](https://open.spotify.com/track/5rCI8xgRvRMJabbTCmaldZ)** by **Lono** *(Wonders)*
 🎤 **[Ethereal](https://open.spotify.com/track/6y3PVzoFQl1NGJjIhnfvuc)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Drift Beneath the Stars](https://open.spotify.com/track/6IonDNz9Mfft5gyHI23Gqf)** by **Eisbär und Bergmann** *(Drift Beneath the Stars)*
-🎤 **[velsa](https://open.spotify.com/track/08C8ZMfvzAenYvCTPWB14o)** by **caelora** *(velsa)*
-🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 16:45:15Z UTC
+🕐 Last updated: 2025-08-19 16:56:08Z UTC
 <!-- SPOTIFY-END -->
