@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ef2562a1156ea6766e00ecb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)**
-*by* **Edwin Rosen**
-*Album:* Verschwende deine Zeit
+**🎵 [I LUV IT (feat. Playboi Carti)](https://open.spotify.com/track/3WY21ibZasLGJE1U6Apmzj)**
+*by* **Camila Cabello, Playboi Carti**
+*Album:* C,XOXO
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="90" height="4" fill="#1db954" rx="2"/>
-    <circle cx="90" cy="2" r="6" fill="#1db954"/>
+    <rect width="129" height="4" fill="#1db954" rx="2"/>
+    <circle cx="129" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:38
+    1:15 • 2:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Snowsteps](https://open.spotify.com/track/64woMv4CKQyBBSrRtL5qRj)** by **YOUTH 83, sleepscreen** *(Snowsteps)*
-🎤 **[Links](https://open.spotify.com/track/2iKqxgNtT5O9wPyPzWUVCX)** by **The Chameleon** *(Links)*
-🎤 **[First Blue Sky](https://open.spotify.com/track/6uCQ5RscJkTgS5sC9Dba7L)** by **Placid Angles** *(First Blue Sky)*
-🎤 **[starting to think (you're the one)](https://open.spotify.com/track/6rWPdADSPuCP63ujmIsjUS)** by **Veen, Liam Robertson** *(starting to think (you're the one))*
-🎤 **[Drop It on Em](https://open.spotify.com/track/60CrA2IEzQCretvHCwBCwy)** by **Rimbaudian** *(Letters)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
+🎤 **[White Owls](https://open.spotify.com/track/5WhVf5cZsVcDyvn6YQDoTk)** by **smokedope2016** *(THE COMEUP)*
+🎤 **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)*
+🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 15:33:07Z UTC
+🕐 Last updated: 2025-08-19 15:50:04Z UTC
 <!-- SPOTIFY-END -->
