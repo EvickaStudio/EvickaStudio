@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f00b6026d6d37a2f02a2a494" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)**
-*by* **Nokia Angel**
-*Album:* In Haze
+**🎵 [tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)**
+*by* **lustr**
+*Album:* tell me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 3:53
+    0:20 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
-🎤 **[honest times](https://open.spotify.com/track/77rKEoPWAkXbSK4jgGnqW6)** by **MRD** *(honest times)*
-🎤 **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
+🎤 **[kiss up](https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ)** by **damon r.** *(kiss up)*
+🎤 **[Greener Field](https://open.spotify.com/track/4bTDGTUULq4QGUUAf3sGlV)** by **SILICONE VALLEY** *(Greener Field)*
+🎤 **[Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)** by **Somewhere Special** *(Undercover Lover)*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 13:51:41Z UTC
+🕐 Last updated: 2025-08-19 14:12:46Z UTC
 <!-- SPOTIFY-END -->
