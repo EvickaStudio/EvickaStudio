@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736a3dc60f18aa8fc5f8d9e24b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27316dda4649fa450e0db51a265" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Du siehst Neunundneunzig](https://open.spotify.com/track/2x1g3nZBOt0Hz0FXdQ0YKU)**
-*by* **Nicki Papa**
-*Album:* Du siehst Neunundneunzig
+**🎵 [Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)**
+*by* **S1RENA**
+*Album:* Staub
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 1:23
+    0:51 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nachtgedanken](https://open.spotify.com/track/2v8ki6EiM5y1y8TaC82bGA)** by **kuy.** *(Nachtgedanken)*
-🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
-🎤 **[hundert grad](https://open.spotify.com/track/2sUs7mkUFYEm0kqFyOQ0wa)** by **b3nn3t** *(laut nachgedacht)*
-🎤 **[glückskippe ✰](https://open.spotify.com/track/46wuX6bzfSDFHGn8OeHRcD)** by **stixz** *(glückskippe ✰)*
-🎤 **[reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Robins](https://open.spotify.com/track/75024A8Vt0otJIUZXzYJ10)** by **hqwilli** *(Robins)*
+🎤 **[Herz Wie Ein Stein](https://open.spotify.com/track/3dsGcTXsj4ll7kNqQsibn7)** by **Lil Soda Boi, Sin Davis** *(Herz Wie Ein Stein)*
+🎤 **[Endlose Stille](https://open.spotify.com/track/7byltpdh1AxFQjlc3HzH42)** by **Nicki Papa** *(Wendepunkt)*
+🎤 **[Zweig](https://open.spotify.com/track/34r9uq3UVlNhCCchTn3Az5)** by **Zimbaisthekey** *(Zweig)*
+🎤 **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by **sparr00w** *(Ich kann die Sterne nicht mehr Zählen)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 🥈 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
-🥉 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
-🏅 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
+🥉 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
+🏅 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 07:48:01Z UTC
+🕐 Last updated: 2025-08-19 08:17:34Z UTC
 <!-- SPOTIFY-END -->
