@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736005f655456415afb7414329" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a17adb67b5da4032f0ab4c2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)**
-*by* **hqwilli, SlushhKitten**
-*Album:* Yeah
+**🎵 [Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)**
+*by* **Traumatin**
+*Album:* Schließ bitte ab wenn ich geh
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="216" height="4" fill="#1db954" rx="2"/>
-    <circle cx="216" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:52
+    2:19 • 3:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Frutiger 1](https://open.spotify.com/track/5cy81nUx1356uPx9dNMETG)** by **fliggsy** *(No Comment)*
-🎤 **[V0RSPULEN (nürnberg)](https://open.spotify.com/track/25texC9vWAjJz9n6mKqeB8)** by **TYM** *(CHYP1MK0PF)*
-🎤 **[träume blau](https://open.spotify.com/track/4uDl0dWTugNQCxCHoPbaaL)** by **Fritzi** *(träume blau)*
-🎤 **[4 EVER](https://open.spotify.com/track/38xg6STqoHmWcQyU4zKxVm)** by **F.O.** *(4 EVER)*
-🎤 **[therapeuten](https://open.spotify.com/track/3K0XS5e9t18RtyeVXkh3lY)** by **ph1il** *(therapeuten)*
+🎤 **[Schlüssel im Schnee](https://open.spotify.com/track/5ODB96R32uiY66bh6KEr6Q)** by **nobis** *(Schlüssel im Schnee)*
+🎤 **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[how i feel](https://open.spotify.com/track/3c2yCRnyX5wPOw3w91hWgy)** by **stixz** *(how i feel)*
+🎤 **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)*
+🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 10:51:07Z UTC
+🕐 Last updated: 2025-08-19 11:10:53Z UTC
 <!-- SPOTIFY-END -->
