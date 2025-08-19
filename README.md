@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27345a0433e011709ab023f3585" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733594f2f90684bb52f47f7ced" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)**
-*by* **Drux**
-*Album:* Zzz
+**🎵 [liar liar](https://open.spotify.com/track/4Gtz7Iw3JAiwQIGfqeUP56)**
+*by* **memorie**
+*Album:* liar liar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="100" height="4" fill="#1db954" rx="2"/>
-    <circle cx="100" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 2:41
+    1:01 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[elixir](https://open.spotify.com/track/3AIf1It9HHMSBTcA7mXY5Z)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)*
+🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
+🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
+🎤 **[Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)** by **Drux** *(Zzz)*
 🎤 **[joyboy99](https://open.spotify.com/track/3tkswOjiYs2aadqsbb5wQd)** by **Deko, Yameii Online** *(Odyssey1)*
-🎤 **[pretty toxic](https://open.spotify.com/track/1CeMXXxDTyZ9xeY9EbbdaF)** by **lor2mg** *(pretty toxic)*
-🎤 **[come down from above](https://open.spotify.com/track/1V3PD04KWykvmswKgk8Vwn)** by **quannnic, d0llywood1** *(come down from above)*
-🎤 **[사랑](https://open.spotify.com/track/79wsh7vbvVpGfjZtC485CA)** by **mitsu** *(사랑)*
-🎤 **[confused obsessed](https://open.spotify.com/track/7FdIrZvAiOzivAgTdaL6zL)** by **jequya** *(confused obsessed)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-19 19:24:22Z UTC
+🕐 Last updated: 2025-08-19 19:34:18Z UTC
 <!-- SPOTIFY-END -->
