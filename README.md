@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a9759e908d4492ab6946dc9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Hands up!](https://open.spotify.com/track/6nH7G7zImTcBpqRMIPeHLK)**
+*by* **6arelyhuman, kets4eki, Pixel Hood**
+*Album:* Sassy Scene
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="5" height="4" fill="#1db954" rx="2"/>
+    <circle cx="5" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:02 • 2:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
+🎤 **[Zero Gravity](https://open.spotify.com/track/3t77AfBKRaeOFd2NDHVduK)** by **Brickman** *(Reflections)*
 🎤 **[Alchemy](https://open.spotify.com/track/1A2k31fWrVCkDh1e5ie7vb)** by **Rad&Co** *(Alchemy)*
 🎤 **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)*
-🎤 **[Fascination](https://open.spotify.com/track/678s3GakaG4KIQ1aWt1M68)** by **Horsemen** *(Earthquake VA)*
-🎤 **[Its Just A Dream (House)](https://open.spotify.com/track/76mUB9JoRsGyRyYtnnWpTf)** by **PJ** *(Its Just A Dream (House))*
-🎤 **[They Wish](https://open.spotify.com/track/3DIfkQ5i2LJP5FtcCS3IMe)** by **GIJS** *(They Wish)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 06:49:13Z UTC
+🕐 Last updated: 2025-08-19 07:12:28Z UTC
 <!-- SPOTIFY-END -->
