@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27309ec510203051346eab4c856" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a44c351581c8f421d0890fd5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Allein mit mir](https://open.spotify.com/track/4xUG1S7k0nxG1RSmnkXXJg)**
-*by* **MilleniumKid, Dropped here**
-*Album:* Arrhythmie
+**🎵 [Glas](https://open.spotify.com/track/2Gn8BlQBO7HLPjgBDqDh5g)**
+*by* **lauenburg**
+*Album:* Glas/Schläfen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="19" height="4" fill="#1db954" rx="2"/>
-    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 2:36
+    0:23 • 2:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[zwei stunden](https://open.spotify.com/track/6ilb5DaEu9zp5WFGkXEHcV)** by **b3nn3t, ben clean** *(zwei stunden)*
-🎤 **[Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY)** by **Flawless Issues** *(Alone Tonight)*
-🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
-🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
+🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
+🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
+🎤 **[warm//kalt](https://open.spotify.com/track/7kIeHIVS6LTaDqLSc7Qn34)** by **GALAX** *(pass auf dich auf)*
+🎤 **[Allein mit mir](https://open.spotify.com/track/4xUG1S7k0nxG1RSmnkXXJg)** by **MilleniumKid, Dropped here** *(Arrhythmie)*
+🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 11:26:17Z UTC
+🕐 Last updated: 2025-08-19 11:36:18Z UTC
 <!-- SPOTIFY-END -->
