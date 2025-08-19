@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273590b4a2e53cf80b88b02b842" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d05029419c891106d5e2839" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I can give you love](https://open.spotify.com/track/4lPR01Z3VaCDi6Fqkw1iWx)**
-*by* **Psych**
-*Album:* I can give you love
+**🎵 [copy & paste](https://open.spotify.com/track/5D4FubBTGAUAVhICPmOYAk)**
+*by* **dreamcache**
+*Album:* copy & paste
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:00
+    0:44 • 2:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[gore](https://open.spotify.com/track/4HctrcdHYxakHotOkc5Qcd)** by **Perto** *(bozo)*
-🎤 **[matrix](https://open.spotify.com/track/0Tpp21GZDiDRyawPpbnIBg)** by **Levi Ryan, David Shawty** *(out of spite)*
-🎤 **[DRAIN BOSS](https://open.spotify.com/track/3rIbhqf7kqoZAYPz0kJvKA)** by **DJmegan23** *(猫の騎士)*
-🎤 **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by **RudeClub** *(rated R)*
-🎤 **[Upside Down](https://open.spotify.com/track/7mZ0iCjl1h2JzFCYmmV5Ku)** by **bodyGaard** *(Upside Down)*
+🎤 **[dizzy](https://open.spotify.com/track/63fb0smSh5OqmX1wFvXqzI)** by **Dylann, 8485** *(dizzy)*
+🎤 **[did I give you love](https://open.spotify.com/track/4EshJxgz6RMKcqu4kX65bE)** by **Psych** *(did I give you love)*
+🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
+🎤 **[stranger](https://open.spotify.com/track/74Dw7TQbBUUYMKIwx4DDpq)** by **Perto** *(bozo)*
+🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 18:46:16Z UTC
+🕐 Last updated: 2025-08-19 19:10:01Z UTC
 <!-- SPOTIFY-END -->
