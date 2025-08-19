@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732e9dcd5768182268f8a46dec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736005f655456415afb7414329" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fashionscars](https://open.spotify.com/track/0En4eloc8c56rP0P4P7L0s)**
-*by* **stixz**
-*Album:* fashionscars
+**🎵 [Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)**
+*by* **hqwilli, SlushhKitten**
+*Album:* Yeah
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="216" height="4" fill="#1db954" rx="2"/>
+    <circle cx="216" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 1:45
+    2:04 • 2:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
-🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
-🎤 **[CAKE](https://open.spotify.com/track/1vZ9i9yO2e4BILYRghIKgA)** by **Dave Plugs** *(SAG WIESO EP)*
-🎤 **[Weit Entfernt](https://open.spotify.com/track/2V5sOjankNjqgIfxuRR7As)** by **S1RENA** *(weit entfernt ep ☆)*
-🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
+🎤 **[Frutiger 1](https://open.spotify.com/track/5cy81nUx1356uPx9dNMETG)** by **fliggsy** *(No Comment)*
+🎤 **[V0RSPULEN (nürnberg)](https://open.spotify.com/track/25texC9vWAjJz9n6mKqeB8)** by **TYM** *(CHYP1MK0PF)*
+🎤 **[träume blau](https://open.spotify.com/track/4uDl0dWTugNQCxCHoPbaaL)** by **Fritzi** *(träume blau)*
+🎤 **[4 EVER](https://open.spotify.com/track/38xg6STqoHmWcQyU4zKxVm)** by **F.O.** *(4 EVER)*
+🎤 **[therapeuten](https://open.spotify.com/track/3K0XS5e9t18RtyeVXkh3lY)** by **ph1il** *(therapeuten)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 10:36:36Z UTC
+🕐 Last updated: 2025-08-19 10:51:07Z UTC
 <!-- SPOTIFY-END -->
