@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a04cea5c54f2a1b99f727b2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)**
-*by* **lustr**
-*Album:* burnt
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="164" height="4" fill="#1db954" rx="2"/>
-    <circle cx="164" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 2:20
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
+🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
 🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
 🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
 🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-19 21:11:48Z UTC
+🕐 Last updated: 2025-08-19 21:28:28Z UTC
 <!-- SPOTIFY-END -->
