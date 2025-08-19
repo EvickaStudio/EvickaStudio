@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d05029419c891106d5e2839" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27345a0433e011709ab023f3585" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [copy & paste](https://open.spotify.com/track/5D4FubBTGAUAVhICPmOYAk)**
-*by* **dreamcache**
-*Album:* copy & paste
+**🎵 [Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)**
+*by* **Drux**
+*Album:* Zzz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="100" height="4" fill="#1db954" rx="2"/>
+    <circle cx="100" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:53
+    0:54 • 2:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dizzy](https://open.spotify.com/track/63fb0smSh5OqmX1wFvXqzI)** by **Dylann, 8485** *(dizzy)*
-🎤 **[did I give you love](https://open.spotify.com/track/4EshJxgz6RMKcqu4kX65bE)** by **Psych** *(did I give you love)*
-🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
-🎤 **[stranger](https://open.spotify.com/track/74Dw7TQbBUUYMKIwx4DDpq)** by **Perto** *(bozo)*
-🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[joyboy99](https://open.spotify.com/track/3tkswOjiYs2aadqsbb5wQd)** by **Deko, Yameii Online** *(Odyssey1)*
+🎤 **[pretty toxic](https://open.spotify.com/track/1CeMXXxDTyZ9xeY9EbbdaF)** by **lor2mg** *(pretty toxic)*
+🎤 **[come down from above](https://open.spotify.com/track/1V3PD04KWykvmswKgk8Vwn)** by **quannnic, d0llywood1** *(come down from above)*
+🎤 **[사랑](https://open.spotify.com/track/79wsh7vbvVpGfjZtC485CA)** by **mitsu** *(사랑)*
+🎤 **[confused obsessed](https://open.spotify.com/track/7FdIrZvAiOzivAgTdaL6zL)** by **jequya** *(confused obsessed)*
 
 
 
@@ -156,8 +156,8 @@
 🥈 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 🥉 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
-🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
+🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-19 19:10:01Z UTC
+🕐 Last updated: 2025-08-19 19:24:22Z UTC
 <!-- SPOTIFY-END -->
