@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d18e118fbf8a0151a508d883" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b7873c680671277489987d80" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)**
-*by* **lauenburg**
-*Album:* Turmalin
+**🎵 [CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)**
+*by* **BONES**
+*Album:* UNRENDERED
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 2:38
+    1:48 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[was wir möchten](https://open.spotify.com/track/3nz91mz0Pkd6WBIBgVHLN3)** by **b3nn3t** *(was wir möchten)*
-🎤 **[KALTE NACHT](https://open.spotify.com/track/377yXfID2pxqwij7gefJBN)** by **diggidaniel** *(verschwende mich)*
-🎤 **[Quiet as Ash](https://open.spotify.com/track/5fjP5pXRFEifD0uj0RZviX)** by **Dietrich+Dietrich** *(Where Fog Begins)*
-🎤 **[In Awe](https://open.spotify.com/track/5rCI8xgRvRMJabbTCmaldZ)** by **Lono** *(Wonders)*
-🎤 **[Ethereal](https://open.spotify.com/track/6y3PVzoFQl1NGJjIhnfvuc)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)*
+🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
+🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 16:56:08Z UTC
+🕐 Last updated: 2025-08-19 17:13:17Z UTC
 <!-- SPOTIFY-END -->
