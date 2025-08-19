@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273de2135ae24c0a4bf2ee0990b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Quiet as Ash](https://open.spotify.com/track/5fjP5pXRFEifD0uj0RZviX)**
+*by* **Dietrich+Dietrich**
+*Album:* Where Fog Begins
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:35 • 5:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy)** by **Beach House** *(7)*
-🎤 **[Liverpool Street In The Rain](https://open.spotify.com/track/2anY2gPJklTi9HcFx4Xdas)** by **Mall Grab** *(How The Dogs Chill, Vol.1)*
-🎤 **[Are You The One](https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu)** by **Basement** *(Be Here Now / Are You The One)*
-🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
+🎤 **[In Awe](https://open.spotify.com/track/5rCI8xgRvRMJabbTCmaldZ)** by **Lono** *(Wonders)*
+🎤 **[Ethereal](https://open.spotify.com/track/6y3PVzoFQl1NGJjIhnfvuc)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Drift Beneath the Stars](https://open.spotify.com/track/6IonDNz9Mfft5gyHI23Gqf)** by **Eisbär und Bergmann** *(Drift Beneath the Stars)*
+🎤 **[velsa](https://open.spotify.com/track/08C8ZMfvzAenYvCTPWB14o)** by **caelora** *(velsa)*
+🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 16:15:52Z UTC
+🕐 Last updated: 2025-08-19 16:45:15Z UTC
 <!-- SPOTIFY-END -->
