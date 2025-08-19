@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a657f0770efa5a2316524aa2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b33f002869f2dfcc1dcd7035" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [aether](https://open.spotify.com/track/4ld1BC76w4JUb52XXwxt8Z)**
-*by* **lexycat**
-*Album:* aether
+**🎵 [Into The Abyss](https://open.spotify.com/track/0eK9Ene7eCrYq0ZUbM30Xk)**
+*by* **DJmegan23, mol$**
+*Album:* You Weren't Supposed To See That...
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:03
+    0:31 • 1:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i <3 btc](https://open.spotify.com/track/1fdkvNOKrNTdrBiYJRtT4C)** by **Capoxxo** *(i <3 btc)*
-🎤 **[backseat](https://open.spotify.com/track/2CF5GSmRAeyovYzvw7V28r)** by **damon r.** *(re)*
-🎤 **[under yr spell](https://open.spotify.com/track/3ewo9Y6QfBfGhE3FzRQWQ5)** by **BLOODiDOL** *(under yr spell)*
-🎤 **[Lovebug](https://open.spotify.com/track/30ckXjGsXwZWbKyESkW3bp)** by **Elujjin** *(Lovebug)*
-🎤 **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)*
+🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
+🎤 **[trust](https://open.spotify.com/track/7fYba5gDhSnMJoQPjqAarN)** by **2hollis** *(2)*
+🎤 **[zara](https://open.spotify.com/track/5BBx8N4D8KaNVUpH9qyvkq)** by **jequya** *(zara)*
+🎤 **[mylife](https://open.spotify.com/track/4LscnrhJgKuClRexTLSAPF)** by **Pitfall** *(mylife)*
+🎤 **[windchimes](https://open.spotify.com/track/6A5WgVMrgE9qd20JFQjgy1)** by **i9bonsai** *(windchimes)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 17:47:56Z UTC
+🕐 Last updated: 2025-08-19 18:17:32Z UTC
 <!-- SPOTIFY-END -->
