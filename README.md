@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731779d1cb5f283a0a627521f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [starting to think (you're the one)](https://open.spotify.com/track/6rWPdADSPuCP63ujmIsjUS)**
-*by* **Veen, Liam Robertson**
-*Album:* starting to think (you're the one)
+**🎵 [Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)**
+*by* **Edwin Rosen**
+*Album:* Verschwende deine Zeit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="90" height="4" fill="#1db954" rx="2"/>
+    <circle cx="90" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:15 • 5:35
+    0:47 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Snowsteps](https://open.spotify.com/track/64woMv4CKQyBBSrRtL5qRj)** by **YOUTH 83, sleepscreen** *(Snowsteps)*
+🎤 **[Links](https://open.spotify.com/track/2iKqxgNtT5O9wPyPzWUVCX)** by **The Chameleon** *(Links)*
+🎤 **[First Blue Sky](https://open.spotify.com/track/6uCQ5RscJkTgS5sC9Dba7L)** by **Placid Angles** *(First Blue Sky)*
+🎤 **[starting to think (you're the one)](https://open.spotify.com/track/6rWPdADSPuCP63ujmIsjUS)** by **Veen, Liam Robertson** *(starting to think (you're the one))*
 🎤 **[Drop It on Em](https://open.spotify.com/track/60CrA2IEzQCretvHCwBCwy)** by **Rimbaudian** *(Letters)*
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**gold**](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)
 
 
-🕐 Last updated: 2025-08-19 15:13:42Z UTC
+🕐 Last updated: 2025-08-19 15:33:07Z UTC
 <!-- SPOTIFY-END -->
