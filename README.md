@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)** by **S1RENA** *(Staub)*
-🎤 **[Robins](https://open.spotify.com/track/75024A8Vt0otJIUZXzYJ10)** by **hqwilli** *(Robins)*
-🎤 **[Herz Wie Ein Stein](https://open.spotify.com/track/3dsGcTXsj4ll7kNqQsibn7)** by **Lil Soda Boi, Sin Davis** *(Herz Wie Ein Stein)*
-🎤 **[Endlose Stille](https://open.spotify.com/track/7byltpdh1AxFQjlc3HzH42)** by **Nicki Papa** *(Wendepunkt)*
-🎤 **[Zweig](https://open.spotify.com/track/34r9uq3UVlNhCCchTn3Az5)** by **Zimbaisthekey** *(Zweig)*
+🎤 **[Grau](https://open.spotify.com/track/3yb9rB7eN2tiF8mJ20SX4O)** by **CKK, fivestars** *(Grau)*
+🎤 **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)*
+🎤 **[du & ich](https://open.spotify.com/track/1mlZvlMUT6xR4q0zf6FW8N)** by **stixz** *(toxics1ut)*
+🎤 **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Zone Out](https://open.spotify.com/track/6jBkR1afY04mU5cNsQCStC)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 09:48:53Z UTC
+🕐 Last updated: 2025-08-19 10:13:48Z UTC
 <!-- SPOTIFY-END -->
