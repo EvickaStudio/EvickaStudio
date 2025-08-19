@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27316dda4649fa450e0db51a265" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)**
-*by* **S1RENA**
-*Album:* Staub
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="105" height="4" fill="#1db954" rx="2"/>
-    <circle cx="105" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 2:25
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)** by **S1RENA** *(Staub)*
 🎤 **[Robins](https://open.spotify.com/track/75024A8Vt0otJIUZXzYJ10)** by **hqwilli** *(Robins)*
 🎤 **[Herz Wie Ein Stein](https://open.spotify.com/track/3dsGcTXsj4ll7kNqQsibn7)** by **Lil Soda Boi, Sin Davis** *(Herz Wie Ein Stein)*
 🎤 **[Endlose Stille](https://open.spotify.com/track/7byltpdh1AxFQjlc3HzH42)** by **Nicki Papa** *(Wendepunkt)*
 🎤 **[Zweig](https://open.spotify.com/track/34r9uq3UVlNhCCchTn3Az5)** by **Zimbaisthekey** *(Zweig)*
-🎤 **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by **sparr00w** *(Ich kann die Sterne nicht mehr Zählen)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
 
 
-🕐 Last updated: 2025-08-19 08:17:34Z UTC
+🕐 Last updated: 2025-08-19 08:45:51Z UTC
 <!-- SPOTIFY-END -->
