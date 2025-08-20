@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732cfe704884cbe39c60e5e1c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739256ec7d23a6a5c78d65dd88" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schiff](https://open.spotify.com/track/4BaWIU6w9M8UBhwzl9pBrQ)**
-*by* **Filow**
-*Album:* Schiff
+**🎵 [Engel Ohne Halo](https://open.spotify.com/track/29458zmeC0hyjuSNVb63l4)**
+*by* **cinnemane**
+*Album:* Mood Swings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:07
+    0:11 • 1:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
-🎤 **[Vip](https://open.spotify.com/track/7baactXf3RfNKYjluddRFz)** by **Odece, hqwilli, sparr00w** *(Vip)*
-🎤 **[3 Shots](https://open.spotify.com/track/4uhhorDi0lmzCvM52sS5cf)** by **Kio, Love Pact** *(3 Shots)*
-🎤 **[diese love war ein fehler](https://open.spotify.com/track/5qriOpPPjvVt0CExK4WDf4)** by **Revvnecc, Laer Xirtam** *(error404)*
-🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
+🎤 **[Omori](https://open.spotify.com/track/3ceYSXb7oDbqk5LBK7b92q)** by **Yatsu** *(Omori)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[barkeeper](https://open.spotify.com/track/1Yb6JcT6PFF5VftO3oionX)** by **Ellie Mic** *(stuck)*
+🎤 **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 09:49:19Z UTC
+🕐 Last updated: 2025-08-20 10:13:37Z UTC
 <!-- SPOTIFY-END -->
