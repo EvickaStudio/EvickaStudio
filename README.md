@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731860d9e6c7b98e2f83b03923" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
-*by* **Tape Head, NONI, Goldroger**
-*Album:* Memento Mori
+**🎵 [Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)**
+*by* **Urbannino, DeeLou**
+*Album:* Für immer wach
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="271" height="4" fill="#1db954" rx="2"/>
-    <circle cx="271" cy="2" r="6" fill="#1db954"/>
+    <rect width="18" height="4" fill="#1db954" rx="2"/>
+    <circle cx="18" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 2:48
+    0:12 • 3:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
-🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[perks of being a wallflower](https://open.spotify.com/track/3M20LFgqLHaOdFpdnOLlLu)** by **Punk Christ** *(perks of being a wallflower)*
+🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
+🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
+🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 06:19:45Z UTC
+🕐 Last updated: 2025-08-20 07:12:47Z UTC
 <!-- SPOTIFY-END -->
