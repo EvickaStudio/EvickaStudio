@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739256ec7d23a6a5c78d65dd88" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bb6050e58446b26244633d1a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Engel Ohne Halo](https://open.spotify.com/track/29458zmeC0hyjuSNVb63l4)**
-*by* **cinnemane**
-*Album:* Mood Swings
+**🎵 [Rauch](https://open.spotify.com/track/52AoRTmnsrwbGZQc7zD6MM)**
+*by* **sparr00w, Wicca Phase Springs Eternal**
+*Album:* Rauch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="85" height="4" fill="#1db954" rx="2"/>
+    <circle cx="85" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 1:49
+    0:45 • 2:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Omori](https://open.spotify.com/track/3ceYSXb7oDbqk5LBK7b92q)** by **Yatsu** *(Omori)*
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
-🎤 **[barkeeper](https://open.spotify.com/track/1Yb6JcT6PFF5VftO3oionX)** by **Ellie Mic** *(stuck)*
-🎤 **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)*
-🎤 **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[Winterschlaf](https://open.spotify.com/track/5uu0UTwWZeSpyKcIS8T78M)** by **Tamino404** *(es ist nicht mehr 2016)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 10:13:37Z UTC
+🕐 Last updated: 2025-08-20 10:36:33Z UTC
 <!-- SPOTIFY-END -->
