@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731ff8bb491d6d7502ea9313ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5827f574f1b233f6fcc5355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)**
-*by* **lain**
-*Album:* sleepwalkin' :)
+**🎵 [brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)**
+*by* **Punk Christ**
+*Album:* brauche deine liebe nicht mehr
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="143" height="4" fill="#1db954" rx="2"/>
-    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:19
+    0:37 • 1:47
 </span>
 </p>
 
@@ -132,9 +132,9 @@
 
 ### 📜 Recently Played
 
+🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
-🎤 **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 16:44:50Z UTC
+🕐 Last updated: 2025-08-20 16:55:12Z UTC
 <!-- SPOTIFY-END -->
