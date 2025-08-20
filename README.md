@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cfaf573f8010972d14576d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d9fc2435584eb0aca677e94" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Break down](https://open.spotify.com/track/3weEmMnV5bopuD9XyJSQtt)**
-*by* **Dropped here**
-*Album:* Break down
+**🎵 [FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* FiFA༺♡✧+++
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="91" height="4" fill="#1db954" rx="2"/>
-    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:32
+    1:36 • 2:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
-🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
-🎤 **[Dashboard](https://open.spotify.com/track/7qGzrhoJW2r5zJSTno9OLA)** by **hqwilli, SGUCCY** *(Allein im Club)*
-🎤 **[SELF TREATMENT](https://open.spotify.com/track/3wbx1XRH8QcGFB1zebVcYT)** by **Hello Hannes** *(accidental damage)*
-🎤 **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)*
+🎤 **[Arcadia](https://open.spotify.com/track/6nX0oVPdZxDnI2hfN0tkz3)** by **uusymon** *(Arcadia)*
+🎤 **[LSD am Karlsplatz](https://open.spotify.com/track/5DoWQ5CgCj2CXQU2sUoyLp)** by **cinnemane** *(Mood Swings)*
+🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[NASS](https://open.spotify.com/track/6HdWmalqiO98BlgS6kKpJE)** by **Hello Hannes, Hadesthegrim** *(accidental damage)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 08:55:07Z UTC
+🕐 Last updated: 2025-08-20 09:14:10Z UTC
 <!-- SPOTIFY-END -->
