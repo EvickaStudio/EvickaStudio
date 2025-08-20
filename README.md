@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silence of Space](https://open.spotify.com/track/2cxpTQA3M5nCyYaOY9VBe4)**
-*by* **Soothing Oasis**
-*Album:* Dream Realm
+**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
+*by* **Tape Head, NONI, Goldroger**
+*Album:* Memento Mori
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="106" height="4" fill="#1db954" rx="2"/>
-    <circle cx="106" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:09
+    2:32 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Beyond Words](https://open.spotify.com/track/5rSLGQvB02kyo3qy6dTOeP)** by **Avery's Ambient** *(Stillness)*
-🎤 **[Willow Trees](https://open.spotify.com/track/23q0mUMfUE8vZjoK02Sokx)** by **Soothing Oasis** *(Breathing Forest)*
-🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Night Breeze](https://open.spotify.com/track/7i7WGaF9qTWs70HJyLNybu)** by **Soothing Oasis** *(Earth at Rest)*
-🎤 **[Daydreaming](https://open.spotify.com/track/6x9iNwCvyh5XWR1SB2JBLF)** by **Avery's Ambient** *(A New Day)*
+🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 05:48:17Z UTC
+🕐 Last updated: 2025-08-20 06:19:45Z UTC
 <!-- SPOTIFY-END -->
