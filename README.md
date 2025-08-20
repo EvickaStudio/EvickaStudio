@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Acceptance](https://open.spotify.com/track/7vOjjGTGgV7vO5IfwJ2sHL)**
+**🎵 [Inner Calm](https://open.spotify.com/track/38LnUWouA4Rj5c3Kb9pznv)**
 *by* **Soothing Oasis**
 *Album:* Peace of Mind
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 2:08
+    0:56 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Starfield](https://open.spotify.com/track/2j7Z1JCzox5JJnGgmfUP21)** by **Avery's Ambient** *(Obsidian Sky)*
-🎤 **[Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Rest](https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Calmness](https://open.spotify.com/track/4RDUGJ8bVhETycG7aWG2Yi)** by **Soothing Oasis** *(Foggy Morning)*
-🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Riverside](https://open.spotify.com/track/5zCuFITvjSFvfqCcOLLG6f)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Drifting Clouds](https://open.spotify.com/track/7wfH95WA75hMvKLhDWftHZ)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Altitude](https://open.spotify.com/track/5RssXVfknLYOMlCjncVFxF)** by **Avery's Ambient** *(In The Clouds)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 04:20:38Z UTC
+🕐 Last updated: 2025-08-20 04:43:04Z UTC
 <!-- SPOTIFY-END -->
