@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731bb404c4a351e4a4290695c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lagoon](https://open.spotify.com/track/4FDHuQB4DzHJVuM165Rjuf)**
-*by* **Avery's Ambient**
-*Album:* In the Distance
+**🎵 [Acceptance](https://open.spotify.com/track/7vOjjGTGgV7vO5IfwJ2sHL)**
+*by* **Soothing Oasis**
+*Album:* Peace of Mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="30" height="4" fill="#1db954" rx="2"/>
+    <circle cx="30" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:03
+    0:12 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Within](https://open.spotify.com/track/7yVt12DIy7G5SJTs04KQ34)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Evening Tide](https://open.spotify.com/track/0RM09xWItBO12GWlajEAiH)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Breathing Forest](https://open.spotify.com/track/1RYVfuHGrqEbpAHhQDDr3b)** by **Soothing Oasis** *(Breathing Forest)*
-🎤 **[Clear Waters](https://open.spotify.com/track/3wauDEeUTRbu1M3hrtM37J)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Drifting Leaves](https://open.spotify.com/track/1G4jILZWiClmzAe8QUV7k0)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Starfield](https://open.spotify.com/track/2j7Z1JCzox5JJnGgmfUP21)** by **Avery's Ambient** *(Obsidian Sky)*
+🎤 **[Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Rest](https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Calmness](https://open.spotify.com/track/4RDUGJ8bVhETycG7aWG2Yi)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 03:57:12Z UTC
+🕐 Last updated: 2025-08-20 04:20:38Z UTC
 <!-- SPOTIFY-END -->
