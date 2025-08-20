@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27303c6d47d159d8d9ddf7c54e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LOOKING4 V3](https://open.spotify.com/track/30qP8xQaNHAMP413DmmnO1)**
-*by* **o0o**
-*Album:* Album Music
+**🎵 [Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)**
+*by* **Pink Floyd**
+*Album:* The Dark Side of the Moon
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:37 • 3:39
+    0:40 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tired of life](https://open.spotify.com/track/5vGyQLpCGtWmBrB67uEO1t)** by **meat computer** *(soundtrack to the end of a world)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[weirdo type beat](https://open.spotify.com/track/2WI9w3LqMQDI7VUXV89yz6)** by **meat computer** *(weirdo type beat)*
-🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
+🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
+🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
+🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
+🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 14:51:30Z UTC
+🕐 Last updated: 2025-08-20 15:13:31Z UTC
 <!-- SPOTIFY-END -->
