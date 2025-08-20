@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332061a41dbe77a6a41647017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sleeping City](https://open.spotify.com/track/1AsfeQfofQlkyyWrgB6eDI)**
+**🎵 [Silent Sky](https://open.spotify.com/track/4Lkahie4dsVLtygsnSl2jm)**
 *by* **Soothing Oasis**
-*Album:* Gently Sleeping
+*Album:* Foggy Morning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="284" height="4" fill="#1db954" rx="2"/>
+    <circle cx="284" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 2:10
+    2:02 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Experience](https://open.spotify.com/track/7dqAiIUUHj3aNk7KfZkXQL)** by **Soothing Oasis** *(Dreaming)*
-🎤 **[Stillness](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Anti-Anxiety](https://open.spotify.com/track/5Krcof4pwOCUDYUgaDn1Nn)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[Earth at Rest](https://open.spotify.com/track/6Pmu0BGq26HjHKPFhKS2lF)** by **Soothing Oasis** *(Earth at Rest)*
-🎤 **[Foggy Morning](https://open.spotify.com/track/4s2rLlLjmt647RM1bcEv0h)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Better World](https://open.spotify.com/track/0VnxHASLCg4cW58soE751z)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Gentle Current](https://open.spotify.com/track/4KcvQ3fV6Rzwk6eyKnZhth)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Mindful](https://open.spotify.com/track/7qXOE57JDKYAXyfbLUeIW5)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[World](https://open.spotify.com/track/5MvVq93z7q1miPkAj2GuKs)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
 
 
 
@@ -145,8 +145,8 @@
 🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🏅 [**TKKG**](https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve)
 🏅 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 02:39:53Z UTC
+🕐 Last updated: 2025-08-20 03:30:48Z UTC
 <!-- SPOTIFY-END -->
