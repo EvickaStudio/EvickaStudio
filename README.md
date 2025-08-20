@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739d7ad730fb48a9fa873daca9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737703ff4a5bb2163ed54ea2b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)**
-*by* **xo**
-*Album:* avatar / anima
+**🎵 [Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)**
+*by* **Nosgov**
+*Album:* Can't Catch a Break
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:23 • 2:45
+    0:38 • 2:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[stereo swag](https://open.spotify.com/track/3hFCzPWUh8fxaiwdFUqgJr)** by **l4eiche, luu, kets4eki** *(stereo swag)*
-🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
+🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
+🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
+🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 20:14:10Z UTC
+🕐 Last updated: 2025-08-20 20:33:27Z UTC
 <!-- SPOTIFY-END -->
