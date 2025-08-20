@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c20105ae7a3e89e024a7d052" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732cfe704884cbe39c60e5e1c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ghost](https://open.spotify.com/track/7oilIsZSAfOpwnpIbg9k4Y)**
-*by* **Lyran Dasz, Laer Xirtam, wilson100k, DISSIDIA**
-*Album:* Ghost
+**🎵 [Schiff](https://open.spotify.com/track/4BaWIU6w9M8UBhwzl9pBrQ)**
+*by* **Filow**
+*Album:* Schiff
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:55
+    0:25 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[TEENAGE RAGE](https://open.spotify.com/track/79q5yO7N3fLVzP1ktHmpOV)** by **wilson100k, Mobezzy** *(TEENAGE RAGE)*
-🎤 **[scheiß auf mein image](https://open.spotify.com/track/2GMdnuZQwTqJUEyLMKaHka)** by **Colm** *(scheiß auf mein image)*
-🎤 **[nicht wie wir](https://open.spotify.com/track/6PgPjReHtuVcqhwBCd5gGd)** by **MVIK, Hadesthegrim** *(nicht wie wir)*
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
-🎤 **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)*
+🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
+🎤 **[Vip](https://open.spotify.com/track/7baactXf3RfNKYjluddRFz)** by **Odece, hqwilli, sparr00w** *(Vip)*
+🎤 **[3 Shots](https://open.spotify.com/track/4uhhorDi0lmzCvM52sS5cf)** by **Kio, Love Pact** *(3 Shots)*
+🎤 **[diese love war ein fehler](https://open.spotify.com/track/5qriOpPPjvVt0CExK4WDf4)** by **Revvnecc, Laer Xirtam** *(error404)*
+🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 09:33:12Z UTC
+🕐 Last updated: 2025-08-20 09:49:19Z UTC
 <!-- SPOTIFY-END -->
