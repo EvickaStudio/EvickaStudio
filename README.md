@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739d9fc2435584eb0aca677e94" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c20105ae7a3e89e024a7d052" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* FiFA༺♡✧+++
+**🎵 [Ghost](https://open.spotify.com/track/7oilIsZSAfOpwnpIbg9k4Y)**
+*by* **Lyran Dasz, Laer Xirtam, wilson100k, DISSIDIA**
+*Album:* Ghost
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 2:23
+    0:21 • 2:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Arcadia](https://open.spotify.com/track/6nX0oVPdZxDnI2hfN0tkz3)** by **uusymon** *(Arcadia)*
-🎤 **[LSD am Karlsplatz](https://open.spotify.com/track/5DoWQ5CgCj2CXQU2sUoyLp)** by **cinnemane** *(Mood Swings)*
-🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[NASS](https://open.spotify.com/track/6HdWmalqiO98BlgS6kKpJE)** by **Hello Hannes, Hadesthegrim** *(accidental damage)*
+🎤 **[TEENAGE RAGE](https://open.spotify.com/track/79q5yO7N3fLVzP1ktHmpOV)** by **wilson100k, Mobezzy** *(TEENAGE RAGE)*
+🎤 **[scheiß auf mein image](https://open.spotify.com/track/2GMdnuZQwTqJUEyLMKaHka)** by **Colm** *(scheiß auf mein image)*
+🎤 **[nicht wie wir](https://open.spotify.com/track/6PgPjReHtuVcqhwBCd5gGd)** by **MVIK, Hadesthegrim** *(nicht wie wir)*
+🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
+🎤 **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 09:14:10Z UTC
+🕐 Last updated: 2025-08-20 09:33:12Z UTC
 <!-- SPOTIFY-END -->
