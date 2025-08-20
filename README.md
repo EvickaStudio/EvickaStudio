@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bb6050e58446b26244633d1a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d7ad730fb48a9fa873daca9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rauch](https://open.spotify.com/track/52AoRTmnsrwbGZQc7zD6MM)**
-*by* **sparr00w, Wicca Phase Springs Eternal**
-*Album:* Rauch
+**🎵 [avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)**
+*by* **xo**
+*Album:* avatar / anima
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="85" height="4" fill="#1db954" rx="2"/>
-    <circle cx="85" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:39
+    1:56 • 2:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Winterschlaf](https://open.spotify.com/track/5uu0UTwWZeSpyKcIS8T78M)** by **Tamino404** *(es ist nicht mehr 2016)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Schlüssel](https://open.spotify.com/track/4Hl0821Zk22XgOCYtYVeDQ)** by **amy crush, umru** *(Schlüssel)*
+🎤 **[Danny Phantom](https://open.spotify.com/track/64brWbRMRFMbiqDcgpEh9e)** by **Tamino404** *(schlechte luft)*
+🎤 **[GENUG](https://open.spotify.com/track/5ve9GwEFsOG2jZ6sixR9T2)** by **curly an, yokay** *(GENUG)*
+🎤 **[why?](https://open.spotify.com/track/51A5BFsHRoBm6fEY1SVgQu)** by **consent2k archive, 1800yassine** *(why?)*
+🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 10:36:33Z UTC
+🕐 Last updated: 2025-08-20 10:50:51Z UTC
 <!-- SPOTIFY-END -->
