@@ -107,26 +107,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)**
-*by* **Pink Floyd**
-*Album:* The Dark Side of the Moon
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:10
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -134,7 +115,7 @@
 
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
+🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 
@@ -159,5 +140,5 @@
 🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 15:13:31Z UTC
+🕐 Last updated: 2025-08-20 15:33:24Z UTC
 <!-- SPOTIFY-END -->
