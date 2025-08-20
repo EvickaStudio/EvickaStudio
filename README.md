@@ -137,8 +137,8 @@
 🥈 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 🥉 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
 🏅 [**1x**](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)
-🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
+🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 
 
-🕐 Last updated: 2025-08-20 07:49:47Z UTC
+🕐 Last updated: 2025-08-20 08:16:58Z UTC
 <!-- SPOTIFY-END -->
