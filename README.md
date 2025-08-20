@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b5827f574f1b233f6fcc5355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733bd6cec4696094b7f5edad20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)**
-*by* **Punk Christ**
-*Album:* brauche deine liebe nicht mehr
+**🎵 [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)**
+*by* **Snow Strippers**
+*Album:* Just Your Doll
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 1:47
+    0:30 • 2:27
 </span>
 </p>
 
@@ -132,7 +132,7 @@
 
 ### 📜 Recently Played
 
-🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 16:55:12Z UTC
+🕐 Last updated: 2025-08-20 17:11:13Z UTC
 <!-- SPOTIFY-END -->
