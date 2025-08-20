@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc372dae933775bef78a2c62" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Evening Air](https://open.spotify.com/track/6k7hhvnGWqdPqnr4R7VJo9)**
+**🎵 [Silence of Space](https://open.spotify.com/track/2cxpTQA3M5nCyYaOY9VBe4)**
 *by* **Soothing Oasis**
-*Album:* Evening
+*Album:* Dream Realm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
+    <rect width="106" height="4" fill="#1db954" rx="2"/>
+    <circle cx="106" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:11
+    0:46 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Peaceful Skies](https://open.spotify.com/track/4T317D8kCVdPbqmsUdDA89)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Golden Grain](https://open.spotify.com/track/62VaU1bdUhIp6JkCvGrbBt)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Night Glow](https://open.spotify.com/track/6OrvXlYgTwdywGn0MNOltG)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Soft](https://open.spotify.com/track/3zpnEiG0RdCUeFPKN4p2jK)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Silence of Space](https://open.spotify.com/track/2cxpTQA3M5nCyYaOY9VBe4)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Beyond Words](https://open.spotify.com/track/5rSLGQvB02kyo3qy6dTOeP)** by **Avery's Ambient** *(Stillness)*
+🎤 **[Willow Trees](https://open.spotify.com/track/23q0mUMfUE8vZjoK02Sokx)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Night Breeze](https://open.spotify.com/track/7i7WGaF9qTWs70HJyLNybu)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[Daydreaming](https://open.spotify.com/track/6x9iNwCvyh5XWR1SB2JBLF)** by **Avery's Ambient** *(A New Day)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 05:32:58Z UTC
+🕐 Last updated: 2025-08-20 05:48:17Z UTC
 <!-- SPOTIFY-END -->
