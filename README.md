@@ -107,16 +107,35 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737703ff4a5bb2163ed54ea2b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)**
+*by* **Nosgov**
+*Album:* Can't Catch a Break
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:17 • 2:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
-🎤 **[California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)** by **Delta Spirit** *(Delta Spirit)*
 🎤 **[stari*](https://open.spotify.com/track/2qiFfi8uVo2j7hL9zCcY8V)** by **SQF2000, Tamino404** *(stari*)*
 
 
@@ -140,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 15:48:59Z UTC
+🕐 Last updated: 2025-08-20 16:16:02Z UTC
 <!-- SPOTIFY-END -->
