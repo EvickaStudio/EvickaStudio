@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273522c7081739c5196844e4dce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Inner Calm](https://open.spotify.com/track/38LnUWouA4Rj5c3Kb9pznv)**
+**🎵 [Reflections](https://open.spotify.com/track/4TYLYZeo5ALnsb1dGCxPXH)**
 *by* **Soothing Oasis**
-*Album:* Peace of Mind
+*Album:* Calming River
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:12
+    1:54 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Napping](https://open.spotify.com/track/0pJNu3ympVpaH9myxrB5YP)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Starfield](https://open.spotify.com/track/2j7Z1JCzox5JJnGgmfUP21)** by **Avery's Ambient** *(Obsidian Sky)*
+🎤 **[Sleeping Earth](https://open.spotify.com/track/261nfVFtGFkC2Tn410aTI6)** by **Soothing Oasis** *(Sleeping Earth)*
+🎤 **[Inner Calm](https://open.spotify.com/track/38LnUWouA4Rj5c3Kb9pznv)** by **Soothing Oasis** *(Peace of Mind)*
 🎤 **[Riverside](https://open.spotify.com/track/5zCuFITvjSFvfqCcOLLG6f)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Drifting Clouds](https://open.spotify.com/track/7wfH95WA75hMvKLhDWftHZ)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Altitude](https://open.spotify.com/track/5RssXVfknLYOMlCjncVFxF)** by **Avery's Ambient** *(In The Clouds)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**MAKKA**](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)
 
 
-🕐 Last updated: 2025-08-20 04:43:04Z UTC
+🕐 Last updated: 2025-08-20 04:52:50Z UTC
 <!-- SPOTIFY-END -->
