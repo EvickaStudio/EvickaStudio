@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c65fdec8806fe89720f40f16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nachtschicht](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)**
-*by* **01099, Paul, Ikkimel**
-*Album:* 25grad
+**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
+*by* **Tape Head, NONI, Goldroger**
+*Album:* Memento Mori
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:14
+    1:49 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
-🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
-🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
+🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 🥈 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
-🥉 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
-🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
+🥉 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
+🏅 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-08-21 12:25:13Z UTC
+🕐 Last updated: 2025-08-21 13:04:01Z UTC
 <!-- SPOTIFY-END -->
