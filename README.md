@@ -107,26 +107,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737bbcf357527cda0c401c3e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)**
-*by* **agelast222**
-*Album:* ADAMAS SONG
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 1:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
 
 
-🕐 Last updated: 2025-08-22 07:12:07Z UTC
+🕐 Last updated: 2025-08-22 07:28:42Z UTC
 <!-- SPOTIFY-END -->
