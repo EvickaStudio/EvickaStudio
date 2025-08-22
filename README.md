@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
+🎤 **[Europa](https://open.spotify.com/track/1AMCLQdYZcaHUkjTuGxzRB)** by **MAQ 22** *(Europa)*
 🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
 🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
-🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
 
 
 
@@ -134,11 +134,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
-🥈 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
-🥉 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
-🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
+🥈 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
+🥉 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
+🏅 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-08-22 15:30:18Z UTC
+🕐 Last updated: 2025-08-22 15:47:39Z UTC
 <!-- SPOTIFY-END -->
