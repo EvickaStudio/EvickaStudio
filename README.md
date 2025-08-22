@@ -123,8 +123,8 @@
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥇 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥈 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
@@ -140,5 +140,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-08-22 21:36:50Z UTC
+🕐 Last updated: 2025-08-22 21:47:56Z UTC
 <!-- SPOTIFY-END -->
