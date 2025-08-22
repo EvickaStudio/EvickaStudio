@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[stereo swag](https://open.spotify.com/track/3hFCzPWUh8fxaiwdFUqgJr)** by **l4eiche, luu, kets4eki** *(stereo swag)*
+🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
 🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
 🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
 🎤 **[Europa](https://open.spotify.com/track/1AMCLQdYZcaHUkjTuGxzRB)** by **MAQ 22** *(Europa)*
-🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-08-22 20:32:42Z UTC
+🕐 Last updated: 2025-08-22 20:48:27Z UTC
 <!-- SPOTIFY-END -->
