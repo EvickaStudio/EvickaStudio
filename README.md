@@ -137,8 +137,8 @@
 🥈 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 🥉 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
-🏅 [**Gon Be Okay**](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)
+🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-08-22 07:47:28Z UTC
+🕐 Last updated: 2025-08-22 08:17:19Z UTC
 <!-- SPOTIFY-END -->
