@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9664690931bfd4266978a75" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)**
-*by* **Niclov, ilyproxy, leander**
-*Album:* all1ne
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 2:51
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
-🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
+🎤 **[Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)** by **Ellie Mic** *(Asche im Auge)*
+🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 
 
-🕐 Last updated: 2025-08-23 16:33:13Z UTC
+🕐 Last updated: 2025-08-23 16:48:45Z UTC
 <!-- SPOTIFY-END -->
