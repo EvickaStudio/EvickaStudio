@@ -140,5 +140,5 @@
 🏅 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 
 
-🕐 Last updated: 2025-08-23 17:36:21Z UTC
+🕐 Last updated: 2025-08-23 17:47:28Z UTC
 <!-- SPOTIFY-END -->
