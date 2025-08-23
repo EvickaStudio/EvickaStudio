@@ -136,9 +136,9 @@
 🥇 [**World**](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)
 🥈 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 🥉 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
-🏅 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
+🏅 [**fucking highschool people**](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)
 
 
-🕐 Last updated: 2025-08-23 15:47:29Z UTC
+🕐 Last updated: 2025-08-23 16:12:56Z UTC
 <!-- SPOTIFY-END -->
