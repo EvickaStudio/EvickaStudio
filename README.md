@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737df88e353796882959cbce52" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)**
-*by* **Franz Ferdinand**
-*Album:* Franz Ferdinand
+**🎵 [Zoom](https://open.spotify.com/track/6eSB9z6SKIlGeqMLvO5lAb)**
+*by* **Last Dinosaurs**
+*Album:* In A Million Years
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:43 • 3:57
+    2:33 • 4:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Way To Go](https://open.spotify.com/track/6pEkPmzBPy4EVjyiIVKlJg)** by **Empire Of The Sun** *(Two Vines (Deluxe))*
+🎤 **[Banquet](https://open.spotify.com/track/4juzduULFJiZVIcrC1tkxE)** by **Bloc Party** *(Silent Alarm)*
+🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
 🎤 **[Cigarettes in the Theatre](https://open.spotify.com/track/7iGAkO3j525uGPyrd93VX0)** by **Two Door Cinema Club** *(Tourist History)*
 🎤 **[Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl)** by **The Whitest Boy Alive** *(Dreams)*
-🎤 **[Eleven](https://open.spotify.com/track/67nYknr6fPloy87OxlURuf)** by **Last Dinosaurs** *(Yumeno Garden)*
-🎤 **[Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[Neon Roses](https://open.spotify.com/track/0s1PsjRpN9v3gveUOM6Iux)** by **The Technicolors** *(Metaphysical)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 18:43:52Z UTC
+🕐 Last updated: 2025-08-24 18:53:14Z UTC
 <!-- SPOTIFY-END -->
