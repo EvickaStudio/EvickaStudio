@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)**
-*by* **Soothing Oasis**
-*Album:* Gently Sleeping
+**🎵 [Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)**
+*by* **Avery's Ambient**
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="155" height="4" fill="#1db954" rx="2"/>
-    <circle cx="155" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 2:04
+    1:36 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[As Dusk Falls](https://open.spotify.com/track/4RlMbOkyGmnRQAlR0B16cX)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Stillness](https://open.spotify.com/track/3HdPE8jdzKLj7D2wNoNYyY)** by **Avery's Ambient** *(Stillness)*
-🎤 **[Falling Star](https://open.spotify.com/track/6GvUhZKl1Y1KUCsdYqLSjF)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Cosmic Sea](https://open.spotify.com/track/6fSojQY6sHl43tVpjxgDKD)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Evening Tide](https://open.spotify.com/track/0RM09xWItBO12GWlajEAiH)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[Serenity](https://open.spotify.com/track/32NtiG9IUQ8kxHpCAHJ2Nw)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Above](https://open.spotify.com/track/43cRnTSZY9Z4SddXMpdxhb)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Instant](https://open.spotify.com/track/16B0D7lwlU5X3sVtqnkNQ8)** by **Soothing Oasis** *(Moments)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 22:11:16Z UTC
+🕐 Last updated: 2025-08-24 22:31:17Z UTC
 <!-- SPOTIFY-END -->
