@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c656f3fa869a7d5f75c3c8ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Clouds Passing](https://open.spotify.com/track/4AfDkG6fWYPKfavgZDkI0C)**
-*by* **Soothing Oasis**
-*Album:* Gently Sleeping
+**🎵 [In The Clouds](https://open.spotify.com/track/6QI986D0KQr8E64PYCxDKI)**
+*by* **Avery's Ambient**
+*Album:* In The Clouds
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="127" height="4" fill="#1db954" rx="2"/>
-    <circle cx="127" cy="2" r="6" fill="#1db954"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 2:14
+    1:02 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Better World](https://open.spotify.com/track/0VnxHASLCg4cW58soE751z)** by **Avery's Ambient** *(A New Day)*
-🎤 **[In the Mist](https://open.spotify.com/track/3hLD6Xv985SnPkFJ9lwyo4)** by **Soothing Oasis** *(Beneath the Sky)*
-🎤 **[Setting Sun](https://open.spotify.com/track/60n6ErHlWuhVys1pgG6NOv)** by **Soothing Oasis** *(Evening)*
+🎤 **[Light](https://open.spotify.com/track/2GpZBrPkHpmEiXDSOy9eTi)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Faraway Fjord](https://open.spotify.com/track/1nsvj32dpgg8WfulTNKx9c)** by **Avery's Ambient** *(In the Distance)*
+🎤 **[Mirage](https://open.spotify.com/track/5hwH7V9tPw5hdwkuQw0l9N)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 22:47:46Z UTC
+🕐 Last updated: 2025-08-24 23:11:41Z UTC
 <!-- SPOTIFY-END -->
