@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735db98b07c6a5af3ba91b9130" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
-*by* **mint**
-*Album:* gold
+**🎵 [Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)**
+*by* **BEVN, Hadesthegrim**
+*Album:* Prettyboy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 3:51
+    0:45 • 2:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
 🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
 🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
-🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
-🎤 **[ISSO](https://open.spotify.com/track/0zHESRhLQ1B3aLNCdhmZdi)** by **TYM** *(ISSO)*
-🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 15:38:20Z UTC
+🕐 Last updated: 2025-08-24 15:47:56Z UTC
 <!-- SPOTIFY-END -->
