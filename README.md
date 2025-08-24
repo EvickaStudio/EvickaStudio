@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27362cbc442278eefdde1a93efd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273656928563a0d1008d6bfbe4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW)**
-*by* **Phoenix**
-*Album:* Wolfgang Amadeus Phoenix
+**🎵 [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP)**
+*by* **Empire Of The Sun**
+*Album:* Two Vines (Deluxe)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="1" height="4" fill="#1db954" rx="2"/>
-    <circle cx="1" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 3:44
+    2:47 • 3:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Half Mast](https://open.spotify.com/track/49Hkgl03InFFqBklOQxunt)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
-🎤 **[Apollo](https://open.spotify.com/track/4FMsnzJirE6Y8SMscJjsX0)** by **Last Dinosaurs** *(Wellness)*
-🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
-🎤 **[Sun](https://open.spotify.com/track/5cIWkWH6xVdEllQ9ksuu2E)** by **Two Door Cinema Club** *(Beacon)*
-🎤 **[1901](https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
+🎤 **[Evie](https://open.spotify.com/track/3oco1LuoJRFes1ei09extm)** by **Last Dinosaurs** *(Wellness)*
+🎤 **[This Modern Love](https://open.spotify.com/track/1798MQBd3lfqa7joQ0ZAEF)** by **Bloc Party** *(Silent Alarm)*
+🎤 **[Lucky](https://open.spotify.com/track/7fH4XR2QVtQ9cShMLbaKSx)** by **Two Door Cinema Club** *(Keep On Smiling)*
+🎤 **[Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
+🎤 **[Quarterback](https://open.spotify.com/track/2OwIGCjx7e7J1HHdAqIv21)** by **Wallows** *(Quarterback)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 20:12:45Z UTC
+🕐 Last updated: 2025-08-24 20:31:07Z UTC
 <!-- SPOTIFY-END -->
