@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c6f12950c0baa55f7133b6ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od)**
-*by* **The Jungle Giants**
-*Album:* Quiet Ferocity
+**🎵 [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt)**
+*by* **MGMT**
+*Album:* Oracular Spectacular
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:30 • 3:42
+    2:54 • 3:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Helicopter](https://open.spotify.com/track/5OVHnu9SgsdAravy4UyGq4)** by **Bloc Party** *(Silent Alarm)*
-🎤 **[Lisztomania](https://open.spotify.com/track/4esUVfYnFcCCVHntx9FQCb)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
-🎤 **[Are You Bored Yet? (feat. Clairo)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm)** by **Wallows, Clairo** *(Nothing Happens)*
-🎤 **[Sleep Alone](https://open.spotify.com/track/4BsQ6HzywRiSHf45WXRft8)** by **Two Door Cinema Club** *(Beacon)*
-🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
+🎤 **[Armistice](https://open.spotify.com/track/49hvfrBDG4ig00wPmXLJRg)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
+🎤 **[These Days](https://open.spotify.com/track/4gZDCOFuLCxCRWNhSEcOtJ)** by **Wallows** *(Spring EP)*
+🎤 **[Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)** by **Empire Of The Sun** *(Ice On The Dune)*
+🎤 **[I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od)** by **The Jungle Giants** *(Quiet Ferocity)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 21:10:44Z UTC
+🕐 Last updated: 2025-08-24 21:26:42Z UTC
 <!-- SPOTIFY-END -->
