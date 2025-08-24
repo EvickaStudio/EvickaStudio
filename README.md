@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737df88e353796882959cbce52" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Zoom](https://open.spotify.com/track/6eSB9z6SKIlGeqMLvO5lAb)**
-*by* **Last Dinosaurs**
-*Album:* In A Million Years
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 4:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Way To Go](https://open.spotify.com/track/6pEkPmzBPy4EVjyiIVKlJg)** by **Empire Of The Sun** *(Two Vines (Deluxe))*
-🎤 **[Banquet](https://open.spotify.com/track/4juzduULFJiZVIcrC1tkxE)** by **Bloc Party** *(Silent Alarm)*
-🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
-🎤 **[Cigarettes in the Theatre](https://open.spotify.com/track/7iGAkO3j525uGPyrd93VX0)** by **Two Door Cinema Club** *(Tourist History)*
-🎤 **[Burning](https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl)** by **The Whitest Boy Alive** *(Dreams)*
+🎤 **[1901](https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
+🎤 **[Come Alive](https://open.spotify.com/track/0oZj6Xl6JJrr15jn05fcAe)** by **FMLYBND** *(Come Alive)*
+🎤 **[Get Away With It](https://open.spotify.com/track/6c0MAHuYIiFpBCicHiVSm2)** by **Animal Kingdom** *(The Looking Away)*
+🎤 **[Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq)** by **Wallows** *(Nothing Happens)*
+🎤 **[Zoom](https://open.spotify.com/track/6eSB9z6SKIlGeqMLvO5lAb)** by **Last Dinosaurs** *(In A Million Years)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 18:53:14Z UTC
+🕐 Last updated: 2025-08-24 19:09:37Z UTC
 <!-- SPOTIFY-END -->
