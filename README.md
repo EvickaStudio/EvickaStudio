@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aebf6df8009f3f7f5550d7b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735028ab593b655dff1ffb7682" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)**
-*by* **Edwin Rosen**
-*Album:* leichter//kälter
+**🎵 [schwarzweiß](https://open.spotify.com/track/53hFo1zfs5ARgXmzcmSxKw)**
+*by* **blombi19**
+*Album:* schwarzweiß
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 3:15
+    0:22 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Star Shopping](https://open.spotify.com/track/50kQRnsbBv2SAcZ6BuVbks)** by **Megami** *(Star Shopping)*
-🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
-🎤 **[City Treff nur schneller](https://open.spotify.com/track/3ZgCEkFgEkmIOqinjLYf1q)** by **anunyma** *(City Treff)*
-🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
-🎤 **[California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)** by **Delta Spirit** *(Delta Spirit)*
+🎤 **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)*
+🎤 **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)*
+🎤 **[nostalgia.mp3](https://open.spotify.com/track/1FGwDURKxW4gK5DRiCvD9Y)** by **jan2k1** *(nostalgia.mp3)*
+🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
+🎤 **[hold me down like gravity](https://open.spotify.com/track/4Aapz7lm6XTjuhTSb2gFBd)** by **Drain Gang Archive** *(HOLD ME DOWN LIKE GRAVITY)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 16:13:46Z UTC
+🕐 Last updated: 2025-08-24 16:35:22Z UTC
 <!-- SPOTIFY-END -->
