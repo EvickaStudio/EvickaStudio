@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735db98b07c6a5af3ba91b9130" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aebf6df8009f3f7f5550d7b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)**
-*by* **BEVN, Hadesthegrim**
-*Album:* Prettyboy
+**🎵 [leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)**
+*by* **Edwin Rosen**
+*Album:* leichter//kälter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="96" height="4" fill="#1db954" rx="2"/>
-    <circle cx="96" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:22
+    0:53 • 3:15
 </span>
 </p>
 
@@ -132,20 +132,20 @@
 
 ### 📜 Recently Played
 
-🎤 **[Blue Light](https://open.spotify.com/track/4Ne7JhJsOPHVfEySsOhBU2)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[Star Shopping](https://open.spotify.com/track/50kQRnsbBv2SAcZ6BuVbks)** by **Megami** *(Star Shopping)*
+🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
+🎤 **[City Treff nur schneller](https://open.spotify.com/track/3ZgCEkFgEkmIOqinjLYf1q)** by **anunyma** *(City Treff)*
+🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
+🎤 **[California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)** by **Delta Spirit** *(Delta Spirit)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🥈 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🏅 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥉 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 15:47:56Z UTC
+🕐 Last updated: 2025-08-24 16:13:46Z UTC
 <!-- SPOTIFY-END -->
