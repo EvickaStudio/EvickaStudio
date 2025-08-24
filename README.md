@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt)**
-*by* **MGMT**
-*Album:* Oracular Spectacular
+**🎵 [This Fire](https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj)**
+*by* **Franz Ferdinand**
+*Album:* Franz Ferdinand
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="118" height="4" fill="#1db954" rx="2"/>
+    <circle cx="118" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 3:49
+    1:40 • 4:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Restless](https://open.spotify.com/track/5QBVRETMnR1sKyrQAMypDu)** by **Kakkmaddafakka** *(Hest)*
+🎤 **[Are We Ready? (Wreck)](https://open.spotify.com/track/1qBLtdOv2zTzq0tkc6Vy6t)** by **Two Door Cinema Club** *(Gameshow (Deluxe Edition))*
+🎤 **[Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt)** by **MGMT** *(Oracular Spectacular)*
 🎤 **[Armistice](https://open.spotify.com/track/49hvfrBDG4ig00wPmXLJRg)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
 🎤 **[These Days](https://open.spotify.com/track/4gZDCOFuLCxCRWNhSEcOtJ)** by **Wallows** *(Spring EP)*
-🎤 **[Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)** by **Empire Of The Sun** *(Ice On The Dune)*
-🎤 **[I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9)** by **Two Door Cinema Club** *(Tourist History)*
-🎤 **[Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od)** by **The Jungle Giants** *(Quiet Ferocity)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 21:26:42Z UTC
+🕐 Last updated: 2025-08-24 21:36:07Z UTC
 <!-- SPOTIFY-END -->
