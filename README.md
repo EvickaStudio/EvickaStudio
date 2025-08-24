@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273656928563a0d1008d6bfbe4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734cfe4b79188595b591b1f50a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP)**
-*by* **Empire Of The Sun**
-*Album:* Two Vines (Deluxe)
+**🎵 [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn)**
+*by* **GROUPLOVE**
+*Album:* Spreading Rumours
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:47 • 3:44
+    1:42 • 3:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Evie](https://open.spotify.com/track/3oco1LuoJRFes1ei09extm)** by **Last Dinosaurs** *(Wellness)*
-🎤 **[This Modern Love](https://open.spotify.com/track/1798MQBd3lfqa7joQ0ZAEF)** by **Bloc Party** *(Silent Alarm)*
-🎤 **[Lucky](https://open.spotify.com/track/7fH4XR2QVtQ9cShMLbaKSx)** by **Two Door Cinema Club** *(Keep On Smiling)*
-🎤 **[Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
-🎤 **[Quarterback](https://open.spotify.com/track/2OwIGCjx7e7J1HHdAqIv21)** by **Wallows** *(Quarterback)*
+🎤 **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)*
+🎤 **[Girlfriend](https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
+🎤 **[Eat That Up, It's Good For You](https://open.spotify.com/track/0Cn6FrUO2gpFpfjiCz1q3c)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1)** by **Wallows** *(Pleaser)*
+🎤 **[High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP)** by **Empire Of The Sun** *(Two Vines (Deluxe))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 20:31:07Z UTC
+🕐 Last updated: 2025-08-24 20:47:42Z UTC
 <!-- SPOTIFY-END -->
