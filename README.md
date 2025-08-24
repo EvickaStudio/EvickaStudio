@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)**
-*by* **Avery's Ambient**
-*Album:* Stillness
+**🎵 [Clouds Passing](https://open.spotify.com/track/4AfDkG6fWYPKfavgZDkI0C)**
+*by* **Soothing Oasis**
+*Album:* Gently Sleeping
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+    <rect width="127" height="4" fill="#1db954" rx="2"/>
+    <circle cx="127" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 2:01
+    0:57 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Evening Tide](https://open.spotify.com/track/0RM09xWItBO12GWlajEAiH)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Serenity](https://open.spotify.com/track/32NtiG9IUQ8kxHpCAHJ2Nw)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[Above](https://open.spotify.com/track/43cRnTSZY9Z4SddXMpdxhb)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Instant](https://open.spotify.com/track/16B0D7lwlU5X3sVtqnkNQ8)** by **Soothing Oasis** *(Moments)*
+🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Better World](https://open.spotify.com/track/0VnxHASLCg4cW58soE751z)** by **Avery's Ambient** *(A New Day)*
+🎤 **[In the Mist](https://open.spotify.com/track/3hLD6Xv985SnPkFJ9lwyo4)** by **Soothing Oasis** *(Beneath the Sky)*
+🎤 **[Setting Sun](https://open.spotify.com/track/60n6ErHlWuhVys1pgG6NOv)** by **Soothing Oasis** *(Evening)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 22:31:17Z UTC
+🕐 Last updated: 2025-08-24 22:47:46Z UTC
 <!-- SPOTIFY-END -->
