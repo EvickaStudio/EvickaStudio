@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27362cbc442278eefdde1a93efd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW)**
+*by* **Phoenix**
+*Album:* Wolfgang Amadeus Phoenix
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="1" height="4" fill="#1db954" rx="2"/>
+    <circle cx="1" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:01 • 3:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Half Mast](https://open.spotify.com/track/49Hkgl03InFFqBklOQxunt)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
+🎤 **[Apollo](https://open.spotify.com/track/4FMsnzJirE6Y8SMscJjsX0)** by **Last Dinosaurs** *(Wellness)*
+🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[Sun](https://open.spotify.com/track/5cIWkWH6xVdEllQ9ksuu2E)** by **Two Door Cinema Club** *(Beacon)*
 🎤 **[1901](https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
-🎤 **[Come Alive](https://open.spotify.com/track/0oZj6Xl6JJrr15jn05fcAe)** by **FMLYBND** *(Come Alive)*
-🎤 **[Get Away With It](https://open.spotify.com/track/6c0MAHuYIiFpBCicHiVSm2)** by **Animal Kingdom** *(The Looking Away)*
-🎤 **[Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq)** by **Wallows** *(Nothing Happens)*
-🎤 **[Zoom](https://open.spotify.com/track/6eSB9z6SKIlGeqMLvO5lAb)** by **Last Dinosaurs** *(In A Million Years)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 19:47:47Z UTC
+🕐 Last updated: 2025-08-24 20:12:45Z UTC
 <!-- SPOTIFY-END -->
