@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273522c7081739c5196844e4dce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wrapped in Blue](https://open.spotify.com/track/17AT5ZPQFd7IFsv18O2FoB)**
-*by* **Avery's Ambient**
-*Album:* Everglow
+**🎵 [Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)**
+*by* **Soothing Oasis**
+*Album:* Calming River
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:08
+    1:51 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Murmur](https://open.spotify.com/track/4ubQ5Hszm199mIkSnUTTuW)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Breath of Skies](https://open.spotify.com/track/6pZYpVoSiQcg7bg8x73pzX)** by **Soothing Oasis** *(Weightless)*
-🎤 **[Guiding Stars](https://open.spotify.com/track/5Tl659lAl8eS8zQYSnsqNt)** by **Soothing Oasis** *(Sleep Well)*
-🎤 **[Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)** by **Soothing Oasis** *(Evening)*
-🎤 **[Beneath the Sky](https://open.spotify.com/track/3EIkxp2iDXY8zSvUF6zgtM)** by **Soothing Oasis** *(Beneath the Sky)*
+🎤 **[Peeking Through](https://open.spotify.com/track/2pS316eadABbkZZIhERQbE)** by **Avery's Ambient** *(Awakening Earth)*
+🎤 **[Over the Hills](https://open.spotify.com/track/3HvWaZsR3MitejkGX9J2QA)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Lunar Glow](https://open.spotify.com/track/2YY1kpNIwQKvfH6EBR76SB)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Sleep Well](https://open.spotify.com/track/6D3qroeYPfWcWxa1Lal0f4)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Wrapped in Blue](https://open.spotify.com/track/17AT5ZPQFd7IFsv18O2FoB)** by **Avery's Ambient** *(Everglow)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 23:27:42Z UTC
+🕐 Last updated: 2025-08-24 23:38:24Z UTC
 <!-- SPOTIFY-END -->
