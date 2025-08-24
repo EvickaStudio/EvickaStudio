@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737838727970a78c0fbd39761b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [This Fire](https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj)**
-*by* **Franz Ferdinand**
-*Album:* Franz Ferdinand
+**🎵 [Ratchet](https://open.spotify.com/track/1k5AiK2Gm2TaJtkkDeQnMi)**
+*by* **Bloc Party**
+*Album:* FOUR (Deluxe Version)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="52" height="4" fill="#1db954" rx="2"/>
+    <circle cx="52" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 4:14
+    0:34 • 3:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Do You Want It All?](https://open.spotify.com/track/0WrnWxW1pjS0pci5qeho0h)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[Pictures of Girls](https://open.spotify.com/track/415dK4glwDO7fXxYg3np8B)** by **Wallows** *(Spring EP)*
+🎤 **[This Fire](https://open.spotify.com/track/3Obu3jvFSfgLF3pSbi64Vj)** by **Franz Ferdinand** *(Franz Ferdinand)*
 🎤 **[Restless](https://open.spotify.com/track/5QBVRETMnR1sKyrQAMypDu)** by **Kakkmaddafakka** *(Hest)*
 🎤 **[Are We Ready? (Wreck)](https://open.spotify.com/track/1qBLtdOv2zTzq0tkc6Vy6t)** by **Two Door Cinema Club** *(Gameshow (Deluxe Edition))*
-🎤 **[Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt)** by **MGMT** *(Oracular Spectacular)*
-🎤 **[Armistice](https://open.spotify.com/track/49hvfrBDG4ig00wPmXLJRg)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
-🎤 **[These Days](https://open.spotify.com/track/4gZDCOFuLCxCRWNhSEcOtJ)** by **Wallows** *(Spring EP)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 21:36:07Z UTC
+🕐 Last updated: 2025-08-24 21:47:42Z UTC
 <!-- SPOTIFY-END -->
