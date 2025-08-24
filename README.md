@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c656f3fa869a7d5f75c3c8ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In The Clouds](https://open.spotify.com/track/6QI986D0KQr8E64PYCxDKI)**
+**🎵 [Wrapped in Blue](https://open.spotify.com/track/17AT5ZPQFd7IFsv18O2FoB)**
 *by* **Avery's Ambient**
-*Album:* In The Clouds
+*Album:* Everglow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:04
+    2:00 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Light](https://open.spotify.com/track/2GpZBrPkHpmEiXDSOy9eTi)** by **Avery's Ambient** *(A New Day)*
-🎤 **[Faraway Fjord](https://open.spotify.com/track/1nsvj32dpgg8WfulTNKx9c)** by **Avery's Ambient** *(In the Distance)*
-🎤 **[Mirage](https://open.spotify.com/track/5hwH7V9tPw5hdwkuQw0l9N)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Murmur](https://open.spotify.com/track/4ubQ5Hszm199mIkSnUTTuW)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Breath of Skies](https://open.spotify.com/track/6pZYpVoSiQcg7bg8x73pzX)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Guiding Stars](https://open.spotify.com/track/5Tl659lAl8eS8zQYSnsqNt)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)** by **Soothing Oasis** *(Evening)*
+🎤 **[Beneath the Sky](https://open.spotify.com/track/3EIkxp2iDXY8zSvUF6zgtM)** by **Soothing Oasis** *(Beneath the Sky)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 23:11:41Z UTC
+🕐 Last updated: 2025-08-24 23:27:42Z UTC
 <!-- SPOTIFY-END -->
