@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea203ff75d9502746c7b0019" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735bec323dd8c292a8b9d9e309" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)**
-*by* **5v, mint**
-*Album:* frei
+**🎵 [Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)**
+*by* **Neil Young**
+*Album:* Throw Your Hatred Down (Live)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 3:12
+    4:13 • 4:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
-🎤 **[Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)** by **Freddie Dredd** *(Opaul)*
-🎤 **[I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg)** by **Rebzyyx** *(I'm so crazy for youuu </3)*
-🎤 **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)*
-🎤 **[Gym Class](https://open.spotify.com/track/4BfJmlzP0ErWns1YM1XASc)** by **Lil Peep** *(Gym Class)*
+🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
+🎤 **[Tag//Nacht](https://open.spotify.com/track/1YuF8Cb72HyZrlwWITakq4)** by **The Doomers** *(Zeitlos)*
+🎤 **[Decay](https://open.spotify.com/track/7lwOe2S5Ge3k0FVDtmS1UF)** by **Blood Estate** *(Floodgate)*
+🎤 **[Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl)** by **Portwave** *(Shadow Lady)*
+🎤 **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 17:10:15Z UTC
+🕐 Last updated: 2025-08-24 17:28:00Z UTC
 <!-- SPOTIFY-END -->
