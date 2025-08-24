@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cfe4b79188595b591b1f50a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c6f12950c0baa55f7133b6ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Raspberry](https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn)**
-*by* **GROUPLOVE**
-*Album:* Spreading Rumours
+**🎵 [Used to Be in Love](https://open.spotify.com/track/290xSzR8Ee9fm82poMg4od)**
+*by* **The Jungle Giants**
+*Album:* Quiet Ferocity
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="283" height="4" fill="#1db954" rx="2"/>
+    <circle cx="283" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 3:16
+    3:30 • 3:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)*
-🎤 **[Girlfriend](https://open.spotify.com/track/6Z8I9zzJb5WCAJkz6qBo7k)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
-🎤 **[Eat That Up, It's Good For You](https://open.spotify.com/track/0Cn6FrUO2gpFpfjiCz1q3c)** by **Two Door Cinema Club** *(Tourist History)*
-🎤 **[Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1)** by **Wallows** *(Pleaser)*
-🎤 **[High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP)** by **Empire Of The Sun** *(Two Vines (Deluxe))*
+🎤 **[Helicopter](https://open.spotify.com/track/5OVHnu9SgsdAravy4UyGq4)** by **Bloc Party** *(Silent Alarm)*
+🎤 **[Lisztomania](https://open.spotify.com/track/4esUVfYnFcCCVHntx9FQCb)** by **Phoenix** *(Wolfgang Amadeus Phoenix)*
+🎤 **[Are You Bored Yet? (feat. Clairo)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm)** by **Wallows, Clairo** *(Nothing Happens)*
+🎤 **[Sleep Alone](https://open.spotify.com/track/4BsQ6HzywRiSHf45WXRft8)** by **Two Door Cinema Club** *(Beacon)*
+🎤 **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 20:47:42Z UTC
+🕐 Last updated: 2025-08-24 21:10:44Z UTC
 <!-- SPOTIFY-END -->
