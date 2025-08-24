@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273fc6eef9b111d87e57b4b10cc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Undercover Martyn](https://open.spotify.com/track/6GQLX6Z28fYwDNCrhaKzYF)**
+*by* **Two Door Cinema Club**
+*Album:* Tourist History
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:49 • 2:46
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
 🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
 🎤 **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)*
 🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
 🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
-🎤 **[Tag//Nacht](https://open.spotify.com/track/1YuF8Cb72HyZrlwWITakq4)** by **The Doomers** *(Zeitlos)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-24 17:47:42Z UTC
+🕐 Last updated: 2025-08-24 18:15:49Z UTC
 <!-- SPOTIFY-END -->
