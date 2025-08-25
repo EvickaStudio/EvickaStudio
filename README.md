@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c7473d00e382021e003a5a35" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732bff9677a72db8c55720a8e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Calm Lake](https://open.spotify.com/track/2ra5ptTLSBV9HXP7OOzbFL)**
+**🎵 [Sky Dreams](https://open.spotify.com/track/0AbNe1bWWkCwZKAvjYBbeA)**
 *by* **Avery's Ambient**
-*Album:* Midnight Waves
+*Album:* Obsidian Sky
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:07
+    1:02 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Unheard](https://open.spotify.com/track/5AYugiQ3DPrH1ukafmob5S)** by **Avery's Ambient** *(Stillness)*
-🎤 **[On the Horizon](https://open.spotify.com/track/4CLNz7XTsQ6v1uEkbiwTa2)** by **Soothing Oasis** *(Sleep Well)*
-🎤 **[Night Glow](https://open.spotify.com/track/6OrvXlYgTwdywGn0MNOltG)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Haven](https://open.spotify.com/track/0L8aHQQH4ib2FyIyXFfXI4)** by **Soothing Oasis** *(Embraced)*
-🎤 **[Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Stellar](https://open.spotify.com/track/2M456Cq6w0WPDrjsVytTJB)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Reflections in Still Water](https://open.spotify.com/track/6aAPatkTReE7bMOEu0V6Wm)** by **Avery's Ambient** *(Stillness)*
+🎤 **[Lotus](https://open.spotify.com/track/7CIhDOL9MgrVOTCL19Kk3H)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Sleeping Earth](https://open.spotify.com/track/261nfVFtGFkC2Tn410aTI6)** by **Soothing Oasis** *(Sleeping Earth)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-25 22:47:48Z UTC
+🕐 Last updated: 2025-08-25 23:11:44Z UTC
 <!-- SPOTIFY-END -->
