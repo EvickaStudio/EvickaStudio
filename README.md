@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27312a4dc46531cda7b6e954223" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i)**
+*by* **Fred again.., Swedish House Mafia, Future**
+*Album:* Turn On The Lights again.. (feat. Future)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="80" height="4" fill="#1db954" rx="2"/>
+    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:11 • 4:27
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)*
-🎤 **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by **Steintor Herrenchor** *(Luisa)*
-🎤 **[H<3RZSHIRT - sped up](https://open.spotify.com/track/6kWOU0RdssynWZAVaLvQFT)** by **NYAR, ystn** *(H<3RZSHIRT)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
+🎤 **[ilomilo tekkno (sped up)](https://open.spotify.com/track/13JMGEaIAXzOndW8ETk7wC)** by **TEKKNO** *(ilomilo tekkno (sped up))*
+🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
+🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
+🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
+🎤 **[IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)** by **BONES** *(Champion)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 12:25:31Z UTC
+🕐 Last updated: 2025-08-25 13:05:46Z UTC
 <!-- SPOTIFY-END -->
