@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c475ea69b1597db49c62874" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27319ec54f7cb4138362633f609" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)**
-*by* **Edwin Rosen**
-*Album:* 21 Nächte wach
+**🎵 [Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)**
+*by* **Streichelt**
+*Album:* Fern
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="56" height="4" fill="#1db954" rx="2"/>
-    <circle cx="56" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:42
+    1:20 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)** by **Geo22** *(Wizardry)*
-🎤 **[Teufelskreis](https://open.spotify.com/track/4xYE7pT9DWovz6fiWbLrvN)** by **Pocky Red, Hadesthegrim** *(Teufelskreis)*
-🎤 **[Mind Freak](https://open.spotify.com/track/7iK0z4ZFY0GnFQhLxnRvZU)** by **boysinblush, Garett Caramel** *(Mind Freak)*
-🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
-🎤 **[Ich mag Züge](https://open.spotify.com/track/0DnVcskizKfZAioAA1Wfwz)** by **Baron** *(Ich mag Züge)*
+🎤 **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)*
+🎤 **[Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 13:51:42Z UTC
+🕐 Last updated: 2025-08-25 14:12:56Z UTC
 <!-- SPOTIFY-END -->
