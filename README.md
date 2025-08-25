@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)**
+*by* **SALEM**
+*Album:* Fires In Heaven
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:26 • 2:48
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[slender](https://open.spotify.com/track/1z3V23U3fAXP24ApB8WX5C)** by **cholorofilm** *(slender)*
-🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
-🎤 **[heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)** by **ilymeow** *(heal!!)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)*
+🎤 **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)*
+🎤 **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by **RudeClub** *(rated R)*
+🎤 **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 21:11:49Z UTC
+🕐 Last updated: 2025-08-25 21:28:40Z UTC
 <!-- SPOTIFY-END -->
