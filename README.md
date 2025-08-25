@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739256ec7d23a6a5c78d65dd88" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273af7205c1f3dcc81e96f042ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)**
-*by* **cinnemane**
-*Album:* Mood Swings
+**🎵 [Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)**
+*by* **flywoah**
+*Album:* Super-Loud
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:08
+    1:00 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)** by **Ellie Mic** *(Asche im Auge)*
-🎤 **[RESIDENT EVIL](https://open.spotify.com/track/09W6O2U9Bf6zrzGjJrslc6)** by **nami, wasty** *(RESIDENT EVIL)*
-🎤 **[OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)** by **pink luu, TheyhxteAnt** *(OH MY GAWD!)*
-🎤 **[xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)** by **cholorofilm** *(xxx)*
-🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[EMO](https://open.spotify.com/track/0GXwFz4iNz0K5kgTVIA9ly)** by **pink luu, cxpyyy, luu** *(EMO)*
+🎤 **[ratchet & clank](https://open.spotify.com/track/6HgTiyFigE7n4zmsHgHRQT)** by **luu, Skatey Hellstar** *(HYPERCORE, Vol. 3)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 10:14:43Z UTC
+🕐 Last updated: 2025-08-25 10:38:31Z UTC
 <!-- SPOTIFY-END -->
