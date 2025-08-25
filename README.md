@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310b61745511e129af9f166f9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [es tut mir leid](https://open.spotify.com/track/6gmlS4cLXqgu1JvtDOAl1I)**
-*by* **cy4ne, pink luu**
-*Album:* es tut mir leid
+**🎵 [richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)**
+*by* **pink luu, Lytra, cxpyyy, luu**
+*Album:* 0800-111-0-111
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:38
+    1:58 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[warum?](https://open.spotify.com/track/4Nj9rtP1l6l1lRzPjSIJpQ)** by **pink luu, TheyhxteAnt** *(warum?)*
-🎤 **[flip phone](https://open.spotify.com/track/1X1AtNti4T4kqcBmt3ZHwZ)** by **luu, kanjiru** *(flip phone)*
-🎤 **[xan romance](https://open.spotify.com/track/28Lfr7bE5QQiM2KGddXZeF)** by **luu, syris** *(xan romance)*
+🎤 **[SMS](https://open.spotify.com/track/4upElsfQhSMxGzfyxBpdMy)** by **pink luu, xtatus** *(SMS)*
+🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
+🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
+🎤 **[mental health](https://open.spotify.com/track/2EtYSZ5X3u7DrrwALKYZyy)** by **pink luu, Lytra, cxpyyy, luu** *(mental health)*
+🎤 **[04:30](https://open.spotify.com/track/7Cgar1fczX18RuU0nUnLuF)** by **pink luu, nami, cxpyyy, luu** *(pain parade)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 07:47:47Z UTC
+🕐 Last updated: 2025-08-25 08:18:49Z UTC
 <!-- SPOTIFY-END -->
