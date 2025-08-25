@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273db6447d8a3e0b768dfcab975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27310927d3476cd8b73a0f35929" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Soaring Over the Summit](https://open.spotify.com/track/3qFpzdSwBVqnkvcWCnQbiY)**
+**🎵 [Sailing Across the Seas](https://open.spotify.com/track/3JK0dsTw54fYm4uTR77j7g)**
 *by* **Soothing Oasis**
-*Album:* Weightless
+*Album:* Soothing
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 2:12
+    1:56 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Calm](https://open.spotify.com/track/79QkpuDIB97QZXa01LpN85)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Life](https://open.spotify.com/track/1DJpUszas5DVvTF5CNPA0y)** by **Soothing Oasis** *(Moments)*
-🎤 **[Seize the Moment](https://open.spotify.com/track/0iiyGbXacbDWiIcy0XKpah)** by **Soothing Oasis** *(Moments)*
-🎤 **[Rest](https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Lunar](https://open.spotify.com/track/12uzVXAu5yKkzUFcNVOmCJ)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Mist](https://open.spotify.com/track/0w9YVUWVvQlk8oMPKWAewA)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Ancient Stars](https://open.spotify.com/track/6FLb46S3SKN6p7Hco0CXf8)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Night](https://open.spotify.com/track/0kDFOAAigGT7wTvgCeTNRW)** by **Soothing Oasis** *(Evening)*
+🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 04:39:56Z UTC
+🕐 Last updated: 2025-08-25 04:53:46Z UTC
 <!-- SPOTIFY-END -->
