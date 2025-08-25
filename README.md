@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735d5caa4280168ddd050e64de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739256ec7d23a6a5c78d65dd88" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)**
-*by* **pink luu, kmrnxo, NXTY**
-*Album:* thots
+**🎵 [Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)**
+*by* **cinnemane**
+*Album:* Mood Swings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="41" height="4" fill="#1db954" rx="2"/>
-    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 1:31
+    0:36 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FREE S3X TOY](https://open.spotify.com/track/1Z1m5YjK0Z3swLkHha0VdM)** by **LooveX, Kyurukai** *(FREE S3X TOY)*
-🎤 **[shattered](https://open.spotify.com/track/7GjNwSO2FmDHzDRGb6uiik)** by **snor, cholorofilm** *(shattered)*
-🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
-🎤 **[KEINE ZEIT!](https://open.spotify.com/track/7aaLkwCDjSmZKCFeOb8k1H)** by **luu** *(KEINE ZEIT!)*
-🎤 **[Dontwant 2](https://open.spotify.com/track/5W7ltLoQlRu308hQv4JuI5)** by **flywoah** *(Dontwant 2)*
+🎤 **[Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)** by **Ellie Mic** *(Asche im Auge)*
+🎤 **[RESIDENT EVIL](https://open.spotify.com/track/09W6O2U9Bf6zrzGjJrslc6)** by **nami, wasty** *(RESIDENT EVIL)*
+🎤 **[OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)** by **pink luu, TheyhxteAnt** *(OH MY GAWD!)*
+🎤 **[xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)** by **cholorofilm** *(xxx)*
+🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 09:49:36Z UTC
+🕐 Last updated: 2025-08-25 10:14:43Z UTC
 <!-- SPOTIFY-END -->
