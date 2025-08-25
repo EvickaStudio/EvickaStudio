@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273088e80c50d3d69c4d52b25d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8)**
-*by* **belac**
-*Album:* Be with Me 2009
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 3:16
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX)** by **Riovaz, Kanii** *(waiting alonE)*
-🎤 **[Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS)** by **Zedd, Matthew Koma** *(Clarity)*
-🎤 **[Tide Without Time](https://open.spotify.com/track/4hlZVv80OIClbWy368vz8h)** by **Oceenra** *(Midnight Current)*
-🎤 **[Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds)** by **Ursae Minoris** *(Harvest Moon)*
+🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
+🎤 **[Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6)** by **Design19** *(Trigger)*
+🎤 **[Ever (Foreign Flag)](https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH)** by **Team Sleep** *(Team Sleep (U.S. Release))*
+🎤 **[Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3)** by **Frou Frou** *(Details)*
+🎤 **[sea of cloud](https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo)** by **Nujabes** *(Modal Soul)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 15:49:43Z UTC
+🕐 Last updated: 2025-08-25 16:15:39Z UTC
 <!-- SPOTIFY-END -->
