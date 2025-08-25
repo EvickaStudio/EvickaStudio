@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27305ee6d4378009999c4ecf5c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c1a69ec8d5ade7d18da4f8d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)**
-*by* **bliiiss**
-*Album:* worthit
+**🎵 [LuvLorn </3](https://open.spotify.com/track/1Ltno4ZlC55Vt3NQvJUy4a)**
+*by* **LooveX, cholorofilm**
+*Album:* LuvLorn </3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="108" height="4" fill="#1db954" rx="2"/>
-    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:32
+    1:43 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
-🎤 **[messer](https://open.spotify.com/track/5DTebarGF5X1mmcWzCLmnx)** by **stixz** *(messer)*
-🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
-🎤 **[i think i've had enough](https://open.spotify.com/track/4zZuT0iYT7J0Wafi4EsvYm)** by **SHEMYYY** *(i think i've had enough)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[bloody bathroom](https://open.spotify.com/track/6RRoQakBSNIX3YtxiWRDv9)** by **cholorofilm** *(bloody bathroom)*
+🎤 **[GEMESIS](https://open.spotify.com/track/7ailkxHIIP2cyDsduYTxHd)** by **DJmegan23** *(NIGHTMARE BLUNT ROTATION 2+)*
+🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
+🎤 **[Make A Wish](https://open.spotify.com/track/3b7wukBjI4iIM4eX9DXx5q)** by **Nokia Angel** *(In Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 20:32:28Z UTC
+🕐 Last updated: 2025-08-25 20:49:25Z UTC
 <!-- SPOTIFY-END -->
