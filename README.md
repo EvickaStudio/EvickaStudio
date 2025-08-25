@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310927d3476cd8b73a0f35929" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bc372dae933775bef78a2c62" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sailing Across the Seas](https://open.spotify.com/track/3JK0dsTw54fYm4uTR77j7g)**
+**🎵 [Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)**
 *by* **Soothing Oasis**
-*Album:* Soothing
+*Album:* Evening
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:14
+    0:18 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mist](https://open.spotify.com/track/0w9YVUWVvQlk8oMPKWAewA)** by **Soothing Oasis** *(Foggy Morning)*
-🎤 **[Ancient Stars](https://open.spotify.com/track/6FLb46S3SKN6p7Hco0CXf8)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Night](https://open.spotify.com/track/0kDFOAAigGT7wTvgCeTNRW)** by **Soothing Oasis** *(Evening)*
-🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Inner Calm](https://open.spotify.com/track/38LnUWouA4Rj5c3Kb9pznv)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Stillness](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Peace of Mind](https://open.spotify.com/track/4sjiDNmvb0l63hvsHkOSZz)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Rest](https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 04:53:46Z UTC
+🕐 Last updated: 2025-08-25 05:13:54Z UTC
 <!-- SPOTIFY-END -->
