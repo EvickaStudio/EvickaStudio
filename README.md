@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af7205c1f3dcc81e96f042ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300c16bbbf14c6f099d2d150f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)**
-*by* **flywoah**
-*Album:* Super-Loud
+**🎵 [Awake - Live at Studio Tessmar](https://open.spotify.com/track/7AMeZHYkgICaSveeW9RB8D)**
+*by* **orbit**
+*Album:* Perspectives Live Session
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="177" height="4" fill="#1db954" rx="2"/>
+    <circle cx="177" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:40
+    1:59 • 3:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Chainsaw Man](https://open.spotify.com/track/2SSeRzDco4E0AxAWZBaXHt)** by **Yatsu** *(Chainsaw Man)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
-🎤 **[Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6)** by **Design19** *(Trigger)*
-🎤 **[Ever (Foreign Flag)](https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH)** by **Team Sleep** *(Team Sleep (U.S. Release))*
+🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
+🎤 **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))*
+🎤 **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)*
+🎤 **[OLYMPIA](https://open.spotify.com/track/249MSbYpwdCyxIZs5OuA0n)** by **$OHO BANI, Ericson** *(TRÄUM $OHO)*
+🎤 **[rockstarshawty.wav](https://open.spotify.com/track/6q3XlySLLwdlknfOmlCJ7m)** by **03osc** *(OSCWRLD333)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 16:45:28Z UTC
+🕐 Last updated: 2025-08-25 17:09:46Z UTC
 <!-- SPOTIFY-END -->
