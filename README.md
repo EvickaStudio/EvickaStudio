@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373ad4a7d2503ebbf0545fc5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silent Descent](https://open.spotify.com/track/4pgJJ5kdjPLbEYZODHxa2l)**
-*by* **Avery's Ambient**
-*Album:* Dream Haze
+**🎵 [schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)**
+*by* **SQF2000**
+*Album:* YOLOCORE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:04
+    1:57 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Night](https://open.spotify.com/track/3U7hItdxazrwnesUBPFruR)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Night Bloom](https://open.spotify.com/track/4CdER7g16PycUeOae0Th69)** by **Avery's Ambient** *(Night Bloom)*
-🎤 **[Venusian](https://open.spotify.com/track/64ssnSXXTLqSNn7ioao1Gn)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Silent Castle](https://open.spotify.com/track/5el66REwlXnbOLZNy9BagT)** by **Soothing Oasis** *(Dream Realm)*
-🎤 **[Earth at Rest](https://open.spotify.com/track/6Pmu0BGq26HjHKPFhKS2lF)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
+🎤 **[Afterburner](https://open.spotify.com/track/1z0EbPhl9w8QMqZF63mlCd)** by **Yota Dora** *(Afterburner)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 05:49:57Z UTC
+🕐 Last updated: 2025-08-25 06:20:35Z UTC
 <!-- SPOTIFY-END -->
