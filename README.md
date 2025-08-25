@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d7f4f1ba272607b397ced5ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c7473d00e382021e003a5a35" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Experience](https://open.spotify.com/track/7dqAiIUUHj3aNk7KfZkXQL)**
-*by* **Soothing Oasis**
-*Album:* Dreaming
+**🎵 [Calm Lake](https://open.spotify.com/track/2ra5ptTLSBV9HXP7OOzbFL)**
+*by* **Avery's Ambient**
+*Album:* Midnight Waves
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:08
+    0:46 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Evening Tide](https://open.spotify.com/track/0RM09xWItBO12GWlajEAiH)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB)** by **Charli xcx, Lorde** *(Brat and it’s completely different but also still brat)*
-🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[Unheard](https://open.spotify.com/track/5AYugiQ3DPrH1ukafmob5S)** by **Avery's Ambient** *(Stillness)*
+🎤 **[On the Horizon](https://open.spotify.com/track/4CLNz7XTsQ6v1uEkbiwTa2)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Night Glow](https://open.spotify.com/track/6OrvXlYgTwdywGn0MNOltG)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[Haven](https://open.spotify.com/track/0L8aHQQH4ib2FyIyXFfXI4)** by **Soothing Oasis** *(Embraced)*
+🎤 **[Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)** by **Avery's Ambient** *(Dream Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-25 22:32:25Z UTC
+🕐 Last updated: 2025-08-25 22:47:48Z UTC
 <!-- SPOTIFY-END -->
