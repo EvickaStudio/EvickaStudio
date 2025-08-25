@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a0ec9a91a54b668d82167de4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5a006414c7faeeb09a1cc18" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)**
-*by* **RYLO**
-*Album:* fern als heimweh
+**🎵 [Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)**
+*by* **ChromeStylist**
+*Album:* Erotica
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="1" height="4" fill="#1db954" rx="2"/>
+    <circle cx="1" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:16
+    0:00 • 2:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/44HtgbGRHHRn9vUJ787Z9J)** by **Punk Christ** *(ELEKTRONISCHES MÄDCHEN)*
+🎤 **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by **RYLO** *(fern als heimweh)*
 🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
 🎤 **[Fire sign](https://open.spotify.com/track/4RQoF2veOQ4wK2HVaOF9b2)** by **Dropped here** *(Fire sign)*
-🎤 **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)*
-🎤 **[GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[static dreams](https://open.spotify.com/track/6oTDhIMH8R2XSb4iqpae7v)** by **marchpane** *(binary euphoria)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 17:40:16Z UTC
+🕐 Last updated: 2025-08-25 17:47:50Z UTC
 <!-- SPOTIFY-END -->
