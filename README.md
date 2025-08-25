@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373ad4a7d2503ebbf0545fc5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Peaceful Skies](https://open.spotify.com/track/4T317D8kCVdPbqmsUdDA89)**
-*by* **Soothing Oasis**
-*Album:* As Dusk Falls
+**🎵 [Silent Descent](https://open.spotify.com/track/4pgJJ5kdjPLbEYZODHxa2l)**
+*by* **Avery's Ambient**
+*Album:* Dream Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="124" height="4" fill="#1db954" rx="2"/>
-    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:14
+    1:25 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[World](https://open.spotify.com/track/5MvVq93z7q1miPkAj2GuKs)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Ease](https://open.spotify.com/track/5NmnGx7uvkzFX8tQb9HZsR)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)** by **Avery's Ambient** *(Night Bloom)*
-🎤 **[Timeless](https://open.spotify.com/track/4BLPusOhPqcWaOA7q0licS)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[Through Tall Pines](https://open.spotify.com/track/7q8wG0sHwTep5HRuO36OgC)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Night](https://open.spotify.com/track/3U7hItdxazrwnesUBPFruR)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Night Bloom](https://open.spotify.com/track/4CdER7g16PycUeOae0Th69)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Venusian](https://open.spotify.com/track/64ssnSXXTLqSNn7ioao1Gn)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Silent Castle](https://open.spotify.com/track/5el66REwlXnbOLZNy9BagT)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Earth at Rest](https://open.spotify.com/track/6Pmu0BGq26HjHKPFhKS2lF)** by **Soothing Oasis** *(Earth at Rest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 05:34:22Z UTC
+🕐 Last updated: 2025-08-25 05:49:57Z UTC
 <!-- SPOTIFY-END -->
