@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273db6447d8a3e0b768dfcab975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Glide Over the Lake](https://open.spotify.com/track/3XdXyNrHnCi5ZgTevnweKh)**
+**🎵 [Soaring Over the Summit](https://open.spotify.com/track/3qFpzdSwBVqnkvcWCnQbiY)**
 *by* **Soothing Oasis**
 *Album:* Weightless
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="129" height="4" fill="#1db954" rx="2"/>
+    <circle cx="129" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 2:11
+    0:57 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Moonbeams](https://open.spotify.com/track/2ycVoZ0nLO3oGlotOkpNlA)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[In The Clouds](https://open.spotify.com/track/6QI986D0KQr8E64PYCxDKI)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Fading Light](https://open.spotify.com/track/2sbmEcU4m0rpv67MYxpOu5)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
-🎤 **[Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Calm](https://open.spotify.com/track/79QkpuDIB97QZXa01LpN85)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Life](https://open.spotify.com/track/1DJpUszas5DVvTF5CNPA0y)** by **Soothing Oasis** *(Moments)*
+🎤 **[Seize the Moment](https://open.spotify.com/track/0iiyGbXacbDWiIcy0XKpah)** by **Soothing Oasis** *(Moments)*
+🎤 **[Rest](https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Lunar](https://open.spotify.com/track/12uzVXAu5yKkzUFcNVOmCJ)** by **Soothing Oasis** *(Starry Night)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 04:03:04Z UTC
+🕐 Last updated: 2025-08-25 04:39:56Z UTC
 <!-- SPOTIFY-END -->
