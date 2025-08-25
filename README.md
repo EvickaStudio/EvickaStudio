@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)**
+**🎵 [Sleeping City](https://open.spotify.com/track/1AsfeQfofQlkyyWrgB6eDI)**
 *by* **Soothing Oasis**
-*Album:* Riverside
+*Album:* Gently Sleeping
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:06
+    0:21 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Anti-Anxiety](https://open.spotify.com/track/5Krcof4pwOCUDYUgaDn1Nn)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Light](https://open.spotify.com/track/4tNCoVahnWCS4nNdKrhiSd)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Peace](https://open.spotify.com/track/6WjfIRK2wnzKh2IzfQlgcE)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
 🎤 **[Together With You](https://open.spotify.com/track/4DkZ6zYeshWSTn5zFD6E54)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Slumbering Earth](https://open.spotify.com/track/24YU2XDJjxtIWigSC5KDdW)** by **Soothing Oasis** *(Earth at Rest)*
-🎤 **[Cherry Blossom](https://open.spotify.com/track/5lg3OBhmX1zYgUJttYTIij)** by **Avery's Ambient** *(Zen Moments)*
-🎤 **[Reflections](https://open.spotify.com/track/1ws7NKVVWAvTCQMWTHTC3i)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Distant](https://open.spotify.com/track/75Lf4sQXCzJAsKIyKQNB2L)** by **Avery's Ambient** *(In the Distance)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-25 23:39:11Z UTC
+🕐 Last updated: 2025-08-25 23:47:35Z UTC
 <!-- SPOTIFY-END -->
