@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc372dae933775bef78a2c62" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)**
+**🎵 [Peaceful Skies](https://open.spotify.com/track/4T317D8kCVdPbqmsUdDA89)**
 *by* **Soothing Oasis**
-*Album:* Evening
+*Album:* As Dusk Falls
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:08
+    0:55 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Inner Calm](https://open.spotify.com/track/38LnUWouA4Rj5c3Kb9pznv)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[Stillness](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Peace of Mind](https://open.spotify.com/track/4sjiDNmvb0l63hvsHkOSZz)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[Rest](https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
+🎤 **[World](https://open.spotify.com/track/5MvVq93z7q1miPkAj2GuKs)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Ease](https://open.spotify.com/track/5NmnGx7uvkzFX8tQb9HZsR)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Timeless](https://open.spotify.com/track/4BLPusOhPqcWaOA7q0licS)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Through Tall Pines](https://open.spotify.com/track/7q8wG0sHwTep5HRuO36OgC)** by **Soothing Oasis** *(Breathing Forest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 05:13:54Z UTC
+🕐 Last updated: 2025-08-25 05:34:22Z UTC
 <!-- SPOTIFY-END -->
