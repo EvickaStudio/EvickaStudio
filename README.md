@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b932b34ed353814d24c3ab9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a04cea5c54f2a1b99f727b2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blame](https://open.spotify.com/track/2BnVhWkKgXYUOeVTM4Vinj)**
-*by* **Sg Lily, Loveboy**
-*Album:* 17 Again
+**🎵 [burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)**
+*by* **lustr**
+*Album:* burnt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="143" height="4" fill="#1db954" rx="2"/>
-    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+    <rect width="229" height="4" fill="#1db954" rx="2"/>
+    <circle cx="229" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 2:17
+    1:47 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[9](https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa)** by **Dean Blunt, Panda Bear** *(ZUSHI)*
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
+🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
+🎤 **[...And So It Was](https://open.spotify.com/track/5P45rIpV682KkvtZjZtuwB)** by **$uicideboy$, Black Smurf** *(Black $uicide)*
+🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
+🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 14:51:09Z UTC
+🕐 Last updated: 2025-08-25 15:13:30Z UTC
 <!-- SPOTIFY-END -->
