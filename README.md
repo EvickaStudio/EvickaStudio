@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273db6447d8a3e0b768dfcab975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)**
+**🎵 [Glide Over the Lake](https://open.spotify.com/track/3XdXyNrHnCi5ZgTevnweKh)**
 *by* **Soothing Oasis**
-*Album:* Stillness
+*Album:* Weightless
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="22" height="4" fill="#1db954" rx="2"/>
-    <circle cx="22" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 2:06
+    0:48 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Closed Eyes](https://open.spotify.com/track/3byiUKyWI11f6fzB4Gp9HC)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Whispers](https://open.spotify.com/track/4tXrBqfqgO1HYLSeA1Kxk8)** by **Soothing Oasis** *(Beneath the Sky)*
-🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
-🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
-🎤 **[Springs](https://open.spotify.com/track/6FKEQIGykAswaEN9nWzkqB)** by **Avery's Ambient** *(Zen Moments)*
+🎤 **[Moonbeams](https://open.spotify.com/track/2ycVoZ0nLO3oGlotOkpNlA)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[In The Clouds](https://open.spotify.com/track/6QI986D0KQr8E64PYCxDKI)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Fading Light](https://open.spotify.com/track/2sbmEcU4m0rpv67MYxpOu5)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
+🎤 **[Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)** by **Soothing Oasis** *(Sleep Well)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 03:42:57Z UTC
+🕐 Last updated: 2025-08-25 04:03:04Z UTC
 <!-- SPOTIFY-END -->
