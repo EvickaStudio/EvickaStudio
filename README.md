@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c614421aca6f616ceea60ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fac7e02db331a41fc546eee1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Prio](https://open.spotify.com/track/2Y4NLmk9YkoarzqN30apuc)**
-*by* **makko**
-*Album:* Prio
+**🎵 [blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)**
+*by* **luu, Skatey Hellstar**
+*Album:* blister
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="232" height="4" fill="#1db954" rx="2"/>
+    <circle cx="232" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 2:54
+    1:20 • 1:43
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
-🎤 **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by **lil eyes, 1800yassine, Asterio, treason434** *(feelings im bauch (feat. treason434) [techno remix])*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
-🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
+🎤 **[Change (In the House of Flies)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3)** by **Deftones** *(White Pony)*
+🎤 **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)*
+🎤 **[vergessen](https://open.spotify.com/track/2szTSD07Ot23nWHUEkBaH2)** by **aidan** *(weißes rauschen)*
+🎤 **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)*
+🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🥈 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
-🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🥉 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 06:50:44Z UTC
+🕐 Last updated: 2025-08-25 07:13:48Z UTC
 <!-- SPOTIFY-END -->
