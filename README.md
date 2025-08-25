@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cd8b0572699ad828e80893b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c475ea69b1597db49c62874" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ich mag Züge](https://open.spotify.com/track/0DnVcskizKfZAioAA1Wfwz)**
-*by* **Baron**
-*Album:* Ich mag Züge
+**🎵 [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)**
+*by* **Edwin Rosen**
+*Album:* 21 Nächte wach
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:02
+    0:30 • 2:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Maxi King](https://open.spotify.com/track/4L2pOra0PxKrWhrSHlvgEP)** by **Symba** *(Maxi King)*
-🎤 **[regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy)** by **DANZINGER 99, DJ<3** *(regen༺♡✧+++)*
-🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
-🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
+🎤 **[Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)** by **Geo22** *(Wizardry)*
+🎤 **[Teufelskreis](https://open.spotify.com/track/4xYE7pT9DWovz6fiWbLrvN)** by **Pocky Red, Hadesthegrim** *(Teufelskreis)*
+🎤 **[Mind Freak](https://open.spotify.com/track/7iK0z4ZFY0GnFQhLxnRvZU)** by **boysinblush, Garett Caramel** *(Mind Freak)*
+🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
+🎤 **[Ich mag Züge](https://open.spotify.com/track/0DnVcskizKfZAioAA1Wfwz)** by **Baron** *(Ich mag Züge)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 13:40:49Z UTC
+🕐 Last updated: 2025-08-25 13:51:42Z UTC
 <!-- SPOTIFY-END -->
