@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319ec54f7cb4138362633f609" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5827f574f1b233f6fcc5355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)**
-*by* **Streichelt**
-*Album:* Fern
+**🎵 [brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)**
+*by* **Punk Christ**
+*Album:* brauche deine liebe nicht mehr
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 3:06
+    0:19 • 1:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)*
-🎤 **[Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)*
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
+🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
+🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 14:12:56Z UTC
+🕐 Last updated: 2025-08-25 14:34:45Z UTC
 <!-- SPOTIFY-END -->
