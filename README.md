@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a0ec9a91a54b668d82167de4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)**
-*by* **Tyler, The Creator**
-*Album:* IGOR
+**🎵 [fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)**
+*by* **RYLO**
+*Album:* fern als heimweh
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="279" height="4" fill="#1db954" rx="2"/>
-    <circle cx="279" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:49 • 6:15
+    0:13 • 2:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
+🎤 **[Fire sign](https://open.spotify.com/track/4RQoF2veOQ4wK2HVaOF9b2)** by **Dropped here** *(Fire sign)*
+🎤 **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)*
+🎤 **[GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)** by **Tyler, The Creator** *(IGOR)*
 🎤 **[static dreams](https://open.spotify.com/track/6oTDhIMH8R2XSb4iqpae7v)** by **marchpane** *(binary euphoria)*
-🎤 **[Psychic](https://open.spotify.com/track/2o0HBEggQAyXYcIk4ZRMvY)** by **WILDE** *(Psychic)*
-🎤 **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)*
-🎤 **[Star Shopping](https://open.spotify.com/track/50kQRnsbBv2SAcZ6BuVbks)** by **Megami** *(Star Shopping)*
-🎤 **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 17:28:24Z UTC
+🕐 Last updated: 2025-08-25 17:40:16Z UTC
 <!-- SPOTIFY-END -->
