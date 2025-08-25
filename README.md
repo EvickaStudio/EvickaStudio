@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731bb404c4a351e4a4290695c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Distant](https://open.spotify.com/track/75Lf4sQXCzJAsKIyKQNB2L)**
-*by* **Avery's Ambient**
-*Album:* In the Distance
+**🎵 [Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)**
+*by* **Soothing Oasis**
+*Album:* Riverside
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 2:04
+    0:47 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Stargazing](https://open.spotify.com/track/5qPs5nIwNIzEmZBVhb50Dp)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Stargazing](https://open.spotify.com/track/5qPs5nIwNIzEmZBVhb50Dp)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Midnight Waves](https://open.spotify.com/track/79buRxInOY9D7YQINtFAtr)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Together With You](https://open.spotify.com/track/4DkZ6zYeshWSTn5zFD6E54)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Slumbering Earth](https://open.spotify.com/track/24YU2XDJjxtIWigSC5KDdW)** by **Soothing Oasis** *(Earth at Rest)*
 🎤 **[Cherry Blossom](https://open.spotify.com/track/5lg3OBhmX1zYgUJttYTIij)** by **Avery's Ambient** *(Zen Moments)*
+🎤 **[Reflections](https://open.spotify.com/track/1ws7NKVVWAvTCQMWTHTC3i)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Distant](https://open.spotify.com/track/75Lf4sQXCzJAsKIyKQNB2L)** by **Avery's Ambient** *(In the Distance)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-25 23:28:44Z UTC
+🕐 Last updated: 2025-08-25 23:39:11Z UTC
 <!-- SPOTIFY-END -->
