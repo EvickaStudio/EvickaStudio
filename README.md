@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b5827f574f1b233f6fcc5355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732b932b34ed353814d24c3ab9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)**
-*by* **Punk Christ**
-*Album:* brauche deine liebe nicht mehr
+**🎵 [Blame](https://open.spotify.com/track/2BnVhWkKgXYUOeVTM4Vinj)**
+*by* **Sg Lily, Loveboy**
+*Album:* 17 Again
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="143" height="4" fill="#1db954" rx="2"/>
+    <circle cx="143" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 1:47
+    1:05 • 2:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[9](https://open.spotify.com/track/5JXtkWtuqS8Dm8sKbtPGWa)** by **Dean Blunt, Panda Bear** *(ZUSHI)*
+🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 14:34:45Z UTC
+🕐 Last updated: 2025-08-25 14:51:09Z UTC
 <!-- SPOTIFY-END -->
