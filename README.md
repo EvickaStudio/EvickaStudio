@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273522c7081739c5196844e4dce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ee899f14f585135b51078379" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Reflections](https://open.spotify.com/track/4TYLYZeo5ALnsb1dGCxPXH)**
+**🎵 [On the Horizon](https://open.spotify.com/track/4CLNz7XTsQ6v1uEkbiwTa2)**
 *by* **Soothing Oasis**
-*Album:* Calming River
+*Album:* Sleep Well
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="9" height="4" fill="#1db954" rx="2"/>
-    <circle cx="9" cy="2" r="6" fill="#1db954"/>
+    <rect width="129" height="4" fill="#1db954" rx="2"/>
+    <circle cx="129" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:03 • 2:05
+    0:55 • 2:08
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[Soft](https://open.spotify.com/track/3zpnEiG0RdCUeFPKN4p2jK)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Midnight Waves](https://open.spotify.com/track/79buRxInOY9D7YQINtFAtr)** by **Avery's Ambient** *(Midnight Waves)*
-🎤 **[Mist on the Riverside](https://open.spotify.com/track/5S07qONtDLCj1jzX0gK8nU)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Leaves Rustling](https://open.spotify.com/track/5xc7ARSRsTobbFx4rcU416)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Awakening Earth](https://open.spotify.com/track/79wtfcG1xP7nUKmzSKZrTM)** by **Avery's Ambient** *(Awakening Earth)*
 🎤 **[Starfield](https://open.spotify.com/track/2j7Z1JCzox5JJnGgmfUP21)** by **Avery's Ambient** *(Obsidian Sky)*
-🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Drifting Clouds](https://open.spotify.com/track/7wfH95WA75hMvKLhDWftHZ)** by **Soothing Oasis** *(Ancient Stars)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🥉 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🥈 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 01:01:49Z UTC
+🕐 Last updated: 2025-08-25 02:51:59Z UTC
 <!-- SPOTIFY-END -->
