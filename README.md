@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d590b1564cf425cab6e4e33f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273088e80c50d3d69c4d52b25d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Foundation](https://open.spotify.com/track/3ekGjCqb8yj8AgzoxSJsdf)**
-*by* **Lono**
-*Album:* Root Chakra
+**🎵 [Be with Me 2009](https://open.spotify.com/track/2Qy5OVjyaIdp5sP4KMKyW8)**
+*by* **belac**
+*Album:* Be with Me 2009
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:16
+    1:07 • 3:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Altitude](https://open.spotify.com/track/5RssXVfknLYOMlCjncVFxF)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[flickering lights](https://open.spotify.com/track/6uIJsU6ynGotrvVzu9keBi)** by **boysinblush, anna luna** *(flickering lights)*
-🎤 **[house](https://open.spotify.com/track/4aFmTTHsMgp5VSwq7sLt6X)** by **anna luna** *(house)*
-🎤 **[And The Parasite Speaks](https://open.spotify.com/track/5i6Eh6QM8GsOLHZRnQiXRe)** by **Felix Lee, Ecco2k** *(Skullstepper)*
-🎤 **[Tell Me](https://open.spotify.com/track/7h3nwFlCtiRcS312M4tHEF)** by **Suzy Sheer** *(Blissed)*
+🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[waiting alonE](https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX)** by **Riovaz, Kanii** *(waiting alonE)*
+🎤 **[Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS)** by **Zedd, Matthew Koma** *(Clarity)*
+🎤 **[Tide Without Time](https://open.spotify.com/track/4hlZVv80OIClbWy368vz8h)** by **Oceenra** *(Midnight Current)*
+🎤 **[Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds)** by **Ursae Minoris** *(Harvest Moon)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 15:33:08Z UTC
+🕐 Last updated: 2025-08-25 15:49:43Z UTC
 <!-- SPOTIFY-END -->
