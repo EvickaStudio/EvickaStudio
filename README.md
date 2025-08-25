@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee899f14f585135b51078379" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [On the Horizon](https://open.spotify.com/track/4CLNz7XTsQ6v1uEkbiwTa2)**
+**🎵 [Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)**
 *by* **Soothing Oasis**
-*Album:* Sleep Well
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+    <rect width="22" height="4" fill="#1db954" rx="2"/>
+    <circle cx="22" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:08
+    0:09 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Leaves Rustling](https://open.spotify.com/track/5xc7ARSRsTobbFx4rcU416)** by **Soothing Oasis** *(Breathing Forest)*
-🎤 **[Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Awakening Earth](https://open.spotify.com/track/79wtfcG1xP7nUKmzSKZrTM)** by **Avery's Ambient** *(Awakening Earth)*
-🎤 **[Starfield](https://open.spotify.com/track/2j7Z1JCzox5JJnGgmfUP21)** by **Avery's Ambient** *(Obsidian Sky)*
-🎤 **[Drifting Clouds](https://open.spotify.com/track/7wfH95WA75hMvKLhDWftHZ)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Closed Eyes](https://open.spotify.com/track/3byiUKyWI11f6fzB4Gp9HC)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Whispers](https://open.spotify.com/track/4tXrBqfqgO1HYLSeA1Kxk8)** by **Soothing Oasis** *(Beneath the Sky)*
+🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
+🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Springs](https://open.spotify.com/track/6FKEQIGykAswaEN9nWzkqB)** by **Avery's Ambient** *(Zen Moments)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Montauk**](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)
 
 
-🕐 Last updated: 2025-08-25 02:51:59Z UTC
+🕐 Last updated: 2025-08-25 03:42:57Z UTC
 <!-- SPOTIFY-END -->
