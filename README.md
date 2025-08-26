@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7935e8af93f3927f2ac0053" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731175c544707bd0dd6e9367e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)**
-*by* **pink luu, Kroka Koka, xtatus**
-*Album:* lieblingspferd
+**🎵 [Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)**
+*by* **alleycat, dxsh**
+*Album:* Crazy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="95" height="4" fill="#1db954" rx="2"/>
+    <circle cx="95" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 1:43
+    0:40 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[Wake Up Everybody (feat. Teddy Pendergrass)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Wake Up Everybody (feat. Teddy Pendergrass))*
-🎤 **[Bad Luck - Rerecorded](https://open.spotify.com/track/7wKuZTgm7eFq0JKW7k51Hs)** by **Harold Melvin & The Blue Notes** *(Reddy vs. Melvin & The Blue Notes)*
-🎤 **[You Know How to Make Me Feel so Good (feat. Sharon Paige)](https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5)** by **Harold Melvin & The Blue Notes, Sharon Paige** *(Wake Up Everybody (feat. Teddy Pendergrass))*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 19:22:51Z UTC
+🕐 Last updated: 2025-08-26 19:33:56Z UTC
 <!-- SPOTIFY-END -->
