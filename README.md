@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c980304baf80180db86e9913" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273762e6b695a5700927870fba6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)**
-*by* **cholorofilm, snor**
-*Album:* kill me pls
+**🎵 [blood everywhere](https://open.spotify.com/track/6KxwSHYvQ4mJPcGgJe0tYm)**
+*by* **syverina**
+*Album:* blood everywhere
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:35
+    0:27 • 1:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[-suffocation-](https://open.spotify.com/track/5DQACbk3KcHGjwuzuldg9g)** by **LooveX, DecayingAnyways** *(-suffocation-)*
-🎤 **[222](https://open.spotify.com/track/7otfHmW81sUnjFgM9OWfeE)** by **syverina** *(222)*
-🎤 **[100K](https://open.spotify.com/track/3qlMN30d8lAYXbuPyRYCw1)** by **Aachen Demon, mikeycyrus** *(D2SQUIRT)*
-🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
-🎤 **[glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)** by **luu, cxpyyy** *(glitzeraugen)*
+🎤 **[Klicks](https://open.spotify.com/track/1YRs4ww7XuB6arCD6HPHLY)** by **Aachen Demon, mikeycyrus** *(D2SQUIRT)*
+🎤 **[bloody bathroom](https://open.spotify.com/track/6RRoQakBSNIX3YtxiWRDv9)** by **cholorofilm** *(bloody bathroom)*
+🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
+🎤 **[Pretty Kitty - Speed Up](https://open.spotify.com/track/18WuIaM0T0gleNu6HYdAAM)** by **ystn** *(Pretty Kitty)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 13:52:34Z UTC
+🕐 Last updated: 2025-08-26 14:12:07Z UTC
 <!-- SPOTIFY-END -->
