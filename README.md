@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48** *(change us)*
 🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
 🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
 🎤 **[KEINE ZEIT!](https://open.spotify.com/track/7aaLkwCDjSmZKCFeOb8k1H)** by **luu** *(KEINE ZEIT!)*
 🎤 **[i know!!](https://open.spotify.com/track/4gkKOpa7XQ8cIkVSUcdjnI)** by **ilymeow** *(i know!!)*
-🎤 **[REBAR](https://open.spotify.com/track/23wz6P0Xnn1nAbbFDjzaJC)** by **Focus Group, Aidan Swank, bleachblonde** *(STEPPED IN A PUDDLE NOW MY SOCKS R WET "FG004")*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 07:13:01Z UTC
+🕐 Last updated: 2025-08-26 07:30:10Z UTC
 <!-- SPOTIFY-END -->
