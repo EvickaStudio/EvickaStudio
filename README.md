@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b1ee5b33c36b9fb361b682c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332140dac935b95f7e4628a7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR)**
-*by* **Raydio**
-*Album:* Raydio
+**🎵 [Wake Up Everybody (feat. Teddy Pendergrass)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S)**
+*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
+*Album:* Wake Up Everybody (feat. Teddy Pendergrass)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="3" height="4" fill="#1db954" rx="2"/>
+    <circle cx="3" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:01 • 4:35
+    0:06 • 7:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)** by **Commodores** *(Natural High)*
-🎤 **[Home Is Where the Heart Is](https://open.spotify.com/track/6YuHSZn9WcRSNv9T5xVHsJ)** by **Gladys Knight & The Pips** *(The Apollo Original Motion Picture Soundtrack)*
-🎤 **[Cry Baby](https://open.spotify.com/track/5G0yErsdIKfplod526gygr)** by **Garnet Mimms & The Enchanters** *(Cry Baby)*
-🎤 **[Love Finds Its Own Way](https://open.spotify.com/track/751iqUFTzPOdYQZq9Apeel)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[Bad Luck - Rerecorded](https://open.spotify.com/track/7wKuZTgm7eFq0JKW7k51Hs)** by **Harold Melvin & The Blue Notes** *(Reddy vs. Melvin & The Blue Notes)*
+🎤 **[You Know How to Make Me Feel so Good (feat. Sharon Paige)](https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5)** by **Harold Melvin & The Blue Notes, Sharon Paige** *(Wake Up Everybody (feat. Teddy Pendergrass))*
+🎤 **[Rainy Night in Georgia](https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7)** by **Brook Benton** *(Brook Benton Today)*
+🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
+🎤 **[The Way We Were / Try to Remember - Single Version](https://open.spotify.com/track/1Pz39jyfPKGY3z9HZJmrHj)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 18:45:43Z UTC
+🕐 Last updated: 2025-08-26 19:09:23Z UTC
 <!-- SPOTIFY-END -->
