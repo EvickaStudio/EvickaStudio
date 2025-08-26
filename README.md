@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a120fdc8cba308894bdd21c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731023b2ada2a08dc63f5106e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)**
-*by* **Baby B3ns, Yung Hurn**
-*Album:* Liebe in Stereo
+**🎵 [Drank & Drugs](https://open.spotify.com/track/4rHIGjDTXXL9Eudf3YF036)**
+*by* **Lil Kleine, Ronnie Flex**
+*Album:* New Wave
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="232" height="4" fill="#1db954" rx="2"/>
-    <circle cx="232" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 3:10
+    1:07 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Melodien 2](https://open.spotify.com/track/7MoSqtbgMVdXtWnXj2VBQU)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
-🎤 **[Abendrot](https://open.spotify.com/track/7CruQL6pEGMbeRDC6vRXOV)** by **The Cratez, Tarek K.I.Z** *(NONSTOP)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[will dass du bleibst](https://open.spotify.com/track/2bPAq4w9wPsd67f68YX1Pu)** by **luu, kalia** *(will dass du bleibst)*
-🎤 **[frieza (ka33)](https://open.spotify.com/track/0RFWM3pwbdcfxCWacQ6VES)** by **agelast222** *(frieza (ka33))*
+🎤 **[Maxi King](https://open.spotify.com/track/4L2pOra0PxKrWhrSHlvgEP)** by **Symba** *(Maxi King)*
+🎤 **[december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)** by **your favorite problem, grimheart** *(december (forever))*
+🎤 **[fleeting moment](https://open.spotify.com/track/7mufYrXSD7uIGfzrGljWhb)** by **misani** *(moonlit meadows)*
+🎤 **[Ich romantisiere Drogen](https://open.spotify.com/track/5f53Pdy4937QSXB3h5HJIA)** by **Punk Christ, Love Pact** *(NERVENKONSTRUKT)*
+🎤 **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 14:32:50Z UTC
+🕐 Last updated: 2025-08-26 14:49:43Z UTC
 <!-- SPOTIFY-END -->
