@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273995fdf50ccc970fed063d1f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735abd0f3ff2e38c5a73afbab6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Let It Be](https://open.spotify.com/track/6Vw6CPzyMdkJAnwpDtaHPs)**
-*by* **Gladys Knight & The Pips**
-*Album:* If I Were Your Woman
+**🎵 [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l)**
+*by* **The O'Jays**
+*Album:* Ship Ahoy (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="285" height="4" fill="#1db954" rx="2"/>
-    <circle cx="285" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:55 • 3:04
+    1:58 • 4:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
-🎤 **[Special Lady](https://open.spotify.com/track/1feLX66blOEJIO4Jtdst77)** by **Ray, Goodman & Brown** *(Ray, Goodman & Brown)*
-🎤 **[Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)** by **Mel & Tim** *(Stax Volt Chartbusters Vol 1)*
-🎤 **[Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b)** by **Diana Ross & The Supremes** *(Reflections (Expanded Edition))*
-🎤 **[I Believe You](https://open.spotify.com/track/3XcDvzZ0ruBkYplB15qkbA)** by **Dorothy Moore** *(Dorothy Moore)*
+🎤 **[Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
+🎤 **[The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp)** by **The Supremes** *(The Story Of The Supremes)*
+🎤 **[Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
+🎤 **[Walkin' In The Rain With The One I Love](https://open.spotify.com/track/4Ev3gucC4JAUbHJrHpY70w)** by **Love Unlimited** *(Best Of Love Unlimited)*
+🎤 **[Let It Be](https://open.spotify.com/track/6Vw6CPzyMdkJAnwpDtaHPs)** by **Gladys Knight & The Pips** *(If I Were Your Woman)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 16:52:51Z UTC
+🕐 Last updated: 2025-08-26 17:11:15Z UTC
 <!-- SPOTIFY-END -->
