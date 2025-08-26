@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7e995280c412caaf20d24ad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)**
-*by* **Crystal Castles**
-*Album:* Crystal Castles (II)
+**🎵 [pain in my brain](https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al)**
+*by* **makko**
+*Album:* Pass dich nie an, Pass auf dich auf
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="93" height="4" fill="#1db954" rx="2"/>
+    <circle cx="93" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 4:02
+    1:09 • 3:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
-🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
-🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Heartbroken](https://open.spotify.com/track/63YNi6mY0OICPsZVv6fIzY)** by **Nicki Papa** *(Kalte Liebe)*
+🎤 **[I built a fort](https://open.spotify.com/track/0GOhobC9juiVNIS0kWI1oR)** by **Mietze Conte** *(dreaming of your latte art)*
+🎤 **[herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
+🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
+🎤 **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 21:47:54Z UTC
+🕐 Last updated: 2025-08-26 22:11:41Z UTC
 <!-- SPOTIFY-END -->
