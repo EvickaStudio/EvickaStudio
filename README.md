@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27321092a950bcd0f2ee5cc6dc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273feedc1df2bbad518c45ab083" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)**
-*by* **Avery's Ambient**
-*Album:* Night Bloom
+**🎵 [Drifting Clouds](https://open.spotify.com/track/7wfH95WA75hMvKLhDWftHZ)**
+*by* **Soothing Oasis**
+*Album:* Ancient Stars
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 2:03
+    0:31 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Awakening Earth](https://open.spotify.com/track/79wtfcG1xP7nUKmzSKZrTM)** by **Avery's Ambient** *(Awakening Earth)*
-🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Blossom](https://open.spotify.com/track/1lL9jQw5zTSI2aVU3c8GFi)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Ethereal](https://open.spotify.com/track/6y3PVzoFQl1NGJjIhnfvuc)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Guided by the Light](https://open.spotify.com/track/1poTN3WfvyqdEORoUJOSCO)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Soft Glow](https://open.spotify.com/track/607OsVEKxjtdvEbh58Lprd)** by **Soothing Oasis** *(Evening)*
+🎤 **[Scent of Wildflowers](https://open.spotify.com/track/34AfNuN7HXugpMlPzOP0h3)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Beyond Words](https://open.spotify.com/track/5rSLGQvB02kyo3qy6dTOeP)** by **Avery's Ambient** *(Stillness)*
 
 
 
@@ -146,7 +146,7 @@
 🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
+🏅 [**Avery's Ambient**](https://open.spotify.com/artist/087yHuMGyFxaNbvfTXpNOI)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 01:00:25Z UTC
+🕐 Last updated: 2025-08-26 02:46:53Z UTC
 <!-- SPOTIFY-END -->
