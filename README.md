@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273433c397dffb821e6cf900994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a75b739a8b123591330888a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)**
-*by* **flywoah**
-*Album:* Digital Watch
+**🎵 [wanna go back](https://open.spotify.com/track/6FRX0d3fzz70Cgu0Btsm4f)**
+*by* **alleycat**
+*Album:* wanna go back
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 1:19
+    1:44 • 2:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Bleib wie du bist](https://open.spotify.com/track/2u89J9g0D0Pxp8EqmjAGoA)** by **ystn, Keigo, prttyblu** *(Bleib wie du bist)*
-🎤 **[feel better](https://open.spotify.com/track/4iho7mqUKoDWQmF1z0rg1n)** by **alleycat** *(feel better)*
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[WIMHOf](https://open.spotify.com/track/1xoK00RybgwoF22LQ93VK5)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
+🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 10:51:14Z UTC
+🕐 Last updated: 2025-08-26 11:11:48Z UTC
 <!-- SPOTIFY-END -->
