@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe5b3ba28817639c3c240e7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Trickster](https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490)**
-*by* **Eterna**
-*Album:* Debunker
+**🎵 [richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)**
+*by* **pink luu, Lytra, cxpyyy, luu**
+*Album:* 0800-111-0-111
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="58" height="4" fill="#1db954" rx="2"/>
+    <circle cx="58" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 3:41
+    0:32 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[hi(gher)](https://open.spotify.com/track/5HCtJ7jVYXmRCuTgv6u8EA)** by **Overpade** *(HYPNOTIK)*
+🎤 **[overthinking](https://open.spotify.com/track/1l2lCsATovsde7ZLeIpsUA)** by **Meko Kazi, Unaloon** *(overthinking)*
+🎤 **[Trickster](https://open.spotify.com/track/2iCw7tmpHVml1CG8S0n490)** by **Eterna** *(Debunker)*
 🎤 **[Blue Dream](https://open.spotify.com/track/52mQzUc5mN1zPEO6LYZ1Di)** by **Hype Williams** *(Find Out What Happens When People Stop Being Polite, And Start Gettin Reel)*
-🎤 **[not so simple](https://open.spotify.com/track/3MUrUyzqVKUaj8LqkFQBoe)** by **yuronono** *(not so simple)*
-🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
-🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 21:26:31Z UTC
+🕐 Last updated: 2025-08-26 21:36:03Z UTC
 <!-- SPOTIFY-END -->
