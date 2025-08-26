@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273feedc1df2bbad518c45ab083" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e0c6b41ebde22e619efdc46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Drifting Clouds](https://open.spotify.com/track/7wfH95WA75hMvKLhDWftHZ)**
+**🎵 [Closure](https://open.spotify.com/track/1MlrxpSNvLuFPl7vsMkiRw)**
 *by* **Soothing Oasis**
-*Album:* Ancient Stars
+*Album:* Breathing Forest
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="112" height="4" fill="#1db954" rx="2"/>
+    <circle cx="112" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:08
+    0:49 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ethereal](https://open.spotify.com/track/6y3PVzoFQl1NGJjIhnfvuc)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Guided by the Light](https://open.spotify.com/track/1poTN3WfvyqdEORoUJOSCO)** by **Soothing Oasis** *(Dream Realm)*
-🎤 **[Soft Glow](https://open.spotify.com/track/607OsVEKxjtdvEbh58Lprd)** by **Soothing Oasis** *(Evening)*
-🎤 **[Scent of Wildflowers](https://open.spotify.com/track/34AfNuN7HXugpMlPzOP0h3)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[Beyond Words](https://open.spotify.com/track/5rSLGQvB02kyo3qy6dTOeP)** by **Avery's Ambient** *(Stillness)*
+🎤 **[Through Tall Pines](https://open.spotify.com/track/7q8wG0sHwTep5HRuO36OgC)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Cosmic Sea](https://open.spotify.com/track/6fSojQY6sHl43tVpjxgDKD)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Spring](https://open.spotify.com/track/5xyv3uPMl5o4cUBlgmCRow)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Inner Calm](https://open.spotify.com/track/38LnUWouA4Rj5c3Kb9pznv)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Grateful](https://open.spotify.com/track/7zjxXjboS38hv9zptYBErt)** by **Avery's Ambient** *(A New Day)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 02:46:53Z UTC
+🕐 Last updated: 2025-08-26 03:37:32Z UTC
 <!-- SPOTIFY-END -->
