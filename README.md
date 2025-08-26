@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)**
+*by* **agelast222, gard**
+*Album:* SOLAR TACTICS
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:15 • 1:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Gently Drifting](https://open.spotify.com/track/7bEoB5EhTRrMWCYitjz9eU)** by **Soothing Oasis** *(Beneath the Sky)*
-🎤 **[Dancing Light](https://open.spotify.com/track/1eXjJVDq1lz7PXQSFCfqYz)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[Within](https://open.spotify.com/track/7yVt12DIy7G5SJTs04KQ34)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Lucid](https://open.spotify.com/track/0zZvsoQV3gEfOuCHf2OzxL)** by **Soothing Oasis** *(Dreaming)*
-🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 05:48:45Z UTC
+🕐 Last updated: 2025-08-26 06:19:29Z UTC
 <!-- SPOTIFY-END -->
