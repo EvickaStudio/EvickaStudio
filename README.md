@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7e995280c412caaf20d24ad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738a2f4fa13a72807a583bf753" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [pain in my brain](https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al)**
-*by* **makko**
-*Album:* Pass dich nie an, Pass auf dich auf
+**🎵 [heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)**
+*by* **SHEMYYY**
+*Album:* heart taker
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="93" height="4" fill="#1db954" rx="2"/>
-    <circle cx="93" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 3:42
+    2:02 • 2:21
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Heartbroken](https://open.spotify.com/track/63YNi6mY0OICPsZVv6fIzY)** by **Nicki Papa** *(Kalte Liebe)*
-🎤 **[I built a fort](https://open.spotify.com/track/0GOhobC9juiVNIS0kWI1oR)** by **Mietze Conte** *(dreaming of your latte art)*
-🎤 **[herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)*
+🎤 **[pretty](https://open.spotify.com/track/67lQwBDkefTkD2uBSJF93p)** by **vai5000** *(sensory.)*
+🎤 **[life is shitty](https://open.spotify.com/track/44AOXVPm88PRrAU5C7vYsf)** by **Xxcrush, Capoxxo** *(lifeeee)*
+🎤 **[confused obsessed](https://open.spotify.com/track/7FdIrZvAiOzivAgTdaL6zL)** by **jequya** *(confused obsessed)*
+🎤 **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 22:11:41Z UTC
+🕐 Last updated: 2025-08-26 22:30:59Z UTC
 <!-- SPOTIFY-END -->
