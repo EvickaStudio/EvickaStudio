@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738a2f4fa13a72807a583bf753" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273691e4be8a448ee8cbee162f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)**
-*by* **SHEMYYY**
-*Album:* heart taker
+**🎵 [Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)**
+*by* **makko**
+*Album:* Lieb mich oder lass es, Pt.1+2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 2:21
+    2:16 • 2:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pretty](https://open.spotify.com/track/67lQwBDkefTkD2uBSJF93p)** by **vai5000** *(sensory.)*
-🎤 **[life is shitty](https://open.spotify.com/track/44AOXVPm88PRrAU5C7vYsf)** by **Xxcrush, Capoxxo** *(lifeeee)*
-🎤 **[confused obsessed](https://open.spotify.com/track/7FdIrZvAiOzivAgTdaL6zL)** by **jequya** *(confused obsessed)*
-🎤 **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
+🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
+🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
+🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
+🎤 **[gore](https://open.spotify.com/track/4HctrcdHYxakHotOkc5Qcd)** by **Perto** *(bozo)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 22:30:59Z UTC
+🕐 Last updated: 2025-08-26 22:47:53Z UTC
 <!-- SPOTIFY-END -->
