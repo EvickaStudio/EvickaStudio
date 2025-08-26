@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739d16c594a794266454359de0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27330b65ee542f6705534b00713" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [If You Don't Know Me by Now (feat. Teddy Pendergrass)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN)**
-*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
-*Album:* Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)
+**🎵 [Uptight Good Man](https://open.spotify.com/track/6TtOSqIAR2S5Tpb0QyEuSu)**
+*by* **Laura Lee**
+*Album:* Love More Than Pride
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 3:25
+    1:44 • 2:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Reunion](https://open.spotify.com/track/3JzEnupgxktBtUU8jtws5b)** by **Korea Girl** *(The Complete Discography)*
-🎤 **[When I Need You](https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk)** by **Leo Sayer** *(Endless Flight)*
-🎤 **[It's Summer](https://open.spotify.com/track/1wXV1nHOUn6AqhVm5OWtd9)** by **Gladys Knight & The Pips** *(Nitty Gritty)*
-🎤 **[What Does It Take (To Win Your Love)](https://open.spotify.com/track/0RiZIzLmDd7a8pUzcOJOeY)** by **Jr. Walker & The All Stars** *(Gotta Hold On To This Feeling / What Does It Take To Win Your Love)*
-🎤 **[You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp)** by **Raydio** *(Rock On)*
+🎤 **[Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4)** by **Patti Austin** *(Every Home Should Have One)*
+🎤 **[Warm and Tender Love - Single Version](https://open.spotify.com/track/3AcmG9xPYVeir8E6StWIQO)** by **Percy Sledge** *(Warm & Tender Soul)*
+🎤 **[One of a Kind (Love Affair)](https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop)** by **The Spinners** *(Spinners)*
+🎤 **[Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh)** by **Gregory Abbott** *(Shake You Down (Expanded Edition))*
+🎤 **[Sail On](https://open.spotify.com/track/2QglMIKYxa06BFSXG6KwvC)** by **Commodores** *(Midnight Magic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 17:49:03Z UTC
+🕐 Last updated: 2025-08-26 18:17:26Z UTC
 <!-- SPOTIFY-END -->
