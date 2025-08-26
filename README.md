@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273691e4be8a448ee8cbee162f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27324ca23e6c638e0b898d22883" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)**
-*by* **makko**
-*Album:* Lieb mich oder lass es, Pt.1+2
+**🎵 [dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)**
+*by* **adore**
+*Album:* dancing while the world burns
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:54
+    1:14 • 2:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
-🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
-🎤 **[gore](https://open.spotify.com/track/4HctrcdHYxakHotOkc5Qcd)** by **Perto** *(bozo)*
+🎤 **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)*
+🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
+🎤 **[Cutecumber](https://open.spotify.com/track/3rpTQzfefLFkr6MI2rxOtj)** by **BEA1991** *(Cutecumber)*
+🎤 **[Topasblau](https://open.spotify.com/track/4etNF213j7j3NTjgnTwehL)** by **Rosenrausch** *(Topasblau)*
+🎤 **[Back From Eternity](https://open.spotify.com/track/5VzTlPziBb0Qia49rOgnDE)** by **Alaska, Seba** *(Back From Eternity)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 22:47:53Z UTC
+🕐 Last updated: 2025-08-26 23:11:04Z UTC
 <!-- SPOTIFY-END -->
