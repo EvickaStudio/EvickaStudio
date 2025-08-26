@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9c903069dab033b532c4f7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360c45a1792b3096cf7556132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Where Peaceful Waters Flow](https://open.spotify.com/track/171QpKcPDUCJCzooUdRlSd)**
-*by* **Gladys Knight & The Pips**
-*Album:* Imagination (Expanded Edition)
+**🎵 [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)**
+*by* **Mel & Tim**
+*Album:* Stax Volt Chartbusters Vol 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 4:25
+    1:35 • 3:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[SCHOCK FÜR ELTERN!](https://open.spotify.com/track/3QUIz7suxdlKU6h9xH6Hlf)** by **Skepsiz** *(PUNK PARADOX!)*
-🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[umm idk why!!](https://open.spotify.com/track/4uQ6j3hp2XGjKfhCTVmauo)** by **ilymeow, NXTY** *(umm idk why!!)*
+🎤 **[Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b)** by **Diana Ross & The Supremes** *(Reflections (Expanded Edition))*
+🎤 **[I Believe You](https://open.spotify.com/track/3XcDvzZ0ruBkYplB15qkbA)** by **Dorothy Moore** *(Dorothy Moore)*
+🎤 **[Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS)** by **The Spinners** *(Spinners)*
+🎤 **[Use Ta Be My Girl](https://open.spotify.com/track/5K3aLetDYAPtX1q0PTR1a5)** by **The O'Jays** *(So Full Of Love)*
+🎤 **[Bring The Boys Home](https://open.spotify.com/track/0eTHDwSe6gbZcRMLnsfSa4)** by **Freda Payne** *(Contact)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 16:15:06Z UTC
+🕐 Last updated: 2025-08-26 16:39:25Z UTC
 <!-- SPOTIFY-END -->
