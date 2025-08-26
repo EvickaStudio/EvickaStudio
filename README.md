@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360c45a1792b3096cf7556132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273995fdf50ccc970fed063d1f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)**
-*by* **Mel & Tim**
-*Album:* Stax Volt Chartbusters Vol 1
+**🎵 [Let It Be](https://open.spotify.com/track/6Vw6CPzyMdkJAnwpDtaHPs)**
+*by* **Gladys Knight & The Pips**
+*Album:* If I Were Your Woman
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="124" height="4" fill="#1db954" rx="2"/>
-    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+    <rect width="285" height="4" fill="#1db954" rx="2"/>
+    <circle cx="285" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 3:50
+    2:55 • 3:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
+🎤 **[Special Lady](https://open.spotify.com/track/1feLX66blOEJIO4Jtdst77)** by **Ray, Goodman & Brown** *(Ray, Goodman & Brown)*
+🎤 **[Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)** by **Mel & Tim** *(Stax Volt Chartbusters Vol 1)*
 🎤 **[Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b)** by **Diana Ross & The Supremes** *(Reflections (Expanded Edition))*
 🎤 **[I Believe You](https://open.spotify.com/track/3XcDvzZ0ruBkYplB15qkbA)** by **Dorothy Moore** *(Dorothy Moore)*
-🎤 **[Ghetto Child](https://open.spotify.com/track/3qmyaJxqKaGkAioK3lEnFS)** by **The Spinners** *(Spinners)*
-🎤 **[Use Ta Be My Girl](https://open.spotify.com/track/5K3aLetDYAPtX1q0PTR1a5)** by **The O'Jays** *(So Full Of Love)*
-🎤 **[Bring The Boys Home](https://open.spotify.com/track/0eTHDwSe6gbZcRMLnsfSa4)** by **Freda Payne** *(Contact)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 16:39:25Z UTC
+🕐 Last updated: 2025-08-26 16:52:51Z UTC
 <!-- SPOTIFY-END -->
