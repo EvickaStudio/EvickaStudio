@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733c1fd4bfaf1026ad6209de21" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bb1e5d97567df7eba17e7953" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mein herz](https://open.spotify.com/track/6SnoQM36RDqpUcUud84wi3)**
-*by* **mundus, pink luu**
-*Album:* mein herz
+**🎵 [crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)**
+*by* **mint**
+*Album:* crystal clear
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="160" height="4" fill="#1db954" rx="2"/>
+    <circle cx="160" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 2:12
+    0:59 • 1:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
-🎤 **[f r e u n d e](https://open.spotify.com/track/1PSZiT7jPBmnoXG5AZmL7y)** by **stixz** *(f r e u n d e)*
-🎤 **[Pretty Kitty](https://open.spotify.com/track/1Le6YkUBlGu4VNh6zkd5yy)** by **ystn** *(Pretty Kitty)*
-🎤 **[blue](https://open.spotify.com/track/7J8N9pMGzFKwqLWmx1As4b)** by **flywoah** *(blue)*
-🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
+🎤 **[Tanz mit mir](https://open.spotify.com/track/1IDmVoif1bx16CJDlwViIr)** by **pink luu, cxpyyy, luu** *(Tanz mit mir)*
+🎤 **[mind bug](https://open.spotify.com/track/00cAuqGxurEFiWDhvrWV8S)** by **flywoah** *(mind bug)*
+🎤 **[2004](https://open.spotify.com/track/2mLB3j3rYIkrQ1eUAxeSg7)** by **cholorofilm, snor** *(2004)*
+🎤 **[CRESTFALLEN](https://open.spotify.com/track/6IBzfBPF8PbUMdAEXGcI47)** by **syverina** *(CRESTFALLEN)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
 
 
 
@@ -146,7 +146,7 @@
 🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
-🏅 [**Avery's Ambient**](https://open.spotify.com/artist/087yHuMGyFxaNbvfTXpNOI)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 10:13:36Z UTC
+🕐 Last updated: 2025-08-26 10:37:09Z UTC
 <!-- SPOTIFY-END -->
