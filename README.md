@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27321092a950bcd0f2ee5cc6dc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sleeping City](https://open.spotify.com/track/1AsfeQfofQlkyyWrgB6eDI)**
-*by* **Soothing Oasis**
-*Album:* Gently Sleeping
+**🎵 [Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)**
+*by* **Avery's Ambient**
+*Album:* Night Bloom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:10
+    1:48 • 2:03
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[Anti-Anxiety](https://open.spotify.com/track/5Krcof4pwOCUDYUgaDn1Nn)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[Light](https://open.spotify.com/track/4tNCoVahnWCS4nNdKrhiSd)** by **Soothing Oasis** *(At Peace)*
-🎤 **[Peace](https://open.spotify.com/track/6WjfIRK2wnzKh2IzfQlgcE)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Together With You](https://open.spotify.com/track/4DkZ6zYeshWSTn5zFD6E54)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Awakening Earth](https://open.spotify.com/track/79wtfcG1xP7nUKmzSKZrTM)** by **Avery's Ambient** *(Awakening Earth)*
+🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Blossom](https://open.spotify.com/track/1lL9jQw5zTSI2aVU3c8GFi)** by **Avery's Ambient** *(Night Bloom)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🥈 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🥉 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🥇 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
+🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🏅 [**Saiya Tiaw**](https://open.spotify.com/artist/59p191nMLthshvixS3w3x3)
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-25 23:47:35Z UTC
+🕐 Last updated: 2025-08-26 01:00:25Z UTC
 <!-- SPOTIFY-END -->
