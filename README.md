@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6baa3dfd144bfeb237fc55a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Velvet](https://open.spotify.com/track/5ve92gLYGAgRLQCFTlQ67I)**
+**🎵 [Drifting Leaves](https://open.spotify.com/track/1G4jILZWiClmzAe8QUV7k0)**
 *by* **Soothing Oasis**
-*Album:* Beneath the Sky
+*Album:* Riverside
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="123" height="4" fill="#1db954" rx="2"/>
-    <circle cx="123" cy="2" r="6" fill="#1db954"/>
+    <rect width="27" height="4" fill="#1db954" rx="2"/>
+    <circle cx="27" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:06
+    0:12 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Soft](https://open.spotify.com/track/3zpnEiG0RdCUeFPKN4p2jK)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Peace of Mind](https://open.spotify.com/track/4sjiDNmvb0l63hvsHkOSZz)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[Calming River](https://open.spotify.com/track/26udEXUy0ArsKgMbHUIote)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Fireflies](https://open.spotify.com/track/4bHTomW4rMmqeoTFbMgGJC)** by **Soothing Oasis** *(Breathing Forest)*
-🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Drifting Petals](https://open.spotify.com/track/2PGNEXdAX0dWyPZ7CFkQF1)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Night Breeze](https://open.spotify.com/track/7i7WGaF9qTWs70HJyLNybu)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[Slumbering Earth](https://open.spotify.com/track/24YU2XDJjxtIWigSC5KDdW)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[Silent Castle](https://open.spotify.com/track/5el66REwlXnbOLZNy9BagT)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Peeking Through](https://open.spotify.com/track/2pS316eadABbkZZIhERQbE)** by **Avery's Ambient** *(Awakening Earth)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 04:23:29Z UTC
+🕐 Last updated: 2025-08-26 04:42:19Z UTC
 <!-- SPOTIFY-END -->
