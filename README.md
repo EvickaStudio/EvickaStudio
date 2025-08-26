@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27397cf237718d91b53d70a878a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp)**
-*by* **Raydio**
-*Album:* Rock On
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 3:23
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[It's Summer](https://open.spotify.com/track/1wXV1nHOUn6AqhVm5OWtd9)** by **Gladys Knight & The Pips** *(Nitty Gritty)*
+🎤 **[What Does It Take (To Win Your Love)](https://open.spotify.com/track/0RiZIzLmDd7a8pUzcOJOeY)** by **Jr. Walker & The All Stars** *(Gotta Hold On To This Feeling / What Does It Take To Win Your Love)*
+🎤 **[You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp)** by **Raydio** *(Rock On)*
 🎤 **[Too Much, Too Little, Too Late (with Deniece Williams)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm)** by **Johnny Mathis, Deniece Williams** *(The Essential Johnny Mathis 3.0)*
 🎤 **[Everything's Tuesday](https://open.spotify.com/track/4hAQIghWkXpm4SkJ3c9K6e)** by **Chairmen Of The Board** *(In Session)*
-🎤 **[How 'Bout Us](https://open.spotify.com/track/1jc24HfkDT31GLKlxesuZl)** by **Champaign** *(How 'Bout Us (Expanded Edition))*
-🎤 **[Funny How Time Slips Away](https://open.spotify.com/track/4EmDfJApR28fMkhXZw6bKD)** by **Dorothy Moore** *(Misty Blue)*
-🎤 **[Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l)** by **The O'Jays** *(Ship Ahoy (Expanded Edition))*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 17:29:57Z UTC
+🕐 Last updated: 2025-08-26 17:41:46Z UTC
 <!-- SPOTIFY-END -->
