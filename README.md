@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c9db16ae22c1007ea825f00" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6baa3dfd144bfeb237fc55a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Peace Awaits](https://open.spotify.com/track/0ZwwtW7XpdvLN7lsTVZ4Qk)**
+**🎵 [Velvet](https://open.spotify.com/track/5ve92gLYGAgRLQCFTlQ67I)**
 *by* **Soothing Oasis**
-*Album:* Earth at Rest
+*Album:* Beneath the Sky
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="285" height="4" fill="#1db954" rx="2"/>
-    <circle cx="285" cy="2" r="6" fill="#1db954"/>
+    <rect width="123" height="4" fill="#1db954" rx="2"/>
+    <circle cx="123" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:04
+    0:52 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Above the Treetops](https://open.spotify.com/track/53jPZyZVq2K7elZfvi2n8v)** by **Soothing Oasis** *(Weightless)*
-🎤 **[Zen](https://open.spotify.com/track/00w36KjjTPvpO9zb4CuIHo)** by **Avery's Ambient** *(A New Day)*
-🎤 **[Guiding Stars](https://open.spotify.com/track/5Tl659lAl8eS8zQYSnsqNt)** by **Soothing Oasis** *(Sleep Well)*
-🎤 **[Thoughts Fade Away](https://open.spotify.com/track/7r6hvssnFfdCuydPrBOzOe)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Peeking Through](https://open.spotify.com/track/2pS316eadABbkZZIhERQbE)** by **Avery's Ambient** *(Awakening Earth)*
+🎤 **[Soft](https://open.spotify.com/track/3zpnEiG0RdCUeFPKN4p2jK)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Peace of Mind](https://open.spotify.com/track/4sjiDNmvb0l63hvsHkOSZz)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[Calming River](https://open.spotify.com/track/26udEXUy0ArsKgMbHUIote)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Fireflies](https://open.spotify.com/track/4bHTomW4rMmqeoTFbMgGJC)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 03:58:25Z UTC
+🕐 Last updated: 2025-08-26 04:23:29Z UTC
 <!-- SPOTIFY-END -->
