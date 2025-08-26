@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aac8f690eb8be4edaf21ef6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rising Mist](https://open.spotify.com/track/1k6CZJQYsbIsWi9VTkzETC)**
-*by* **Avery's Ambient**
-*Album:* Awakening Earth
+**🎵 [Stillness](https://open.spotify.com/track/6Lv5SfOMw1l5TVOgmFuKiD)**
+*by* **Soothing Oasis**
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 2:12
+    0:45 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lagoon](https://open.spotify.com/track/4FDHuQB4DzHJVuM165Rjuf)** by **Avery's Ambient** *(In the Distance)*
-🎤 **[Closed Eyes](https://open.spotify.com/track/3byiUKyWI11f6fzB4Gp9HC)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Vision](https://open.spotify.com/track/1907SqFd2xCqmYdkjGWLQS)** by **Soothing Oasis** *(Dreaming)*
-🎤 **[Drifting Leaves](https://open.spotify.com/track/1G4jILZWiClmzAe8QUV7k0)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Pinnacle](https://open.spotify.com/track/1fWizHrEOFRvEdNg6OnR41)** by **Soothing Oasis** *(Moments)*
+🎤 **[Starry Night](https://open.spotify.com/track/2T1fBnZtCo5Ael8D3WLW9a)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Soft Currents](https://open.spotify.com/track/0gRouemDHMZ5jJ59IyqxEv)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Starling's Song](https://open.spotify.com/track/1dJJkUvWa4JCgdpoURkWau)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 04:52:37Z UTC
+🕐 Last updated: 2025-08-26 05:13:21Z UTC
 <!-- SPOTIFY-END -->
