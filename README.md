@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27317bba24a6a15d128714fe2c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f9c903069dab033b532c4f7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)**
-*by* **bliiiss**
-*Album:* when u called
+**🎵 [Where Peaceful Waters Flow](https://open.spotify.com/track/171QpKcPDUCJCzooUdRlSd)**
+*by* **Gladys Knight & The Pips**
+*Album:* Imagination (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:40
+    2:14 • 4:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[slender](https://open.spotify.com/track/1z3V23U3fAXP24ApB8WX5C)** by **cholorofilm** *(slender)*
-🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
-🎤 **[heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)** by **ilymeow** *(heal!!)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[SCHOCK FÜR ELTERN!](https://open.spotify.com/track/3QUIz7suxdlKU6h9xH6Hlf)** by **Skepsiz** *(PUNK PARADOX!)*
+🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[umm idk why!!](https://open.spotify.com/track/4uQ6j3hp2XGjKfhCTVmauo)** by **ilymeow, NXTY** *(umm idk why!!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 15:48:08Z UTC
+🕐 Last updated: 2025-08-26 16:15:06Z UTC
 <!-- SPOTIFY-END -->
