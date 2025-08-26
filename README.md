@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af482073f8ff5c5b8d850581" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c980304baf80180db86e9913" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)**
-*by* **Nokia Angel**
-*Album:* In My Head
+**🎵 [kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)**
+*by* **cholorofilm, snor**
+*Album:* kill me pls
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 3:33
+    0:53 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[-suffocation-](https://open.spotify.com/track/5DQACbk3KcHGjwuzuldg9g)** by **LooveX, DecayingAnyways** *(-suffocation-)*
+🎤 **[222](https://open.spotify.com/track/7otfHmW81sUnjFgM9OWfeE)** by **syverina** *(222)*
+🎤 **[100K](https://open.spotify.com/track/3qlMN30d8lAYXbuPyRYCw1)** by **Aachen Demon, mikeycyrus** *(D2SQUIRT)*
+🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
 🎤 **[glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)** by **luu, cxpyyy** *(glitzeraugen)*
-🎤 **[my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)** by **cholorofilm** *(my heart :()*
-🎤 **[pink windows](https://open.spotify.com/track/6wBNfzPSQOdN9bM5U45odC)** by **thiocodin** *(pink windows)*
-🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
-🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 13:42:16Z UTC
+🕐 Last updated: 2025-08-26 13:52:34Z UTC
 <!-- SPOTIFY-END -->
