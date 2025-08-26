@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
+🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
 🎤 **[Castles In The Sky](https://open.spotify.com/track/5YAIP13W40uVTxaizvvhjL)** by **alleycat** *(Castles In The Sky)*
 🎤 **[iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)** by **Rezlaine, rylorie** *(iiiistillthinkineeduu)*
 🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
-🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
-🎤 **[tabiy0ka](https://open.spotify.com/track/25i9bRcjb57SURItjHgiBA)** by **Iuvumi** *(tabiy0ka)*
 
 
 
@@ -126,8 +126,8 @@
 🥇 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🥈 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🥉 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 11:27:14Z UTC
+🕐 Last updated: 2025-08-26 11:37:47Z UTC
 <!-- SPOTIFY-END -->
