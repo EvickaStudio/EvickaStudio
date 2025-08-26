@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bb1e5d97567df7eba17e7953" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273433c397dffb821e6cf900994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)**
-*by* **mint**
-*Album:* crystal clear
+**🎵 [Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)**
+*by* **flywoah**
+*Album:* Digital Watch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="160" height="4" fill="#1db954" rx="2"/>
-    <circle cx="160" cy="2" r="6" fill="#1db954"/>
+    <rect width="207" height="4" fill="#1db954" rx="2"/>
+    <circle cx="207" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 1:51
+    0:54 • 1:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tanz mit mir](https://open.spotify.com/track/1IDmVoif1bx16CJDlwViIr)** by **pink luu, cxpyyy, luu** *(Tanz mit mir)*
-🎤 **[mind bug](https://open.spotify.com/track/00cAuqGxurEFiWDhvrWV8S)** by **flywoah** *(mind bug)*
-🎤 **[2004](https://open.spotify.com/track/2mLB3j3rYIkrQ1eUAxeSg7)** by **cholorofilm, snor** *(2004)*
-🎤 **[CRESTFALLEN](https://open.spotify.com/track/6IBzfBPF8PbUMdAEXGcI47)** by **syverina** *(CRESTFALLEN)*
-🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Bleib wie du bist](https://open.spotify.com/track/2u89J9g0D0Pxp8EqmjAGoA)** by **ystn, Keigo, prttyblu** *(Bleib wie du bist)*
+🎤 **[feel better](https://open.spotify.com/track/4iho7mqUKoDWQmF1z0rg1n)** by **alleycat** *(feel better)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 10:37:09Z UTC
+🕐 Last updated: 2025-08-26 10:51:14Z UTC
 <!-- SPOTIFY-END -->
