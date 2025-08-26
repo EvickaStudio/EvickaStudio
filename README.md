@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27332140dac935b95f7e4628a7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a7935e8af93f3927f2ac0053" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wake Up Everybody (feat. Teddy Pendergrass)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S)**
-*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
-*Album:* Wake Up Everybody (feat. Teddy Pendergrass)
+**🎵 [lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)**
+*by* **pink luu, Kroka Koka, xtatus**
+*Album:* lieblingspferd
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="3" height="4" fill="#1db954" rx="2"/>
-    <circle cx="3" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 7:32
+    1:31 • 1:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[Wake Up Everybody (feat. Teddy Pendergrass)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Wake Up Everybody (feat. Teddy Pendergrass))*
 🎤 **[Bad Luck - Rerecorded](https://open.spotify.com/track/7wKuZTgm7eFq0JKW7k51Hs)** by **Harold Melvin & The Blue Notes** *(Reddy vs. Melvin & The Blue Notes)*
 🎤 **[You Know How to Make Me Feel so Good (feat. Sharon Paige)](https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5)** by **Harold Melvin & The Blue Notes, Sharon Paige** *(Wake Up Everybody (feat. Teddy Pendergrass))*
-🎤 **[Rainy Night in Georgia](https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7)** by **Brook Benton** *(Brook Benton Today)*
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
-🎤 **[The Way We Were / Try to Remember - Single Version](https://open.spotify.com/track/1Pz39jyfPKGY3z9HZJmrHj)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 19:09:23Z UTC
+🕐 Last updated: 2025-08-26 19:22:51Z UTC
 <!-- SPOTIFY-END -->
