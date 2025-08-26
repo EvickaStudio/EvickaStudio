@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27330b65ee542f6705534b00713" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1ee5b33c36b9fb361b682c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Uptight Good Man](https://open.spotify.com/track/6TtOSqIAR2S5Tpb0QyEuSu)**
-*by* **Laura Lee**
-*Album:* Love More Than Pride
+**🎵 [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR)**
+*by* **Raydio**
+*Album:* Raydio
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:47
+    4:01 • 4:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4)** by **Patti Austin** *(Every Home Should Have One)*
-🎤 **[Warm and Tender Love - Single Version](https://open.spotify.com/track/3AcmG9xPYVeir8E6StWIQO)** by **Percy Sledge** *(Warm & Tender Soul)*
-🎤 **[One of a Kind (Love Affair)](https://open.spotify.com/track/3LV2CK8sJiYjg1bV1aHQop)** by **The Spinners** *(Spinners)*
-🎤 **[Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh)** by **Gregory Abbott** *(Shake You Down (Expanded Edition))*
-🎤 **[Sail On](https://open.spotify.com/track/2QglMIKYxa06BFSXG6KwvC)** by **Commodores** *(Midnight Magic)*
+🎤 **[Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)** by **Commodores** *(Natural High)*
+🎤 **[Home Is Where the Heart Is](https://open.spotify.com/track/6YuHSZn9WcRSNv9T5xVHsJ)** by **Gladys Knight & The Pips** *(The Apollo Original Motion Picture Soundtrack)*
+🎤 **[Cry Baby](https://open.spotify.com/track/5G0yErsdIKfplod526gygr)** by **Garnet Mimms & The Enchanters** *(Cry Baby)*
+🎤 **[Love Finds Its Own Way](https://open.spotify.com/track/751iqUFTzPOdYQZq9Apeel)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-26 18:17:26Z UTC
+🕐 Last updated: 2025-08-26 18:45:43Z UTC
 <!-- SPOTIFY-END -->
