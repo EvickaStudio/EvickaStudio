@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d033e7b88407b75987e9f2d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b80e04e6240095cbd5641bc1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)**
-*by* **5v**
-*Album:* do it ##right
+**🎵 [Sequence](https://open.spotify.com/track/4PasUb74PQ4N6HOxtaIqZm)**
+*by* **Capoxxo, mayh3mp**
+*Album:* Sequence
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:13
+    2:17 • 2:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bbyimweird2](https://open.spotify.com/track/1Olfq6iPsAAgvAGnOdcuPt)** by **Capoxxo** *(Bbyimweird2)*
-🎤 **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by **dreamcache** *(esc)*
-🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
-🎤 **[better yet](https://open.spotify.com/track/5Rwr5zCK3YRYsYcMWk1zM7)** by **Mezha** *(better yet)*
-🎤 **[Best of Me](https://open.spotify.com/track/3O2MFqBHESlQ9qmTwoEN12)** by **Lil Witchy** *(NEW WORLD ONLINE)*
+🎤 **[i cannot let go](https://open.spotify.com/track/3U9Qh0YEavYMonacI6zSL8)** by **crusey2, prkr blu, pika** *(deleted songs)*
+🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
+🎤 **[Resent Undying](https://open.spotify.com/track/0AgMFsLizyG7mdyG1MMHtF)** by **heffy** *(Dolly Mithril)*
+🎤 **[Waste](https://open.spotify.com/track/2ofArIiQf7MQV68BPCW2Z1)** by **nomu.** *(Waste)*
+🎤 **[all i kno](https://open.spotify.com/track/0NfI1TXgvP3Yj9XDu7SEM6)** by **bliiiss, Capoxxo** *(all i kno)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 13:02:17Z UTC
+🕐 Last updated: 2025-08-27 13:36:44Z UTC
 <!-- SPOTIFY-END -->
