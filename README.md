@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27375eb693d828038b9ba853d92" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f00b6026d6d37a2f02a2a494" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hounds](https://open.spotify.com/track/34jgjZtcChwi3hWsgyTyJX)**
-*by* **Fijimar**
-*Album:* hounds
+**🎵 [tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)**
+*by* **lustr**
+*Album:* tell me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="204" height="4" fill="#1db954" rx="2"/>
+    <circle cx="204" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 1:31
+    1:24 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hospital Interlude](https://open.spotify.com/track/68ofuURz9SaYRvQP7pX8x3)** by **heffy** *(Sick Sad Obsession)*
-🎤 **[don't care!](https://open.spotify.com/track/0nlZskJ9eHbmkY21hN4JQD)** by **vai5000, SEBii** *(sensory.)*
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
-🎤 **[i miss the old times](https://open.spotify.com/track/0owSGAefVFWKpC8JQcSzJ1)** by **Capoxxo** *(i miss the old times)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
+🎤 **[beepboop](https://open.spotify.com/track/5JpHKMhPhzHlxYZzcPlvNB)** by **bliiiss, Capoxxo** *(beepboop)*
+🎤 **[I'm awkward and i hate this](https://open.spotify.com/track/7GrcKtgahB8SBy6bz752MV)** by **Capoxxo** *(I'm awkward and i hate this)*
+🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
+🎤 **[arteries](https://open.spotify.com/track/3BLhOEe4PhKwEp0mB3RvQR)** by **Senses** *(arteries)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 14:49:16Z UTC
+🕐 Last updated: 2025-08-27 15:13:13Z UTC
 <!-- SPOTIFY-END -->
