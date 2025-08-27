@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273639dbbe3fe58395b9863b195" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27391f246a70225b67017bcaea6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)**
-*by* **bliiiss**
-*Album:* melancholy
+**🎵 [red dot](https://open.spotify.com/track/09nrjdfCjkqQLY6hkBHvv0)**
+*by* **Senses**
+*Album:* red dot
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+    <rect width="200" height="4" fill="#1db954" rx="2"/>
+    <circle cx="200" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 2:27
+    1:51 • 2:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wanna hook up](https://open.spotify.com/track/0GugHqvR98xDd8taCb5E5E)** by **skypebf, SUICIDAL-IDOL, RudeClub** *(wanna hook up)*
-🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
-🎤 **[Let u go](https://open.spotify.com/track/6bJaQeXhH5jSc8vEunXBGU)** by **Nomark** *(Let u go)*
-🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[one](https://open.spotify.com/track/3dSsQrv4DJBrufKRIdt44N)** by **ccareful, Capoxxo** *(one)*
+🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 11:34:06Z UTC
+🕐 Last updated: 2025-08-27 11:47:50Z UTC
 <!-- SPOTIFY-END -->
