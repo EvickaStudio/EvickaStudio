@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b457bb4f0155fa5bc2194735" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d033e7b88407b75987e9f2d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i dnt wna c u gone](https://open.spotify.com/track/0lZMVzxibmbN7nE0yf8g4L)**
-*by* **Mezha**
-*Album:* i dnt wna c u gone
+**🎵 [do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)**
+*by* **5v**
+*Album:* do it ##right
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+    <rect width="269" height="4" fill="#1db954" rx="2"/>
+    <circle cx="269" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 2:32
+    2:00 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[HEARTLESS](https://open.spotify.com/track/5icrlzFtv8EjrR4ICFyHdj)** by **heffy** *(HEARTLESS)*
-🎤 **[lichter](https://open.spotify.com/track/1XirZNhWH46wH60TL2tSnb)** by **ilyproxy, Hadesthegrim** *(lichter)*
-🎤 **[R U Down?](https://open.spotify.com/track/2zPJ8LFi0I2ltvtibtn5L2)** by **RudeClub** *(R U Down?)*
-🎤 **[Cold Touch](https://open.spotify.com/track/50oOZ5Tpj0Hy0M6LCzwrh3)** by **Bayymack** *(Cold Touch)*
-🎤 **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)*
+🎤 **[Bbyimweird2](https://open.spotify.com/track/1Olfq6iPsAAgvAGnOdcuPt)** by **Capoxxo** *(Bbyimweird2)*
+🎤 **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by **dreamcache** *(esc)*
+🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
+🎤 **[better yet](https://open.spotify.com/track/5Rwr5zCK3YRYsYcMWk1zM7)** by **Mezha** *(better yet)*
+🎤 **[Best of Me](https://open.spotify.com/track/3O2MFqBHESlQ9qmTwoEN12)** by **Lil Witchy** *(NEW WORLD ONLINE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 12:24:58Z UTC
+🕐 Last updated: 2025-08-27 13:02:17Z UTC
 <!-- SPOTIFY-END -->
