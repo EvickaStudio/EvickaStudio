@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27313e395a3664bb7238e8f3280" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273639dbbe3fe58395b9863b195" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)**
-*by* **RudeClub**
-*Album:* Heart Racer
+**🎵 [melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)**
+*by* **bliiiss**
+*Album:* melancholy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 2:57
+    2:19 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[wanna hook up](https://open.spotify.com/track/0GugHqvR98xDd8taCb5E5E)** by **skypebf, SUICIDAL-IDOL, RudeClub** *(wanna hook up)*
+🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
+🎤 **[Let u go](https://open.spotify.com/track/6bJaQeXhH5jSc8vEunXBGU)** by **Nomark** *(Let u go)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
 🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
-🎤 **[OMGEE](https://open.spotify.com/track/4LckM97RPoHFFCkrz6qM9q)** by **Nightclub20xx, Capoxxo** *(OMGEE)*
-🎤 **[leaveme2fukitup *2020* *RARE*](https://open.spotify.com/track/3pNXcHdfBeGXivsO3KANxE)** by **ccareful, Capoxxo** *(leaveme2fukitup *2020* *RARE*)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 11:24:55Z UTC
+🕐 Last updated: 2025-08-27 11:34:06Z UTC
 <!-- SPOTIFY-END -->
