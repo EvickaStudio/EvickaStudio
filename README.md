@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a0b669c5273f36ffefcf1ebc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736cbb425b9a8b79b6977f95b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stompin' At The Savoy](https://open.spotify.com/track/5yfiGpBMq7sG5KudPjkL70)**
-*by* **Ella Fitzgerald, Louis Armstrong**
-*Album:* The Complete Ella And Louis On Verve
+**🎵 [floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)**
+*by* **Felix Bosques Harima**
+*Album:* floods (outro)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:47 • 5:16
+    1:16 • 1:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ)** by **The Velvet Underground, Nico** *(The Velvet Underground & Nico 45th Anniversary)*
-🎤 **[Coffee Breath](https://open.spotify.com/track/4jsVLYWHeoEt8UxxFWrWCH)** by **Sofia Mills** *(Coffee Breath)*
-🎤 **[Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S)** by **Norah Jones** *(Feels Like Home)*
-🎤 **['Tis Autumn](https://open.spotify.com/track/0OFzGWNvMR7qvRsD14dxIT)** by **Nat King Cole Trio** *(The Complete Capitol Recordings Of The Nat King Cole Trio)*
-🎤 **[Flower Power](https://open.spotify.com/track/4SE1kjgRulcwjNcc7oFFg4)** by **Greta Van Fleet** *(From The Fires)*
+🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Dinah](https://open.spotify.com/track/4QbLZGSCO3rjsL8LazkfDA)** by **Bing Crosby, The Mills Brothers** *(The Essential Bing Crosby (The Columbia Years))*
+🎤 **[Spooky](https://open.spotify.com/track/1683Q5FUEQ4fIG2f87MAW4)** by **Dusty Springfield** *(Music From The Motion Picture Lock, Stock And Two Smoking Barrels)*
+🎤 **[After Hours](https://open.spotify.com/track/6cA1usDL8nTHeSgFewQat3)** by **The Velvet Underground** *(The Velvet Underground (45th Anniversary))*
+🎤 **[White Sun](https://open.spotify.com/track/1xJLQoKNFFJckvdOMxZeUw)** by **The Doobie Brothers** *(Toulouse Street)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 06:46:06Z UTC
+🕐 Last updated: 2025-08-27 07:12:21Z UTC
 <!-- SPOTIFY-END -->
