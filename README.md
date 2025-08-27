@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369e1a5f1aefccef20e93d941" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737037dfed700b1e6f72ff762d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [insane](https://open.spotify.com/track/3z3870bIEXZvESsgoYQYCb)**
-*by* **bliiiss**
-*Album:* insane
+**🎵 [no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)**
+*by* **Senses, Nightclub20xx, ROAR**
+*Album:* no insight
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 2:48
+    0:30 • 2:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Are You the Real Thing](https://open.spotify.com/track/7F7VlpwQetY8Ls8KA86xHg)** by **Capoxxo** *(Are You the Real Thing)*
-🎤 **[don't need it](https://open.spotify.com/track/66FvpxrI4yYR1Rx0RnkZSP)** by **joss lockwood, boysinblush** *(don't need it)*
-🎤 **[victim](https://open.spotify.com/track/4qfGcjrg4MW3CYy5LU9RTn)** by **Senses** *(victim)*
-🎤 **[Ferment](https://open.spotify.com/track/3qTckRwLav8Lyukqx4w2iZ)** by **heffy** *(Ferment)*
-🎤 **[silent #evangelicy](https://open.spotify.com/track/3FzRWxUGzNkYLUhVDMxSc7)** by **hurtsucca, Mezha** *(silent #evangelicy)*
+🎤 **[Not Like You](https://open.spotify.com/track/6HM2gmAXoJgZnAkSxPDbrn)** by **heffy** *(Dolly Mithril)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
+🎤 **[Falling Apart](https://open.spotify.com/track/7wTVLHrdOnOuyoceE57o6p)** by **Capoxxo** *(This User Has Gone Offline)*
+🎤 **[12022021](https://open.spotify.com/track/5dpfKulC2MYCRiL8t6I3Vs)** by **joss lockwood, boysinblush** *(12022021)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 14:12:11Z UTC
+🕐 Last updated: 2025-08-27 14:32:45Z UTC
 <!-- SPOTIFY-END -->
