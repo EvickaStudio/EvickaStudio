@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27376091476f9e08c85888a135f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273886986b0aab4dfa9027364e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)**
-*by* **Somewhere Special**
-*Album:* Secret
+**🎵 [Blew My High >:](https://open.spotify.com/track/1B1b0aaSp1mfNwSv5S7U9s)**
+*by* **DJmegan23**
+*Album:* Trenches
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 3:41
+    2:22 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)** by **Brothel in Belize** *(envy)*
-🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
-🎤 **[kiss up](https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ)** by **damon r.** *(kiss up)*
-🎤 **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
-🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
+🎤 **[Dj girl (spin that sh**)](https://open.spotify.com/track/1fLehvCF9rVB1pJlPeiDzE)** by **Tommy Fleece** *(audio stars 2)*
+🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
+🎤 **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)*
+🎤 **[wolfgirl](https://open.spotify.com/track/3OJWP0TloJJcQXWRz5nZqI)** by **SHEMYYY** *(wolfgirl)*
+🎤 **[summer](https://open.spotify.com/track/7rZakQcep7Tqhrwb5U72ml)** by **damon r.** *(summer)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 15:48:17Z UTC
+🕐 Last updated: 2025-08-27 16:15:13Z UTC
 <!-- SPOTIFY-END -->
