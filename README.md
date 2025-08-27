@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736cbb425b9a8b79b6977f95b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d480987971cde389939c844" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)**
-*by* **Felix Bosques Harima**
-*Album:* floods (outro)
+**🎵 [Need 2 - slow pinegrove](https://open.spotify.com/track/3xcXCQsaghzdsOHCjv433g)**
+*by* **Pinegrove**
+*Album:* Need 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="37" height="4" fill="#1db954" rx="2"/>
+    <circle cx="37" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 1:50
+    0:29 • 3:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
-🎤 **[Dinah](https://open.spotify.com/track/4QbLZGSCO3rjsL8LazkfDA)** by **Bing Crosby, The Mills Brothers** *(The Essential Bing Crosby (The Columbia Years))*
-🎤 **[Spooky](https://open.spotify.com/track/1683Q5FUEQ4fIG2f87MAW4)** by **Dusty Springfield** *(Music From The Motion Picture Lock, Stock And Two Smoking Barrels)*
-🎤 **[After Hours](https://open.spotify.com/track/6cA1usDL8nTHeSgFewQat3)** by **The Velvet Underground** *(The Velvet Underground (45th Anniversary))*
-🎤 **[White Sun](https://open.spotify.com/track/1xJLQoKNFFJckvdOMxZeUw)** by **The Doobie Brothers** *(Toulouse Street)*
+🎤 **[can you tell?](https://open.spotify.com/track/38Y1BydPpwCEtW7LppLVTl)** by **Jane Remover** *(Frailty)*
+🎤 **[shawty](https://open.spotify.com/track/6QgD7oyjzzs25uihAcTjTS)** by **blombi19** *(shawty)*
+🎤 **[Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)** by **Cavetown** *(Animal Kingdom)*
+🎤 **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by **Dilla, emi x** *(Willst du)*
+🎤 **[floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)** by **Felix Bosques Harima** *(floods (outro))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 07:12:21Z UTC
+🕐 Last updated: 2025-08-27 07:27:38Z UTC
 <!-- SPOTIFY-END -->
