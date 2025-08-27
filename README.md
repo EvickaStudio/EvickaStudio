@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737037dfed700b1e6f72ff762d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27375eb693d828038b9ba853d92" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)**
-*by* **Senses, Nightclub20xx, ROAR**
-*Album:* no insight
+**🎵 [hounds](https://open.spotify.com/track/34jgjZtcChwi3hWsgyTyJX)**
+*by* **Fijimar**
+*Album:* hounds
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:22
+    0:14 • 1:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Not Like You](https://open.spotify.com/track/6HM2gmAXoJgZnAkSxPDbrn)** by **heffy** *(Dolly Mithril)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
-🎤 **[Falling Apart](https://open.spotify.com/track/7wTVLHrdOnOuyoceE57o6p)** by **Capoxxo** *(This User Has Gone Offline)*
-🎤 **[12022021](https://open.spotify.com/track/5dpfKulC2MYCRiL8t6I3Vs)** by **joss lockwood, boysinblush** *(12022021)*
+🎤 **[Hospital Interlude](https://open.spotify.com/track/68ofuURz9SaYRvQP7pX8x3)** by **heffy** *(Sick Sad Obsession)*
+🎤 **[don't care!](https://open.spotify.com/track/0nlZskJ9eHbmkY21hN4JQD)** by **vai5000, SEBii** *(sensory.)*
+🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
+🎤 **[i miss the old times](https://open.spotify.com/track/0owSGAefVFWKpC8JQcSzJ1)** by **Capoxxo** *(i miss the old times)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 14:32:45Z UTC
+🕐 Last updated: 2025-08-27 14:49:16Z UTC
 <!-- SPOTIFY-END -->
