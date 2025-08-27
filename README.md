@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c696b5a92b484a414a840a12" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f9ce6fa17a7f360a3a321a6a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Afterburner](https://open.spotify.com/track/1z0EbPhl9w8QMqZF63mlCd)**
-*by* **Yota Dora**
-*Album:* Afterburner
+**🎵 [Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)**
+*by* **hqwilli**
+*Album:* Country Boy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="5" height="4" fill="#1db954" rx="2"/>
-    <circle cx="5" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 1:37
+    0:19 • 1:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
-🎤 **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
 
 
-🕐 Last updated: 2025-08-27 17:10:42Z UTC
+🕐 Last updated: 2025-08-27 17:29:04Z UTC
 <!-- SPOTIFY-END -->
