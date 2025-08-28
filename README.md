@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7935e8af93f3927f2ac0053" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730381901d033549bbcdb850eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)**
-*by* **pink luu, Kroka Koka, xtatus**
-*Album:* lieblingspferd
+**🎵 [lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)**
+*by* **stixz**
+*Album:* lonely nights
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="290" height="4" fill="#1db954" rx="2"/>
-    <circle cx="290" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 1:43
+    2:01 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
 🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-28 11:34:23Z UTC
+🕐 Last updated: 2025-08-28 11:47:43Z UTC
 <!-- SPOTIFY-END -->
