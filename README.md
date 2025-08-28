@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fac7e02db331a41fc546eee1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
-*by* **blombi19, 2dizzy**
-*Album:* medikament
+**🎵 [blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)**
+*by* **luu, Skatey Hellstar**
+*Album:* blister
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="296" height="4" fill="#1db954" rx="2"/>
-    <circle cx="296" cy="2" r="6" fill="#1db954"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:21 • 3:23
+    1:05 • 1:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Afterburner](https://open.spotify.com/track/1z0EbPhl9w8QMqZF63mlCd)** by **Yota Dora** *(Afterburner)*
-🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
-🎤 **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-28 14:33:18Z UTC
+🕐 Last updated: 2025-08-28 14:50:18Z UTC
 <!-- SPOTIFY-END -->
