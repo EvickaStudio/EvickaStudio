@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe397eccaf7236021fd61463" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732254a16b1012bc72c301091d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)**
-*by* **Senses, Nightclub20xx**
-*Album:* fireproof
+**🎵 [air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)**
+*by* **dreamcache, Capoxxo**
+*Album:* alive
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:07
+    1:20 • 2:21
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
 🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
-🎤 **[DRIVE](https://open.spotify.com/track/5RcHn3xTFUBKgfQy3cehuG)** by **Virtual Memory** *(DRIVE)*
-🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
-🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
-🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-28 21:26:42Z UTC
+🕐 Last updated: 2025-08-28 21:35:45Z UTC
 <!-- SPOTIFY-END -->
