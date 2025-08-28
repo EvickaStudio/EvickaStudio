@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730381901d033549bbcdb850eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731d17b47343ff808de5ccc3e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)**
-*by* **stixz**
-*Album:* lonely nights
+**🎵 [ur touch](https://open.spotify.com/track/0HFaxxzW4Umby5k5FJkcj0)**
+*by* **joss lockwood**
+*Album:* ur touch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:03
+    1:16 • 1:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[Bunny](https://open.spotify.com/track/7FopCTc5OaK5HT7fMYzCAc)** by **Senses** *(Bunny)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[Gfuelinme](https://open.spotify.com/track/1GQFNLpugRwhggFITeI0Fs)** by **Capoxxo** *(Gfuelinme)*
+🎤 **[under my skin](https://open.spotify.com/track/3Ufv8Ev2HvoKFZZopHa1du)** by **Dylann** *(under my skin)*
+🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-28 11:47:43Z UTC
+🕐 Last updated: 2025-08-28 12:24:42Z UTC
 <!-- SPOTIFY-END -->
