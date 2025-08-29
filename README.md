@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd4182a624be720625a64ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353efcae6032fa520b0976dec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)**
-*by* **Senses, mint**
-*Album:* fairies have dreams too
+**🎵 [oxycodon](https://open.spotify.com/track/2AC3syM1KVpD8mgG6ACNa8)**
+*by* **strangerboi, luu, pink luu**
+*Album:* oxycodon
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 3:00
+    1:23 • 1:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[liar liar](https://open.spotify.com/track/4Gtz7Iw3JAiwQIGfqeUP56)** by **memorie** *(liar liar)*
+🎤 **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)*
+🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
 🎤 **[porcelain scars](https://open.spotify.com/track/2DSxe1Qs8TIX214s0CHmV4)** by **cholorofilm** *(porcelain scars)*
 🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
-🎤 **[throwing up](https://open.spotify.com/track/63BLSQ9YlKVJ0S1tTmAlUt)** by **luu, dethkitty** *(throwing up)*
-🎤 **[dizzy](https://open.spotify.com/track/63fb0smSh5OqmX1wFvXqzI)** by **Dylann, 8485** *(dizzy)*
-🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-29 18:43:18Z UTC
+🕐 Last updated: 2025-08-29 18:51:54Z UTC
 <!-- SPOTIFY-END -->
