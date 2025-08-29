@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d3399484c668e05ce4bbc648" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)**
-*by* **Kanye West, Lupe Fiasco**
-*Album:* Late Registration
+**🎵 [high as fuck](https://open.spotify.com/track/14cxhUvJbuo61Hb1wYQbP7)**
+*by* **kets4eki, d3r**
+*Album:* high as fuck
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:08 • 3:56
+    0:17 • 1:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Afterburner](https://open.spotify.com/track/1z0EbPhl9w8QMqZF63mlCd)** by **Yota Dora** *(Afterburner)*
-🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
-🎤 **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-29 11:24:33Z UTC
+🕐 Last updated: 2025-08-29 11:34:50Z UTC
 <!-- SPOTIFY-END -->
