@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739a62a291de53f2239c099e12" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273744a7ad0bdaac12ee7e7108a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)**
-*by* **cholorofilm, snor**
-*Album:* dnt fall asleep
+**🎵 [mascara](https://open.spotify.com/track/0WsxxSjRTcCRItuKQxyq8R)**
+*by* **cholorofilm, Vampyx, GABEDOESNTSLEEP**
+*Album:* mascara
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:18
+    1:26 • 2:19
 </span>
 </p>
 
@@ -132,18 +132,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
-🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
-🎤 **[wanna go back](https://open.spotify.com/track/6FRX0d3fzz70Cgu0Btsm4f)** by **alleycat** *(wanna go back)*
-🎤 **[can't make this right](https://open.spotify.com/track/5vcrFDzZ8seXqM464s5Nkw)** by **Senses** *(can't make this right)*
-🎤 **[WIMHOf](https://open.spotify.com/track/1xoK00RybgwoF22LQ93VK5)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
+🎤 **[bruised knees xP](https://open.spotify.com/track/1KpHNCjkArBspFMN3IippP)** by **pichuu** *(bruised knees xP)*
+🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[selfdestruct](https://open.spotify.com/track/4wHe2az2RBZGgj6HbGXfrl)** by **Senses** *(selfdestruct)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥇 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🥉 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🏅 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-29 19:47:35Z UTC
+🕐 Last updated: 2025-08-29 20:13:06Z UTC
 <!-- SPOTIFY-END -->
