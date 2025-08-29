@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733c1fd4bfaf1026ad6209de21" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)**
-*by* **agelast222**
-*Album:* Last Bible
+**🎵 [mein herz](https://open.spotify.com/track/6SnoQM36RDqpUcUud84wi3)**
+*by* **mundus, pink luu**
+*Album:* mein herz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="177" height="4" fill="#1db954" rx="2"/>
+    <circle cx="177" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:31
+    1:18 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
-🎤 **[CHEWING GUM](https://open.spotify.com/track/7LsX85eRBRyxJ5LP6K7JvR)** by **Focus Group, Aidan Swank, bleachblonde** *(STEPPED IN A PUDDLE NOW MY SOCKS R WET "FG004")*
-🎤 **[isolated](https://open.spotify.com/track/11bWzqdulNOUGQ8BNGouOb)** by **2040x2040, frailty** *(isolated)*
-🎤 **[always pick u #avemaria </33 :c](https://open.spotify.com/track/685BOlLQqqLeHeEdfMbl6m)** by **snor, Myojin, cholorofilm** *(always pick u #avemaria </33 :c)*
-🎤 **[powerless](https://open.spotify.com/track/7yeCJsNY9QIa78Ue7Gky3c)** by **Senses, remghost** *(powerless)*
+🎤 **[foreverafter](https://open.spotify.com/track/3VZOJnsqdsEPBl12HD2EGu)** by **syverina** *(foreverafter)*
+🎤 **[Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)** by **nomu.** *(Medicine)*
+🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
+🎤 **[come alive](https://open.spotify.com/track/1isF1DcOAKgrRCoPFILlE5)** by **Senses, 2504, Kojo** *(come alive)*
+🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-29 19:22:34Z UTC
+🕐 Last updated: 2025-08-29 19:34:00Z UTC
 <!-- SPOTIFY-END -->
