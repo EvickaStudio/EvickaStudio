@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738937407da3ceed3caf86db79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)**
-*by* **5v**
-*Album:* kein respekt
+**🎵 [garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)**
+*by* **agelast222**
+*Album:* Last Bible
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="241" height="4" fill="#1db954" rx="2"/>
-    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 1:42
+    1:10 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
-🎤 **[messer](https://open.spotify.com/track/5DTebarGF5X1mmcWzCLmnx)** by **stixz** *(messer)*
-🎤 **[scarlet valentine](https://open.spotify.com/track/4aioRZbRqJ2D2dPzn8j8lv)** by **ihylunar, Vyzer** *(scarlet valentine)*
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
-🎤 **[fireflies](https://open.spotify.com/track/1xKuZpQXYRHaXEUbMvkfjX)** by **Senses, mint** *(fairies have dreams too)*
+🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
+🎤 **[CHEWING GUM](https://open.spotify.com/track/7LsX85eRBRyxJ5LP6K7JvR)** by **Focus Group, Aidan Swank, bleachblonde** *(STEPPED IN A PUDDLE NOW MY SOCKS R WET "FG004")*
+🎤 **[isolated](https://open.spotify.com/track/11bWzqdulNOUGQ8BNGouOb)** by **2040x2040, frailty** *(isolated)*
+🎤 **[always pick u #avemaria </33 :c](https://open.spotify.com/track/685BOlLQqqLeHeEdfMbl6m)** by **snor, Myojin, cholorofilm** *(always pick u #avemaria </33 :c)*
+🎤 **[powerless](https://open.spotify.com/track/7yeCJsNY9QIa78Ue7Gky3c)** by **Senses, remghost** *(powerless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-29 19:09:30Z UTC
+🕐 Last updated: 2025-08-29 19:22:34Z UTC
 <!-- SPOTIFY-END -->
