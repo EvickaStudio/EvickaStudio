@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad77b636c59ced2f20fbfdcc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738c2b7b22366ac64841baa83c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)**
-*by* **pink luu, dethkitty, cxpyyy, luu**
-*Album:* love castle
+**🎵 [shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)**
+*by* **Lvl99magic**
+*Album:* T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:20
+    0:19 • 3:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
-🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
-🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
-🎤 **[insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)** by **cholorofilm** *(insomnia #sleepclinic)*
-🎤 **[GPU](https://open.spotify.com/track/4sEaCcKtU4PkrzGa0MmWnY)** by **Senses** *(GPU)*
+🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
+🎤 **[Useful.Mp3](https://open.spotify.com/track/27uowdUPkHCfocRf3UTIPi)** by **flywoah** *(Useful.Mp3)*
+🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
+🎤 **[reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)** by **seph, nomu.** *(reside)*
+🎤 **[2004](https://open.spotify.com/track/2mLB3j3rYIkrQ1eUAxeSg7)** by **cholorofilm, snor** *(2004)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-29 20:30:27Z UTC
+🕐 Last updated: 2025-08-29 20:47:41Z UTC
 <!-- SPOTIFY-END -->
