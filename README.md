@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737037dfed700b1e6f72ff762d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)**
-*by* **Senses, Nightclub20xx, ROAR**
-*Album:* no insight
+**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
+*by* **blombi19, 2dizzy**
+*Album:* medikament
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="176" height="4" fill="#1db954" rx="2"/>
-    <circle cx="176" cy="2" r="6" fill="#1db954"/>
+    <rect width="262" height="4" fill="#1db954" rx="2"/>
+    <circle cx="262" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 2:22
+    2:58 • 3:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Happy Xmas (War Is Over) - Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b)** by **John Lennon, Yoko Ono** *(Signature Box)*
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-29 13:35:33Z UTC
+🕐 Last updated: 2025-08-29 13:48:26Z UTC
 <!-- SPOTIFY-END -->
