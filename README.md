@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dff61be850aa5636c5e2034c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d38f6aa32857451380fb4b43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)**
-*by* **pink luu, 1antibody**
-*Album:* tot wie maus
+**🎵 [Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)**
+*by* **503scoob, Bandiicam, lavendr**
+*Album:* Around the World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 2:27
+    0:32 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
-🎤 **[self inflicted #trauma](https://open.spotify.com/track/28AvbI0QHku6wn2G7UF6y5)** by **cholorofilm, 1stress** *(self inflicted #trauma)*
-🎤 **[online presence](https://open.spotify.com/track/3DTiw7TLcCYKoE2UpGKBh1)** by **dolldamage** *(online presence)*
-🎤 **[want me gone](https://open.spotify.com/track/2CFfXJ4LmAtHbKATJLiQm6)** by **Senses** *(seventh heaven)*
+🎤 **[rave grl](https://open.spotify.com/track/1Csd45WdBtF6Ph7hC6xdo2)** by **Fijimar** *(rave grl)*
+🎤 **[burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)** by **dollreal, 9surgery, MXRCELINE** *(burning desire <3)*
+🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
+🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
+🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 13:47:43Z UTC
+🕐 Last updated: 2025-08-30 14:09:42Z UTC
 <!-- SPOTIFY-END -->
