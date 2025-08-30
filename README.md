@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273748fd13d0716a3dad4c1e4d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fail](https://open.spotify.com/track/4T7fLpT61LaOism0zdIukN)**
-*by* **Capoxxo**
-*Album:* Fail
+**🎵 [sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)**
+*by* **luu**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:07
+    1:05 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[deliberate evil](https://open.spotify.com/track/1VxQeD4uBNvAhrr6CoV67x)** by **Emma Aibara** *(deliberate evil)*
-🎤 **[y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)** by **marchpane, PAXNKOXD** *(Rememoration)*
+🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
+🎤 **[(rough).jp](https://open.spotify.com/track/1onxOD0rKhNvd3V1uruRKk)** by **Emma Aibara, shxrda** *((rough).jp)*
+🎤 **[by my side](https://open.spotify.com/track/5Lhp792GUKtexr8EXBn5Fm)** by **Fijimar** *(by my side)*
+🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
+🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 12:21:20Z UTC
+🕐 Last updated: 2025-08-30 12:56:40Z UTC
 <!-- SPOTIFY-END -->
