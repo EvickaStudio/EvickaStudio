@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
 🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
 🎤 **[stranger](https://open.spotify.com/track/74Dw7TQbBUUYMKIwx4DDpq)** by **Perto** *(bozo)*
-🎤 **[windchimes](https://open.spotify.com/track/6A5WgVMrgE9qd20JFQjgy1)** by **i9bonsai** *(windchimes)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-30 11:08:45Z UTC
+🕐 Last updated: 2025-08-30 11:22:27Z UTC
 <!-- SPOTIFY-END -->
