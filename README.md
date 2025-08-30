@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b5d438726c4cf6424c0c5a83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734d6700ddce0bf438c5459496" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)**
-*by* **mehlhaltig, luu**
-*Album:* nur für dich!!^_-
+**🎵 [crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)**
+*by* **Iuvumi**
+*Album:* crushing ice
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="203" height="4" fill="#1db954" rx="2"/>
-    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:51 • 2:45
+    0:26 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
-🎤 **[rockin pantslow cuz mah dicc 2 damn big](https://open.spotify.com/track/2pDOoPK6CFb24UFaCSes8K)** by **tob!, Sayako** *(rocking pantslow cuz mah dicc 2 damn big)*
-🎤 **[throwing up](https://open.spotify.com/track/63BLSQ9YlKVJ0S1tTmAlUt)** by **luu, dethkitty** *(throwing up)*
-🎤 **[Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)** by **503scoob, Bandiicam, lavendr** *(Around the World)*
-🎤 **[rave grl](https://open.spotify.com/track/1Csd45WdBtF6Ph7hC6xdo2)** by **Fijimar** *(rave grl)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 16:48:47Z UTC
+🕐 Last updated: 2025-08-30 17:09:44Z UTC
 <!-- SPOTIFY-END -->
