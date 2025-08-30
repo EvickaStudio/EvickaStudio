@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
-🎤 **[Upside Down](https://open.spotify.com/track/7mZ0iCjl1h2JzFCYmmV5Ku)** by **bodyGaard** *(Upside Down)*
-🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
+🎤 **[transylvania](https://open.spotify.com/track/3JiRFZZXig8sAOxZwI8eIt)** by **snor, cy4ne, Luvsick2k, cholorofilm** *(transylvania)*
+🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
+🎤 **[nighttime](https://open.spotify.com/track/4MwQdu5NoCApVAPRq6oqOL)** by **Mezha** *(nighttime)*
+🎤 **[glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)** by **luu, cxpyyy** *(glitzeraugen)*
+🎤 **[heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)** by **ilymeow** *(heal!!)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-30 08:33:31Z UTC
+🕐 Last updated: 2025-08-30 08:48:45Z UTC
 <!-- SPOTIFY-END -->
