@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d38f6aa32857451380fb4b43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)**
-*by* **503scoob, Bandiicam, lavendr**
-*Album:* Around the World
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[rockin pantslow cuz mah dicc 2 damn big](https://open.spotify.com/track/2pDOoPK6CFb24UFaCSes8K)** by **tob!, Sayako** *(rocking pantslow cuz mah dicc 2 damn big)*
+🎤 **[throwing up](https://open.spotify.com/track/63BLSQ9YlKVJ0S1tTmAlUt)** by **luu, dethkitty** *(throwing up)*
+🎤 **[Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)** by **503scoob, Bandiicam, lavendr** *(Around the World)*
 🎤 **[rave grl](https://open.spotify.com/track/1Csd45WdBtF6Ph7hC6xdo2)** by **Fijimar** *(rave grl)*
-🎤 **[burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)** by **dollreal, 9surgery, MXRCELINE** *(burning desire <3)*
-🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
-🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 14:09:42Z UTC
+🕐 Last updated: 2025-08-30 14:27:17Z UTC
 <!-- SPOTIFY-END -->
