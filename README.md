@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273590b4a2e53cf80b88b02b842" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [I can give you love](https://open.spotify.com/track/4lPR01Z3VaCDi6Fqkw1iWx)**
+*by* **Psych**
+*Album:* I can give you love
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="219" height="4" fill="#1db954" rx="2"/>
+    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:27 • 2:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[transylvania](https://open.spotify.com/track/3JiRFZZXig8sAOxZwI8eIt)** by **snor, cy4ne, Luvsick2k, cholorofilm** *(transylvania)*
-🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
-🎤 **[nighttime](https://open.spotify.com/track/4MwQdu5NoCApVAPRq6oqOL)** by **Mezha** *(nighttime)*
-🎤 **[glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)** by **luu, cxpyyy** *(glitzeraugen)*
-🎤 **[heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)** by **ilymeow** *(heal!!)*
+🎤 **[i <3 btc](https://open.spotify.com/track/1fdkvNOKrNTdrBiYJRtT4C)** by **Capoxxo** *(i <3 btc)*
+🎤 **[confused obsessed](https://open.spotify.com/track/7FdIrZvAiOzivAgTdaL6zL)** by **jequya** *(confused obsessed)*
+🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
+🎤 **[i know i know i know](https://open.spotify.com/track/1UfcAgqqSm3DaHi2f3SStg)** by **jequya** *(i know i know i know)*
+🎤 **[aether](https://open.spotify.com/track/60tv5jodPkM9zANcgLslkr)** by **lexycat** *(aether)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-30 08:48:45Z UTC
+🕐 Last updated: 2025-08-30 09:11:30Z UTC
 <!-- SPOTIFY-END -->
