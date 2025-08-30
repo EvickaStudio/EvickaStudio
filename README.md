@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27301dd9b5c79c3df66cf71e20b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d2b507f9fb25039cc107c90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [so cold](https://open.spotify.com/track/23IaFP72OKCvQftMPsQoa6)**
-*by* **DJmegan23, Senses**
-*Album:* Thou Art All Lost And Forgotten
+**🎵 [be careful what u wish for](https://open.spotify.com/track/3vqJsvaxALiIs72nMu97M2)**
+*by* **cholorofilm**
+*Album:* be careful what u wish for
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="37" height="4" fill="#1db954" rx="2"/>
-    <circle cx="37" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:36
+    0:53 • 1:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
-🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)** by **RudeClub** *(i'm just trynna fuck)*
-🎤 **[reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)** by **dollreal** *(reckless)*
+🎤 **[ju5t d4nc3](https://open.spotify.com/track/0PWTl1q0SjS4csszeP04Rt)** by **Fijimar** *(ju5t d4nc3)*
+🎤 **[what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)** by **Senses** *(what i want)*
+🎤 **[attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)** by **angelicxmei** *(attached)*
+🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luu** *(#SCENEJESUS)*
+🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 17:47:31Z UTC
+🕐 Last updated: 2025-08-30 18:14:58Z UTC
 <!-- SPOTIFY-END -->
