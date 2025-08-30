@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af7205c1f3dcc81e96f042ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273748fd13d0716a3dad4c1e4d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)**
-*by* **flywoah**
-*Album:* Super-Loud
+**🎵 [Fail](https://open.spotify.com/track/4T7fLpT61LaOism0zdIukN)**
+*by* **Capoxxo**
+*Album:* Fail
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:40
+    0:39 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
+🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[deliberate evil](https://open.spotify.com/track/1VxQeD4uBNvAhrr6CoV67x)** by **Emma Aibara** *(deliberate evil)*
+🎤 **[y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)** by **marchpane, PAXNKOXD** *(Rememoration)*
 
 
 
@@ -155,9 +155,9 @@
 🥇 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 🥈 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 🥉 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
-🏅 [**brauche deine liebe nicht mehr**](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
+🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 11:47:39Z UTC
+🕐 Last updated: 2025-08-30 12:21:20Z UTC
 <!-- SPOTIFY-END -->
