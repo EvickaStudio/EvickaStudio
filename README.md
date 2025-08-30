@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ef28c6cc6702b37af697f1a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e2d8d37a81eb81e88342eafd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i wna die glamorous X_X](https://open.spotify.com/track/3Uzsgcrhr9wFAsQXd0kuIU)**
-*by* **skellington, cholorofilm**
-*Album:* i wna die glamorous X_X
+**🎵 [DRAIN BOSS](https://open.spotify.com/track/3rIbhqf7kqoZAYPz0kJvKA)**
+*by* **DJmegan23**
+*Album:* 猫の騎士
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="143" height="4" fill="#1db954" rx="2"/>
-    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:19
+    2:08 • 3:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[knochensäge](https://open.spotify.com/track/753mn7HbeehgfN9WeARj52)** by **luu, iwannabemissed** *(immenser pflegefall)*
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
-🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
-🎤 **[luv letters](https://open.spotify.com/track/1GICCvYryNbrFPdwNdK92j)** by **MUNZi, veezuh** *(luv letters)*
+🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
+🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
+🎤 **[let u know](https://open.spotify.com/track/5PR9RKnX7teFXt2UF7We0J)** by **d1v, K_bry** *(hard to know)*
+🎤 **[mental health](https://open.spotify.com/track/2EtYSZ5X3u7DrrwALKYZyy)** by **pink luu, Lytra, cxpyyy, luu** *(mental health)*
+🎤 **[i wna die glamorous X_X](https://open.spotify.com/track/3Uzsgcrhr9wFAsQXd0kuIU)** by **skellington, cholorofilm** *(i wna die glamorous X_X)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 19:08:40Z UTC
+🕐 Last updated: 2025-08-30 19:21:40Z UTC
 <!-- SPOTIFY-END -->
