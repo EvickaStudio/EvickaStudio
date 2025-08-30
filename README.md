@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cb16c620f00c637324e1da1b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27301dd9b5c79c3df66cf71e20b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)**
-*by* **dollreal**
-*Album:* reckless
+**🎵 [so cold](https://open.spotify.com/track/23IaFP72OKCvQftMPsQoa6)**
+*by* **DJmegan23, Senses**
+*Album:* Thou Art All Lost And Forgotten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="37" height="4" fill="#1db954" rx="2"/>
+    <circle cx="37" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:00
+    0:19 • 2:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[White Dust](https://open.spotify.com/track/5xzXEHqC8culVe8XKKDMpk)** by **503scoob, romziie, vampyrska, massacre society, Gutzxx** *(White Dust)*
-🎤 **[doki doki suicide <3](https://open.spotify.com/track/3v2BcOLtHKtY4Pf663wTFz)** by **cholorofilm** *(doki doki suicide <3)*
-🎤 **[vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)** by **angelicxmei** *(vision)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
+🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
+🎤 **[i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)** by **RudeClub** *(i'm just trynna fuck)*
+🎤 **[reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)** by **dollreal** *(reckless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 17:35:10Z UTC
+🕐 Last updated: 2025-08-30 17:47:31Z UTC
 <!-- SPOTIFY-END -->
