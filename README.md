@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b0785b1161164398c04acee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371d9f4d7b44720731761717e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)**
-*by* **5v, mitsu**
-*Album:* tongue tied
+**🎵 [last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)**
+*by* **5v, mint, inssekt**
+*Album:* last chance
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="156" height="4" fill="#1db954" rx="2"/>
+    <circle cx="156" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 2:02
+    1:11 • 2:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[asiana](https://open.spotify.com/track/5rIuOYlvN1KL4OAlUw25QE)** by **MUNZi, yuske, yuri63k** *(asiana)*
-🎤 **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)*
-🎤 **[lie 2 me](https://open.spotify.com/track/2xE6GHvVHkHE2p2kVqo9NY)** by **Senses, Nosgov** *(lie 2 me)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
+🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
+🎤 **[spacebar](https://open.spotify.com/track/1NlWBa7x2zQ7bAWxS8PpAw)** by **Mezha** *(spacebar)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 19:33:52Z UTC
+🕐 Last updated: 2025-08-30 19:47:46Z UTC
 <!-- SPOTIFY-END -->
