@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273590b4a2e53cf80b88b02b842" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a51729228f90e61ca073a755" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I can give you love](https://open.spotify.com/track/4lPR01Z3VaCDi6Fqkw1iWx)**
-*by* **Psych**
-*Album:* I can give you love
+**🎵 [one](https://open.spotify.com/track/3dSsQrv4DJBrufKRIdt44N)**
+*by* **ccareful, Capoxxo**
+*Album:* one
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:00
+    0:42 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i <3 btc](https://open.spotify.com/track/1fdkvNOKrNTdrBiYJRtT4C)** by **Capoxxo** *(i <3 btc)*
-🎤 **[confused obsessed](https://open.spotify.com/track/7FdIrZvAiOzivAgTdaL6zL)** by **jequya** *(confused obsessed)*
-🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
-🎤 **[i know i know i know](https://open.spotify.com/track/1UfcAgqqSm3DaHi2f3SStg)** by **jequya** *(i know i know i know)*
-🎤 **[aether](https://open.spotify.com/track/60tv5jodPkM9zANcgLslkr)** by **lexycat** *(aether)*
+🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
+🎤 **[Blowing Shit Up](https://open.spotify.com/track/0EnB5LmRG5biultzbSCAFC)** by **DJmegan23, mol$** *(Deathtrap)*
+🎤 **[ill teach you how to love](https://open.spotify.com/track/2COkZzqWr1iJSfucb2qIfn)** by **Psych** *(ill teach you how to love)*
+🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
+🎤 **[zara](https://open.spotify.com/track/5BBx8N4D8KaNVUpH9qyvkq)** by **jequya** *(zara)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-30 09:11:30Z UTC
+🕐 Last updated: 2025-08-30 09:27:12Z UTC
 <!-- SPOTIFY-END -->
