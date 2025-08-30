@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27319bf045fc379427eae97700a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)**
-*by* **luu**
-*Album:* immenser pflegefall
+**🎵 [Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)**
+*by* **RudeClub, oaf1**
+*Album:* Crash
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 1:57
+    0:36 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
-🎤 **[(rough).jp](https://open.spotify.com/track/1onxOD0rKhNvd3V1uruRKk)** by **Emma Aibara, shxrda** *((rough).jp)*
-🎤 **[by my side](https://open.spotify.com/track/5Lhp792GUKtexr8EXBn5Fm)** by **Fijimar** *(by my side)*
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
-🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
+🎤 **[high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)** by **Fijimar, slatepsycho** *(high)*
+🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
+🎤 **[funky town](https://open.spotify.com/track/21vd2YcC5B4XNYLnTeVlqw)** by **pink luu, nami, cxpyyy, luu** *(funky town)*
+🎤 **[hedi hours](https://open.spotify.com/track/5Eixdtks7zTMQEn45ctpfB)** by **lil london** *(hedi hours)*
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 12:56:40Z UTC
+🕐 Last updated: 2025-08-30 13:19:35Z UTC
 <!-- SPOTIFY-END -->
