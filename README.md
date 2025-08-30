@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319bf045fc379427eae97700a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b8c37de67ca0a5afe8733466" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)**
-*by* **RudeClub, oaf1**
-*Album:* Crash
+**🎵 [want me gone](https://open.spotify.com/track/2CFfXJ4LmAtHbKATJLiQm6)**
+*by* **Senses**
+*Album:* seventh heaven
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
+    <rect width="250" height="4" fill="#1db954" rx="2"/>
+    <circle cx="250" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:04
+    2:07 • 2:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)** by **Fijimar, slatepsycho** *(high)*
-🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
-🎤 **[funky town](https://open.spotify.com/track/21vd2YcC5B4XNYLnTeVlqw)** by **pink luu, nami, cxpyyy, luu** *(funky town)*
-🎤 **[hedi hours](https://open.spotify.com/track/5Eixdtks7zTMQEn45ctpfB)** by **lil london** *(hedi hours)*
-🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
+🎤 **[-suffocation-](https://open.spotify.com/track/5DQACbk3KcHGjwuzuldg9g)** by **LooveX, DecayingAnyways** *(-suffocation-)*
+🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
+🎤 **[bloody bathroom](https://open.spotify.com/track/6RRoQakBSNIX3YtxiWRDv9)** by **cholorofilm** *(bloody bathroom)*
+🎤 **[loving me is way too hard](https://open.spotify.com/track/785zroyzLODTfTCGnWFkKw)** by **Psych** *(loving me is way too hard)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 13:19:35Z UTC
+🕐 Last updated: 2025-08-30 13:36:17Z UTC
 <!-- SPOTIFY-END -->
