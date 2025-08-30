@@ -127,7 +127,7 @@
 🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🥉 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🏅 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
+🏅 [**Avery's Ambient**](https://open.spotify.com/artist/087yHuMGyFxaNbvfTXpNOI)
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-30 10:11:08Z UTC
+🕐 Last updated: 2025-08-30 10:30:13Z UTC
 <!-- SPOTIFY-END -->
