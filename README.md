@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d2b507f9fb25039cc107c90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27397f77dd83347bf87ac64558b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [be careful what u wish for](https://open.spotify.com/track/3vqJsvaxALiIs72nMu97M2)**
-*by* **cholorofilm**
-*Album:* be careful what u wish for
+**🎵 [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* Schnuffel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 1:27
+    0:26 • 3:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ju5t d4nc3](https://open.spotify.com/track/0PWTl1q0SjS4csszeP04Rt)** by **Fijimar** *(ju5t d4nc3)*
-🎤 **[what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)** by **Senses** *(what i want)*
-🎤 **[attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)** by **angelicxmei** *(attached)*
-🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luu** *(#SCENEJESUS)*
-🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
+🎤 **[hi](https://open.spotify.com/track/0sXaBYLZKDHy2xFva0kw3P)** by **Senses** *(hi)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
+🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
+🎤 **[slutty scene barbie](https://open.spotify.com/track/1oFMAyXUSTtOmKAldOSG9u)** by **dollreal, p6inkillr, deardiaryy, z4y4** *(slutty scene barbie)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 18:14:58Z UTC
+🕐 Last updated: 2025-08-30 18:37:41Z UTC
 <!-- SPOTIFY-END -->
