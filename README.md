@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a51729228f90e61ca073a755" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b33f002869f2dfcc1dcd7035" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [one](https://open.spotify.com/track/3dSsQrv4DJBrufKRIdt44N)**
-*by* **ccareful, Capoxxo**
-*Album:* one
+**🎵 [Nothing You Can Do](https://open.spotify.com/track/1fVsQBqcVLXA1w65qxr0EG)**
+*by* **DJmegan23, 8ngelonline**
+*Album:* You Weren't Supposed To See That...
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:58
+    1:30 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
-🎤 **[Blowing Shit Up](https://open.spotify.com/track/0EnB5LmRG5biultzbSCAFC)** by **DJmegan23, mol$** *(Deathtrap)*
-🎤 **[ill teach you how to love](https://open.spotify.com/track/2COkZzqWr1iJSfucb2qIfn)** by **Psych** *(ill teach you how to love)*
-🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
-🎤 **[zara](https://open.spotify.com/track/5BBx8N4D8KaNVUpH9qyvkq)** by **jequya** *(zara)*
+🎤 **[stranger](https://open.spotify.com/track/74Dw7TQbBUUYMKIwx4DDpq)** by **Perto** *(bozo)*
+🎤 **[windchimes](https://open.spotify.com/track/6A5WgVMrgE9qd20JFQjgy1)** by **i9bonsai** *(windchimes)*
+🎤 **[how im made](https://open.spotify.com/track/2YbU67O0ZQvZzH2304698r)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)*
+🎤 **[one](https://open.spotify.com/track/3dSsQrv4DJBrufKRIdt44N)** by **ccareful, Capoxxo** *(one)*
+🎤 **[saw it happen](https://open.spotify.com/track/7ypWQ0j7ROUFCibRMfbxv8)** by **d1v** *(saw it happen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-30 09:27:12Z UTC
+🕐 Last updated: 2025-08-30 09:35:44Z UTC
 <!-- SPOTIFY-END -->
