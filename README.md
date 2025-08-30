@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e2d8d37a81eb81e88342eafd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b0785b1161164398c04acee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DRAIN BOSS](https://open.spotify.com/track/3rIbhqf7kqoZAYPz0kJvKA)**
-*by* **DJmegan23**
-*Album:* 猫の騎士
+**🎵 [tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)**
+*by* **5v, mitsu**
+*Album:* tongue tied
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 3:14
+    0:38 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
-🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
-🎤 **[let u know](https://open.spotify.com/track/5PR9RKnX7teFXt2UF7We0J)** by **d1v, K_bry** *(hard to know)*
-🎤 **[mental health](https://open.spotify.com/track/2EtYSZ5X3u7DrrwALKYZyy)** by **pink luu, Lytra, cxpyyy, luu** *(mental health)*
-🎤 **[i wna die glamorous X_X](https://open.spotify.com/track/3Uzsgcrhr9wFAsQXd0kuIU)** by **skellington, cholorofilm** *(i wna die glamorous X_X)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[asiana](https://open.spotify.com/track/5rIuOYlvN1KL4OAlUw25QE)** by **MUNZi, yuske, yuri63k** *(asiana)*
+🎤 **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)*
+🎤 **[lie 2 me](https://open.spotify.com/track/2xE6GHvVHkHE2p2kVqo9NY)** by **Senses, Nosgov** *(lie 2 me)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-30 19:21:40Z UTC
+🕐 Last updated: 2025-08-30 19:33:52Z UTC
 <!-- SPOTIFY-END -->
