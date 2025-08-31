@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dancin in the club](https://open.spotify.com/track/6jWv1vTvkDQ7E6aCINhMxF)** by **Rylax, 1Psion, z4$199prod** *(Dancin in the club)*
+🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
+🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
 🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[evergrace](https://open.spotify.com/track/5geEMzplqpukf7BTuDKVPm)** by **emorave** *(evergrace)*
-🎤 **[friday night](https://open.spotify.com/track/09cqh2Eg1dmsH6roGevGx0)** by **roxxy** *(friday night)*
+🎤 **[i'm so sick of finding love](https://open.spotify.com/track/2tWCFhZNtPVpdkc7ChtGts)** by **iamsodead** *(i'm so sick of finding love)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-08-31 13:21:11Z UTC
+🕐 Last updated: 2025-08-31 13:37:11Z UTC
 <!-- SPOTIFY-END -->
