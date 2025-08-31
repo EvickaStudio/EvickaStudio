@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335395e1c87d486b205b7ad6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273970d2bfbbb4ad2aa01dad632" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)**
-*by* **dollreal, 9surgery, MXRCELINE**
-*Album:* burning desire <3
+**🎵 [another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)**
+*by* **ilymeow, safewarm**
+*Album:* another call:3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="1" height="4" fill="#1db954" rx="2"/>
+    <circle cx="1" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 2:59
+    0:00 • 1:46
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
-🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
-🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
-🎤 **[vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)** by **angelicxmei** *(vision)*
-🎤 **[kE타mine 러oVE 너 bUT nOT ㅠ](https://open.spotify.com/track/60KNwr8LbGpgbABA3QVAot)** by **MUNZi, sn7** *(kE타mine 러oVE 너 bUT nOT ㅠ)*
+🎤 **[Gfuelinme](https://open.spotify.com/track/1GQFNLpugRwhggFITeI0Fs)** by **Capoxxo** *(Gfuelinme)*
+🎤 **[ur touch](https://open.spotify.com/track/0HFaxxzW4Umby5k5FJkcj0)** by **joss lockwood** *(ur touch)*
+🎤 **[reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)** by **dollreal** *(reckless)*
+🎤 **[Final:life](https://open.spotify.com/track/3KSqGh0MLscAZBvpg4s3jT)** by **MUNZi, yuri63k, kairo6k** *(Final:life)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 15:47:41Z UTC
+🕐 Last updated: 2025-08-31 16:13:17Z UTC
 <!-- SPOTIFY-END -->
