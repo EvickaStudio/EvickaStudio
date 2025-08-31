@@ -108,19 +108,19 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d6ae665490ec905ddc3fd17f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27356f94b3f8abd4910fcbcaada" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)**
-*by* **Senses, mint**
-*Album:* paranoid
+**🎵 [arteries](https://open.spotify.com/track/3BLhOEe4PhKwEp0mB3RvQR)**
+*by* **Senses**
+*Album:* arteries
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="107" height="4" fill="#1db954" rx="2"/>
-    <circle cx="107" cy="2" r="6" fill="#1db954"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[(rough).jp](https://open.spotify.com/track/1onxOD0rKhNvd3V1uruRKk)** by **Emma Aibara, shxrda** *((rough).jp)*
-🎤 **[porcelain scars](https://open.spotify.com/track/2DSxe1Qs8TIX214s0CHmV4)** by **cholorofilm** *(porcelain scars)*
-🎤 **[junge römer (R.I.P Falco)](https://open.spotify.com/track/0Tdz24cbidJ4mSp6GuUOk6)** by **Kroka Koka** *(Dagestan Dreams)*
-🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[loving me is way too hard](https://open.spotify.com/track/785zroyzLODTfTCGnWFkKw)** by **Psych** *(loving me is way too hard)*
+🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
+🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 16:34:03Z UTC
+🕐 Last updated: 2025-08-31 16:48:52Z UTC
 <!-- SPOTIFY-END -->
