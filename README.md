@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273503a62694c7726e9bef58b79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fe397eccaf7236021fd61463" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Melancholic Song](https://open.spotify.com/track/1AxkebbhSayfO4CSA5v7AJ)**
-*by* **Psyke**
-*Album:* Extinct
+**🎵 [fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)**
+*by* **Senses, Nightclub20xx**
+*Album:* fireproof
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="277" height="4" fill="#1db954" rx="2"/>
-    <circle cx="277" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 1:48
+    0:26 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hachi](https://open.spotify.com/track/4AWLELv8lgmouGZRODTEJg)** by **memorie** *(hachi)*
-🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
-🎤 **[online presence](https://open.spotify.com/track/3DTiw7TLcCYKoE2UpGKBh1)** by **dolldamage** *(online presence)*
-🎤 **[bleiballein](https://open.spotify.com/track/491HCNS8zZqkjyZ1hb7HZA)** by **LiJon** *(bleiballein)*
-🎤 **[When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)** by **Psych** *(When you needed me most)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-08-31 11:47:48Z UTC
+🕐 Last updated: 2025-08-31 12:21:45Z UTC
 <!-- SPOTIFY-END -->
