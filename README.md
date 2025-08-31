@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe397eccaf7236021fd61463" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27302ecde1e868ee13df2147b48" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)**
-*by* **Senses, Nightclub20xx**
-*Album:* fireproof
+**🎵 [am i crazy???](https://open.spotify.com/track/31moa9kHYrMkNxNZKRrSdH)**
+*by* **iamsodead, dollreallll, Cl4ireB3ar, NXTY**
+*Album:* am i crazy???
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
+    <rect width="95" height="4" fill="#1db954" rx="2"/>
+    <circle cx="95" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 2:07
+    0:57 • 3:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[Vampire](https://open.spotify.com/track/2S1LuNRs1vaFXUEtaOjugw)** by **Chicken Lover** *(Vampire)*
+🎤 **[anxiety](https://open.spotify.com/track/5tMnKk4SS2YoSH2FV1WSMy)** by **vanity** *(anxiety)*
+🎤 **[flip phone](https://open.spotify.com/track/1X1AtNti4T4kqcBmt3ZHwZ)** by **luu, kanjiru** *(flip phone)*
+🎤 **[CUTE](https://open.spotify.com/track/7K4v22IbW4FnoisSFsFCSM)** by **dxnkwer** *(CUTE)*
+🎤 **[Peroxide](https://open.spotify.com/track/0vObPuSMuKxomZUsHdxa9J)** by **smiley mug** *(Peroxide)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-08-31 12:21:45Z UTC
+🕐 Last updated: 2025-08-31 12:57:16Z UTC
 <!-- SPOTIFY-END -->
