@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fb6910d7c72aea09a75f74ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273503a62694c7726e9bef58b79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [my glue](https://open.spotify.com/track/0B37hZATkkCj1C2WZZnIw8)**
-*by* **bliiiss**
-*Album:* my glue
+**🎵 [Melancholic Song](https://open.spotify.com/track/1AxkebbhSayfO4CSA5v7AJ)**
+*by* **Psyke**
+*Album:* Extinct
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="199" height="4" fill="#1db954" rx="2"/>
-    <circle cx="199" cy="2" r="6" fill="#1db954"/>
+    <rect width="277" height="4" fill="#1db954" rx="2"/>
+    <circle cx="277" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 3:12
+    1:39 • 1:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[foreverafter](https://open.spotify.com/track/3VZOJnsqdsEPBl12HD2EGu)** by **syverina** *(foreverafter)*
-🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Extinct](https://open.spotify.com/track/4tpAQmBrMR1OXqK78pyXT0)** by **Psyke** *(Extinct)*
-🎤 **[hang on](https://open.spotify.com/track/0RazVefcowUKpzqkKRHA4o)** by **skypebf, 2040x2040** *(#waitforme)*
-🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[hachi](https://open.spotify.com/track/4AWLELv8lgmouGZRODTEJg)** by **memorie** *(hachi)*
+🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
+🎤 **[online presence](https://open.spotify.com/track/3DTiw7TLcCYKoE2UpGKBh1)** by **dolldamage** *(online presence)*
+🎤 **[bleiballein](https://open.spotify.com/track/491HCNS8zZqkjyZ1hb7HZA)** by **LiJon** *(bleiballein)*
+🎤 **[When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)** by **Psych** *(When you needed me most)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 🥈 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
-🥉 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
-🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
-🏅 [**PURGATORY**](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)
+🥉 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
+🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
+🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-08-31 11:34:00Z UTC
+🕐 Last updated: 2025-08-31 11:47:48Z UTC
 <!-- SPOTIFY-END -->
