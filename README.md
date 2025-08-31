@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738dd5d6d4f19768d6812324e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353e77510290f3ed65fd70b99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)**
-*by* **crusey, trustt**
-*Album:* what u need
+**🎵 [kE타mine 러oVE 너 bUT nOT ㅠ](https://open.spotify.com/track/60KNwr8LbGpgbABA3QVAot)**
+*by* **MUNZi, sn7**
+*Album:* kE타mine 러oVE 너 bUT nOT ㅠ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+    <rect width="278" height="4" fill="#1db954" rx="2"/>
+    <circle cx="278" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 2:03
+    1:39 • 1:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
+🎤 **[what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)** by **crusey, trustt** *(what u need)*
 🎤 **[i wna die glamorous X_X](https://open.spotify.com/track/3Uzsgcrhr9wFAsQXd0kuIU)** by **skellington, cholorofilm** *(i wna die glamorous X_X)*
-🎤 **[All-2u](https://open.spotify.com/track/111XuxqfX5uZkpSeCgmmet)** by **MUNZi** *(All-2u)*
-🎤 **[offkey](https://open.spotify.com/track/0uJjvhrja2L1Y3mJMoYpeu)** by **vanity, stardante, Pr0xy** *(offkey)*
-🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
-🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 15:26:54Z UTC
+🕐 Last updated: 2025-08-31 15:36:24Z UTC
 <!-- SPOTIFY-END -->
