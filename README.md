@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730f1c36209a707dffa13bd313" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273064a13844ae5fa324af578cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)**
-*by* **RudeClub**
-*Album:* i'm just trynna fuck
+**🎵 [ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)**
+*by* **Shoto**
+*Album:* ADHS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="150" height="4" fill="#1db954" rx="2"/>
+    <circle cx="150" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 3:33
+    1:25 • 2:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LETZTE NACHT](https://open.spotify.com/track/0E4vkkE8tMfV1u94Df8wQs)** by **stixz, muli** *(love core)*
-🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
-🎤 **[Ur such a shame x_x](https://open.spotify.com/track/06FRYaWhBzTkyAaGhvgR6S)** by **offaflat, dollreal** *(Ur such a shame x_x)*
-🎤 **[silver - cover](https://open.spotify.com/track/4zibp81wxmSD8eaghuQIa7)** by **trndytrndy** *(songs2)*
-🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
+🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v, kojo** *(issues)*
+🎤 **[xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)** by **cholorofilm** *(xxx)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[1000 days](https://open.spotify.com/track/3ddEnYHJ9aogcpn9tx7bys)** by **angelicxmei** *(1000 days)*
+🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 18:15:28Z UTC
+🕐 Last updated: 2025-08-31 18:42:31Z UTC
 <!-- SPOTIFY-END -->
