@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273064a13844ae5fa324af578cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d623e1f574a68b76f53e1667" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)**
-*by* **Shoto**
-*Album:* ADHS
+**🎵 [always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)**
+*by* **angelicxmei**
+*Album:* always
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:50
+    1:35 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[in ma hometown](https://open.spotify.com/track/0WOhQPmDGKnvaSwlgzNuON)** by **Kroka Koka, mon€** *(Dagestan Dreams)*
+🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
+🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
+🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
 🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v, kojo** *(issues)*
-🎤 **[xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)** by **cholorofilm** *(xxx)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[1000 days](https://open.spotify.com/track/3ddEnYHJ9aogcpn9tx7bys)** by **angelicxmei** *(1000 days)*
-🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 18:42:31Z UTC
+🕐 Last updated: 2025-08-31 18:51:15Z UTC
 <!-- SPOTIFY-END -->
