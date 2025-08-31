@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27353e77510290f3ed65fd70b99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27335395e1c87d486b205b7ad6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kE타mine 러oVE 너 bUT nOT ㅠ](https://open.spotify.com/track/60KNwr8LbGpgbABA3QVAot)**
-*by* **MUNZi, sn7**
-*Album:* kE타mine 러oVE 너 bUT nOT ㅠ
+**🎵 [burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)**
+*by* **dollreal, 9surgery, MXRCELINE**
+*Album:* burning desire <3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 1:47
+    2:14 • 2:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)** by **crusey, trustt** *(what u need)*
-🎤 **[i wna die glamorous X_X](https://open.spotify.com/track/3Uzsgcrhr9wFAsQXd0kuIU)** by **skellington, cholorofilm** *(i wna die glamorous X_X)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
+🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
+🎤 **[vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)** by **angelicxmei** *(vision)*
+🎤 **[kE타mine 러oVE 너 bUT nOT ㅠ](https://open.spotify.com/track/60KNwr8LbGpgbABA3QVAot)** by **MUNZi, sn7** *(kE타mine 러oVE 너 bUT nOT ㅠ)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 15:36:24Z UTC
+🕐 Last updated: 2025-08-31 15:47:41Z UTC
 <!-- SPOTIFY-END -->
