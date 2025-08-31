@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730043b6771c366e9d77381c19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27392b0d4c12b0e6f1b21ff9207" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)**
-*by* **marchpane, PAXNKOXD**
-*Album:* Rememoration
+**🎵 [ON TIME](https://open.spotify.com/track/5LtyuWpeUDr2wXoK1Qbrv3)**
+*by* **stixz**
+*Album:* love core
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="75" height="4" fill="#1db954" rx="2"/>
-    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 3:24
+    2:02 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)** by **mint** *(how can u even make me feel so unwell)*
+🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
+🎤 **[y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)** by **marchpane, PAXNKOXD** *(Rememoration)*
 🎤 **[i'm ur only xtc](https://open.spotify.com/track/5MetOmlGcYhXRPDTn3YGVf)** by **disoc8, wintr** *(i'm ur only xtc)*
-🎤 **[mind bug](https://open.spotify.com/track/00cAuqGxurEFiWDhvrWV8S)** by **flywoah** *(mind bug)*
-🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
-🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
-🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 17:36:31Z UTC
+🕐 Last updated: 2025-08-31 17:47:34Z UTC
 <!-- SPOTIFY-END -->
