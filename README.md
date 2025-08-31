@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27392b0d4c12b0e6f1b21ff9207" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730f1c36209a707dffa13bd313" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ON TIME](https://open.spotify.com/track/5LtyuWpeUDr2wXoK1Qbrv3)**
-*by* **stixz**
-*Album:* love core
+**🎵 [i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)**
+*by* **RudeClub**
+*Album:* i'm just trynna fuck
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 2:35
+    1:48 • 3:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
-🎤 **[how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)** by **mint** *(how can u even make me feel so unwell)*
-🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
-🎤 **[y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)** by **marchpane, PAXNKOXD** *(Rememoration)*
-🎤 **[i'm ur only xtc](https://open.spotify.com/track/5MetOmlGcYhXRPDTn3YGVf)** by **disoc8, wintr** *(i'm ur only xtc)*
+🎤 **[LETZTE NACHT](https://open.spotify.com/track/0E4vkkE8tMfV1u94Df8wQs)** by **stixz, muli** *(love core)*
+🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
+🎤 **[Ur such a shame x_x](https://open.spotify.com/track/06FRYaWhBzTkyAaGhvgR6S)** by **offaflat, dollreal** *(Ur such a shame x_x)*
+🎤 **[silver - cover](https://open.spotify.com/track/4zibp81wxmSD8eaghuQIa7)** by **trndytrndy** *(songs2)*
+🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 17:47:34Z UTC
+🕐 Last updated: 2025-08-31 18:15:28Z UTC
 <!-- SPOTIFY-END -->
