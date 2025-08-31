@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d623e1f574a68b76f53e1667" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)**
-*by* **angelicxmei**
-*Album:* always
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 2:02
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[in ma hometown](https://open.spotify.com/track/0WOhQPmDGKnvaSwlgzNuON)** by **Kroka Koka, mon€** *(Dagestan Dreams)*
-🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
-🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v, kojo** *(issues)*
+🎤 **[Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)** by **nomu.** *(Medicine)*
+🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
+🎤 **[perfectly flawed](https://open.spotify.com/track/3wTwBkK6T4PJ7qmMQQ6lti)** by **Senses** *(perfectly flawed)*
+🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
+🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 18:51:15Z UTC
+🕐 Last updated: 2025-08-31 19:08:57Z UTC
 <!-- SPOTIFY-END -->
