@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
 🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
 🎤 **[come alive](https://open.spotify.com/track/1isF1DcOAKgrRCoPFILlE5)** by **Senses, 2504, Kojo** *(come alive)*
 🎤 **[blame 0](https://open.spotify.com/track/1afNQrpOHAUl1c1x3iuAig)** by **MUNZi, sn7, ujin** *(blame 0)*
 🎤 **[2cb](https://open.spotify.com/track/5JSFU5hWDTcd7eqpvCwYkV)** by **mikeycyrus** *(2cb)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 
 
 
@@ -125,9 +125,9 @@
 
 🥇 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🥉 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
+🥉 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🏅 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🏅 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
-🏅 [**Avery's Ambient**](https://open.spotify.com/artist/087yHuMGyFxaNbvfTXpNOI)
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-31 07:25:40Z UTC
+🕐 Last updated: 2025-08-31 07:33:37Z UTC
 <!-- SPOTIFY-END -->
