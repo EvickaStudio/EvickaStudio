@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a011354e9d50476a59b00f45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)**
-*by* **angelicxmei**
-*Album:* honestly
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:07
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[powerless](https://open.spotify.com/track/7yeCJsNY9QIa78Ue7Gky3c)** by **Senses, remghost** *(powerless)*
+🎤 **[high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)** by **Fijimar, slatepsycho** *(high)*
+🎤 **[nighttime](https://open.spotify.com/track/4MwQdu5NoCApVAPRq6oqOL)** by **Mezha** *(nighttime)*
+🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
 🎤 **[Look Back](https://open.spotify.com/track/1LbV3Ce5EjWibZ3bxj2z1h)** by **503scoob, luvhex, Pearlblade** *(Look Back)*
-🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
-🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
-🎤 **[shabby boy](https://open.spotify.com/track/26zGzGqorC3UhQuRaIzDo6)** by **Instantcrashh, Rebzyyx** *(shabby boy)*
-🎤 **[blood everywhere](https://open.spotify.com/track/6KxwSHYvQ4mJPcGgJe0tYm)** by **syverina** *(blood everywhere)*
 
 
 
@@ -155,9 +136,9 @@
 🥇 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 🥈 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 🥉 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
-🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-08-31 20:40:32Z UTC
+🕐 Last updated: 2025-08-31 20:48:05Z UTC
 <!-- SPOTIFY-END -->
