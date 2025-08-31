@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27302ecde1e868ee13df2147b48" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [am i crazy???](https://open.spotify.com/track/31moa9kHYrMkNxNZKRrSdH)**
-*by* **iamsodead, dollreallll, Cl4ireB3ar, NXTY**
-*Album:* am i crazy???
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="95" height="4" fill="#1db954" rx="2"/>
-    <circle cx="95" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 3:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Vampire](https://open.spotify.com/track/2S1LuNRs1vaFXUEtaOjugw)** by **Chicken Lover** *(Vampire)*
-🎤 **[anxiety](https://open.spotify.com/track/5tMnKk4SS2YoSH2FV1WSMy)** by **vanity** *(anxiety)*
-🎤 **[flip phone](https://open.spotify.com/track/1X1AtNti4T4kqcBmt3ZHwZ)** by **luu, kanjiru** *(flip phone)*
-🎤 **[CUTE](https://open.spotify.com/track/7K4v22IbW4FnoisSFsFCSM)** by **dxnkwer** *(CUTE)*
-🎤 **[Peroxide](https://open.spotify.com/track/0vObPuSMuKxomZUsHdxa9J)** by **smiley mug** *(Peroxide)*
+🎤 **[Dancin in the club](https://open.spotify.com/track/6jWv1vTvkDQ7E6aCINhMxF)** by **Rylax, 1Psion, z4$199prod** *(Dancin in the club)*
+🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[evergrace](https://open.spotify.com/track/5geEMzplqpukf7BTuDKVPm)** by **emorave** *(evergrace)*
+🎤 **[friday night](https://open.spotify.com/track/09cqh2Eg1dmsH6roGevGx0)** by **roxxy** *(friday night)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-08-31 12:57:16Z UTC
+🕐 Last updated: 2025-08-31 13:21:11Z UTC
 <!-- SPOTIFY-END -->
