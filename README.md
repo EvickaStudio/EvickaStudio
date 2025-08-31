@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731407737b6639d425f4f9557f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730043b6771c366e9d77381c19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)**
-*by* **olus, mint**
-*Album:* lost and found
+**🎵 [y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)**
+*by* **marchpane, PAXNKOXD**
+*Album:* Rememoration
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="155" height="4" fill="#1db954" rx="2"/>
-    <circle cx="155" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 2:24
+    0:51 • 3:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa)** by **Senses** *(#4u)*
-🎤 **[under my skin](https://open.spotify.com/track/3Ufv8Ev2HvoKFZZopHa1du)** by **Dylann** *(under my skin)*
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
-🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[i'm ur only xtc](https://open.spotify.com/track/5MetOmlGcYhXRPDTn3YGVf)** by **disoc8, wintr** *(i'm ur only xtc)*
+🎤 **[mind bug](https://open.spotify.com/track/00cAuqGxurEFiWDhvrWV8S)** by **flywoah** *(mind bug)*
+🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
+🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 17:26:41Z UTC
+🕐 Last updated: 2025-08-31 17:36:31Z UTC
 <!-- SPOTIFY-END -->
