@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273762e6b695a5700927870fba6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a011354e9d50476a59b00f45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [blood everywhere](https://open.spotify.com/track/6KxwSHYvQ4mJPcGgJe0tYm)**
-*by* **syverina**
-*Album:* blood everywhere
+**🎵 [honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)**
+*by* **angelicxmei**
+*Album:* honestly
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 1:48
+    2:04 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mannequin](https://open.spotify.com/track/2dkju0OgfeLJx3NpYL6aPJ)** by **Fijimar** *(mannequin)*
-🎤 **[I Reap What I Sow](https://open.spotify.com/track/3hDfIZbDoYpkYFqvxQlodi)** by **aftrr!** *(aftrrLife)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[Look Back](https://open.spotify.com/track/1LbV3Ce5EjWibZ3bxj2z1h)** by **503scoob, luvhex, Pearlblade** *(Look Back)*
+🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
+🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
+🎤 **[shabby boy](https://open.spotify.com/track/26zGzGqorC3UhQuRaIzDo6)** by **Instantcrashh, Rebzyyx** *(shabby boy)*
+🎤 **[blood everywhere](https://open.spotify.com/track/6KxwSHYvQ4mJPcGgJe0tYm)** by **syverina** *(blood everywhere)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 20:29:50Z UTC
+🕐 Last updated: 2025-08-31 20:40:32Z UTC
 <!-- SPOTIFY-END -->
