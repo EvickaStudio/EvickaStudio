@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731407737b6639d425f4f9557f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)**
-*by* **luu**
-*Album:* immenser pflegefall
+**🎵 [lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)**
+*by* **olus, mint**
+*Album:* lost and found
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="142" height="4" fill="#1db954" rx="2"/>
-    <circle cx="142" cy="2" r="6" fill="#1db954"/>
+    <rect width="155" height="4" fill="#1db954" rx="2"/>
+    <circle cx="155" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 1:42
+    1:14 • 2:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[are u afraid to die?](https://open.spotify.com/track/4BaQqlj13siznLEnKZKIDS)** by **cholorofilm** *(are u afraid to die?)*
-🎤 **[rave grl](https://open.spotify.com/track/1Csd45WdBtF6Ph7hC6xdo2)** by **Fijimar** *(rave grl)*
-🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
-🎤 **[merry go round](https://open.spotify.com/track/0IFIIjzfSzSUk80DFQQISL)** by **Senses, mint** *(merry go round)*
+🎤 **[#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa)** by **Senses** *(#4u)*
+🎤 **[under my skin](https://open.spotify.com/track/3Ufv8Ev2HvoKFZZopHa1du)** by **Dylann** *(under my skin)*
+🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
+🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
+🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 
 
-🕐 Last updated: 2025-08-31 17:09:51Z UTC
+🕐 Last updated: 2025-08-31 17:26:41Z UTC
 <!-- SPOTIFY-END -->
