@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b5d438726c4cf6424c0c5a83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)**
+*by* **mehlhaltig, luu**
+*Album:* nur für dich!!^_-
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="93" height="4" fill="#1db954" rx="2"/>
+    <circle cx="93" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:51 • 2:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
 🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
 🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-31 05:48:08Z UTC
+🕐 Last updated: 2025-08-31 06:16:36Z UTC
 <!-- SPOTIFY-END -->
