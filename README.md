@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)**
-*by* **The Truth**
-*Album:* U.S.T
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 4:01
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
 🎤 **[come alive](https://open.spotify.com/track/1isF1DcOAKgrRCoPFILlE5)** by **Senses, 2504, Kojo** *(come alive)*
 🎤 **[blame 0](https://open.spotify.com/track/1afNQrpOHAUl1c1x3iuAig)** by **MUNZi, sn7, ujin** *(blame 0)*
 🎤 **[2cb](https://open.spotify.com/track/5JSFU5hWDTcd7eqpvCwYkV)** by **mikeycyrus** *(2cb)*
 🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
-🎤 **[doki doki suicide <3](https://open.spotify.com/track/3v2BcOLtHKtY4Pf663wTFz)** by **cholorofilm** *(doki doki suicide <3)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-08-31 07:10:54Z UTC
+🕐 Last updated: 2025-08-31 07:25:40Z UTC
 <!-- SPOTIFY-END -->
