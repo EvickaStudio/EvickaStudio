@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738dd5d6d4f19768d6812324e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273852ad5d79941de06639ec637" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)**
-*by* **crusey, trustt**
-*Album:* what u need
+**🎵 [roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)**
+*by* **Tamino404**
+*Album:* roter knopf
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:03
+    0:33 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[masochism](https://open.spotify.com/track/6CflnNe4Ucl2pSJQgcupGe)** by **cholorofilm** *(masochism)*
-🎤 **[in ma hometown](https://open.spotify.com/track/0WOhQPmDGKnvaSwlgzNuON)** by **Kroka Koka, mon€** *(Dagestan Dreams)*
-🎤 **[I Reap What I Sow](https://open.spotify.com/track/3hDfIZbDoYpkYFqvxQlodi)** by **aftrr!** *(aftrrLife)*
-🎤 **[shabby boy](https://open.spotify.com/track/26zGzGqorC3UhQuRaIzDo6)** by **Instantcrashh, Rebzyyx** *(shabby boy)*
-🎤 **[pretend](https://open.spotify.com/track/5hxQaMhUUnu2HXEvKKBXW3)** by **crusey, isai** *(pretend)*
+🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
+🎤 **[fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)** by **stixz** *(fashionscars)*
+🎤 **[/white/beatles/](https://open.spotify.com/track/1rNF0JNZm9vDbsSejtaxmW)** by **Kroka Koka** *(wien city II)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **snor, Mezha, mayh3mp** *(hold me down)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 16:14:39Z UTC
+🕐 Last updated: 2025-09-01 16:37:17Z UTC
 <!-- SPOTIFY-END -->
