@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc372dae933775bef78a2c62" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273db6447d8a3e0b768dfcab975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)**
+**🎵 [Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)**
 *by* **Soothing Oasis**
-*Album:* Evening
+*Album:* Weightless
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:08
+    0:06 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Seize the Moment](https://open.spotify.com/track/0iiyGbXacbDWiIcy0XKpah)** by **Soothing Oasis** *(Moments)*
+🎤 **[Napping](https://open.spotify.com/track/0pJNu3ympVpaH9myxrB5YP)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Golden Grain](https://open.spotify.com/track/62VaU1bdUhIp6JkCvGrbBt)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)** by **Soothing Oasis** *(Evening)*
 🎤 **[Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Dreams](https://open.spotify.com/track/58sNPwG5jbenC6RElZePxD)** by **Avery's Ambient** *(Night Bloom)*
-🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Daylight Fades Away](https://open.spotify.com/track/61HGXhzV7OHCVMdRaqBaxY)** by **Soothing Oasis** *(Earth at Rest)*
-🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-01 23:27:06Z UTC
+🕐 Last updated: 2025-09-01 23:36:34Z UTC
 <!-- SPOTIFY-END -->
