@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27322bd9de3d387c4b8a66ebba9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fac7e02db331a41fc546eee1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)**
-*by* **mint**
-*Album:* stay with me
+**🎵 [blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)**
+*by* **luu, Skatey Hellstar**
+*Album:* blister
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:49
+    0:48 • 1:43
 </span>
 </p>
 
@@ -132,18 +132,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[ur so awful](https://open.spotify.com/track/6WfDWl2xRs6unO3aQJHmIK)** by **disoc8, luvwillow** *(ur so awful)*
-🎤 **[2much4u](https://open.spotify.com/track/7wBP6ZVmjyRVrBS3Pbg0Jz)** by **Fijimar, kets4eki** *(2much4u)*
-🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
+🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
+🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
+🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥇 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🏅 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 19:09:43Z UTC
+🕐 Last updated: 2025-09-01 19:23:01Z UTC
 <!-- SPOTIFY-END -->
