@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273db6447d8a3e0b768dfcab975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aac8f690eb8be4edaf21ef6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)**
-*by* **Soothing Oasis**
-*Album:* Weightless
+**🎵 [Peeking Through](https://open.spotify.com/track/2pS316eadABbkZZIhERQbE)**
+*by* **Avery's Ambient**
+*Album:* Awakening Earth
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="15" height="4" fill="#1db954" rx="2"/>
-    <circle cx="15" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:05
+    0:45 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Seize the Moment](https://open.spotify.com/track/0iiyGbXacbDWiIcy0XKpah)** by **Soothing Oasis** *(Moments)*
-🎤 **[Napping](https://open.spotify.com/track/0pJNu3ympVpaH9myxrB5YP)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Golden Grain](https://open.spotify.com/track/62VaU1bdUhIp6JkCvGrbBt)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)** by **Soothing Oasis** *(Evening)*
-🎤 **[Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Midnight Garden](https://open.spotify.com/track/40JTdS1Hj2XmHMwZwCuOFT)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Vision](https://open.spotify.com/track/1907SqFd2xCqmYdkjGWLQS)** by **Soothing Oasis** *(Dreaming)*
+🎤 **[Night Breeze](https://open.spotify.com/track/7i7WGaF9qTWs70HJyLNybu)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)** by **Soothing Oasis** *(Weightless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-01 23:36:34Z UTC
+🕐 Last updated: 2025-09-01 23:47:48Z UTC
 <!-- SPOTIFY-END -->
