@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3848095c903b30f969d8fcf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27322bd9de3d387c4b8a66ebba9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)**
-*by* **ilymeow, Chicken Lover, 6778**
-*Album:* haunt me:33
+**🎵 [stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)**
+*by* **mint**
+*Album:* stay with me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="295" height="4" fill="#1db954" rx="2"/>
-    <circle cx="295" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 2:23
+    1:44 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bunny](https://open.spotify.com/track/7FopCTc5OaK5HT7fMYzCAc)** by **Senses** *(Bunny)*
-🎤 **[superstars](https://open.spotify.com/track/4ttbOgP7fHj7O344S84zh5)** by **Mezha, snor** *(superstars)*
-🎤 **[everything](https://open.spotify.com/track/6kJbdT1t3vpPVbtmWLg7UU)** by **memorie** *(everything)*
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
-🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
+🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
+🎤 **[ur so awful](https://open.spotify.com/track/6WfDWl2xRs6unO3aQJHmIK)** by **disoc8, luvwillow** *(ur so awful)*
+🎤 **[2much4u](https://open.spotify.com/track/7wBP6ZVmjyRVrBS3Pbg0Jz)** by **Fijimar, kets4eki** *(2much4u)*
+🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 18:52:42Z UTC
+🕐 Last updated: 2025-09-01 19:09:43Z UTC
 <!-- SPOTIFY-END -->
