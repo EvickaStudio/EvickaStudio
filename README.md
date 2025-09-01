@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f4f9309737a37355ae60145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e1add9eaf7e479f45633b8a1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)**
-*by* **ilymeow**
-*Album:* heal!!
+**🎵 [selfdestruct](https://open.spotify.com/track/4wHe2az2RBZGgj6HbGXfrl)**
+*by* **Senses**
+*Album:* selfdestruct
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:49 • 1:36
+    1:47 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
-🎤 **[MONSTER](https://open.spotify.com/track/7rSEBRnvc0QvdCTp90uAEj)** by **Shoto** *(MONSTER)*
-🎤 **[Trap Academy - Dan Larkin Remix](https://open.spotify.com/track/2oq8UNXhKHx0oqpJModgmP)** by **pradaaslife, Dan Larkin** *(Trap Academy (Dan Larkin Remix))*
-🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
-🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
+🎤 **[blossom](https://open.spotify.com/track/1oSlcqSHvKD3ElznGs1pkj)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[sub N dom](https://open.spotify.com/track/7uwhZ79IkCfFXGQukqAffQ)** by **pink luu, cxpyyy, luu** *(0800-111-0-222)*
+🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[terrifier](https://open.spotify.com/track/6mUVSg3wrJXhC09UuljaLf)** by **disoc8, Gutzxx** *(terrifier)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 16:51:00Z UTC
+🕐 Last updated: 2025-09-01 17:10:08Z UTC
 <!-- SPOTIFY-END -->
