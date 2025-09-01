@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273865319e1ef1e19ab4af9e6ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)**
-*by* **Bladee**
-*Album:* Eversince
+**🎵 [dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)**
+*by* **m1nutes**
+*Album:* dumb
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="184" height="4" fill="#1db954" rx="2"/>
-    <circle cx="184" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 3:15
+    0:19 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[powerless](https://open.spotify.com/track/7yeCJsNY9QIa78Ue7Gky3c)** by **Senses, remghost** *(powerless)*
-🎤 **[high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)** by **Fijimar, slatepsycho** *(high)*
-🎤 **[nighttime](https://open.spotify.com/track/4MwQdu5NoCApVAPRq6oqOL)** by **Mezha** *(nighttime)*
-🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
-🎤 **[Look Back](https://open.spotify.com/track/1LbV3Ce5EjWibZ3bxj2z1h)** by **503scoob, luvhex, Pearlblade** *(Look Back)*
+🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[Icebox](https://open.spotify.com/track/0wVBNEAeTotbFBdpp5kuub)** by **Dj Billybool** *(My Fantasy World)*
+🎤 **[control yourselfv2](https://open.spotify.com/track/5a5fGeDnz1gWYgFeRWjQRD)** by **caponeti** *(control yourselfv2)*
+🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-01 06:20:58Z UTC
+🕐 Last updated: 2025-09-01 06:50:53Z UTC
 <!-- SPOTIFY-END -->
