@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27315e97b2ef325817d2f912c25" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e606c08a83d5cb566f69fe9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)**
-*by* **may, mymy, wenszy**
-*Album:* to the stars
+**🎵 [end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)**
+*by* **mint**
+*Album:* end this
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 2:09
+    0:48 • 1:56
 </span>
 </p>
 
@@ -132,18 +132,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[Final:life](https://open.spotify.com/track/3KSqGh0MLscAZBvpg4s3jT)** by **MUNZi, yuri63k, kairo6k** *(Final:life)*
-🎤 **[I Reap What I Sow](https://open.spotify.com/track/3hDfIZbDoYpkYFqvxQlodi)** by **aftrr!** *(aftrrLife)*
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
-🎤 **[tonight](https://open.spotify.com/track/6SbknQrVd8sTPJ7pgSlSPX)** by **Fijimar** *(tonight)*
-🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
+🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
+🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[transylvania](https://open.spotify.com/track/3JiRFZZXig8sAOxZwI8eIt)** by **snor, cy4ne, Luvsick2k, cholorofilm** *(transylvania)*
+🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
 🏅 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
@@ -153,11 +153,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
-🥈 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
-🥉 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🥈 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🥉 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 18:16:43Z UTC
+🕐 Last updated: 2025-09-01 18:43:57Z UTC
 <!-- SPOTIFY-END -->
