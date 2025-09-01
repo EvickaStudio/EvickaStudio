@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733fb441b0081f45419366c87a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739ce27ea04a5089c1ca3847b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LEAVE ME D HELL ALONE!!!!](https://open.spotify.com/track/5heGjTvyI0HCEVLAhuSOVU)**
-*by* **syverina**
-*Album:* LEAVE ME D HELL ALONE!!!!
+**🎵 [insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)**
+*by* **cholorofilm**
+*Album:* insomnia #sleepclinic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
+    <rect width="291" height="4" fill="#1db954" rx="2"/>
+    <circle cx="291" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 1:39
+    2:16 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
-🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
-🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
+🎤 **[why me](https://open.spotify.com/track/37dFTC2Kts5AYfucHGQB12)** by **Senses** *(why me)*
+🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
+🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
+🎤 **[kein problem...](https://open.spotify.com/track/0X7DDmVzJqtuCehGEJ7q3c)** by **luu, iwannabemissed** *(immenser pflegefall)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 15:12:17Z UTC
+🕐 Last updated: 2025-09-01 15:29:47Z UTC
 <!-- SPOTIFY-END -->
