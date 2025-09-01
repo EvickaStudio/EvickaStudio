@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273852ad5d79941de06639ec637" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f4f9309737a37355ae60145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)**
-*by* **Tamino404**
-*Album:* roter knopf
+**🎵 [heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)**
+*by* **ilymeow**
+*Album:* heal!!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="75" height="4" fill="#1db954" rx="2"/>
-    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:11
+    0:49 • 1:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
-🎤 **[fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)** by **stixz** *(fashionscars)*
-🎤 **[/white/beatles/](https://open.spotify.com/track/1rNF0JNZm9vDbsSejtaxmW)** by **Kroka Koka** *(wien city II)*
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
-🎤 **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **snor, Mezha, mayh3mp** *(hold me down)*
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
+🎤 **[MONSTER](https://open.spotify.com/track/7rSEBRnvc0QvdCTp90uAEj)** by **Shoto** *(MONSTER)*
+🎤 **[Trap Academy - Dan Larkin Remix](https://open.spotify.com/track/2oq8UNXhKHx0oqpJModgmP)** by **pradaaslife, Dan Larkin** *(Trap Academy (Dan Larkin Remix))*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 16:37:17Z UTC
+🕐 Last updated: 2025-09-01 16:51:00Z UTC
 <!-- SPOTIFY-END -->
