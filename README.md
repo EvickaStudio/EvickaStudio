@@ -107,7 +107,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273687c0e89d578b39c601a9123" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)**
+*by* **Bloc Party**
+*Album:* A Weekend In the City
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:19 • 3:37
+</span>
+</p>
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 10:50:53Z UTC
+🕐 Last updated: 2025-09-01 11:10:48Z UTC
 <!-- SPOTIFY-END -->
