@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27317bba24a6a15d128714fe2c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27374f16307750bd9c8de2fb404" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)**
-*by* **bliiiss**
-*Album:* when u called
+**🎵 [victim](https://open.spotify.com/track/4qfGcjrg4MW3CYy5LU9RTn)**
+*by* **Senses**
+*Album:* victim
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="97" height="4" fill="#1db954" rx="2"/>
-    <circle cx="97" cy="2" r="6" fill="#1db954"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 2:40
+    1:36 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
-🎤 **[vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)** by **angelicxmei** *(vision)*
-🎤 **[Cold](https://open.spotify.com/track/0h9EjkHs6OhK1ADBDSFcEO)** by **Senses, oaf1** *(Cold)*
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
+🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
+🎤 **[liar liar](https://open.spotify.com/track/4Gtz7Iw3JAiwQIGfqeUP56)** by **memorie** *(liar liar)*
+🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
+🎤 **[glasscastle](https://open.spotify.com/track/1w9vuP0YV3cEGXwPxQ9i6d)** by **vai5000, i9bonsai** *(glasscastle)*
+🎤 **[waiting for u](https://open.spotify.com/track/6nfb0VN7YggKcu4CGt3yPJ)** by **skypebf, 2040x2040** *(#waitforme)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 14:32:02Z UTC
+🕐 Last updated: 2025-09-01 14:48:35Z UTC
 <!-- SPOTIFY-END -->
