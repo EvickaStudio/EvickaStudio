@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e35a53286a3a2fdba75b0d87" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d060318e0c8cb5730a215386" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kava Kava](https://open.spotify.com/track/2JXHfmTLq2oIbq3i9NeAIq)**
-*by* **Kroka Koka**
-*Album:* Vienna Videos
+**🎵 [...And So It Was](https://open.spotify.com/track/5P45rIpV682KkvtZjZtuwB)**
+*by* **$uicideboy$, Black Smurf**
+*Album:* Black $uicide
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="1" height="4" fill="#1db954" rx="2"/>
-    <circle cx="1" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:00 • 1:38
+    1:51 • 4:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[Ginseng Glock 05](https://open.spotify.com/track/4hhhjjtbiClKeaYd77Y5tJ)** by **Kroka Koka** *(Vindobona)*
-🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[wanna go back](https://open.spotify.com/track/6FRX0d3fzz70Cgu0Btsm4f)** by **alleycat** *(wanna go back)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 09:15:22Z UTC
+🕐 Last updated: 2025-09-01 09:41:02Z UTC
 <!-- SPOTIFY-END -->
