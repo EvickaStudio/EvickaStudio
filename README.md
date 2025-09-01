@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ce27ea04a5089c1ca3847b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373ab77385e0dae0510d13cbc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)**
-*by* **cholorofilm**
-*Album:* insomnia #sleepclinic
+**🎵 [let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)**
+*by* **Senses, mint**
+*Album:* let go of me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:20
+    1:57 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[why me](https://open.spotify.com/track/37dFTC2Kts5AYfucHGQB12)** by **Senses** *(why me)*
-🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
-🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
-🎤 **[kein problem...](https://open.spotify.com/track/0X7DDmVzJqtuCehGEJ7q3c)** by **luu, iwannabemissed** *(immenser pflegefall)*
-🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[HELLO KITTY CAMO](https://open.spotify.com/track/5vGSedoWfk3bR2ikmwVNaL)** by **disoc8** *(HELLO KITTY CAMO)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
+🎤 **[All-2u](https://open.spotify.com/track/111XuxqfX5uZkpSeCgmmet)** by **MUNZi** *(All-2u)*
+🎤 **[insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)** by **cholorofilm** *(insomnia #sleepclinic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 15:29:47Z UTC
+🕐 Last updated: 2025-09-01 15:40:31Z UTC
 <!-- SPOTIFY-END -->
