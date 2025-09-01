@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27321092a950bcd0f2ee5cc6dc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c656f3fa869a7d5f75c3c8ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)**
+**🎵 [In The Clouds](https://open.spotify.com/track/6QI986D0KQr8E64PYCxDKI)**
 *by* **Avery's Ambient**
-*Album:* Night Bloom
+*Album:* In The Clouds
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:03
+    1:37 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Thoughts Fade Away](https://open.spotify.com/track/7r6hvssnFfdCuydPrBOzOe)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Together With You](https://open.spotify.com/track/4DkZ6zYeshWSTn5zFD6E54)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Absence of Time](https://open.spotify.com/track/5GLUzBg5dUBOdYBdMhWaVg)** by **Avery's Ambient** *(Stillness)*
-🎤 **[Silent Descent](https://open.spotify.com/track/4pgJJ5kdjPLbEYZODHxa2l)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Gentle Rainfall](https://open.spotify.com/track/4Kx5dbO1TEr54gR32Y7nL6)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Moonbeams](https://open.spotify.com/track/2ycVoZ0nLO3oGlotOkpNlA)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Warmth](https://open.spotify.com/track/11Zf57uWFO946gEDshN4GI)** by **Soothing Oasis** *(Embraced)*
+🎤 **[Lingering Voices](https://open.spotify.com/track/2eL0Whi2RrIxKwzwM6FVrf)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Sailing Across the Seas](https://open.spotify.com/track/3JK0dsTw54fYm4uTR77j7g)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)** by **Avery's Ambient** *(Night Bloom)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-01 22:30:11Z UTC
+🕐 Last updated: 2025-09-01 22:41:39Z UTC
 <!-- SPOTIFY-END -->
