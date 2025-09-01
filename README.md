@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731bb404c4a351e4a4290695c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389c7a2794ba1cd8cc2f9ac6b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Faraway Fjord](https://open.spotify.com/track/1nsvj32dpgg8WfulTNKx9c)**
+**🎵 [Sunset Over Sands](https://open.spotify.com/track/7yz7E1e06naSAuwY1FyLO5)**
 *by* **Avery's Ambient**
-*Album:* In the Distance
+*Album:* Ripples in the Sand
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="85" height="4" fill="#1db954" rx="2"/>
-    <circle cx="85" cy="2" r="6" fill="#1db954"/>
+    <rect width="132" height="4" fill="#1db954" rx="2"/>
+    <circle cx="132" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 2:04
+    0:55 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Whispers](https://open.spotify.com/track/4tXrBqfqgO1HYLSeA1Kxk8)** by **Soothing Oasis** *(Beneath the Sky)*
-🎤 **[Through the Fog](https://open.spotify.com/track/3hPBrP0ZbE2hOrZtuVgzg7)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[Soaring Over the Summit](https://open.spotify.com/track/3qFpzdSwBVqnkvcWCnQbiY)** by **Soothing Oasis** *(Weightless)*
-🎤 **[In The Clouds](https://open.spotify.com/track/6QI986D0KQr8E64PYCxDKI)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Moonbeams](https://open.spotify.com/track/2ycVoZ0nLO3oGlotOkpNlA)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Ripples in the Sand](https://open.spotify.com/track/2TSO48VHKAWY5wY0E0eJyx)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Gently Sleeping](https://open.spotify.com/track/0wPjRxEjUgzV1Km5sHZVIp)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Guided by the Light](https://open.spotify.com/track/1poTN3WfvyqdEORoUJOSCO)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Slumbering Earth](https://open.spotify.com/track/24YU2XDJjxtIWigSC5KDdW)** by **Soothing Oasis** *(Earth at Rest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-01 22:49:11Z UTC
+🕐 Last updated: 2025-09-01 23:11:07Z UTC
 <!-- SPOTIFY-END -->
