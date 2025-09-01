@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c546db8d566b17db5427bd99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738dd5d6d4f19768d6812324e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I <3 DRUGS THAT KILL](https://open.spotify.com/track/23GA7huu1HSCdSajoOblat)**
-*by* **disoc8, Bandiicam**
-*Album:* I <3 DRUGS THAT KILL
+**🎵 [what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)**
+*by* **crusey, trustt**
+*Album:* what u need
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:31
+    0:36 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
-🎤 **[self inflicted #trauma](https://open.spotify.com/track/28AvbI0QHku6wn2G7UF6y5)** by **cholorofilm, 1stress** *(self inflicted #trauma)*
-🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
-🎤 **[HELLO KITTY CAMO](https://open.spotify.com/track/5vGSedoWfk3bR2ikmwVNaL)** by **disoc8** *(HELLO KITTY CAMO)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[masochism](https://open.spotify.com/track/6CflnNe4Ucl2pSJQgcupGe)** by **cholorofilm** *(masochism)*
+🎤 **[in ma hometown](https://open.spotify.com/track/0WOhQPmDGKnvaSwlgzNuON)** by **Kroka Koka, mon€** *(Dagestan Dreams)*
+🎤 **[I Reap What I Sow](https://open.spotify.com/track/3hDfIZbDoYpkYFqvxQlodi)** by **aftrr!** *(aftrrLife)*
+🎤 **[shabby boy](https://open.spotify.com/track/26zGzGqorC3UhQuRaIzDo6)** by **Instantcrashh, Rebzyyx** *(shabby boy)*
+🎤 **[pretend](https://open.spotify.com/track/5hxQaMhUUnu2HXEvKKBXW3)** by **crusey, isai** *(pretend)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 15:47:57Z UTC
+🕐 Last updated: 2025-09-01 16:14:39Z UTC
 <!-- SPOTIFY-END -->
