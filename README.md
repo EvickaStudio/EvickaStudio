@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373ab77385e0dae0510d13cbc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c546db8d566b17db5427bd99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)**
-*by* **Senses, mint**
-*Album:* let go of me
+**🎵 [I <3 DRUGS THAT KILL](https://open.spotify.com/track/23GA7huu1HSCdSajoOblat)**
+*by* **disoc8, Bandiicam**
+*Album:* I <3 DRUGS THAT KILL
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="265" height="4" fill="#1db954" rx="2"/>
-    <circle cx="265" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:12
+    2:01 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
+🎤 **[self inflicted #trauma](https://open.spotify.com/track/28AvbI0QHku6wn2G7UF6y5)** by **cholorofilm, 1stress** *(self inflicted #trauma)*
+🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
 🎤 **[HELLO KITTY CAMO](https://open.spotify.com/track/5vGSedoWfk3bR2ikmwVNaL)** by **disoc8** *(HELLO KITTY CAMO)*
 🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
-🎤 **[All-2u](https://open.spotify.com/track/111XuxqfX5uZkpSeCgmmet)** by **MUNZi** *(All-2u)*
-🎤 **[insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)** by **cholorofilm** *(insomnia #sleepclinic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 15:40:31Z UTC
+🕐 Last updated: 2025-09-01 15:47:57Z UTC
 <!-- SPOTIFY-END -->
