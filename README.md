@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e606c08a83d5cb566f69fe9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c3848095c903b30f969d8fcf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)**
-*by* **mint**
-*Album:* end this
+**🎵 [haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)**
+*by* **ilymeow, Chicken Lover, 6778**
+*Album:* haunt me:33
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
+    <rect width="295" height="4" fill="#1db954" rx="2"/>
+    <circle cx="295" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 1:56
+    2:21 • 2:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Bunny](https://open.spotify.com/track/7FopCTc5OaK5HT7fMYzCAc)** by **Senses** *(Bunny)*
+🎤 **[superstars](https://open.spotify.com/track/4ttbOgP7fHj7O344S84zh5)** by **Mezha, snor** *(superstars)*
+🎤 **[everything](https://open.spotify.com/track/6kJbdT1t3vpPVbtmWLg7UU)** by **memorie** *(everything)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
 🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
-🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
-🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
-🎤 **[transylvania](https://open.spotify.com/track/3JiRFZZXig8sAOxZwI8eIt)** by **snor, cy4ne, Luvsick2k, cholorofilm** *(transylvania)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 18:43:57Z UTC
+🕐 Last updated: 2025-09-01 18:52:42Z UTC
 <!-- SPOTIFY-END -->
