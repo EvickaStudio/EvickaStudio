@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7935e8af93f3927f2ac0053" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27315e97b2ef325817d2f912c25" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)**
-*by* **pink luu, Kroka Koka, xtatus**
-*Album:* lieblingspferd
+**🎵 [to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)**
+*by* **may, mymy, wenszy**
+*Album:* to the stars
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="203" height="4" fill="#1db954" rx="2"/>
-    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 1:43
+    0:26 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[Final:life](https://open.spotify.com/track/3KSqGh0MLscAZBvpg4s3jT)** by **MUNZi, yuri63k, kairo6k** *(Final:life)*
+🎤 **[I Reap What I Sow](https://open.spotify.com/track/3hDfIZbDoYpkYFqvxQlodi)** by **aftrr!** *(aftrrLife)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[tonight](https://open.spotify.com/track/6SbknQrVd8sTPJ7pgSlSPX)** by **Fijimar** *(tonight)*
+🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 17:47:38Z UTC
+🕐 Last updated: 2025-09-01 18:16:43Z UTC
 <!-- SPOTIFY-END -->
