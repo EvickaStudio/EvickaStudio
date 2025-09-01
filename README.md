@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273865319e1ef1e19ab4af9e6ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)**
-*by* **m1nutes**
-*Album:* dumb
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:07
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
-🎤 **[Icebox](https://open.spotify.com/track/0wVBNEAeTotbFBdpp5kuub)** by **Dj Billybool** *(My Fantasy World)*
-🎤 **[control yourselfv2](https://open.spotify.com/track/5a5fGeDnz1gWYgFeRWjQRD)** by **caponeti** *(control yourselfv2)*
-🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
+🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
+🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
+🎤 **[CUTE](https://open.spotify.com/track/7K4v22IbW4FnoisSFsFCSM)** by **dxnkwer** *(CUTE)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-01 06:50:53Z UTC
+🕐 Last updated: 2025-09-01 07:14:11Z UTC
 <!-- SPOTIFY-END -->
