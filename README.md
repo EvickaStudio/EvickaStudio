@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273434865d23c617bb7acba085a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a011354e9d50476a59b00f45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)**
-*by* **mint**
-*Album:* time keeps flying by
+**🎵 [honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)**
+*by* **angelicxmei**
+*Album:* honestly
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="108" height="4" fill="#1db954" rx="2"/>
-    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:02
+    1:56 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
+🎤 **[Zelda](https://open.spotify.com/track/29ctHNyrmG2gq7F2xhyLeO)** by **Kroka Koka** *(Vienna Videos)*
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[control yourselfv2](https://open.spotify.com/track/5a5fGeDnz1gWYgFeRWjQRD)** by **caponeti** *(control yourselfv2)*
+🎤 **[always pick u #avemaria </33 :c](https://open.spotify.com/track/685BOlLQqqLeHeEdfMbl6m)** by **snor, Myojin, cholorofilm** *(always pick u #avemaria </33 :c)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 13:50:17Z UTC
+🕐 Last updated: 2025-09-01 14:12:17Z UTC
 <!-- SPOTIFY-END -->
