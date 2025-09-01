@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27392106c1ae3a6d88ebd6f42f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273999a0eee5c7a5762e4cd325b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)**
-*by* **3DOKI**
-*Album:* MIX'IT
+**🎵 [Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)**
+*by* **Somewhere Special**
+*Album:* Playground
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:01
+    1:37 • 3:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[The Party](https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd)** by **Portraits Of Tracy** *(The Party)*
-🎤 **[drifting](https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR)** by **Night Tapes** *(drifting)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[without you.](https://open.spotify.com/track/0giFwZsDiXt1VjyZSSTSUV)** by **SHEMYYY** *(without you.)*
+🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
+🎤 **[The Phobia](https://open.spotify.com/track/15SFToi5Tlg29sL35y2uYu)** by **Dalhaus, SILICONE VALLEY** *(The Phobia)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
+🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 12:25:28Z UTC
+🕐 Last updated: 2025-09-01 13:04:03Z UTC
 <!-- SPOTIFY-END -->
