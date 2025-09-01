@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e1add9eaf7e479f45633b8a1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cef7093c01e0051dd77945f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [selfdestruct](https://open.spotify.com/track/4wHe2az2RBZGgj6HbGXfrl)**
-*by* **Senses**
-*Album:* selfdestruct
+**🎵 [(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)**
+*by* **agelast222**
+*Album:* (SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
+    <rect width="130" height="4" fill="#1db954" rx="2"/>
+    <circle cx="130" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:07
+    0:38 • 1:28
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[blossom](https://open.spotify.com/track/1oSlcqSHvKD3ElznGs1pkj)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[sub N dom](https://open.spotify.com/track/7uwhZ79IkCfFXGQukqAffQ)** by **pink luu, cxpyyy, luu** *(0800-111-0-222)*
-🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[terrifier](https://open.spotify.com/track/6mUVSg3wrJXhC09UuljaLf)** by **disoc8, Gutzxx** *(terrifier)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[shattered in glamour](https://open.spotify.com/track/3OYxAyOuXr7ptGXYLVoqqJ)** by **cholorofilm** *(shattered in glamour)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-01 17:10:08Z UTC
+🕐 Last updated: 2025-09-01 17:27:15Z UTC
 <!-- SPOTIFY-END -->
