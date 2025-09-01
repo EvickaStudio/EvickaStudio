@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389c7a2794ba1cd8cc2f9ac6b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bc372dae933775bef78a2c62" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sunset Over Sands](https://open.spotify.com/track/7yz7E1e06naSAuwY1FyLO5)**
-*by* **Avery's Ambient**
-*Album:* Ripples in the Sand
+**🎵 [Evening](https://open.spotify.com/track/4VnSOlxnjphjecbuAgxQ7r)**
+*by* **Soothing Oasis**
+*Album:* Evening
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="132" height="4" fill="#1db954" rx="2"/>
-    <circle cx="132" cy="2" r="6" fill="#1db954"/>
+    <rect width="266" height="4" fill="#1db954" rx="2"/>
+    <circle cx="266" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:05
+    1:54 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ripples in the Sand](https://open.spotify.com/track/2TSO48VHKAWY5wY0E0eJyx)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Gently Sleeping](https://open.spotify.com/track/0wPjRxEjUgzV1Km5sHZVIp)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Guided by the Light](https://open.spotify.com/track/1poTN3WfvyqdEORoUJOSCO)** by **Soothing Oasis** *(Dream Realm)*
-🎤 **[Stream](https://open.spotify.com/track/0MqWNTjVpaIBn6ctLTjKsM)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Slumbering Earth](https://open.spotify.com/track/24YU2XDJjxtIWigSC5KDdW)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Dreams](https://open.spotify.com/track/58sNPwG5jbenC6RElZePxD)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Daylight Fades Away](https://open.spotify.com/track/61HGXhzV7OHCVMdRaqBaxY)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-01 23:11:07Z UTC
+🕐 Last updated: 2025-09-01 23:27:06Z UTC
 <!-- SPOTIFY-END -->
