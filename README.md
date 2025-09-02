@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f1bca68a4c0f169c5a4a26d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2969003e71afccd7cbe50c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)**
-*by* **pink luu, Vee4r**
-*Album:* sacrifice
+**🎵 [come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)**
+*by* **RudeClub**
+*Album:* come down
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 2:09
+    0:16 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
-🎤 **[everything](https://open.spotify.com/track/6kJbdT1t3vpPVbtmWLg7UU)** by **memorie** *(everything)*
-🎤 **[Bunny](https://open.spotify.com/track/7FopCTc5OaK5HT7fMYzCAc)** by **Senses** *(Bunny)*
-🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[no love](https://open.spotify.com/track/0Tj4hbwEYn8IjP8mg4ozjW)** by **memorie** *(no love)*
+🎤 **[day by day](https://open.spotify.com/track/4c909Xn4pVv5rA4jkH4JoA)** by **Senses, mint** *(fairies have dreams too)*
+🎤 **[just4fun.com](https://open.spotify.com/track/1VzVsz728rJJCbZgwCLqKU)** by **wenszy, ijack** *(just4fun.com)*
+🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
+🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 17:38:12Z UTC
+🕐 Last updated: 2025-09-02 17:47:45Z UTC
 <!-- SPOTIFY-END -->
