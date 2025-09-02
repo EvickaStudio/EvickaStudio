@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27308653b43bdf9f4a8e0c6213f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27397adf509e6f57c373c316738" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [you're my friend now](https://open.spotify.com/track/0KOqL8ySnRsmNvOg9JYLoo)**
-*by* **usedcvnt, DXRKWRLD**
-*Album:* ultraviolet
+**🎵 [poolroom requiem](https://open.spotify.com/track/1GrGm6vExsf9cO7lg6xPDE)**
+*by* **Puhf**
+*Album:* unlucky
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:23
+    0:26 • 3:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Gotham Love](https://open.spotify.com/track/76o3swrJKdlvBCm8PRbCYE)** by **BAKGROUND** *(LT-GLOBE-XXX)*
-🎤 **[Virtual Tears](https://open.spotify.com/track/3dJWb4uVmVwvFBvNHSdUkR)** by **TOKYOPILL** *(Virtual Tears)*
-🎤 **[Death Of The Endless](https://open.spotify.com/track/75bJ6QHxOxVSZrfXnc20WT)** by **Cynthoni, Sewerslvt** *(Sewerslvt Presents: Cynthoni, Pt. 1)*
-🎤 **[Let Me Go](https://open.spotify.com/track/4kYcm97DhNJdN8aRF6I4TI)** by **Yung Lain** *(Let Me Go)*
-🎤 **[OVERLOOMING](https://open.spotify.com/track/6wp6LhPlfDGMbIKbjfu62J)** by **Puhf** *(OVERLOOMING)*
+🎤 **[whatever](https://open.spotify.com/track/1qs7Kc3eCcVyhuiNiYASkz)** by **Sewerslvt** *(we had good times together, don't forget that)*
+🎤 **[outer heaven](https://open.spotify.com/track/2CvX3oiTKGzeg6Xs3PHGUj)** by **mindvacy** *(outer heaven)*
+🎤 **[cyber witchcraft](https://open.spotify.com/track/4MrRSTGi8NiCLkjoxsWEpb)** by **4evrx** *(WITCHCLUB GRIMOIRE, Pt. 1)*
+🎤 **[143 ways to lose urself](https://open.spotify.com/track/0WVwOSGn9J8Ccq5wuBDLmJ)** by **usedcvnt** *(ultraviolet)*
+🎤 **[SR20DET](https://open.spotify.com/track/1w2JVwXoFWhjvh1Bh33Y8O)** by **Blksmiith** *(「DIGITAL TWIN」)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 13:03:49Z UTC
+🕐 Last updated: 2025-09-02 13:38:58Z UTC
 <!-- SPOTIFY-END -->
