@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731962f93608e2ee7cdd929825" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735dc2c6bdbd53109df134192c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)**
-*by* **Fijimar, slatepsycho**
-*Album:* high
+**🎵 [broken, bleeding](https://open.spotify.com/track/6s85AV45ADb4HWXpXUq5Rr)**
+*by* **memorie**
+*Album:* broken, bleeding
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="85" height="4" fill="#1db954" rx="2"/>
-    <circle cx="85" cy="2" r="6" fill="#1db954"/>
+    <rect width="213" height="4" fill="#1db954" rx="2"/>
+    <circle cx="213" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:23
+    1:49 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[limelight](https://open.spotify.com/track/4GO2hWbvsC2XIVmh4AvpR0)** by **Senses, SEBii** *(limelight)*
-🎤 **[Bdsm](https://open.spotify.com/track/3kQ6QVJ0WWThVVOFhGFNJz)** by **503scoob, elctrnc/sed:/, Rynxia** *(Bdsm)*
-🎤 **[nothing left to prove](https://open.spotify.com/track/3P1QfegIsnfudOp0wNjOiT)** by **kruu, mymy** *(love's not war)*
-🎤 **[12022021](https://open.spotify.com/track/5dpfKulC2MYCRiL8t6I3Vs)** by **joss lockwood, boysinblush** *(12022021)*
-🎤 **[i miss the old times](https://open.spotify.com/track/0owSGAefVFWKpC8JQcSzJ1)** by **Capoxxo** *(i miss the old times)*
+🎤 **[my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)** by **cholorofilm** *(my heart :()*
+🎤 **[CRESTFALLEN](https://open.spotify.com/track/6IBzfBPF8PbUMdAEXGcI47)** by **syverina** *(CRESTFALLEN)*
+🎤 **[Butterfly](https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp)** by **nomu.** *(Butterfly)*
+🎤 **[worst of all](https://open.spotify.com/track/5BjOLOZnRULKVOzdyo8ElW)** by **kuudere** *(worst of all)*
+🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 21:09:58Z UTC
+🕐 Last updated: 2025-09-02 21:24:59Z UTC
 <!-- SPOTIFY-END -->
