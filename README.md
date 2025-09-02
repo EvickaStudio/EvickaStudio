@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273647e8069c98c7b23b6c80648" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Mr. Kill Myself](https://open.spotify.com/track/3KBsdO1rkM9O0QASfvoA38)**
+*by* **Sewerslvt**
+*Album:* Draining Love Story
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:40 • 7:51
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[i need you to kill me](https://open.spotify.com/track/1SOd4oOtOnBQp3srNRtR9f)** by **Puhf, mud2002** *(i need you to kill me)*
+🎤 **[daydreamer](https://open.spotify.com/track/1JGTPfXfHIpyWjh7akG4NP)** by **Enkei, SPURME** *(spirals and that damn flower)*
+🎤 **[idontloveyouanymore](https://open.spotify.com/track/2TycjTMzrFcLOpqM5AqEw9)** by **Puhf** *(idontloveyouanymore)*
 🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
 🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
-🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 09:32:38Z UTC
+🕐 Last updated: 2025-09-02 09:47:54Z UTC
 <!-- SPOTIFY-END -->
