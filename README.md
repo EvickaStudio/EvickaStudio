@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f483f809dc901fa7ed8157d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [did I give you love](https://open.spotify.com/track/4EshJxgz6RMKcqu4kX65bE)**
-*by* **Psych**
-*Album:* did I give you love
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 2:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[did I give you love](https://open.spotify.com/track/4EshJxgz6RMKcqu4kX65bE)** by **Psych** *(did I give you love)*
 🎤 **[manic](https://open.spotify.com/track/1WS7J9zlaEUUA1EQZUenWz)** by **seph, Tera, trustt** *(manic)*
 🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
 🎤 **[victim](https://open.spotify.com/track/4qfGcjrg4MW3CYy5LU9RTn)** by **Senses** *(victim)*
-🎤 **[broken, bleeding](https://open.spotify.com/track/6s85AV45ADb4HWXpXUq5Rr)** by **memorie** *(broken, bleeding)*
-🎤 **[my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)** by **cholorofilm** *(my heart :()*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 21:33:52Z UTC
+🕐 Last updated: 2025-09-02 21:47:56Z UTC
 <!-- SPOTIFY-END -->
