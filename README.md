@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6baa3dfd144bfeb237fc55a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In the Mist](https://open.spotify.com/track/3hLD6Xv985SnPkFJ9lwyo4)**
-*by* **Soothing Oasis**
-*Album:* Beneath the Sky
+**🎵 [Wrapped in Blue](https://open.spotify.com/track/17AT5ZPQFd7IFsv18O2FoB)**
+*by* **Avery's Ambient**
+*Album:* Everglow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:06
+    1:24 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Soft Sigh](https://open.spotify.com/track/6IoIeRoe3zPxLkAsFzFLH5)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
-🎤 **[Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Lunar Glow](https://open.spotify.com/track/2YY1kpNIwQKvfH6EBR76SB)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Setting Sun](https://open.spotify.com/track/60n6ErHlWuhVys1pgG6NOv)** by **Soothing Oasis** *(Evening)*
+🎤 **[Peaceful Skies](https://open.spotify.com/track/4T317D8kCVdPbqmsUdDA89)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[Moments](https://open.spotify.com/track/2avWl6QskQvfPZxj42CA5Q)** by **Soothing Oasis** *(Moments)*
+🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Willow Trees](https://open.spotify.com/track/23q0mUMfUE8vZjoK02Sokx)** by **Soothing Oasis** *(Breathing Forest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 02:37:32Z UTC
+🕐 Last updated: 2025-09-02 03:28:30Z UTC
 <!-- SPOTIFY-END -->
