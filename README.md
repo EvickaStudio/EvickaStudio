@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a621fa892e382f2d925267bc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731962f93608e2ee7cdd929825" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [closer](https://open.spotify.com/track/40j3STepvzvwYiLNwMiZjS)**
-*by* **joss lockwood**
-*Album:* closer
+**🎵 [high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)**
+*by* **Fijimar, slatepsycho**
+*Album:* high
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="85" height="4" fill="#1db954" rx="2"/>
+    <circle cx="85" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 2:51
+    0:41 • 2:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[finally free](https://open.spotify.com/track/0U4oz0kTzdonnbpEjpe55d)** by **d1v** *(finally free)*
-🎤 **[Bleib wie du bist](https://open.spotify.com/track/2u89J9g0D0Pxp8EqmjAGoA)** by **ystn, Keigo, prttyblu** *(Bleib wie du bist)*
-🎤 **[When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)** by **Psych** *(When you needed me most)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
+🎤 **[limelight](https://open.spotify.com/track/4GO2hWbvsC2XIVmh4AvpR0)** by **Senses, SEBii** *(limelight)*
+🎤 **[Bdsm](https://open.spotify.com/track/3kQ6QVJ0WWThVVOFhGFNJz)** by **503scoob, elctrnc/sed:/, Rynxia** *(Bdsm)*
+🎤 **[nothing left to prove](https://open.spotify.com/track/3P1QfegIsnfudOp0wNjOiT)** by **kruu, mymy** *(love's not war)*
+🎤 **[12022021](https://open.spotify.com/track/5dpfKulC2MYCRiL8t6I3Vs)** by **joss lockwood, boysinblush** *(12022021)*
+🎤 **[i miss the old times](https://open.spotify.com/track/0owSGAefVFWKpC8JQcSzJ1)** by **Capoxxo** *(i miss the old times)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 20:47:47Z UTC
+🕐 Last updated: 2025-09-02 21:09:58Z UTC
 <!-- SPOTIFY-END -->
