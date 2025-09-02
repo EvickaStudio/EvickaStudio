@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27393825eb3a89668613324b04f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
-*by* **mint**
-*Album:* gold
+**🎵 [one shot](https://open.spotify.com/track/4RvjRo8SUErh5mcoBE4AlX)**
+*by* **crusey, 1crusafix**
+*Album:* one shot
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:45 • 3:51
+    1:46 • 2:01
 </span>
 </p>
 
@@ -132,21 +132,21 @@
 
 ### 📜 Recently Played
 
-🎤 **[6th Grade](https://open.spotify.com/track/6DF8g7aLjPYkoVqfVPkE1n)** by **Kroka Koka** *(Vienna Videos)*
-🎤 **[undercover](https://open.spotify.com/track/4Nu7VrBPe77XFVq3oaDgzf)** by **Senses** *(undercover)*
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
-🎤 **[u used to](https://open.spotify.com/track/2p0eNuWMYAlaJYHfgk9ewT)** by **MUNZi, kairo6k, datealyfe** *(u used to)*
-🎤 **[pretty](https://open.spotify.com/track/67lQwBDkefTkD2uBSJF93p)** by **vai5000** *(sensory.)*
+🎤 **[GPU](https://open.spotify.com/track/4sEaCcKtU4PkrzGa0MmWnY)** by **Senses** *(GPU)*
+🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
+🎤 **[7eventeen](https://open.spotify.com/track/4NCrPKeiLYFO4fKfd5wtK4)** by **MUNZi, kairo6k, yuri63k** *(7eventeen)*
+🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**Soothing Oasis**](https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr)
-🏅 [**Zedd**](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 06:48:45Z UTC
+🕐 Last updated: 2025-09-02 07:12:45Z UTC
 <!-- SPOTIFY-END -->
