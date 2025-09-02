@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
-*by* **blombi19, 2dizzy**
-*Album:* medikament
+**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
+*by* **mint**
+*Album:* help me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="78" height="4" fill="#1db954" rx="2"/>
+    <circle cx="78" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 3:23
+    0:43 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[asiana](https://open.spotify.com/track/5rIuOYlvN1KL4OAlUw25QE)** by **MUNZi, yuske, yuri63k** *(asiana)*
+🎤 **[#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa)** by **Senses** *(#4u)*
+🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
 
 
 
@@ -153,11 +153,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
-🥈 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
-🥉 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
-🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🥈 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
+🥉 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 05:47:57Z UTC
+🕐 Last updated: 2025-09-02 06:19:31Z UTC
 <!-- SPOTIFY-END -->
