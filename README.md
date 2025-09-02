@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273aac8f690eb8be4edaf21ef6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Peeking Through](https://open.spotify.com/track/2pS316eadABbkZZIhERQbE)**
+**🎵 [Rising Mist](https://open.spotify.com/track/1k6CZJQYsbIsWi9VTkzETC)**
 *by* **Avery's Ambient**
 *Album:* Awakening Earth
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="247" height="4" fill="#1db954" rx="2"/>
+    <circle cx="247" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:11
+    1:49 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)** by **Avery's Ambient** *(Midnight Waves)*
-🎤 **[Midnight Garden](https://open.spotify.com/track/40JTdS1Hj2XmHMwZwCuOFT)** by **Avery's Ambient** *(Night Bloom)*
-🎤 **[Vision](https://open.spotify.com/track/1907SqFd2xCqmYdkjGWLQS)** by **Soothing Oasis** *(Dreaming)*
-🎤 **[Night Breeze](https://open.spotify.com/track/7i7WGaF9qTWs70HJyLNybu)** by **Soothing Oasis** *(Earth at Rest)*
-🎤 **[Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Peace](https://open.spotify.com/track/6WjfIRK2wnzKh2IzfQlgcE)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Moonlit](https://open.spotify.com/track/1v2mGJdOQlt1ejLrHZu06k)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Astral](https://open.spotify.com/track/7JNsHaxD27PcN6H5Zwdnzh)** by **Avery's Ambient** *(Obsidian Sky)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-01 23:47:48Z UTC
+🕐 Last updated: 2025-09-02 00:58:58Z UTC
 <!-- SPOTIFY-END -->
