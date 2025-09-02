@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27371d9f4d7b44720731761717e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a38db1630fe076c472436dc7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)**
-*by* **5v, mint, inssekt**
-*Album:* last chance
+**🎵 [tonight](https://open.spotify.com/track/6SbknQrVd8sTPJ7pgSlSPX)**
+*by* **Fijimar**
+*Album:* tonight
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="189" height="4" fill="#1db954" rx="2"/>
+    <circle cx="189" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:17
+    1:26 • 2:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mannequin](https://open.spotify.com/track/2dkju0OgfeLJx3NpYL6aPJ)** by **Fijimar** *(mannequin)*
-🎤 **[how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)** by **mint** *(how can u even make me feel so unwell)*
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
-🎤 **[porcelain scars](https://open.spotify.com/track/2DSxe1Qs8TIX214s0CHmV4)** by **cholorofilm** *(porcelain scars)*
-🎤 **[supercharged](https://open.spotify.com/track/3dedNT36vbNgGI2Hc7Q9bJ)** by **Senses** *(seventh heaven)*
+🎤 **[perfectly flawed](https://open.spotify.com/track/3wTwBkK6T4PJ7qmMQQ6lti)** by **Senses** *(perfectly flawed)*
+🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
+🎤 **[obsidian](https://open.spotify.com/track/5uXFzXuzg4VIEPYOxAq3vQ)** by **Feeluvsyou, Xaxanity** *(obsidian)*
+🎤 **[under my skin](https://open.spotify.com/track/3Ufv8Ev2HvoKFZZopHa1du)** by **Dylann** *(under my skin)*
+🎤 **[Dontwant 2](https://open.spotify.com/track/5W7ltLoQlRu308hQv4JuI5)** by **flywoah** *(Dontwant 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 16:52:55Z UTC
+🕐 Last updated: 2025-09-02 17:10:27Z UTC
 <!-- SPOTIFY-END -->
