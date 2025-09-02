@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aac8f690eb8be4edaf21ef6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6baa3dfd144bfeb237fc55a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rising Mist](https://open.spotify.com/track/1k6CZJQYsbIsWi9VTkzETC)**
-*by* **Avery's Ambient**
-*Album:* Awakening Earth
+**🎵 [In the Mist](https://open.spotify.com/track/3hLD6Xv985SnPkFJ9lwyo4)**
+*by* **Soothing Oasis**
+*Album:* Beneath the Sky
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="247" height="4" fill="#1db954" rx="2"/>
-    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+    <rect width="76" height="4" fill="#1db954" rx="2"/>
+    <circle cx="76" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:12
+    0:32 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Peace](https://open.spotify.com/track/6WjfIRK2wnzKh2IzfQlgcE)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Moonlit](https://open.spotify.com/track/1v2mGJdOQlt1ejLrHZu06k)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
-🎤 **[Astral](https://open.spotify.com/track/7JNsHaxD27PcN6H5Zwdnzh)** by **Avery's Ambient** *(Obsidian Sky)*
+🎤 **[Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Soft Sigh](https://open.spotify.com/track/6IoIeRoe3zPxLkAsFzFLH5)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
+🎤 **[Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Lunar Glow](https://open.spotify.com/track/2YY1kpNIwQKvfH6EBR76SB)** by **Avery's Ambient** *(Midnight Waves)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 00:58:58Z UTC
+🕐 Last updated: 2025-09-02 02:37:32Z UTC
 <!-- SPOTIFY-END -->
