@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732c9db16ae22c1007ea825f00" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silent Castle](https://open.spotify.com/track/5el66REwlXnbOLZNy9BagT)**
+**🎵 [Night Breeze](https://open.spotify.com/track/7i7WGaF9qTWs70HJyLNybu)**
 *by* **Soothing Oasis**
-*Album:* Dream Realm
+*Album:* Earth at Rest
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="98" height="4" fill="#1db954" rx="2"/>
+    <circle cx="98" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:04
+    0:41 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Cosmic Sea](https://open.spotify.com/track/6fSojQY6sHl43tVpjxgDKD)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[Waves Caressing](https://open.spotify.com/track/5xk6lWVuqxm2qwDrrBA7e3)** by **Avery's Ambient** *(Midnight Waves)*
-🎤 **[Clouds of Silk](https://open.spotify.com/track/68UqSdyprGcKD6j6lU0YCa)** by **Soothing Oasis** *(At Peace)*
-🎤 **[Glimmering](https://open.spotify.com/track/4blw5uBskmyk1IkbUpx2uO)** by **Avery's Ambient** *(In the Distance)*
-🎤 **[Through Tall Pines](https://open.spotify.com/track/7q8wG0sHwTep5HRuO36OgC)** by **Soothing Oasis** *(Breathing Forest)*
+🎤 **[Mirage](https://open.spotify.com/track/5hwH7V9tPw5hdwkuQw0l9N)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Constellations](https://open.spotify.com/track/4MKwgQyeji4SrQGZb1VuEg)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Riverside](https://open.spotify.com/track/5zCuFITvjSFvfqCcOLLG6f)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
+🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 04:15:00Z UTC
+🕐 Last updated: 2025-09-02 04:36:41Z UTC
 <!-- SPOTIFY-END -->
