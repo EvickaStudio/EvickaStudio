@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a011354e9d50476a59b00f45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f4c300b6817c7e3857a3507c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)**
-*by* **angelicxmei**
-*Album:* honestly
+**🎵 [Without You](https://open.spotify.com/track/0URP9If2fCLKgLUHK0rsaW)**
+*by* **nomu., dolly**
+*Album:* Without You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:07
+    2:05 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
-🎤 **[undercover](https://open.spotify.com/track/4Nu7VrBPe77XFVq3oaDgzf)** by **Senses** *(undercover)*
-🎤 **[undercover](https://open.spotify.com/track/4Nu7VrBPe77XFVq3oaDgzf)** by **Senses** *(undercover)*
-🎤 **[spacebar](https://open.spotify.com/track/1NlWBa7x2zQ7bAWxS8PpAw)** by **Mezha** *(spacebar)*
+🎤 **[KISS ME OR I WILL KMS](https://open.spotify.com/track/6O27CLVuBwhMgyTtnXh8WQ)** by **disoc8** *(KISS ME OR I WILL KMS)*
+🎤 **[come alive](https://open.spotify.com/track/1isF1DcOAKgrRCoPFILlE5)** by **Senses, 2504, Kojo** *(come alive)*
+🎤 **[luv letters](https://open.spotify.com/track/1GICCvYryNbrFPdwNdK92j)** by **MUNZi, veezuh** *(luv letters)*
+🎤 **[2004](https://open.spotify.com/track/2mLB3j3rYIkrQ1eUAxeSg7)** by **cholorofilm, snor** *(2004)*
+🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 19:47:49Z UTC
+🕐 Last updated: 2025-09-02 20:13:15Z UTC
 <!-- SPOTIFY-END -->
