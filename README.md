@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27363a0487e99e9cc7c5118b80a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a011354e9d50476a59b00f45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [blue](https://open.spotify.com/track/7J8N9pMGzFKwqLWmx1As4b)**
-*by* **flywoah**
-*Album:* blue
+**🎵 [honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)**
+*by* **angelicxmei**
+*Album:* honestly
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="130" height="4" fill="#1db954" rx="2"/>
+    <circle cx="130" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 1:30
+    0:55 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[1000 days](https://open.spotify.com/track/3ddEnYHJ9aogcpn9tx7bys)** by **angelicxmei** *(1000 days)*
-🎤 **[Tanz mit mir](https://open.spotify.com/track/1IDmVoif1bx16CJDlwViIr)** by **pink luu, cxpyyy, luu** *(Tanz mit mir)*
-🎤 **[i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)** by **RudeClub** *(i'm just trynna fuck)*
-🎤 **[run away](https://open.spotify.com/track/4hzmfludEkdCYRbmxBxgzg)** by **Senses, thirtyonetwentyfive** *(tutorial: how to..)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
+🎤 **[undercover](https://open.spotify.com/track/4Nu7VrBPe77XFVq3oaDgzf)** by **Senses** *(undercover)*
+🎤 **[undercover](https://open.spotify.com/track/4Nu7VrBPe77XFVq3oaDgzf)** by **Senses** *(undercover)*
+🎤 **[spacebar](https://open.spotify.com/track/1NlWBa7x2zQ7bAWxS8PpAw)** by **Mezha** *(spacebar)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 19:34:07Z UTC
+🕐 Last updated: 2025-09-02 19:47:49Z UTC
 <!-- SPOTIFY-END -->
