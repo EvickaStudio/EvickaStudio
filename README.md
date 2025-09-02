@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a7935e8af93f3927f2ac0053" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Riverside](https://open.spotify.com/track/5zCuFITvjSFvfqCcOLLG6f)**
-*by* **Soothing Oasis**
-*Album:* Riverside
+**🎵 [lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)**
+*by* **pink luu, Kroka Koka, xtatus**
+*Album:* lieblingspferd
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:08
+    0:37 • 1:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Thoughts Fade Away](https://open.spotify.com/track/7r6hvssnFfdCuydPrBOzOe)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Foggy Morning](https://open.spotify.com/track/4s2rLlLjmt647RM1bcEv0h)** by **Soothing Oasis** *(Foggy Morning)*
-🎤 **[Gentle Current](https://open.spotify.com/track/4KcvQ3fV6Rzwk6eyKnZhth)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Sleeping Earth](https://open.spotify.com/track/261nfVFtGFkC2Tn410aTI6)** by **Soothing Oasis** *(Sleeping Earth)*
-🎤 **[Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[Glimmering](https://open.spotify.com/track/4blw5uBskmyk1IkbUpx2uO)** by **Avery's Ambient** *(In the Distance)*
+🎤 **[Mirage](https://open.spotify.com/track/5hwH7V9tPw5hdwkuQw0l9N)** by **Avery's Ambient** *(Ripples in the Sand)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 05:12:59Z UTC
+🕐 Last updated: 2025-09-02 05:32:33Z UTC
 <!-- SPOTIFY-END -->
