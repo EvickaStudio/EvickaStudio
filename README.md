@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734759f5decbd5d4db72ec41af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27308653b43bdf9f4a8e0c6213f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Voices Told Me To](https://open.spotify.com/track/4zfaSTTUF2R0mZerZHgcLR)**
-*by* **Puhf**
-*Album:* The Voices Told Me To
+**🎵 [you're my friend now](https://open.spotify.com/track/0KOqL8ySnRsmNvOg9JYLoo)**
+*by* **usedcvnt, DXRKWRLD**
+*Album:* ultraviolet
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="269" height="4" fill="#1db954" rx="2"/>
+    <circle cx="269" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 3:48
+    2:09 • 2:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nobody Ready For Love](https://open.spotify.com/track/3mx0731bQwZGxOVUnyVQaW)** by **Yung Lain, j1nabae** *(Borrowed Love)*
-🎤 **[At the Bottom of it All](https://open.spotify.com/track/5ECPKs2tqPh4Hx8uXZpaOT)** by **ivorydespair** *(Atmospheric Despair)*
-🎤 **[it is not my fault and never will be.](https://open.spotify.com/track/3uMakevwmASZav0FzbgfN1)** by **Skeinn** *(goodbye in 9 minutes)*
-🎤 **[that time i stomped on a baby bird because i thought it was a spider](https://open.spotify.com/track/1HPdBlR4IJwpV6PWKljvsU)** by **Puhf** *(unlucky)*
-🎤 **[Cloudy Saturday](https://open.spotify.com/track/22hVKOwcOg9tCFzeYGAY4l)** by **Yung Lain, Yem** *(Borrowed Love)*
+🎤 **[Gotham Love](https://open.spotify.com/track/76o3swrJKdlvBCm8PRbCYE)** by **BAKGROUND** *(LT-GLOBE-XXX)*
+🎤 **[Virtual Tears](https://open.spotify.com/track/3dJWb4uVmVwvFBvNHSdUkR)** by **TOKYOPILL** *(Virtual Tears)*
+🎤 **[Death Of The Endless](https://open.spotify.com/track/75bJ6QHxOxVSZrfXnc20WT)** by **Cynthoni, Sewerslvt** *(Sewerslvt Presents: Cynthoni, Pt. 1)*
+🎤 **[Let Me Go](https://open.spotify.com/track/4kYcm97DhNJdN8aRF6I4TI)** by **Yung Lain** *(Let Me Go)*
+🎤 **[OVERLOOMING](https://open.spotify.com/track/6wp6LhPlfDGMbIKbjfu62J)** by **Puhf** *(OVERLOOMING)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 12:25:25Z UTC
+🕐 Last updated: 2025-09-02 13:03:49Z UTC
 <!-- SPOTIFY-END -->
