@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273460d63ccd30e0cf854ed469a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27357116b6f12cc3e35c2e963f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA)**
-*by* **AKIBA**
-*Album:* im lost in a neverending dream
+**🎵 [Flickering In The Gloom](https://open.spotify.com/track/6WRHRowqnk5G0AM0ZOrss9)**
+*by* **Cynthoni, Sewerslvt, Projekt Melody**
+*Album:* Sewerslvt Presents: Cynthoni, Pt. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="56" height="4" fill="#1db954" rx="2"/>
-    <circle cx="56" cy="2" r="6" fill="#1db954"/>
+    <rect width="221" height="4" fill="#1db954" rx="2"/>
+    <circle cx="221" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:36
+    2:48 • 3:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Break My Heart & Yours](https://open.spotify.com/track/70MI6u1zUECNfAWReLvOsC)** by **Sewerslvt** *(Skitzofrenia Simulation)*
-🎤 **[what we did in the desert](https://open.spotify.com/track/5h8ap9IoV27Pm0H83AJuEX)** by **eightiesheadachetape** *(for a while)*
-🎤 **[lasting entropy](https://open.spotify.com/track/7EiEQTiSHRXfefn4viYnh2)** by **cast heal** *(lasting entropy)*
-🎤 **[just leave me to bleed](https://open.spotify.com/track/18p7cfcsveGpVzyrCyX5Yg)** by **usedcvnt** *(ultraviolet)*
-🎤 **[torture me](https://open.spotify.com/track/2HRkXwCqxuhJHKTwwGaBed)** by **Puhf** *(OVERLOOMING)*
+🎤 **[who are you?](https://open.spotify.com/track/2vp0sqKPhvBtFpPspBmbAy)** by **Puhf** *(OVERLOOMING)*
+🎤 **[Forlorn](https://open.spotify.com/track/1l2HihtLQCuDGrHNgNP8ZV)** by **Puhf** *(Dreams Of You)*
+🎤 **[dreamwave](https://open.spotify.com/track/6bAMwUZ1NuWIrQojIyBHOg)** by **Iwakura, Yatomi** *(dissolve)*
+🎤 **[popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA)** by **AKIBA** *(im lost in a neverending dream)*
+🎤 **[message not delivered](https://open.spotify.com/track/29nwHB72l8pHQcBJnpHM8Y)** by **cast heal** *(message not delivered)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 11:34:23Z UTC
+🕐 Last updated: 2025-09-02 11:47:49Z UTC
 <!-- SPOTIFY-END -->
