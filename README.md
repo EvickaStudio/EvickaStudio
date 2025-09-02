@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sleeping City](https://open.spotify.com/track/1AsfeQfofQlkyyWrgB6eDI)**
+**🎵 [Silent Castle](https://open.spotify.com/track/5el66REwlXnbOLZNy9BagT)**
 *by* **Soothing Oasis**
-*Album:* Gently Sleeping
+*Album:* Dream Realm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:10
+    0:33 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Endless Stars](https://open.spotify.com/track/5HqNI7v7v2sSTwOviTV4sw)** by **Avery's Ambient** *(Awakening Earth)*
-🎤 **[Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Soothing](https://open.spotify.com/track/3CFJqlHFnat02udi7WFtjc)** by **Soothing Oasis** *(Evening)*
-🎤 **[Mist on the Riverside](https://open.spotify.com/track/5S07qONtDLCj1jzX0gK8nU)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Cosmic Sea](https://open.spotify.com/track/6fSojQY6sHl43tVpjxgDKD)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Waves Caressing](https://open.spotify.com/track/5xk6lWVuqxm2qwDrrBA7e3)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Clouds of Silk](https://open.spotify.com/track/68UqSdyprGcKD6j6lU0YCa)** by **Soothing Oasis** *(At Peace)*
+🎤 **[Glimmering](https://open.spotify.com/track/4blw5uBskmyk1IkbUpx2uO)** by **Avery's Ambient** *(In the Distance)*
+🎤 **[Through Tall Pines](https://open.spotify.com/track/7q8wG0sHwTep5HRuO36OgC)** by **Soothing Oasis** *(Breathing Forest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 03:50:57Z UTC
+🕐 Last updated: 2025-09-02 04:15:00Z UTC
 <!-- SPOTIFY-END -->
