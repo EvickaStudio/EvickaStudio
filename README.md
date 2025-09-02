@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730bc49323fcd698c91e99535b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a621fa892e382f2d925267bc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)**
-*by* **Psych**
-*Album:* When you needed me most
+**🎵 [closer](https://open.spotify.com/track/40j3STepvzvwYiLNwMiZjS)**
+*by* **joss lockwood**
+*Album:* closer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="266" height="4" fill="#1db954" rx="2"/>
+    <circle cx="266" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:32 • 2:05
+    2:32 • 2:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[finally free](https://open.spotify.com/track/0U4oz0kTzdonnbpEjpe55d)** by **d1v** *(finally free)*
+🎤 **[Bleib wie du bist](https://open.spotify.com/track/2u89J9g0D0Pxp8EqmjAGoA)** by **ystn, Keigo, prttyblu** *(Bleib wie du bist)*
+🎤 **[When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)** by **Psych** *(When you needed me most)*
 🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
 🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
-🎤 **[mein herz](https://open.spotify.com/track/6SnoQM36RDqpUcUud84wi3)** by **mundus, pink luu** *(mein herz)*
-🎤 **[xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)** by **cholorofilm** *(xxx)*
-🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 20:38:46Z UTC
+🕐 Last updated: 2025-09-02 20:47:47Z UTC
 <!-- SPOTIFY-END -->
