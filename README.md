@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739db7ae044d20d12c9e71c9be" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273647e8069c98c7b23b6c80648" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [E t h e r e a l](https://open.spotify.com/track/14341PCTnxSgULfXtPRCGu)**
-*by* **TOKYOPILL**
-*Album:* E t h e r e a l
+**🎵 [Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)**
+*by* **Sewerslvt**
+*Album:* Draining Love Story
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="182" height="4" fill="#1db954" rx="2"/>
-    <circle cx="182" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 1:36
+    4:04 • 5:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[illusion of control](https://open.spotify.com/track/3udJ8rrcyoJF1WKYXzvkWa)** by **usedcvnt, Iwakura** *(ultraviolet)*
-🎤 **[limited in love](https://open.spotify.com/track/7eCXs1WpVy7xxedmyM2gVb)** by **usedcvnt, AKIBA** *(ultraviolet)*
-🎤 **[sorry mom, i'm making breakcore xd](https://open.spotify.com/track/25u4PT1CAUcHwe3YQ3JfrH)** by **usedcvnt** *(ultraviolet)*
-🎤 **[morphia](https://open.spotify.com/track/2b0Ow6beU28xaLY3Ep0Yp5)** by **Puhf** *(unlucky)*
-🎤 **[modorunokioku](https://open.spotify.com/track/0OqogGg6vAuHyJDaazKiUR)** by **Pisca** *(modorunokioku)*
+🎤 **[yours forever](https://open.spotify.com/track/7F7rpCqGXJFPdDcLB7VYQp)** by **usedcvnt, abyssal.angel** *(ultraviolet)*
+🎤 **[a letter to your past self](https://open.spotify.com/track/66uYnIfduzi4cwUFFKeSpD)** by **Puhf, mud2002** *(unlucky)*
+🎤 **[Club Cyberia](https://open.spotify.com/track/30DnockD2UyU4uiwlCjc9L)** by **TOKYOPILL** *(Abandon The Flesh !)*
+🎤 **[DESTROY The Wired](https://open.spotify.com/track/3eYm2RFINh8WD0I3R00Qrg)** by **TOKYOPILL** *(Welcome To The Wired!)*
+🎤 **[who is she? never seen her](https://open.spotify.com/track/0Ftgqi40LymD7ayILZse1t)** by **aak3** *(who is she? never seen her)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 14:12:26Z UTC
+🕐 Last updated: 2025-09-02 14:34:20Z UTC
 <!-- SPOTIFY-END -->
