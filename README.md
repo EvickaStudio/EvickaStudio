@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273280b9abe99e90ccd7ded8e7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MORE OF IT!](https://open.spotify.com/track/6NDpHuzqSXDabSuIRHocz1)**
-*by* **mxrrow, HAR$h**
-*Album:* MORE OF IT!
+**🎵 [hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)**
+*by* **luu, mehlhaltig**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="216" height="4" fill="#1db954" rx="2"/>
+    <circle cx="216" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:16
+    1:37 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pretend](https://open.spotify.com/track/5hxQaMhUUnu2HXEvKKBXW3)** by **crusey, isai** *(pretend)*
-🎤 **[masochism](https://open.spotify.com/track/6CflnNe4Ucl2pSJQgcupGe)** by **cholorofilm** *(masochism)*
-🎤 **[u used to](https://open.spotify.com/track/2p0eNuWMYAlaJYHfgk9ewT)** by **MUNZi, kairo6k, datealyfe** *(u used to)*
-🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
-🎤 **[virus](https://open.spotify.com/track/7vcm2OrIo5bBmac77LfS3X)** by **Senses** *(virus)*
+🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
+🎤 **[medicate](https://open.spotify.com/track/6gEqIZgTqFMF0zJt9uwBeO)** by **cholorofilm, snor, Mezha** *(medicate)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[Zelda](https://open.spotify.com/track/29ctHNyrmG2gq7F2xhyLeO)** by **Kroka Koka** *(Vienna Videos)*
+🎤 **[sick goodbye](https://open.spotify.com/track/21QTCscKx0zMBzWIno9RN3)** by **Senses, Lain** *(sick goodbye)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 19:08:57Z UTC
+🕐 Last updated: 2025-09-02 19:22:16Z UTC
 <!-- SPOTIFY-END -->
