@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a38db1630fe076c472436dc7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27342e3f2409f426d7f363f7ddf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tonight](https://open.spotify.com/track/6SbknQrVd8sTPJ7pgSlSPX)**
-*by* **Fijimar**
-*Album:* tonight
+**🎵 [Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)**
+*by* **flywoah**
+*Album:* Live It
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 2:17
+    0:28 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[perfectly flawed](https://open.spotify.com/track/3wTwBkK6T4PJ7qmMQQ6lti)** by **Senses** *(perfectly flawed)*
-🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
-🎤 **[obsidian](https://open.spotify.com/track/5uXFzXuzg4VIEPYOxAq3vQ)** by **Feeluvsyou, Xaxanity** *(obsidian)*
-🎤 **[under my skin](https://open.spotify.com/track/3Ufv8Ev2HvoKFZZopHa1du)** by **Dylann** *(under my skin)*
-🎤 **[Dontwant 2](https://open.spotify.com/track/5W7ltLoQlRu308hQv4JuI5)** by **flywoah** *(Dontwant 2)*
+🎤 **[attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)** by **angelicxmei** *(attached)*
+🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
+🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
+🎤 **[safety](https://open.spotify.com/track/0sZDR5z3BczSVVhX94W0SJ)** by **Senses, lileffort** *(safety)*
+🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 17:10:27Z UTC
+🕐 Last updated: 2025-09-02 17:27:45Z UTC
 <!-- SPOTIFY-END -->
