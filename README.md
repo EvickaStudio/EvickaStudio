@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f4a0bf4abb7ab70ae00fa17b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c12cda31f99523b33a6ba821" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [she isnt the norm. she is the exception](https://open.spotify.com/track/7htaACZJyjCsf2U0y5hKYW)**
-*by* **Glitchtrode**
-*Album:* all things good & bad
+**🎵 [She Was Never Real](https://open.spotify.com/track/3g2gzMSXP4eAtcUaNQjjeH)**
+*by* **Puhf**
+*Album:* Dreams Of You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 6:47
+    0:59 • 4:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[i thought of you](https://open.spotify.com/track/0aRNegfwOzy2ISmUYYb7H5)** by **Puhf** *(OVERLOOMING)*
+🎤 **[Cry](https://open.spotify.com/track/6587a4MsgRtlJRyen00XGd)** by **Puhf** *(Cry)*
+🎤 **[she isnt the norm. she is the exception](https://open.spotify.com/track/7htaACZJyjCsf2U0y5hKYW)** by **Glitchtrode** *(all things good & bad)*
 🎤 **[anything you could ever want](https://open.spotify.com/track/0LWP0BuJKXWso9LVGCKYhO)** by **Puhf, Scar$** *(unlucky)*
 🎤 **[Empathy](https://open.spotify.com/track/2wG1D1EpINgzXkN3axmt7C)** by **James Devilson** *(Empathy)*
-🎤 **[i can't help it](https://open.spotify.com/track/2rvIVEYKDpF463iEYPBE42)** by **Puhf, mud2002** *(i can't help it)*
-🎤 **[Radiant](https://open.spotify.com/track/1jBPHxdbFPFt7iTrG5nno6)** by **mikura** *(Radiant)*
-🎤 **[Keygen](https://open.spotify.com/track/09vNwNUsx3OdqiznDsmoib)** by **Nakedleisure, Puhf** *(Internet Angel)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 10:34:56Z UTC
+🕐 Last updated: 2025-09-02 10:49:41Z UTC
 <!-- SPOTIFY-END -->
