@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273647e8069c98c7b23b6c80648" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fbe4883ba89fe0e296e0682" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mr. Kill Myself](https://open.spotify.com/track/3KBsdO1rkM9O0QASfvoA38)**
-*by* **Sewerslvt**
-*Album:* Draining Love Story
+**🎵 [Inlove (Sewerslvt Remix)](https://open.spotify.com/track/6mzZgjLLRP3BVJmgB5aMDL)**
+*by* **INTERWEB 成长**
+*Album:* Inlove (Sewerslvt Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="291" height="4" fill="#1db954" rx="2"/>
+    <circle cx="291" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 7:51
+    2:35 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i need you to kill me](https://open.spotify.com/track/1SOd4oOtOnBQp3srNRtR9f)** by **Puhf, mud2002** *(i need you to kill me)*
-🎤 **[daydreamer](https://open.spotify.com/track/1JGTPfXfHIpyWjh7akG4NP)** by **Enkei, SPURME** *(spirals and that damn flower)*
-🎤 **[idontloveyouanymore](https://open.spotify.com/track/2TycjTMzrFcLOpqM5AqEw9)** by **Puhf** *(idontloveyouanymore)*
-🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
-🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
+🎤 **[pls tell me what is ur dream](https://open.spotify.com/track/0BNxkNtK2OyfZyMsELSxMF)** by **usedcvnt, Eden FM** *(ultraviolet)*
+🎤 **[its rlly u on my mind](https://open.spotify.com/track/4JFDLiTzJoXrjOtyalMV0h)** by **ONLINEUNKNWN** *(Nothing Nice)*
+🎤 **[500 cigarettes](https://open.spotify.com/track/2hkFvzYkQ2vJDBGzBIXaY0)** by **Puhf** *(unlucky)*
+🎤 **[analog decay](https://open.spotify.com/track/5tfvbTBh8kVON15MpmwdOb)** by **cast heal** *(analog decay)*
+🎤 **[endless suffering](https://open.spotify.com/track/1o1ZDWtjWHsjo4VTSR9Ufv)** by **68+1, Puhf** *(endless suffering)*
 
 
 
@@ -153,11 +153,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
-🥈 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
-🥉 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
-🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
+🥈 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
+🥉 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
+🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 09:47:54Z UTC
+🕐 Last updated: 2025-09-02 10:13:29Z UTC
 <!-- SPOTIFY-END -->
