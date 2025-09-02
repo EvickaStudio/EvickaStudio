@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734fbe4883ba89fe0e296e0682" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f4a0bf4abb7ab70ae00fa17b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Inlove (Sewerslvt Remix)](https://open.spotify.com/track/6mzZgjLLRP3BVJmgB5aMDL)**
-*by* **INTERWEB 成长**
-*Album:* Inlove (Sewerslvt Remix)
+**🎵 [she isnt the norm. she is the exception](https://open.spotify.com/track/7htaACZJyjCsf2U0y5hKYW)**
+*by* **Glitchtrode**
+*Album:* all things good & bad
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 2:40
+    1:47 • 6:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pls tell me what is ur dream](https://open.spotify.com/track/0BNxkNtK2OyfZyMsELSxMF)** by **usedcvnt, Eden FM** *(ultraviolet)*
-🎤 **[its rlly u on my mind](https://open.spotify.com/track/4JFDLiTzJoXrjOtyalMV0h)** by **ONLINEUNKNWN** *(Nothing Nice)*
-🎤 **[500 cigarettes](https://open.spotify.com/track/2hkFvzYkQ2vJDBGzBIXaY0)** by **Puhf** *(unlucky)*
-🎤 **[analog decay](https://open.spotify.com/track/5tfvbTBh8kVON15MpmwdOb)** by **cast heal** *(analog decay)*
-🎤 **[endless suffering](https://open.spotify.com/track/1o1ZDWtjWHsjo4VTSR9Ufv)** by **68+1, Puhf** *(endless suffering)*
+🎤 **[anything you could ever want](https://open.spotify.com/track/0LWP0BuJKXWso9LVGCKYhO)** by **Puhf, Scar$** *(unlucky)*
+🎤 **[Empathy](https://open.spotify.com/track/2wG1D1EpINgzXkN3axmt7C)** by **James Devilson** *(Empathy)*
+🎤 **[i can't help it](https://open.spotify.com/track/2rvIVEYKDpF463iEYPBE42)** by **Puhf, mud2002** *(i can't help it)*
+🎤 **[Radiant](https://open.spotify.com/track/1jBPHxdbFPFt7iTrG5nno6)** by **mikura** *(Radiant)*
+🎤 **[Keygen](https://open.spotify.com/track/09vNwNUsx3OdqiznDsmoib)** by **Nakedleisure, Puhf** *(Internet Angel)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 10:13:29Z UTC
+🕐 Last updated: 2025-09-02 10:34:56Z UTC
 <!-- SPOTIFY-END -->
