@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357116b6f12cc3e35c2e963f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734759f5decbd5d4db72ec41af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flickering In The Gloom](https://open.spotify.com/track/6WRHRowqnk5G0AM0ZOrss9)**
-*by* **Cynthoni, Sewerslvt, Projekt Melody**
-*Album:* Sewerslvt Presents: Cynthoni, Pt. 1
+**🎵 [The Voices Told Me To](https://open.spotify.com/track/4zfaSTTUF2R0mZerZHgcLR)**
+*by* **Puhf**
+*Album:* The Voices Told Me To
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:48 • 3:48
+    0:35 • 3:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[who are you?](https://open.spotify.com/track/2vp0sqKPhvBtFpPspBmbAy)** by **Puhf** *(OVERLOOMING)*
-🎤 **[Forlorn](https://open.spotify.com/track/1l2HihtLQCuDGrHNgNP8ZV)** by **Puhf** *(Dreams Of You)*
-🎤 **[dreamwave](https://open.spotify.com/track/6bAMwUZ1NuWIrQojIyBHOg)** by **Iwakura, Yatomi** *(dissolve)*
-🎤 **[popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA)** by **AKIBA** *(im lost in a neverending dream)*
-🎤 **[message not delivered](https://open.spotify.com/track/29nwHB72l8pHQcBJnpHM8Y)** by **cast heal** *(message not delivered)*
+🎤 **[Nobody Ready For Love](https://open.spotify.com/track/3mx0731bQwZGxOVUnyVQaW)** by **Yung Lain, j1nabae** *(Borrowed Love)*
+🎤 **[At the Bottom of it All](https://open.spotify.com/track/5ECPKs2tqPh4Hx8uXZpaOT)** by **ivorydespair** *(Atmospheric Despair)*
+🎤 **[it is not my fault and never will be.](https://open.spotify.com/track/3uMakevwmASZav0FzbgfN1)** by **Skeinn** *(goodbye in 9 minutes)*
+🎤 **[that time i stomped on a baby bird because i thought it was a spider](https://open.spotify.com/track/1HPdBlR4IJwpV6PWKljvsU)** by **Puhf** *(unlucky)*
+🎤 **[Cloudy Saturday](https://open.spotify.com/track/22hVKOwcOg9tCFzeYGAY4l)** by **Yung Lain, Yem** *(Borrowed Love)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 11:47:49Z UTC
+🕐 Last updated: 2025-09-02 12:25:25Z UTC
 <!-- SPOTIFY-END -->
