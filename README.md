@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c12cda31f99523b33a6ba821" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273969ad858e001b827722c9e90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [She Was Never Real](https://open.spotify.com/track/3g2gzMSXP4eAtcUaNQjjeH)**
-*by* **Puhf**
-*Album:* Dreams Of You
+**🎵 [lasting entropy](https://open.spotify.com/track/7EiEQTiSHRXfefn4viYnh2)**
+*by* **cast heal**
+*Album:* lasting entropy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 4:06
+    3:07 • 5:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[just leave me to bleed](https://open.spotify.com/track/18p7cfcsveGpVzyrCyX5Yg)** by **usedcvnt** *(ultraviolet)*
+🎤 **[torture me](https://open.spotify.com/track/2HRkXwCqxuhJHKTwwGaBed)** by **Puhf** *(OVERLOOMING)*
+🎤 **[loneliness solved with a flash](https://open.spotify.com/track/0oXTPiUmF9Lr5UESk3cD9h)** by **mindvacy** *(loneliness solved with a flash)*
+🎤 **[She Was Never Real](https://open.spotify.com/track/3g2gzMSXP4eAtcUaNQjjeH)** by **Puhf** *(Dreams Of You)*
 🎤 **[i thought of you](https://open.spotify.com/track/0aRNegfwOzy2ISmUYYb7H5)** by **Puhf** *(OVERLOOMING)*
-🎤 **[Cry](https://open.spotify.com/track/6587a4MsgRtlJRyen00XGd)** by **Puhf** *(Cry)*
-🎤 **[she isnt the norm. she is the exception](https://open.spotify.com/track/7htaACZJyjCsf2U0y5hKYW)** by **Glitchtrode** *(all things good & bad)*
-🎤 **[anything you could ever want](https://open.spotify.com/track/0LWP0BuJKXWso9LVGCKYhO)** by **Puhf, Scar$** *(unlucky)*
-🎤 **[Empathy](https://open.spotify.com/track/2wG1D1EpINgzXkN3axmt7C)** by **James Devilson** *(Empathy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 10:49:41Z UTC
+🕐 Last updated: 2025-09-02 11:10:33Z UTC
 <!-- SPOTIFY-END -->
