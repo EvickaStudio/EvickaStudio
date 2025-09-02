@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f4c300b6817c7e3857a3507c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733ea828143708394c2a28cea8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Without You](https://open.spotify.com/track/0URP9If2fCLKgLUHK0rsaW)**
-*by* **nomu., dolly**
-*Album:* Without You
+**🎵 [xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)**
+*by* **cholorofilm**
+*Album:* xxx
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="3" height="4" fill="#1db954" rx="2"/>
+    <circle cx="3" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 2:40
+    0:01 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[KISS ME OR I WILL KMS](https://open.spotify.com/track/6O27CLVuBwhMgyTtnXh8WQ)** by **disoc8** *(KISS ME OR I WILL KMS)*
-🎤 **[come alive](https://open.spotify.com/track/1isF1DcOAKgrRCoPFILlE5)** by **Senses, 2504, Kojo** *(come alive)*
-🎤 **[luv letters](https://open.spotify.com/track/1GICCvYryNbrFPdwNdK92j)** by **MUNZi, veezuh** *(luv letters)*
-🎤 **[2004](https://open.spotify.com/track/2mLB3j3rYIkrQ1eUAxeSg7)** by **cholorofilm, snor** *(2004)*
-🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
+🎤 **[im sorry for crying](https://open.spotify.com/track/4jiGNQbHRwkOzCPWRoESSH)** by **Psych** *(im sorry for crying)*
+🎤 **[schönste illusion](https://open.spotify.com/track/2Lj5K1MQbAiv4MFPHG3VdD)** by **Mobezzy** *(XBX)*
+🎤 **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)*
+🎤 **[leaking black glitter](https://open.spotify.com/track/5mSSBuqxfBONN0SOnEAdKB)** by **snor, cholorofilm, Keta** *(leaking black glitter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 20:13:15Z UTC
+🕐 Last updated: 2025-09-02 20:28:35Z UTC
 <!-- SPOTIFY-END -->
