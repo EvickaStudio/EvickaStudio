@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733ea828143708394c2a28cea8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730bc49323fcd698c91e99535b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)**
-*by* **cholorofilm**
-*Album:* xxx
+**🎵 [When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)**
+*by* **Psych**
+*Album:* When you needed me most
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="3" height="4" fill="#1db954" rx="2"/>
-    <circle cx="3" cy="2" r="6" fill="#1db954"/>
+    <rect width="221" height="4" fill="#1db954" rx="2"/>
+    <circle cx="221" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 2:27
+    1:32 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
+🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
+🎤 **[mein herz](https://open.spotify.com/track/6SnoQM36RDqpUcUud84wi3)** by **mundus, pink luu** *(mein herz)*
+🎤 **[xxx](https://open.spotify.com/track/6C74q73RbnOV6WCa1C7XX4)** by **cholorofilm** *(xxx)*
 🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
-🎤 **[im sorry for crying](https://open.spotify.com/track/4jiGNQbHRwkOzCPWRoESSH)** by **Psych** *(im sorry for crying)*
-🎤 **[schönste illusion](https://open.spotify.com/track/2Lj5K1MQbAiv4MFPHG3VdD)** by **Mobezzy** *(XBX)*
-🎤 **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)*
-🎤 **[leaking black glitter](https://open.spotify.com/track/5mSSBuqxfBONN0SOnEAdKB)** by **snor, cholorofilm, Keta** *(leaking black glitter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 20:28:35Z UTC
+🕐 Last updated: 2025-09-02 20:38:46Z UTC
 <!-- SPOTIFY-END -->
