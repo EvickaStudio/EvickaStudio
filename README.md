@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c9db16ae22c1007ea825f00" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Night Breeze](https://open.spotify.com/track/7i7WGaF9qTWs70HJyLNybu)**
+**🎵 [Drifting Leaves](https://open.spotify.com/track/1G4jILZWiClmzAe8QUV7k0)**
 *by* **Soothing Oasis**
-*Album:* Earth at Rest
+*Album:* Riverside
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="98" height="4" fill="#1db954" rx="2"/>
-    <circle cx="98" cy="2" r="6" fill="#1db954"/>
+    <rect width="24" height="4" fill="#1db954" rx="2"/>
+    <circle cx="24" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:06
+    0:11 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mirage](https://open.spotify.com/track/5hwH7V9tPw5hdwkuQw0l9N)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Constellations](https://open.spotify.com/track/4MKwgQyeji4SrQGZb1VuEg)** by **Soothing Oasis** *(At Peace)*
-🎤 **[Riverside](https://open.spotify.com/track/5zCuFITvjSFvfqCcOLLG6f)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
-🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Beneath the Sky](https://open.spotify.com/track/3EIkxp2iDXY8zSvUF6zgtM)** by **Soothing Oasis** *(Beneath the Sky)*
+🎤 **[Dusky Horizon](https://open.spotify.com/track/1CD7kkvlve6prIywd0sSwW)** by **Avery's Ambient** *(Everglow)*
+🎤 **[Zen Moments](https://open.spotify.com/track/2gfKbFDlCiCKSQYIXh6MKc)** by **Avery's Ambient** *(Zen Moments)*
+🎤 **[By the Lakeshore](https://open.spotify.com/track/3r4Huoc5pruXrcT8B35BnV)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Evening Wind](https://open.spotify.com/track/3Yp7nHWRPA6OBQBQWIVDIa)** by **Soothing Oasis** *(Weightless)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 04:36:41Z UTC
+🕐 Last updated: 2025-09-02 04:51:12Z UTC
 <!-- SPOTIFY-END -->
