@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27324a63baa4c82a336ad7ad392" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)**
-*by* **luu**
-*Album:* sperr mich ein
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 1:55
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
+🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
 🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
 🎤 **[bloodlust](https://open.spotify.com/track/0mMsdnmX4WFsree9mQsViS)** by **cholorofilm** *(bloodlust)*
-🎤 **[arteries](https://open.spotify.com/track/3BLhOEe4PhKwEp0mB3RvQR)** by **Senses** *(arteries)*
-🎤 **[share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)** by **Mezha** *(share)*
-🎤 **[lost in a dream ¿ lucid feeling](https://open.spotify.com/track/1sqKVmI1J5NOC24JLAf6mo)** by **may, Sayako** *(lost in a dream ¿ lucid feeling)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 07:48:16Z UTC
+🕐 Last updated: 2025-09-02 08:17:35Z UTC
 <!-- SPOTIFY-END -->
