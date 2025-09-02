@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a860b112245106662c070f70" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739db7ae044d20d12c9e71c9be" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Chrysalis](https://open.spotify.com/track/5gCMxQu4uNxUC2yJcRs3WX)**
-*by* **Purity Filter**
-*Album:* imago
+**🎵 [E t h e r e a l](https://open.spotify.com/track/14341PCTnxSgULfXtPRCGu)**
+*by* **TOKYOPILL**
+*Album:* E t h e r e a l
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="198" height="4" fill="#1db954" rx="2"/>
-    <circle cx="198" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:55
+    0:58 • 1:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
-🎤 **[Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv)** by **Xxtarlit⚸** *(A Thousand Things I Could Tell You)*
-🎤 **[poolroom requiem](https://open.spotify.com/track/1GrGm6vExsf9cO7lg6xPDE)** by **Puhf** *(unlucky)*
-🎤 **[whatever](https://open.spotify.com/track/1qs7Kc3eCcVyhuiNiYASkz)** by **Sewerslvt** *(we had good times together, don't forget that)*
-🎤 **[outer heaven](https://open.spotify.com/track/2CvX3oiTKGzeg6Xs3PHGUj)** by **mindvacy** *(outer heaven)*
+🎤 **[illusion of control](https://open.spotify.com/track/3udJ8rrcyoJF1WKYXzvkWa)** by **usedcvnt, Iwakura** *(ultraviolet)*
+🎤 **[limited in love](https://open.spotify.com/track/7eCXs1WpVy7xxedmyM2gVb)** by **usedcvnt, AKIBA** *(ultraviolet)*
+🎤 **[sorry mom, i'm making breakcore xd](https://open.spotify.com/track/25u4PT1CAUcHwe3YQ3JfrH)** by **usedcvnt** *(ultraviolet)*
+🎤 **[morphia](https://open.spotify.com/track/2b0Ow6beU28xaLY3Ep0Yp5)** by **Puhf** *(unlucky)*
+🎤 **[modorunokioku](https://open.spotify.com/track/0OqogGg6vAuHyJDaazKiUR)** by **Pisca** *(modorunokioku)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 13:50:33Z UTC
+🕐 Last updated: 2025-09-02 14:12:26Z UTC
 <!-- SPOTIFY-END -->
