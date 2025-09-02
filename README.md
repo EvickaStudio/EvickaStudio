@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
 🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
 🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
 🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
 🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
-🎤 **[bloodlust](https://open.spotify.com/track/0mMsdnmX4WFsree9mQsViS)** by **cholorofilm** *(bloodlust)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 08:55:53Z UTC
+🕐 Last updated: 2025-09-02 09:14:57Z UTC
 <!-- SPOTIFY-END -->
