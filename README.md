@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731175c544707bd0dd6e9367e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732b46ebf547a745096109d8fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)**
-*by* **alleycat, dxsh**
-*Album:* Crazy
+**🎵 [großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)**
+*by* **ilyproxy, Aachen Demon**
+*Album:* großstadt lifestyle
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:07
+    1:38 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-02 18:15:36Z UTC
+🕐 Last updated: 2025-09-02 18:43:34Z UTC
 <!-- SPOTIFY-END -->
