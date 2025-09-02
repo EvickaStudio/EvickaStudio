@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc8c83dea5010e3c7fdeee81" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273460d63ccd30e0cf854ed469a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ineverlovedyou](https://open.spotify.com/track/1TNdkLDIDGFJIDWwevIUID)**
-*by* **Puhf**
-*Album:* ineverlovedyou
+**🎵 [popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA)**
+*by* **AKIBA**
+*Album:* im lost in a neverending dream
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:35 • 5:03
+    0:29 • 2:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[I Break My Heart & Yours](https://open.spotify.com/track/70MI6u1zUECNfAWReLvOsC)** by **Sewerslvt** *(Skitzofrenia Simulation)*
 🎤 **[what we did in the desert](https://open.spotify.com/track/5h8ap9IoV27Pm0H83AJuEX)** by **eightiesheadachetape** *(for a while)*
 🎤 **[lasting entropy](https://open.spotify.com/track/7EiEQTiSHRXfefn4viYnh2)** by **cast heal** *(lasting entropy)*
 🎤 **[just leave me to bleed](https://open.spotify.com/track/18p7cfcsveGpVzyrCyX5Yg)** by **usedcvnt** *(ultraviolet)*
 🎤 **[torture me](https://open.spotify.com/track/2HRkXwCqxuhJHKTwwGaBed)** by **Puhf** *(OVERLOOMING)*
-🎤 **[loneliness solved with a flash](https://open.spotify.com/track/0oXTPiUmF9Lr5UESk3cD9h)** by **mindvacy** *(loneliness solved with a flash)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 11:25:12Z UTC
+🕐 Last updated: 2025-09-02 11:34:23Z UTC
 <!-- SPOTIFY-END -->
