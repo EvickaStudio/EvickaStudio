@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27397adf509e6f57c373c316738" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a860b112245106662c070f70" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [poolroom requiem](https://open.spotify.com/track/1GrGm6vExsf9cO7lg6xPDE)**
-*by* **Puhf**
-*Album:* unlucky
+**🎵 [Chrysalis](https://open.spotify.com/track/5gCMxQu4uNxUC2yJcRs3WX)**
+*by* **Purity Filter**
+*Album:* imago
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="198" height="4" fill="#1db954" rx="2"/>
+    <circle cx="198" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 3:45
+    1:56 • 2:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
+🎤 **[Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv)** by **Xxtarlit⚸** *(A Thousand Things I Could Tell You)*
+🎤 **[poolroom requiem](https://open.spotify.com/track/1GrGm6vExsf9cO7lg6xPDE)** by **Puhf** *(unlucky)*
 🎤 **[whatever](https://open.spotify.com/track/1qs7Kc3eCcVyhuiNiYASkz)** by **Sewerslvt** *(we had good times together, don't forget that)*
 🎤 **[outer heaven](https://open.spotify.com/track/2CvX3oiTKGzeg6Xs3PHGUj)** by **mindvacy** *(outer heaven)*
-🎤 **[cyber witchcraft](https://open.spotify.com/track/4MrRSTGi8NiCLkjoxsWEpb)** by **4evrx** *(WITCHCLUB GRIMOIRE, Pt. 1)*
-🎤 **[143 ways to lose urself](https://open.spotify.com/track/0WVwOSGn9J8Ccq5wuBDLmJ)** by **usedcvnt** *(ultraviolet)*
-🎤 **[SR20DET](https://open.spotify.com/track/1w2JVwXoFWhjvh1Bh33Y8O)** by **Blksmiith** *(「DIGITAL TWIN」)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-02 13:38:58Z UTC
+🕐 Last updated: 2025-09-02 13:50:33Z UTC
 <!-- SPOTIFY-END -->
