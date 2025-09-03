@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735c1a46f9e4545c175af1aabc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a8df059b0457444852eef72c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ALABA](https://open.spotify.com/track/7r4juFauZAoz9Z0fnbsWHH)**
-*by* **Kroka Koka, Aachen Demon**
-*Album:* Vindobona
+**🎵 [BELIAS KINDER 432hz](https://open.spotify.com/track/1lPoQqZdMC4EaF6ekCnWDi)**
+*by* **agelast222**
+*Album:* BELIAS KINDER 432hz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:01
+    2:15 • 3:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[warum?](https://open.spotify.com/track/4Nj9rtP1l6l1lRzPjSIJpQ)** by **pink luu, TheyhxteAnt** *(warum?)*
-🎤 **[Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)** by **LooveX, JeeRAWRXD** *(Self-Xplained)*
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
-🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
-🎤 **[Bunny](https://open.spotify.com/track/7FopCTc5OaK5HT7fMYzCAc)** by **Senses** *(Bunny)*
+🎤 **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by **RudeClub** *(rated R)*
+🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
+🎤 **[slutty scene barbie](https://open.spotify.com/track/1oFMAyXUSTtOmKAldOSG9u)** by **dollreal, p6inkillr, deardiaryy, z4y4** *(slutty scene barbie)*
+🎤 **[on my mind x(](https://open.spotify.com/track/37EKzjOoy8HAwY3Pfh9AO3)** by **snor** *(on my mind x()*
+🎤 **[die w me - nightcore](https://open.spotify.com/track/6NOFJaGYSaLdYPQqJBooc6)** by **03osc, txtsu, seraphiac, Rebzyyx** *(die w me (Remix))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-03 23:10:45Z UTC
+🕐 Last updated: 2025-09-03 23:25:39Z UTC
 <!-- SPOTIFY-END -->
