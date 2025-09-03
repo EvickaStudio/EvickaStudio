@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732ab277fcb214b7456c923025" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730109d2cc8155a684c80ed0b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [holding on](https://open.spotify.com/track/4Um34CY7ZoPzpeTNoKgLc6)**
-*by* **memorie**
-*Album:* holding on
+**🎵 [grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)**
+*by* **pink luu, nami, cxpyyy, luu**
+*Album:* grabbesuch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="193" height="4" fill="#1db954" rx="2"/>
-    <circle cx="193" cy="2" r="6" fill="#1db954"/>
+    <rect width="159" height="4" fill="#1db954" rx="2"/>
+    <circle cx="159" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:01
+    0:51 • 1:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[#breakurheart](https://open.spotify.com/track/3Edf6gKdh1p1BJdQXQ9tDo)** by **pink luu, TheyhxteAnt** *(#breakurheart)*
-🎤 **[Teeth](https://open.spotify.com/track/32g0jJ3tFdMhRQvvCmmY25)** by **nomu.** *(Teeth)*
-🎤 **[i could never switch](https://open.spotify.com/track/48SNZ1kLFpujNjBIkO4on0)** by **1crusafix, trustt archive** *(i could never switch)*
-🎤 **[i dont mean no harm](https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH)** by **Senses, kojo** *(i dont mean no harm)*
-🎤 **[BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[my glue](https://open.spotify.com/track/0B37hZATkkCj1C2WZZnIw8)** by **bliiiss** *(my glue)*
+🎤 **[limelight](https://open.spotify.com/track/4GO2hWbvsC2XIVmh4AvpR0)** by **Senses, SEBii** *(limelight)*
+🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
+🎤 **[holding on](https://open.spotify.com/track/4Um34CY7ZoPzpeTNoKgLc6)** by **memorie** *(holding on)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-03 19:33:51Z UTC
+🕐 Last updated: 2025-09-03 19:47:37Z UTC
 <!-- SPOTIFY-END -->
