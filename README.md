@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273330cd622dce1247daa8f27e8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732ab277fcb214b7456c923025" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i dont mean no harm](https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH)**
-*by* **Senses, kojo**
-*Album:* i dont mean no harm
+**🎵 [holding on](https://open.spotify.com/track/4Um34CY7ZoPzpeTNoKgLc6)**
+*by* **memorie**
+*Album:* holding on
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
+    <rect width="193" height="4" fill="#1db954" rx="2"/>
+    <circle cx="193" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:08
+    1:18 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[#breakurheart](https://open.spotify.com/track/3Edf6gKdh1p1BJdQXQ9tDo)** by **pink luu, TheyhxteAnt** *(#breakurheart)*
+🎤 **[Teeth](https://open.spotify.com/track/32g0jJ3tFdMhRQvvCmmY25)** by **nomu.** *(Teeth)*
+🎤 **[i could never switch](https://open.spotify.com/track/48SNZ1kLFpujNjBIkO4on0)** by **1crusafix, trustt archive** *(i could never switch)*
+🎤 **[i dont mean no harm](https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH)** by **Senses, kojo** *(i dont mean no harm)*
 🎤 **[BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by **dreamcache** *(esc)*
-🎤 **[Hostage](https://open.spotify.com/track/4FsUWB6cVhr9ZMfgg3dKXO)** by **bodyGaard, liza blaise** *(Hostage)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-03 19:23:26Z UTC
+🕐 Last updated: 2025-09-03 19:33:51Z UTC
 <!-- SPOTIFY-END -->
