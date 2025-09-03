@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ab0f2efac51fd43e62cc146" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d6ae665490ec905ddc3fd17f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)**
-*by* **luu, cxpyyy**
-*Album:* glitzeraugen
+**🎵 [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)**
+*by* **Senses, mint**
+*Album:* paranoid
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 1:53
+    0:50 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[virus](https://open.spotify.com/track/7vcm2OrIo5bBmac77LfS3X)** by **Senses** *(virus)*
-🎤 **[Realm](https://open.spotify.com/track/7yMtf5crcbkhvIDA8vu5FB)** by **nomu.** *(Realm)*
-🎤 **[in the stars](https://open.spotify.com/track/6IoNXan1h1pVJE15RUVFdk)** by **03osc** *(in the stars)*
-🎤 **[zombies in designer](https://open.spotify.com/track/5LdmPs6SJnjzPCvz0K931i)** by **pink luu, cy4ne, 10n35t4r** *(zombies in designer)*
-🎤 **[nomore](https://open.spotify.com/track/3lme49NlFKK1insi6lq0uH)** by **5v, mint** *(nomore)*
+🎤 **[talk ab it](https://open.spotify.com/track/7E0z50Qb1hlyp7epEefRB3)** by **crusey, c4pri** *(talk ab it)*
+🎤 **[Butterfly](https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp)** by **nomu.** *(Butterfly)*
+🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
+🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-03 21:47:46Z UTC
+🕐 Last updated: 2025-09-03 22:10:58Z UTC
 <!-- SPOTIFY-END -->
