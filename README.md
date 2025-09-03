@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273855e71ac212004ba528b1de1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)**
-*by* **5v**
-*Album:* ashes2ashes
+**🎵 [Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)**
+*by* **The Truth**
+*Album:* U.S.T
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="271" height="4" fill="#1db954" rx="2"/>
-    <circle cx="271" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 2:19
+    1:47 • 4:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB)** by **Charli xcx, Lorde** *(Brat and it’s completely different but also still brat)*
+🎤 **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)*
+🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
+🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
 🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
-🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 11:24:17Z UTC
+🕐 Last updated: 2025-09-03 11:34:03Z UTC
 <!-- SPOTIFY-END -->
