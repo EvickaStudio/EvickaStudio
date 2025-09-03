@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273330cd622dce1247daa8f27e8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
-*by* **blombi19, 2dizzy**
-*Album:* medikament
+**🎵 [i dont mean no harm](https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH)**
+*by* **Senses, kojo**
+*Album:* i dont mean no harm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="247" height="4" fill="#1db954" rx="2"/>
-    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:48 • 3:23
+    0:14 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
-🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by **dreamcache** *(esc)*
+🎤 **[Hostage](https://open.spotify.com/track/4FsUWB6cVhr9ZMfgg3dKXO)** by **bodyGaard, liza blaise** *(Hostage)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-03 19:09:45Z UTC
+🕐 Last updated: 2025-09-03 19:23:26Z UTC
 <!-- SPOTIFY-END -->
