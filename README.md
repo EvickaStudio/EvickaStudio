@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)**
-*by* **pink luu, Lytra, cxpyyy, luu**
-*Album:* 0800-111-0-111
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:48
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[flip phone](https://open.spotify.com/track/1X1AtNti4T4kqcBmt3ZHwZ)** by **luu, kanjiru** *(flip phone)*
-🎤 **[Oft gefragt](https://open.spotify.com/track/4mN65IFzYund1enRgBU6Bk)** by **Techno Giant** *(Oft gefragt)*
-🎤 **[crying for ya](https://open.spotify.com/track/1bj4XlLtMyVw2bP6TGdoDV)** by **roseacti** *(crying for ya)*
-🎤 **[short skirt](https://open.spotify.com/track/4ylNNy1sF1jDVPEf3VrIRm)** by **d3r archive, Asteriaarchive** *(short skirt)*
-🎤 **[EVA EVA (SPED UP)](https://open.spotify.com/track/5FMkYfgWTN6mOGmutywGvD)** by **Bandiicam** *(EVA EVA)*
+🎤 **[r u okay with dying this way ?](https://open.spotify.com/track/3pOeJuNv9Rq66A589CWQWX)** by **nyxixide, cholorofilm, Mezha** *(r u okay with dying this way ?)*
+🎤 **[Не смотри на меня - ask eternity remix](https://open.spotify.com/track/1VIj5oZ1hDMkScEWEQz536)** by **hehehe, ask eternity** *(Не смотри на меня (ask eternity remix))*
+🎤 **[PRIVATE PARTY](https://open.spotify.com/track/3q530tVZ1256xLda8jdJle)** by **d3r archive, wujek** *(PRIVATE PARTY)*
+🎤 **[Gift](https://open.spotify.com/track/3bvOyNnelGch53UYVOLT9Y)** by **Callush** *(Gift)*
+🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 10:32:56Z UTC
+🕐 Last updated: 2025-09-03 10:47:50Z UTC
 <!-- SPOTIFY-END -->
