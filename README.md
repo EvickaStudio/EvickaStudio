@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273816cc44aa5db5a43ee00a930" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [die inside](https://open.spotify.com/track/45Mpm2Sve5Ce1l4E3KFTIE)**
-*by* **stvvpidd, CAT GRAY EYES, angel vox**
-*Album:* die inside
+**🎵 [richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)**
+*by* **pink luu, Lytra, cxpyyy, luu**
+*Album:* 0800-111-0-111
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:18
+    0:41 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Rapunzel](https://open.spotify.com/track/6dTre3NxDHz03H6AVPFlVl)** by **Sarya** *(Märchenparty)*
-🎤 **[Honeythief](https://open.spotify.com/track/1wB0vfECj9z0Glwwcb3DZg)** by **tainted, zesuna** *(Honeythief)*
-🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
-🎤 **[Say It Right - Sped Up](https://open.spotify.com/track/6Ftz9DgGGzTyyAYMX1jn2L)** by **FASTKID** *(BEATS & DRIFTS, Vol 6)*
+🎤 **[flip phone](https://open.spotify.com/track/1X1AtNti4T4kqcBmt3ZHwZ)** by **luu, kanjiru** *(flip phone)*
+🎤 **[Oft gefragt](https://open.spotify.com/track/4mN65IFzYund1enRgBU6Bk)** by **Techno Giant** *(Oft gefragt)*
+🎤 **[crying for ya](https://open.spotify.com/track/1bj4XlLtMyVw2bP6TGdoDV)** by **roseacti** *(crying for ya)*
+🎤 **[short skirt](https://open.spotify.com/track/4ylNNy1sF1jDVPEf3VrIRm)** by **d3r archive, Asteriaarchive** *(short skirt)*
+🎤 **[EVA EVA (SPED UP)](https://open.spotify.com/track/5FMkYfgWTN6mOGmutywGvD)** by **Bandiicam** *(EVA EVA)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 10:12:33Z UTC
+🕐 Last updated: 2025-09-03 10:32:56Z UTC
 <!-- SPOTIFY-END -->
