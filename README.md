@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b5d438726c4cf6424c0c5a83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273816cc44aa5db5a43ee00a930" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)**
-*by* **mehlhaltig, luu**
-*Album:* nur für dich!!^_-
+**🎵 [die inside](https://open.spotify.com/track/45Mpm2Sve5Ce1l4E3KFTIE)**
+*by* **stvvpidd, CAT GRAY EYES, angel vox**
+*Album:* die inside
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:45
+    0:32 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[HITMYPHONE](https://open.spotify.com/track/10QsYgGg1685fx0e0uNwep)** by **black balloons** *(HITMYPHONE)*
-🎤 **[SECRET](https://open.spotify.com/track/6I9DwLJJSS8fzzFqykaLbJ)** by **SQL2VD, KNIL$ES** *(SECRET)*
-🎤 **[BMW](https://open.spotify.com/track/0a4Gpx6mLKsAjtoQa0lLWR)** by **mxrrow, LeXanax** *(BMW)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[ANGELS OF DARKNESS HARDSTYLE + BREAKCORE](https://open.spotify.com/track/3IXKBCbLetMrS4TK5ZF0Z1)** by **vamxie** *(ANGELS OF DARKNESS HARDSTYLE + BREAKCORE)*
+🎤 **[Rapunzel](https://open.spotify.com/track/6dTre3NxDHz03H6AVPFlVl)** by **Sarya** *(Märchenparty)*
+🎤 **[Honeythief](https://open.spotify.com/track/1wB0vfECj9z0Glwwcb3DZg)** by **tainted, zesuna** *(Honeythief)*
+🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
+🎤 **[Say It Right - Sped Up](https://open.spotify.com/track/6Ftz9DgGGzTyyAYMX1jn2L)** by **FASTKID** *(BEATS & DRIFTS, Vol 6)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 09:48:29Z UTC
+🕐 Last updated: 2025-09-03 10:12:33Z UTC
 <!-- SPOTIFY-END -->
