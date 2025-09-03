@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27335813d965a1a8509fa69e09b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
-*by* **mint**
-*Album:* help me
+**🎵 [nomore](https://open.spotify.com/track/3lme49NlFKK1insi6lq0uH)**
+*by* **5v, mint**
+*Album:* nomore
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 2:48
+    0:14 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[one shot](https://open.spotify.com/track/4RvjRo8SUErh5mcoBE4AlX)** by **crusey, 1crusafix** *(one shot)*
+🎤 **[Devil](https://open.spotify.com/track/49B4IDJf9KwRKjpzfebg8I)** by **nomu.** *(Devil)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
-🎤 **[asiana](https://open.spotify.com/track/5rIuOYlvN1KL4OAlUw25QE)** by **MUNZi, yuske, yuri63k** *(asiana)*
-🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
-🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-03 21:25:38Z UTC
+🕐 Last updated: 2025-09-03 21:34:03Z UTC
 <!-- SPOTIFY-END -->
