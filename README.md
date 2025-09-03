@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730a1a828d7aa8bd76e3987000" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)**
-*by* **pink luu, TheyhxteAnt**
-*Album:* OH MY GAWD!
+**🎵 [garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)**
+*by* **agelast222**
+*Album:* Last Bible
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 1:34
+    1:28 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)** by **dollreal, 9surgery, MXRCELINE** *(burning desire <3)*
-🎤 **[ur mad](https://open.spotify.com/track/40bwve9HCBq3pxcrGnD4bz)** by **crusey, trustt, prkr blu, 1crusafix** *(ur mad)*
-🎤 **[PGD](https://open.spotify.com/track/3R90mgF7UeM6sPfCip0Qbj)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[WIMHOf](https://open.spotify.com/track/1xoK00RybgwoF22LQ93VK5)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
+🎤 **[Gfuelinme](https://open.spotify.com/track/1GQFNLpugRwhggFITeI0Fs)** by **Capoxxo** *(Gfuelinme)*
+🎤 **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **snor, Mezha, mayh3mp** *(hold me down)*
+🎤 **[foolish](https://open.spotify.com/track/3xUJ0JJIzvwYHDAlBX1iUp)** by **Senses** *(idle state)*
+🎤 **[OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)** by **pink luu, TheyhxteAnt** *(OH MY GAWD!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-03 22:28:52Z UTC
+🕐 Last updated: 2025-09-03 22:38:57Z UTC
 <!-- SPOTIFY-END -->
