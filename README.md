@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319e22c1ab45bbd4d607ff9d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273855e71ac212004ba528b1de1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)**
-*by* **jonatan leandoer96**
-*Album:* Nectar
+**🎵 [ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)**
+*by* **5v**
+*Album:* ashes2ashes
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 3:26
+    2:05 • 2:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[steady 1234 tekkno (sped up)](https://open.spotify.com/track/2VnpnuTDeMalWMip0IqyLE)** by **Nina's Boiler Room** *(steady 1234 tekkno (sped up))*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[owahu :3](https://open.spotify.com/track/42eo3Tip5dDvOb6pj6heix)** by **stixz** *(unre1eased)*
-🎤 **[I <3 HATERS](https://open.spotify.com/track/5qZXCJAdRjZSVJN8PzfWKO)** by **PTSD KFT** *(HELLT ISZOK -> NEM SPÉZEK)*
-🎤 **[myspace (2009)](https://open.spotify.com/track/7hMczGlmWk9kg3w8Qurvq8)** by **Cl4vr, n3vio** *(myspace (2009))*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
+🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 11:10:30Z UTC
+🕐 Last updated: 2025-09-03 11:24:17Z UTC
 <!-- SPOTIFY-END -->
