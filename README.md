@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27319e22c1ab45bbd4d607ff9d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)**
+*by* **jonatan leandoer96**
+*Album:* Nectar
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:05 • 3:26
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[r u okay with dying this way ?](https://open.spotify.com/track/3pOeJuNv9Rq66A589CWQWX)** by **nyxixide, cholorofilm, Mezha** *(r u okay with dying this way ?)*
-🎤 **[Не смотри на меня - ask eternity remix](https://open.spotify.com/track/1VIj5oZ1hDMkScEWEQz536)** by **hehehe, ask eternity** *(Не смотри на меня (ask eternity remix))*
-🎤 **[PRIVATE PARTY](https://open.spotify.com/track/3q530tVZ1256xLda8jdJle)** by **d3r archive, wujek** *(PRIVATE PARTY)*
-🎤 **[Gift](https://open.spotify.com/track/3bvOyNnelGch53UYVOLT9Y)** by **Callush** *(Gift)*
-🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
+🎤 **[steady 1234 tekkno (sped up)](https://open.spotify.com/track/2VnpnuTDeMalWMip0IqyLE)** by **Nina's Boiler Room** *(steady 1234 tekkno (sped up))*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[owahu :3](https://open.spotify.com/track/42eo3Tip5dDvOb6pj6heix)** by **stixz** *(unre1eased)*
+🎤 **[I <3 HATERS](https://open.spotify.com/track/5qZXCJAdRjZSVJN8PzfWKO)** by **PTSD KFT** *(HELLT ISZOK -> NEM SPÉZEK)*
+🎤 **[myspace (2009)](https://open.spotify.com/track/7hMczGlmWk9kg3w8Qurvq8)** by **Cl4vr, n3vio** *(myspace (2009))*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 10:47:50Z UTC
+🕐 Last updated: 2025-09-03 11:10:30Z UTC
 <!-- SPOTIFY-END -->
