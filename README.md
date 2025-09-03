@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[did I give you love](https://open.spotify.com/track/4EshJxgz6RMKcqu4kX65bE)** by **Psych** *(did I give you love)*
-🎤 **[manic](https://open.spotify.com/track/1WS7J9zlaEUUA1EQZUenWz)** by **seph, Tera, trustt** *(manic)*
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
-🎤 **[victim](https://open.spotify.com/track/4qfGcjrg4MW3CYy5LU9RTn)** by **Senses** *(victim)*
+🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
+🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
+🎤 **[finally free](https://open.spotify.com/track/0U4oz0kTzdonnbpEjpe55d)** by **d1v** *(finally free)*
+🎤 **[closer](https://open.spotify.com/track/4rtScczVD00vzIo5uzQ8dE)** by **RudeClub, skypebf** *(closer)*
+🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Pink Pony Club**](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)
 
 
-🕐 Last updated: 2025-09-03 07:47:57Z UTC
+🕐 Last updated: 2025-09-03 08:16:13Z UTC
 <!-- SPOTIFY-END -->
