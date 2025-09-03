@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732adc447b7089271a77af4371" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ff9c027d35d5ea443985bfb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Can´t believe you](https://open.spotify.com/track/69oLbN6RsiZJwgag2nyewD)**
-*by* **DJ Larra**
-*Album:* Can´t believe you
+**🎵 [BMW](https://open.spotify.com/track/0a4Gpx6mLKsAjtoQa0lLWR)**
+*by* **mxrrow, LeXanax**
+*Album:* BMW
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="207" height="4" fill="#1db954" rx="2"/>
+    <circle cx="207" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:00
+    1:59 • 2:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FEEL ME](https://open.spotify.com/track/2gAD00Ur9zgX2khPFeoi3Z)** by **lavendr** *(FEEL ME)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[die w me - nightcore](https://open.spotify.com/track/6NOFJaGYSaLdYPQqJBooc6)** by **03osc, txtsu, seraphiac, Rebzyyx** *(die w me (Remix))*
-🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
-🎤 **[party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)** by **dollreal, z4y4, p6inkillr** *(party at the graveyard)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[ANGELS OF DARKNESS HARDSTYLE + BREAKCORE](https://open.spotify.com/track/3IXKBCbLetMrS4TK5ZF0Z1)** by **vamxie** *(ANGELS OF DARKNESS HARDSTYLE + BREAKCORE)*
+🎤 **[sweet little bumblebee jumpstyle](https://open.spotify.com/track/7MywvMlOpe6Efpj3UdfPpu)** by **drwncvnt** *(sweet little bumblebee jumpstyle)*
+🎤 **[sub N dom](https://open.spotify.com/track/7uwhZ79IkCfFXGQukqAffQ)** by **pink luu, cxpyyy, luu** *(0800-111-0-222)*
+🎤 **[Can´t believe you](https://open.spotify.com/track/69oLbN6RsiZJwgag2nyewD)** by **DJ Larra** *(Can´t believe you)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 09:30:13Z UTC
+🕐 Last updated: 2025-09-03 09:41:02Z UTC
 <!-- SPOTIFY-END -->
