@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d6ae665490ec905ddc3fd17f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730a1a828d7aa8bd76e3987000" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)**
-*by* **Senses, mint**
-*Album:* paranoid
+**🎵 [OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)**
+*by* **pink luu, TheyhxteAnt**
+*Album:* OH MY GAWD!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="96" height="4" fill="#1db954" rx="2"/>
-    <circle cx="96" cy="2" r="6" fill="#1db954"/>
+    <rect width="213" height="4" fill="#1db954" rx="2"/>
+    <circle cx="213" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:37
+    1:06 • 1:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[talk ab it](https://open.spotify.com/track/7E0z50Qb1hlyp7epEefRB3)** by **crusey, c4pri** *(talk ab it)*
-🎤 **[Butterfly](https://open.spotify.com/track/3isB66Bn1418EHQ2Z9aLUp)** by **nomu.** *(Butterfly)*
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
+🎤 **[burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)** by **dollreal, 9surgery, MXRCELINE** *(burning desire <3)*
+🎤 **[ur mad](https://open.spotify.com/track/40bwve9HCBq3pxcrGnD4bz)** by **crusey, trustt, prkr blu, 1crusafix** *(ur mad)*
+🎤 **[PGD](https://open.spotify.com/track/3R90mgF7UeM6sPfCip0Qbj)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[WIMHOf](https://open.spotify.com/track/1xoK00RybgwoF22LQ93VK5)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-03 22:10:58Z UTC
+🕐 Last updated: 2025-09-03 22:28:52Z UTC
 <!-- SPOTIFY-END -->
