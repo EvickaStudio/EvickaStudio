@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2732adc447b7089271a77af4371" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Can´t believe you](https://open.spotify.com/track/69oLbN6RsiZJwgag2nyewD)**
+*by* **DJ Larra**
+*Album:* Can´t believe you
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:56 • 2:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
-🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
-🎤 **[finally free](https://open.spotify.com/track/0U4oz0kTzdonnbpEjpe55d)** by **d1v** *(finally free)*
-🎤 **[closer](https://open.spotify.com/track/4rtScczVD00vzIo5uzQ8dE)** by **RudeClub, skypebf** *(closer)*
-🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
+🎤 **[FEEL ME](https://open.spotify.com/track/2gAD00Ur9zgX2khPFeoi3Z)** by **lavendr** *(FEEL ME)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[die w me - nightcore](https://open.spotify.com/track/6NOFJaGYSaLdYPQqJBooc6)** by **03osc, txtsu, seraphiac, Rebzyyx** *(die w me (Remix))*
+🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
+🎤 **[party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)** by **dollreal, z4y4, p6inkillr** *(party at the graveyard)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**notfallkontakt**](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)
 
 
-🕐 Last updated: 2025-09-03 09:12:51Z UTC
+🕐 Last updated: 2025-09-03 09:30:13Z UTC
 <!-- SPOTIFY-END -->
