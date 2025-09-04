@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ecec149045e4f83cce7c9c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)**
+*by* **pathetic240px**
+*Album:* Dancing Nihilist
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:22 • 3:36
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[at the club 2](https://open.spotify.com/track/3vMtTDyfes1s91kJGi0IN1)** by **trndytrndy** *(songs2)*
-🎤 **[eyes on me](https://open.spotify.com/track/17DVXIlAH9JKk8dltPoZyc)** by **luu, Skatey Hellstar** *(HYPERCORE, Vol. 3)*
-🎤 **[this world doesn't deserve Uuu](https://open.spotify.com/track/2JXgOtTtqymCy6k6nOwOx6)** by **whyhaze** *(this world doesn't deserve Uuu)*
-🎤 **[REBAR](https://open.spotify.com/track/23wz6P0Xnn1nAbbFDjzaJC)** by **Focus Group, Aidan Swank, bleachblonde** *(STEPPED IN A PUDDLE NOW MY SOCKS R WET "FG004")*
-🎤 **[die w me - Remix](https://open.spotify.com/track/1hKRFlVBTpAWZv8Gnc87Ed)** by **03osc, txtsu, seraphiac, Rebzyyx** *(die w me (Remix))*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 07:47:39Z UTC
+🕐 Last updated: 2025-09-04 08:15:53Z UTC
 <!-- SPOTIFY-END -->
