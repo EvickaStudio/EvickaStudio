@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)**
-*by* **Crystal Castles**
-*Album:* Amnesty (I)
+**🎵 [Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)**
+*by* **The Truth**
+*Album:* U.S.T
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="78" height="4" fill="#1db954" rx="2"/>
-    <circle cx="78" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:49 • 3:08
+    1:50 • 3:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pink bubblegum](https://open.spotify.com/track/0rWF5FdQvfQD46gLME2Zx9)** by **lavi kou** *(pink bubblegum)*
-🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
-🎤 **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)*
-🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
+🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-04 12:24:52Z UTC
+🕐 Last updated: 2025-09-04 12:59:05Z UTC
 <!-- SPOTIFY-END -->
