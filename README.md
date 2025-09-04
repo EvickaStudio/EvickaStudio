@@ -108,12 +108,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318c25f9006eccdac526fd982" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Useful.Mp3](https://open.spotify.com/track/27uowdUPkHCfocRf3UTIPi)**
-*by* **flywoah**
-*Album:* Useful.Mp3
+**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
+*by* **mint**
+*Album:* gold
 
 
 <p align="center">
@@ -124,7 +124,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 1:40
+    3:51 • 3:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
-🎤 **[sick goodbye](https://open.spotify.com/track/21QTCscKx0zMBzWIno9RN3)** by **Senses, Lain** *(sick goodbye)*
-🎤 **[:UNLOCKEd](https://open.spotify.com/track/6z1QY4oQ9hAr9dPZUolBei)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[foreverafter](https://open.spotify.com/track/3VZOJnsqdsEPBl12HD2EGu)** by **syverina** *(foreverafter)*
-🎤 **[one kiss](https://open.spotify.com/track/6vtsK67Ch4zWasXm8dmyEE)** by **5v, Drux** *(one kiss)*
+🎤 **[SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
+🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[tonight](https://open.spotify.com/track/6SbknQrVd8sTPJ7pgSlSPX)** by **Fijimar** *(tonight)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 02:16:33Z UTC
+🕐 Last updated: 2025-09-04 03:06:49Z UTC
 <!-- SPOTIFY-END -->
