@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
-🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
-🎤 **[металл цэцэрлэг (1125) /full metal garden](https://open.spotify.com/track/04PwXV2Gp5YV0ZGzpOc2Ox)** by **agelast222** *(металл цэцэрлэг (1125) /full metal garden)*
-🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
-🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
+🎤 **[i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)** by **RudeClub** *(i'm just trynna fuck)*
+🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
+🎤 **[KISS ME OR I WILL KMS](https://open.spotify.com/track/6O27CLVuBwhMgyTtnXh8WQ)** by **disoc8** *(KISS ME OR I WILL KMS)*
+🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 03:50:03Z UTC
+🕐 Last updated: 2025-09-04 04:14:25Z UTC
 <!-- SPOTIFY-END -->
