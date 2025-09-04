@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
+🎤 **[junge römer (R.I.P Falco)](https://open.spotify.com/track/0Tdz24cbidJ4mSp6GuUOk6)** by **Kroka Koka** *(Dagestan Dreams)*
 🎤 **[300BLk](https://open.spotify.com/track/0EOnXckkEtpuQORTuh1K7W)** by **agelast222, gard** *(SOLAR TACTICS)*
 🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
 🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **snor, d3r** *(wish I didnt kno her ##biblemusic)*
 🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
-🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 04:33:47Z UTC
+🕐 Last updated: 2025-09-04 04:47:58Z UTC
 <!-- SPOTIFY-END -->
