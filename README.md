@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273fac7e02db331a41fc546eee1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)**
+*by* **luu, Skatey Hellstar**
+*Album:* blister
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:05 • 1:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[are u afraid to die?](https://open.spotify.com/track/4BaQqlj13siznLEnKZKIDS)** by **cholorofilm** *(are u afraid to die?)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
 🎤 **[junge römer (R.I.P Falco)](https://open.spotify.com/track/0Tdz24cbidJ4mSp6GuUOk6)** by **Kroka Koka** *(Dagestan Dreams)*
 🎤 **[300BLk](https://open.spotify.com/track/0EOnXckkEtpuQORTuh1K7W)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
-🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **snor, d3r** *(wish I didnt kno her ##biblemusic)*
-🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 05:11:59Z UTC
+🕐 Last updated: 2025-09-04 05:29:56Z UTC
 <!-- SPOTIFY-END -->
