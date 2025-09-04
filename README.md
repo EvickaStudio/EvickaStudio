@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)**
+*by* **SALEM**
+*Album:* Fires In Heaven
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:43 • 2:48
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
-🎤 **[Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9)** by **Baby B3ns** *(Schmetterling)*
-🎤 **[regen༺♡✧+++](https://open.spotify.com/track/7n25BiOJchTevJkXBw1FGs)** by **DANZINGER 99, DJ<3** *(Hotel+++)*
-🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
-🎤 **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
+🎤 **[r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)** by **skrt cobain** *(r4ver girl)*
+🎤 **[Handykoks](https://open.spotify.com/track/0FFpBGSavm5AVu2AmxpiDx)** by **ilyproxy, leander, DJ Jambalaya** *(Handykoks)*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-04 14:48:39Z UTC
+🕐 Last updated: 2025-09-04 15:12:32Z UTC
 <!-- SPOTIFY-END -->
