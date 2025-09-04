@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)** by **RudeClub** *(i'm just trynna fuck)*
-🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
-🎤 **[KISS ME OR I WILL KMS](https://open.spotify.com/track/6O27CLVuBwhMgyTtnXh8WQ)** by **disoc8** *(KISS ME OR I WILL KMS)*
-🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
+🎤 **[300BLk](https://open.spotify.com/track/0EOnXckkEtpuQORTuh1K7W)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
+🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **snor, d3r** *(wish I didnt kno her ##biblemusic)*
+🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
+🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 04:14:25Z UTC
+🕐 Last updated: 2025-09-04 04:33:47Z UTC
 <!-- SPOTIFY-END -->
