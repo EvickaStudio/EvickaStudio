@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
+🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
+🎤 **[металл цэцэрлэг (1125) /full metal garden](https://open.spotify.com/track/04PwXV2Gp5YV0ZGzpOc2Ox)** by **agelast222** *(металл цэцэрлэг (1125) /full metal garden)*
+🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
 🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
-🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[deine seele](https://open.spotify.com/track/60LmT6kw3T43a8Zv6AMWAh)** by **pink luu, Lytra, cxpyyy, luu** *(deine seele)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[JULiEt](https://open.spotify.com/track/6UxMM5cymzCaFnwhoxyGBO)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 03:37:42Z UTC
+🕐 Last updated: 2025-09-04 03:50:03Z UTC
 <!-- SPOTIFY-END -->
