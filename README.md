@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0babc7e373903bf140e735b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)**
-*by* **seph, nomu.**
-*Album:* reside
+**🎵 [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)**
+*by* **Aphex Twin**
+*Album:* Selected Ambient Works 85-92
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 3:12
+    3:56 • 4:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)** by **seph, nomu.** *(reside)*
 🎤 **[deine seele](https://open.spotify.com/track/60LmT6kw3T43a8Zv6AMWAh)** by **pink luu, Lytra, cxpyyy, luu** *(deine seele)*
-🎤 **[긴밤 (long night)](https://open.spotify.com/track/22g1gpv0Ej9lQwrCHGm3gG)** by **MUNZi, sn7** *(긴밤 (long night))*
-🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
-🎤 **[destroy mee](https://open.spotify.com/track/1ocQiQRx6cZjj6v1nNHdWi)** by **maknae, Senses** *(destroy mee)*
-🎤 **[undercover](https://open.spotify.com/track/4Nu7VrBPe77XFVq3oaDgzf)** by **Senses** *(undercover)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-04 11:34:06Z UTC
+🕐 Last updated: 2025-09-04 11:47:50Z UTC
 <!-- SPOTIFY-END -->
