@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27384a25e8c99a8c50542bb4d9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b0babc7e373903bf140e735b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [destroy mee](https://open.spotify.com/track/1ocQiQRx6cZjj6v1nNHdWi)**
-*by* **maknae, Senses**
-*Album:* destroy mee
+**🎵 [reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)**
+*by* **seph, nomu.**
+*Album:* reside
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:54
+    0:56 • 3:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[deine seele](https://open.spotify.com/track/60LmT6kw3T43a8Zv6AMWAh)** by **pink luu, Lytra, cxpyyy, luu** *(deine seele)*
+🎤 **[긴밤 (long night)](https://open.spotify.com/track/22g1gpv0Ej9lQwrCHGm3gG)** by **MUNZi, sn7** *(긴밤 (long night))*
+🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
+🎤 **[destroy mee](https://open.spotify.com/track/1ocQiQRx6cZjj6v1nNHdWi)** by **maknae, Senses** *(destroy mee)*
 🎤 **[undercover](https://open.spotify.com/track/4Nu7VrBPe77XFVq3oaDgzf)** by **Senses** *(undercover)*
-🎤 **[nu world](https://open.spotify.com/track/7xJCRt5N5gfeFRUyt7ZrIp)** by **nuum** *(nu world)*
-🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
-🎤 **[상상](https://open.spotify.com/track/32m3PcIIYN9stIcXS3ELs5)** by **MUNZi, mitsu, kishin** *(상상)*
-🎤 **[adding up](https://open.spotify.com/track/7DStWZvtslk9legHOW1Dt5)** by **crusey, 1crusafix, w!ldflwr** *(adding up)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-04 11:24:35Z UTC
+🕐 Last updated: 2025-09-04 11:34:06Z UTC
 <!-- SPOTIFY-END -->
