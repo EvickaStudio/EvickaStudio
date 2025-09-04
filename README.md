@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730c52340f2d789fac5a093025" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Waste](https://open.spotify.com/track/2ofArIiQf7MQV68BPCW2Z1)**
-*by* **nomu.**
-*Album:* Waste
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 2:43
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[ratchet & clank](https://open.spotify.com/track/6HgTiyFigE7n4zmsHgHRQT)** by **luu, Skatey Hellstar** *(HYPERCORE, Vol. 3)*
-🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
-🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[at the club 2](https://open.spotify.com/track/3vMtTDyfes1s91kJGi0IN1)** by **trndytrndy** *(songs2)*
+🎤 **[eyes on me](https://open.spotify.com/track/17DVXIlAH9JKk8dltPoZyc)** by **luu, Skatey Hellstar** *(HYPERCORE, Vol. 3)*
+🎤 **[this world doesn't deserve Uuu](https://open.spotify.com/track/2JXgOtTtqymCy6k6nOwOx6)** by **whyhaze** *(this world doesn't deserve Uuu)*
+🎤 **[REBAR](https://open.spotify.com/track/23wz6P0Xnn1nAbbFDjzaJC)** by **Focus Group, Aidan Swank, bleachblonde** *(STEPPED IN A PUDDLE NOW MY SOCKS R WET "FG004")*
+🎤 **[die w me - Remix](https://open.spotify.com/track/1hKRFlVBTpAWZv8Gnc87Ed)** by **03osc, txtsu, seraphiac, Rebzyyx** *(die w me (Remix))*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-04 06:45:54Z UTC
+🕐 Last updated: 2025-09-04 07:11:40Z UTC
 <!-- SPOTIFY-END -->
