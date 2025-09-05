@@ -133,12 +133,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
-🥈 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
-🥉 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
+🥇 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
+🥈 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
+🥉 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-05 18:50:43Z UTC
+🕐 Last updated: 2025-09-05 19:09:27Z UTC
 <!-- SPOTIFY-END -->
