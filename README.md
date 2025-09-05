@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c0cab933c5ac034734452ada" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Protected - Joon Gloom Remix](https://open.spotify.com/track/7MXWSxauuwjzYgQyLr7tQZ)**
+*by* **Woesum, Joon Gloom**
+*Album:* Protected (Joon Gloom Remix)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:08 • 3:30
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[celebrity crash](https://open.spotify.com/track/0aUhIVcYbIFjCsArRiJ0zC)** by **jequya** *(celebrity crash)*
+🎤 **[so tired](https://open.spotify.com/track/5Q6YsHt07Dom4aZCjbS0gl)** by **Ezekiel** *(so tired)*
+🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
 🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
 🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
-🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
-🎤 **[r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)** by **skrt cobain** *(r4ver girl)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-05 06:18:43Z UTC
+🕐 Last updated: 2025-09-05 06:45:46Z UTC
 <!-- SPOTIFY-END -->
