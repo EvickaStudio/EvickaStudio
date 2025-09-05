@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[TUESDAY](https://open.spotify.com/track/7BX4vQjQMcY9nB2KZS8ZtS)** by **blackwinterwells, hateoryx, Ada Rook** *(BEAR NOTHING)*
-🎤 **[Protected - Joon Gloom Remix](https://open.spotify.com/track/7MXWSxauuwjzYgQyLr7tQZ)** by **Woesum, Joon Gloom** *(Protected (Joon Gloom Remix))*
-🎤 **[celebrity crash](https://open.spotify.com/track/0aUhIVcYbIFjCsArRiJ0zC)** by **jequya** *(celebrity crash)*
-🎤 **[so tired](https://open.spotify.com/track/5Q6YsHt07Dom4aZCjbS0gl)** by **Ezekiel** *(so tired)*
-🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**comeback d9 prime era**](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)
 
 
-🕐 Last updated: 2025-09-05 10:47:44Z UTC
+🕐 Last updated: 2025-09-05 11:10:09Z UTC
 <!-- SPOTIFY-END -->
