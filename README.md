@@ -140,5 +140,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-07 22:28:20Z UTC
+🕐 Last updated: 2025-09-07 22:37:57Z UTC
 <!-- SPOTIFY-END -->
