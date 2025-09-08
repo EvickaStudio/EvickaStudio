@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e0c6b41ebde22e619efdc46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Still Waters](https://open.spotify.com/track/0SIX4MU0bBlOwpFdOC5RAS)**
+**🎵 [Willow Trees](https://open.spotify.com/track/23q0mUMfUE8vZjoK02Sokx)**
 *by* **Soothing Oasis**
-*Album:* Riverside
+*Album:* Breathing Forest
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="163" height="4" fill="#1db954" rx="2"/>
+    <circle cx="163" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:06
+    1:09 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)** by **Rezlaine, rylorie** *(iiiistillthinkineeduu)*
-🎤 **[My World](https://open.spotify.com/track/7tzVGInJikVEJ4pt9n3Cyg)** by **roxxy** *(My World)*
-🎤 **[two faced](https://open.spotify.com/track/4RN6Hpm1kgZcwVvchaVnu3)** by **m1v, vanity** *(two faced)*
-🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
-🎤 **[Luv2Hate](https://open.spotify.com/track/4Im8E4fM9iqkjbS8GrddoA)** by **Killedbykira** *(Luv2Hate)*
+🎤 **[Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Zen Moments](https://open.spotify.com/track/2gfKbFDlCiCKSQYIXh6MKc)** by **Avery's Ambient** *(Zen Moments)*
+🎤 **[Fading Horizons](https://open.spotify.com/track/0J2zV2oaFbuxcScNiJ3pTP)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
+🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 21:47:20Z UTC
+🕐 Last updated: 2025-09-08 22:11:41Z UTC
 <!-- SPOTIFY-END -->
