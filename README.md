@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346594fcee9980ab828135f7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)**
-*by* **Soothing Oasis**
-*Album:* Gently Sleeping
+**🎵 [Light](https://open.spotify.com/track/2GpZBrPkHpmEiXDSOy9eTi)**
+*by* **Avery's Ambient**
+*Album:* A New Day
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="55" height="4" fill="#1db954" rx="2"/>
-    <circle cx="55" cy="2" r="6" fill="#1db954"/>
+    <rect width="78" height="4" fill="#1db954" rx="2"/>
+    <circle cx="78" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 2:04
+    0:32 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Through the Fog](https://open.spotify.com/track/3hPBrP0ZbE2hOrZtuVgzg7)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[Murmur](https://open.spotify.com/track/4ubQ5Hszm199mIkSnUTTuW)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Through the Valley](https://open.spotify.com/track/20IUUlyO2cZ9dyKtkrFhiJ)** by **Soothing Oasis** *(Through the Valley)*
-🎤 **[Obsidian Sky](https://open.spotify.com/track/6xNTwlHxR6slKsFRRMz0dc)** by **Avery's Ambient** *(Obsidian Sky)*
-🎤 **[Softly Spun](https://open.spotify.com/track/2w4OWSTguX9fH7KlrheFqq)** by **Avery's Ambient** *(Stillness)*
+🎤 **[Dancing Light](https://open.spotify.com/track/1eXjJVDq1lz7PXQSFCfqYz)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Soft Horizon](https://open.spotify.com/track/5ZGi0V1MCY9EyZJPk7tx66)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Whispering Wind](https://open.spotify.com/track/1oFVT0ku1YT449DGffVB7D)** by **Soothing Oasis** *(Sleeping Earth)*
+🎤 **[Rising Mist](https://open.spotify.com/track/1k6CZJQYsbIsWi9VTkzETC)** by **Avery's Ambient** *(Awakening Earth)*
+🎤 **[Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)** by **Soothing Oasis** *(Gently Sleeping)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 23:36:46Z UTC
+🕐 Last updated: 2025-09-08 23:47:35Z UTC
 <!-- SPOTIFY-END -->
