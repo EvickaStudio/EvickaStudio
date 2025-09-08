@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731c01f11ce57d77570fc6fa59" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eb059d1792344843003c14ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)**
-*by* **luu, cy4ne**
-*Album:* arschloch
+**🎵 [snowflakes](https://open.spotify.com/track/1bApPEalFwDdKTGSNoiIML)**
+*by* **2504**
+*Album:* snowflakes
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:39
+    0:21 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
-🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[paparazzi](https://open.spotify.com/track/0EGsZb7hb3oeJXfGzG0d4g)** by **siouxxie sixxsta** *(witchpop)*
+🎤 **[its not an obsession](https://open.spotify.com/track/7ghkwFfeKhuJAfIX2hYg1k)** by **Stxlkin** *(its not an obsession)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
+🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 20:13:39Z UTC
+🕐 Last updated: 2025-09-08 20:31:41Z UTC
 <!-- SPOTIFY-END -->
