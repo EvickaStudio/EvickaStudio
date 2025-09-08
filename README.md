@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357e91863241d83d7954c3ad3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734d6700ddce0bf438c5459496" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)**
-*by* **Tamino404, eedrian**
-*Album:* notfallkontakt
+**🎵 [crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)**
+*by* **Iuvumi**
+*Album:* crushing ice
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:20
+    0:27 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[40 BENZ](https://open.spotify.com/track/4k4S0eqvk72fRW0xoEiyIK)** by **SyKo, Rezlaine** *(Carousel)*
+🎤 **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-08 12:26:20Z UTC
+🕐 Last updated: 2025-09-08 13:04:58Z UTC
 <!-- SPOTIFY-END -->
