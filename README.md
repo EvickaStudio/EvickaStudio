@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cd4a595ef20e19689e5f1122" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27330f3fe37754c923d77c386a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)**
-*by* **oaf1, Caspr**
-*Album:* think abt it
+**🎵 [love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)**
+*by* **Feeluvsyou**
+*Album:* love in my head
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:24
+    0:59 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[superstars](https://open.spotify.com/track/4ttbOgP7fHj7O344S84zh5)** by **Mezha, snor** *(superstars)*
-🎤 **[ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)** by **disoc8** *(ur the one i want <3)*
-🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[이 사람](https://open.spotify.com/track/1HNZJImVIbzz6iszVBrQUf)** by **Feeluvsyou** *(이 사람)*
-🎤 **[pretending in 2020](https://open.spotify.com/track/0Tf82VjlHNCGTHOdsyqi8F)** by **Stxlkin** *(pretending in 2020)*
+🎤 **[Fabric Softener](https://open.spotify.com/track/1VDAwheezrg6fVmhC5ajoH)** by **dreamcache** *(Fabric Softener)*
+🎤 **[my way back](https://open.spotify.com/track/2xFNJnHGJL936ARupprO5v)** by **2504** *(my way back)*
+🎤 **[i miss the old times](https://open.spotify.com/track/0owSGAefVFWKpC8JQcSzJ1)** by **Capoxxo** *(i miss the old times)*
+🎤 **[212](https://open.spotify.com/track/287tMx0SyTiZbx7R7pM8cI)** by **Stxlkin** *(212)*
+🎤 **[someone else](https://open.spotify.com/track/4VRRKOIHyiOYp272HCPeEd)** by **oaf1** *(someone else)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 18:17:47Z UTC
+🕐 Last updated: 2025-09-08 18:44:23Z UTC
 <!-- SPOTIFY-END -->
