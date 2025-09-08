@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b80e04e6240095cbd5641bc1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a6bec2cd4536938f84cc4038" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sequence](https://open.spotify.com/track/4PasUb74PQ4N6HOxtaIqZm)**
-*by* **Capoxxo, mayh3mp**
-*Album:* Sequence
+**🎵 [Bus Stop!](https://open.spotify.com/track/0tnK3W3UItcTZajfcY7dZ9)**
+*by* **SyKo**
+*Album:* Bus Stop!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="295" height="4" fill="#1db954" rx="2"/>
-    <circle cx="295" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 2:41
+    1:52 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
-🎤 **[E Kid](https://open.spotify.com/track/7zwrlJI2jS4btTrsUDG9T1)** by **Lil Soda Boi** *(Eco)*
-🎤 **[leaking red glitter](https://open.spotify.com/track/3grAgSdUc2QwrBB98Ufwl7)** by **snor, cholorofilm** *(leaking red glitter)*
-🎤 **[girl online](https://open.spotify.com/track/3BMaGHQximpMug2xrp6TdI)** by **siouxxie sixxsta** *(witchpop)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[solo tuyo](https://open.spotify.com/track/2mLpmfpGuzOBGI1DtK9WMa)** by **Stradanie** *(starr)*
+🎤 **[It Was Beautiful](https://open.spotify.com/track/0LOrGc5do2ImMZV2aPg2bh)** by **Capoxxo** *(It Was Beautiful)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[Courtside](https://open.spotify.com/track/4ZasdJcLktsDZ8VlpE7tsZ)** by **Lil Soda Boi** *(Eco)*
+🎤 **[leaking black glitter](https://open.spotify.com/track/5mSSBuqxfBONN0SOnEAdKB)** by **snor, cholorofilm, Keta** *(leaking black glitter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 17:10:45Z UTC
+🕐 Last updated: 2025-09-08 17:28:44Z UTC
 <!-- SPOTIFY-END -->
