@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731bb404c4a351e4a4290695c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346594fcee9980ab828135f7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mountains](https://open.spotify.com/track/04EYI94PvxaE4u8eH4X1ck)**
+**🎵 [Zen](https://open.spotify.com/track/00w36KjjTPvpO9zb4CuIHo)**
 *by* **Avery's Ambient**
-*Album:* In the Distance
+*Album:* A New Day
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 2:16
+    1:11 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Peace](https://open.spotify.com/track/6WjfIRK2wnzKh2IzfQlgcE)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Peace of Mind](https://open.spotify.com/track/4sjiDNmvb0l63hvsHkOSZz)** by **Soothing Oasis** *(Peace of Mind)*
-🎤 **[A New Day](https://open.spotify.com/track/5b4yr0AdyVcFIYKln7JIIB)** by **Avery's Ambient** *(A New Day)*
-🎤 **[Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)** by **Soothing Oasis** *(Sleep Well)*
-🎤 **[Peaceful Passage](https://open.spotify.com/track/18UjBDG1TiLotPs98x4zsf)** by **Soothing Oasis** *(Earth at Rest)*
+🎤 **[Lotus](https://open.spotify.com/track/7CIhDOL9MgrVOTCL19Kk3H)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Starlit Skies](https://open.spotify.com/track/132lUl0EQmSoFP6eru6FhG)** by **Soothing Oasis** *(Ancient Stars)*
+🎤 **[Foggy Morning](https://open.spotify.com/track/4s2rLlLjmt647RM1bcEv0h)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Soft Glow](https://open.spotify.com/track/607OsVEKxjtdvEbh58Lprd)** by **Soothing Oasis** *(Evening)*
+🎤 **[Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)** by **Avery's Ambient** *(Midnight Waves)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 22:47:39Z UTC
+🕐 Last updated: 2025-09-08 23:11:57Z UTC
 <!-- SPOTIFY-END -->
