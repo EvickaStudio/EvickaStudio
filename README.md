@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c77a322e0afd8c86db8682f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)**
-*by* **SHEMYYY**
-*Album:* still looking for you.
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:21
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
 🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
-🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
-🎤 **[owls eye](https://open.spotify.com/track/27yGzL2nQ3qj5l12Bni631)** by **ivri** *(the star factory)*
-🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-08 10:13:18Z UTC
+🕐 Last updated: 2025-09-08 10:35:54Z UTC
 <!-- SPOTIFY-END -->
