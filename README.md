@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27324ca23e6c638e0b898d22883" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fbe0215124c4d55ef44f41b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)**
-*by* **adore**
-*Album:* dancing while the world burns
+**🎵 [skinwalker](https://open.spotify.com/track/1gNDwqojuEgI9OTJFLK0Ha)**
+*by* **siouxxie sixxsta**
+*Album:* skinwalker
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:32
+    1:21 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[popst4r](https://open.spotify.com/track/1AtbmWfdOPC2WGfBtNrstp)** by **03osc** *(deleted_filez)*
+🎤 **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)*
+🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
 🎤 **[poster](https://open.spotify.com/track/30N0ouqIOu4Ydq9FBksS4e)** by **oaf1** *(poster)*
 🎤 **[Fail](https://open.spotify.com/track/4T7fLpT61LaOism0zdIukN)** by **Capoxxo** *(Fail)*
-🎤 **[bodiez](https://open.spotify.com/track/2Q4s93yOe2Rb1lGy1DRUYu)** by **siouxxie sixxsta** *(bodiez)*
-🎤 **[EVRYTIME WE TOUCH](https://open.spotify.com/track/3usvumgeXhvYJhHWYmmqXg)** by **03osc** *(EVRYTIME WE TOUCH)*
-🎤 **[hypnocil](https://open.spotify.com/track/0nbdnuyEDzpgKoZzpfBkgu)** by **snor** *(hypnocil)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 17:40:31Z UTC
+🕐 Last updated: 2025-09-08 17:47:56Z UTC
 <!-- SPOTIFY-END -->
