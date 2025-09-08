@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b76d797c0a30066601a54d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Softly Spun](https://open.spotify.com/track/2w4OWSTguX9fH7KlrheFqq)**
-*by* **Avery's Ambient**
-*Album:* Stillness
+**🎵 [Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)**
+*by* **Soothing Oasis**
+*Album:* Gently Sleeping
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="218" height="4" fill="#1db954" rx="2"/>
-    <circle cx="218" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 2:14
+    0:23 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Garden](https://open.spotify.com/track/7iHYAoDdwmTyd9zaeXS91V)** by **Avery's Ambient** *(Zen Moments)*
-🎤 **[Drifting on Clouds](https://open.spotify.com/track/5k2FIyYhnaUQLAnCEXLRFp)** by **Soothing Oasis** *(Sleeping Earth)*
-🎤 **[Mist on the Riverside](https://open.spotify.com/track/5S07qONtDLCj1jzX0gK8nU)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
+🎤 **[Through the Fog](https://open.spotify.com/track/3hPBrP0ZbE2hOrZtuVgzg7)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Murmur](https://open.spotify.com/track/4ubQ5Hszm199mIkSnUTTuW)** by **Soothing Oasis** *(Stillness)*
 🎤 **[Through the Valley](https://open.spotify.com/track/20IUUlyO2cZ9dyKtkrFhiJ)** by **Soothing Oasis** *(Through the Valley)*
+🎤 **[Obsidian Sky](https://open.spotify.com/track/6xNTwlHxR6slKsFRRMz0dc)** by **Avery's Ambient** *(Obsidian Sky)*
+🎤 **[Softly Spun](https://open.spotify.com/track/2w4OWSTguX9fH7KlrheFqq)** by **Avery's Ambient** *(Stillness)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 23:27:13Z UTC
+🕐 Last updated: 2025-09-08 23:36:46Z UTC
 <!-- SPOTIFY-END -->
