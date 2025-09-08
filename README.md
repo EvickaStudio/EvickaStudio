@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fbe0215124c4d55ef44f41b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cd4a595ef20e19689e5f1122" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [skinwalker](https://open.spotify.com/track/1gNDwqojuEgI9OTJFLK0Ha)**
-*by* **siouxxie sixxsta**
-*Album:* skinwalker
+**🎵 [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)**
+*by* **oaf1, Caspr**
+*Album:* think abt it
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 2:10
+    0:06 • 2:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[popst4r](https://open.spotify.com/track/1AtbmWfdOPC2WGfBtNrstp)** by **03osc** *(deleted_filez)*
-🎤 **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)*
-🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
-🎤 **[poster](https://open.spotify.com/track/30N0ouqIOu4Ydq9FBksS4e)** by **oaf1** *(poster)*
-🎤 **[Fail](https://open.spotify.com/track/4T7fLpT61LaOism0zdIukN)** by **Capoxxo** *(Fail)*
+🎤 **[superstars](https://open.spotify.com/track/4ttbOgP7fHj7O344S84zh5)** by **Mezha, snor** *(superstars)*
+🎤 **[ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)** by **disoc8** *(ur the one i want <3)*
+🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
+🎤 **[이 사람](https://open.spotify.com/track/1HNZJImVIbzz6iszVBrQUf)** by **Feeluvsyou** *(이 사람)*
+🎤 **[pretending in 2020](https://open.spotify.com/track/0Tf82VjlHNCGTHOdsyqi8F)** by **Stxlkin** *(pretending in 2020)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 17:47:56Z UTC
+🕐 Last updated: 2025-09-08 18:17:47Z UTC
 <!-- SPOTIFY-END -->
