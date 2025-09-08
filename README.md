@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734d3bac19d35519b30fb283f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)**
-*by* **Mezha, snor**
-*Album:* obstacle
+**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
+*by* **luu, mehlhaltig, iwannabemissed**
+*Album:* triple trauma
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 2:56
+    0:46 • 1:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cupcakes.mp3](https://open.spotify.com/track/7oeCmvSF5mt2GqwX9YoLVk)** by **siouxxie sixxsta** *(cupcakes.mp3)*
-🎤 **[restoration of the neglected](https://open.spotify.com/track/7zPJf7sjysYZzxt64hLnVV)** by **Rebzyyx** *(restoration of the neglected)*
-🎤 **[Plug Me In](https://open.spotify.com/track/6ljeYIIPOK3TAI7AFqd7kK)** by **Lil Soda Boi** *(Eco)*
-🎤 **[come over to the party](https://open.spotify.com/track/7GgQBundAiJj1F3514JHUG)** by **d3r, blood pup, FabFantasy** *(come over to the party)*
-🎤 **[bloody bathroom](https://open.spotify.com/track/6RRoQakBSNIX3YtxiWRDv9)** by **cholorofilm** *(bloody bathroom)*
+🎤 **[spacebar](https://open.spotify.com/track/1NlWBa7x2zQ7bAWxS8PpAw)** by **Mezha** *(spacebar)*
+🎤 **[yumi nikki](https://open.spotify.com/track/76GarHjbJrtn1b0uqLNt0x)** by **siouxxie sixxsta** *(yumi nikki)*
+🎤 **[hatred](https://open.spotify.com/track/0uoVialqxSl0LGSAvbPRGV)** by **Stxlkin** *(hatred)*
+🎤 **[i cannot remember why!](https://open.spotify.com/track/1KVacwZ3VVMasgFHEWcd6Q)** by **03osc** *(i cannot remember why!)*
+🎤 **[off my meds](https://open.spotify.com/track/6BopZbKBDfLRZRrnim51YW)** by **d3r, blood pup** *(off my meds)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 19:09:50Z UTC
+🕐 Last updated: 2025-09-08 19:23:58Z UTC
 <!-- SPOTIFY-END -->
