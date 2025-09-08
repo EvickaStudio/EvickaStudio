@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27346594fcee9980ab828135f7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zen](https://open.spotify.com/track/00w36KjjTPvpO9zb4CuIHo)**
+**🎵 [Softly Spun](https://open.spotify.com/track/2w4OWSTguX9fH7KlrheFqq)**
 *by* **Avery's Ambient**
-*Album:* A New Day
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="218" height="4" fill="#1db954" rx="2"/>
+    <circle cx="218" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:04
+    1:37 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lotus](https://open.spotify.com/track/7CIhDOL9MgrVOTCL19Kk3H)** by **Avery's Ambient** *(Night Bloom)*
-🎤 **[Starlit Skies](https://open.spotify.com/track/132lUl0EQmSoFP6eru6FhG)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[Foggy Morning](https://open.spotify.com/track/4s2rLlLjmt647RM1bcEv0h)** by **Soothing Oasis** *(Foggy Morning)*
-🎤 **[Soft Glow](https://open.spotify.com/track/607OsVEKxjtdvEbh58Lprd)** by **Soothing Oasis** *(Evening)*
-🎤 **[Water's Surface](https://open.spotify.com/track/5FWFMBzLHjpCb5u8AzF4cH)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[Garden](https://open.spotify.com/track/7iHYAoDdwmTyd9zaeXS91V)** by **Avery's Ambient** *(Zen Moments)*
+🎤 **[Drifting on Clouds](https://open.spotify.com/track/5k2FIyYhnaUQLAnCEXLRFp)** by **Soothing Oasis** *(Sleeping Earth)*
+🎤 **[Mist on the Riverside](https://open.spotify.com/track/5S07qONtDLCj1jzX0gK8nU)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
+🎤 **[Through the Valley](https://open.spotify.com/track/20IUUlyO2cZ9dyKtkrFhiJ)** by **Soothing Oasis** *(Through the Valley)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 23:11:57Z UTC
+🕐 Last updated: 2025-09-08 23:27:13Z UTC
 <!-- SPOTIFY-END -->
