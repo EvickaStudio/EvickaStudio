@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738327d2bb4cd647d8353a276d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734d3bac19d35519b30fb283f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1)**
-*by* **siouxxie sixxsta**
-*Album:* morrigan
+**🎵 [obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)**
+*by* **Mezha, snor**
+*Album:* obstacle
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="226" height="4" fill="#1db954" rx="2"/>
-    <circle cx="226" cy="2" r="6" fill="#1db954"/>
+    <rect width="229" height="4" fill="#1db954" rx="2"/>
+    <circle cx="229" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:22
+    2:14 • 2:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Gfuelinme](https://open.spotify.com/track/1GQFNLpugRwhggFITeI0Fs)** by **Capoxxo** *(Gfuelinme)*
-🎤 **[globabee,, glo glo](https://open.spotify.com/track/6x3twaKKzI6WmdVhqMFjBC)** by **i9bonsai** *(globabee,, glo glo)*
-🎤 **[Illuminati - Sped Up & Pitched](https://open.spotify.com/track/0fCROmx33gRWRsiPxHy5tb)** by **LyteSpeed, Punkinloveee** *(Illuminati (Sped Up & Pitched))*
-🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
-🎤 **[Fabric Softener](https://open.spotify.com/track/1VDAwheezrg6fVmhC5ajoH)** by **dreamcache** *(Fabric Softener)*
+🎤 **[cupcakes.mp3](https://open.spotify.com/track/7oeCmvSF5mt2GqwX9YoLVk)** by **siouxxie sixxsta** *(cupcakes.mp3)*
+🎤 **[restoration of the neglected](https://open.spotify.com/track/7zPJf7sjysYZzxt64hLnVV)** by **Rebzyyx** *(restoration of the neglected)*
+🎤 **[Plug Me In](https://open.spotify.com/track/6ljeYIIPOK3TAI7AFqd7kK)** by **Lil Soda Boi** *(Eco)*
+🎤 **[come over to the party](https://open.spotify.com/track/7GgQBundAiJj1F3514JHUG)** by **d3r, blood pup, FabFantasy** *(come over to the party)*
+🎤 **[bloody bathroom](https://open.spotify.com/track/6RRoQakBSNIX3YtxiWRDv9)** by **cholorofilm** *(bloody bathroom)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 18:53:25Z UTC
+🕐 Last updated: 2025-09-08 19:09:50Z UTC
 <!-- SPOTIFY-END -->
