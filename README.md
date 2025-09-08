@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3127c4fe017632d7aa1e84b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273433c397dffb821e6cf900994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)**
-*by* **5v, kojo**
-*Album:* issues
+**🎵 [Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)**
+*by* **flywoah**
+*Album:* Digital Watch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="7" height="4" fill="#1db954" rx="2"/>
-    <circle cx="7" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:03 • 2:08
+    0:35 • 1:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
-🎤 **[ju5t d4nc3](https://open.spotify.com/track/0PWTl1q0SjS4csszeP04Rt)** by **Fijimar** *(ju5t d4nc3)*
-🎤 **[virus](https://open.spotify.com/track/7vcm2OrIo5bBmac77LfS3X)** by **Senses** *(virus)*
-🎤 **[tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)** by **pink luu, 1antibody** *(tot wie maus)*
+🎤 **[limelight](https://open.spotify.com/track/4GO2hWbvsC2XIVmh4AvpR0)** by **Senses, SEBii** *(limelight)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
+🎤 **[transylvania](https://open.spotify.com/track/3JiRFZZXig8sAOxZwI8eIt)** by **snor, cy4ne, Luvsick2k, cholorofilm** *(transylvania)*
+🎤 **[when u bleed <3](https://open.spotify.com/track/3CwhTRD4o9uppXuMvP0O2e)** by **disoc8** *(when u bleed <3)*
+🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 15:31:15Z UTC
+🕐 Last updated: 2025-09-08 15:48:07Z UTC
 <!-- SPOTIFY-END -->
