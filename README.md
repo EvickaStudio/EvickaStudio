@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27330f3fe37754c923d77c386a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738327d2bb4cd647d8353a276d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)**
-*by* **Feeluvsyou**
-*Album:* love in my head
+**🎵 [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1)**
+*by* **siouxxie sixxsta**
+*Album:* morrigan
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="226" height="4" fill="#1db954" rx="2"/>
+    <circle cx="226" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:06
+    1:47 • 2:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Gfuelinme](https://open.spotify.com/track/1GQFNLpugRwhggFITeI0Fs)** by **Capoxxo** *(Gfuelinme)*
+🎤 **[globabee,, glo glo](https://open.spotify.com/track/6x3twaKKzI6WmdVhqMFjBC)** by **i9bonsai** *(globabee,, glo glo)*
+🎤 **[Illuminati - Sped Up & Pitched](https://open.spotify.com/track/0fCROmx33gRWRsiPxHy5tb)** by **LyteSpeed, Punkinloveee** *(Illuminati (Sped Up & Pitched))*
+🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
 🎤 **[Fabric Softener](https://open.spotify.com/track/1VDAwheezrg6fVmhC5ajoH)** by **dreamcache** *(Fabric Softener)*
-🎤 **[my way back](https://open.spotify.com/track/2xFNJnHGJL936ARupprO5v)** by **2504** *(my way back)*
-🎤 **[i miss the old times](https://open.spotify.com/track/0owSGAefVFWKpC8JQcSzJ1)** by **Capoxxo** *(i miss the old times)*
-🎤 **[212](https://open.spotify.com/track/287tMx0SyTiZbx7R7pM8cI)** by **Stxlkin** *(212)*
-🎤 **[someone else](https://open.spotify.com/track/4VRRKOIHyiOYp272HCPeEd)** by **oaf1** *(someone else)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 18:44:23Z UTC
+🕐 Last updated: 2025-09-08 18:53:25Z UTC
 <!-- SPOTIFY-END -->
