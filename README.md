@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27329ed24a9129508f6a27bde4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cd56dfa6d6dffbf3d273e6dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)**
-*by* **luu, iwannabemissed**
-*Album:* schnuffel
+**🎵 [always pick u #avemaria </33 :c](https://open.spotify.com/track/685BOlLQqqLeHeEdfMbl6m)**
+*by* **snor, Myojin, cholorofilm**
+*Album:* always pick u #avemaria </33 :c
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 1:43
+    1:36 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ur fav angel](https://open.spotify.com/track/55hOW0kXKXkrZA4ELgjNcN)** by **snor** *(ur fav angel)*
-🎤 **[Breakdown](https://open.spotify.com/track/3oJ6ZE4aFDLrLNKSYeGag5)** by **whyhaze, Luvpurp** *(Breakdown)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)*
-🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
+🎤 **[come kill me](https://open.spotify.com/track/77kIxYbwGK5LYBgOZophpM)** by **cholorofilm, snor, Pixel Hood** *(come kill me)*
+🎤 **[bad bitch molly addict](https://open.spotify.com/track/0fvDBzHfS0UhJ6GAi4uS9R)** by **d3r, Pr0xy, jakubshaggy** *(bad bitch molly addict)*
+🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
+🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
+🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 16:14:29Z UTC
+🕐 Last updated: 2025-09-08 16:37:44Z UTC
 <!-- SPOTIFY-END -->
