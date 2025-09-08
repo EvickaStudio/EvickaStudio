@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eb059d1792344843003c14ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a2a00a33abfa72242179cfb3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [snowflakes](https://open.spotify.com/track/1bApPEalFwDdKTGSNoiIML)**
-*by* **2504**
-*Album:* snowflakes
+**🎵 [My World](https://open.spotify.com/track/7tzVGInJikVEJ4pt9n3Cyg)**
+*by* **roxxy**
+*Album:* My World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="54" height="4" fill="#1db954" rx="2"/>
-    <circle cx="54" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:00
+    1:10 • 1:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[paparazzi](https://open.spotify.com/track/0EGsZb7hb3oeJXfGzG0d4g)** by **siouxxie sixxsta** *(witchpop)*
-🎤 **[its not an obsession](https://open.spotify.com/track/7ghkwFfeKhuJAfIX2hYg1k)** by **Stxlkin** *(its not an obsession)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
-🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
+🎤 **[two faced](https://open.spotify.com/track/4RN6Hpm1kgZcwVvchaVnu3)** by **m1v, vanity** *(two faced)*
+🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
+🎤 **[Luv2Hate](https://open.spotify.com/track/4Im8E4fM9iqkjbS8GrddoA)** by **Killedbykira** *(Luv2Hate)*
+🎤 **[LOS3R](https://open.spotify.com/track/1iZZfXvpm3sKYHrQnf8iNz)** by **Scarly, ghostmasheen** *(LOS3R)*
+🎤 **[you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y)** by **Rebzyyx, Xaxanity** *(you don't love me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 20:31:41Z UTC
+🕐 Last updated: 2025-09-08 20:47:56Z UTC
 <!-- SPOTIFY-END -->
