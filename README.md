@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739434f0780f93b2553aa8af20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c77a322e0afd8c86db8682f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)**
-*by* **pink luu, nami, cxpyyy, luu**
-*Album:* freitag nacht
+**🎵 [still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)**
+*by* **SHEMYYY**
+*Album:* still looking for you.
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 1:59
+    0:59 • 2:21
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
-🎤 **[leaveme2fukitup *2020* *RARE*](https://open.spotify.com/track/3pNXcHdfBeGXivsO3KANxE)** by **ccareful, Capoxxo** *(leaveme2fukitup *2020* *RARE*)*
+🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
+🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
+🎤 **[owls eye](https://open.spotify.com/track/27yGzL2nQ3qj5l12Bni631)** by **ivri** *(the star factory)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-08 09:49:16Z UTC
+🕐 Last updated: 2025-09-08 10:13:18Z UTC
 <!-- SPOTIFY-END -->
