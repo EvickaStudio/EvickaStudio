@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273381adadfdbcd2c5c4fb40700" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
-*by* **luu, mehlhaltig, iwannabemissed**
-*Album:* triple trauma
+**🎵 [Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)**
+*by* **Crescent, Rose, Y4ndere, Crystal Statues**
+*Album:* Crystal Clear
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="146" height="4" fill="#1db954" rx="2"/>
-    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+    <rect width="18" height="4" fill="#1db954" rx="2"/>
+    <circle cx="18" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 1:34
+    0:08 • 2:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
+🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 🎤 **[spacebar](https://open.spotify.com/track/1NlWBa7x2zQ7bAWxS8PpAw)** by **Mezha** *(spacebar)*
 🎤 **[yumi nikki](https://open.spotify.com/track/76GarHjbJrtn1b0uqLNt0x)** by **siouxxie sixxsta** *(yumi nikki)*
-🎤 **[hatred](https://open.spotify.com/track/0uoVialqxSl0LGSAvbPRGV)** by **Stxlkin** *(hatred)*
-🎤 **[i cannot remember why!](https://open.spotify.com/track/1KVacwZ3VVMasgFHEWcd6Q)** by **03osc** *(i cannot remember why!)*
-🎤 **[off my meds](https://open.spotify.com/track/6BopZbKBDfLRZRrnim51YW)** by **d3r, blood pup** *(off my meds)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 19:23:58Z UTC
+🕐 Last updated: 2025-09-08 19:33:42Z UTC
 <!-- SPOTIFY-END -->
