@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730e0c6b41ebde22e619efdc46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731bb404c4a351e4a4290695c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Willow Trees](https://open.spotify.com/track/23q0mUMfUE8vZjoK02Sokx)**
-*by* **Soothing Oasis**
-*Album:* Breathing Forest
+**🎵 [Mountains](https://open.spotify.com/track/04EYI94PvxaE4u8eH4X1ck)**
+*by* **Avery's Ambient**
+*Album:* In the Distance
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="163" height="4" fill="#1db954" rx="2"/>
-    <circle cx="163" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:07
+    0:38 • 2:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Zen Moments](https://open.spotify.com/track/2gfKbFDlCiCKSQYIXh6MKc)** by **Avery's Ambient** *(Zen Moments)*
-🎤 **[Fading Horizons](https://open.spotify.com/track/0J2zV2oaFbuxcScNiJ3pTP)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Lasting](https://open.spotify.com/track/1mZsBdf3IOHf0lKt5xHYUo)** by **Soothing Oasis** *(Moments)*
-🎤 **[Sleepwalking](https://open.spotify.com/track/32Ub8l1cR8NAXhc19ImiIq)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Peace](https://open.spotify.com/track/6WjfIRK2wnzKh2IzfQlgcE)** by **Avery's Ambient** *(Ripples in the Sand)*
+🎤 **[Peace of Mind](https://open.spotify.com/track/4sjiDNmvb0l63hvsHkOSZz)** by **Soothing Oasis** *(Peace of Mind)*
+🎤 **[A New Day](https://open.spotify.com/track/5b4yr0AdyVcFIYKln7JIIB)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Peaceful Passage](https://open.spotify.com/track/18UjBDG1TiLotPs98x4zsf)** by **Soothing Oasis** *(Earth at Rest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 22:11:41Z UTC
+🕐 Last updated: 2025-09-08 22:47:39Z UTC
 <!-- SPOTIFY-END -->
