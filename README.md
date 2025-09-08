@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27320faba87a752ae8511fe630c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)**
-*by* **luu, offaflat**
-*Album:* immenser pflegefall
+**🎵 [safety](https://open.spotify.com/track/0sZDR5z3BczSVVhX94W0SJ)**
+*by* **Senses, lileffort**
+*Album:* safety
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="176" height="4" fill="#1db954" rx="2"/>
+    <circle cx="176" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 1:37
+    1:44 • 2:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **snor** *(scary monsters)*
-🎤 **[this world doesn't deserve Uuu](https://open.spotify.com/track/2JXgOtTtqymCy6k6nOwOx6)** by **whyhaze** *(this world doesn't deserve Uuu)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
+🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
+🎤 **[KEINE ZEIT!](https://open.spotify.com/track/7aaLkwCDjSmZKCFeOb8k1H)** by **luu** *(KEINE ZEIT!)*
+🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **snor, cholorofilm, Mezha** *(cnt live without u :c </3)*
+🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 14:50:35Z UTC
+🕐 Last updated: 2025-09-08 15:11:58Z UTC
 <!-- SPOTIFY-END -->
