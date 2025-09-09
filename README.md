@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310927d3476cd8b73a0f35929" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332061a41dbe77a6a41647017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Soft Sigh](https://open.spotify.com/track/6IoIeRoe3zPxLkAsFzFLH5)**
+**🎵 [Silent Sky](https://open.spotify.com/track/4Lkahie4dsVLtygsnSl2jm)**
 *by* **Soothing Oasis**
-*Album:* Soothing
+*Album:* Foggy Morning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="99" height="4" fill="#1db954" rx="2"/>
+    <circle cx="99" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:05
+    0:42 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)** by **Soothing Oasis** *(Weightless)*
-🎤 **[Lunar](https://open.spotify.com/track/12uzVXAu5yKkzUFcNVOmCJ)** by **Soothing Oasis** *(Starry Night)*
-🎤 **[Above](https://open.spotify.com/track/43cRnTSZY9Z4SddXMpdxhb)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Floating Away](https://open.spotify.com/track/7I2Aw1OKE30uIsFMt7wE9d)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
+🎤 **[A New Day](https://open.spotify.com/track/5b4yr0AdyVcFIYKln7JIIB)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Waterfalls](https://open.spotify.com/track/1MbHDNbp5XLuxQvTJHDHEg)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Guided by the Light](https://open.spotify.com/track/1poTN3WfvyqdEORoUJOSCO)** by **Soothing Oasis** *(Dream Realm)*
+🎤 **[Starfield](https://open.spotify.com/track/2j7Z1JCzox5JJnGgmfUP21)** by **Avery's Ambient** *(Obsidian Sky)*
+🎤 **[Dreams](https://open.spotify.com/track/58sNPwG5jbenC6RElZePxD)** by **Avery's Ambient** *(Night Bloom)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 03:52:57Z UTC
+🕐 Last updated: 2025-09-09 04:15:05Z UTC
 <!-- SPOTIFY-END -->
