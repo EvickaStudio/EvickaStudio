@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b78b5d3183766f1c530c308e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silent Castle](https://open.spotify.com/track/5el66REwlXnbOLZNy9BagT)**
+**🎵 [Moonbeams](https://open.spotify.com/track/2ycVoZ0nLO3oGlotOkpNlA)**
 *by* **Soothing Oasis**
-*Album:* Dream Realm
+*Album:* Through the Valley
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 2:04
+    0:14 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sunset Over Sands](https://open.spotify.com/track/7yz7E1e06naSAuwY1FyLO5)** by **Avery's Ambient** *(Ripples in the Sand)*
-🎤 **[Floating Away](https://open.spotify.com/track/7I2Aw1OKE30uIsFMt7wE9d)** by **Soothing Oasis** *(As Dusk Falls)*
-🎤 **[Napping](https://open.spotify.com/track/0pJNu3ympVpaH9myxrB5YP)** by **Avery's Ambient** *(In The Clouds)*
-🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
-🎤 **[Goodnight](https://open.spotify.com/track/7EjA8NsWdvmYidR3SQgDv4)** by **Soothing Oasis** *(Sleeping Earth)*
+🎤 **[Soft Horizon](https://open.spotify.com/track/5ZGi0V1MCY9EyZJPk7tx66)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Drifting Petals](https://open.spotify.com/track/2PGNEXdAX0dWyPZ7CFkQF1)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Azure](https://open.spotify.com/track/5ZTAz8TjbqtPlgwKOpy6Bq)** by **Soothing Oasis** *(Sleep Well)*
+🎤 **[Midnight Waves](https://open.spotify.com/track/79buRxInOY9D7YQINtFAtr)** by **Avery's Ambient** *(Midnight Waves)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 04:34:57Z UTC
+🕐 Last updated: 2025-09-09 04:49:11Z UTC
 <!-- SPOTIFY-END -->
