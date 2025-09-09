@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738641644100d3921201da496f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f39424b069f0ace613d5002c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Junge](https://open.spotify.com/track/0tqDrdVcbqGtar6mtbqfu2)**
-*by* **Die Ärzte**
-*Album:* Jazz ist anders
+**🎵 [Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)**
+*by* **Kilian Knight**
+*Album:* Es wird bald vorbei sein (Allein sein)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:28 • 3:07
+    0:03 • 2:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Polaris](https://open.spotify.com/track/6t90Kwo22FeYIgM1C6wD61)** by **Parannoul** *(After the Magic)*
-🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
-🎤 **[Places - Lo-Fi Version](https://open.spotify.com/track/1ov3E8UKGTx40YAdoF9ZWf)** by **Yoyle Cake** *(Battle for BFDI (Original Soundtrack))*
-🎤 **[I Crash, U Crash](https://open.spotify.com/track/5AAJRP3wdEuY4dO4cLrEEq)** by **Vénia** *(I Crash, U Crash)*
-🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
+🎤 **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)*
+🎤 **[Mr. Forgettable](https://open.spotify.com/track/3lJD5BzSARTxNj1OYRyraX)** by **David Kushner** *(Footprints I Found)*
+🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
+🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
+🎤 **[☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(☾⋆⁺₊✧)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 16:15:22Z UTC
+🕐 Last updated: 2025-09-09 16:43:47Z UTC
 <!-- SPOTIFY-END -->
