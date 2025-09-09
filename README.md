@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c76e67422c4ec6bffa0fda3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Andere Stadt](https://open.spotify.com/track/2nMazwTi6zJFVFYZ1jHyBp)**
-*by* **Brown-Eyes White Boy**
-*Album:* Andere Stadt
+**🎵 [Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)**
+*by* **sparr00w**
+*Album:* Bitte lass mich einfach los
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:49 • 2:08
+    1:58 • 3:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dreamer II](https://open.spotify.com/track/5ODCeMzdckDBIVXGTQvcFU)** by **IVOXYGEN, KXLLSWXTCH** *(dreamer II)*
-🎤 **[serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)** by **Luvsick2k, cholorofilm** *(serotonin)*
-🎤 **[Sea Of Blue](https://open.spotify.com/track/3JabTVnZ3WFbocPbum4Duu)** by **Kev Koko, Leer Report** *(Sea Of Blue)*
-🎤 **[Dissolve](https://open.spotify.com/track/02nnSKmcAelEbzguQSX1jW)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Dissolve)*
-🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
+🎤 **[fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)** by **stixz** *(fashionscars)*
+🎤 **[Lovebug](https://open.spotify.com/track/30ckXjGsXwZWbKyESkW3bp)** by **Elujjin** *(Lovebug)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 14:10:17Z UTC
+🕐 Last updated: 2025-09-09 14:31:54Z UTC
 <!-- SPOTIFY-END -->
