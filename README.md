@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b78b5d3183766f1c530c308e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735787bf9987e422d9f2556a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Moonbeams](https://open.spotify.com/track/2ycVoZ0nLO3oGlotOkpNlA)**
-*by* **Soothing Oasis**
-*Album:* Through the Valley
+**🎵 [ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)**
+*by* **luu, n3vio**
+*Album:* ich bring mich um
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:13
+    1:23 • 1:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Soft Horizon](https://open.spotify.com/track/5ZGi0V1MCY9EyZJPk7tx66)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Drifting Petals](https://open.spotify.com/track/2PGNEXdAX0dWyPZ7CFkQF1)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)** by **Soothing Oasis** *(Gently Sleeping)*
-🎤 **[Azure](https://open.spotify.com/track/5ZTAz8TjbqtPlgwKOpy6Bq)** by **Soothing Oasis** *(Sleep Well)*
-🎤 **[Midnight Waves](https://open.spotify.com/track/79buRxInOY9D7YQINtFAtr)** by **Avery's Ambient** *(Midnight Waves)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)** by **Crescent, Rose, Y4ndere, Crystal Statues** *(Crystal Clear)*
+🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
+🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 04:49:11Z UTC
+🕐 Last updated: 2025-09-09 05:12:31Z UTC
 <!-- SPOTIFY-END -->
