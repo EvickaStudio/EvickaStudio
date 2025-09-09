@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27310927d3476cd8b73a0f35929" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hush](https://open.spotify.com/track/4avf19VLQKupEcJ95lxe5S)**
+**🎵 [World](https://open.spotify.com/track/5MvVq93z7q1miPkAj2GuKs)**
 *by* **Soothing Oasis**
-*Album:* Stillness
+*Album:* Soothing
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="169" height="4" fill="#1db954" rx="2"/>
-    <circle cx="169" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:06
+    0:47 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Within](https://open.spotify.com/track/7yVt12DIy7G5SJTs04KQ34)** by **Soothing Oasis** *(Soothing)*
-🎤 **[Evening Air](https://open.spotify.com/track/6k7hhvnGWqdPqnr4R7VJo9)** by **Soothing Oasis** *(Evening)*
-🎤 **[Gentle Current](https://open.spotify.com/track/4KcvQ3fV6Rzwk6eyKnZhth)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
-🎤 **[Springs](https://open.spotify.com/track/6FKEQIGykAswaEN9nWzkqB)** by **Avery's Ambient** *(Zen Moments)*
+🎤 **[Stargazing](https://open.spotify.com/track/5qPs5nIwNIzEmZBVhb50Dp)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Calmness](https://open.spotify.com/track/4RDUGJ8bVhETycG7aWG2Yi)** by **Soothing Oasis** *(Foggy Morning)*
+🎤 **[Flora](https://open.spotify.com/track/6PRvDVKDdZTXkiKJoX8YeC)** by **Avery's Ambient** *(Night Bloom)*
+🎤 **[Venusian](https://open.spotify.com/track/64ssnSXXTLqSNn7ioao1Gn)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Under the Stars](https://open.spotify.com/track/74GzEySLuwiKCYYkBInqO9)** by **Soothing Oasis** *(Evening)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 02:23:55Z UTC
+🕐 Last updated: 2025-09-09 03:12:59Z UTC
 <!-- SPOTIFY-END -->
