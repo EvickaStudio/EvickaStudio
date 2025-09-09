@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732deaf2c24693cd547d7af6ef" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)**
-*by* **latex fruit, Technopagan**
-*Album:* i cant say
+**🎵 [immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)**
+*by* **luu**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="206" height="4" fill="#1db954" rx="2"/>
-    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+    <rect width="296" height="4" fill="#1db954" rx="2"/>
+    <circle cx="296" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 3:17
+    1:24 • 1:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)** by **Crescent, Rose, Y4ndere, Crystal Statues** *(Crystal Clear)*
+🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
+🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
 🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **snor** *(scary monsters)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 07:39:09Z UTC
+🕐 Last updated: 2025-09-09 07:47:57Z UTC
 <!-- SPOTIFY-END -->
