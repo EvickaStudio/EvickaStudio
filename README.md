@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a9d19512979ce827eea899b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735787bf9987e422d9f2556a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)**
-*by* **diggidaniel**
-*Album:* Zwing mich zu meinem Glück
+**🎵 [ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)**
+*by* **luu, n3vio**
+*Album:* ich bring mich um
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="123" height="4" fill="#1db954" rx="2"/>
+    <circle cx="123" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 2:16
+    0:41 • 1:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[YAKIMOTO BLISS](https://open.spotify.com/track/5lzDzpwQsmAwRXWBtGlrmS)** by **DJmegan23** *(YAKIMOTO BLISS)*
-🎤 **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)*
-🎤 **[FAFB](https://open.spotify.com/track/25ERGFwjI1BUph1oqqTb6O)** by **Lucio101, Omar101, 1019** *(FAFB)*
-🎤 **[Cigarettes and Wine](https://open.spotify.com/track/0scE5rA7sC7Tx8M0AmSkVn)** by **absent, Saint Purple** *(Cigarettes and Wine)*
-🎤 **[...And So It Was](https://open.spotify.com/track/5P45rIpV682KkvtZjZtuwB)** by **$uicideboy$, Black Smurf** *(Black $uicide)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[Awake - Live at Studio Tessmar](https://open.spotify.com/track/106LPFFVp2Q4yx13qeYRbD)** by **orbit** *(Perspectives (Live Session))*
+🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
+🎤 **[With Eyes Closed](https://open.spotify.com/track/7MRoE1gPqAfehPRhsBj68Z)** by **Walter Frosch** *(Star 10110)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 17:10:53Z UTC
+🕐 Last updated: 2025-09-09 17:27:59Z UTC
 <!-- SPOTIFY-END -->
