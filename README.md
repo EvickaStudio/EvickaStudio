@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273522c7081739c5196844e4dce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)**
+**🎵 [Hush](https://open.spotify.com/track/4avf19VLQKupEcJ95lxe5S)**
 *by* **Soothing Oasis**
-*Album:* Calming River
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="164" height="4" fill="#1db954" rx="2"/>
-    <circle cx="164" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:06
+    1:11 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Flowing](https://open.spotify.com/track/2ZXnSummlIytkdxcf61T7m)** by **Soothing Oasis** *(Calming River)*
-🎤 **[Better World](https://open.spotify.com/track/0VnxHASLCg4cW58soE751z)** by **Avery's Ambient** *(A New Day)*
-🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
-🎤 **[Drifting Petals](https://open.spotify.com/track/2PGNEXdAX0dWyPZ7CFkQF1)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Soothing](https://open.spotify.com/track/2tSB3yPpsbuo2c8LOlNhFL)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Within](https://open.spotify.com/track/7yVt12DIy7G5SJTs04KQ34)** by **Soothing Oasis** *(Soothing)*
+🎤 **[Evening Air](https://open.spotify.com/track/6k7hhvnGWqdPqnr4R7VJo9)** by **Soothing Oasis** *(Evening)*
+🎤 **[Gentle Current](https://open.spotify.com/track/4KcvQ3fV6Rzwk6eyKnZhth)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Hues of the Moonlight](https://open.spotify.com/track/21QXYYfzH9DsGX3EPwIxdg)** by **Avery's Ambient** *(Dream Haze)*
+🎤 **[Springs](https://open.spotify.com/track/6FKEQIGykAswaEN9nWzkqB)** by **Avery's Ambient** *(Zen Moments)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 00:57:44Z UTC
+🕐 Last updated: 2025-09-09 02:23:55Z UTC
 <!-- SPOTIFY-END -->
