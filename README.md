@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737da23d72c15f01ec0c8574f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27309211da00e5bd138f90d7fbf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mind bug](https://open.spotify.com/track/00cAuqGxurEFiWDhvrWV8S)**
-*by* **flywoah**
-*Album:* mind bug
+**🎵 [sober](https://open.spotify.com/track/4VKYCukwB7cnWouxf2Ah4y)**
+*by* **vanity, Pr0xy**
+*Album:* sober
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 1:24
+    0:57 • 1:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
-🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
-🎤 **[2004](https://open.spotify.com/track/2mLB3j3rYIkrQ1eUAxeSg7)** by **cholorofilm, snor** *(2004)*
-🎤 **[pull up in da club](https://open.spotify.com/track/0Xm3zGwaQwA44856h1Laic)** by **2504, ang3lx** *(pull up in da club)*
-🎤 **[sub N dom](https://open.spotify.com/track/7uwhZ79IkCfFXGQukqAffQ)** by **pink luu, cxpyyy, luu** *(0800-111-0-222)*
+🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
+🎤 **[Lightweight](https://open.spotify.com/track/52eYQ1fD8HlM9x4MYaqx3W)** by **Saska** *(Dosis)*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[bestgore.com](https://open.spotify.com/track/42RnBlBOQpL78Qr0vn1Y84)** by **luu, Nomark** *(bestgore.com)*
+🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 19:09:47Z UTC
+🕐 Last updated: 2025-09-09 19:22:56Z UTC
 <!-- SPOTIFY-END -->
