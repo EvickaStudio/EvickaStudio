@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27310927d3476cd8b73a0f35929" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Floating Away](https://open.spotify.com/track/7I2Aw1OKE30uIsFMt7wE9d)**
+**🎵 [Soft Sigh](https://open.spotify.com/track/6IoIeRoe3zPxLkAsFzFLH5)**
 *by* **Soothing Oasis**
-*Album:* As Dusk Falls
+*Album:* Soothing
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 2:05
+    2:01 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Endless Stars](https://open.spotify.com/track/5HqNI7v7v2sSTwOviTV4sw)** by **Avery's Ambient** *(Awakening Earth)*
-🎤 **[Gently Drifting](https://open.spotify.com/track/7bEoB5EhTRrMWCYitjz9eU)** by **Soothing Oasis** *(Beneath the Sky)*
-🎤 **[Peace Awaits](https://open.spotify.com/track/0ZwwtW7XpdvLN7lsTVZ4Qk)** by **Soothing Oasis** *(Earth at Rest)*
-🎤 **[Glimmering](https://open.spotify.com/track/4blw5uBskmyk1IkbUpx2uO)** by **Avery's Ambient** *(In the Distance)*
-🎤 **[Calm](https://open.spotify.com/track/79QkpuDIB97QZXa01LpN85)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Weightless](https://open.spotify.com/track/6yLqJRI9mDiMNlviGG1X8i)** by **Soothing Oasis** *(Weightless)*
+🎤 **[Lunar](https://open.spotify.com/track/12uzVXAu5yKkzUFcNVOmCJ)** by **Soothing Oasis** *(Starry Night)*
+🎤 **[Above](https://open.spotify.com/track/43cRnTSZY9Z4SddXMpdxhb)** by **Avery's Ambient** *(In The Clouds)*
+🎤 **[Floating Away](https://open.spotify.com/track/7I2Aw1OKE30uIsFMt7wE9d)** by **Soothing Oasis** *(As Dusk Falls)*
+🎤 **[Lake](https://open.spotify.com/track/5PFF1itrTvvXReVKIGeCmD)** by **Soothing Oasis** *(At Peace)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 03:42:45Z UTC
+🕐 Last updated: 2025-09-09 03:52:57Z UTC
 <!-- SPOTIFY-END -->
