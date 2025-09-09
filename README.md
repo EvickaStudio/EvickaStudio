@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273744a7ad0bdaac12ee7e7108a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27395f53ca000f820399b8f3efd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mascara](https://open.spotify.com/track/0WsxxSjRTcCRItuKQxyq8R)**
-*by* **cholorofilm, Vampyx, GABEDOESNTSLEEP**
-*Album:* mascara
+**🎵 [bl00d b4th 03](https://open.spotify.com/track/4sfbTH8Pod1HOdYmnhJ1f3)**
+*by* **03osc**
+*Album:* bl00d b4th 03
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="99" height="4" fill="#1db954" rx="2"/>
+    <circle cx="99" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 2:19
+    0:41 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
-🎤 **[DRUGZ IN MY SYSTEM](https://open.spotify.com/track/7uloB4FB3l6o7DgicLwsY3)** by **disoc8, asht0nn, suddendeathovertime** *(DRUGZ IN MY SYSTEM)*
-🎤 **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)*
-🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
-🎤 **[PUMPED UP KICKS](https://open.spotify.com/track/7gBUQsweB1bp0uV9z8cs3v)** by **LyteSpeed, Big Melancholy, luvwillow** *(PUMPED UP KICKS)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)** by **Senses** *(what i want)*
+🎤 **[Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)** by **LooveX, JeeRAWRXD** *(Self-Xplained)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[i dnt wna c u gone](https://open.spotify.com/track/0lZMVzxibmbN7nE0yf8g4L)** by **Mezha** *(i dnt wna c u gone)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 19:48:09Z UTC
+🕐 Last updated: 2025-09-09 20:13:25Z UTC
 <!-- SPOTIFY-END -->
