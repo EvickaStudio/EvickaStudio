@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27346594fcee9980ab828135f7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273522c7081739c5196844e4dce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Light](https://open.spotify.com/track/2GpZBrPkHpmEiXDSOy9eTi)**
-*by* **Avery's Ambient**
-*Album:* A New Day
+**🎵 [Water](https://open.spotify.com/track/0qSYDGDrDKUjSALZcwOYya)**
+*by* **Soothing Oasis**
+*Album:* Calming River
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="78" height="4" fill="#1db954" rx="2"/>
-    <circle cx="78" cy="2" r="6" fill="#1db954"/>
+    <rect width="164" height="4" fill="#1db954" rx="2"/>
+    <circle cx="164" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:05
+    1:09 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dancing Light](https://open.spotify.com/track/1eXjJVDq1lz7PXQSFCfqYz)** by **Soothing Oasis** *(Ancient Stars)*
-🎤 **[Soft Horizon](https://open.spotify.com/track/5ZGi0V1MCY9EyZJPk7tx66)** by **Soothing Oasis** *(Stillness)*
-🎤 **[Whispering Wind](https://open.spotify.com/track/1oFVT0ku1YT449DGffVB7D)** by **Soothing Oasis** *(Sleeping Earth)*
-🎤 **[Rising Mist](https://open.spotify.com/track/1k6CZJQYsbIsWi9VTkzETC)** by **Avery's Ambient** *(Awakening Earth)*
-🎤 **[Peace](https://open.spotify.com/track/4ByZrunv64RiWCnZ9G4Emk)** by **Soothing Oasis** *(Gently Sleeping)*
+🎤 **[Flowing](https://open.spotify.com/track/2ZXnSummlIytkdxcf61T7m)** by **Soothing Oasis** *(Calming River)*
+🎤 **[Better World](https://open.spotify.com/track/0VnxHASLCg4cW58soE751z)** by **Avery's Ambient** *(A New Day)*
+🎤 **[Dawn Over the Water](https://open.spotify.com/track/6SArjFmcnN0jow5yqMwjag)** by **Soothing Oasis** *(Riverside)*
+🎤 **[Drifting Petals](https://open.spotify.com/track/2PGNEXdAX0dWyPZ7CFkQF1)** by **Soothing Oasis** *(Stillness)*
+🎤 **[Soothing](https://open.spotify.com/track/2tSB3yPpsbuo2c8LOlNhFL)** by **Soothing Oasis** *(Soothing)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-08 23:47:35Z UTC
+🕐 Last updated: 2025-09-09 00:57:44Z UTC
 <!-- SPOTIFY-END -->
