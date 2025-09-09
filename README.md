@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fa5a63e8da440b363157d091" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)**
-*by* **Radiohead**
-*Album:* Kid A
+**🎵 [Fright Night](https://open.spotify.com/track/1WCpCRhI7nNo6RNSXDBJd7)**
+*by* **decaying, evrythnghurtz**
+*Album:* Fright Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:26 • 5:09
+    0:46 • 1:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
-🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
+🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
+🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
+🎤 **[Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl)** by **Portwave** *(Shadow Lady)*
+🎤 **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)*
+🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 14:49:22Z UTC
+🕐 Last updated: 2025-09-09 15:13:34Z UTC
 <!-- SPOTIFY-END -->
