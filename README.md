@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7eb3927c5a75b4ff5572fb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273744a7ad0bdaac12ee7e7108a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)**
-*by* **RudeClub, Angst, lucywav**
-*Album:* crashout
+**🎵 [mascara](https://open.spotify.com/track/0WsxxSjRTcCRItuKQxyq8R)**
+*by* **cholorofilm, Vampyx, GABEDOESNTSLEEP**
+*Album:* mascara
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:03
+    2:13 • 2:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)** by **cholorofilm** *(insomnia #sleepclinic)*
-🎤 **[PERFECT](https://open.spotify.com/track/1hUTR8gXowqUzX7iuacOY5)** by **disoc8, Gutzxx** *(PERFECT)*
-🎤 **[BPD!](https://open.spotify.com/track/1Lw45uuNpKD8gEP929q1zC)** by **Clover!** *(BPD!)*
-🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu, cxpyyy, luu** *(ABCD)*
-🎤 **[sober](https://open.spotify.com/track/4VKYCukwB7cnWouxf2Ah4y)** by **vanity, Pr0xy** *(sober)*
+🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
+🎤 **[DRUGZ IN MY SYSTEM](https://open.spotify.com/track/7uloB4FB3l6o7DgicLwsY3)** by **disoc8, asht0nn, suddendeathovertime** *(DRUGZ IN MY SYSTEM)*
+🎤 **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)*
+🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
+🎤 **[PUMPED UP KICKS](https://open.spotify.com/track/7gBUQsweB1bp0uV9z8cs3v)** by **LyteSpeed, Big Melancholy, luvwillow** *(PUMPED UP KICKS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 19:33:49Z UTC
+🕐 Last updated: 2025-09-09 19:48:09Z UTC
 <!-- SPOTIFY-END -->
