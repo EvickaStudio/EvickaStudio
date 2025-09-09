@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273405c45a0b05eac15b7982c7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730f950099abff2fa65cf3372d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)**
-*by* **luu, mehlhaltig**
-*Album:* deluulu but mehlodic
+**🎵 [crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)**
+*by* **Scarly, korpsebunny**
+*Album:* crawl out my skin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="162" height="4" fill="#1db954" rx="2"/>
+    <circle cx="162" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 1:30
+    1:05 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
+🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 18:14:36Z UTC
+🕐 Last updated: 2025-09-09 18:37:57Z UTC
 <!-- SPOTIFY-END -->
