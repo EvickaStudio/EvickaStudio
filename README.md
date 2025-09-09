@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273424b1971b5424a9c6b9d97ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371830d69d22e2b99e8845830" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Indie Rokkers](https://open.spotify.com/track/0gCNIZWff5ymNGYMbwImMz)**
-*by* **MGMT**
-*Album:* Time to Pretend
+**🎵 [Icebox](https://open.spotify.com/track/0wVBNEAeTotbFBdpp5kuub)**
+*by* **Dj Billybool**
+*Album:* My Fantasy World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
+    <rect width="132" height="4" fill="#1db954" rx="2"/>
+    <circle cx="132" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 4:25
+    1:09 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
+🎤 **[Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT)** by **Crystal Castles** *(Crystal Castles)*
+🎤 **[Indie Rokkers](https://open.spotify.com/track/0gCNIZWff5ymNGYMbwImMz)** by **MGMT** *(Time to Pretend)*
 🎤 **[Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX)** by **Sportfreunde Stiller** *(Die gute Seite (Die lange Seite))*
 🎤 **[Dancing Nihilist - Slowed Welly Well](https://open.spotify.com/track/6wka0A1jT3vifzR4V4gBXg)** by **pathetic240px** *(DANCING NIHILIST: For the Most Gloopy)*
-🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 13:41:10Z UTC
+🕐 Last updated: 2025-09-09 13:52:26Z UTC
 <!-- SPOTIFY-END -->
