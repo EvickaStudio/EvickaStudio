@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738641644100d3921201da496f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
-*by* **luu, mehlhaltig, iwannabemissed**
-*Album:* triple trauma
+**🎵 [Junge](https://open.spotify.com/track/0tqDrdVcbqGtar6mtbqfu2)**
+*by* **Die Ärzte**
+*Album:* Jazz ist anders
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 1:34
+    2:28 • 3:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
-🎤 **[ur touch](https://open.spotify.com/track/0HFaxxzW4Umby5k5FJkcj0)** by **joss lockwood** *(ur touch)*
-🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
-🎤 **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[Polaris](https://open.spotify.com/track/6t90Kwo22FeYIgM1C6wD61)** by **Parannoul** *(After the Magic)*
+🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
+🎤 **[Places - Lo-Fi Version](https://open.spotify.com/track/1ov3E8UKGTx40YAdoF9ZWf)** by **Yoyle Cake** *(Battle for BFDI (Original Soundtrack))*
+🎤 **[I Crash, U Crash](https://open.spotify.com/track/5AAJRP3wdEuY4dO4cLrEEq)** by **Vénia** *(I Crash, U Crash)*
+🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 15:49:14Z UTC
+🕐 Last updated: 2025-09-09 16:15:22Z UTC
 <!-- SPOTIFY-END -->
