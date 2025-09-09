@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357f5ee3f1baa254b3c899600" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273424b1971b5424a9c6b9d97ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Neue Republik](https://open.spotify.com/track/1yyPRulpTWGNBxocamqTaE)**
-*by* **Jäger 90**
-*Album:* Muskeln & Küsse
+**🎵 [Indie Rokkers](https://open.spotify.com/track/0gCNIZWff5ymNGYMbwImMz)**
+*by* **MGMT**
+*Album:* Time to Pretend
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="40" height="4" fill="#1db954" rx="2"/>
-    <circle cx="40" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 2:54
+    1:03 • 4:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Minthara](https://open.spotify.com/track/30a6kQaDdGmx97y3OY8GRf)** by **Last Grasp** *(Minthara)*
-🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
-🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
-🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
-🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
+🎤 **[Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX)** by **Sportfreunde Stiller** *(Die gute Seite (Die lange Seite))*
+🎤 **[Dancing Nihilist - Slowed Welly Well](https://open.spotify.com/track/6wka0A1jT3vifzR4V4gBXg)** by **pathetic240px** *(DANCING NIHILIST: For the Most Gloopy)*
+🎤 **[Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)** by **Lykke Li, Autoerotique** *(Little Bit (feat. Autoerotique) [Remix])*
+🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 13:05:25Z UTC
+🕐 Last updated: 2025-09-09 13:41:10Z UTC
 <!-- SPOTIFY-END -->
