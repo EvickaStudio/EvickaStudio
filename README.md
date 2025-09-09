@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a788093a6aa454485248f86" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27374dd751267d92723bf7f15de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)**
-*by* **Senses, Nightclub20xx**
-*Album:* test subject
+**🎵 [SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)**
+*by* **Pink Katana, sparr00w**
+*Album:* SUW
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:57
+    0:31 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
 🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
 🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
 🎤 **[feelings of impending doom](https://open.spotify.com/track/6dHKcZqCawIzo9EHfeVEJ4)** by **disoc8, luvwillow** *(feelings of impending doom)*
-🎤 **[stabbing](https://open.spotify.com/track/5y4aAYWQvT1P9jsXbWUd1f)** by **cholorofilm** *(stabbing)*
-🎤 **[BRITNEY SHEARS](https://open.spotify.com/track/1pYaiIsuBr7um8XBAsC5YS)** by **LyteSpeed** *(BRITNEY SHEARS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 20:47:51Z UTC
+🕐 Last updated: 2025-09-09 21:10:11Z UTC
 <!-- SPOTIFY-END -->
