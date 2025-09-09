@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273deab23a03aa9a14d40da3093" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737da23d72c15f01ec0c8574f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)**
-*by* **5v, hubithekid, Pearlblade**
-*Album:* ion need u
+**🎵 [mind bug](https://open.spotify.com/track/00cAuqGxurEFiWDhvrWV8S)**
+*by* **flywoah**
+*Album:* mind bug
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:11
+    0:41 • 1:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
-🎤 **[corpse party - original](https://open.spotify.com/track/5ysyOSdcQq6e9z9PaZuIqO)** by **2504, Robopup, Mezha** *(corpse party (original))*
-🎤 **[construction of love](https://open.spotify.com/track/2bDgbym0QjuAKZBQFt5dfV)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[when u bleed <3](https://open.spotify.com/track/3CwhTRD4o9uppXuMvP0O2e)** by **disoc8** *(when u bleed <3)*
-🎤 **[crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)** by **Scarly, korpsebunny** *(crawl out my skin)*
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
+🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
+🎤 **[2004](https://open.spotify.com/track/2mLB3j3rYIkrQ1eUAxeSg7)** by **cholorofilm, snor** *(2004)*
+🎤 **[pull up in da club](https://open.spotify.com/track/0Xm3zGwaQwA44856h1Laic)** by **2504, ang3lx** *(pull up in da club)*
+🎤 **[sub N dom](https://open.spotify.com/track/7uwhZ79IkCfFXGQukqAffQ)** by **pink luu, cxpyyy, luu** *(0800-111-0-222)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 18:49:14Z UTC
+🕐 Last updated: 2025-09-09 19:09:47Z UTC
 <!-- SPOTIFY-END -->
