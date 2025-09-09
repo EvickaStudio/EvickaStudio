@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27309211da00e5bd138f90d7fbf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a7eb3927c5a75b4ff5572fb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sober](https://open.spotify.com/track/4VKYCukwB7cnWouxf2Ah4y)**
-*by* **vanity, Pr0xy**
-*Album:* sober
+**🎵 [crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)**
+*by* **RudeClub, Angst, lucywav**
+*Album:* crashout
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 1:36
+    1:33 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
-🎤 **[Lightweight](https://open.spotify.com/track/52eYQ1fD8HlM9x4MYaqx3W)** by **Saska** *(Dosis)*
-🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
-🎤 **[bestgore.com](https://open.spotify.com/track/42RnBlBOQpL78Qr0vn1Y84)** by **luu, Nomark** *(bestgore.com)*
-🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
+🎤 **[insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)** by **cholorofilm** *(insomnia #sleepclinic)*
+🎤 **[PERFECT](https://open.spotify.com/track/1hUTR8gXowqUzX7iuacOY5)** by **disoc8, Gutzxx** *(PERFECT)*
+🎤 **[BPD!](https://open.spotify.com/track/1Lw45uuNpKD8gEP929q1zC)** by **Clover!** *(BPD!)*
+🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu, cxpyyy, luu** *(ABCD)*
+🎤 **[sober](https://open.spotify.com/track/4VKYCukwB7cnWouxf2Ah4y)** by **vanity, Pr0xy** *(sober)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 19:22:56Z UTC
+🕐 Last updated: 2025-09-09 19:33:49Z UTC
 <!-- SPOTIFY-END -->
