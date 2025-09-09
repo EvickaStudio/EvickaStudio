@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27395f53ca000f820399b8f3efd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273adf3073dc75475898b1ed501" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bl00d b4th 03](https://open.spotify.com/track/4sfbTH8Pod1HOdYmnhJ1f3)**
-*by* **03osc**
-*Album:* bl00d b4th 03
+**🎵 [rein in mein zuhause](https://open.spotify.com/track/7d8p99FCBHewKahSBfHnlW)**
+*by* **pink luu, ystn**
+*Album:* rein in mein zuhause
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="22" height="4" fill="#1db954" rx="2"/>
+    <circle cx="22" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:04
+    0:08 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
-🎤 **[what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)** by **Senses** *(what i want)*
-🎤 **[Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)** by **LooveX, JeeRAWRXD** *(Self-Xplained)*
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[i dnt wna c u gone](https://open.spotify.com/track/0lZMVzxibmbN7nE0yf8g4L)** by **Mezha** *(i dnt wna c u gone)*
+🎤 **[broken soul](https://open.spotify.com/track/6vkyHqf2RvE9Al3n2oS2TG)** by **2504** *(broken soul)*
+🎤 **[PAPARAZZI](https://open.spotify.com/track/6RvSAHQeEBAmirCjLhmoTg)** by **disoc8, asht0nn, Gutzxx** *(PAPARAZZI)*
+🎤 **[shattered in glamour](https://open.spotify.com/track/3OYxAyOuXr7ptGXYLVoqqJ)** by **cholorofilm** *(shattered in glamour)*
+🎤 **[Illuminati - Sped Up & Pitched](https://open.spotify.com/track/0fCROmx33gRWRsiPxHy5tb)** by **LyteSpeed, Punkinloveee** *(Illuminati (Sped Up & Pitched))*
+🎤 **[HIGH DRUNK SH!T](https://open.spotify.com/track/5GbozKc2z9fGgc4ohdvbA6)** by **Scarly, Xaxanity** *(HIGH DRUNK SH!T)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 20:13:25Z UTC
+🕐 Last updated: 2025-09-09 20:30:36Z UTC
 <!-- SPOTIFY-END -->
