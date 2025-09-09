@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)**
-*by* **sparr00w**
-*Album:* Bitte lass mich einfach los
+**🎵 [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)**
+*by* **Radiohead**
+*Album:* Kid A
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="195" height="4" fill="#1db954" rx="2"/>
-    <circle cx="195" cy="2" r="6" fill="#1db954"/>
+    <rect width="200" height="4" fill="#1db954" rx="2"/>
+    <circle cx="200" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 3:01
+    3:26 • 5:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
-🎤 **[fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)** by **stixz** *(fashionscars)*
-🎤 **[Lovebug](https://open.spotify.com/track/30ckXjGsXwZWbKyESkW3bp)** by **Elujjin** *(Lovebug)*
+🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-09 14:31:54Z UTC
+🕐 Last updated: 2025-09-09 14:49:22Z UTC
 <!-- SPOTIFY-END -->
