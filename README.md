@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733eca7c895082ab7c2de3eace" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)**
-*by* **SUICIDAL-IDOL, hubithekid, FabFantasy**
-*Album:* High Life
+**🎵 [schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
+*by* **EASY EASY**
+*Album:* schädel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="164" height="4" fill="#1db954" rx="2"/>
-    <circle cx="164" cy="2" r="6" fill="#1db954"/>
+    <rect width="137" height="4" fill="#1db954" rx="2"/>
+    <circle cx="137" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 1:59
+    1:25 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
-🎤 **[come over to the party](https://open.spotify.com/track/7GgQBundAiJj1F3514JHUG)** by **d3r, blood pup, FabFantasy** *(come over to the party)*
-🎤 **[ANTIDOTE](https://open.spotify.com/track/4MqJNmXTstQKJooKpPQ6M1)** by **p6inkillr, 4ortake** *(ANTIDOTE)*
-🎤 **[scarlet valentine](https://open.spotify.com/track/4aioRZbRqJ2D2dPzn8j8lv)** by **ihylunar, Vyzer** *(scarlet valentine)*
-🎤 **[evil dancer](https://open.spotify.com/track/5AANgYLshgpI3ce3SSijZZ)** by **hateoryx, KidSnorlax** *(evil dancer)*
+🎤 **[Diamant - Love Hotel Band](https://open.spotify.com/track/6aQGDQzLLK28BhQiarLPfv)** by **Yung Hurn** *(Love Hotel)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **snor, cholorofilm, Mezha** *(cnt live without u :c </3)*
+🎤 **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by **dreamcache** *(esc)*
+🎤 **[LEAVE ME D HELL ALONE!!!!](https://open.spotify.com/track/5heGjTvyI0HCEVLAhuSOVU)** by **syverina** *(LEAVE ME D HELL ALONE!!!!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 17:47:59Z UTC
+🕐 Last updated: 2025-09-10 18:17:47Z UTC
 <!-- SPOTIFY-END -->
