@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273151543becd30c8418b5420e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c6d0592361763bd8db30fc97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* Monster in Paris✰✰+++
+**🎵 [Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)**
+*by* **Edwin Rosen**
+*Album:* Die Sonne in deinem Zimmer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="180" height="4" fill="#1db954" rx="2"/>
+    <circle cx="180" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 1:49
+    1:51 • 3:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic, cxpyyy, luu** *(alprazolam)*
-🎤 **[Lieblingsmensch](https://open.spotify.com/track/1vFfDjIxwyEZqUpUcBNPvZ)** by **Punk Christ** *(Lieblingsmensch)*
-🎤 **[mind communication "" ! + # --/// ::](https://open.spotify.com/track/2OShI8C1Gs19y8GmTpTRWS)** by **ALeiz** *(mind communication "" ! + # --/// ::)*
-🎤 **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)*
-🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
+🎤 **[BREAKDOWN PALACE](https://open.spotify.com/track/7d3qGvPsVqDxQ20t0QRP8v)** by **Mobezzy, SlushhKitten** *(XBX)*
+🎤 **[barkeeper](https://open.spotify.com/track/1Yb6JcT6PFF5VftO3oionX)** by **Ellie Mic** *(stuck)*
+🎤 **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 21:10:23Z UTC
+🕐 Last updated: 2025-09-10 21:25:58Z UTC
 <!-- SPOTIFY-END -->
