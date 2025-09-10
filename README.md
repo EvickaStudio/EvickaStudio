@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393825eb3a89668613324b04f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c221b8d106d1e4b9b5ec8068" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [one shot](https://open.spotify.com/track/4RvjRo8SUErh5mcoBE4AlX)**
-*by* **crusey, 1crusafix**
-*Album:* one shot
+**🎵 [Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)**
+*by* **nomu.**
+*Album:* Medicine
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:01
+    0:11 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)*
-🎤 **[every day is hell!](https://open.spotify.com/track/5m15k7vrud9WRAKiY81PwM)** by **traumadoll, Clover!** *(every day is hell!)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[it gets lonely](https://open.spotify.com/track/4iT0B51dMYRqbCLz6gFcxx)** by **kmoe** *(it gets lonely)*
-🎤 **[kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)** by **p6inkillr** *(kill me)*
+🎤 **[bad bitch molly addict](https://open.spotify.com/track/0fvDBzHfS0UhJ6GAi4uS9R)** by **d3r, Pr0xy, jakubshaggy** *(bad bitch molly addict)*
+🎤 **[internet fame](https://open.spotify.com/track/4yP3Rw1bjIceuA7DJOzpbx)** by **p6inkillr** *(internet fame)*
+🎤 **[pretend](https://open.spotify.com/track/5hxQaMhUUnu2HXEvKKBXW3)** by **crusey, isai** *(pretend)*
+🎤 **[MONSTER](https://open.spotify.com/track/7rSEBRnvc0QvdCTp90uAEj)** by **Shoto** *(MONSTER)*
+🎤 **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 16:51:07Z UTC
+🕐 Last updated: 2025-09-10 17:10:19Z UTC
 <!-- SPOTIFY-END -->
