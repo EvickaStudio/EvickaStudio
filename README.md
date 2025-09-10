@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734ab0f2efac51fd43e62cc146" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [leiche auf emma](https://open.spotify.com/track/5XxkG1fcUwl2mfwODFK2fy)**
-*by* **luu, luvwillow**
-*Album:* immenser pflegefall
+**🎵 [glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)**
+*by* **luu, cxpyyy**
+*Album:* glitzeraugen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="106" height="4" fill="#1db954" rx="2"/>
-    <circle cx="106" cy="2" r="6" fill="#1db954"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 1:20
+    1:21 • 1:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[DON'T STOP](https://open.spotify.com/track/4OH9vNR5GX5tAop7Tgr8Wm)** by **whyhaze, lavendr, ang3lx** *(DON'T STOP)*
-🎤 **[oxycodon](https://open.spotify.com/track/2AC3syM1KVpD8mgG6ACNa8)** by **strangerboi, luu, pink luu** *(oxycodon)*
-🎤 **[MORE OF IT!](https://open.spotify.com/track/6NDpHuzqSXDabSuIRHocz1)** by **mxrrow, HAR$h** *(MORE OF IT!)*
-🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
+🎤 **[LETZTE NACHT](https://open.spotify.com/track/0E4vkkE8tMfV1u94Df8wQs)** by **stixz, muli** *(love core)*
+🎤 **[White Dust](https://open.spotify.com/track/5xzXEHqC8culVe8XKKDMpk)** by **503scoob, romziie, vampyrska, massacre society, Gutzxx** *(White Dust)*
+🎤 **[foolish](https://open.spotify.com/track/3xUJ0JJIzvwYHDAlBX1iUp)** by **Senses** *(idle state)*
+🎤 **[copy & paste](https://open.spotify.com/track/5D4FubBTGAUAVhICPmOYAk)** by **dreamcache** *(copy & paste)*
+🎤 **[SMS](https://open.spotify.com/track/4upElsfQhSMxGzfyxBpdMy)** by **pink luu, xtatus** *(SMS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 11:09:53Z UTC
+🕐 Last updated: 2025-09-10 11:23:11Z UTC
 <!-- SPOTIFY-END -->
