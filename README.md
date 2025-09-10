@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733aed227447315c04fcd0ab8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5d438726c4cf6424c0c5a83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)**
-*by* **temcandoanything, 16:9 krollo ✥**
-*Album:* SCARY MONSTERZ
+**🎵 [nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)**
+*by* **mehlhaltig, luu**
+*Album:* nur für dich!!^_-
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="296" height="4" fill="#1db954" rx="2"/>
+    <circle cx="296" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 3:16
+    2:43 • 2:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[satisfaction](https://open.spotify.com/track/7LzGccbgAAEVmgIkrHLtIG)** by **dreamcache** *(alive)*
-🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[fragile](https://open.spotify.com/track/2WRzOwA0XENWjR0Mb4IyM8)** by **Senses** *(idle state)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[all the tears in my bed](https://open.spotify.com/track/6LSUEZqIjDPJi9PgHtnOUq)** by **ilymeow, Ext3r4** *(all the tears in my bed)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 14:11:51Z UTC
+🕐 Last updated: 2025-09-10 14:31:35Z UTC
 <!-- SPOTIFY-END -->
