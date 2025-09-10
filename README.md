@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273926a1628e6b4032b845dfcab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)**
-*by* **Edwin Rosen**
-*Album:* mitleerenhänden
+**🎵 [träumenichtmehr](https://open.spotify.com/track/48HSbDOEzm7YmVvcEwjzB3)**
+*by* **MilleniumKid, Larasüß**
+*Album:* träumenichtmehr
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="24" height="4" fill="#1db954" rx="2"/>
-    <circle cx="24" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 3:29
+    0:09 • 3:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)** by **nobis** *(Zum Glück (Bist du nicht mehr da))*
-🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
+🎤 **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)*
+🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
+🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[Melancholie](https://open.spotify.com/track/2Fm1hz750M8JhAmELP95yd)** by **Tape Head, NONI** *(Memento Mori)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 06:46:10Z UTC
+🕐 Last updated: 2025-09-10 07:11:52Z UTC
 <!-- SPOTIFY-END -->
