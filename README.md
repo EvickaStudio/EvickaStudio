@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ab0f2efac51fd43e62cc146" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737efec5dc54060ced90c3e70b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)**
-*by* **luu, cxpyyy**
-*Album:* glitzeraugen
+**🎵 [feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)**
+*by* **Bayymack, ashes.**
+*Album:* feel u in my heart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="180" height="4" fill="#1db954" rx="2"/>
+    <circle cx="180" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 1:53
+    1:17 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LETZTE NACHT](https://open.spotify.com/track/0E4vkkE8tMfV1u94Df8wQs)** by **stixz, muli** *(love core)*
-🎤 **[White Dust](https://open.spotify.com/track/5xzXEHqC8culVe8XKKDMpk)** by **503scoob, romziie, vampyrska, massacre society, Gutzxx** *(White Dust)*
-🎤 **[foolish](https://open.spotify.com/track/3xUJ0JJIzvwYHDAlBX1iUp)** by **Senses** *(idle state)*
-🎤 **[copy & paste](https://open.spotify.com/track/5D4FubBTGAUAVhICPmOYAk)** by **dreamcache** *(copy & paste)*
-🎤 **[SMS](https://open.spotify.com/track/4upElsfQhSMxGzfyxBpdMy)** by **pink luu, xtatus** *(SMS)*
+🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
+🎤 **[sick goodbye](https://open.spotify.com/track/21QTCscKx0zMBzWIno9RN3)** by **Senses, Lain** *(sick goodbye)*
+🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
+🎤 **[glasscastle](https://open.spotify.com/track/1w9vuP0YV3cEGXwPxQ9i6d)** by **vai5000, i9bonsai** *(glasscastle)*
+🎤 **[glitzeraugen](https://open.spotify.com/track/6v18M2wWZMiM1Zz3UV7tsu)** by **luu, cxpyyy** *(glitzeraugen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 11:23:11Z UTC
+🕐 Last updated: 2025-09-10 11:34:17Z UTC
 <!-- SPOTIFY-END -->
