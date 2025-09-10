@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e1bad46155887c633a0a2a7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
-*by* **EASY EASY**
-*Album:* schädel
+**🎵 [SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)**
+*by* **Edwin Rosen**
+*Album:* leichter//kälter / SSS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="137" height="4" fill="#1db954" rx="2"/>
-    <circle cx="137" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 3:06
+    2:05 • 2:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Diamant - Love Hotel Band](https://open.spotify.com/track/6aQGDQzLLK28BhQiarLPfv)** by **Yung Hurn** *(Love Hotel)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **snor, cholorofilm, Mezha** *(cnt live without u :c </3)*
-🎤 **[esc](https://open.spotify.com/track/7LofEgI87DMv9J8pycmkhi)** by **dreamcache** *(esc)*
-🎤 **[LEAVE ME D HELL ALONE!!!!](https://open.spotify.com/track/5heGjTvyI0HCEVLAhuSOVU)** by **syverina** *(LEAVE ME D HELL ALONE!!!!)*
+🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 18:17:47Z UTC
+🕐 Last updated: 2025-09-10 18:44:57Z UTC
 <!-- SPOTIFY-END -->
