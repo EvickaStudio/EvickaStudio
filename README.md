@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b4d9129e92a7e3399d096536" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371396cbc4575646ec83b7635" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [INTERLUDE](https://open.spotify.com/track/0iK1na4EJ8slQCu4cnvD91)**
-*by* **p6inkillr**
-*Album:* INTERLUDE
+**🎵 [One 4 Me](https://open.spotify.com/track/5P3R5WzQPlaPtfPqpDKlY0)**
+*by* **hydrakuma13, willowcore**
+*Album:* One 4 Me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="19" height="4" fill="#1db954" rx="2"/>
-    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 1:54
+    0:27 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
-🎤 **[04:30](https://open.spotify.com/track/7Cgar1fczX18RuU0nUnLuF)** by **pink luu, nami, cxpyyy, luu** *(pain parade)*
-🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
-🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
+🎤 **[I can give you love](https://open.spotify.com/track/4lPR01Z3VaCDi6Fqkw1iWx)** by **Psych** *(I can give you love)*
+🎤 **[spiral out control](https://open.spotify.com/track/3XRnFAadgVDwAu1SXLK3aW)** by **hateoryx, pink luu, Pawl4k** *(spiral out control)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)*
+🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 13:01:00Z UTC
+🕐 Last updated: 2025-09-10 13:34:39Z UTC
 <!-- SPOTIFY-END -->
