@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27378c1b9ae923c5d66538be784" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aa966c5b28692fd8452d930a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)**
-*by* **Edwin Rosen**
-*Album:* Die Sterne
+**🎵 [Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)**
+*by* **Traumatin**
+*Album:* Genug
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="298" height="4" fill="#1db954" rx="2"/>
+    <circle cx="298" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 1:28
+    2:36 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
-🎤 **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)*
-🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
+🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 18:53:46Z UTC
+🕐 Last updated: 2025-09-10 19:09:20Z UTC
 <!-- SPOTIFY-END -->
