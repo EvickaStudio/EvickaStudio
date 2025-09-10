@@ -107,26 +107,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)**
-*by* **Bassvictim**
-*Album:* Basspunk 2
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:25
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 09:13:01Z UTC
+🕐 Last updated: 2025-09-10 09:30:17Z UTC
 <!-- SPOTIFY-END -->
