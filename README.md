@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c221b8d106d1e4b9b5ec8068" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738dd5d6d4f19768d6812324e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)**
-*by* **nomu.**
-*Album:* Medicine
+**🎵 [what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)**
+*by* **crusey, trustt**
+*Album:* what u need
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="20" height="4" fill="#1db954" rx="2"/>
-    <circle cx="20" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:40
+    1:26 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bad bitch molly addict](https://open.spotify.com/track/0fvDBzHfS0UhJ6GAi4uS9R)** by **d3r, Pr0xy, jakubshaggy** *(bad bitch molly addict)*
-🎤 **[internet fame](https://open.spotify.com/track/4yP3Rw1bjIceuA7DJOzpbx)** by **p6inkillr** *(internet fame)*
-🎤 **[pretend](https://open.spotify.com/track/5hxQaMhUUnu2HXEvKKBXW3)** by **crusey, isai** *(pretend)*
-🎤 **[MONSTER](https://open.spotify.com/track/7rSEBRnvc0QvdCTp90uAEj)** by **Shoto** *(MONSTER)*
-🎤 **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[hang on](https://open.spotify.com/track/0RazVefcowUKpzqkKRHA4o)** by **skypebf, 2040x2040** *(#waitforme)*
+🎤 **[do it all again](https://open.spotify.com/track/4lOYbfvg3a145Pfqrx6mkK)** by **hateoryx, wujek, Number48** *(StopDrop&Roll!)*
+🎤 **[Feel It](https://open.spotify.com/track/4M70OqsMnH6GwzEFtYAF5o)** by **d4vd** *(WITHERED)*
+🎤 **[Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr)** by **d4vd** *(Petals to Thorns)*
+🎤 **[Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL)** by **d4vd** *(Romantic Homicide)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 17:10:19Z UTC
+🕐 Last updated: 2025-09-10 17:27:25Z UTC
 <!-- SPOTIFY-END -->
