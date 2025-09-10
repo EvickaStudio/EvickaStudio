@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273416ed1ffc9784b48721e1a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)**
+*by* **grim noir**
+*Album:* Herz macht Turbo
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="45" height="4" fill="#1db954" rx="2"/>
+    <circle cx="45" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:24 • 2:39
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)*
-🎤 **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)*
-🎤 **[Everything In Its Right Place - House](https://open.spotify.com/track/0NHzRvrq9uxH4SEBWPWtki)** by **Warband023** *(Everything In Its Right Place (House))*
-🎤 **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)*
+🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 09:48:48Z UTC
+🕐 Last updated: 2025-09-10 10:12:36Z UTC
 <!-- SPOTIFY-END -->
