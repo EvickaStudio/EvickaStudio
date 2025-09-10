@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738dd5d6d4f19768d6812324e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dce9dbfdbc00881bc5b42259" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)**
-*by* **crusey, trustt**
-*Album:* what u need
+**🎵 [evil dancer](https://open.spotify.com/track/5AANgYLshgpI3ce3SSijZZ)**
+*by* **hateoryx, KidSnorlax**
+*Album:* evil dancer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="24" height="4" fill="#1db954" rx="2"/>
+    <circle cx="24" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 2:03
+    0:10 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hang on](https://open.spotify.com/track/0RazVefcowUKpzqkKRHA4o)** by **skypebf, 2040x2040** *(#waitforme)*
-🎤 **[do it all again](https://open.spotify.com/track/4lOYbfvg3a145Pfqrx6mkK)** by **hateoryx, wujek, Number48** *(StopDrop&Roll!)*
-🎤 **[Feel It](https://open.spotify.com/track/4M70OqsMnH6GwzEFtYAF5o)** by **d4vd** *(WITHERED)*
-🎤 **[Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr)** by **d4vd** *(Petals to Thorns)*
-🎤 **[Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL)** by **d4vd** *(Romantic Homicide)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[Teeth](https://open.spotify.com/track/32g0jJ3tFdMhRQvvCmmY25)** by **nomu.** *(Teeth)*
+🎤 **[knife play - slowed](https://open.spotify.com/track/4h1AaozJBSC5OmfAyA4Ar8)** by **d3r, blood pup** *(knife play (slowed))*
+🎤 **[ETERNAL](https://open.spotify.com/track/4eUlAHkMF0ZGzIcHIje2wp)** by **p6inkillr** *(ETERNAL)*
+🎤 **[what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)** by **crusey, trustt** *(what u need)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 17:27:25Z UTC
+🕐 Last updated: 2025-09-10 17:37:15Z UTC
 <!-- SPOTIFY-END -->
