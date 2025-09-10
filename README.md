@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3b638147de6a521a5d65950" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b4d9129e92a7e3399d096536" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)**
-*by* **ilyproxy, leander, Hadesthegrim, eversonder**
-*Album:* 2016
+**🎵 [INTERLUDE](https://open.spotify.com/track/0iK1na4EJ8slQCu4cnvD91)**
+*by* **p6inkillr**
+*Album:* INTERLUDE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="64" height="4" fill="#1db954" rx="2"/>
-    <circle cx="64" cy="2" r="6" fill="#1db954"/>
+    <rect width="19" height="4" fill="#1db954" rx="2"/>
+    <circle cx="19" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 3:26
+    0:07 • 1:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
-🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
+🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
+🎤 **[04:30](https://open.spotify.com/track/7Cgar1fczX18RuU0nUnLuF)** by **pink luu, nami, cxpyyy, luu** *(pain parade)*
+🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
+🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 12:23:17Z UTC
+🕐 Last updated: 2025-09-10 13:01:00Z UTC
 <!-- SPOTIFY-END -->
