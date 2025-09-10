@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273db6447d8a3e0b768dfcab975" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730ad97afff296165f7d48f53c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Glide Over the Lake](https://open.spotify.com/track/3XdXyNrHnCi5ZgTevnweKh)**
+**🎵 [Sea](https://open.spotify.com/track/0bp0QWCydGRvnlxo2VUHzV)**
 *by* **Soothing Oasis**
-*Album:* Weightless
+*Album:* Sleeping Earth
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="38" height="4" fill="#1db954" rx="2"/>
-    <circle cx="38" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 2:11
+    0:32 • 2:09
 </span>
 </p>
 
@@ -136,7 +136,6 @@
 🎤 **[Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)** by **lauenburg** *(Turmalin)*
 🎤 **[für für immer](https://open.spotify.com/track/7w7oN0OCYygKuBWGQQXaOk)** by **DANZINGER 99, æmilia** *(aber immer noch besser als in dieser welt in der ich wach bin)*
 🎤 **[Eines Tages](https://open.spotify.com/track/4oUlC0356wk0vR0r14aJT1)** by **Streichelt** *(Eines Tages)*
-🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
 
 
 
@@ -159,5 +158,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 23:34:41Z UTC
+🕐 Last updated: 2025-09-10 23:47:57Z UTC
 <!-- SPOTIFY-END -->
