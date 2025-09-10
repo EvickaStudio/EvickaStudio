@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736f06348c3db472d6a5070adc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4f972d9fe2813d3a88b92c1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)**
-*by* **Edwin Rosen**
-*Album:* Wie sehr tut es weh?
+**🎵 [Wanna get high](https://open.spotify.com/track/4XZE6z7my3zU9Nwb8Q0eqW)**
+*by* **rvng**
+*Album:* Nr. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 2:45
+    1:29 • 2:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA)** by **Stegosaurus Rex** *(The Dino Soars)*
+🎤 **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
 🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
 🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 08:43:35Z UTC
+🕐 Last updated: 2025-09-10 08:53:27Z UTC
 <!-- SPOTIFY-END -->
