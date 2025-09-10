@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a17adb67b5da4032f0ab4c2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27358de3a03d04610c2ae3a8d97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)**
-*by* **Traumatin**
-*Album:* Schließ bitte ab wenn ich geh
+**🎵 [stadtgeflüster](https://open.spotify.com/track/28i2TYfPXO3Kz85BmmCzs3)**
+*by* **Leocardo DiNaprio**
+*Album:* stadtgeflüster
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="216" height="4" fill="#1db954" rx="2"/>
-    <circle cx="216" cy="2" r="6" fill="#1db954"/>
+    <rect width="297" height="4" fill="#1db954" rx="2"/>
+    <circle cx="297" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 3:27
+    2:42 • 2:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)** by **Leocardo DiNaprio, emi x** *(bis es tag wird)*
-🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[wenn der himmel nicht mehr blau ist](https://open.spotify.com/track/353M9lOui0IXgNyLQQEK0P)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by **Steintor Herrenchor** *(wohin)*
+🎤 **[Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
+🎤 **[Mit Spritz](https://open.spotify.com/track/2BgOpW68MQzdyAvjkP9e5C)** by **Streichelt** *(Mit Spritz)*
+🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 20:31:15Z UTC
+🕐 Last updated: 2025-09-10 20:47:45Z UTC
 <!-- SPOTIFY-END -->
