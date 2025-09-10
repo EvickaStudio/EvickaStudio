@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dce9dbfdbc00881bc5b42259" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733eca7c895082ab7c2de3eace" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [evil dancer](https://open.spotify.com/track/5AANgYLshgpI3ce3SSijZZ)**
-*by* **hateoryx, KidSnorlax**
-*Album:* evil dancer
+**🎵 [High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)**
+*by* **SUICIDAL-IDOL, hubithekid, FabFantasy**
+*Album:* High Life
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="24" height="4" fill="#1db954" rx="2"/>
-    <circle cx="24" cy="2" r="6" fill="#1db954"/>
+    <rect width="164" height="4" fill="#1db954" rx="2"/>
+    <circle cx="164" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 2:00
+    1:05 • 1:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[Teeth](https://open.spotify.com/track/32g0jJ3tFdMhRQvvCmmY25)** by **nomu.** *(Teeth)*
-🎤 **[knife play - slowed](https://open.spotify.com/track/4h1AaozJBSC5OmfAyA4Ar8)** by **d3r, blood pup** *(knife play (slowed))*
-🎤 **[ETERNAL](https://open.spotify.com/track/4eUlAHkMF0ZGzIcHIje2wp)** by **p6inkillr** *(ETERNAL)*
-🎤 **[what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)** by **crusey, trustt** *(what u need)*
+🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
+🎤 **[come over to the party](https://open.spotify.com/track/7GgQBundAiJj1F3514JHUG)** by **d3r, blood pup, FabFantasy** *(come over to the party)*
+🎤 **[ANTIDOTE](https://open.spotify.com/track/4MqJNmXTstQKJooKpPQ6M1)** by **p6inkillr, 4ortake** *(ANTIDOTE)*
+🎤 **[scarlet valentine](https://open.spotify.com/track/4aioRZbRqJ2D2dPzn8j8lv)** by **ihylunar, Vyzer** *(scarlet valentine)*
+🎤 **[evil dancer](https://open.spotify.com/track/5AANgYLshgpI3ce3SSijZZ)** by **hateoryx, KidSnorlax** *(evil dancer)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 17:37:15Z UTC
+🕐 Last updated: 2025-09-10 17:47:59Z UTC
 <!-- SPOTIFY-END -->
