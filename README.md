@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c4604290202855ab73b8044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d7f4f1ba272607b397ced5ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)**
-*by* **Edwin Rosen**
-*Album:* Balancieren
+**🎵 [Dreaming](https://open.spotify.com/track/71xQEW8Zramnh5jkGpJUMr)**
+*by* **Soothing Oasis**
+*Album:* Dreaming
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 3:40
+    1:49 • 2:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
+🎤 **[FRAGEN](https://open.spotify.com/track/5HZeXQrgsq3NREZU6ExBUA)** by **AMANDUS 99** *(FRAGEN)*
+🎤 **[Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)** by **lauenburg** *(Turmalin)*
+🎤 **[für für immer](https://open.spotify.com/track/7w7oN0OCYygKuBWGQQXaOk)** by **DANZINGER 99, æmilia** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[Eines Tages](https://open.spotify.com/track/4oUlC0356wk0vR0r14aJT1)** by **Streichelt** *(Eines Tages)*
+🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-10 21:47:46Z UTC
+🕐 Last updated: 2025-09-10 22:11:17Z UTC
 <!-- SPOTIFY-END -->
