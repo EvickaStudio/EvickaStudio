@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee899f14f585135b51078379" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346594fcee9980ab828135f7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)**
-*by* **Soothing Oasis**
-*Album:* Sleep Well
+**🎵 [Better World](https://open.spotify.com/track/0VnxHASLCg4cW58soE751z)**
+*by* **Avery's Ambient**
+*Album:* A New Day
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="258" height="4" fill="#1db954" rx="2"/>
-    <circle cx="258" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 2:06
+    0:37 • 2:05
 </span>
 </p>
 
@@ -155,5 +155,5 @@ No recently played tracks.
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 00:57:29Z UTC
+🕐 Last updated: 2025-09-11 02:22:12Z UTC
 <!-- SPOTIFY-END -->
