@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273682e5bb41cad85e336c574ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a788093a6aa454485248f86" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)**
-*by* **p6inkillr**
-*Album:* upside down
+**🎵 [test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)**
+*by* **Senses, Nightclub20xx**
+*Album:* test subject
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="121" height="4" fill="#1db954" rx="2"/>
+    <circle cx="121" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 2:49
+    1:11 • 2:57
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hope You Never Leave](https://open.spotify.com/track/54DjDqT686OM2C5c2eAJfa)** by **Lil Witchy** *(BL33D4Y0U)*
-🎤 **[OUR LOVE IS DIGITAL](https://open.spotify.com/track/2m0Ny6FKJ9GuMu0m1hqtBZ)** by **lavendr, dollreal, Pixel Hood** *(OUR LOVE IS DIGITAL)*
-🎤 **[vxmpire love (nightcore)](https://open.spotify.com/track/7hV7l74x8Pbg42SzITLZtm)** by **4ortake, Snave** *(vxmpire love (nightcore))*
-🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
-🎤 **[thank u soo much ^_^](https://open.spotify.com/track/5qSAmFmhlcEEpDRpeGQf0H)** by **oaf1** *(thank u soo much ^_^)*
+🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
+🎤 **[LuvLorn </3](https://open.spotify.com/track/1Ltno4ZlC55Vt3NQvJUy4a)** by **LooveX, cholorofilm** *(LuvLorn </3)*
+🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
+🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
+🎤 **[upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)** by **p6inkillr** *(upside down)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 19:21:55Z UTC
+🕐 Last updated: 2025-09-11 19:33:42Z UTC
 <!-- SPOTIFY-END -->
