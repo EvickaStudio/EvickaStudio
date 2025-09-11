@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cef7093c01e0051dd77945f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
-*by* **luu, mehlhaltig, iwannabemissed**
-*Album:* triple trauma
+**🎵 [(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)**
+*by* **agelast222**
+*Album:* (SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
+    <rect width="93" height="4" fill="#1db954" rx="2"/>
+    <circle cx="93" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 1:34
+    0:27 • 1:28
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[killmode, pt. 2](https://open.spotify.com/track/1Fv91Wq2vYpLSefiisrGSN)** by **Senses** *(seventh heaven)*
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[WIR SIND HELDEN](https://open.spotify.com/track/3nYtlXc3tLPv4k8LmoGRWr)** by **stixz** *(WIR SIND HELDEN)*
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
+🎤 **[ok](https://open.spotify.com/track/3QTIGv13oxWtyysTnwpa61)** by **oaf1** *(ok)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[I <3 DRUGS](https://open.spotify.com/track/1pZmKCe4p3YF7x5QfqwFyT)** by **lavendr** *(I <3 DRUGS)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 17:27:13Z UTC
+🕐 Last updated: 2025-09-11 17:35:43Z UTC
 <!-- SPOTIFY-END -->
