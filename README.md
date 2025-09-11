@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc372dae933775bef78a2c62" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Evening Air](https://open.spotify.com/track/6k7hhvnGWqdPqnr4R7VJo9)**
+**🎵 [Mindful](https://open.spotify.com/track/7qXOE57JDKYAXyfbLUeIW5)**
 *by* **Soothing Oasis**
-*Album:* Evening
+*Album:* Peace of Mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="12" height="4" fill="#1db954" rx="2"/>
+    <circle cx="12" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:11
+    0:05 • 2:09
 </span>
 </p>
 
@@ -155,5 +155,5 @@ No recently played tracks.
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 03:52:32Z UTC
+🕐 Last updated: 2025-09-11 04:14:36Z UTC
 <!-- SPOTIFY-END -->
