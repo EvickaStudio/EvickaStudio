@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e44b2b25afa0b9a338ec2ee6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c87b539fb5303710bd47c636" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CUTS ON ME <3](https://open.spotify.com/track/220F8WqvrfwyM1q8WNNZG9)**
-*by* **xandera, disoc8**
-*Album:* CUTS ON ME <3
+**🎵 [Dryad #222 (hotelgodlin)](https://open.spotify.com/track/0lIGt4yMpRnlSuI7EZfkli)**
+*by* **agelast222**
+*Album:* agelast222
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="75" height="4" fill="#1db954" rx="2"/>
-    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+    <rect width="297" height="4" fill="#1db954" rx="2"/>
+    <circle cx="297" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:34
+    2:11 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
-🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
-🎤 **[bunny](https://open.spotify.com/track/2tD9gh0tkTxdir6fF9SAnW)** by **tjweaver, Silent Boy** *(bunny)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[hurt me this way](https://open.spotify.com/track/0k9lQMFY2UpuKkXZTTREBP)** by **kmrnxo, ghxstless** *(hurt me this way)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 10:32:40Z UTC
+🕐 Last updated: 2025-09-11 10:47:53Z UTC
 <!-- SPOTIFY-END -->
