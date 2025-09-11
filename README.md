@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a9303131ecdf959edf06202c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27357902545670089ba9a0a49db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* dancing music 2
+**🎵 [Tour De France](https://open.spotify.com/track/6Fl9GjGBS1xJJ5yfbTdw4d)**
+*by* **luu, cxpyyy**
+*Album:* Tour De France
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 2:44
+    0:15 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Angel Lights](https://open.spotify.com/track/1GfHXvlZy4RaVvZHVFWp97)** by **reviveme, SHEMYYY** *(Angel Lights)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
-🎤 **[Frage](https://open.spotify.com/track/4h8AEYcg1D4btniZnNIphZ)** by **mehlhaltig** *(Frage)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
+🎤 **[Luv ₊˚ෆ - sped-up](https://open.spotify.com/track/3DD1i7i1IT6VU5ds26HOE2)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[GOODJOb](https://open.spotify.com/track/0lBpxr3me2KBoxA620hsvU)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 14:12:40Z UTC
+🕐 Last updated: 2025-09-11 14:32:01Z UTC
 <!-- SPOTIFY-END -->
