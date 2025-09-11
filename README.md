@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
-*by* **EASY EASY**
-*Album:* schädel
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 3:06
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[regen༺♡✧+++](https://open.spotify.com/track/7n25BiOJchTevJkXBw1FGs)** by **DANZINGER 99, DJ<3** *(Hotel+++)*
-🎤 **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Hochhaus](https://open.spotify.com/track/1vagrF9UKmyBw3I52Shf8k)** by **AMANDUS 99, DANZINGER 99** *(Hochhaus)*
-🎤 **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)*
-🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
+🎤 **[Alle 13 Tage](https://open.spotify.com/track/0WZzrzs0F06ZGnyBdk30lS)** by **Streichelt** *(Alle 13 Tage)*
+🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
+🎤 **[vielzubreit 2](https://open.spotify.com/track/3jEbnQF8936IYEu99ALo1G)** by **Steintor Herrenchor** *(vielzubreit 2)*
+🎤 **[promise](https://open.spotify.com/track/7o9LCQ8RDOrMWV9dc0TmTG)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[Schock](https://open.spotify.com/track/7fwMWxd5VUQn5sJdbqGrfr)** by **Tape Head, NONI** *(Schock)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 06:46:09Z UTC
+🕐 Last updated: 2025-09-11 07:12:05Z UTC
 <!-- SPOTIFY-END -->
