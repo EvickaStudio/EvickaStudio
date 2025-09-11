@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be5d6eb3bcd4f513f132b7f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e44b2b25afa0b9a338ec2ee6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [manipulate me](https://open.spotify.com/track/0pYDA1FILqNoj9DSO0uncO)**
-*by* **kmrnxo**
-*Album:* manipulate me
+**🎵 [CUTS ON ME <3](https://open.spotify.com/track/220F8WqvrfwyM1q8WNNZG9)**
+*by* **xandera, disoc8**
+*Album:* CUTS ON ME <3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 1:56
+    0:39 • 2:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[Pflaster](https://open.spotify.com/track/27ymVUs105mwFFIHSP1x1m)** by **humanangst** *(Pflaster/Was Solls)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[bunny](https://open.spotify.com/track/2tD9gh0tkTxdir6fF9SAnW)** by **tjweaver, Silent Boy** *(bunny)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 10:12:42Z UTC
+🕐 Last updated: 2025-09-11 10:32:40Z UTC
 <!-- SPOTIFY-END -->
