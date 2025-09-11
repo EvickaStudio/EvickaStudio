@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b685c60e03694a7e89b1ea2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273761bd098ac4cf334b3611036" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)**
-*by* **luu, Slatty**
-*Album:* KLOPF KLOPF
+**🎵 [snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)**
+*by* **pink luu, nami, cxpyyy, luu**
+*Album:* snorting adderall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:50 • 1:52
+    0:13 • 1:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
-🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
-🎤 **[spiral out control](https://open.spotify.com/track/3XRnFAadgVDwAu1SXLK3aW)** by **hateoryx, pink luu, Pawl4k** *(spiral out control)*
-🎤 **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)*
-🎤 **[kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)** by **p6inkillr** *(kill me)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[buntetränen](https://open.spotify.com/track/06skzp8jtgf525Zl6l8uSg)** by **ALeiz** *(buntetränen)*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 14:48:03Z UTC
+🕐 Last updated: 2025-09-11 15:12:24Z UTC
 <!-- SPOTIFY-END -->
