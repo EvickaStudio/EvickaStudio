@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27331f5ba436b4a92dd6d5b9126" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [TrojanXD](https://open.spotify.com/track/7KjrYBaMQuIYAASklGKmye)**
-*by* **elctrnc/sed:/**
-*Album:* TrojanXD
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="208" height="4" fill="#1db954" rx="2"/>
-    <circle cx="208" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 1:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[i was doing k in the bathroom stall](https://open.spotify.com/track/4b9qL9QfBZXQpav2rjo1fo)** by **dreamcache** *(i was doing k in the bathroom stall)*
+🎤 **[TrojanXD](https://open.spotify.com/track/7KjrYBaMQuIYAASklGKmye)** by **elctrnc/sed:/** *(TrojanXD)*
 🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
 🎤 **[re zero](https://open.spotify.com/track/116fMFsddogmDaZmhTLFYF)** by **jequya** *(2021)*
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 20:36:54Z UTC
+🕐 Last updated: 2025-09-11 20:47:31Z UTC
 <!-- SPOTIFY-END -->
