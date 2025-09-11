@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732f6f7ab3d3dd650d5c0ffac3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a624e3f0334a32455d2ea53a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nice spirits / sentimental](https://open.spotify.com/track/3ow1sTEtsxCJ6brgeXRFjx)**
-*by* **jequya**
-*Album:* nice spirits / sentimental
+**🎵 [3cheers](https://open.spotify.com/track/3tIcCslcEPama1T7UXIYea)**
+*by* **8485**
+*Album:* Personal Protocol
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:55
+    0:21 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
-🎤 **[earth](https://open.spotify.com/track/115CJdhY2G6UysK1Uf8Ejr)** by **emotegi, VisaS2K** *(earth)*
-🎤 **[Face First!](https://open.spotify.com/track/7tXH1YNHnqdyNlpgmjcaja)** by **prvttyscrzz, hydrakuma13** *(Face First!)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[hiding emotions at the rave](https://open.spotify.com/track/4YQOnnlxm6dr56lXjtlhvl)** by **elctrnc/sed:/** *(hiding emotions at the rave)*
+🎤 **[GUTEs](https://open.spotify.com/track/4M6e9BWMSmMt7NRoTIGyk2)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[haunts me](https://open.spotify.com/track/2rsqKGycZ2t1JcuWr7YNTG)** by **ri4h** *(haunts me)*
+🎤 **[gore luv](https://open.spotify.com/track/0L9Gp1apMSAAyoSPjQg8nV)** by **nyxixide, d3r** *(gore luv)*
+🎤 **[spacehey on my mind](https://open.spotify.com/track/2CI2Qt5hQUBbMj6o6y7xX8)** by **elctrnc/sed:/, matascoo, NXTY** *(spacehey on my mind)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 18:14:45Z UTC
+🕐 Last updated: 2025-09-11 18:36:38Z UTC
 <!-- SPOTIFY-END -->
