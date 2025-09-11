@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fac7e02db331a41fc546eee1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a3b638147de6a521a5d65950" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)**
-*by* **luu, Skatey Hellstar**
-*Album:* blister
+**🎵 [2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)**
+*by* **ilyproxy, leander, Hadesthegrim, eversonder**
+*Album:* 2016
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 1:43
+    3:01 • 3:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Chipi Chapa!](https://open.spotify.com/track/28s1S3T5gwKSC3EdL3mglw)** by **hateoryx, Veigayboy** *(Chipi Chapa!)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[Half Alive](https://open.spotify.com/track/5dy7TvHSwZHcmHrug8FVTb)** by **Halo Cupid, emotionals, maknae** *(Half Alive)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[flatline](https://open.spotify.com/track/4xvCc3msZwjXMP2Sh94Fiu)** by **owtiss** *(flatline)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
+🎤 **[liebe digital - sped up](https://open.spotify.com/track/5r3ewGHFZA35mPwQIXzRRC)** by **stixz, muli** *(liebe digital)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 13:00:08Z UTC
+🕐 Last updated: 2025-09-11 13:27:19Z UTC
 <!-- SPOTIFY-END -->
