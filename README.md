@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732acb9b5dd4477c8c153709a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d78be07f88363bb92ef5ed60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)**
-*by* **i9bonsai, mikosp**
-*Album:* baehuntr
+**🎵 [paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)**
+*by* **Senses**
+*Album:* paralyzed
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="121" height="4" fill="#1db954" rx="2"/>
-    <circle cx="121" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:26
+    0:27 • 2:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[zombie](https://open.spotify.com/track/1JaNRGHPUPGdFJ2SCrIHoq)** by **xandera, gl!tz, disoc8** *(zombie)*
-🎤 **[Renn](https://open.spotify.com/track/1NqKT2wVTapknsUcELNKr4)** by **Kio, Love Pact** *(Living Our Dream But Its A Nightmare)*
-🎤 **[be urself](https://open.spotify.com/track/30ckvV3QBZrICM16CnB64Y)** by **owtiss, angelicxmei** *(be urself)*
-🎤 **[CUT UR NAME IN MY ARM :/](https://open.spotify.com/track/10gVNypQeQicrEq9lWCalM)** by **offaflat, cholorofilm** *(CUT UR NAME IN MY ARM :/)*
-🎤 **[EIS BRICHT](https://open.spotify.com/track/6kvPyzGcpSDVQ24jE1QBpe)** by **Mobezzy, wayne** *(EIS BRICHT)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[GET OFF ME](https://open.spotify.com/track/1HOZqsxPRZISTlCVw6aevL)** by **xandera, cholorofilm** *(GET OFF ME)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[EVERYTIME WE DRUNK](https://open.spotify.com/track/4aZP69rfFiB008FEficXYq)** by **kmrnxo, offaflat** *(EVERYTIME WE DRUNK)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 09:12:55Z UTC
+🕐 Last updated: 2025-09-11 09:30:06Z UTC
 <!-- SPOTIFY-END -->
