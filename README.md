@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fed94da28f9ee02a1f06390c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739a25181b5d63f71dc0348c0b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)**
-*by* **iamsodead, elctrnc/sed:/, LooveX**
-*Album:* shut up and sleep with me
+**🎵 [oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)**
+*by* **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy**
+*Album:* oyoyoyoy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:38
+    1:36 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
 🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
 🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[feelings 4 you](https://open.spotify.com/track/1wN1W5vXjrxRNsyllvZoxQ)** by **ystn, Keigo** *(feelings 4 you)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 13:39:54Z UTC
+🕐 Last updated: 2025-09-11 13:47:48Z UTC
 <!-- SPOTIFY-END -->
