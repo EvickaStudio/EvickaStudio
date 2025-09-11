@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a624e3f0334a32455d2ea53a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a048d5add9142392b35b5c97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [3cheers](https://open.spotify.com/track/3tIcCslcEPama1T7UXIYea)**
-*by* **8485**
-*Album:* Personal Protocol
+**🎵 [dance with u](https://open.spotify.com/track/6bpbhZMery65hAfQHnmRjM)**
+*by* **eunhae**
+*Album:* dance with u
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="55" height="4" fill="#1db954" rx="2"/>
-    <circle cx="55" cy="2" r="6" fill="#1db954"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 1:57
+    0:26 • 1:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hiding emotions at the rave](https://open.spotify.com/track/4YQOnnlxm6dr56lXjtlhvl)** by **elctrnc/sed:/** *(hiding emotions at the rave)*
-🎤 **[GUTEs](https://open.spotify.com/track/4M6e9BWMSmMt7NRoTIGyk2)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[haunts me](https://open.spotify.com/track/2rsqKGycZ2t1JcuWr7YNTG)** by **ri4h** *(haunts me)*
-🎤 **[gore luv](https://open.spotify.com/track/0L9Gp1apMSAAyoSPjQg8nV)** by **nyxixide, d3r** *(gore luv)*
-🎤 **[spacehey on my mind](https://open.spotify.com/track/2CI2Qt5hQUBbMj6o6y7xX8)** by **elctrnc/sed:/, matascoo, NXTY** *(spacehey on my mind)*
+🎤 **[fuck around](https://open.spotify.com/track/0WocIzSIGlQH1PNOySf3s2)** by **kets4eki, asht0nn, misalive** *(fuck around)*
+🎤 **[Fuck It Up](https://open.spotify.com/track/4NAmhjcvTq2dHBsjZlC4lB)** by **hydrakuma13, ihylunar** *(Fuck It Up)*
+🎤 **[10](https://open.spotify.com/track/3XcZiQBFtyZnN8HsNMtZMe)** by **luu, kanjiru** *(10)*
+🎤 **[hurtz](https://open.spotify.com/track/2TbSCNLkuUFi6j4agnHHqO)** by **lynU** *(hurtz)*
+🎤 **[OWA!](https://open.spotify.com/track/2VynAxifZszayVQRJzqQ0a)** by **stixz** *(OWA!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 18:36:38Z UTC
+🕐 Last updated: 2025-09-11 18:49:16Z UTC
 <!-- SPOTIFY-END -->
