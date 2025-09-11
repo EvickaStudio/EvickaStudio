@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731c01f11ce57d77570fc6fa59" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734d6700ddce0bf438c5459496" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)**
-*by* **luu, cy4ne**
-*Album:* arschloch
+**🎵 [crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)**
+*by* **Iuvumi**
+*Album:* crushing ice
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="161" height="4" fill="#1db954" rx="2"/>
+    <circle cx="161" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 1:39
+    1:02 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[at the club 2](https://open.spotify.com/track/3vMtTDyfes1s91kJGi0IN1)** by **trndytrndy** *(songs2)*
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
-🎤 **[INTERLUDE](https://open.spotify.com/track/0iK1na4EJ8slQCu4cnvD91)** by **p6inkillr** *(INTERLUDE)*
+🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
+🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[i was doing k in the bathroom stall](https://open.spotify.com/track/4b9qL9QfBZXQpav2rjo1fo)** by **dreamcache** *(i was doing k in the bathroom stall)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 19:48:01Z UTC
+🕐 Last updated: 2025-09-11 20:10:51Z UTC
 <!-- SPOTIFY-END -->
