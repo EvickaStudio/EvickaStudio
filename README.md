@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aebf6df8009f3f7f5550d7b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lingering Voices](https://open.spotify.com/track/2eL0Whi2RrIxKwzwM6FVrf)**
-*by* **Avery's Ambient**
-*Album:* Everglow
+**🎵 [leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)**
+*by* **Edwin Rosen**
+*Album:* leichter//kälter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:05
+    1:02 • 3:15
 </span>
 </p>
 
@@ -132,7 +132,9 @@
 
 ### 📜 Recently Played
 
-No recently played tracks.
+🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
 
 
 
@@ -155,5 +157,5 @@ No recently played tracks.
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 05:30:46Z UTC
+🕐 Last updated: 2025-09-11 05:47:57Z UTC
 <!-- SPOTIFY-END -->
