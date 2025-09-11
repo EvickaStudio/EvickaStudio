@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a048d5add9142392b35b5c97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732cd8835c0cc2a7d3114b2a6b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dance with u](https://open.spotify.com/track/6bpbhZMery65hAfQHnmRjM)**
-*by* **eunhae**
-*Album:* dance with u
+**🎵 [internet fame](https://open.spotify.com/track/4yP3Rw1bjIceuA7DJOzpbx)**
+*by* **p6inkillr**
+*Album:* internet fame
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="27" height="4" fill="#1db954" rx="2"/>
+    <circle cx="27" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 1:53
+    0:12 • 2:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[fuck around](https://open.spotify.com/track/0WocIzSIGlQH1PNOySf3s2)** by **kets4eki, asht0nn, misalive** *(fuck around)*
-🎤 **[Fuck It Up](https://open.spotify.com/track/4NAmhjcvTq2dHBsjZlC4lB)** by **hydrakuma13, ihylunar** *(Fuck It Up)*
-🎤 **[10](https://open.spotify.com/track/3XcZiQBFtyZnN8HsNMtZMe)** by **luu, kanjiru** *(10)*
-🎤 **[hurtz](https://open.spotify.com/track/2TbSCNLkuUFi6j4agnHHqO)** by **lynU** *(hurtz)*
-🎤 **[OWA!](https://open.spotify.com/track/2VynAxifZszayVQRJzqQ0a)** by **stixz** *(OWA!)*
+🎤 **[mine even if it hurts ♡](https://open.spotify.com/track/2IvDpclVMyoiMuVqVhlYrs)** by **lovesiren, pichuu** *(mine even if it hurts ♡)*
+🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[flux!](https://open.spotify.com/track/3Wfq7HogqxyrwLWGFkPRth)** by **xo** *(flux!)*
+🎤 **[Anymore](https://open.spotify.com/track/7kmHhZlsWpWEtW7UFnOZFx)** by **Nomark** *(Anymore)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 18:49:16Z UTC
+🕐 Last updated: 2025-09-11 19:08:48Z UTC
 <!-- SPOTIFY-END -->
