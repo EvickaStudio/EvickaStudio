@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)**
-*by* **Edwin Rosen, sparr00w**
-*Album:* Die Sterne
+**🎵 [schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
+*by* **EASY EASY**
+*Album:* schädel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 3:18
+    1:03 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
-🎤 **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)*
+🎤 **[regen༺♡✧+++](https://open.spotify.com/track/7n25BiOJchTevJkXBw1FGs)** by **DANZINGER 99, DJ<3** *(Hotel+++)*
+🎤 **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Hochhaus](https://open.spotify.com/track/1vagrF9UKmyBw3I52Shf8k)** by **AMANDUS 99, DANZINGER 99** *(Hochhaus)*
+🎤 **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 06:19:00Z UTC
+🕐 Last updated: 2025-09-11 06:46:09Z UTC
 <!-- SPOTIFY-END -->
