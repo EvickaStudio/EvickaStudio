@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735787bf9987e422d9f2556a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ORANGe](https://open.spotify.com/track/3Cx4YDhYEI7wSgHtJoNGJY)**
-*by* **agelast222, gard**
-*Album:* SOLAR TACTICS
+**🎵 [ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)**
+*by* **luu, n3vio**
+*Album:* ich bring mich um
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="58" height="4" fill="#1db954" rx="2"/>
-    <circle cx="58" cy="2" r="6" fill="#1db954"/>
+    <rect width="246" height="4" fill="#1db954" rx="2"/>
+    <circle cx="246" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 1:33
+    1:22 • 1:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[u were the one](https://open.spotify.com/track/0eVU9vIijucrHFVvD4QtgM)** by **hateoryx, elctrnc/sed:/, willowcore, Pawl4k** *(u were the one)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 16:15:07Z UTC
+🕐 Last updated: 2025-09-11 16:35:30Z UTC
 <!-- SPOTIFY-END -->
