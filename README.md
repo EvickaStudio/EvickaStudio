@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731db925bcaf00f28067e87414" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732acb9b5dd4477c8c153709a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [watchlist](https://open.spotify.com/track/1yDY4lHRPIlraE1Q02QVyw)**
-*by* **AFFLICTED, crusey, deepinparis, akkiro**
-*Album:* afflicted1
+**🎵 [baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)**
+*by* **i9bonsai, mikosp**
+*Album:* baehuntr
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
+    <rect width="121" height="4" fill="#1db954" rx="2"/>
+    <circle cx="121" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 2:00
+    0:59 • 2:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ROCk DAYs](https://open.spotify.com/track/17vUtB9CGZ9nTZ2uQamjOP)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[league](https://open.spotify.com/track/30BSCCFcoGAWsO4Iex6j18)** by **agelast222, cdgplug** *(Last Bible)*
-🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
-🎤 **[bloodstainz](https://open.spotify.com/track/52vpmVpGvbAIKQEaiCodZW)** by **pichu** *(bloodstainz)*
-🎤 **[waste uv time](https://open.spotify.com/track/5AbAAcoeb7TpLtC5DZSax5)** by **oaf1, Lain** *(waste uv time)*
+🎤 **[zombie](https://open.spotify.com/track/1JaNRGHPUPGdFJ2SCrIHoq)** by **xandera, gl!tz, disoc8** *(zombie)*
+🎤 **[Renn](https://open.spotify.com/track/1NqKT2wVTapknsUcELNKr4)** by **Kio, Love Pact** *(Living Our Dream But Its A Nightmare)*
+🎤 **[be urself](https://open.spotify.com/track/30ckvV3QBZrICM16CnB64Y)** by **owtiss, angelicxmei** *(be urself)*
+🎤 **[CUT UR NAME IN MY ARM :/](https://open.spotify.com/track/10gVNypQeQicrEq9lWCalM)** by **offaflat, cholorofilm** *(CUT UR NAME IN MY ARM :/)*
+🎤 **[EIS BRICHT](https://open.spotify.com/track/6kvPyzGcpSDVQ24jE1QBpe)** by **Mobezzy, wayne** *(EIS BRICHT)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 08:53:13Z UTC
+🕐 Last updated: 2025-09-11 09:12:55Z UTC
 <!-- SPOTIFY-END -->
