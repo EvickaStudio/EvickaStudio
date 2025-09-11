@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27367ba84c79a28e584194c42d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27302ca1d63a11e1a36dd4126be" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)**
-*by* **Basshunter**
-*Album:* Now You're Gone - The Album
+**🎵 [waste uv time](https://open.spotify.com/track/5AbAAcoeb7TpLtC5DZSax5)**
+*by* **oaf1, Lain**
+*Album:* waste uv time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="65" height="4" fill="#1db954" rx="2"/>
-    <circle cx="65" cy="2" r="6" fill="#1db954"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 2:56
+    0:14 • 1:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[NIE WIEDER LIEBE](https://open.spotify.com/track/1ZFqnDo68SW9zSDGRm0e6o)** by **luu, cxpyyy** *(NIE WIEDER LIEBE)*
+🎤 **[persona](https://open.spotify.com/track/0exR5CXEeh8uxfMoioVnsG)** by **kmrnxo** *(persona)*
+🎤 **[2u](https://open.spotify.com/track/4Rxl0xSMvTprPUA2lC6q95)** by **vai5000, Senses** *(extrasensory)*
+🎤 **[FML](https://open.spotify.com/track/4kLf7XoDfuLJYm99qjmyPT)** by **tjweaver** *(FML)*
+🎤 **[TREif](https://open.spotify.com/track/2ZJLODyo8p98W9EA0mWNOc)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 08:16:52Z UTC
+🕐 Last updated: 2025-09-11 08:42:46Z UTC
 <!-- SPOTIFY-END -->
