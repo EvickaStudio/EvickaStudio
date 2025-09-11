@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732cd8835c0cc2a7d3114b2a6b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273682e5bb41cad85e336c574ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [internet fame](https://open.spotify.com/track/4yP3Rw1bjIceuA7DJOzpbx)**
+**🎵 [upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)**
 *by* **p6inkillr**
-*Album:* internet fame
+*Album:* upside down
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 2:19
+    1:17 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mine even if it hurts ♡](https://open.spotify.com/track/2IvDpclVMyoiMuVqVhlYrs)** by **lovesiren, pichuu** *(mine even if it hurts ♡)*
-🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[flux!](https://open.spotify.com/track/3Wfq7HogqxyrwLWGFkPRth)** by **xo** *(flux!)*
-🎤 **[Anymore](https://open.spotify.com/track/7kmHhZlsWpWEtW7UFnOZFx)** by **Nomark** *(Anymore)*
+🎤 **[Hope You Never Leave](https://open.spotify.com/track/54DjDqT686OM2C5c2eAJfa)** by **Lil Witchy** *(BL33D4Y0U)*
+🎤 **[OUR LOVE IS DIGITAL](https://open.spotify.com/track/2m0Ny6FKJ9GuMu0m1hqtBZ)** by **lavendr, dollreal, Pixel Hood** *(OUR LOVE IS DIGITAL)*
+🎤 **[vxmpire love (nightcore)](https://open.spotify.com/track/7hV7l74x8Pbg42SzITLZtm)** by **4ortake, Snave** *(vxmpire love (nightcore))*
+🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
+🎤 **[thank u soo much ^_^](https://open.spotify.com/track/5qSAmFmhlcEEpDRpeGQf0H)** by **oaf1** *(thank u soo much ^_^)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 19:08:48Z UTC
+🕐 Last updated: 2025-09-11 19:21:55Z UTC
 <!-- SPOTIFY-END -->
