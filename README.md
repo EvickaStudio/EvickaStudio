@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27302ca1d63a11e1a36dd4126be" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731db925bcaf00f28067e87414" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [waste uv time](https://open.spotify.com/track/5AbAAcoeb7TpLtC5DZSax5)**
-*by* **oaf1, Lain**
-*Album:* waste uv time
+**🎵 [watchlist](https://open.spotify.com/track/1yDY4lHRPIlraE1Q02QVyw)**
+*by* **AFFLICTED, crusey, deepinparis, akkiro**
+*Album:* afflicted1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 1:54
+    1:41 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[NIE WIEDER LIEBE](https://open.spotify.com/track/1ZFqnDo68SW9zSDGRm0e6o)** by **luu, cxpyyy** *(NIE WIEDER LIEBE)*
-🎤 **[persona](https://open.spotify.com/track/0exR5CXEeh8uxfMoioVnsG)** by **kmrnxo** *(persona)*
-🎤 **[2u](https://open.spotify.com/track/4Rxl0xSMvTprPUA2lC6q95)** by **vai5000, Senses** *(extrasensory)*
-🎤 **[FML](https://open.spotify.com/track/4kLf7XoDfuLJYm99qjmyPT)** by **tjweaver** *(FML)*
-🎤 **[TREif](https://open.spotify.com/track/2ZJLODyo8p98W9EA0mWNOc)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[ROCk DAYs](https://open.spotify.com/track/17vUtB9CGZ9nTZ2uQamjOP)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[league](https://open.spotify.com/track/30BSCCFcoGAWsO4Iex6j18)** by **agelast222, cdgplug** *(Last Bible)*
+🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
+🎤 **[bloodstainz](https://open.spotify.com/track/52vpmVpGvbAIKQEaiCodZW)** by **pichu** *(bloodstainz)*
+🎤 **[waste uv time](https://open.spotify.com/track/5AbAAcoeb7TpLtC5DZSax5)** by **oaf1, Lain** *(waste uv time)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 08:42:46Z UTC
+🕐 Last updated: 2025-09-11 08:53:13Z UTC
 <!-- SPOTIFY-END -->
