@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a9303131ecdf959edf06202c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b360738c1afe4e3f9791993c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* dancing music 2
+**🎵 [hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)**
+*by* **pink luu, 1antibody**
+*Album:* hackfleisch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="195" height="4" fill="#1db954" rx="2"/>
-    <circle cx="195" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:44
+    1:34 • 1:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Rave All Night](https://open.spotify.com/track/3sAk56blTIq5vJrO9t7QhG)** by **kmrnxo, pink luu** *(Rave All Night)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[INTERLUDE](https://open.spotify.com/track/0iK1na4EJ8slQCu4cnvD91)** by **p6inkillr** *(INTERLUDE)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
+🎤 **[vxmpire love](https://open.spotify.com/track/7D4PC4SZlSJrKg58MLmB9x)** by **4ortake, Snave** *(vxmpire love)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-11 11:34:18Z UTC
+🕐 Last updated: 2025-09-11 11:47:53Z UTC
 <!-- SPOTIFY-END -->
