@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379cf43651dd1c7b896e642e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273769dd5dc46f6f791db1d89e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)**
-*by* **Bladee**
-*Album:* Spiderr
+**🎵 [stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)**
+*by* **meat computer, Lvl99magic**
+*Album:* stray
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="267" height="4" fill="#1db954" rx="2"/>
-    <circle cx="267" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:33
+    0:20 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
-🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
-🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
-🎤 **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)*
-🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
+🎤 **[When Will It End](https://open.spotify.com/track/5F8RUGunSSBdu8Tn5qc63M)** by **Birth Day** *(Boyhood)*
+🎤 **[Healthcare](https://open.spotify.com/track/7rtKLWYEqk3Cnnv1XINPvi)** by **RomancePlanet** *(Healthcare)*
+🎤 **[I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl)** by **Elliott Fullam** *(What's Wrong)*
+🎤 **[Empty Lightning](https://open.spotify.com/track/1wQ5iwSpQYl4Kp5JLYlz6o)** by **Woesum, Oklou** *(Blue Summer)*
+🎤 **[Obedient](https://open.spotify.com/track/5adW1n6jrFcc4sRAtFeQVX)** by **Bladee, Ecco2k** *(Red Light)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 10:33:07Z UTC
+🕐 Last updated: 2025-09-12 10:47:50Z UTC
 <!-- SPOTIFY-END -->
