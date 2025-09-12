@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de8f7f28200e149d4bd42c6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273532774f79763d7ddb6039714" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rockstars](https://open.spotify.com/track/0N76gMgRQr2Kfs0qXPR3hb)**
-*by* **dusy, Young Lime, Scruffy**
-*Album:* Rockstars
+**🎵 [trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)**
+*by* **djacc v hearteyesL**
+*Album:* cyberspace positron mar19-2021
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 2:21
+    0:09 • 2:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
-🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
-🎤 **[for you](https://open.spotify.com/track/0YfGk4kfYq4Akz7ZiUdUmx)** by **Enquirer** *(for you)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)*
+🎤 **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by **Pink Katana** *(4ever)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by **Holy Fuck** *(Congrats)*
+🎤 **[Rockstars](https://open.spotify.com/track/0N76gMgRQr2Kfs0qXPR3hb)** by **dusy, Young Lime, Scruffy** *(Rockstars)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 15:11:48Z UTC
+🕐 Last updated: 2025-09-12 15:28:57Z UTC
 <!-- SPOTIFY-END -->
