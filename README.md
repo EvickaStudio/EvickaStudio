@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[COOL_DNB_SONG](https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu)** by **8485** *(Personal Protocol)*
+🎤 **[FRAGEN](https://open.spotify.com/track/5HZeXQrgsq3NREZU6ExBUA)** by **AMANDUS 99** *(FRAGEN)*
 🎤 **[Mit Spritz](https://open.spotify.com/track/2BgOpW68MQzdyAvjkP9e5C)** by **Streichelt** *(Mit Spritz)*
 🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
 🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
-🎤 **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 07:11:24Z UTC
+🕐 Last updated: 2025-09-12 07:26:39Z UTC
 <!-- SPOTIFY-END -->
