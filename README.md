@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)**
+*by* **Edwin Rosen**
+*Album:* Verschwende deine Zeit
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="143" height="4" fill="#1db954" rx="2"/>
+    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:15 • 2:38
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
-🎤 **[SWAG IM BACKPACK](https://open.spotify.com/track/7hE26c8mmnsSa0OIfrgu9g)** by **Vee4r** *(SWAG IM BACKPACK)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
+🎤 **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)*
+🎤 **[Die Sonne in deinem Zimmer](https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r)** by **Edwin Rosen** *(Die Sonne in deinem Zimmer)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 03:48:55Z UTC
+🕐 Last updated: 2025-09-12 04:13:54Z UTC
 <!-- SPOTIFY-END -->
