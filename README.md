@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe26f2e6d623b448d024e8d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737a59b40f9bd724291539df16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)**
-*by* **diggidaniel**
-*Album:* Augenblick
+**🎵 [meer aus tränen / du weinst](https://open.spotify.com/track/5QlBFxK0LwqGvftoK5wzV1)**
+*by* **AMANDUS 99**
+*Album:* meer aus tränen / du weinst
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="298" height="4" fill="#1db954" rx="2"/>
-    <circle cx="298" cy="2" r="6" fill="#1db954"/>
+    <rect width="118" height="4" fill="#1db954" rx="2"/>
+    <circle cx="118" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 2:38
+    0:52 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by **Steintor Herrenchor** *(wohin)*
-🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
-🎤 **[Lass mich schlafen/Тишина](https://open.spotify.com/track/0BVX1IM7AG43HG6MeKCcJf)** by **Traumatin, bishkek** *(Lass mich schlafen/Тишина)*
-🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
-🎤 **[schenk✩_mir-diese‧+ ̊blumen.nicht+++](https://open.spotify.com/track/7I8V1OmSFY6SActFYxHwp3)** by **DANZINGER 99** *(Hotel+++)*
+🎤 **[Wie du den Tag zurückdrehst](https://open.spotify.com/track/1gvZcuESbZKl09ONmb7W4a)** by **Streichelt** *(Wie du den Tag zurückdrehst)*
+🎤 **[eine Woche](https://open.spotify.com/track/1L5Yx9t9a4kUOGx0gdiX9p)** by **Steintor Herrenchor** *(Eine Woche Geburtstag)*
+🎤 **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)*
+🎤 **[Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)** by **Traumatin** *(Genug)*
+🎤 **[lichter](https://open.spotify.com/track/1mA008p9HblZSlkd7waDjL)** by **herz., Traumatin** *(lichter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 05:12:09Z UTC
+🕐 Last updated: 2025-09-12 05:30:10Z UTC
 <!-- SPOTIFY-END -->
