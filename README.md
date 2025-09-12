@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcec2e7b0cac6dad5ea1c0b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [So oder so](https://open.spotify.com/track/551Z4NFBDGHzRpqORT0MTt)**
-*by* **Urbannino, DeeLou**
-*Album:* Wenn nichts bleibt, dann..
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:53
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[rauch im spiegel](https://open.spotify.com/track/3XA7oseRDmfPAaWN7xUe33)** by **herz.** *(rauch im spiegel)*
-🎤 **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)*
-🎤 **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)*
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
-🎤 **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
+🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[Nie Gesagt](https://open.spotify.com/track/1GTnl5tw91EOslefYJHy01)** by **Drückeberger** *(Nie Gesagt)*
+🎤 **[bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)** by **Leocardo DiNaprio, emi x** *(bis es tag wird)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 15:47:52Z UTC
+🕐 Last updated: 2025-09-12 16:12:12Z UTC
 <!-- SPOTIFY-END -->
