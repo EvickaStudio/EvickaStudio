@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273416ed1ffc9784b48721e1a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a9303131ecdf959edf06202c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)**
-*by* **grim noir**
-*Album:* Herz macht Turbo
+**🎵 [dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* dancing music 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 2:39
+    0:22 • 2:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[hard to cry](https://open.spotify.com/track/4pqj1Cu5Rdrs0qTQQqGLW0)** by **eunhae** *(hard to cry)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
 🎤 **[take me back](https://open.spotify.com/track/6dC0lvDDG46EMlz0m3wLJG)** by **Senses, 8485** *(take me back)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
-🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
-🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 13:40:40Z UTC
+🕐 Last updated: 2025-09-12 13:47:59Z UTC
 <!-- SPOTIFY-END -->
