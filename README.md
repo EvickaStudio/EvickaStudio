@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273565859a692c4f79499465ad3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fe41211bd39726c842dc83a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [INSTA CHATS](https://open.spotify.com/track/3CCkE1QbOUbuVFW4bkrAYq)**
-*by* **Vee4r**
-*Album:* INSTA CHATS
+**🎵 [Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* Poser
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="170" height="4" fill="#1db954" rx="2"/>
-    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 2:12
+    0:15 • 1:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[TrojanXD](https://open.spotify.com/track/7KjrYBaMQuIYAASklGKmye)** by **elctrnc/sed:/** *(TrojanXD)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
+🎤 **[chamomile](https://open.spotify.com/track/0JrgeVeF4r7y1fPtSsxezT)** by **tjweaver, gulo** *(chamomile)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
+🎤 **[lets shoot some X0X0](https://open.spotify.com/track/7eD7UTJna60Aucomc8ib8I)** by **elctrnc/sed:/, 57st** *(CYA IN THE MOSHPIT!)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 12:58:57Z UTC
+🕐 Last updated: 2025-09-12 13:26:47Z UTC
 <!-- SPOTIFY-END -->
