@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
 🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
 🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
-🎤 **[Nie Gesagt](https://open.spotify.com/track/1GTnl5tw91EOslefYJHy01)** by **Drückeberger** *(Nie Gesagt)*
-🎤 **[bis es tag wird](https://open.spotify.com/track/2Lb2tI1iYjeynVeZyPXfkQ)** by **Leocardo DiNaprio, emi x** *(bis es tag wird)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 16:12:12Z UTC
+🕐 Last updated: 2025-09-12 16:32:08Z UTC
 <!-- SPOTIFY-END -->
