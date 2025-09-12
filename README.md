@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273532774f79763d7ddb6039714" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273627020c2a76eecd5c18d048b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)**
-*by* **djacc v hearteyesL**
-*Album:* cyberspace positron mar19-2021
+**🎵 [ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)**
+*by* **TEMMIS**
+*Album:* Klinge
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="15" height="4" fill="#1db954" rx="2"/>
-    <circle cx="15" cy="2" r="6" fill="#1db954"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 2:56
+    2:06 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
+🎤 **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)*
 🎤 **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)*
 🎤 **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by **Pink Katana** *(4ever)*
 🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
-🎤 **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by **Holy Fuck** *(Congrats)*
-🎤 **[Rockstars](https://open.spotify.com/track/0N76gMgRQr2Kfs0qXPR3hb)** by **dusy, Young Lime, Scruffy** *(Rockstars)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-12 15:28:57Z UTC
+🕐 Last updated: 2025-09-12 15:37:57Z UTC
 <!-- SPOTIFY-END -->
