@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a75f65dff25aca8e0deab615" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737dbc483835a51d26daaf7369" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [love always seems to come out the blue](https://open.spotify.com/track/0W18At7uaqyugRN0WYK3MG)**
-*by* **may**
-*Album:* love always seems to come out the blue
+**🎵 [love letters in your voicemail](https://open.spotify.com/track/0OUTgQwep482jYAmaRrAz1)**
+*by* **kruu**
+*Album:* love letters in your voicemail
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:47 • 3:13
+    1:12 • 1:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
-🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
-🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
-🎤 **[12022021](https://open.spotify.com/track/5dpfKulC2MYCRiL8t6I3Vs)** by **joss lockwood, boysinblush** *(12022021)*
-🎤 **[처음처럼](https://open.spotify.com/track/5TqW4eo90tNi3sdFdHkSML)** by **MUNZi, yuri63k** *(처음처럼)*
+🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
+🎤 **[Canal Street](https://open.spotify.com/track/2OBSUbzvFbQ8CcRTHCuSKZ)** by **SILICONE VALLEY** *(Canal Street)*
+🎤 **[plug me in](https://open.spotify.com/track/1qpiF2BiMy0I8jLIG7Ed7S)** by **Yandere** *(plug me in)*
+🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
+🎤 **[celebrity crash](https://open.spotify.com/track/0aUhIVcYbIFjCsArRiJ0zC)** by **jequya** *(celebrity crash)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-13 19:08:04Z UTC
+🕐 Last updated: 2025-09-13 19:20:15Z UTC
 <!-- SPOTIFY-END -->
