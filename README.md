@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738ea14fe4a09586431b689521" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a75f65dff25aca8e0deab615" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cavegirl](https://open.spotify.com/track/5gutLjOJ5dY5AkT8RACXo3)**
-*by* **heartcoregirl**
-*Album:* cavegirl
+**🎵 [love always seems to come out the blue](https://open.spotify.com/track/0W18At7uaqyugRN0WYK3MG)**
+*by* **may**
+*Album:* love always seems to come out the blue
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:08
+    2:47 • 3:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[closer](https://open.spotify.com/track/40j3STepvzvwYiLNwMiZjS)** by **joss lockwood** *(closer)*
-🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
-🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
-🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
-🎤 **[amygdala +icdamix+](https://open.spotify.com/track/3bXjG4GeqZy8thDQwauzpM)** by **temcandoanything** *(amygdala +icdamix+)*
+🎤 **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)*
+🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
+🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
+🎤 **[12022021](https://open.spotify.com/track/5dpfKulC2MYCRiL8t6I3Vs)** by **joss lockwood, boysinblush** *(12022021)*
+🎤 **[처음처럼](https://open.spotify.com/track/5TqW4eo90tNi3sdFdHkSML)** by **MUNZi, yuri63k** *(처음처럼)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-13 18:47:30Z UTC
+🕐 Last updated: 2025-09-13 19:08:04Z UTC
 <!-- SPOTIFY-END -->
