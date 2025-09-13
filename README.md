@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a30fb56fbe231ac0e25c1f8a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ea14fe4a09586431b689521" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)**
+**🎵 [cavegirl](https://open.spotify.com/track/5gutLjOJ5dY5AkT8RACXo3)**
 *by* **heartcoregirl**
-*Album:* no trace
+*Album:* cavegirl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:16
+    0:53 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
-🎤 **[Exterminate](https://open.spotify.com/track/2w2q78oH1YEv52EtZ33J8N)** by **Gore girl** *(Exterminate)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[blossom](https://open.spotify.com/track/1oSlcqSHvKD3ElznGs1pkj)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
+🎤 **[closer](https://open.spotify.com/track/40j3STepvzvwYiLNwMiZjS)** by **joss lockwood** *(closer)*
+🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
+🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
+🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
+🎤 **[amygdala +icdamix+](https://open.spotify.com/track/3bXjG4GeqZy8thDQwauzpM)** by **temcandoanything** *(amygdala +icdamix+)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-13 18:34:14Z UTC
+🕐 Last updated: 2025-09-13 18:47:30Z UTC
 <!-- SPOTIFY-END -->
