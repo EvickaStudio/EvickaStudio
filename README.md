@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a30fb56fbe231ac0e25c1f8a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)**
-*by* **Lix, Elujjin**
-*Album:* 128
+**🎵 [no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)**
+*by* **heartcoregirl**
+*Album:* no trace
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="30" height="4" fill="#1db954" rx="2"/>
+    <circle cx="30" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:25
+    0:13 • 2:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[reject](https://open.spotify.com/track/0olauCqHK4AdNe14qUxpdS)** by **Scarly** *(reject)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[Desolate](https://open.spotify.com/track/7fozlyDmD6x2es69Pbv6Ir)** by **ami** *(Desolate)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
+🎤 **[Exterminate](https://open.spotify.com/track/2w2q78oH1YEv52EtZ33J8N)** by **Gore girl** *(Exterminate)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[blossom](https://open.spotify.com/track/1oSlcqSHvKD3ElznGs1pkj)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
 
 
 
@@ -146,7 +146,7 @@
 🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-13 18:14:19Z UTC
+🕐 Last updated: 2025-09-13 18:34:14Z UTC
 <!-- SPOTIFY-END -->
