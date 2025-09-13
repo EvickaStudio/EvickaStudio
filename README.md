@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e606c08a83d5cb566f69fe9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)**
-*by* **mint**
-*Album:* end this
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 1:56
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[nomore](https://open.spotify.com/track/3lme49NlFKK1insi6lq0uH)** by **5v, mint** *(nomore)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
 🎤 **[can't breathe](https://open.spotify.com/track/1WI7ZElbt0R5EFF9DDIRsa)** by **SHEMYYY, RADA** *(can't breathe)*
 🎤 **[strawberry guts](https://open.spotify.com/track/5sHgh8VU72ycfhZ85APien)** by **Yandere** *(kill me slowly)*
 🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
-🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
-🎤 **[like you~ my best view](https://open.spotify.com/track/2ZvppbKzoSTAyqkg3vEgnS)** by **may, angelicxmei** *(like you~ my best view)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-13 19:33:28Z UTC
+🕐 Last updated: 2025-09-13 19:47:40Z UTC
 <!-- SPOTIFY-END -->
