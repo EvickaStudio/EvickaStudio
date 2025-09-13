@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735787bf9987e422d9f2556a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)**
-*by* **leander, ilyproxy, Hadesthegrim**
-*Album:* GV Magazin: Deluxe Sex
+**🎵 [ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)**
+*by* **luu, n3vio**
+*Album:* ich bring mich um
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:07
+    0:12 • 1:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-13 17:33:35Z UTC
+🕐 Last updated: 2025-09-13 17:47:38Z UTC
 <!-- SPOTIFY-END -->
