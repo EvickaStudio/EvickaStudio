@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3b638147de6a521a5d65950" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fe41211bd39726c842dc83a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)**
-*by* **ilyproxy, leander, Hadesthegrim, eversonder**
-*Album:* 2016
+**🎵 [Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* Poser
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="236" height="4" fill="#1db954" rx="2"/>
-    <circle cx="236" cy="2" r="6" fill="#1db954"/>
+    <rect width="24" height="4" fill="#1db954" rx="2"/>
+    <circle cx="24" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 3:26
+    0:09 • 1:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM)** by **Lil Peep** *(about u)*
-🎤 **[Mass Anasthesia](https://open.spotify.com/track/6JCdA9QYD5AH94jfS3ugG9)** by **Mediavolo** *(A Secret Sound)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
 
 
 
@@ -146,18 +146,18 @@
 🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
+🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 
 
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
-🥈 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
+🥇 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
+🥈 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🥉 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-13 11:08:28Z UTC
+🕐 Last updated: 2025-09-13 11:21:55Z UTC
 <!-- SPOTIFY-END -->
