@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735cd5c4813f5d7cdf2a811edc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27352d209256072e7ec621c9c16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)**
-*by* **BadMoodRude**
-*Album:* Better Off Alone GLITCHCORE
+**🎵 [ich wach auf und denk an dich](https://open.spotify.com/track/1rioQG2heHKrIeSuwD89Rn)**
+*by* **5star**
+*Album:* ich wach auf und denk an dich
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="93" height="4" fill="#1db954" rx="2"/>
-    <circle cx="93" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:01
+    0:29 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
 🎤 **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 🎤 **[Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)** by **Geo22** *(Wizardry)*
 🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
-🎤 **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)*
-🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-14 07:10:51Z UTC
+🕐 Last updated: 2025-09-14 07:24:40Z UTC
 <!-- SPOTIFY-END -->
