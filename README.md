@@ -135,10 +135,10 @@
 
 🥇 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🥈 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
-🥉 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
-🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 08:17:26Z UTC
+🕐 Last updated: 2025-09-15 08:43:46Z UTC
 <!-- SPOTIFY-END -->
