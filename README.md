@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731c4537f19d17e0443febecc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734d6700ddce0bf438c5459496" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)**
-*by* **flywoah**
-*Album:* N3ver Do
+**🎵 [crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)**
+*by* **Iuvumi**
+*Album:* crushing ice
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="58" height="4" fill="#1db954" rx="2"/>
-    <circle cx="58" cy="2" r="6" fill="#1db954"/>
+    <rect width="277" height="4" fill="#1db954" rx="2"/>
+    <circle cx="277" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 1:39
+    1:47 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sry not sry](https://open.spotify.com/track/0KrTamNk9BMbMzF0WSJaiu)** by **willowcore, hateoryx, 8t33n** *(sry not sry)*
-🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
-🎤 **[lie 2 me](https://open.spotify.com/track/2xE6GHvVHkHE2p2kVqo9NY)** by **Senses, Nosgov** *(lie 2 me)*
-🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v, kojo** *(issues)*
-🎤 **[wanna be](https://open.spotify.com/track/3rEhTuSTy8Ycv1JKSwtxOE)** by **hateoryx, Nosgov** *(wanna be)*
+🎤 **[Numb](https://open.spotify.com/track/3Q18pOa9VXToVslHADHg0N)** by **offaflat, Illsaberr, Pearlblade** *(Numb)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[nightmare](https://open.spotify.com/track/3SgHITzp8C2Pi0sGPnLw6e)** by **kuudere** *(nightmare)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 18:17:54Z UTC
+🕐 Last updated: 2025-09-15 18:44:55Z UTC
 <!-- SPOTIFY-END -->
