@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730f8cdc2bffaf25e0366236ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4b73339656901955689f896" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)**
-*by* **503scoob, k1lltr4sh, osm1c, Scarly, disoc8**
-*Album:* Synthetic Pills
+**🎵 [WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)**
+*by* **Lix, Elujjin**
+*Album:* LLL x X
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 3:05
+    0:34 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[real her](https://open.spotify.com/track/7J6daLJ7ubw5Jz33PDpTTn)** by **SHEMYYY** *(real her)*
-🎤 **[ich will dich nie mehr sehen](https://open.spotify.com/track/04oLu2j9NjeQDfDHobqi8n)** by **Lix** *(RAY¿zor BLadE)*
-🎤 **[Lightweight](https://open.spotify.com/track/52eYQ1fD8HlM9x4MYaqx3W)** by **Saska** *(Dosis)*
-🎤 **[all i kno](https://open.spotify.com/track/0NfI1TXgvP3Yj9XDu7SEM6)** by **bliiiss, Capoxxo** *(all i kno)*
-🎤 **[no airbags we die like real men](https://open.spotify.com/track/6Y23jgYKorYRIToLsyuob3)** by **Tommy Fleece** *(audio stars)*
+🎤 **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)*
+🎤 **[Obsession](https://open.spotify.com/track/00IGoHBSa7LbLU7V8hD9hU)** by **Saska** *(Dosis)*
+🎤 **[morbid](https://open.spotify.com/track/5gIUJsAzshFRNQslsIZA4G)** by **Rezlaine, Nosgov** *(split the oxy)*
+🎤 **[Eye candy](https://open.spotify.com/track/7JUnvAketcQKJU0EPxGWAP)** by **Sleepy Opiate** *(IDOLS)*
+🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 16:39:01Z UTC
+🕐 Last updated: 2025-09-15 16:51:32Z UTC
 <!-- SPOTIFY-END -->
