@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273451629cfb8128dce69a00271" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b663dab083b3580523970a3a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ju5t d4nc3](https://open.spotify.com/track/0PWTl1q0SjS4csszeP04Rt)**
-*by* **Fijimar**
-*Album:* ju5t d4nc3
+**🎵 [Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)**
+*by* **Joon Gloom**
+*Album:* Coco Manifesto
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 1:50
+    0:48 • 3:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[긴밤 (long night)](https://open.spotify.com/track/22g1gpv0Ej9lQwrCHGm3gG)** by **MUNZi, sn7** *(긴밤 (long night))*
+🎤 **[Ich glaub Gott](https://open.spotify.com/track/0kQkOzezHBzhfG6NOKBVwP)** by **Lix, Elujjin** *(#Weiß)*
+🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
+🎤 **[ju5t d4nc3](https://open.spotify.com/track/0PWTl1q0SjS4csszeP04Rt)** by **Fijimar** *(ju5t d4nc3)*
 🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[mystery solved](https://open.spotify.com/track/1J6oxHh0TJwirrzyLyAAPb)** by **Lvl99magic, go8lin** *(Pastel Pink California)*
-🎤 **[blame 0](https://open.spotify.com/track/1afNQrpOHAUl1c1x3iuAig)** by **MUNZi, sn7, ujin** *(blame 0)*
-🎤 **[Glide](https://open.spotify.com/track/4ojzHFPkM9UnJJV8d0ceLJ)** by **heartcoregirl** *(Glide)*
-🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 17:38:44Z UTC
+🕐 Last updated: 2025-09-15 17:48:04Z UTC
 <!-- SPOTIFY-END -->
