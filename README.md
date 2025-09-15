@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b663dab083b3580523970a3a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c4537f19d17e0443febecc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)**
-*by* **Joon Gloom**
-*Album:* Coco Manifesto
+**🎵 [N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)**
+*by* **flywoah**
+*Album:* N3ver Do
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="65" height="4" fill="#1db954" rx="2"/>
-    <circle cx="65" cy="2" r="6" fill="#1db954"/>
+    <rect width="58" height="4" fill="#1db954" rx="2"/>
+    <circle cx="58" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 3:42
+    0:19 • 1:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[긴밤 (long night)](https://open.spotify.com/track/22g1gpv0Ej9lQwrCHGm3gG)** by **MUNZi, sn7** *(긴밤 (long night))*
-🎤 **[Ich glaub Gott](https://open.spotify.com/track/0kQkOzezHBzhfG6NOKBVwP)** by **Lix, Elujjin** *(#Weiß)*
-🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
-🎤 **[ju5t d4nc3](https://open.spotify.com/track/0PWTl1q0SjS4csszeP04Rt)** by **Fijimar** *(ju5t d4nc3)*
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
+🎤 **[sry not sry](https://open.spotify.com/track/0KrTamNk9BMbMzF0WSJaiu)** by **willowcore, hateoryx, 8t33n** *(sry not sry)*
+🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
+🎤 **[lie 2 me](https://open.spotify.com/track/2xE6GHvVHkHE2p2kVqo9NY)** by **Senses, Nosgov** *(lie 2 me)*
+🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v, kojo** *(issues)*
+🎤 **[wanna be](https://open.spotify.com/track/3rEhTuSTy8Ycv1JKSwtxOE)** by **hateoryx, Nosgov** *(wanna be)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 17:48:04Z UTC
+🕐 Last updated: 2025-09-15 18:17:54Z UTC
 <!-- SPOTIFY-END -->
