@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273434865d23c617bb7acba085a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273af7205c1f3dcc81e96f042ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)**
-*by* **mint**
-*Album:* time keeps flying by
+**🎵 [Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)**
+*by* **flywoah**
+*Album:* Super-Loud
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:02
+    2:02 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Way2Much](https://open.spotify.com/track/7abg2Y2XqpsB4sJ4YrMmET)** by **nyxixide, Vampyx** *(Way2Much)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[i jus wanna know :/](https://open.spotify.com/track/6cS9L6I9FbBGfuR6xgOjSa)** by **Scarly, Buhguul** *(i jus wanna know :/)*
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[loveaddict](https://open.spotify.com/track/0Sg7ViEmDwJWGHfevJEd2p)** by **joni75** *(loveaddict)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[VON ZEPPELIN](https://open.spotify.com/track/3r5kh7mN1OK2D2I90MdWQ6)** by **agelast222** *(SOLARCORP)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 20:30:21Z UTC
+🕐 Last updated: 2025-09-15 20:47:52Z UTC
 <!-- SPOTIFY-END -->
