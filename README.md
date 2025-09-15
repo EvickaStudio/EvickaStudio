@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734d6700ddce0bf438c5459496" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)**
-*by* **Iuvumi**
-*Album:* crushing ice
+**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
+*by* **luu, mehlhaltig, iwannabemissed**
+*Album:* triple trauma
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="277" height="4" fill="#1db954" rx="2"/>
-    <circle cx="277" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 1:56
+    1:03 • 1:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[dreams of us](https://open.spotify.com/track/0WeyLN2Rn7wIynSbfoTAyJ)** by **may, mymy** *(dreams of us)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
 🎤 **[Numb](https://open.spotify.com/track/3Q18pOa9VXToVslHADHg0N)** by **offaflat, Illsaberr, Pearlblade** *(Numb)*
 🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[nightmare](https://open.spotify.com/track/3SgHITzp8C2Pi0sGPnLw6e)** by **kuudere** *(nightmare)*
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 18:44:55Z UTC
+🕐 Last updated: 2025-09-15 18:53:49Z UTC
 <!-- SPOTIFY-END -->
