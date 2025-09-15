@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735787bf9987e422d9f2556a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)**
-*by* **luu**
-*Album:* immenser pflegefall
+**🎵 [ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)**
+*by* **luu, n3vio**
+*Album:* ich bring mich um
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="45" height="4" fill="#1db954" rx="2"/>
+    <circle cx="45" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 1:25
+    0:15 • 1:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[eyesDontlie](https://open.spotify.com/track/275tnFZo9cSOMBxjbGfY2Q)** by **joni75** *(eyesDontlie)*
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
-🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
-🎤 **[i already know](https://open.spotify.com/track/3Py7evMK4Eu8vOC9U4UaRx)** by **Kevinhilfiger, osquinn, K3lyxoxx, Boofbby** *(i already know)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[nicht alright](https://open.spotify.com/track/3iMW89M0dOkLOfYj0NZFeL)** by **cxpyyy, luu** *(nicht alright)*
+🎤 **[keks](https://open.spotify.com/track/5JUFE67aSL0OOROHLs1giW)** by **agelast222, humanangst, Maliq** *(Last Bible)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[stop drop & roll](https://open.spotify.com/track/2IUUoaR0imO9xcIVomWhaP)** by **hateoryx, Pawl4k, Veigayboy** *(StopDrop&Roll!)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 22:11:00Z UTC
+🕐 Last updated: 2025-09-15 22:29:19Z UTC
 <!-- SPOTIFY-END -->
