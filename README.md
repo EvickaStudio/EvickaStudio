@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273db33773d2ab9b7717b345dd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730f8cdc2bffaf25e0366236ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blind Dog](https://open.spotify.com/track/2XZdNnB7JzAJlRkgZbRy07)**
-*by* **Saska**
-*Album:* Blind Dog
+**🎵 [Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)**
+*by* **503scoob, k1lltr4sh, osm1c, Scarly, disoc8**
+*Album:* Synthetic Pills
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 2:06
+    2:04 • 3:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mine even if it hurts ♡](https://open.spotify.com/track/2IvDpclVMyoiMuVqVhlYrs)** by **lovesiren, pichuu** *(mine even if it hurts ♡)*
-🎤 **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **snor, Mezha, mayh3mp** *(hold me down)*
-🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
-🎤 **[break it off!](https://open.spotify.com/track/6PWcUgEkMOpCCB4KikKxdG)** by **SHEMYYY, i9bonsai** *(break it off!)*
-🎤 **[Tweak](https://open.spotify.com/track/0HMj8yIPEWub336LOF5AdQ)** by **Saska** *(Dosis)*
+🎤 **[real her](https://open.spotify.com/track/7J6daLJ7ubw5Jz33PDpTTn)** by **SHEMYYY** *(real her)*
+🎤 **[ich will dich nie mehr sehen](https://open.spotify.com/track/04oLu2j9NjeQDfDHobqi8n)** by **Lix** *(RAY¿zor BLadE)*
+🎤 **[Lightweight](https://open.spotify.com/track/52eYQ1fD8HlM9x4MYaqx3W)** by **Saska** *(Dosis)*
+🎤 **[all i kno](https://open.spotify.com/track/0NfI1TXgvP3Yj9XDu7SEM6)** by **bliiiss, Capoxxo** *(all i kno)*
+🎤 **[no airbags we die like real men](https://open.spotify.com/track/6Y23jgYKorYRIToLsyuob3)** by **Tommy Fleece** *(audio stars)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 16:15:15Z UTC
+🕐 Last updated: 2025-09-15 16:39:01Z UTC
 <!-- SPOTIFY-END -->
