@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735787bf9987e422d9f2556a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738906169f9bd113380bcc7f09" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)**
-*by* **luu, n3vio**
-*Album:* ich bring mich um
+**🎵 [i lost my mind](https://open.spotify.com/track/54lvTXJveJiVpj9N6JN97d)**
+*by* **Pearlblade, Scratchy**
+*Album:* i lost my mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="45" height="4" fill="#1db954" rx="2"/>
-    <circle cx="45" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 1:40
+    0:39 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nicht alright](https://open.spotify.com/track/3iMW89M0dOkLOfYj0NZFeL)** by **cxpyyy, luu** *(nicht alright)*
-🎤 **[keks](https://open.spotify.com/track/5JUFE67aSL0OOROHLs1giW)** by **agelast222, humanangst, Maliq** *(Last Bible)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[stop drop & roll](https://open.spotify.com/track/2IUUoaR0imO9xcIVomWhaP)** by **hateoryx, Pawl4k, Veigayboy** *(StopDrop&Roll!)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Girl <3](https://open.spotify.com/track/4G1jWqSlXQLJLJfQm044jZ)** by **UpVampin, ang3lx** *(Girl <3)*
+🎤 **[SOLo (DJ BELI ASTA 33)](https://open.spotify.com/track/2H1MvbC77FEtMzPoOBdBOH)** by **agelast222, gard** *(SOLo (DJ BELI ASTA 33))*
+🎤 **[wrong turn](https://open.spotify.com/track/70puKq2FImamJxEwNfhDZu)** by **willowcore, buyok, Nosgov** *(wrong turn)*
+🎤 **[CaramellBlinkerz](https://open.spotify.com/track/7piaG8NQar2NTNxCswbXMR)** by **hateoryx, KidSnorlax, andylovu** *(CaramellBlinkerz)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 22:29:19Z UTC
+🕐 Last updated: 2025-09-15 22:39:46Z UTC
 <!-- SPOTIFY-END -->
