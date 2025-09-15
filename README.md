@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733567d37f9ceb2194a9ad01ef" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cc7cd6bff17ea2d9242414f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cerulean](https://open.spotify.com/track/2L7to4clNPJZDuY7D3T1Ol)**
-*by* **Saska**
-*Album:* Cerulean
+**🎵 [Bdsm](https://open.spotify.com/track/3kQ6QVJ0WWThVVOFhGFNJz)**
+*by* **503scoob, elctrnc/sed:/, Rynxia**
+*Album:* Bdsm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 2:39
+    1:32 • 2:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
-🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
-🎤 **[internet depression club!!! >__<](https://open.spotify.com/track/7zVToCOmfS1dfz9M4eIKC9)** by **starstrike** *(internet depression club!!! >__<)*
-🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
-🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
+🎤 **[glasscastle](https://open.spotify.com/track/1w9vuP0YV3cEGXwPxQ9i6d)** by **vai5000, i9bonsai** *(glasscastle)*
+🎤 **[wolfgirl](https://open.spotify.com/track/3OJWP0TloJJcQXWRz5nZqI)** by **SHEMYYY** *(wolfgirl)*
+🎤 **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)*
+🎤 **[Breach](https://open.spotify.com/track/7ECqo2py80Ys2txKeNPjRP)** by **Saska** *(Breach)*
+🎤 **[Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)** by **Somewhere Special** *(Undercover Lover)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 14:48:09Z UTC
+🕐 Last updated: 2025-09-15 15:13:21Z UTC
 <!-- SPOTIFY-END -->
