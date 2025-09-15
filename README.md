@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f51ef5c1237a05da9a8ff54e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d43672df9938e8cf4e4f7901" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nothing Is All](https://open.spotify.com/track/1wmWScSSS4mc4Jlu08XnDX)**
-*by* **thayerperiod**
-*Album:* Nothing Is All
+**🎵 [Alonely](https://open.spotify.com/track/65XeUdPq2giY7B7BMbwoqf)**
+*by* **Rill, Young Mask**
+*Album:* I Came From Nobody Likes Me to Nobody Like Me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 3:19
+    1:01 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Real You](https://open.spotify.com/track/2sfQwcqGHFnyBIp3dLXKPh)** by **Nosgov** *(Real You)*
-🎤 **[Want It「やりたい」](https://open.spotify.com/track/0zFKq1ShAnwNlCSp4JWsVq)** by **Kountermeasures, Hoshino Kutta, Shiroko Raccz** *(KMK >)*
-🎤 **[Flashback](https://open.spotify.com/track/6wLuH2jnDaE7uNJjuARDF6)** by **Saska** *(Flashback)*
-🎤 **[beauty](https://open.spotify.com/track/22FVd0p58GH9YvTZV5LYLZ)** by **vai5000, maji*** *(beauty)*
-🎤 **[FORSAKEN](https://open.spotify.com/track/5Qf3ppIcILwdlAACTNAai5)** by **Braxton Knight, Nosgov, levi** *(FORSAKEN)*
+🎤 **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)*
+🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
+🎤 **[I DONT WANNA GO](https://open.spotify.com/track/58dZmEgUxVNY4FKC9rA67X)** by **Braindaamage** *(I DONT WANNA GO)*
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
 
 
 
@@ -146,7 +146,7 @@
 🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🏅 [**mint**](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd)
+🏅 [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 11:47:55Z UTC
+🕐 Last updated: 2025-09-15 12:24:48Z UTC
 <!-- SPOTIFY-END -->
