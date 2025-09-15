@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27399480c3263e43c4b6ca74575" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [used 2 rule the club](https://open.spotify.com/track/5tqW3TRLvInoZWN98sjjhj)**
-*by* **hateoryx, Pawl4k**
-*Album:* used 2 rule the club
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="180" height="4" fill="#1db954" rx="2"/>
-    <circle cx="180" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 3:17
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Hello Kitty Phone](https://open.spotify.com/track/2T0NHIOjc8yjgWtJTv6jTX)** by **Yatsu, NYAR, Uhso** *(Hello Kitty Phone)*
+🎤 **[used 2 rule the club](https://open.spotify.com/track/5tqW3TRLvInoZWN98sjjhj)** by **hateoryx, Pawl4k** *(used 2 rule the club)*
 🎤 **[haftpflichtversicherung](https://open.spotify.com/track/1LIDD6C0FJGQPuNnm6mBl4)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
 🎤 **[me and you](https://open.spotify.com/track/6kJvttNoDxdWC4MfpGgTjk)** by **2040x2040** *(me and you)*
 🎤 **[i lost my mind](https://open.spotify.com/track/54lvTXJveJiVpj9N6JN97d)** by **Pearlblade, Scratchy** *(i lost my mind)*
-🎤 **[Girl <3](https://open.spotify.com/track/4G1jWqSlXQLJLJfQm044jZ)** by **UpVampin, ang3lx** *(Girl <3)*
-🎤 **[SOLo (DJ BELI ASTA 33)](https://open.spotify.com/track/2H1MvbC77FEtMzPoOBdBOH)** by **agelast222, gard** *(SOLo (DJ BELI ASTA 33))*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 22:47:38Z UTC
+🕐 Last updated: 2025-09-15 23:10:46Z UTC
 <!-- SPOTIFY-END -->
