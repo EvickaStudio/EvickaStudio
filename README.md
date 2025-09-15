@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27325540e4086491009ff694b65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b6865909f834058fb8d96c65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hands of a stranger](https://open.spotify.com/track/1c0WSomt3EdYmEAuyST5hV)**
-*by* **Levi Ryan, syris**
-*Album:* hands of a stranger
+**🎵 [nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)**
+*by* **Levi Ryan, gl0wrm**
+*Album:* operation wandering soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="26" height="4" fill="#1db954" rx="2"/>
-    <circle cx="26" cy="2" r="6" fill="#1db954"/>
+    <rect width="251" height="4" fill="#1db954" rx="2"/>
+    <circle cx="251" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:52
+    1:57 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
-🎤 **[Miley](https://open.spotify.com/track/0OkUWn3cm1V8vJ2HaPEpMk)** by **Saska** *(Dosis)*
-🎤 **[evrLasting](https://open.spotify.com/track/4bIi7ADIZU5VWlNCpSFe8b)** by **Lix, Elujjin** *(LLL x X)*
-🎤 **[Canal Street](https://open.spotify.com/track/2OBSUbzvFbQ8CcRTHCuSKZ)** by **SILICONE VALLEY** *(Canal Street)*
-🎤 **[no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)** by **heartcoregirl** *(no trace)*
+🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
+🎤 **[AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)** by **SILICONE VALLEY** *(AA Chrome)*
+🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[Final:life](https://open.spotify.com/track/3KSqGh0MLscAZBvpg4s3jT)** by **MUNZi, yuri63k, kairo6k** *(Final:life)*
+🎤 **[hands of a stranger](https://open.spotify.com/track/1c0WSomt3EdYmEAuyST5hV)** by **Levi Ryan, syris** *(hands of a stranger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 17:10:47Z UTC
+🕐 Last updated: 2025-09-15 17:28:05Z UTC
 <!-- SPOTIFY-END -->
