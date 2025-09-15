@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c4b73339656901955689f896" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27325540e4086491009ff694b65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)**
-*by* **Lix, Elujjin**
-*Album:* LLL x X
+**🎵 [hands of a stranger](https://open.spotify.com/track/1c0WSomt3EdYmEAuyST5hV)**
+*by* **Levi Ryan, syris**
+*Album:* hands of a stranger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:11
+    0:15 • 2:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)*
-🎤 **[Obsession](https://open.spotify.com/track/00IGoHBSa7LbLU7V8hD9hU)** by **Saska** *(Dosis)*
-🎤 **[morbid](https://open.spotify.com/track/5gIUJsAzshFRNQslsIZA4G)** by **Rezlaine, Nosgov** *(split the oxy)*
-🎤 **[Eye candy](https://open.spotify.com/track/7JUnvAketcQKJU0EPxGWAP)** by **Sleepy Opiate** *(IDOLS)*
-🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
+🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
+🎤 **[Miley](https://open.spotify.com/track/0OkUWn3cm1V8vJ2HaPEpMk)** by **Saska** *(Dosis)*
+🎤 **[evrLasting](https://open.spotify.com/track/4bIi7ADIZU5VWlNCpSFe8b)** by **Lix, Elujjin** *(LLL x X)*
+🎤 **[Canal Street](https://open.spotify.com/track/2OBSUbzvFbQ8CcRTHCuSKZ)** by **SILICONE VALLEY** *(Canal Street)*
+🎤 **[no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)** by **heartcoregirl** *(no trace)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 16:51:32Z UTC
+🕐 Last updated: 2025-09-15 17:10:47Z UTC
 <!-- SPOTIFY-END -->
