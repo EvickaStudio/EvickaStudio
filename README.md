@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c6acac4c400418a33908394" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a47c6873e070dc575af1741b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)**
-*by* **SILICONE VALLEY**
-*Album:* WORLD'S NO.1 SPIRIT
+**🎵 [LVTR](https://open.spotify.com/track/6VJdRaDGlJOoch8LKfJ2lb)**
+*by* **Saska**
+*Album:* Dosis
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:56
+    0:17 • 1:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
-🎤 **[i think i've had enough](https://open.spotify.com/track/4zZuT0iYT7J0Wafi4EsvYm)** by **SHEMYYY** *(i think i've had enough)*
-🎤 **[All-2u](https://open.spotify.com/track/111XuxqfX5uZkpSeCgmmet)** by **MUNZi** *(All-2u)*
-🎤 **[Wasted](https://open.spotify.com/track/0PDJ5Ufj6klTv3y2va6mR6)** by **Saska** *(Dosis)*
+🎤 **[all my fault](https://open.spotify.com/track/2b07aJJY5XnkVs3eaTjXLm)** by **Fijimar** *(all my fault)*
+🎤 **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)*
+🎤 **[desires](https://open.spotify.com/track/4d9cLRNdGSV6D4sywKn9M8)** by **Levi Ryan, syris** *(desires)*
+🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
+🎤 **[Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb)** by **Joon Gloom** *(Joker)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-15 15:31:16Z UTC
+🕐 Last updated: 2025-09-15 15:47:32Z UTC
 <!-- SPOTIFY-END -->
