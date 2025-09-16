@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736750e8ded751b31575c259cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334a78803f43a0fa3fe7a82fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [was it all real ?](https://open.spotify.com/track/2pj4KqdGs8pwZ77u2J8mho)**
-*by* **evrafter**
-*Album:* memory unlock
+**🎵 [slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)**
+*by* **BED**
+*Album:* everything hurts
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="295" height="4" fill="#1db954" rx="2"/>
-    <circle cx="295" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:45 • 2:48
+    0:39 • 4:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pills gon take your life](https://open.spotify.com/track/2mpmfqdBOj924rwq16AJQ2)** by **cy4ne, artixan, Nosgov** *(pills gon take your life)*
-🎤 **[soloQ](https://open.spotify.com/track/1k6gCqrS0OX0dIzORFC3Rx)** by **Sg Lily** *(rp privateserver)*
-🎤 **[Perfect](https://open.spotify.com/track/2dyeWlhqtGsDW7VpUroZwo)** by **Capoxxo, oaf1, dreamcache** *(Perfect)*
-🎤 **[need me](https://open.spotify.com/track/1JWFSyyVjSyRL9EIxGRtEJ)** by **lynU, trustt** *(need me)*
-🎤 **[prayer](https://open.spotify.com/track/24W1Qz9T4KgIh6xNjlk6Ts)** by **oaf1, Capoxxo** *(prayer)*
+🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
+🎤 **[Find dein Glück](https://open.spotify.com/track/3UGwEBSixeIcOBsl7UrRDL)** by **NILS KEPPEL** *(Find dein Glück)*
+🎤 **[Fat Face](https://open.spotify.com/track/0XisTrzL3VLmnk1e3d9bvQ)** by **Francos Pain** *(Fat Face)*
+🎤 **[Anywhere Else](https://open.spotify.com/track/3vy9YLTFiOOkysd3QFfgqi)** by **Borninmay** *(Anywhere Else)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 18:53:10Z UTC
+🕐 Last updated: 2025-09-16 19:10:07Z UTC
 <!-- SPOTIFY-END -->
