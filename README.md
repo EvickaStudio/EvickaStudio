@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273411a8d0914af5a4c40c02754" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
+*by* **HighSchool**
+*Album:* Colt
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:19 • 4:53
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint](https://open.spotify.com/track/5V0GcRiy2UKEb1X19NnsFw)** by **lauenburg** *(Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough))*
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
 🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
 🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
-🎤 **[Augen](https://open.spotify.com/track/53NXureKXUsCowW9P63FnJ)** by **Enpal** *(Hab schon)*
-🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 21:47:39Z UTC
+🕐 Last updated: 2025-09-16 22:11:22Z UTC
 <!-- SPOTIFY-END -->
