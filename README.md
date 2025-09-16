@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc44c3a5094b03ec6d501e31" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736750e8ded751b31575c259cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Perfect](https://open.spotify.com/track/2dyeWlhqtGsDW7VpUroZwo)**
-*by* **Capoxxo, oaf1, dreamcache**
-*Album:* Perfect
+**🎵 [was it all real ?](https://open.spotify.com/track/2pj4KqdGs8pwZ77u2J8mho)**
+*by* **evrafter**
+*Album:* memory unlock
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="261" height="4" fill="#1db954" rx="2"/>
-    <circle cx="261" cy="2" r="6" fill="#1db954"/>
+    <rect width="295" height="4" fill="#1db954" rx="2"/>
+    <circle cx="295" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:17
+    2:45 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[pills gon take your life](https://open.spotify.com/track/2mpmfqdBOj924rwq16AJQ2)** by **cy4ne, artixan, Nosgov** *(pills gon take your life)*
+🎤 **[soloQ](https://open.spotify.com/track/1k6gCqrS0OX0dIzORFC3Rx)** by **Sg Lily** *(rp privateserver)*
+🎤 **[Perfect](https://open.spotify.com/track/2dyeWlhqtGsDW7VpUroZwo)** by **Capoxxo, oaf1, dreamcache** *(Perfect)*
 🎤 **[need me](https://open.spotify.com/track/1JWFSyyVjSyRL9EIxGRtEJ)** by **lynU, trustt** *(need me)*
 🎤 **[prayer](https://open.spotify.com/track/24W1Qz9T4KgIh6xNjlk6Ts)** by **oaf1, Capoxxo** *(prayer)*
-🎤 **[wtf](https://open.spotify.com/track/5xcgbOE6uEB2389ktVWsC8)** by **Sg Lily** *(wtf)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[white lies](https://open.spotify.com/track/63lXZXVkkkc94gamv7rB6J)** by **luvlxckdown** *(find ur way home...)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 18:44:40Z UTC
+🕐 Last updated: 2025-09-16 18:53:10Z UTC
 <!-- SPOTIFY-END -->
