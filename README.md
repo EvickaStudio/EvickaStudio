@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273051feaa83d36a83b2f0ac031" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [keks](https://open.spotify.com/track/5JUFE67aSL0OOROHLs1giW)**
-*by* **agelast222, humanangst, Maliq**
-*Album:* Last Bible
+**🎵 [Girl <3](https://open.spotify.com/track/4G1jWqSlXQLJLJfQm044jZ)**
+*by* **UpVampin, ang3lx**
+*Album:* Girl <3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:48
+    0:21 • 1:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[witch](https://open.spotify.com/track/0pUlQ6gIK7zXWNpbb00rCf)** by **joni75, FiggDasGeld** *(witch)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[SOLo (DJ BELI ASTA 33)](https://open.spotify.com/track/2H1MvbC77FEtMzPoOBdBOH)** by **agelast222, gard** *(SOLo (DJ BELI ASTA 33))*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 13:02:31Z UTC
+🕐 Last updated: 2025-09-16 13:37:14Z UTC
 <!-- SPOTIFY-END -->
