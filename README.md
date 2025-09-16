@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27358671dcbb7c608a9ac97db2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334a6054741b794deab636206" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)**
-*by* **OSAYUKI**
-*Album:* bye bye
+**🎵 [god complex](https://open.spotify.com/track/7bMQHFXpvhhD0OdS6CmdAx)**
+*by* **Panik Deluxe**
+*Album:* without hope I am nothing
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 1:52
+    3:13 • 3:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Elastic Solitude](https://open.spotify.com/track/0BGnMfOknIvVqcG7nqgieU)** by **Elastic Skies** *(Elastic Solitude)*
-🎤 **[Sleepless City](https://open.spotify.com/track/1YcQ1rByh2RaWiXDDpGYoN)** by **Flawless Issues** *(Modern Past)*
-🎤 **[Hard to be a God](https://open.spotify.com/track/3GKqqSPYJbGoIBIffaZXTV)** by **HEAR ME OUT** *(SUMMER)*
-🎤 **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)*
-🎤 **[wolf like me](https://open.spotify.com/track/3WGHz5GzBhW2GnJUbi2EWk)** by **Panik Deluxe** *(wolf like me)*
+🎤 **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)*
+🎤 **[Wenn du fällst, (Intro)](https://open.spotify.com/track/6m72dYXrijHRKVNySUjOHF)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
+🎤 **[im norden nichts neues](https://open.spotify.com/track/3MGcvWoGAbYRJNxpMlD7qL)** by **Traumatin, FFAK** *(im norden nichts neues)*
+🎤 **[You, Innit?](https://open.spotify.com/track/3I7Z5grqvB8D7eRZSEAoz4)** by **Francos Pain** *(Align The Wicked)*
+🎤 **[Pretty To Love](https://open.spotify.com/track/7BAoB9588bK2tVB6Zb47rE)** by **Borninmay** *(Pretty To Love)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 19:48:01Z UTC
+🕐 Last updated: 2025-09-16 20:13:31Z UTC
 <!-- SPOTIFY-END -->
