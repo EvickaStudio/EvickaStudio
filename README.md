@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369aacce2fd43d8c72ddcdcd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e52d6b0bf6e8e6252374a3d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)**
-*by* **luu, Skatey Hellstar, chromey**
-*Album:* HYPERCORE, Vol. 3
+**🎵 [kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)**
+*by* **pink luu, mehlhaltig**
+*Album:* kmdd
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:28
+    0:32 • 1:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[watch ur body rot](https://open.spotify.com/track/5XAVfsSwTJ24QcEKx7sSJB)** by **zeija** *(watch ur body rot)*
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
-🎤 **[PARTY FOR SEVEN???](https://open.spotify.com/track/1xdkFIAFGFCTRlrqnyxEnl)** by **Rylax, pink luu, 1Psion, Lytra, Cyber angel, Juriha777** *(PARTY FOR SEVEN???)*
-🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[love you](https://open.spotify.com/track/6tsiJVVUtQjEJfHlJbPaik)** by **pika** *(love you)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[n1trous](https://open.spotify.com/track/6piWJs39rUQW737GK88HOJ)** by **Psyke** *(n1trous)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 17:10:40Z UTC
+🕐 Last updated: 2025-09-16 17:28:09Z UTC
 <!-- SPOTIFY-END -->
