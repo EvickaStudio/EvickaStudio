@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734104dadfcbdb126616859d45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27358671dcbb7c608a9ac97db2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wolf like me](https://open.spotify.com/track/3WGHz5GzBhW2GnJUbi2EWk)**
-*by* **Panik Deluxe**
-*Album:* wolf like me
+**🎵 [bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)**
+*by* **OSAYUKI**
+*Album:* bye bye
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:14 • 3:51
+    1:31 • 1:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Now](https://open.spotify.com/track/1oC7dByhAfut3gLNoD2q6b)** by **Ssleeping Desiress** *(Late Bloom EP)*
-🎤 **[walking near](https://open.spotify.com/track/3CtP3Nl1cRFnN3Y6Yg65YW)** by **Francos Pain** *(walking near)*
-🎤 **[Anyway](https://open.spotify.com/track/642wc4FE8J6eviFizejfFq)** by **Flawless Issues, Faerybabyy** *(Anyway)*
-🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
-🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
+🎤 **[Elastic Solitude](https://open.spotify.com/track/0BGnMfOknIvVqcG7nqgieU)** by **Elastic Skies** *(Elastic Solitude)*
+🎤 **[Sleepless City](https://open.spotify.com/track/1YcQ1rByh2RaWiXDDpGYoN)** by **Flawless Issues** *(Modern Past)*
+🎤 **[Hard to be a God](https://open.spotify.com/track/3GKqqSPYJbGoIBIffaZXTV)** by **HEAR ME OUT** *(SUMMER)*
+🎤 **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)*
+🎤 **[wolf like me](https://open.spotify.com/track/3WGHz5GzBhW2GnJUbi2EWk)** by **Panik Deluxe** *(wolf like me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 19:34:11Z UTC
+🕐 Last updated: 2025-09-16 19:48:01Z UTC
 <!-- SPOTIFY-END -->
