@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273fe41211bd39726c842dc83a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* Poser
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:19 • 1:59
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
-🎤 **[me and you](https://open.spotify.com/track/6kJvttNoDxdWC4MfpGgTjk)** by **2040x2040** *(me and you)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[i lost my mind](https://open.spotify.com/track/54lvTXJveJiVpj9N6JN97d)** by **Pearlblade, Scratchy** *(i lost my mind)*
-🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[Go!](https://open.spotify.com/track/3V8srUkI6BgdsvsWYKfLdY)** by **offaflat, Pearlblade, Nosgov** *(Go!)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 15:13:02Z UTC
+🕐 Last updated: 2025-09-16 15:31:38Z UTC
 <!-- SPOTIFY-END -->
