@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cc8755c1ff3d50a39de6ebaf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c81df9442e02afb31c8432eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [what u want](https://open.spotify.com/track/6lgoMQpz5SXyckWX6KdgRa)**
-*by* **skypebf, FabFantasy, 2040x2040**
-*Album:* what u want
+**🎵 [f-g42](https://open.spotify.com/track/6Mljud47bH1a1qt2dOC5RL)**
+*by* **vintagepopstar, neioxo**
+*Album:* f-g42
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="236" height="4" fill="#1db954" rx="2"/>
-    <circle cx="236" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:11
+    0:50 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[spazzkitty](https://open.spotify.com/track/1KgAh9fbqabVdu0Hbx0KVQ)** by **emorave, syris** *(evergrace)*
-🎤 **[my only friends](https://open.spotify.com/track/3rmuYaCeaNBUbJ88rJqppI)** by **ratrace90210** *(the ordained)*
-🎤 **[strawberry guts](https://open.spotify.com/track/5sHgh8VU72ycfhZ85APien)** by **Yandere** *(kill me slowly)*
-🎤 **[need for speed](https://open.spotify.com/track/2FbTDuC041xDb8a6oZN0od)** by **Rezlaine, Nosgov** *(split the oxy)*
-🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[well b ok](https://open.spotify.com/track/3vACekO4enTNKuO6z6VE4M)** by **willowcore, 8t33n** *(well b ok)*
+🎤 **[blood stain](https://open.spotify.com/track/7F7BpmyCmC4qmxx4ieDJ8f)** by **nami, whyhaze, Pearlblade** *(found footage)*
+🎤 **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **snor, Mezha, mayh3mp** *(hold me down)*
+🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 11:10:15Z UTC
+🕐 Last updated: 2025-09-16 11:24:49Z UTC
 <!-- SPOTIFY-END -->
