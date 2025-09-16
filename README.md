@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27334a78803f43a0fa3fe7a82fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b2d43472134897db54651e05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)**
-*by* **BED**
-*Album:* everything hurts
+**🎵 [Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)**
+*by* **Borninmay**
+*Album:* Spit Me Out
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="40" height="4" fill="#1db954" rx="2"/>
-    <circle cx="40" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 4:56
+    2:08 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
+🎤 **[Pick A Side](https://open.spotify.com/track/0X0TEhyWJCA7vXbYBBYaBa)** by **Walter Frosch** *(Star 10110)*
+🎤 **[slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)** by **BED** *(everything hurts)*
 🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
 🎤 **[Find dein Glück](https://open.spotify.com/track/3UGwEBSixeIcOBsl7UrRDL)** by **NILS KEPPEL** *(Find dein Glück)*
-🎤 **[Fat Face](https://open.spotify.com/track/0XisTrzL3VLmnk1e3d9bvQ)** by **Francos Pain** *(Fat Face)*
-🎤 **[Anywhere Else](https://open.spotify.com/track/3vy9YLTFiOOkysd3QFfgqi)** by **Borninmay** *(Anywhere Else)*
-🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 19:10:07Z UTC
+🕐 Last updated: 2025-09-16 19:22:43Z UTC
 <!-- SPOTIFY-END -->
