@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3c86799b48ecdc41a14eea9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b9c59813ec6c7ac2056ab3f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [acid](https://open.spotify.com/track/5mtEREASEAENFSVbEu05g3)**
-*by* **vanity, d3r, Pr0xy**
-*Album:* acid
+**🎵 [fluoride](https://open.spotify.com/track/2Tz6FluobpGo6BWLLcyaZy)**
+*by* **zeija**
+*Album:* fluoride
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="196" height="4" fill="#1db954" rx="2"/>
+    <circle cx="196" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 1:46
+    1:06 • 1:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[connection](https://open.spotify.com/track/3r9cRdSmn0gKTr0KbdNKSt)** by **roxxy** *(connection)*
-🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[Dragon soop](https://open.spotify.com/track/7FLXka4xMDAqmqgLnXye61)** by **Lunaa** *(Trendsetter)*
+🎤 **[I NEED YOUR LUV!!](https://open.spotify.com/track/38zl1nP37E0D6rYPtOO2zm)** by **lavendr** *(I NEED YOUR LUV!!)*
+🎤 **[brainsexe](https://open.spotify.com/track/5R0hjmiFTjjpFnzUDPzx5f)** by **elctrnc/sed:/, 57st, 444pluto** *(brainsexe)*
+🎤 **[ur name](https://open.spotify.com/track/38Eo1o5oN5lVYD9LngBrtA)** by **i9bonsai** *(ur name)*
+🎤 **[Falling Under](https://open.spotify.com/track/2T4bAbanNBwAqZ6gwX27FI)** by **03osc, AdLo** *(Dream Saga)*
+🎤 **[honest](https://open.spotify.com/track/6Cwd551I139ikC0OBjHehp)** by **coldspades, datealyfe** *(honest)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 17:47:39Z UTC
+🕐 Last updated: 2025-09-16 18:18:00Z UTC
 <!-- SPOTIFY-END -->
