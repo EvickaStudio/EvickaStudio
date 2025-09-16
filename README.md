@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c81df9442e02afb31c8432eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732dde3be79cccdf148bcefe44" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [f-g42](https://open.spotify.com/track/6Mljud47bH1a1qt2dOC5RL)**
-*by* **vintagepopstar, neioxo**
-*Album:* f-g42
+**🎵 [waiting for u](https://open.spotify.com/track/6nfb0VN7YggKcu4CGt3yPJ)**
+*by* **skypebf, 2040x2040**
+*Album:* #waitforme
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:11
+    1:56 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[R u Happy Now ? 育ずゼ](https://open.spotify.com/track/6tCMp9q6frQl8BLBZxZQjG)** by **sltted** *(R u Happy Now ? 育ずゼ)*
+🎤 **[forget me](https://open.spotify.com/track/33JmFJy3lggjaOViKC2vzZ)** by **Senses, Nosgov, Pröz** *(forget me)*
+🎤 **[Healing](https://open.spotify.com/track/0wsFB09KXB6nOfV3wIlNRR)** by **zeija, Feeluvsyou** *(Healing)*
+🎤 **[f-g42](https://open.spotify.com/track/6Mljud47bH1a1qt2dOC5RL)** by **vintagepopstar, neioxo** *(f-g42)*
 🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
-🎤 **[well b ok](https://open.spotify.com/track/3vACekO4enTNKuO6z6VE4M)** by **willowcore, 8t33n** *(well b ok)*
-🎤 **[blood stain](https://open.spotify.com/track/7F7BpmyCmC4qmxx4ieDJ8f)** by **nami, whyhaze, Pearlblade** *(found footage)*
-🎤 **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **snor, Mezha, mayh3mp** *(hold me down)*
-🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 11:24:49Z UTC
+🕐 Last updated: 2025-09-16 11:34:16Z UTC
 <!-- SPOTIFY-END -->
