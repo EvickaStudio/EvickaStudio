@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732dde3be79cccdf148bcefe44" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733cebd91160f2533f9f8ab599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [waiting for u](https://open.spotify.com/track/6nfb0VN7YggKcu4CGt3yPJ)**
-*by* **skypebf, 2040x2040**
-*Album:* #waitforme
+**🎵 [summer overdose](https://open.spotify.com/track/57VrYbFhfyA5zEugp03RZw)**
+*by* **Rezlaine, Nosgov**
+*Album:* split the oxy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="268" height="4" fill="#1db954" rx="2"/>
-    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:10
+    0:57 • 2:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[R u Happy Now ? 育ずゼ](https://open.spotify.com/track/6tCMp9q6frQl8BLBZxZQjG)** by **sltted** *(R u Happy Now ? 育ずゼ)*
-🎤 **[forget me](https://open.spotify.com/track/33JmFJy3lggjaOViKC2vzZ)** by **Senses, Nosgov, Pröz** *(forget me)*
-🎤 **[Healing](https://open.spotify.com/track/0wsFB09KXB6nOfV3wIlNRR)** by **zeija, Feeluvsyou** *(Healing)*
-🎤 **[f-g42](https://open.spotify.com/track/6Mljud47bH1a1qt2dOC5RL)** by **vintagepopstar, neioxo** *(f-g42)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[blue](https://open.spotify.com/track/7J8N9pMGzFKwqLWmx1As4b)** by **flywoah** *(blue)*
+🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
+🎤 **[swear to god](https://open.spotify.com/track/6mCyxxUzEM3cJEp4rs0pI5)** by **emorave** *(evergrace)*
+🎤 **[on my mind x(](https://open.spotify.com/track/37EKzjOoy8HAwY3Pfh9AO3)** by **snor** *(on my mind x()*
+🎤 **[me when](https://open.spotify.com/track/1cpGISaxoX9BRXzlODucWJ)** by **ghostmasheen** *(me when)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 11:34:16Z UTC
+🕐 Last updated: 2025-09-16 11:48:00Z UTC
 <!-- SPOTIFY-END -->
