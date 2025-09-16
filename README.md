@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733cebd91160f2533f9f8ab599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a9303131ecdf959edf06202c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [summer overdose](https://open.spotify.com/track/57VrYbFhfyA5zEugp03RZw)**
-*by* **Rezlaine, Nosgov**
-*Album:* split the oxy
+**🎵 [dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* dancing music 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 2:47
+    1:41 • 2:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[blue](https://open.spotify.com/track/7J8N9pMGzFKwqLWmx1As4b)** by **flywoah** *(blue)*
-🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
-🎤 **[swear to god](https://open.spotify.com/track/6mCyxxUzEM3cJEp4rs0pI5)** by **emorave** *(evergrace)*
-🎤 **[on my mind x(](https://open.spotify.com/track/37EKzjOoy8HAwY3Pfh9AO3)** by **snor** *(on my mind x()*
-🎤 **[me when](https://open.spotify.com/track/1cpGISaxoX9BRXzlODucWJ)** by **ghostmasheen** *(me when)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
+🎤 **[stupid choices](https://open.spotify.com/track/2R1BXcScTHwy3yi9RaA9LP)** by **Rezlaine, Nosgov** *(stupid choices)*
+🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
+🎤 **[nightlife!](https://open.spotify.com/track/4H7TzyKNMNkUmcwlxf4KRx)** by **1Psion, Pearlblade** *(nightlife!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 11:48:00Z UTC
+🕐 Last updated: 2025-09-16 12:24:21Z UTC
 <!-- SPOTIFY-END -->
