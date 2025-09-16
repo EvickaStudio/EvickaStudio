@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b93dcba08d260c54dbb42357" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a8cb06ca2fd6ef0225644e67" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Echoes Of You](https://open.spotify.com/track/6d95rSdl3nTcgCHJGDJ4De)**
+**🎵 [See Through](https://open.spotify.com/track/5YluV7AkUVUPj9GmRL42AI)**
 *by* **Borninmay**
-*Album:* Echoes Of You
+*Album:* See Through
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="37" height="4" fill="#1db954" rx="2"/>
+    <circle cx="37" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 3:31
+    0:27 • 3:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)** by **lauenburg** *(Turmalin)*
-🎤 **[nil](https://open.spotify.com/track/6X8q8PQDUWsKMk5UXAVGel)** by **Jespfur** *(Pedestrians Of Bright Silence)*
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
-🎤 **[cake walk](https://open.spotify.com/track/4qbu4TNeF6nYg77ASnhQEi)** by **Francos Pain** *(cake walk)*
-🎤 **[sunburned/goodbye](https://open.spotify.com/track/5W4NzxUK4rJm1wBPIw5pLy)** by **SCHRAMM** *(sunburned/goodbye)*
+🎤 **[Auf bessere Tage](https://open.spotify.com/track/0eZhbZQML701oKDvQQaLiS)** by **lauenburg** *(Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough))*
+🎤 **[Sterben](https://open.spotify.com/track/4EePmzewiAy8Rjce0el6Zj)** by **Drückeberger** *(Armselig)*
+🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
+🎤 **[you don't want it](https://open.spotify.com/track/3hGYCI6HTnUFH7JlCeLw0I)** by **Francos Pain** *(you don't want it)*
+🎤 **[Sunken Truth](https://open.spotify.com/track/6TecpXtFVxvoDNqlPXcwnM)** by **Walter Frosch** *(Star 10110)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 20:31:09Z UTC
+🕐 Last updated: 2025-09-16 20:48:04Z UTC
 <!-- SPOTIFY-END -->
