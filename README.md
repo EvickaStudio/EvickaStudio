@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b9c59813ec6c7ac2056ab3f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bc44c3a5094b03ec6d501e31" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fluoride](https://open.spotify.com/track/2Tz6FluobpGo6BWLLcyaZy)**
-*by* **zeija**
-*Album:* fluoride
+**🎵 [Perfect](https://open.spotify.com/track/2dyeWlhqtGsDW7VpUroZwo)**
+*by* **Capoxxo, oaf1, dreamcache**
+*Album:* Perfect
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="196" height="4" fill="#1db954" rx="2"/>
-    <circle cx="196" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 1:42
+    1:59 • 2:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I NEED YOUR LUV!!](https://open.spotify.com/track/38zl1nP37E0D6rYPtOO2zm)** by **lavendr** *(I NEED YOUR LUV!!)*
-🎤 **[brainsexe](https://open.spotify.com/track/5R0hjmiFTjjpFnzUDPzx5f)** by **elctrnc/sed:/, 57st, 444pluto** *(brainsexe)*
-🎤 **[ur name](https://open.spotify.com/track/38Eo1o5oN5lVYD9LngBrtA)** by **i9bonsai** *(ur name)*
-🎤 **[Falling Under](https://open.spotify.com/track/2T4bAbanNBwAqZ6gwX27FI)** by **03osc, AdLo** *(Dream Saga)*
-🎤 **[honest](https://open.spotify.com/track/6Cwd551I139ikC0OBjHehp)** by **coldspades, datealyfe** *(honest)*
+🎤 **[need me](https://open.spotify.com/track/1JWFSyyVjSyRL9EIxGRtEJ)** by **lynU, trustt** *(need me)*
+🎤 **[prayer](https://open.spotify.com/track/24W1Qz9T4KgIh6xNjlk6Ts)** by **oaf1, Capoxxo** *(prayer)*
+🎤 **[wtf](https://open.spotify.com/track/5xcgbOE6uEB2389ktVWsC8)** by **Sg Lily** *(wtf)*
+🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
+🎤 **[white lies](https://open.spotify.com/track/63lXZXVkkkc94gamv7rB6J)** by **luvlxckdown** *(find ur way home...)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 18:18:00Z UTC
+🕐 Last updated: 2025-09-16 18:44:40Z UTC
 <!-- SPOTIFY-END -->
