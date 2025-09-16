@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273899225af4f52a34e81ca8140" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369aacce2fd43d8c72ddcdcd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KILL URSELF WITH ME](https://open.spotify.com/track/7wEggfP98U3VqfxBo1qXsO)**
-*by* **lavendr**
-*Album:* KILL URSELF WITH ME
+**🎵 [princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)**
+*by* **luu, Skatey Hellstar, chromey**
+*Album:* HYPERCORE, Vol. 3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="28" height="4" fill="#1db954" rx="2"/>
+    <circle cx="28" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 1:52
+    0:13 • 2:28
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[fk dis club up](https://open.spotify.com/track/2hpi606q8CXJd2AGCuB90g)** by **willowcore, 444pluto** *(fk dis club up)*
+🎤 **[watch ur body rot](https://open.spotify.com/track/5XAVfsSwTJ24QcEKx7sSJB)** by **zeija** *(watch ur body rot)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
+🎤 **[PARTY FOR SEVEN???](https://open.spotify.com/track/1xdkFIAFGFCTRlrqnyxEnl)** by **Rylax, pink luu, 1Psion, Lytra, Cyber angel, Juriha777** *(PARTY FOR SEVEN???)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 16:52:17Z UTC
+🕐 Last updated: 2025-09-16 17:10:40Z UTC
 <!-- SPOTIFY-END -->
