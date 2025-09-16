@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b2d43472134897db54651e05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734104dadfcbdb126616859d45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)**
-*by* **Borninmay**
-*Album:* Spit Me Out
+**🎵 [wolf like me](https://open.spotify.com/track/3WGHz5GzBhW2GnJUbi2EWk)**
+*by* **Panik Deluxe**
+*Album:* wolf like me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 2:30
+    3:14 • 3:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Now](https://open.spotify.com/track/1oC7dByhAfut3gLNoD2q6b)** by **Ssleeping Desiress** *(Late Bloom EP)*
+🎤 **[walking near](https://open.spotify.com/track/3CtP3Nl1cRFnN3Y6Yg65YW)** by **Francos Pain** *(walking near)*
+🎤 **[Anyway](https://open.spotify.com/track/642wc4FE8J6eviFizejfFq)** by **Flawless Issues, Faerybabyy** *(Anyway)*
+🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
 🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
-🎤 **[Pick A Side](https://open.spotify.com/track/0X0TEhyWJCA7vXbYBBYaBa)** by **Walter Frosch** *(Star 10110)*
-🎤 **[slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)** by **BED** *(everything hurts)*
-🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
-🎤 **[Find dein Glück](https://open.spotify.com/track/3UGwEBSixeIcOBsl7UrRDL)** by **NILS KEPPEL** *(Find dein Glück)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 19:22:43Z UTC
+🕐 Last updated: 2025-09-16 19:34:11Z UTC
 <!-- SPOTIFY-END -->
