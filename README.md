@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ecec149045e4f83cce7c9c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)**
-*by* **luu**
-*Album:* immenser pflegefall
+**🎵 [Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)**
+*by* **pathetic240px**
+*Album:* Dancing Nihilist
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="195" height="4" fill="#1db954" rx="2"/>
-    <circle cx="195" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 1:25
+    2:17 • 3:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)** by **Crescent, Rose, Y4ndere, Crystal Statues** *(Crystal Clear)*
-🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
-🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
-🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 08:44:01Z UTC
+🕐 Last updated: 2025-09-16 08:54:55Z UTC
 <!-- SPOTIFY-END -->
