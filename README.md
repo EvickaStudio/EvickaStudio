@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a8cb06ca2fd6ef0225644e67" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730daff12eb02c05b44cbda213" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [See Through](https://open.spotify.com/track/5YluV7AkUVUPj9GmRL42AI)**
-*by* **Borninmay**
-*Album:* See Through
+**🎵 [Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint](https://open.spotify.com/track/5V0GcRiy2UKEb1X19NnsFw)**
+*by* **lauenburg**
+*Album:* Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="37" height="4" fill="#1db954" rx="2"/>
-    <circle cx="37" cy="2" r="6" fill="#1db954"/>
+    <rect width="204" height="4" fill="#1db954" rx="2"/>
+    <circle cx="204" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 3:41
+    2:12 • 3:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Auf bessere Tage](https://open.spotify.com/track/0eZhbZQML701oKDvQQaLiS)** by **lauenburg** *(Ich schau ständig aus dem Fenster, um zu sehen, ob die Sonne scheint (rough))*
-🎤 **[Sterben](https://open.spotify.com/track/4EePmzewiAy8Rjce0el6Zj)** by **Drückeberger** *(Armselig)*
-🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
-🎤 **[you don't want it](https://open.spotify.com/track/3hGYCI6HTnUFH7JlCeLw0I)** by **Francos Pain** *(you don't want it)*
-🎤 **[Sunken Truth](https://open.spotify.com/track/6TecpXtFVxvoDNqlPXcwnM)** by **Walter Frosch** *(Star 10110)*
+🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
+🎤 **[Augen](https://open.spotify.com/track/53NXureKXUsCowW9P63FnJ)** by **Enpal** *(Hab schon)*
+🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[Broken Wings (I Don't Feel A Thing)](https://open.spotify.com/track/3UpgzHpgrX6r3N08EJqzNS)** by **Walter Frosch** *(Star 10110)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 20:48:04Z UTC
+🕐 Last updated: 2025-09-16 21:10:35Z UTC
 <!-- SPOTIFY-END -->
