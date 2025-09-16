@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ac9c039f33790c792c9f67d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad2e6b904de4a2997d7de1ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stomach](https://open.spotify.com/track/7IKoTyomA1Ve0zrdDDKOnA)**
-*by* **emorave**
-*Album:* evergrace
+**🎵 [wanna be](https://open.spotify.com/track/3rEhTuSTy8Ycv1JKSwtxOE)**
+*by* **hateoryx, Nosgov**
+*Album:* wanna be
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="292" height="4" fill="#1db954" rx="2"/>
-    <circle cx="292" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:34 • 2:38
+    0:49 • 2:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[uu look like3 an ##angel](https://open.spotify.com/track/6yryHtWw7ltdgCNhutSTPQ)** by **Rezlaine** *(#Nauseous)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)** by **Crescent, Rose, Y4ndere, Crystal Statues** *(Crystal Clear)*
-🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
+🎤 **[lost in2 the night](https://open.spotify.com/track/4GvpTuoVMzi5B6HwOP6YmJ)** by **LOZUH** *(lost in2 the night)*
+🎤 **[hang on](https://open.spotify.com/track/0RazVefcowUKpzqkKRHA4o)** by **skypebf, 2040x2040** *(#waitforme)*
+🎤 **[bite back :3](https://open.spotify.com/track/0oFsmWuiJ1F6iAcTZKZppi)** by **Kevinhilfiger, keyblayde808, Curtains** *(salem 2)*
+🎤 **[cant stop now](https://open.spotify.com/track/2D2sM0MkiJhyD9n2vE7a2v)** by **Pearlblade, whyhaze, pluto** *(cant stop now)*
+🎤 **[im tired of you](https://open.spotify.com/track/2BXEI4iu1DK51AdKMpeHRL)** by **Scarly, ghostmasheen** *(im tired of you)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 10:33:47Z UTC
+🕐 Last updated: 2025-09-16 10:48:34Z UTC
 <!-- SPOTIFY-END -->
