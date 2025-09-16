@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27334a6054741b794deab636206" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b93dcba08d260c54dbb42357" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [god complex](https://open.spotify.com/track/7bMQHFXpvhhD0OdS6CmdAx)**
-*by* **Panik Deluxe**
-*Album:* without hope I am nothing
+**🎵 [Echoes Of You](https://open.spotify.com/track/6d95rSdl3nTcgCHJGDJ4De)**
+*by* **Borninmay**
+*Album:* Echoes Of You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="268" height="4" fill="#1db954" rx="2"/>
-    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:13 • 3:36
+    0:52 • 3:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)*
-🎤 **[Wenn du fällst, (Intro)](https://open.spotify.com/track/6m72dYXrijHRKVNySUjOHF)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
-🎤 **[im norden nichts neues](https://open.spotify.com/track/3MGcvWoGAbYRJNxpMlD7qL)** by **Traumatin, FFAK** *(im norden nichts neues)*
-🎤 **[You, Innit?](https://open.spotify.com/track/3I7Z5grqvB8D7eRZSEAoz4)** by **Francos Pain** *(Align The Wicked)*
-🎤 **[Pretty To Love](https://open.spotify.com/track/7BAoB9588bK2tVB6Zb47rE)** by **Borninmay** *(Pretty To Love)*
+🎤 **[Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ)** by **lauenburg** *(Turmalin)*
+🎤 **[nil](https://open.spotify.com/track/6X8q8PQDUWsKMk5UXAVGel)** by **Jespfur** *(Pedestrians Of Bright Silence)*
+🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
+🎤 **[cake walk](https://open.spotify.com/track/4qbu4TNeF6nYg77ASnhQEi)** by **Francos Pain** *(cake walk)*
+🎤 **[sunburned/goodbye](https://open.spotify.com/track/5W4NzxUK4rJm1wBPIw5pLy)** by **SCHRAMM** *(sunburned/goodbye)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-16 20:13:31Z UTC
+🕐 Last updated: 2025-09-16 20:31:09Z UTC
 <!-- SPOTIFY-END -->
