@@ -136,9 +136,9 @@
 🥇 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🥈 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
-🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
+🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 09:13:17Z UTC
+🕐 Last updated: 2025-09-17 09:30:39Z UTC
 <!-- SPOTIFY-END -->
