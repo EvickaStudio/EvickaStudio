@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27334a6054741b794deab636206" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f096017b5b0f2463a25ea498" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [be mine](https://open.spotify.com/track/37YzZ2KP50ekFagl7Ueydj)**
-*by* **Panik Deluxe**
-*Album:* without hope I am nothing
+**🎵 [Sweatyhands](https://open.spotify.com/track/7EGzruJsvgivaSmPDhE0oi)**
+*by* **SCHRAMM**
+*Album:* Sweatyhands
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="291" height="4" fill="#1db954" rx="2"/>
+    <circle cx="291" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 3:04
+    3:52 • 4:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Leave](https://open.spotify.com/track/5l8bMvBBhMDyfzwhFMp4JB)** by **EASY EASY** *(EASY EASY)*
+🎤 **[be yours](https://open.spotify.com/track/0swfexQ0K5wG5LyDXKLzYy)** by **moonvampire** *(be yours / full moon)*
+🎤 **[be mine](https://open.spotify.com/track/37YzZ2KP50ekFagl7Ueydj)** by **Panik Deluxe** *(without hope I am nothing)*
 🎤 **[IMP3RFECT](https://open.spotify.com/track/5luzuzlbVj54APh6WSLqvv)** by **Cruc1fy** *(Curs3d x P3rfect)*
 🎤 **[Gespenster](https://open.spotify.com/track/4URPOoy8a6nAdDZPG0wtCr)** by **Drückeberger** *(Gespenster)*
-🎤 **[Thank You](https://open.spotify.com/track/7tXmBc683fIBhIxbNmEDl3)** by **SCHRAMM** *(How to fail at Love - EP)*
-🎤 **[Strangers](https://open.spotify.com/track/49StcZfvW8rViiGIcIlVyC)** by **Lllyric?, Draeko** *(Strangers)*
-🎤 **[Comin Home](https://open.spotify.com/track/1RAiHhh4HfUgcA1ATlg9yA)** by **Jespfur, Paula** *(Mind Map)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 13:36:19Z UTC
+🕐 Last updated: 2025-09-17 13:49:03Z UTC
 <!-- SPOTIFY-END -->
