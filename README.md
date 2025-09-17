@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ee6d81a598c7cf71f1cc978" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732b40ca9a52e7d065f4a8cdc3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Anywhere Else](https://open.spotify.com/track/3vy9YLTFiOOkysd3QFfgqi)**
-*by* **Borninmay**
-*Album:* Anywhere Else
+**🎵 [So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)**
+*by* **Kkoki**
+*Album:* So Long
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="124" height="4" fill="#1db954" rx="2"/>
-    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+    <rect width="158" height="4" fill="#1db954" rx="2"/>
+    <circle cx="158" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:50
+    1:17 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
-🎤 **[no one likes me 2](https://open.spotify.com/track/3i813mF4l2AytU9LegMgDN)** by **kmrnxo, Lil Witchy** *(no one likes me 2)*
-🎤 **[oasis](https://open.spotify.com/track/3YosPvNnm0WNuyJEfQKDMT)** by **Lei** *(oasis)*
-🎤 **[brand new](https://open.spotify.com/track/34lCjkdCOA0AO3WcRWsOLl)** by **RudeClub** *(brand new)*
-🎤 **[secret diary](https://open.spotify.com/track/2ufeKgXUw19LhDySrHSLHb)** by **Les Grands Enfants, Senses** *(secret diary)*
+🎤 **[Pick A Side](https://open.spotify.com/track/0X0TEhyWJCA7vXbYBBYaBa)** by **Walter Frosch** *(Star 10110)*
+🎤 **[slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)** by **BED** *(everything hurts)*
+🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
+🎤 **[Find dein Glück](https://open.spotify.com/track/3UGwEBSixeIcOBsl7UrRDL)** by **NILS KEPPEL** *(Find dein Glück)*
+🎤 **[Fat Face](https://open.spotify.com/track/0XisTrzL3VLmnk1e3d9bvQ)** by **Francos Pain** *(Fat Face)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 10:13:14Z UTC
+🕐 Last updated: 2025-09-17 10:33:38Z UTC
 <!-- SPOTIFY-END -->
