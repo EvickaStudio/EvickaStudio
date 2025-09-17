@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273532774f79763d7ddb6039714" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)**
-*by* **djacc v hearteyesL**
-*Album:* cyberspace positron mar19-2021
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:56
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
 🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 🎤 **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **snor** *(scary monsters)*
 🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
 🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-17 21:10:10Z UTC
+🕐 Last updated: 2025-09-17 21:24:02Z UTC
 <!-- SPOTIFY-END -->
