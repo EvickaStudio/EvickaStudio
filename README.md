@@ -107,7 +107,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2734ee6d81a598c7cf71f1cc978" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Anywhere Else](https://open.spotify.com/track/3vy9YLTFiOOkysd3QFfgqi)**
+*by* **Borninmay**
+*Album:* Anywhere Else
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:10 • 2:50
+</span>
+</p>
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 09:47:25Z UTC
+🕐 Last updated: 2025-09-17 10:13:14Z UTC
 <!-- SPOTIFY-END -->
