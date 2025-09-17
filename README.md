@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273411a8d0914af5a4c40c02754" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e7b64b871c6619071b469377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
-*by* **HighSchool**
-*Album:* Colt
+**🎵 [scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)**
+*by* **snor**
+*Album:* scary monsters
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="244" height="4" fill="#1db954" rx="2"/>
-    <circle cx="244" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:59 • 4:53
+    2:27 • 2:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
-🎤 **[This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG)** by **Nabihah Iqbal** *(DREAMER)*
-🎤 **[tennis](https://open.spotify.com/track/5OiPPYhFjCBlqWU3xEELVW)** by **EASY EASY** *(tennis)*
-🎤 **[When you're gone](https://open.spotify.com/track/5jJeWl0lL9nYAzbq1YKo0S)** by **SCHRAMM** *(I made this for myself (I didn't make it for you))*
-🎤 **[slow riot](https://open.spotify.com/track/6BonQ7VoWED2bLcTQVeYen)** by **Panik Deluxe** *(without hope I am nothing)*
+🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
+🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
+🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 15:47:35Z UTC
+🕐 Last updated: 2025-09-17 16:15:42Z UTC
 <!-- SPOTIFY-END -->
