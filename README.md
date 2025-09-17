@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273471b22005f23ed36477e89b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [oasis](https://open.spotify.com/track/3YosPvNnm0WNuyJEfQKDMT)**
-*by* **Lei**
-*Album:* oasis
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:27
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[no one likes me 2](https://open.spotify.com/track/3i813mF4l2AytU9LegMgDN)** by **kmrnxo, Lil Witchy** *(no one likes me 2)*
+🎤 **[oasis](https://open.spotify.com/track/3YosPvNnm0WNuyJEfQKDMT)** by **Lei** *(oasis)*
 🎤 **[brand new](https://open.spotify.com/track/34lCjkdCOA0AO3WcRWsOLl)** by **RudeClub** *(brand new)*
 🎤 **[secret diary](https://open.spotify.com/track/2ufeKgXUw19LhDySrHSLHb)** by **Les Grands Enfants, Senses** *(secret diary)*
 🎤 **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)*
-🎤 **[Linoleum](https://open.spotify.com/track/2BicHItEEEhdtnJHzwVq6e)** by **kmoe** *(Linoleum)*
-🎤 **[over my head](https://open.spotify.com/track/1hOOJWeE0A99Nqu2W131nG)** by **Lei** *(heartsick)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-17 08:53:45Z UTC
+🕐 Last updated: 2025-09-17 09:13:17Z UTC
 <!-- SPOTIFY-END -->
