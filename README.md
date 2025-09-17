@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a523f9964064c193494817f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ](https://open.spotify.com/track/4mYLld2PoCIV1znwRdMnU7)**
-*by* **Junshi**
-*Album:* ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ
+**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
+*by* **luu, mehlhaltig, iwannabemissed**
+*Album:* triple trauma
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:28
+    0:47 • 1:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[i gotta feeling >_<](https://open.spotify.com/track/55eAxfAnX4zU0iWKMMQskD)** by **hateoryx, Pawl4k** *(i gotta feeling >_<)*
+🎤 **[blue :/](https://open.spotify.com/track/53lGwVRP7S3yaMJKFlKtXH)** by **Nomark, Pr0xy** *(blue :/)*
+🎤 **[i don't want to lose you](https://open.spotify.com/track/4slj2nyXK1XrAMBDc4qKb3)** by **whyhaze, hoshie star, Pröz** *(i don't want to lose you)*
+🎤 **[ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ](https://open.spotify.com/track/4mYLld2PoCIV1znwRdMnU7)** by **Junshi** *(ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ)*
 🎤 **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)*
-🎤 **[heavensent](https://open.spotify.com/track/4YdVoNsuZj5IYKby0ub8f9)** by **agelast222, humanangst** *(Last Bible)*
-🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
-🎤 **[Shattered](https://open.spotify.com/track/3sLQ0w2JUibMzTsdu0snK1)** by **Lovesickxo** *(Shattered)*
-🎤 **[cutter](https://open.spotify.com/track/3q9K6liZkU9gd2e5HhmdsH)** by **pink luu, nami, luu** *(pain parade)*
 
 
 
@@ -156,8 +156,8 @@
 🥈 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🥉 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
-🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
+🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-17 16:42:33Z UTC
+🕐 Last updated: 2025-09-17 16:52:08Z UTC
 <!-- SPOTIFY-END -->
