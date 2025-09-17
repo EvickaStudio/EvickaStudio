@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a8cb06ca2fd6ef0225644e67" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f26cac96687ed35ff19e085d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [See Through](https://open.spotify.com/track/5YluV7AkUVUPj9GmRL42AI)**
-*by* **Borninmay**
-*Album:* See Through
+**🎵 [Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)**
+*by* **Traumatin**
+*Album:* Nur zu weit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="164" height="4" fill="#1db954" rx="2"/>
+    <circle cx="164" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 3:41
+    2:04 • 3:46
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Sun Starer](https://open.spotify.com/track/2FD2Qo852339KZ4RTjU48Z)** by **Tellr** *(Sun Starer)*
+🎤 **[fallen](https://open.spotify.com/track/65qo8OLrleFH5bUOsDxRUo)** by **GAST** *(fallen)*
+🎤 **[Wayside](https://open.spotify.com/track/4fQ40WmyC9pjE0zQ0kIl5m)** by **Fritz Ali Hansen** *(STILL LEBEN)*
+🎤 **[See Through](https://open.spotify.com/track/5YluV7AkUVUPj9GmRL42AI)** by **Borninmay** *(See Through)*
 🎤 **[New Boots](https://open.spotify.com/track/1Ptr7ZzpXLJcnP0qe8QNXi)** by **Pale Blue Eyes** *(New Boots)*
-🎤 **[Summer Ends](https://open.spotify.com/track/2VypHBCXHcs5VBJUQ2PIar)** by **Borninmay** *(No Colors)*
-🎤 **[Houses](https://open.spotify.com/track/5PCxnkVxVhUXXbkt6EHsgB)** by **Ssleeping Desiress** *(Late Bloom EP)*
-🎤 **[Sunken Truth](https://open.spotify.com/track/6TecpXtFVxvoDNqlPXcwnM)** by **Walter Frosch** *(Star 10110)*
-🎤 **[im norden nichts neues](https://open.spotify.com/track/3MGcvWoGAbYRJNxpMlD7qL)** by **Traumatin, FFAK** *(im norden nichts neues)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 11:34:14Z UTC
+🕐 Last updated: 2025-09-17 11:47:26Z UTC
 <!-- SPOTIFY-END -->
