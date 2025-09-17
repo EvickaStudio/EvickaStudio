@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
 🎤 **[no one likes me 2](https://open.spotify.com/track/3i813mF4l2AytU9LegMgDN)** by **kmrnxo, Lil Witchy** *(no one likes me 2)*
 🎤 **[oasis](https://open.spotify.com/track/3YosPvNnm0WNuyJEfQKDMT)** by **Lei** *(oasis)*
 🎤 **[brand new](https://open.spotify.com/track/34lCjkdCOA0AO3WcRWsOLl)** by **RudeClub** *(brand new)*
 🎤 **[secret diary](https://open.spotify.com/track/2ufeKgXUw19LhDySrHSLHb)** by **Les Grands Enfants, Senses** *(secret diary)*
-🎤 **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 09:30:39Z UTC
+🕐 Last updated: 2025-09-17 09:47:25Z UTC
 <!-- SPOTIFY-END -->
