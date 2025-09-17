@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b40ca9a52e7d065f4a8cdc3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273585d4ad26dfe65b6afbc96c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)**
-*by* **Kkoki**
-*Album:* So Long
+**🎵 [Now](https://open.spotify.com/track/1oC7dByhAfut3gLNoD2q6b)**
+*by* **Ssleeping Desiress**
+*Album:* Late Bloom EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="258" height="4" fill="#1db954" rx="2"/>
+    <circle cx="258" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 2:25
+    3:01 • 3:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Pick A Side](https://open.spotify.com/track/0X0TEhyWJCA7vXbYBBYaBa)** by **Walter Frosch** *(Star 10110)*
-🎤 **[slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)** by **BED** *(everything hurts)*
-🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
-🎤 **[Find dein Glück](https://open.spotify.com/track/3UGwEBSixeIcOBsl7UrRDL)** by **NILS KEPPEL** *(Find dein Glück)*
-🎤 **[Fat Face](https://open.spotify.com/track/0XisTrzL3VLmnk1e3d9bvQ)** by **Francos Pain** *(Fat Face)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
+🎤 **[walking near](https://open.spotify.com/track/3CtP3Nl1cRFnN3Y6Yg65YW)** by **Francos Pain** *(walking near)*
+🎤 **[Anyway](https://open.spotify.com/track/642wc4FE8J6eviFizejfFq)** by **Flawless Issues, Faerybabyy** *(Anyway)*
+🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
+🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 10:33:38Z UTC
+🕐 Last updated: 2025-09-17 10:48:03Z UTC
 <!-- SPOTIFY-END -->
