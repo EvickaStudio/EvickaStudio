@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cfe7897e121e787ab90991e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334a6054741b794deab636206" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [shame](https://open.spotify.com/track/0swRy6QFtDHyM1U6tNSWwk)**
-*by* **Panik Deluxe, lauenburg**
-*Album:* I was an apple and I got peeled
+**🎵 [be mine](https://open.spotify.com/track/37YzZ2KP50ekFagl7Ueydj)**
+*by* **Panik Deluxe**
+*Album:* without hope I am nothing
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="65" height="4" fill="#1db954" rx="2"/>
-    <circle cx="65" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 3:24
+    0:52 • 3:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In Knot We Trust](https://open.spotify.com/track/5D3xQ07y8n4WSyikKg9yqY)** by **Stoop Kid** *(In Knot We Trust)*
-🎤 **[The unreliable narrator](https://open.spotify.com/track/2SjWx4liuk1SAedgDMgZ0i)** by **Beaks** *(The unreliable narrator)*
-🎤 **[froid](https://open.spotify.com/track/109kFCV15ANejnovgCsXVS)** by **Flawless Issues** *(Modern Past)*
-🎤 **[zu zweit](https://open.spotify.com/track/6xqqm6fMdFZRlSP0Kh38TH)** by **Enpal** *(zu zweit)*
-🎤 **[Off without me](https://open.spotify.com/track/0668kxcEsGMJPUvSOdW8yI)** by **SCHRAMM** *(Off without me)*
+🎤 **[IMP3RFECT](https://open.spotify.com/track/5luzuzlbVj54APh6WSLqvv)** by **Cruc1fy** *(Curs3d x P3rfect)*
+🎤 **[Gespenster](https://open.spotify.com/track/4URPOoy8a6nAdDZPG0wtCr)** by **Drückeberger** *(Gespenster)*
+🎤 **[Thank You](https://open.spotify.com/track/7tXmBc683fIBhIxbNmEDl3)** by **SCHRAMM** *(How to fail at Love - EP)*
+🎤 **[Strangers](https://open.spotify.com/track/49StcZfvW8rViiGIcIlVyC)** by **Lllyric?, Draeko** *(Strangers)*
+🎤 **[Comin Home](https://open.spotify.com/track/1RAiHhh4HfUgcA1ATlg9yA)** by **Jespfur, Paula** *(Mind Map)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 13:02:30Z UTC
+🕐 Last updated: 2025-09-17 13:36:19Z UTC
 <!-- SPOTIFY-END -->
