@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27334a6054741b794deab636206" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfe7897e121e787ab90991e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [god complex](https://open.spotify.com/track/7bMQHFXpvhhD0OdS6CmdAx)**
-*by* **Panik Deluxe**
-*Album:* without hope I am nothing
+**🎵 [shame](https://open.spotify.com/track/0swRy6QFtDHyM1U6tNSWwk)**
+*by* **Panik Deluxe, lauenburg**
+*Album:* I was an apple and I got peeled
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 3:36
+    0:44 • 3:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Augen](https://open.spotify.com/track/53NXureKXUsCowW9P63FnJ)** by **Enpal** *(Hab schon)*
-🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
-🎤 **[Earth Song](https://open.spotify.com/track/2zWWy2EBXJOrLkv5wgBR8z)** by **Ssleeping Desiress** *(Late Bloom EP)*
-🎤 **[you don't want it](https://open.spotify.com/track/3hGYCI6HTnUFH7JlCeLw0I)** by **Francos Pain** *(you don't want it)*
-🎤 **[summerrain](https://open.spotify.com/track/5emMnZMonIyq7gxstg1RTz)** by **SCHRAMM** *(summerrain)*
+🎤 **[In Knot We Trust](https://open.spotify.com/track/5D3xQ07y8n4WSyikKg9yqY)** by **Stoop Kid** *(In Knot We Trust)*
+🎤 **[The unreliable narrator](https://open.spotify.com/track/2SjWx4liuk1SAedgDMgZ0i)** by **Beaks** *(The unreliable narrator)*
+🎤 **[froid](https://open.spotify.com/track/109kFCV15ANejnovgCsXVS)** by **Flawless Issues** *(Modern Past)*
+🎤 **[zu zweit](https://open.spotify.com/track/6xqqm6fMdFZRlSP0Kh38TH)** by **Enpal** *(zu zweit)*
+🎤 **[Off without me](https://open.spotify.com/track/0668kxcEsGMJPUvSOdW8yI)** by **SCHRAMM** *(Off without me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 12:24:35Z UTC
+🕐 Last updated: 2025-09-17 13:02:30Z UTC
 <!-- SPOTIFY-END -->
