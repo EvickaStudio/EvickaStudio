@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732c2e275f3e14280dd2cea2de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731035cb56a6a574a3009d044b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DIE FIRMA .... NIKOLA & MILAS](https://open.spotify.com/track/4H7hrakBCntdeOCVvLj7Zp)**
-*by* **agelast222**
-*Album:* SOLARCORP
+**🎵 [mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)**
+*by* **5star**
+*Album:* mein <3 ist dein hotel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="20" height="4" fill="#1db954" rx="2"/>
-    <circle cx="20" cy="2" r="6" fill="#1db954"/>
+    <rect width="286" height="4" fill="#1db954" rx="2"/>
+    <circle cx="286" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 1:47
+    2:42 • 2:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
+🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
+🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
+🎤 **[DIE FIRMA .... NIKOLA & MILAS](https://open.spotify.com/track/4H7hrakBCntdeOCVvLj7Zp)** by **agelast222** *(SOLARCORP)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-17 20:30:38Z UTC
+🕐 Last updated: 2025-09-17 20:48:05Z UTC
 <!-- SPOTIFY-END -->
