@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273585d4ad26dfe65b6afbc96c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27368dcfd9232e5178653d85ef2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Now](https://open.spotify.com/track/1oC7dByhAfut3gLNoD2q6b)**
-*by* **Ssleeping Desiress**
-*Album:* Late Bloom EP
+**🎵 [Self Reflection](https://open.spotify.com/track/018W10vZTcbL4c58L4RwQ7)**
+*by* **Flawless Issues**
+*Album:* Modern Past
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="258" height="4" fill="#1db954" rx="2"/>
-    <circle cx="258" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:30
+    1:36 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
-🎤 **[walking near](https://open.spotify.com/track/3CtP3Nl1cRFnN3Y6Yg65YW)** by **Francos Pain** *(walking near)*
-🎤 **[Anyway](https://open.spotify.com/track/642wc4FE8J6eviFizejfFq)** by **Flawless Issues, Faerybabyy** *(Anyway)*
-🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
-🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
+🎤 **[White Lies](https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa)** by **Beaks** *(White Lies)*
+🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
+🎤 **[Elastic Solitude](https://open.spotify.com/track/0BGnMfOknIvVqcG7nqgieU)** by **Elastic Skies** *(Elastic Solitude)*
+🎤 **[Sleepless City](https://open.spotify.com/track/1YcQ1rByh2RaWiXDDpGYoN)** by **Flawless Issues** *(Modern Past)*
+🎤 **[Hard to be a God](https://open.spotify.com/track/3GKqqSPYJbGoIBIffaZXTV)** by **HEAR ME OUT** *(SUMMER)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 10:48:03Z UTC
+🕐 Last updated: 2025-09-17 11:10:04Z UTC
 <!-- SPOTIFY-END -->
