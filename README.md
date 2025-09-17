@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27396bd7c683dbf5eec511fabfe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG)**
-*by* **Nabihah Iqbal**
-*Album:* DREAMER
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:28 • 3:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
+🎤 **[This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG)** by **Nabihah Iqbal** *(DREAMER)*
 🎤 **[tennis](https://open.spotify.com/track/5OiPPYhFjCBlqWU3xEELVW)** by **EASY EASY** *(tennis)*
 🎤 **[When you're gone](https://open.spotify.com/track/5jJeWl0lL9nYAzbq1YKo0S)** by **SCHRAMM** *(I made this for myself (I didn't make it for you))*
 🎤 **[slow riot](https://open.spotify.com/track/6BonQ7VoWED2bLcTQVeYen)** by **Panik Deluxe** *(without hope I am nothing)*
-🎤 **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)*
-🎤 **[Deja vu](https://open.spotify.com/track/3cXc8pgMTJCLAIqQNVVkRp)** by **Enpal, Lore Vain, Mani Orrason** *(Deja vu)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**blister**](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)
 
 
-🕐 Last updated: 2025-09-17 14:12:14Z UTC
+🕐 Last updated: 2025-09-17 14:31:42Z UTC
 <!-- SPOTIFY-END -->
