@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f126982380981387adc4f1c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Linoleum](https://open.spotify.com/track/2BicHItEEEhdtnJHzwVq6e)**
+*by* **kmoe**
+*Album:* Linoleum
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:08 • 3:21
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[now](https://open.spotify.com/track/6HvJU1G7IztYquVbryCxn0)** by **Senses, Kiryano** *(now)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[blair witch 2](https://open.spotify.com/track/0gDeqUKDdXvFtOxJiIoROD)** by **sltted, jadegardn** *(blair witch 2)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[over my head](https://open.spotify.com/track/1hOOJWeE0A99Nqu2W131nG)** by **Lei** *(heartsick)*
+🎤 **[don't wanna talk](https://open.spotify.com/track/1GkgQ7LwPeLBX6JbxovGhA)** by **Crystal Statues, Crescent, kerosene** *(don't wanna talk)*
+🎤 **[TXGC](https://open.spotify.com/track/0yOakCdnNteEnIJynCVKf5)** by **stixz** *(toxics1ut)*
+🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[SILICOn](https://open.spotify.com/track/03WHrDeCfbxvWxTmtdsZcT)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-17 08:16:39Z UTC
+🕐 Last updated: 2025-09-17 08:43:35Z UTC
 <!-- SPOTIFY-END -->
