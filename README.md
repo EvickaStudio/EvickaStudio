@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f0495e123406153b055ebc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
-*by* **luu, mehlhaltig, iwannabemissed**
-*Album:* triple trauma
+**🎵 [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)**
+*by* **DJ_Dave**
+*Album:* Airglow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 1:34
+    0:31 • 4:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i gotta feeling >_<](https://open.spotify.com/track/55eAxfAnX4zU0iWKMMQskD)** by **hateoryx, Pawl4k** *(i gotta feeling >_<)*
-🎤 **[blue :/](https://open.spotify.com/track/53lGwVRP7S3yaMJKFlKtXH)** by **Nomark, Pr0xy** *(blue :/)*
-🎤 **[i don't want to lose you](https://open.spotify.com/track/4slj2nyXK1XrAMBDc4qKb3)** by **whyhaze, hoshie star, Pröz** *(i don't want to lose you)*
-🎤 **[ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ](https://open.spotify.com/track/4mYLld2PoCIV1znwRdMnU7)** by **Junshi** *(ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ)*
-🎤 **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[Shattered](https://open.spotify.com/track/3sLQ0w2JUibMzTsdu0snK1)** by **Lovesickxo** *(Shattered)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-17 16:52:08Z UTC
+🕐 Last updated: 2025-09-17 17:10:17Z UTC
 <!-- SPOTIFY-END -->
