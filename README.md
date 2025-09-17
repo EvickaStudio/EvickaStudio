@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f126982380981387adc4f1c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273471b22005f23ed36477e89b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Linoleum](https://open.spotify.com/track/2BicHItEEEhdtnJHzwVq6e)**
-*by* **kmoe**
-*Album:* Linoleum
+**🎵 [oasis](https://open.spotify.com/track/3YosPvNnm0WNuyJEfQKDMT)**
+*by* **Lei**
+*Album:* oasis
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 3:21
+    0:50 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[brand new](https://open.spotify.com/track/34lCjkdCOA0AO3WcRWsOLl)** by **RudeClub** *(brand new)*
+🎤 **[secret diary](https://open.spotify.com/track/2ufeKgXUw19LhDySrHSLHb)** by **Les Grands Enfants, Senses** *(secret diary)*
+🎤 **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)*
+🎤 **[Linoleum](https://open.spotify.com/track/2BicHItEEEhdtnJHzwVq6e)** by **kmoe** *(Linoleum)*
 🎤 **[over my head](https://open.spotify.com/track/1hOOJWeE0A99Nqu2W131nG)** by **Lei** *(heartsick)*
-🎤 **[don't wanna talk](https://open.spotify.com/track/1GkgQ7LwPeLBX6JbxovGhA)** by **Crystal Statues, Crescent, kerosene** *(don't wanna talk)*
-🎤 **[TXGC](https://open.spotify.com/track/0yOakCdnNteEnIJynCVKf5)** by **stixz** *(toxics1ut)*
-🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
-🎤 **[SILICOn](https://open.spotify.com/track/03WHrDeCfbxvWxTmtdsZcT)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-17 08:43:35Z UTC
+🕐 Last updated: 2025-09-17 08:53:45Z UTC
 <!-- SPOTIFY-END -->
