@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733afccd337279294ed99a7055" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735b09d199301a34f922336a47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Max Payne](https://open.spotify.com/track/2cBICzyPfJH9Z4RLD2tc8i)**
-*by* **Punk Christ**
-*Album:* Max Payne
+**🎵 [I DONT LIKE PEOPLE (feat. Yung Lean)](https://open.spotify.com/track/7x687eG6TtEHYk0Ryw9KkN)**
+*by* **Bladee, Yung Lean**
+*Album:* Cold Visions
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="167" height="4" fill="#1db954" rx="2"/>
+    <circle cx="167" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:00
+    1:29 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)*
-🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[I DONT LIKE PEOPLE (WHITEARMOR INTERLUDE)](https://open.spotify.com/track/705GSYU14F0WEvPLS11hAl)** by **Bladee, Whitearmor** *(Cold Visions)*
+🎤 **[DONT WANNA HANG OUT](https://open.spotify.com/track/79HYnbyax1lGSlRCVyw6z1)** by **Bladee** *(Cold Visions)*
+🎤 **[ONLY GOD IS MADE PERFECT](https://open.spotify.com/track/3i5ybqjkJ94mzVIaH5s0gZ)** by **Bladee** *(Cold Visions)*
+🎤 **[FUN FACT (feat. Yung Lean)](https://open.spotify.com/track/3KgxdBMhcSkdmerlGOfFKz)** by **Bladee, Yung Lean** *(Cold Visions)*
+🎤 **[SAD MEAL](https://open.spotify.com/track/1pM2b7KNVG3DPgLoX8c7wV)** by **Bladee** *(Cold Visions)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 08:53:09Z UTC
+🕐 Last updated: 2025-09-18 09:13:14Z UTC
 <!-- SPOTIFY-END -->
