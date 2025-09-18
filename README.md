@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738a902c089db38409e28e70c1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737dd78d755aab2eba725472b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lovebug](https://open.spotify.com/track/30ckXjGsXwZWbKyESkW3bp)**
-*by* **Elujjin**
-*Album:* Lovebug
+**🎵 [wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)**
+*by* **snor, d3r**
+*Album:* wish I didnt kno her ##biblemusic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="5" height="4" fill="#1db954" rx="2"/>
-    <circle cx="5" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 2:06
+    1:48 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
-🎤 **[Gfuelinme](https://open.spotify.com/track/1GQFNLpugRwhggFITeI0Fs)** by **Capoxxo** *(Gfuelinme)*
-🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
-🎤 **[romance](https://open.spotify.com/track/73nXWdUj60IFxE6MD97Tlv)** by **snor** *(romance)*
-🎤 **[Dance with me](https://open.spotify.com/track/3vZo7sruPDp9hLaRlYqINb)** by **cxpyyy, TheyhxteAnt** *(Dance with me)*
+🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
+🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[i miss the old times](https://open.spotify.com/track/0owSGAefVFWKpC8JQcSzJ1)** by **Capoxxo** *(i miss the old times)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-18 21:11:30Z UTC
+🕐 Last updated: 2025-09-18 21:27:02Z UTC
 <!-- SPOTIFY-END -->
