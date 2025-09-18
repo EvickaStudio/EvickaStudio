@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ce27ea04a5089c1ca3847b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735254711fbeb24fcb1245dce9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)**
+**🎵 [masochism](https://open.spotify.com/track/6CflnNe4Ucl2pSJQgcupGe)**
 *by* **cholorofilm**
-*Album:* insomnia #sleepclinic
+*Album:* masochism
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="54" height="4" fill="#1db954" rx="2"/>
-    <circle cx="54" cy="2" r="6" fill="#1db954"/>
+    <rect width="162" height="4" fill="#1db954" rx="2"/>
+    <circle cx="162" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:20
+    1:05 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)** by **p6inkillr** *(kill me)*
-🎤 **[oxycodon](https://open.spotify.com/track/2AC3syM1KVpD8mgG6ACNa8)** by **strangerboi, luu, pink luu** *(oxycodon)*
-🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
-🎤 **[RESIDENT EVIL](https://open.spotify.com/track/09W6O2U9Bf6zrzGjJrslc6)** by **nami, wasty** *(RESIDENT EVIL)*
-🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
+🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
+🎤 **[scarlet valentine](https://open.spotify.com/track/4aioRZbRqJ2D2dPzn8j8lv)** by **ihylunar, Vyzer** *(scarlet valentine)*
+🎤 **[merry go round](https://open.spotify.com/track/0IFIIjzfSzSUk80DFQQISL)** by **Senses, mint** *(merry go round)*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[throwing up](https://open.spotify.com/track/63BLSQ9YlKVJ0S1tTmAlUt)** by **luu, dethkitty** *(throwing up)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 16:37:10Z UTC
+🕐 Last updated: 2025-09-18 16:50:48Z UTC
 <!-- SPOTIFY-END -->
