@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735b09d199301a34f922336a47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273469de7bfa3867059052c104d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I DONT LIKE PEOPLE (feat. Yung Lean)](https://open.spotify.com/track/7x687eG6TtEHYk0Ryw9KkN)**
-*by* **Bladee, Yung Lean**
-*Album:* Cold Visions
+**🎵 [geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)**
+*by* **Leocardo DiNaprio, Traumatin**
+*Album:* geist
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="167" height="4" fill="#1db954" rx="2"/>
-    <circle cx="167" cy="2" r="6" fill="#1db954"/>
+    <rect width="229" height="4" fill="#1db954" rx="2"/>
+    <circle cx="229" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 2:40
+    2:01 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I DONT LIKE PEOPLE (WHITEARMOR INTERLUDE)](https://open.spotify.com/track/705GSYU14F0WEvPLS11hAl)** by **Bladee, Whitearmor** *(Cold Visions)*
-🎤 **[DONT WANNA HANG OUT](https://open.spotify.com/track/79HYnbyax1lGSlRCVyw6z1)** by **Bladee** *(Cold Visions)*
-🎤 **[ONLY GOD IS MADE PERFECT](https://open.spotify.com/track/3i5ybqjkJ94mzVIaH5s0gZ)** by **Bladee** *(Cold Visions)*
-🎤 **[FUN FACT (feat. Yung Lean)](https://open.spotify.com/track/3KgxdBMhcSkdmerlGOfFKz)** by **Bladee, Yung Lean** *(Cold Visions)*
-🎤 **[SAD MEAL](https://open.spotify.com/track/1pM2b7KNVG3DPgLoX8c7wV)** by **Bladee** *(Cold Visions)*
+🎤 **["1119"](https://open.spotify.com/track/6bP7n1KoDg7PX5Ceja25qC)** by **Edwin Rosen** *("1119")*
+🎤 **[Kaputt](https://open.spotify.com/track/0cmwa5p8bPY8qPWDlvpHta)** by **wurms, MC WINDHUND** *(Kaputt)*
+🎤 **[regen](https://open.spotify.com/track/25rfQEBTVnFtoDA1BWS5vc)** by **GALAX, Kerobin** *(regen)*
+🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
+🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 09:13:14Z UTC
+🕐 Last updated: 2025-09-18 09:30:38Z UTC
 <!-- SPOTIFY-END -->
