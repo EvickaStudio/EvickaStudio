@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732e9dcd5768182268f8a46dec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d0395ea346930597d3ce41f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)**
-*by* **stixz**
-*Album:* fashionscars
+**🎵 [cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)**
+*by* **snor, cholorofilm, Mezha**
+*Album:* cnt live without u :c </3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 1:45
+    1:11 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)** by **503scoob, Bandiicam, lavendr** *(Around the World)*
-🎤 **[saw](https://open.spotify.com/track/6hvLfnEIaeQ9CC4iSm310M)** by **nami, Nomark, Pearlblade** *(saw)*
-🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[kein problem...](https://open.spotify.com/track/0X7DDmVzJqtuCehGEJ7q3c)** by **luu, iwannabemissed** *(immenser pflegefall)*
+🎤 **[lets shoot some X0X0](https://open.spotify.com/track/7eD7UTJna60Aucomc8ib8I)** by **elctrnc/sed:/, 57st** *(CYA IN THE MOSHPIT!)*
+🎤 **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)*
+🎤 **[Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)** by **LooveX, JeeRAWRXD** *(Self-Xplained)*
+🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
+🎤 **[#breakurheart](https://open.spotify.com/track/3Edf6gKdh1p1BJdQXQ9tDo)** by **pink luu, TheyhxteAnt** *(#breakurheart)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 13:01:48Z UTC
+🕐 Last updated: 2025-09-18 13:35:42Z UTC
 <!-- SPOTIFY-END -->
