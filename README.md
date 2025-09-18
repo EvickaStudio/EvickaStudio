@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730fc1f8194724b89211f1ad9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2f04f68730e94580c9ee683" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)**
-*by* **Love Pact**
-*Album:* Take Me Home
+**🎵 [deine seele](https://open.spotify.com/track/60LmT6kw3T43a8Zv6AMWAh)**
+*by* **pink luu, Lytra, cxpyyy, luu**
+*Album:* deine seele
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 2:07
+    0:59 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mental health](https://open.spotify.com/track/2EtYSZ5X3u7DrrwALKYZyy)** by **pink luu, Lytra, cxpyyy, luu** *(mental health)*
-🎤 **[thank u soo much ^_^](https://open.spotify.com/track/5qSAmFmhlcEEpDRpeGQf0H)** by **oaf1** *(thank u soo much ^_^)*
-🎤 **[barkeeper](https://open.spotify.com/track/1Yb6JcT6PFF5VftO3oionX)** by **Ellie Mic** *(stuck)*
-🎤 **[blue pills](https://open.spotify.com/track/6gLH3KcTpyVm76d58jo1S1)** by **kets4eki, syris, zeija, sltted, w6lker** *(blue pills)*
-🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
+🎤 **[ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)** by **oaf1** *(ilove urr girl)*
+🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
+🎤 **[serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)** by **Luvsick2k, cholorofilm** *(serotonin)*
+🎤 **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 17:28:27Z UTC
+🕐 Last updated: 2025-09-18 17:39:10Z UTC
 <!-- SPOTIFY-END -->
