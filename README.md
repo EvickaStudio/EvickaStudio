@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733f81cc73e11dfc2eeb444c84" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [04:30](https://open.spotify.com/track/7Cgar1fczX18RuU0nUnLuF)**
-*by* **pink luu, nami, cxpyyy, luu**
-*Album:* pain parade
+**🎵 [richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)**
+*by* **pink luu, Lytra, cxpyyy, luu**
+*Album:* 0800-111-0-111
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="49" height="4" fill="#1db954" rx="2"/>
-    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+    <rect width="163" height="4" fill="#1db954" rx="2"/>
+    <circle cx="163" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 1:58
+    1:31 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
-🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
-🎤 **[vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)** by **angelicxmei** *(vision)*
-🎤 **[flip phone](https://open.spotify.com/track/1X1AtNti4T4kqcBmt3ZHwZ)** by **luu, kanjiru** *(flip phone)*
+🎤 **[hypnocil](https://open.spotify.com/track/0nbdnuyEDzpgKoZzpfBkgu)** by **snor** *(hypnocil)*
+🎤 **[killer!](https://open.spotify.com/track/3vMuE4SNRjz50xCunrW9ih)** by **traumadoll** *(killer!)*
+🎤 **[pain](https://open.spotify.com/track/3bwfprCIQWIZd5jPucOa02)** by **Fijimar** *(pain)*
+🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[leiche auf emma](https://open.spotify.com/track/5XxkG1fcUwl2mfwODFK2fy)** by **luu, luvwillow** *(immenser pflegefall)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 13:48:14Z UTC
+🕐 Last updated: 2025-09-18 14:12:54Z UTC
 <!-- SPOTIFY-END -->
