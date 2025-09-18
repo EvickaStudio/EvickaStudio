@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)**
+*by* **leander, ilyproxy, Hadesthegrim**
+*Album:* GV Magazin: Deluxe Sex
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="204" height="4" fill="#1db954" rx="2"/>
+    <circle cx="204" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:26 • 2:07
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
 🎤 **[Beauty and a Beat](https://open.spotify.com/track/2gsDRcmmsYgdgUOuf9Sf6r)** by **ronin, FanBoy808** *(Beauty and a Beat)*
 🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
 🎤 **[OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)** by **pink luu, TheyhxteAnt** *(OH MY GAWD!)*
 🎤 **[INTERLUDE](https://open.spotify.com/track/0iK1na4EJ8slQCu4cnvD91)** by **p6inkillr** *(INTERLUDE)*
-🎤 **[fireflies](https://open.spotify.com/track/1xKuZpQXYRHaXEUbMvkfjX)** by **Senses, mint** *(fairies have dreams too)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 18:45:30Z UTC
+🕐 Last updated: 2025-09-18 19:09:34Z UTC
 <!-- SPOTIFY-END -->
