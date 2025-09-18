@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
 🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
 🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 🎤 **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **snor** *(scary monsters)*
 🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 03:09:10Z UTC
+🕐 Last updated: 2025-09-18 03:39:12Z UTC
 <!-- SPOTIFY-END -->
