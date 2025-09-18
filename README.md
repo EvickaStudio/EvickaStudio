@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f158467eaabce699ae55fa66" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736796cca081567c90e73f24d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)**
-*by* **cholorofilm**
-*Album:* my heart :(
+**🎵 [taschentücher](https://open.spotify.com/track/2jiRplIpJ6t42e9qcv84oF)**
+*by* **pink luu, SSJ Twiin**
+*Album:* taschentücher
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="251" height="4" fill="#1db954" rx="2"/>
+    <circle cx="251" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 1:43
+    1:17 • 1:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[slutty scene barbie](https://open.spotify.com/track/1oFMAyXUSTtOmKAldOSG9u)** by **dollreal, p6inkillr, deardiaryy, z4y4** *(slutty scene barbie)*
-🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
-🎤 **[i want it](https://open.spotify.com/track/0vdBqjc6TFEVKAQ78Co0wm)** by **kmrnxo, Clover!, Pr0xy** *(i want it)*
-🎤 **[-suffocation-](https://open.spotify.com/track/5DQACbk3KcHGjwuzuldg9g)** by **LooveX, DecayingAnyways** *(-suffocation-)*
-🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic, cxpyyy, luu** *(alprazolam)*
+🎤 **[are u afraid to die?](https://open.spotify.com/track/4BaQqlj13siznLEnKZKIDS)** by **cholorofilm** *(are u afraid to die?)*
+🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
+🎤 **[way2slow!](https://open.spotify.com/track/3x3YNvS1YK94GmKAZLyTIT)** by **elctrnc/sed:/, hateoryx, loony** *(way2slow!)*
+🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
+🎤 **[LuvLorn </3](https://open.spotify.com/track/1Ltno4ZlC55Vt3NQvJUy4a)** by **LooveX, cholorofilm** *(LuvLorn </3)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 15:30:46Z UTC
+🕐 Last updated: 2025-09-18 15:47:54Z UTC
 <!-- SPOTIFY-END -->
