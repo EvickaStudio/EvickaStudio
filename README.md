@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d0395ea346930597d3ce41f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733f81cc73e11dfc2eeb444c84" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)**
-*by* **snor, cholorofilm, Mezha**
-*Album:* cnt live without u :c </3
+**🎵 [04:30](https://open.spotify.com/track/7Cgar1fczX18RuU0nUnLuF)**
+*by* **pink luu, nami, cxpyyy, luu**
+*Album:* pain parade
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:20
+    0:19 • 1:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lets shoot some X0X0](https://open.spotify.com/track/7eD7UTJna60Aucomc8ib8I)** by **elctrnc/sed:/, 57st** *(CYA IN THE MOSHPIT!)*
-🎤 **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)*
-🎤 **[Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)** by **LooveX, JeeRAWRXD** *(Self-Xplained)*
-🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
-🎤 **[#breakurheart](https://open.spotify.com/track/3Edf6gKdh1p1BJdQXQ9tDo)** by **pink luu, TheyhxteAnt** *(#breakurheart)*
+🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
+🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
+🎤 **[vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)** by **angelicxmei** *(vision)*
+🎤 **[flip phone](https://open.spotify.com/track/1X1AtNti4T4kqcBmt3ZHwZ)** by **luu, kanjiru** *(flip phone)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 13:35:42Z UTC
+🕐 Last updated: 2025-09-18 13:48:14Z UTC
 <!-- SPOTIFY-END -->
