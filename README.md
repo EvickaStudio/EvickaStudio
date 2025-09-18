@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731cffddef489d9797b4c5442d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739ce27ea04a5089c1ca3847b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)**
-*by* **dollreal, z4y4, p6inkillr**
-*Album:* party at the graveyard
+**🎵 [insomnia #sleepclinic](https://open.spotify.com/track/5nUIRWHlRBsZmgLWi9mywT)**
+*by* **cholorofilm**
+*Album:* insomnia #sleepclinic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="58" height="4" fill="#1db954" rx="2"/>
-    <circle cx="58" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 3:08
+    0:25 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
-🎤 **[bloody bathroom](https://open.spotify.com/track/6RRoQakBSNIX3YtxiWRDv9)** by **cholorofilm** *(bloody bathroom)*
-🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
-🎤 **[share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)** by **Mezha** *(share)*
-🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
+🎤 **[kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)** by **p6inkillr** *(kill me)*
+🎤 **[oxycodon](https://open.spotify.com/track/2AC3syM1KVpD8mgG6ACNa8)** by **strangerboi, luu, pink luu** *(oxycodon)*
+🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
+🎤 **[RESIDENT EVIL](https://open.spotify.com/track/09W6O2U9Bf6zrzGjJrslc6)** by **nami, wasty** *(RESIDENT EVIL)*
+🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 16:14:51Z UTC
+🕐 Last updated: 2025-09-18 16:37:10Z UTC
 <!-- SPOTIFY-END -->
