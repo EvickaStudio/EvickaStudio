@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e44b2b25afa0b9a338ec2ee6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CUTS ON ME <3](https://open.spotify.com/track/220F8WqvrfwyM1q8WNNZG9)**
-*by* **xandera, disoc8**
-*Album:* CUTS ON ME <3
+**🎵 [Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)**
+*by* **leander, ilyproxy, Hadesthegrim**
+*Album:* GV Magazin: Deluxe Sex
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 2:34
+    0:46 • 2:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i'm just trynna fuck](https://open.spotify.com/track/7gWvxoUGipX5vwky2Vz4Ii)** by **RudeClub** *(i'm just trynna fuck)*
-🎤 **[umm idk why!!](https://open.spotify.com/track/4uQ6j3hp2XGjKfhCTVmauo)** by **ilymeow, NXTY** *(umm idk why!!)*
-🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
-🎤 **[hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)** by **pink luu, cxpyyy, luu** *(0800-111-0-111)*
-🎤 **[EVRYTIME WE TOUCH](https://open.spotify.com/track/3usvumgeXhvYJhHWYmmqXg)** by **03osc** *(EVRYTIME WE TOUCH)*
+🎤 **[nicht alright](https://open.spotify.com/track/3iMW89M0dOkLOfYj0NZFeL)** by **cxpyyy, luu** *(nicht alright)*
+🎤 **[attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)** by **angelicxmei** *(attached)*
+🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[SMS](https://open.spotify.com/track/4upElsfQhSMxGzfyxBpdMy)** by **pink luu, xtatus** *(SMS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 14:33:16Z UTC
+🕐 Last updated: 2025-09-18 14:48:02Z UTC
 <!-- SPOTIFY-END -->
