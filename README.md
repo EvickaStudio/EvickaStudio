@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27374b8e16cecf71069b6c44d40" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f158467eaabce699ae55fa66" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [snorting up ur blood!](https://open.spotify.com/track/6q94uCmVq3S7zNucgTy875)**
-*by* **kmrnxo, elctrnc/sed:/, Pr0xy**
-*Album:* snorting up ur blood!
+**🎵 [my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)**
+*by* **cholorofilm**
+*Album:* my heart :(
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:10
+    0:12 • 1:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FREE S3X TOY](https://open.spotify.com/track/1Z1m5YjK0Z3swLkHha0VdM)** by **LooveX, Kyurukai** *(FREE S3X TOY)*
-🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
-🎤 **[bloodlust](https://open.spotify.com/track/0mMsdnmX4WFsree9mQsViS)** by **cholorofilm** *(bloodlust)*
-🎤 **[burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)** by **dollreal, 9surgery, MXRCELINE** *(burning desire <3)*
-🎤 **[always pick u #avemaria </33 :c](https://open.spotify.com/track/685BOlLQqqLeHeEdfMbl6m)** by **snor, Myojin, cholorofilm** *(always pick u #avemaria </33 :c)*
+🎤 **[slutty scene barbie](https://open.spotify.com/track/1oFMAyXUSTtOmKAldOSG9u)** by **dollreal, p6inkillr, deardiaryy, z4y4** *(slutty scene barbie)*
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
+🎤 **[i want it](https://open.spotify.com/track/0vdBqjc6TFEVKAQ78Co0wm)** by **kmrnxo, Clover!, Pr0xy** *(i want it)*
+🎤 **[-suffocation-](https://open.spotify.com/track/5DQACbk3KcHGjwuzuldg9g)** by **LooveX, DecayingAnyways** *(-suffocation-)*
+🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic, cxpyyy, luu** *(alprazolam)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-18 15:12:26Z UTC
+🕐 Last updated: 2025-09-18 15:30:46Z UTC
 <!-- SPOTIFY-END -->
