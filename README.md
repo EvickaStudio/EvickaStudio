@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27369aacce2fd43d8c72ddcdcd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)**
+*by* **luu, Skatey Hellstar, chromey**
+*Album:* HYPERCORE, Vol. 3
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="278" height="4" fill="#1db954" rx="2"/>
+    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:17 • 2:28
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
 🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
 🎤 **[pills on the floor](https://open.spotify.com/track/0ljQHNjmrLRAomDJltSP3d)** by **nyxixide** *(pills on the floor)*
-🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[ich hasse mich so sehr](https://open.spotify.com/track/5tUHLJicRg5GLxSCFNQlqi)** by **luu, Skatey Hellstar** *(HYPERCORE, Vol. 1)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-19 13:36:03Z UTC
+🕐 Last updated: 2025-09-19 13:48:27Z UTC
 <!-- SPOTIFY-END -->
