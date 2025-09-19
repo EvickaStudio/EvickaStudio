@@ -108,12 +108,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731e6b6d172132cb7cc9e848db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b2ecb08c2ae865d14756b8f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [E Kid](https://open.spotify.com/track/7zwrlJI2jS4btTrsUDG9T1)**
-*by* **Lil Soda Boi**
-*Album:* Eco
+**🎵 [i could never switch](https://open.spotify.com/track/48SNZ1kLFpujNjBIkO4on0)**
+*by* **1crusafix, trustt archive**
+*Album:* i could never switch
 
 
 <p align="center">
@@ -124,7 +124,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:13
+    1:10 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[i cannot let go](https://open.spotify.com/track/3U9Qh0YEavYMonacI6zSL8)** by **crusey2, prkr blu, pika** *(deleted songs)*
-🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
-🎤 **[이 사람](https://open.spotify.com/track/1HNZJImVIbzz6iszVBrQUf)** by **Feeluvsyou** *(이 사람)*
-🎤 **[Good friends](https://open.spotify.com/track/3ezNr4ZXVa2p2Cs0y8ucW0)** by **pradaaslife** *(Good friends)*
+🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
+🎤 **[Missed Out](https://open.spotify.com/track/3P0QYpmBFkXeFFSo1kgVj9)** by **flywoah** *(Missed Out)*
+🎤 **[all that i want is u <3](https://open.spotify.com/track/20JOdw9OPJD2wXRktX0ERa)** by **bliiiss, Capoxxo** *(all that i want is u <3)*
+🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
+🎤 **[Dragon soop](https://open.spotify.com/track/7FLXka4xMDAqmqgLnXye61)** by **Lunaa** *(Trendsetter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 10:34:21Z UTC
+🕐 Last updated: 2025-09-19 10:47:54Z UTC
 <!-- SPOTIFY-END -->
