@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 🎤 **[spacehey on my mind](https://open.spotify.com/track/2CI2Qt5hQUBbMj6o6y7xX8)** by **elctrnc/sed:/, matascoo, NXTY** *(spacehey on my mind)*
 🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
 🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
 🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
-🎤 **[bestgore.com](https://open.spotify.com/track/42RnBlBOQpL78Qr0vn1Y84)** by **luu, Nomark** *(bestgore.com)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 06:18:41Z UTC
+🕐 Last updated: 2025-09-19 06:46:04Z UTC
 <!-- SPOTIFY-END -->
