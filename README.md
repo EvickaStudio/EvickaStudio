@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731407c247cfae574ad5e30b44" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273639dbbe3fe58395b9863b195" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Trendsetter](https://open.spotify.com/track/3V7bv9sCDysLY486tJhx7I)**
-*by* **Lunaa**
-*Album:* Trendsetter
+**🎵 [melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)**
+*by* **bliiiss**
+*Album:* melancholy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 2:34
+    0:21 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pretend](https://open.spotify.com/track/0vSVV9ejQBnt5Yke1PRokm)** by **whyhaze, zane lynchetti** *(pretend)*
-🎤 **[d1vine](https://open.spotify.com/track/3R25cxO0bORx35J0a4BCtK)** by **d1v, with3r** *(against the grain)*
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[you're so pretty when you cry](https://open.spotify.com/track/69cHwOkSdHeNH1Nw1K1ooA)** by **5v** *(you're so pretty when you cry)*
-🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
+🎤 **[pretty](https://open.spotify.com/track/67lQwBDkefTkD2uBSJF93p)** by **vai5000** *(sensory.)*
+🎤 **[type shit](https://open.spotify.com/track/5lLqhn0GyUPgikwTeoSOmq)** by **Fijimar, drma** *(type shit)*
+🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
+🎤 **[if you know...](https://open.spotify.com/track/1YXlQHDqEZk4WraFYqGc6A)** by **AFFLICTED, trustt, lynU, 1crusafix, deepinparis, isai, crusey, akkiro** *(if you know...)*
+🎤 **[Destroy](https://open.spotify.com/track/0VAFMiHfhfDzGMLr28RHwj)** by **5v, Capoxxo** *(5tvr)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 09:30:53Z UTC
+🕐 Last updated: 2025-09-19 09:47:53Z UTC
 <!-- SPOTIFY-END -->
