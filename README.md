@@ -136,9 +136,9 @@
 🥇 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🥈 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🥉 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
-🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
+🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-19 22:38:31Z UTC
+🕐 Last updated: 2025-09-19 22:47:49Z UTC
 <!-- SPOTIFY-END -->
