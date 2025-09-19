@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d42793fc31d74ac8398f7b9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731407c247cfae574ad5e30b44" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Long way](https://open.spotify.com/track/1W65rHlwEVSikU30yjPQVT)**
-*by* **Lunaa, pradaaslife, Drux**
-*Album:* Scrapclub
+**🎵 [Trendsetter](https://open.spotify.com/track/3V7bv9sCDysLY486tJhx7I)**
+*by* **Lunaa**
+*Album:* Trendsetter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:44
+    1:14 • 2:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[1 night](https://open.spotify.com/track/2MuIQlgZhy4QuVcst9pI5y)** by **d1v, Buffalobang** *(1 night)*
-🎤 **[Last w33k](https://open.spotify.com/track/2dUCZDhd1JQn0rbsb8cgBu)** by **Baku** *(New Luck)*
-🎤 **[Never Guessed](https://open.spotify.com/track/1XGkaVuoLl7LYw8eespZhR)** by **Capoxxo** *(Never Guessed)*
-🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
-🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
+🎤 **[pretend](https://open.spotify.com/track/0vSVV9ejQBnt5Yke1PRokm)** by **whyhaze, zane lynchetti** *(pretend)*
+🎤 **[d1vine](https://open.spotify.com/track/3R25cxO0bORx35J0a4BCtK)** by **d1v, with3r** *(against the grain)*
+🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
+🎤 **[you're so pretty when you cry](https://open.spotify.com/track/69cHwOkSdHeNH1Nw1K1ooA)** by **5v** *(you're so pretty when you cry)*
+🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 09:13:33Z UTC
+🕐 Last updated: 2025-09-19 09:30:53Z UTC
 <!-- SPOTIFY-END -->
