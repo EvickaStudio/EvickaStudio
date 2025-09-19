@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273fe1f8a944fb6a0fce46a4e37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)**
+*by* **Senses**
+*Album:* I Don't Wanna Change
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="164" height="4" fill="#1db954" rx="2"/>
+    <circle cx="164" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:33 • 2:50
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[spacehey on my mind](https://open.spotify.com/track/2CI2Qt5hQUBbMj6o6y7xX8)** by **elctrnc/sed:/, matascoo, NXTY** *(spacehey on my mind)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
+🎤 **[It Was Beautiful](https://open.spotify.com/track/0LOrGc5do2ImMZV2aPg2bh)** by **Capoxxo** *(It Was Beautiful)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
+🎤 **[this world doesn't deserve Uuu](https://open.spotify.com/track/2JXgOtTtqymCy6k6nOwOx6)** by **whyhaze** *(this world doesn't deserve Uuu)*
+🎤 **[fuckk](https://open.spotify.com/track/1RFl1jsgW0EmRhtRYkrtJk)** by **bliiiss, Capoxxo** *(fuckk)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 08:16:28Z UTC
+🕐 Last updated: 2025-09-19 08:42:41Z UTC
 <!-- SPOTIFY-END -->
