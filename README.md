@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd0ce7ab4a75ff944d69beb9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731e6b6d172132cb7cc9e848db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cigarette](https://open.spotify.com/track/5GSMPIXDxi46oCwMfcgEvu)**
-*by* **oaf1**
-*Album:* cigarette
+**🎵 [E Kid](https://open.spotify.com/track/7zwrlJI2jS4btTrsUDG9T1)**
+*by* **Lil Soda Boi**
+*Album:* Eco
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="85" height="4" fill="#1db954" rx="2"/>
-    <circle cx="85" cy="2" r="6" fill="#1db954"/>
+    <rect width="139" height="4" fill="#1db954" rx="2"/>
+    <circle cx="139" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:21
+    1:02 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[packedd](https://open.spotify.com/track/66NdAG2HugO0v4c39TOfPZ)** by **AFFLICTED, lynU, 1crusafix, isai, trustt** *(afflicted1)*
-🎤 **[over you](https://open.spotify.com/track/1nbDgnAfiGBcnWO3MKWKca)** by **Tera, Swagtastic666** *(over you)*
-🎤 **[i know](https://open.spotify.com/track/1RitUAaBGXBhvglgjf26HD)** by **Fijimar** *(i know)*
-🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[i cannot let go](https://open.spotify.com/track/3U9Qh0YEavYMonacI6zSL8)** by **crusey2, prkr blu, pika** *(deleted songs)*
+🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
+🎤 **[이 사람](https://open.spotify.com/track/1HNZJImVIbzz6iszVBrQUf)** by **Feeluvsyou** *(이 사람)*
+🎤 **[Good friends](https://open.spotify.com/track/3ezNr4ZXVa2p2Cs0y8ucW0)** by **pradaaslife** *(Good friends)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 10:13:57Z UTC
+🕐 Last updated: 2025-09-19 10:34:21Z UTC
 <!-- SPOTIFY-END -->
