@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a41f1fa4c0b5ecf7e57270ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733cdc82cfd4074b3f9d42627c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)**
-*by* **RudeClub**
-*Album:* rated R
+**🎵 [sinn](https://open.spotify.com/track/6bO1YcLyiCm9CIA7DlvYWt)**
+*by* **5v, jequya**
+*Album:* sinn
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="24" height="4" fill="#1db954" rx="2"/>
-    <circle cx="24" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:20
+    1:33 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)*
+🎤 **[Aroma therapy](https://open.spotify.com/track/4r8BTEk0B2y8rZ3rrIZnO2)** by **Lunaa, pradaaslife** *(Trendsetter)*
+🎤 **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by **RudeClub** *(rated R)*
+🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
 🎤 **[fake](https://open.spotify.com/track/721L9Md8WkY9WlGKwNvU5W)** by **AFFLICTED, girlsynth, crusey, 1crusafix, dime!** *(afflicted1)*
-🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
-🎤 **[ily fr](https://open.spotify.com/track/0lGUTSnK5uyW3TLPwxdIV1)** by **bliiiss** *(ily fr)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 11:25:08Z UTC
+🕐 Last updated: 2025-09-19 11:34:06Z UTC
 <!-- SPOTIFY-END -->
