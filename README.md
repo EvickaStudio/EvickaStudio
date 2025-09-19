@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe41211bd39726c842dc83a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346dd57140251f574ca6f44db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* Poser
+**🎵 [Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)**
+*by* **Capoxxo**
+*Album:* Monster
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="83" height="4" fill="#1db954" rx="2"/>
-    <circle cx="83" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 1:59
+    1:53 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[clouds](https://open.spotify.com/track/0MTjtQpnUUlQG7UJqU3eOB)** by **5v** *(clouds)*
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
-🎤 **[Vampire Bae](https://open.spotify.com/track/3YuxxmGGvZHvDpTQJw5jlH)** by **ronin, FanBoy808** *(Vampire Bae)*
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[problems](https://open.spotify.com/track/6ychQBxXKQrYDJorGvjStw)** by **Nomark** *(problems)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[molly in my backpack](https://open.spotify.com/track/6z6AWfubfdQob1F7bnJ8Ep)** by **kets4eki, Crescent, wujek** *(molly in my backpack)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 12:24:50Z UTC
+🕐 Last updated: 2025-09-19 13:01:14Z UTC
 <!-- SPOTIFY-END -->
