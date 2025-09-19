@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733cdc82cfd4074b3f9d42627c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a3536f1e119499e5e536a802" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sinn](https://open.spotify.com/track/6bO1YcLyiCm9CIA7DlvYWt)**
-*by* **5v, jequya**
-*Album:* sinn
+**🎵 [tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)**
+*by* **5v, Crescent**
+*Album:* tell me where we are
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:12
+    1:30 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)*
-🎤 **[Aroma therapy](https://open.spotify.com/track/4r8BTEk0B2y8rZ3rrIZnO2)** by **Lunaa, pradaaslife** *(Trendsetter)*
-🎤 **[drink sum mo](https://open.spotify.com/track/5R1vQmdJgWogUGh7M0kUW7)** by **RudeClub** *(rated R)*
-🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
-🎤 **[fake](https://open.spotify.com/track/721L9Md8WkY9WlGKwNvU5W)** by **AFFLICTED, girlsynth, crusey, 1crusafix, dime!** *(afflicted1)*
+🎤 **[one shot](https://open.spotify.com/track/4RvjRo8SUErh5mcoBE4AlX)** by **crusey, 1crusafix** *(one shot)*
+🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
+🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
+🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
+🎤 **[watchlist](https://open.spotify.com/track/1yDY4lHRPIlraE1Q02QVyw)** by **AFFLICTED, crusey, deepinparis, akkiro** *(afflicted1)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 11:34:06Z UTC
+🕐 Last updated: 2025-09-19 11:47:54Z UTC
 <!-- SPOTIFY-END -->
