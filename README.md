@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b2ecb08c2ae865d14756b8f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d42793fc31d74ac8398f7b9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i could never switch](https://open.spotify.com/track/48SNZ1kLFpujNjBIkO4on0)**
-*by* **1crusafix, trustt archive**
-*Album:* i could never switch
+**🎵 [OMG](https://open.spotify.com/track/2HDsu81UpjrV1zWWlT351D)**
+*by* **pradaaslife, Drux**
+*Album:* Scrapclub
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:31
+    1:12 • 3:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
-🎤 **[Missed Out](https://open.spotify.com/track/3P0QYpmBFkXeFFSo1kgVj9)** by **flywoah** *(Missed Out)*
-🎤 **[all that i want is u <3](https://open.spotify.com/track/20JOdw9OPJD2wXRktX0ERa)** by **bliiiss, Capoxxo** *(all that i want is u <3)*
-🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
-🎤 **[Dragon soop](https://open.spotify.com/track/7FLXka4xMDAqmqgLnXye61)** by **Lunaa** *(Trendsetter)*
+🎤 **[u were never mine](https://open.spotify.com/track/3SAmmYfyeLG9aa4Jpbs8u9)** by **oaf1** *(u were never mine)*
+🎤 **[Dogtag](https://open.spotify.com/track/3D8STBgWncVr0R4wrpAp4C)** by **Lunaa** *(Scavenger)*
+🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
+🎤 **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)*
+🎤 **[talk ab it](https://open.spotify.com/track/7E0z50Qb1hlyp7epEefRB3)** by **crusey, c4pri** *(talk ab it)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 10:47:54Z UTC
+🕐 Last updated: 2025-09-19 11:10:10Z UTC
 <!-- SPOTIFY-END -->
