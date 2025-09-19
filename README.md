@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b537a39e358a651a2602b3d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d42793fc31d74ac8398f7b9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [one kiss](https://open.spotify.com/track/6vtsK67Ch4zWasXm8dmyEE)**
-*by* **5v, Drux**
-*Album:* one kiss
+**🎵 [Long way](https://open.spotify.com/track/1W65rHlwEVSikU30yjPQVT)**
+*by* **Lunaa, pradaaslife, Drux**
+*Album:* Scrapclub
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="273" height="4" fill="#1db954" rx="2"/>
-    <circle cx="273" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 2:43
+    0:43 • 2:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bugs](https://open.spotify.com/track/5bBl40fIeWl37tUge0Ctj8)** by **Marcus Thwin, Pitfall** *(Bugs)*
-🎤 **[hold my breath](https://open.spotify.com/track/22NprnA7IWv13YwvWn6PNl)** by **whyhaze, neohn** *(hvb compilation vol. 1)*
-🎤 **[one2three4](https://open.spotify.com/track/36jXKGYp4CyGMhBsilbKn7)** by **d1v** *(one2three4)*
-🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
-🎤 **[It Was Beautiful](https://open.spotify.com/track/0LOrGc5do2ImMZV2aPg2bh)** by **Capoxxo** *(It Was Beautiful)*
+🎤 **[1 night](https://open.spotify.com/track/2MuIQlgZhy4QuVcst9pI5y)** by **d1v, Buffalobang** *(1 night)*
+🎤 **[Last w33k](https://open.spotify.com/track/2dUCZDhd1JQn0rbsb8cgBu)** by **Baku** *(New Luck)*
+🎤 **[Never Guessed](https://open.spotify.com/track/1XGkaVuoLl7LYw8eespZhR)** by **Capoxxo** *(Never Guessed)*
+🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
+🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**crushing ice**](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)
 
 
-🕐 Last updated: 2025-09-19 08:53:03Z UTC
+🕐 Last updated: 2025-09-19 09:13:33Z UTC
 <!-- SPOTIFY-END -->
