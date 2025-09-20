@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735113ba62ac0faef9ec3df6c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)**
+*by* **pink luu, cxpyyy, luu**
+*Album:* 1234
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:07 • 1:30
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
-🎤 **[gunblade #angemon (hotelgodlin)](https://open.spotify.com/track/2uynxdlSCM7bJLiQh3ODmd)** by **agelast222** *(agelast222)*
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
-🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[Wanted you](https://open.spotify.com/track/7pDJeRPQYP1oV85Uw1JWPW)** by **Pearlblade, Nomark, whyhaze** *(Wanted you)*
+🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[Issey Miyake](https://open.spotify.com/track/2YTYXLGmUT2dewQxsWTWjB)** by **tjweaver, gulo** *(Issey Miyake)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 20:11:26Z UTC
+🕐 Last updated: 2025-09-20 20:27:06Z UTC
 <!-- SPOTIFY-END -->
