@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273405c45a0b05eac15b7982c7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353c971846e2771c67c5ba377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)**
-*by* **luu, mehlhaltig**
-*Album:* deluulu but mehlodic
+**🎵 [AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)**
+*by* **agelast222**
+*Album:* AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="56" height="4" fill="#1db954" rx="2"/>
-    <circle cx="56" cy="2" r="6" fill="#1db954"/>
+    <rect width="121" height="4" fill="#1db954" rx="2"/>
+    <circle cx="121" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 1:30
+    0:50 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[we could never last](https://open.spotify.com/track/3uQ9uGbvJb2zuaNzK52U3n)** by **Psych, saikyo** *(we could never last)*
-🎤 **[PRADA JEANS](https://open.spotify.com/track/79uaBG2eGPkrO7OUBQxXhq)** by **stixz, Hello Hannes** *(PRADA JEANS)*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
-🎤 **[Cyber Slutz](https://open.spotify.com/track/4RGjpCLKRoO7U39uAZb8l7)** by **1Psion, xofilo, Pröz** *(Cyber Slutz)*
+🎤 **[morose](https://open.spotify.com/track/4iZ6qgwAI5eqhgeiexhaVl)** by **luu, m1v** *(morose)*
+🎤 **[3 Messer](https://open.spotify.com/track/4VVUW5n7EAJJNuVLiy6NLi)** by **Hello Hannes** *(3 Messer)*
+🎤 **[Crystal Blue](https://open.spotify.com/track/5pUiPwQNv9LeNs7KLIkiPB)** by **Silent Boy, Sace, defyer** *(Crystal Blue)*
+🎤 **[es tut mir leid](https://open.spotify.com/track/6gmlS4cLXqgu1JvtDOAl1I)** by **cy4ne, pink luu** *(es tut mir leid)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 22:27:18Z UTC
+🕐 Last updated: 2025-09-20 22:36:32Z UTC
 <!-- SPOTIFY-END -->
