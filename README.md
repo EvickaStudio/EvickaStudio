@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f68a4970767773ef822fe9d5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273411a8d0914af5a4c40c02754" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [halos](https://open.spotify.com/track/43lVvL1vBLkWd4JsQzOU5g)**
-*by* **snor, wasty**
-*Album:* halos
+**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
+*by* **HighSchool**
+*Album:* Colt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="95" height="4" fill="#1db954" rx="2"/>
+    <circle cx="95" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 1:53
+    1:32 • 4:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Luv ₊˚ෆ - sped-up](https://open.spotify.com/track/3DD1i7i1IT6VU5ds26HOE2)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[White Dust](https://open.spotify.com/track/5xzXEHqC8culVe8XKKDMpk)** by **503scoob, romziie, vampyrska, massacre society, Gutzxx** *(White Dust)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)** by **dollreal** *(reckless)*
-🎤 **[drown'](https://open.spotify.com/track/5s8ApAeXZAkQxRRCBB69CW)** by **Ididntcry, angelicxmei** *(drown')*
+🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 23:34:00Z UTC
+🕐 Last updated: 2025-09-20 23:47:29Z UTC
 <!-- SPOTIFY-END -->
