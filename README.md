@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b4f8577226566340ede406a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e767fb456c65f6dabbd47ed7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [something that i said](https://open.spotify.com/track/1lZ6ZFONzT44VuvVFYqmgC)**
-*by* **Kevinhilfiger, Capoxxo**
-*Album:* something that i said
+**🎵 [Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)**
+*by* **uusymon, hqwilli, sparr00w**
+*Album:* Kuschel EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="246" height="4" fill="#1db954" rx="2"/>
+    <circle cx="246" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:25
+    1:54 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Overdrive](https://open.spotify.com/track/7LpF77VCwHLyEumWMlunVN)** by **Hinoni** *(Hinoni)*
-🎤 **[strawberry angel](https://open.spotify.com/track/4Rr8VC1CJ0Ij8trqE7NbIQ)** by **2adore** *(strawberry angel)*
-🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[if i called u](https://open.spotify.com/track/73e71fJbpLUdKCNSk94a5E)** by **eunhae** *(if i called u)*
+🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
+🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
+🎤 **[war](https://open.spotify.com/track/5XcvjVSKNKGCGvyoTWxJ0H)** by **iamsodead, kandi krave, NXTY, Rylax, d3r, Pröz** *(war)*
+🎤 **[эш үзүүлнэ (DJ YOBEL)](https://open.spotify.com/track/0AfGmmPOyjbdIAF9PHQk7N)** by **agelast222** *(эш үзүүлнэ (DJ YOBEL))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 22:48:05Z UTC
+🕐 Last updated: 2025-09-20 23:10:46Z UTC
 <!-- SPOTIFY-END -->
