@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735113ba62ac0faef9ec3df6c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2a5243450afc8d3fa128a60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)**
-*by* **pink luu, cxpyyy, luu**
-*Album:* 1234
+**🎵 [EMO C4STLE](https://open.spotify.com/track/1b2QvIiN6zYsuSOrLyYS3g)**
+*by* **nami, Cl4ireB3ar**
+*Album:* HE4VEN & HELL
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 1:30
+    2:17 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[CRUSHED IT!](https://open.spotify.com/track/0pJHxQiWvVIA0n9wGnQxtS)** by **444pluto, Ichigo, Nosgov, pluto** *(CRUSHED IT!)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
 🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Wanted you](https://open.spotify.com/track/7pDJeRPQYP1oV85Uw1JWPW)** by **Pearlblade, Nomark, whyhaze** *(Wanted you)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
-🎤 **[Issey Miyake](https://open.spotify.com/track/2YTYXLGmUT2dewQxsWTWjB)** by **tjweaver, gulo** *(Issey Miyake)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 20:27:06Z UTC
+🕐 Last updated: 2025-09-20 20:35:50Z UTC
 <!-- SPOTIFY-END -->
