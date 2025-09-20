@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273235bdb730c785e4be4d78a39" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273405c45a0b05eac15b7982c7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [something's not okay](https://open.spotify.com/track/1YwjqP2i4hG8u7liW9UFPg)**
-*by* **pink luu, 10n35t4r, kets4eki**
-*Album:* something's not okay
+**🎵 [ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)**
+*by* **luu, mehlhaltig**
+*Album:* deluulu but mehlodic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="40" height="4" fill="#1db954" rx="2"/>
-    <circle cx="40" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:18
+    0:17 • 1:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[serpents](https://open.spotify.com/track/3EpVWVHYIF0xx0JyUCbDh4)** by **willowcore, bloodonmybalmains, 8t33n** *(serpents)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[monster high](https://open.spotify.com/track/2i48EUkGWALRsdTb8fZnCj)** by **nami, pink luu, wasty** *(monster high)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[we could never last](https://open.spotify.com/track/3uQ9uGbvJb2zuaNzK52U3n)** by **Psych, saikyo** *(we could never last)*
+🎤 **[PRADA JEANS](https://open.spotify.com/track/79uaBG2eGPkrO7OUBQxXhq)** by **stixz, Hello Hannes** *(PRADA JEANS)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[Cyber Slutz](https://open.spotify.com/track/4RGjpCLKRoO7U39uAZb8l7)** by **1Psion, xofilo, Pröz** *(Cyber Slutz)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 22:10:11Z UTC
+🕐 Last updated: 2025-09-20 22:27:18Z UTC
 <!-- SPOTIFY-END -->
