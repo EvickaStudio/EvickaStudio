@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e767fb456c65f6dabbd47ed7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cb16c620f00c637324e1da1b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)**
-*by* **uusymon, hqwilli, sparr00w**
-*Album:* Kuschel EP
+**🎵 [reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)**
+*by* **dollreal**
+*Album:* reckless
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:18
+    0:26 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[if i called u](https://open.spotify.com/track/73e71fJbpLUdKCNSk94a5E)** by **eunhae** *(if i called u)*
-🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
-🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
-🎤 **[war](https://open.spotify.com/track/5XcvjVSKNKGCGvyoTWxJ0H)** by **iamsodead, kandi krave, NXTY, Rylax, d3r, Pröz** *(war)*
-🎤 **[эш үзүүлнэ (DJ YOBEL)](https://open.spotify.com/track/0AfGmmPOyjbdIAF9PHQk7N)** by **agelast222** *(эш үзүүлнэ (DJ YOBEL))*
+🎤 **[drown'](https://open.spotify.com/track/5s8ApAeXZAkQxRRCBB69CW)** by **Ididntcry, angelicxmei** *(drown')*
+🎤 **[DRINK MY BLOOD](https://open.spotify.com/track/6tWcMoXsp6qq0yBHZGwCUn)** by **lavendr, zarki!** *(DRINK MY BLOOD)*
+🎤 **[mistakezzz](https://open.spotify.com/track/0A398pr22hbVcFMMy7kBVg)** by **iamsodead, d3r, irlshitbih** *(mistakezzz)*
+🎤 **[infected](https://open.spotify.com/track/7nEBVtU42vA1rKwNhU7Exm)** by **Crescent** *(infected)*
+🎤 **[FML (+kets4eki)](https://open.spotify.com/track/5iqTLYGuwglIMutcntNDBj)** by **Vee4r, kets4eki** *(FML (+kets4eki))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 23:10:46Z UTC
+🕐 Last updated: 2025-09-20 23:24:56Z UTC
 <!-- SPOTIFY-END -->
