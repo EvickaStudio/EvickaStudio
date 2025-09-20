@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27353c971846e2771c67c5ba377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b4f8577226566340ede406a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)**
-*by* **agelast222**
-*Album:* AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)
+**🎵 [something that i said](https://open.spotify.com/track/1lZ6ZFONzT44VuvVFYqmgC)**
+*by* **Kevinhilfiger, Capoxxo**
+*Album:* something that i said
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="121" height="4" fill="#1db954" rx="2"/>
-    <circle cx="121" cy="2" r="6" fill="#1db954"/>
+    <rect width="221" height="4" fill="#1db954" rx="2"/>
+    <circle cx="221" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:04
+    1:47 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[morose](https://open.spotify.com/track/4iZ6qgwAI5eqhgeiexhaVl)** by **luu, m1v** *(morose)*
-🎤 **[3 Messer](https://open.spotify.com/track/4VVUW5n7EAJJNuVLiy6NLi)** by **Hello Hannes** *(3 Messer)*
-🎤 **[Crystal Blue](https://open.spotify.com/track/5pUiPwQNv9LeNs7KLIkiPB)** by **Silent Boy, Sace, defyer** *(Crystal Blue)*
-🎤 **[es tut mir leid](https://open.spotify.com/track/6gmlS4cLXqgu1JvtDOAl1I)** by **cy4ne, pink luu** *(es tut mir leid)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Overdrive](https://open.spotify.com/track/7LpF77VCwHLyEumWMlunVN)** by **Hinoni** *(Hinoni)*
+🎤 **[strawberry angel](https://open.spotify.com/track/4Rr8VC1CJ0Ij8trqE7NbIQ)** by **2adore** *(strawberry angel)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 22:36:32Z UTC
+🕐 Last updated: 2025-09-20 22:48:05Z UTC
 <!-- SPOTIFY-END -->
