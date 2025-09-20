@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739434f0780f93b2553aa8af20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273434865d23c617bb7acba085a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)**
-*by* **pink luu, nami, cxpyyy, luu**
-*Album:* freitag nacht
+**🎵 [time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)**
+*by* **mint**
+*Album:* time keeps flying by
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 1:59
+    0:52 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[up N down](https://open.spotify.com/track/7AWactzb7HtV46H7jVK4ql)** by **luu, skypebf, cxpyyy** *(up N down)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[traced around](https://open.spotify.com/track/0TVgzQkriSEYeVRwXZwkiu)** by **4rde, luu, corpse disposal** *(traced around)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
+🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
+🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[KRiEg](https://open.spotify.com/track/5phHNsuw4EjEIgwmwIsq3O)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-20 21:09:17Z UTC
+🕐 Last updated: 2025-09-20 21:23:17Z UTC
 <!-- SPOTIFY-END -->
