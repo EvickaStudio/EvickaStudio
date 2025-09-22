@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c1cacf29bebf3c0fd021ae0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)**
-*by* **Flawless Issues**
-*Album:* Oh Darlin'
+**🎵 [Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)**
+*by* **Lix, Elujjin**
+*Album:* 128
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="21" height="4" fill="#1db954" rx="2"/>
-    <circle cx="21" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:44
+    0:53 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tour De France](https://open.spotify.com/track/6Fl9GjGBS1xJJ5yfbTdw4d)** by **luu, cxpyyy** *(Tour De France)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[SWITCHBLADEZ](https://open.spotify.com/track/7Be9HD70SLl7RJnh0LCije)** by **p6inkillr** *(SWITCHBLADEZ)*
-🎤 **[I Thought I left This Place</3](https://open.spotify.com/track/2DuUAgZcOubADAkeQZhwJc)** by **UpVampin, Rezlaine** *(I Thought I left This Place</3)*
-🎤 **[say goodbye,](https://open.spotify.com/track/792mOT63XMVyDpJTXrPbni)** by **hurtsucca** *(say goodbye,)*
+🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
+🎤 **[reject](https://open.spotify.com/track/0olauCqHK4AdNe14qUxpdS)** by **Scarly** *(reject)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[Desolate](https://open.spotify.com/track/7fozlyDmD6x2es69Pbv6Ir)** by **ami** *(Desolate)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-22 05:31:22Z UTC
+🕐 Last updated: 2025-09-22 05:47:39Z UTC
 <!-- SPOTIFY-END -->
