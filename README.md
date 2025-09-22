@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2738c1cacf29bebf3c0fd021ae0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)**
+*by* **Flawless Issues**
+*Album:* Oh Darlin'
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:02 • 2:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[cool kids](https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC)** by **CHRIS YONGE** *(cool kids)*
+🎤 **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)*
 🎤 **[Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)** by **Mietze Conte** *(Mietzee)*
 🎤 **[makkohatjedenliebaussersichselbst](https://open.spotify.com/track/205bdmtyfWa9bzvWvlD3nK)** by **makko** *(Leb es oder lass es 2)*
 🎤 **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by **Freddie Dredd** *(Suffer)*
-🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
-🎤 **[Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8)** by **Roar** *(I Can't Handle Change)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-22 15:31:59Z UTC
+🕐 Last updated: 2025-09-22 15:47:56Z UTC
 <!-- SPOTIFY-END -->
