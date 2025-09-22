@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273df3f745273ccb8b8cac38524" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Borderline](https://open.spotify.com/track/17ogUTgq0AtSVJL7Jn2cf9)**
-*by* **6host**
-*Album:* Borderline
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 3:10
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
-🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
-🎤 **[Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85)** by **Lou Reed** *(Transformer)*
-🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
-🎤 **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)*
+🎤 **[Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)** by **Mietze Conte** *(Mietzee)*
+🎤 **[makkohatjedenliebaussersichselbst](https://open.spotify.com/track/205bdmtyfWa9bzvWvlD3nK)** by **makko** *(Leb es oder lass es 2)*
+🎤 **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by **Freddie Dredd** *(Suffer)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
+🎤 **[Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8)** by **Roar** *(I Can't Handle Change)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-22 15:13:54Z UTC
+🕐 Last updated: 2025-09-22 15:31:59Z UTC
 <!-- SPOTIFY-END -->
