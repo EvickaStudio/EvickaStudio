@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273530f5440ee438771fcac34a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c2411631516ddc8ea46da559" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tag//Nacht](https://open.spotify.com/track/1YuF8Cb72HyZrlwWITakq4)**
-*by* **The Doomers**
-*Album:* Zeitlos
+**🎵 [angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)**
+*by* **snor, hateoryx**
+*Album:* angelRavegirl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="9" height="4" fill="#1db954" rx="2"/>
-    <circle cx="9" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 2:16
+    2:06 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K)** by **Pixies** *(Death to the Pixies)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
-🎤 **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)*
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[Tag//Nacht](https://open.spotify.com/track/1YuF8Cb72HyZrlwWITakq4)** by **The Doomers** *(Zeitlos)*
+🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
+🎤 **[Hold Me Close](https://open.spotify.com/track/0XjWu0ld7kthYqgTqAmUjF)** by **Carter Tomorrow** *(Hold Me Close)*
+🎤 **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-22 13:37:55Z UTC
+🕐 Last updated: 2025-09-22 13:49:46Z UTC
 <!-- SPOTIFY-END -->
