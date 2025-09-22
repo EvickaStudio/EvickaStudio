@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273041a809aec6159c50bb4a720" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c1d846938afddbe5a6c56686" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)**
-*by* **dreamloader**
-*Album:* sky2k
+**🎵 [Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)**
+*by* **999 Heartake Sabileye**
+*Album:* A Boy Named Hexd
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:50 • 2:55
+    0:09 • 4:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ)** by **OGUZ, Nyctonian** *(GOLDEN SZN)*
-🎤 **[angelz den](https://open.spotify.com/track/2LK9vpASV1qXqoGKT0IbFr)** by **snor, 6arelyhuman** *(angelz den)*
-🎤 **[Nothing](https://open.spotify.com/track/7IbauiG8MYxzdXmTUv48V1)** by **Hackle** *(GUNSMITH THA MIXTAPE)*
-🎤 **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)*
+🎤 **[Break down](https://open.spotify.com/track/3weEmMnV5bopuD9XyJSQtt)** by **Dropped here** *(Break down)*
+🎤 **[Polaris](https://open.spotify.com/track/6t90Kwo22FeYIgM1C6wD61)** by **Parannoul** *(After the Magic)*
+🎤 **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)*
+🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-22 14:13:21Z UTC
+🕐 Last updated: 2025-09-22 14:34:17Z UTC
 <!-- SPOTIFY-END -->
