@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734664159466ae72ce0688f963" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273df3f745273ccb8b8cac38524" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [unendlichkeit - Main Edit](https://open.spotify.com/track/00xBJ1IJSkErFWuuHxLPoP)**
-*by* **CRO**
-*Album:* tru. (Deluxe Edition)
+**🎵 [Borderline](https://open.spotify.com/track/17ogUTgq0AtSVJL7Jn2cf9)**
+*by* **6host**
+*Album:* Borderline
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:19 • 3:36
+    0:26 • 3:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)*
-🎤 **[EMO GIRL<3](https://open.spotify.com/track/1lrCTFAROnJz3oPlgPQIXT)** by **UpVampin, 2504** *(EMO GIRL<3)*
-🎤 **[ISSO](https://open.spotify.com/track/0zHESRhLQ1B3aLNCdhmZdi)** by **TYM** *(ISSO)*
-🎤 **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by **999 Heartake Sabileye** *(A Boy Named Hexd)*
-🎤 **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)*
+🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
+🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
+🎤 **[Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85)** by **Lou Reed** *(Transformer)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
+🎤 **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-22 14:50:30Z UTC
+🕐 Last updated: 2025-09-22 15:13:54Z UTC
 <!-- SPOTIFY-END -->
