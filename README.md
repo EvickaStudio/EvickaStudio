@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c1cacf29bebf3c0fd021ae0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)**
-*by* **Flawless Issues**
-*Album:* Oh Darlin'
+**🎵 [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)**
+*by* **Starship**
+*Album:* Knee Deep In The Hoopla
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:44
+    2:06 • 4:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cool kids](https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC)** by **CHRIS YONGE** *(cool kids)*
-🎤 **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)*
-🎤 **[Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)** by **Mietze Conte** *(Mietzee)*
-🎤 **[makkohatjedenliebaussersichselbst](https://open.spotify.com/track/205bdmtyfWa9bzvWvlD3nK)** by **makko** *(Leb es oder lass es 2)*
-🎤 **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by **Freddie Dredd** *(Suffer)*
+🎤 **[Auszeit](https://open.spotify.com/track/7u13sauQpwexStVJrEeOx5)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
+🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
+🎤 **[SEPTEMBER 17](https://open.spotify.com/track/4cuQMfza3xRckGb8DFYyh6)** by **Harrison Borts** *(HARRISONBORTS 2022)*
+🎤 **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-22 15:47:56Z UTC
+🕐 Last updated: 2025-09-22 16:15:22Z UTC
 <!-- SPOTIFY-END -->
