@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2731ec577eba53ac78feda95d6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [devil.child](https://open.spotify.com/track/572G09fsbLbuDvUSfah7iE)**
+*by* **m1v**
+*Album:* revolution Revolution
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="2" height="4" fill="#1db954" rx="2"/>
+    <circle cx="2" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:01 • 2:25
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[morose](https://open.spotify.com/track/4iZ6qgwAI5eqhgeiexhaVl)** by **luu, m1v** *(morose)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
 🎤 **[Just A Chapter](https://open.spotify.com/track/7p4w66sxgnICT4y45rCK9I)** by **RudeClub** *(Just A Chapter)*
 🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
-🎤 **[ARMORSPIIEL PRINZ SCHLOSSGARTEN (dj ygyiell)](https://open.spotify.com/track/2PufwDtBRaQWBWzY4xaWOD)** by **agelast222** *(ARMORSPIIEL PRINZ SCHLOSSGARTEN (dj ygyiell))*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-09-22 04:49:00Z UTC
+🕐 Last updated: 2025-09-22 05:13:02Z UTC
 <!-- SPOTIFY-END -->
