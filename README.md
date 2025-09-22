@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300a75c26e939f5a7a3fd9033" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)**
-*by* **Yung Lean**
-*Album:* Unknown Death 2002
+**🎵 [Delinquent](https://open.spotify.com/track/41MQMSYRSVUalKFkkxZDb0)**
+*by* **Lyran Dasz**
+*Album:* Delinquent
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="203" height="4" fill="#1db954" rx="2"/>
-    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:05 • 4:34
+    1:11 • 2:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)*
-🎤 **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)*
-🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
-🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
-🎤 **[Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP)** by **BICEP** *(Bicep)*
+🎤 **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)*
+🎤 **[fuckk](https://open.spotify.com/track/1RFl1jsgW0EmRhtRYkrtJk)** by **bliiiss, Capoxxo** *(fuckk)*
+🎤 **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[Youngin mit Cash](https://open.spotify.com/track/0xMZiZOu7Ubj6tc55rY55f)** by **Beyazz** *(get numb with me)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🥈 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
-🥉 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
-🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
+🥉 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
+🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-22 16:51:28Z UTC
+🕐 Last updated: 2025-09-22 17:10:54Z UTC
 <!-- SPOTIFY-END -->
