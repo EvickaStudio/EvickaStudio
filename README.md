@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ich wach auf und denk an dich](https://open.spotify.com/track/1rioQG2heHKrIeSuwD89Rn)** by **5star** *(ich wach auf und denk an dich)*
 🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
 🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
 🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
 🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-23 03:09:45Z UTC
+🕐 Last updated: 2025-09-23 03:38:29Z UTC
 <!-- SPOTIFY-END -->
