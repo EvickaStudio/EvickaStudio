@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ae701909b4c5225fe8fdff09" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cantina Band](https://open.spotify.com/track/0iysVaWrqhid3cthjqa0WW)**
-*by* **John Williams, London Symphony Orchestra**
-*Album:* Star Wars: Eine neue Hoffnung (Original Film-Soundtrack)
+**🎵 [paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)**
+*by* **blombi19, mehlhaltig**
+*Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:44
+    1:24 • 3:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)*
-🎤 **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)*
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
-🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
+🎤 **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)*
+🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[oh, you](https://open.spotify.com/track/230FpUZFvksvXkmhRZrl33)** by **tommy oeffling** *(tomboy / laundry / oh, you)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 08:16:45Z UTC
+🕐 Last updated: 2025-09-23 08:43:13Z UTC
 <!-- SPOTIFY-END -->
