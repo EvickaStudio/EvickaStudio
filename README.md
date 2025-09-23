@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273686fe147080195081147eaaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)**
-*by* **blombi19, aimée**
-*Album:* sternenkind
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:13 • 3:42
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[was geht grad ab](https://open.spotify.com/track/1hWyqI5bOxtwdv7yfsxa9B)** by **fxbz, SoVerliebtWieLaurin** *(inspire)*
+🎤 **[Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)** by **Psyke** *(Love is War)*
+🎤 **[sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)** by **blombi19, aimée** *(sternenkind)*
 🎤 **[Keiner wie wir](https://open.spotify.com/track/5VG5WtnT9gEjuMclnhH9Gs)** by **BlokkFlexer** *(Keiner wie wir)*
 🎤 **[vielleicht](https://open.spotify.com/track/4NpgmQvie0VLBHhaQ9wYfZ)** by **Mobezzy, DROWND** *(vielleicht)*
-🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
-🎤 **[Kalter Sommer](https://open.spotify.com/track/3V8eDCJy2xwOGtUYSSrVni)** by **MoonStooz, Punk Christ** *(Kalter Sommer)*
-🎤 **[Xx](https://open.spotify.com/track/1DY0DwjdY9kZZwHKqp9E8X)** by **Psyke** *(Love is War)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 10:48:50Z UTC
+🕐 Last updated: 2025-09-23 11:10:17Z UTC
 <!-- SPOTIFY-END -->
