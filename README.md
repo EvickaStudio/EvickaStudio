@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738a31eda7e371388a06587845" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Beyond the Clouds](https://open.spotify.com/track/5eVXg6BhWXAUxzMSJvMafj)**
-*by* **You'll Never Get to Heaven**
-*Album:* Images
+**🎵 [unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)**
+*by* **blombi19**
+*Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="121" height="4" fill="#1db954" rx="2"/>
-    <circle cx="121" cy="2" r="6" fill="#1db954"/>
+    <rect width="213" height="4" fill="#1db954" rx="2"/>
+    <circle cx="213" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 4:08
+    2:08 • 3:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO)** by **julie** *(my anti-aircraft friend)*
-🎤 **[Room](https://open.spotify.com/track/1agy96vrWLLjaUruaT9hLC)** by **Superheaven** *(Ours Is Chrome)*
-🎤 **[Radiolove](https://open.spotify.com/track/60c53oKZjSyWUNCrQJ49Bt)** by **Tanukichan** *(Radiolove)*
-🎤 **[11](https://open.spotify.com/track/0ry6Hq2NCLlm4lIW4m2OdL)** by **Dean Blunt, Joanne Robertson** *(ZUSHI)*
-🎤 **[Quiet Eyes](https://open.spotify.com/track/5C2Up4tPE8UxyoLIzwZrZD)** by **Duster** *(In Dreams)*
+🎤 **[ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)** by **blombi19** *(herzkasper)*
+🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
+🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
+🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
+🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 14:50:44Z UTC
+🕐 Last updated: 2025-09-23 15:12:38Z UTC
 <!-- SPOTIFY-END -->
