@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b3b4dfa9f7966899b59b2d34" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733ed15e48a331d135f6102579" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)**
-*by* **julie**
-*Album:* starjump / kit
+**🎵 [Quiet Eyes](https://open.spotify.com/track/5C2Up4tPE8UxyoLIzwZrZD)**
+*by* **Duster**
+*Album:* In Dreams
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="288" height="4" fill="#1db954" rx="2"/>
-    <circle cx="288" cy="2" r="6" fill="#1db954"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:35 • 3:43
+    2:13 • 3:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)*
-🎤 **[Delayed Gratification](https://open.spotify.com/track/1ViYbQX1ubJ97EyAkSW033)** by **Flooding** *(Flooding)*
-🎤 **[Trevor Wong Guitar E-School Graduation Party](https://open.spotify.com/track/6DshnL2gGbO1qRJ8aAdSYO)** by **Summer 2000** *(John Krasinski)*
-🎤 **[Burden](https://open.spotify.com/track/57nAMWHr1d771Oai4i3niQ)** by **Midrift** *(Elysian)*
-🎤 **[warn](https://open.spotify.com/track/0y6S4TqHQvytfelesZLKIc)** by **Blue Smiley** *(ok)*
+🎤 **[lochness](https://open.spotify.com/track/0kU19o73JmFA5HS2kuYFWe)** by **julie** *(pushing daisies)*
+🎤 **[You've Got The Sun](https://open.spotify.com/track/7BJwCbq9zAqThKgPwPE82D)** by **You'll Never Get to Heaven** *(You’ll Never Get to Heaven)*
+🎤 **[doesn't matter now](https://open.spotify.com/track/2OTEroQUWvg5fy9hAlB37T)** by **flyingfish** *(isolation)*
+🎤 **[Almost Fantasy](https://open.spotify.com/track/7remWdQdxAjzfY269DlFgy)** by **Fog Lake** *(Almost Fantasy)*
+🎤 **[The Coffin Was So Light I Thought It Might Float Away](https://open.spotify.com/track/3kvgWXAQ54SRyLMHlW4zUF)** by **Eiafuawn** *(Birds In The Ground)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 14:12:35Z UTC
+🕐 Last updated: 2025-09-23 14:33:35Z UTC
 <!-- SPOTIFY-END -->
