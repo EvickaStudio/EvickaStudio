@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27315b72ee3398b9857fc468fbd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273434865d23c617bb7acba085a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)**
-*by* **5v**
-*Album:* nodding off
+**🎵 [time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)**
+*by* **mint**
+*Album:* time keeps flying by
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 2:30
+    1:18 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
-🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 21:35:11Z UTC
+🕐 Last updated: 2025-09-23 21:47:49Z UTC
 <!-- SPOTIFY-END -->
