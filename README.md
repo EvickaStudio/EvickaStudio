@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273151bbac13b915b66264d1cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273be2c8250d1829f16a424a423" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)**
-*by* **JB 50**
-*Album:* Headline
+**🎵 [Xx](https://open.spotify.com/track/1DY0DwjdY9kZZwHKqp9E8X)**
+*by* **Psyke**
+*Album:* Love is War
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="5" height="4" fill="#1db954" rx="2"/>
-    <circle cx="5" cy="2" r="6" fill="#1db954"/>
+    <rect width="57" height="4" fill="#1db954" rx="2"/>
+    <circle cx="57" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 1:57
+    0:22 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[time to keep u off my mind](https://open.spotify.com/track/5WeKZyuZYOS9frVDYaYhII)** by **Mobezzy** *(INTEREA)*
-🎤 **[egal](https://open.spotify.com/track/12XwCNlWz1FLGQu74yXjuz)** by **Love Pact** *(egal)*
-🎤 **[airbnb](https://open.spotify.com/track/33WrEizucsSebPqy9kFNlV)** by **lil eyes, 2K WORLD** *(airbnb)*
-🎤 **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)*
-🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
+🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
+🎤 **[Leopard](https://open.spotify.com/track/1lAXT40ddSDINaCjCvzPVR)** by **01099, Paul, Zachi** *(Leopard)*
+🎤 **[stubborn](https://open.spotify.com/track/5gYVV1j2A6GO3O8njnPjAs)** by **Nikitas, jequya, licuh** *(stubborn)*
+🎤 **[einsam in designer](https://open.spotify.com/track/2cYnsq80eOsaOpxY5lChWu)** by **va1e** *(einsam in designer)*
+🎤 **[Inside Dead](https://open.spotify.com/track/5PQVGr3tPfQiIYcExm7iqr)** by **Rooky030** *(Inside Dead)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 10:13:03Z UTC
+🕐 Last updated: 2025-09-23 10:34:05Z UTC
 <!-- SPOTIFY-END -->
