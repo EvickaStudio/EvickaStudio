@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733ed15e48a331d135f6102579" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738a31eda7e371388a06587845" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Quiet Eyes](https://open.spotify.com/track/5C2Up4tPE8UxyoLIzwZrZD)**
-*by* **Duster**
-*Album:* In Dreams
+**🎵 [Beyond the Clouds](https://open.spotify.com/track/5eVXg6BhWXAUxzMSJvMafj)**
+*by* **You'll Never Get to Heaven**
+*Album:* Images
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="184" height="4" fill="#1db954" rx="2"/>
-    <circle cx="184" cy="2" r="6" fill="#1db954"/>
+    <rect width="121" height="4" fill="#1db954" rx="2"/>
+    <circle cx="121" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 3:37
+    1:40 • 4:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lochness](https://open.spotify.com/track/0kU19o73JmFA5HS2kuYFWe)** by **julie** *(pushing daisies)*
-🎤 **[You've Got The Sun](https://open.spotify.com/track/7BJwCbq9zAqThKgPwPE82D)** by **You'll Never Get to Heaven** *(You’ll Never Get to Heaven)*
-🎤 **[doesn't matter now](https://open.spotify.com/track/2OTEroQUWvg5fy9hAlB37T)** by **flyingfish** *(isolation)*
-🎤 **[Almost Fantasy](https://open.spotify.com/track/7remWdQdxAjzfY269DlFgy)** by **Fog Lake** *(Almost Fantasy)*
-🎤 **[The Coffin Was So Light I Thought It Might Float Away](https://open.spotify.com/track/3kvgWXAQ54SRyLMHlW4zUF)** by **Eiafuawn** *(Birds In The Ground)*
+🎤 **[feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO)** by **julie** *(my anti-aircraft friend)*
+🎤 **[Room](https://open.spotify.com/track/1agy96vrWLLjaUruaT9hLC)** by **Superheaven** *(Ours Is Chrome)*
+🎤 **[Radiolove](https://open.spotify.com/track/60c53oKZjSyWUNCrQJ49Bt)** by **Tanukichan** *(Radiolove)*
+🎤 **[11](https://open.spotify.com/track/0ry6Hq2NCLlm4lIW4m2OdL)** by **Dean Blunt, Joanne Robertson** *(ZUSHI)*
+🎤 **[Quiet Eyes](https://open.spotify.com/track/5C2Up4tPE8UxyoLIzwZrZD)** by **Duster** *(In Dreams)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 14:33:35Z UTC
+🕐 Last updated: 2025-09-23 14:50:44Z UTC
 <!-- SPOTIFY-END -->
