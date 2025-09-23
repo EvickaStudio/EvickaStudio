@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732686e03f3237e05467e10dec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b3b4dfa9f7966899b59b2d34" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV)**
-*by* **You'll Never Get to Heaven**
-*Album:* Adorn
+**🎵 [kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)**
+*by* **julie**
+*Album:* starjump / kit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 3:48
+    3:35 • 3:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Calendar](https://open.spotify.com/track/0f5zmYlqbw8szBtaVZhnGE)** by **Alison's Halo** *(Eyedazzler)*
-🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
-🎤 **[Monterey](https://open.spotify.com/track/2uFPQxlA3ccmDzXt24pNZc)** by **Starflyer 59** *(Starflyer 59)*
-🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
-🎤 **[starjump](https://open.spotify.com/track/6tHWvH47MCXoq4XZOeMad3)** by **julie** *(starjump / kit)*
+🎤 **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)*
+🎤 **[Delayed Gratification](https://open.spotify.com/track/1ViYbQX1ubJ97EyAkSW033)** by **Flooding** *(Flooding)*
+🎤 **[Trevor Wong Guitar E-School Graduation Party](https://open.spotify.com/track/6DshnL2gGbO1qRJ8aAdSYO)** by **Summer 2000** *(John Krasinski)*
+🎤 **[Burden](https://open.spotify.com/track/57nAMWHr1d771Oai4i3niQ)** by **Midrift** *(Elysian)*
+🎤 **[warn](https://open.spotify.com/track/0y6S4TqHQvytfelesZLKIc)** by **Blue Smiley** *(ok)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 13:50:18Z UTC
+🕐 Last updated: 2025-09-23 14:12:35Z UTC
 <!-- SPOTIFY-END -->
