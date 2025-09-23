@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273380d45ee816361339657105f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)**
-*by* **Nokia Angel**
-*Album:* In Haze
+**🎵 [the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)**
+*by* **Levi Ryan**
+*Album:* the rest of our lives
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 3:53
+    0:12 • 2:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[gloves](https://open.spotify.com/track/3jYmmtCLIHhBFssuyefhqR)** by **kmoe** *(gloves)*
-🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
-🎤 **[gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj)** by **2hollis** *(gold)*
-🎤 **[Tweak](https://open.spotify.com/track/0HMj8yIPEWub336LOF5AdQ)** by **Saska** *(Dosis)*
+🎤 **[Easter Pink](https://open.spotify.com/track/5GI8S1pM7nbGHyZUUIpE1k)** by **fakemink** *(Easter Pink)*
+🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
+🎤 **[destroy me](https://open.spotify.com/track/2GhvoJajHIXxWK4vtPWkqN)** by **2hollis** *(star)*
+🎤 **[LVTR](https://open.spotify.com/track/6VJdRaDGlJOoch8LKfJ2lb)** by **Saska** *(Dosis)*
+🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Super-Loud**](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)
 
 
-🕐 Last updated: 2025-09-23 06:19:04Z UTC
+🕐 Last updated: 2025-09-23 06:47:00Z UTC
 <!-- SPOTIFY-END -->
