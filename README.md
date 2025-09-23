@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)**
+**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
 *by* **blombi19**
 *Album:* herzkasper
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="43" height="4" fill="#1db954" rx="2"/>
+    <circle cx="43" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 3:00
+    0:32 • 3:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)** by **blombi19** *(herzkasper)*
-🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
-🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
-🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
-🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
+🎤 **[sternschnuppe](https://open.spotify.com/track/5iTG27HIOQ7iZ866ZtI34D)** by **blombi19** *(herzkasper)*
+🎤 **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)*
+🎤 **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by **blombi19, p3pppa** *(herzkasper)*
+🎤 **[kopfkissen](https://open.spotify.com/track/1Ra8bUQ6LXVIQPN6PieEwC)** by **blombi19** *(herzkasper)*
+🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 15:12:38Z UTC
+🕐 Last updated: 2025-09-23 15:31:10Z UTC
 <!-- SPOTIFY-END -->
