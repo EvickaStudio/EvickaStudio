@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑](https://open.spotify.com/track/14rawNSa1i9TJmTrkjaO6m)** by **mickyi** *(Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑)*
-🎤 **[confess](https://open.spotify.com/track/4H7zt2Ou0KV79l3D5EePjq)** by **Skepsiz** *(confess)*
-🎤 **[was soll ich dir sagen](https://open.spotify.com/track/31KKMCz2oo02h6EkBE6HFW)** by **flowerboii** *(warm draußen kalt drinnen)*
-🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
-🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
+🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
+🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
+🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
+🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
+🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 18:18:21Z UTC
+🕐 Last updated: 2025-09-23 18:45:45Z UTC
 <!-- SPOTIFY-END -->
