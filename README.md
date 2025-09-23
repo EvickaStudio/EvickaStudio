@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737f7b42dfd157ae83ba22cfce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738d6de22a23c85998cfa3dffa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)**
-*by* **blombi19**
-*Album:* stimme
+**🎵 [SORE *:･ﾟ✧*:･ﾟ✧](https://open.spotify.com/track/5u01A8RYLKs7nF4rHWqCqv)**
+*by* **dethkitty**
+*Album:* SORE *:･ﾟ✧*:･ﾟ✧
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 3:44
+    1:32 • 2:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
-🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
+🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[Alles anders](https://open.spotify.com/track/5I8PSNvbnnXUpz5ioftyEb)** by **hqwilli** *(Allein im Club)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 19:47:58Z UTC
+🕐 Last updated: 2025-09-23 20:13:18Z UTC
 <!-- SPOTIFY-END -->
