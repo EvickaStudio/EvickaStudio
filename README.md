@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp)**
+*by* **Sixpence None The Richer**
+*Album:* Sixpence None The Richer
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:09 • 3:28
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[was geht grad ab](https://open.spotify.com/track/1hWyqI5bOxtwdv7yfsxa9B)** by **fxbz, SoVerliebtWieLaurin** *(inspire)*
-🎤 **[Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)** by **Psyke** *(Love is War)*
-🎤 **[sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)** by **blombi19, aimée** *(sternenkind)*
-🎤 **[Keiner wie wir](https://open.spotify.com/track/5VG5WtnT9gEjuMclnhH9Gs)** by **BlokkFlexer** *(Keiner wie wir)*
-🎤 **[vielleicht](https://open.spotify.com/track/4NpgmQvie0VLBHhaQ9wYfZ)** by **Mobezzy, DROWND** *(vielleicht)*
+🎤 **[My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0)** by **Jimmy Eat World** *(Bleed American)*
+🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
+🎤 **[Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v)** by **Duster** *(Stratosphere)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
+🎤 **[1979 - Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1)** by **The Smashing Pumpkins** *(Mellon Collie And The Infinite Sadness (Deluxe Edition))*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 11:47:40Z UTC
+🕐 Last updated: 2025-09-23 12:24:08Z UTC
 <!-- SPOTIFY-END -->
