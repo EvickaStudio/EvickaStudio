@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27323b772f14ac58b9ce4941ecb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732686e03f3237e05467e10dec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Monterey](https://open.spotify.com/track/2uFPQxlA3ccmDzXt24pNZc)**
-*by* **Starflyer 59**
-*Album:* Starflyer 59
+**🎵 [Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV)**
+*by* **You'll Never Get to Heaven**
+*Album:* Adorn
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="275" height="4" fill="#1db954" rx="2"/>
-    <circle cx="275" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 2:59
+    3:00 • 3:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Calendar](https://open.spotify.com/track/0f5zmYlqbw8szBtaVZhnGE)** by **Alison's Halo** *(Eyedazzler)*
+🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
+🎤 **[Monterey](https://open.spotify.com/track/2uFPQxlA3ccmDzXt24pNZc)** by **Starflyer 59** *(Starflyer 59)*
 🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
 🎤 **[starjump](https://open.spotify.com/track/6tHWvH47MCXoq4XZOeMad3)** by **julie** *(starjump / kit)*
-🎤 **[ranger](https://open.spotify.com/track/0WcIQz3lIyz5tcgXKJs1vH)** by **dottie** *(single)*
-🎤 **[Snooze](https://open.spotify.com/track/0JK43BJrO9wHLjDqCjEm3p)** by **Vivienne Eastwood** *(Shook - EP)*
-🎤 **[Inference (I)](https://open.spotify.com/track/072r6J0NUBLjcXwOc01pYL)** by **Fog Lake** *(Inference 3)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 13:37:22Z UTC
+🕐 Last updated: 2025-09-23 13:50:18Z UTC
 <!-- SPOTIFY-END -->
