@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738d8023ae2012d27935dfdf2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Reload](https://open.spotify.com/track/3MU45t85azNxHyb423USHy)**
-*by* **Saska**
-*Album:* ElitE
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 2:50
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[crush](https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H)** by **2hollis** *(boy)*
-🎤 **[Blew My High >:](https://open.spotify.com/track/1B1b0aaSp1mfNwSv5S7U9s)** by **DJmegan23** *(Trenches)*
-🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
-🎤 **[kiss up](https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ)** by **damon r.** *(kiss up)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[nerve](https://open.spotify.com/track/5u0eNAp8riUKygaLJTe5YB)** by **2hollis** *(star)*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso)** by **damon r.** *(liverounds)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 07:12:29Z UTC
+🕐 Last updated: 2025-09-23 07:28:56Z UTC
 <!-- SPOTIFY-END -->
