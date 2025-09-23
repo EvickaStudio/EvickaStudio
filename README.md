@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273411a8d0914af5a4c40c02754" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
-*by* **HighSchool**
-*Album:* Colt
+**🎵 [INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)**
+*by* **Yung Hurn, meat computer**
+*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="217" height="4" fill="#1db954" rx="2"/>
+    <circle cx="217" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:34 • 4:53
+    2:03 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
 🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)*
-🎤 **[Sleepless City](https://open.spotify.com/track/1YcQ1rByh2RaWiXDDpGYoN)** by **Flawless Issues** *(Modern Past)*
-🎤 **[king kazi](https://open.spotify.com/track/0CkzHK6qBvQ9j145bKqEze)** by **EASY EASY** *(Echoes etc., Vol. 1)*
-🎤 **[three](https://open.spotify.com/track/0YvtuzxqHtn4f5cEQnBKJC)** by **Cult Member** *(2017 Archives)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 19:24:13Z UTC
+🕐 Last updated: 2025-09-23 19:34:01Z UTC
 <!-- SPOTIFY-END -->
