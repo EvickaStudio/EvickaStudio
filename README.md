@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)**
-*by* **blombi19, mehlhaltig**
-*Album:* herzkasper
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:35 • 3:59
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[arterien](https://open.spotify.com/track/0STuVrCzEKRtYj8ItoymYN)** by **blombi19** *(herzkasper)*
-🎤 **[jeans](https://open.spotify.com/track/6mZKAgOHuq2QaTfSQLtLjk)** by **blombi19** *(herzkasper)*
-🎤 **[röntgenbrille](https://open.spotify.com/track/6h7e49F4PfsPcAgbONdbtC)** by **blombi19** *(herzkasper)*
-🎤 **[dopamin](https://open.spotify.com/track/39f5jyDAQl5ZaAGj69RCcE)** by **blombi19** *(herzkasper)*
-🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
+🎤 **[Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑](https://open.spotify.com/track/14rawNSa1i9TJmTrkjaO6m)** by **mickyi** *(Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑)*
+🎤 **[confess](https://open.spotify.com/track/4H7zt2Ou0KV79l3D5EePjq)** by **Skepsiz** *(confess)*
+🎤 **[was soll ich dir sagen](https://open.spotify.com/track/31KKMCz2oo02h6EkBE6HFW)** by **flowerboii** *(warm draußen kalt drinnen)*
+🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
+🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 15:48:36Z UTC
+🕐 Last updated: 2025-09-23 16:15:37Z UTC
 <!-- SPOTIFY-END -->
