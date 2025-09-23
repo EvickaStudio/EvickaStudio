@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cfc5eea6cfd77e89ed3ac5a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734bf82c111b3ffd0a5f4efd4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp)**
-*by* **Sixpence None The Richer**
-*Album:* Sixpence None The Richer
+**🎵 [Wishes](https://open.spotify.com/track/5hhgmepThtS3PoPIGsA5Ui)**
+*by* **Alison's Halo**
+*Album:* Eyedazzler
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 3:28
+    1:04 • 3:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0)** by **Jimmy Eat World** *(Bleed American)*
-🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
-🎤 **[Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v)** by **Duster** *(Stratosphere)*
-🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
-🎤 **[1979 - Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1)** by **The Smashing Pumpkins** *(Mellon Collie And The Infinite Sadness (Deluxe Edition))*
+🎤 **[control](https://open.spotify.com/track/7jOu0K5t4KHEVrRjZc7o2Y)** by **Blue Smiley** *(ok)*
+🎤 **[april’s-bloom](https://open.spotify.com/track/3wspcUZH4fBGmBy5fHY4Y8)** by **julie** *(pushing daisies)*
+🎤 **[The Boy](https://open.spotify.com/track/2Yw5jfEaQFHoUFhzXUGkgV)** by **The Smashing Pumpkins** *(Aeroplane Flies High (Deluxe Edition))*
+🎤 **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)*
+🎤 **[Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)** by **Cocteau Twins** *(Heaven or Las Vegas)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-23 12:24:08Z UTC
+🕐 Last updated: 2025-09-23 13:02:17Z UTC
 <!-- SPOTIFY-END -->
