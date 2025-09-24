@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be2c8250d1829f16a424a423" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b6e1ed801a2bc5e4f26f72a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)**
-*by* **Psyke**
-*Album:* Love is War
+**🎵 [Ciao bye bye hdgdl](https://open.spotify.com/track/4tYXrEFYX0Bf71FjyxCDxf)**
+*by* **mikeycyrus**
+*Album:* Ciao bye bye hdgdl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 1:25
+    1:15 • 1:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[OUTRO.. Bro](https://open.spotify.com/track/4ealqFIPHuErX72mEuWnFN)** by **lusi 7896, humanangst** *(listen to the music.. Bro)*
-🎤 **[keks](https://open.spotify.com/track/5JUFE67aSL0OOROHLs1giW)** by **agelast222, humanangst, Maliq** *(Last Bible)*
-🎤 **[Pflaster](https://open.spotify.com/track/27ymVUs105mwFFIHSP1x1m)** by **humanangst** *(Pflaster/Was Solls)*
-🎤 **[DSQUARED SCHMETTERLING](https://open.spotify.com/track/6IfAgUG0TKd63ApmBRmqbc)** by **MALIK LE ROI, lusi 7896** *(DSQUARED SCHMETTERLING)*
-🎤 **[PULLI ARMANI](https://open.spotify.com/track/2axw8ShXkqvJvUDg5tgaeX)** by **mikeycyrus, Kroka Koka** *(PULLI ARMANI)*
+🎤 **[Xx](https://open.spotify.com/track/1DY0DwjdY9kZZwHKqp9E8X)** by **Psyke** *(Love is War)*
+🎤 **[loveaddict](https://open.spotify.com/track/0Sg7ViEmDwJWGHfevJEd2p)** by **joni75** *(loveaddict)*
+🎤 **[frieza (ka33)](https://open.spotify.com/track/0RFWM3pwbdcfxCWacQ6VES)** by **agelast222** *(frieza (ka33))*
+🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
+🎤 **[Ginseng Glock 05](https://open.spotify.com/track/4hhhjjtbiClKeaYd77Y5tJ)** by **Kroka Koka** *(Vindobona)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 10:34:12Z UTC
+🕐 Last updated: 2025-09-24 10:48:12Z UTC
 <!-- SPOTIFY-END -->
