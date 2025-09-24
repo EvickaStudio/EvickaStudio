@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d17a6222838773c74be548c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27321487022b34751c712135dee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Großstadtdschungel](https://open.spotify.com/track/6VMuUIEIkYWkpFPwzw2An8)**
-*by* **viko63, penglord**
-*Album:* Großstadtdschungel
+**🎵 [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR)**
+*by* **sign crushes motorist**
+*Album:* i'll be okay
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 2:44
+    1:26 • 1:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[pinke schweine scheine](https://open.spotify.com/track/7EZOlL1jD0LjMdIFDKAKlC)** by **Kroka Koka** *(Vindobona)*
-🎤 **[LEZ JUST HAVE A GOOD TIME](https://open.spotify.com/track/5HFv28J3lHPpg5VQu3mLWM)** by **lusi 7896, 1antibody** *(LEZ JUST HAVE A GOOD TIME)*
-🎤 **[ANDERN LEUTE](https://open.spotify.com/track/4yM3wnAL3V83oFFVh5fOoY)** by **mikeycyrus** *(kill mich)*
-🎤 **[drüben](https://open.spotify.com/track/07N67iYC0GQsgpn1ggK2Hz)** by **Janluka, Yung Emkay** *(TrapGPT)*
+🎤 **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)*
+🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
+🎤 **[Love U](https://open.spotify.com/track/6HdD9VoQ3fz4mvQ6RRxGEk)** by **Razihel** *(Love U)*
+🎤 **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))*
+🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 13:50:13Z UTC
+🕐 Last updated: 2025-09-24 14:10:41Z UTC
 <!-- SPOTIFY-END -->
