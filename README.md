@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2e55af7eac08c02fc7b1631" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d17a6222838773c74be548c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wieso Denn Eigentlich Nicht](https://open.spotify.com/track/46L0I6c2RWNLD77LTDpAQ1)**
-*by* **sotbarn**
-*Album:* Wieso Denn Eigentlich Nicht
+**🎵 [Großstadtdschungel](https://open.spotify.com/track/6VMuUIEIkYWkpFPwzw2An8)**
+*by* **viko63, penglord**
+*Album:* Großstadtdschungel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 1:48
+    1:19 • 2:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LLKEED](https://open.spotify.com/track/1pBeQQVSUBsLkUq7SfGuCY)** by **MALIK LE ROI, 4oreverfriday** *(LLKEED)*
-🎤 **[TAKEOFF](https://open.spotify.com/track/5fiZ91HG48ZZIXPmsS7WLD)** by **lusi 7896** *(TAKEOFF)*
-🎤 **[Krabben zum Frühstück](https://open.spotify.com/track/2GTI9c3Rg4f8dojC4ur07F)** by **Kroka Koka** *(Dagestan Dreams)*
-🎤 **[happy meal](https://open.spotify.com/track/6h1d82cw48VYygxOy0LhJj)** by **mikeycyrus** *(minicyrus)*
-🎤 **[Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)** by **SQF2000** *(YOLOCORE)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[pinke schweine scheine](https://open.spotify.com/track/7EZOlL1jD0LjMdIFDKAKlC)** by **Kroka Koka** *(Vindobona)*
+🎤 **[LEZ JUST HAVE A GOOD TIME](https://open.spotify.com/track/5HFv28J3lHPpg5VQu3mLWM)** by **lusi 7896, 1antibody** *(LEZ JUST HAVE A GOOD TIME)*
+🎤 **[ANDERN LEUTE](https://open.spotify.com/track/4yM3wnAL3V83oFFVh5fOoY)** by **mikeycyrus** *(kill mich)*
+🎤 **[drüben](https://open.spotify.com/track/07N67iYC0GQsgpn1ggK2Hz)** by **Janluka, Yung Emkay** *(TrapGPT)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 13:37:07Z UTC
+🕐 Last updated: 2025-09-24 13:50:13Z UTC
 <!-- SPOTIFY-END -->
