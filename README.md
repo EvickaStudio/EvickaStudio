@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c105f465f9394beb82e1dae6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a833b09e95e5a9cf58abe68d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LIKE A CIGARETTE](https://open.spotify.com/track/1RBWQ4ALHUjAX7JeQIU8OK)**
-*by* **lusi 7896**
-*Album:* LIKE A CIGARETTE
+**🎵 [I Hate Psyke](https://open.spotify.com/track/6HGMA4F9CycTdEfc5kSnlG)**
+*by* **Psyke**
+*Album:* I Hate Psyke
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 2:00
+    1:20 • 1:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[JUNGER BOSS](https://open.spotify.com/track/2XjHFoRwP3sN7562PfNwou)** by **agelast222** *(SOLARCORP)*
-🎤 **[hazard](https://open.spotify.com/track/5eXnH1dQqdi76FWKOPYx9u)** by **seph, lusi 7896, uxie** *(dollboy)*
-🎤 **[ETC](https://open.spotify.com/track/6DbwtqT1iajOhti5mX5zSA)** by **humanangst** *(Lost in Translation)*
-🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
-🎤 **[Spiegel](https://open.spotify.com/track/5OyQkZjnohkpDmIr5gtC5u)** by **Psyke** *(Spiegel)*
+🎤 **[Essen Kaffee Sex](https://open.spotify.com/track/08HTflF2YfsKzHTDnQz7r8)** by **sotbarn, humanangst, jeremyy** *(per Aspera ad #Astra)*
+🎤 **[TRAPHOUS3](https://open.spotify.com/track/3iNlJQM7FgeZ3aF9bPFZU4)** by **SQF2000** *(TRAPHOUS3)*
+🎤 **[SEXY METHHEAD](https://open.spotify.com/track/1Wyflp1jsTb4m2vpG050PN)** by **Kroka Koka, KARL AMUR** *(Vindobona)*
+🎤 **[OÜTRO](https://open.spotify.com/track/0UwmgE3FLxJDwAu5CCYGzY)** by **lusi 7896** *(NEW MÜSIK)*
+🎤 **[KLAPSE FREESTYLE/BESSA ALS IHR LETZTA](https://open.spotify.com/track/2JTlGTor5iE0YLG83giQ7T)** by **mikeycyrus** *(KLAPSE FREESTYLE/BESSA ALS IHR LETZTA)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 12:24:57Z UTC
+🕐 Last updated: 2025-09-24 13:02:35Z UTC
 <!-- SPOTIFY-END -->
