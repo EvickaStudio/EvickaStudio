@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cd3bfbaae4f43daa3b6c9c61" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1000Days](https://open.spotify.com/track/2o9jUKGaUKuNjwXM73Nvtx)**
-*by* **humanangst**
-*Album:* Lost in Translation
+**🎵 [frühstück](https://open.spotify.com/track/61yv868yXDrtQy8VuKSC7u)**
+*by* **mikeycyrus**
+*Album:* frühstück
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 3:06
+    1:06 • 1:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[du laberst](https://open.spotify.com/track/3AvBefNusa1ko1kvT09iTu)** by **mikeycyrus** *(i miss xavity)*
-🎤 **[Extinct](https://open.spotify.com/track/4tpAQmBrMR1OXqK78pyXT0)** by **Psyke** *(Extinct)*
-🎤 **[eyesDontlie](https://open.spotify.com/track/275tnFZo9cSOMBxjbGfY2Q)** by **joni75** *(eyesDontlie)*
-🎤 **[league](https://open.spotify.com/track/30BSCCFcoGAWsO4Iex6j18)** by **agelast222, cdgplug** *(Last Bible)*
-🎤 **[6th Grade](https://open.spotify.com/track/6DF8g7aLjPYkoVqfVPkE1n)** by **Kroka Koka** *(Vienna Videos)*
+🎤 **[n1trous](https://open.spotify.com/track/6piWJs39rUQW737GK88HOJ)** by **Psyke** *(n1trous)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
+🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
+🎤 **[unter mein spell](https://open.spotify.com/track/1o5Idkezlz4ciiNNTuK1Yr)** by **Kroka Koka** *(unter mein spell)*
+🎤 **[1000Days](https://open.spotify.com/track/2o9jUKGaUKuNjwXM73Nvtx)** by **humanangst** *(Lost in Translation)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 11:24:28Z UTC
+🕐 Last updated: 2025-09-24 11:34:23Z UTC
 <!-- SPOTIFY-END -->
