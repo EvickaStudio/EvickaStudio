@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cd3bfbaae4f43daa3b6c9c61" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [frühstück](https://open.spotify.com/track/61yv868yXDrtQy8VuKSC7u)**
-*by* **mikeycyrus**
-*Album:* frühstück
+**🎵 [stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)**
+*by* **SQF2000, Tamino404**
+*Album:* YOLOCORE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 1:35
+    0:38 • 1:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[n1trous](https://open.spotify.com/track/6piWJs39rUQW737GK88HOJ)** by **Psyke** *(n1trous)*
-🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
-🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
-🎤 **[unter mein spell](https://open.spotify.com/track/1o5Idkezlz4ciiNNTuK1Yr)** by **Kroka Koka** *(unter mein spell)*
-🎤 **[1000Days](https://open.spotify.com/track/2o9jUKGaUKuNjwXM73Nvtx)** by **humanangst** *(Lost in Translation)*
+🎤 **[Spiegel](https://open.spotify.com/track/5OyQkZjnohkpDmIr5gtC5u)** by **Psyke** *(Spiegel)*
+🎤 **[Grow The Fuck Up](https://open.spotify.com/track/6yTOXsSJ5mHsXG9rIbfI9r)** by **hqwilli** *(Grow The Fuck Up)*
+🎤 **[BELIAS KINDER 432hz](https://open.spotify.com/track/1lPoQqZdMC4EaF6ekCnWDi)** by **agelast222** *(BELIAS KINDER 432hz)*
+🎤 **[sterne Still](https://open.spotify.com/track/3dqnJfQHd04svxpocw15FW)** by **sotbarn, b3nn3t** *(per Aspera ad #Astra)*
+🎤 **[Planes](https://open.spotify.com/track/7d7nhRAwLy1jP89b6QREuI)** by **humanangst** *(Lost in Translation)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 11:34:23Z UTC
+🕐 Last updated: 2025-09-24 11:47:53Z UTC
 <!-- SPOTIFY-END -->
