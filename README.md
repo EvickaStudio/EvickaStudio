@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a833b09e95e5a9cf58abe68d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a2e55af7eac08c02fc7b1631" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Hate Psyke](https://open.spotify.com/track/6HGMA4F9CycTdEfc5kSnlG)**
-*by* **Psyke**
-*Album:* I Hate Psyke
+**🎵 [Wieso Denn Eigentlich Nicht](https://open.spotify.com/track/46L0I6c2RWNLD77LTDpAQ1)**
+*by* **sotbarn**
+*Album:* Wieso Denn Eigentlich Nicht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 1:55
+    1:20 • 1:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Essen Kaffee Sex](https://open.spotify.com/track/08HTflF2YfsKzHTDnQz7r8)** by **sotbarn, humanangst, jeremyy** *(per Aspera ad #Astra)*
-🎤 **[TRAPHOUS3](https://open.spotify.com/track/3iNlJQM7FgeZ3aF9bPFZU4)** by **SQF2000** *(TRAPHOUS3)*
-🎤 **[SEXY METHHEAD](https://open.spotify.com/track/1Wyflp1jsTb4m2vpG050PN)** by **Kroka Koka, KARL AMUR** *(Vindobona)*
-🎤 **[OÜTRO](https://open.spotify.com/track/0UwmgE3FLxJDwAu5CCYGzY)** by **lusi 7896** *(NEW MÜSIK)*
-🎤 **[KLAPSE FREESTYLE/BESSA ALS IHR LETZTA](https://open.spotify.com/track/2JTlGTor5iE0YLG83giQ7T)** by **mikeycyrus** *(KLAPSE FREESTYLE/BESSA ALS IHR LETZTA)*
+🎤 **[LLKEED](https://open.spotify.com/track/1pBeQQVSUBsLkUq7SfGuCY)** by **MALIK LE ROI, 4oreverfriday** *(LLKEED)*
+🎤 **[TAKEOFF](https://open.spotify.com/track/5fiZ91HG48ZZIXPmsS7WLD)** by **lusi 7896** *(TAKEOFF)*
+🎤 **[Krabben zum Frühstück](https://open.spotify.com/track/2GTI9c3Rg4f8dojC4ur07F)** by **Kroka Koka** *(Dagestan Dreams)*
+🎤 **[happy meal](https://open.spotify.com/track/6h1d82cw48VYygxOy0LhJj)** by **mikeycyrus** *(minicyrus)*
+🎤 **[Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)** by **SQF2000** *(YOLOCORE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 13:02:35Z UTC
+🕐 Last updated: 2025-09-24 13:37:07Z UTC
 <!-- SPOTIFY-END -->
