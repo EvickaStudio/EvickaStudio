@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273be2c8250d1829f16a424a423" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)**
+*by* **Psyke**
+*Album:* Love is War
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:13 • 1:25
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[OUTRO.. Bro](https://open.spotify.com/track/4ealqFIPHuErX72mEuWnFN)** by **lusi 7896, humanangst** *(listen to the music.. Bro)*
+🎤 **[keks](https://open.spotify.com/track/5JUFE67aSL0OOROHLs1giW)** by **agelast222, humanangst, Maliq** *(Last Bible)*
+🎤 **[Pflaster](https://open.spotify.com/track/27ymVUs105mwFFIHSP1x1m)** by **humanangst** *(Pflaster/Was Solls)*
+🎤 **[DSQUARED SCHMETTERLING](https://open.spotify.com/track/6IfAgUG0TKd63ApmBRmqbc)** by **MALIK LE ROI, lusi 7896** *(DSQUARED SCHMETTERLING)*
+🎤 **[PULLI ARMANI](https://open.spotify.com/track/2axw8ShXkqvJvUDg5tgaeX)** by **mikeycyrus, Kroka Koka** *(PULLI ARMANI)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 10:13:22Z UTC
+🕐 Last updated: 2025-09-24 10:34:12Z UTC
 <!-- SPOTIFY-END -->
