@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7935e8af93f3927f2ac0053" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353c971846e2771c67c5ba377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)**
-*by* **pink luu, Kroka Koka, xtatus**
-*Album:* lieblingspferd
+**🎵 [AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)**
+*by* **agelast222**
+*Album:* AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 1:43
+    1:53 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)*
-🎤 **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by **Yung Hurn, skrt cobain** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)*
-🎤 **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)*
-🎤 **[Die braune Tasche - Frizzo Remix](https://open.spotify.com/track/0WWphMtsnrm1WSldFJkkc7)** by **Haftbefehl, Frizzo** *(Die braune Tasche (Frizzo Remix))*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
 
 
 
@@ -152,12 +152,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
-🥈 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🥇 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🥈 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🥉 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 20:13:45Z UTC
+🕐 Last updated: 2025-09-24 20:31:17Z UTC
 <!-- SPOTIFY-END -->
