@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c105f465f9394beb82e1dae6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)**
-*by* **SQF2000, Tamino404**
-*Album:* YOLOCORE
+**🎵 [LIKE A CIGARETTE](https://open.spotify.com/track/1RBWQ4ALHUjAX7JeQIU8OK)**
+*by* **lusi 7896**
+*Album:* LIKE A CIGARETTE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="97" height="4" fill="#1db954" rx="2"/>
-    <circle cx="97" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 1:58
+    1:15 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[JUNGER BOSS](https://open.spotify.com/track/2XjHFoRwP3sN7562PfNwou)** by **agelast222** *(SOLARCORP)*
+🎤 **[hazard](https://open.spotify.com/track/5eXnH1dQqdi76FWKOPYx9u)** by **seph, lusi 7896, uxie** *(dollboy)*
+🎤 **[ETC](https://open.spotify.com/track/6DbwtqT1iajOhti5mX5zSA)** by **humanangst** *(Lost in Translation)*
+🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
 🎤 **[Spiegel](https://open.spotify.com/track/5OyQkZjnohkpDmIr5gtC5u)** by **Psyke** *(Spiegel)*
-🎤 **[Grow The Fuck Up](https://open.spotify.com/track/6yTOXsSJ5mHsXG9rIbfI9r)** by **hqwilli** *(Grow The Fuck Up)*
-🎤 **[BELIAS KINDER 432hz](https://open.spotify.com/track/1lPoQqZdMC4EaF6ekCnWDi)** by **agelast222** *(BELIAS KINDER 432hz)*
-🎤 **[sterne Still](https://open.spotify.com/track/3dqnJfQHd04svxpocw15FW)** by **sotbarn, b3nn3t** *(per Aspera ad #Astra)*
-🎤 **[Planes](https://open.spotify.com/track/7d7nhRAwLy1jP89b6QREuI)** by **humanangst** *(Lost in Translation)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 11:47:53Z UTC
+🕐 Last updated: 2025-09-24 12:24:57Z UTC
 <!-- SPOTIFY-END -->
