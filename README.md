@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27304e3bc746f43d615e7915276" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [eine Woche](https://open.spotify.com/track/1L5Yx9t9a4kUOGx0gdiX9p)**
-*by* **Steintor Herrenchor**
-*Album:* Eine Woche Geburtstag
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:43
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[life after life](https://open.spotify.com/track/0oufNGimO4F8exn0CTKkWe)** by **dose** *(life after life)*
-🎤 **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)*
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 17:11:04Z UTC
+🕐 Last updated: 2025-09-24 17:29:42Z UTC
 <!-- SPOTIFY-END -->
