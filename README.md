@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733057c04656088f0e2677f72f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [i cannot let go](https://open.spotify.com/track/3U9Qh0YEavYMonacI6zSL8)**
-*by* **crusey2, prkr blu, pika**
-*Album:* deleted songs
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:35
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Missed Out](https://open.spotify.com/track/3P0QYpmBFkXeFFSo1kgVj9)** by **flywoah** *(Missed Out)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[i cannot let go](https://open.spotify.com/track/3U9Qh0YEavYMonacI6zSL8)** by **crusey2, prkr blu, pika** *(deleted songs)*
 🎤 **[TXGC](https://open.spotify.com/track/0yOakCdnNteEnIJynCVKf5)** by **stixz** *(toxics1ut)*
 🎤 **[GPU](https://open.spotify.com/track/4sEaCcKtU4PkrzGa0MmWnY)** by **Senses** *(GPU)*
-🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
-🎤 **[all my fault](https://open.spotify.com/track/2b07aJJY5XnkVs3eaTjXLm)** by **Fijimar** *(all my fault)*
-🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-24 22:37:49Z UTC
+🕐 Last updated: 2025-09-24 22:47:50Z UTC
 <!-- SPOTIFY-END -->
