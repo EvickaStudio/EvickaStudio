@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b6e1ed801a2bc5e4f26f72a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273503a62694c7726e9bef58b79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ciao bye bye hdgdl](https://open.spotify.com/track/4tYXrEFYX0Bf71FjyxCDxf)**
-*by* **mikeycyrus**
-*Album:* Ciao bye bye hdgdl
+**🎵 [Melancholic Song](https://open.spotify.com/track/1AxkebbhSayfO4CSA5v7AJ)**
+*by* **Psyke**
+*Album:* Extinct
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:18
+    0:49 • 1:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Xx](https://open.spotify.com/track/1DY0DwjdY9kZZwHKqp9E8X)** by **Psyke** *(Love is War)*
-🎤 **[loveaddict](https://open.spotify.com/track/0Sg7ViEmDwJWGHfevJEd2p)** by **joni75** *(loveaddict)*
-🎤 **[frieza (ka33)](https://open.spotify.com/track/0RFWM3pwbdcfxCWacQ6VES)** by **agelast222** *(frieza (ka33))*
-🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
-🎤 **[Ginseng Glock 05](https://open.spotify.com/track/4hhhjjtbiClKeaYd77Y5tJ)** by **Kroka Koka** *(Vindobona)*
+🎤 **[witch](https://open.spotify.com/track/0pUlQ6gIK7zXWNpbb00rCf)** by **joni75, FiggDasGeld** *(witch)*
+🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
+🎤 **[in ma hometown](https://open.spotify.com/track/0WOhQPmDGKnvaSwlgzNuON)** by **Kroka Koka, mon€** *(Dagestan Dreams)*
+🎤 **[Wassup](https://open.spotify.com/track/7bGQtMbFEQrwz2nfcU6pwf)** by **humanangst** *(Lost in Translation)*
+🎤 **[ex b](https://open.spotify.com/track/4fLvwb0PNMMMsSTIRcVwM8)** by **mikeycyrus** *(i miss xavity)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-24 10:48:12Z UTC
+🕐 Last updated: 2025-09-24 11:10:29Z UTC
 <!-- SPOTIFY-END -->
