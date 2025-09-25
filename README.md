@@ -133,12 +133,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
-🥈 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
+🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
+🥈 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 11:11:19Z UTC
+🕐 Last updated: 2025-09-25 11:25:25Z UTC
 <!-- SPOTIFY-END -->
