@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319bcdbf9da447e559e8ba253" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734dd221cb94d5b7ca3926afb8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [to the end](https://open.spotify.com/track/7LByQrLEpWzlMCdyjJKPOk)**
-*by* **d1v, Sg Lily**
-*Album:* to the end
+**🎵 [Juxtaposition](https://open.spotify.com/track/1xAJ5a1f8hHv1ezm13xHJg)**
+*by* **Nosgov**
+*Album:* Juxtaposition
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="175" height="4" fill="#1db954" rx="2"/>
-    <circle cx="175" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 2:30
+    0:21 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by **Nokia Angel** *(Born Angel)*
-🎤 **[keine option](https://open.spotify.com/track/6AZKxUxKDRAxbNu8kRTI93)** by **5v** *(keine option)*
-🎤 **[dirty tricks](https://open.spotify.com/track/5elhKPmzyl8vKocJjRhfCp)** by **d1v** *(against the grain)*
-🎤 **[Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)** by **Drux** *(Zzz)*
+🎤 **[Trauma Dumping](https://open.spotify.com/track/4roEyPOpp5ZnrY4nwQTAYe)** by **angel5tars, Euro5tar** *(Trauma Dumping)*
+🎤 **[I'm awake](https://open.spotify.com/track/68cdXFrJcs4KU6cT7rUwUd)** by **Drux** *(I'm awake)*
+🎤 **[Atmen](https://open.spotify.com/track/3npbpPd2NAhk2cQkFblqMr)** by **humanangst** *(FOLKLORE)*
+🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 09:31:16Z UTC
+🕐 Last updated: 2025-09-25 09:47:50Z UTC
 <!-- SPOTIFY-END -->
