@@ -111,20 +111,20 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)**
-*by* **blombi19**
+**🎵 [herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)**
+*by* **blombi19, p3pppa**
 *Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 3:33
+    1:09 • 4:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
-🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
-🎤 **[Xx](https://open.spotify.com/track/1DY0DwjdY9kZZwHKqp9E8X)** by **Psyke** *(Love is War)*
+🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
+🎤 **[dopamin](https://open.spotify.com/track/39f5jyDAQl5ZaAGj69RCcE)** by **blombi19** *(herzkasper)*
+🎤 **[jeans](https://open.spotify.com/track/6mZKAgOHuq2QaTfSQLtLjk)** by **blombi19** *(herzkasper)*
+🎤 **[unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)** by **blombi19** *(herzkasper)*
+🎤 **[paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)** by **blombi19, mehlhaltig** *(herzkasper)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 20:13:51Z UTC
+🕐 Last updated: 2025-09-25 20:31:55Z UTC
 <!-- SPOTIFY-END -->
