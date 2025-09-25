@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273875d07653fa6519b0cf85c06" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27350ad0dc0cc3bcce53bdd6fce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)**
-*by* **ghostboo, Lawin**
-*Album:* exxtra
+**🎵 [Inside Dead](https://open.spotify.com/track/5PQVGr3tPfQiIYcExm7iqr)**
+*by* **Rooky030**
+*Album:* Inside Dead
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="279" height="4" fill="#1db954" rx="2"/>
-    <circle cx="279" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:46 • 2:58
+    1:43 • 2:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich renne, ich laufe](https://open.spotify.com/track/1otcGFauLXf0FPrQzr4gIy)** by **52Blue** *(L(i)ebe)*
-🎤 **[bleiballein](https://open.spotify.com/track/491HCNS8zZqkjyZ1hb7HZA)** by **LiJon** *(bleiballein)*
-🎤 **[was soll ich dir sagen](https://open.spotify.com/track/31KKMCz2oo02h6EkBE6HFW)** by **flowerboii** *(warm draußen kalt drinnen)*
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
-🎤 **[letzte warnung](https://open.spotify.com/track/6fOyLFGoVcEKc2fleonmuJ)** by **mickyi** *(letzte warnung)*
+🎤 **[lonely](https://open.spotify.com/track/49DD9Ghc4KN1OYxao15JNk)** by **lilreapy** *(lonely)*
+🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
+🎤 **[keiner von uns left behind ::<>>+](https://open.spotify.com/track/6KKh9EVG2BFSFuZWq7L8Vf)** by **ALeiz** *(detaching from the ghost in your memories ==--!!"#)*
+🎤 **[extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)** by **Psyke** *(Love is War)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 18:45:50Z UTC
+🕐 Last updated: 2025-09-25 19:10:15Z UTC
 <!-- SPOTIFY-END -->
