@@ -135,10 +135,10 @@
 
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥈 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
-🥉 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
-🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 22:47:50Z UTC
+🕐 Last updated: 2025-09-25 23:11:15Z UTC
 <!-- SPOTIFY-END -->
