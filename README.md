@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734dd221cb94d5b7ca3926afb8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b8d19a5e1e973bd64f8c3a2e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Juxtaposition](https://open.spotify.com/track/1xAJ5a1f8hHv1ezm13xHJg)**
-*by* **Nosgov**
-*Album:* Juxtaposition
+**🎵 [Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)**
+*by* **Nokia Angel**
+*Album:* Numb
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="54" height="4" fill="#1db954" rx="2"/>
-    <circle cx="54" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:01
+    1:14 • 3:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Trauma Dumping](https://open.spotify.com/track/4roEyPOpp5ZnrY4nwQTAYe)** by **angel5tars, Euro5tar** *(Trauma Dumping)*
-🎤 **[I'm awake](https://open.spotify.com/track/68cdXFrJcs4KU6cT7rUwUd)** by **Drux** *(I'm awake)*
-🎤 **[Atmen](https://open.spotify.com/track/3npbpPd2NAhk2cQkFblqMr)** by **humanangst** *(FOLKLORE)*
-🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
-🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[Edelweiss](https://open.spotify.com/track/2RYoUskjN1j3rmmX11FwnL)** by **Sg Lily** *(Stray Cat Rock)*
+🎤 **[I'm on one](https://open.spotify.com/track/2Z9a7JxDRrMPVZ4HgDUDdE)** by **pradaaslife, Drux, Lunaa** *(Scrapclub)*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ)** by **meat computer** *(i feel like a dog)*
+🎤 **[harvest](https://open.spotify.com/track/1y6CuURc2QrorVtZ7Zo8Pj)** by **d1v** *(finally free)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 09:47:50Z UTC
+🕐 Last updated: 2025-09-25 10:13:17Z UTC
 <!-- SPOTIFY-END -->
