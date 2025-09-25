@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27345a0433e011709ab023f3585" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b0fad873c5803ed61701c82b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)**
-*by* **Drux**
-*Album:* Zzz
+**🎵 [famous](https://open.spotify.com/track/00RnOBCurjoGkZK1uLANMw)**
+*by* **nate sib**
+*Album:* famous
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="54" height="4" fill="#1db954" rx="2"/>
-    <circle cx="54" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:41
+    1:40 • 1:46
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Miura](https://open.spotify.com/track/6kq7ERAtNElLXWWQCHX4nb)** by **pradaaslife** *(Miura)*
-🎤 **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
-🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
+🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
+🎤 **[just dance!+>](https://open.spotify.com/track/0O8q0QPa0ZK0wRx18PQCCX)** by **wokeupmck** *(just dance!+>)*
+🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
+🎤 **[Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)** by **Drux** *(Zzz)*
+🎤 **[hunnidz](https://open.spotify.com/track/2HnEoKc7HMlo0tF167cuTH)** by **omgliney, jeremyy** *(hunnidz)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 10:34:06Z UTC
+🕐 Last updated: 2025-09-25 10:48:52Z UTC
 <!-- SPOTIFY-END -->
