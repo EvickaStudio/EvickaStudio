@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27337547778a6579ad70b243f99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [warm draußen kalt drinnen](https://open.spotify.com/track/4YUNv5KV2ofElRc5XDF0yf)**
-*by* **flowerboii**
-*Album:* warm draußen kalt drinnen
+**🎵 [eule](https://open.spotify.com/track/6Yaqf2WwrTQeMXueDecwUz)**
+*by* **blombi19**
+*Album:* abiogenese
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 3:04
+    1:26 • 2:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)** by **blombi19, aimée** *(sternenkind)*
-🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
-🎤 **[Highschool Crush](https://open.spotify.com/track/5tfEvvjDNBXa62GtKEagjD)** by **Psyke** *(Love is War)*
-🎤 **[Keiner wie wir](https://open.spotify.com/track/5VG5WtnT9gEjuMclnhH9Gs)** by **BlokkFlexer** *(Keiner wie wir)*
-🎤 **[Gedächtnis](https://open.spotify.com/track/2CwUOZ4sTVTkuKGtJLGWaD)** by **Mobezzy, Steve276** *(INTEREA)*
+🎤 **[LÄUFST NICHT WEG](https://open.spotify.com/track/5k37TK6UjHVrXIk6WrXbCL)** by **mickyi** *(LÄUFST NICHT WEG)*
+🎤 **[stubborn](https://open.spotify.com/track/5gYVV1j2A6GO3O8njnPjAs)** by **Nikitas, jequya, licuh** *(stubborn)*
+🎤 **[2023](https://open.spotify.com/track/0DrX4oipiptp5RPhUifaTh)** by **52Blue, Punk Christ** *(Unverweslich)*
+🎤 **[KRISTALL](https://open.spotify.com/track/3RhyypOIo5ovtt2kOdxrQW)** by **Skepsiz** *(FALTER)*
+🎤 **[kreise auf mein rücken](https://open.spotify.com/track/427b7pvrYPDZ5ymLTZ6c9n)** by **flowerboii** *(warm draußen kalt drinnen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 17:47:36Z UTC
+🕐 Last updated: 2025-09-25 18:18:35Z UTC
 <!-- SPOTIFY-END -->
