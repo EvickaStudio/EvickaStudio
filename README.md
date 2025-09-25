@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273151bbac13b915b66264d1cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d083271af6ddd549477fafd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)**
-*by* **JB 50**
-*Album:* Headline
+**🎵 [Keiner wie wir](https://open.spotify.com/track/5VG5WtnT9gEjuMclnhH9Gs)**
+*by* **BlokkFlexer**
+*Album:* Keiner wie wir
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="267" height="4" fill="#1db954" rx="2"/>
+    <circle cx="267" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 1:57
+    1:58 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Gedächtnis](https://open.spotify.com/track/2CwUOZ4sTVTkuKGtJLGWaD)** by **Mobezzy, Steve276** *(INTEREA)*
+🎤 **[airbnb](https://open.spotify.com/track/33WrEizucsSebPqy9kFNlV)** by **lil eyes, 2K WORLD** *(airbnb)*
+🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
+🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
 🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
-🎤 **[Gestrandet](https://open.spotify.com/track/3K6iZsqLveTjAVi2o8ZyE8)** by **52Blue** *(Gestrandet)*
-🎤 **[einsam in designer](https://open.spotify.com/track/2cYnsq80eOsaOpxY5lChWu)** by **va1e** *(einsam in designer)*
-🎤 **[airbnb spedup](https://open.spotify.com/track/0XDEqLeIBv1TyONYi4PwF8)** by **lil eyes, 2K WORLD** *(airbnb)*
-🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 17:28:42Z UTC
+🕐 Last updated: 2025-09-25 17:39:10Z UTC
 <!-- SPOTIFY-END -->
