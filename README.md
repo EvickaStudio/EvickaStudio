@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Still](https://open.spotify.com/track/2keBvkwPhn12FSH7tzor9w)** by **Dion** *(Still)*
 🎤 **[Niké ocean](https://open.spotify.com/track/2zIfYJTqVFzj2qcliNW8dQ)** by **Swoopy, pradaaslife** *(Treasure hunt)*
 🎤 **[famous](https://open.spotify.com/track/00RnOBCurjoGkZK1uLANMw)** by **nate sib** *(famous)*
 🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
 🎤 **[just dance!+>](https://open.spotify.com/track/0O8q0QPa0ZK0wRx18PQCCX)** by **wokeupmck** *(just dance!+>)*
-🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 11:25:25Z UTC
+🕐 Last updated: 2025-09-25 11:34:47Z UTC
 <!-- SPOTIFY-END -->
