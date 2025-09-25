@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735c1a46f9e4545c175af1aabc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735f0827ed6bd9205f50281881" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)**
-*by* **Kroka Koka**
-*Album:* Vindobona
+**🎵 [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9)**
+*by* **FiNCH**
+*Album:* Dorfdisko
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="4" height="4" fill="#1db954" rx="2"/>
+    <circle cx="4" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 1:46
+    0:02 • 3:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Still](https://open.spotify.com/track/2keBvkwPhn12FSH7tzor9w)** by **Dion** *(Still)*
-🎤 **[Niké ocean](https://open.spotify.com/track/2zIfYJTqVFzj2qcliNW8dQ)** by **Swoopy, pradaaslife** *(Treasure hunt)*
-🎤 **[famous](https://open.spotify.com/track/00RnOBCurjoGkZK1uLANMw)** by **nate sib** *(famous)*
-🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
-🎤 **[just dance!+>](https://open.spotify.com/track/0O8q0QPa0ZK0wRx18PQCCX)** by **wokeupmck** *(just dance!+>)*
+🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[Fright Night](https://open.spotify.com/track/1WCpCRhI7nNo6RNSXDBJd7)** by **decaying, evrythnghurtz** *(Fright Night)*
+🎤 **[Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)** by **Cavetown** *(Animal Kingdom)*
+🎤 **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by **lil eyes, 1800yassine, Asterio, treason434** *(feelings im bauch (feat. treason434) [techno remix])*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 14:34:57Z UTC
+🕐 Last updated: 2025-09-25 14:50:54Z UTC
 <!-- SPOTIFY-END -->
