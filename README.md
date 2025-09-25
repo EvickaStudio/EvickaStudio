@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [sternschnuppe](https://open.spotify.com/track/5iTG27HIOQ7iZ866ZtI34D)**
+*by* **blombi19**
+*Album:* herzkasper
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:56 • 2:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **snor** *(scary monsters)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
-🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
+🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
+🎤 **[tram](https://open.spotify.com/track/7kpin3Wn0LeBxJg7LeiDwE)** by **blombi19** *(herzkasper)*
+🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
+🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
+🎤 **[röntgenbrille](https://open.spotify.com/track/6h7e49F4PfsPcAgbONdbtC)** by **blombi19** *(herzkasper)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 16:52:56Z UTC
+🕐 Last updated: 2025-09-25 17:10:39Z UTC
 <!-- SPOTIFY-END -->
