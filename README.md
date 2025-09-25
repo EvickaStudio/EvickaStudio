@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273875d07653fa6519b0cf85c06" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [eule](https://open.spotify.com/track/6Yaqf2WwrTQeMXueDecwUz)**
-*by* **blombi19**
-*Album:* abiogenese
+**🎵 [zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)**
+*by* **ghostboo, Lawin**
+*Album:* exxtra
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 2:51
+    2:46 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LÄUFST NICHT WEG](https://open.spotify.com/track/5k37TK6UjHVrXIk6WrXbCL)** by **mickyi** *(LÄUFST NICHT WEG)*
-🎤 **[stubborn](https://open.spotify.com/track/5gYVV1j2A6GO3O8njnPjAs)** by **Nikitas, jequya, licuh** *(stubborn)*
-🎤 **[2023](https://open.spotify.com/track/0DrX4oipiptp5RPhUifaTh)** by **52Blue, Punk Christ** *(Unverweslich)*
-🎤 **[KRISTALL](https://open.spotify.com/track/3RhyypOIo5ovtt2kOdxrQW)** by **Skepsiz** *(FALTER)*
-🎤 **[kreise auf mein rücken](https://open.spotify.com/track/427b7pvrYPDZ5ymLTZ6c9n)** by **flowerboii** *(warm draußen kalt drinnen)*
+🎤 **[ich renne, ich laufe](https://open.spotify.com/track/1otcGFauLXf0FPrQzr4gIy)** by **52Blue** *(L(i)ebe)*
+🎤 **[bleiballein](https://open.spotify.com/track/491HCNS8zZqkjyZ1hb7HZA)** by **LiJon** *(bleiballein)*
+🎤 **[was soll ich dir sagen](https://open.spotify.com/track/31KKMCz2oo02h6EkBE6HFW)** by **flowerboii** *(warm draußen kalt drinnen)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[letzte warnung](https://open.spotify.com/track/6fOyLFGoVcEKc2fleonmuJ)** by **mickyi** *(letzte warnung)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 18:18:35Z UTC
+🕐 Last updated: 2025-09-25 18:45:50Z UTC
 <!-- SPOTIFY-END -->
