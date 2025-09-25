@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27350ad0dc0cc3bcce53bdd6fce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a6a98c2fb909576d75069bb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Inside Dead](https://open.spotify.com/track/5PQVGr3tPfQiIYcExm7iqr)**
-*by* **Rooky030**
-*Album:* Inside Dead
+**🎵 [todesschwur](https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g)**
+*by* **blombi19**
+*Album:* schlangenhelix
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:06
+    3:34 • 3:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lonely](https://open.spotify.com/track/49DD9Ghc4KN1OYxao15JNk)** by **lilreapy** *(lonely)*
-🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
-🎤 **[keiner von uns left behind ::<>>+](https://open.spotify.com/track/6KKh9EVG2BFSFuZWq7L8Vf)** by **ALeiz** *(detaching from the ghost in your memories ==--!!"#)*
-🎤 **[extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)** by **Psyke** *(Love is War)*
+🎤 **[zerstochen](https://open.spotify.com/track/4L6rKHyyus86QoGk2BBimm)** by **blombi19** *(zerstochen)*
+🎤 **[Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)** by **52Blue** *(Meer oder weniger)*
+🎤 **[Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑](https://open.spotify.com/track/14rawNSa1i9TJmTrkjaO6m)** by **mickyi** *(Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑)*
+🎤 **[my name is pulsi](https://open.spotify.com/track/4ZDEp4Py5enh98NrbAXThz)** by **pulsi, Kinaro** *(pulsi)*
+🎤 **[Inside Dead](https://open.spotify.com/track/5PQVGr3tPfQiIYcExm7iqr)** by **Rooky030** *(Inside Dead)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 19:10:15Z UTC
+🕐 Last updated: 2025-09-25 19:23:59Z UTC
 <!-- SPOTIFY-END -->
