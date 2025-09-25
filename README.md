@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a6a98c2fb909576d75069bb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [todesschwur](https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g)**
-*by* **blombi19**
-*Album:* schlangenhelix
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:34 • 3:47
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
+🎤 **[Xx](https://open.spotify.com/track/1DY0DwjdY9kZZwHKqp9E8X)** by **Psyke** *(Love is War)*
+🎤 **[time to keep u off my mind](https://open.spotify.com/track/5WeKZyuZYOS9frVDYaYhII)** by **Mobezzy** *(INTEREA)*
+🎤 **[todesschwur](https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g)** by **blombi19** *(schlangenhelix)*
 🎤 **[zerstochen](https://open.spotify.com/track/4L6rKHyyus86QoGk2BBimm)** by **blombi19** *(zerstochen)*
-🎤 **[Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)** by **52Blue** *(Meer oder weniger)*
-🎤 **[Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑](https://open.spotify.com/track/14rawNSa1i9TJmTrkjaO6m)** by **mickyi** *(Kinder aus dem Kiez (•̀ᴗ•́)و ̑̑)*
-🎤 **[my name is pulsi](https://open.spotify.com/track/4ZDEp4Py5enh98NrbAXThz)** by **pulsi, Kinaro** *(pulsi)*
-🎤 **[Inside Dead](https://open.spotify.com/track/5PQVGr3tPfQiIYcExm7iqr)** by **Rooky030** *(Inside Dead)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 19:23:59Z UTC
+🕐 Last updated: 2025-09-25 19:33:48Z UTC
 <!-- SPOTIFY-END -->
