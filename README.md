@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273151bbac13b915b66264d1cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sternschnuppe](https://open.spotify.com/track/5iTG27HIOQ7iZ866ZtI34D)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)**
+*by* **JB 50**
+*Album:* Headline
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:33
+    0:28 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
-🎤 **[tram](https://open.spotify.com/track/7kpin3Wn0LeBxJg7LeiDwE)** by **blombi19** *(herzkasper)*
-🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
-🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
-🎤 **[röntgenbrille](https://open.spotify.com/track/6h7e49F4PfsPcAgbONdbtC)** by **blombi19** *(herzkasper)*
+🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
+🎤 **[Gestrandet](https://open.spotify.com/track/3K6iZsqLveTjAVi2o8ZyE8)** by **52Blue** *(Gestrandet)*
+🎤 **[einsam in designer](https://open.spotify.com/track/2cYnsq80eOsaOpxY5lChWu)** by **va1e** *(einsam in designer)*
+🎤 **[airbnb spedup](https://open.spotify.com/track/0XDEqLeIBv1TyONYi4PwF8)** by **lil eyes, 2K WORLD** *(airbnb)*
+🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 17:10:39Z UTC
+🕐 Last updated: 2025-09-25 17:28:42Z UTC
 <!-- SPOTIFY-END -->
