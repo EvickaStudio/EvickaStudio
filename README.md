@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0fad873c5803ed61701c82b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [famous](https://open.spotify.com/track/00RnOBCurjoGkZK1uLANMw)**
-*by* **nate sib**
-*Album:* famous
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 1:46
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Niké ocean](https://open.spotify.com/track/2zIfYJTqVFzj2qcliNW8dQ)** by **Swoopy, pradaaslife** *(Treasure hunt)*
+🎤 **[famous](https://open.spotify.com/track/00RnOBCurjoGkZK1uLANMw)** by **nate sib** *(famous)*
 🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
 🎤 **[just dance!+>](https://open.spotify.com/track/0O8q0QPa0ZK0wRx18PQCCX)** by **wokeupmck** *(just dance!+>)*
 🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
-🎤 **[Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)** by **Drux** *(Zzz)*
-🎤 **[hunnidz](https://open.spotify.com/track/2HnEoKc7HMlo0tF167cuTH)** by **omgliney, jeremyy** *(hunnidz)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 10:48:52Z UTC
+🕐 Last updated: 2025-09-25 11:11:19Z UTC
 <!-- SPOTIFY-END -->
