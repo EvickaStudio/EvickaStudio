@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735f0827ed6bd9205f50281881" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731139e5a23721f84d516c95e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9)**
-*by* **FiNCH**
-*Album:* Dorfdisko
+**🎵 [Cynthoni Of Flames](https://open.spotify.com/track/0dUUliAEzw1EhwE7dbDPk1)**
+*by* **Cynthoni, Sewerslvt**
+*Album:* Cynthoni Of Flames
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 3:26
+    8:02 • 9:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
-🎤 **[Fright Night](https://open.spotify.com/track/1WCpCRhI7nNo6RNSXDBJd7)** by **decaying, evrythnghurtz** *(Fright Night)*
-🎤 **[Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)** by **Cavetown** *(Animal Kingdom)*
-🎤 **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by **lil eyes, 1800yassine, Asterio, treason434** *(feelings im bauch (feat. treason434) [techno remix])*
+🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
+🎤 **[Was Glück ist](https://open.spotify.com/track/6FS2FoYdXBLWy3y3QehLuE)** by **TYM** *(Was Glück ist)*
+🎤 **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)*
+🎤 **[EMO GIRL<3](https://open.spotify.com/track/1lrCTFAROnJz3oPlgPQIXT)** by **UpVampin, 2504** *(EMO GIRL<3)*
+🎤 **[恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm)** by **物語シリーズ** *(Utamonogatari Special Edition (Original Soundtrack))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**no insight**](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)
 
 
-🕐 Last updated: 2025-09-25 14:50:54Z UTC
+🕐 Last updated: 2025-09-25 15:13:07Z UTC
 <!-- SPOTIFY-END -->
