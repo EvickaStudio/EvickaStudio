@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d083271af6ddd549477fafd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27337547778a6579ad70b243f99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Keiner wie wir](https://open.spotify.com/track/5VG5WtnT9gEjuMclnhH9Gs)**
-*by* **BlokkFlexer**
-*Album:* Keiner wie wir
+**🎵 [warm draußen kalt drinnen](https://open.spotify.com/track/4YUNv5KV2ofElRc5XDF0yf)**
+*by* **flowerboii**
+*Album:* warm draußen kalt drinnen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="267" height="4" fill="#1db954" rx="2"/>
-    <circle cx="267" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:12
+    0:47 • 3:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)** by **blombi19, aimée** *(sternenkind)*
+🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
+🎤 **[Highschool Crush](https://open.spotify.com/track/5tfEvvjDNBXa62GtKEagjD)** by **Psyke** *(Love is War)*
+🎤 **[Keiner wie wir](https://open.spotify.com/track/5VG5WtnT9gEjuMclnhH9Gs)** by **BlokkFlexer** *(Keiner wie wir)*
 🎤 **[Gedächtnis](https://open.spotify.com/track/2CwUOZ4sTVTkuKGtJLGWaD)** by **Mobezzy, Steve276** *(INTEREA)*
-🎤 **[airbnb](https://open.spotify.com/track/33WrEizucsSebPqy9kFNlV)** by **lil eyes, 2K WORLD** *(airbnb)*
-🎤 **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)*
-🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
-🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-25 17:39:10Z UTC
+🕐 Last updated: 2025-09-25 17:47:36Z UTC
 <!-- SPOTIFY-END -->
