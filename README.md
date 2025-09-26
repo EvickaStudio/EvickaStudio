@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273381adadfdbcd2c5c4fb40700" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
-*by* **luu, mehlhaltig, iwannabemissed**
-*Album:* triple trauma
+**🎵 [Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)**
+*by* **Crescent, Rose, Y4ndere, Crystal Statues**
+*Album:* Crystal Clear
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="298" height="4" fill="#1db954" rx="2"/>
-    <circle cx="298" cy="2" r="6" fill="#1db954"/>
+    <rect width="226" height="4" fill="#1db954" rx="2"/>
+    <circle cx="226" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 1:34
+    1:43 • 2:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
+🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
+🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 🎤 **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **snor** *(scary monsters)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
-🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-26 17:27:56Z UTC
+🕐 Last updated: 2025-09-26 17:38:28Z UTC
 <!-- SPOTIFY-END -->
