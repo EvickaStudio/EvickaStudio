@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2732086cef2af6309cf644cdd75" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [finders keepers](https://open.spotify.com/track/6CaTp2UHsnERxTfNBS7I4B)**
+*by* **d1v**
+*Album:* finders keepers
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="262" height="4" fill="#1db954" rx="2"/>
+    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:23 • 2:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Doublehelix](https://open.spotify.com/track/7D0nCJtNKJTQhBPbzBkPA0)** by **blackwinterwells** *(Doublehelix)*
-🎤 **[I will keep you warm](https://open.spotify.com/track/5AQg0AdgxnT06XkMro6unu)** by **Psych** *(I will keep you warm)*
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
-🎤 **[loving me is way too hard](https://open.spotify.com/track/785zroyzLODTfTCGnWFkKw)** by **Psych** *(loving me is way too hard)*
-🎤 **[honest](https://open.spotify.com/track/6Cwd551I139ikC0OBjHehp)** by **coldspades, datealyfe** *(honest)*
+🎤 **[honesty](https://open.spotify.com/track/7zgHQ7LktOJNbIIAbQThlz)** by **Capoxxo, mayh3mp** *(Persona)*
+🎤 **[with a ghost](https://open.spotify.com/track/1LNsLNyT7IRK9ccIU1Xip1)** by **mental** *(for a kiss)*
+🎤 **[someone else](https://open.spotify.com/track/6SyABfAjswbxyciclpST4M)** by **emotionals, Sg Lily** *(genki rock)*
+🎤 **[Aiming](https://open.spotify.com/track/4oO81MAvWw9bW4UKkgpFhH)** by **Pitfall** *(Aiming)*
+🎤 **[love always seems to come out the blue](https://open.spotify.com/track/0W18At7uaqyugRN0WYK3MG)** by **may** *(love always seems to come out the blue)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 12:24:15Z UTC
+🕐 Last updated: 2025-09-26 13:02:03Z UTC
 <!-- SPOTIFY-END -->
