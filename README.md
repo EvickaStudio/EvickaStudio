@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e3b32f5cd152b8b9d882952" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273049cba214f7e7e5fd1017457" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)**
-*by* **dreamcache**
-*Album:* i feel better in the night time
+**🎵 [April Showers Bring May Flowers](https://open.spotify.com/track/3msPlnU7w7yI3pWK5iTNkO)**
+*by* **bodyGaard**
+*Album:* April Showers Bring May Flowers
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:48
+    0:56 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[sasaeng](https://open.spotify.com/track/2MW7vX77FY80Nvtd8gDJag)** by **Sg Lily, emotegi** *(sasaeng)*
+🎤 **[TOXIC WASTE](https://open.spotify.com/track/6tAkYD0aGx4MaQeiBpdfgc)** by **1spxce** *(SILENT HILL)*
+🎤 **[Miracle](https://open.spotify.com/track/4fNopBkb341hWXAAgnlVFO)** by **Spira me, ddertbag** *(Miracle)*
+🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
 🎤 **[paranoid](https://open.spotify.com/track/5jhrNuHcqDooiWHtpcrRf3)** by **mental** *(paranoid)*
-🎤 **[Shitfaced](https://open.spotify.com/track/6mA7x8nrj8TV93cSThm8JX)** by **d1v, swoopy, Buffalobang, Sg37, Opal** *(It's Complicated)*
-🎤 **[feels like never](https://open.spotify.com/track/31fivxsXjyDbgInej8f3b5)** by **keyblayde808, mayh3mp, capoxxo** *(feels like never)*
-🎤 **[cryptid](https://open.spotify.com/track/5QclDV6APRqdyiNnobClpF)** by **Sg Lily, tonser** *(cryptid)*
-🎤 **[Infectious](https://open.spotify.com/track/5sG4KQ1DpIY6VoWgphZcpt)** by **Pitfall** *(Infectious)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 11:24:53Z UTC
+🕐 Last updated: 2025-09-26 11:34:04Z UTC
 <!-- SPOTIFY-END -->
