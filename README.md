@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273049cba214f7e7e5fd1017457" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27321e0fcd10010241611a176f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [April Showers Bring May Flowers](https://open.spotify.com/track/3msPlnU7w7yI3pWK5iTNkO)**
-*by* **bodyGaard**
-*Album:* April Showers Bring May Flowers
+**🎵 [Doublehelix](https://open.spotify.com/track/7D0nCJtNKJTQhBPbzBkPA0)**
+*by* **blackwinterwells**
+*Album:* Doublehelix
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:03
+    1:39 • 1:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sasaeng](https://open.spotify.com/track/2MW7vX77FY80Nvtd8gDJag)** by **Sg Lily, emotegi** *(sasaeng)*
-🎤 **[TOXIC WASTE](https://open.spotify.com/track/6tAkYD0aGx4MaQeiBpdfgc)** by **1spxce** *(SILENT HILL)*
-🎤 **[Miracle](https://open.spotify.com/track/4fNopBkb341hWXAAgnlVFO)** by **Spira me, ddertbag** *(Miracle)*
-🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[paranoid](https://open.spotify.com/track/5jhrNuHcqDooiWHtpcrRf3)** by **mental** *(paranoid)*
+🎤 **[I will keep you warm](https://open.spotify.com/track/5AQg0AdgxnT06XkMro6unu)** by **Psych** *(I will keep you warm)*
+🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
+🎤 **[loving me is way too hard](https://open.spotify.com/track/785zroyzLODTfTCGnWFkKw)** by **Psych** *(loving me is way too hard)*
+🎤 **[honest](https://open.spotify.com/track/6Cwd551I139ikC0OBjHehp)** by **coldspades, datealyfe** *(honest)*
+🎤 **[all that i want is u <3](https://open.spotify.com/track/20JOdw9OPJD2wXRktX0ERa)** by **bliiiss, Capoxxo** *(all that i want is u <3)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 11:34:04Z UTC
+🕐 Last updated: 2025-09-26 11:47:33Z UTC
 <!-- SPOTIFY-END -->
