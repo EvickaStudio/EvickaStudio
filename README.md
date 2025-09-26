@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273035d28f09937fa5c2fcd1bc9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738dd5d6d4f19768d6812324e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [moment - Bonus Track](https://open.spotify.com/track/2Del3YTc68Ps0RAAkVw7EE)**
-*by* **emotionals, Pitfall**
-*Album:* attachment
+**🎵 [what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)**
+*by* **crusey, trustt**
+*Album:* what u need
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 2:43
+    0:56 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lucky](https://open.spotify.com/track/3rHDvgsYoozN85HOU5nhq0)** by **roxas358** *(lucky)*
-🎤 **[twisting the truth](https://open.spotify.com/track/31ib97tte9LmEuQnL7xpdw)** by **d1v** *(twisting the truth)*
-🎤 **[No Txt](https://open.spotify.com/track/3v2EvSxNoj7FFXtV5AR1RA)** by **Capoxxo** *(We Can Die Together)*
-🎤 **[finally home](https://open.spotify.com/track/0YGCvN4NojcluEF79c4qh7)** by **mental** *(finally home)*
-🎤 **[when im gone](https://open.spotify.com/track/2HSM14FIspIJYG7xRHgWNB)** by **Sg Lily** *(rp privateserver)*
+🎤 **[reject](https://open.spotify.com/track/6kOFKl83nqMqRpwNtl0OzY)** by **roxas358** *(reject)*
+🎤 **[streetcode](https://open.spotify.com/track/4WRiPRB4b60W0liTicwyi0)** by **d1v, Sg Lily** *(against the grain)*
+🎤 **[Dreamdemon](https://open.spotify.com/track/3VDz66Ut5dTq637260gie6)** by **Capoxxo** *(This User Has Gone Offline)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[until ur gone](https://open.spotify.com/track/6taCDr1elKCstD8NHoApX3)** by **mental** *(until ur gone)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 13:35:50Z UTC
+🕐 Last updated: 2025-09-26 13:48:35Z UTC
 <!-- SPOTIFY-END -->
