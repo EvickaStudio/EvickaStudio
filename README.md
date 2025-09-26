@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733960a3a09442a3290b2497f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e3b32f5cd152b8b9d882952" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ill be in your dreams](https://open.spotify.com/track/0XLseheRg2PgTat9cc87TN)**
-*by* **Psych**
-*Album:* ill be in your dreams
+**🎵 [i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)**
+*by* **dreamcache**
+*Album:* i feel better in the night time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:18
+    1:15 • 1:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Be Cool](https://open.spotify.com/track/2a7Ekji42NUR2WnA7f2tC7)** by **Sg Lily** *(Gokuraku Johdo (Collected Singles 2018-19))*
-🎤 **[one shot](https://open.spotify.com/track/4RvjRo8SUErh5mcoBE4AlX)** by **crusey, 1crusafix** *(one shot)*
-🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
-🎤 **[deep end](https://open.spotify.com/track/3isg1WMhHqbotOjTBxbMFi)** by **emorave** *(deep end)*
-🎤 **[too nice](https://open.spotify.com/track/1gOULc5EHXwdMWDjOJ1D4E)** by **d1v, Sg Lily** *(hard to know)*
+🎤 **[paranoid](https://open.spotify.com/track/5jhrNuHcqDooiWHtpcrRf3)** by **mental** *(paranoid)*
+🎤 **[Shitfaced](https://open.spotify.com/track/6mA7x8nrj8TV93cSThm8JX)** by **d1v, swoopy, Buffalobang, Sg37, Opal** *(It's Complicated)*
+🎤 **[feels like never](https://open.spotify.com/track/31fivxsXjyDbgInej8f3b5)** by **keyblayde808, mayh3mp, capoxxo** *(feels like never)*
+🎤 **[cryptid](https://open.spotify.com/track/5QclDV6APRqdyiNnobClpF)** by **Sg Lily, tonser** *(cryptid)*
+🎤 **[Infectious](https://open.spotify.com/track/5sG4KQ1DpIY6VoWgphZcpt)** by **Pitfall** *(Infectious)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 11:10:09Z UTC
+🕐 Last updated: 2025-09-26 11:24:53Z UTC
 <!-- SPOTIFY-END -->
