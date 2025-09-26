@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f0495e123406153b055ebc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e4ea3cb53a9f879d66c33e34" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)**
-*by* **DJ_Dave**
-*Album:* Airglow
+**🎵 [DPDR](https://open.spotify.com/track/3aOxcYjueaiKW6aeYFWU8W)**
+*by* **wiv, 68+1**
+*Album:* DPDR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+    <rect width="85" height="4" fill="#1db954" rx="2"/>
+    <circle cx="85" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 4:50
+    0:34 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[anything u](https://open.spotify.com/track/3psJFAsc4QqRUfyBBDrke2)** by **k0d4m4, echo angel** *(anything u)*
+🎤 **[Protected - Ms* Gloom Remix](https://open.spotify.com/track/7MXWSxauuwjzYgQyLr7tQZ)** by **Woesum, Ms* Gloom** *(Protected (Ms* Gloom Remix))*
+🎤 **[Dragonborn](https://open.spotify.com/track/1OQDe01vuQcNT8rSnQwlxv)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
 🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
-🎤 **[reminisce](https://open.spotify.com/track/0XEuQkIL1YnBuOlHJi3uPP)** by **crusey** *(reminisce)*
-🎤 **[Over](https://open.spotify.com/track/3KX7oKolUVqSQOkRxL3yaI)** by **Sg Lily, tonser** *(Content)*
-🎤 **[undercover](https://open.spotify.com/track/0LvyNlK4sErI3Frv58gEbN)** by **d1v, with3r** *(hard to know)*
-🎤 **[bullish](https://open.spotify.com/track/7cIDp8UFZrYixQEMonkA2r)** by **Capoxxo, mayh3mp** *(Persona)*
+🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-26 14:30:16Z UTC
+🕐 Last updated: 2025-09-26 14:41:16Z UTC
 <!-- SPOTIFY-END -->
