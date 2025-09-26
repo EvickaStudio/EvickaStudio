@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27331322713e286c279e483d180" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27315b72ee3398b9857fc468fbd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dissolve - Sped Up](https://open.spotify.com/track/2MYdacRepPj5Q99R1goguy)**
-*by* **Sidewalks and Skeletons, CASHFORGOLD**
-*Album:* Dissolve
+**🎵 [nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)**
+*by* **5v**
+*Album:* nodding off
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 2:31
+    0:31 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Country Road](https://open.spotify.com/track/06ujEo9w9cmYeamYhDuRaz)** by **The Hellp** *(Country Road)*
-🎤 **[flora](https://open.spotify.com/track/6nDvoc1Hz5PHqhlPGnoITB)** by **snafu** *(flora)*
-🎤 **[DPDR](https://open.spotify.com/track/3aOxcYjueaiKW6aeYFWU8W)** by **wiv, 68+1** *(DPDR)*
-🎤 **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)*
-🎤 **[anything u](https://open.spotify.com/track/3psJFAsc4QqRUfyBBDrke2)** by **k0d4m4, echo angel** *(anything u)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
+🎤 **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-26 14:49:13Z UTC
+🕐 Last updated: 2025-09-26 15:12:50Z UTC
 <!-- SPOTIFY-END -->
