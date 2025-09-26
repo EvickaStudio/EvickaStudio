@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d2c0e58c5fd67d63297d3ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e3d76ee42c4db6ea8c580765" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [d1vine](https://open.spotify.com/track/3R25cxO0bORx35J0a4BCtK)**
-*by* **d1v, with3r**
-*Album:* against the grain
+**🎵 [picnic](https://open.spotify.com/track/6ZQ9NNvZL8Go6iU0Cwpce7)**
+*by* **i9bonsai**
+*Album:* picnic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:53
+    1:44 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[attachment](https://open.spotify.com/track/3xDSCaIZoanXrQkKLHk07i)** by **emotionals, Pitfall** *(attachment)*
-🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
-🎤 **[maybe i should call?](https://open.spotify.com/track/5Jrf2z5oFcDohbKVOYEqmr)** by **luvlxckdown** *(maybe i should call?)*
-🎤 **[mylife](https://open.spotify.com/track/4LscnrhJgKuClRexTLSAPF)** by **Pitfall** *(mylife)*
-🎤 **[Half Alive](https://open.spotify.com/track/5dy7TvHSwZHcmHrug8FVTb)** by **Halo Cupid, emotionals, maknae** *(Half Alive)*
+🎤 **[Morphine](https://open.spotify.com/track/4c41ZaRnxQUICx49ABBF7l)** by **keyblayde808** *(Morphine)*
+🎤 **[i dont feel okay](https://open.spotify.com/track/61WzLG4pI9m4jCmim3cHJD)** by **emorave, Pitfall** *(i dont feel okay)*
+🎤 **[backseat](https://open.spotify.com/track/7bYoletOcx2zm14e9yGo7M)** by **lucina, Vertigoth** *(backseat)*
+🎤 **[veil](https://open.spotify.com/track/3u4RmMowLPDkbjS0R0RIHw)** by **roxas358** *(veil)*
+🎤 **[i can never tell](https://open.spotify.com/track/0zpZP1cQD5WGeeZjyhfKEE)** by **serrature** *(i can never tell)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 10:12:55Z UTC
+🕐 Last updated: 2025-09-26 10:33:58Z UTC
 <!-- SPOTIFY-END -->
