@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e30f29c31b288ebf51b20e9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733960a3a09442a3290b2497f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It Was Beautiful](https://open.spotify.com/track/0LOrGc5do2ImMZV2aPg2bh)**
-*by* **Capoxxo**
-*Album:* It Was Beautiful
+**🎵 [ill be in your dreams](https://open.spotify.com/track/0XLseheRg2PgTat9cc87TN)**
+*by* **Psych**
+*Album:* ill be in your dreams
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="119" height="4" fill="#1db954" rx="2"/>
-    <circle cx="119" cy="2" r="6" fill="#1db954"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 1:32
+    1:20 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
-🎤 **[what u mean](https://open.spotify.com/track/6KOpLipk1RdaNdZJlNcC6s)** by **roxas358** *(what u mean)*
-🎤 **[bad time](https://open.spotify.com/track/24JwVGieGliwy2jlCIVDU8)** by **mental, blxty** *(bad time)*
-🎤 **[Transparency](https://open.spotify.com/track/2vvoSduyXZx9ebBfTBCGli)** by **bodyGaard** *(Protection)*
-🎤 **[Fabric Softener](https://open.spotify.com/track/1VDAwheezrg6fVmhC5ajoH)** by **dreamcache** *(Fabric Softener)*
+🎤 **[Be Cool](https://open.spotify.com/track/2a7Ekji42NUR2WnA7f2tC7)** by **Sg Lily** *(Gokuraku Johdo (Collected Singles 2018-19))*
+🎤 **[one shot](https://open.spotify.com/track/4RvjRo8SUErh5mcoBE4AlX)** by **crusey, 1crusafix** *(one shot)*
+🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
+🎤 **[deep end](https://open.spotify.com/track/3isg1WMhHqbotOjTBxbMFi)** by **emorave** *(deep end)*
+🎤 **[too nice](https://open.spotify.com/track/1gOULc5EHXwdMWDjOJ1D4E)** by **d1v, Sg Lily** *(hard to know)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥈 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
-🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
-🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🥉 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
+🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 10:47:56Z UTC
+🕐 Last updated: 2025-09-26 11:10:09Z UTC
 <!-- SPOTIFY-END -->
