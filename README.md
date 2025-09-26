@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738dd5d6d4f19768d6812324e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)**
-*by* **crusey, trustt**
-*Album:* what u need
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[reject](https://open.spotify.com/track/6kOFKl83nqMqRpwNtl0OzY)** by **roxas358** *(reject)*
-🎤 **[streetcode](https://open.spotify.com/track/4WRiPRB4b60W0liTicwyi0)** by **d1v, Sg Lily** *(against the grain)*
-🎤 **[Dreamdemon](https://open.spotify.com/track/3VDz66Ut5dTq637260gie6)** by **Capoxxo** *(This User Has Gone Offline)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[until ur gone](https://open.spotify.com/track/6taCDr1elKCstD8NHoApX3)** by **mental** *(until ur gone)*
+🎤 **[reminisce](https://open.spotify.com/track/0XEuQkIL1YnBuOlHJi3uPP)** by **crusey** *(reminisce)*
+🎤 **[Over](https://open.spotify.com/track/3KX7oKolUVqSQOkRxL3yaI)** by **Sg Lily, tonser** *(Content)*
+🎤 **[undercover](https://open.spotify.com/track/0LvyNlK4sErI3Frv58gEbN)** by **d1v, with3r** *(hard to know)*
+🎤 **[bullish](https://open.spotify.com/track/7cIDp8UFZrYixQEMonkA2r)** by **Capoxxo, mayh3mp** *(Persona)*
+🎤 **[tell me whyy](https://open.spotify.com/track/1tO0zpTDIzw8nYF8wsA13o)** by **mental** *(tell me whyy)*
 
 
 
@@ -154,10 +135,10 @@
 
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥈 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
-🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
-🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
-🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
+🥉 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
+🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-26 13:48:35Z UTC
+🕐 Last updated: 2025-09-26 14:11:33Z UTC
 <!-- SPOTIFY-END -->
