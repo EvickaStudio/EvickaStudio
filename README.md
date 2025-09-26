@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732086cef2af6309cf644cdd75" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273035d28f09937fa5c2fcd1bc9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [finders keepers](https://open.spotify.com/track/6CaTp2UHsnERxTfNBS7I4B)**
-*by* **d1v**
-*Album:* finders keepers
+**🎵 [moment - Bonus Track](https://open.spotify.com/track/2Del3YTc68Ps0RAAkVw7EE)**
+*by* **emotionals, Pitfall**
+*Album:* attachment
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:23 • 2:44
+    1:55 • 2:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[honesty](https://open.spotify.com/track/7zgHQ7LktOJNbIIAbQThlz)** by **Capoxxo, mayh3mp** *(Persona)*
-🎤 **[with a ghost](https://open.spotify.com/track/1LNsLNyT7IRK9ccIU1Xip1)** by **mental** *(for a kiss)*
-🎤 **[someone else](https://open.spotify.com/track/6SyABfAjswbxyciclpST4M)** by **emotionals, Sg Lily** *(genki rock)*
-🎤 **[Aiming](https://open.spotify.com/track/4oO81MAvWw9bW4UKkgpFhH)** by **Pitfall** *(Aiming)*
-🎤 **[love always seems to come out the blue](https://open.spotify.com/track/0W18At7uaqyugRN0WYK3MG)** by **may** *(love always seems to come out the blue)*
+🎤 **[lucky](https://open.spotify.com/track/3rHDvgsYoozN85HOU5nhq0)** by **roxas358** *(lucky)*
+🎤 **[twisting the truth](https://open.spotify.com/track/31ib97tte9LmEuQnL7xpdw)** by **d1v** *(twisting the truth)*
+🎤 **[No Txt](https://open.spotify.com/track/3v2EvSxNoj7FFXtV5AR1RA)** by **Capoxxo** *(We Can Die Together)*
+🎤 **[finally home](https://open.spotify.com/track/0YGCvN4NojcluEF79c4qh7)** by **mental** *(finally home)*
+🎤 **[when im gone](https://open.spotify.com/track/2HSM14FIspIJYG7xRHgWNB)** by **Sg Lily** *(rp privateserver)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 13:02:03Z UTC
+🕐 Last updated: 2025-09-26 13:35:50Z UTC
 <!-- SPOTIFY-END -->
