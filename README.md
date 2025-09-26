@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27321e0fcd10010241611a176f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Doublehelix](https://open.spotify.com/track/7D0nCJtNKJTQhBPbzBkPA0)**
-*by* **blackwinterwells**
-*Album:* Doublehelix
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 1:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Doublehelix](https://open.spotify.com/track/7D0nCJtNKJTQhBPbzBkPA0)** by **blackwinterwells** *(Doublehelix)*
 🎤 **[I will keep you warm](https://open.spotify.com/track/5AQg0AdgxnT06XkMro6unu)** by **Psych** *(I will keep you warm)*
 🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
 🎤 **[loving me is way too hard](https://open.spotify.com/track/785zroyzLODTfTCGnWFkKw)** by **Psych** *(loving me is way too hard)*
 🎤 **[honest](https://open.spotify.com/track/6Cwd551I139ikC0OBjHehp)** by **coldspades, datealyfe** *(honest)*
-🎤 **[all that i want is u <3](https://open.spotify.com/track/20JOdw9OPJD2wXRktX0ERa)** by **bliiiss, Capoxxo** *(all that i want is u <3)*
 
 
 
@@ -154,10 +135,10 @@
 
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥈 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
-🥉 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
-🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🏅 [**lieblingspferd**](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-09-26 11:47:33Z UTC
+🕐 Last updated: 2025-09-26 12:24:15Z UTC
 <!-- SPOTIFY-END -->
