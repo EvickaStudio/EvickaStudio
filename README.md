@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)**
-*by* **pink luu, cxpyyy, luu**
-*Album:* 0800-111-0-111
+**🎵 [WIMHOf](https://open.spotify.com/track/1xoK00RybgwoF22LQ93VK5)**
+*by* **agelast222, gard**
+*Album:* SOLAR TACTICS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+    <rect width="150" height="4" fill="#1db954" rx="2"/>
+    <circle cx="150" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:04
+    0:59 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[INSTA CHATS](https://open.spotify.com/track/3CCkE1QbOUbuVFW4bkrAYq)** by **Vee4r** *(INSTA CHATS)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
+🎤 **[CUTS ON ME <3](https://open.spotify.com/track/220F8WqvrfwyM1q8WNNZG9)** by **xandera, disoc8** *(CUTS ON ME <3)*
+🎤 **[hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)** by **pink luu, cxpyyy, luu** *(0800-111-0-111)*
 🎤 **[study forever .. Remission or Focus?](https://open.spotify.com/track/6OwA9DPEZImH88GR2N1VVM)** by **Junshi** *(study forever .. Remission or Focus?)*
-🎤 **[1000 days](https://open.spotify.com/track/3ddEnYHJ9aogcpn9tx7bys)** by **angelicxmei** *(1000 days)*
-🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
-🎤 **[Save Me](https://open.spotify.com/track/7FWhGwONzWO27mEN3GQk70)** by **Capoxxo** *(Save Me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-27 17:25:08Z UTC
+🕐 Last updated: 2025-09-27 17:33:43Z UTC
 <!-- SPOTIFY-END -->
