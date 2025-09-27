@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273cafba2edd21f698aae6d7047" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fetish](https://open.spotify.com/track/0sOSSBzcUMD7cbdFzDYnYa)**
+**🎵 [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)**
 *by* **ear**
 *Album:* Fetish / Valley Serpent
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:32 • 2:41
+    2:14 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Reviving A Bad Memory](https://open.spotify.com/track/5w8UbS6QSPUFkBtrzZ4jGg)** by **Sink Saiko, 4evrx** *(Diaries Of Cyber Cunt)*
-🎤 **[i can't go back](https://open.spotify.com/track/6BJlOEqGz0OV2LGzSxo8Lv)** by **Emma Aibara** *(u:phobia)*
-🎤 **[Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui)** by **ESP** *(Promise)*
-🎤 **[Blazing in the Dark](https://open.spotify.com/track/3I32SxStmqEZORu2Q4phUO)** by **GnB Chili** *(Basement Popstar)*
-🎤 **[Yandere Era](https://open.spotify.com/track/6N0JLAPRlNpzDJ7Fd4IJua)** by **Cynthoni, Sewerslvt** *(Draining Love Story (In The Eyes Of Cynthoni))*
+🎤 **[bleed](https://open.spotify.com/track/1b79ipsZ4SCX3IKnJ5EahJ)** by **nixxiu** *(bleed)*
+🎤 **[reminescence](https://open.spotify.com/track/3aQcpPtcaOwbgwSkbmCltC)** by **marchpane, PAXNKOXD** *(Rememoration)*
+🎤 **[Vega](https://open.spotify.com/track/5OxX9mw7YJvEAipdesuurh)** by **ESP** *(Promise)*
+🎤 **[TURMERIC](https://open.spotify.com/track/0ZWD6GbVIMzCrPhtK8OIAf)** by **The Twins** *(TURMERIC)*
+🎤 **[Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb)** by **Ms* Gloom** *(Joker)*
 
 
 
@@ -155,9 +155,9 @@
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥈 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 🥉 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
-🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
+🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-27 11:47:49Z UTC
+🕐 Last updated: 2025-09-27 12:21:12Z UTC
 <!-- SPOTIFY-END -->
