@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273dc6fe280217d6ed008736471" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Lost in Her Virtual Eyes](https://open.spotify.com/track/6jZngUHXXzFGnK8mtMEaRV)**
+*by* **Cynthoni, Projekt Melody**
+*Album:* Lost in Her Virtual Eyes
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:56 • 4:21
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[do you miss me?](https://open.spotify.com/track/5c5Z1hLDLCH0rf4oBmUXpn)** by **Emma Aibara, Father Koi** *(do you miss me?)*
+🎤 **[Search for Home](https://open.spotify.com/track/4Z0sHEK1IguPk4YukSyFUp)** by **ESP** *(Promise)*
+🎤 **[dependent](https://open.spotify.com/track/47QK0ORG5KhlBTkMvJwJLi)** by **16:9 krollo ✥** *(dependent)*
+🎤 **[atonement](https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM)** by **Winter, Hatchie** *(What Kind of Blue Are You?)*
+🎤 **[body (i want you)](https://open.spotify.com/track/3y8Ek4gLumZB1wMsIzbNsH)** by **rouri404** *(body (i want you))*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 09:47:36Z UTC
+🕐 Last updated: 2025-09-27 10:11:05Z UTC
 <!-- SPOTIFY-END -->
