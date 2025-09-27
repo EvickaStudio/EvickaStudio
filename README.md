@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369aacce2fd43d8c72ddcdcd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b537a39e358a651a2602b3d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)**
-*by* **luu, Skatey Hellstar, chromey**
-*Album:* HYPERCORE, Vol. 3
+**🎵 [one kiss](https://open.spotify.com/track/6vtsK67Ch4zWasXm8dmyEE)**
+*by* **5v, Drux**
+*Album:* one kiss
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:28
+    0:50 • 2:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
+🎤 **[nicht alright](https://open.spotify.com/track/3iMW89M0dOkLOfYj0NZFeL)** by **cxpyyy, luu** *(nicht alright)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)** by **p6inkillr** *(upside down)*
+🎤 **[EMO](https://open.spotify.com/track/0GXwFz4iNz0K5kgTVIA9ly)** by **pink luu, cxpyyy, luu** *(EMO)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-27 16:47:41Z UTC
+🕐 Last updated: 2025-09-27 17:09:38Z UTC
 <!-- SPOTIFY-END -->
