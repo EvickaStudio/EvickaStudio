@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2730381901d033549bbcdb850eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)**
+*by* **stixz**
+*Album:* lonely nights
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:23 • 2:03
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
 🎤 **[vain](https://open.spotify.com/track/7jAB9bKgIYZ2Qz0sUVvGk3)** by **nixxiu** *(vain)*
 🎤 **[self-harm was not necessary](https://open.spotify.com/track/2ci9YbBuc7cUWDUMM8DnI5)** by **aak3** *(self-harm was not necessary)*
 🎤 **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)*
 🎤 **[u got](https://open.spotify.com/track/4OEZaHgLVRucwM97K3rxGJ)** by **The Twins** *(u got)*
-🎤 **[Basement Dreamer](https://open.spotify.com/track/4m1pFmQm6WLDIeKcB1mHjJ)** by **GnB Chili** *(Basement Popstar)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-27 14:26:58Z UTC
+🕐 Last updated: 2025-09-27 14:36:16Z UTC
 <!-- SPOTIFY-END -->
