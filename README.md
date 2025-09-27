@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736726dfbd3d3caffa9bd2f756" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c56a857a1e66e92c2edae96" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [50 bodiez](https://open.spotify.com/track/6lD6EbUEDI6YLimCVsHB6T)**
-*by* **Luvsick2k, phreshboyswag, hurtsucca**
-*Album:* 50 bodiez
+**🎵 [DYR OUTRO](https://open.spotify.com/track/20PkSjNRNlLtpcfKxQRPh8)**
+*by* **Dj Billybool, Eurohead**
+*Album:* DYR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="149" height="4" fill="#1db954" rx="2"/>
+    <circle cx="149" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 1:42
+    2:19 • 4:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Starts With You](https://open.spotify.com/track/108oGaLW9EGNUEHcjhV8UJ)** by **astadia** *(Starts With You)*
+🎤 **[think of you](https://open.spotify.com/track/7jgd0zFYBzmtg9gTVc7W1x)** by **NEW YORK** *(think of you / 2am)*
+🎤 **[Time Polish](https://open.spotify.com/track/4SBbBKxypeNmDPs1xnpAbU)** by **Lovefear, LJM.** *(Time Polish)*
+🎤 **[50 bodiez](https://open.spotify.com/track/6lD6EbUEDI6YLimCVsHB6T)** by **Luvsick2k, phreshboyswag, hurtsucca** *(50 bodiez)*
 🎤 **[Inspiration](https://open.spotify.com/track/4o9BFqywEjGPgpOtW0gTWF)** by **Sink Saiko** *(F60.312)*
-🎤 **[Texas](https://open.spotify.com/track/1VzMhR8uZle0PBKsyfxuaO)** by **James Ivy** *(Texas)*
-🎤 **[Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM)** by **Doss** *(Strawberry)*
-🎤 **[Search for Home](https://open.spotify.com/track/4Z0sHEK1IguPk4YukSyFUp)** by **ESP** *(Promise)*
-🎤 **[pwnhammer](https://open.spotify.com/track/2JQEQexjytfn9gfByrPrTt)** by **hallow** *(pwnhammer)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 11:08:57Z UTC
+🕐 Last updated: 2025-09-27 11:21:50Z UTC
 <!-- SPOTIFY-END -->
