@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aa3b7b57fb44c09ec6101f4c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27385d24682ba919a3ae6bbcfdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [You Can Stay](https://open.spotify.com/track/2xu6kLC9OsPfAwXSXJWcyb)**
-*by* **MIRSY**
-*Album:* You're Alone
+**🎵 [Emotionally Unavailable VIP](https://open.spotify.com/track/33BqlUPuFkAmERV2GeVDqo)**
+*by* **GnB Chili**
+*Album:* Emotionally Unavailable
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 1:46
+    2:48 • 3:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[WOAH](https://open.spotify.com/track/38GevcQcXX00Z1QG6FMYOj)** by **Jayboii** *(JayBoii)*
+🎤 **[mirrors demo](https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5)** by **overtonight throwaways, overtonight** *(SWAT)*
+🎤 **[You Can Stay](https://open.spotify.com/track/2xu6kLC9OsPfAwXSXJWcyb)** by **MIRSY** *(You're Alone)*
 🎤 **[crystar ✩༄࿐࿔](https://open.spotify.com/track/60mHmJ9g0bEYb31pWujGi2)** by **xngelblxde** *(lunartears)*
 🎤 **[20 dollars](https://open.spotify.com/track/0v4IObLThG4bDM5Of5F5zE)** by **Mayvi** *((She a $upastar now))*
-🎤 **[CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)** by **LXKAS** *(CALL THE DOCTOR!)*
-🎤 **[My Girl](https://open.spotify.com/track/7Bx65tpgZwmGODqOaEtHgR)** by **Aukina, hxly xo** *(Growing Pains)*
-🎤 **[angel](https://open.spotify.com/track/4mUG0wUqpchp7IU8ZzVeWN)** by **nixxiu** *(angel)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 10:39:35Z UTC
+🕐 Last updated: 2025-09-27 10:47:44Z UTC
 <!-- SPOTIFY-END -->
