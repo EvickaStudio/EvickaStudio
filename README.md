@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cafba2edd21f698aae6d7047" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)**
-*by* **ear**
-*Album:* Fetish / Valley Serpent
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="273" height="4" fill="#1db954" rx="2"/>
-    <circle cx="273" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 2:27
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[bleed](https://open.spotify.com/track/1b79ipsZ4SCX3IKnJ5EahJ)** by **nixxiu** *(bleed)*
-🎤 **[reminescence](https://open.spotify.com/track/3aQcpPtcaOwbgwSkbmCltC)** by **marchpane, PAXNKOXD** *(Rememoration)*
-🎤 **[Vega](https://open.spotify.com/track/5OxX9mw7YJvEAipdesuurh)** by **ESP** *(Promise)*
-🎤 **[TURMERIC](https://open.spotify.com/track/0ZWD6GbVIMzCrPhtK8OIAf)** by **The Twins** *(TURMERIC)*
-🎤 **[Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb)** by **Ms* Gloom** *(Joker)*
+🎤 **[vain](https://open.spotify.com/track/7jAB9bKgIYZ2Qz0sUVvGk3)** by **nixxiu** *(vain)*
+🎤 **[self-harm was not necessary](https://open.spotify.com/track/2ci9YbBuc7cUWDUMM8DnI5)** by **aak3** *(self-harm was not necessary)*
+🎤 **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)*
+🎤 **[u got](https://open.spotify.com/track/4OEZaHgLVRucwM97K3rxGJ)** by **The Twins** *(u got)*
+🎤 **[Basement Dreamer](https://open.spotify.com/track/4m1pFmQm6WLDIeKcB1mHjJ)** by **GnB Chili** *(Basement Popstar)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-27 12:21:12Z UTC
+🕐 Last updated: 2025-09-27 12:55:09Z UTC
 <!-- SPOTIFY-END -->
