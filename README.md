@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e52d6b0bf6e8e6252374a3d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)**
-*by* **pink luu, mehlhaltig**
-*Album:* kmdd
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 1:42
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[my glue](https://open.spotify.com/track/0B37hZATkkCj1C2WZZnIw8)** by **bliiiss** *(my glue)*
-🎤 **[When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)** by **Psych** *(When you needed me most)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[RTW](https://open.spotify.com/track/2XzlcHUeyGtcz8z3KXZzFP)** by **pink luu** *(RTW)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[lost in a dream ¿ lucid feeling](https://open.spotify.com/track/1sqKVmI1J5NOC24JLAf6mo)** by **may, Sayako** *(lost in a dream ¿ lucid feeling)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-27 21:23:44Z UTC
+🕐 Last updated: 2025-09-27 21:33:56Z UTC
 <!-- SPOTIFY-END -->
