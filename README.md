@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27307d32544c686ebda80b6c924" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Inspiration](https://open.spotify.com/track/4o9BFqywEjGPgpOtW0gTWF)**
-*by* **Sink Saiko**
-*Album:* F60.312
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="26" height="4" fill="#1db954" rx="2"/>
-    <circle cx="26" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:55
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[20 dollars](https://open.spotify.com/track/0v4IObLThG4bDM5Of5F5zE)** by **Mayvi** *((She a $upastar now))*
-🎤 **[You Can Stay](https://open.spotify.com/track/2xu6kLC9OsPfAwXSXJWcyb)** by **MIRSY** *(You're Alone)*
-🎤 **[crystar ✩༄࿐࿔](https://open.spotify.com/track/60mHmJ9g0bEYb31pWujGi2)** by **xngelblxde** *(lunartears)*
-🎤 **[arterien](https://open.spotify.com/track/0STuVrCzEKRtYj8ItoymYN)** by **blombi19** *(herzkasper)*
-🎤 **[think of you](https://open.spotify.com/track/7jgd0zFYBzmtg9gTVc7W1x)** by **NEW YORK** *(think of you / 2am)*
+🎤 **[Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM)** by **Doss** *(Strawberry)*
+🎤 **[Time Polish](https://open.spotify.com/track/4SBbBKxypeNmDPs1xnpAbU)** by **Lovefear, LJM.** *(Time Polish)*
+🎤 **[50 bodiez](https://open.spotify.com/track/6lD6EbUEDI6YLimCVsHB6T)** by **Luvsick2k, phreshboyswag, hurtsucca** *(50 bodiez)*
+🎤 **[WOAH](https://open.spotify.com/track/38GevcQcXX00Z1QG6FMYOj)** by **Jayboii** *(JayBoii)*
+🎤 **[Inspiration](https://open.spotify.com/track/4o9BFqywEjGPgpOtW0gTWF)** by **Sink Saiko** *(F60.312)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 05:11:37Z UTC
+🕐 Last updated: 2025-09-27 05:29:08Z UTC
 <!-- SPOTIFY-END -->
