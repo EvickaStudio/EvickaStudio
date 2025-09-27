@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fb79165882fb1da3f8855ff2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cafba2edd21f698aae6d7047" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Yandere Era](https://open.spotify.com/track/6N0JLAPRlNpzDJ7Fd4IJua)**
-*by* **Cynthoni, Sewerslvt**
-*Album:* Draining Love Story (In The Eyes Of Cynthoni)
+**🎵 [Fetish](https://open.spotify.com/track/0sOSSBzcUMD7cbdFzDYnYa)**
+*by* **ear**
+*Album:* Fetish / Valley Serpent
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 3:47
+    1:32 • 2:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sanctuary of heart, the contrast of love](https://open.spotify.com/track/31BFWaCuRYkiKQkS6b29Je)** by **may** *(sanctuary of heart, the contrast of love)*
-🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
-🎤 **[you will know](https://open.spotify.com/track/7q8L9idKEL0sHksRIFAyST)** by **Emma Aibara** *(u:phobia)*
-🎤 **[DYR OUTRO](https://open.spotify.com/track/20PkSjNRNlLtpcfKxQRPh8)** by **Dj Billybool, Eurohead** *(DYR)*
-🎤 **[Starts With You](https://open.spotify.com/track/108oGaLW9EGNUEHcjhV8UJ)** by **astadia** *(Starts With You)*
+🎤 **[Reviving A Bad Memory](https://open.spotify.com/track/5w8UbS6QSPUFkBtrzZ4jGg)** by **Sink Saiko, 4evrx** *(Diaries Of Cyber Cunt)*
+🎤 **[i can't go back](https://open.spotify.com/track/6BJlOEqGz0OV2LGzSxo8Lv)** by **Emma Aibara** *(u:phobia)*
+🎤 **[Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui)** by **ESP** *(Promise)*
+🎤 **[Blazing in the Dark](https://open.spotify.com/track/3I32SxStmqEZORu2Q4phUO)** by **GnB Chili** *(Basement Popstar)*
+🎤 **[Yandere Era](https://open.spotify.com/track/6N0JLAPRlNpzDJ7Fd4IJua)** by **Cynthoni, Sewerslvt** *(Draining Love Story (In The Eyes Of Cynthoni))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 11:33:51Z UTC
+🕐 Last updated: 2025-09-27 11:47:49Z UTC
 <!-- SPOTIFY-END -->
