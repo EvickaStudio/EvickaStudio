@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732146ebd8109d5f5567b76f0f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27307d32544c686ebda80b6c924" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)**
-*by* **Nosgov**
-*Album:* World
+**🎵 [Inspiration](https://open.spotify.com/track/4o9BFqywEjGPgpOtW0gTWF)**
+*by* **Sink Saiko**
+*Album:* F60.312
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 2:41
+    0:15 • 2:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[20 dollars](https://open.spotify.com/track/0v4IObLThG4bDM5Of5F5zE)** by **Mayvi** *((She a $upastar now))*
+🎤 **[You Can Stay](https://open.spotify.com/track/2xu6kLC9OsPfAwXSXJWcyb)** by **MIRSY** *(You're Alone)*
+🎤 **[crystar ✩༄࿐࿔](https://open.spotify.com/track/60mHmJ9g0bEYb31pWujGi2)** by **xngelblxde** *(lunartears)*
+🎤 **[arterien](https://open.spotify.com/track/0STuVrCzEKRtYj8ItoymYN)** by **blombi19** *(herzkasper)*
+🎤 **[think of you](https://open.spotify.com/track/7jgd0zFYBzmtg9gTVc7W1x)** by **NEW YORK** *(think of you / 2am)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 04:48:00Z UTC
+🕐 Last updated: 2025-09-27 05:11:37Z UTC
 <!-- SPOTIFY-END -->
