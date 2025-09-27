@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b537a39e358a651a2602b3d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [one kiss](https://open.spotify.com/track/6vtsK67Ch4zWasXm8dmyEE)**
-*by* **5v, Drux**
-*Album:* one kiss
+**🎵 [hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)**
+*by* **pink luu, cxpyyy, luu**
+*Album:* 0800-111-0-111
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="91" height="4" fill="#1db954" rx="2"/>
-    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:43
+    0:52 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nicht alright](https://open.spotify.com/track/3iMW89M0dOkLOfYj0NZFeL)** by **cxpyyy, luu** *(nicht alright)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)** by **p6inkillr** *(upside down)*
-🎤 **[EMO](https://open.spotify.com/track/0GXwFz4iNz0K5kgTVIA9ly)** by **pink luu, cxpyyy, luu** *(EMO)*
+🎤 **[study forever .. Remission or Focus?](https://open.spotify.com/track/6OwA9DPEZImH88GR2N1VVM)** by **Junshi** *(study forever .. Remission or Focus?)*
+🎤 **[1000 days](https://open.spotify.com/track/3ddEnYHJ9aogcpn9tx7bys)** by **angelicxmei** *(1000 days)*
+🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
+🎤 **[Save Me](https://open.spotify.com/track/7FWhGwONzWO27mEN3GQk70)** by **Capoxxo** *(Save Me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-27 17:09:38Z UTC
+🕐 Last updated: 2025-09-27 17:25:08Z UTC
 <!-- SPOTIFY-END -->
