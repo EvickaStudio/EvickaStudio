@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27327bc31fd58461ed9bdc07a19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e52d6b0bf6e8e6252374a3d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)**
-*by* **flywoah**
-*Album:* Choices
+**🎵 [kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)**
+*by* **pink luu, mehlhaltig**
+*Album:* kmdd
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 1:52
+    0:14 • 1:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[Karte](https://open.spotify.com/track/421JvJq8QfMCm0ehGHkPmO)** by **hqwilli** *(Nicht mehr lang)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[astagel aatum #diebrennenden (hotelgodlin)](https://open.spotify.com/track/3WhOiIMLQAiHv2XWNN78A8)** by **agelast222** *(astagel aatum #diebrennenden (hotelgodlin))*
-🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[my glue](https://open.spotify.com/track/0B37hZATkkCj1C2WZZnIw8)** by **bliiiss** *(my glue)*
+🎤 **[When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)** by **Psych** *(When you needed me most)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[RTW](https://open.spotify.com/track/2XzlcHUeyGtcz8z3KXZzFP)** by **pink luu** *(RTW)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
 
 
-🕐 Last updated: 2025-09-27 21:09:45Z UTC
+🕐 Last updated: 2025-09-27 21:23:44Z UTC
 <!-- SPOTIFY-END -->
