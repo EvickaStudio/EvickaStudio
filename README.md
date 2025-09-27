@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735c1a46f9e4545c175af1aabc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334a78803f43a0fa3fe7a82fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)**
-*by* **Kroka Koka**
-*Album:* Vindobona
+**🎵 [throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)**
+*by* **BED**
+*Album:* everything hurts
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 1:46
+    0:22 • 3:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
-🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
-🎤 **[Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM)** by **Doss** *(Strawberry)*
-🎤 **[Time Polish](https://open.spotify.com/track/4SBbBKxypeNmDPs1xnpAbU)** by **Lovefear, LJM.** *(Time Polish)*
-🎤 **[50 bodiez](https://open.spotify.com/track/6lD6EbUEDI6YLimCVsHB6T)** by **Luvsick2k, phreshboyswag, hurtsucca** *(50 bodiez)*
+🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
+🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 06:49:23Z UTC
+🕐 Last updated: 2025-09-27 07:10:24Z UTC
 <!-- SPOTIFY-END -->
