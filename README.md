@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)**
+*by* **luu**
+*Album:* immenser pflegefall
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:43 • 1:25
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
-🎤 **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)** by **Crescent, Rose, Y4ndere, Crystal Statues** *(Crystal Clear)*
+🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
+🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
+🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-27 00:54:53Z UTC
+🕐 Last updated: 2025-09-27 02:14:18Z UTC
 <!-- SPOTIFY-END -->
