@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)**
-*by* **leander, ilyproxy, Hadesthegrim**
-*Album:* GV Magazin: Deluxe Sex
+**🎵 [sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)**
+*by* **luu**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="218" height="4" fill="#1db954" rx="2"/>
-    <circle cx="218" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:51
+    1:47 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[leiche auf emma](https://open.spotify.com/track/5XxkG1fcUwl2mfwODFK2fy)** by **luu, luvwillow** *(immenser pflegefall)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
-🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
-🎤 **[glasscastle](https://open.spotify.com/track/1w9vuP0YV3cEGXwPxQ9i6d)** by **vai5000, i9bonsai** *(glasscastle)*
+🎤 **[leaking red glitter - slowed](https://open.spotify.com/track/0bhlNYa2tuLIe1t27m0ZBU)** by **snor** *(sobrelis (slowed))*
+🎤 **[MONSTER - sped up](https://open.spotify.com/track/0VGlkTORfGvqkOnRsYf8bZ)** by **Shoto** *(MONSTER (sped up))*
+🎤 **[Crystal Blue](https://open.spotify.com/track/5pUiPwQNv9LeNs7KLIkiPB)** by **Silent Boy, Sace, defyer** *(Crystal Blue)*
+🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu, cxpyyy, luu** *(ABCD)*
+🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
 
 
-🕐 Last updated: 2025-09-28 11:22:01Z UTC
+🕐 Last updated: 2025-09-28 11:33:44Z UTC
 <!-- SPOTIFY-END -->
