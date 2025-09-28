@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273acf9e6e55bb2400c4fddb48d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [So Kalt](https://open.spotify.com/track/0M3agZMjJij9kqJeM7eAUH)**
-*by* **mehlhaltig**
-*Album:* KaLT
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[Egal](https://open.spotify.com/track/26L889JLWIAfRY2e5ds4K5)** by **mehlhaltig, pscl** *(Egal)*
-🎤 **[ES WiRD HeLL](https://open.spotify.com/track/2m9QSLW5AswDgxdrOZMLSe)** by **mehlhaltig** *(PeRLeNKeTTe✰)*
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[FüHL MiCH NiCHT](https://open.spotify.com/track/0rvfAWA7QspzDud2NttwZ2)** by **mehlhaltig** *(PeRLeNKeTTe✰)*
+🎤 **[schmeiß mich einfach weg](https://open.spotify.com/track/7BrlzcJpcPIr9zab2zIPvs)** by **mehlhaltig, Skatey Hellstar** *(schmeiß mich einfach weg)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
+🎤 **[Hunderttausend - Sped Up Version](https://open.spotify.com/track/76qRS1HarVCuqeCoZ7JaXe)** by **Exxept, mehlhaltig** *(Hunderttausend)*
+🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 20:47:58Z UTC
+🕐 Last updated: 2025-09-28 21:09:48Z UTC
 <!-- SPOTIFY-END -->
