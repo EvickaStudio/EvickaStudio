@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e52d6b0bf6e8e6252374a3d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273acf9e6e55bb2400c4fddb48d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)**
-*by* **pink luu, mehlhaltig**
-*Album:* kmdd
+**🎵 [So Kalt](https://open.spotify.com/track/0M3agZMjJij9kqJeM7eAUH)**
+*by* **mehlhaltig**
+*Album:* KaLT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 1:42
+    0:55 • 2:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FüHL MiCH NiCHT](https://open.spotify.com/track/0rvfAWA7QspzDud2NttwZ2)** by **mehlhaltig** *(PeRLeNKeTTe✰)*
-🎤 **[Sonnenschein](https://open.spotify.com/track/0fe2xyWvHjopxQ0RHQmNEV)** by **mehlhaltig** *(Sonnenschein)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[Egal](https://open.spotify.com/track/26L889JLWIAfRY2e5ds4K5)** by **mehlhaltig, pscl** *(Egal)*
+🎤 **[ES WiRD HeLL](https://open.spotify.com/track/2m9QSLW5AswDgxdrOZMLSe)** by **mehlhaltig** *(PeRLeNKeTTe✰)*
 🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[FüHL MiCH NiCHT](https://open.spotify.com/track/0rvfAWA7QspzDud2NttwZ2)** by **mehlhaltig** *(PeRLeNKeTTe✰)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 20:38:23Z UTC
+🕐 Last updated: 2025-09-28 20:47:58Z UTC
 <!-- SPOTIFY-END -->
