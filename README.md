@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d300c3d8fa06ee9699eb6679" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273582853ed86ae0cf8a19016e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)**
-*by* **Steintor Herrenchor**
-*Album:* Collide Session #18 - Steintor Herrenchor
+**🎵 [Keine Zukunft](https://open.spotify.com/track/5KWFyUBpjAs4mcsggdyhsL)**
+*by* **NILS KEPPEL**
+*Album:* Keine Zukunft
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="119" height="4" fill="#1db954" rx="2"/>
+    <circle cx="119" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:32 • 3:48
+    1:01 • 2:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
-🎤 **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)*
-🎤 **[Melancholie](https://open.spotify.com/track/2Fm1hz750M8JhAmELP95yd)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[Pistazieneis](https://open.spotify.com/track/2KDo6hRi9WlRCaSk7hqMUS)** by **Streichelt** *(Pistazieneis)*
+🎤 **[Du bist genauso..](https://open.spotify.com/track/13tO9qQ93hRienhWuqrP0f)** by **Urbannino** *(Du bist genauso..)*
+🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 19:33:39Z UTC
+🕐 Last updated: 2025-09-28 19:47:49Z UTC
 <!-- SPOTIFY-END -->
