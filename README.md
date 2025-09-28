@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273173a881829912840a7616a0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27324a63baa4c82a336ad7ad392" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MONSTER HIGH](https://open.spotify.com/track/32wbh3EZoxZ8ip0jfF0pj3)**
-*by* **Hello Hannes**
-*Album:* MONSTER HIGH
+**🎵 [sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)**
+*by* **luu**
+*Album:* sperr mich ein
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+    <rect width="2" height="4" fill="#1db954" rx="2"/>
+    <circle cx="2" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:01
+    0:01 • 1:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Sonnenschein](https://open.spotify.com/track/0fe2xyWvHjopxQ0RHQmNEV)** by **mehlhaltig** *(Sonnenschein)*
+🎤 **[GET OFF ME](https://open.spotify.com/track/1HOZqsxPRZISTlCVw6aevL)** by **xandera, cholorofilm** *(GET OFF ME)*
+🎤 **[MONSTER HIGH](https://open.spotify.com/track/32wbh3EZoxZ8ip0jfF0pj3)** by **Hello Hannes** *(MONSTER HIGH)*
 🎤 **[euphoria](https://open.spotify.com/track/6A0DA93LGpfwcEwmPZK6KO)** by **p6inkillr** *(euphoria)*
 🎤 **[BLISTER IM BACKPACK](https://open.spotify.com/track/4CduNMBHQUyhoPtw4A7apR)** by **Vee4r** *(BLISTER IM BACKPACK)*
-🎤 **[Chaos](https://open.spotify.com/track/5lYgDmiOl1T0fgnYJuT6QU)** by **mehlhaltig** *(Chaos)*
-🎤 **[my only friends](https://open.spotify.com/track/3rmuYaCeaNBUbJ88rJqppI)** by **ratrace90210** *(the ordained)*
-🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 17:25:00Z UTC
+🕐 Last updated: 2025-09-28 17:33:44Z UTC
 <!-- SPOTIFY-END -->
