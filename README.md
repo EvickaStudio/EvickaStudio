@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aebf12c073e4d6ed1137cd92" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aa437639d146a7931ea671bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [she ate my heart - slowed](https://open.spotify.com/track/6vupznx2z307PEhRjMQxIj)**
-*by* **snor**
-*Album:* sobrelis (slowed)
+**🎵 [titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)**
+*by* **luu, mehlhaltig**
+*Album:* verluustanzeige (wo bin ich?)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:39
+    0:50 • 1:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
-🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
-🎤 **[E-MÄDCHEN 2](https://open.spotify.com/track/0nlSPXWNilkzhcavunFThx)** by **Punk Christ** *(E-MÄDCHEN 2)*
-🎤 **[HaHa](https://open.spotify.com/track/3b3DRDh7H26kgvSB6zCsLq)** by **503scoob, xandera, lavendr** *(HaHa)*
-🎤 **[so #iconic](https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB)** by **disoc8** *(so #iconic)*
+🎤 **[Gu(te)Be(sserung)☆](https://open.spotify.com/track/4lvLmMa68yOe8CEdxuQWYA)** by **mehlhaltig** *(Gu(te)Be(sserung)☆)*
+🎤 **[wish I didnt kno her ##biblemusic - slowed](https://open.spotify.com/track/2Xuo4HV3HbEqgPbgV9q8u3)** by **snor** *(sobrelis (slowed))*
+🎤 **[FML (+kets4eki)](https://open.spotify.com/track/5iqTLYGuwglIMutcntNDBj)** by **Vee4r, kets4eki** *(FML (+kets4eki))*
+🎤 **[Endlich bist Du da](https://open.spotify.com/track/1CfbGrMXQzo6iTuS0NbMHn)** by **leander** *(Endlich bist Du da)*
+🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 16:12:31Z UTC
+🕐 Last updated: 2025-09-28 16:31:25Z UTC
 <!-- SPOTIFY-END -->
