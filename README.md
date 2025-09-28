@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)**
-*by* **agelast222, gard**
-*Album:* SOLAR TACTICS
+**🎵 [immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)**
+*by* **luu**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="261" height="4" fill="#1db954" rx="2"/>
-    <circle cx="261" cy="2" r="6" fill="#1db954"/>
+    <rect width="164" height="4" fill="#1db954" rx="2"/>
+    <circle cx="164" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 1:29
+    0:46 • 1:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 15:10:30Z UTC
+🕐 Last updated: 2025-09-28 15:25:13Z UTC
 <!-- SPOTIFY-END -->
