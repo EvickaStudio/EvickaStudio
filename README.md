@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273582853ed86ae0cf8a19016e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273985f219335fef845c2858208" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Keine Zukunft](https://open.spotify.com/track/5KWFyUBpjAs4mcsggdyhsL)**
-*by* **NILS KEPPEL**
-*Album:* Keine Zukunft
+**🎵 [FüHL DiCH NiCHT](https://open.spotify.com/track/2nqbbQgOAImdfzcyZOTwTv)**
+*by* **mehlhaltig**
+*Album:* PeRLeNKeTTe✰
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="119" height="4" fill="#1db954" rx="2"/>
-    <circle cx="119" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:34
+    2:02 • 2:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
-🎤 **[Pistazieneis](https://open.spotify.com/track/2KDo6hRi9WlRCaSk7hqMUS)** by **Streichelt** *(Pistazieneis)*
-🎤 **[Du bist genauso..](https://open.spotify.com/track/13tO9qQ93hRienhWuqrP0f)** by **Urbannino** *(Du bist genauso..)*
-🎤 **[wohin - Reeperbahn Festival Collide](https://open.spotify.com/track/1olryyX7jz01yy6QiENGEd)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[seelenverwandte](https://open.spotify.com/track/7LULFjdI7QMSqaiLGxC3ne)** by **luu, mehlhaltig** *(seelenverwandte)*
+🎤 **[Kalt](https://open.spotify.com/track/2QKZo21EH7lPcWaxKLGcko)** by **mehlhaltig** *(KaLT)*
+🎤 **[Sterne Schauen - Sped Up](https://open.spotify.com/track/60n1KmSCPJy50rjzkgdZ8h)** by **mehlhaltig** *(Sterne schauen)*
+🎤 **[Ist doch egal](https://open.spotify.com/track/5wnhR1PKhL6Nks3fpWjF85)** by **ichbinsoverwirrt, mehlhaltig, Schneekind** *(Ist doch egal)*
+🎤 **[Gu(te)Be(sserung)☆](https://open.spotify.com/track/4lvLmMa68yOe8CEdxuQWYA)** by **mehlhaltig** *(Gu(te)Be(sserung)☆)*
 
 
 
@@ -144,8 +144,8 @@
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 19:47:49Z UTC
+🕐 Last updated: 2025-09-28 20:12:43Z UTC
 <!-- SPOTIFY-END -->
