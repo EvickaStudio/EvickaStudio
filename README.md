@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273985f219335fef845c2858208" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273173a881829912840a7616a0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FüHL MiCH NiCHT](https://open.spotify.com/track/0rvfAWA7QspzDud2NttwZ2)**
-*by* **mehlhaltig**
-*Album:* PeRLeNKeTTe✰
+**🎵 [MONSTER HIGH](https://open.spotify.com/track/32wbh3EZoxZ8ip0jfF0pj3)**
+*by* **Hello Hannes**
+*Album:* MONSTER HIGH
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="80" height="4" fill="#1db954" rx="2"/>
+    <circle cx="80" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 2:47
+    0:32 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[GUN IM BACKPACK](https://open.spotify.com/track/3pHP0dBaSTT6CUPPH8Y7wv)** by **Vee4r** *(GUN IM BACKPACK)*
-🎤 **[hustensaft](https://open.spotify.com/track/4RpAzEkTkNERkGi58x4SbP)** by **pink luu** *(hustensaft)*
-🎤 **[Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)** by **52Blue** *(Meer oder weniger)*
-🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
-🎤 **[Kalt](https://open.spotify.com/track/2QKZo21EH7lPcWaxKLGcko)** by **mehlhaltig** *(KaLT)*
+🎤 **[euphoria](https://open.spotify.com/track/6A0DA93LGpfwcEwmPZK6KO)** by **p6inkillr** *(euphoria)*
+🎤 **[BLISTER IM BACKPACK](https://open.spotify.com/track/4CduNMBHQUyhoPtw4A7apR)** by **Vee4r** *(BLISTER IM BACKPACK)*
+🎤 **[Chaos](https://open.spotify.com/track/5lYgDmiOl1T0fgnYJuT6QU)** by **mehlhaltig** *(Chaos)*
+🎤 **[my only friends](https://open.spotify.com/track/3rmuYaCeaNBUbJ88rJqppI)** by **ratrace90210** *(the ordained)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 17:09:30Z UTC
+🕐 Last updated: 2025-09-28 17:25:00Z UTC
 <!-- SPOTIFY-END -->
