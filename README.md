@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27363a6cced57677dd3fa588edd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c9582d5cc7e40d8f4c21b13f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)**
-*by* **flywoah**
-*Album:* Don't Give Up
+**🎵 [serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)**
+*by* **Luvsick2k, cholorofilm**
+*Album:* serotonin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="227" height="4" fill="#1db954" rx="2"/>
+    <circle cx="227" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 1:56
+    1:24 • 1:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[mine even if it hurts ♡](https://open.spotify.com/track/2IvDpclVMyoiMuVqVhlYrs)** by **lovesiren, pichuu** *(mine even if it hurts ♡)*
+🎤 **[PULLI ARMANI](https://open.spotify.com/track/2axw8ShXkqvJvUDg5tgaeX)** by **mikeycyrus, Kroka Koka** *(PULLI ARMANI)*
+🎤 **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)*
+🎤 **[Frage](https://open.spotify.com/track/4h8AEYcg1D4btniZnNIphZ)** by **mehlhaltig** *(Frage)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 15:33:36Z UTC
+🕐 Last updated: 2025-09-28 15:47:40Z UTC
 <!-- SPOTIFY-END -->
