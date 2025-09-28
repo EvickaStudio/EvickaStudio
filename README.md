@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737603a201836888cb5f33a2c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27315b72ee3398b9857fc468fbd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)**
-*by* **ilyproxy, leander, Hadesthegrim, eversonder**
-*Album:* superswag pt. 1
+**🎵 [nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)**
+*by* **5v**
+*Album:* nodding off
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 2:57
+    1:29 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[knochensäge](https://open.spotify.com/track/753mn7HbeehgfN9WeARj52)** by **luu, iwannabemissed** *(immenser pflegefall)*
+🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
+🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
+🎤 **[i dont mean no harm](https://open.spotify.com/track/6lcxaASRl0lMaIU95yH8CH)** by **Senses, kojo** *(i dont mean no harm)*
 🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[(rough).jp](https://open.spotify.com/track/1onxOD0rKhNvd3V1uruRKk)** by **Emma Aibara, shxrda** *((rough).jp)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-28 05:40:08Z UTC
+🕐 Last updated: 2025-09-28 05:47:26Z UTC
 <!-- SPOTIFY-END -->
