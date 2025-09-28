@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27324a63baa4c82a336ad7ad392" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f1bca68a4c0f169c5a4a26d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)**
-*by* **luu**
-*Album:* sperr mich ein
+**🎵 [sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)**
+*by* **pink luu, Vee4r**
+*Album:* sacrifice
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="2" height="4" fill="#1db954" rx="2"/>
-    <circle cx="2" cy="2" r="6" fill="#1db954"/>
+    <rect width="262" height="4" fill="#1db954" rx="2"/>
+    <circle cx="262" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 1:55
+    1:52 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sonnenschein](https://open.spotify.com/track/0fe2xyWvHjopxQ0RHQmNEV)** by **mehlhaltig** *(Sonnenschein)*
-🎤 **[GET OFF ME](https://open.spotify.com/track/1HOZqsxPRZISTlCVw6aevL)** by **xandera, cholorofilm** *(GET OFF ME)*
-🎤 **[MONSTER HIGH](https://open.spotify.com/track/32wbh3EZoxZ8ip0jfF0pj3)** by **Hello Hannes** *(MONSTER HIGH)*
-🎤 **[euphoria](https://open.spotify.com/track/6A0DA93LGpfwcEwmPZK6KO)** by **p6inkillr** *(euphoria)*
-🎤 **[BLISTER IM BACKPACK](https://open.spotify.com/track/4CduNMBHQUyhoPtw4A7apR)** by **Vee4r** *(BLISTER IM BACKPACK)*
+🎤 **[In My Dreams](https://open.spotify.com/track/3Oxm3SPGxgIuuQGB9jw53P)** by **503scoob, 444pluto, Ichigo** *(In My Dreams)*
+🎤 **[Egal](https://open.spotify.com/track/26L889JLWIAfRY2e5ds4K5)** by **mehlhaltig, pscl** *(Egal)*
+🎤 **[Snuff](https://open.spotify.com/track/153g1i5gJ181ROd6Ciov6d)** by **Doll, zeija** *(Snuff)*
+🎤 **[labyrinth](https://open.spotify.com/track/4mCT9d0DDLUTW5rMzJ70nv)** by **p6inkillr, z4y4 ‎** *(labyrinth)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 17:33:44Z UTC
+🕐 Last updated: 2025-09-28 17:47:54Z UTC
 <!-- SPOTIFY-END -->
