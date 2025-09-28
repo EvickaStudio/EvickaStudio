@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369f61e36c885ecf648456e69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730381901d033549bbcdb850eb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)**
-*by* **snor**
-*Album:* tear drops
+**🎵 [lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)**
+*by* **stixz**
+*Album:* lonely nights
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:07
+    0:41 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
-🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-28 09:25:51Z UTC
+🕐 Last updated: 2025-09-28 09:34:12Z UTC
 <!-- SPOTIFY-END -->
