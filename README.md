@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273865319e1ef1e19ab4af9e6ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27327bc31fd58461ed9bdc07a19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)**
-*by* **m1nutes**
-*Album:* dumb
+**🎵 [Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)**
+*by* **flywoah**
+*Album:* Choices
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:07
+    1:26 • 1:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
-🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
-🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
+🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
+🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
+🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
+🎤 **[CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)** by **LXKAS** *(CALL THE DOCTOR!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
 
 
-🕐 Last updated: 2025-09-28 08:47:46Z UTC
+🕐 Last updated: 2025-09-28 09:10:50Z UTC
 <!-- SPOTIFY-END -->
