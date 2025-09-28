@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273064a13844ae5fa324af578cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273985f219335fef845c2858208" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)**
-*by* **Shoto**
-*Album:* ADHS
+**🎵 [FüHL MiCH NiCHT](https://open.spotify.com/track/0rvfAWA7QspzDud2NttwZ2)**
+*by* **mehlhaltig**
+*Album:* PeRLeNKeTTe✰
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 2:50
+    1:40 • 2:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cutte sie ab](https://open.spotify.com/track/3OZ8Hmou0obXoJ1ci379n1)** by **Hello Hannes, Love Pact** *(cutte sie ab)*
-🎤 **[haftpflichtversicherung](https://open.spotify.com/track/1LIDD6C0FJGQPuNnm6mBl4)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
-🎤 **[So Kalt](https://open.spotify.com/track/0M3agZMjJij9kqJeM7eAUH)** by **mehlhaltig** *(KaLT)*
-🎤 **[goredance - slowed](https://open.spotify.com/track/712vbuJLrqJ4ZkCtTrG06K)** by **snor** *(sobrelis (slowed))*
-🎤 **[REMIND ME](https://open.spotify.com/track/1Yi7jPrqrx4zdzGke8xuqk)** by **Vee4r, kmrnxo** *(REMIND ME)*
+🎤 **[GUN IM BACKPACK](https://open.spotify.com/track/3pHP0dBaSTT6CUPPH8Y7wv)** by **Vee4r** *(GUN IM BACKPACK)*
+🎤 **[hustensaft](https://open.spotify.com/track/4RpAzEkTkNERkGi58x4SbP)** by **pink luu** *(hustensaft)*
+🎤 **[Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)** by **52Blue** *(Meer oder weniger)*
+🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
+🎤 **[Kalt](https://open.spotify.com/track/2QKZo21EH7lPcWaxKLGcko)** by **mehlhaltig** *(KaLT)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 16:47:57Z UTC
+🕐 Last updated: 2025-09-28 17:09:30Z UTC
 <!-- SPOTIFY-END -->
