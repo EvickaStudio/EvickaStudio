@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)**
+*by* **Edwin Rosen, sparr00w**
+*Album:* Die Sterne
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:14 • 3:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[CaramellBlinkerz](https://open.spotify.com/track/7piaG8NQar2NTNxCswbXMR)** by **hateoryx, KidSnorlax, andylovu** *(CaramellBlinkerz)*
 🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic, cxpyyy, luu** *(alprazolam)*
 🎤 **[Die For You](https://open.spotify.com/track/48NsfPMTNGXHEAaosr5i9V)** by **503scoob, romziie, 4ortake** *(Die For You)*
-🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
-🎤 **[ES WiRD HeLL](https://open.spotify.com/track/2m9QSLW5AswDgxdrOZMLSe)** by **mehlhaltig** *(PeRLeNKeTTe✰)*
-🎤 **[mind communication "" ! + # --/// ::](https://open.spotify.com/track/2OShI8C1Gs19y8GmTpTRWS)** by **ALeiz** *(mind communication "" ! + # --/// ::)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 19:08:19Z UTC
+🕐 Last updated: 2025-09-28 19:21:01Z UTC
 <!-- SPOTIFY-END -->
