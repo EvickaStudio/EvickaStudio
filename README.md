@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346dd57140251f574ca6f44db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)**
-*by* **leander, ilyproxy, Hadesthegrim**
-*Album:* GV Magazin: Deluxe Sex
+**🎵 [Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)**
+*by* **Capoxxo**
+*Album:* Monster
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+    <rect width="117" height="4" fill="#1db954" rx="2"/>
+    <circle cx="117" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:07
+    0:50 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48** *(change us)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[relapse!!](https://open.spotify.com/track/3zQwsJ10D9oqiOZ3TXZpbb)** by **HAR$h, ilymeow** *(relapse!!)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[zombies in designer](https://open.spotify.com/track/5LdmPs6SJnjzPCvz0K931i)** by **pink luu, cy4ne, 10n35t4r** *(zombies in designer)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
+🎤 **[im sorry for crying](https://open.spotify.com/track/4jiGNQbHRwkOzCPWRoESSH)** by **Psych** *(im sorry for crying)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-28 04:47:55Z UTC
+🕐 Last updated: 2025-09-28 05:11:20Z UTC
 <!-- SPOTIFY-END -->
