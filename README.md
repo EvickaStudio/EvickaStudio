@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c9582d5cc7e40d8f4c21b13f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aebf12c073e4d6ed1137cd92" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)**
-*by* **Luvsick2k, cholorofilm**
-*Album:* serotonin
+**🎵 [she ate my heart - slowed](https://open.spotify.com/track/6vupznx2z307PEhRjMQxIj)**
+*by* **snor**
+*Album:* sobrelis (slowed)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 1:52
+    0:13 • 2:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mine even if it hurts ♡](https://open.spotify.com/track/2IvDpclVMyoiMuVqVhlYrs)** by **lovesiren, pichuu** *(mine even if it hurts ♡)*
-🎤 **[PULLI ARMANI](https://open.spotify.com/track/2axw8ShXkqvJvUDg5tgaeX)** by **mikeycyrus, Kroka Koka** *(PULLI ARMANI)*
-🎤 **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)*
-🎤 **[Frage](https://open.spotify.com/track/4h8AEYcg1D4btniZnNIphZ)** by **mehlhaltig** *(Frage)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
+🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
+🎤 **[E-MÄDCHEN 2](https://open.spotify.com/track/0nlSPXWNilkzhcavunFThx)** by **Punk Christ** *(E-MÄDCHEN 2)*
+🎤 **[HaHa](https://open.spotify.com/track/3b3DRDh7H26kgvSB6zCsLq)** by **503scoob, xandera, lavendr** *(HaHa)*
+🎤 **[so #iconic](https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB)** by **disoc8** *(so #iconic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 15:47:40Z UTC
+🕐 Last updated: 2025-09-28 16:12:31Z UTC
 <!-- SPOTIFY-END -->
