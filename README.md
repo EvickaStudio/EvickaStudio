@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aa437639d146a7931ea671bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273064a13844ae5fa324af578cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)**
-*by* **luu, mehlhaltig**
-*Album:* verluustanzeige (wo bin ich?)
+**🎵 [ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)**
+*by* **Shoto**
+*Album:* ADHS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 1:35
+    0:26 • 2:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Gu(te)Be(sserung)☆](https://open.spotify.com/track/4lvLmMa68yOe8CEdxuQWYA)** by **mehlhaltig** *(Gu(te)Be(sserung)☆)*
-🎤 **[wish I didnt kno her ##biblemusic - slowed](https://open.spotify.com/track/2Xuo4HV3HbEqgPbgV9q8u3)** by **snor** *(sobrelis (slowed))*
-🎤 **[FML (+kets4eki)](https://open.spotify.com/track/5iqTLYGuwglIMutcntNDBj)** by **Vee4r, kets4eki** *(FML (+kets4eki))*
-🎤 **[Endlich bist Du da](https://open.spotify.com/track/1CfbGrMXQzo6iTuS0NbMHn)** by **leander** *(Endlich bist Du da)*
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[cutte sie ab](https://open.spotify.com/track/3OZ8Hmou0obXoJ1ci379n1)** by **Hello Hannes, Love Pact** *(cutte sie ab)*
+🎤 **[haftpflichtversicherung](https://open.spotify.com/track/1LIDD6C0FJGQPuNnm6mBl4)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
+🎤 **[So Kalt](https://open.spotify.com/track/0M3agZMjJij9kqJeM7eAUH)** by **mehlhaltig** *(KaLT)*
+🎤 **[goredance - slowed](https://open.spotify.com/track/712vbuJLrqJ4ZkCtTrG06K)** by **snor** *(sobrelis (slowed))*
+🎤 **[REMIND ME](https://open.spotify.com/track/1Yi7jPrqrx4zdzGke8xuqk)** by **Vee4r, kmrnxo** *(REMIND ME)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-28 16:31:25Z UTC
+🕐 Last updated: 2025-09-28 16:47:57Z UTC
 <!-- SPOTIFY-END -->
