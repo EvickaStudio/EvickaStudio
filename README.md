@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737829e6b52beb18f8e4b5c7b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737603a201836888cb5f33a2c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [(rough).jp](https://open.spotify.com/track/1onxOD0rKhNvd3V1uruRKk)**
-*by* **Emma Aibara, shxrda**
-*Album:* (rough).jp
+**🎵 [superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)**
+*by* **ilyproxy, leander, Hadesthegrim, eversonder**
+*Album:* superswag pt. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 2:40
+    0:04 • 2:57
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[am i crazy???](https://open.spotify.com/track/31moa9kHYrMkNxNZKRrSdH)** by **iamsodead, dollreallll, Cl4ireB3ar, NXTY** *(am i crazy???)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[(rough).jp](https://open.spotify.com/track/1onxOD0rKhNvd3V1uruRKk)** by **Emma Aibara, shxrda** *((rough).jp)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥈 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-28 05:29:31Z UTC
+🕐 Last updated: 2025-09-28 05:40:08Z UTC
 <!-- SPOTIFY-END -->
