@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27346dd57140251f574ca6f44db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737829e6b52beb18f8e4b5c7b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)**
-*by* **Capoxxo**
-*Album:* Monster
+**🎵 [(rough).jp](https://open.spotify.com/track/1onxOD0rKhNvd3V1uruRKk)**
+*by* **Emma Aibara, shxrda**
+*Album:* (rough).jp
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="117" height="4" fill="#1db954" rx="2"/>
-    <circle cx="117" cy="2" r="6" fill="#1db954"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:08
+    1:40 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[relapse!!](https://open.spotify.com/track/3zQwsJ10D9oqiOZ3TXZpbb)** by **HAR$h, ilymeow** *(relapse!!)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[zombies in designer](https://open.spotify.com/track/5LdmPs6SJnjzPCvz0K931i)** by **pink luu, cy4ne, 10n35t4r** *(zombies in designer)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[im sorry for crying](https://open.spotify.com/track/4jiGNQbHRwkOzCPWRoESSH)** by **Psych** *(im sorry for crying)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[am i crazy???](https://open.spotify.com/track/31moa9kHYrMkNxNZKRrSdH)** by **iamsodead, dollreallll, Cl4ireB3ar, NXTY** *(am i crazy???)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 
 
-🕐 Last updated: 2025-09-28 05:11:20Z UTC
+🕐 Last updated: 2025-09-28 05:29:31Z UTC
 <!-- SPOTIFY-END -->
