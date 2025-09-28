@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273434d814f3fba899ce26a5f19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [glasscastle](https://open.spotify.com/track/1w9vuP0YV3cEGXwPxQ9i6d)**
-*by* **vai5000, i9bonsai**
-*Album:* glasscastle
+**🎵 [Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)**
+*by* **leander, ilyproxy, Hadesthegrim**
+*Album:* GV Magazin: Deluxe Sex
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="218" height="4" fill="#1db954" rx="2"/>
+    <circle cx="218" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:20
+    2:04 • 2:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
-🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
-🎤 **[I Reap What I Sow](https://open.spotify.com/track/3hDfIZbDoYpkYFqvxQlodi)** by **aftrr!** *(aftrrLife)*
-🎤 **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[leiche auf emma](https://open.spotify.com/track/5XxkG1fcUwl2mfwODFK2fy)** by **luu, luvwillow** *(immenser pflegefall)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[ADHS](https://open.spotify.com/track/5Bko9Ep4XrN4PfVvs0ETww)** by **Shoto** *(ADHS)*
+🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
+🎤 **[glasscastle](https://open.spotify.com/track/1w9vuP0YV3cEGXwPxQ9i6d)** by **vai5000, i9bonsai** *(glasscastle)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥈 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
-🥉 [**nur für dich!!^_-**](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)
-🏅 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
+🥉 [**arschloch**](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)
 🏅 [**tiefer schmerz... o_0**](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)
+🏅 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
 
 
-🕐 Last updated: 2025-09-28 11:08:43Z UTC
+🕐 Last updated: 2025-09-28 11:22:01Z UTC
 <!-- SPOTIFY-END -->
