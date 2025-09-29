@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b3b4dfa9f7966899b59b2d34" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)**
-*by* **Radiohead**
-*Album:* Amnesiac
+**🎵 [kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)**
+*by* **julie**
+*Album:* starjump / kit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+    <rect width="142" height="4" fill="#1db954" rx="2"/>
+    <circle cx="142" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 4:14
+    1:46 • 3:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[pain in my brain](https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
+🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
+🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
 🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
-🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
-🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**boyfriend**](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)
 
 
-🕐 Last updated: 2025-09-29 21:34:53Z UTC
+🕐 Last updated: 2025-09-29 21:48:15Z UTC
 <!-- SPOTIFY-END -->
