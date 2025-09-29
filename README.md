@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
 🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
 🎤 **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)*
 🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
 🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
-🎤 **[eugh!](https://open.spotify.com/track/4QBRWlQ7cPeipN1xmi7nvl)** by **luu** *(eugh!)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-29 08:18:35Z UTC
+🕐 Last updated: 2025-09-29 08:46:12Z UTC
 <!-- SPOTIFY-END -->
