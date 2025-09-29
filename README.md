@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273542578620266bf9237e6964f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Abyss (w/ Baby Jane)](https://open.spotify.com/track/6jXCTU6asnXjWwIhX0eyPF)**
-*by* **6arelyhuman, Baby Jane**
-*Album:* Abyss (w/ Baby Jane)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:52
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[crushed](https://open.spotify.com/track/4g2qcGNPIccpPEhKMMBRbg)** by **syris** *(crushed)*
+🎤 **[serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)** by **Luvsick2k, cholorofilm** *(serotonin)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Abyss (w/ Baby Jane)](https://open.spotify.com/track/6jXCTU6asnXjWwIhX0eyPF)** by **6arelyhuman, Baby Jane** *(Abyss (w/ Baby Jane))*
 🎤 **[Vampire](https://open.spotify.com/track/2S1LuNRs1vaFXUEtaOjugw)** by **Chicken Lover** *(Vampire)*
-🎤 **[modelvamps wollen nicht raus](https://open.spotify.com/track/2YMehBMP53X1s96Dg6WRuI)** by **Swaglord3000x** *(modelvamps wollen nicht raus)*
-🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
-🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[THROW IT UP](https://open.spotify.com/track/4ojyb3cUUOYz9MWxyxgCYD)** by **Sylendanna** *(THROW IT UP)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-29 06:20:28Z UTC
+🕐 Last updated: 2025-09-29 06:48:50Z UTC
 <!-- SPOTIFY-END -->
