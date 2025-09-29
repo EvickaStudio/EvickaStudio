@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273542578620266bf9237e6964f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Abyss (w/ Baby Jane)](https://open.spotify.com/track/6jXCTU6asnXjWwIhX0eyPF)**
+*by* **6arelyhuman, Baby Jane**
+*Album:* Abyss (w/ Baby Jane)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:47 • 2:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[schmeiß mich einfach weg](https://open.spotify.com/track/7BrlzcJpcPIr9zab2zIPvs)** by **mehlhaltig, Skatey Hellstar** *(schmeiß mich einfach weg)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
-🎤 **[Hunderttausend - Sped Up Version](https://open.spotify.com/track/76qRS1HarVCuqeCoZ7JaXe)** by **Exxept, mehlhaltig** *(Hunderttausend)*
-🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Vampire](https://open.spotify.com/track/2S1LuNRs1vaFXUEtaOjugw)** by **Chicken Lover** *(Vampire)*
+🎤 **[modelvamps wollen nicht raus](https://open.spotify.com/track/2YMehBMP53X1s96Dg6WRuI)** by **Swaglord3000x** *(modelvamps wollen nicht raus)*
+🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
+🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
+🎤 **[THROW IT UP](https://open.spotify.com/track/4ojyb3cUUOYz9MWxyxgCYD)** by **Sylendanna** *(THROW IT UP)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-29 05:47:40Z UTC
+🕐 Last updated: 2025-09-29 06:20:28Z UTC
 <!-- SPOTIFY-END -->
