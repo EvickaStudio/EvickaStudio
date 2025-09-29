@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d3399484c668e05ce4bbc648" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734a3f4c8c2ea9ecc876dddf9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [high as fuck](https://open.spotify.com/track/14cxhUvJbuo61Hb1wYQbP7)**
-*by* **kets4eki, d3r**
-*Album:* high as fuck
+**🎵 [Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)**
+*by* **Caramella Girls, Tatsunoshin, Komb**
+*Album:* Caramelldansen (Komb & Tatsunoshin Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="17" height="4" fill="#1db954" rx="2"/>
+    <circle cx="17" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 1:33
+    0:09 • 2:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
-🎤 **[Afterburner](https://open.spotify.com/track/1z0EbPhl9w8QMqZF63mlCd)** by **Yota Dora** *(Afterburner)*
-🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
+🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
+🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
+🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-29 15:31:07Z UTC
+🕐 Last updated: 2025-09-29 15:47:51Z UTC
 <!-- SPOTIFY-END -->
