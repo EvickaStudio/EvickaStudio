@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273051b22048cf7a4bd3523e6e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)**
+*by* **2hollis**
+*Album:* trauma
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:54 • 2:11
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Crying](https://open.spotify.com/track/3LI3yFjhGzm9EZpYuw7oVZ)** by **fakemink archive** *(Crying)*
-🎤 **[Teenage dreamer](https://open.spotify.com/track/2NMAQs3JdA5wAlS9zc3Vu0)** by **Feng** *(Teenage dreamer)*
-🎤 **[Slovakia](https://open.spotify.com/track/0C6t1npeQ0PUgFoK5Gmwyn)** by **Euro5tar, offaflat** *(Propaganda)*
-🎤 **[Tina Menthol](https://open.spotify.com/track/716DGGlgYPjqIinde7wxUW)** by **GhostInnaFurCoat** *(Tina Menthol)*
-🎤 **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)*
+🎤 **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)*
+🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
+🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
+🎤 **[CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)** by **LXKAS** *(CALL THE DOCTOR!)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-29 12:25:44Z UTC
+🕐 Last updated: 2025-09-29 13:04:35Z UTC
 <!-- SPOTIFY-END -->
