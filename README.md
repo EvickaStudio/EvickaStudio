@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273393084ded4ece78cc1d35650" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [END OF LIFE](https://open.spotify.com/track/3NwF9A7X61t7EKexyWAdHh)**
-*by* **Elijah Aike**
-*Album:* END OF LIFE
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[YOLO](https://open.spotify.com/track/34ZNVmPISt18mxi0V5uHyk)** by **Feng** *(What The Feng)*
-🎤 **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)*
-🎤 **[Face To Face](https://open.spotify.com/track/7GeqdxZYmSdnmEETbpCEqB)** by **fakemink** *(Face To Face)*
-🎤 **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[Ready To Go](https://open.spotify.com/track/4PD88rhgp8YZQZNtgSOO8l)** by **PureSnow** *(Revelation)*
+🎤 **[Crying](https://open.spotify.com/track/3LI3yFjhGzm9EZpYuw7oVZ)** by **fakemink archive** *(Crying)*
+🎤 **[Teenage dreamer](https://open.spotify.com/track/2NMAQs3JdA5wAlS9zc3Vu0)** by **Feng** *(Teenage dreamer)*
+🎤 **[Slovakia](https://open.spotify.com/track/0C6t1npeQ0PUgFoK5Gmwyn)** by **Euro5tar, offaflat** *(Propaganda)*
+🎤 **[Tina Menthol](https://open.spotify.com/track/716DGGlgYPjqIinde7wxUW)** by **GhostInnaFurCoat** *(Tina Menthol)*
+🎤 **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-29 11:47:28Z UTC
+🕐 Last updated: 2025-09-29 12:25:44Z UTC
 <!-- SPOTIFY-END -->
