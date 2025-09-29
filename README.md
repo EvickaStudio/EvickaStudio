@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b53acc62678b55dd2fcf816c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273393084ded4ece78cc1d35650" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dope&soda](https://open.spotify.com/track/3N783bRgpMdDek1nQpIpCc)**
-*by* **myspacemark, zane lynchetti**
-*Album:* Happily Ever After
+**🎵 [END OF LIFE](https://open.spotify.com/track/3NwF9A7X61t7EKexyWAdHh)**
+*by* **Elijah Aike**
+*Album:* END OF LIFE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="162" height="4" fill="#1db954" rx="2"/>
+    <circle cx="162" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 2:09
+    1:06 • 2:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Masquerade](https://open.spotify.com/track/3sAMMs4In1yXFm71s96uVI)** by **Zukovstheworld** *(Masquerade)*
-🎤 **[do you paint](https://open.spotify.com/track/5x9jz0xjCAXAIRGkywscb0)** by **cranes, fakemink** *(do you paint)*
-🎤 **[fuck snipe](https://open.spotify.com/track/0E0MulluVMsUJBOEFftH4N)** by **sniper2004** *(u could snipe 2)*
-🎤 **[wakeup](https://open.spotify.com/track/7lb61giKsdGRyacbACXLLT)** by **kuru, jackzebra** *(losers bracket / wakeup)*
-🎤 **[Music and Me](https://open.spotify.com/track/23c1TrkpPPYOcJT6DYRRPH)** by **fakemink** *(Music and Me)*
+🎤 **[YOLO](https://open.spotify.com/track/34ZNVmPISt18mxi0V5uHyk)** by **Feng** *(What The Feng)*
+🎤 **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)*
+🎤 **[Face To Face](https://open.spotify.com/track/7GeqdxZYmSdnmEETbpCEqB)** by **fakemink** *(Face To Face)*
+🎤 **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Ready To Go](https://open.spotify.com/track/4PD88rhgp8YZQZNtgSOO8l)** by **PureSnow** *(Revelation)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-09-29 11:34:40Z UTC
+🕐 Last updated: 2025-09-29 11:47:28Z UTC
 <!-- SPOTIFY-END -->
