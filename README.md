@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338af9a7dc1dc59f0794c163f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)**
-*by* **Cocteau Twins**
-*Album:* Four-Calendar Café (Remastered 2024)
+**🎵 [Are You The One](https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu)**
+*by* **Basement**
+*Album:* Be Here Now / Are You The One
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="134" height="4" fill="#1db954" rx="2"/>
-    <circle cx="134" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 3:37
+    1:01 • 3:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Like a Ritual](https://open.spotify.com/track/42L6wfjnC6vMf0ZYaNfsZc)** by **Title Fight** *(Floral Green)*
+🎤 **[everything hurts](https://open.spotify.com/track/6hrkewYlI40wp8fhqSH3Ry)** by **BED** *(everything hurts)*
+🎤 **[Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)** by **Cocteau Twins** *(Four-Calendar Café (Remastered 2024))*
 🎤 **[Tongg - DEATHMETAL Remix](https://open.spotify.com/track/1S7QzquFYEVFVUnX7kw20a)** by **Panchiko, Tongg** *(R>E>M>I>X>E>D)*
 🎤 **[Perfect](https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO)** by **The Smashing Pumpkins** *(Adore (Super Deluxe))*
-🎤 **[feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO)** by **julie** *(my anti-aircraft friend)*
-🎤 **[Head in the Ceiling Fan](https://open.spotify.com/track/449LuMpoIOhxnW2B246Aau)** by **Title Fight** *(Floral Green)*
-🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 19:23:17Z UTC
+🕐 Last updated: 2025-09-30 19:34:26Z UTC
 <!-- SPOTIFY-END -->
