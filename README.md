@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360c2903249733d48f887be13" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [satisfied >_<](https://open.spotify.com/track/5sVGsCPXCkgQpI5s3U9cro)**
-*by* **elctrnc/sed:/, luvroxu**
-*Album:* satisfied >_<
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="244" height="4" fill="#1db954" rx="2"/>
-    <circle cx="244" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 1:57
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[why me](https://open.spotify.com/track/37dFTC2Kts5AYfucHGQB12)** by **Senses** *(why me)*
-🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
-🎤 **[ritalin](https://open.spotify.com/track/0Z96tWflOh3i1e1ZoUMm16)** by **pink luu, nami, luu** *(ritalin)*
-🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
-🎤 **[Look Back](https://open.spotify.com/track/1LbV3Ce5EjWibZ3bxj2z1h)** by **503scoob, luvhex, Pearlblade** *(Look Back)*
+🎤 **[blossom](https://open.spotify.com/track/1oSlcqSHvKD3ElznGs1pkj)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
+🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
+🎤 **[Run](https://open.spotify.com/track/0IPM8XVT3NtCkUllOndon8)** by **503scoob, iamsodead, lavendr** *(Run)*
+🎤 **[satisfied >_<](https://open.spotify.com/track/5sVGsCPXCkgQpI5s3U9cro)** by **elctrnc/sed:/, luvroxu** *(satisfied >_<)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 17:29:16Z UTC
+🕐 Last updated: 2025-09-30 17:40:24Z UTC
 <!-- SPOTIFY-END -->
