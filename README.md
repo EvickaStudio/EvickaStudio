@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f05f0f4d6d4c5711557fb3c8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)**
+*by* **angelicxmei**
+*Album:* vision
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:21 • 2:04
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Dragon soop](https://open.spotify.com/track/7FLXka4xMDAqmqgLnXye61)** by **Lunaa** *(Trendsetter)*
+🎤 **[Dragon soop](https://open.spotify.com/track/7FLXka4xMDAqmqgLnXye61)** by **Lunaa** *(Trendsetter)*
 🎤 **[blossom](https://open.spotify.com/track/1oSlcqSHvKD3ElznGs1pkj)** by **Peake** *(Forever the Sickest Rose)*
 🎤 **[to the stars](https://open.spotify.com/track/1mdQ98N8zziIUvmiOlnN2G)** by **may, mymy, wenszy** *(to the stars)*
 🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[Run](https://open.spotify.com/track/0IPM8XVT3NtCkUllOndon8)** by **503scoob, iamsodead, lavendr** *(Run)*
-🎤 **[satisfied >_<](https://open.spotify.com/track/5sVGsCPXCkgQpI5s3U9cro)** by **elctrnc/sed:/, luvroxu** *(satisfied >_<)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 17:40:24Z UTC
+🕐 Last updated: 2025-09-30 17:47:54Z UTC
 <!-- SPOTIFY-END -->
