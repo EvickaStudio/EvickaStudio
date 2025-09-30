@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735d2fdd1564ccab97e60c656f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0)**
-*by* **Jimmy Eat World**
-*Album:* Bleed American
+**🎵 [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)**
+*by* **Cocteau Twins**
+*Album:* Heaven or Las Vegas
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="158" height="4" fill="#1db954" rx="2"/>
+    <circle cx="158" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:03 • 5:47
+    2:37 • 4:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
-🎤 **[Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v)** by **Duster** *(Stratosphere)*
-🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
+🎤 **[Sea, Swallow Me - 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB)** by **Cocteau Twins, Harold Budd** *(The Moon and the Melodies (2024 Remaster))*
+🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
+🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
+🎤 **[Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)** by **The Smashing Pumpkins** *(Siamese Dream (Deluxe Edition))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 18:16:59Z UTC
+🕐 Last updated: 2025-09-30 18:44:27Z UTC
 <!-- SPOTIFY-END -->
