@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)**
-*by* **Slowdive**
-*Album:* Souvlaki
+**🎵 [Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)**
+*by* **Panchiko**
+*Album:* D>E>A>T>H>M>E>T>A>L
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="141" height="4" fill="#1db954" rx="2"/>
+    <circle cx="141" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 3:50
+    1:58 • 4:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)** by **Cocteau Twins** *(Heaven or Las Vegas)*
+🎤 **[Until I Know](https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk)** by **Panchiko** *(Failed at Math(s))*
+🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
 🎤 **[All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
-🎤 **[laundry](https://open.spotify.com/track/7slPMbUHZ15XgdZy7sMCTY)** by **tommy oeffling** *(reliance)*
-🎤 **[Are You The One](https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu)** by **Basement** *(Be Here Now / Are You The One)*
-🎤 **[Like a Ritual](https://open.spotify.com/track/42L6wfjnC6vMf0ZYaNfsZc)** by **Title Fight** *(Floral Green)*
+🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 19:48:00Z UTC
+🕐 Last updated: 2025-09-30 20:13:27Z UTC
 <!-- SPOTIFY-END -->
