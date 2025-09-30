@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733c1508c6ffabbb1082bc5b15" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Head in the Ceiling Fan](https://open.spotify.com/track/449LuMpoIOhxnW2B246Aau)**
-*by* **Title Fight**
-*Album:* Floral Green
+**🎵 [Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)**
+*by* **Cocteau Twins**
+*Album:* Four-Calendar Café (Remastered 2024)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:32 • 3:59
+    1:37 • 3:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Tongg - DEATHMETAL Remix](https://open.spotify.com/track/1S7QzquFYEVFVUnX7kw20a)** by **Panchiko, Tongg** *(R>E>M>I>X>E>D)*
+🎤 **[Perfect](https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO)** by **The Smashing Pumpkins** *(Adore (Super Deluxe))*
+🎤 **[feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO)** by **julie** *(my anti-aircraft friend)*
+🎤 **[Head in the Ceiling Fan](https://open.spotify.com/track/449LuMpoIOhxnW2B246Aau)** by **Title Fight** *(Floral Green)*
 🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
-🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[Lifestyle Trainers](https://open.spotify.com/track/4XE1WNvCdNRCMZDNYeice2)** by **Panchiko** *(Ginkgo)*
-🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
-🎤 **[The Boy](https://open.spotify.com/track/2Yw5jfEaQFHoUFhzXUGkgV)** by **The Smashing Pumpkins** *(Aeroplane Flies High (Deluxe Edition))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 19:09:48Z UTC
+🕐 Last updated: 2025-09-30 19:23:17Z UTC
 <!-- SPOTIFY-END -->
