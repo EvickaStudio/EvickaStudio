@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7913f469b9660ba7a4212d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sodium Chloride](https://open.spotify.com/track/7aafGSa6JccYOY9kNV9FNB)**
+**🎵 [Shelled and Cooked](https://open.spotify.com/track/458TRC1ocFwGX5ZCWzbsYM)**
 *by* **Panchiko**
-*Album:* D>E>A>T>H>M>E>T>A>L
+*Album:* Ginkgo
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="270" height="4" fill="#1db954" rx="2"/>
+    <circle cx="270" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:43
+    2:00 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Stabilisers For Big Boys](https://open.spotify.com/track/7AIRXaWc2HPUvIqJ19IbtU)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Untitled Demo 1997](https://open.spotify.com/track/09BgHVKTKv0gqFNep5GUtz)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
-🎤 **[CUT](https://open.spotify.com/track/2hCFo7Rd91GyhyamQgrV3b)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Honeycomb](https://open.spotify.com/track/1xa88NVLoFLcKTdmBEj1f2)** by **Panchiko** *(Ginkgo)*
+🎤 **[Shandy in the Graveyard](https://open.spotify.com/track/3xmaQ6oK6j5vQW2fixR5AD)** by **Panchiko, billy woods** *(Ginkgo)*
 🎤 **[Ginkgo](https://open.spotify.com/track/1Czqh6tbb9gqCQpSkXsqDT)** by **Panchiko** *(Ginkgo)*
-🎤 **[Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Florida](https://open.spotify.com/track/74dDnzEw1fYcVgbYXmN4dG)** by **Panchiko** *(Ginkgo)*
+🎤 **[Sodium Chloride](https://open.spotify.com/track/7aafGSa6JccYOY9kNV9FNB)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 20:31:24Z UTC
+🕐 Last updated: 2025-09-30 20:47:51Z UTC
 <!-- SPOTIFY-END -->
