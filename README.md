@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
 🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 🎤 **[Angel Off Duty](https://open.spotify.com/track/3OOxBeii85q1Vvf5NuSI33)** by **Cowgirl Clue** *(Total Freedom)*
-🎤 **[Kiss Me Now](https://open.spotify.com/track/2L3wGbAxxgJi6dy2fs9HlF)** by **Golden Cats** *(Kiss Me Now)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 11:10:58Z UTC
+🕐 Last updated: 2025-09-30 11:25:28Z UTC
 <!-- SPOTIFY-END -->
