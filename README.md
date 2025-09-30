@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735d2fdd1564ccab97e60c656f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334a78803f43a0fa3fe7a82fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)**
-*by* **Cocteau Twins**
-*Album:* Heaven or Las Vegas
+**🎵 [throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)**
+*by* **BED**
+*Album:* everything hurts
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:37 • 4:58
+    1:24 • 3:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[The Boy](https://open.spotify.com/track/2Yw5jfEaQFHoUFhzXUGkgV)** by **The Smashing Pumpkins** *(Aeroplane Flies High (Deluxe Edition))*
+🎤 **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)*
+🎤 **[Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)** by **Cocteau Twins** *(Heaven or Las Vegas)*
 🎤 **[All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
 🎤 **[Sea, Swallow Me - 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB)** by **Cocteau Twins, Harold Budd** *(The Moon and the Melodies (2024 Remaster))*
-🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
-🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
-🎤 **[Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)** by **The Smashing Pumpkins** *(Siamese Dream (Deluxe Edition))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 18:44:27Z UTC
+🕐 Last updated: 2025-09-30 18:53:21Z UTC
 <!-- SPOTIFY-END -->
