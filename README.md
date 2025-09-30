@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)**
+**🎵 [Sodium Chloride](https://open.spotify.com/track/7aafGSa6JccYOY9kNV9FNB)**
 *by* **Panchiko**
 *Album:* D>E>A>T>H>M>E>T>A>L
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="141" height="4" fill="#1db954" rx="2"/>
-    <circle cx="141" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 4:11
+    1:18 • 2:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Until I Know](https://open.spotify.com/track/4KH9g027K949LR2xkjC4jk)** by **Panchiko** *(Failed at Math(s))*
-🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
-🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
+🎤 **[Stabilisers For Big Boys](https://open.spotify.com/track/7AIRXaWc2HPUvIqJ19IbtU)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Untitled Demo 1997](https://open.spotify.com/track/09BgHVKTKv0gqFNep5GUtz)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
+🎤 **[CUT](https://open.spotify.com/track/2hCFo7Rd91GyhyamQgrV3b)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Ginkgo](https://open.spotify.com/track/1Czqh6tbb9gqCQpSkXsqDT)** by **Panchiko** *(Ginkgo)*
+🎤 **[Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 20:13:27Z UTC
+🕐 Last updated: 2025-09-30 20:31:24Z UTC
 <!-- SPOTIFY-END -->
