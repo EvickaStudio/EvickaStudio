@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27338af9a7dc1dc59f0794c163f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Are You The One](https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu)**
-*by* **Basement**
-*Album:* Be Here Now / Are You The One
+**🎵 [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)**
+*by* **Slowdive**
+*Album:* Souvlaki
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 3:00
+    0:56 • 3:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)** by **Cocteau Twins** *(Heaven or Las Vegas)*
+🎤 **[All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
+🎤 **[laundry](https://open.spotify.com/track/7slPMbUHZ15XgdZy7sMCTY)** by **tommy oeffling** *(reliance)*
+🎤 **[Are You The One](https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu)** by **Basement** *(Be Here Now / Are You The One)*
 🎤 **[Like a Ritual](https://open.spotify.com/track/42L6wfjnC6vMf0ZYaNfsZc)** by **Title Fight** *(Floral Green)*
-🎤 **[everything hurts](https://open.spotify.com/track/6hrkewYlI40wp8fhqSH3Ry)** by **BED** *(everything hurts)*
-🎤 **[Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)** by **Cocteau Twins** *(Four-Calendar Café (Remastered 2024))*
-🎤 **[Tongg - DEATHMETAL Remix](https://open.spotify.com/track/1S7QzquFYEVFVUnX7kw20a)** by **Panchiko, Tongg** *(R>E>M>I>X>E>D)*
-🎤 **[Perfect](https://open.spotify.com/track/5DuaMIvmPyT3oEvuccx6JO)** by **The Smashing Pumpkins** *(Adore (Super Deluxe))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 19:34:26Z UTC
+🕐 Last updated: 2025-09-30 19:48:00Z UTC
 <!-- SPOTIFY-END -->
