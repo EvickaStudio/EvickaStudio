@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7913f469b9660ba7a4212d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Shelled and Cooked](https://open.spotify.com/track/458TRC1ocFwGX5ZCWzbsYM)**
-*by* **Panchiko**
-*Album:* Ginkgo
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Honeycomb](https://open.spotify.com/track/1xa88NVLoFLcKTdmBEj1f2)** by **Panchiko** *(Ginkgo)*
-🎤 **[Shandy in the Graveyard](https://open.spotify.com/track/3xmaQ6oK6j5vQW2fixR5AD)** by **Panchiko, billy woods** *(Ginkgo)*
-🎤 **[Ginkgo](https://open.spotify.com/track/1Czqh6tbb9gqCQpSkXsqDT)** by **Panchiko** *(Ginkgo)*
-🎤 **[Florida](https://open.spotify.com/track/74dDnzEw1fYcVgbYXmN4dG)** by **Panchiko** *(Ginkgo)*
-🎤 **[Sodium Chloride](https://open.spotify.com/track/7aafGSa6JccYOY9kNV9FNB)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Subtitles](https://open.spotify.com/track/4q5dpXmE3L3n9P7Dug4X6g)** by **Panchiko** *(Ginkgo)*
+🎤 **[Mac’s Omelette](https://open.spotify.com/track/76cublIM8MdirqrOPVaoET)** by **Panchiko** *(Ginkgo)*
+🎤 **[Vinegar](https://open.spotify.com/track/4N5WsTHpBHGL2IzMocvg7T)** by **Panchiko** *(Ginkgo)*
+🎤 **[Chapel of Salt](https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8)** by **Panchiko** *(Ginkgo)*
+🎤 **[Lifestyle Trainers](https://open.spotify.com/track/4XE1WNvCdNRCMZDNYeice2)** by **Panchiko** *(Ginkgo)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 20:47:51Z UTC
+🕐 Last updated: 2025-09-30 21:11:07Z UTC
 <!-- SPOTIFY-END -->
