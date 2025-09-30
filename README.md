@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27378fb0f913281c519df52c2b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)**
-*by* **luu**
-*Album:* immenser pflegefall
+**🎵 [Dosenwerfen](https://open.spotify.com/track/6S6mTCmFFNXRa7eRPUaEal)**
+*by* **Nikku, Yatsu, maaks**
+*Album:* Dosenwerfen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="199" height="4" fill="#1db954" rx="2"/>
+    <circle cx="199" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 1:25
+    0:59 • 1:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
-🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[that bad](https://open.spotify.com/track/7vMiTGH0MucmCBigRrPKaI)** by **Fijimar, drma** *(that bad)*
-🎤 **[Faery](https://open.spotify.com/track/2OUjxVO2SO2V5DtaTCiYUt)** by **Peake** *(Withered)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-09-30 14:31:34Z UTC
+🕐 Last updated: 2025-09-30 14:48:55Z UTC
 <!-- SPOTIFY-END -->
