@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2732b46ebf547a745096109d8fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)**
+*by* **ilyproxy, Aachen Demon**
+*Album:* großstadt lifestyle
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:08 • 2:30
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
-🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 10:13:26Z UTC
+🕐 Last updated: 2025-10-01 10:34:42Z UTC
 <!-- SPOTIFY-END -->
