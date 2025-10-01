@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737bd84c54bd15ab64f7b983a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)**
+*by* **olus, mint**
+*Album:* Back On
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:05 • 1:47
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Subtitles](https://open.spotify.com/track/4q5dpXmE3L3n9P7Dug4X6g)** by **Panchiko** *(Ginkgo)*
-🎤 **[Mac’s Omelette](https://open.spotify.com/track/76cublIM8MdirqrOPVaoET)** by **Panchiko** *(Ginkgo)*
-🎤 **[Vinegar](https://open.spotify.com/track/4N5WsTHpBHGL2IzMocvg7T)** by **Panchiko** *(Ginkgo)*
-🎤 **[Chapel of Salt](https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8)** by **Panchiko** *(Ginkgo)*
-🎤 **[Lifestyle Trainers](https://open.spotify.com/track/4XE1WNvCdNRCMZDNYeice2)** by **Panchiko** *(Ginkgo)*
+🎤 **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
+🎤 **[serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)** by **Luvsick2k, cholorofilm** *(serotonin)*
+🎤 **[PULLI ARMANI](https://open.spotify.com/track/2axw8ShXkqvJvUDg5tgaeX)** by **mikeycyrus, Kroka Koka** *(PULLI ARMANI)*
+🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 05:48:00Z UTC
+🕐 Last updated: 2025-10-01 06:18:53Z UTC
 <!-- SPOTIFY-END -->
