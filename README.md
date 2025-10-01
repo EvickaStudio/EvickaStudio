@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739a25181b5d63f71dc0348c0b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)**
-*by* **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy**
-*Album:* oyoyoyoy
+**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
+*by* **blombi19, 2dizzy**
+*Album:* medikament
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 2:06
+    2:44 • 3:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 11:10:53Z UTC
+🕐 Last updated: 2025-10-01 11:25:30Z UTC
 <!-- SPOTIFY-END -->
