@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273761bd098ac4cf334b3611036" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273405c45a0b05eac15b7982c7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)**
-*by* **pink luu, nami, cxpyyy, luu**
-*Album:* snorting adderall
+**🎵 [therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)**
+*by* **luu, mehlhaltig**
+*Album:* deluulu but mehlodic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:49
+    1:09 • 1:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ](https://open.spotify.com/track/4mYLld2PoCIV1znwRdMnU7)** by **Junshi** *(ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ)*
+🎤 **[broken hands](https://open.spotify.com/track/5mCT7M8ef2RlUmlqPKyU0i)** by **Senses** *(idle state)*
+🎤 **[warum?](https://open.spotify.com/track/4Nj9rtP1l6l1lRzPjSIJpQ)** by **pink luu, TheyhxteAnt** *(warum?)*
+🎤 **[like you~ my best view](https://open.spotify.com/track/2ZvppbKzoSTAyqkg3vEgnS)** by **may, angelicxmei** *(like you~ my best view)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 14:51:22Z UTC
+🕐 Last updated: 2025-10-01 15:12:04Z UTC
 <!-- SPOTIFY-END -->
