@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273162eb36ae0a5defa2bb19166" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e52d6b0bf6e8e6252374a3d4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)**
-*by* **LXKAS**
-*Album:* CALL THE DOCTOR!
+**🎵 [kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)**
+*by* **pink luu, mehlhaltig**
+*Album:* kmdd
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:52
+    0:05 • 1:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
-🎤 **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)*
 🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
 🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
+🎤 **[CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)** by **LXKAS** *(CALL THE DOCTOR!)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-01 19:22:59Z UTC
+🕐 Last updated: 2025-10-01 19:33:54Z UTC
 <!-- SPOTIFY-END -->
