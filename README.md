@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d623e1f574a68b76f53e1667" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b8d04f3d98ca028d2f837942" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)**
+**🎵 [attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)**
 *by* **angelicxmei**
-*Album:* always
+*Album:* attached
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 2:02
+    2:12 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hi](https://open.spotify.com/track/0sXaBYLZKDHy2xFva0kw3P)** by **Senses** *(hi)*
-🎤 **[overseas](https://open.spotify.com/track/3PUTNJbv4Jj5xdLYMEoYT2)** by **coldspades, venusiann** *(overseas)*
-🎤 **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)*
-🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
-🎤 **[seelenverwandte](https://open.spotify.com/track/7LULFjdI7QMSqaiLGxC3ne)** by **luu, mehlhaltig** *(seelenverwandte)*
+🎤 **[psychosocial](https://open.spotify.com/track/3nRTW8Yso8YjFupfz0G1oP)** by **p6inkillr, dollreal, 9surgery** *(psychosocial)*
+🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)** by **pink luu, TheyhxteAnt** *(OH MY GAWD!)*
+🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 15:49:23Z UTC
+🕐 Last updated: 2025-10-01 16:15:33Z UTC
 <!-- SPOTIFY-END -->
