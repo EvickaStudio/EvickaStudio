@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d033e7b88407b75987e9f2d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273162eb36ae0a5defa2bb19166" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)**
-*by* **5v**
-*Album:* do it ##right
+**🎵 [CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)**
+*by* **LXKAS**
+*Album:* CALL THE DOCTOR!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:13
+    1:49 • 2:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[spiral out control](https://open.spotify.com/track/3XRnFAadgVDwAu1SXLK3aW)** by **hateoryx, pink luu, Pawl4k** *(spiral out control)*
-🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
-🎤 **[xan romance](https://open.spotify.com/track/28Lfr7bE5QQiM2KGddXZeF)** by **luu, syris** *(xan romance)*
-🎤 **[how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)** by **mint** *(how can u even make me feel so unwell)*
-🎤 **[knochensäge](https://open.spotify.com/track/753mn7HbeehgfN9WeARj52)** by **luu, iwannabemissed** *(immenser pflegefall)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
+🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
+🎤 **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 16:53:16Z UTC
+🕐 Last updated: 2025-10-01 17:11:36Z UTC
 <!-- SPOTIFY-END -->
