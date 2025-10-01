@@ -107,7 +107,7 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+❌ Error fetching now playing track.
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 09:48:06Z UTC
+🕐 Last updated: 2025-10-01 10:13:26Z UTC
 <!-- SPOTIFY-END -->
