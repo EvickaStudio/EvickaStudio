@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273405c45a0b05eac15b7982c7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731728f2c5c89689925d62f5db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)**
-*by* **luu, mehlhaltig**
-*Album:* deluulu but mehlodic
+**🎵 [pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)**
+*by* **pink luu, lusi 7896**
+*Album:* pSychose
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 1:39
+    1:45 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
-🎤 **[ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ](https://open.spotify.com/track/4mYLld2PoCIV1znwRdMnU7)** by **Junshi** *(ᴏᴜʀ ʀᴏᴍᴀɴᴄᴇ: ᏕᏂᎥᏁᏋ ᏕᏂᏒᎥᏁᏋ)*
-🎤 **[broken hands](https://open.spotify.com/track/5mCT7M8ef2RlUmlqPKyU0i)** by **Senses** *(idle state)*
-🎤 **[warum?](https://open.spotify.com/track/4Nj9rtP1l6l1lRzPjSIJpQ)** by **pink luu, TheyhxteAnt** *(warum?)*
-🎤 **[like you~ my best view](https://open.spotify.com/track/2ZvppbKzoSTAyqkg3vEgnS)** by **may, angelicxmei** *(like you~ my best view)*
+🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
+🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
+🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
+🎤 **[Waste](https://open.spotify.com/track/2ofArIiQf7MQV68BPCW2Z1)** by **nomu.** *(Waste)*
+🎤 **[merry go round](https://open.spotify.com/track/0IFIIjzfSzSUk80DFQQISL)** by **Senses, mint** *(merry go round)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 15:12:04Z UTC
+🕐 Last updated: 2025-10-01 15:30:16Z UTC
 <!-- SPOTIFY-END -->
