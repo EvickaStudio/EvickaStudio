@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b8d04f3d98ca028d2f837942" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300a4a294e34acdfe99138d1e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)**
-*by* **angelicxmei**
-*Album:* attached
+**🎵 [how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)**
+*by* **mint**
+*Album:* how can u even make me feel so unwell
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 2:35
+    0:40 • 1:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[psychosocial](https://open.spotify.com/track/3nRTW8Yso8YjFupfz0G1oP)** by **p6inkillr, dollreal, 9surgery** *(psychosocial)*
-🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[OH MY GAWD!](https://open.spotify.com/track/0lZOs2WYheo63mLwLDSwN7)** by **pink luu, TheyhxteAnt** *(OH MY GAWD!)*
-🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
+🎤 **[knochensäge](https://open.spotify.com/track/753mn7HbeehgfN9WeARj52)** by **luu, iwannabemissed** *(immenser pflegefall)*
+🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
+🎤 **[mein herz](https://open.spotify.com/track/6SnoQM36RDqpUcUud84wi3)** by **mundus, pink luu** *(mein herz)*
+🎤 **[#breakurheart](https://open.spotify.com/track/3Edf6gKdh1p1BJdQXQ9tDo)** by **pink luu, TheyhxteAnt** *(#breakurheart)*
+🎤 **[kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)** by **p6inkillr** *(kill me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 16:15:33Z UTC
+🕐 Last updated: 2025-10-01 16:43:18Z UTC
 <!-- SPOTIFY-END -->
