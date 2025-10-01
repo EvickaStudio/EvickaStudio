@@ -140,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-01 22:47:33Z UTC
+🕐 Last updated: 2025-10-01 23:10:55Z UTC
 <!-- SPOTIFY-END -->
