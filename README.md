@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c35941721dc883cc37095837" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d623e1f574a68b76f53e1667" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)**
-*by* **pink luu, prettydrama**
-*Album:* weißes kleid
+**🎵 [always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)**
+*by* **angelicxmei**
+*Album:* always
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 1:40
+    1:14 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[hi](https://open.spotify.com/track/0sXaBYLZKDHy2xFva0kw3P)** by **Senses** *(hi)*
+🎤 **[overseas](https://open.spotify.com/track/3PUTNJbv4Jj5xdLYMEoYT2)** by **coldspades, venusiann** *(overseas)*
+🎤 **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)*
 🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
 🎤 **[seelenverwandte](https://open.spotify.com/track/7LULFjdI7QMSqaiLGxC3ne)** by **luu, mehlhaltig** *(seelenverwandte)*
-🎤 **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)*
-🎤 **[Bunny](https://open.spotify.com/track/7FopCTc5OaK5HT7fMYzCAc)** by **Senses** *(Bunny)*
-🎤 **[crimson snow](https://open.spotify.com/track/18YwV3dOEXulgieSx4Ayko)** by **ronin** *(crimson snow)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-01 15:41:42Z UTC
+🕐 Last updated: 2025-10-01 15:49:23Z UTC
 <!-- SPOTIFY-END -->
