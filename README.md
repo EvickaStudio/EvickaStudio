@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2012](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)** by **Tamino404** *(2012)*
-🎤 **[Pressed - Skin On Skin Remix](https://open.spotify.com/track/3qLuhNEJaOKHFTBWzyKrnY)** by **Woesum, Skin On Skin** *(Protected v2)*
-🎤 **[magic dust](https://open.spotify.com/track/44qf9UFwDet8gfwaCM7VmS)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[Nimm meine Hand](https://open.spotify.com/track/63pmBd7uYbQJmzn5LDLP5N)** by **Kilian Knight** *(Nimm meine Hand)*
-🎤 **[So Cold (Reverie's Memory)](https://open.spotify.com/track/3WQ9M2UIxR8esY4iwMB0W0)** by **DJmegan23, reverie, Senses** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx)** by **BIG TIM** *(Alles ist relativ)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
+🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
+🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 15:49:18Z UTC
+🕐 Last updated: 2025-10-02 16:14:44Z UTC
 <!-- SPOTIFY-END -->
