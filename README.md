@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733d7d2e9508ee217379274bf5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Pressed - Skin On Skin Remix](https://open.spotify.com/track/3qLuhNEJaOKHFTBWzyKrnY)**
-*by* **Woesum, Skin On Skin**
-*Album:* Protected v2
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:37 • 3:24
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[2012](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)** by **Tamino404** *(2012)*
+🎤 **[Pressed - Skin On Skin Remix](https://open.spotify.com/track/3qLuhNEJaOKHFTBWzyKrnY)** by **Woesum, Skin On Skin** *(Protected v2)*
 🎤 **[magic dust](https://open.spotify.com/track/44qf9UFwDet8gfwaCM7VmS)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))*
 🎤 **[Nimm meine Hand](https://open.spotify.com/track/63pmBd7uYbQJmzn5LDLP5N)** by **Kilian Knight** *(Nimm meine Hand)*
 🎤 **[So Cold (Reverie's Memory)](https://open.spotify.com/track/3WQ9M2UIxR8esY4iwMB0W0)** by **DJmegan23, reverie, Senses** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[E-MÄDCHEN 2](https://open.spotify.com/track/0nlSPXWNilkzhcavunFThx)** by **Punk Christ** *(E-MÄDCHEN 2)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 14:32:24Z UTC
+🕐 Last updated: 2025-10-02 14:48:16Z UTC
 <!-- SPOTIFY-END -->
