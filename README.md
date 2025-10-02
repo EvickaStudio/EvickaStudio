@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739168173ffd9845a1192362bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f69f7f5db8023bd539be8a9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)**
-*by* **sparr00w, bleac**
-*Album:* 00
+**🎵 [zeit für frühling in mein <3](https://open.spotify.com/track/6EEW8K7jihmVANto3CPeGy)**
+*by* **oilcolor**
+*Album:* zeit für frühling in mein <3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="130" height="4" fill="#1db954" rx="2"/>
+    <circle cx="130" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:50 • 2:55
+    0:58 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[interlude](https://open.spotify.com/track/26S6NQixCrPEdvY2hNLhhl)** by **Pink Katana, veil** *(Den Mutigen gehört die Welt)*
+🎤 **[i know better (teary eyes)](https://open.spotify.com/track/2DpGt5UbHv68erhNBpFzMI)** by **freya langley, FLOURYSH** *(i know better than to let you go)*
+🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
+🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
 🎤 **[so wie du](https://open.spotify.com/track/2JHCNXy6Oc2Wwx6TNfFgMe)** by **s0re** *(so wie du)*
-🎤 **[acid tears](https://open.spotify.com/track/5q2bGuLdAg0rsBwzslIeu7)** by **ivy tendrils** *(acid tears)*
-🎤 **[purple heart lane](https://open.spotify.com/track/04LoE4zAwohHWawihxGmnu)** by **Levi Ryan** *(purple heart lane)*
-🎤 **[valhalla](https://open.spotify.com/track/1VLOCtdOIsoQ3RjKcQAz1v)** by **forever forever** *(valhalla)*
-🎤 **[Why Can't I Love](https://open.spotify.com/track/73bul1LFVIqryg7dhNH6iT)** by **ikigaisoulya, letmedrown** *(Why Can't I Love)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 17:35:51Z UTC
+🕐 Last updated: 2025-10-02 17:47:51Z UTC
 <!-- SPOTIFY-END -->
