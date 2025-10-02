@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [eule](https://open.spotify.com/track/6Yaqf2WwrTQeMXueDecwUz)**
+**🎵 [engel](https://open.spotify.com/track/37EZeJeBQAWf6Z5HHAQ4hA)**
 *by* **blombi19**
 *Album:* abiogenese
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 2:51
+    0:18 • 3:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Druck](https://open.spotify.com/track/0cGyi1hPHAKb9sl13y6w1x)** by **JB 50** *(Druck)*
-🎤 **[sternschnuppe](https://open.spotify.com/track/5iTG27HIOQ7iZ866ZtI34D)** by **blombi19** *(herzkasper)*
-🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
-🎤 **[tram](https://open.spotify.com/track/7kpin3Wn0LeBxJg7LeiDwE)** by **blombi19** *(herzkasper)*
-🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
+🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
+🎤 **[aLLeyn ☆](https://open.spotify.com/track/43muMSLRW2mr6Cqg0Ptl8s)** by **Yatsu** *(aLLeyn ☆)*
+🎤 **[wirwirwir](https://open.spotify.com/track/23PhKTl5NACt60B5AKNKcH)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[confess](https://open.spotify.com/track/4H7zt2Ou0KV79l3D5EePjq)** by **Skepsiz** *(confess)*
+🎤 **[LÄUFST NICHT WEG](https://open.spotify.com/track/5k37TK6UjHVrXIk6WrXbCL)** by **mickyi** *(LÄUFST NICHT WEG)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 19:33:50Z UTC
+🕐 Last updated: 2025-10-02 19:47:38Z UTC
 <!-- SPOTIFY-END -->
