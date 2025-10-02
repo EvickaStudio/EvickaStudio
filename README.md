@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27372b10ec9a72c574c2ac5764e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Pentagramm](https://open.spotify.com/track/3BpV6FyP6vCkK6IUr8H5C6)**
+*by* **Aachen Demon**
+*Album:* Pentagramm
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:35 • 1:55
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
 🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
 🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
 🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
 🎤 **[trance](https://open.spotify.com/track/6DrOJ0MT54bn2QmJn7Wg2x)** by **pulsi, Kinaro** *(pulsi)*
-🎤 **[Luv_me](https://open.spotify.com/track/1SNigY7QhxYDHe5UUpCqQq)** by **Fevar** *(Luv_me)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 20:47:57Z UTC
+🕐 Last updated: 2025-10-02 21:10:47Z UTC
 <!-- SPOTIFY-END -->
