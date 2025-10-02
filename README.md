@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx)** by **BIG TIM** *(Alles ist relativ)*
-🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
-🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
-🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
-🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[365](https://open.spotify.com/track/44tQUFDnOuPgBqwx7x43Vv)** by **toobrokeforfiji, Safecall777** *(Schwarzgeld EP 2)*
+🎤 **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)*
+🎤 **[sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)** by **blombi19, aimée** *(sternenkind)*
+🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
+🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 16:14:44Z UTC
+🕐 Last updated: 2025-10-02 16:37:18Z UTC
 <!-- SPOTIFY-END -->
