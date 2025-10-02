@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273875d07653fa6519b0cf85c06" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)**
-*by* **blombi19**
-*Album:* abiogenese
+**🎵 [polo](https://open.spotify.com/track/0uFUi8yBexHneBj7hCyT1Z)**
+*by* **ghostboo, Lawin**
+*Album:* exxtra
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:59 • 3:33
+    0:29 • 2:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Zwillingstürme](https://open.spotify.com/track/39v1grr2jCgg5GZYCNz2JG)** by **JB 50** *(Zwillingstürme)*
-🎤 **[airbnb](https://open.spotify.com/track/33WrEizucsSebPqy9kFNlV)** by **lil eyes, 2K WORLD** *(airbnb)*
-🎤 **[zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[an meiner Hand](https://open.spotify.com/track/79W7VSabEtS2Ob4vBcnyMu)** by **sotbarn** *(an meiner Hand)*
-🎤 **[Pentagramm](https://open.spotify.com/track/3BpV6FyP6vCkK6IUr8H5C6)** by **Aachen Demon** *(Pentagramm)*
+🎤 **[Surreal](https://open.spotify.com/track/55TGDICjlZFGyyWs3SHx7n)** by **uusymon, sparr00w** *(rare & lost tracks archive (2017-2020))*
+🎤 **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)*
+🎤 **[Schmeissromantik](https://open.spotify.com/track/46kXcj4WtqN7tKkUtcceos)** by **sotbarn, JB 50** *(per Aspera ad #Astra)*
+🎤 **[Highschool Crush](https://open.spotify.com/track/5tfEvvjDNBXa62GtKEagjD)** by **Psyke** *(Love is War)*
+🎤 **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 21:24:48Z UTC
+🕐 Last updated: 2025-10-02 21:33:53Z UTC
 <!-- SPOTIFY-END -->
