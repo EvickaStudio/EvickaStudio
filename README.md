@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27397f77dd83347bf87ac64558b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a7e272bc8a529f943a97a049" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* Schnuffel
+**🎵 [R U Down?](https://open.spotify.com/track/2zPJ8LFi0I2ltvtibtn5L2)**
+*by* **RudeClub**
+*Album:* R U Down?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:59 • 3:15
+    0:36 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cold touch 2](https://open.spotify.com/track/7nK7LKpfXrIJ8Z1c8nXHIz)** by **Bayymack** *(cold touch 2)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[pretty lies](https://open.spotify.com/track/6PjFVxnPCeCoFe8EqlPvsj)** by **kuudere, espeon** *(pretty lies)*
+🎤 **[void grasping](https://open.spotify.com/track/7bI3K5Vu0rqobrZVH233rZ)** by **meat computer** *(void grasping)*
+🎤 **[Darkest Dreams](https://open.spotify.com/track/55QAG7kgDb4j63ODN4Bqqx)** by **UpVampin, d3r** *(Darkest Dreams)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
+🎤 **[Luv2Hate](https://open.spotify.com/track/4Im8E4fM9iqkjbS8GrddoA)** by **Killedbykira** *(Luv2Hate)*
 
 
 
@@ -146,7 +146,7 @@
 🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**flywoah**](https://open.spotify.com/artist/4HhW0jozmeZ7e4AAkVOdeO)
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 09:12:55Z UTC
+🕐 Last updated: 2025-10-02 09:29:36Z UTC
 <!-- SPOTIFY-END -->
