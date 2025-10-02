@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)**
+*by* **blombi19**
+*Album:* herzkasper
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="119" height="4" fill="#1db954" rx="2"/>
+    <circle cx="119" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:12 • 3:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)** by **blombi19, mehlhaltig** *(herzkasper)*
 🎤 **[zeit für frühling in mein <3](https://open.spotify.com/track/6EEW8K7jihmVANto3CPeGy)** by **oilcolor** *(zeit für frühling in mein <3)*
 🎤 **[vitamin_exist](https://open.spotify.com/track/7ueLjw2OQH99VYUxechO6p)** by **ivy tendrils** *(vitamin_exist)*
 🎤 **[Forest Spell](https://open.spotify.com/track/35nqImy5Zszu7Bf1mSZ6QW)** by **ikigaisoulya, letmedrown** *(Forest Spell)*
 🎤 **[interlude](https://open.spotify.com/track/26S6NQixCrPEdvY2hNLhhl)** by **Pink Katana, veil** *(Den Mutigen gehört die Welt)*
-🎤 **[i know better (teary eyes)](https://open.spotify.com/track/2DpGt5UbHv68erhNBpFzMI)** by **freya langley, FLOURYSH** *(i know better than to let you go)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 18:17:25Z UTC
+🕐 Last updated: 2025-10-02 18:43:26Z UTC
 <!-- SPOTIFY-END -->
