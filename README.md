@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273875d07653fa6519b0cf85c06" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [engel](https://open.spotify.com/track/37EZeJeBQAWf6Z5HHAQ4hA)**
-*by* **blombi19**
-*Album:* abiogenese
+**🎵 [extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)**
+*by* **ghostboo, Lawin**
+*Album:* exxtra
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="26" height="4" fill="#1db954" rx="2"/>
-    <circle cx="26" cy="2" r="6" fill="#1db954"/>
+    <rect width="219" height="4" fill="#1db954" rx="2"/>
+    <circle cx="219" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 3:35
+    2:04 • 2:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
-🎤 **[aLLeyn ☆](https://open.spotify.com/track/43muMSLRW2mr6Cqg0Ptl8s)** by **Yatsu** *(aLLeyn ☆)*
-🎤 **[wirwirwir](https://open.spotify.com/track/23PhKTl5NACt60B5AKNKcH)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[confess](https://open.spotify.com/track/4H7zt2Ou0KV79l3D5EePjq)** by **Skepsiz** *(confess)*
-🎤 **[LÄUFST NICHT WEG](https://open.spotify.com/track/5k37TK6UjHVrXIk6WrXbCL)** by **mickyi** *(LÄUFST NICHT WEG)*
+🎤 **[Gestrandet](https://open.spotify.com/track/3K6iZsqLveTjAVi2o8ZyE8)** by **52Blue** *(Gestrandet)*
+🎤 **[Exit](https://open.spotify.com/track/6aYyKgP6rxhpCRcX5VMRzj)** by **Psyke** *(Love is War)*
+🎤 **[buntetränen](https://open.spotify.com/track/06skzp8jtgf525Zl6l8uSg)** by **ALeiz** *(buntetränen)*
+🎤 **[roboter](https://open.spotify.com/track/0hJnDT4Nzudz8ml0KI4mhJ)** by **blombi19** *(roboter)*
+🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 19:47:38Z UTC
+🕐 Last updated: 2025-10-02 20:13:12Z UTC
 <!-- SPOTIFY-END -->
