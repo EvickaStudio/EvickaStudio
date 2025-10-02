@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [rosenquarz](https://open.spotify.com/track/0I1uqI8Hg8amqOWiWlev6D)**
-*by* **blombi19**
-*Album:* abiogenese
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 3:10
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Lethe](https://open.spotify.com/track/4cmwVLLp1lqfAZZTRip87H)** by **JB 50** *(Lethe)*
-🎤 **[2023](https://open.spotify.com/track/0DrX4oipiptp5RPhUifaTh)** by **52Blue, Punk Christ** *(Unverweslich)*
-🎤 **[outta space](https://open.spotify.com/track/4t29Jqy7EGQkj136ZyoTE5)** by **Dave Plugs** *(outta space)*
-🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
-🎤 **[Iced Matcha Kratom](https://open.spotify.com/track/0fLgA2L1FTls9wok3uzhbD)** by **mikeycyrus** *(Iced Matcha Kratom)*
+🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
+🎤 **[trance](https://open.spotify.com/track/6DrOJ0MT54bn2QmJn7Wg2x)** by **pulsi, Kinaro** *(pulsi)*
+🎤 **[Luv_me](https://open.spotify.com/track/1SNigY7QhxYDHe5UUpCqQq)** by **Fevar** *(Luv_me)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 20:31:14Z UTC
+🕐 Last updated: 2025-10-02 20:47:57Z UTC
 <!-- SPOTIFY-END -->
