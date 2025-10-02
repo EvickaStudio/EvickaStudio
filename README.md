@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
 🎤 **[Run away](https://open.spotify.com/track/16kgZLmoyRObHMNKgvVS3g)** by **KirbLaGoop, meat computer** *(Adventures Of The Goop)*
 🎤 **[Swag So Outlandish](https://open.spotify.com/track/0PxzAm9IiYDlaIQfmK5KQh)** by **Thrilliam Angels, Ninajirachi, vrde** *(Iliad Unspoken)*
 🎤 **[meaningless aimless universe](https://open.spotify.com/track/0GlGt04NY9ggAwQsCh5hWi)** by **meat computer** *(meaningless aimless universe)*
 🎤 **[Pressed](https://open.spotify.com/track/4qdKJ5OSd5rSF2gWl4nCvb)** by **Woesum** *(Protected)*
-🎤 **[zu staub + Ayegy flip](https://open.spotify.com/track/7DqnjhN11IzTLHcmVvAZnP)** by **benzii, Ayegy** *(zu staub + Ayegy flip)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 07:12:15Z UTC
+🕐 Last updated: 2025-10-02 07:27:20Z UTC
 <!-- SPOTIFY-END -->
