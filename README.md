@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273875d07653fa6519b0cf85c06" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)**
-*by* **ghostboo, Lawin**
-*Album:* exxtra
+**🎵 [rosenquarz](https://open.spotify.com/track/0I1uqI8Hg8amqOWiWlev6D)**
+*by* **blombi19**
+*Album:* abiogenese
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:50
+    2:41 • 3:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Gestrandet](https://open.spotify.com/track/3K6iZsqLveTjAVi2o8ZyE8)** by **52Blue** *(Gestrandet)*
-🎤 **[Exit](https://open.spotify.com/track/6aYyKgP6rxhpCRcX5VMRzj)** by **Psyke** *(Love is War)*
-🎤 **[buntetränen](https://open.spotify.com/track/06skzp8jtgf525Zl6l8uSg)** by **ALeiz** *(buntetränen)*
-🎤 **[roboter](https://open.spotify.com/track/0hJnDT4Nzudz8ml0KI4mhJ)** by **blombi19** *(roboter)*
-🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
+🎤 **[Lethe](https://open.spotify.com/track/4cmwVLLp1lqfAZZTRip87H)** by **JB 50** *(Lethe)*
+🎤 **[2023](https://open.spotify.com/track/0DrX4oipiptp5RPhUifaTh)** by **52Blue, Punk Christ** *(Unverweslich)*
+🎤 **[outta space](https://open.spotify.com/track/4t29Jqy7EGQkj136ZyoTE5)** by **Dave Plugs** *(outta space)*
+🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
+🎤 **[Iced Matcha Kratom](https://open.spotify.com/track/0fLgA2L1FTls9wok3uzhbD)** by **mikeycyrus** *(Iced Matcha Kratom)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 20:13:12Z UTC
+🕐 Last updated: 2025-10-02 20:31:14Z UTC
 <!-- SPOTIFY-END -->
