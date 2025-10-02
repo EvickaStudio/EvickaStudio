@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27375bc4f99ff11b45c0d1aa3ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736fc340ee3526e65463b29667" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [geträumt](https://open.spotify.com/track/5loQTMLEnAIwDHK7o2wrWi)**
-*by* **cyber boi, Icy**
-*Album:* geträumt
+**🎵 [keiner von uns left behind ::<>>+](https://open.spotify.com/track/6KKh9EVG2BFSFuZWq7L8Vf)**
+*by* **ALeiz**
+*Album:* detaching from the ghost in your memories ==--!!"#
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 2:27
+    0:59 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
-🎤 **[NiX cAll bAcK](https://open.spotify.com/track/5cZzqTslLHLpRaYDsl4dHL)** by **Maliq** *(Sex Drugs Love (DELUXE))*
-🎤 **[lebe Alles](https://open.spotify.com/track/0Tn3CeYhT8Egtc3uKOdCba)** by **sotbarn** *(per Aspera ad #Astra)*
-🎤 **[Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)** by **Psyke** *(Love is War)*
-🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
+🎤 **[feuer / teuer](https://open.spotify.com/track/12ZWTQyIXG0cBW7hdRGfNF)** by **mikeycyrus** *(i miss xavity)*
+🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
+🎤 **[egal](https://open.spotify.com/track/12XwCNlWz1FLGQu74yXjuz)** by **Love Pact** *(egal)*
+🎤 **[todesschwur](https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g)** by **blombi19** *(schlangenhelix)*
+🎤 **[my name is pulsi](https://open.spotify.com/track/4ZDEp4Py5enh98NrbAXThz)** by **pulsi, Kinaro** *(pulsi)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 21:47:31Z UTC
+🕐 Last updated: 2025-10-02 22:11:00Z UTC
 <!-- SPOTIFY-END -->
