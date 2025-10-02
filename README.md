@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273875d07653fa6519b0cf85c06" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27375bc4f99ff11b45c0d1aa3ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [polo](https://open.spotify.com/track/0uFUi8yBexHneBj7hCyT1Z)**
-*by* **ghostboo, Lawin**
-*Album:* exxtra
+**🎵 [geträumt](https://open.spotify.com/track/5loQTMLEnAIwDHK7o2wrWi)**
+*by* **cyber boi, Icy**
+*Album:* geträumt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:24
+    0:35 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Surreal](https://open.spotify.com/track/55TGDICjlZFGyyWs3SHx7n)** by **uusymon, sparr00w** *(rare & lost tracks archive (2017-2020))*
-🎤 **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)*
-🎤 **[Schmeissromantik](https://open.spotify.com/track/46kXcj4WtqN7tKkUtcceos)** by **sotbarn, JB 50** *(per Aspera ad #Astra)*
-🎤 **[Highschool Crush](https://open.spotify.com/track/5tfEvvjDNBXa62GtKEagjD)** by **Psyke** *(Love is War)*
-🎤 **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)*
+🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
+🎤 **[NiX cAll bAcK](https://open.spotify.com/track/5cZzqTslLHLpRaYDsl4dHL)** by **Maliq** *(Sex Drugs Love (DELUXE))*
+🎤 **[lebe Alles](https://open.spotify.com/track/0Tn3CeYhT8Egtc3uKOdCba)** by **sotbarn** *(per Aspera ad #Astra)*
+🎤 **[Spielzeug](https://open.spotify.com/track/6BttDwllpxCV7zU1q07Csw)** by **Psyke** *(Love is War)*
+🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 21:33:53Z UTC
+🕐 Last updated: 2025-10-02 21:47:31Z UTC
 <!-- SPOTIFY-END -->
