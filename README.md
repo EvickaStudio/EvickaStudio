@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d7d2e9508ee217379274bf5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)**
-*by* **Edwin Rosen**
-*Album:* Die Sterne
+**🎵 [Pressed - Skin On Skin Remix](https://open.spotify.com/track/3qLuhNEJaOKHFTBWzyKrnY)**
+*by* **Woesum, Skin On Skin**
+*Album:* Protected v2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="9" height="4" fill="#1db954" rx="2"/>
-    <circle cx="9" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:51
+    2:37 • 3:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[muffled words](https://open.spotify.com/track/7etAgbHPTNdGGu1fXD06E3)** by **st jimmy** *(muffled words)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[Methane](https://open.spotify.com/track/34FgRLkIWmrKjBGuUqZJIh)** by **dreamcache, Kiri** *(Methane)*
-🎤 **[o-lol](https://open.spotify.com/track/1AvN2r6l0BDoGtflmkQKJJ)** by **RudeClub** *(rated R)*
+🎤 **[magic dust](https://open.spotify.com/track/44qf9UFwDet8gfwaCM7VmS)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[Nimm meine Hand](https://open.spotify.com/track/63pmBd7uYbQJmzn5LDLP5N)** by **Kilian Knight** *(Nimm meine Hand)*
+🎤 **[So Cold (Reverie's Memory)](https://open.spotify.com/track/3WQ9M2UIxR8esY4iwMB0W0)** by **DJmegan23, reverie, Senses** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[E-MÄDCHEN 2](https://open.spotify.com/track/0nlSPXWNilkzhcavunFThx)** by **Punk Christ** *(E-MÄDCHEN 2)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 14:12:01Z UTC
+🕐 Last updated: 2025-10-02 14:32:24Z UTC
 <!-- SPOTIFY-END -->
