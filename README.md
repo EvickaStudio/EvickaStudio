@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)**
+**🎵 [ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)**
 *by* **blombi19**
 *Album:* herzkasper
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="164" height="4" fill="#1db954" rx="2"/>
-    <circle cx="164" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:22
+    1:39 • 3:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dopamin](https://open.spotify.com/track/39f5jyDAQl5ZaAGj69RCcE)** by **blombi19** *(herzkasper)*
-🎤 **[jeans](https://open.spotify.com/track/6mZKAgOHuq2QaTfSQLtLjk)** by **blombi19** *(herzkasper)*
-🎤 **[unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)** by **blombi19** *(herzkasper)*
-🎤 **[paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)** by **blombi19, mehlhaltig** *(herzkasper)*
-🎤 **[zeit für frühling in mein <3](https://open.spotify.com/track/6EEW8K7jihmVANto3CPeGy)** by **oilcolor** *(zeit für frühling in mein <3)*
+🎤 **[kopfkissen](https://open.spotify.com/track/1Ra8bUQ6LXVIQPN6PieEwC)** by **blombi19** *(herzkasper)*
+🎤 **[arterien](https://open.spotify.com/track/0STuVrCzEKRtYj8ItoymYN)** by **blombi19** *(herzkasper)*
+🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
+🎤 **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by **blombi19, p3pppa** *(herzkasper)*
+🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 18:51:20Z UTC
+🕐 Last updated: 2025-10-02 19:10:05Z UTC
 <!-- SPOTIFY-END -->
