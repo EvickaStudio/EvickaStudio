@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aecfac6a733ba21cfd8efcb5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735c22549b37d2dc0529a2500d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)**
-*by* **52Blue**
-*Album:* Dummer Junge
+**🎵 [purple heart lane](https://open.spotify.com/track/04LoE4zAwohHWawihxGmnu)**
+*by* **Levi Ryan**
+*Album:* purple heart lane
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="117" height="4" fill="#1db954" rx="2"/>
-    <circle cx="117" cy="2" r="6" fill="#1db954"/>
+    <rect width="232" height="4" fill="#1db954" rx="2"/>
+    <circle cx="232" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:56
+    2:46 • 3:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[valhalla](https://open.spotify.com/track/1VLOCtdOIsoQ3RjKcQAz1v)** by **forever forever** *(valhalla)*
+🎤 **[Why Can't I Love](https://open.spotify.com/track/73bul1LFVIqryg7dhNH6iT)** by **ikigaisoulya, letmedrown** *(Why Can't I Love)*
+🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
+🎤 **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)*
 🎤 **[DIG1TAL](https://open.spotify.com/track/2O8RGbhGLfQ9PCjAgPrGjR)** by **Saint Purple, Yung OS** *(DIG1TAL)*
-🎤 **[365](https://open.spotify.com/track/44tQUFDnOuPgBqwx7x43Vv)** by **toobrokeforfiji, Safecall777** *(Schwarzgeld EP 2)*
-🎤 **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)*
-🎤 **[sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)** by **blombi19, aimée** *(sternenkind)*
-🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 17:09:14Z UTC
+🕐 Last updated: 2025-10-02 17:26:25Z UTC
 <!-- SPOTIFY-END -->
