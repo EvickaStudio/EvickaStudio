@@ -134,11 +134,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
-🥈 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
-🥉 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
-🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
+🥈 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
+🥉 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
+🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-02 10:12:24Z UTC
+🕐 Last updated: 2025-10-02 10:32:10Z UTC
 <!-- SPOTIFY-END -->
