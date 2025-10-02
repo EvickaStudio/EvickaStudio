@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3127c4fe017632d7aa1e84b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)**
-*by* **5v, kojo**
-*Album:* issues
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v, kojo** *(issues)*
 🎤 **[HML](https://open.spotify.com/track/6TVBT4QZuAjEYUySQNKA06)** by **Boofbby** *(Boofbby 2019)*
 🎤 **[love and lies](https://open.spotify.com/track/2ry3woZoYQn1Kj87A7XbRz)** by **Crescent, kerosene, Crystal Statues** *(love and lies)*
 🎤 **[dark thoughts](https://open.spotify.com/track/3s4wknzAXHgmgqMB988XBb)** by **lost8** *(dark thoughts)*
-🎤 **[dizzy](https://open.spotify.com/track/63fb0smSh5OqmX1wFvXqzI)** by **Dylann, 8485** *(dizzy)*
-🎤 **[R U Down?](https://open.spotify.com/track/2zPJ8LFi0I2ltvtibtn5L2)** by **RudeClub** *(R U Down?)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-02 09:40:36Z UTC
+🕐 Last updated: 2025-10-02 09:48:09Z UTC
 <!-- SPOTIFY-END -->
