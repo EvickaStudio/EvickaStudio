@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273411a8d0914af5a4c40c02754" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731cf243e32ab63e841c5e4030" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
-*by* **HighSchool**
-*Album:* Colt
+**🎵 [new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)**
+*by* **SHEMYYY**
+*Album:* new friends
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="38" height="4" fill="#1db954" rx="2"/>
+    <circle cx="38" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:34 • 4:53
+    0:16 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
-🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[ich wach auf und denk an dich](https://open.spotify.com/track/1rioQG2heHKrIeSuwD89Rn)** by **5star** *(ich wach auf und denk an dich)*
+🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
+🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-03 11:09:58Z UTC
+🕐 Last updated: 2025-10-03 11:23:56Z UTC
 <!-- SPOTIFY-END -->
