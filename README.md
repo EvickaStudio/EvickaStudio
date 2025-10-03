@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273198d3379f0eb1599fc6a5da1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)**
+*by* **Texas Is The Reason**
+*Album:* Do You Know Who You Are?: The Complete Collection
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="15" height="4" fill="#1db954" rx="2"/>
+    <circle cx="15" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:08 • 2:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Keine Zukunft](https://open.spotify.com/track/5KWFyUBpjAs4mcsggdyhsL)** by **NILS KEPPEL** *(Keine Zukunft)*
 🎤 **[keiner von uns left behind ::<>>+](https://open.spotify.com/track/6KKh9EVG2BFSFuZWq7L8Vf)** by **ALeiz** *(detaching from the ghost in your memories ==--!!"#)*
 🎤 **[feuer / teuer](https://open.spotify.com/track/12ZWTQyIXG0cBW7hdRGfNF)** by **mikeycyrus** *(i miss xavity)*
 🎤 **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)*
 🎤 **[egal](https://open.spotify.com/track/12XwCNlWz1FLGQu74yXjuz)** by **Love Pact** *(egal)*
-🎤 **[todesschwur](https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g)** by **blombi19** *(schlangenhelix)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-03 07:36:42Z UTC
+🕐 Last updated: 2025-10-03 07:47:30Z UTC
 <!-- SPOTIFY-END -->
