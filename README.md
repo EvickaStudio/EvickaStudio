@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27353ab70a27d58af286ce9eb91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273266a8dab1fe4805fbc0a09e9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)**
-*by* **Ian Asher, Phantogram**
-*Album:* Black Out Days (Stay Away)
+**🎵 [Time Polish](https://open.spotify.com/track/4SBbBKxypeNmDPs1xnpAbU)**
+*by* **Lovefear, LJM.**
+*Album:* Time Polish
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:52
+    1:11 • 3:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
-🎤 **[FM'92](https://open.spotify.com/track/5WSnuB71GFjFsi3yoyEFG3)** by **Willix** *(FM'92)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
+🎤 **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
+🎤 **[Eastbay](https://open.spotify.com/track/78PZwivkjhl7leEAZOoZbS)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-03 14:11:45Z UTC
+🕐 Last updated: 2025-10-03 14:30:56Z UTC
 <!-- SPOTIFY-END -->
