@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27353ab70a27d58af286ce9eb91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)**
+*by* **Ian Asher, Phantogram**
+*Album:* Black Out Days (Stay Away)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="80" height="4" fill="#1db954" rx="2"/>
+    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:46 • 2:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
-🎤 **[röntgenbrille](https://open.spotify.com/track/6h7e49F4PfsPcAgbONdbtC)** by **blombi19** *(herzkasper)*
-🎤 **[ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)** by **blombi19** *(herzkasper)*
-🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
-🎤 **[kopfkissen](https://open.spotify.com/track/1Ra8bUQ6LXVIQPN6PieEwC)** by **blombi19** *(herzkasper)*
+🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
+🎤 **[FM'92](https://open.spotify.com/track/5WSnuB71GFjFsi3yoyEFG3)** by **Willix** *(FM'92)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich bring mich um**](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)
 
 
-🕐 Last updated: 2025-10-03 13:49:21Z UTC
+🕐 Last updated: 2025-10-03 14:11:45Z UTC
 <!-- SPOTIFY-END -->
