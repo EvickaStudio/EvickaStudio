@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731c01f11ce57d77570fc6fa59" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)**
-*by* **luu, cy4ne**
-*Album:* arschloch
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 1:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
-🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
+🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
+🎤 **[leaveme2fukitup *2020* *RARE*](https://open.spotify.com/track/3pNXcHdfBeGXivsO3KANxE)** by **ccareful, Capoxxo** *(leaveme2fukitup *2020* *RARE*)*
+🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
 
 
-🕐 Last updated: 2025-10-03 18:52:49Z UTC
+🕐 Last updated: 2025-10-03 19:09:53Z UTC
 <!-- SPOTIFY-END -->
