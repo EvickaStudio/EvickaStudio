@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
+🎤 **[Time Polish](https://open.spotify.com/track/4SBbBKxypeNmDPs1xnpAbU)** by **Lovefear, LJM.** *(Time Polish)*
 🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
 🎤 **[leaveme2fukitup *2020* *RARE*](https://open.spotify.com/track/3pNXcHdfBeGXivsO3KANxE)** by **ccareful, Capoxxo** *(leaveme2fukitup *2020* *RARE*)*
 🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
 
 
-🕐 Last updated: 2025-10-04 08:14:05Z UTC
+🕐 Last updated: 2025-10-04 08:32:32Z UTC
 <!-- SPOTIFY-END -->
