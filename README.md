@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738fd6c61c63f706467d63ecc4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e9ed50085d3d3b16ca57137f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [WAST3 MYY TIM3](https://open.spotify.com/track/5pdokpdFOLD5U3U6CPnVvf)**
-*by* **CRYYDOWN, OKE**
-*Album:* HERMETIC
+**🎵 [weiß nicht was ich fühlen soll](https://open.spotify.com/track/0iwrGmEa3smP6W1t8AwLHl)**
+*by* **Shirukid**
+*Album:* weiß nicht was ich fühlen soll
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="295" height="4" fill="#1db954" rx="2"/>
-    <circle cx="295" cy="2" r="6" fill="#1db954"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:16 • 3:19
+    2:12 • 3:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bis du mir in die Augen schaust](https://open.spotify.com/track/1sVrXQE0SwXfu2kcoOiK3z)** by **iroos** *(Bis du mir in die Augen schaust)*
-🎤 **[Misleading Love](https://open.spotify.com/track/1IjxObGy3ewPzaQPf4PquD)** by **Martey, lu-ez** *(Misleading Love)*
-🎤 **[unsichere zeit](https://open.spotify.com/track/0mgOvuc3brEnDo4rhI9gib)** by **HOLLAND** *(unsichere zeit)*
-🎤 **[Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)** by **52Blue** *(Meer oder weniger)*
-🎤 **[ketten ums herz](https://open.spotify.com/track/5JTNbqWnDc1oizJO7ebwig)** by **52Blue** *(damage forever)*
+🎤 **[Verloren in Der Nacht](https://open.spotify.com/track/60qtq6jSq9m5qQ382jSAbk)** by **RASON** *(Broken Dreams 2)*
+🎤 **[Winterlove](https://open.spotify.com/track/62gyd9QY9RObEfDoyXvks0)** by **CryX** *(Winterlove)*
+🎤 **[kalte liebe](https://open.spotify.com/track/6qbGfaPYwQj84FEaOcEuwQ)** by **uneven echo** *(kalte liebe)*
+🎤 **[Passed out](https://open.spotify.com/track/3mDjGLpTNNmKOYZNdJHZlz)** by **HORUS39** *(Passed out)*
+🎤 **[Sommerwind](https://open.spotify.com/track/0mZfgMPlYhVCT7j2kIMabP)** by **violentbxs, Masha** *(Sommerwind)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 19:21:27Z UTC
+🕐 Last updated: 2025-10-05 19:33:36Z UTC
 <!-- SPOTIFY-END -->
