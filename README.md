@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be92e750ec5fef495dd14078" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334a86aa1a6dcf465dcaf3d81" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heaven](https://open.spotify.com/track/5SOprkSw7XcFEQCDV91JyG)**
-*by* **Rome Evers**
-*Album:* Heaven
+**🎵 [Nicht in meinem Leben](https://open.spotify.com/track/0LEZxvKa80vB3bTA7PTGyd)**
+*by* **Nachtkinder**
+*Album:* Hochmut und Fall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="90" height="4" fill="#1db954" rx="2"/>
+    <circle cx="90" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:47
+    0:56 • 3:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Treppenhaus](https://open.spotify.com/track/1eTiOyNPZjKCYdlD14wbjC)** by **TEMMIS** *(Tageslicht fall auf mich - EP)*
+🎤 **[No Matter What](https://open.spotify.com/track/28fh02lolCWd0yELJGrSe6)** by **aaron's book club** *(Doggies)*
+🎤 **[Heaven](https://open.spotify.com/track/5SOprkSw7XcFEQCDV91JyG)** by **Rome Evers** *(Heaven)*
 🎤 **[Begs me to dance](https://open.spotify.com/track/2wNxeAqaQdkLCmumgQ4enA)** by **Agatha is Dead!** *(Begs me to dance)*
 🎤 **[Gold](https://open.spotify.com/track/78pkhUlRzWOeiuH8XA4hAs)** by **DERBY** *(Slugger)*
-🎤 **[Mezzanine](https://open.spotify.com/track/4gatGAviEcd9h4cTyggtgs)** by **blue diner.** *(Mezzanine)*
-🎤 **[IWID](https://open.spotify.com/track/6JLQZv48X2rI7SjpTeC0V1)** by **Scarlet Rae** *(IWID)*
-🎤 **[Danny's Song](https://open.spotify.com/track/3SWoeFn8577rLdLZpa9XCS)** by **Seko** *(Danny's Song)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 17:25:11Z UTC
+🕐 Last updated: 2025-10-05 17:34:03Z UTC
 <!-- SPOTIFY-END -->
