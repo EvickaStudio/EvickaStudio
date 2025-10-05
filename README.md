@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c16c2ee3db5cadc47975ecc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aa3d8e8e8fca08f9ac3b0513" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ)**
-*by* **NewDad**
-*Album:* MADRA
+**🎵 [Danny's Song](https://open.spotify.com/track/3SWoeFn8577rLdLZpa9XCS)**
+*by* **Seko**
+*Album:* Danny's Song
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="194" height="4" fill="#1db954" rx="2"/>
+    <circle cx="194" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:48 • 3:19
+    2:37 • 4:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
-🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
-🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
-🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
-🎤 **[immer nur geträumt](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt)*
+🎤 **[Я опять не могу проснуться](https://open.spotify.com/track/4xDXLBMzdf7hx057ibLCn5)** by **Ищейка** *(Я опять не могу проснуться)*
+🎤 **[Yearn](https://open.spotify.com/track/0nL3IN92QFM2cveT8WG8ri)** by **Distressor** *(Yearn)*
+🎤 **[Unstuck](https://open.spotify.com/track/0JmFhIPbf2jcZNFZblAenk)** by **Polkadot** *(...to be crushed)*
+🎤 **[hong kong milk tea](https://open.spotify.com/track/71lFhTyB2ClAKze7n8x4Sr)** by **corn wave** *(hong kong milk tea)*
+🎤 **[i hait it](https://open.spotify.com/track/7qN3j7COLZRhbESJFFdSGg)** by **never goodbye, overtonight** *(i hait it)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 16:47:57Z UTC
+🕐 Last updated: 2025-10-05 17:09:27Z UTC
 <!-- SPOTIFY-END -->
