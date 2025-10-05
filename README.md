@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736f06348c3db472d6a5070adc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)**
+*by* **Edwin Rosen**
+*Album:* Wie sehr tut es weh?
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="276" height="4" fill="#1db954" rx="2"/>
+    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:32 • 2:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
+🎤 **[walking near](https://open.spotify.com/track/3CtP3Nl1cRFnN3Y6Yg65YW)** by **Francos Pain** *(walking near)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
+🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
 🎤 **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
-🎤 **[Afterburner](https://open.spotify.com/track/1z0EbPhl9w8QMqZF63mlCd)** by **Yota Dora** *(Afterburner)*
-🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 08:13:47Z UTC
+🕐 Last updated: 2025-10-05 08:32:26Z UTC
 <!-- SPOTIFY-END -->
