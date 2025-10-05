@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379ddd9b7ba1d293bac681221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738fd6c61c63f706467d63ecc4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)**
-*by* **52Blue**
-*Album:* Meer oder weniger
+**🎵 [WAST3 MYY TIM3](https://open.spotify.com/track/5pdokpdFOLD5U3U6CPnVvf)**
+*by* **CRYYDOWN, OKE**
+*Album:* HERMETIC
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="295" height="4" fill="#1db954" rx="2"/>
+    <circle cx="295" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 2:20
+    3:16 • 3:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Bis du mir in die Augen schaust](https://open.spotify.com/track/1sVrXQE0SwXfu2kcoOiK3z)** by **iroos** *(Bis du mir in die Augen schaust)*
+🎤 **[Misleading Love](https://open.spotify.com/track/1IjxObGy3ewPzaQPf4PquD)** by **Martey, lu-ez** *(Misleading Love)*
+🎤 **[unsichere zeit](https://open.spotify.com/track/0mgOvuc3brEnDo4rhI9gib)** by **HOLLAND** *(unsichere zeit)*
+🎤 **[Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)** by **52Blue** *(Meer oder weniger)*
 🎤 **[ketten ums herz](https://open.spotify.com/track/5JTNbqWnDc1oizJO7ebwig)** by **52Blue** *(damage forever)*
-🎤 **[fukt up](https://open.spotify.com/track/65SrmSUPaKxoSpVjb6czZr)** by **kristof*** *(fukt up)*
-🎤 **[acidtongue++](https://open.spotify.com/track/4D7KVv1AekTWSFNbPobbg5)** by **graydigit, gyraii** *(acidtongue++)*
-🎤 **[Von dir](https://open.spotify.com/track/7a4bxRxJyMnv4BPWKO95MH)** by **Dwayne Warner, G.G. Alice** *(Lucy Far 2)*
-🎤 **[Sanftes Blau](https://open.spotify.com/track/7H06jdFCYzwzH9kuMLQY6m)** by **Drückeberger** *(Armselig)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 19:08:36Z UTC
+🕐 Last updated: 2025-10-05 19:21:27Z UTC
 <!-- SPOTIFY-END -->
