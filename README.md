@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f44c61e81d3c46d1b418c832" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Nie Gesagt](https://open.spotify.com/track/1GTnl5tw91EOslefYJHy01)**
-*by* **Drückeberger**
-*Album:* Nie Gesagt
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:34
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
+🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
+🎤 **[Nie Gesagt](https://open.spotify.com/track/1GTnl5tw91EOslefYJHy01)** by **Drückeberger** *(Nie Gesagt)*
 🎤 **[sterne Still](https://open.spotify.com/track/3dqnJfQHd04svxpocw15FW)** by **sotbarn, b3nn3t** *(per Aspera ad #Astra)*
 🎤 **[Mit Dir](https://open.spotify.com/track/3uBd2OtfSVTGp45RIAbAdL)** by **Pavelo & Schnell** *(Mit Dir)*
-🎤 **[Aladin](https://open.spotify.com/track/11fL974NBXnCSNMd7CEK81)** by **Skepsiz, Joe Nimi** *(DiY!)*
-🎤 **[komm mit mir](https://open.spotify.com/track/4hYn0XSgXZdhPP9xe7LZQa)** by **Freibier** *(komm mit mir)*
-🎤 **[wir gegen den rest](https://open.spotify.com/track/52sxeywwtM2CFyBWifdILa)** by **Tape Head, NONI** *(wir gegen den rest)*
 
 
 
@@ -156,8 +137,8 @@
 🥈 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
 🥉 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 🏅 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
+🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-05 20:12:24Z UTC
+🕐 Last updated: 2025-10-05 20:28:56Z UTC
 <!-- SPOTIFY-END -->
