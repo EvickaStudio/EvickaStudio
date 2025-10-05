@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aa3d8e8e8fca08f9ac3b0513" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273be92e750ec5fef495dd14078" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Danny's Song](https://open.spotify.com/track/3SWoeFn8577rLdLZpa9XCS)**
-*by* **Seko**
-*Album:* Danny's Song
+**🎵 [Heaven](https://open.spotify.com/track/5SOprkSw7XcFEQCDV91JyG)**
+*by* **Rome Evers**
+*Album:* Heaven
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:37 • 4:03
+    2:09 • 2:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Я опять не могу проснуться](https://open.spotify.com/track/4xDXLBMzdf7hx057ibLCn5)** by **Ищейка** *(Я опять не могу проснуться)*
-🎤 **[Yearn](https://open.spotify.com/track/0nL3IN92QFM2cveT8WG8ri)** by **Distressor** *(Yearn)*
-🎤 **[Unstuck](https://open.spotify.com/track/0JmFhIPbf2jcZNFZblAenk)** by **Polkadot** *(...to be crushed)*
-🎤 **[hong kong milk tea](https://open.spotify.com/track/71lFhTyB2ClAKze7n8x4Sr)** by **corn wave** *(hong kong milk tea)*
-🎤 **[i hait it](https://open.spotify.com/track/7qN3j7COLZRhbESJFFdSGg)** by **never goodbye, overtonight** *(i hait it)*
+🎤 **[Begs me to dance](https://open.spotify.com/track/2wNxeAqaQdkLCmumgQ4enA)** by **Agatha is Dead!** *(Begs me to dance)*
+🎤 **[Gold](https://open.spotify.com/track/78pkhUlRzWOeiuH8XA4hAs)** by **DERBY** *(Slugger)*
+🎤 **[Mezzanine](https://open.spotify.com/track/4gatGAviEcd9h4cTyggtgs)** by **blue diner.** *(Mezzanine)*
+🎤 **[IWID](https://open.spotify.com/track/6JLQZv48X2rI7SjpTeC0V1)** by **Scarlet Rae** *(IWID)*
+🎤 **[Danny's Song](https://open.spotify.com/track/3SWoeFn8577rLdLZpa9XCS)** by **Seko** *(Danny's Song)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 17:09:27Z UTC
+🕐 Last updated: 2025-10-05 17:25:11Z UTC
 <!-- SPOTIFY-END -->
