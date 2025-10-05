@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e9ed50085d3d3b16ca57137f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273af82e2b3439900bfe286a61d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [weiß nicht was ich fühlen soll](https://open.spotify.com/track/0iwrGmEa3smP6W1t8AwLHl)**
-*by* **Shirukid**
-*Album:* weiß nicht was ich fühlen soll
+**🎵 [Veloroute 10](https://open.spotify.com/track/1Z6B3vBTWHk8gsA2F2NeVW)**
+*by* **Junjo M, Ramen Junge**
+*Album:* TUMULT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="206" height="4" fill="#1db954" rx="2"/>
-    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 3:11
+    2:37 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Verloren in Der Nacht](https://open.spotify.com/track/60qtq6jSq9m5qQ382jSAbk)** by **RASON** *(Broken Dreams 2)*
-🎤 **[Winterlove](https://open.spotify.com/track/62gyd9QY9RObEfDoyXvks0)** by **CryX** *(Winterlove)*
-🎤 **[kalte liebe](https://open.spotify.com/track/6qbGfaPYwQj84FEaOcEuwQ)** by **uneven echo** *(kalte liebe)*
-🎤 **[Passed out](https://open.spotify.com/track/3mDjGLpTNNmKOYZNdJHZlz)** by **HORUS39** *(Passed out)*
-🎤 **[Sommerwind](https://open.spotify.com/track/0mZfgMPlYhVCT7j2kIMabP)** by **violentbxs, Masha** *(Sommerwind)*
+🎤 **[falsch verliebt](https://open.spotify.com/track/4kSBtDyEqFB78iDXWI36Sq)** by **boja** *(falsch verliebt)*
+🎤 **[Einsamkeit 2025](https://open.spotify.com/track/3TRR73j7DfWXrQQTTegvH9)** by **Futek** *(Einsamkeit 2025)*
+🎤 **[sommerregen](https://open.spotify.com/track/35TxKzHgfC7kTzO5hsOhZ3)** by **paule** *(sommerregen)*
+🎤 **[WELTVERBRECHER](https://open.spotify.com/track/08mx0EqRnc6ysWkTqw4x1t)** by **m0 online, Shirukid** *(WELTVERBRECHER)*
+🎤 **[weiß nicht was ich fühlen soll](https://open.spotify.com/track/0iwrGmEa3smP6W1t8AwLHl)** by **Shirukid** *(weiß nicht was ich fühlen soll)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 19:33:36Z UTC
+🕐 Last updated: 2025-10-05 19:47:51Z UTC
 <!-- SPOTIFY-END -->
