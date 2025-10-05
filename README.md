@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273784b20cce6cca80f23418348" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379ddd9b7ba1d293bac681221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Verschwendete Zeit](https://open.spotify.com/track/7mSrDD4cUa6DRSf7zuv0rz)**
-*by* **Tom Blanc**
-*Album:* Verschwendete Zeit
+**🎵 [Meer oder weniger](https://open.spotify.com/track/2aJHQXiq88aNbAZvsXnGdl)**
+*by* **52Blue**
+*Album:* Meer oder weniger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
+    <rect width="278" height="4" fill="#1db954" rx="2"/>
+    <circle cx="278" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 2:24
+    2:10 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Augen leer :(](https://open.spotify.com/track/06HJU1Qwi5cy7oo5gsHxhc)** by **kristof*** *(Augen leer :()*
-🎤 **[in meinen träumen](https://open.spotify.com/track/1ZwC9Wx0k5jlPePYkVIoZe)** by **Able** *(in meinen träumen)*
-🎤 **[Bubatz Speed Up](https://open.spotify.com/track/2r8Mq6tDDzK1creeqlRndM)** by **Bubatzmann** *(Bubatz Speed Up)*
-🎤 **[X PILL](https://open.spotify.com/track/5Fgc4hWZwOfK2n4RO6gMGI)** by **HEXEDGOD, Francis Fuji** *(X PILL)*
-🎤 **[Verblendet](https://open.spotify.com/track/2v0q8WQUqNYGKzrARrLP3k)** by **4Gz, NICCO** *(Verblendet)*
+🎤 **[ketten ums herz](https://open.spotify.com/track/5JTNbqWnDc1oizJO7ebwig)** by **52Blue** *(damage forever)*
+🎤 **[fukt up](https://open.spotify.com/track/65SrmSUPaKxoSpVjb6czZr)** by **kristof*** *(fukt up)*
+🎤 **[acidtongue++](https://open.spotify.com/track/4D7KVv1AekTWSFNbPobbg5)** by **graydigit, gyraii** *(acidtongue++)*
+🎤 **[Von dir](https://open.spotify.com/track/7a4bxRxJyMnv4BPWKO95MH)** by **Dwayne Warner, G.G. Alice** *(Lucy Far 2)*
+🎤 **[Sanftes Blau](https://open.spotify.com/track/7H06jdFCYzwzH9kuMLQY6m)** by **Drückeberger** *(Armselig)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 18:49:57Z UTC
+🕐 Last updated: 2025-10-05 19:08:36Z UTC
 <!-- SPOTIFY-END -->
