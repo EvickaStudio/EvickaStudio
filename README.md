@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735bb5d784ef51c99a82ce2225" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734369becd71bfe64671dc79b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Psycho](https://open.spotify.com/track/6Mcldv51C9RC8B3rL1OIOx)**
-*by* **AnarchistCaine, Baphomet**
-*Album:* Psycho
+**🎵 [Bubatz Speed Up](https://open.spotify.com/track/2r8Mq6tDDzK1creeqlRndM)**
+*by* **Bubatzmann**
+*Album:* Bubatz Speed Up
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="1" height="4" fill="#1db954" rx="2"/>
-    <circle cx="1" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 2:53
+    0:24 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Toxic Dream](https://open.spotify.com/track/3R84ZegqALsc1kSpINozvT)** by **RASON** *(Da Wo Träume Sterben)*
-🎤 **[Gold](https://open.spotify.com/track/4luDef7T4IOURy51G7Qo0m)** by **TooNormal, Fish on a Trip** *(Gold)*
-🎤 **[hass im bauch](https://open.spotify.com/track/1i0Op5Ko0HJoh9VRMBgHP3)** by **OVR, Steppi** *(hass im bauch)*
-🎤 **[alles fühlt sich an wie fallen](https://open.spotify.com/track/36upifGwmteNfUlnsSldLc)** by **Wavylady** *(alles fühlt sich an wie fallen)*
-🎤 **[Winter Latenight](https://open.spotify.com/track/15C7ponA1I6FHbcg4sEY4V)** by **Reverb** *(Winter Latenight)*
+🎤 **[X PILL](https://open.spotify.com/track/5Fgc4hWZwOfK2n4RO6gMGI)** by **HEXEDGOD, Francis Fuji** *(X PILL)*
+🎤 **[Verblendet](https://open.spotify.com/track/2v0q8WQUqNYGKzrARrLP3k)** by **4Gz, NICCO** *(Verblendet)*
+🎤 **[Sommer](https://open.spotify.com/track/5vQX4tVZ9TzZexlUeVXraO)** by **User424** *(Sommer)*
+🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
+🎤 **[Hast Du Kapiert](https://open.spotify.com/track/74a10S1NbxPH86OQpALspG)** by **Matze** *(Hast Du Kapiert)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 18:15:19Z UTC
+🕐 Last updated: 2025-10-05 18:41:33Z UTC
 <!-- SPOTIFY-END -->
