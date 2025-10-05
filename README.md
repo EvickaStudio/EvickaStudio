@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b40ca9a52e7d065f4a8cdc3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5c123b15c4cc873822d6afa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)**
-*by* **Kkoki**
-*Album:* So Long
+**🎵 [Searching Hands](https://open.spotify.com/track/3j9TkJGSskFNtCPq2s3oxu)**
+*by* **Walter Frosch**
+*Album:* Diskothekenbesitzer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="276" height="4" fill="#1db954" rx="2"/>
+    <circle cx="276" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:25
+    4:23 • 4:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sea Of Blue](https://open.spotify.com/track/3JabTVnZ3WFbocPbum4Duu)** by **Kev Koko, Leer Report** *(Sea Of Blue)*
-🎤 **[slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)** by **BED** *(everything hurts)*
-🎤 **[Anywhere Else](https://open.spotify.com/track/3vy9YLTFiOOkysd3QFfgqi)** by **Borninmay** *(Anywhere Else)*
-🎤 **[NYE](https://open.spotify.com/track/3oWbg5mVXPkeNpBq00BDaZ)** by **Walter Frosch** *(NYE)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)*
+🎤 **[i fall apart](https://open.spotify.com/track/5YmubyOaW0CkE5Zpp7eQyA)** by **MRD, Flawless Issues** *(i fall apart (Tiga Remix))*
+🎤 **[Fat Face](https://open.spotify.com/track/0XisTrzL3VLmnk1e3d9bvQ)** by **Francos Pain** *(Fat Face)*
+🎤 **[wolf like me](https://open.spotify.com/track/3WGHz5GzBhW2GnJUbi2EWk)** by **Panik Deluxe** *(wolf like me)*
+🎤 **[smoke break #2](https://open.spotify.com/track/6Ww5e6dL9mCd6AxPd3aUEr)** by **distraction4ever** *(Business Core)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 08:47:33Z UTC
+🕐 Last updated: 2025-10-05 09:10:42Z UTC
 <!-- SPOTIFY-END -->
