@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d57e3b601a8171f7e122b2ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d79f6cc87d77b9dfade1662" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)**
-*by* **Clams Casino, Imogen Heap**
-*Album:* Instrumental Relics
+**🎵 [töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)**
+*by* **augenschliesser, Spartakdakar, gothband1t**
+*Album:* Kunst für Künstler 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="7" height="4" fill="#1db954" rx="2"/>
-    <circle cx="7" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 4:37
+    2:06 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[I'm On My Own](https://open.spotify.com/track/1O3NUmt3lxCl4LCG9XjNam)** by **Snow Strippers** *(April Mixtape 3)*
 🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
 🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
 🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 14:26:46Z UTC
+🕐 Last updated: 2025-10-05 14:36:01Z UTC
 <!-- SPOTIFY-END -->
