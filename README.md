@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe26f2e6d623b448d024e8d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)**
-*by* **diggidaniel**
-*Album:* Augenblick
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="17" height="4" fill="#1db954" rx="2"/>
-    <circle cx="17" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 2:38
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[selfGUARD](https://open.spotify.com/track/50HSCNcirasPsoXGa0vUrf)** by **graydigit** *(selfGUARD)*
+🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
 🎤 **[Internet](https://open.spotify.com/track/4EUsjS1i4Dyw6I9gw4dLZu)** by **Urbannino, DeeLou** *(Datenrausch)*
 🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
 🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
-🎤 **[Nie Gesagt](https://open.spotify.com/track/1GTnl5tw91EOslefYJHy01)** by **Drückeberger** *(Nie Gesagt)*
-🎤 **[sterne Still](https://open.spotify.com/track/3dqnJfQHd04svxpocw15FW)** by **sotbarn, b3nn3t** *(per Aspera ad #Astra)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-05 21:33:44Z UTC
+🕐 Last updated: 2025-10-05 21:47:49Z UTC
 <!-- SPOTIFY-END -->
