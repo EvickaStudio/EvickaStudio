@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ec3bc653cd99296b59aa94a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e01ac37bc244589abca90316" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)**
-*by* **Oxhy, Ecco2k**
-*Album:* giving in
+**🎵 [temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)**
+*by* **temcandoanything**
+*Album:* blue screen'd my navii
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="145" height="4" fill="#1db954" rx="2"/>
+    <circle cx="145" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 2:37
+    1:00 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
 🎤 **[S u r r e a l i t y](https://open.spotify.com/track/1YCSXPHGGLtBT3pLHuoWKv)** by **TOKYOPILL** *(S u r r e a l i t y)*
 🎤 **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)*
 🎤 **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)*
-🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
-🎤 **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 14:47:47Z UTC
+🕐 Last updated: 2025-10-05 15:10:24Z UTC
 <!-- SPOTIFY-END -->
