@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27334a86aa1a6dcf465dcaf3d81" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273198d3379f0eb1599fc6a5da1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nicht in meinem Leben](https://open.spotify.com/track/0LEZxvKa80vB3bTA7PTGyd)**
-*by* **Nachtkinder**
-*Album:* Hochmut und Fall
+**🎵 [Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)**
+*by* **Texas Is The Reason**
+*Album:* Do You Know Who You Are?: The Complete Collection
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="90" height="4" fill="#1db954" rx="2"/>
-    <circle cx="90" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 3:08
+    1:08 • 2:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
+🎤 **[Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)** by **Ian Asher, Phantogram** *(Black Out Days (Stay Away))*
+🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
 🎤 **[Treppenhaus](https://open.spotify.com/track/1eTiOyNPZjKCYdlD14wbjC)** by **TEMMIS** *(Tageslicht fall auf mich - EP)*
-🎤 **[No Matter What](https://open.spotify.com/track/28fh02lolCWd0yELJGrSe6)** by **aaron's book club** *(Doggies)*
-🎤 **[Heaven](https://open.spotify.com/track/5SOprkSw7XcFEQCDV91JyG)** by **Rome Evers** *(Heaven)*
-🎤 **[Begs me to dance](https://open.spotify.com/track/2wNxeAqaQdkLCmumgQ4enA)** by **Agatha is Dead!** *(Begs me to dance)*
-🎤 **[Gold](https://open.spotify.com/track/78pkhUlRzWOeiuH8XA4hAs)** by **DERBY** *(Slugger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**immenser pflegefall (I)**](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)
 
 
-🕐 Last updated: 2025-10-05 17:34:03Z UTC
+🕐 Last updated: 2025-10-05 17:47:47Z UTC
 <!-- SPOTIFY-END -->
