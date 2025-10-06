@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a7935e8af93f3927f2ac0053" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)**
+*by* **pink luu, Kroka Koka, xtatus**
+*Album:* lieblingspferd
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:05 • 1:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
+🎤 **[Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)** by **Gehlektek, TakaTuka** *(Acid Pirate 13)*
+🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
 🎤 **[SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)*
-🎤 **[derealization](https://open.spotify.com/track/7A2UI8oiwH9e2BvGJDKOcJ)** by **wiv, 68+1** *(derealization)*
-🎤 **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 11:10:22Z UTC
+🕐 Last updated: 2025-10-06 11:24:34Z UTC
 <!-- SPOTIFY-END -->
