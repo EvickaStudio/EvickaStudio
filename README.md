@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ac4afd41e2f3f6ef72a764a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)**
-*by* **Crystal Castles**
-*Album:* Amnesty (I)
+**🎵 [new problemzZz](https://open.spotify.com/track/6jAbQIXKiX8WEWB1DXCnCX)**
+*by* **hateoryx**
+*Album:* new problemzZz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="261" height="4" fill="#1db954" rx="2"/>
-    <circle cx="261" cy="2" r="6" fill="#1db954"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 3:08
+    1:46 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
-🎤 **[It Was Beautiful](https://open.spotify.com/track/0LOrGc5do2ImMZV2aPg2bh)** by **Capoxxo** *(It Was Beautiful)*
-🎤 **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)*
-🎤 **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)*
-🎤 **[Großstadtdschungel](https://open.spotify.com/track/7j4VL9pDz4i3lNxZYGRZYa)** by **viko63, penglord** *(Großstadtdschungel)*
+🎤 **[MATTRESS](https://open.spotify.com/track/3nvvTmLKag6547ezCjbzgY)** by **KOGAIHU, Nosgov** *(MATTRESS)*
+🎤 **[over n over](https://open.spotify.com/track/0upEhQZzJjj7n8sgSK1qq0)** by **emorave** *(over n over)*
+🎤 **[EUPHORYA](https://open.spotify.com/track/5ZyzXl9od6agErk1qmIDlJ)** by **TYM, S1RENA, MYT** *(EUPHORYA)*
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
+🎤 **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 13:37:44Z UTC
+🕐 Last updated: 2025-10-06 13:50:46Z UTC
 <!-- SPOTIFY-END -->
