@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bf6d27f2f6f8a208de3b5b89" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fcbd680368c1778a82fb6b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)**
-*by* **ear**
-*Album:* The Most Dear and The Future
+**🎵 [Hard Refresh](https://open.spotify.com/track/0RJbtBExI8If2wURyvbnQl)**
+*by* **DJ_Dave**
+*Album:* Hard Refresh
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:19
+    2:52 • 3:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[anything u](https://open.spotify.com/track/3psJFAsc4QqRUfyBBDrke2)** by **k0d4m4, echo angel** *(anything u)*
-🎤 **[Protected - Ms* Gloom Remix](https://open.spotify.com/track/7MXWSxauuwjzYgQyLr7tQZ)** by **Woesum, Ms* Gloom** *(Protected (Ms* Gloom Remix))*
-🎤 **[Dragonborn](https://open.spotify.com/track/1OQDe01vuQcNT8rSnQwlxv)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
+🎤 **[Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b)** by **southstar** *(Echoes)*
+🎤 **[Psychic Unhealing](https://open.spotify.com/track/4Iglz5r9sPW9C1n7r7oAki)** by **Shadow Wizard Money Gang, Cynthoni** *(Psychic Unhealing)*
+🎤 **[Castles](https://open.spotify.com/track/2sfUCYCJ03AOtatqBmgxAx)** by **DJ_Dave** *(Castles)*
+🎤 **[Dissolve - Sped Up](https://open.spotify.com/track/2MYdacRepPj5Q99R1goguy)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Dissolve)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 14:50:02Z UTC
+🕐 Last updated: 2025-10-06 15:12:32Z UTC
 <!-- SPOTIFY-END -->
