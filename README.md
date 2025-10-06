@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27327b8f6bcf663da4e40336931" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c)**
-*by* **Juice WRLD**
-*Album:* Goodbye & Good Riddance
+**🎵 [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0)**
+*by* **Current Joys**
+*Album:* A Different Age
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="17" height="4" fill="#1db954" rx="2"/>
-    <circle cx="17" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 2:56
+    1:02 • 3:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by **MGMT** *(Little Dark Age)*
+🎤 **[Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c)** by **Juice WRLD** *(Goodbye & Good Riddance)*
+🎤 **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
 🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
-🎤 **[Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)** by **Freddie Dredd** *(Opaul)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
-🎤 **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 09:39:18Z UTC
+🕐 Last updated: 2025-10-06 09:48:08Z UTC
 <!-- SPOTIFY-END -->
