@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273942050e2c67c7176e6d971d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a106cbf05473843865145936" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Avant Garde](https://open.spotify.com/track/67YoRbGhV9IhDdBFZhrLCX)**
-*by* **yaego, beau**
-*Album:* ÆRO: DELUXE
+**🎵 [Can't Do This Alone - DJ_Dave Edit](https://open.spotify.com/track/2OS5Rk2ULK8GdXgCTkIEv3)**
+*by* **DJ_Dave, Maddy Davis**
+*Album:* Can't Do This Alone - DJ_Dave Edit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 3:19
+    0:43 • 3:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bitrot](https://open.spotify.com/track/0m8yAuQGSeB1fte4gzqV9b)** by **DJ_Dave** *(Intercell)*
-🎤 **[ava](https://open.spotify.com/track/3RDDSyBIC1rWUvNZmZwgc2)** by **xo** *(ava)*
-🎤 **[Absence](https://open.spotify.com/track/2KprIWkhK54bDYEHWzZjwD)** by **WEB** *(Absence)*
-🎤 **[Till i'm Dead](https://open.spotify.com/track/1OloKCCG0e7Pu3IUgkhISg)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
+🎤 **[anima](https://open.spotify.com/track/3VNIq7q74WfAW9Xdksvh2L)** by **xo** *(avatar / anima)*
+🎤 **[the heart wants](https://open.spotify.com/track/5qghOgzKqI5r4x6zDjRl0V)** by **k0d4m4, fake flowers** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
+🎤 **[musica electronica](https://open.spotify.com/track/259kNeFoQp9TyTZdDBBznX)** by **yaego** *(ÆRO)*
+🎤 **[bite](https://open.spotify.com/track/14q8vUDFcdohBJGlvSh2Fq)** by **lustr** *(bite)*
+🎤 **[Array](https://open.spotify.com/track/1CG4BeMSNkPdzEieKWVuDH)** by **DJ_Dave** *(Array)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 16:15:00Z UTC
+🕐 Last updated: 2025-10-06 16:37:53Z UTC
 <!-- SPOTIFY-END -->
