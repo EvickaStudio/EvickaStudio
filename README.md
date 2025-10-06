@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cd4177df37f1f1be8129a30d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c7323642c42b21dfd479cb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CRACKED SCREEN](https://open.spotify.com/track/6CXTVpjNRQUN4iwbZc4fJK)**
-*by* **The Twins, velvette blue**
-*Album:* TURMERIC
+**🎵 [make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)**
+*by* **enable secret**
+*Album:* under.net compilation vol. 3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 2:32
+    0:36 • 3:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Benadryl](https://open.spotify.com/track/2pffycPdWHAqUcXTo11YWr)** by **Gore girl** *(There's beauty in decaying)*
-🎤 **[Senna](https://open.spotify.com/track/1VzTEXqRzqeHP6iRXyV3dJ)** by **Silent Boy, Sace, defyer** *(Senna)*
-🎤 **[Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)** by **Sleepy Opiate** *(IDOLS)*
-🎤 **[lonelyfeather](https://open.spotify.com/track/0fAUyAt5ttMfAgSbwVd26s)** by **SHEMYYY** *(this is how it's meant to feel)*
-🎤 **[myst](https://open.spotify.com/track/2A8Bbu5h2vRtIjT66wTkxU)** by **k0d4m4** *(nothing matters)*
+🎤 **[i love u. - slowed + reverb](https://open.spotify.com/track/4Fy0ufOQ8540qFgvu0U9kr)** by **wiv** *(i love u. (extras))*
+🎤 **[Focus](https://open.spotify.com/track/4v9MZMkQpz2xtFqYzArETD)** by **Sleepy Opiate** *(IDOLS)*
+🎤 **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[it'll be ok](https://open.spotify.com/track/2LwXeL1whXXRyFALEPEmP8)** by **k0d4m4** *(木魂 EP3 創世記)*
+🎤 **[CRACKED SCREEN](https://open.spotify.com/track/6CXTVpjNRQUN4iwbZc4fJK)** by **The Twins, velvette blue** *(TURMERIC)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 17:29:20Z UTC
+🕐 Last updated: 2025-10-06 17:39:40Z UTC
 <!-- SPOTIFY-END -->
