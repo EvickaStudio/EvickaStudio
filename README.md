@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dc7478b120f321cdde5c47bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cd4177df37f1f1be8129a30d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)**
-*by* **Somewhere Special**
-*Album:* Used2
+**🎵 [CRACKED SCREEN](https://open.spotify.com/track/6CXTVpjNRQUN4iwbZc4fJK)**
+*by* **The Twins, velvette blue**
+*Album:* TURMERIC
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:46
+    2:19 • 2:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
-🎤 **[World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO)** by **DJ_Dave** *(World's Hardest Game)*
-🎤 **[hello?](https://open.spotify.com/track/4Ld1fEMYR6LhhsyQODkr1X)** by **wiv** *(hello?)*
-🎤 **[heroine](https://open.spotify.com/track/323upO5mFSfHy7cQSDDSVQ)** by **k0d4m4** *(heroine)*
-🎤 **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)*
+🎤 **[Benadryl](https://open.spotify.com/track/2pffycPdWHAqUcXTo11YWr)** by **Gore girl** *(There's beauty in decaying)*
+🎤 **[Senna](https://open.spotify.com/track/1VzTEXqRzqeHP6iRXyV3dJ)** by **Silent Boy, Sace, defyer** *(Senna)*
+🎤 **[Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)** by **Sleepy Opiate** *(IDOLS)*
+🎤 **[lonelyfeather](https://open.spotify.com/track/0fAUyAt5ttMfAgSbwVd26s)** by **SHEMYYY** *(this is how it's meant to feel)*
+🎤 **[myst](https://open.spotify.com/track/2A8Bbu5h2vRtIjT66wTkxU)** by **k0d4m4** *(nothing matters)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 17:11:50Z UTC
+🕐 Last updated: 2025-10-06 17:29:20Z UTC
 <!-- SPOTIFY-END -->
