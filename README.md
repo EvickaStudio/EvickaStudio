@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f2b1c2ed52674e40d14cd6c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a2ea16cba15e73cc73bccaf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)**
-*by* **Krewella**
-*Album:* Get Wet
+**🎵 [Kisses](https://open.spotify.com/track/1YCQLUpd4HAvpITVDglW1F)**
+*by* **Lil Alice**
+*Album:* Sighs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="69" height="4" fill="#1db954" rx="2"/>
+    <circle cx="69" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 3:31
+    0:26 • 1:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Die braune Tasche - Frizzo Remix](https://open.spotify.com/track/0WWphMtsnrm1WSldFJkkc7)** by **Haftbefehl, Frizzo** *(Die braune Tasche (Frizzo Remix))*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[Drink Ist Kalt](https://open.spotify.com/track/40HuUTOc00s1M7VarvHBG8)** by **Big Pat, Ion Miles, BHZ, Longus Mongus** *(halb:vier)*
-🎤 **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)*
-🎤 **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)*
+🎤 **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)*
+🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)*
+🎤 **[Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)** by **Krewella** *(Get Wet)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 21:10:46Z UTC
+🕐 Last updated: 2025-10-06 21:25:58Z UTC
 <!-- SPOTIFY-END -->
