@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cacf97e8a5412dd93eabd887" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [lunes3am](https://open.spotify.com/track/3ncHpbTDamrWxtztkkhbsY)**
-*by* **k0d4m4**
-*Album:* nothing matters
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
-🎤 **[Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)** by **ear** *(Nerves)*
-🎤 **[A Vision In Meditation +DJmegan23](https://open.spotify.com/track/0V0MvgTBwdVxWxo6zjzoPV)** by **reverie, DJmegan23** *(Out Of The Blue)*
-🎤 **[Key 2 The Clouds](https://open.spotify.com/track/6fOU0dmEMK15yPwVgEc6c5)** by **DJmegan23, 4evr** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[all of the lights](https://open.spotify.com/track/68blAaGknHRXdhsXlEvIC3)** by **2cross2** *(superstar)*
+🎤 **[You're Talking Bullets](https://open.spotify.com/track/4gotB92g5OxhvWbiD0o33i)** by **WEB, Writhing** *(You're Talking Bullets)*
+🎤 **[SAVE URSELF (DJM23)](https://open.spotify.com/track/0CX29KOHeWw0EcIX6GN2JN)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
+🎤 **[touch grass](https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth)** by **notinbed, Clara Kimera** *(unknown reasons)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
+🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 18:18:10Z UTC
+🕐 Last updated: 2025-10-06 18:45:46Z UTC
 <!-- SPOTIFY-END -->
