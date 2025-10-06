@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c45a78f4aeaf419f25135f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273448fa48b6682043d8bc98410" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg)**
-*by* **carolesdaughter**
-*Album:* Violent
+**🎵 [No Hate Is A Cold Star](https://open.spotify.com/track/4kDgdqL7yg3XfJ3JhgqLfk)**
+*by* **7038634357**
+*Album:* No Hate Is A Cold Star
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 2:15
+    4:46 • 5:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Empty Lightning](https://open.spotify.com/track/1wQ5iwSpQYl4Kp5JLYlz6o)** by **Woesum, Oklou** *(Blue Summer)*
-🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
-🎤 **[zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)** by **5v, Tamino404** *(zu zweit allein)*
-🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
-🎤 **[Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe)** by **Lana Del Rey** *(Say Yes To Heaven)*
+🎤 **[LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
+🎤 **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)*
+🎤 **[Intergallactic](https://open.spotify.com/track/1Ad4Uns8u9aytqNdPueSsP)** by **TYM** *(Sandstorm exuleD)*
+🎤 **[tired of life](https://open.spotify.com/track/5vGyQLpCGtWmBrB67uEO1t)** by **meat computer** *(soundtrack to the end of a world)*
+🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 10:13:39Z UTC
+🕐 Last updated: 2025-10-06 10:34:54Z UTC
 <!-- SPOTIFY-END -->
