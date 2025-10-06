@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a78802bc5000f92507375018" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273942050e2c67c7176e6d971d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ill watch you burn us](https://open.spotify.com/track/0ALrzVMu30J78fNYW0C1e8)**
-*by* **yaego, wzrdd**
-*Album:* ÆRO
+**🎵 [Avant Garde](https://open.spotify.com/track/67YoRbGhV9IhDdBFZhrLCX)**
+*by* **yaego, beau**
+*Album:* ÆRO: DELUXE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="149" height="4" fill="#1db954" rx="2"/>
+    <circle cx="149" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 3:06
+    1:39 • 3:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[913](https://open.spotify.com/track/4MOHwaGq0ChGChidZ3bOEh)** by **Flawless Issues, Sad Madona** *(913)*
-🎤 **[Break Free - Eurohead Remix](https://open.spotify.com/track/0fLYN9bZQi1fXw2Qr45q1k)** by **ESP, Eurohead** *(Promise (Deluxe))*
-🎤 **[React](https://open.spotify.com/track/0bBEHfdvPECf2s4AkSsgIQ)** by **DJ_Dave** *(React)*
-🎤 **[1hp](https://open.spotify.com/track/0TbOvGlJWwVX18NFoYZY4x)** by **DJmegan23, 4evr** *(1hp)*
-🎤 **[temples](https://open.spotify.com/track/7wW5oG8jJ6FmoDPe2d5iFE)** by **k0d4m4, fake flowers, kurt aka, orchid.exe** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
+🎤 **[Bitrot](https://open.spotify.com/track/0m8yAuQGSeB1fte4gzqV9b)** by **DJ_Dave** *(Intercell)*
+🎤 **[ava](https://open.spotify.com/track/3RDDSyBIC1rWUvNZmZwgc2)** by **xo** *(ava)*
+🎤 **[Absence](https://open.spotify.com/track/2KprIWkhK54bDYEHWzZjwD)** by **WEB** *(Absence)*
+🎤 **[Till i'm Dead](https://open.spotify.com/track/1OloKCCG0e7Pu3IUgkhISg)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 15:47:57Z UTC
+🕐 Last updated: 2025-10-06 16:15:00Z UTC
 <!-- SPOTIFY-END -->
