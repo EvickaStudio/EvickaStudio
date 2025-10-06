@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2b1c2ed52674e40d14cd6c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)**
-*by* **blombi19, p3pppa**
-*Album:* herzkasper
+**🎵 [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)**
+*by* **Krewella**
+*Album:* Get Wet
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 4:41
+    1:02 • 3:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D)** by **Kaito Shoma, DJ Paul, Kingpin Skinny Pimp** *(Scary Garry)*
-🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
-🎤 **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)*
-🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
-🎤 **[ZU PRIVILEGIERT](https://open.spotify.com/track/455gYN1IkanIpuZb5b5TOD)** by **Skepsiz** *(ZU PRIVILEGIERT)*
+🎤 **[Die braune Tasche - Frizzo Remix](https://open.spotify.com/track/0WWphMtsnrm1WSldFJkkc7)** by **Haftbefehl, Frizzo** *(Die braune Tasche (Frizzo Remix))*
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
+🎤 **[Drink Ist Kalt](https://open.spotify.com/track/40HuUTOc00s1M7VarvHBG8)** by **Big Pat, Ion Miles, BHZ, Longus Mongus** *(halb:vier)*
+🎤 **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)*
+🎤 **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 20:48:00Z UTC
+🕐 Last updated: 2025-10-06 21:10:46Z UTC
 <!-- SPOTIFY-END -->
