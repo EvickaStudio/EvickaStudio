@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2ea16cba15e73cc73bccaf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733e378f6f76942740e239df0d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kisses](https://open.spotify.com/track/1YCQLUpd4HAvpITVDglW1F)**
-*by* **Lil Alice**
-*Album:* Sighs
+**🎵 [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)**
+*by* **Title Fight**
+*Album:* Shed
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 1:52
+    2:21 • 2:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
+🎤 **[NAGELLACK IN SACHSEN - SPEED UP](https://open.spotify.com/track/0sudfZLPyxDzV6vOB37sJz)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN (SPEED UP))*
+🎤 **[Kisses](https://open.spotify.com/track/1YCQLUpd4HAvpITVDglW1F)** by **Lil Alice** *(Sighs)*
 🎤 **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)*
 🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
-🎤 **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)*
-🎤 **[Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)** by **Krewella** *(Get Wet)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 21:25:58Z UTC
+🕐 Last updated: 2025-10-06 21:34:49Z UTC
 <!-- SPOTIFY-END -->
