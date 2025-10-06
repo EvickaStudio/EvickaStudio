@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273183698b1dae41ced644991e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)**
-*by* **uusymon**
-*Album:* Arcadia
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 2:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
+🎤 **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)*
+🎤 **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)*
+🎤 **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)*
 🎤 **[du bist mir egal](https://open.spotify.com/track/2H2Y5YSMxH1QFoERMG3QeD)** by **Pink Katana** *(du bist mir egal)*
-🎤 **[going quietly - sped up](https://open.spotify.com/track/5nZxjCC9edqvv8dxrXAFBq)** by **Ezekiel, sped up nightcore** *(going quietly (sped up))*
-🎤 **[The Thin Grey Line](https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP)** by **$uicideboy$** *(The Thin Grey Line)*
-🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
-🎤 **[YKWIM? {slow//reverb}](https://open.spotify.com/track/3NLuRwdC33GHNouWUa0CUT)** by **Ryan Celsius Sounds, slow//reverb** *(YKWIM? {slow//reverb})*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 07:47:29Z UTC
+🕐 Last updated: 2025-10-06 08:17:17Z UTC
 <!-- SPOTIFY-END -->
