@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d6d381d8ea05b07914caba5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273725564993f99b5b4801ac298" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)**
-*by* **Kev Koko, Nina Roy**
-*Album:* Happy Ending
+**🎵 [going quietly - sped up](https://open.spotify.com/track/5nZxjCC9edqvv8dxrXAFBq)**
+*by* **Ezekiel, sped up nightcore**
+*Album:* going quietly (sped up)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="169" height="4" fill="#1db954" rx="2"/>
-    <circle cx="169" cy="2" r="6" fill="#1db954"/>
+    <rect width="80" height="4" fill="#1db954" rx="2"/>
+    <circle cx="80" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 3:04
+    0:53 • 3:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[The Thin Grey Line](https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP)** by **$uicideboy$** *(The Thin Grey Line)*
+🎤 **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)*
+🎤 **[YKWIM? {slow//reverb}](https://open.spotify.com/track/3NLuRwdC33GHNouWUa0CUT)** by **Ryan Celsius Sounds, slow//reverb** *(YKWIM? {slow//reverb})*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
 🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
-🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
-🎤 **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by **strangerperson** *(Kisses und Flowers)*
-🎤 **[Schiff](https://open.spotify.com/track/2i5et2xTyQQ9IqYdF8YxHo)** by **Filow** *(Schiff)*
-🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 07:29:26Z UTC
+🕐 Last updated: 2025-10-06 07:39:32Z UTC
 <!-- SPOTIFY-END -->
