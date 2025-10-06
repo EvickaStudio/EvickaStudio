@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273cacf97e8a5412dd93eabd887" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [anemoia](https://open.spotify.com/track/0FkDr58gSOonw1fmgjyprX)**
+**🎵 [lunes3am](https://open.spotify.com/track/3ncHpbTDamrWxtztkkhbsY)**
 *by* **k0d4m4**
 *Album:* nothing matters
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="258" height="4" fill="#1db954" rx="2"/>
-    <circle cx="258" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:45 • 3:12
+    0:45 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hearts That Run](https://open.spotify.com/track/5nYNiJS2lhHhnJBtrhs3xl)** by **Cowgirl Clue** *(Total Freedom)*
-🎤 **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)*
-🎤 **[i love u. - slowed + reverb](https://open.spotify.com/track/4Fy0ufOQ8540qFgvu0U9kr)** by **wiv** *(i love u. (extras))*
-🎤 **[Focus](https://open.spotify.com/track/4v9MZMkQpz2xtFqYzArETD)** by **Sleepy Opiate** *(IDOLS)*
-🎤 **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
+🎤 **[Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)** by **ear** *(Nerves)*
+🎤 **[A Vision In Meditation +DJmegan23](https://open.spotify.com/track/0V0MvgTBwdVxWxo6zjzoPV)** by **reverie, DJmegan23** *(Out Of The Blue)*
+🎤 **[Key 2 The Clouds](https://open.spotify.com/track/6fOU0dmEMK15yPwVgEc6c5)** by **DJmegan23, 4evr** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[all of the lights](https://open.spotify.com/track/68blAaGknHRXdhsXlEvIC3)** by **2cross2** *(superstar)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 17:47:43Z UTC
+🕐 Last updated: 2025-10-06 18:18:10Z UTC
 <!-- SPOTIFY-END -->
