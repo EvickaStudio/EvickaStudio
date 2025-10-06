@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739d7ad730fb48a9fa873daca9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)**
-*by* **xo**
-*Album:* avatar / anima
+**🎵 [The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)**
+*by* **Chrystal, NOTION**
+*Album:* The Days (NOTION Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="177" height="4" fill="#1db954" rx="2"/>
-    <circle cx="177" cy="2" r="6" fill="#1db954"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 2:45
+    0:25 • 3:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
-🎤 **[2cb](https://open.spotify.com/track/5JSFU5hWDTcd7eqpvCwYkV)** by **mikeycyrus** *(2cb)*
-🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
+🎤 **[Red Armor](https://open.spotify.com/track/4lokwaruKSA4UVymx6JqXc)** by **Niki Istrefi** *(EUROMANTIC001)*
+🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
+🎤 **[Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)** by **Ian Asher, Phantogram** *(Black Out Days (Stay Away))*
+🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
+🎤 **[insane](https://open.spotify.com/track/3z3870bIEXZvESsgoYQYCb)** by **bliiiss** *(insane)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 12:25:20Z UTC
+🕐 Last updated: 2025-10-06 13:03:27Z UTC
 <!-- SPOTIFY-END -->
