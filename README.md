@@ -107,26 +107,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc25b81211df621713558012" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)**
-*by* **Gehlektek, TakaTuka**
-*Album:* Acid Pirate 13
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 10:33
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 10:48:36Z UTC
+🕐 Last updated: 2025-10-06 11:10:22Z UTC
 <!-- SPOTIFY-END -->
