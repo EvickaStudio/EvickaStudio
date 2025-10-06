@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="107" height="4" fill="#1db954" rx="2"/>
+    <circle cx="107" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:44 • 2:03
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
+🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
 🎤 **[selfGUARD](https://open.spotify.com/track/50HSCNcirasPsoXGa0vUrf)** by **graydigit** *(selfGUARD)*
 🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
 🎤 **[Internet](https://open.spotify.com/track/4EUsjS1i4Dyw6I9gw4dLZu)** by **Urbannino, DeeLou** *(Datenrausch)*
-🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
-🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 06:19:22Z UTC
+🕐 Last updated: 2025-10-06 06:47:37Z UTC
 <!-- SPOTIFY-END -->
