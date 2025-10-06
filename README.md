@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="107" height="4" fill="#1db954" rx="2"/>
-    <circle cx="107" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
-🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
-🎤 **[selfGUARD](https://open.spotify.com/track/50HSCNcirasPsoXGa0vUrf)** by **graydigit** *(selfGUARD)*
-🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
-🎤 **[Internet](https://open.spotify.com/track/4EUsjS1i4Dyw6I9gw4dLZu)** by **Urbannino, DeeLou** *(Datenrausch)*
+🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
+🎤 **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by **strangerperson** *(Kisses und Flowers)*
+🎤 **[Schiff](https://open.spotify.com/track/2i5et2xTyQQ9IqYdF8YxHo)** by **Filow** *(Schiff)*
+🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
+🎤 **[reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 06:47:37Z UTC
+🕐 Last updated: 2025-10-06 07:13:11Z UTC
 <!-- SPOTIFY-END -->
