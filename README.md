@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e820892cb9b65b7ea996019" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dc7478b120f321cdde5c47bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [So Cold (Reverie's Memory)](https://open.spotify.com/track/3WQ9M2UIxR8esY4iwMB0W0)**
-*by* **DJmegan23, reverie, Senses**
-*Album:* Thou Art All Lost And Forgotten (DELUXE)
+**🎵 [Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)**
+*by* **Somewhere Special**
+*Album:* Used2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="99" height="4" fill="#1db954" rx="2"/>
+    <circle cx="99" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 3:36
+    0:55 • 2:46
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pretty bird](https://open.spotify.com/track/29yCfvMMDnZja4RVIKT9FT)** by **SHEMYYY** *(this is how it's meant to feel)*
-🎤 **[Across the City](https://open.spotify.com/track/6zInXxig4eqMawJ6rmI057)** by **Plymhides** *(Across the City)*
-🎤 **[starfell](https://open.spotify.com/track/5jYjvSkEz0t8QVPZ1ijClC)** by **k0d4m4, echo angel** *(starfell)*
-🎤 **[Theorem](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)** by **ear** *(The Most Dear and The Future)*
-🎤 **[Doppler](https://open.spotify.com/track/2x23h454OSMdlbw4TxmXrQ)** by **The Hellp** *(Doppler)*
+🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
+🎤 **[World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO)** by **DJ_Dave** *(World's Hardest Game)*
+🎤 **[hello?](https://open.spotify.com/track/4Ld1fEMYR6LhhsyQODkr1X)** by **wiv** *(hello?)*
+🎤 **[heroine](https://open.spotify.com/track/323upO5mFSfHy7cQSDDSVQ)** by **k0d4m4** *(heroine)*
+🎤 **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 16:51:47Z UTC
+🕐 Last updated: 2025-10-06 17:11:50Z UTC
 <!-- SPOTIFY-END -->
