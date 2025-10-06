@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:20 • 1:36
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Bleib](https://open.spotify.com/track/4RgYBDjNhQkQA6SXzxbQ9w)** by **Kidd Kazama** *(Bleib)*
+🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
+🎤 **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)*
 🎤 **[You're Talking Bullets](https://open.spotify.com/track/4gotB92g5OxhvWbiD0o33i)** by **WEB, Writhing** *(You're Talking Bullets)*
 🎤 **[SAVE URSELF (DJM23)](https://open.spotify.com/track/0CX29KOHeWw0EcIX6GN2JN)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[touch grass](https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth)** by **notinbed, Clara Kimera** *(unknown reasons)*
-🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
-🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 19:23:09Z UTC
+🕐 Last updated: 2025-10-06 19:34:50Z UTC
 <!-- SPOTIFY-END -->
