@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734fcbd680368c1778a82fb6b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736532a227056a817bfa66ac7c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hard Refresh](https://open.spotify.com/track/0RJbtBExI8If2wURyvbnQl)**
-*by* **DJ_Dave**
-*Album:* Hard Refresh
+**🎵 [Translucent](https://open.spotify.com/track/6bHuQYmATsGwB91d3KyCRW)**
+*by* **Sleepy Opiate**
+*Album:* IDOLS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="156" height="4" fill="#1db954" rx="2"/>
+    <circle cx="156" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:52 • 3:52
+    2:04 • 3:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
-🎤 **[Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b)** by **southstar** *(Echoes)*
-🎤 **[Psychic Unhealing](https://open.spotify.com/track/4Iglz5r9sPW9C1n7r7oAki)** by **Shadow Wizard Money Gang, Cynthoni** *(Psychic Unhealing)*
-🎤 **[Castles](https://open.spotify.com/track/2sfUCYCJ03AOtatqBmgxAx)** by **DJ_Dave** *(Castles)*
-🎤 **[Dissolve - Sped Up](https://open.spotify.com/track/2MYdacRepPj5Q99R1goguy)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Dissolve)*
+🎤 **[Cycles](https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED)** by **DJ_Dave, Switch Angel** *(Cycles)*
+🎤 **[Take Flight, Earth-Noid!](https://open.spotify.com/track/5BrIjWr4BHWDwhNtC8QQId)** by **Cynthoni, Projekt Melody** *(Lost in Her Virtual Eyes)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[Joker](https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb)** by **Ms* Gloom** *(Joker)*
+🎤 **[TKOHHH](https://open.spotify.com/track/39ov64QPolrYLmpW3o1nUw)** by **yaego** *(ÆRO: DELUXE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 15:12:32Z UTC
+🕐 Last updated: 2025-10-06 15:30:33Z UTC
 <!-- SPOTIFY-END -->
