@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)**
-*by* **Chrystal, NOTION**
-*Album:* The Days (NOTION Remix)
+**🎵 [Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)**
+*by* **Crystal Castles**
+*Album:* Amnesty (I)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 3:53
+    2:44 • 3:08
 </span>
 </p>
 
@@ -132,19 +132,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[Red Armor](https://open.spotify.com/track/4lokwaruKSA4UVymx6JqXc)** by **Niki Istrefi** *(EUROMANTIC001)*
-🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
-🎤 **[Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)** by **Ian Asher, Phantogram** *(Black Out Days (Stay Away))*
-🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
-🎤 **[insane](https://open.spotify.com/track/3z3870bIEXZvESsgoYQYCb)** by **bliiiss** *(insane)*
+🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
+🎤 **[It Was Beautiful](https://open.spotify.com/track/0LOrGc5do2ImMZV2aPg2bh)** by **Capoxxo** *(It Was Beautiful)*
+🎤 **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)*
+🎤 **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)*
+🎤 **[Großstadtdschungel](https://open.spotify.com/track/7j4VL9pDz4i3lNxZYGRZYa)** by **viko63, penglord** *(Großstadtdschungel)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**flywoah**](https://open.spotify.com/artist/4HhW0jozmeZ7e4AAkVOdeO)
 
@@ -159,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-06 13:03:27Z UTC
+🕐 Last updated: 2025-10-06 13:37:44Z UTC
 <!-- SPOTIFY-END -->
