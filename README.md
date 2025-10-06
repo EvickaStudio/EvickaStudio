@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739c7323642c42b21dfd479cb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cacf97e8a5412dd93eabd887" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)**
-*by* **enable secret**
-*Album:* under.net compilation vol. 3
+**🎵 [anemoia](https://open.spotify.com/track/0FkDr58gSOonw1fmgjyprX)**
+*by* **k0d4m4**
+*Album:* nothing matters
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="258" height="4" fill="#1db954" rx="2"/>
+    <circle cx="258" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 3:50
+    2:45 • 3:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hearts That Run](https://open.spotify.com/track/5nYNiJS2lhHhnJBtrhs3xl)** by **Cowgirl Clue** *(Total Freedom)*
+🎤 **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)*
 🎤 **[i love u. - slowed + reverb](https://open.spotify.com/track/4Fy0ufOQ8540qFgvu0U9kr)** by **wiv** *(i love u. (extras))*
 🎤 **[Focus](https://open.spotify.com/track/4v9MZMkQpz2xtFqYzArETD)** by **Sleepy Opiate** *(IDOLS)*
 🎤 **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[it'll be ok](https://open.spotify.com/track/2LwXeL1whXXRyFALEPEmP8)** by **k0d4m4** *(木魂 EP3 創世記)*
-🎤 **[CRACKED SCREEN](https://open.spotify.com/track/6CXTVpjNRQUN4iwbZc4fJK)** by **The Twins, velvette blue** *(TURMERIC)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-06 17:39:40Z UTC
+🕐 Last updated: 2025-10-06 17:47:43Z UTC
 <!-- SPOTIFY-END -->
