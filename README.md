@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739bd9040e92f79ffb58eb9dbd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)**
-*by* **Pitbull, Kesha**
-*Album:* Global Warming: Meltdown (Deluxe Version)
+**🎵 [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr)**
+*by* **blackbear**
+*Album:* deadroses
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 3:24
+    0:37 • 4:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)*
-🎤 **[im #obsessed w u lol](https://open.spotify.com/track/75nBv1w4XDXABFy6koSz2i)** by **korpsebunny** *(im #obsessed w u lol)*
-🎤 **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))*
-🎤 **[SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2)** by **XXXTENTACION** *(?)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
+🎤 **[eine Woche](https://open.spotify.com/track/1L5Yx9t9a4kUOGx0gdiX9p)** by **Steintor Herrenchor** *(Eine Woche Geburtstag)*
+🎤 **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[i hate this](https://open.spotify.com/track/4HytVTfbsGJEso9qSkJU5g)** by **threedimensionsapart** *(bliss)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 21:34:32Z UTC
+🕐 Last updated: 2025-10-07 21:47:56Z UTC
 <!-- SPOTIFY-END -->
