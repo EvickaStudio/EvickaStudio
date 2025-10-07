@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738fc63367af6c7e7e3c94fde6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273682e5bb41cad85e336c574ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [psychosocial](https://open.spotify.com/track/3nRTW8Yso8YjFupfz0G1oP)**
-*by* **p6inkillr, dollreal, 9surgery**
-*Album:* psychosocial
+**🎵 [upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)**
+*by* **p6inkillr**
+*Album:* upside down
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 2:19
+    1:48 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nice spirits / sentimental](https://open.spotify.com/track/3ow1sTEtsxCJ6brgeXRFjx)** by **jequya** *(nice spirits / sentimental)*
-🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
-🎤 **[why did u do this 2 me?!](https://open.spotify.com/track/5tQDdEpQDeHbHPvsRuV3EJ)** by **lovesiren** *(why did u do this 2 me?!)*
-🎤 **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)*
+🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
+🎤 **[Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)** by **Ms* Gloom** *(Coco Manifesto)*
+🎤 **[reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)** by **seph, nomu.** *(reside)*
+🎤 **[TAMAGOTCHI](https://open.spotify.com/track/1LwC4Zhy6lncyvga7FZInV)** by **vai5000, xofilo** *(TAMAGOTCHI)*
+🎤 **[bruised knees xP](https://open.spotify.com/track/1KpHNCjkArBspFMN3IippP)** by **pichuu** *(bruised knees xP)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 17:48:08Z UTC
+🕐 Last updated: 2025-10-07 18:18:09Z UTC
 <!-- SPOTIFY-END -->
