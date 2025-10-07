@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)**
-*by* **Frank Ocean**
-*Album:* Blonde
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="204" height="4" fill="#1db954" rx="2"/>
-    <circle cx="204" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:49 • 4:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)** by **blombi19** *(video)*
-🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
-🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
-🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
-🎤 **[Silence of the Lambs](https://open.spotify.com/track/0mQEWoesnmt58MzH1LIOus)** by **Babyteeth** *(Silence of the Lambs)*
+🎤 **[rot away alone](https://open.spotify.com/track/2gJ5Z0rSzbzMEKATdpJ0Gd)** by **Clover!, Pr0xy, morecalcium** *(rot away alone)*
+🎤 **[Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
+🎤 **[like cats & dogs](https://open.spotify.com/track/4Udk5XNwCks4aGcDqdwzBE)** by **tomcbumpz** *(don't look down)*
+🎤 **[Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)** by **southstar** *(Cover Up My Face)*
+🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 22:47:29Z UTC
+🕐 Last updated: 2025-10-07 23:11:09Z UTC
 <!-- SPOTIFY-END -->
