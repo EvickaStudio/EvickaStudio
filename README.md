@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273639dbbe3fe58395b9863b195" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736532a227056a817bfa66ac7c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)**
-*by* **bliiiss**
-*Album:* melancholy
+**🎵 [Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)**
+*by* **Sleepy Opiate**
+*Album:* IDOLS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="275" height="4" fill="#1db954" rx="2"/>
+    <circle cx="275" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:03 • 2:27
+    3:06 • 3:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wna be next](https://open.spotify.com/track/47EnyjyZWFAEB3uJijXBzK)** by **skellington, cholorofilm** *(wna be next)*
-🎤 **[limbless](https://open.spotify.com/track/2FnZYeV1AFHhe5AltfUNQc)** by **nyxixide, cholorofilm** *(limbless)*
-🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
-🎤 **[superficial](https://open.spotify.com/track/1DIGM6v39cbkLKJoqvDRrr)** by **p6inkillr** *(superficial)*
-🎤 **[2NIGHT](https://open.spotify.com/track/7FjkqGjvyoAkZjBmtXjoTS)** by **wenszy** *(2NIGHT)*
+🎤 **[necromaniac](https://open.spotify.com/track/5LBm1wa5ycirJE7Vk2QfjI)** by **nyxixide** *(necromaniac)*
+🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
+🎤 **[TAKE A BITE](https://open.spotify.com/track/6bsgyLRsKwUO8qurcoTqPe)** by **p6inkillr, dollreal, Pröz** *(TAKE A BITE)*
+🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 19:09:51Z UTC
+🕐 Last updated: 2025-10-07 19:23:19Z UTC
 <!-- SPOTIFY-END -->
