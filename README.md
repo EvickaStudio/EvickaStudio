@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735df8a4b0122e7d00990640f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)**
-*by* **heartcoregirl**
-*Album:* Little baby sweet
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 2:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[what to do about you](https://open.spotify.com/track/2ptwIolLgRown8ElkMsynE)** by **kruu, wenszy** *(2good)*
-🎤 **[heartsick](https://open.spotify.com/track/7wrUhITNmDynyQYyfmoQIh)** by **p6inkillr** *(heartsick)*
-🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
-🎤 **[POPSTAR SUICIDE](https://open.spotify.com/track/1FpwnTYKH4dHVI1AnpLBiW)** by **disoc8** *(POPSTAR SUICIDE)*
-🎤 **[bloodhigh](https://open.spotify.com/track/4sUU528lXgvaH9ww3dgglL)** by **nyxixide, cholorofilm, Mezha** *(bloodhigh)*
+🎤 **[Pill Poppers](https://open.spotify.com/track/6NYIaHtKqzafMjCS1AAk6o)** by **503scoob, 444pluto, stxrra** *(Pill Poppers)*
+🎤 **[MASQUERADE](https://open.spotify.com/track/2wT81GmXNJZPp0Y25YhmFA)** by **p6inkillr** *(MASQUERADE)*
+🎤 **[Glide](https://open.spotify.com/track/4ojzHFPkM9UnJJV8d0ceLJ)** by **heartcoregirl** *(Glide)*
+🎤 **[slow burn](https://open.spotify.com/track/3bmJ07h0bhGsb0alh1GiYF)** by **kruu** *(slow burn)*
+🎤 **[hiraeth](https://open.spotify.com/track/7Mblv83RkRTYWz5gc1buKC)** by **soooshimi** *(hiraeth)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 19:47:48Z UTC
+🕐 Last updated: 2025-10-07 20:13:07Z UTC
 <!-- SPOTIFY-END -->
