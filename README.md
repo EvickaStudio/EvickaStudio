@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273016737c3bbd798365ba3ce0a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738fc63367af6c7e7e3c94fde6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)**
-*by* **adore**
-*Album:* did i tell u that i miss u
+**🎵 [psychosocial](https://open.spotify.com/track/3nRTW8Yso8YjFupfz0G1oP)**
+*by* **p6inkillr, dollreal, 9surgery**
+*Album:* psychosocial
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 1:55
+    0:51 • 2:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[nice spirits / sentimental](https://open.spotify.com/track/3ow1sTEtsxCJ6brgeXRFjx)** by **jequya** *(nice spirits / sentimental)*
+🎤 **[heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)** by **SHEMYYY** *(heart taker)*
+🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
 🎤 **[why did u do this 2 me?!](https://open.spotify.com/track/5tQDdEpQDeHbHPvsRuV3EJ)** by **lovesiren** *(why did u do this 2 me?!)*
 🎤 **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)*
-🎤 **[army_mov](https://open.spotify.com/track/09OOgGeWwJre4zQ25YyCc9)** by **ilyhiryu** *(army_mov)*
-🎤 **[ANTIDOTE](https://open.spotify.com/track/4MqJNmXTstQKJooKpPQ6M1)** by **p6inkillr, 4ortake** *(ANTIDOTE)*
-🎤 **[LET ME SEE YA MOVE!](https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP)** by **Lumi Athena, cade clair** *(LET ME SEE YA MOVE!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 17:40:44Z UTC
+🕐 Last updated: 2025-10-07 17:48:08Z UTC
 <!-- SPOTIFY-END -->
