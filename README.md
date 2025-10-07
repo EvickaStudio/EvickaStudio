@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733fefa80c96e0b2c7418d343a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b0dbe5cdee230af2f14fa97b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [he rambled](https://open.spotify.com/track/3Y9OUMJuQwUGOITYqYA9bm)**
-*by* **meat computer**
-*Album:* he rambled
+**🎵 [In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)**
+*by* **DJ Worm, Eurohead, SPÖKE**
+*Album:* In My Heart / In My Mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 1:30
+    1:01 • 4:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[uu look like3 an ##angel](https://open.spotify.com/track/6yryHtWw7ltdgCNhutSTPQ)** by **Rezlaine** *(#Nauseous)*
-🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
-🎤 **[My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0)** by **Jimmy Eat World** *(Bleed American)*
-🎤 **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)*
-🎤 **[Courtship Dating](https://open.spotify.com/track/3zKQDZQTHkUV6bYHNhzbGv)** by **Crystal Castles** *(Crystal Castles)*
+🎤 **[Bleed](https://open.spotify.com/track/0fXGQcUafrI1tpMGWx5kMe)** by **Eera, DJH** *(Bleed)*
+🎤 **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
+🎤 **[Schiess mir ins ♡](https://open.spotify.com/track/02CcPvgcNH0MRrbbgsYzh8)** by **mehlhaltig** *(Schiess mir ins ♡)*
+🎤 **[DIE FIRMA .... NIKOLA & MILAS](https://open.spotify.com/track/4H7hrakBCntdeOCVvLj7Zp)** by **agelast222** *(SOLARCORP)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 15:13:36Z UTC
+🕐 Last updated: 2025-10-07 15:32:31Z UTC
 <!-- SPOTIFY-END -->
