@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2734e7be339cee55cf14e6bc50f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Acid Rain](https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m)**
+*by* **Lorn**
+*Album:* The Maze To Nowhere
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:17 • 2:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Was Glück ist](https://open.spotify.com/track/6FS2FoYdXBLWy3y3QehLuE)** by **TYM** *(Was Glück ist)*
+🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
 🎤 **[Pill Poppers](https://open.spotify.com/track/6NYIaHtKqzafMjCS1AAk6o)** by **503scoob, 444pluto, stxrra** *(Pill Poppers)*
 🎤 **[MASQUERADE](https://open.spotify.com/track/2wT81GmXNJZPp0Y25YhmFA)** by **p6inkillr** *(MASQUERADE)*
-🎤 **[Glide](https://open.spotify.com/track/4ojzHFPkM9UnJJV8d0ceLJ)** by **heartcoregirl** *(Glide)*
-🎤 **[slow burn](https://open.spotify.com/track/3bmJ07h0bhGsb0alh1GiYF)** by **kruu** *(slow burn)*
-🎤 **[hiraeth](https://open.spotify.com/track/7Mblv83RkRTYWz5gc1buKC)** by **soooshimi** *(hiraeth)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 20:48:08Z UTC
+🕐 Last updated: 2025-10-07 21:10:43Z UTC
 <!-- SPOTIFY-END -->
