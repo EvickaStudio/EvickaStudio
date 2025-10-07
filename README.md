@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f926a378b8b16662ecdc6a49" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732d0c0ef37bf28fe4b2b35789" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)**
-*by* **humanangst, agelast222**
-*Album:* the day i met astagel
+**🎵 [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3)**
+*by* **Frou Frou**
+*Album:* Details
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="16" height="4" fill="#1db954" rx="2"/>
-    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 2:42
+    3:10 • 4:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
-🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
-🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
-🎤 **[9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)** by **Brutalismus 3000** *(GOODBYE SALÒ)*
-🎤 **[What We Need](https://open.spotify.com/track/4ybkqmXL60xF6nwOAvVD6r)** by **Vermisst, sedate, lusi 7896, 1antibody, Dani Kiyoko** *(L1VE 002: Until Today)*
+🎤 **[your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ)** by **Jane Remover** *(Frailty)*
+🎤 **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by **Jane Remover** *(Frailty)*
+🎤 **[Eastbay](https://open.spotify.com/track/78PZwivkjhl7leEAZOoZbS)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
+🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 14:34:45Z UTC
+🕐 Last updated: 2025-10-07 14:51:15Z UTC
 <!-- SPOTIFY-END -->
