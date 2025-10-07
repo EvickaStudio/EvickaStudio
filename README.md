@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273dbbf92169e29ca44eb59cba9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Nerunaa Xd](https://open.spotify.com/track/2I81kOZ81kmrPIk0dyPXIW)**
+*by* **q.rih**
+*Album:* Nerunaa Xd
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="199" height="4" fill="#1db954" rx="2"/>
+    <circle cx="199" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:04 • 1:36
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(☾⋆⁺₊✧)*
-🎤 **[dreams](https://open.spotify.com/track/75qv7942PLjhGPbdbLpqeH)** by **coldspades, venusiann** *(dreams)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[egal](https://open.spotify.com/track/12XwCNlWz1FLGQu74yXjuz)** by **Love Pact** *(egal)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
+🎤 **[Roll Tha Dice](https://open.spotify.com/track/3fTRSB3WwA5JkZ79XSuYD3)** by **556Kurumi** *(Roll Tha Dice)*
+🎤 **[take it slow](https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo)** by **nate sib** *(take it slow)*
+🎤 **[LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<](https://open.spotify.com/track/2XW0YSBQ7qkcdg3nqHclsw)** by **jequya** *(LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 13:50:29Z UTC
+🕐 Last updated: 2025-10-07 14:13:06Z UTC
 <!-- SPOTIFY-END -->
