@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
 🎤 **[:UNLOCKEd](https://open.spotify.com/track/6z1QY4oQ9hAr9dPZUolBei)** by **agelast222, gard** *(SOLAR TACTICS)*
 🎤 **[Schau dass du nicht fällst](https://open.spotify.com/track/60qK7FiujHk7SNGjsa25MH)** by **kevin** *(7)*
 🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
 🎤 **[Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3)** by **Syn Cole** *(Feel Good)*
-🎤 **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 07:12:58Z UTC
+🕐 Last updated: 2025-10-07 07:28:08Z UTC
 <!-- SPOTIFY-END -->
