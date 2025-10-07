@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731cffddef489d9797b4c5442d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273758d482fb33853cf2bbcead9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)**
-*by* **dollreal, z4y4, p6inkillr**
-*Album:* party at the graveyard
+**🎵 [BACK IT UP!](https://open.spotify.com/track/5AqbEPSEBkelLag4v1l8nL)**
+*by* **p6inkillr**
+*Album:* BACK IT UP!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 3:08
+    0:34 • 1:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[CRAVE](https://open.spotify.com/track/5McUR2mKszx2ZfAKwJjsOu)** by **EPITXME, dollreal** *(CRAVE)*
-🎤 **[Ur such a shame x_x](https://open.spotify.com/track/06FRYaWhBzTkyAaGhvgR6S)** by **offaflat, dollreal** *(Ur such a shame x_x)*
-🎤 **[RED](https://open.spotify.com/track/3oFJFxqacuSrNzS4ACgU2U)** by **dollreal, d3r, Pröz** *(RED)*
-🎤 **[blue](https://open.spotify.com/track/7J8N9pMGzFKwqLWmx1As4b)** by **flywoah** *(blue)*
-🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
+🎤 **[kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)** by **p6inkillr** *(kill me)*
+🎤 **[wanna hurt u](https://open.spotify.com/track/49PU6Z1Mzlsf9OSu0pgw2u)** by **dolldamage** *(wanna hurt u)*
+🎤 **[There4u](https://open.spotify.com/track/4luXiaM0H3igXCinjvuhTH)** by **lovesiren, k4dnn** *(There4u)*
+🎤 **[th1s b1tch is fakin crazy >_<](https://open.spotify.com/track/58VpLuLcKtz38FWVypdXZa)** by **lovesiren, katf4ngz** *(th1s b1tch is fakin crazy >_<)*
+🎤 **[all i wna b is set free](https://open.spotify.com/track/7HiT99rxJQZyQilrDCfnga)** by **lovesiren** *(all i wna b is set free)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 16:53:36Z UTC
+🕐 Last updated: 2025-10-07 17:11:17Z UTC
 <!-- SPOTIFY-END -->
