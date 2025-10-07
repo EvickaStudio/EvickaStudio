@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ff824b3044f63fafe7a705a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273433c397dffb821e6cf900994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [eternally](https://open.spotify.com/track/6NEFqCHp4Dfi2ybY13yZel)**
-*by* **outoftouch**
-*Album:* eternally
+**🎵 [Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)**
+*by* **flywoah**
+*Album:* Digital Watch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:11
+    0:39 • 1:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[will u cry](https://open.spotify.com/track/1UXqh9YcLZdtQCPGhAUr6W)** by **aysi** *(will u cry)*
-🎤 **[Lies](https://open.spotify.com/track/7ICtlyQEFTEsLb7N93394U)** by **Wisteria** *(Lies)*
-🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
-🎤 **[kiss up](https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ)** by **damon r.** *(kiss up)*
-🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
+🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[soda candy ₊˚⊹](https://open.spotify.com/track/0z4tJZNC3jXbFIqvSaEYa7)** by **dolldamage** *(soda candy ₊˚⊹)*
 
 
 
@@ -144,8 +144,8 @@
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**flywoah**](https://open.spotify.com/artist/4HhW0jozmeZ7e4AAkVOdeO)
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 16:15:21Z UTC
+🕐 Last updated: 2025-10-07 16:43:13Z UTC
 <!-- SPOTIFY-END -->
