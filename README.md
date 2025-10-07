@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735e1bad46155887c633a0a2a7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)**
+*by* **Edwin Rosen**
+*Album:* leichter//kälter / SSS
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:07 • 3:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
+🎤 **[Ghosst(s)](https://open.spotify.com/track/2jUfLr32m2y9XVuHSJfj98)** by **Lorn** *(Ask The Dust)*
 🎤 **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)*
 🎤 **[Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)** by **tim, TYM** *(Myself)*
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
-🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 09:13:33Z UTC
+🕐 Last updated: 2025-10-07 09:31:29Z UTC
 <!-- SPOTIFY-END -->
