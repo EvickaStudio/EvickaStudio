@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f0d1f63271074746c94ae330" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735df8a4b0122e7d00990640f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i've sewn over my eyelids](https://open.spotify.com/track/3tOLwZqt0Cfsadp8ZIh0ir)**
-*by* **ronin**
-*Album:* i've sewn over my eyelids
+**🎵 [Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)**
+*by* **heartcoregirl**
+*Album:* Little baby sweet
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 2:29
+    0:28 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i think i've had enough](https://open.spotify.com/track/4zZuT0iYT7J0Wafi4EsvYm)** by **SHEMYYY** *(i think i've had enough)*
-🎤 **[SHOW ME!](https://open.spotify.com/track/3FjUBpDmPdzXJapyGNFpzu)** by **p6inkillr** *(SHOW ME!)*
-🎤 **[Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)** by **Cece Natalie** *(Miracle)*
-🎤 **[magical♡girl](https://open.spotify.com/track/29xIfglZjwljycAlmuNPfY)** by **pichuu** *(magical♡girl)*
-🎤 **[Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)** by **Sleepy Opiate** *(IDOLS)*
+🎤 **[what to do about you](https://open.spotify.com/track/2ptwIolLgRown8ElkMsynE)** by **kruu, wenszy** *(2good)*
+🎤 **[heartsick](https://open.spotify.com/track/7wrUhITNmDynyQYyfmoQIh)** by **p6inkillr** *(heartsick)*
+🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
+🎤 **[POPSTAR SUICIDE](https://open.spotify.com/track/1FpwnTYKH4dHVI1AnpLBiW)** by **disoc8** *(POPSTAR SUICIDE)*
+🎤 **[bloodhigh](https://open.spotify.com/track/4sUU528lXgvaH9ww3dgglL)** by **nyxixide, cholorofilm, Mezha** *(bloodhigh)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 19:34:05Z UTC
+🕐 Last updated: 2025-10-07 19:47:48Z UTC
 <!-- SPOTIFY-END -->
