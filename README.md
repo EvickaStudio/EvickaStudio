@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736532a227056a817bfa66ac7c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f0d1f63271074746c94ae330" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)**
-*by* **Sleepy Opiate**
-*Album:* IDOLS
+**🎵 [i've sewn over my eyelids](https://open.spotify.com/track/3tOLwZqt0Cfsadp8ZIh0ir)**
+*by* **ronin**
+*Album:* i've sewn over my eyelids
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="275" height="4" fill="#1db954" rx="2"/>
-    <circle cx="275" cy="2" r="6" fill="#1db954"/>
+    <rect width="194" height="4" fill="#1db954" rx="2"/>
+    <circle cx="194" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:06 • 3:23
+    1:36 • 2:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[necromaniac](https://open.spotify.com/track/5LBm1wa5ycirJE7Vk2QfjI)** by **nyxixide** *(necromaniac)*
-🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
-🎤 **[TAKE A BITE](https://open.spotify.com/track/6bsgyLRsKwUO8qurcoTqPe)** by **p6inkillr, dollreal, Pröz** *(TAKE A BITE)*
-🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[i think i've had enough](https://open.spotify.com/track/4zZuT0iYT7J0Wafi4EsvYm)** by **SHEMYYY** *(i think i've had enough)*
+🎤 **[SHOW ME!](https://open.spotify.com/track/3FjUBpDmPdzXJapyGNFpzu)** by **p6inkillr** *(SHOW ME!)*
+🎤 **[Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)** by **Cece Natalie** *(Miracle)*
+🎤 **[magical♡girl](https://open.spotify.com/track/29xIfglZjwljycAlmuNPfY)** by **pichuu** *(magical♡girl)*
+🎤 **[Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)** by **Sleepy Opiate** *(IDOLS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 19:23:19Z UTC
+🕐 Last updated: 2025-10-07 19:34:05Z UTC
 <!-- SPOTIFY-END -->
