@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735ef315d54fd701725176292e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)**
-*by* **Clean Bandit, Jess Glynne**
-*Album:* New Eyes
+**🎵 [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)**
+*by* **Pitbull, Kesha**
+*Album:* Global Warming: Meltdown (Deluxe Version)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="255" height="4" fill="#1db954" rx="2"/>
+    <circle cx="255" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 3:47
+    2:54 • 3:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)*
 🎤 **[im #obsessed w u lol](https://open.spotify.com/track/75nBv1w4XDXABFy6koSz2i)** by **korpsebunny** *(im #obsessed w u lol)*
 🎤 **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))*
 🎤 **[SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2)** by **XXXTENTACION** *(?)*
-🎤 **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)*
-🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 21:25:44Z UTC
+🕐 Last updated: 2025-10-07 21:34:32Z UTC
 <!-- SPOTIFY-END -->
