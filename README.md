@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
+🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
 🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
 🎤 **[Time Polish](https://open.spotify.com/track/4SBbBKxypeNmDPs1xnpAbU)** by **Lovefear, LJM.** *(Time Polish)*
 🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)** by **Edwin Rosen** *(leichter//kälter / SSS)*
-🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 11:10:22Z UTC
+🕐 Last updated: 2025-10-07 11:24:29Z UTC
 <!-- SPOTIFY-END -->
