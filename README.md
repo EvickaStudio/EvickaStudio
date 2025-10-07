@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737615852445709462bc20f394" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [E-MÄDCHEN 2](https://open.spotify.com/track/0nlSPXWNilkzhcavunFThx)**
-*by* **Punk Christ**
-*Album:* E-MÄDCHEN 2
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 2:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[love in my head](https://open.spotify.com/track/0IPIZ7zLZ178UMXR7vAgxq)** by **Feeluvsyou** *(love in my head)*
-🎤 **[We Were Walking in a Garden](https://open.spotify.com/track/7AuAlGQuIPWSF6OtlFmyKx)** by **Capoxxo** *(We Were Walking in a Garden)*
-🎤 **[Gym Class](https://open.spotify.com/track/4BfJmlzP0ErWns1YM1XASc)** by **Lil Peep** *(Gym Class)*
-🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
-🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
+🎤 **[☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(☾⋆⁺₊✧)*
+🎤 **[dreams](https://open.spotify.com/track/75qv7942PLjhGPbdbLpqeH)** by **coldspades, venusiann** *(dreams)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 11:47:55Z UTC
+🕐 Last updated: 2025-10-07 12:25:47Z UTC
 <!-- SPOTIFY-END -->
