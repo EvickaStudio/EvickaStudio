@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[We Were Walking in a Garden](https://open.spotify.com/track/7AuAlGQuIPWSF6OtlFmyKx)** by **Capoxxo** *(We Were Walking in a Garden)*
+🎤 **[Gym Class](https://open.spotify.com/track/4BfJmlzP0ErWns1YM1XASc)** by **Lil Peep** *(Gym Class)*
 🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
 🎤 **[Spit Me Out](https://open.spotify.com/track/5dllTyheyCwHwVuLU9QD5Q)** by **Borninmay** *(Spit Me Out)*
 🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[Time Polish](https://open.spotify.com/track/4SBbBKxypeNmDPs1xnpAbU)** by **Lovefear, LJM.** *(Time Polish)*
-🎤 **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 11:24:29Z UTC
+🕐 Last updated: 2025-10-07 11:34:22Z UTC
 <!-- SPOTIFY-END -->
