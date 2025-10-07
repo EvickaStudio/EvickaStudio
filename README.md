@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273682e5bb41cad85e336c574ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27390b3796939835e2f82711d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)**
+**🎵 [COME AND GET IT](https://open.spotify.com/track/4p8uHsQJsWdRbyHKl447Gm)**
 *by* **p6inkillr**
-*Album:* upside down
+*Album:* COME AND GET IT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 2:49
+    0:20 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
-🎤 **[Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)** by **Ms* Gloom** *(Coco Manifesto)*
-🎤 **[reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)** by **seph, nomu.** *(reside)*
-🎤 **[TAMAGOTCHI](https://open.spotify.com/track/1LwC4Zhy6lncyvga7FZInV)** by **vai5000, xofilo** *(TAMAGOTCHI)*
-🎤 **[bruised knees xP](https://open.spotify.com/track/1KpHNCjkArBspFMN3IippP)** by **pichuu** *(bruised knees xP)*
+🎤 **[no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)** by **heartcoregirl** *(no trace)*
+🎤 **[strawberry ˚.⋆](https://open.spotify.com/track/6ufNYuwHzyEntO1z85TZV8)** by **pichuu** *(strawberry ˚.⋆)*
+🎤 **[She’s Not Me](https://open.spotify.com/track/7uqfLrB5fX8SOZXvX9fNsZ)** by **dollreal** *(She’s Not Me)*
+🎤 **[HEARTBEAT](https://open.spotify.com/track/1YP3fXzuidfMp560GLLmzZ)** by **enable secret, AITANA★★OFICIAL** *(HEARTBEAT)*
+🎤 **[desires](https://open.spotify.com/track/4d9cLRNdGSV6D4sywKn9M8)** by **Levi Ryan, syris** *(desires)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 18:18:09Z UTC
+🕐 Last updated: 2025-10-07 18:46:35Z UTC
 <!-- SPOTIFY-END -->
