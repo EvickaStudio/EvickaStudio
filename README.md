@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732d0c0ef37bf28fe4b2b35789" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733fefa80c96e0b2c7418d343a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3)**
-*by* **Frou Frou**
-*Album:* Details
+**🎵 [he rambled](https://open.spotify.com/track/3Y9OUMJuQwUGOITYqYA9bm)**
+*by* **meat computer**
+*Album:* he rambled
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:10 • 4:13
+    1:06 • 1:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ)** by **Jane Remover** *(Frailty)*
-🎤 **[your clothes](https://open.spotify.com/track/1ZPCXmIDdbAWLVoZccaa3S)** by **Jane Remover** *(Frailty)*
-🎤 **[Eastbay](https://open.spotify.com/track/78PZwivkjhl7leEAZOoZbS)** by **smokedope2016** *(THE PEAK)*
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
+🎤 **[uu look like3 an ##angel](https://open.spotify.com/track/6yryHtWw7ltdgCNhutSTPQ)** by **Rezlaine** *(#Nauseous)*
+🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
+🎤 **[My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0)** by **Jimmy Eat World** *(Bleed American)*
+🎤 **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)*
+🎤 **[Courtship Dating](https://open.spotify.com/track/3zKQDZQTHkUV6bYHNhzbGv)** by **Crystal Castles** *(Crystal Castles)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 14:51:15Z UTC
+🕐 Last updated: 2025-10-07 15:13:36Z UTC
 <!-- SPOTIFY-END -->
