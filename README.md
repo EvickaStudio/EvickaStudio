@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273758d482fb33853cf2bbcead9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273511918b3b257feca35254519" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [BACK IT UP!](https://open.spotify.com/track/5AqbEPSEBkelLag4v1l8nL)**
-*by* **p6inkillr**
-*Album:* BACK IT UP!
+**🎵 [LET ME SEE YA MOVE!](https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP)**
+*by* **Lumi Athena, cade clair**
+*Album:* LET ME SEE YA MOVE!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 1:55
+    1:33 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)** by **p6inkillr** *(kill me)*
-🎤 **[wanna hurt u](https://open.spotify.com/track/49PU6Z1Mzlsf9OSu0pgw2u)** by **dolldamage** *(wanna hurt u)*
-🎤 **[There4u](https://open.spotify.com/track/4luXiaM0H3igXCinjvuhTH)** by **lovesiren, k4dnn** *(There4u)*
-🎤 **[th1s b1tch is fakin crazy >_<](https://open.spotify.com/track/58VpLuLcKtz38FWVypdXZa)** by **lovesiren, katf4ngz** *(th1s b1tch is fakin crazy >_<)*
-🎤 **[all i wna b is set free](https://open.spotify.com/track/7HiT99rxJQZyQilrDCfnga)** by **lovesiren** *(all i wna b is set free)*
+🎤 **[MESMERIZE](https://open.spotify.com/track/1zMx6Ap9YOkFV5KgqyqFIo)** by **p6inkillr** *(MESMERIZE)*
+🎤 **[mine even if it hurts ♡](https://open.spotify.com/track/2IvDpclVMyoiMuVqVhlYrs)** by **lovesiren, pichuu** *(mine even if it hurts ♡)*
+🎤 **[MOMMY](https://open.spotify.com/track/2RvmCf9g8x3zTB5EZ98OXJ)** by **M3SHKA** *(MOMMY)*
+🎤 **[i wna die glamorous X_X](https://open.spotify.com/track/3Uzsgcrhr9wFAsQXd0kuIU)** by **skellington, cholorofilm** *(i wna die glamorous X_X)*
+🎤 **[internet fame](https://open.spotify.com/track/4yP3Rw1bjIceuA7DJOzpbx)** by **p6inkillr** *(internet fame)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-07 17:11:17Z UTC
+🕐 Last updated: 2025-10-07 17:29:37Z UTC
 <!-- SPOTIFY-END -->
