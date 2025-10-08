@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273144fd20af33d1f6dcd11a2d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b882844a42e70ac9fe0fe768" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I CAN'T GET YOU OUT MY HEAD](https://open.spotify.com/track/1HRCMLJwD3XQcBU1xiiWYg)**
-*by* **lavendr, hateoryx, whyhaze, ang3lx**
-*Album:* I CAN'T GET YOU OUT MY HEAD
+**🎵 [iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)**
+*by* **Rezlaine, rylorie**
+*Album:* iiiistillthinkineeduu
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:27
+    1:14 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[CRUSHED IT!](https://open.spotify.com/track/0pJHxQiWvVIA0n9wGnQxtS)** by **444pluto, Ichigo, Nosgov, pluto** *(CRUSHED IT!)*
-🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
-🎤 **[nighttime](https://open.spotify.com/track/4MwQdu5NoCApVAPRq6oqOL)** by **Mezha** *(nighttime)*
-🎤 **[talk](https://open.spotify.com/track/7Kg0XOgfZW88bNwgwoKP3Y)** by **kmrnxo, hoshie star** *(talk)*
-🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[nobody](https://open.spotify.com/track/6WFc7PCSoRfLqIbH85SaEU)** by **hauntingclaire, 2007myspacegirl** *(nobody)*
+🎤 **[DRINK MY BLOOD](https://open.spotify.com/track/6tWcMoXsp6qq0yBHZGwCUn)** by **lavendr, zarki!** *(DRINK MY BLOOD)*
+🎤 **[antichrist](https://open.spotify.com/track/4jqeOFYqrFULtQ5IkohlfF)** by **m1v, vanity** *(revolution Revolution)*
+🎤 **[the real me](https://open.spotify.com/track/5PM18xuAbndC1JAzlvnp3S)** by **luvhex** *(the real me)*
+🎤 **[on the floor](https://open.spotify.com/track/4YtQtdfKYrFvAbj5RmG0Lw)** by **luvhex, k1lltr4sh** *(on the floor)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 18:47:26Z UTC
+🕐 Last updated: 2025-10-08 19:09:52Z UTC
 <!-- SPOTIFY-END -->
