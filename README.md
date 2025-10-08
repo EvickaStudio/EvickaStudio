@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273769dd5dc46f6f791db1d89e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)**
+*by* **meat computer, Lvl99magic**
+*Album:* stray
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:29 • 2:09
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[What We Need](https://open.spotify.com/track/4ybkqmXL60xF6nwOAvVD6r)** by **Vermisst, sedate, lusi 7896, 1antibody, Dani Kiyoko** *(L1VE 002: Until Today)*
-🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
-🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
-🎤 **[I Tried My Luck](https://open.spotify.com/track/3FAzffvgYHVtyaODPk2rpS)** by **Spira me, with3r** *(Existing & Lingering)*
-🎤 **[FULL Hp](https://open.spotify.com/track/1hJ8y4MTGfxuhesKBke1UT)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)** by **archive computer** *(she knows)*
+🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)** by **meat computer** *(slept on the floor still dreamt about you)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 07:47:32Z UTC
+🕐 Last updated: 2025-10-08 08:17:33Z UTC
 <!-- SPOTIFY-END -->
