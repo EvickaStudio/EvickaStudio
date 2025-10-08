@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27313fca43fa969a485b42a41b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)**
+*by* **52Blue**
+*Album:* Fick die Szene
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:08 • 3:02
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
 🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
 🎤 **[zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)** by **grellewelt** *(zeitverloren)*
 🎤 **[epicenter of happiness](https://open.spotify.com/track/4qEE1XPcwmyLMum63tRqro)** by **usedcvnt** *(epicenter of happiness)*
 🎤 **[Terror](https://open.spotify.com/track/4lg2hjAKigjscEfmxuCdny)** by **uusymon, 1antibody** *(Terror)*
-🎤 **[MISA & LIGHT](https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr)** by **NXFEIT, Sillyelly, Hen848** *(MISA & LIGHT)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 05:31:11Z UTC
+🕐 Last updated: 2025-10-08 05:47:54Z UTC
 <!-- SPOTIFY-END -->
