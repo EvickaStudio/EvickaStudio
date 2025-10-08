@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27313fca43fa969a485b42a41b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)**
-*by* **52Blue**
-*Album:* Fick die Szene
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:08 • 3:02
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
-🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)** by **grellewelt** *(zeitverloren)*
-🎤 **[epicenter of happiness](https://open.spotify.com/track/4qEE1XPcwmyLMum63tRqro)** by **usedcvnt** *(epicenter of happiness)*
-🎤 **[Terror](https://open.spotify.com/track/4lg2hjAKigjscEfmxuCdny)** by **uusymon, 1antibody** *(Terror)*
+🎤 **[What We Need](https://open.spotify.com/track/4ybkqmXL60xF6nwOAvVD6r)** by **Vermisst, sedate, lusi 7896, 1antibody, Dani Kiyoko** *(L1VE 002: Until Today)*
+🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
+🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
+🎤 **[I Tried My Luck](https://open.spotify.com/track/3FAzffvgYHVtyaODPk2rpS)** by **Spira me, with3r** *(Existing & Lingering)*
+🎤 **[FULL Hp](https://open.spotify.com/track/1hJ8y4MTGfxuhesKBke1UT)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 05:47:54Z UTC
+🕐 Last updated: 2025-10-08 06:18:50Z UTC
 <!-- SPOTIFY-END -->
