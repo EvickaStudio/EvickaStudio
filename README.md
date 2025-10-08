@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732e9018694180799849e93884" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2b1c2ed52674e40d14cd6c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)**
-*by* **leander, ilyproxy**
-*Album:* last friday nite
+**🎵 [Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)**
+*by* **Krewella**
+*Album:* Get Wet
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:57 • 3:17
+    3:11 • 3:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Intro](https://open.spotify.com/track/7w0FV6ViNDZFy9Mu90sQzl)** by **M83** *(Hurry up, We're Dreaming)*
-🎤 **[wishing to forget](https://open.spotify.com/track/0haaiMK2aZE7RTkrbNl5wq)** by **hauntingclaire** *(wishing to forget)*
-🎤 **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)*
-🎤 **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)*
-🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
+🎤 **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)*
+🎤 **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)*
+🎤 **[Endlich bist Du da](https://open.spotify.com/track/1CfbGrMXQzo6iTuS0NbMHn)** by **leander** *(Endlich bist Du da)*
+🎤 **[Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE)** by **Flawed Mangoes** *(Killswitch Lullaby)*
+🎤 **[Chainsaw Man](https://open.spotify.com/track/2SSeRzDco4E0AxAWZBaXHt)** by **Yatsu** *(Chainsaw Man)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 15:32:36Z UTC
+🕐 Last updated: 2025-10-08 15:48:21Z UTC
 <!-- SPOTIFY-END -->
