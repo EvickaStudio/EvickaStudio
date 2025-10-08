@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735399442b351737d4fca50fdb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b7d2358d9bccad8487aae7cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Thought I left This Place</3](https://open.spotify.com/track/2DuUAgZcOubADAkeQZhwJc)**
-*by* **UpVampin, Rezlaine**
-*Album:* I Thought I left This Place</3
+**🎵 [ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)**
+*by* **disoc8**
+*Album:* ur the one i want <3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:35
+    1:54 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
-🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
-🎤 **[tell me no](https://open.spotify.com/track/1OFe1vfrF1dz8bZzlAtiy4)** by **Feeluvsyou** *(tell me no)*
-🎤 **[nobody knows](https://open.spotify.com/track/1bxObKehIqJi5oqllyiB6I)** by **Stxlkin** *(nobody knows)*
-🎤 **[W A L K I N](https://open.spotify.com/track/6bGgy9u6aPgM4sDxFMner7)** by **Scratchy** *(W A L K I N)*
+🎤 **[eugh!](https://open.spotify.com/track/4QBRWlQ7cPeipN1xmi7nvl)** by **luu** *(eugh!)*
+🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
+🎤 **[Justin Bieber](https://open.spotify.com/track/0amcR94nZmov73O1IYS8Xl)** by **Drux, Cgull** *(it always ends in pain)*
+🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
+🎤 **[that's ok](https://open.spotify.com/track/5T7AArrh5G5YzeqwsWMhtb)** by **Rezlaine, KidSnorlax** *(that's ok)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 19:47:53Z UTC
+🕐 Last updated: 2025-10-08 20:13:41Z UTC
 <!-- SPOTIFY-END -->
