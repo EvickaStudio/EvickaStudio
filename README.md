@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b7d2358d9bccad8487aae7cb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273931c27ca44077d48af1f2a1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)**
-*by* **disoc8**
-*Album:* ur the one i want <3
+**🎵 [ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)**
+*by* **pink luu, cxpyyy, luu**
+*Album:* ICK (I Can't Kiss)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:01
+    0:37 • 1:41
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[eugh!](https://open.spotify.com/track/4QBRWlQ7cPeipN1xmi7nvl)** by **luu** *(eugh!)*
-🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
-🎤 **[Justin Bieber](https://open.spotify.com/track/0amcR94nZmov73O1IYS8Xl)** by **Drux, Cgull** *(it always ends in pain)*
-🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
-🎤 **[that's ok](https://open.spotify.com/track/5T7AArrh5G5YzeqwsWMhtb)** by **Rezlaine, KidSnorlax** *(that's ok)*
+🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
+🎤 **[immer leichter](https://open.spotify.com/track/0gnq4leeOqov8Jp2L4sEzD)** by **5v, juuhnkpop** *(kaiser syndrom)*
+🎤 **[Regret Scenario](https://open.spotify.com/track/3s2iI55Et3ZdwhPRLjKhJ0)** by **SYSTEM SEOUL, sn7, ycs** *(SS-POP 2)*
+🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 20:13:41Z UTC
+🕐 Last updated: 2025-10-08 20:31:30Z UTC
 <!-- SPOTIFY-END -->
