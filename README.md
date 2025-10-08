@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)**
+*by* **leander, ilyproxy, Hadesthegrim**
+*Album:* GV Magazin: Deluxe Sex
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:14 • 2:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)*
-🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
-🎤 **[.°・ eden ・°。](https://open.spotify.com/track/1sorthEunDHEpplAgr52dJ)** by **reverie** *(.°・ eden ・°。)*
-🎤 **[source experience analyzed love](https://open.spotify.com/track/4KE6Y8PFNIvatuwmCbraNh)** by **meat computer** *(source experience analyzed love)*
-🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
+🎤 **[Motherlode](https://open.spotify.com/track/6lrduzUfN6mAeHnPxBV3nF)** by **Clarry Berry** *(Motherlode)*
+🎤 **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)*
+🎤 **[H<3RZSHIRT - sped up](https://open.spotify.com/track/6kWOU0RdssynWZAVaLvQFT)** by **NYAR, ystn** *(H<3RZSHIRT)*
+🎤 **[City Treff nur schneller](https://open.spotify.com/track/3ZgCEkFgEkmIOqinjLYf1q)** by **anunyma** *(City Treff)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 10:13:06Z UTC
+🕐 Last updated: 2025-10-08 10:34:31Z UTC
 <!-- SPOTIFY-END -->
