@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
 🎤 **[rot away alone](https://open.spotify.com/track/2gJ5Z0rSzbzMEKATdpJ0Gd)** by **Clover!, Pr0xy, morecalcium** *(rot away alone)*
 🎤 **[Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
 🎤 **[like cats & dogs](https://open.spotify.com/track/4Udk5XNwCks4aGcDqdwzBE)** by **tomcbumpz** *(don't look down)*
 🎤 **[Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)** by **southstar** *(Cover Up My Face)*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 04:15:02Z UTC
+🕐 Last updated: 2025-10-08 04:34:21Z UTC
 <!-- SPOTIFY-END -->
