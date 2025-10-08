@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ae91f9105c5a27fb17314391" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2969003e71afccd7cbe50c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mannequin](https://open.spotify.com/track/2dkju0OgfeLJx3NpYL6aPJ)**
-*by* **Fijimar**
-*Album:* mannequin
+**🎵 [come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)**
+*by* **RudeClub**
+*Album:* come down
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 2:12
+    0:21 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
-🎤 **[BREAK ME DOWN](https://open.spotify.com/track/5RXp6tCvp1NqQQCG6gi4bB)** by **Anti-Light, 4ortake** *(BREAK ME DOWN)*
-🎤 **[on my mind x(](https://open.spotify.com/track/37EKzjOoy8HAwY3Pfh9AO3)** by **snor** *(on my mind x()*
-🎤 **[LET ME TALK!](https://open.spotify.com/track/4SxhE2oq4RXGFtKWiTVyiO)** by **4rde, lavendr, corpse disposal** *(LET ME TALK!)*
-🎤 **[munchausen syndrome](https://open.spotify.com/track/63NVIyOuCuoCGeGAj7mvoH)** by **luu, 4rde** *(munchausen syndrome)*
+🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
+🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
+🎤 **[hounds](https://open.spotify.com/track/34jgjZtcChwi3hWsgyTyJX)** by **Fijimar** *(hounds)*
+🎤 **[Slumdog era](https://open.spotify.com/track/4rz06aHlPxhlC0NQi0Upld)** by **Lunaa** *(Trendsetter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 20:48:05Z UTC
+🕐 Last updated: 2025-10-08 21:11:11Z UTC
 <!-- SPOTIFY-END -->
