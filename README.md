@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737efec5dc54060ced90c3e70b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27392106c1ae3a6d88ebd6f42f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)**
-*by* **Bayymack, ashes.**
-*Album:* feel u in my heart
+**🎵 [MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)**
+*by* **3DOKI**
+*Album:* MIX'IT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:08
+    1:25 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
-🎤 **[serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)** by **Luvsick2k, cholorofilm** *(serotonin)*
-🎤 **[Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)** by **Sleepy Opiate** *(IDOLS)*
-🎤 **[rotten](https://open.spotify.com/track/7zSMX1KiNinLe6btNYEXep)** by **anna luna** *(rotten)*
-🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
+🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
+🎤 **[five degrees](https://open.spotify.com/track/0QoRQA5R7xu5sY77fZ7QaK)** by **Lil Peep** *(LIL PEEP; PART ONE)*
+🎤 **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 13:50:23Z UTC
+🕐 Last updated: 2025-10-08 14:13:03Z UTC
 <!-- SPOTIFY-END -->
