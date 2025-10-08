@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734350116b1085b346f79fc24a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731caf5408c4ddfdeab123ae21" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)**
-*by* **Haftbefehl, Schmyt, Bausa, Bazzazian**
-*Album:* Das schwarze Album
+**🎵 [Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)**
+*by* **Eera**
+*Album:* Crash
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
+    <rect width="286" height="4" fill="#1db954" rx="2"/>
+    <circle cx="286" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 3:34
+    4:59 • 5:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
+🎤 **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)*
 🎤 **[Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ)** by **Vertigoaway, Schizoscriptures** *(Break This The Breaking Point 2)*
 🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
 🎤 **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)*
-🎤 **[Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc)** by **SOFFIE** *(Für immer Frühling)*
-🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 17:29:23Z UTC
+🕐 Last updated: 2025-10-08 17:40:44Z UTC
 <!-- SPOTIFY-END -->
