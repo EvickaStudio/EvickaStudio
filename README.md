@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fb2daafa0993f39d87a84385" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6)**
-*by* **Memo Boy, Chakra Efendi**
-*Album:* Songs & Demos 2015-2017
+**🎵 [Another Day in Paradise - 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD)**
+*by* **Phil Collins**
+*Album:* ...But Seriously (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 3:32
+    0:26 • 5:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)*
-🎤 **[ichwillchecks pt. 2](https://open.spotify.com/track/4mqGRXiRTl2WF4C1jevwr7)** by **gard, 5v** *(ichwillchecks pt. 2)*
-🎤 **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
-🎤 **[NAPOLEON](https://open.spotify.com/track/5EpWTZxXCmaIJZDQ1KvgG2)** by **$OHO BANI, Ericson** *(TRÄUM $OHO)*
+🎤 **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)*
+🎤 **[(I Just) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm)** by **Cutting Crew** *(Broadcast)*
+🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 12:25:49Z UTC
+🕐 Last updated: 2025-10-08 13:04:02Z UTC
 <!-- SPOTIFY-END -->
