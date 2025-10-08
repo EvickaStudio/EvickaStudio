@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)**
+*by* **Yung Hurn, skrt cobain**
+*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:30 • 2:04
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[obsessixn](https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi)** by **whatsaheart** *(obsessixn)*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
 🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
 🎤 **[rot away alone](https://open.spotify.com/track/2gJ5Z0rSzbzMEKATdpJ0Gd)** by **Clover!, Pr0xy, morecalcium** *(rot away alone)*
 🎤 **[Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
-🎤 **[like cats & dogs](https://open.spotify.com/track/4Udk5XNwCks4aGcDqdwzBE)** by **tomcbumpz** *(don't look down)*
-🎤 **[Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)** by **southstar** *(Cover Up My Face)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 04:34:21Z UTC
+🕐 Last updated: 2025-10-08 04:48:53Z UTC
 <!-- SPOTIFY-END -->
