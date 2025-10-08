@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736bace451eccd3dec5d0a741c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [bloodflow](https://open.spotify.com/track/6w5oYeRsWuhYVXfmPj3dBV)**
-*by* **52Blue**
-*Album:* onl!ne cru$h
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="298" height="4" fill="#1db954" rx="2"/>
-    <circle cx="298" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 2:17
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[cigarette](https://open.spotify.com/track/0Rrqd3VZKpHZyaQbSTEyqN)** by **THXMAS, Nomark** *(me&me)*
-🎤 **[ISLY](https://open.spotify.com/track/1c8KPhwn53iIw5arUThJfR)** by **stixz** *(unre1eased)*
-🎤 **[SOBER](https://open.spotify.com/track/0EJhuwBOCy3HyDYBpzF686)** by **EYEN22** *(SOBER)*
-🎤 **[herz aus glas](https://open.spotify.com/track/1Ay0uctXQGAmItQ65gtugd)** by **5v** *(herz aus glas)*
-🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
+🎤 **[Angel Numbers](https://open.spotify.com/track/1K8YK8iqG4LrYpczNOwlty)** by **Shoto** *(Angel Numbers)*
+🎤 **[hast du zeit grad?](https://open.spotify.com/track/3le7qlIe6s0CEQk1Y0IDtg)** by **headboi64, damals2014** *(hast du zeit grad?)*
+🎤 **[pretty bitch](https://open.spotify.com/track/2HDcEmoRHYS3n76jUWb3bP)** by **Punk Christ** *(pretty bitch)*
+🎤 **[NOSEKANDI](https://open.spotify.com/track/3S2IHWMM1nIOp6nlLt4QGk)** by **lunagrace** *(LUNAR DICE)*
+🎤 **[Toxic Love](https://open.spotify.com/track/1XvB6aaom4OBlbnbG1Vqqx)** by **Killedbykira** *(Toxic Love)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 21:47:33Z UTC
+🕐 Last updated: 2025-10-08 22:11:24Z UTC
 <!-- SPOTIFY-END -->
