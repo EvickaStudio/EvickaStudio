@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273769dd5dc46f6f791db1d89e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334d025a3d4b4577aeae568aa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)**
-*by* **meat computer, Lvl99magic**
-*Album:* stray
+**🎵 [Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)**
+*by* **Mietze Conte**
+*Album:* Mietzee
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="123" height="4" fill="#1db954" rx="2"/>
+    <circle cx="123" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:09
+    0:47 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)** by **archive computer** *(she knows)*
-🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[haha swag](https://open.spotify.com/track/7fEGlvM24St5RqYoGSZ48q)** by **meat computer** *(haha swag)*
+🎤 **[<3](https://open.spotify.com/track/6x9fLQbNZKqlkHM4W6eE6o)** by **reverie, bliss3three** *(partially named songs fallen from the ether)*
+🎤 **[mystery solved](https://open.spotify.com/track/1J6oxHh0TJwirrzyLyAAPb)** by **Lvl99magic, go8lin** *(Pastel Pink California)*
+🎤 **[The Science of Giving In (Part II)](https://open.spotify.com/track/6jrKKImiJd1Qa9Ph7qMHds)** by **User2222** *(Blame Games)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 08:17:33Z UTC
+🕐 Last updated: 2025-10-08 08:44:00Z UTC
 <!-- SPOTIFY-END -->
