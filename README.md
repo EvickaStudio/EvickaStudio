@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27364e2ff7b7a6c5f01f0a15c05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735399442b351737d4fca50fdb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DON'T STOP](https://open.spotify.com/track/4OH9vNR5GX5tAop7Tgr8Wm)**
-*by* **whyhaze, lavendr, ang3lx**
-*Album:* DON'T STOP
+**🎵 [I Thought I left This Place</3](https://open.spotify.com/track/2DuUAgZcOubADAkeQZhwJc)**
+*by* **UpVampin, Rezlaine**
+*Album:* I Thought I left This Place</3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:00
+    0:53 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[All My Fault](https://open.spotify.com/track/0Dd6OJ3yTUiqDlPuLHlji0)** by **Anti-Light, Lytra** *(All My Fault)*
-🎤 **[everything's surreal](https://open.spotify.com/track/1qPGIdLO2pOGkBHjBVT3ec)** by **UpVampin, Nosgov** *(everything's surreal)*
-🎤 **[I STILL LOVE YOU](https://open.spotify.com/track/2w5v47bzFDqMJQlPhf3j04)** by **1stress, pupsies** *(I STILL LOVE YOU)*
-🎤 **[LET GO!](https://open.spotify.com/track/12XVuTttSu5Z4I46DLgN1W)** by **1Psion, whyhaze, Pearlblade** *(LET GO!)*
-🎤 **[dying & bleeding](https://open.spotify.com/track/7fAsUtgHVLbOCWyAyC89PC)** by **nami, seph** *(dying & bleeding)*
+🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
+🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
+🎤 **[tell me no](https://open.spotify.com/track/1OFe1vfrF1dz8bZzlAtiy4)** by **Feeluvsyou** *(tell me no)*
+🎤 **[nobody knows](https://open.spotify.com/track/1bxObKehIqJi5oqllyiB6I)** by **Stxlkin** *(nobody knows)*
+🎤 **[W A L K I N](https://open.spotify.com/track/6bGgy9u6aPgM4sDxFMner7)** by **Scratchy** *(W A L K I N)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 19:33:54Z UTC
+🕐 Last updated: 2025-10-08 19:47:53Z UTC
 <!-- SPOTIFY-END -->
