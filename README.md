@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273639dbbe3fe58395b9863b195" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737efec5dc54060ced90c3e70b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)**
-*by* **bliiiss**
-*Album:* melancholy
+**🎵 [feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)**
+*by* **Bayymack, ashes.**
+*Album:* feel u in my heart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:27
+    0:44 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)*
-🎤 **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by **Pink Katana** *(4ever)*
-🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)*
-🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
+🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
+🎤 **[serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)** by **Luvsick2k, cholorofilm** *(serotonin)*
+🎤 **[Oblivion](https://open.spotify.com/track/3V4uw1JXov2KvpzTpQsgKT)** by **Sleepy Opiate** *(IDOLS)*
+🎤 **[rotten](https://open.spotify.com/track/7zSMX1KiNinLe6btNYEXep)** by **anna luna** *(rotten)*
+🎤 **[you like me?](https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ)** by **SHEMYYY** *(you like me?)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 13:38:18Z UTC
+🕐 Last updated: 2025-10-08 13:50:23Z UTC
 <!-- SPOTIFY-END -->
