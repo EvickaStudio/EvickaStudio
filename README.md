@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273380d45ee816361339657105f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)**
-*by* **Levi Ryan**
-*Album:* the rest of our lives
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 2:42
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)*
 🎤 **[Maleficent](https://open.spotify.com/track/1Pbq49eGkBjJYufHO4QNok)** by **Peake** *(Maleficent)*
 🎤 **[.°・ eden ・°。](https://open.spotify.com/track/1sorthEunDHEpplAgr52dJ)** by **reverie** *(.°・ eden ・°。)*
 🎤 **[source experience analyzed love](https://open.spotify.com/track/4KE6Y8PFNIvatuwmCbraNh)** by **meat computer** *(source experience analyzed love)*
 🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
-🎤 **[envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)** by **Brothel in Belize** *(envy)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 09:13:38Z UTC
+🕐 Last updated: 2025-10-08 09:32:15Z UTC
 <!-- SPOTIFY-END -->
