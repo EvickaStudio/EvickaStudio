@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732e9018694180799849e93884" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)**
-*by* **Kanye West**
-*Album:* Graduation
+**🎵 [last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)**
+*by* **leander, ilyproxy**
+*Album:* last friday nite
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="269" height="4" fill="#1db954" rx="2"/>
+    <circle cx="269" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 3:15
+    2:57 • 3:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))*
-🎤 **[WOAH](https://open.spotify.com/track/38GevcQcXX00Z1QG6FMYOj)** by **Jayboii** *(JayBoii)*
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Intro](https://open.spotify.com/track/7w0FV6ViNDZFy9Mu90sQzl)** by **M83** *(Hurry up, We're Dreaming)*
+🎤 **[wishing to forget](https://open.spotify.com/track/0haaiMK2aZE7RTkrbNl5wq)** by **hauntingclaire** *(wishing to forget)*
+🎤 **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)*
+🎤 **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)*
+🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 15:13:22Z UTC
+🕐 Last updated: 2025-10-08 15:32:36Z UTC
 <!-- SPOTIFY-END -->
