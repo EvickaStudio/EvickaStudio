@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273555ec650bc180a02f3dfcde3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27364e2ff7b7a6c5f01f0a15c05" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dying & bleeding](https://open.spotify.com/track/7fAsUtgHVLbOCWyAyC89PC)**
-*by* **nami, seph**
-*Album:* dying & bleeding
+**🎵 [DON'T STOP](https://open.spotify.com/track/4OH9vNR5GX5tAop7Tgr8Wm)**
+*by* **whyhaze, lavendr, ang3lx**
+*Album:* DON'T STOP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="130" height="4" fill="#1db954" rx="2"/>
+    <circle cx="130" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 1:55
+    0:52 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
-🎤 **[i jus wanna know :/](https://open.spotify.com/track/6cS9L6I9FbBGfuR6xgOjSa)** by **Scarly, Buhguul** *(i jus wanna know :/)*
-🎤 **[crying in my room](https://open.spotify.com/track/13WUSt8FoU42tVxlir5n8J)** by **cholorofilm, hateoryx, whyhaze** *(crying in my room)*
-🎤 **[She Wanna Kill Me!](https://open.spotify.com/track/3hQcbb4HuGqEoXzkro1o2Z)** by **UpVampin, Nosgov, Pearlblade** *(She Wanna Kill Me!)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
+🎤 **[All My Fault](https://open.spotify.com/track/0Dd6OJ3yTUiqDlPuLHlji0)** by **Anti-Light, Lytra** *(All My Fault)*
+🎤 **[everything's surreal](https://open.spotify.com/track/1qPGIdLO2pOGkBHjBVT3ec)** by **UpVampin, Nosgov** *(everything's surreal)*
+🎤 **[I STILL LOVE YOU](https://open.spotify.com/track/2w5v47bzFDqMJQlPhf3j04)** by **1stress, pupsies** *(I STILL LOVE YOU)*
+🎤 **[LET GO!](https://open.spotify.com/track/12XVuTttSu5Z4I46DLgN1W)** by **1Psion, whyhaze, Pearlblade** *(LET GO!)*
+🎤 **[dying & bleeding](https://open.spotify.com/track/7fAsUtgHVLbOCWyAyC89PC)** by **nami, seph** *(dying & bleeding)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 19:23:33Z UTC
+🕐 Last updated: 2025-10-08 19:33:54Z UTC
 <!-- SPOTIFY-END -->
