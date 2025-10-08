@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733783e4892d96f8679e77b9f9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273986e2755bbaa7ad3f4792939" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)**
-*by* **leander, ilyproxy**
-*Album:* du bleibst gleich
+**🎵 [fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)**
+*by* **Chicken Lover**
+*Album:* fuckingloser
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 1:49
+    1:20 • 3:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
-🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
-🎤 **[FOR THE NIGHT! - SPED UP](https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD)** by **Clover!** *(FOR THE NIGHT!)*
-🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
-🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
+🎤 **[Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6)** by **Memo Boy, Chakra Efendi** *(Songs & Demos 2015-2017)*
+🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
+🎤 **[los](https://open.spotify.com/track/0SEEmUHVjluYA6SckdIqgR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[mr. ikari & the cruel angels](https://open.spotify.com/track/05nN7qZAfHyswFUCpbqyx0)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[Hier raus](https://open.spotify.com/track/0Fd0JnOcUNRqlrk2C2fDf5)** by **EASY EASY** *(Hier raus)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 16:53:31Z UTC
+🕐 Last updated: 2025-10-08 17:11:20Z UTC
 <!-- SPOTIFY-END -->
