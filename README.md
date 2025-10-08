@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273433c397dffb821e6cf900994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273144fd20af33d1f6dcd11a2d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)**
-*by* **flywoah**
-*Album:* Digital Watch
+**🎵 [I CAN'T GET YOU OUT MY HEAD](https://open.spotify.com/track/1HRCMLJwD3XQcBU1xiiWYg)**
+*by* **lavendr, hateoryx, whyhaze, ang3lx**
+*Album:* I CAN'T GET YOU OUT MY HEAD
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 1:19
+    2:04 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
-🎤 **[obsidian](https://open.spotify.com/track/5uXFzXuzg4VIEPYOxAq3vQ)** by **Feeluvsyou, Xaxanity** *(obsidian)*
-🎤 **[in the stars](https://open.spotify.com/track/6IoNXan1h1pVJE15RUVFdk)** by **03osc** *(in the stars)*
-🎤 **[shadows!!](https://open.spotify.com/track/7rcCwPIx8BfoMZls7MLoaV)** by **ilymeow, Pearlblade** *(shadows!!)*
-🎤 **[LOS3R](https://open.spotify.com/track/1iZZfXvpm3sKYHrQnf8iNz)** by **Scarly, ghostmasheen** *(LOS3R)*
+🎤 **[CRUSHED IT!](https://open.spotify.com/track/0pJHxQiWvVIA0n9wGnQxtS)** by **444pluto, Ichigo, Nosgov, pluto** *(CRUSHED IT!)*
+🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
+🎤 **[nighttime](https://open.spotify.com/track/4MwQdu5NoCApVAPRq6oqOL)** by **Mezha** *(nighttime)*
+🎤 **[talk](https://open.spotify.com/track/7Kg0XOgfZW88bNwgwoKP3Y)** by **kmrnxo, hoshie star** *(talk)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 18:18:38Z UTC
+🕐 Last updated: 2025-10-08 18:47:26Z UTC
 <!-- SPOTIFY-END -->
