@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731caf5408c4ddfdeab123ae21" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c2c19a5a47ec89f9ccbf09f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)**
-*by* **Eera**
-*Album:* Crash
+**🎵 [waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)**
+*by* **Ripsquad Archive**
+*Album:* waitt2Rs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:59 • 5:13
+    0:31 • 3:03
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
+🎤 **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)*
+🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
 🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
 🎤 **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)*
-🎤 **[Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ)** by **Vertigoaway, Schizoscriptures** *(Break This The Breaking Point 2)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 17:40:44Z UTC
+🕐 Last updated: 2025-10-08 17:48:22Z UTC
 <!-- SPOTIFY-END -->
