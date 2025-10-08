@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b882844a42e70ac9fe0fe768" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273555ec650bc180a02f3dfcde3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)**
-*by* **Rezlaine, rylorie**
-*Album:* iiiistillthinkineeduu
+**🎵 [dying & bleeding](https://open.spotify.com/track/7fAsUtgHVLbOCWyAyC89PC)**
+*by* **nami, seph**
+*Album:* dying & bleeding
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 2:25
+    1:12 • 1:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nobody](https://open.spotify.com/track/6WFc7PCSoRfLqIbH85SaEU)** by **hauntingclaire, 2007myspacegirl** *(nobody)*
-🎤 **[DRINK MY BLOOD](https://open.spotify.com/track/6tWcMoXsp6qq0yBHZGwCUn)** by **lavendr, zarki!** *(DRINK MY BLOOD)*
-🎤 **[antichrist](https://open.spotify.com/track/4jqeOFYqrFULtQ5IkohlfF)** by **m1v, vanity** *(revolution Revolution)*
-🎤 **[the real me](https://open.spotify.com/track/5PM18xuAbndC1JAzlvnp3S)** by **luvhex** *(the real me)*
-🎤 **[on the floor](https://open.spotify.com/track/4YtQtdfKYrFvAbj5RmG0Lw)** by **luvhex, k1lltr4sh** *(on the floor)*
+🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
+🎤 **[i jus wanna know :/](https://open.spotify.com/track/6cS9L6I9FbBGfuR6xgOjSa)** by **Scarly, Buhguul** *(i jus wanna know :/)*
+🎤 **[crying in my room](https://open.spotify.com/track/13WUSt8FoU42tVxlir5n8J)** by **cholorofilm, hateoryx, whyhaze** *(crying in my room)*
+🎤 **[She Wanna Kill Me!](https://open.spotify.com/track/3hQcbb4HuGqEoXzkro1o2Z)** by **UpVampin, Nosgov, Pearlblade** *(She Wanna Kill Me!)*
+🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 19:09:52Z UTC
+🕐 Last updated: 2025-10-08 19:23:33Z UTC
 <!-- SPOTIFY-END -->
