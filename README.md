@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b9cab15f3c5180fc16b7ce9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fa9a5ac65d90211da5439010" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)**
-*by* **Lieless, билборды, hxvvxn**
-*Album:* Исчезаю
+**🎵 [Mutter, der Mann mit dem Koks ist da - Mother's Favourite](https://open.spotify.com/track/1xIVMdpZ8D7kAYsfBdsXZY)**
+*by* **T»MA a.k.a. Falco**
+*Album:* Out Of The Dark (Into The Light) [Remastered 2012]
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:06
+    0:40 • 3:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Hate Myself](https://open.spotify.com/track/1YxvVoreQh1uAt1EyweBJv)** by **Junior** *(I Hate Myself)*
-🎤 **[I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg)** by **Rebzyyx** *(I'm so crazy for youuu </3)*
-🎤 **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
-🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[Lets Go](https://open.spotify.com/track/3sjnaovOu1IyuHC50JIlSK)** by **uusymon, Slatty** *(Arcadia)*
+🎤 **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)*
+🎤 **[No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)** by **Galantis** *(No Money)*
+🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 10:48:36Z UTC
+🕐 Last updated: 2025-10-08 11:10:17Z UTC
 <!-- SPOTIFY-END -->
