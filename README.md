@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f2969003e71afccd7cbe50c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273272170a3f1d7b1fefdfb25ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)**
-*by* **RudeClub**
-*Album:* come down
+**🎵 [Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)**
+*by* **503scoob, 444pluto, HAR$h, ap47hyc0r3**
+*Album:* Sweet Dreams
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
+    <rect width="168" height="4" fill="#1db954" rx="2"/>
+    <circle cx="168" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 3:06
+    1:49 • 3:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
-🎤 **[hounds](https://open.spotify.com/track/34jgjZtcChwi3hWsgyTyJX)** by **Fijimar** *(hounds)*
-🎤 **[Slumdog era](https://open.spotify.com/track/4rz06aHlPxhlC0NQi0Upld)** by **Lunaa** *(Trendsetter)*
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
+🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
+🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
+🎤 **[high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)** by **Fijimar, slatepsycho** *(high)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-08 21:11:11Z UTC
+🕐 Last updated: 2025-10-08 21:26:23Z UTC
 <!-- SPOTIFY-END -->
