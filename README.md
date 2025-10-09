@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[nvr sry](https://open.spotify.com/track/2e33A8qeIqFW4bCHFh0jOJ)** by **Fijimar** *(nvr sry)*
 🎤 **[Overdrive](https://open.spotify.com/track/7LpF77VCwHLyEumWMlunVN)** by **Hinoni** *(Hinoni)*
 🎤 **[Alright](https://open.spotify.com/track/2Tgughk0hkwrdJz0Mt1WPT)** by **Gaiden, Mezha** *(Alright)*
 🎤 **[AUF KEINEN FALL](https://open.spotify.com/track/4AxunwrMLBWzqxdezmUwE9)** by **1antibody, lusi 7896, knightonearth** *(Knight Story)*
 🎤 **[bury me alive (feat. dreamcache)](https://open.spotify.com/track/71qrD5J5iboxHqElSHFBy8)** by **ashes., dreamcache** *(bury me alive (feat. dreamcache))*
-🎤 **[I Love Lucy](https://open.spotify.com/track/6O8d3DCTgLQOkeXZSpmy7c)** by **Boofbby** *(Boofbby 2019)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 08:16:53Z UTC
+🕐 Last updated: 2025-10-09 08:44:07Z UTC
 <!-- SPOTIFY-END -->
