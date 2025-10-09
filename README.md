@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27377537261613047353aa77532" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b6865909f834058fb8d96c65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [you look lonely](https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f)**
-*by* **Aaron Hibell**
-*Album:* Twilight Zone
+**🎵 [can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)**
+*by* **Levi Ryan**
+*Album:* operation wandering soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 4:41
+    3:14 • 4:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Late Time](https://open.spotify.com/track/4fPcT9H0iynHtwLhRoFCKZ)** by **Symba** *(Late Time)*
-🎤 **[Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH)** by **Fitz and The Tantrums** *(More Than Just a Dream (Deluxe Edition))*
-🎤 **[Her Ribs](https://open.spotify.com/track/24WiPfA6p3w3lUh5dwSdis)** by **Shadow Wizard Money Gang, Death Souljah** *(Her Ribs)*
-🎤 **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)*
-🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
+🎤 **[scream and run](https://open.spotify.com/track/6iIbkAVSU5P9DlzLdavHh2)** by **mykel** *(scream and run)*
+🎤 **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)*
+🎤 **[Digital Glow](https://open.spotify.com/track/38uzlkqROpiI2MFqzZJzXd)** by **Walter Frosch** *(Walter Frosch & Alpine Decline)*
+🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
 
 
 
@@ -144,8 +144,8 @@
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**flywoah**](https://open.spotify.com/artist/4HhW0jozmeZ7e4AAkVOdeO)
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 18:17:43Z UTC
+🕐 Last updated: 2025-10-09 18:45:47Z UTC
 <!-- SPOTIFY-END -->
