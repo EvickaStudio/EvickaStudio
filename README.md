@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ae5191bf9ba7d106f99fa017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cc6d642c1de834873f6d5268" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [REAL JUNTZ](https://open.spotify.com/track/7J3t98J0Ksd2h1W5prKRkL)**
-*by* **Adi T**
-*Album:* EXTINCTION
+**🎵 [blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)**
+*by* **lor2mg, Rezlaine**
+*Album:* unrequited
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 3:13
+    1:56 • 2:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[i've got a hole in my heart](https://open.spotify.com/track/2yD9986uaTCeYgDdu3T5eq)** by **Rezlaine, Nosgov** *(i've got a hole in my heart)*
+🎤 **[Heart Heavy](https://open.spotify.com/track/1AblQ51tVo48iV4L6gjgFh)** by **inssekt, Nosgov** *(Heart Heavy)*
+🎤 **[REAL JUNTZ](https://open.spotify.com/track/7J3t98J0Ksd2h1W5prKRkL)** by **Adi T** *(EXTINCTION)*
 🎤 **[its a cold world](https://open.spotify.com/track/5aQK0Rr630qYsRYn2UoL7f)** by **hateoryx, Nosgov** *(its a cold world)*
 🎤 **[sun in her eyes](https://open.spotify.com/track/6qAEVxtgPGuJ9pabWVxoJ4)** by **bliiiss** *(sun in her eyes)*
-🎤 **[C.R.E.A.M.](https://open.spotify.com/track/26hgqtaP8gOrVLAZ7KdeF9)** by **KOGAIHU, Nosgov** *(C.R.E.A.M.)*
-🎤 **[life creepY](https://open.spotify.com/track/5TD4bV5WSQJEEfoFnyjaZj)** by **Rezlaine, Nosgov** *(split the oxy)*
-🎤 **[scarzz ･ﾟ✧*:･ﾟ✧](https://open.spotify.com/track/7y7Gq4ZHKCpmOyoHvP8ckO)** by **dethkitty** *(scarzz ･ﾟ✧*:･ﾟ✧)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🥉 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
-🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🥉 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🏅 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 07:28:18Z UTC
+🕐 Last updated: 2025-10-09 07:37:59Z UTC
 <!-- SPOTIFY-END -->
