@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cc6d642c1de834873f6d5268" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731142737888f2ac0a0df74fda" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)**
-*by* **lor2mg, Rezlaine**
-*Album:* unrequited
+**🎵 [AUF KEINEN FALL](https://open.spotify.com/track/4AxunwrMLBWzqxdezmUwE9)**
+*by* **1antibody, lusi 7896, knightonearth**
+*Album:* Knight Story
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="244" height="4" fill="#1db954" rx="2"/>
-    <circle cx="244" cy="2" r="6" fill="#1db954"/>
+    <rect width="118" height="4" fill="#1db954" rx="2"/>
+    <circle cx="118" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:23
+    0:46 • 1:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i've got a hole in my heart](https://open.spotify.com/track/2yD9986uaTCeYgDdu3T5eq)** by **Rezlaine, Nosgov** *(i've got a hole in my heart)*
-🎤 **[Heart Heavy](https://open.spotify.com/track/1AblQ51tVo48iV4L6gjgFh)** by **inssekt, Nosgov** *(Heart Heavy)*
-🎤 **[REAL JUNTZ](https://open.spotify.com/track/7J3t98J0Ksd2h1W5prKRkL)** by **Adi T** *(EXTINCTION)*
-🎤 **[its a cold world](https://open.spotify.com/track/5aQK0Rr630qYsRYn2UoL7f)** by **hateoryx, Nosgov** *(its a cold world)*
-🎤 **[sun in her eyes](https://open.spotify.com/track/6qAEVxtgPGuJ9pabWVxoJ4)** by **bliiiss** *(sun in her eyes)*
+🎤 **[bury me alive (feat. dreamcache)](https://open.spotify.com/track/71qrD5J5iboxHqElSHFBy8)** by **ashes., dreamcache** *(bury me alive (feat. dreamcache))*
+🎤 **[I Love Lucy](https://open.spotify.com/track/6O8d3DCTgLQOkeXZSpmy7c)** by **Boofbby** *(Boofbby 2019)*
+🎤 **[dreams (ु⁎ᴗ_ᴗ⁎)ु.｡oO](https://open.spotify.com/track/1z5AR5TJAmbCEaAQzo4g8U)** by **Yeah0k!** *(dreams (ु⁎ᴗ_ᴗ⁎)ु.｡oO)*
+🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
+🎤 **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 07:37:59Z UTC
+🕐 Last updated: 2025-10-09 07:47:30Z UTC
 <!-- SPOTIFY-END -->
