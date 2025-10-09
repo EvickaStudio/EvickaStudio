@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27390d7f39d59fb616217dad6f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736c72a58f12410a9afa7910fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [white light](https://open.spotify.com/track/20ldUlYhg8nkmYTlwBxzR3)**
-*by* **Hiko Momoji, meat computer**
-*Album:* white light
+**🎵 [Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)**
+*by* **SSIEGE**
+*Album:* Fading Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:48
+    2:46 • 3:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)** by **Gehlektek, TakaTuka** *(Acid Pirate 13)*
+🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
+🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
 🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
 🎤 **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)*
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
-🎤 **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by **Skepsiz, headless_DATA** *(PUNK PARADOX!)*
-🎤 **[FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ)** by **pluko** *(FALLING)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 20:13:39Z UTC
+🕐 Last updated: 2025-10-09 20:32:08Z UTC
 <!-- SPOTIFY-END -->
