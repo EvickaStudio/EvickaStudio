@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2733cebd91160f2533f9f8ab599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [morbid](https://open.spotify.com/track/5gIUJsAzshFRNQslsIZA4G)**
+*by* **Rezlaine, Nosgov**
+*Album:* split the oxy
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:19 • 2:50
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Angel Numbers](https://open.spotify.com/track/1K8YK8iqG4LrYpczNOwlty)** by **Shoto** *(Angel Numbers)*
-🎤 **[hast du zeit grad?](https://open.spotify.com/track/3le7qlIe6s0CEQk1Y0IDtg)** by **headboi64, damals2014** *(hast du zeit grad?)*
-🎤 **[pretty bitch](https://open.spotify.com/track/2HDcEmoRHYS3n76jUWb3bP)** by **Punk Christ** *(pretty bitch)*
-🎤 **[NOSEKANDI](https://open.spotify.com/track/3S2IHWMM1nIOp6nlLt4QGk)** by **lunagrace** *(LUNAR DICE)*
-🎤 **[Toxic Love](https://open.spotify.com/track/1XvB6aaom4OBlbnbG1Vqqx)** by **Killedbykira** *(Toxic Love)*
+🎤 **[rav333 gUUUrRRllllLL](https://open.spotify.com/track/0nTbnmZr3HytrQEl2ul0O4)** by **Carter Tomorrow** *(Tomorrow Tapes: Volume 4)*
+🎤 **[TOKYO](https://open.spotify.com/track/6gfXKYbKI9cJzaFp5W5kak)** by **vai5000** *(HARBINGER)*
+🎤 **[EYES LIKE COLA](https://open.spotify.com/track/0FR9GwSRV6EeThz8zSReEA)** by **BadMoodRude** *(EYES LIKE COLA)*
+🎤 **[tired of you](https://open.spotify.com/track/7pmeemotlX1MJXLBVfSe23)** by **reverie** *(it is not the homosexual who is perverse, but the society in which he lives)*
+🎤 **[Hi, Society](https://open.spotify.com/track/4PKqxUYmIl7zQ0YKwAU15r)** by **Ms* Gloom** *(Hi, Society)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 06:19:39Z UTC
+🕐 Last updated: 2025-10-09 06:48:11Z UTC
 <!-- SPOTIFY-END -->
