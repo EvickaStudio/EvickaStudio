@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734a62bbdd5562e9cbfe74124a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ae5191bf9ba7d106f99fa017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KNIFE POINT](https://open.spotify.com/track/4QVOtA1TIzvCNiEq9GOQiv)**
-*by* **Lllyric?**
-*Album:* KNIFE POINT
+**🎵 [REAL JUNTZ](https://open.spotify.com/track/7J3t98J0Ksd2h1W5prKRkL)**
+*by* **Adi T**
+*Album:* EXTINCTION
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="96" height="4" fill="#1db954" rx="2"/>
-    <circle cx="96" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:15
+    0:43 • 3:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sincerely](https://open.spotify.com/track/02DMaZ1vmEdnPfnljFaOl7)** by **domasnosebleed, whyhaze, Nosgov** *(sincerely)*
-🎤 **[Tales](https://open.spotify.com/track/2svfHZLDQiZqWczygaM4ET)** by **iGRES, ENXK** *(Tales)*
-🎤 **[summer overdose](https://open.spotify.com/track/57VrYbFhfyA5zEugp03RZw)** by **Rezlaine, Nosgov** *(split the oxy)*
-🎤 **[Duality](https://open.spotify.com/track/2wf1PhlRCkrazYLeTjNplS)** by **lene 3000** *(Duality)*
-🎤 **[cut me](https://open.spotify.com/track/4Ddm3CdYDGPX1qeYG8JZGL)** by **vanity** *(cut me)*
+🎤 **[its a cold world](https://open.spotify.com/track/5aQK0Rr630qYsRYn2UoL7f)** by **hateoryx, Nosgov** *(its a cold world)*
+🎤 **[sun in her eyes](https://open.spotify.com/track/6qAEVxtgPGuJ9pabWVxoJ4)** by **bliiiss** *(sun in her eyes)*
+🎤 **[C.R.E.A.M.](https://open.spotify.com/track/26hgqtaP8gOrVLAZ7KdeF9)** by **KOGAIHU, Nosgov** *(C.R.E.A.M.)*
+🎤 **[life creepY](https://open.spotify.com/track/5TD4bV5WSQJEEfoFnyjaZj)** by **Rezlaine, Nosgov** *(split the oxy)*
+🎤 **[scarzz ･ﾟ✧*:･ﾟ✧](https://open.spotify.com/track/7y7Gq4ZHKCpmOyoHvP8ckO)** by **dethkitty** *(scarzz ･ﾟ✧*:･ﾟ✧)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 07:12:37Z UTC
+🕐 Last updated: 2025-10-09 07:28:18Z UTC
 <!-- SPOTIFY-END -->
