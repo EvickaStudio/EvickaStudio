@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d83b407ff3df16f8dec9817" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27390d7f39d59fb616217dad6f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [epicenter of happiness](https://open.spotify.com/track/4qEE1XPcwmyLMum63tRqro)**
-*by* **usedcvnt**
-*Album:* epicenter of happiness
+**🎵 [white light](https://open.spotify.com/track/20ldUlYhg8nkmYTlwBxzR3)**
+*by* **Hiko Momoji, meat computer**
+*Album:* white light
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="80" height="4" fill="#1db954" rx="2"/>
+    <circle cx="80" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:07 • 3:20
+    0:45 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)** by **strangerperson** *(Wie der Raum in dem wir leben)*
-🎤 **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))*
-🎤 **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)*
-🎤 **[Er flog hoch](https://open.spotify.com/track/2krAHsdnMkEJxYiXoNabeA)** by **fliggsy** *(Project Life)*
-🎤 **[111 Seconds in Heaven](https://open.spotify.com/track/1YnWfFuOQiMgq4dzTKgVfP)** by **SyKo, glaive** *(111 Seconds in Heaven)*
+🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
+🎤 **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)*
+🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
+🎤 **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by **Skepsiz, headless_DATA** *(PUNK PARADOX!)*
+🎤 **[FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ)** by **pluko** *(FALLING)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 19:47:57Z UTC
+🕐 Last updated: 2025-10-09 20:13:39Z UTC
 <!-- SPOTIFY-END -->
