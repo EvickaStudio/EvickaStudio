@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27319fc5f17f9d89e04d7b3d5a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)**
-*by* **Kanye West, Kid Cudi, Raekwon**
-*Album:* My Beautiful Dark Twisted Fantasy
+**🎵 [wishing to forget](https://open.spotify.com/track/0haaiMK2aZE7RTkrbNl5wq)**
+*by* **hauntingclaire**
+*Album:* wishing to forget
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 5:57
+    0:04 • 3:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)*
+🎤 **[Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)** by **Kanye West, Kid Cudi, Raekwon** *(My Beautiful Dark Twisted Fantasy)*
 🎤 **[tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)** by **meat computer** *(slept on the floor still dreamt about you)*
 🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
 🎤 **[Ich romantisiere Drogen](https://open.spotify.com/track/5f53Pdy4937QSXB3h5HJIA)** by **Punk Christ, Love Pact** *(NERVENKONSTRUKT)*
-🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 17:41:36Z UTC
+🕐 Last updated: 2025-10-09 17:48:54Z UTC
 <!-- SPOTIFY-END -->
