@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b6865909f834058fb8d96c65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f4274ffd5c75b40152f9a998" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)**
-*by* **Levi Ryan**
-*Album:* operation wandering soul
+**🎵 [форева](https://open.spotify.com/track/4tYylrFEfRUDbeZlLADtvJ)**
+*by* **источник**
+*Album:* так я в детстве все и представлял
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
+    <rect width="82" height="4" fill="#1db954" rx="2"/>
+    <circle cx="82" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:14 • 4:09
+    0:55 • 3:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[scream and run](https://open.spotify.com/track/6iIbkAVSU5P9DlzLdavHh2)** by **mykel** *(scream and run)*
-🎤 **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)*
-🎤 **[Digital Glow](https://open.spotify.com/track/38uzlkqROpiI2MFqzZJzXd)** by **Walter Frosch** *(Walter Frosch & Alpine Decline)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)*
+🎤 **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[Saw](https://open.spotify.com/track/1WgSV4qb90fPut4rhwVhrV)** by **Tevvez** *(Pure)*
+🎤 **[Nothing](https://open.spotify.com/track/7IbauiG8MYxzdXmTUv48V1)** by **Hackle** *(GUNSMITH THA MIXTAPE)*
+🎤 **[keine kraft](https://open.spotify.com/track/5tSzocu3ONCE5cIdcXe9Oh)** by **Mobezzy, Steve276** *(keine kraft)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 18:45:47Z UTC
+🕐 Last updated: 2025-10-09 19:10:25Z UTC
 <!-- SPOTIFY-END -->
