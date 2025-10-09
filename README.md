@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH)**
-*by* **Crystal Castles**
-*Album:* (III)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 3:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Transgender](https://open.spotify.com/track/3pbN3SGJott0Rgb5aE5kqc)** by **Crystal Castles** *((III))*
 🎤 **[WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK)** by **KXLLSWXTCH** *(DISORDER)*
 🎤 **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)*
 🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
 🎤 **[wolkendecke](https://open.spotify.com/track/7MS510fzAL7mIgbC2rd2NR)** by **Dropped here, Steppi** *(wolkendecke)*
-🎤 **[whoa (mind in awe)](https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa)** by **XXXTENTACION** *(SKINS)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 21:47:55Z UTC
+🕐 Last updated: 2025-10-09 22:11:09Z UTC
 <!-- SPOTIFY-END -->
