@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733581edd7f47409392604e6e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)**
-*by* **hqwilli**
-*Album:* Die letzten in der Bar
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 1:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Hin & Her](https://open.spotify.com/track/0YuSMNVNyMeVTjGH3kqoG5)** by **Matze** *(Hin & Her)*
-🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(Hide (midwest emo version + extras))*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[nothing to do](https://open.spotify.com/track/6bFtSqULzctNMCriWJh9Ys)** by **davada** *(nothing to do)*
-🎤 **[nvr sry](https://open.spotify.com/track/2e33A8qeIqFW4bCHFh0jOJ)** by **Fijimar** *(nvr sry)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
+🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
+🎤 **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[Heavy Racks Intro](https://open.spotify.com/track/5uI2pQQ5Ygj1YH3SalP1ly)** by **gard** *(AMAZING)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 09:31:52Z UTC
+🕐 Last updated: 2025-10-09 09:47:53Z UTC
 <!-- SPOTIFY-END -->
