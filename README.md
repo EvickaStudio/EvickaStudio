@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733cebd91160f2533f9f8ab599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734a62bbdd5562e9cbfe74124a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [morbid](https://open.spotify.com/track/5gIUJsAzshFRNQslsIZA4G)**
-*by* **Rezlaine, Nosgov**
-*Album:* split the oxy
+**🎵 [KNIFE POINT](https://open.spotify.com/track/4QVOtA1TIzvCNiEq9GOQiv)**
+*by* **Lllyric?**
+*Album:* KNIFE POINT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:50
+    0:43 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[rav333 gUUUrRRllllLL](https://open.spotify.com/track/0nTbnmZr3HytrQEl2ul0O4)** by **Carter Tomorrow** *(Tomorrow Tapes: Volume 4)*
-🎤 **[TOKYO](https://open.spotify.com/track/6gfXKYbKI9cJzaFp5W5kak)** by **vai5000** *(HARBINGER)*
-🎤 **[EYES LIKE COLA](https://open.spotify.com/track/0FR9GwSRV6EeThz8zSReEA)** by **BadMoodRude** *(EYES LIKE COLA)*
-🎤 **[tired of you](https://open.spotify.com/track/7pmeemotlX1MJXLBVfSe23)** by **reverie** *(it is not the homosexual who is perverse, but the society in which he lives)*
-🎤 **[Hi, Society](https://open.spotify.com/track/4PKqxUYmIl7zQ0YKwAU15r)** by **Ms* Gloom** *(Hi, Society)*
+🎤 **[sincerely](https://open.spotify.com/track/02DMaZ1vmEdnPfnljFaOl7)** by **domasnosebleed, whyhaze, Nosgov** *(sincerely)*
+🎤 **[Tales](https://open.spotify.com/track/2svfHZLDQiZqWczygaM4ET)** by **iGRES, ENXK** *(Tales)*
+🎤 **[summer overdose](https://open.spotify.com/track/57VrYbFhfyA5zEugp03RZw)** by **Rezlaine, Nosgov** *(split the oxy)*
+🎤 **[Duality](https://open.spotify.com/track/2wf1PhlRCkrazYLeTjNplS)** by **lene 3000** *(Duality)*
+🎤 **[cut me](https://open.spotify.com/track/4Ddm3CdYDGPX1qeYG8JZGL)** by **vanity** *(cut me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 06:48:11Z UTC
+🕐 Last updated: 2025-10-09 07:12:37Z UTC
 <!-- SPOTIFY-END -->
