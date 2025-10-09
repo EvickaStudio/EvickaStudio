@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734884378833acac3879ae4219" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389c39ba1acdf33ed7acd3867" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)**
-*by* **wilson100k**
-*Album:* auf wiedersehen </3
+**🎵 [Forever](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15)**
+*by* **Labrinth**
+*Album:* Euphoria (Original Score from the HBO Series)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="193" height="4" fill="#1db954" rx="2"/>
-    <circle cx="193" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:24
+    1:56 • 3:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)*
-🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
-🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
-🎤 **[Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)** by **tim, TYM** *(Myself)*
-🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
+🎤 **[Jedesmal](https://open.spotify.com/track/56XKSAP30m7klfOOUr4RWZ)** by **kevin** *(Jedesmal)*
+🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
+🎤 **[Mr Vain (feat. Tamika)](https://open.spotify.com/track/2UthFHQ34gEPNQ0qa6ihTa)** by **S3RL, Tamika** *(Mr Vain (feat. Tamika))*
+🎤 **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)*
+🎤 **[Materialism as a Means to an End](https://open.spotify.com/track/4t2dQ3OQaAJQn52BNszPnY)** by **$uicideboy$** *(Materialism as a Means to an End)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 21:11:12Z UTC
+🕐 Last updated: 2025-10-09 21:26:44Z UTC
 <!-- SPOTIFY-END -->
