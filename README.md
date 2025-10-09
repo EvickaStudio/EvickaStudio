@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737a8dc3859a8fdbb233df6a43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ferrari](https://open.spotify.com/track/2CCgh3vUSvAFotYavGL02W)**
-*by* **Yung Hurn**
-*Album:* In Memory of Yung Hurn - Classic Compilation
+**🎵 [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)**
+*by* **MF DOOM**
+*Album:* MM..FOOD
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 3:35
+    2:11 • 4:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Er flog hoch](https://open.spotify.com/track/2krAHsdnMkEJxYiXoNabeA)** by **fliggsy** *(Project Life)*
+🎤 **[111 Seconds in Heaven](https://open.spotify.com/track/1YnWfFuOQiMgq4dzTKgVfP)** by **SyKo, glaive** *(111 Seconds in Heaven)*
+🎤 **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)*
+🎤 **[Ferrari](https://open.spotify.com/track/5FC1X5dpLKIsAKGlXNZHhx)** by **Yung Hurn** *(In Memory of Yung Hurn - Classic Compilation)*
 🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
-🎤 **[Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp)** by **Lil Tracy** *(Anarchy)*
-🎤 **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)*
-🎤 **[форева](https://open.spotify.com/track/3THzrFBk7SFzWWSh3Giuq0)** by **источник** *(так я в детстве все и представлял)*
-🎤 **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-09 19:24:01Z UTC
+🕐 Last updated: 2025-10-09 19:34:09Z UTC
 <!-- SPOTIFY-END -->
