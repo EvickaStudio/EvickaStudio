@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731142737888f2ac0a0df74fda" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [AUF KEINEN FALL](https://open.spotify.com/track/4AxunwrMLBWzqxdezmUwE9)**
-*by* **1antibody, lusi 7896, knightonearth**
-*Album:* Knight Story
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 1:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Overdrive](https://open.spotify.com/track/7LpF77VCwHLyEumWMlunVN)** by **Hinoni** *(Hinoni)*
+🎤 **[Alright](https://open.spotify.com/track/2Tgughk0hkwrdJz0Mt1WPT)** by **Gaiden, Mezha** *(Alright)*
+🎤 **[AUF KEINEN FALL](https://open.spotify.com/track/4AxunwrMLBWzqxdezmUwE9)** by **1antibody, lusi 7896, knightonearth** *(Knight Story)*
 🎤 **[bury me alive (feat. dreamcache)](https://open.spotify.com/track/71qrD5J5iboxHqElSHFBy8)** by **ashes., dreamcache** *(bury me alive (feat. dreamcache))*
 🎤 **[I Love Lucy](https://open.spotify.com/track/6O8d3DCTgLQOkeXZSpmy7c)** by **Boofbby** *(Boofbby 2019)*
-🎤 **[dreams (ु⁎ᴗ_ᴗ⁎)ु.｡oO](https://open.spotify.com/track/1z5AR5TJAmbCEaAQzo4g8U)** by **Yeah0k!** *(dreams (ु⁎ᴗ_ᴗ⁎)ु.｡oO)*
-🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
-🎤 **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-09 07:47:30Z UTC
+🕐 Last updated: 2025-10-09 08:16:53Z UTC
 <!-- SPOTIFY-END -->
