@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273686a92fb6439c1c63b98dbeb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de7429d4f93552dc7851dbd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cherry Bracelets](https://open.spotify.com/track/3c3P9O9ThVaIK9f1ksJDM5)**
-*by* **Bladee, Yung Lean, Ecco2k**
-*Album:* Working on Dying
+**🎵 [Blood Rain](https://open.spotify.com/track/1Dg8AOAbTjWEXkwweOk4ZV)**
+*by* **Rainworld**
+*Album:* Blood Rain
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 2:58
+    2:37 • 3:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fires In Heaven](https://open.spotify.com/track/5hg3OaB6PToSJ2FKyZHKBC)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Fade Away](https://open.spotify.com/track/1fVfn3pILGUAQeaBqTi8pF)** by **Nokia Angel** *(In Haze)*
-🎤 **[Blinded](https://open.spotify.com/track/1I3RPlk7xfczUl2Tb1Maas)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[Afghanistan](https://open.spotify.com/track/1Bm8X1Q1Gqnm3pApQilCHl)** by **Yung Lean** *(Warlord)*
+🎤 **[Tattoos](https://open.spotify.com/track/015y9tbhAHQKmbtktangwv)** by **Lil Tracy** *(Sinner)*
+🎤 **[Cherry Bracelets](https://open.spotify.com/track/3c3P9O9ThVaIK9f1ksJDM5)** by **Bladee, Yung Lean, Ecco2k** *(Working on Dying)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 17:11:23Z UTC
+🕐 Last updated: 2025-10-10 17:28:19Z UTC
 <!-- SPOTIFY-END -->
