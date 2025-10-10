@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739381559182855f08996018ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735b4eaf68252dae2c673c03fd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [girl](https://open.spotify.com/track/3vMMqHjTyukdNcIVvzka2c)**
-*by* **2hollis**
-*Album:* star
+**🎵 [carwash](https://open.spotify.com/track/7JSqpmMi2mljJNtqUj5qKG)**
+*by* **kacperdg**
+*Album:* carwash
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="58" height="4" fill="#1db954" rx="2"/>
-    <circle cx="58" cy="2" r="6" fill="#1db954"/>
+    <rect width="260" height="4" fill="#1db954" rx="2"/>
+    <circle cx="260" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 3:06
+    2:32 • 2:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Last Party](https://open.spotify.com/track/5IAHJ6tpXeVvaLrwV0wmlT)** by **Nokia Angel** *(In Haze)*
+🎤 **[girl](https://open.spotify.com/track/3vMMqHjTyukdNcIVvzka2c)** by **2hollis** *(star)*
 🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
 🎤 **[Sunrise Angel](https://open.spotify.com/track/5CeO4v15n9ffbBv9dcWBWP)** by **Yung Lean** *(Unknown Memory)*
 🎤 **[Gotham City](https://open.spotify.com/track/6Lmz74wEY6YdAb8cTAH8EK)** by **Bladee, Yung Lean** *(Gotham City)*
-🎤 **[Blood Rain](https://open.spotify.com/track/1Dg8AOAbTjWEXkwweOk4ZV)** by **Rainworld** *(Blood Rain)*
-🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 17:38:41Z UTC
+🕐 Last updated: 2025-10-10 17:47:42Z UTC
 <!-- SPOTIFY-END -->
