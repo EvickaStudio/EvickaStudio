@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273339f3863be389afe90d65c34" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d44f8c38da1697592604c3c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Don't Want](https://open.spotify.com/track/4HQROPOufkSera6BJ5ZbAf)**
-*by* **Adamn Killa, Drain Gang Archive**
-*Album:* Don't Want
+**🎵 [The World Needs Change](https://open.spotify.com/track/6dPgd8QtZKozuh725mZbXw)**
+*by* **Clams Casino**
+*Album:* Instrumentals
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="112" height="4" fill="#1db954" rx="2"/>
-    <circle cx="112" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 3:24
+    1:26 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Don't Go](https://open.spotify.com/track/767RhfV1ZiI8OfGT318MxU)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[Spider Web](https://open.spotify.com/track/1QQjQ1V1ic4EQjVlXRTmTV)** by **Wicca Phase Springs Eternal, Clams Casino, fish narc** *(Spider Web)*
-🎤 **[Only Light](https://open.spotify.com/track/28x8vIY2MExsdHXe6CaedN)** by **Woesum, Thaiboy Digital** *(Blue Summer)*
-🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
-🎤 **[Red River](https://open.spotify.com/track/71xZNODtoBktH43VaPADS8)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Af1s](https://open.spotify.com/track/6TD7pqep7YjGK9OcPm4lcQ)** by **Yung Lean, Ecco2k** *(Warlord (Deluxe))*
+🎤 **[Wrong](https://open.spotify.com/track/2aIphPMmqU5wKKvohygYXG)** by **Thaiboy Digital** *(D&G)*
+🎤 **[Snapback 90′S Nigga (Rare) [R.I.P. Eazy E! Bring Back the 90′S]](https://open.spotify.com/track/2fR5nWBUBKIl2HAhYS8ivS)** by **SpaceGhostPurrp** *(Nasa Gang (Remastered))*
+🎤 **[PillowFight](https://open.spotify.com/track/6UumK9cxNHOXOLu9p1zGGR)** by **fakemink, ok** *(PillowFight)*
+🎤 **[Don't Want](https://open.spotify.com/track/4HQROPOufkSera6BJ5ZbAf)** by **Adamn Killa, Drain Gang Archive** *(Don't Want)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 21:34:13Z UTC
+🕐 Last updated: 2025-10-10 21:48:00Z UTC
 <!-- SPOTIFY-END -->
