@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e0d0477445a893554a4e5b7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Holiday Inn](https://open.spotify.com/track/7ir2i0k9g98dYHVFpUcUX8)**
+*by* **Symba**
+*Album:* Holiday Inn
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:07 • 2:40
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Transgender](https://open.spotify.com/track/3pbN3SGJott0Rgb5aE5kqc)** by **Crystal Castles** *((III))*
-🎤 **[WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK)** by **KXLLSWXTCH** *(DISORDER)*
-🎤 **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)*
-🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
-🎤 **[wolkendecke](https://open.spotify.com/track/7MS510fzAL7mIgbC2rd2NR)** by **Dropped here, Steppi** *(wolkendecke)*
+🎤 **[Wood Talk](https://open.spotify.com/track/2EeKfNwspi7uOp7lWeELTP)** by **Symba** *(Teamboys undso)*
+🎤 **[FREI](https://open.spotify.com/track/5kllPxnLHV4zPwVgA6tyBl)** by **Symba** *(FREI)*
+🎤 **[Tamagotchi](https://open.spotify.com/track/0cutz8Tkvflv5gyTiNPWMW)** by **Symba** *(Symba Supermann)*
+🎤 **[PS2](https://open.spotify.com/track/43VwdvY43NhBMZLceHW23I)** by **Symba** *(PS2)*
+🎤 **[Playboys weinen auch](https://open.spotify.com/track/0l63sFDKc4r4GLANRmjcBu)** by **Symba** *(Playboys weinen auch)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-10 06:18:53Z UTC
+🕐 Last updated: 2025-10-10 06:47:52Z UTC
 <!-- SPOTIFY-END -->
