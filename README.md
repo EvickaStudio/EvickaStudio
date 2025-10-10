@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736f06348c3db472d6a5070adc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)**
+*by* **Edwin Rosen**
+*Album:* Wie sehr tut es weh?
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:04 • 2:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Holiday Inn](https://open.spotify.com/track/7ir2i0k9g98dYHVFpUcUX8)** by **Symba** *(Holiday Inn)*
-🎤 **[Wood Talk](https://open.spotify.com/track/2EeKfNwspi7uOp7lWeELTP)** by **Symba** *(Teamboys undso)*
-🎤 **[FREI](https://open.spotify.com/track/5kllPxnLHV4zPwVgA6tyBl)** by **Symba** *(FREI)*
-🎤 **[Tamagotchi](https://open.spotify.com/track/0cutz8Tkvflv5gyTiNPWMW)** by **Symba** *(Symba Supermann)*
-🎤 **[PS2](https://open.spotify.com/track/43VwdvY43NhBMZLceHW23I)** by **Symba** *(PS2)*
+🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[Liebe & Hass](https://open.spotify.com/track/0wxXaqr5qXz3VsiX004bhi)** by **Symba** *(Liebe & Hass)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-10 07:28:10Z UTC
+🕐 Last updated: 2025-10-10 07:37:53Z UTC
 <!-- SPOTIFY-END -->
