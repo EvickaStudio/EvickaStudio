@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730b9c9e45606f2e812588b817" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mink](https://open.spotify.com/track/0Xj0caImLW8nYBjumTxIeI)**
-*by* **fakemink**
-*Album:* Mink
+**🎵 [Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)**
+*by* **Yung Lean**
+*Album:* Unknown Death 2002
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="37" height="4" fill="#1db954" rx="2"/>
-    <circle cx="37" cy="2" r="6" fill="#1db954"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 1:57
+    2:37 • 4:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Friday (Strip Club)](https://open.spotify.com/track/4PBm6F4uoKFxrMs2lAMyC9)** by **SpaceGhostPurrp** *(Nasa Gang (Remastered))*
+🎤 **[Old Gods](https://open.spotify.com/track/6WFAXXEmSnQzv73T7jWfTO)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Mink](https://open.spotify.com/track/0Xj0caImLW8nYBjumTxIeI)** by **fakemink** *(Mink)*
 🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
 🎤 **[Fire](https://open.spotify.com/track/1ASbTN8pHYFjrvbKoBFlGS)** by **Yung Lean** *(Warlord)*
-🎤 **[Yr so Beautiful](https://open.spotify.com/track/4CDdx6YSR9tHiA4yogDvjw)** by **Thaiboy Digital** *(Tiger)*
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[King Night](https://open.spotify.com/track/30bItCTQr7rD0qSKgOb3Dn)** by **SALEM** *(King Night)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 19:23:36Z UTC
+🕐 Last updated: 2025-10-10 19:33:58Z UTC
 <!-- SPOTIFY-END -->
