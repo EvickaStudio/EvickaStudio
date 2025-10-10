@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731fdbfa28a607c767a3bdc0fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Not Much Of A Life](https://open.spotify.com/track/4wo6Mme2DqYRjWZgqrIYNr)**
-*by* **SALEM**
-*Album:* Fires In Heaven
+**🎵 [No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)**
+*by* **Nokia Angel**
+*Album:* Born Angel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 3:32
+    2:26 • 3:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Babyface Maniacs](https://open.spotify.com/track/0c8AN9nmeaFN0zPZKMTfgM)** by **Yung Lean** *(Jonatan)*
+🎤 **[Not Much Of A Life](https://open.spotify.com/track/4wo6Mme2DqYRjWZgqrIYNr)** by **SALEM** *(Fires In Heaven)*
 🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
 🎤 **[Jug Man](https://open.spotify.com/track/30IjI92bKiSRk14bKqFI8b)** by **Adamn Killa, Drain Gang Archive** *(Jug Man)*
 🎤 **[Bite My Lip](https://open.spotify.com/track/4fd52Er7tHpi4oLqSaD4fA)** by **fakemink** *(Bite My Lip)*
-🎤 **[Gatorade](https://open.spotify.com/track/29HX60fuKaseu7cJopYBzQ)** by **Yung Lean** *(Unknown Death 2002)*
-🎤 **[Its Sad Boy (feat. Yung Lean)](https://open.spotify.com/track/4lPSvjdqCEqSngEv0LuihQ)** by **Gleesh, Yung Lean** *(Your Favorite Rapper's Favorite Rapper)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 18:44:39Z UTC
+🕐 Last updated: 2025-10-10 18:53:32Z UTC
 <!-- SPOTIFY-END -->
