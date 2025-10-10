@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27378712e6ec19090a12fa323fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27399f9a0d6879c80e95dd79e57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Trapdoor](https://open.spotify.com/track/7hlr3dKGDtNXZ05A5lw0PK)**
-*by* **SALEM**
-*Album:* King Night
+**🎵 [Takashi Murakami](https://open.spotify.com/track/3mFFwNosfKgS53WNEpYzRH)**
+*by* **6 Dogs**
+*Album:* Takashi Murakami
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="273" height="4" fill="#1db954" rx="2"/>
-    <circle cx="273" cy="2" r="6" fill="#1db954"/>
+    <rect width="278" height="4" fill="#1db954" rx="2"/>
+    <circle cx="278" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:08 • 4:31
+    2:34 • 2:46
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Blow Me](https://open.spotify.com/track/77q9G0H5wnXlT9OWm1QXTc)** by **fakemink** *(Wild One)*
-🎤 **[Make A Wish](https://open.spotify.com/track/3b7wukBjI4iIM4eX9DXx5q)** by **Nokia Angel** *(In Haze)*
-🎤 **[GT-R](https://open.spotify.com/track/1pmLlsMPKAS7ewp06Ibz9X)** by **Ecco2k** *(GT-R)*
-🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
-🎤 **[Friday (Strip Club)](https://open.spotify.com/track/4PBm6F4uoKFxrMs2lAMyC9)** by **SpaceGhostPurrp** *(Nasa Gang (Remastered))*
+🎤 **[the light upon the surface that beckoned deep into the moment and the tiger stepped forth](https://open.spotify.com/track/1aqIvwPyXtOXffwsFBBU1i)** by **2hollis** *(White Tiger)*
+🎤 **[DieWithMe](https://open.spotify.com/track/253LDOJTMO88WUqWac9KVa)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Sandman](https://open.spotify.com/track/3p7VW6S6OC4QfZTWmBz0TY)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[Just Kitten](https://open.spotify.com/track/1Asgl3E0Zbu55iqJziisdR)** by **fakemink** *(London's Saviour)*
+🎤 **[Legendary Member](https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj)** by **Thaiboy Digital, Bladee, Ecco2k, Yung Lean** *(Legendary Member)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 19:47:58Z UTC
+🕐 Last updated: 2025-10-10 20:13:10Z UTC
 <!-- SPOTIFY-END -->
