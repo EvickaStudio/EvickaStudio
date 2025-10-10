@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27399f9a0d6879c80e95dd79e57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27350f7489c303dcae4508b15ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Takashi Murakami](https://open.spotify.com/track/3mFFwNosfKgS53WNEpYzRH)**
-*by* **6 Dogs**
-*Album:* Takashi Murakami
+**🎵 [Red Cup](https://open.spotify.com/track/7fFytD41QcZsAj10RSwxoe)**
+*by* **Gud**
+*Album:* Red Cup
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:34 • 2:46
+    1:53 • 3:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[the light upon the surface that beckoned deep into the moment and the tiger stepped forth](https://open.spotify.com/track/1aqIvwPyXtOXffwsFBBU1i)** by **2hollis** *(White Tiger)*
-🎤 **[DieWithMe](https://open.spotify.com/track/253LDOJTMO88WUqWac9KVa)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Sandman](https://open.spotify.com/track/3p7VW6S6OC4QfZTWmBz0TY)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[Just Kitten](https://open.spotify.com/track/1Asgl3E0Zbu55iqJziisdR)** by **fakemink** *(London's Saviour)*
-🎤 **[Legendary Member](https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj)** by **Thaiboy Digital, Bladee, Ecco2k, Yung Lean** *(Legendary Member)*
+🎤 **[Come All Ye Fair and Tender Ladies](https://open.spotify.com/track/6rt1Ms7qHNkPLe7n85pLOR)** by **Elusin** *(SYNFUELS)*
+🎤 **[Redlights](https://open.spotify.com/track/5gDQgZ1RrcRAO2OS3dNEsc)** by **SALEM** *(King Night)*
+🎤 **[Truffle](https://open.spotify.com/track/1KK4FqMrCQ7USBIt8Aa7PR)** by **fakemink** *(Wild One)*
+🎤 **[Stay Down](https://open.spotify.com/track/4lFDTIXBfokNmCfsgSdXYa)** by **Yung Lean** *(Warlord)*
+🎤 **[Haters Broke](https://open.spotify.com/track/4OVUGP6prJ2kcZ8sxcqBk7)** by **Thaiboy Digital** *(Tiger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 20:13:10Z UTC
+🕐 Last updated: 2025-10-10 20:31:31Z UTC
 <!-- SPOTIFY-END -->
