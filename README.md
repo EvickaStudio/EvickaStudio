@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e7f6575b55f38b5c949dfccd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27393032355eb6ab1320904d086" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)**
-*by* **smokedope2016, Nokia Angel**
-*Album:* Sleep
+**🎵 [Only Light](https://open.spotify.com/track/28x8vIY2MExsdHXe6CaedN)**
+*by* **Woesum, Thaiboy Digital**
+*Album:* Blue Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 2:35
+    1:41 • 2:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Climbing](https://open.spotify.com/track/6cxXYYFH52VPip8VW9FU39)** by **Thaiboy Digital** *(D&G)*
-🎤 **[Ghosttown](https://open.spotify.com/track/7l26dZs9DhSf8xyJ7NxbuP)** by **Yung Lean, Travis Scott** *(Unknown Memory)*
-🎤 **[Tair](https://open.spotify.com/track/5RlZdry57PQvFX89pHYHmz)** by **SALEM** *(King Night)*
-🎤 **[Kill Everything](https://open.spotify.com/track/0MPhcfGfHPlHu2GNspRXdO)** by **fakemink** *(London's Saviour)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
+🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
+🎤 **[Red River](https://open.spotify.com/track/71xZNODtoBktH43VaPADS8)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Emails](https://open.spotify.com/track/2w3s6SdCNUGS6I7HMxfxhl)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Face To Face](https://open.spotify.com/track/7GeqdxZYmSdnmEETbpCEqB)** by **fakemink** *(Face To Face)*
+🎤 **[white tiger](https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w)** by **2hollis** *(White Tiger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 21:10:47Z UTC
+🕐 Last updated: 2025-10-10 21:25:21Z UTC
 <!-- SPOTIFY-END -->
