@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[change me](https://open.spotify.com/track/7mt1CRwd1PwGVliUGgyTYT)** by **RudeClub** *(rudeclub)*
+🎤 **[hell of a guy](https://open.spotify.com/track/3Pb7URzcajLh4CoblZ38Fg)** by **RudeClub** *(rudeclub)*
+🎤 **[shout out to all the ladies](https://open.spotify.com/track/6vbRsvFqmNoxDp6s9kGzUR)** by **RudeClub** *(rudeclub)*
 🎤 **[take your breath](https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ)** by **RudeClub** *(rudeclub)*
 🎤 **[24 hours](https://open.spotify.com/track/3db89O9Nht7u8wfl92UpIP)** by **RudeClub** *(rudeclub)*
-🎤 **[I'm just trynna fuck](https://open.spotify.com/track/2KIlOe5wQqxztQcJB8shem)** by **RudeClub** *(rudeclub)*
-🎤 **[finna hit](https://open.spotify.com/track/3okXX4trKaJ1C8u5Ji79PL)** by **RudeClub** *(rudeclub)*
-🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 09:31:43Z UTC
+🕐 Last updated: 2025-10-10 09:47:49Z UTC
 <!-- SPOTIFY-END -->
