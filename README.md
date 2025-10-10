@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735fed9b66d78d8dcda05533e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [TGIF](https://open.spotify.com/track/6uj3k8Asw6Xwvn9pIpEGMs)**
+*by* **Lunaa**
+*Album:* TGIF
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:31 • 2:38
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
+🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48** *(change us)*
+🎤 **[under those jeans](https://open.spotify.com/track/2I01Iy3PTew42JaLNl6NBK)** by **RudeClub** *(rudeclub)*
 🎤 **[change me](https://open.spotify.com/track/7mt1CRwd1PwGVliUGgyTYT)** by **RudeClub** *(rudeclub)*
 🎤 **[hell of a guy](https://open.spotify.com/track/3Pb7URzcajLh4CoblZ38Fg)** by **RudeClub** *(rudeclub)*
-🎤 **[shout out to all the ladies](https://open.spotify.com/track/6vbRsvFqmNoxDp6s9kGzUR)** by **RudeClub** *(rudeclub)*
-🎤 **[take your breath](https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ)** by **RudeClub** *(rudeclub)*
-🎤 **[24 hours](https://open.spotify.com/track/3db89O9Nht7u8wfl92UpIP)** by **RudeClub** *(rudeclub)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 11:10:20Z UTC
+🕐 Last updated: 2025-10-10 11:25:17Z UTC
 <!-- SPOTIFY-END -->
