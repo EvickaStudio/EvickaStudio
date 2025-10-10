@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273543533e92a8a336dee9e9bd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Iceman](https://open.spotify.com/track/4XGB5Yz6Sls0zkHp81Cng8)**
-*by* **Yung Lean**
-*Album:* Stranger
+**🎵 [Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)**
+*by* **Thaiboy Digital, Yung Lean**
+*Album:* Tiger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 3:14
+    2:40 • 5:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hunting My Own Skin](https://open.spotify.com/track/6tMADLSvCCOfF72Vyz1yKj)** by **Yung Lean** *(Stranger)*
-🎤 **[Drop It / Scooter](https://open.spotify.com/track/4SpZWbQDE4R2r6gvAhksDN)** by **Yung Lean** *(Stranger)*
-🎤 **[Salute / Pacman](https://open.spotify.com/track/0ivBN4xcbS9BbfOKwaWGOU)** by **Yung Lean** *(Stranger)*
-🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
-🎤 **[Metallic Intuition](https://open.spotify.com/track/661Yph8HyRrESFvhDZbatC)** by **Yung Lean** *(Stranger)*
+🎤 **[Evil World](https://open.spotify.com/track/03Q35hLOZxZfqierYYtHSL)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[Volt](https://open.spotify.com/track/2OakTFuAgwO1QMQJabMKBW)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[Yellowman](https://open.spotify.com/track/7t1EwP4B7X3gpSXIDjS68s)** by **Yung Lean** *(Stranger)*
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
+🎤 **[Fallen Demon](https://open.spotify.com/track/7oHFFLFlLnEtxnxAricfn3)** by **Yung Lean** *(Stranger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 16:15:11Z UTC
+🕐 Last updated: 2025-10-10 16:38:13Z UTC
 <!-- SPOTIFY-END -->
