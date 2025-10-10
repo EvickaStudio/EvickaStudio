@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731fdbfa28a607c767a3bdc0fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27378712e6ec19090a12fa323fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)**
-*by* **Nokia Angel**
-*Album:* Born Angel
+**🎵 [King Night](https://open.spotify.com/track/30bItCTQr7rD0qSKgOb3Dn)**
+*by* **SALEM**
+*Album:* King Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="236" height="4" fill="#1db954" rx="2"/>
+    <circle cx="236" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 3:17
+    3:01 • 3:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Babyface Maniacs](https://open.spotify.com/track/0c8AN9nmeaFN0zPZKMTfgM)** by **Yung Lean** *(Jonatan)*
-🎤 **[Not Much Of A Life](https://open.spotify.com/track/4wo6Mme2DqYRjWZgqrIYNr)** by **SALEM** *(Fires In Heaven)*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[Jug Man](https://open.spotify.com/track/30IjI92bKiSRk14bKqFI8b)** by **Adamn Killa, Drain Gang Archive** *(Jug Man)*
-🎤 **[Bite My Lip](https://open.spotify.com/track/4fd52Er7tHpi4oLqSaD4fA)** by **fakemink** *(Bite My Lip)*
+🎤 **[Milk](https://open.spotify.com/track/2bojQQNnB4Vlvl2Uy9L1DF)** by **fakemink** *(Milk)*
+🎤 **[Ice Cold Smoke](https://open.spotify.com/track/5dE5ceSY1X0bfIoZRj9Q50)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[The Hymn of The Mountain Priestess (Sky Katedralen)](https://open.spotify.com/track/0Choe5ehSYMfBs0NLSB33e)** by **Elusin** *(SYNFUELS)*
+🎤 **[cope](https://open.spotify.com/track/7ItXdcLciX1TquFHswKHRx)** by **2hollis** *(star)*
+🎤 **[Snow White](https://open.spotify.com/track/3qp8iHwhOpLhflp9fzBld0)** by **fakemink** *(Snow White)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 18:53:32Z UTC
+🕐 Last updated: 2025-10-10 19:09:46Z UTC
 <!-- SPOTIFY-END -->
