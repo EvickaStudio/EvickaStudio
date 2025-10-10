@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)**
-*by* **Thaiboy Digital, Yung Lean**
-*Album:* Tiger
+**🎵 [Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)**
+*by* **SALEM**
+*Album:* Fires In Heaven
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:40 • 5:25
+    0:31 • 2:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Miami Ultras](https://open.spotify.com/track/7vb0J4M6dZNE7ZvtvMDlCK)** by **Yung Lean** *(Warlord)*
+🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[Gnarly](https://open.spotify.com/track/6MRlnQdCLk8BCI57CQCJCQ)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
 🎤 **[Evil World](https://open.spotify.com/track/03Q35hLOZxZfqierYYtHSL)** by **Bladee, Yung Lean** *(Evil World)*
-🎤 **[Volt](https://open.spotify.com/track/2OakTFuAgwO1QMQJabMKBW)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[Yellowman](https://open.spotify.com/track/7t1EwP4B7X3gpSXIDjS68s)** by **Yung Lean** *(Stranger)*
-🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
-🎤 **[Fallen Demon](https://open.spotify.com/track/7oHFFLFlLnEtxnxAricfn3)** by **Yung Lean** *(Stranger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 16:38:13Z UTC
+🕐 Last updated: 2025-10-10 16:51:46Z UTC
 <!-- SPOTIFY-END -->
