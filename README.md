@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737435432dabe712a7ff47ed93" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2ca2d1eaba6c0eac0f33cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)**
-*by* **Yung Lean**
-*Album:* Poison Ivy
+**🎵 [King Cobra](https://open.spotify.com/track/0uOFnl7AMGFPSos3yXn4xj)**
+*by* **Yung Lean, Thaiboy Digital**
+*Album:* King Cobra
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:37 • 4:47
+    0:37 • 3:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sauron](https://open.spotify.com/track/0gzg7pr901slSMAIqdaFXz)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[trashy](https://open.spotify.com/track/1Ku0m3KnJorDNBuqRtoDtV)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[ropeman](https://open.spotify.com/track/4v2ORpetbyi3qkPn3U5NIW)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[silicon wings](https://open.spotify.com/track/3aCkYcMDHIPNyNaLpMJJNk)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[french hotel](https://open.spotify.com/track/2uVLxe1VOc8fmavW6JmPpV)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[Ghostface / Shyguy](https://open.spotify.com/track/0iZhN1fUMnRItb556z104i)** by **Yung Lean** *(Crash Bandicoot & Ghostface / Shyguy)*
+🎤 **[Crash Bandicoot](https://open.spotify.com/track/068UehaGseBEV5DjZP6z3d)** by **Yung Lean** *(Crash Bandicoot & Ghostface / Shyguy)*
+🎤 **[Like Me](https://open.spotify.com/track/40wHBxR5ShXJjx3DHfUU9C)** by **Lil Dude, Yung Lean** *(Like Me)*
+🎤 **[happy feet](https://open.spotify.com/track/5YbEg0h4vwqB0Q736qNv1a)** by **Yung Lean** *(happy feet)*
+🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 15:29:37Z UTC
+🕐 Last updated: 2025-10-10 15:40:32Z UTC
 <!-- SPOTIFY-END -->
