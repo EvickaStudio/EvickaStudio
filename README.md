@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273037414c25676d03b9e1293ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Lsd im Café - 1220 Edit](https://open.spotify.com/track/11jJmaiWmaviwAvFBf1dpv)**
-*by* **Kroka Koka**
-*Album:* Lsd im Café (1220 Edit)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="296" height="4" fill="#1db954" rx="2"/>
-    <circle cx="296" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 2:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[WAGWAN DELILAH](https://open.spotify.com/track/1uBWMyERE4B1eDhT6lLBfW)** by **Kroka Koka** *(WAGWAN DELILAH)*
-🎤 **[ToT](https://open.spotify.com/track/22XncoGs3v0uiW3bgvRjIx)** by **Kroka Koka, Adamn Killa** *(Vienna Videos)*
-🎤 **[Antifa (aja aja aja)](https://open.spotify.com/track/0pqZgQeW55bHaEcgl9YdHE)** by **Kroka Koka** *(wien city III)*
-🎤 **[HAWK TUAH](https://open.spotify.com/track/18FoGrN5wHPqXrVdMLSCDl)** by **Kroka Koka** *(HAWK TUAH)*
-🎤 **[/white/beatles/](https://open.spotify.com/track/1rNF0JNZm9vDbsSejtaxmW)** by **Kroka Koka** *(wien city II)*
+🎤 **[weRwhoweR](https://open.spotify.com/track/6ybAUBLaXksxzI7lHz6tyo)** by **joni75** *(Offline)*
+🎤 **[KRiEg](https://open.spotify.com/track/5phHNsuw4EjEIgwmwIsq3O)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[bangarang](https://open.spotify.com/track/0o9bPjK5UncyifcWmPrguf)** by **gard** *(bangarang)*
+🎤 **[Dagestan Dreams](https://open.spotify.com/track/2v9HT2AGKiS1zSFHlIWGr2)** by **Kroka Koka, LazyGod** *(Dagestan Dreams)*
+🎤 **[SISI//ERSTER TRACK](https://open.spotify.com/track/6DtDmA8KxNE6EqsnoLsddv)** by **Kroka Koka** *(pqyme)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 23:10:46Z UTC
+🕐 Last updated: 2025-10-10 23:25:16Z UTC
 <!-- SPOTIFY-END -->
