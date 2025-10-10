@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b2739d37996da279cfcdd2a82824" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [yayo girl aus paris](https://open.spotify.com/track/25JdAHibwGGLJGO0xtilEb)**
+**🎵 [junge römer (R.I.P Falco)](https://open.spotify.com/track/0Tdz24cbidJ4mSp6GuUOk6)**
 *by* **Kroka Koka**
 *Album:* Dagestan Dreams
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 1:17
+    1:18 • 1:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Helmut Lang](https://open.spotify.com/track/54Rgt1OzVAB7MMoGhe0h8B)** by **Kroka Koka** *(Helmut Lang)*
-🎤 **[B.O.R](https://open.spotify.com/track/4CPF1prDYSO1Iy14RQVq61)** by **Kroka Koka** *(wien city II)*
-🎤 **[ALABA](https://open.spotify.com/track/7r4juFauZAoz9Z0fnbsWHH)** by **Kroka Koka, Aachen Demon** *(Vindobona)*
-🎤 **[Schweigen ist Gold](https://open.spotify.com/track/0pE50WJh74v7YcRaFDFPfg)** by **mon€, Kroka Koka** *(Schweigen ist Gold)*
-🎤 **[dirty diana](https://open.spotify.com/track/3OC6pXsJfArEbh8DdkqXwG)** by **Kroka Koka** *(dirty diana)*
+🎤 **[unter mein spell](https://open.spotify.com/track/1o5Idkezlz4ciiNNTuK1Yr)** by **Kroka Koka** *(unter mein spell)*
+🎤 **[Zelda](https://open.spotify.com/track/29ctHNyrmG2gq7F2xhyLeO)** by **Kroka Koka** *(Vienna Videos)*
+🎤 **[Bitch Bitte](https://open.spotify.com/track/3rQ7F7j3aOiLDw20gQMWEp)** by **Kroka Koka, janaldo69** *(Dagestan Dreams)*
+🎤 **[Margiela](https://open.spotify.com/track/3nhQ4ZkChLPiXxiIVFvpd3)** by **Kroka Koka** *(Margiela)*
+🎤 **[Kava Kava](https://open.spotify.com/track/2JXHfmTLq2oIbq3i9NeAIq)** by **Kroka Koka** *(Vienna Videos)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 22:29:32Z UTC
+🕐 Last updated: 2025-10-10 22:39:38Z UTC
 <!-- SPOTIFY-END -->
