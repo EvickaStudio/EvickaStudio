@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b2737435432dabe712a7ff47ed93" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [french hotel](https://open.spotify.com/track/2uVLxe1VOc8fmavW6JmPpV)**
+**🎵 [bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)**
 *by* **Yung Lean**
 *Album:* Poison Ivy
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="2" height="4" fill="#1db954" rx="2"/>
-    <circle cx="2" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 2:24
+    4:37 • 4:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[happy feet](https://open.spotify.com/track/4Rgyi6KegeGDy64hXU49Nt)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[Red Velvet](https://open.spotify.com/track/3gbdObVQ0VAcM5BQTyuj71)** by **Bladee, Yung Lean** *(Red Velvet)*
-🎤 **[Creep Creeps](https://open.spotify.com/track/5S08kR3FwbtwTAsUlKND98)** by **Yung Lean** *(Creep Creeps)*
-🎤 **[Smirnoff Ice](https://open.spotify.com/track/0e1OE2pEor5kVTWBIs0nWX)** by **Yung Lean** *(Total Eclipse)*
-🎤 **[non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)** by **meat computer** *(non zen darkness manuever)*
+🎤 **[sauron](https://open.spotify.com/track/0gzg7pr901slSMAIqdaFXz)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[trashy](https://open.spotify.com/track/1Ku0m3KnJorDNBuqRtoDtV)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[ropeman](https://open.spotify.com/track/4v2ORpetbyi3qkPn3U5NIW)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[silicon wings](https://open.spotify.com/track/3aCkYcMDHIPNyNaLpMJJNk)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[french hotel](https://open.spotify.com/track/2uVLxe1VOc8fmavW6JmPpV)** by **Yung Lean** *(Poison Ivy)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 15:12:43Z UTC
+🕐 Last updated: 2025-10-10 15:29:37Z UTC
 <!-- SPOTIFY-END -->
