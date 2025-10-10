@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Last Friday Night](https://open.spotify.com/track/5MKhSKaCJruH3oQpiMyIo0)** by **sign crushes motorist** *(i'll be okay)*
 🎤 **[Pink Pony Club](https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
 🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
 🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
 🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 
 
 
@@ -133,12 +133,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
-🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
+🥇 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
+🥈 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🥉 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 11:47:47Z UTC
+🕐 Last updated: 2025-10-10 12:25:30Z UTC
 <!-- SPOTIFY-END -->
