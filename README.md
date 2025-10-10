@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735c1a46f9e4545c175af1aabc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273037414c25676d03b9e1293ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SEXY METHHEAD](https://open.spotify.com/track/1Wyflp1jsTb4m2vpG050PN)**
-*by* **Kroka Koka, KARL AMUR**
-*Album:* Vindobona
+**🎵 [Lsd im Café - 1220 Edit](https://open.spotify.com/track/11jJmaiWmaviwAvFBf1dpv)**
+*by* **Kroka Koka**
+*Album:* Lsd im Café (1220 Edit)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="78" height="4" fill="#1db954" rx="2"/>
-    <circle cx="78" cy="2" r="6" fill="#1db954"/>
+    <rect width="296" height="4" fill="#1db954" rx="2"/>
+    <circle cx="296" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:42
+    2:13 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[6th Grade](https://open.spotify.com/track/6DF8g7aLjPYkoVqfVPkE1n)** by **Kroka Koka** *(Vienna Videos)*
-🎤 **[nein ¥_¥ (Y.H) ¥_¥ nein](https://open.spotify.com/track/6zGo0pgbOltSR5OTCORQlr)** by **Kroka Koka** *(Dagestan Dreams)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[pinke schweine scheine](https://open.spotify.com/track/7EZOlL1jD0LjMdIFDKAKlC)** by **Kroka Koka** *(Vindobona)*
-🎤 **[herbstdepressiv](https://open.spotify.com/track/2uBSI6aLFonrKQzj3nslZH)** by **Kroka Koka** *(Vienna Videos)*
+🎤 **[WAGWAN DELILAH](https://open.spotify.com/track/1uBWMyERE4B1eDhT6lLBfW)** by **Kroka Koka** *(WAGWAN DELILAH)*
+🎤 **[ToT](https://open.spotify.com/track/22XncoGs3v0uiW3bgvRjIx)** by **Kroka Koka, Adamn Killa** *(Vienna Videos)*
+🎤 **[Antifa (aja aja aja)](https://open.spotify.com/track/0pqZgQeW55bHaEcgl9YdHE)** by **Kroka Koka** *(wien city III)*
+🎤 **[HAWK TUAH](https://open.spotify.com/track/18FoGrN5wHPqXrVdMLSCDl)** by **Kroka Koka** *(HAWK TUAH)*
+🎤 **[/white/beatles/](https://open.spotify.com/track/1rNF0JNZm9vDbsSejtaxmW)** by **Kroka Koka** *(wien city II)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 22:47:56Z UTC
+🕐 Last updated: 2025-10-10 23:10:46Z UTC
 <!-- SPOTIFY-END -->
