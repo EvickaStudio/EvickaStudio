@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27350f7489c303dcae4508b15ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27361064b032571008734f8810c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Red Cup](https://open.spotify.com/track/7fFytD41QcZsAj10RSwxoe)**
-*by* **Gud**
-*Album:* Red Cup
+**🎵 [Shawty U Know What It Do](https://open.spotify.com/track/6zFXuH8u1QzxBzsjq3Pd3s)**
+*by* **Yung Lean**
+*Album:* Warlord
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 3:10
+    1:37 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Come All Ye Fair and Tender Ladies](https://open.spotify.com/track/6rt1Ms7qHNkPLe7n85pLOR)** by **Elusin** *(SYNFUELS)*
-🎤 **[Redlights](https://open.spotify.com/track/5gDQgZ1RrcRAO2OS3dNEsc)** by **SALEM** *(King Night)*
-🎤 **[Truffle](https://open.spotify.com/track/1KK4FqMrCQ7USBIt8Aa7PR)** by **fakemink** *(Wild One)*
-🎤 **[Stay Down](https://open.spotify.com/track/4lFDTIXBfokNmCfsgSdXYa)** by **Yung Lean** *(Warlord)*
-🎤 **[Haters Broke](https://open.spotify.com/track/4OVUGP6prJ2kcZ8sxcqBk7)** by **Thaiboy Digital** *(Tiger)*
+🎤 **[Fullmoon](https://open.spotify.com/track/1T9YAGcs3K89PDZ3kD3YrG)** by **Dj Billybool** *(My Fantasy World)*
+🎤 **[Crisis](https://open.spotify.com/track/1BpAwVfNMyu5j1FP5ty3mi)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Crush](https://open.spotify.com/track/3RSeSeVmYBeCi4lolq6SJk)** by **fakemink, ok** *(Crush)*
+🎤 **[I'm Fresh](https://open.spotify.com/track/1ZLKCQL52y3T8jc2XWX80o)** by **Thaiboy Digital** *(I'm Fresh)*
+🎤 **[Oreomilkshake](https://open.spotify.com/track/7s2CpYr2U84BuQvs5p6ZSX)** by **Yung Lean** *(Lavender)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 20:31:31Z UTC
+🕐 Last updated: 2025-10-10 20:47:43Z UTC
 <!-- SPOTIFY-END -->
