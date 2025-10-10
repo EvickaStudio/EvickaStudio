@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f1fcdc10db2aa3ad1428fe1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kyoto](https://open.spotify.com/track/7vQ8hT2jlA6RhxI4ZxISVd)**
-*by* **Yung Lean**
-*Album:* Kyoto
+**🎵 [Not Much Of A Life](https://open.spotify.com/track/4wo6Mme2DqYRjWZgqrIYNr)**
+*by* **SALEM**
+*Album:* Fires In Heaven
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="141" height="4" fill="#1db954" rx="2"/>
-    <circle cx="141" cy="2" r="6" fill="#1db954"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 4:30
+    0:48 • 3:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ragebait](https://open.spotify.com/track/7vPOYVRdHZzTrAyamuRkuF)** by **fakemink** *(Ragebait)*
-🎤 **[Sick](https://open.spotify.com/track/0ikMOymaPMa8ipwiSZ2i2Z)** by **SALEM** *(King Night)*
-🎤 **[sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP)** by **2hollis** *(star)*
-🎤 **[Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w)** by **Buckshot, fakemink** *(Fever)*
-🎤 **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[Jug Man](https://open.spotify.com/track/30IjI92bKiSRk14bKqFI8b)** by **Adamn Killa, Drain Gang Archive** *(Jug Man)*
+🎤 **[Bite My Lip](https://open.spotify.com/track/4fd52Er7tHpi4oLqSaD4fA)** by **fakemink** *(Bite My Lip)*
+🎤 **[Gatorade](https://open.spotify.com/track/29HX60fuKaseu7cJopYBzQ)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Its Sad Boy (feat. Yung Lean)](https://open.spotify.com/track/4lPSvjdqCEqSngEv0LuihQ)** by **Gleesh, Yung Lean** *(Your Favorite Rapper's Favorite Rapper)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 18:17:58Z UTC
+🕐 Last updated: 2025-10-10 18:44:39Z UTC
 <!-- SPOTIFY-END -->
