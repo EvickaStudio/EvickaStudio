@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27361064b032571008734f8810c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e7f6575b55f38b5c949dfccd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shawty U Know What It Do](https://open.spotify.com/track/6zFXuH8u1QzxBzsjq3Pd3s)**
-*by* **Yung Lean**
-*Album:* Warlord
+**🎵 [Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)**
+*by* **smokedope2016, Nokia Angel**
+*Album:* Sleep
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 2:10
+    2:07 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fullmoon](https://open.spotify.com/track/1T9YAGcs3K89PDZ3kD3YrG)** by **Dj Billybool** *(My Fantasy World)*
-🎤 **[Crisis](https://open.spotify.com/track/1BpAwVfNMyu5j1FP5ty3mi)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Crush](https://open.spotify.com/track/3RSeSeVmYBeCi4lolq6SJk)** by **fakemink, ok** *(Crush)*
-🎤 **[I'm Fresh](https://open.spotify.com/track/1ZLKCQL52y3T8jc2XWX80o)** by **Thaiboy Digital** *(I'm Fresh)*
-🎤 **[Oreomilkshake](https://open.spotify.com/track/7s2CpYr2U84BuQvs5p6ZSX)** by **Yung Lean** *(Lavender)*
+🎤 **[Climbing](https://open.spotify.com/track/6cxXYYFH52VPip8VW9FU39)** by **Thaiboy Digital** *(D&G)*
+🎤 **[Ghosttown](https://open.spotify.com/track/7l26dZs9DhSf8xyJ7NxbuP)** by **Yung Lean, Travis Scott** *(Unknown Memory)*
+🎤 **[Tair](https://open.spotify.com/track/5RlZdry57PQvFX89pHYHmz)** by **SALEM** *(King Night)*
+🎤 **[Kill Everything](https://open.spotify.com/track/0MPhcfGfHPlHu2GNspRXdO)** by **fakemink** *(London's Saviour)*
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 20:47:43Z UTC
+🕐 Last updated: 2025-10-10 21:10:47Z UTC
 <!-- SPOTIFY-END -->
