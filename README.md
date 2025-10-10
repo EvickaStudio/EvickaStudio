@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735b4eaf68252dae2c673c03fd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739f1fcdc10db2aa3ad1428fe1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [carwash](https://open.spotify.com/track/7JSqpmMi2mljJNtqUj5qKG)**
-*by* **kacperdg**
-*Album:* carwash
+**🎵 [Kyoto](https://open.spotify.com/track/7vQ8hT2jlA6RhxI4ZxISVd)**
+*by* **Yung Lean**
+*Album:* Kyoto
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="141" height="4" fill="#1db954" rx="2"/>
+    <circle cx="141" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 2:55
+    2:06 • 4:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Last Party](https://open.spotify.com/track/5IAHJ6tpXeVvaLrwV0wmlT)** by **Nokia Angel** *(In Haze)*
-🎤 **[girl](https://open.spotify.com/track/3vMMqHjTyukdNcIVvzka2c)** by **2hollis** *(star)*
-🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Sunrise Angel](https://open.spotify.com/track/5CeO4v15n9ffbBv9dcWBWP)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[Gotham City](https://open.spotify.com/track/6Lmz74wEY6YdAb8cTAH8EK)** by **Bladee, Yung Lean** *(Gotham City)*
+🎤 **[Ragebait](https://open.spotify.com/track/7vPOYVRdHZzTrAyamuRkuF)** by **fakemink** *(Ragebait)*
+🎤 **[Sick](https://open.spotify.com/track/0ikMOymaPMa8ipwiSZ2i2Z)** by **SALEM** *(King Night)*
+🎤 **[sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP)** by **2hollis** *(star)*
+🎤 **[Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w)** by **Buckshot, fakemink** *(Fever)*
+🎤 **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by **Yung Lean** *(Unknown Memory)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 17:47:42Z UTC
+🕐 Last updated: 2025-10-10 18:17:58Z UTC
 <!-- SPOTIFY-END -->
