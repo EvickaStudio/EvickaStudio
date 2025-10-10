@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735c1a46f9e4545c175af1aabc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d37996da279cfcdd2a82824" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ginseng Glock 05](https://open.spotify.com/track/4hhhjjtbiClKeaYd77Y5tJ)**
+**🎵 [yayo girl aus paris](https://open.spotify.com/track/25JdAHibwGGLJGO0xtilEb)**
 *by* **Kroka Koka**
-*Album:* Vindobona
+*Album:* Dagestan Dreams
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:21
+    1:06 • 1:17
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[OVER THE HILLS](https://open.spotify.com/track/65WRWvaBjrem841mjVxE9N)** by **Buckshot, oscar18** *(OVER THE HILLS)*
-🎤 **[Music and Me](https://open.spotify.com/track/23c1TrkpPPYOcJT6DYRRPH)** by **fakemink** *(Music and Me)*
-🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[DAMN GUD SHAWTY](https://open.spotify.com/track/5X7hGE3MnkOurmKpJ19fpl)** by **june** *(DAMN GUD SHAWTY)*
-🎤 **[ICE BOY](https://open.spotify.com/track/160JZkJcNYmBrm0jK57fGG)** by **Corbin** *(Mourn)*
+🎤 **[Helmut Lang](https://open.spotify.com/track/54Rgt1OzVAB7MMoGhe0h8B)** by **Kroka Koka** *(Helmut Lang)*
+🎤 **[B.O.R](https://open.spotify.com/track/4CPF1prDYSO1Iy14RQVq61)** by **Kroka Koka** *(wien city II)*
+🎤 **[ALABA](https://open.spotify.com/track/7r4juFauZAoz9Z0fnbsWHH)** by **Kroka Koka, Aachen Demon** *(Vindobona)*
+🎤 **[Schweigen ist Gold](https://open.spotify.com/track/0pE50WJh74v7YcRaFDFPfg)** by **mon€, Kroka Koka** *(Schweigen ist Gold)*
+🎤 **[dirty diana](https://open.spotify.com/track/3OC6pXsJfArEbh8DdkqXwG)** by **Kroka Koka** *(dirty diana)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 22:10:56Z UTC
+🕐 Last updated: 2025-10-10 22:29:32Z UTC
 <!-- SPOTIFY-END -->
