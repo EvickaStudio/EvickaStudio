@@ -137,8 +137,8 @@
 🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
 🥉 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
-🏅 [**Wie sehr tut es weh?**](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)
+🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 08:16:56Z UTC
+🕐 Last updated: 2025-10-10 08:43:23Z UTC
 <!-- SPOTIFY-END -->
