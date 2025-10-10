@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273543533e92a8a336dee9e9bd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Red Bottom Sky](https://open.spotify.com/track/7wgnq5xJ4elWgKBASBKbZt)**
+**🎵 [Iceman](https://open.spotify.com/track/4XGB5Yz6Sls0zkHp81Cng8)**
 *by* **Yung Lean**
 *Album:* Stranger
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="143" height="4" fill="#1db954" rx="2"/>
-    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 5:03
+    0:52 • 3:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Muddy Sea](https://open.spotify.com/track/5q7k1qYCqp2PeGIdSF8pNm)** by **Yung Lean** *(Stranger)*
-🎤 **[King Cobra](https://open.spotify.com/track/0uOFnl7AMGFPSos3yXn4xj)** by **Yung Lean, Thaiboy Digital** *(King Cobra)*
-🎤 **[Ghostface / Shyguy](https://open.spotify.com/track/0iZhN1fUMnRItb556z104i)** by **Yung Lean** *(Crash Bandicoot & Ghostface / Shyguy)*
-🎤 **[Crash Bandicoot](https://open.spotify.com/track/068UehaGseBEV5DjZP6z3d)** by **Yung Lean** *(Crash Bandicoot & Ghostface / Shyguy)*
-🎤 **[Like Me](https://open.spotify.com/track/40wHBxR5ShXJjx3DHfUU9C)** by **Lil Dude, Yung Lean** *(Like Me)*
+🎤 **[Hunting My Own Skin](https://open.spotify.com/track/6tMADLSvCCOfF72Vyz1yKj)** by **Yung Lean** *(Stranger)*
+🎤 **[Drop It / Scooter](https://open.spotify.com/track/4SpZWbQDE4R2r6gvAhksDN)** by **Yung Lean** *(Stranger)*
+🎤 **[Salute / Pacman](https://open.spotify.com/track/0ivBN4xcbS9BbfOKwaWGOU)** by **Yung Lean** *(Stranger)*
+🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
+🎤 **[Metallic Intuition](https://open.spotify.com/track/661Yph8HyRrESFvhDZbatC)** by **Yung Lean** *(Stranger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 15:48:21Z UTC
+🕐 Last updated: 2025-10-10 16:15:11Z UTC
 <!-- SPOTIFY-END -->
