@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273686a92fb6439c1c63b98dbeb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)**
-*by* **SALEM**
-*Album:* Fires In Heaven
+**🎵 [Cherry Bracelets](https://open.spotify.com/track/3c3P9O9ThVaIK9f1ksJDM5)**
+*by* **Bladee, Yung Lean, Ecco2k**
+*Album:* Working on Dying
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="86" height="4" fill="#1db954" rx="2"/>
+    <circle cx="86" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:56
+    0:51 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Miami Ultras](https://open.spotify.com/track/7vb0J4M6dZNE7ZvtvMDlCK)** by **Yung Lean** *(Warlord)*
-🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[Gnarly](https://open.spotify.com/track/6MRlnQdCLk8BCI57CQCJCQ)** by **smokedope2016** *(THE PEAK)*
-🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
-🎤 **[Evil World](https://open.spotify.com/track/03Q35hLOZxZfqierYYtHSL)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[Fires In Heaven](https://open.spotify.com/track/5hg3OaB6PToSJ2FKyZHKBC)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Fade Away](https://open.spotify.com/track/1fVfn3pILGUAQeaBqTi8pF)** by **Nokia Angel** *(In Haze)*
+🎤 **[Blinded](https://open.spotify.com/track/1I3RPlk7xfczUl2Tb1Maas)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
+🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
 
 
 
@@ -153,11 +153,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🥈 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
-🥉 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🥈 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🥉 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 16:51:46Z UTC
+🕐 Last updated: 2025-10-10 17:11:23Z UTC
 <!-- SPOTIFY-END -->
