@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735fed9b66d78d8dcda05533e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [TGIF](https://open.spotify.com/track/6uj3k8Asw6Xwvn9pIpEGMs)**
-*by* **Lunaa**
-*Album:* TGIF
+**🎵 [ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)**
+*by* **leander, ilyproxy, Hadesthegrim**
+*Album:* GV Magazin: Deluxe Sex
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 2:38
+    0:41 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
+🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
 🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48** *(change us)*
-🎤 **[under those jeans](https://open.spotify.com/track/2I01Iy3PTew42JaLNl6NBK)** by **RudeClub** *(rudeclub)*
-🎤 **[change me](https://open.spotify.com/track/7mt1CRwd1PwGVliUGgyTYT)** by **RudeClub** *(rudeclub)*
-🎤 **[hell of a guy](https://open.spotify.com/track/3Pb7URzcajLh4CoblZ38Fg)** by **RudeClub** *(rudeclub)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 11:25:17Z UTC
+🕐 Last updated: 2025-10-10 11:34:03Z UTC
 <!-- SPOTIFY-END -->
