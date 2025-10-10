@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d44f8c38da1697592604c3c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735c1a46f9e4545c175af1aabc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The World Needs Change](https://open.spotify.com/track/6dPgd8QtZKozuh725mZbXw)**
-*by* **Clams Casino**
-*Album:* Instrumentals
+**🎵 [Ginseng Glock 05](https://open.spotify.com/track/4hhhjjtbiClKeaYd77Y5tJ)**
+*by* **Kroka Koka**
+*Album:* Vindobona
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 2:25
+    2:16 • 2:21
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Af1s](https://open.spotify.com/track/6TD7pqep7YjGK9OcPm4lcQ)** by **Yung Lean, Ecco2k** *(Warlord (Deluxe))*
-🎤 **[Wrong](https://open.spotify.com/track/2aIphPMmqU5wKKvohygYXG)** by **Thaiboy Digital** *(D&G)*
-🎤 **[Snapback 90′S Nigga (Rare) [R.I.P. Eazy E! Bring Back the 90′S]](https://open.spotify.com/track/2fR5nWBUBKIl2HAhYS8ivS)** by **SpaceGhostPurrp** *(Nasa Gang (Remastered))*
-🎤 **[PillowFight](https://open.spotify.com/track/6UumK9cxNHOXOLu9p1zGGR)** by **fakemink, ok** *(PillowFight)*
-🎤 **[Don't Want](https://open.spotify.com/track/4HQROPOufkSera6BJ5ZbAf)** by **Adamn Killa, Drain Gang Archive** *(Don't Want)*
+🎤 **[OVER THE HILLS](https://open.spotify.com/track/65WRWvaBjrem841mjVxE9N)** by **Buckshot, oscar18** *(OVER THE HILLS)*
+🎤 **[Music and Me](https://open.spotify.com/track/23c1TrkpPPYOcJT6DYRRPH)** by **fakemink** *(Music and Me)*
+🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[DAMN GUD SHAWTY](https://open.spotify.com/track/5X7hGE3MnkOurmKpJ19fpl)** by **june** *(DAMN GUD SHAWTY)*
+🎤 **[ICE BOY](https://open.spotify.com/track/160JZkJcNYmBrm0jK57fGG)** by **Corbin** *(Mourn)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-10 21:48:00Z UTC
+🕐 Last updated: 2025-10-10 22:10:56Z UTC
 <!-- SPOTIFY-END -->
