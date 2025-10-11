@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273574967fad5474fb67bd884d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)**
+*by* **PinkPantheress, Bladee**
+*Album:* Stateside + Bladee
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:35 • 2:28
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)** by **PinkPantheress, Bladee** *(Fancy Some More?)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)** by **PinkPantheress, Bladee** *(Fancy Some More?)*
 🎤 **[mrdr](https://open.spotify.com/track/4ZTzn8Fwahd2xOKVewv6nr)** by **GERO** *(mrdr)*
-🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
-🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
-🎤 **[Wieso bist du nicht da](https://open.spotify.com/track/1IWu6NnBEjtmK5jOfUPFEF)** by **ArniTheSavage** *(Wieso bist du nicht da)*
-🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 10:47:47Z UTC
+🕐 Last updated: 2025-10-11 11:09:20Z UTC
 <!-- SPOTIFY-END -->
