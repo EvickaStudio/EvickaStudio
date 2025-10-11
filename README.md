@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369aacce2fd43d8c72ddcdcd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737603a201836888cb5f33a2c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)**
-*by* **luu, Skatey Hellstar, chromey**
-*Album:* HYPERCORE, Vol. 3
+**🎵 [superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)**
+*by* **ilyproxy, leander, Hadesthegrim, eversonder**
+*Album:* superswag pt. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:25 • 2:28
+    1:30 • 2:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[brainsexe](https://open.spotify.com/track/5R0hjmiFTjjpFnzUDPzx5f)** by **elctrnc/sed:/, 57st, 444pluto** *(brainsexe)*
-🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
-🎤 **[Dovolj](https://open.spotify.com/track/7uSuxEeAMJuICaI0fDge36)** by **Nomark** *(Trenutek)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[spazzkitty](https://open.spotify.com/track/1KgAh9fbqabVdu0Hbx0KVQ)** by **emorave, syris** *(evergrace)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
+🎤 **[ROCk DAYs](https://open.spotify.com/track/17vUtB9CGZ9nTZ2uQamjOP)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 20:47:33Z UTC
+🕐 Last updated: 2025-10-11 21:09:34Z UTC
 <!-- SPOTIFY-END -->
