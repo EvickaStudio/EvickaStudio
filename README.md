@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b88ff6637a83f870d255e0ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)**
-*by* **The Truth**
-*Album:* U.S.T
+**🎵 [remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)**
+*by* **Senses, mint, Nightclub20xx**
+*Album:* remedy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="24" height="4" fill="#1db954" rx="2"/>
-    <circle cx="24" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 4:01
+    2:25 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)*
-🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 13:17:48Z UTC
+🕐 Last updated: 2025-10-11 13:34:59Z UTC
 <!-- SPOTIFY-END -->
