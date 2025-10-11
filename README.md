@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eaeaa48d074aa75bc6b4bd55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b2e92d7552fb7090479849aa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wrong turn](https://open.spotify.com/track/70puKq2FImamJxEwNfhDZu)**
-*by* **willowcore, buyok, Nosgov**
-*Album:* wrong turn
+**🎵 [Vampire Bae](https://open.spotify.com/track/3YuxxmGGvZHvDpTQJw5jlH)**
+*by* **ronin, FanBoy808**
+*Album:* Vampire Bae
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:49 • 2:02
+    1:57 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[Bedak :D](https://open.spotify.com/track/5TNZRkMMdOZcqX0CU6naY7)** by **Nomark** *(Bedak :D)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[Rave All Night](https://open.spotify.com/track/3sAk56blTIq5vJrO9t7QhG)** by **kmrnxo, pink luu** *(Rave All Night)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 20:12:09Z UTC
+🕐 Last updated: 2025-10-11 20:27:46Z UTC
 <!-- SPOTIFY-END -->
