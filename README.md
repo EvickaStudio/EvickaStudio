@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27367c70f1c8f8f06292bf4fef9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)**
-*by* **Yung Lean**
-*Album:* Unknown Death 2002
+**🎵 [In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)**
+*by* **Pink Katana**
+*Album:* In mein Herz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+    <rect width="7" height="4" fill="#1db954" rx="2"/>
+    <circle cx="7" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:46 • 4:07
+    0:03 • 2:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[weRwhoweR](https://open.spotify.com/track/6ybAUBLaXksxzI7lHz6tyo)** by **joni75** *(Offline)*
-🎤 **[KRiEg](https://open.spotify.com/track/5phHNsuw4EjEIgwmwIsq3O)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[bangarang](https://open.spotify.com/track/0o9bPjK5UncyifcWmPrguf)** by **gard** *(bangarang)*
-🎤 **[Dagestan Dreams](https://open.spotify.com/track/2v9HT2AGKiS1zSFHlIWGr2)** by **Kroka Koka, LazyGod** *(Dagestan Dreams)*
-🎤 **[SISI//ERSTER TRACK](https://open.spotify.com/track/6DtDmA8KxNE6EqsnoLsddv)** by **Kroka Koka** *(pqyme)*
+🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
+🎤 **[Wieso bist du nicht da](https://open.spotify.com/track/1IWu6NnBEjtmK5jOfUPFEF)** by **ArniTheSavage** *(Wieso bist du nicht da)*
+🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
+🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 08:33:18Z UTC
+🕐 Last updated: 2025-10-11 08:48:23Z UTC
 <!-- SPOTIFY-END -->
