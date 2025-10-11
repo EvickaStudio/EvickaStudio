@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[mrdr](https://open.spotify.com/track/4ZTzn8Fwahd2xOKVewv6nr)** by **GERO** *(mrdr)*
 🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
 🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
 🎤 **[Wieso bist du nicht da](https://open.spotify.com/track/1IWu6NnBEjtmK5jOfUPFEF)** by **ArniTheSavage** *(Wieso bist du nicht da)*
 🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 10:40:11Z UTC
+🕐 Last updated: 2025-10-11 10:47:47Z UTC
 <!-- SPOTIFY-END -->
