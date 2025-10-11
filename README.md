@@ -107,7 +107,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)**
+*by* **Yung Lean**
+*Album:* Unknown Death 2002
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:46 • 4:07
+</span>
+</p>
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 08:14:16Z UTC
+🕐 Last updated: 2025-10-11 08:33:18Z UTC
 <!-- SPOTIFY-END -->
