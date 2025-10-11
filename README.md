@@ -107,7 +107,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t)**
+*by* **Joji**
+*Album:* SMITHEREENS
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:38 • 3:31
+</span>
+</p>
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-11 19:20:51Z UTC
+🕐 Last updated: 2025-10-11 19:33:29Z UTC
 <!-- SPOTIFY-END -->
