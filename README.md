@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3b638147de6a521a5d65950" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733aed227447315c04fcd0ab8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)**
-*by* **ilyproxy, leander, Hadesthegrim, eversonder**
-*Album:* 2016
+**🎵 [SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)**
+*by* **temcandoanything, 16:9 krollo ✥**
+*Album:* SCARY MONSTERZ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 3:26
+    1:03 • 3:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[witch](https://open.spotify.com/track/0pUlQ6gIK7zXWNpbb00rCf)** by **joni75, FiggDasGeld** *(witch)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
-🎤 **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)*
-🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[molly in my backpack](https://open.spotify.com/track/6z6AWfubfdQob1F7bnJ8Ep)** by **kets4eki, Crescent, wujek** *(molly in my backpack)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[used 2 rule the club](https://open.spotify.com/track/5tqW3TRLvInoZWN98sjjhj)** by **hateoryx, Pawl4k** *(used 2 rule the club)*
 
 
 
@@ -152,12 +152,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
-🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
+🥇 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
+🥈 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥉 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 17:09:45Z UTC
+🕐 Last updated: 2025-10-12 17:25:52Z UTC
 <!-- SPOTIFY-END -->
