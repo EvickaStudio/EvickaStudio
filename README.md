@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734d6700ddce0bf438c5459496" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f200ff5b75ad43c4eda4ff94" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)**
-*by* **Iuvumi**
-*Album:* crushing ice
+**🎵 [reject](https://open.spotify.com/track/0olauCqHK4AdNe14qUxpdS)**
+*by* **Scarly**
+*Album:* reject
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="297" height="4" fill="#1db954" rx="2"/>
-    <circle cx="297" cy="2" r="6" fill="#1db954"/>
+    <rect width="194" height="4" fill="#1db954" rx="2"/>
+    <circle cx="194" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 1:56
+    1:41 • 2:36
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
-🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[bad](https://open.spotify.com/track/4SAYQDmjthW86CQyOTDPkR)** by **flywoah** *(bad)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[bloodstainz](https://open.spotify.com/track/52vpmVpGvbAIKQEaiCodZW)** by **pichu** *(bloodstainz)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[SECRET](https://open.spotify.com/track/2SV6AwaiWErWsoicjxiuyD)** by **xandera, GØTHBØYBABY** *(SECRET)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 19:21:47Z UTC
+🕐 Last updated: 2025-10-12 19:33:58Z UTC
 <!-- SPOTIFY-END -->
