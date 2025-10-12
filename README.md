@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee899f14f585135b51078379" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aac8f690eb8be4edaf21ef6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pillow](https://open.spotify.com/track/67MgTMek2gp1w7dJJ6cBgk)**
-*by* **Soothing Oasis**
-*Album:* Sleep Well
+**🎵 [Peeking Through](https://open.spotify.com/track/2pS316eadABbkZZIhERQbE)**
+*by* **Avery's Ambient**
+*Album:* Awakening Earth
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:06
+    1:07 • 2:11
 </span>
 </p>
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 21:24:25Z UTC
+🕐 Last updated: 2025-10-12 21:33:30Z UTC
 <!-- SPOTIFY-END -->
