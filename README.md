@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b78b5d3183766f1c530c308e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346594fcee9980ab828135f7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Over the Hills](https://open.spotify.com/track/3HvWaZsR3MitejkGX9J2QA)**
-*by* **Soothing Oasis**
-*Album:* Through the Valley
+**🎵 [Zen](https://open.spotify.com/track/00w36KjjTPvpO9zb4CuIHo)**
+*by* **Avery's Ambient**
+*Album:* A New Day
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:09
+    0:55 • 2:04
 </span>
 </p>
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 22:28:51Z UTC
+🕐 Last updated: 2025-10-12 22:38:53Z UTC
 <!-- SPOTIFY-END -->
