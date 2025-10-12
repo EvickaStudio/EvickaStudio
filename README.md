@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27371d9f4d7b44720731761717e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27322bd9de3d387c4b8a66ebba9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)**
-*by* **5v, mint, inssekt**
-*Album:* last chance
+**🎵 [stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)**
+*by* **mint**
+*Album:* stay with me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="181" height="4" fill="#1db954" rx="2"/>
-    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+    <rect width="250" height="4" fill="#1db954" rx="2"/>
+    <circle cx="250" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:17
+    2:21 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
-🎤 **[Midnight](https://open.spotify.com/track/1DRuwPQdKeB6VHyk5pEsoK)** by **RudeClub** *(Midnight)*
-🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
-🎤 **[dumb filler song](https://open.spotify.com/track/0Re6JRyTEsKtIsu7CXUL0o)** by **elctrnc/sed:/, OrtoxOne** *(dumb filler song)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luu, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
+🎤 **[take your breath](https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ)** by **RudeClub** *(rudeclub)*
+🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
+🎤 **[only hope](https://open.spotify.com/track/25XLvjpQbtQMlIBne267Qa)** by **Fijimar** *(only hope)*
+🎤 **[next time](https://open.spotify.com/track/71F1QgHn7275Wp5FRSI9dW)** by **bliiiss, Buffalobang** *(next time)*
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 13:35:22Z UTC
+🕐 Last updated: 2025-10-12 13:47:50Z UTC
 <!-- SPOTIFY-END -->
