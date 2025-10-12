@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739112bde6d28101142df7f3c8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735113ba62ac0faef9ec3df6c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)**
-*by* **Peake**
-*Album:* Forever the Sickest Rose
+**🎵 [1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)**
+*by* **pink luu, cxpyyy, luu**
+*Album:* 1234
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 1:42
+    0:33 • 1:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[ants](https://open.spotify.com/track/0dUKXrr1KJeIoJZLo3szCQ)** by **nami** *(ants)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 11:09:19Z UTC
+🕐 Last updated: 2025-10-12 11:21:54Z UTC
 <!-- SPOTIFY-END -->
