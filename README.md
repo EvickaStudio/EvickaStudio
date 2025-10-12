@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cbbd2d7e2070b069872dfda" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [traced around](https://open.spotify.com/track/0TVgzQkriSEYeVRwXZwkiu)**
-*by* **4rde, luu, corpse disposal**
-*Album:* traced around
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
-🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
-🎤 **[up N down](https://open.spotify.com/track/7AWactzb7HtV46H7jVK4ql)** by **luu, skypebf, cxpyyy** *(up N down)*
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[TURNING UP!](https://open.spotify.com/track/7i25wnZJUTe3QBUpmhgUdL)** by **hateoryx, Pawl4k** *(TURNING UP!)*
+🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
+🎤 **[SORE *:･ﾟ✧*:･ﾟ✧](https://open.spotify.com/track/5u01A8RYLKs7nF4rHWqCqv)** by **dethkitty** *(SORE *:･ﾟ✧*:･ﾟ✧)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[mindset](https://open.spotify.com/track/1Sj7QiZpRtqSG6u35xhGCy)** by **pichu** *(mindset)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 12:21:25Z UTC
+🕐 Last updated: 2025-10-12 12:56:10Z UTC
 <!-- SPOTIFY-END -->
