@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d2b382c8096f4bdeceedcd0f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273574967fad5474fb67bd884d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)**
+**🎵 [Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)**
 *by* **PinkPantheress, Bladee**
-*Album:* Fancy Some More?
+*Album:* Stateside + Bladee
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="156" height="4" fill="#1db954" rx="2"/>
+    <circle cx="156" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:25 • 2:28
+    1:17 • 2:28
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)** by **PinkPantheress, Bladee** *(Fancy Some More?)*
 🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
-🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[spazzkitty](https://open.spotify.com/track/1KgAh9fbqabVdu0Hbx0KVQ)** by **emorave, syris** *(evergrace)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 07:10:46Z UTC
+🕐 Last updated: 2025-10-12 07:24:37Z UTC
 <!-- SPOTIFY-END -->
