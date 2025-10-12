@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)**
-*by* **Thaiboy Digital, Yung Lean**
-*Album:* Tiger
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:03 • 5:25
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
 🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
 🎤 **[Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)** by **PinkPantheress, Bladee** *(Fancy Some More?)*
 🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
 🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
-🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 23:10:43Z UTC
+🕐 Last updated: 2025-10-12 23:25:09Z UTC
 <!-- SPOTIFY-END -->
