@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a788093a6aa454485248f86" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735cba2dbd9ce5c0e779ebd366" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)**
-*by* **Senses, Nightclub20xx**
-*Album:* test subject
+**🎵 [bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)**
+*by* **5v, Odece**
+*Album:* bodyguard
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="0" height="4" fill="#1db954" rx="2"/>
-    <circle cx="0" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:00 • 2:57
+    0:07 • 1:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
-🎤 **[blue :/](https://open.spotify.com/track/53lGwVRP7S3yaMJKFlKtXH)** by **Nomark, Pr0xy** *(blue :/)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[connection](https://open.spotify.com/track/3r9cRdSmn0gKTr0KbdNKSt)** by **roxxy** *(connection)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 10:29:54Z UTC
+🕐 Last updated: 2025-10-12 10:40:10Z UTC
 <!-- SPOTIFY-END -->
