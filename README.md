@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27363a6cced57677dd3fa588edd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739434f0780f93b2553aa8af20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)**
-*by* **flywoah**
-*Album:* Don't Give Up
+**🎵 [freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)**
+*by* **pink luu, nami, cxpyyy, luu**
+*Album:* freitag nacht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 1:56
+    1:33 • 1:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[u were the one](https://open.spotify.com/track/0eVU9vIijucrHFVvD4QtgM)** by **hateoryx, elctrnc/sed:/, willowcore, Pawl4k** *(u were the one)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[serpents](https://open.spotify.com/track/3EpVWVHYIF0xx0JyUCbDh4)** by **willowcore, bloodonmybalmains, 8t33n** *(serpents)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
 
 
 
@@ -152,12 +152,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🥈 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
 🥉 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 15:47:30Z UTC
+🕐 Last updated: 2025-10-12 16:12:59Z UTC
 <!-- SPOTIFY-END -->
