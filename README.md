@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735cba2dbd9ce5c0e779ebd366" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27397f77dd83347bf87ac64558b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)**
-*by* **5v, Odece**
-*Album:* bodyguard
+**🎵 [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* Schnuffel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 1:29
+    0:54 • 3:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[frieza (ka33)](https://open.spotify.com/track/0RFWM3pwbdcfxCWacQ6VES)** by **agelast222** *(frieza (ka33))*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
 🎤 **[connection](https://open.spotify.com/track/3r9cRdSmn0gKTr0KbdNKSt)** by **roxxy** *(connection)*
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[test subject](https://open.spotify.com/track/1h4QzRgmjpGXwlU8iaENci)** by **Senses, Nightclub20xx** *(test subject)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 10:40:10Z UTC
+🕐 Last updated: 2025-10-12 10:47:51Z UTC
 <!-- SPOTIFY-END -->
