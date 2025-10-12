@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735113ba62ac0faef9ec3df6c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c01f11ce57d77570fc6fa59" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)**
-*by* **pink luu, cxpyyy, luu**
-*Album:* 1234
+**🎵 [arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)**
+*by* **luu, cy4ne**
+*Album:* arschloch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 1:30
+    1:04 • 1:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
-🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
-🎤 **[ants](https://open.spotify.com/track/0dUKXrr1KJeIoJZLo3szCQ)** by **nami** *(ants)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Stay the night](https://open.spotify.com/track/3WPD16sWPWaqq1eSM11HtR)** by **Nomark** *(Stay the night)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[thank u soo much ^_^](https://open.spotify.com/track/5qSAmFmhlcEEpDRpeGQf0H)** by **oaf1** *(thank u soo much ^_^)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 11:21:54Z UTC
+🕐 Last updated: 2025-10-12 11:34:24Z UTC
 <!-- SPOTIFY-END -->
