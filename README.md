@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f200ff5b75ad43c4eda4ff94" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273272190e0bd840815f07b70a1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [reject](https://open.spotify.com/track/0olauCqHK4AdNe14qUxpdS)**
-*by* **Scarly**
-*Album:* reject
+**🎵 [u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)**
+*by* **mint, Nightclub20xx**
+*Album:* u don't mean to
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="27" height="4" fill="#1db954" rx="2"/>
+    <circle cx="27" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 2:36
+    0:13 • 2:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[bloodstainz](https://open.spotify.com/track/52vpmVpGvbAIKQEaiCodZW)** by **pichu** *(bloodstainz)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[SECRET](https://open.spotify.com/track/2SV6AwaiWErWsoicjxiuyD)** by **xandera, GØTHBØYBABY** *(SECRET)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[BREAKDOWN PALACE](https://open.spotify.com/track/7d3qGvPsVqDxQ20t0QRP8v)** by **Mobezzy, SlushhKitten** *(XBX)*
+🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[lichter](https://open.spotify.com/track/1XirZNhWH46wH60TL2tSnb)** by **ilyproxy, Hadesthegrim** *(lichter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-12 19:33:58Z UTC
+🕐 Last updated: 2025-10-12 19:47:49Z UTC
 <!-- SPOTIFY-END -->
