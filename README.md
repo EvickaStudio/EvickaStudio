@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5ed1bb496dc5efadd869aa0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [OYASUMI SAIDO](https://open.spotify.com/track/7496oaI8tsq3gji9V8OVJk)**
-*by* **Pisca**
-*Album:* OYASUMI SAIDO
+**🎵 [Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)**
+*by* **Pastel Ghost**
+*Album:* Abyss
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="37" height="4" fill="#1db954" rx="2"/>
+    <circle cx="37" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 5:20
+    0:30 • 4:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Step in the brakes](https://open.spotify.com/track/0Ik3up6SYrrODkxSlsPnpA)** by **Wido, twikipedia** *(Field Day)*
-🎤 **[Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS)** by **Seyi Vibez** *(Loseyi Professor)*
-🎤 **[99 (feat. Daecolm)](https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab)** by **Olamide, Seyi Vibez, Asake, Young Jonn, Daecolm** *(Olamidé)*
-🎤 **[Dangbana Riddim](https://open.spotify.com/track/1a9TV9miedFJbf7v2WMbSa)** by **Bella Shmurda, FOLA** *(Sanity)*
-🎤 **[BANZA BOY](https://open.spotify.com/track/5DWDWcfNDomvKOOWwupEDX)** by **ODUMODUBLVCK** *(INDUSTRY MACHINE)*
+🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
+🎤 **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)*
+🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
+🎤 **[Bounce to this!!!!!!](https://open.spotify.com/track/0XRo7Rh1rzVMbDEB1Gd3y3)** by **#ff85f7** *(Agony)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 20:31:35Z UTC
+🕐 Last updated: 2025-10-13 20:47:25Z UTC
 <!-- SPOTIFY-END -->
