@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)**
+*by* **Michael Jackson**
+*Album:* HIStory - PAST, PRESENT AND FUTURE - BOOK I
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:56 • 5:19
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[The Girls](https://open.spotify.com/track/6qtTjd9flEojIS9sXpX72Y)** by **Calvin Harris** *(I Created Disco)*
-🎤 **[Romeo](https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr)** by **Basement Jaxx** *(Rooty)*
-🎤 **[sportback](https://open.spotify.com/track/1QQSY49KKATkK00zCnn7bs)** by **Pashanim** *(junge ceos 2)*
-🎤 **[Fantasy](https://open.spotify.com/track/6o2Yj3Usc7tfNW9XJQy6eB)** by **Breakbot, Ruckazoid** *(By Your Side)*
-🎤 **[CURIOUS (feat. Toro y Moi)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB)** by **Sam Gellaitry, Toro y Moi** *(CURIOUS (feat. Toro y Moi))*
+🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
+🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
+🎤 **[Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ)** by **Shimza, AR/CO, Kasango** *(Fire Fire)*
+🎤 **[Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ)** by **Shimza, AR/CO, Kasango** *(Fire Fire)*
+🎤 **[Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog)** by **Alex Wann, Malachiii, bees & honey** *(Moon)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 15:48:03Z UTC
+🕐 Last updated: 2025-10-13 16:14:58Z UTC
 <!-- SPOTIFY-END -->
