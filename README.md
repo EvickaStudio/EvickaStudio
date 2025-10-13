@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lil Maria](https://open.spotify.com/track/71fdBQ3BuPyeS3UJWPXfZt)**
+**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
 *by* **Bassvictim**
 *Album:* Forever
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:44
+    1:19 • 3:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mr. President](https://open.spotify.com/track/5UDJO7XT3AywHB3gGotlfn)** by **Bassvictim** *(Forever)*
-🎤 **[I'm sorry, King](https://open.spotify.com/track/6ZVQKGAkrEAdYXasWaXbfp)** by **Bassvictim** *(Forever)*
-🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
-🎤 **[It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)** by **Bassvictim** *(Forever)*
-🎤 **[It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)** by **Bassvictim** *(Forever)*
+🎤 **[Yearn For You - Shadow](https://open.spotify.com/track/4hjJhryUi06Ao4debxdnoV)** by **Golden Cats** *(Yearn For You)*
+🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
+🎤 **[Ike piano](https://open.spotify.com/track/01NMNjq0UHn2CABMXnLJxA)** by **Bassvictim** *(Forever)*
+🎤 **[Final Song](https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr)** by **Bassvictim** *(Forever)*
+🎤 **[Dog Tag freestyle](https://open.spotify.com/track/7yoXY59Fon8io1k2lir2z3)** by **Bassvictim** *(Forever)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-13 07:13:30Z UTC
+🕐 Last updated: 2025-10-13 07:30:33Z UTC
 <!-- SPOTIFY-END -->
