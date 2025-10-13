@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735db580adc73b5960cd80664e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733aed227447315c04fcd0ab8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [aloneagain](https://open.spotify.com/track/32TgI3jE0aC5ReqF65TllE)**
-*by* **NIVEK FFORHS**
-*Album:* aloneagain
+**🎵 [SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)**
+*by* **temcandoanything, 16:9 krollo ✥**
+*Album:* SCARY MONSTERZ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 4:25
+    0:08 • 3:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
+🎤 **[aloneagain](https://open.spotify.com/track/32TgI3jE0aC5ReqF65TllE)** by **NIVEK FFORHS** *(aloneagain)*
 🎤 **[#voyuitwaaien (jumpstyle version) - slowed](https://open.spotify.com/track/257Lprpl0sqCzj0XIclIw1)** by **latex fruit** *(#voyuitwaaien (jumpstyle version))*
-🎤 **[ATLANTIC - SLOWED](https://open.spotify.com/track/0Cm2dmfffPAQolqw7ELGPj)** by **MXGNETQLA** *(ATLANTIC)*
-🎤 **[VEXOR - Slowed](https://open.spotify.com/track/393Ubt6saNi5OXluFi5OPY)** by **clvst** *(VEXOR)*
-🎤 **[Im so fucked up](https://open.spotify.com/track/3G0mDWf2MUZgmxjGtOJM4X)** by **Artificial Intelligence Memory Disc** *(Im so fucked up)*
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 21:10:52Z UTC
+🕐 Last updated: 2025-10-13 21:25:03Z UTC
 <!-- SPOTIFY-END -->
