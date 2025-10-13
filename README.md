@@ -140,5 +140,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-13 04:20:24Z UTC
+🕐 Last updated: 2025-10-13 04:41:28Z UTC
 <!-- SPOTIFY-END -->
