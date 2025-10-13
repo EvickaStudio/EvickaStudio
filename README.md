@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c566bcf30b2d0c2be3f465df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
-*by* **Bassvictim**
-*Album:* Forever
+**🎵 [Evil World](https://open.spotify.com/track/1bA02iqx7VtUAmKbfvtPB2)**
+*by* **Bladee, Yung Lean**
+*Album:* Evil World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 3:25
+    0:42 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Inferno](https://open.spotify.com/track/6uoXsuX5R2bw0tSMrtAYqS)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)** by **PinkPantheress, Bladee** *(Fancy Some More?)*
+🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
+🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
 🎤 **[Yearn For You - Shadow](https://open.spotify.com/track/4hjJhryUi06Ao4debxdnoV)** by **Golden Cats** *(Yearn For You)*
-🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
-🎤 **[Ike piano](https://open.spotify.com/track/01NMNjq0UHn2CABMXnLJxA)** by **Bassvictim** *(Forever)*
-🎤 **[Final Song](https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr)** by **Bassvictim** *(Forever)*
-🎤 **[Dog Tag freestyle](https://open.spotify.com/track/7yoXY59Fon8io1k2lir2z3)** by **Bassvictim** *(Forever)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**ich hasse euch alle**](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)
 
 
-🕐 Last updated: 2025-10-13 07:30:33Z UTC
+🕐 Last updated: 2025-10-13 07:47:54Z UTC
 <!-- SPOTIFY-END -->
