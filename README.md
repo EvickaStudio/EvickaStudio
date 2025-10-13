@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de6e4de421c8fce74b2af5c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27311628314033c2483a9bfaf3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hood](https://open.spotify.com/track/5m1r00hlrKUSAH1ddryEwI)**
-*by* **Strip Steve**
-*Album:* Micro Mega
+**🎵 [Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)**
+*by* **agelast222, gard**
+*Album:* Parisienne
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="95" height="4" fill="#1db954" rx="2"/>
+    <circle cx="95" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:24 • 5:42
+    0:35 • 1:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Closer Than Close - Mentor Original Radio Edit](https://open.spotify.com/track/16pww8bqjeYClGmsbd0AXK)** by **Rosie Gaines** *(Closer Than Close)*
-🎤 **[harvest sky](https://open.spotify.com/track/3M8bJdRfYj1S5iKZIgwAnH)** by **Oklou, underscores** *(choke enough)*
-🎤 **[Jump 'N Shout](https://open.spotify.com/track/5VFE07ccwljg2bkOtTcNY1)** by **Basement Jaxx** *(Remedy)*
-🎤 **[I Need Someone](https://open.spotify.com/track/2vGiXUzTsa5cFtadsoJLbF)** by **Todd Edwards** *(Serie Uno EP)*
-🎤 **[You That Guy Who Tells](https://open.spotify.com/track/4x3m9Kt2m4zrNnldhtpyTx)** by **Jaw Jam** *(Uncharted Territories Vol. 1)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[Hood](https://open.spotify.com/track/5m1r00hlrKUSAH1ddryEwI)** by **Strip Steve** *(Micro Mega)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 17:39:29Z UTC
+🕐 Last updated: 2025-10-13 17:47:47Z UTC
 <!-- SPOTIFY-END -->
