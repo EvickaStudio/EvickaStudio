@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735352455888ba3b9073215d37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737b8a99fe745569ccba64c061" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Music and Me](https://open.spotify.com/track/23c1TrkpPPYOcJT6DYRRPH)**
-*by* **fakemink**
-*Album:* Music and Me
+**🎵 [Despierte](https://open.spotify.com/track/3tXI7AlJHCkOBCOqh687it)**
+*by* **Evanora Unlimited, Alles Catalan**
+*Album:* Despierte
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:06
+    0:54 • 4:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
-🎤 **[Smirnoff Ice](https://open.spotify.com/track/0e1OE2pEor5kVTWBIs0nWX)** by **Yung Lean** *(Total Eclipse)*
-🎤 **[Work That Body](https://open.spotify.com/track/3UHOEYkdGYAZYF9psfJhCS)** by **HUGEL, Randoree** *(Work That Body)*
-🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
-🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[So Up](https://open.spotify.com/track/1WRxUXnn6WcbChMficSoS8)** by **503scoob, qori., Pixel Hood, Bandiicam** *(So Up)*
+🎤 **[Rosablau](https://open.spotify.com/track/2g616OKrESNStOmBlxJw05)** by **nobis, Randy Nacho** *(Rosablau)*
+🎤 **[Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)** by **smokedope2016, Nokia Angel** *(Sleep)*
+🎤 **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by **Nokia Angel** *(Born Angel)*
+🎤 **[Music and Me](https://open.spotify.com/track/23c1TrkpPPYOcJT6DYRRPH)** by **fakemink** *(Music and Me)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 19:22:28Z UTC
+🕐 Last updated: 2025-10-13 19:33:47Z UTC
 <!-- SPOTIFY-END -->
