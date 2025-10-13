@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737b8a99fe745569ccba64c061" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736b8b045336b07ed868903c7d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Despierte](https://open.spotify.com/track/3tXI7AlJHCkOBCOqh687it)**
-*by* **Evanora Unlimited, Alles Catalan**
-*Album:* Despierte
+**🎵 [Be Fine, Be Alright (First Scenecore Track)](https://open.spotify.com/track/6GjrcHoMT7YsDR7n9Qth9r)**
+*by* **W0RLD0WN3R**
+*Album:* Unreleased (Deluxe)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="266" height="4" fill="#1db954" rx="2"/>
+    <circle cx="266" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 4:34
+    2:18 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[So Up](https://open.spotify.com/track/1WRxUXnn6WcbChMficSoS8)** by **503scoob, qori., Pixel Hood, Bandiicam** *(So Up)*
-🎤 **[Rosablau](https://open.spotify.com/track/2g616OKrESNStOmBlxJw05)** by **nobis, Randy Nacho** *(Rosablau)*
-🎤 **[Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)** by **smokedope2016, Nokia Angel** *(Sleep)*
-🎤 **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by **Nokia Angel** *(Born Angel)*
-🎤 **[Music and Me](https://open.spotify.com/track/23c1TrkpPPYOcJT6DYRRPH)** by **fakemink** *(Music and Me)*
+🎤 **[attmpt2](https://open.spotify.com/track/0wjtas7kokz5lOnUvwlJq3)** by **Aloe Vittoria** *(attmpt2)*
+🎤 **[Bixi Bike](https://open.spotify.com/track/3NNSKZhMrK44KYYBRL52LF)** by **Basil No!** *(Bixi Bike)*
+🎤 **[bangarang](https://open.spotify.com/track/0o9bPjK5UncyifcWmPrguf)** by **gard** *(bangarang)*
+🎤 **[Berlin](https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW)** by **orbit** *(Berlin)*
+🎤 **[Despierte](https://open.spotify.com/track/3tXI7AlJHCkOBCOqh687it)** by **Evanora Unlimited, Alles Catalan** *(Despierte)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 19:33:47Z UTC
+🕐 Last updated: 2025-10-13 19:47:55Z UTC
 <!-- SPOTIFY-END -->
