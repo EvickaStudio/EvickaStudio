@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27353ab70a27d58af286ce9eb91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c6dd25efb4ab10a9b52d1dbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)**
-*by* **Ian Asher, Phantogram**
-*Album:* Black Out Days (Stay Away)
+**🎵 [HARDX](https://open.spotify.com/track/3AX2zMrXcR2up2rg4bpXSM)**
+*by* **yaego**
+*Album:* HARDX
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 2:52
+    0:15 • 3:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
-🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
-🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(Hide (midwest emo version + extras))*
+🎤 **[Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut)** by **The Chemical Brothers** *(Surrender)*
+🎤 **[Talk About](https://open.spotify.com/track/0upZlX2g2bnjAJA5OOsMlH)** by **Les Sins** *(Michael)*
+🎤 **[Face to Face](https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay)** by **Daft Punk** *(Discovery)*
+🎤 **[Fantasy](https://open.spotify.com/track/6o2Yj3Usc7tfNW9XJQy6eB)** by **Breakbot, Ruckazoid** *(By Your Side)*
+🎤 **[CURIOUS (feat. Toro y Moi)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB)** by **Sam Gellaitry, Toro y Moi** *(CURIOUS (feat. Toro y Moi))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 16:51:33Z UTC
+🕐 Last updated: 2025-10-13 17:11:27Z UTC
 <!-- SPOTIFY-END -->
