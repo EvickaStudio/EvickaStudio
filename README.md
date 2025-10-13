@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735db580adc73b5960cd80664e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)**
-*by* **Pastel Ghost**
-*Album:* Abyss
+**🎵 [aloneagain](https://open.spotify.com/track/32TgI3jE0aC5ReqF65TllE)**
+*by* **NIVEK FFORHS**
+*Album:* aloneagain
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="37" height="4" fill="#1db954" rx="2"/>
-    <circle cx="37" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 4:07
+    0:55 • 4:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
-🎤 **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)*
-🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
-🎤 **[Bounce to this!!!!!!](https://open.spotify.com/track/0XRo7Rh1rzVMbDEB1Gd3y3)** by **#ff85f7** *(Agony)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[#voyuitwaaien (jumpstyle version) - slowed](https://open.spotify.com/track/257Lprpl0sqCzj0XIclIw1)** by **latex fruit** *(#voyuitwaaien (jumpstyle version))*
+🎤 **[ATLANTIC - SLOWED](https://open.spotify.com/track/0Cm2dmfffPAQolqw7ELGPj)** by **MXGNETQLA** *(ATLANTIC)*
+🎤 **[VEXOR - Slowed](https://open.spotify.com/track/393Ubt6saNi5OXluFi5OPY)** by **clvst** *(VEXOR)*
+🎤 **[Im so fucked up](https://open.spotify.com/track/3G0mDWf2MUZgmxjGtOJM4X)** by **Artificial Intelligence Memory Disc** *(Im so fucked up)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 20:47:25Z UTC
+🕐 Last updated: 2025-10-13 21:10:52Z UTC
 <!-- SPOTIFY-END -->
