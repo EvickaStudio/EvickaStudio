@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735b09d199301a34f922336a47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sunrise Angel](https://open.spotify.com/track/5CeO4v15n9ffbBv9dcWBWP)**
-*by* **Yung Lean**
-*Album:* Unknown Memory
+**🎵 [YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)**
+*by* **Bladee, Yung Sherman**
+*Album:* Cold Visions
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="9" height="4" fill="#1db954" rx="2"/>
-    <circle cx="9" cy="2" r="6" fill="#1db954"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:59
+    1:30 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[Sunrise Angel](https://open.spotify.com/track/5CeO4v15n9ffbBv9dcWBWP)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
 🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
-🎤 **[leaveme2fukitup *2020* *RARE*](https://open.spotify.com/track/3pNXcHdfBeGXivsO3KANxE)** by **ccareful, Capoxxo** *(leaveme2fukitup *2020* *RARE*)*
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 23:25:48Z UTC
+🕐 Last updated: 2025-10-13 23:34:56Z UTC
 <!-- SPOTIFY-END -->
