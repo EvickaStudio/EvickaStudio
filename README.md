@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736631be482e2fbedd45de9e5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f55a61f09473a7870bafe5a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)**
-*by* **Basement Jaxx, 100 gecs**
-*Album:* where's my head at _
+**🎵 [Under Your Skin](https://open.spotify.com/track/7GCI295l4PvM9TmVhlxRWH)**
+*by* **fakemink**
+*Album:* Under Your Skin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="276" height="4" fill="#1db954" rx="2"/>
+    <circle cx="276" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:32
+    2:02 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
-🎤 **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)*
-🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
+🎤 **[teenage soldier](https://open.spotify.com/track/6M5pKs5K6WFoxsmME6uIVp)** by **2hollis** *(boy)*
+🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<](https://open.spotify.com/track/2XW0YSBQ7qkcdg3nqHclsw)** by **jequya** *(LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<)*
+🎤 **[me n u](https://open.spotify.com/track/7vAwHqeceMUadUmAkA2GCF)** by **bliiiss** *(me n u)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 21:47:55Z UTC
+🕐 Last updated: 2025-10-13 22:11:13Z UTC
 <!-- SPOTIFY-END -->
