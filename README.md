@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736b8b045336b07ed868903c7d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c435b364579b20a2037e819b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Be Fine, Be Alright (First Scenecore Track)](https://open.spotify.com/track/6GjrcHoMT7YsDR7n9Qth9r)**
-*by* **W0RLD0WN3R**
-*Album:* Unreleased (Deluxe)
+**🎵 [i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)**
+*by* **Nosgov**
+*Album:* i would lie
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 2:35
+    0:24 • 1:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[attmpt2](https://open.spotify.com/track/0wjtas7kokz5lOnUvwlJq3)** by **Aloe Vittoria** *(attmpt2)*
-🎤 **[Bixi Bike](https://open.spotify.com/track/3NNSKZhMrK44KYYBRL52LF)** by **Basil No!** *(Bixi Bike)*
-🎤 **[bangarang](https://open.spotify.com/track/0o9bPjK5UncyifcWmPrguf)** by **gard** *(bangarang)*
-🎤 **[Berlin](https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW)** by **orbit** *(Berlin)*
-🎤 **[Despierte](https://open.spotify.com/track/3tXI7AlJHCkOBCOqh687it)** by **Evanora Unlimited, Alles Catalan** *(Despierte)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
+🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 19:47:55Z UTC
+🕐 Last updated: 2025-10-13 20:13:56Z UTC
 <!-- SPOTIFY-END -->
