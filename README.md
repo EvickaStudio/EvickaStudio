@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736a7a35b1274a3624b42c9110" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)**
+*by* **ilymeow, wujek, Kyurukai, Nightclub20xx**
+*Album:* beyblade
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:59 • 2:19
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
+🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
+🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 05:47:55Z UTC
+🕐 Last updated: 2025-10-14 06:19:31Z UTC
 <!-- SPOTIFY-END -->
