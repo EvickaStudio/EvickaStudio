@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f474c6844dec874d6c1d1700" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)**
-*by* **DJ Worm, Eurohead**
-*Album:* Klubb Musik vol.1
+**🎵 [Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)**
+*by* **Bladee**
+*Album:* Eversince
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 3:56
+    1:19 • 3:06
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hocus Pocus](https://open.spotify.com/track/4paa1ozjQuE3jrie757wN1)** by **Yung Lean, Bladee** *(Warlord)*
-🎤 **[Cherry Bracelets](https://open.spotify.com/track/3c3P9O9ThVaIK9f1ksJDM5)** by **Bladee, Yung Lean, Ecco2k** *(Working on Dying)*
-🎤 **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)*
-🎤 **[Fake It](https://open.spotify.com/track/1Jf6WitFtqTMF7MB85aIGO)** by **9090gate** *(Fake It)*
-🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
+🎤 **[Fade Away](https://open.spotify.com/track/1fVfn3pILGUAQeaBqTi8pF)** by **Nokia Angel** *(In Haze)*
+🎤 **[Touch me I'm sick](https://open.spotify.com/track/13jbOg94wTXwl0evvdeYdU)** by **Zukovstheworld** *(Touch me I'm sick)*
+🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
+🎤 **[Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Ceremony](https://open.spotify.com/track/65yE0MolVpKPQ5yazAAFzC)** by **ear** *(The Most Dear and The Future)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 17:47:58Z UTC
+🕐 Last updated: 2025-10-14 18:18:40Z UTC
 <!-- SPOTIFY-END -->
