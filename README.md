@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Missing Person](https://open.spotify.com/track/5xo35RaLLlUBkEpdz7DY5p)**
-*by* **Bladee**
-*Album:* Eversince
+**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
+*by* **Bassvictim**
+*Album:* Forever
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:10 • 3:19
+    1:26 • 3:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Always Gon Lose](https://open.spotify.com/track/3HkC34BKXgpqdroyMmKzkj)** by **Juniper Fields, User2222** *(Junkie Music)*
-🎤 **[ICARUS 3REESTYLE](https://open.spotify.com/track/3PcEemHRD24onozCZpLFkt)** by **Bladee** *(Spiderr)*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
-🎤 **[GT-R](https://open.spotify.com/track/1pmLlsMPKAS7ewp06Ibz9X)** by **Ecco2k** *(GT-R)*
-🎤 **[Mirror](https://open.spotify.com/track/1ipOQYHjsxv711DXd5MZyX)** by **PureSnow** *(Mirror)*
+🎤 **[DieWithMe](https://open.spotify.com/track/253LDOJTMO88WUqWac9KVa)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Might Not B](https://open.spotify.com/track/2dcz18kDhabPK6eb2hQfXA)** by **Yung Lean** *(Jonatan)*
+🎤 **[DO ME LIKE THAT](https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0)** by **Palmistry** *(T2)*
+🎤 **[Gotham City](https://open.spotify.com/track/6Lmz74wEY6YdAb8cTAH8EK)** by **Bladee, Yung Lean** *(Gotham City)*
+🎤 **[SiiLVER SOUND 4 LIFE](https://open.spotify.com/track/0vegNcZAVaIx6vMSWTw0WM)** by **uziellsiilver** *(SiiLVER SOUND 4 LIFE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 19:48:09Z UTC
+🕐 Last updated: 2025-10-14 20:13:48Z UTC
 <!-- SPOTIFY-END -->
