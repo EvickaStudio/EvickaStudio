@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
+*by* **Bassvictim**
+*Album:* Forever
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:57 • 3:25
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[she cant stand me](https://open.spotify.com/track/2lRDqxsCnHNqr3P7hjEKHL)** by **not home.** *(garbage 2)*
 🎤 **[Know My Name - Suzy Sheer Remix](https://open.spotify.com/track/6j9H7uUgFnz7cJIhgcqFP6)** by **Suzy Sheer, Snow Strippers** *(Know My Name (Suzy Sheer Remix))*
 🎤 **[ARABIC_BOOTLEG](https://open.spotify.com/track/4JFbvTXOrAhXphh2q29oE6)** by **home4circus, zraigoind** *(ARABIC_BOOTLEG)*
 🎤 **[tell her](https://open.spotify.com/track/2ucYEBvK1wpee9t4DIGKea)** by **stixz** *(tell her)*
-🎤 **[NIX ESSEN](https://open.spotify.com/track/4ikCd6kuKm2GjtUmFaDUUZ)** by **mikeycyrus** *(NIX ESSEN)*
-🎤 **[oxy2cin](https://open.spotify.com/track/2OJp6Ptmj6YHm0TxEVBA4F)** by **MDW, MC WINDHUND** *(oxy2cin)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 03:42:24Z UTC
+🕐 Last updated: 2025-10-14 03:52:29Z UTC
 <!-- SPOTIFY-END -->
