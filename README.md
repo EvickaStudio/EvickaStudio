@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d6650a524a2e1a5af7ff8861" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [oxy2cin](https://open.spotify.com/track/2OJp6Ptmj6YHm0TxEVBA4F)**
-*by* **MDW, MC WINDHUND**
-*Album:* oxy2cin
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 2:18
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[ADH$](https://open.spotify.com/track/1KSGblpbuaDVdYka1MMf8c)** by **ystn, Yatsu** *(ADH$)*
-🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[Know My Name - Suzy Sheer Remix](https://open.spotify.com/track/6j9H7uUgFnz7cJIhgcqFP6)** by **Suzy Sheer, Snow Strippers** *(Know My Name (Suzy Sheer Remix))*
+🎤 **[ARABIC_BOOTLEG](https://open.spotify.com/track/4JFbvTXOrAhXphh2q29oE6)** by **home4circus, zraigoind** *(ARABIC_BOOTLEG)*
+🎤 **[tell her](https://open.spotify.com/track/2ucYEBvK1wpee9t4DIGKea)** by **stixz** *(tell her)*
+🎤 **[NIX ESSEN](https://open.spotify.com/track/4ikCd6kuKm2GjtUmFaDUUZ)** by **mikeycyrus** *(NIX ESSEN)*
+🎤 **[oxy2cin](https://open.spotify.com/track/2OJp6Ptmj6YHm0TxEVBA4F)** by **MDW, MC WINDHUND** *(oxy2cin)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 03:13:02Z UTC
+🕐 Last updated: 2025-10-14 03:42:24Z UTC
 <!-- SPOTIFY-END -->
