@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734db8f8293b25b2648278d1aa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)**
-*by* **Bladee**
-*Album:* Eversince
+**🎵 [Grass Hymn](https://open.spotify.com/track/4EDttNccHvMJZxNlF5pSVf)**
+*by* **DJmegan23**
+*Album:* Island MP3s
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 3:06
+    0:49 • 1:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fade Away](https://open.spotify.com/track/1fVfn3pILGUAQeaBqTi8pF)** by **Nokia Angel** *(In Haze)*
-🎤 **[Touch me I'm sick](https://open.spotify.com/track/13jbOg94wTXwl0evvdeYdU)** by **Zukovstheworld** *(Touch me I'm sick)*
-🎤 **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)*
-🎤 **[Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)** by **smokedope2016** *(THE PEAK)*
-🎤 **[Ceremony](https://open.spotify.com/track/65yE0MolVpKPQ5yazAAFzC)** by **ear** *(The Most Dear and The Future)*
+🎤 **[Miami Ultras](https://open.spotify.com/track/7vb0J4M6dZNE7ZvtvMDlCK)** by **Yung Lean** *(Warlord)*
+🎤 **[Goyard](https://open.spotify.com/track/2NVuxI4azQg34rmKBToKsW)** by **smokedope2016** *(THE PEAK)*
+🎤 **[Liverpool](https://open.spotify.com/track/4cKU46sEjxYUfkFM43ZB72)** by **Zukovstheworld** *(Liverpool)*
+🎤 **[DONT WANNA HANG OUT](https://open.spotify.com/track/79HYnbyax1lGSlRCVyw6z1)** by **Bladee** *(Cold Visions)*
+🎤 **[Make A Wish](https://open.spotify.com/track/3b7wukBjI4iIM4eX9DXx5q)** by **Nokia Angel** *(In Haze)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 18:18:40Z UTC
+🕐 Last updated: 2025-10-14 18:46:13Z UTC
 <!-- SPOTIFY-END -->
