@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273543533e92a8a336dee9e9bd1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
-*by* **Bassvictim**
-*Album:* Forever
+**🎵 [Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)**
+*by* **Yung Lean**
+*Album:* Stranger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 3:25
+    0:56 • 2:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
-🎤 **[she cant stand me](https://open.spotify.com/track/2lRDqxsCnHNqr3P7hjEKHL)** by **not home.** *(garbage 2)*
-🎤 **[Know My Name - Suzy Sheer Remix](https://open.spotify.com/track/6j9H7uUgFnz7cJIhgcqFP6)** by **Suzy Sheer, Snow Strippers** *(Know My Name (Suzy Sheer Remix))*
-🎤 **[ARABIC_BOOTLEG](https://open.spotify.com/track/4JFbvTXOrAhXphh2q29oE6)** by **home4circus, zraigoind** *(ARABIC_BOOTLEG)*
-🎤 **[tell her](https://open.spotify.com/track/2ucYEBvK1wpee9t4DIGKea)** by **stixz** *(tell her)*
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
+🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
+🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 03:52:29Z UTC
+🕐 Last updated: 2025-10-14 04:15:11Z UTC
 <!-- SPOTIFY-END -->
