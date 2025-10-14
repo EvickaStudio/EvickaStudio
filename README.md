@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cf0f6d1ef5c6365e2e21853b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732aeb5caa85e960570387dbad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Yearn For You - Shadow](https://open.spotify.com/track/4hjJhryUi06Ao4debxdnoV)**
-*by* **Golden Cats**
-*Album:* Yearn For You
+**🎵 [141 Schneeschieber](https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP)**
+*by* **TAKTSTÖRER**
+*Album:* 141 Schneeschieber
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="133" height="4" fill="#1db954" rx="2"/>
-    <circle cx="133" cy="2" r="6" fill="#1db954"/>
+    <rect width="27" height="4" fill="#1db954" rx="2"/>
+    <circle cx="27" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 3:24
+    0:25 • 4:39
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[harvest sky](https://open.spotify.com/track/3M8bJdRfYj1S5iKZIgwAnH)** by **Oklou, underscores** *(choke enough)*
-🎤 **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)*
-🎤 **[Ginseng Glock 05](https://open.spotify.com/track/4hhhjjtbiClKeaYd77Y5tJ)** by **Kroka Koka** *(Vindobona)*
-🎤 **[Eastbay](https://open.spotify.com/track/78PZwivkjhl7leEAZOoZbS)** by **smokedope2016** *(THE PEAK)*
-🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
+🎤 **[Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)** by **nomu.** *(Medicine)*
+🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
+🎤 **[Flötenmann](https://open.spotify.com/track/0SPpHRfCSLBKuQMJtU1ikl)** by **INFOTZRICO, Brian** *(Flötenmann)*
+🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
+🎤 **[Takashi Murakami](https://open.spotify.com/track/3mFFwNosfKgS53WNEpYzRH)** by **6 Dogs** *(Takashi Murakami)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-13 23:47:52Z UTC
+🕐 Last updated: 2025-10-14 00:57:21Z UTC
 <!-- SPOTIFY-END -->
