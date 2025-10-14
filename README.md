@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
-*by* **Bassvictim**
-*Album:* Forever
+**🎵 [Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)**
+*by* **Thaiboy Digital, Yung Lean**
+*Album:* Tiger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
+    <rect width="147" height="4" fill="#1db954" rx="2"/>
+    <circle cx="147" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 3:25
+    2:40 • 5:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
+🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
+🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
 🎤 **[DieWithMe](https://open.spotify.com/track/253LDOJTMO88WUqWac9KVa)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Might Not B](https://open.spotify.com/track/2dcz18kDhabPK6eb2hQfXA)** by **Yung Lean** *(Jonatan)*
-🎤 **[DO ME LIKE THAT](https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0)** by **Palmistry** *(T2)*
-🎤 **[Gotham City](https://open.spotify.com/track/6Lmz74wEY6YdAb8cTAH8EK)** by **Bladee, Yung Lean** *(Gotham City)*
-🎤 **[SiiLVER SOUND 4 LIFE](https://open.spotify.com/track/0vegNcZAVaIx6vMSWTw0WM)** by **uziellsiilver** *(SiiLVER SOUND 4 LIFE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 20:13:48Z UTC
+🕐 Last updated: 2025-10-14 20:32:19Z UTC
 <!-- SPOTIFY-END -->
