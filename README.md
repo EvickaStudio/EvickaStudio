@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b8defb0e020aa43694f07c46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)**
-*by* **Bladee**
-*Album:* Into Dust
+**🎵 [So What](https://open.spotify.com/track/5WPARJFAemzCHkpwyDhEf5)**
+*by* **Bladee, Ecco2k**
+*Album:* Eversince
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:20
+    0:11 • 3:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Im Dancing](https://open.spotify.com/track/7hieOOJygsG1J0x5KO802g)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
-🎤 **[Last Party](https://open.spotify.com/track/5IAHJ6tpXeVvaLrwV0wmlT)** by **Nokia Angel** *(In Haze)*
-🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
-🎤 **[Foamposite Interlude](https://open.spotify.com/track/7EdSIOVojEa4oAnQgdMmiL)** by **smokedope2016** *(THE COMEUP)*
-🎤 **[Wings](https://open.spotify.com/track/1Tz8ut6cC1aAhu5m595UZk)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Sunrise Angel](https://open.spotify.com/track/5CeO4v15n9ffbBv9dcWBWP)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[Ballet Flat$ On The Ga$ Pedal](https://open.spotify.com/track/26VUliruOm9r2zbg7uJDmY)** by **Cowgirl Clue** *(Total Freedom)*
+🎤 **[I Know Your Future](https://open.spotify.com/track/1q3doMtMpdMJrCYohv92fK)** by **PureSnow** *(Revelation)*
+🎤 **[Blood Rain](https://open.spotify.com/track/1Dg8AOAbTjWEXkwweOk4ZV)** by **Rainworld** *(Blood Rain)*
+🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 19:10:03Z UTC
+🕐 Last updated: 2025-10-14 19:23:46Z UTC
 <!-- SPOTIFY-END -->
