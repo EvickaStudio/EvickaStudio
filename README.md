@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b510665695e42f41d97606e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [take it slow](https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo)**
-*by* **nate sib**
-*Album:* take it slow
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="160" height="4" fill="#1db954" rx="2"/>
-    <circle cx="160" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 2:17
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[take it slow](https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo)** by **nate sib** *(take it slow)*
 🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
 🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
 🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
 🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 14:35:13Z UTC
+🕐 Last updated: 2025-10-14 14:51:49Z UTC
 <!-- SPOTIFY-END -->
