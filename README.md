@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cafba2edd21f698aae6d7047" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f474c6844dec874d6c1d1700" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)**
-*by* **ear**
-*Album:* Fetish / Valley Serpent
+**🎵 [4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)**
+*by* **DJ Worm, Eurohead**
+*Album:* Klubb Musik vol.1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 2:27
+    2:26 • 3:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hocus Pocus](https://open.spotify.com/track/4paa1ozjQuE3jrie757wN1)** by **Yung Lean, Bladee** *(Warlord)*
+🎤 **[Cherry Bracelets](https://open.spotify.com/track/3c3P9O9ThVaIK9f1ksJDM5)** by **Bladee, Yung Lean, Ecco2k** *(Working on Dying)*
+🎤 **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)*
 🎤 **[Fake It](https://open.spotify.com/track/1Jf6WitFtqTMF7MB85aIGO)** by **9090gate** *(Fake It)*
 🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
-🎤 **[3. gB00000 : Euronet ATM Credit Card Riddim](https://open.spotify.com/track/13WIu59mU7hyc39AgjOeha)** by **DJ Worm, Eurohead, SPÖKE** *(Klubb Musik vol.1)*
-🎤 **[Look At Me](https://open.spotify.com/track/6MXF0W1OJ36nSXxmPMD2q1)** by **fakemink** *(Look At Me)*
-🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 17:36:50Z UTC
+🕐 Last updated: 2025-10-14 17:47:58Z UTC
 <!-- SPOTIFY-END -->
