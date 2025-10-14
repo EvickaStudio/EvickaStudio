@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)**
+*by* **Bladee**
+*Album:* Eversince
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:11 • 3:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[take it slow](https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo)** by **nate sib** *(take it slow)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
+🎤 **[Legendary Member](https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj)** by **Thaiboy Digital, Bladee, Ecco2k, Yung Lean** *(Legendary Member)*
+🎤 **[Evil World](https://open.spotify.com/track/1bA02iqx7VtUAmKbfvtPB2)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[Advent](https://open.spotify.com/track/33PR2Dx8NeW09xC5VEvuIR)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[Inferno](https://open.spotify.com/track/6uoXsuX5R2bw0tSMrtAYqS)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 17:11:46Z UTC
+🕐 Last updated: 2025-10-14 17:26:59Z UTC
 <!-- SPOTIFY-END -->
