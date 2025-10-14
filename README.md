@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732aeb5caa85e960570387dbad" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736ebdd8068060dfb00e588efa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [141 Schneeschieber](https://open.spotify.com/track/5drDr4Psx18mUzm78fhaoP)**
-*by* **TAKTSTÖRER**
-*Album:* 141 Schneeschieber
+**🎵 [Crystal Blue](https://open.spotify.com/track/5pUiPwQNv9LeNs7KLIkiPB)**
+*by* **Silent Boy, Sace, defyer**
+*Album:* Crystal Blue
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 4:39
+    1:38 • 2:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)** by **nomu.** *(Medicine)*
-🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
-🎤 **[Flötenmann](https://open.spotify.com/track/0SPpHRfCSLBKuQMJtU1ikl)** by **INFOTZRICO, Brian** *(Flötenmann)*
-🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
-🎤 **[Takashi Murakami](https://open.spotify.com/track/3mFFwNosfKgS53WNEpYzRH)** by **6 Dogs** *(Takashi Murakami)*
+🎤 **[ava](https://open.spotify.com/track/3RDDSyBIC1rWUvNZmZwgc2)** by **xo** *(ava)*
+🎤 **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)*
+🎤 **[i feel you](https://open.spotify.com/track/0Zu7fQsRYxMF9tIbzkpuhR)** by **wzrdd, cashiotta** *(i feel you)*
+🎤 **[ill watch you burn us](https://open.spotify.com/track/0ALrzVMu30J78fNYW0C1e8)** by **yaego, wzrdd** *(ÆRO)*
+🎤 **[white tiger](https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w)** by **2hollis** *(White Tiger)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 00:57:21Z UTC
+🕐 Last updated: 2025-10-14 02:21:41Z UTC
 <!-- SPOTIFY-END -->
