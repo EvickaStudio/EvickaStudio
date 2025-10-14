@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cafba2edd21f698aae6d7047" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)**
-*by* **Bladee**
-*Album:* Eversince
+**🎵 [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)**
+*by* **ear**
+*Album:* Fetish / Valley Serpent
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:11 • 3:15
+    0:16 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Legendary Member](https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj)** by **Thaiboy Digital, Bladee, Ecco2k, Yung Lean** *(Legendary Member)*
-🎤 **[Evil World](https://open.spotify.com/track/1bA02iqx7VtUAmKbfvtPB2)** by **Bladee, Yung Lean** *(Evil World)*
-🎤 **[Advent](https://open.spotify.com/track/33PR2Dx8NeW09xC5VEvuIR)** by **Bladee, Yung Lean** *(Evil World)*
-🎤 **[Inferno](https://open.spotify.com/track/6uoXsuX5R2bw0tSMrtAYqS)** by **Bladee, Yung Lean** *(Evil World)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
+🎤 **[Fake It](https://open.spotify.com/track/1Jf6WitFtqTMF7MB85aIGO)** by **9090gate** *(Fake It)*
+🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
+🎤 **[3. gB00000 : Euronet ATM Credit Card Riddim](https://open.spotify.com/track/13WIu59mU7hyc39AgjOeha)** by **DJ Worm, Eurohead, SPÖKE** *(Klubb Musik vol.1)*
+🎤 **[Look At Me](https://open.spotify.com/track/6MXF0W1OJ36nSXxmPMD2q1)** by **fakemink** *(Look At Me)*
+🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-14 17:26:59Z UTC
+🕐 Last updated: 2025-10-14 17:36:50Z UTC
 <!-- SPOTIFY-END -->
