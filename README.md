@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a75b739a8b123591330888a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [wanna go back](https://open.spotify.com/track/6FRX0d3fzz70Cgu0Btsm4f)**
-*by* **alleycat**
-*Album:* wanna go back
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 2:47
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
-🎤 **[Slaughter House](https://open.spotify.com/track/1FlOHhlBsJhfv8K4cttbVE)** by **Sematary** *(Rainbow Bridge)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[Mirror](https://open.spotify.com/track/1ipOQYHjsxv711DXd5MZyX)** by **PureSnow** *(Mirror)*
+🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
+🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-15 14:13:30Z UTC
+🕐 Last updated: 2025-10-15 14:36:35Z UTC
 <!-- SPOTIFY-END -->
