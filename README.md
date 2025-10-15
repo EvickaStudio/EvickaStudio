@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
 🎤 **[It's Goin Bad](https://open.spotify.com/track/0UZt8hWetwhIXTx2XNo5Cl)** by **Snow Strippers** *(April Mixtape 3)*
 🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
 🎤 **[You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q)** by **Snow Strippers** *(April Mixtape 2)*
 🎤 **[Now It's Not The Same](https://open.spotify.com/track/5hdKBSPCakDqBtmtqtBajl)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Depriving You](https://open.spotify.com/track/1h2nXcDxThanV6lurjIvpW)** by **Snow Strippers** *(April Mixtape 3)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-15 21:47:39Z UTC
+🕐 Last updated: 2025-10-15 22:10:25Z UTC
 <!-- SPOTIFY-END -->
