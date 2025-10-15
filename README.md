@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fake Smile](https://open.spotify.com/track/7tP8JxygJhAZoyG0fdHouG)**
+**🎵 [Don't You Feel](https://open.spotify.com/track/1vp5IH3t0jGu6kBy9L1DO7)**
 *by* **Snow Strippers**
 *Album:* April Mixtape 3
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:31
+    0:46 • 2:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
-🎤 **[Under A Siege](https://open.spotify.com/track/28rSpxTpD9wBOs4WeTYZik)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Lacerate](https://open.spotify.com/track/07nHZ1tSrRwqdqddavg6A7)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Sick](https://open.spotify.com/track/614Oj0ngRSnCkTvJikdv7T)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[It's Goin Bad](https://open.spotify.com/track/0UZt8hWetwhIXTx2XNo5Cl)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[Now It's Not The Same](https://open.spotify.com/track/5hdKBSPCakDqBtmtqtBajl)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Depriving You](https://open.spotify.com/track/1h2nXcDxThanV6lurjIvpW)** by **Snow Strippers** *(April Mixtape 3)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-15 20:33:26Z UTC
+🕐 Last updated: 2025-10-15 20:49:05Z UTC
 <!-- SPOTIFY-END -->
