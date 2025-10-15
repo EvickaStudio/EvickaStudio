@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273afaf99851f1783825e6b859e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f0495e123406153b055ebc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)**
-*by* **jacal**
-*Album:* Hide (midwest emo version + extras)
+**🎵 [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)**
+*by* **DJ_Dave**
+*Album:* Airglow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:43 • 4:02
+    3:00 • 4:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
-🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
-🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
-🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
-🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)** by **LXKAS** *(CALL THE DOCTOR!)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
+🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
+🎤 **[Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)** by **Ian Asher, Phantogram** *(Black Out Days (Stay Away))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-15 18:18:55Z UTC
+🕐 Last updated: 2025-10-15 18:46:52Z UTC
 <!-- SPOTIFY-END -->
