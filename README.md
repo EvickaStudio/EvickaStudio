@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27313fca43fa969a485b42a41b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27315b72ee3398b9857fc468fbd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)**
-*by* **52Blue**
-*Album:* Fick die Szene
+**🎵 [nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)**
+*by* **5v**
+*Album:* nodding off
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="236" height="4" fill="#1db954" rx="2"/>
-    <circle cx="236" cy="2" r="6" fill="#1db954"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:23 • 3:02
+    0:30 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
-🎤 **[CALL THE DOCTOR!](https://open.spotify.com/track/0fme8NwZfhP1ISWmt4jfYt)** by **LXKAS** *(CALL THE DOCTOR!)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
-🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
+🎤 **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-15 17:29:49Z UTC
+🕐 Last updated: 2025-10-15 17:40:56Z UTC
 <!-- SPOTIFY-END -->
