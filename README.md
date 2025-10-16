@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273333ded8891b69180646ecf77" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hi, Society](https://open.spotify.com/track/4PKqxUYmIl7zQ0YKwAU15r)**
-*by* **Ms* Gloom**
-*Album:* Hi, Society
+**🎵 [It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)**
+*by* **Bassvictim**
+*Album:* Forever
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 3:07
+    0:59 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)** by **Bassvictim** *(Forever)*
-🎤 **[It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)** by **Bassvictim** *(Forever)*
 🎤 **[no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)** by **heartcoregirl** *(no trace)*
 🎤 **[.°・ eden ・°。](https://open.spotify.com/track/1sorthEunDHEpplAgr52dJ)** by **reverie** *(.°・ eden ・°。)*
+🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
 🎤 **[King Night](https://open.spotify.com/track/30bItCTQr7rD0qSKgOb3Dn)** by **SALEM** *(King Night)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 07:40:24Z UTC
+🕐 Last updated: 2025-10-16 07:47:57Z UTC
 <!-- SPOTIFY-END -->
