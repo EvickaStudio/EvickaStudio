@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2733bd6cec4696094b7f5edad20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)**
+*by* **Snow Strippers**
+*Album:* Just Your Doll
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:45 • 2:27
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[Don't You Feel](https://open.spotify.com/track/1vp5IH3t0jGu6kBy9L1DO7)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Don't You Feel](https://open.spotify.com/track/1vp5IH3t0jGu6kBy9L1DO7)** by **Snow Strippers** *(April Mixtape 3)*
 🎤 **[Lil Maria](https://open.spotify.com/track/71fdBQ3BuPyeS3UJWPXfZt)** by **Bassvictim** *(Forever)*
-🎤 **[Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)** by **Ms* Gloom** *(Coco Manifesto)*
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 06:19:20Z UTC
+🕐 Last updated: 2025-10-16 06:47:23Z UTC
 <!-- SPOTIFY-END -->
