@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27391756e6204367e198ddc8f10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b663dab083b3580523970a3a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)**
-*by* **Peake**
-*Album:* My Woeful Heart
+**🎵 [Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)**
+*by* **Ms* Gloom**
+*Album:* Coco Manifesto
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+    <rect width="137" height="4" fill="#1db954" rx="2"/>
+    <circle cx="137" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 1:45
+    1:41 • 3:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
 🎤 **[Lil Maria](https://open.spotify.com/track/71fdBQ3BuPyeS3UJWPXfZt)** by **Bassvictim** *(Forever)*
-🎤 **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)*
+🎤 **[Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)** by **Somewhere Special** *(Undercover Lover)*
+🎤 **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)*
+🎤 **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)*
+🎤 **[Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)** by **Eera** *(Cant Stop Wasting Time)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 14:13:03Z UTC
+🕐 Last updated: 2025-10-16 14:34:44Z UTC
 <!-- SPOTIFY-END -->
