@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f055c4092a440f4563e2042" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)**
-*by* **Somewhere Special**
-*Album:* Disguise
+**🎵 [It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)**
+*by* **Bassvictim**
+*Album:* Forever
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="185" height="4" fill="#1db954" rx="2"/>
-    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 2:20
+    1:21 • 2:08
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)*
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
-🎤 **[Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)** by **heartcoregirl** *(no trace)*
+🎤 **[.°・ eden ・°。](https://open.spotify.com/track/1sorthEunDHEpplAgr52dJ)** by **reverie** *(.°・ eden ・°。)*
+🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
+🎤 **[King Night](https://open.spotify.com/track/30bItCTQr7rD0qSKgOb3Dn)** by **SALEM** *(King Night)*
+🎤 **[Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)** by **Ms* Gloom** *(Coco Manifesto)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 18:47:06Z UTC
+🕐 Last updated: 2025-10-16 19:09:03Z UTC
 <!-- SPOTIFY-END -->
