@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306a811c76d3035e95b56d506" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27391756e6204367e198ddc8f10" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)**
-*by* **SALEM**
-*Album:* Fires In Heaven
+**🎵 [My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)**
+*by* **Peake**
+*Album:* My Woeful Heart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 2:48
+    0:03 • 1:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Again](https://open.spotify.com/track/3uL84ARpl5Xw6MxbCfxTsX)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Kinda Like It That Way](https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Deceitful Eyes](https://open.spotify.com/track/1sVjxGmYinQhxuzDrN62g4)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
-🎤 **[I'm On My Own](https://open.spotify.com/track/1O3NUmt3lxCl4LCG9XjNam)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[King Night](https://open.spotify.com/track/30bItCTQr7rD0qSKgOb3Dn)** by **SALEM** *(King Night)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 07:13:14Z UTC
+🕐 Last updated: 2025-10-16 07:29:33Z UTC
 <!-- SPOTIFY-END -->
