@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273071114d9a878865d094e833a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273447b3becf3e08955fc43a143" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)**
-*by* **temcandoanything**
-*Album:* still into you +icdamix+
+**🎵 [As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)**
+*by* **Eera, Lilac**
+*Album:* As I Break Apart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="26" height="4" fill="#1db954" rx="2"/>
-    <circle cx="26" cy="2" r="6" fill="#1db954"/>
+    <rect width="235" height="4" fill="#1db954" rx="2"/>
+    <circle cx="235" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:04
+    1:35 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)** by **DJ Worm, Eurohead** *(Klubb Musik vol.1)*
-🎤 **[Final Song](https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr)** by **Bassvictim** *(Forever)*
-🎤 **[Hearts That Run](https://open.spotify.com/track/5nYNiJS2lhHhnJBtrhs3xl)** by **Cowgirl Clue** *(Total Freedom)*
-🎤 **[Selfish](https://open.spotify.com/track/0wiY5CZ2sOZZtd70vjhqwY)** by **Mayvi, RADA** *(Selfish)*
-🎤 **[nice spirits / sentimental](https://open.spotify.com/track/3ow1sTEtsxCJ6brgeXRFjx)** by **jequya** *(nice spirits / sentimental)*
+🎤 **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)*
+🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
+🎤 **[dim me](https://open.spotify.com/track/5l17U3KHOpQkTaT37sfMJi)** by **heartcoregirl** *(dim me)*
+🎤 **[rotten - DJmegan23 Remix](https://open.spotify.com/track/1ZSpxoeuaZdAljvVFY3aHq)** by **DJmegan23, anna luna** *(rotten (DJmegan23 Remix))*
+🎤 **[Shot the Gun](https://open.spotify.com/track/1T0HIycH4ky39uNxInov5e)** by **Brothel in Belize** *(War)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 08:46:34Z UTC
+🕐 Last updated: 2025-10-16 09:14:11Z UTC
 <!-- SPOTIFY-END -->
