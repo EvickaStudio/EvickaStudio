@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273756691cd36ad213bee0e3fe5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)**
-*by* **RomancePlanet**
-*Album:* EVOLUTION
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 1:49
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
-🎤 **[It's Goin Bad](https://open.spotify.com/track/0UZt8hWetwhIXTx2XNo5Cl)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
-🎤 **[You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[Lil Maria](https://open.spotify.com/track/71fdBQ3BuPyeS3UJWPXfZt)** by **Bassvictim** *(Forever)*
+🎤 **[Coco Manifesto](https://open.spotify.com/track/6A1QXpC9KUYas8PX9Q8JEa)** by **Ms* Gloom** *(Coco Manifesto)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 05:47:53Z UTC
+🕐 Last updated: 2025-10-16 06:19:20Z UTC
 <!-- SPOTIFY-END -->
