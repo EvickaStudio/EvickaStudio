@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27378712e6ec19090a12fa323fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273071114d9a878865d094e833a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Trapdoor](https://open.spotify.com/track/7hlr3dKGDtNXZ05A5lw0PK)**
-*by* **SALEM**
-*Album:* King Night
+**🎵 [still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)**
+*by* **temcandoanything**
+*Album:* still into you +icdamix+
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 4:31
+    0:11 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Not Much Of A Life](https://open.spotify.com/track/4wo6Mme2DqYRjWZgqrIYNr)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)*
-🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[Chore Boy (feat. SALEM)](https://open.spotify.com/track/5fdbDW0pkbBhGfSeUb4rub)** by **Shlohmo, SALEM** *(Chore Boy (feat. SALEM))*
-🎤 **[Red River](https://open.spotify.com/track/71xZNODtoBktH43VaPADS8)** by **SALEM** *(Fires In Heaven)*
+🎤 **[4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)** by **DJ Worm, Eurohead** *(Klubb Musik vol.1)*
+🎤 **[Final Song](https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr)** by **Bassvictim** *(Forever)*
+🎤 **[Hearts That Run](https://open.spotify.com/track/5nYNiJS2lhHhnJBtrhs3xl)** by **Cowgirl Clue** *(Total Freedom)*
+🎤 **[Selfish](https://open.spotify.com/track/0wiY5CZ2sOZZtd70vjhqwY)** by **Mayvi, RADA** *(Selfish)*
+🎤 **[nice spirits / sentimental](https://open.spotify.com/track/3ow1sTEtsxCJ6brgeXRFjx)** by **jequya** *(nice spirits / sentimental)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 08:18:12Z UTC
+🕐 Last updated: 2025-10-16 08:46:34Z UTC
 <!-- SPOTIFY-END -->
