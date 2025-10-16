@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b0d16cd42df52a7df6b3ccf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM)**
-*by* **Doss**
-*Album:* Strawberry
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 3:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Come All Ye Fair and Tender Ladies](https://open.spotify.com/track/6rt1Ms7qHNkPLe7n85pLOR)** by **Elusin** *(SYNFUELS)*
-🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
-🎤 **[Hi, Society](https://open.spotify.com/track/4PKqxUYmIl7zQ0YKwAU15r)** by **Ms* Gloom** *(Hi, Society)*
-🎤 **[It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)** by **Bassvictim** *(Forever)*
+🎤 **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)*
+🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
+🎤 **[Chore Boy (feat. SALEM)](https://open.spotify.com/track/5fdbDW0pkbBhGfSeUb4rub)** by **Shlohmo, SALEM** *(Chore Boy (feat. SALEM))*
+🎤 **[Red River](https://open.spotify.com/track/71xZNODtoBktH43VaPADS8)** by **SALEM** *(Fires In Heaven)*
+🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-16 11:47:45Z UTC
+🕐 Last updated: 2025-10-16 12:26:10Z UTC
 <!-- SPOTIFY-END -->
