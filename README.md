@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27378712e6ec19090a12fa323fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273333ded8891b69180646ecf77" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Trapdoor](https://open.spotify.com/track/7hlr3dKGDtNXZ05A5lw0PK)**
-*by* **SALEM**
-*Album:* King Night
+**🎵 [Hi, Society](https://open.spotify.com/track/4PKqxUYmIl7zQ0YKwAU15r)**
+*by* **Ms* Gloom**
+*Album:* Hi, Society
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+    <rect width="270" height="4" fill="#1db954" rx="2"/>
+    <circle cx="270" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 4:31
+    2:48 • 3:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Trapdoor](https://open.spotify.com/track/7hlr3dKGDtNXZ05A5lw0PK)** by **SALEM** *(King Night)*
-🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Hi, Society](https://open.spotify.com/track/4PKqxUYmIl7zQ0YKwAU15r)** by **Ms* Gloom** *(Hi, Society)*
 🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[Lil Maria](https://open.spotify.com/track/71fdBQ3BuPyeS3UJWPXfZt)** by **Bassvictim** *(Forever)*
+🎤 **[Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)** by **Somewhere Special** *(Undercover Lover)*
+🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM)** by **Doss** *(Strawberry)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 15:30:44Z UTC
+🕐 Last updated: 2025-10-17 15:48:00Z UTC
 <!-- SPOTIFY-END -->
