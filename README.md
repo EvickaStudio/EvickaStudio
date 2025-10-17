@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)**
-*by* **Bladee**
-*Album:* The Fool
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 2:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
-🎤 **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by **Varg²™, Bladee, VS--55** *(ᚦ)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
-🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
+🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
+🎤 **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)*
+🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
+🎤 **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 17:48:07Z UTC
+🕐 Last updated: 2025-10-17 18:16:13Z UTC
 <!-- SPOTIFY-END -->
