@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b8defb0e020aa43694f07c46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273104730a986aa785f677b01ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)**
-*by* **Bladee**
-*Album:* Into Dust
+**🎵 [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)**
+*by* **Varg²™, Bladee, VS--55**
+*Album:* ᚦ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="204" height="4" fill="#1db954" rx="2"/>
-    <circle cx="204" cy="2" r="6" fill="#1db954"/>
+    <rect width="99" height="4" fill="#1db954" rx="2"/>
+    <circle cx="99" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 2:20
+    1:39 • 4:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
+🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
+🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
 🎤 **[I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)** by **Bladee** *(Spiderr)*
-🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
-🎤 **[PARANOIA INTRO](https://open.spotify.com/track/68DW4TA3cANDG7Igy9SY3T)** by **Bladee** *(Cold Visions)*
-🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
-🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 17:28:43Z UTC
+🕐 Last updated: 2025-10-17 17:39:16Z UTC
 <!-- SPOTIFY-END -->
