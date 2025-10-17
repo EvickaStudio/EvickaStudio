@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
 🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
 🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
 🎤 **[Chore Boy (feat. SALEM)](https://open.spotify.com/track/5fdbDW0pkbBhGfSeUb4rub)** by **Shlohmo, SALEM** *(Chore Boy (feat. SALEM))*
 🎤 **[Red River](https://open.spotify.com/track/71xZNODtoBktH43VaPADS8)** by **SALEM** *(Fires In Heaven)*
-🎤 **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 04:40:29Z UTC
+🕐 Last updated: 2025-10-17 04:49:06Z UTC
 <!-- SPOTIFY-END -->
