@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
 🎤 **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)*
 🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
 🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
 🎤 **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)*
-🎤 **[Chore Boy (feat. SALEM)](https://open.spotify.com/track/5fdbDW0pkbBhGfSeUb4rub)** by **Shlohmo, SALEM** *(Chore Boy (feat. SALEM))*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 07:12:46Z UTC
+🕐 Last updated: 2025-10-17 07:28:28Z UTC
 <!-- SPOTIFY-END -->
