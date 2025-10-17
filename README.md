@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739128b7cce7a8106bd4d36fb9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ed02c2537c4c00de58fa415" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Beyond The Clouds](https://open.spotify.com/track/3C6XR0w2oGXfda193prrbX)**
-*by* **0megafactor**
-*Album:* Beyond The Clouds
+**🎵 [Waste Walker](https://open.spotify.com/track/5hfWCzldKmGSSr6sZtVH5N)**
+*by* **Eera**
+*Album:* Cant Stop Wasting Time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="156" height="4" fill="#1db954" rx="2"/>
-    <circle cx="156" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 3:48
+    1:10 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Beyond The Clouds](https://open.spotify.com/track/3C6XR0w2oGXfda193prrbX)** by **0megafactor** *(Beyond The Clouds)*
-🎤 **[uu look like3 an ##angel](https://open.spotify.com/track/6yryHtWw7ltdgCNhutSTPQ)** by **Rezlaine** *(#Nauseous)*
-🎤 **[connection](https://open.spotify.com/track/3r9cRdSmn0gKTr0KbdNKSt)** by **roxxy** *(connection)*
-🎤 **[Just Want Your Love](https://open.spotify.com/track/44lR7onPLduSGeapqFzhAG)** by **deardiaryy, kiryo!, z4y4, p6inkillr, 9surgery** *(Just Want Your Love)*
-🎤 **[luvbite](https://open.spotify.com/track/4Tac8dmH6yRV48s2n6CoEB)** by **korpsebunny** *(luvbite)*
+🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 14:12:31Z UTC
+🕐 Last updated: 2025-10-17 14:33:14Z UTC
 <!-- SPOTIFY-END -->
