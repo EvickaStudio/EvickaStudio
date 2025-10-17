@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273333ded8891b69180646ecf77" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad080246ad2c530bd4ced116" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hi, Society](https://open.spotify.com/track/4PKqxUYmIl7zQ0YKwAU15r)**
-*by* **Ms* Gloom**
-*Album:* Hi, Society
+**🎵 [.°・ eden ・°。](https://open.spotify.com/track/1sorthEunDHEpplAgr52dJ)**
+*by* **reverie**
+*Album:* .°・ eden ・°。
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:48 • 3:07
+    1:23 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[Lil Maria](https://open.spotify.com/track/71fdBQ3BuPyeS3UJWPXfZt)** by **Bassvictim** *(Forever)*
-🎤 **[Undercover Lover](https://open.spotify.com/track/5jcyodnhE0mtHu6z8iTMko)** by **Somewhere Special** *(Undercover Lover)*
-🎤 **[Sears Tower](https://open.spotify.com/track/3RndR2r4CqCe42eE5e8VTy)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Strawberry](https://open.spotify.com/track/0kttqKdToPQupUgaBto3UM)** by **Doss** *(Strawberry)*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[no trace](https://open.spotify.com/track/2R5QLtw099gIse8OKKiWnC)** by **heartcoregirl** *(no trace)*
+🎤 **[Numb](https://open.spotify.com/track/7kawJfwjZ9QyLPKuPUeOlH)** by **Nokia Angel** *(Numb)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 15:48:00Z UTC
+🕐 Last updated: 2025-10-17 16:14:58Z UTC
 <!-- SPOTIFY-END -->
