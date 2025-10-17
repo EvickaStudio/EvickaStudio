@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27387e52d8a239604dc6f72741b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [uu look like3 an ##angel](https://open.spotify.com/track/6yryHtWw7ltdgCNhutSTPQ)**
-*by* **Rezlaine**
-*Album:* #Nauseous
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 3:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Beyond The Clouds](https://open.spotify.com/track/3C6XR0w2oGXfda193prrbX)** by **0megafactor** *(Beyond The Clouds)*
+🎤 **[uu look like3 an ##angel](https://open.spotify.com/track/6yryHtWw7ltdgCNhutSTPQ)** by **Rezlaine** *(#Nauseous)*
 🎤 **[connection](https://open.spotify.com/track/3r9cRdSmn0gKTr0KbdNKSt)** by **roxxy** *(connection)*
 🎤 **[Just Want Your Love](https://open.spotify.com/track/44lR7onPLduSGeapqFzhAG)** by **deardiaryy, kiryo!, z4y4, p6inkillr, 9surgery** *(Just Want Your Love)*
 🎤 **[luvbite](https://open.spotify.com/track/4Tac8dmH6yRV48s2n6CoEB)** by **korpsebunny** *(luvbite)*
-🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-17 11:47:49Z UTC
+🕐 Last updated: 2025-10-17 12:25:14Z UTC
 <!-- SPOTIFY-END -->
