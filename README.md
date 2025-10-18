@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)**
+*by* **Michael Jackson**
+*Album:* HIStory - PAST, PRESENT AND FUTURE - BOOK I
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="212" height="4" fill="#1db954" rx="2"/>
+    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:45 • 5:19
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(hide (midwest emo version + extras))*
-🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
-🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
+🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
+🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
+🎤 **[Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-18 20:12:29Z UTC
+🕐 Last updated: 2025-10-18 20:29:09Z UTC
 <!-- SPOTIFY-END -->
