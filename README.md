@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d21764cb15599b2879dcbc75" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)**
+*by* **Fijimar**
+*Album:* hold it down
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="269" height="4" fill="#1db954" rx="2"/>
+    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:09 • 2:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[cut our initials](https://open.spotify.com/track/60In6OPGIVSoNgbxMvQ3F3)** by **cholorofilm** *(cut our initials)*
-🎤 **[Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)** by **LooveX, JeeRAWRXD** *(Self-Xplained)*
-🎤 **[always pick u - slowed](https://open.spotify.com/track/3033A25wwdzLqa26lvlzeX)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
-🎤 **[ETERNAL](https://open.spotify.com/track/4eUlAHkMF0ZGzIcHIje2wp)** by **p6inkillr** *(ETERNAL)*
+🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
+🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
+🎤 **[porcelain scars](https://open.spotify.com/track/2DSxe1Qs8TIX214s0CHmV4)** by **cholorofilm** *(porcelain scars)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 17:47:52Z UTC
+🕐 Last updated: 2025-10-19 18:15:55Z UTC
 <!-- SPOTIFY-END -->
