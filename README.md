@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd4182a624be720625a64ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27310103b7d0c75f3fb39ac07a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [day by day](https://open.spotify.com/track/4c909Xn4pVv5rA4jkH4JoA)**
-*by* **Senses, mint**
-*Album:* fairies have dreams too
+**🎵 [one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)**
+*by* **cholorofilm, ihylunar**
+*Album:* one cut of the dead X_X
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 2:09
+    0:23 • 1:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
-🎤 **[upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)** by **p6inkillr** *(upside down)*
-🎤 **[kms online](https://open.spotify.com/track/66FnhZd2teeIz8TZrr0omv)** by **disoc8, hateoryx, Bandiicam** *(kms online)*
-🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
-🎤 **[White Dust](https://open.spotify.com/track/5xzXEHqC8culVe8XKKDMpk)** by **503scoob, romziie, vampyrska, massacre society, Gutzxx** *(White Dust)*
+🎤 **[WANT SUM MORE (+prettydrama)](https://open.spotify.com/track/2LeVa8tjpjXMpZ4hpL7Pfd)** by **Vee4r, Lyretrix, prettydrama** *(WANT SUM MORE (+prettydrama))*
+🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu, cxpyyy, luu** *(ABCD)*
+🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
+🎤 **[how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)** by **mint** *(how can u even make me feel so unwell)*
+🎤 **[merry go round](https://open.spotify.com/track/0IFIIjzfSzSUk80DFQQISL)** by **Senses, mint** *(merry go round)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 20:47:54Z UTC
+🕐 Last updated: 2025-10-19 21:10:11Z UTC
 <!-- SPOTIFY-END -->
