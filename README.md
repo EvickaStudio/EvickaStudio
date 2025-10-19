@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d2847a2060cd7fc1932b0154" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273424d54bc4cc6824b33a1659f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)**
-*by* **jacal**
-*Album:* resonance (midwest emo version)
+**🎵 [lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)**
+*by* **upgrades, Aukina, dreamstation**
+*Album:* lucked out
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="75" height="4" fill="#1db954" rx="2"/>
-    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 3:39
+    2:20 • 3:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[„Freunde“](https://open.spotify.com/track/7sllMqTh2RNO8EAacmtZOr)** by **Punk Christ** *(„Freunde“)*
-🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(hide (midwest emo version + extras))*
-🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
+🎤 **[fly...](https://open.spotify.com/track/2arjaNvrGYRzlYKTjHjHQk)** by **wiv** *(fly...)*
+🎤 **[will u cry](https://open.spotify.com/track/1UXqh9YcLZdtQCPGhAUr6W)** by **aysi** *(will u cry)*
+🎤 **[Firstclass Misery](https://open.spotify.com/track/7934xEV3gadUNUuoJzl8h0)** by **akiaura, LONOWN, DJ Pointless** *(Fake Everything)*
+🎤 **[apathy](https://open.spotify.com/track/3BDuV5wwskhWop68rVYADg)** by **C:/18hzr/breakcore** *(Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM)*
+🎤 **[starDust](https://open.spotify.com/track/64jKxG8863hplIb8i5A35k)** by **veil** *(starDust)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 05:12:15Z UTC
+🕐 Last updated: 2025-10-19 05:31:00Z UTC
 <!-- SPOTIFY-END -->
