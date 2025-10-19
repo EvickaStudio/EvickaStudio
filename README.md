@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e358d5ad011b83d669e337f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [heartsick](https://open.spotify.com/track/7wrUhITNmDynyQYyfmoQIh)**
-*by* **p6inkillr**
-*Album:* heartsick
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 2:52
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)** by **crusey, trustt** *(what u need)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[hi](https://open.spotify.com/track/0sXaBYLZKDHy2xFva0kw3P)** by **Senses** *(hi)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
+🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
+🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
+🎤 **[heartsick](https://open.spotify.com/track/7wrUhITNmDynyQYyfmoQIh)** by **p6inkillr** *(heartsick)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 21:33:57Z UTC
+🕐 Last updated: 2025-10-19 21:47:52Z UTC
 <!-- SPOTIFY-END -->
