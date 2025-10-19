@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b183075426cd56e3ea8dff7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736803f4cbfa84b51b8e047745" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stepping stone stepping stone stepping stone](https://open.spotify.com/track/46H15J70zAFwe7spGcpjGy)**
-*by* **pupsies**
-*Album:* ill never be a kid again
+**🎵 [Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)**
+*by* **LooveX, JeeRAWRXD**
+*Album:* Self-Xplained
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:52
+    0:36 • 1:54
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[next time](https://open.spotify.com/track/71F1QgHn7275Wp5FRSI9dW)** by **bliiiss, Buffalobang** *(next time)*
-🎤 **[decaying of the mentally ill](https://open.spotify.com/track/19lt0d1tZQsRUfpnEtX7Ge)** by **cholorofilm, nyxixide** *(decaying of the mentally ill)*
-🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)** by **Rezlaine, rylorie** *(iiiistillthinkineeduu)*
+🎤 **[always pick u - slowed](https://open.spotify.com/track/3033A25wwdzLqa26lvlzeX)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
+🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
+🎤 **[ETERNAL](https://open.spotify.com/track/4eUlAHkMF0ZGzIcHIje2wp)** by **p6inkillr** *(ETERNAL)*
+🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 17:09:55Z UTC
+🕐 Last updated: 2025-10-19 17:26:34Z UTC
 <!-- SPOTIFY-END -->
