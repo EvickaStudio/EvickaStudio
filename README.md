@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)**
+*by* **Bassvictim**
+*Album:* Forever
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="7" height="4" fill="#1db954" rx="2"/>
+    <circle cx="7" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:06 • 4:23
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
+🎤 **[Surreal](https://open.spotify.com/track/4bzbaBvahwx1R0jyh5TO8U)** by **Flawed Mangoes** *(Anomaly III)*
 🎤 **[Deathwish](https://open.spotify.com/track/5bCIZEh1zBUnVQO8TqoqSc)** by **akiaura, LONOWN, Baby Jane** *(Deathwish)*
 🎤 **[soda candy ₊˚⊹](https://open.spotify.com/track/0z4tJZNC3jXbFIqvSaEYa7)** by **dolldamage** *(soda candy ₊˚⊹)*
-🎤 **[secret garden](https://open.spotify.com/track/7IbHqPFFHnssNkJViBWM1H)** by **echo angel, k0d4m4, kurt aka** *(echo angel)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
-🎤 **[Glide](https://open.spotify.com/track/4ojzHFPkM9UnJJV8d0ceLJ)** by **heartcoregirl** *(Glide)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 09:47:45Z UTC
+🕐 Last updated: 2025-10-19 10:11:31Z UTC
 <!-- SPOTIFY-END -->
