@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b90eda9c2d28f743401107e9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tell me](https://open.spotify.com/track/0PDHwlcKPeSNYbzDuAhqfU)**
-*by* **wenszy, mymy**
-*Album:* tell me
+**🎵 [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn)**
+*by* **ivri**
+*Album:* the theory of you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="51" height="4" fill="#1db954" rx="2"/>
-    <circle cx="51" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 3:00
+    0:42 • 3:28
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[evergreen](https://open.spotify.com/track/7wnW4ypiBD2GCfjkzZp2RH)** by **jacal** *(evergreen)*
-🎤 **[e x t r a t e r r e s t r i a l](https://open.spotify.com/track/7w07wUvSGhXFmiyGnUB9TI)** by **C, /18hzr/breakcore** *(l a i n / 幻想を壊す v. 4 / animecore, breakcore)*
-🎤 **[Solitude](https://open.spotify.com/track/6Q06JnZvvGpivyuLdD404e)** by **juno, blindheart** *(Solitude)*
-🎤 **[driving with no brakes](https://open.spotify.com/track/0nCXxrEEqewbQMCQfs8iOb)** by **thornskin** *(driving with no brakes)*
-🎤 **[breathe u in](https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH)** by **adore, Sipper** *(breathe u in)*
+🎤 **[Billie Can't Fall in Love with You - Remix](https://open.spotify.com/track/0h7Q7rDJFjtEK9fid35GGm)** by **Kalechip4Music** *(Billie Can't Fall in Love with You (Remix))*
+🎤 **[Turn Echo](https://open.spotify.com/track/2OebX2MtFyVAASVHDmzinj)** by **Kaikobad** *(Turn Echo)*
+🎤 **[live forever](https://open.spotify.com/track/40VGBoUIt5wQYUkrKs9Dg6)** by **sensacya** *(LIVE FOREVER)*
+🎤 **[hide - midwest emo version](https://open.spotify.com/track/4PMPoQwjsH93zrwApDxnwq)** by **jacal** *(hide (midwest emo version))*
+🎤 **[eternally](https://open.spotify.com/track/6NEFqCHp4Dfi2ybY13yZel)** by **outoftouch** *(eternally)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 05:47:54Z UTC
+🕐 Last updated: 2025-10-19 06:18:03Z UTC
 <!-- SPOTIFY-END -->
