@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273424d54bc4cc6824b33a1659f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b90eda9c2d28f743401107e9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)**
-*by* **upgrades, Aukina, dreamstation**
-*Album:* lucked out
+**🎵 [tell me](https://open.spotify.com/track/0PDHwlcKPeSNYbzDuAhqfU)**
+*by* **wenszy, mymy**
+*Album:* tell me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="203" height="4" fill="#1db954" rx="2"/>
-    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 3:26
+    0:30 • 3:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[fly...](https://open.spotify.com/track/2arjaNvrGYRzlYKTjHjHQk)** by **wiv** *(fly...)*
-🎤 **[will u cry](https://open.spotify.com/track/1UXqh9YcLZdtQCPGhAUr6W)** by **aysi** *(will u cry)*
-🎤 **[Firstclass Misery](https://open.spotify.com/track/7934xEV3gadUNUuoJzl8h0)** by **akiaura, LONOWN, DJ Pointless** *(Fake Everything)*
-🎤 **[apathy](https://open.spotify.com/track/3BDuV5wwskhWop68rVYADg)** by **C:/18hzr/breakcore** *(Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM)*
-🎤 **[starDust](https://open.spotify.com/track/64jKxG8863hplIb8i5A35k)** by **veil** *(starDust)*
+🎤 **[evergreen](https://open.spotify.com/track/7wnW4ypiBD2GCfjkzZp2RH)** by **jacal** *(evergreen)*
+🎤 **[e x t r a t e r r e s t r i a l](https://open.spotify.com/track/7w07wUvSGhXFmiyGnUB9TI)** by **C, /18hzr/breakcore** *(l a i n / 幻想を壊す v. 4 / animecore, breakcore)*
+🎤 **[Solitude](https://open.spotify.com/track/6Q06JnZvvGpivyuLdD404e)** by **juno, blindheart** *(Solitude)*
+🎤 **[driving with no brakes](https://open.spotify.com/track/0nCXxrEEqewbQMCQfs8iOb)** by **thornskin** *(driving with no brakes)*
+🎤 **[breathe u in](https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH)** by **adore, Sipper** *(breathe u in)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 05:31:00Z UTC
+🕐 Last updated: 2025-10-19 05:47:54Z UTC
 <!-- SPOTIFY-END -->
