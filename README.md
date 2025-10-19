@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn)**
-*by* **ivri**
-*Album:* the theory of you
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 3:28
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Billie Can't Fall in Love with You - Remix](https://open.spotify.com/track/0h7Q7rDJFjtEK9fid35GGm)** by **Kalechip4Music** *(Billie Can't Fall in Love with You (Remix))*
-🎤 **[Turn Echo](https://open.spotify.com/track/2OebX2MtFyVAASVHDmzinj)** by **Kaikobad** *(Turn Echo)*
-🎤 **[live forever](https://open.spotify.com/track/40VGBoUIt5wQYUkrKs9Dg6)** by **sensacya** *(LIVE FOREVER)*
-🎤 **[hide - midwest emo version](https://open.spotify.com/track/4PMPoQwjsH93zrwApDxnwq)** by **jacal** *(hide (midwest emo version))*
-🎤 **[eternally](https://open.spotify.com/track/6NEFqCHp4Dfi2ybY13yZel)** by **outoftouch** *(eternally)*
+🎤 **[Deathwish](https://open.spotify.com/track/5bCIZEh1zBUnVQO8TqoqSc)** by **akiaura, LONOWN, Baby Jane** *(Deathwish)*
+🎤 **[soda candy ₊˚⊹](https://open.spotify.com/track/0z4tJZNC3jXbFIqvSaEYa7)** by **dolldamage** *(soda candy ₊˚⊹)*
+🎤 **[secret garden](https://open.spotify.com/track/7IbHqPFFHnssNkJViBWM1H)** by **echo angel, k0d4m4, kurt aka** *(echo angel)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[Glide](https://open.spotify.com/track/4ojzHFPkM9UnJJV8d0ceLJ)** by **heartcoregirl** *(Glide)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 06:18:03Z UTC
+🕐 Last updated: 2025-10-19 06:44:02Z UTC
 <!-- SPOTIFY-END -->
