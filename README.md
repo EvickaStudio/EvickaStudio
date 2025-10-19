@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735f62e6ba1dd3a2224d1e04e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd4182a624be720625a64ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kms online](https://open.spotify.com/track/66FnhZd2teeIz8TZrr0omv)**
-*by* **disoc8, hateoryx, Bandiicam**
-*Album:* kms online
+**🎵 [day by day](https://open.spotify.com/track/4c909Xn4pVv5rA4jkH4JoA)**
+*by* **Senses, mint**
+*Album:* fairies have dreams too
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="198" height="4" fill="#1db954" rx="2"/>
-    <circle cx="198" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 2:33
+    1:04 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[upside down](https://open.spotify.com/track/08g0NImkR3MpRUcKHevpEH)** by **p6inkillr** *(upside down)*
+🎤 **[kms online](https://open.spotify.com/track/66FnhZd2teeIz8TZrr0omv)** by **disoc8, hateoryx, Bandiicam** *(kms online)*
 🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
 🎤 **[White Dust](https://open.spotify.com/track/5xzXEHqC8culVe8XKKDMpk)** by **503scoob, romziie, vampyrska, massacre society, Gutzxx** *(White Dust)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[fireflies](https://open.spotify.com/track/1xKuZpQXYRHaXEUbMvkfjX)** by **Senses, mint** *(fairies have dreams too)*
-🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 20:40:42Z UTC
+🕐 Last updated: 2025-10-19 20:47:54Z UTC
 <!-- SPOTIFY-END -->
