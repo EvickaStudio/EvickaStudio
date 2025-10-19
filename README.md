@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27356f94b3f8abd4910fcbcaada" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738c2b7b22366ac64841baa83c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [arteries](https://open.spotify.com/track/3BLhOEe4PhKwEp0mB3RvQR)**
-*by* **Senses**
-*Album:* arteries
+**🎵 [shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)**
+*by* **Lvl99magic**
+*Album:* T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 2:37
+    0:28 • 3:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Kaleidoscopes](https://open.spotify.com/track/4WKIDMaZDzIfwEUipEd56Y)** by **xofilo, yukigloom, Pearlblade** *(Kaleidoscopes)*
-🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
-🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
+🎤 **[LuvLorn </3](https://open.spotify.com/track/1Ltno4ZlC55Vt3NQvJUy4a)** by **LooveX, cholorofilm** *(LuvLorn </3)*
+🎤 **[lie 2 me](https://open.spotify.com/track/2xE6GHvVHkHE2p2kVqo9NY)** by **Senses, Nosgov** *(lie 2 me)*
+🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
+🎤 **[my femcel life](https://open.spotify.com/track/0zllRIMrBb28bf2ieqPKfQ)** by **pupsies** *(my femcel life)*
+🎤 **[MONEY!](https://open.spotify.com/track/0C3G4o1KBZgrMjjIcJD2ka)** by **503scoob, Carter Lilcc!!, de4ler** *(MONEY!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 19:09:13Z UTC
+🕐 Last updated: 2025-10-19 19:22:01Z UTC
 <!-- SPOTIFY-END -->
