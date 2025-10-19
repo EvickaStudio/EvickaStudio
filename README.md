@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372ec94a6ab05d0bba914ed42" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5d438726c4cf6424c0c5a83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)**
-*by* **Elusin**
-*Album:* Silhouette
+**🎵 [nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)**
+*by* **mehlhaltig, luu**
+*Album:* nur für dich!!^_-
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:34 • 2:34
+    0:43 • 2:45
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)*
-🎤 **[uu look like3 an ##angel](https://open.spotify.com/track/6yryHtWw7ltdgCNhutSTPQ)** by **Rezlaine** *(#Nauseous)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[no margin 4 error](https://open.spotify.com/track/3u9S1IYsDNk0BN11HJUTPL)** by **archive computer** *(no margin 4 error)*
-🎤 **[GAMBIT (DJM23)](https://open.spotify.com/track/0L7Eci800fsFJ6NebO6VHd)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[webghost](https://open.spotify.com/track/1tM6TMYnWn5tRIwrRs9uN4)** by **2040x2040** *(webghost)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 12:22:01Z UTC
+🕐 Last updated: 2025-10-19 12:57:37Z UTC
 <!-- SPOTIFY-END -->
