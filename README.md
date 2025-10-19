@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310103b7d0c75f3fb39ac07a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730135d3caf7894c3577c15b26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)**
-*by* **cholorofilm, ihylunar**
-*Album:* one cut of the dead X_X
+**🎵 [hi](https://open.spotify.com/track/0sXaBYLZKDHy2xFva0kw3P)**
+*by* **Senses**
+*Album:* hi
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 1:52
+    0:41 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[WANT SUM MORE (+prettydrama)](https://open.spotify.com/track/2LeVa8tjpjXMpZ4hpL7Pfd)** by **Vee4r, Lyretrix, prettydrama** *(WANT SUM MORE (+prettydrama))*
-🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu, cxpyyy, luu** *(ABCD)*
-🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
-🎤 **[how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)** by **mint** *(how can u even make me feel so unwell)*
-🎤 **[merry go round](https://open.spotify.com/track/0IFIIjzfSzSUk80DFQQISL)** by **Senses, mint** *(merry go round)*
+🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
+🎤 **[psychosocial](https://open.spotify.com/track/3nRTW8Yso8YjFupfz0G1oP)** by **p6inkillr, dollreal, 9surgery** *(psychosocial)*
+🎤 **[grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)** by **pink luu, nami, cxpyyy, luu** *(grabbesuch)*
+🎤 **[titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
+🎤 **[under my skin](https://open.spotify.com/track/3Ufv8Ev2HvoKFZZopHa1du)** by **Dylann** *(under my skin)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 21:10:11Z UTC
+🕐 Last updated: 2025-10-19 21:25:06Z UTC
 <!-- SPOTIFY-END -->
