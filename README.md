@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27371fa5ba8128e091e7c52fb14" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736b5c4c0d49f954a0098a0bb3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [euphoria](https://open.spotify.com/track/6A0DA93LGpfwcEwmPZK6KO)**
+**🎵 [kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)**
 *by* **p6inkillr**
-*Album:* euphoria
+*Album:* kill me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 1:50
+    1:29 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
-🎤 **[funky town](https://open.spotify.com/track/21vd2YcC5B4XNYLnTeVlqw)** by **pink luu, nami, cxpyyy, luu** *(funky town)*
-🎤 **[knochensäge](https://open.spotify.com/track/753mn7HbeehgfN9WeARj52)** by **luu, iwannabemissed** *(immenser pflegefall)*
-🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
-🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[i don't wanna live like this anymore](https://open.spotify.com/track/38SRJ1sylBz5FpKuYt5CWR)** by **pupsies** *(i took too many ibuprofen)*
+🎤 **[EMO](https://open.spotify.com/track/0GXwFz4iNz0K5kgTVIA9ly)** by **pink luu, cxpyyy, luu** *(EMO)*
+🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
+🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
+🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 19:34:07Z UTC
+🕐 Last updated: 2025-10-19 19:47:55Z UTC
 <!-- SPOTIFY-END -->
