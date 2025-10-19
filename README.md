@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730135d3caf7894c3577c15b26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e358d5ad011b83d669e337f8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hi](https://open.spotify.com/track/0sXaBYLZKDHy2xFva0kw3P)**
-*by* **Senses**
-*Album:* hi
+**🎵 [heartsick](https://open.spotify.com/track/7wrUhITNmDynyQYyfmoQIh)**
+*by* **p6inkillr**
+*Album:* heartsick
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="52" height="4" fill="#1db954" rx="2"/>
+    <circle cx="52" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:33
+    0:29 • 2:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[what u need](https://open.spotify.com/track/65sTr9xgBpV5SqNdggm9K0)** by **crusey, trustt** *(what u need)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[hi](https://open.spotify.com/track/0sXaBYLZKDHy2xFva0kw3P)** by **Senses** *(hi)*
 🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
-🎤 **[psychosocial](https://open.spotify.com/track/3nRTW8Yso8YjFupfz0G1oP)** by **p6inkillr, dollreal, 9surgery** *(psychosocial)*
-🎤 **[grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)** by **pink luu, nami, cxpyyy, luu** *(grabbesuch)*
-🎤 **[titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
-🎤 **[under my skin](https://open.spotify.com/track/3Ufv8Ev2HvoKFZZopHa1du)** by **Dylann** *(under my skin)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 21:25:06Z UTC
+🕐 Last updated: 2025-10-19 21:33:57Z UTC
 <!-- SPOTIFY-END -->
