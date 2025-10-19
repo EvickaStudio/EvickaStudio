@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d2847a2060cd7fc1932b0154" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)**
+*by* **jacal**
+*Album:* resonance (midwest emo version)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:55 • 3:39
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[„Freunde“](https://open.spotify.com/track/7sllMqTh2RNO8EAacmtZOr)** by **Punk Christ** *(„Freunde“)*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
+🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
 🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(hide (midwest emo version + extras))*
 🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
-🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
-🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
-🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 04:49:30Z UTC
+🕐 Last updated: 2025-10-19 05:12:15Z UTC
 <!-- SPOTIFY-END -->
