@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736803f4cbfa84b51b8e047745" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)**
-*by* **LooveX, JeeRAWRXD**
-*Album:* Self-Xplained
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="96" height="4" fill="#1db954" rx="2"/>
-    <circle cx="96" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 1:54
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[cut our initials](https://open.spotify.com/track/60In6OPGIVSoNgbxMvQ3F3)** by **cholorofilm** *(cut our initials)*
+🎤 **[Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)** by **LooveX, JeeRAWRXD** *(Self-Xplained)*
 🎤 **[always pick u - slowed](https://open.spotify.com/track/3033A25wwdzLqa26lvlzeX)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
 🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
 🎤 **[ETERNAL](https://open.spotify.com/track/4eUlAHkMF0ZGzIcHIje2wp)** by **p6inkillr** *(ETERNAL)*
-🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
-🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
 
 
 
@@ -154,10 +135,10 @@
 
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🥉 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
-🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
+🥉 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
+🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 17:26:34Z UTC
+🕐 Last updated: 2025-10-19 17:36:14Z UTC
 <!-- SPOTIFY-END -->
