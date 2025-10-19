@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736b5c4c0d49f954a0098a0bb3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273673e97a1f29b123072ac3c49" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kill me](https://open.spotify.com/track/2ZcRkqsUxUu31Qj6y6TEZx)**
-*by* **p6inkillr**
-*Album:* kill me
+**🎵 [never say never 0_0](https://open.spotify.com/track/4a8O1AicUh9kIFwYq0U3zB)**
+*by* **hateoryx**
+*Album:* never say never 0_0
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 2:13
+    1:07 • 2:12
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i don't wanna live like this anymore](https://open.spotify.com/track/38SRJ1sylBz5FpKuYt5CWR)** by **pupsies** *(i took too many ibuprofen)*
-🎤 **[EMO](https://open.spotify.com/track/0GXwFz4iNz0K5kgTVIA9ly)** by **pink luu, cxpyyy, luu** *(EMO)*
-🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
+🎤 **[mo-so](https://open.spotify.com/track/0oHbRZbBulIr0ObT9eJJkW)** by **luu** *(mo-so)*
+🎤 **[attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)** by **angelicxmei** *(attached)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 19:47:55Z UTC
+🕐 Last updated: 2025-10-19 20:13:06Z UTC
 <!-- SPOTIFY-END -->
