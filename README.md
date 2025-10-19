@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273673e97a1f29b123072ac3c49" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd4182a624be720625a64ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [never say never 0_0](https://open.spotify.com/track/4a8O1AicUh9kIFwYq0U3zB)**
-*by* **hateoryx**
-*Album:* never say never 0_0
+**🎵 [fireflies](https://open.spotify.com/track/1xKuZpQXYRHaXEUbMvkfjX)**
+*by* **Senses, mint**
+*Album:* fairies have dreams too
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:12
+    0:23 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
-🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
-🎤 **[mo-so](https://open.spotify.com/track/0oHbRZbBulIr0ObT9eJJkW)** by **luu** *(mo-so)*
-🎤 **[attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)** by **angelicxmei** *(attached)*
-🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
+🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
+🎤 **[INSTA CHATS](https://open.spotify.com/track/3CCkE1QbOUbuVFW4bkrAYq)** by **Vee4r** *(INSTA CHATS)*
+🎤 **[life is strange](https://open.spotify.com/track/7kqz1QURi3UMdc8DwQolPk)** by **luvhex** *(life is strange)*
+🎤 **[leiche auf emma](https://open.spotify.com/track/5XxkG1fcUwl2mfwODFK2fy)** by **luu, luvwillow** *(immenser pflegefall)*
+🎤 **[Lights Off](https://open.spotify.com/track/2ApFtB3lmG9rggyjxK29oq)** by **503scoob, 444pluto, k1lltr4sh** *(Lights Off)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 20:13:06Z UTC
+🕐 Last updated: 2025-10-19 20:30:12Z UTC
 <!-- SPOTIFY-END -->
