@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ae97ed205fe042cdb12b5590" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1f7526dca0e76b6f2587fab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bruh im just tryna live](https://open.spotify.com/track/38ThPrFIHUuHGGmmIDMdW0)**
-*by* **luvhex**
-*Album:* bruh im just tryna live
+**🎵 [LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<](https://open.spotify.com/track/2XW0YSBQ7qkcdg3nqHclsw)**
+*by* **jequya**
+*Album:* LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="180" height="4" fill="#1db954" rx="2"/>
-    <circle cx="180" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:52 • 3:06
+    0:34 • 3:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[be my valentine](https://open.spotify.com/track/5bWqh4kZUYg7ZuIfFBuBdB)** by **kanjiru, pink luu, NXTY** *(be my valentine)*
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
 🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
-🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
-🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
-🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-19 11:34:01Z UTC
+🕐 Last updated: 2025-10-19 11:47:45Z UTC
 <!-- SPOTIFY-END -->
