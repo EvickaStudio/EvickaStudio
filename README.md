@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27305512079f325bcc10e715a8e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27356f94b3f8abd4910fcbcaada" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [POPSTAR SUICIDE](https://open.spotify.com/track/1FpwnTYKH4dHVI1AnpLBiW)**
-*by* **disoc8**
-*Album:* POPSTAR SUICIDE
+**🎵 [arteries](https://open.spotify.com/track/3BLhOEe4PhKwEp0mB3RvQR)**
+*by* **Senses**
+*Album:* arteries
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:01
+    2:18 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)** by **503scoob, Bandiicam, lavendr** *(Around the World)*
-🎤 **[play the part](https://open.spotify.com/track/6Q52ZjmlI8ByubJH8vtUgz)** by **Dylann** *(unshell)*
-🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
-🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
-🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
+🎤 **[Kaleidoscopes](https://open.spotify.com/track/4WKIDMaZDzIfwEUipEd56Y)** by **xofilo, yukigloom, Pearlblade** *(Kaleidoscopes)*
+🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
+🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 18:51:06Z UTC
+🕐 Last updated: 2025-10-19 19:09:13Z UTC
 <!-- SPOTIFY-END -->
