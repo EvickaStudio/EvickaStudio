@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310711c8158d232d8c0b2653b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27305512079f325bcc10e715a8e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)**
-*by* **bliiiss, Buffalobang**
-*Album:* wrong place
+**🎵 [POPSTAR SUICIDE](https://open.spotify.com/track/1FpwnTYKH4dHVI1AnpLBiW)**
+*by* **disoc8**
+*Album:* POPSTAR SUICIDE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="297" height="4" fill="#1db954" rx="2"/>
-    <circle cx="297" cy="2" r="6" fill="#1db954"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:04
+    0:36 • 2:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic, cxpyyy, luu** *(alprazolam)*
-🎤 **[victim](https://open.spotify.com/track/4qfGcjrg4MW3CYy5LU9RTn)** by **Senses** *(victim)*
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
-🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
+🎤 **[Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)** by **503scoob, Bandiicam, lavendr** *(Around the World)*
+🎤 **[play the part](https://open.spotify.com/track/6Q52ZjmlI8ByubJH8vtUgz)** by **Dylann** *(unshell)*
+🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
+🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
+🎤 **[wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)** by **bliiiss, Buffalobang** *(wrong place)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 18:42:27Z UTC
+🕐 Last updated: 2025-10-19 18:51:06Z UTC
 <!-- SPOTIFY-END -->
