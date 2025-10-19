@@ -135,10 +135,10 @@
 
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🥉 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
+🥉 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
-🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
+🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-19 13:21:10Z UTC
+🕐 Last updated: 2025-10-19 13:36:56Z UTC
 <!-- SPOTIFY-END -->
