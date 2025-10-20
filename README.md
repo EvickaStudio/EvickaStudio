@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d033e7b88407b75987e9f2d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)**
+*by* **5v**
+*Album:* do it ##right
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="173" height="4" fill="#1db954" rx="2"/>
+    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:17 • 2:13
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[mindset](https://open.spotify.com/track/1Sj7QiZpRtqSG6u35xhGCy)** by **pichu** *(mindset)*
-🎤 **[stop drop & roll](https://open.spotify.com/track/2IUUoaR0imO9xcIVomWhaP)** by **hateoryx, Pawl4k, Veigayboy** *(StopDrop&Roll!)*
-🎤 **[what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)** by **Senses** *(what i want)*
-🎤 **[buttons](https://open.spotify.com/track/505lraiqvvdEkG7GlVwqa3)** by **ronin, Ripjosh** *(buttons)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[gory gurl](https://open.spotify.com/track/7ypJCJ03D9ud9JJhTO2EFS)** by **korpsebunny** *(gory gurl)*
+🎤 **[DANCEBATTLE!](https://open.spotify.com/track/5k1AMUMJUaETH0imJEz610)** by **Vee4r, Lyretrix** *(DANCEBATTLE!)*
+🎤 **[why me](https://open.spotify.com/track/37dFTC2Kts5AYfucHGQB12)** by **Senses** *(why me)*
+🎤 **[knife 2 school](https://open.spotify.com/track/5m9H8NuGm0DzOSgfMFpCOM)** by **pupsies** *(i took too many ibuprofen)*
+🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-20 14:12:02Z UTC
+🕐 Last updated: 2025-10-20 14:33:21Z UTC
 <!-- SPOTIFY-END -->
