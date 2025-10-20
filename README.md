@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ecc48110c2b94a9e78570709" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27363505e15e0ccb06a5aa09301" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [my femcel life](https://open.spotify.com/track/0zllRIMrBb28bf2ieqPKfQ)**
-*by* **pupsies**
-*Album:* my femcel life
+**🎵 [addiction](https://open.spotify.com/track/3WspSn4DABi5OOxwOkxcd0)**
+*by* **dethkitty, skypebf**
+*Album:* addiction
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="241" height="4" fill="#1db954" rx="2"/>
-    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:51 • 2:18
+    1:35 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
-🎤 **[bloodstainz](https://open.spotify.com/track/52vpmVpGvbAIKQEaiCodZW)** by **pichu** *(bloodstainz)*
-🎤 **[mo-so](https://open.spotify.com/track/0oHbRZbBulIr0ObT9eJJkW)** by **luu** *(mo-so)*
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
-🎤 **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)*
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[throwing up](https://open.spotify.com/track/63BLSQ9YlKVJ0S1tTmAlUt)** by **luu, dethkitty** *(throwing up)*
+🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
+🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic, cxpyyy, luu** *(alprazolam)*
+🎤 **[stepping stone stepping stone stepping stone](https://open.spotify.com/track/46H15J70zAFwe7spGcpjGy)** by **pupsies** *(ill never be a kid again)*
 
 
 
@@ -154,10 +154,10 @@
 
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🥉 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
-🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
+🥉 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
+🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-20 16:15:22Z UTC
+🕐 Last updated: 2025-10-20 16:40:25Z UTC
 <!-- SPOTIFY-END -->
