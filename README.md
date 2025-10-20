@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Her & Her Friends](https://open.spotify.com/track/6ioaXS9ejmXAzVjIZJ2pAT)** by **503scoob, k1lltr4sh, UpVampin** *(Her & Her Friends)*
 🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
 🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
 🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
 🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
-🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-20 09:48:39Z UTC
+🕐 Last updated: 2025-10-20 10:14:36Z UTC
 <!-- SPOTIFY-END -->
