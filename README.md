@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d033e7b88407b75987e9f2d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)**
-*by* **5v**
-*Album:* do it ##right
+**🎵 [ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)**
+*by* **leander, ilyproxy, Hadesthegrim**
+*Album:* GV Magazin: Deluxe Sex
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 2:13
+    0:44 • 2:07
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[gory gurl](https://open.spotify.com/track/7ypJCJ03D9ud9JJhTO2EFS)** by **korpsebunny** *(gory gurl)*
-🎤 **[DANCEBATTLE!](https://open.spotify.com/track/5k1AMUMJUaETH0imJEz610)** by **Vee4r, Lyretrix** *(DANCEBATTLE!)*
-🎤 **[why me](https://open.spotify.com/track/37dFTC2Kts5AYfucHGQB12)** by **Senses** *(why me)*
-🎤 **[knife 2 school](https://open.spotify.com/track/5m9H8NuGm0DzOSgfMFpCOM)** by **pupsies** *(i took too many ibuprofen)*
-🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[Zzz](https://open.spotify.com/track/2TNrjl2Eh9cqOg9C04Eau5)** by **Drux** *(Zzz)*
+🎤 **[sick goodbye](https://open.spotify.com/track/21QTCscKx0zMBzWIno9RN3)** by **Senses, Lain** *(sick goodbye)*
+🎤 **[LOBOTOMY](https://open.spotify.com/track/5Sj3A3Nr0jLiJoet9fxuzz)** by **pupsies, loony** *(SLEEPLESS)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-20 14:33:21Z UTC
+🕐 Last updated: 2025-10-20 14:50:29Z UTC
 <!-- SPOTIFY-END -->
