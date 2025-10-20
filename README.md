@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad77b636c59ced2f20fbfdcc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)**
-*by* **pink luu, dethkitty, cxpyyy, luu**
-*Album:* love castle
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:20
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[spacehey on my mind](https://open.spotify.com/track/2CI2Qt5hQUBbMj6o6y7xX8)** by **elctrnc/sed:/, matascoo, NXTY** *(spacehey on my mind)*
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
-🎤 **[love always seems to come out the blue](https://open.spotify.com/track/0W18At7uaqyugRN0WYK3MG)** by **may** *(love always seems to come out the blue)*
-🎤 **[i don't wanna live like this anymore](https://open.spotify.com/track/38SRJ1sylBz5FpKuYt5CWR)** by **pupsies** *(i took too many ibuprofen)*
-🎤 **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
+🎤 **[that's ok](https://open.spotify.com/track/5T7AArrh5G5YzeqwsWMhtb)** by **Rezlaine, KidSnorlax** *(that's ok)*
+🎤 **[silver - cover](https://open.spotify.com/track/4zibp81wxmSD8eaghuQIa7)** by **trndytrndy** *(songs2)*
+🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-20 20:34:10Z UTC
+🕐 Last updated: 2025-10-20 20:49:39Z UTC
 <!-- SPOTIFY-END -->
