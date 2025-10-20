@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6)**
+*by* **Memo Boy, Chakra Efendi**
+*Album:* Songs & Demos 2015-2017
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="58" height="4" fill="#1db954" rx="2"/>
+    <circle cx="58" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:41 • 3:32
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
-🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
-🎤 **[I Don't Wanna Change](https://open.spotify.com/track/7qVo8ICnNp6vP5h7XLQeT7)** by **Senses** *(I Don't Wanna Change)*
-🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
-🎤 **[heartsick](https://open.spotify.com/track/7wrUhITNmDynyQYyfmoQIh)** by **p6inkillr** *(heartsick)*
+🎤 **[Irgendeine Kleinstadt](https://open.spotify.com/track/1y5oww3sAqHnTH64WVV6PL)** by **Tamino404, kevin** *(es ist nicht mehr 2016)*
+🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
+🎤 **[Everyday](https://open.spotify.com/track/4EAV2cKiqKP5UPZmY6dejk)** by **Logic, Marshmello** *(Bobby Tarantino II)*
+🎤 **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by **Traumatin, whosroman** *(Helium)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-20 08:17:59Z UTC
+🕐 Last updated: 2025-10-20 08:44:32Z UTC
 <!-- SPOTIFY-END -->
