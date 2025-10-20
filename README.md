@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734e1261d650244d74db8408ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)**
-*by* **luu, offaflat**
-*Album:* immenser pflegefall
+**🎵 [gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)**
+*by* **blombi19**
+*Album:* gaukler
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 1:37
+    2:39 • 2:55
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
+🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
+🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
 🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
 🎤 **[used 2 rule the club](https://open.spotify.com/track/5tqW3TRLvInoZWN98sjjhj)** by **hateoryx, Pawl4k** *(used 2 rule the club)*
-🎤 **[Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)** by **nomu.** *(Medicine)*
-🎤 **[mannequin](https://open.spotify.com/track/2dkju0OgfeLJx3NpYL6aPJ)** by **Fijimar** *(mannequin)*
-🎤 **[FML (+kets4eki)](https://open.spotify.com/track/5iqTLYGuwglIMutcntNDBj)** by **Vee4r, kets4eki** *(FML (+kets4eki))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-10-20 11:26:42Z UTC
+🕐 Last updated: 2025-10-20 11:36:04Z UTC
 <!-- SPOTIFY-END -->
