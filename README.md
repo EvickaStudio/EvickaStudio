@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d6ae665490ec905ddc3fd17f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)**
-*by* **Senses, mint**
-*Album:* paranoid
+**🎵 [bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)**
+*by* **luu, offaflat**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:37
+    0:36 • 1:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)** by **Scarly, korpsebunny** *(crawl out my skin)*
-🎤 **[REMEMBER](https://open.spotify.com/track/3jsIlbKib43V4yxNTXGWUm)** by **pupsies** *(SLEEPLESS)*
-🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
-🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
-🎤 **[internet fame](https://open.spotify.com/track/4yP3Rw1bjIceuA7DJOzpbx)** by **p6inkillr** *(internet fame)*
+🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
+🎤 **[used 2 rule the club](https://open.spotify.com/track/5tqW3TRLvInoZWN98sjjhj)** by **hateoryx, Pawl4k** *(used 2 rule the club)*
+🎤 **[Medicine](https://open.spotify.com/track/6k50JZqn3gxu0RprbCS0bf)** by **nomu.** *(Medicine)*
+🎤 **[mannequin](https://open.spotify.com/track/2dkju0OgfeLJx3NpYL6aPJ)** by **Fijimar** *(mannequin)*
+🎤 **[FML (+kets4eki)](https://open.spotify.com/track/5iqTLYGuwglIMutcntNDBj)** by **Vee4r, kets4eki** *(FML (+kets4eki))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-10-20 11:11:30Z UTC
+🕐 Last updated: 2025-10-20 11:26:42Z UTC
 <!-- SPOTIFY-END -->
