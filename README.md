@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27342e3f2409f426d7f363f7ddf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)**
-*by* **flywoah**
-*Album:* Live It
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:09
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[killer!](https://open.spotify.com/track/3vMuE4SNRjz50xCunrW9ih)** by **traumadoll** *(killer!)*
-🎤 **[rave grl](https://open.spotify.com/track/1Csd45WdBtF6Ph7hC6xdo2)** by **Fijimar** *(rave grl)*
-🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
-🎤 **[Cold](https://open.spotify.com/track/0h9EjkHs6OhK1ADBDSFcEO)** by **Senses, oaf1** *(Cold)*
-🎤 **[spiral out control](https://open.spotify.com/track/3XRnFAadgVDwAu1SXLK3aW)** by **hateoryx, pink luu, Pawl4k** *(spiral out control)*
+🎤 **[mindset](https://open.spotify.com/track/1Sj7QiZpRtqSG6u35xhGCy)** by **pichu** *(mindset)*
+🎤 **[stop drop & roll](https://open.spotify.com/track/2IUUoaR0imO9xcIVomWhaP)** by **hateoryx, Pawl4k, Veigayboy** *(StopDrop&Roll!)*
+🎤 **[what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)** by **Senses** *(what i want)*
+🎤 **[buttons](https://open.spotify.com/track/505lraiqvvdEkG7GlVwqa3)** by **ronin, Ripjosh** *(buttons)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
 
 
 
@@ -155,9 +136,9 @@
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
 🥉 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
-🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
+🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-20 11:47:50Z UTC
+🕐 Last updated: 2025-10-20 12:26:32Z UTC
 <!-- SPOTIFY-END -->
