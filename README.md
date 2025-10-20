@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27344c4f1f5bf2f4ff74a6dd8e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ecc48110c2b94a9e78570709" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)**
-*by* **444pluto, Nosgov, NXTY**
-*Album:* REMEMBER U MINE!
+**🎵 [my femcel life](https://open.spotify.com/track/0zllRIMrBb28bf2ieqPKfQ)**
+*by* **pupsies**
+*Album:* my femcel life
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:04
+    1:51 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)** by **Rezlaine, rylorie** *(iiiistillthinkineeduu)*
-🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
-🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
+🎤 **[VSAUCE ....](https://open.spotify.com/track/0DrsGBXfG2I2Cma0iykJjF)** by **agelast222, gard** *(SOLARCORP)*
+🎤 **[bloodstainz](https://open.spotify.com/track/52vpmVpGvbAIKQEaiCodZW)** by **pichu** *(bloodstainz)*
+🎤 **[mo-so](https://open.spotify.com/track/0oHbRZbBulIr0ObT9eJJkW)** by **luu** *(mo-so)*
+🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-20 15:47:57Z UTC
+🕐 Last updated: 2025-10-20 16:15:22Z UTC
 <!-- SPOTIFY-END -->
