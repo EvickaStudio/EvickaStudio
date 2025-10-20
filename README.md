@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734e1261d650244d74db8408ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27342e3f2409f426d7f363f7ddf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)**
-*by* **blombi19**
-*Album:* gaukler
+**🎵 [Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)**
+*by* **flywoah**
+*Album:* Live It
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="273" height="4" fill="#1db954" rx="2"/>
-    <circle cx="273" cy="2" r="6" fill="#1db954"/>
+    <rect width="162" height="4" fill="#1db954" rx="2"/>
+    <circle cx="162" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 2:55
+    1:10 • 2:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
-🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
-🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
-🎤 **[let go of me](https://open.spotify.com/track/5XQH0rZB4yxbdZRYql0VVT)** by **Senses, mint** *(let go of me)*
-🎤 **[used 2 rule the club](https://open.spotify.com/track/5tqW3TRLvInoZWN98sjjhj)** by **hateoryx, Pawl4k** *(used 2 rule the club)*
+🎤 **[killer!](https://open.spotify.com/track/3vMuE4SNRjz50xCunrW9ih)** by **traumadoll** *(killer!)*
+🎤 **[rave grl](https://open.spotify.com/track/1Csd45WdBtF6Ph7hC6xdo2)** by **Fijimar** *(rave grl)*
+🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
+🎤 **[Cold](https://open.spotify.com/track/0h9EjkHs6OhK1ADBDSFcEO)** by **Senses, oaf1** *(Cold)*
+🎤 **[spiral out control](https://open.spotify.com/track/3XRnFAadgVDwAu1SXLK3aW)** by **hateoryx, pink luu, Pawl4k** *(spiral out control)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-10-20 11:36:04Z UTC
+🕐 Last updated: 2025-10-20 11:47:50Z UTC
 <!-- SPOTIFY-END -->
