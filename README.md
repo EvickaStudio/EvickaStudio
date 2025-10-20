@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
+*by* **blombi19**
+*Album:* herzkasper
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="258" height="4" fill="#1db954" rx="2"/>
+    <circle cx="258" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:12 • 3:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[CROWS](https://open.spotify.com/track/5RTF0CIjib8luSzh3YnY0L)** by **mikeycyrus** *(CYRUS)*
+🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[Déjà-vu](https://open.spotify.com/track/3iRsLriNbL9ETnDeKP5Lsj)** by **Rill** *(Déjà-vu)*
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
 🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
-🎤 **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)*
-🎤 **[liebe digital - sped up](https://open.spotify.com/track/5r3ewGHFZA35mPwQIXzRRC)** by **stixz, muli** *(liebe digital)*
-🎤 **[all my fault](https://open.spotify.com/track/2b07aJJY5XnkVs3eaTjXLm)** by **Fijimar** *(all my fault)*
-🎤 **[addiction](https://open.spotify.com/track/3WspSn4DABi5OOxwOkxcd0)** by **dethkitty, skypebf** *(addiction)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-20 19:10:33Z UTC
+🕐 Last updated: 2025-10-20 19:25:35Z UTC
 <!-- SPOTIFY-END -->
