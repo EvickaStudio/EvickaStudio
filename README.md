@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27344c4f1f5bf2f4ff74a6dd8e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)**
+*by* **444pluto, Nosgov, NXTY**
+*Album:* REMEMBER U MINE!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 3:43
+    0:42 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
-🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
-🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)** by **Rezlaine, rylorie** *(iiiistillthinkineeduu)*
+🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
+🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
+🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
+🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-20 15:31:12Z UTC
+🕐 Last updated: 2025-10-20 15:47:57Z UTC
 <!-- SPOTIFY-END -->
