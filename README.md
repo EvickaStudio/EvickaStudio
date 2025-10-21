@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27334a78803f43a0fa3fe7a82fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)**
-*by* **BED**
-*Album:* everything hurts
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 3:20
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
+🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
 🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
-🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
-🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-21 17:49:21Z UTC
+🕐 Last updated: 2025-10-21 18:17:41Z UTC
 <!-- SPOTIFY-END -->
