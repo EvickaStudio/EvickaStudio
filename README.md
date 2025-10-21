@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2731e2b4f474f6748b89fb84707" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)**
+*by* **cy4ne, iwannabemissed**
+*Album:* keep yourself safe
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="163" height="4" fill="#1db954" rx="2"/>
+    <circle cx="163" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:57 • 1:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(hide (midwest emo version + extras))*
 🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
 🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 🎤 **[that's ok](https://open.spotify.com/track/5T7AArrh5G5YzeqwsWMhtb)** by **Rezlaine, KidSnorlax** *(that's ok)*
 🎤 **[silver - cover](https://open.spotify.com/track/4zibp81wxmSD8eaghuQIa7)** by **trndytrndy** *(songs2)*
-🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-21 07:13:35Z UTC
+🕐 Last updated: 2025-10-21 07:30:07Z UTC
 <!-- SPOTIFY-END -->
