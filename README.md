@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731e2b4f474f6748b89fb84707" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353c971846e2771c67c5ba377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)**
-*by* **cy4ne, iwannabemissed**
-*Album:* keep yourself safe
+**🎵 [AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)**
+*by* **agelast222**
+*Album:* AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 1:45
+    1:20 • 2:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-22 11:11:47Z UTC
+🕐 Last updated: 2025-10-22 11:27:09Z UTC
 <!-- SPOTIFY-END -->
