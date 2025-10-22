@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dff61be850aa5636c5e2034c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
-*by* **mint**
-*Album:* help me
+**🎵 [tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)**
+*by* **pink luu, 1antibody**
+*Album:* tot wie maus
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 2:48
+    2:08 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
-🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
-🎤 **[LETZTE NACHT](https://open.spotify.com/track/0E4vkkE8tMfV1u94Df8wQs)** by **stixz, muli** *(love core)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[Sequence](https://open.spotify.com/track/4PasUb74PQ4N6HOxtaIqZm)** by **Capoxxo, mayh3mp** *(Sequence)*
+🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
+🎤 **[TXGC](https://open.spotify.com/track/0yOakCdnNteEnIJynCVKf5)** by **stixz** *(toxics1ut)*
+🎤 **[Save Me](https://open.spotify.com/track/7FWhGwONzWO27mEN3GQk70)** by **Capoxxo** *(Save Me)*
+🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-22 11:48:06Z UTC
+🕐 Last updated: 2025-10-22 12:26:29Z UTC
 <!-- SPOTIFY-END -->
