@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bf05fe981ec52e15fa9d137f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [You That Guy Who Tells](https://open.spotify.com/track/4x3m9Kt2m4zrNnldhtpyTx)**
-*by* **Jaw Jam**
-*Album:* Uncharted Territories Vol. 1
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:36 • 4:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[I Need Someone](https://open.spotify.com/track/2vGiXUzTsa5cFtadsoJLbF)** by **Todd Edwards** *(Serie Uno EP)*
+🎤 **[You That Guy Who Tells](https://open.spotify.com/track/4x3m9Kt2m4zrNnldhtpyTx)** by **Jaw Jam** *(Uncharted Territories Vol. 1)*
 🎤 **[Youth Speed Trouble Cigarettes](https://open.spotify.com/track/41Q0oON0fvLWptmfS8rDcO)** by **Cassius** *(Best Of 1996-2019)*
 🎤 **[HARDX](https://open.spotify.com/track/3AX2zMrXcR2up2rg4bpXSM)** by **yaego** *(HARDX)*
 🎤 **[Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut)** by **The Chemical Brothers** *(Surrender)*
-🎤 **[Talk About](https://open.spotify.com/track/0upZlX2g2bnjAJA5OOsMlH)** by **Les Sins** *(Michael)*
-🎤 **[Face to Face](https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay)** by **Daft Punk** *(Discovery)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-22 13:55:04Z UTC
+🕐 Last updated: 2025-10-22 14:13:56Z UTC
 <!-- SPOTIFY-END -->
