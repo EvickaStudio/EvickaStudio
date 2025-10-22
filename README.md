@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b80e04e6240095cbd5641bc1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sequence](https://open.spotify.com/track/4PasUb74PQ4N6HOxtaIqZm)**
-*by* **Capoxxo, mayh3mp**
-*Album:* Sequence
+**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
+*by* **mint**
+*Album:* help me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="43" height="4" fill="#1db954" rx="2"/>
+    <circle cx="43" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:41
+    0:24 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
-🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
+🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
+🎤 **[eurolungs](https://open.spotify.com/track/2YXWpWvwuDjo11VDBRccSL)** by **Rezlaine, fiction57** *(nial.)*
+🎤 **[LETZTE NACHT](https://open.spotify.com/track/0E4vkkE8tMfV1u94Df8wQs)** by **stixz, muli** *(love core)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[Sequence](https://open.spotify.com/track/4PasUb74PQ4N6HOxtaIqZm)** by **Capoxxo, mayh3mp** *(Sequence)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-22 11:37:20Z UTC
+🕐 Last updated: 2025-10-22 11:48:06Z UTC
 <!-- SPOTIFY-END -->
