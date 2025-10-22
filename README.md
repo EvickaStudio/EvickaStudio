@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dff61be850aa5636c5e2034c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)**
-*by* **pink luu, 1antibody**
-*Album:* tot wie maus
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="261" height="4" fill="#1db954" rx="2"/>
-    <circle cx="261" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:08 • 2:27
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Luv2Hate](https://open.spotify.com/track/4Im8E4fM9iqkjbS8GrddoA)** by **Killedbykira** *(Luv2Hate)*
+🎤 **[Differences](https://open.spotify.com/track/1t0g9IWkCoAfZJ4Cw8pQKs)** by **Capoxxo** *(Differences)*
+🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)** by **pink luu, 1antibody** *(tot wie maus)*
 🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
-🎤 **[TXGC](https://open.spotify.com/track/0yOakCdnNteEnIJynCVKf5)** by **stixz** *(toxics1ut)*
-🎤 **[Save Me](https://open.spotify.com/track/7FWhGwONzWO27mEN3GQk70)** by **Capoxxo** *(Save Me)*
-🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-22 12:26:29Z UTC
+🕐 Last updated: 2025-10-22 13:08:03Z UTC
 <!-- SPOTIFY-END -->
