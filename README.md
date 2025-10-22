@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27329dc59785f4c767fcbfc9e38" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut)**
+*by* **The Chemical Brothers**
+*Album:* Surrender
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:06 • 4:50
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Talk About](https://open.spotify.com/track/0upZlX2g2bnjAJA5OOsMlH)** by **Les Sins** *(Michael)*
+🎤 **[Face to Face](https://open.spotify.com/track/7v9Q0dAb9t7h8gJOkcJHay)** by **Daft Punk** *(Discovery)*
+🎤 **[Fantasy](https://open.spotify.com/track/6o2Yj3Usc7tfNW9XJQy6eB)** by **Breakbot, Ruckazoid** *(By Your Side)*
+🎤 **[CURIOUS (feat. Toro y Moi)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB)** by **Sam Gellaitry, Toro y Moi** *(CURIOUS (feat. Toro y Moi))*
 🎤 **[Luv2Hate](https://open.spotify.com/track/4Im8E4fM9iqkjbS8GrddoA)** by **Killedbykira** *(Luv2Hate)*
-🎤 **[Differences](https://open.spotify.com/track/1t0g9IWkCoAfZJ4Cw8pQKs)** by **Capoxxo** *(Differences)*
-🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
-🎤 **[tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)** by **pink luu, 1antibody** *(tot wie maus)*
-🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-22 13:08:03Z UTC
+🕐 Last updated: 2025-10-22 13:43:39Z UTC
 <!-- SPOTIFY-END -->
