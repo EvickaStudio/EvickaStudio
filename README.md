@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c620507a4da98bc9c60df9ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)**
+*by* **lavendr, roshyw**
+*Album:* SHE'S A GIRL IN A BLACK DRESS
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:06 • 2:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
 🎤 **[I Need Someone](https://open.spotify.com/track/2vGiXUzTsa5cFtadsoJLbF)** by **Todd Edwards** *(Serie Uno EP)*
 🎤 **[You That Guy Who Tells](https://open.spotify.com/track/4x3m9Kt2m4zrNnldhtpyTx)** by **Jaw Jam** *(Uncharted Territories Vol. 1)*
 🎤 **[Youth Speed Trouble Cigarettes](https://open.spotify.com/track/41Q0oON0fvLWptmfS8rDcO)** by **Cassius** *(Best Of 1996-2019)*
-🎤 **[HARDX](https://open.spotify.com/track/3AX2zMrXcR2up2rg4bpXSM)** by **yaego** *(HARDX)*
-🎤 **[Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut)** by **The Chemical Brothers** *(Surrender)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-22 14:13:56Z UTC
+🕐 Last updated: 2025-10-22 14:39:05Z UTC
 <!-- SPOTIFY-END -->
