@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 🎤 **[ME!ME!ME! feat. daoko_pt.2](https://open.spotify.com/track/5jaSLzDbU8PrKhtNuvN0qA)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
 🎤 **[Date](https://open.spotify.com/track/7A7lxMWZI2Uow7WqWjWGcM)** by **RADWIMPS** *(Your Name.)*
 🎤 **[Prologue](https://open.spotify.com/track/5afshZUnxUeMkYGSkf8iqP)** by **美波** *(カワキヲアメク)*
 🎤 **[veil](https://open.spotify.com/track/1QkEUbGSlp70DYNFcxcxYI)** by **須田景凪** *(Billow)*
-🎤 **[ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J)** by **Rokudenashi** *(ただ声一つ)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-23 17:48:49Z UTC
+🕐 Last updated: 2025-10-23 18:18:46Z UTC
 <!-- SPOTIFY-END -->
