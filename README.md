@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738f3dc36ed6737a2f83c723cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ec466704ff7c3385caa0588e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u)**
-*by* **LiSA**
-*Album:* LiTTLE DEViL PARADE
+**🎵 [My Soul, Your Beats!](https://open.spotify.com/track/6czE5Nsi4SG2NPAufqxPMH)**
+*by* **Lia, VISUAL ARTS / Key**
+*Album:* Key+Lia Best 2001-2010
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="38" height="4" fill="#1db954" rx="2"/>
-    <circle cx="38" cy="2" r="6" fill="#1db954"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 4:42
+    4:17 • 4:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Celebration (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2AmRjWxvLxJK3DjCYNruLI)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
+🎤 **[ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)** by **美波** *(カワキヲアメク)*
+🎤 **[Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u)** by **LiSA** *(LiTTLE DEViL PARADE)*
 🎤 **[Blood Drain -Again- (Eltnum Theme)](https://open.spotify.com/track/2rc5d4JWhkUAqC6V26Apcf)** by **来兎** *(UNDER NIGHT IN-BIRTH Exe:Late (Original Soundtrack))*
 🎤 **[DAYS of DASH](https://open.spotify.com/track/05tgM5KwoJL27Gm2b55u1W)** by **Konomi Suzuki** *(17)*
-🎤 **[WWW](https://open.spotify.com/track/7q1s50de8Xrr6KSn7rBo3N)** by **Moe Shop, EDOGA-SULLIVAN** *(WWW)*
-🎤 **[Nandemonaiya - movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6)** by **RADWIMPS** *(Your Name.)*
-🎤 **[ライラック](https://open.spotify.com/track/1bjvM3ArxhRzIUuum0bB7P)** by **美波** *(カワキヲアメク)*
 
 
 
@@ -153,11 +153,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
-🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🥉 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
+🥈 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
+🥉 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
+🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
-🏅 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 
 
-🕐 Last updated: 2025-10-23 16:55:16Z UTC
+🕐 Last updated: 2025-10-23 17:11:34Z UTC
 <!-- SPOTIFY-END -->
