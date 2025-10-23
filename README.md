@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735f685067786c7e2d1253ecff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)**
+*by* **LiSA**
+*Album:* LANDSPACE
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:17 • 4:08
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)** by **Konomi Suzuki** *(LIFE of DASH)*
+🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
 🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
 🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
-🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
-🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 
 
-🕐 Last updated: 2025-10-23 13:53:27Z UTC
+🕐 Last updated: 2025-10-23 14:13:18Z UTC
 <!-- SPOTIFY-END -->
