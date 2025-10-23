@@ -137,8 +137,8 @@
 🥈 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
 🥉 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
-🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
+🏅 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 
 
-🕐 Last updated: 2025-10-23 04:35:43Z UTC
+🕐 Last updated: 2025-10-23 04:49:26Z UTC
 <!-- SPOTIFY-END -->
