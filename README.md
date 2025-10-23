@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273656d17184f33544caeae3511" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735b5b99e7ece1750e02b24207" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)**
-*by* **美波**
-*Album:* アメヲマツ、
+**🎵 [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)**
+*by* **Konomi Suzuki**
+*Album:* Reweave
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 4:54
+    2:57 • 3:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[sugar rush](https://open.spotify.com/track/2hOE6aYHeuZqiUA25qgT5v)** by **Yandere** *(sugar rush)*
+🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
+🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
+🎤 **[アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)** by **美波** *(アメヲマツ、)*
 🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
-🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
-🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 
 
-🕐 Last updated: 2025-10-23 14:35:45Z UTC
+🕐 Last updated: 2025-10-23 14:51:47Z UTC
 <!-- SPOTIFY-END -->
