@@ -136,9 +136,9 @@
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥈 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 🥉 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
+🏅 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
 
 
-🕐 Last updated: 2025-10-23 21:24:39Z UTC
+🕐 Last updated: 2025-10-23 21:33:27Z UTC
 <!-- SPOTIFY-END -->
