@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ec1bf8577915ccc121a3e575" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)**
+*by* **Joji**
+*Album:* PIXELATED KISSES
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="208" height="4" fill="#1db954" rx="2"/>
+    <circle cx="208" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:16 • 1:50
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
+🎤 **[main actor](https://open.spotify.com/track/3NNLPqn14eWuAulJxo4eZH)** by **美波** *(カワキヲアメク)*
 🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
-🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)** by **LiSA** *(LANDSPACE)*
-🎤 **[This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)** by **Konomi Suzuki** *(LIFE of DASH)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-23 19:24:47Z UTC
+🕐 Last updated: 2025-10-23 19:33:52Z UTC
 <!-- SPOTIFY-END -->
