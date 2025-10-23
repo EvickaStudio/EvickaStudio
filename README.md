@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
 🎤 **[This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)** by **Konomi Suzuki** *(LIFE of DASH)*
 🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
 🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
-🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-10-23 03:24:15Z UTC
+🕐 Last updated: 2025-10-23 03:47:38Z UTC
 <!-- SPOTIFY-END -->
