@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735b5b99e7ece1750e02b24207" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)**
-*by* **Konomi Suzuki**
-*Album:* Reweave
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:57 • 3:57
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
 🎤 **[sugar rush](https://open.spotify.com/track/2hOE6aYHeuZqiUA25qgT5v)** by **Yandere** *(sugar rush)*
 🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
 🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
 🎤 **[アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)** by **美波** *(アメヲマツ、)*
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 
 
-🕐 Last updated: 2025-10-23 14:51:47Z UTC
+🕐 Last updated: 2025-10-23 15:13:35Z UTC
 <!-- SPOTIFY-END -->
