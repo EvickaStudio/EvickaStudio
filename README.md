@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e9fd02e97a157b435f106dd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)**
+*by* **Konomi Suzuki**
+*Album:* LIFE of DASH
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="207" height="4" fill="#1db954" rx="2"/>
+    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:16 • 4:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
+🎤 **[Gathers Under Night...](https://open.spotify.com/track/2OFdjq9jEj8wM9E8LNGw9h)** by **来兎** *(UNDER NIGHT IN-BIRTH Exe:Late (Original Soundtrack))*
+🎤 **[Gathers Under Night...](https://open.spotify.com/track/2OFdjq9jEj8wM9E8LNGw9h)** by **来兎** *(UNDER NIGHT IN-BIRTH Exe:Late (Original Soundtrack))*
 🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
 🎤 **[sugar rush](https://open.spotify.com/track/2hOE6aYHeuZqiUA25qgT5v)** by **Yandere** *(sugar rush)*
-🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
-🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
-🎤 **[アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)** by **美波** *(アメヲマツ、)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 
 
-🕐 Last updated: 2025-10-23 15:47:58Z UTC
+🕐 Last updated: 2025-10-23 16:15:48Z UTC
 <!-- SPOTIFY-END -->
