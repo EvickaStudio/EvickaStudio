@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733d1869d8c477d291a205a2d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Date](https://open.spotify.com/track/7A7lxMWZI2Uow7WqWjWGcM)**
-*by* **RADWIMPS**
-*Album:* Your Name.
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="167" height="4" fill="#1db954" rx="2"/>
-    <circle cx="167" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 4:05
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ME!ME!ME! feat. daoko_pt.2](https://open.spotify.com/track/5jaSLzDbU8PrKhtNuvN0qA)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[Date](https://open.spotify.com/track/7A7lxMWZI2Uow7WqWjWGcM)** by **RADWIMPS** *(Your Name.)*
 🎤 **[Prologue](https://open.spotify.com/track/5afshZUnxUeMkYGSkf8iqP)** by **美波** *(カワキヲアメク)*
 🎤 **[veil](https://open.spotify.com/track/1QkEUbGSlp70DYNFcxcxYI)** by **須田景凪** *(Billow)*
 🎤 **[ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J)** by **Rokudenashi** *(ただ声一つ)*
-🎤 **[CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)** by **Konomi Suzuki** *(17)*
-🎤 **[My Soul, Your Beats!](https://open.spotify.com/track/6czE5Nsi4SG2NPAufqxPMH)** by **Lia, VISUAL ARTS / Key** *(Key+Lia Best 2001-2010)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Don't Give Up**](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)
 
 
-🕐 Last updated: 2025-10-23 17:29:48Z UTC
+🕐 Last updated: 2025-10-23 17:41:14Z UTC
 <!-- SPOTIFY-END -->
