@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a4ace57d70ec23704fb22797" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)**
-*by* **korpsebunny**
-*Album:* vampire girl
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 2:20
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
 🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
 🎤 **[F4](https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p)** by **DRES** *(F4)*
 🎤 **[Cascading Emotions](https://open.spotify.com/track/1bY9irHouNHlJlmrCgBnDC)** by **Joshka** *(TANO*C EXTRA)*
 🎤 **[canuhearmenow?](https://open.spotify.com/track/3FVkDpcWhOUXUiiFmkdfj1)** by **uramaki.** *(canuhearmenow?)*
-🎤 **[#Loveme2](https://open.spotify.com/track/6Lk1naeGi8PrfMEULAodQO)** by **latex fruit** *(#Loveme2)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-24 17:48:56Z UTC
+🕐 Last updated: 2025-10-24 18:18:36Z UTC
 <!-- SPOTIFY-END -->
