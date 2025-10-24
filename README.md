@@ -134,11 +134,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
-🥈 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
-🥉 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
-🏅 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
+🥈 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
+🥉 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
+🏅 [**Airglow**](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-24 15:13:25Z UTC
+🕐 Last updated: 2025-10-24 15:33:24Z UTC
 <!-- SPOTIFY-END -->
