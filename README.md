@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273485e080683007b387cb4186f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)**
-*by* **luu, Skatey Hellstar**
-*Album:* shapeshifter
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 2:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
-🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
-🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
-🎤 **[ich wach auf und denk an dich](https://open.spotify.com/track/1rioQG2heHKrIeSuwD89Rn)** by **5star** *(ich wach auf und denk an dich)*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
 
 
-🕐 Last updated: 2025-10-24 05:47:53Z UTC
+🕐 Last updated: 2025-10-24 06:18:46Z UTC
 <!-- SPOTIFY-END -->
