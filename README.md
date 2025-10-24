@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731df39c18d21e48742bd5293b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27394b223f2f8e73e1102b27994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cry4me<33](https://open.spotify.com/track/22GlCUowRTVSJgeFl20fQ0)**
-*by* **1stress**
-*Album:* cry4me<33
+**🎵 [We Don't Leave the House](https://open.spotify.com/track/5Tej0q4FelEClV0ZvYvz89)**
+*by* **glaive**
+*Album:* Y’all
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 2:02
+    2:11 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[F4](https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p)** by **DRES** *(F4)*
+🎤 **[Cascading Emotions](https://open.spotify.com/track/1bY9irHouNHlJlmrCgBnDC)** by **Joshka** *(TANO*C EXTRA)*
+🎤 **[canuhearmenow?](https://open.spotify.com/track/3FVkDpcWhOUXUiiFmkdfj1)** by **uramaki.** *(canuhearmenow?)*
 🎤 **[#Loveme2](https://open.spotify.com/track/6Lk1naeGi8PrfMEULAodQO)** by **latex fruit** *(#Loveme2)*
 🎤 **[Forever 2001](https://open.spotify.com/track/7i8wcIeStzAjn2J0kcNTDb)** by **Gud** *(Beautiful, Wonderful)*
-🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
-🎤 **[!?](https://open.spotify.com/track/4wjebQ0gujBU7Ki5ucg5z8)** by **scarmaid** *(Life is Beautiful)*
-🎤 **[Yao Ming](https://open.spotify.com/track/6x0omWxZpvgQtVzRJ7NWOS)** by **Guala** *(Yao Ming)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-24 17:29:56Z UTC
+🕐 Last updated: 2025-10-24 17:41:19Z UTC
 <!-- SPOTIFY-END -->
