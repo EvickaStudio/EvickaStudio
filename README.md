@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e9fd02e97a157b435f106dd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d1869d8c477d291a205a2d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)**
-*by* **Konomi Suzuki**
-*Album:* LIFE of DASH
+**🎵 [Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)**
+*by* **RADWIMPS**
+*Album:* Your Name.
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="292" height="4" fill="#1db954" rx="2"/>
+    <circle cx="292" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 4:44
+    2:08 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)** by **LiSA** *(LANDSPACE)*
+🎤 **[This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)** by **Konomi Suzuki** *(LIFE of DASH)*
 🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
 🎤 **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)*
-🎤 **[i hate this](https://open.spotify.com/track/4HytVTfbsGJEso9qSkJU5g)** by **threedimensionsapart** *(bliss)*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-26 19:22:50Z UTC
+🕐 Last updated: 2025-10-26 19:34:01Z UTC
 <!-- SPOTIFY-END -->
