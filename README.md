@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370e35bb4d082b678a8069384" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ddc6c6524a37ba7cb6dfb69d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Doktorspiele](https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f)**
-*by* **Alex C., Yass**
-*Album:* Euphorie
+**🎵 [*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)**
+*by* **TMY, Keigo, TYM, Maikel**
+*Album:* *Magichnicht*
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="296" height="4" fill="#1db954" rx="2"/>
-    <circle cx="296" cy="2" r="6" fill="#1db954"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:43 • 3:46
+    2:43 • 3:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
-🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
-🎤 **[Pocahontas](https://open.spotify.com/track/4poYvYKOKtpAOoXSIYeU0A)** by **AnnenMayKantereit** *(Alles nix konkretes)*
-🎤 **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)*
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
+🎤 **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by **Holy Fuck** *(Congrats)*
+🎤 **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)*
+🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
+🎤 **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)*
+🎤 **[Boom Boom Pow](https://open.spotify.com/track/00ruYa4EGRTFTmZ1xSBcWQ)** by **Odece, Cubbie** *(Wakanda)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-26 17:10:10Z UTC
+🕐 Last updated: 2025-10-26 17:27:30Z UTC
 <!-- SPOTIFY-END -->
