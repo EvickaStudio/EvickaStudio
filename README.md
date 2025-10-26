@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ec2f83ff60b20b6a593937ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Forever Feels Like](https://open.spotify.com/track/1Jl0IPbpqWWDgHPSXN0m01)**
-*by* **Blanche Biau**
-*Album:* Heartcore
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 3:44
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Loose Ends](https://open.spotify.com/track/4YfMGPgt0MlYi9fczUrpJC)** by **True Blue** *(Loose Ends)*
+🎤 **[Dyve](https://open.spotify.com/track/0enXztG52DF9JEx8c7fbF4)** by **Talk to Her** *(Dyve)*
+🎤 **[Saints' Discards](https://open.spotify.com/track/3q8RPHycgyvR0XRg1XXw7B)** by **eat-girls** *(Area Silenzio)*
+🎤 **[nico and sol at home](https://open.spotify.com/track/2DnPXhz44iez9lPpwRbtGG)** by **BED** *(everything hurts)*
 🎤 **[Forever Feels Like](https://open.spotify.com/track/1Jl0IPbpqWWDgHPSXN0m01)** by **Blanche Biau** *(Heartcore)*
-🎤 **[Scissors](https://open.spotify.com/track/6Lw41dOdXA8Z7jfKj4sr6E)** by **Activity** *(A Thousand Years In Another Way)*
-🎤 **[Fools](https://open.spotify.com/track/2gqwHHTg6xDY2OgqyvztfC)** by **Drop Nineteens** *(Fools)*
-🎤 **[everything hurts](https://open.spotify.com/track/6hrkewYlI40wp8fhqSH3Ry)** by **BED** *(everything hurts)*
+🎤 **[Loose Ends](https://open.spotify.com/track/4YfMGPgt0MlYi9fczUrpJC)** by **True Blue** *(Loose Ends)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-26 09:47:55Z UTC
+🕐 Last updated: 2025-10-26 10:12:22Z UTC
 <!-- SPOTIFY-END -->
