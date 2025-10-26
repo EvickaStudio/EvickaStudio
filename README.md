@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
 🎤 **[Dyve](https://open.spotify.com/track/0enXztG52DF9JEx8c7fbF4)** by **Talk to Her** *(Dyve)*
 🎤 **[Saints' Discards](https://open.spotify.com/track/3q8RPHycgyvR0XRg1XXw7B)** by **eat-girls** *(Area Silenzio)*
 🎤 **[nico and sol at home](https://open.spotify.com/track/2DnPXhz44iez9lPpwRbtGG)** by **BED** *(everything hurts)*
 🎤 **[Forever Feels Like](https://open.spotify.com/track/1Jl0IPbpqWWDgHPSXN0m01)** by **Blanche Biau** *(Heartcore)*
-🎤 **[Loose Ends](https://open.spotify.com/track/4YfMGPgt0MlYi9fczUrpJC)** by **True Blue** *(Loose Ends)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-26 11:47:53Z UTC
+🕐 Last updated: 2025-10-26 12:22:29Z UTC
 <!-- SPOTIFY-END -->
