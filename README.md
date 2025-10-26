@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ec2f83ff60b20b6a593937ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Forever Feels Like](https://open.spotify.com/track/1Jl0IPbpqWWDgHPSXN0m01)**
+*by* **Blanche Biau**
+*Album:* Heartcore
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:04 • 3:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Loose Ends](https://open.spotify.com/track/4YfMGPgt0MlYi9fczUrpJC)** by **True Blue** *(Loose Ends)*
+🎤 **[Forever Feels Like](https://open.spotify.com/track/1Jl0IPbpqWWDgHPSXN0m01)** by **Blanche Biau** *(Heartcore)*
+🎤 **[Scissors](https://open.spotify.com/track/6Lw41dOdXA8Z7jfKj4sr6E)** by **Activity** *(A Thousand Years In Another Way)*
+🎤 **[Fools](https://open.spotify.com/track/2gqwHHTg6xDY2OgqyvztfC)** by **Drop Nineteens** *(Fools)*
 🎤 **[everything hurts](https://open.spotify.com/track/6hrkewYlI40wp8fhqSH3Ry)** by **BED** *(everything hurts)*
-🎤 **[Aquawish](https://open.spotify.com/track/3U1Rt375sf0DnCuvyhjzAl)** by **New Candys** *(The Uncanny Extravaganza)*
-🎤 **[eat your heart out](https://open.spotify.com/track/2K5viZSoCfCcpfvDAPHKkP)** by **æmilia** *(eat your heart out)*
-🎤 **[3 Omens](https://open.spotify.com/track/64OFYNpOhExPVSIW2k0V9h)** by **eat-girls** *(Area Silenzio)*
-🎤 **[I Like The Boys](https://open.spotify.com/track/09eHWNWOCrMpm6QRO11lI6)** by **Activity** *(Unmask Whoever)*
 
 
 
@@ -136,9 +155,9 @@
 🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥈 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
 🥉 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
-🏅 [**nodding off**](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)
-🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
+🏅 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
+🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-26 09:35:51Z UTC
+🕐 Last updated: 2025-10-26 09:47:55Z UTC
 <!-- SPOTIFY-END -->
