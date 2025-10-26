@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fire Walking](https://open.spotify.com/track/3G7A4OrEDUpU7mhnfliich)** by **Mediavolo** *(Unvisible Science)*
-🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
-🎤 **[twigs](https://open.spotify.com/track/3KQduRGx0LTiVed7883wBO)** by **Panik Deluxe** *(I was an apple and I got peeled)*
-🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
-🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
+🎤 **[3 Omens](https://open.spotify.com/track/64OFYNpOhExPVSIW2k0V9h)** by **eat-girls** *(Area Silenzio)*
+🎤 **[I Like The Boys](https://open.spotify.com/track/09eHWNWOCrMpm6QRO11lI6)** by **Activity** *(Unmask Whoever)*
+🎤 **[slut](https://open.spotify.com/track/2LmbHoALrg6dVeySrVWtEE)** by **BED** *(everything hurts)*
+🎤 **[When We Disappear](https://open.spotify.com/track/44zaQWED9KCwhAEzIYkCvN)** by **The Dharma Chain** *(Nowhere)*
+🎤 **[collapse of common sense](https://open.spotify.com/track/6XxoQCOdSfvhEarV4h8uB6)** by **Panik Deluxe** *(I was an apple and I got peeled)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Choices**](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)
 
 
-🕐 Last updated: 2025-10-26 09:11:24Z UTC
+🕐 Last updated: 2025-10-26 09:27:06Z UTC
 <!-- SPOTIFY-END -->
