@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)**
+*by* **Michael Jackson**
+*Album:* HIStory - PAST, PRESENT AND FUTURE - BOOK I
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:46 • 5:19
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
-🎤 **[Dyve](https://open.spotify.com/track/0enXztG52DF9JEx8c7fbF4)** by **Talk to Her** *(Dyve)*
-🎤 **[Saints' Discards](https://open.spotify.com/track/3q8RPHycgyvR0XRg1XXw7B)** by **eat-girls** *(Area Silenzio)*
-🎤 **[nico and sol at home](https://open.spotify.com/track/2DnPXhz44iez9lPpwRbtGG)** by **BED** *(everything hurts)*
-🎤 **[Forever Feels Like](https://open.spotify.com/track/1Jl0IPbpqWWDgHPSXN0m01)** by **Blanche Biau** *(Heartcore)*
+🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
+🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-26 12:22:29Z UTC
+🕐 Last updated: 2025-10-26 12:58:28Z UTC
 <!-- SPOTIFY-END -->
