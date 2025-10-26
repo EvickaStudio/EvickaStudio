@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe480e9154ab51220f8e10ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4fa174525f0a36bf6a954bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)**
-*by* **pink luu, xofilo, cxpyyy, luu**
-*Album:* meine grosse liebe
+**🎵 [scene love story](https://open.spotify.com/track/3bTRwjKNFwMybKmh3JWKX2)**
+*by* **skypebf**
+*Album:* scene love story
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 2:25
+    0:33 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[we're on fire](https://open.spotify.com/track/0ot2XpDq6caJvcS7hLDvMc)** by **luvwillow** *(we're on fire)*
+🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
+🎤 **[girl online](https://open.spotify.com/track/4IkipRprtHGZzI8pD2ijCx)** by **skypebf, FabFantasy, syris** *(girl online)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
 🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
-🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
-🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
-🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
-🎤 **[Her Head](https://open.spotify.com/track/2MP0zgHfsBeBO848jkyDd8)** by **The Dharma Chain** *(Nowhere)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-26 13:38:09Z UTC
+🕐 Last updated: 2025-10-26 13:48:00Z UTC
 <!-- SPOTIFY-END -->
