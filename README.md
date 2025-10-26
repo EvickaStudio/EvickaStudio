@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c4fa174525f0a36bf6a954bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [scene love story](https://open.spotify.com/track/3bTRwjKNFwMybKmh3JWKX2)**
-*by* **skypebf**
-*Album:* scene love story
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="56" height="4" fill="#1db954" rx="2"/>
-    <circle cx="56" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[we're on fire](https://open.spotify.com/track/0ot2XpDq6caJvcS7hLDvMc)** by **luvwillow** *(we're on fire)*
-🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
-🎤 **[girl online](https://open.spotify.com/track/4IkipRprtHGZzI8pD2ijCx)** by **skypebf, FabFantasy, syris** *(girl online)*
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo, cxpyyy, luu** *(meine grosse liebe)*
-🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[I NEED YOUR LUV!!](https://open.spotify.com/track/38zl1nP37E0D6rYPtOO2zm)** by **lavendr** *(I NEED YOUR LUV!!)*
+🎤 **[SMS](https://open.spotify.com/track/4upElsfQhSMxGzfyxBpdMy)** by **pink luu, xtatus** *(SMS)*
+🎤 **[spiral out control](https://open.spotify.com/track/3XRnFAadgVDwAu1SXLK3aW)** by **hateoryx, pink luu, Pawl4k** *(spiral out control)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-26 13:48:00Z UTC
+🕐 Last updated: 2025-10-26 14:10:48Z UTC
 <!-- SPOTIFY-END -->
