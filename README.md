@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733146858ccf120fbf9e0e10fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731728f2c5c89689925d62f5db" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [alles schon gesagt](https://open.spotify.com/track/0j0KxkGYg8L54a5fkjOGvP)**
-*by* **5v, sparr00w**
-*Album:* alles schon gesagt
+**🎵 [pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)**
+*by* **pink luu, lusi 7896**
+*Album:* pSychose
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="38" height="4" fill="#1db954" rx="2"/>
+    <circle cx="38" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 3:00
+    0:15 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)*
-🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
-🎤 **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[alles schon gesagt](https://open.spotify.com/track/0j0KxkGYg8L54a5fkjOGvP)** by **5v, sparr00w** *(alles schon gesagt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-26 14:39:07Z UTC
+🕐 Last updated: 2025-10-26 14:47:51Z UTC
 <!-- SPOTIFY-END -->
