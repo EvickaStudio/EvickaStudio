@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273800dd70bf0c46dd208d4c8f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27342aad4fabfbafe48dd7f55e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)**
-*by* **iamsodead, pupsies**
-*Album:* boyfriend
+**🎵 [Arrival Song](https://open.spotify.com/track/1ZYbtlgsnYGFaRUI9H4TeW)**
+*by* **Roan Zen Martin**
+*Album:* The Magician
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 2:27
+    1:07 • 3:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)*
-🎤 **[Fahrradsattel](https://open.spotify.com/track/0P0nhrK36P885ltXsdRovK)** by **Pisse** *(Kohlrübenwinter)*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
-🎤 **[Youngin mit Cash](https://open.spotify.com/track/0xMZiZOu7Ubj6tc55rY55f)** by **Beyazz** *(get numb with me)*
-🎤 **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[The Wheel](https://open.spotify.com/track/4wMo9CxPAbZKNoet4YOn88)** by **Roan Zen Martin** *(The Magician)*
+🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
+🎤 **[wolkendecke](https://open.spotify.com/track/7MS510fzAL7mIgbC2rd2NR)** by **Dropped here, Steppi** *(wolkendecke)*
+🎤 **[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)** by **Lil Peep** *(Star Shopping)*
+🎤 **[...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm)** by **$uicideboy$** *(Stop Staring At the Shadows)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 22:11:23Z UTC
+🕐 Last updated: 2025-10-27 22:30:30Z UTC
 <!-- SPOTIFY-END -->
