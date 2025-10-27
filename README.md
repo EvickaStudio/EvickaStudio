@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2733eca7c895082ab7c2de3eace" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)**
+*by* **SUICIDAL-IDOL, hubithekid, FabFantasy**
+*Album:* High Life
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="297" height="4" fill="#1db954" rx="2"/>
+    <circle cx="297" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:58 • 1:59
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<](https://open.spotify.com/track/2XW0YSBQ7qkcdg3nqHclsw)** by **jequya** *(LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<)*
+🎤 **[crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)** by **Scarly, korpsebunny** *(crawl out my skin)*
+🎤 **[girl online](https://open.spotify.com/track/4IkipRprtHGZzI8pD2ijCx)** by **skypebf, FabFantasy, syris** *(girl online)*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 08:18:40Z UTC
+🕐 Last updated: 2025-10-27 08:46:03Z UTC
 <!-- SPOTIFY-END -->
