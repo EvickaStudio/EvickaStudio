@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e9e71ae4a21567b7c7b9f553" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318e4c2913a55fa0de4d2a0a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)**
-*by* **Nightcore Reality, meme my**
-*Album:* Angel with a Shotgun
+**🎵 [In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)**
+*by* **smokedope2016**
+*Album:* THE PEAK
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 3:15
+    2:06 • 2:21
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ZU DEN HUNDEN](https://open.spotify.com/track/7nwJciynBkmT0rct6ulm1q)** by **Saiya Tiaw** *(BETON)*
+🎤 **[Sorry](https://open.spotify.com/track/2kxZnZBMfHbinyLaSDvP4Z)** by **Lil Bo Weep, nthngxxcitxsmx** *(SOLOS 2)*
+🎤 **[METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)** by **INTERWORLD** *(METAMORPHOSIS)*
+🎤 **[Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)** by **Nightcore Reality, meme my** *(Angel with a Shotgun)*
 🎤 **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)*
-🎤 **[makkohatjedenliebaussersichselbst](https://open.spotify.com/track/205bdmtyfWa9bzvWvlD3nK)** by **makko** *(Leb es oder lass es 2)*
-🎤 **[Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)** by **Central Sonic** *(Club Scenes - Psytrance)*
-🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
-🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 21:26:54Z UTC
+🕐 Last updated: 2025-10-27 21:36:32Z UTC
 <!-- SPOTIFY-END -->
