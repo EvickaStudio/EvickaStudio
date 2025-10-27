@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c2411631516ddc8ea46da559" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273866daa4ba1690cde69054822" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)**
-*by* **snor, hateoryx**
-*Album:* angelRavegirl
+**🎵 [EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)**
+*by* **nuphory, Luna Lenta**
+*Album:* EXOPLANET // HYPERTRANCE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:15
+    1:20 • 3:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[nice spirits / sentimental](https://open.spotify.com/track/3ow1sTEtsxCJ6brgeXRFjx)** by **jequya** *(nice spirits / sentimental)*
-🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
-🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
+🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
+🎤 **[Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ)** by **Vertigoaway, Schizoscriptures** *(Break This The Breaking Point 2)*
+🎤 **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 09:50:52Z UTC
+🕐 Last updated: 2025-10-27 10:15:34Z UTC
 <!-- SPOTIFY-END -->
