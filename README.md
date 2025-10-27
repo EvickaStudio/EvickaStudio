@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c2411631516ddc8ea46da559" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)**
-*by* **agelast222**
-*Album:* Last Bible
+**🎵 [angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)**
+*by* **snor, hateoryx**
+*Album:* angelRavegirl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:31
+    0:06 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[nice spirits / sentimental](https://open.spotify.com/track/3ow1sTEtsxCJ6brgeXRFjx)** by **jequya** *(nice spirits / sentimental)*
+🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
 🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
-🎤 **[d00m](https://open.spotify.com/track/2HNi8TnzsmL4kGSEnyN0yK)** by **cdgplug, gard, Hotelgodlin** *(bl00dletter Collection)*
-🎤 **[Angels With God](https://open.spotify.com/track/2mBfFV0OlvdCBn3hrAEoLe)** by **$pirit Gurlz** *(12:12)*
-🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
-🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 09:41:37Z UTC
+🕐 Last updated: 2025-10-27 09:50:52Z UTC
 <!-- SPOTIFY-END -->
