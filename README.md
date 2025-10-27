@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273456f2a666766bc2562e82a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)**
-*by* **g0r3c0r3**
-*Album:* We <3 g0r3
+**🎵 [Leni (Crystal Castles vs GoodBooks)](https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH)**
+*by* **GoodBooks, Crystal Castles**
+*Album:* Control Freaks (The Remixes)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 2:00
+    2:39 • 4:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
-🎤 **[in a dream ii](https://open.spotify.com/track/4jra4ssEMowaqyzfx9U79y)** by **k0d4m4** *(in a dream ii)*
-🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
-🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)*
+🎤 **[im #obsessed w u lol](https://open.spotify.com/track/75nBv1w4XDXABFy6koSz2i)** by **korpsebunny** *(im #obsessed w u lol)*
+🎤 **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo.Nomad** *(2AM Forever)*
+🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
+🎤 **[Xenozis](https://open.spotify.com/track/59yfwAIsmdmNZBPXg966xu)** by **Tevvez** *(Xenozis)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 20:30:46Z UTC
+🕐 Last updated: 2025-10-27 20:48:02Z UTC
 <!-- SPOTIFY-END -->
