@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734b47f539e6fbb3325ecc2af0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349714372482ff253df2e4a26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)**
-*by* **Crystal Statues, Crescent, STM, resiiii**
-*Album:* Crystal Clear
+**🎵 [garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)**
+*by* **agelast222**
+*Album:* Last Bible
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 4:13
+    0:44 • 2:31
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)*
-🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
-🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
-🎤 **[1000 days](https://open.spotify.com/track/3ddEnYHJ9aogcpn9tx7bys)** by **angelicxmei** *(1000 days)*
-🎤 **[INTERLUDE](https://open.spotify.com/track/0iK1na4EJ8slQCu4cnvD91)** by **p6inkillr** *(INTERLUDE)*
+🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
+🎤 **[d00m](https://open.spotify.com/track/2HNi8TnzsmL4kGSEnyN0yK)** by **cdgplug, gard, Hotelgodlin** *(bl00dletter Collection)*
+🎤 **[Angels With God](https://open.spotify.com/track/2mBfFV0OlvdCBn3hrAEoLe)** by **$pirit Gurlz** *(12:12)*
+🎤 **[honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)** by **angelicxmei** *(honestly)*
+🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 09:16:34Z UTC
+🕐 Last updated: 2025-10-27 09:41:37Z UTC
 <!-- SPOTIFY-END -->
