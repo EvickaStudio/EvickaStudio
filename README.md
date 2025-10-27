@@ -111,7 +111,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b27342aad4fabfbafe48dd7f55e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Arrival Song](https://open.spotify.com/track/1ZYbtlgsnYGFaRUI9H4TeW)**
+**🎵 [The More That I Break Through](https://open.spotify.com/track/03W1aFhynmkNuKDzHunChj)**
 *by* **Roan Zen Martin**
 *Album:* The Magician
 
@@ -119,12 +119,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 3:20
+    2:31 • 2:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[The Doctor](https://open.spotify.com/track/0F3K3fcjzOiSbzFDwftg91)** by **Roan Zen Martin** *(The Magician)*
+🎤 **[What's Your Hurry?](https://open.spotify.com/track/0dbSPD7jbKGTDWOfmFKiYv)** by **Roan Zen Martin** *(The Magician)*
+🎤 **[Now That I'm Here](https://open.spotify.com/track/4TjLyaIyEHUVCywO5EGmPw)** by **Roan Zen Martin** *(The Magician)*
+🎤 **[Arrival Song](https://open.spotify.com/track/1ZYbtlgsnYGFaRUI9H4TeW)** by **Roan Zen Martin** *(The Magician)*
 🎤 **[The Wheel](https://open.spotify.com/track/4wMo9CxPAbZKNoet4YOn88)** by **Roan Zen Martin** *(The Magician)*
-🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
-🎤 **[wolkendecke](https://open.spotify.com/track/7MS510fzAL7mIgbC2rd2NR)** by **Dropped here, Steppi** *(wolkendecke)*
-🎤 **[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)** by **Lil Peep** *(Star Shopping)*
-🎤 **[...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm)** by **$uicideboy$** *(Stop Staring At the Shadows)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 22:30:30Z UTC
+🕐 Last updated: 2025-10-27 22:47:29Z UTC
 <!-- SPOTIFY-END -->
