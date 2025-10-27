@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733eca7c895082ab7c2de3eace" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734b47f539e6fbb3325ecc2af0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)**
-*by* **SUICIDAL-IDOL, hubithekid, FabFantasy**
-*Album:* High Life
+**🎵 [Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)**
+*by* **Crystal Statues, Crescent, STM, resiiii**
+*Album:* Crystal Clear
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="297" height="4" fill="#1db954" rx="2"/>
-    <circle cx="297" cy="2" r="6" fill="#1db954"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 1:59
+    0:44 • 4:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<](https://open.spotify.com/track/2XW0YSBQ7qkcdg3nqHclsw)** by **jequya** *(LET GO> ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ ʅҽƚ ɠσ<)*
-🎤 **[crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)** by **Scarly, korpsebunny** *(crawl out my skin)*
-🎤 **[girl online](https://open.spotify.com/track/4IkipRprtHGZzI8pD2ijCx)** by **skypebf, FabFantasy, syris** *(girl online)*
-🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
-🎤 **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)*
+🎤 **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[1000 days](https://open.spotify.com/track/3ddEnYHJ9aogcpn9tx7bys)** by **angelicxmei** *(1000 days)*
+🎤 **[INTERLUDE](https://open.spotify.com/track/0iK1na4EJ8slQCu4cnvD91)** by **p6inkillr** *(INTERLUDE)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 08:46:03Z UTC
+🕐 Last updated: 2025-10-27 09:16:34Z UTC
 <!-- SPOTIFY-END -->
