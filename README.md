@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d7991f11a2f527ad51a62c90" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Toxic Potion](https://open.spotify.com/track/3whGqcQjdML0RNXxYrfH4Y)**
+*by* **Irokz, Margaux**
+*Album:* Toxic Potion
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="295" height="4" fill="#1db954" rx="2"/>
+    <circle cx="295" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:27 • 2:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[stay](https://open.spotify.com/track/71ZTTsP2SwH7GFUhTUqWw2)** by **vowl., Sace, Silent Boy** *(stay)*
-🎤 **[and now i sing about him](https://open.spotify.com/track/381dw4aJFp3jRwVZs93pnr)** by **kruu, mymy** *(dear diary,)*
-🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
-🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
-🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[evermint](https://open.spotify.com/track/4VMjCT6hCqaLytLEynV3jY)** by **miraie** *(evermint)*
+🎤 **[WR1STBL33D3R](https://open.spotify.com/track/0oNRQAva8GBqVcYhwG1Hsv)** by **luvwillow** *(WR1STBL33D3R)*
+🎤 **[See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9)** by **Bedlocked** *(Bedlocked)*
+🎤 **[Lost Silence](https://open.spotify.com/track/2RpDZ0R2XJqO87z5ryRUoj)** by **llwll** *(ALEA IACTA EST)*
+🎤 **[shapeshifter](https://open.spotify.com/track/3UbsB5FkuRECjzSfG0hSeI)** by **2504** *(shapeshifter)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 12:26:17Z UTC
+🕐 Last updated: 2025-10-27 13:06:29Z UTC
 <!-- SPOTIFY-END -->
