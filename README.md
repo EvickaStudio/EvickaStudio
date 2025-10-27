@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273866daa4ba1690cde69054822" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ec1bf8577915ccc121a3e575" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)**
-*by* **nuphory, Luna Lenta**
-*Album:* EXOPLANET // HYPERTRANCE
+**🎵 [PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)**
+*by* **Joji**
+*Album:* PIXELATED KISSES
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 3:57
+    1:46 • 1:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[Carry](https://open.spotify.com/track/7f1gPCgRTDAfKF3gzLmral)** by **Dylan Thom** *(t)*
-🎤 **[pathetic](https://open.spotify.com/track/3BIsduVOSV3h234xZjQ8KW)** by **Jiinzo's Graveyard** *(pathetic)*
-🎤 **[Toxic Potion](https://open.spotify.com/track/3whGqcQjdML0RNXxYrfH4Y)** by **Irokz, Margaux** *(Toxic Potion)*
-🎤 **[evermint](https://open.spotify.com/track/4VMjCT6hCqaLytLEynV3jY)** by **miraie** *(evermint)*
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
+🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 14:48:15Z UTC
+🕐 Last updated: 2025-10-27 15:13:56Z UTC
 <!-- SPOTIFY-END -->
