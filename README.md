@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27342aad4fabfbafe48dd7f55e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [The More That I Break Through](https://open.spotify.com/track/03W1aFhynmkNuKDzHunChj)**
-*by* **Roan Zen Martin**
-*Album:* The Magician
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:34
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Don't I Look So Good In These Lights](https://open.spotify.com/track/6waBP6JdSBF64peoT8EVw0)** by **Roan Zen Martin** *(The Magician)*
+🎤 **[The More That I Break Through](https://open.spotify.com/track/03W1aFhynmkNuKDzHunChj)** by **Roan Zen Martin** *(The Magician)*
 🎤 **[The Doctor](https://open.spotify.com/track/0F3K3fcjzOiSbzFDwftg91)** by **Roan Zen Martin** *(The Magician)*
 🎤 **[What's Your Hurry?](https://open.spotify.com/track/0dbSPD7jbKGTDWOfmFKiYv)** by **Roan Zen Martin** *(The Magician)*
 🎤 **[Now That I'm Here](https://open.spotify.com/track/4TjLyaIyEHUVCywO5EGmPw)** by **Roan Zen Martin** *(The Magician)*
-🎤 **[Arrival Song](https://open.spotify.com/track/1ZYbtlgsnYGFaRUI9H4TeW)** by **Roan Zen Martin** *(The Magician)*
-🎤 **[The Wheel](https://open.spotify.com/track/4wMo9CxPAbZKNoet4YOn88)** by **Roan Zen Martin** *(The Magician)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-27 22:47:29Z UTC
+🕐 Last updated: 2025-10-27 23:11:12Z UTC
 <!-- SPOTIFY-END -->
