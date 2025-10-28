@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce715e75a1d58be06f853043" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)**
-*by* **The Goo Goo Dolls**
-*Album:* Dizzy up the Girl
+**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
+*by* **HighSchool**
+*Album:* Colt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="129" height="4" fill="#1db954" rx="2"/>
+    <circle cx="129" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 4:49
+    2:06 • 4:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)*
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
-🎤 **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
+🎤 **[Snowmen](https://open.spotify.com/track/20wjyIgEQ0Gl0nHiO8fvrf)** by **Xavier Wulf, Ecco, Bladee** *(Greatest Hits, Pt. 1)*
+🎤 **[Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8)** by **Roar** *(I Can't Handle Change)*
+🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
+🎤 **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by **lil eyes, 1800yassine, Asterio, treason434** *(feelings im bauch (feat. treason434) [techno remix])*
+🎤 **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-28 22:12:08Z UTC
+🕐 Last updated: 2025-10-28 22:32:23Z UTC
 <!-- SPOTIFY-END -->
