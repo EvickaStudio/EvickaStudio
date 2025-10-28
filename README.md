@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273931c27ca44077d48af1f2a1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)**
-*by* **pink luu, cxpyyy, luu**
-*Album:* ICK (I Can't Kiss)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 1:41
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
 🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
 🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
 🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
 🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
-🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-28 18:49:32Z UTC
+🕐 Last updated: 2025-10-28 19:10:13Z UTC
 <!-- SPOTIFY-END -->
