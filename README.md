@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)**
-*by* **M83**
-*Album:* Hurry up, We're Dreaming
+**🎵 [Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)**
+*by* **Yung Lean**
+*Album:* Unknown Death 2002
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:30 • 5:43
+    3:54 • 4:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
-🎤 **[webghost](https://open.spotify.com/track/1tM6TMYnWn5tRIwrRs9uN4)** by **2040x2040** *(webghost)*
-🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
+🎤 **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)*
+🎤 **[Omnipräsent](https://open.spotify.com/track/6ueEw27MgqwSwN5rFbhDdy)** by **Longus Mongus, BHZ** *(Endlich Wieder Sommer)*
+🎤 **[Dieser kleine Junge](https://open.spotify.com/track/2cRdj9vZCVNFFOoX4Wwhpd)** by **Brown-Eyes White Boy** *(Metanarkose)*
+🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-28 06:49:46Z UTC
+🕐 Last updated: 2025-10-28 07:13:03Z UTC
 <!-- SPOTIFY-END -->
