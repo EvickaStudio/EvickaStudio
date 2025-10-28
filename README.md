@@ -107,26 +107,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c8ba2255c9813ced88ac90c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)**
-*by* **julie**
-*Album:* my anti-aircraft friend
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 3:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-28 09:33:15Z UTC
+🕐 Last updated: 2025-10-28 09:48:55Z UTC
 <!-- SPOTIFY-END -->
