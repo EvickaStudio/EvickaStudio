@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273cacf97e8a5412dd93eabd887" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)**
+*by* **k0d4m4**
+*Album:* nothing matters
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:00 • 2:08
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 🎤 **[Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)** by **Geo22** *(Wizardry)*
 🎤 **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)*
 🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
-🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
-🎤 **[ichwillchecks pt. 2](https://open.spotify.com/track/4mqGRXiRTl2WF4C1jevwr7)** by **gard, 5v** *(ichwillchecks pt. 2)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-28 11:35:05Z UTC
+🕐 Last updated: 2025-10-28 11:47:49Z UTC
 <!-- SPOTIFY-END -->
