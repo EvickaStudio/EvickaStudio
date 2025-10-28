@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e92361af5facda3ec7e989b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738c8ba2255c9813ced88ac90c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)**
-*by* **Tamino404, Keule**
-*Album:* es ist nicht mehr 2016
+**🎵 [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)**
+*by* **julie**
+*Album:* my anti-aircraft friend
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:19
+    0:05 • 3:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[You & Me - Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ)** by **Disclosure, Eliza Doolittle, Flume** *(Settle (Special Edition))*
-🎤 **[OLYMPIA](https://open.spotify.com/track/249MSbYpwdCyxIZs5OuA0n)** by **$OHO BANI, Ericson** *(TRÄUM $OHO)*
-🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
-🎤 **[Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj)** by **Juice WRLD** *(Legends Never Die)*
-🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
+🎤 **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)*
+🎤 **[Godspeed](https://open.spotify.com/track/1HvkLRkaMOroP945YFLpAw)** by **999 Heartake Sabileye** *(A Boy Named Hexd)*
+🎤 **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)*
+🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-28 09:13:58Z UTC
+🕐 Last updated: 2025-10-28 09:33:15Z UTC
 <!-- SPOTIFY-END -->
