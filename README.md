@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce715e75a1d58be06f853043" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
-*by* **HighSchool**
-*Album:* Colt
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 4:53
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
+🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
 🎤 **[Snowmen](https://open.spotify.com/track/20wjyIgEQ0Gl0nHiO8fvrf)** by **Xavier Wulf, Ecco, Bladee** *(Greatest Hits, Pt. 1)*
 🎤 **[Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8)** by **Roar** *(I Can't Handle Change)*
 🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
-🎤 **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by **lil eyes, 1800yassine, Asterio, treason434** *(feelings im bauch (feat. treason434) [techno remix])*
-🎤 **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-28 22:32:23Z UTC
+🕐 Last updated: 2025-10-28 22:48:00Z UTC
 <!-- SPOTIFY-END -->
