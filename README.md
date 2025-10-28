@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)**
+*by* **The Goo Goo Dolls**
+*Album:* Dizzy up the Girl
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:47 • 4:49
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)*
+🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
+🎤 **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))*
+🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
 🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
-🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-28 21:47:49Z UTC
+🕐 Last updated: 2025-10-28 22:12:08Z UTC
 <!-- SPOTIFY-END -->
