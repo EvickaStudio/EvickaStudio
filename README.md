@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)**
-*by* **Twenty One Pilots**
-*Album:* Blurryface
+**🎵 [Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)**
+*by* **M83**
+*Album:* Hurry up, We're Dreaming
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 3:22
+    5:30 • 5:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[OLYMPIA](https://open.spotify.com/track/249MSbYpwdCyxIZs5OuA0n)** by **$OHO BANI, Ericson** *(TRÄUM $OHO)*
-🎤 **[Endlos_demo](https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH)** by **Mayberg** *(Endlos_demo)*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[Happy Now](https://open.spotify.com/track/3Yi6CG9cANfC1vGJsLhXH5)** by **Roan Zen Martin** *(The Magician)*
-🎤 **[Don't I Look So Good In These Lights](https://open.spotify.com/track/6waBP6JdSBF64peoT8EVw0)** by **Roan Zen Martin** *(The Magician)*
+🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
+🎤 **[webghost](https://open.spotify.com/track/1tM6TMYnWn5tRIwrRs9uN4)** by **2040x2040** *(webghost)*
+🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
+🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-28 06:20:35Z UTC
+🕐 Last updated: 2025-10-28 06:49:46Z UTC
 <!-- SPOTIFY-END -->
