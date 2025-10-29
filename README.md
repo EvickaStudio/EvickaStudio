@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738cb971c4489392b35743eaeb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5b26fdb732ae43eb93dfcd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)**
-*by* **Seraphim**
-*Album:* PURGATORY
+**🎵 [H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)**
+*by* **Varg²™, Ecco2k, Bladee**
+*Album:* Nordic Flora Series, Pt. 6: Outlaw Music
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="298" height="4" fill="#1db954" rx="2"/>
-    <circle cx="298" cy="2" r="6" fill="#1db954"/>
+    <rect width="129" height="4" fill="#1db954" rx="2"/>
+    <circle cx="129" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 2:20
+    1:16 • 2:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)** by **Tamino404** *(wenn ich nicht mehr will...☻)*
-🎤 **[SIE LIEBT NUR DIE DRUGS](https://open.spotify.com/track/67jbhWvRZ7nF1jegDiF0F9)** by **Laer Xirtam** *(ALTER EGO)*
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
-🎤 **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)*
-🎤 **[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)** by **Lil Peep** *(Star Shopping)*
+🎤 **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)*
+🎤 **[Broken Wings (I Don't Feel A Thing)](https://open.spotify.com/track/0FsMbOPLgOsPGFV0n2PfwM)** by **Walter Frosch** *(Broken Wings (I Don't Feel A Thing))*
+🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
+🎤 **[With Eyes Closed](https://open.spotify.com/track/7MRoE1gPqAfehPRhsBj68Z)** by **Walter Frosch** *(Star 10110)*
+🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 20:49:44Z UTC
+🕐 Last updated: 2025-10-29 21:11:46Z UTC
 <!-- SPOTIFY-END -->
