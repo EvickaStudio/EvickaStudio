@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c72c35d8aacd65a241849928" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cb971c4489392b35743eaeb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)**
-*by* **Tamino404**
-*Album:* mondlicht
+**🎵 [PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)**
+*by* **Seraphim**
+*Album:* PURGATORY
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+    <rect width="298" height="4" fill="#1db954" rx="2"/>
+    <circle cx="298" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 2:53
+    2:20 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)*
-🎤 **[Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80)** by **The Neighbourhood** *(#000000 & #FFFFFF (No DJ Version))*
-🎤 **[Need 2 (slow pinegrove)](https://open.spotify.com/track/3ygLu1Efk6adwGoXk9pWgQ)** by **Pinegrove** *(Need 2)*
-🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)** by **Tamino404** *(wenn ich nicht mehr will...☻)*
+🎤 **[SIE LIEBT NUR DIE DRUGS](https://open.spotify.com/track/67jbhWvRZ7nF1jegDiF0F9)** by **Laer Xirtam** *(ALTER EGO)*
+🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)*
+🎤 **[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)** by **Lil Peep** *(Star Shopping)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 20:34:17Z UTC
+🕐 Last updated: 2025-10-29 20:49:44Z UTC
 <!-- SPOTIFY-END -->
