@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737624d61cfe73d2664a3a5570" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273548f6fb8029b60db2a373ade" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nicht schon wieder](https://open.spotify.com/track/6N7WzynEuY1EP6LayCIczb)**
-*by* **Dropped here**
-*Album:* Sodium
+**🎵 [I deserve this](https://open.spotify.com/track/2IIMOlNZQHr6RccFbbPhBx)**
+*by* **Rebzyyx, Selfless Homage**
+*Album:* I deserve this
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="165" height="4" fill="#1db954" rx="2"/>
+    <circle cx="165" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 3:23
+    0:56 • 1:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[Melodien 2](https://open.spotify.com/track/7MoSqtbgMVdXtWnXj2VBQU)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9)** by **YG Marley** *(Praise Jah In The Moonlight)*
+🎤 **[Nicht schon wieder](https://open.spotify.com/track/6N7WzynEuY1EP6LayCIczb)** by **Dropped here** *(Sodium)*
 🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)** by **tim, TYM** *(Myself)*
-🎤 **[Fed Up](https://open.spotify.com/track/0jo5prwbvwPHGaQFjbvGqu)** by **Ghostemane** *(ANTI-ICON)*
-🎤 **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)*
-🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 19:10:13Z UTC
+🕐 Last updated: 2025-10-29 19:24:43Z UTC
 <!-- SPOTIFY-END -->
