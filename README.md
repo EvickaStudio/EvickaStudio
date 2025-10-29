@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738871ccba23d6c8f3e4763a8a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cd8b0572699ad828e80893b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw)**
-*by* **ThxSoMch**
-*Album:* SPIT IN MY FACE!
+**🎵 [Ich mag Züge](https://open.spotify.com/track/0DnVcskizKfZAioAA1Wfwz)**
+*by* **Baron**
+*Album:* Ich mag Züge
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:52 • 2:27
+    0:14 • 2:02
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[webghost](https://open.spotify.com/track/1tM6TMYnWn5tRIwrRs9uN4)** by **2040x2040** *(webghost)*
-🎤 **[A B](https://open.spotify.com/track/3Y2khY1lCNfbygFPUqtvW1)** by **jequya** *(1p)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
-🎤 **[Alonely](https://open.spotify.com/track/2mZ4GBrpCTiwPTwvNO7bDZ)** by **Rill, Young Mask** *(I Came From Nobody Likes Me To Nobody Like Me)*
+🎤 **[IN DEINEM HERZ IST ES KALT](https://open.spotify.com/track/7wblVGls7DMH6nalzCSixo)** by **Saiya Tiaw** *(IN DEINEM HERZ IST ES KALT)*
+🎤 **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)*
+🎤 **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)*
+🎤 **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Passive And Plastic](https://open.spotify.com/track/26EHKiRiz0DU40iA8H3CCA)** by **Reserv** *(Passive And Plastic)*
 
 
 
@@ -152,12 +152,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
-🥈 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
+🥇 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
+🥈 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🥉 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
 🏅 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 17:32:36Z UTC
+🕐 Last updated: 2025-10-29 17:48:36Z UTC
 <!-- SPOTIFY-END -->
