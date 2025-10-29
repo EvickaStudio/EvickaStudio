@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
 🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
 🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
-🎤 **[wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)** by **Tamino404** *(wenn ich nicht mehr will...☻)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-29 09:32:39Z UTC
+🕐 Last updated: 2025-10-29 09:48:21Z UTC
 <!-- SPOTIFY-END -->
