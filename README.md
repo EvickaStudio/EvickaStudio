@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e9e71ae4a21567b7c7b9f553" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)**
-*by* **Nightcore Reality, meme my**
-*Album:* Angel with a Shotgun
+**🎵 [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)**
+*by* **Panchiko**
+*Album:* D>E>A>T>H>M>E>T>A>L
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:51 • 3:15
+    3:19 • 4:21
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
-🎤 **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)*
-🎤 **[Decay](https://open.spotify.com/track/7lwOe2S5Ge3k0FVDtmS1UF)** by **Blood Estate** *(Floodgate)*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
-🎤 **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by **Lil Peep, Nedarb** *(beamer boy)*
+🎤 **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))*
+🎤 **[Among Us](https://open.spotify.com/track/6AfopDriwpgSKhJ32h9pwh)** by **iamjuampi** *(Among Us)*
+🎤 **[Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK)** by **Gym Class Heroes** *(The Papercut Chronicles)*
+🎤 **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)*
+🎤 **[Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)** by **Nightcore Reality, meme my** *(Angel with a Shotgun)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 19:48:02Z UTC
+🕐 Last updated: 2025-10-29 20:14:25Z UTC
 <!-- SPOTIFY-END -->
