@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f9c6d0e7696a708308ff311" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f13ba9a80355cf82b58abaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)**
-*by* **Maxi Nagl, Tamino404**
-*Album:* Maxi Nagl Prod Tape #1
+**🎵 [MIKICHAN](https://open.spotify.com/track/4FuWpGn9RWpofmZek5xV5Z)**
+*by* **Gutterboysouz**
+*Album:* MIKICHAN
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:28 • 2:37
+    0:36 • 2:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
-🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
+🎤 **[The Beginning](https://open.spotify.com/track/2INYbcxP73Z3zgOzJvAxqR)** by **Flawed Mangoes** *(Killswitch Melodies)*
+🎤 **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)*
+🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
+🎤 **[Leb es oder lass es](https://open.spotify.com/track/5bJzKmFNpiTwGwLSNb5zVy)** by **makko** *(Leb es oder lass es)*
+🎤 **[Taub](https://open.spotify.com/track/35YEb10VcwXhAoudC4nYvN)** by **Pink Katana, TYM** *(Taub)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 18:19:34Z UTC
+🕐 Last updated: 2025-10-29 18:47:55Z UTC
 <!-- SPOTIFY-END -->
