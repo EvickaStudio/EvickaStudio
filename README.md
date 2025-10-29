@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cdb32573fdd92680ad3cb024" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed189f9605e2b6b18a0348c2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LOSER](https://open.spotify.com/track/3mZ70vxe7qPzQ0QrOO1P7e)**
-*by* **YBRE, can't be bought**
-*Album:* LOSER
+**🎵 [rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN)**
+*by* **Saiya Tiaw**
+*Album:* tränen von dir
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="106" height="4" fill="#1db954" rx="2"/>
-    <circle cx="106" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:49 • 2:20
+    0:24 • 2:10
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
-🎤 **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)*
-🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
+🎤 **[idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr)** by **blackbear** *(deadroses)*
+🎤 **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)*
+🎤 **[Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)** by **Freddie Dredd** *(Opaul)*
+🎤 **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)*
+🎤 **[Fright Night](https://open.spotify.com/track/1WCpCRhI7nNo6RNSXDBJd7)** by **decaying, evrythnghurtz** *(Fright Night)*
 
 
 
@@ -152,12 +152,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
-🥈 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🥇 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🥈 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
 🥉 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
+🏅 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
-🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-29 16:16:49Z UTC
+🕐 Last updated: 2025-10-29 16:48:03Z UTC
 <!-- SPOTIFY-END -->
