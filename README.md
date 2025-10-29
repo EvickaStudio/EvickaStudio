@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)*
+🎤 **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
 🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-29 09:48:21Z UTC
+🕐 Last updated: 2025-10-29 10:14:10Z UTC
 <!-- SPOTIFY-END -->
