@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
 🎤 **[When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
 🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
 🎤 **[Snowmen](https://open.spotify.com/track/20wjyIgEQ0Gl0nHiO8fvrf)** by **Xavier Wulf, Ecco, Bladee** *(Greatest Hits, Pt. 1)*
 🎤 **[Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8)** by **Roar** *(I Can't Handle Change)*
-🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-29 05:13:20Z UTC
+🕐 Last updated: 2025-10-29 05:33:42Z UTC
 <!-- SPOTIFY-END -->
