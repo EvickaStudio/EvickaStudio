@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5b26fdb732ae43eb93dfcd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)**
-*by* **Varg²™, Ecco2k, Bladee**
-*Album:* Nordic Flora Series, Pt. 6: Outlaw Music
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 2:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Zu schön um wahr zu sein](https://open.spotify.com/track/3vuizylIn6nbzvDpowL0Kr)** by **ArniTheSavage** *(Zu schön um wahr zu sein)*
+🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
 🎤 **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)*
 🎤 **[Broken Wings (I Don't Feel A Thing)](https://open.spotify.com/track/0FsMbOPLgOsPGFV0n2PfwM)** by **Walter Frosch** *(Broken Wings (I Don't Feel A Thing))*
 🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
-🎤 **[With Eyes Closed](https://open.spotify.com/track/7MRoE1gPqAfehPRhsBj68Z)** by **Walter Frosch** *(Star 10110)*
-🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 21:11:46Z UTC
+🕐 Last updated: 2025-10-29 21:28:14Z UTC
 <!-- SPOTIFY-END -->
