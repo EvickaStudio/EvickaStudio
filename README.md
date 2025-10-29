@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cd8b0572699ad828e80893b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739f9c6d0e7696a708308ff311" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ich mag Züge](https://open.spotify.com/track/0DnVcskizKfZAioAA1Wfwz)**
-*by* **Baron**
-*Album:* Ich mag Züge
+**🎵 [iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)**
+*by* **Maxi Nagl, Tamino404**
+*Album:* Maxi Nagl Prod Tape #1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:02
+    2:28 • 2:37
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[IN DEINEM HERZ IST ES KALT](https://open.spotify.com/track/7wblVGls7DMH6nalzCSixo)** by **Saiya Tiaw** *(IN DEINEM HERZ IST ES KALT)*
-🎤 **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)*
-🎤 **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)*
-🎤 **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Passive And Plastic](https://open.spotify.com/track/26EHKiRiz0DU40iA8H3CCA)** by **Reserv** *(Passive And Plastic)*
+🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
+🎤 **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)*
+🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 17:48:36Z UTC
+🕐 Last updated: 2025-10-29 18:19:34Z UTC
 <!-- SPOTIFY-END -->
