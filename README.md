@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273357b1f848cf2a05d21e77db4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cdb32573fdd92680ad3cb024" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [movies for guys](https://open.spotify.com/track/1urgZoAjz91vFqPEokA1OR)**
-*by* **Jane Remover**
-*Album:* Frailty
+**🎵 [LOSER](https://open.spotify.com/track/3mZ70vxe7qPzQ0QrOO1P7e)**
+*by* **YBRE, can't be bought**
+*Album:* LOSER
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="185" height="4" fill="#1db954" rx="2"/>
-    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+    <rect width="106" height="4" fill="#1db954" rx="2"/>
+    <circle cx="106" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:33 • 5:45
+    0:49 • 2:20
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nuts](https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK)** by **Lil Peep, rainy bear** *(LIVE FOREVER)*
-🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
-🎤 **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[Mary](https://open.spotify.com/track/36TbBJ7mLPOZMAYs0p4mxb)** by **Alex G** *(Trick)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
+🎤 **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)*
+🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-29 15:51:57Z UTC
+🕐 Last updated: 2025-10-29 16:16:49Z UTC
 <!-- SPOTIFY-END -->
