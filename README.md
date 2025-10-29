@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a0b2f57d401cef2b144b95b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Ohne Dich](https://open.spotify.com/track/0Lym3XzkptNzplQXIeXHu6)**
-*by* **Marsi, Mondieuz**
-*Album:* Ohne Dich
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 3:56
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[downtown](https://open.spotify.com/track/5abkvDTaF8f3OHRyi0feuB)** by **lagosta<3** *(downtown)*
-🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
-🎤 **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)** by **Edwin Rosen** *(Verschwende deine Zeit)*
-🎤 **[Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw)** by **Käärijä** *(Cha Cha Cha)*
+🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
+🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **snor, d3r** *(wish I didnt kno her ##biblemusic)*
+🎤 **[Drowning Love - Chasing Kou](https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V)** by **Penguin Piano** *(Intersteller)*
+🎤 **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[REDiCi](https://open.spotify.com/track/32DCrPLlNu23eKxjxctk6I)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 22:12:16Z UTC
+🕐 Last updated: 2025-10-29 22:32:21Z UTC
 <!-- SPOTIFY-END -->
