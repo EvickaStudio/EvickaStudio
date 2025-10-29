@@ -133,12 +133,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
-🥈 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
+🥇 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
+🥈 [**was kann ich tun?**](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)
 🥉 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 🏅 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-29 21:38:58Z UTC
+🕐 Last updated: 2025-10-29 21:47:30Z UTC
 <!-- SPOTIFY-END -->
