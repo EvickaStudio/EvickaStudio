@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273456f2a666766bc2562e82a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273249b5394fd54f95febf16a19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)**
-*by* **g0r3c0r3**
-*Album:* We <3 g0r3
+**🎵 [I DONT WANNA GO](https://open.spotify.com/track/58dZmEgUxVNY4FKC9rA67X)**
+*by* **Braindaamage**
+*Album:* I DONT WANNA GO
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="255" height="4" fill="#1db954" rx="2"/>
+    <circle cx="255" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:00
+    2:14 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)*
-🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
-🎤 **[angelz den](https://open.spotify.com/track/2LK9vpASV1qXqoGKT0IbFr)** by **snor, 6arelyhuman** *(angelz den)*
-🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
+🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
+🎤 **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)*
+🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
+🎤 **[In Luv With U](https://open.spotify.com/track/40XwcZVS7Oh7VvBuOWrgkk)** by **Finn** *(In Luv With U)*
+🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-30 10:13:57Z UTC
+🕐 Last updated: 2025-10-30 10:36:32Z UTC
 <!-- SPOTIFY-END -->
