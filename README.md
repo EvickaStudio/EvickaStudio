@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369c2a602b5daeb2b87449ddd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)**
-*by* **jequya**
-*Album:* SMP, dmt?? TRUST IN ME
+**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
+*by* **Bassvictim**
+*Album:* Forever
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 4:04
+    2:34 • 3:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
-🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
-🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[Inferno](https://open.spotify.com/track/6uoXsuX5R2bw0tSMrtAYqS)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-30 15:50:46Z UTC
+🕐 Last updated: 2025-10-30 16:16:42Z UTC
 <!-- SPOTIFY-END -->
