@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ab6011961bdca707cfa6b24d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bb7c4b1d10cfd47c59224e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)**
-*by* **Hello Hannes**
-*Album:* Hate Crime Against Myself
+**🎵 [John Dee](https://open.spotify.com/track/7BLFY8GsDyUkaARTv0uwKH)**
+*by* **Ghostemane**
+*Album:* John Dee
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
+    <rect width="100" height="4" fill="#1db954" rx="2"/>
+    <circle cx="100" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 2:22
+    0:55 • 2:46
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
+🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
+🎤 **[Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)** by **Hello Hannes** *(Hate Crime Against Myself)*
 🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
-🎤 **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)*
-🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
-🎤 **[Girls Just Want Breaks (yion-flip)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1)** by **yion** *(Girls Just Want Breaks (yion-flip))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-30 08:44:58Z UTC
+🕐 Last updated: 2025-10-30 08:55:56Z UTC
 <!-- SPOTIFY-END -->
