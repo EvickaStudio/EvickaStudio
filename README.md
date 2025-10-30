@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c6796d91d673f4dca80dc38e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)**
-*by* **5v, Tamino404**
-*Album:* zu zweit allein
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 1:41
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[platzwunde](https://open.spotify.com/track/3G8xSmD7bwiBks2KbCniK7)** by **Tape Head, NONI** *(platzwunde)*
-🎤 **[NIEOHNEMEINTEAMLOFIREMIX](https://open.spotify.com/track/5Ejc6rM5vdRoAj4V2DSG0e)** by **SQF2000** *(NIEOHNEMEINTEAMLOFIREMIX)*
-🎤 **[direktwiedermüde](https://open.spotify.com/track/4ws4sJgZANDvOgnqa0otZe)** by **GERO** *(direktwiedermüde)*
-🎤 **[Andere Stadt](https://open.spotify.com/track/2nMazwTi6zJFVFYZ1jHyBp)** by **Brown-Eyes White Boy** *(Andere Stadt)*
-🎤 **[sterne Still](https://open.spotify.com/track/3dqnJfQHd04svxpocw15FW)** by **sotbarn, b3nn3t** *(per Aspera ad #Astra)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
+🎤 **[2012](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)** by **Tamino404** *(2012)*
+🎤 **[zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)** by **5v, Tamino404** *(zu zweit allein)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-30 23:11:21Z UTC
+🕐 Last updated: 2025-10-30 23:27:14Z UTC
 <!-- SPOTIFY-END -->
