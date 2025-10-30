@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27371541da100c4f746499441bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b3d0bf02a5fb2f676c748432" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)**
-*by* **102 Boyz, Stacks102, Skoob102, Chapo102**
-*Album:* Asozial Allstars 2
+**🎵 [Dream Sweet in Sea Major](https://open.spotify.com/track/3RznzRnsl8mzP63l4AF2M7)**
+*by* **Miracle Musical**
+*Album:* Hawaii: Part II
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="298" height="4" fill="#1db954" rx="2"/>
+    <circle cx="298" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 3:13
+    6:58 • 7:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
-🎤 **[Aria Math Hardstyle](https://open.spotify.com/track/5HW67VMlRhL0OxKxS2RplT)** by **Mqx** *(Aria Math Hardstyle)*
-🎤 **[i crash, u crash](https://open.spotify.com/track/2mmvUIfawPzUCbw3j9uJKk)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
-🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
+🎤 **[3 Messer](https://open.spotify.com/track/4VVUW5n7EAJJNuVLiy6NLi)** by **Hello Hannes** *(3 Messer)*
+🎤 **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)*
+🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
+🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
+🎤 **[Barfuß am Klavier](https://open.spotify.com/track/4kr64ggr6ALZGxnkGdhK7b)** by **AnnenMayKantereit** *(Alles nix konkretes)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-30 09:15:58Z UTC
+🕐 Last updated: 2025-10-30 09:39:52Z UTC
 <!-- SPOTIFY-END -->
