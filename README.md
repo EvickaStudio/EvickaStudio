@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2376c88a3cb0163b33e7856" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730dff12ea74be2bb9c0d70f83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)**
-*by* **Snow Strippers**
-*Album:* April Mixtape 2
+**🎵 [Getting Clean](https://open.spotify.com/track/5ukdFwD8ICbzJmvPqoZNcD)**
+*by* **Eera**
+*Album:* Cant Stop Wasting Time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="268" height="4" fill="#1db954" rx="2"/>
-    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+    <rect width="107" height="4" fill="#1db954" rx="2"/>
+    <circle cx="107" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:51 • 2:04
+    0:46 • 2:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
-🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **snor, d3r** *(wish I didnt kno her ##biblemusic)*
+🎤 **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)*
+🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
+🎤 **[In Luv With U](https://open.spotify.com/track/40XwcZVS7Oh7VvBuOWrgkk)** by **Finn** *(In Luv With U)*
+🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
+🎤 **[stari*](https://open.spotify.com/track/7cnPmj7ArsPRuLOEpm1nC1)** by **SQF2000, Tamino404** *(stari*)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-10-30 06:19:11Z UTC
+🕐 Last updated: 2025-10-30 06:47:56Z UTC
 <!-- SPOTIFY-END -->
