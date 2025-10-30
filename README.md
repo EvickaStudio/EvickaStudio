@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273303a1a0ddaf4dea2c66c6166" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cf95a776a6ce16f42ca0ccbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [VIP](https://open.spotify.com/track/7HMVpKGi7gaLdFmle0TDgs)**
-*by* **Gola Gianni**
-*Album:* GTA (Grand Theft Audio)
+**🎵 [feenstaub](https://open.spotify.com/track/6lodMKS5bkPHnMZ968B2zH)**
+*by* **stixz**
+*Album:* feenstaub
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="15" height="4" fill="#1db954" rx="2"/>
-    <circle cx="15" cy="2" r="6" fill="#1db954"/>
+    <rect width="106" height="4" fill="#1db954" rx="2"/>
+    <circle cx="106" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:08 • 2:35
+    0:40 • 1:53
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[jede nacht](https://open.spotify.com/track/2TOov6Len00MeUbaljfDWF)** by **SQF2000** *(jede nacht)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[stoppschild](https://open.spotify.com/track/5yK0m78soD6rkZske0oOIN)** by **Tamino404** *(stoppschild)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
+🎤 **[maria](https://open.spotify.com/track/73wHX0Iv3VCXu0VjLfYB1v)** by **Longus Mongus, BHZ** *(maria)*
+🎤 **[oxy2cin](https://open.spotify.com/track/2OJp6Ptmj6YHm0TxEVBA4F)** by **MDW, MC WINDHUND** *(oxy2cin)*
+🎤 **[„Freunde“](https://open.spotify.com/track/7sllMqTh2RNO8EAacmtZOr)** by **Punk Christ** *(„Freunde“)*
+🎤 **[CROWS](https://open.spotify.com/track/5RTF0CIjib8luSzh3YnY0L)** by **mikeycyrus** *(CYRUS)*
+🎤 **[2012](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)** by **Tamino404** *(2012)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-30 22:31:40Z UTC
+🕐 Last updated: 2025-10-30 22:47:55Z UTC
 <!-- SPOTIFY-END -->
