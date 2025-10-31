@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273567733a847d855dcbfea0d25" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [hotel delirium (II)](https://open.spotify.com/track/2KOCeApUWGjQbzSVdphKMh)**
+*by* **luu, iwannabemissed**
+*Album:* irgendwo im schatten
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="106" height="4" fill="#1db954" rx="2"/>
+    <circle cx="106" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:40 • 1:54
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[oh, no](https://open.spotify.com/track/1ZXpg7Kl1F99lW2Kq6CD3F)** by **cholorofilm, Mezha, 8t33n** *(oh, no)*
+🎤 **[my love, you can keep it](https://open.spotify.com/track/5LPoQwx7jBO1H9syDXXzYe)** by **requiem for you** *(my love, you can keep it)*
 🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
 🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
 🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
-🎤 **[2012](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)** by **Tamino404** *(2012)*
-🎤 **[zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)** by **5v, Tamino404** *(zu zweit allein)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-31 06:48:34Z UTC
+🕐 Last updated: 2025-10-31 07:12:25Z UTC
 <!-- SPOTIFY-END -->
