@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273416ed1ffc9784b48721e1a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27315b72ee3398b9857fc468fbd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)**
-*by* **grim noir**
-*Album:* Herz macht Turbo
+**🎵 [nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)**
+*by* **5v**
+*Album:* nodding off
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 2:39
+    0:47 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
-🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
-🎤 **[iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)** by **Rezlaine, rylorie** *(iiiistillthinkineeduu)*
-🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-10-31 12:26:15Z UTC
+🕐 Last updated: 2025-10-31 13:04:42Z UTC
 <!-- SPOTIFY-END -->
