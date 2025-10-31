@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27312dcebe5c14f7e8c1623eb21" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27391ba07c01bada610ccfd63ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ketamina](https://open.spotify.com/track/0A3v3TiMVHaLGJCNKDumOe)**
-*by* **yaego, KUČKA**
-*Album:* ketamina
+**🎵 [somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)**
+*by* **Senses, Nosgov, mint**
+*Album:* somewhere safe
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="182" height="4" fill="#1db954" rx="2"/>
-    <circle cx="182" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 4:30
+    1:10 • 3:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[SWEET LIKE SIN](https://open.spotify.com/track/5ho6UJBQCqLuEg4bPMctqW)** by **p6inkillr** *(SWEET LIKE SIN)*
+🎤 **[3rd Crush (2nd 3rd)](https://open.spotify.com/track/4MFHNkjasdLzLGsgzE2Lww)** by **Ecco2k** *(Cr₂ (Live))*
+🎤 **[ketamina](https://open.spotify.com/track/0A3v3TiMVHaLGJCNKDumOe)** by **yaego, KUČKA** *(ketamina)*
 🎤 **[DamalsHeute](https://open.spotify.com/track/5YcZv9jhIfr4qVN56wIYLP)** by **Streichelt** *(DamalsHeute)*
 🎤 **[love letter](https://open.spotify.com/track/77OFi8TocjiBJUngLhKdey)** by **Lil Peep** *(love letter)*
-🎤 **[PLACE BEYOND THE PINES](https://open.spotify.com/track/4qvkXHzspO2tbj74bY2mpG)** by **Sematary, smokedope2016** *(HAUNT-O-HOLIXXX THE MIXTAPE)*
-🎤 **[HALLOWEEN](https://open.spotify.com/track/3Mm9fSeS4iX0r9iPwhHhjs)** by **nami, ne1ro** *(HALLOWEEN)*
-🎤 **[hotel delirium (II)](https://open.spotify.com/track/2KOCeApUWGjQbzSVdphKMh)** by **luu, iwannabemissed** *(irgendwo im schatten)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-31 07:28:39Z UTC
+🕐 Last updated: 2025-10-31 07:38:30Z UTC
 <!-- SPOTIFY-END -->
