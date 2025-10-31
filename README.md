@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27391ba07c01bada610ccfd63ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27336e7b919e5c5b946b1bb18d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)**
-*by* **Senses, Nosgov, mint**
-*Album:* somewhere safe
+**🎵 [2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)**
+*by* **Tamino404**
+*Album:* stoppschild
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 3:24
+    1:49 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
+🎤 **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
 🎤 **[SWEET LIKE SIN](https://open.spotify.com/track/5ho6UJBQCqLuEg4bPMctqW)** by **p6inkillr** *(SWEET LIKE SIN)*
-🎤 **[3rd Crush (2nd 3rd)](https://open.spotify.com/track/4MFHNkjasdLzLGsgzE2Lww)** by **Ecco2k** *(Cr₂ (Live))*
-🎤 **[ketamina](https://open.spotify.com/track/0A3v3TiMVHaLGJCNKDumOe)** by **yaego, KUČKA** *(ketamina)*
-🎤 **[DamalsHeute](https://open.spotify.com/track/5YcZv9jhIfr4qVN56wIYLP)** by **Streichelt** *(DamalsHeute)*
-🎤 **[love letter](https://open.spotify.com/track/77OFi8TocjiBJUngLhKdey)** by **Lil Peep** *(love letter)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-10-31 07:38:30Z UTC
+🕐 Last updated: 2025-10-31 07:47:52Z UTC
 <!-- SPOTIFY-END -->
