@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273456f2a666766bc2562e82a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369c2a602b5daeb2b87449ddd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)**
-*by* **g0r3c0r3**
-*Album:* We <3 g0r3
+**🎵 [SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)**
+*by* **jequya**
+*Album:* SMP, dmt?? TRUST IN ME
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:00
+    1:54 • 4:04
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
+🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
+🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
+🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
 🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
-🎤 **[Ist doch egal](https://open.spotify.com/track/5wnhR1PKhL6Nks3fpWjF85)** by **ichbinsoverwirrt, mehlhaltig, Schneekind** *(Ist doch egal)*
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-01 19:21:17Z UTC
+🕐 Last updated: 2025-11-01 19:33:39Z UTC
 <!-- SPOTIFY-END -->
