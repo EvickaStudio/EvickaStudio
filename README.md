@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273bcc11a888c9d7853e06dc61c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)**
+*by* **toobrokeforfiji**
+*Album:* Was is mit UNS los?
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:40 • 2:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Wirbelsturm](https://open.spotify.com/track/0kSVpzs7FcevotIb4J5TEH)** by **Pink Katana Archive** *(Wirbelsturm)*
 🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
 🎤 **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)*
 🎤 **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)*
 🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
-🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-02 19:09:05Z UTC
+🕐 Last updated: 2025-11-02 19:21:30Z UTC
 <!-- SPOTIFY-END -->
