@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de9fa100bac605052660d22a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)**
-*by* **RYLO**
-*Album:* der plattenspieler kratzt
+**🎵 [Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)**
+*by* **Bladee**
+*Album:* Eversince
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:49
+    1:34 • 3:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
-🎤 **[Bleib](https://open.spotify.com/track/4RgYBDjNhQkQA6SXzxbQ9w)** by **Kidd Kazama** *(Bleib)*
-🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
-🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
-🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[die sterne sind fast so schön wie du](https://open.spotify.com/track/0xUIjUi0msWV0CSiEbGCQT)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[die sterne sind fast so schön wie du](https://open.spotify.com/track/0xUIjUi0msWV0CSiEbGCQT)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-02 13:37:20Z UTC
+🕐 Last updated: 2025-11-02 13:47:54Z UTC
 <!-- SPOTIFY-END -->
