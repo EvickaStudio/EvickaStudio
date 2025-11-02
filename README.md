@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273632c6dc4378dcf85d9bf7c01" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dc207d1cadfbaefbe9cb2c97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)**
-*by* **MRD**
-*Album:* fucking highschool people
+**🎵 [Reckless - Gareth Emery & Luke Bond Remix](https://open.spotify.com/track/3LE4L92Vj2G1Uis3kIpgap)**
+*by* **Gareth Emery, Wayward Daughter, Luke Bond**
+*Album:* Reckless (Gareth Emery & Luke Bond Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="141" height="4" fill="#1db954" rx="2"/>
-    <circle cx="141" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 3:45
+    2:39 • 3:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FOR THE NIGHT! - SPED UP](https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD)** by **Clover!** *(FOR THE NIGHT!)*
-🎤 **[Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K)** by **Pixies** *(Death to the Pixies)*
-🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
-🎤 **[Ich romantisiere Drogen](https://open.spotify.com/track/5f53Pdy4937QSXB3h5HJIA)** by **Punk Christ, Love Pact** *(NERVENKONSTRUKT)*
-🎤 **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by **Ufo361, Pashanim** *(allein allein)*
+🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)*
+🎤 **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)*
+🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
+🎤 **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-02 16:13:38Z UTC
+🕐 Last updated: 2025-11-02 16:34:07Z UTC
 <!-- SPOTIFY-END -->
