@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ba6dc785110292a5fa09721" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de9fa100bac605052660d22a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nur Ein Wort](https://open.spotify.com/track/5eJ3ZQ46yaGXaa2qKPVISJ)**
-*by* **monk.**
-*Album:* Nur Ein Wort
+**🎵 [der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)**
+*by* **RYLO**
+*Album:* der plattenspieler kratzt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="10" height="4" fill="#1db954" rx="2"/>
+    <circle cx="10" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 2:44
+    0:05 • 2:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
+🎤 **[Bleib](https://open.spotify.com/track/4RgYBDjNhQkQA6SXzxbQ9w)** by **Kidd Kazama** *(Bleib)*
+🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
+🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
+🎤 **[Wieder in Der Stadt](https://open.spotify.com/track/5IcNnGuwYxI8Yuoi5bd7Aa)** by **SGUCCY, uusymon** *(Wieder in Der Stadt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-02 13:21:25Z UTC
+🕐 Last updated: 2025-11-02 13:37:20Z UTC
 <!-- SPOTIFY-END -->
