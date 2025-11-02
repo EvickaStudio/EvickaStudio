@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dc207d1cadfbaefbe9cb2c97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ceab3351cc4ea65b6f783ef1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Reckless - Gareth Emery & Luke Bond Remix](https://open.spotify.com/track/3LE4L92Vj2G1Uis3kIpgap)**
-*by* **Gareth Emery, Wayward Daughter, Luke Bond**
-*Album:* Reckless (Gareth Emery & Luke Bond Remix)
+**🎵 [Emotions 2.0](https://open.spotify.com/track/3yZCjDTxzZxx1kll1sRjGc)**
+*by* **Ufo361, CÉLINE**
+*Album:* Emotions 2.0
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 3:56
+    1:13 • 2:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Starfall](https://open.spotify.com/track/05FpQ41MVtDd1Ft63DZNuv)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)*
-🎤 **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)*
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)*
+🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
+🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
+🎤 **[Sugar (feat. Francesco Yates)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)** by **Robin Schulz, Francesco Yates** *(Sugar)*
+🎤 **[Reckless - Gareth Emery & Luke Bond Remix](https://open.spotify.com/track/3LE4L92Vj2G1Uis3kIpgap)** by **Gareth Emery, Wayward Daughter, Luke Bond** *(Reckless (Gareth Emery & Luke Bond Remix))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-02 16:34:07Z UTC
+🕐 Last updated: 2025-11-02 16:49:19Z UTC
 <!-- SPOTIFY-END -->
