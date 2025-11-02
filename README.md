@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ceab3351cc4ea65b6f783ef1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273deffebc0ef0a13c257280dee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Emotions 2.0](https://open.spotify.com/track/3yZCjDTxzZxx1kll1sRjGc)**
-*by* **Ufo361, CÉLINE**
-*Album:* Emotions 2.0
+**🎵 [GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)**
+*by* **Blksmiith**
+*Album:* 「DIGITAL TWIN」
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+    <rect width="5" height="4" fill="#1db954" rx="2"/>
+    <circle cx="5" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 2:26
+    0:03 • 3:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
-🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
-🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, FLUX ROSE** *(KISS ME)*
-🎤 **[Sugar (feat. Francesco Yates)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)** by **Robin Schulz, Francesco Yates** *(Sugar)*
-🎤 **[Reckless - Gareth Emery & Luke Bond Remix](https://open.spotify.com/track/3LE4L92Vj2G1Uis3kIpgap)** by **Gareth Emery, Wayward Daughter, Luke Bond** *(Reckless (Gareth Emery & Luke Bond Remix))*
+🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
+🎤 **[Birdsong](https://open.spotify.com/track/2SBPSEUgaqqKAsVzOEbC1Z)** by **Flawed Mangoes** *(Killswitch Melodies)*
+🎤 **[Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs)** by **347aidan** *(Demons and Monsters)*
+🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
+🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-02 16:49:19Z UTC
+🕐 Last updated: 2025-11-02 17:10:06Z UTC
 <!-- SPOTIFY-END -->
