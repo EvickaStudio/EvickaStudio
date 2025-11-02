@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27350f166cce1d1b77f30489333" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)**
+*by* **snor, Myojin**
+*Album:* always pick u #avemaria </33 :c
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:31 • 2:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
 🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[heartsick](https://open.spotify.com/track/7wrUhITNmDynyQYyfmoQIh)** by **p6inkillr** *(heartsick)*
 🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
 🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
-🎤 **[decaying of the mentally ill](https://open.spotify.com/track/19lt0d1tZQsRUfpnEtX7Ge)** by **cholorofilm, nyxixide** *(decaying of the mentally ill)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-02 15:10:55Z UTC
+🕐 Last updated: 2025-11-02 15:27:03Z UTC
 <!-- SPOTIFY-END -->
