@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27336e7b919e5c5b946b1bb18d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273265e93913103e50339770efd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)**
-*by* **Tamino404**
-*Album:* stoppschild
+**🎵 [wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)**
+*by* **wavybaby**
+*Album:* wieso nicht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="204" height="4" fill="#1db954" rx="2"/>
+    <circle cx="204" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 2:27
+    2:01 • 2:59
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)** by **ghostboo** *(naiv)*
+🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
+🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[Schock](https://open.spotify.com/track/7fwMWxd5VUQn5sJdbqGrfr)** by **Tape Head, NONI** *(Schock)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 17:48:11Z UTC
+🕐 Last updated: 2025-11-03 18:18:31Z UTC
 <!-- SPOTIFY-END -->
