@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27346f6a37af54494f2b038eaf0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)**
-*by* **Sun Kil Moon**
-*Album:* Ghosts of the Great Highway
+**🎵 [Omnipräsent](https://open.spotify.com/track/6ueEw27MgqwSwN5rFbhDdy)**
+*by* **Longus Mongus, BHZ**
+*Album:* Endlich Wieder Sommer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="199" height="4" fill="#1db954" rx="2"/>
+    <circle cx="199" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    12:37 • 14:32
+    1:46 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by **Novulent** *(unknown feelings)*
-🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
-🎤 **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)*
+🎤 **[du bist mir egal](https://open.spotify.com/track/2H2Y5YSMxH1QFoERMG3QeD)** by **Pink Katana** *(du bist mir egal)*
+🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
+🎤 **[YAKIMOTO BLISS](https://open.spotify.com/track/5lzDzpwQsmAwRXWBtGlrmS)** by **DJmegan23** *(YAKIMOTO BLISS)*
+🎤 **[Licht aus](https://open.spotify.com/track/2QN0d1qP7Lkrs6n50PPtza)** by **Murcy** *(Licht aus)*
+🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 21:47:49Z UTC
+🕐 Last updated: 2025-11-03 22:13:10Z UTC
 <!-- SPOTIFY-END -->
