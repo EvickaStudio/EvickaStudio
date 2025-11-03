@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
+**🎵 [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)**
+*by* **Sun Kil Moon**
+*Album:* Ghosts of the Great Highway
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="72" height="4" fill="#1db954" rx="2"/>
-    <circle cx="72" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:54
+    2:58 • 14:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by **Novulent** *(unknown feelings)*
+🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 🎤 **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
 🎤 **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)*
-🎤 **[All For Us](https://open.spotify.com/track/0dSXFiK5FccucA4wo3ZVpe)** by **Labrinth, Zendaya** *(Imagination & the Misfit Kid)*
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL)** by **Kanye West** *(The Life Of Pablo)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 21:28:05Z UTC
+🕐 Last updated: 2025-11-03 21:38:10Z UTC
 <!-- SPOTIFY-END -->
