@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c6424ba5c7dfddf37c1b2571" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)**
-*by* **i9bonsai**
-*Album:* bandage ##
+**🎵 [Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)**
+*by* **Edwin Rosen**
+*Album:* mitleerenhänden
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="253" height="4" fill="#1db954" rx="2"/>
+    <circle cx="253" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 2:33
+    2:15 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[moonlit](https://open.spotify.com/track/6AgbVoJXwUSFCFlQgm3Hu3)** by **glissey** *(moonlit)*
-🎤 **[Healthcare](https://open.spotify.com/track/7rtKLWYEqk3Cnnv1XINPvi)** by **RomancePlanet** *(Healthcare)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)** by **Ellie Mic** *(Asche im Auge)*
-🎤 **[I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm)** by **DVRST** *(I Hate You I Love You)*
+🎤 **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)*
+🎤 **[Symbolism](https://open.spotify.com/track/2RQWB4Asy1rjZL4IUcJ7kn)** by **Electro-Light** *(Symbolism)*
+🎤 **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)*
+🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
+🎤 **[Love Tonight](https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9)** by **Shouse** *(Love Tonight)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-03 08:19:05Z UTC
+🕐 Last updated: 2025-11-03 08:47:18Z UTC
 <!-- SPOTIFY-END -->
