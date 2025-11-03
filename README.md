@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27380d576be26c22a9836391b5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a17adb67b5da4032f0ab4c2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Built This Way ((Slow Remix))](https://open.spotify.com/track/4BtaPciwVOkH7eFC59i27G)**
-*by* **Samantha Ronson**
-*Album:* Mean Girls (Original Motion Picture Soundtrack)
+**🎵 [Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)**
+*by* **Traumatin**
+*Album:* Schließ bitte ab wenn ich geh
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 4:16
+    2:09 • 3:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
-🎤 **[Clash of Clans](https://open.spotify.com/track/5oJl2xKCAFCPy6eXjE6z0e)** by **EN6O** *(Clash of Clans)*
-🎤 **[Frutiger 1](https://open.spotify.com/track/5cy81nUx1356uPx9dNMETG)** by **fliggsy** *(No Comment)*
-🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
+🎤 **[Scargazer](https://open.spotify.com/track/3HD9BE49dhRLZxFIzoRJg0)** by **Prompto** *(Scargazer)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Kiss me <3](https://open.spotify.com/track/6fsbcCEVFMx9smnensOMV7)** by **Vampyx** *(Kiss me <3)*
+🎤 **[SUPER EMULATOR (feat. HiTNEX-X)](https://open.spotify.com/track/0676rJmcEyK3LyvOj8tGGS)** by **Kobaryo, HiTNEX-X** *(SUPER REVOLUTION)*
+🎤 **[Verlierer](https://open.spotify.com/track/5roKdntvDLPUCcE1fu9as4)** by **Dropped here** *(Verlierer)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 22:32:44Z UTC
+🕐 Last updated: 2025-11-03 22:47:47Z UTC
 <!-- SPOTIFY-END -->
