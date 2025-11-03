@@ -107,7 +107,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27336e7b919e5c5b946b1bb18d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)**
+*by* **Tamino404**
+*Album:* stoppschild
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="53" height="4" fill="#1db954" rx="2"/>
+    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:26 • 2:27
+</span>
+</p>
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 17:30:57Z UTC
+🕐 Last updated: 2025-11-03 17:48:11Z UTC
 <!-- SPOTIFY-END -->
