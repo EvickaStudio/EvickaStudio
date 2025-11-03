@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d78be07f88363bb92ef5ed60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)**
-*by* **Senses**
-*Album:* paralyzed
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 2:44
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -153,11 +134,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
-🥈 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
-🥉 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
+🥈 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
+🥉 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 19:47:58Z UTC
+🕐 Last updated: 2025-11-03 20:14:41Z UTC
 <!-- SPOTIFY-END -->
