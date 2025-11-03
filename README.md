@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273800dd70bf0c46dd208d4c8f1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)**
+*by* **iamsodead, pupsies**
+*Album:* boyfriend
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:59 • 3:43
+    0:29 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)*
-🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
+🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-03 15:49:46Z UTC
+🕐 Last updated: 2025-11-03 16:15:28Z UTC
 <!-- SPOTIFY-END -->
