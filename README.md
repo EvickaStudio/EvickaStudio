@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273265e93913103e50339770efd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27363a6cced57677dd3fa588edd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)**
-*by* **wavybaby**
-*Album:* wieso nicht
+**🎵 [Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)**
+*by* **flywoah**
+*Album:* Don't Give Up
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="204" height="4" fill="#1db954" rx="2"/>
-    <circle cx="204" cy="2" r="6" fill="#1db954"/>
+    <rect width="132" height="4" fill="#1db954" rx="2"/>
+    <circle cx="132" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:59
+    0:51 • 1:56
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)** by **ghostboo** *(naiv)*
-🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
-🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[Schock](https://open.spotify.com/track/7fwMWxd5VUQn5sJdbqGrfr)** by **Tape Head, NONI** *(Schock)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by **toobrokeforfiji** *(Was is mit UNS los?)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 18:18:31Z UTC
+🕐 Last updated: 2025-11-03 18:43:54Z UTC
 <!-- SPOTIFY-END -->
