@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273294bd54ee93186fdfe5a9306" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gute Zeit](https://open.spotify.com/track/44uiHqQbBh9JPJmaro0u99)**
-*by* **Saved Boy**
-*Album:* Gute Zeit
+**🎵 [SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)**
+*by* **SQF2000**
+*Album:* YOLOCORE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="195" height="4" fill="#1db954" rx="2"/>
-    <circle cx="195" cy="2" r="6" fill="#1db954"/>
+    <rect width="240" height="4" fill="#1db954" rx="2"/>
+    <circle cx="240" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:14
+    1:40 • 2:05
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Du bist genauso..](https://open.spotify.com/track/13tO9qQ93hRienhWuqrP0f)** by **Urbannino** *(Du bist genauso..)*
-🎤 **[zwei stunden](https://open.spotify.com/track/6ilb5DaEu9zp5WFGkXEHcV)** by **b3nn3t, ben clean** *(zwei stunden)*
-🎤 **[Durch Gläser sehen](https://open.spotify.com/track/0jovdETdEGpLDYEDRyxG5m)** by **Nicki Papa** *(Wendepunkt)*
-🎤 **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)*
-🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
+🎤 **[Alle 13 Tage](https://open.spotify.com/track/0WZzrzs0F06ZGnyBdk30lS)** by **Streichelt** *(Alle 13 Tage)*
+🎤 **[Machtlos](https://open.spotify.com/track/0G1elLFbHGXCKsvnbuY8lM)** by **Tape Head, NONI** *(Machtlos)*
+🎤 **[Vorschlaghammer](https://open.spotify.com/track/3RtwlcNRwWUXmMxRBIiPqM)** by **nobis, Absteige** *(Vorschlaghammer)*
+🎤 **[probleme???](https://open.spotify.com/track/2Pwiol82a4eNITrMWLPCQn)** by **b3nn3t** *(laut nachgedacht)*
+🎤 **[extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)** by **ghostboo, Lawin** *(exxtra)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
 
 
-🕐 Last updated: 2025-11-04 09:15:02Z UTC
+🕐 Last updated: 2025-11-04 09:35:58Z UTC
 <!-- SPOTIFY-END -->
