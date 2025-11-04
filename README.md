@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306eb189cb35ed21098cd706d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fe81407d98ef67144560b96d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)**
-*by* **Shoota Tori, Bon Aquâ**
-*Album:* 99-01
+**🎵 [Agony](https://open.spotify.com/track/1Wj9ZhqrnbLal0Iyqk6QH1)**
+*by* **Yung Lean**
+*Album:* Stranger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="235" height="4" fill="#1db954" rx="2"/>
+    <circle cx="235" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 3:38
+    2:47 • 3:34
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N)** by **GROUPLOVE** *(Never Trust a Happy Song)*
+🎤 **[99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)** by **Shoota Tori, Bon Aquâ** *(99-01)*
 🎤 **[Nur ein Wort](https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3)** by **flö** *(Nur ein Wort)*
 🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
 🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ)** by **OGUZ, Nyctonian** *(GOLDEN SZN)*
-🎤 **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-04 04:41:42Z UTC
+🕐 Last updated: 2025-11-04 04:51:27Z UTC
 <!-- SPOTIFY-END -->
