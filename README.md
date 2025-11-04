@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735fcd8144ff007592c8018cd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)**
-*by* **Moe Shop, TORIENA**
-*Album:* Moe Moe
+**🎵 [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)**
+*by* **Cavetown**
+*Album:* Animal Kingdom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="117" height="4" fill="#1db954" rx="2"/>
-    <circle cx="117" cy="2" r="6" fill="#1db954"/>
+    <rect width="208" height="4" fill="#1db954" rx="2"/>
+    <circle cx="208" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 3:09
+    3:13 • 4:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
-🎤 **[Pirouette](https://open.spotify.com/track/6tu82VxI7sN4zdeQd19H9f)** by **Lil Narnia** *(Wisteria)*
-🎤 **[52Hertz - Bonus Track](https://open.spotify.com/track/2vj55J14cjerZEHlZ5ez0l)** by **Dropped here** *(Need for speed)*
-🎤 **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)*
-🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
+🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
+🎤 **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm)** by **$uicideboy$** *(Stop Staring At the Shadows)*
+🎤 **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe)** by **Lana Del Rey** *(Say Yes To Heaven)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 15:14:04Z UTC
+🕐 Last updated: 2025-11-04 15:34:18Z UTC
 <!-- SPOTIFY-END -->
