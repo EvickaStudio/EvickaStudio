@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d8a1930892116dd63ad9f4d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The righteous wrath of an honorable man](https://open.spotify.com/track/4h9x2ICDsuzxMwSJCkliLp)**
-*by* **Colin Stetson**
-*Album:* New History Warfare Vol. 2: Judges
+**🎵 [WANTED U](https://open.spotify.com/track/0Y9D1Bc4fAkeZnVsGKdij6)**
+*by* **Joji**
+*Album:* BALLADS 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="170" height="4" fill="#1db954" rx="2"/>
-    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 2:27
+    3:32 • 4:11
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[was du für mich bist](https://open.spotify.com/track/1yF4oqdTFno6424YoUVDE5)** by **OTIS, NØAH** *(was du für mich bist)*
-🎤 **[kaputt](https://open.spotify.com/track/10oTMRWrupuon8SUnvp4C1)** by **5v** *(kaputt)*
-🎤 **[Morgen/Heute](https://open.spotify.com/track/2VibMNR6tSAyltWSNQ6IPI)** by **makko** *(Leb es oder lass es 2)*
-🎤 **[Acid Rain](https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m)** by **Lorn** *(The Maze To Nowhere)*
-🎤 **[she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)** by **archive computer** *(she knows)*
+🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
+🎤 **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)*
+🎤 **[Let Me Down!](https://open.spotify.com/track/697IKoErv9oo0BWNTyP3SW)** by **Clover!** *(Let Me Down!)*
+🎤 **[downtown](https://open.spotify.com/track/5abkvDTaF8f3OHRyi0feuB)** by **lagosta<3** *(downtown)*
+🎤 **[This One Is for You (RIP Dad)](https://open.spotify.com/track/0Fi62HR4UwkdFlvoVAUP1z)** by **Yung City** *(This One Is for You (RIP Dad))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-03 23:47:54Z UTC
+🕐 Last updated: 2025-11-04 01:00:30Z UTC
 <!-- SPOTIFY-END -->
