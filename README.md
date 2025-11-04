@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b746d4b486c896e637dec186" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wieso bist du nicht da](https://open.spotify.com/track/1IWu6NnBEjtmK5jOfUPFEF)**
-*by* **ArniTheSavage**
-*Album:* Wieso bist du nicht da
+**🎵 [shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)**
+*by* **meat computer**
+*Album:* slept on the floor still dreamt about you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="161" height="4" fill="#1db954" rx="2"/>
-    <circle cx="161" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:29
+    0:15 • 1:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)*
-🎤 **[RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)*
-🎤 **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)*
+🎤 **[Leb es oder lass es 2](https://open.spotify.com/track/6yHaSNP75AtP6Q5LeT5081)** by **makko** *(Leb es oder lass es 2)*
+🎤 **[Teenage Dreams](https://open.spotify.com/track/1RmjoWcAj6HVGuEk0gZE9p)** by **Rill, Young Mask** *(Teenage Dreams)*
+🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
+🎤 **[Fright Night](https://open.spotify.com/track/1WCpCRhI7nNo6RNSXDBJd7)** by **decaying, evrythnghurtz** *(Fright Night)*
+🎤 **[ich hasse alles hier](https://open.spotify.com/track/51tVSCuPK6GyVWvlE3MDQR)** by **ilyproxy** *(ich hasse alles hier)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-04 03:38:18Z UTC
+🕐 Last updated: 2025-11-04 03:57:16Z UTC
 <!-- SPOTIFY-END -->
