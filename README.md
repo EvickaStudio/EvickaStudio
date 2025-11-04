@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e236619d1054db8f6e092221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)**
-*by* **Chapo102, 102 Boyz, Stacks102**
-*Album:* MISCHKONSUM EP
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:15 • 2:56
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)** by **Hello Hannes** *(Hate Crime Against Myself)*
-🎤 **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)*
-🎤 **[Whatever](https://open.spotify.com/track/3jtWarFX9mNJpamfDTeP5J)** by **CRO** *(Raop +5)*
-🎤 **[Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os)** by **Duster** *(Stratosphere)*
-🎤 **[Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds)** by **Kanye West, Pusha T** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
+🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
+🎤 **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)*
+🎤 **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)** by **Have A Nice Life** *(Deathconsciousness)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 18:18:39Z UTC
+🕐 Last updated: 2025-11-04 18:47:39Z UTC
 <!-- SPOTIFY-END -->
