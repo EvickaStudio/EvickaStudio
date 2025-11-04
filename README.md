@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730aa18b1730c272f627df8145" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273906569877fb49820ab5821e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)**
-*by* **meat computer**
-*Album:* slept on the floor still dreamt about you
+**🎵 [XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)**
+*by* **Sg Lily, Buffalobang, Eera**
+*Album:* XTC FINAL
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 1:33
+    1:53 • 2:19
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Leb es oder lass es 2](https://open.spotify.com/track/6yHaSNP75AtP6Q5LeT5081)** by **makko** *(Leb es oder lass es 2)*
-🎤 **[Teenage Dreams](https://open.spotify.com/track/1RmjoWcAj6HVGuEk0gZE9p)** by **Rill, Young Mask** *(Teenage Dreams)*
-🎤 **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)*
-🎤 **[Fright Night](https://open.spotify.com/track/1WCpCRhI7nNo6RNSXDBJd7)** by **decaying, evrythnghurtz** *(Fright Night)*
-🎤 **[ich hasse alles hier](https://open.spotify.com/track/51tVSCuPK6GyVWvlE3MDQR)** by **ilyproxy** *(ich hasse alles hier)*
+🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[Snus](https://open.spotify.com/track/11pyUJH4ZpGCHuOQH1qbEW)** by **4gegenbeat, BIGBAX** *(Snus)*
+🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
+🎤 **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by **Lilac** *(amiss (+ winter))*
+🎤 **[Eislaufen](https://open.spotify.com/track/60LCaKFI3huqUjzSROIGBo)** by **Hank, Rowli, Sick & Tired** *(Eislaufen)*
 
 
 
@@ -152,12 +152,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
-🥈 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
-🥉 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
+🥇 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
+🥈 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
+🥉 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-04 03:57:16Z UTC
+🕐 Last updated: 2025-11-04 04:20:03Z UTC
 <!-- SPOTIFY-END -->
