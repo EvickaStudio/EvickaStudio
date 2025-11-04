@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed31049e1104b717e77e7c47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MISA & LIGHT](https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr)**
-*by* **NXFEIT, Sillyelly, Hen848**
-*Album:* MISA & LIGHT
+**🎵 [A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)**
+*by* **Nokia Angel**
+*Album:* In Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="249" height="4" fill="#1db954" rx="2"/>
-    <circle cx="249" cy="2" r="6" fill="#1db954"/>
+    <rect width="177" height="4" fill="#1db954" rx="2"/>
+    <circle cx="177" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 2:50
+    2:00 • 3:22
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)*
-🎤 **[Black Sheep](https://open.spotify.com/track/4XMsJitroppOkDYJlEmuKo)** by **Whispersinyahead** *(Black Sheep)*
-🎤 **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)*
-🎤 **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)*
+🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
+🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[Alonely](https://open.spotify.com/track/2mZ4GBrpCTiwPTwvNO7bDZ)** by **Rill, Young Mask** *(I Came From Nobody Likes Me To Nobody Like Me)*
+🎤 **[California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)** by **Delta Spirit** *(Delta Spirit)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 14:13:20Z UTC
+🕐 Last updated: 2025-11-04 14:36:00Z UTC
 <!-- SPOTIFY-END -->
