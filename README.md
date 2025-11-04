@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e236619d1054db8f6e092221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)**
+*by* **Chapo102, 102 Boyz, Stacks102**
+*Album:* MISCHKONSUM EP
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:15 • 2:56
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)*
-🎤 **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
-🎤 **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
+🎤 **[Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)** by **Hello Hannes** *(Hate Crime Against Myself)*
+🎤 **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)*
+🎤 **[Whatever](https://open.spotify.com/track/3jtWarFX9mNJpamfDTeP5J)** by **CRO** *(Raop +5)*
+🎤 **[Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os)** by **Duster** *(Stratosphere)*
+🎤 **[Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds)** by **Kanye West, Pusha T** *(My Beautiful Dark Twisted Fantasy)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 17:49:19Z UTC
+🕐 Last updated: 2025-11-04 18:18:39Z UTC
 <!-- SPOTIFY-END -->
