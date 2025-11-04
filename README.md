@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736629733edc6157c2bb9712dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [pass mal auf mich auf](https://open.spotify.com/track/4AetOMgrEwuCbhARSgOfTD)**
+*by* **wavybaby, Flippa**
+*Album:* pass mal auf mich auf
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:39 • 2:12
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[12 Sohlen](https://open.spotify.com/track/6pTOpLVBblVDlFJfEbrf8X)** by **Teuterekordz** *(12 Sohlen)*
+🎤 **[Xtra](https://open.spotify.com/track/1Kl0IQeqmHtIq8dhup3i83)** by **Sadi, kittyyy, LAVENDER** *(99)*
+🎤 **[du musst ein engel sein](https://open.spotify.com/track/12j68yRCyQ2IOkYceJdLun)** by **ghostboo, Lawin, Juri** *(exxtra)*
+🎤 **[Herzblut](https://open.spotify.com/track/1R1XwFPVhNt8W6D0tncdZl)** by **Tape Head, NONI** *(Memento Mori)*
 🎤 **[raucherschaeden](https://open.spotify.com/track/5uYKK8CGh0kvPoz29CzHdA)** by **b3nn3t, sotbarn** *(laut nachgedacht)*
-🎤 **[FOR YOU](https://open.spotify.com/track/2xz2dcu7K0ADRxg2wQPNJQ)** by **Dave Plugs** *(BACK AT IT EP)*
-🎤 **[Ich bin dein größter Fan](https://open.spotify.com/track/7gNQe2mtfqqlLda5i7HEMb)** by **EN6O** *(DIAMOND Fashion TV)*
-🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
-🎤 **[zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)** by **ghostboo, Lawin** *(exxtra)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 12:28:04Z UTC
+🕐 Last updated: 2025-11-04 13:09:57Z UTC
 <!-- SPOTIFY-END -->
