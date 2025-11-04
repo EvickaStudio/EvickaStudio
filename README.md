@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d913dcfdb527b369828aebd5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcc11a888c9d7853e06dc61c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)**
-*by* **diggidaniel**
-*Album:* verschwende mich
+**🎵 [Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)**
+*by* **toobrokeforfiji**
+*Album:* Was is mit UNS los?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="298" height="4" fill="#1db954" rx="2"/>
+    <circle cx="298" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 2:48
+    2:28 • 2:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
-🎤 **[Zugzwang](https://open.spotify.com/track/0FMwBL7kFH1oYcjdYL9n9i)** by **Tape Head, NONI** *(Zugzwang)*
-🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[balotelli - slowed](https://open.spotify.com/track/5QoJti5skXkAYl9ytaI2Fb)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[Nie Wieder Frieren](https://open.spotify.com/track/3RhH2sTmT2OSVpOYyOBRRh)** by **Leo Kaminski** *(Alle denken)*
+🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
+🎤 **[update](https://open.spotify.com/track/5kxz90Zb0PIrMjo0agG9YW)** by **endrik** *(update)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-04 06:49:40Z UTC
+🕐 Last updated: 2025-11-04 07:13:24Z UTC
 <!-- SPOTIFY-END -->
