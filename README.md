@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b51eba04f93bc3224016ed0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273294bd54ee93186fdfe5a9306" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)**
-*by* **kevin**
-*Album:* jeans unten
+**🎵 [Gute Zeit](https://open.spotify.com/track/44uiHqQbBh9JPJmaro0u99)**
+*by* **Saved Boy**
+*Album:* Gute Zeit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:32
+    1:27 • 2:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[transparent](https://open.spotify.com/track/6G5i4rj3zXKavGorPHCjgW)** by **ghostboo, Lawin, Keule** *(exxtra)*
-🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
-🎤 **[Frustkick](https://open.spotify.com/track/4jYJdjR5OfLfrclx8LdV3q)** by **Taran, Ordinary** *(Schuld)*
-🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
+🎤 **[Du bist genauso..](https://open.spotify.com/track/13tO9qQ93hRienhWuqrP0f)** by **Urbannino** *(Du bist genauso..)*
+🎤 **[zwei stunden](https://open.spotify.com/track/6ilb5DaEu9zp5WFGkXEHcV)** by **b3nn3t, ben clean** *(zwei stunden)*
+🎤 **[Durch Gläser sehen](https://open.spotify.com/track/0jovdETdEGpLDYEDRyxG5m)** by **Nicki Papa** *(Wendepunkt)*
+🎤 **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)*
+🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
 
 
-🕐 Last updated: 2025-11-04 08:47:14Z UTC
+🕐 Last updated: 2025-11-04 09:15:02Z UTC
 <!-- SPOTIFY-END -->
