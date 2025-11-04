@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357d33eb90b752e94c0d02e6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735fcd8144ff007592c8018cd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shut My Eyes](https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW)**
-*by* **Burrrn**
-*Album:* Blaze Down His Way Like the Space Show
+**🎵 [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)**
+*by* **Moe Shop, TORIENA**
+*Album:* Moe Moe
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="117" height="4" fill="#1db954" rx="2"/>
+    <circle cx="117" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:02 • 4:50
+    1:14 • 3:09
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)*
-🎤 **[Space Song](https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2)** by **Beach House** *(Depression Cherry)*
-🎤 **[Our Parents Used To Dance On This](https://open.spotify.com/track/58xkLl4sYMrBDQ8S8D47M8)** by **Abr.** *(1 to 50)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
+🎤 **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
+🎤 **[Pirouette](https://open.spotify.com/track/6tu82VxI7sN4zdeQd19H9f)** by **Lil Narnia** *(Wisteria)*
+🎤 **[52Hertz - Bonus Track](https://open.spotify.com/track/2vj55J14cjerZEHlZ5ez0l)** by **Dropped here** *(Need for speed)*
+🎤 **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)*
+🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 14:52:41Z UTC
+🕐 Last updated: 2025-11-04 15:14:04Z UTC
 <!-- SPOTIFY-END -->
