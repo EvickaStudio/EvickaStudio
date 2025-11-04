@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733d586274d4c9c7e1ed97f972" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a7015706aed2ae96b3c0709f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [TL;DR](https://open.spotify.com/track/60xS8hPFTPwjZwZ5b2091p)**
-*by* **Bladee, Ecco2k, Thaiboy Digital**
-*Album:* TL;DR
+**🎵 [alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)**
+*by* **ilymeow, wenszy, lostsoundwtf**
+*Album:* alright!!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 3:04
+    0:27 • 1:52
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)*
-🎤 **[Kalt in der Hood](https://open.spotify.com/track/1uqPRPfFx29OaKkKDYSGwi)** by **Beyazz** *(Kara Tape)*
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
-🎤 **[gothoroolol](https://open.spotify.com/track/6Wa46bQSQkWkiAtEnGHTGS)** by **Death Souljah** *(gothoroolol)*
-🎤 **[Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)** by **Cavetown** *(Animal Kingdom)*
+🎤 **[Look at the beautiful stars](https://open.spotify.com/track/4Zd0ZfElXwghxm0R3bX8og)** by **ALFANI.X** *(Look at the beautiful stars)*
+🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[In Meinem Bmw (Freetrack)](https://open.spotify.com/track/3jtIKjbpBHQLVOE90RCFxi)** by **Pate 24** *(In Meinem Bmw (Freetrack))*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
+🎤 **[Guts Theme](https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY)** by **Rooster** *(Rooster Debut)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 15:50:46Z UTC
+🕐 Last updated: 2025-11-04 16:16:28Z UTC
 <!-- SPOTIFY-END -->
