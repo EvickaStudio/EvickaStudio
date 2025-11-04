@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273948506eef3b3350b2385ef51" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)**
-*by* **LSD and the Search for God**
-*Album:* LSD and the Search for God
+**🎵 [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)**
+*by* **bôa**
+*Album:* Twilight
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:20 • 5:04
+    0:16 • 3:23
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Crash Dummy](https://open.spotify.com/track/3wlFVKpDLDADlWXTNl9gGN)** by **BHZ, Monk, Ion Miles** *(Crash Dummy)*
+🎤 **[wir wollen](https://open.spotify.com/track/1acSOl36KhJkuGPSXRVsO0)** by **Longus Mongus, Monk, BHZ** *(wir wollen)*
+🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
 🎤 **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[Burnout](https://open.spotify.com/track/0v33YI5pqpTnxT00NqaBJA)** by **Maxi Nagl, juizz** *(Maxi Nagl Prod Tape #1)*
-🎤 **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by **diggidaniel** *(So weit)*
-🎤 **[polo](https://open.spotify.com/track/0uFUi8yBexHneBj7hCyT1Z)** by **ghostboo, Lawin** *(exxtra)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 13:44:30Z UTC
+🕐 Last updated: 2025-11-04 13:55:09Z UTC
 <!-- SPOTIFY-END -->
