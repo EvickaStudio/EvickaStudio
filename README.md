@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e57741fef3344015947d56a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733b51eba04f93bc3224016ed0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)**
-*by* **Tamino404, eedriaen**
-*Album:* jederzeit
+**🎵 [jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)**
+*by* **kevin**
+*Album:* jeans unten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:23
+    0:14 • 2:32
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kreative perspektiven](https://open.spotify.com/track/4eD25gyTWHEaA6yCC5OZ4e)** by **b3nn3t** *(traeum ich??)*
-🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
-🎤 **[ZUSEHEN](https://open.spotify.com/track/219yaX0TK4AKpmGwhl1KK7)** by **SQF2000, Carlo Karacho** *(ZUSEHEN)*
-🎤 **[Melancholie](https://open.spotify.com/track/2Fm1hz750M8JhAmELP95yd)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[transparent](https://open.spotify.com/track/6G5i4rj3zXKavGorPHCjgW)** by **ghostboo, Lawin, Keule** *(exxtra)*
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
+🎤 **[Frustkick](https://open.spotify.com/track/4jYJdjR5OfLfrclx8LdV3q)** by **Taran, Ordinary** *(Schuld)*
+🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
 
 
-🕐 Last updated: 2025-11-04 08:18:05Z UTC
+🕐 Last updated: 2025-11-04 08:47:14Z UTC
 <!-- SPOTIFY-END -->
