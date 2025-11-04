@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9dba5c17ed6e5eb0024afff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f540fa743c01cb7348cdefe4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [jede nacht](https://open.spotify.com/track/2TOov6Len00MeUbaljfDWF)**
-*by* **SQF2000**
-*Album:* jede nacht
+**🎵 [FOR YOU](https://open.spotify.com/track/2xz2dcu7K0ADRxg2wQPNJQ)**
+*by* **Dave Plugs**
+*Album:* BACK AT IT EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="297" height="4" fill="#1db954" rx="2"/>
-    <circle cx="297" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:10
+    1:05 • 2:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wieder gut](https://open.spotify.com/track/2iswi2ayohjT0cCdui9k8N)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[augen zu](https://open.spotify.com/track/0gsH5GEgcRarnmAgYEu8uY)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
-🎤 **[kinderleicht](https://open.spotify.com/track/0NbRmpjMJMTsVHI4SB1vzD)** by **b3nn3t** *(laut nachgedacht)*
-🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
+🎤 **[Ich bin dein größter Fan](https://open.spotify.com/track/7gNQe2mtfqqlLda5i7HEMb)** by **EN6O** *(DIAMOND Fashion TV)*
+🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
+🎤 **[zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[kein halt](https://open.spotify.com/track/0bOs34kxuxhM30OvaS3JHK)** by **diggidaniel** *(kein halt)*
+🎤 **[Zaza aufgehört](https://open.spotify.com/track/78zHIThyvcCKdyubG7Cdi3)** by **Baron** *(Zaza aufgehört)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**souluploads**](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)
 
 
-🕐 Last updated: 2025-11-04 09:50:39Z UTC
+🕐 Last updated: 2025-11-04 10:15:33Z UTC
 <!-- SPOTIFY-END -->
