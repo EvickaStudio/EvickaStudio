@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b5d438726c4cf6424c0c5a83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b88ff6637a83f870d255e0ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)**
-*by* **mehlhaltig, luu**
-*Album:* nur für dich!!^_-
+**🎵 [remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)**
+*by* **Senses, mint, Nightclub20xx**
+*Album:* remedy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 2:45
+    2:08 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-04 20:50:26Z UTC
+🕐 Last updated: 2025-11-04 21:12:03Z UTC
 <!-- SPOTIFY-END -->
