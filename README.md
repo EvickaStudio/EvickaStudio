@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e279c0bd83178109ce8df9ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d913dcfdb527b369828aebd5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)**
-*by* **kevin**
-*Album:* Es ist peinlich
+**🎵 [verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)**
+*by* **diggidaniel**
+*Album:* verschwende mich
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 2:33
+    1:20 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
-🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
+🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
+🎤 **[Zugzwang](https://open.spotify.com/track/0FMwBL7kFH1oYcjdYL9n9i)** by **Tape Head, NONI** *(Zugzwang)*
+🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[balotelli - slowed](https://open.spotify.com/track/5QoJti5skXkAYl9ytaI2Fb)** by **puls207, TROPFBUBEN** *(balotelli)*
+🎤 **[Nie Wieder Frieren](https://open.spotify.com/track/3RhH2sTmT2OSVpOYyOBRRh)** by **Leo Kaminski** *(Alle denken)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-04 06:20:11Z UTC
+🕐 Last updated: 2025-11-04 06:49:40Z UTC
 <!-- SPOTIFY-END -->
