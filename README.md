@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d525553fb928e6cb264b369e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
+**🎵 [Die werden das nie kapieren](https://open.spotify.com/track/7G09i8e1XvAkddDbmbjgxM)**
+*by* **VHM**
+*Album:* Die werden das nie kapieren
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:32 • 2:20
+    1:56 • 2:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wettlauf](https://open.spotify.com/track/5r7meaOo5wrHyAQDvgiAWy)** by **Die Twinz** *(Wettlauf)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
-🎤 **[BAHN FAHREN](https://open.spotify.com/track/3dxFjpyWBR2i06gpMrhrhI)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
+🎤 **[Daheim](https://open.spotify.com/track/2CsMyqVO9XZMffVuOUqFxm)** by **Verträumt** *(Daheim)*
+🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)** by **humanangst** *(Lost in Translation)*
+🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 10:51:54Z UTC
+🕐 Last updated: 2025-11-05 11:11:52Z UTC
 <!-- SPOTIFY-END -->
