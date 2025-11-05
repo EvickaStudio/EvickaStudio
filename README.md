@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735f23945df3b8f768754c0355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bc4adefa1b51bd56043a6593" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [gucci](https://open.spotify.com/track/1zeQQRth1GByPoBM4J8VYS)**
-*by* **Clarry Berry**
-*Album:* gucci
+**🎵 [balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)**
+*by* **puls207, TROPFBUBEN**
+*Album:* balotelli
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="17" height="4" fill="#1db954" rx="2"/>
-    <circle cx="17" cy="2" r="6" fill="#1db954"/>
+    <rect width="127" height="4" fill="#1db954" rx="2"/>
+    <circle cx="127" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:00
+    0:43 • 1:42
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[rosa](https://open.spotify.com/track/29jhqdbaKIrCYk3piJICVN)** by **Longus Mongus, BHZ** *(rosa)*
-🎤 **[mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)*
-🎤 **[Immer](https://open.spotify.com/track/0cQ6WzGN37SWqkCe3UL03y)** by **c4rl** *(Immer)*
-🎤 **[03.02.25](https://open.spotify.com/track/7zRS3iAoQbzgMHBsSJl5MG)** by **b3nn3t** *(traeum ich??)*
+🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
+🎤 **[Poser](https://open.spotify.com/track/0dwGwUeTaWiluc86vhFeH4)** by **c4rl** *(Poser)*
+🎤 **[Wichtig war](https://open.spotify.com/track/6M9VcDgKSHB0SKxiJcnbn3)** by **kevin** *(Wichtig war)*
+🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
+🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 19:35:11Z UTC
+🕐 Last updated: 2025-11-05 19:47:40Z UTC
 <!-- SPOTIFY-END -->
