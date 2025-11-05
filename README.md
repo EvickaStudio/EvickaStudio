@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273252a9c92109c1485fa62948a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273126b91a26fa1cb96be347d68" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)**
-*by* **ghostboo**
-*Album:* rette mich nicht
+**🎵 [Irgendeine Party](https://open.spotify.com/track/5xKiFxQQq6dhRXZHy0UAfa)**
+*by* **Leo Kaminski, prodsoeren**
+*Album:* Stahlbeton
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 1:57
+    1:14 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
-🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
-🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[ERINNERUNG](https://open.spotify.com/track/7KTWuXvMQBaDVbb4rDNmjc)** by **Peter P. Peters** *(Peter P. Peters)*
-🎤 **[Zu Laut](https://open.spotify.com/track/3QmxWUJQPp7WQhlpzX9Ilj)** by **c4rl** *(Zu Laut)*
+🎤 **[diese welt, sie schweigt](https://open.spotify.com/track/2zd6ig9ovXU0DgIotjvb8j)** by **b3nn3t** *(diese welt, sie schweigt)*
+🎤 **[herz aus](https://open.spotify.com/track/07Fy1ThQu9KPs1NDBY4rBZ)** by **ghostboo, ELEF** *(herz aus)*
+🎤 **[NIEOHNEMEINTEAMLOFIREMIX](https://open.spotify.com/track/5Ejc6rM5vdRoAj4V2DSG0e)** by **SQF2000** *(NIEOHNEMEINTEAMLOFIREMIX)*
+🎤 **[Sterne](https://open.spotify.com/track/3ZyBgvY8DiHOP4iTyYVxlC)** by **ottomatisch** *(Sterne)*
+🎤 **[Outer Banks](https://open.spotify.com/track/3gk1pCkVrwrVctLdm3zlU8)** by **Frry, 7ventus** *(SOMMER 074)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 14:52:23Z UTC
+🕐 Last updated: 2025-11-05 15:14:37Z UTC
 <!-- SPOTIFY-END -->
