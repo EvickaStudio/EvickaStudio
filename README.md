@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273126b91a26fa1cb96be347d68" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ecf826c9bc66799f90d1273" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Irgendeine Party](https://open.spotify.com/track/5xKiFxQQq6dhRXZHy0UAfa)**
-*by* **Leo Kaminski, prodsoeren**
-*Album:* Stahlbeton
+**🎵 [grease](https://open.spotify.com/track/7bM0b0wPJlZytlik4aW4xk)**
+*by* **Frry, 7ventus**
+*Album:* SOMMER 074
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 2:27
+    0:06 • 1:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[diese welt, sie schweigt](https://open.spotify.com/track/2zd6ig9ovXU0DgIotjvb8j)** by **b3nn3t** *(diese welt, sie schweigt)*
-🎤 **[herz aus](https://open.spotify.com/track/07Fy1ThQu9KPs1NDBY4rBZ)** by **ghostboo, ELEF** *(herz aus)*
-🎤 **[NIEOHNEMEINTEAMLOFIREMIX](https://open.spotify.com/track/5Ejc6rM5vdRoAj4V2DSG0e)** by **SQF2000** *(NIEOHNEMEINTEAMLOFIREMIX)*
-🎤 **[Sterne](https://open.spotify.com/track/3ZyBgvY8DiHOP4iTyYVxlC)** by **ottomatisch** *(Sterne)*
-🎤 **[Outer Banks](https://open.spotify.com/track/3gk1pCkVrwrVctLdm3zlU8)** by **Frry, 7ventus** *(SOMMER 074)*
+🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
+🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
+🎤 **[BISSCHEN](https://open.spotify.com/track/2w1BHnxY4CeJNqaSAwl3TL)** by **Levin, Narses** *(BISSCHEN)*
+🎤 **[Niemand hat uns gewarnt](https://open.spotify.com/track/6VRgC24rOm2ve1XsnDhfPL)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[warmer regen](https://open.spotify.com/track/0TQ1OZhxgdkIJ7xlT2aXx2)** by **Frry, 7ventus** *(SOMMER 074)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 15:14:37Z UTC
+🕐 Last updated: 2025-11-05 15:31:46Z UTC
 <!-- SPOTIFY-END -->
