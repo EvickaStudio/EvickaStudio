@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b22e41bcb94a182f15f3b07" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)**
-*by* **SQF2000, Tamino404**
-*Album:* YOLOCORE
+**🎵 [hochhaus](https://open.spotify.com/track/1HjhRYA6qBUyqBWvZhah0R)**
+*by* **ghostboo**
+*Album:* hochhaus
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="218" height="4" fill="#1db954" rx="2"/>
+    <circle cx="218" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 1:58
+    1:49 • 2:30
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ISSO](https://open.spotify.com/track/0zHESRhLQ1B3aLNCdhmZdi)** by **TYM** *(ISSO)*
-🎤 **[Pueblo Blau](https://open.spotify.com/track/4T214QVgoZAbprCMxFwqfN)** by **ottomatisch** *(Pueblo Blau)*
-🎤 **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)*
-🎤 **[Zusammen allein](https://open.spotify.com/track/4RUBlvgdUwEBLGSh3by3YO)** by **Tape Head, NONI** *(Zusammen allein)*
-🎤 **[naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)** by **ghostboo** *(naiv)*
+🎤 **[Ende](https://open.spotify.com/track/5TCCw2pMs4nbw8otzwtAzp)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[MISCHE](https://open.spotify.com/track/5SkaZelEXaDaPzsu2CCUQ4)** by **Levin, Narses** *(MISCHE)*
+🎤 **[ich](https://open.spotify.com/track/6b4v4ISEfWX3G9Iw9K3NlN)** by **b3nn3t** *(laut nachgedacht)*
+🎤 **[Luv**](https://open.spotify.com/track/47kLrqJH6VrVuN7BVyBQaz)** by **Sadi** *(Luv**)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 17:48:00Z UTC
+🕐 Last updated: 2025-11-05 18:18:30Z UTC
 <!-- SPOTIFY-END -->
