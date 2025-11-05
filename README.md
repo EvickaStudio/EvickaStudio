@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b22e41bcb94a182f15f3b07" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27322b4ad96de75c5e335a3f761" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hochhaus](https://open.spotify.com/track/1HjhRYA6qBUyqBWvZhah0R)**
-*by* **ghostboo**
-*Album:* hochhaus
+**🎵 [Stop](https://open.spotify.com/track/5bx9c0kjK87OFNF3GRab5C)**
+*by* **c4rl**
+*Album:* Stop
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="218" height="4" fill="#1db954" rx="2"/>
-    <circle cx="218" cy="2" r="6" fill="#1db954"/>
+    <rect width="208" height="4" fill="#1db954" rx="2"/>
+    <circle cx="208" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:30
+    1:32 • 2:13
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ende](https://open.spotify.com/track/5TCCw2pMs4nbw8otzwtAzp)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[MISCHE](https://open.spotify.com/track/5SkaZelEXaDaPzsu2CCUQ4)** by **Levin, Narses** *(MISCHE)*
-🎤 **[ich](https://open.spotify.com/track/6b4v4ISEfWX3G9Iw9K3NlN)** by **b3nn3t** *(laut nachgedacht)*
-🎤 **[Luv**](https://open.spotify.com/track/47kLrqJH6VrVuN7BVyBQaz)** by **Sadi** *(Luv**)*
+🎤 **[80s Love](https://open.spotify.com/track/0cQlkgrLZSjNvYRP6BYeH6)** by **er!k** *(Deceiving)*
+🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
+🎤 **[Todeshigh](https://open.spotify.com/track/4ZjYfHhuqFlxqA8xbHz2m9)** by **Ritter Lean** *(Muss mein eigener Atze sein)*
+🎤 **[wer bist du wenn keiner schaut??](https://open.spotify.com/track/6oW8GqI45ndy0nYzdeUFz5)** by **b3nn3t** *(traeum ich??)*
+🎤 **[zu mir bin ich manchmal viel zu hart](https://open.spotify.com/track/0H7xjqUiBKtZF5svIDOnS5)** by **Keule, veil** *(ein blick in mein kopf)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 18:18:30Z UTC
+🕐 Last updated: 2025-11-05 18:48:09Z UTC
 <!-- SPOTIFY-END -->
