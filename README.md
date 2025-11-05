@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d525553fb928e6cb264b369e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371777bf84e1bc7a35b019c16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Die werden das nie kapieren](https://open.spotify.com/track/7G09i8e1XvAkddDbmbjgxM)**
-*by* **VHM**
-*Album:* Die werden das nie kapieren
+**🎵 [Deswegen Schreib Ich Dieses Lied Für Dich](https://open.spotify.com/track/7GrGI5W9EJrmpX3tVWSGbR)**
+*by* **BoysDoCry, L3o, Lovis**
+*Album:* Deswegen Schreib Ich Dieses Lied Für Dich
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="76" height="4" fill="#1db954" rx="2"/>
+    <circle cx="76" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:42
+    0:39 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Daheim](https://open.spotify.com/track/2CsMyqVO9XZMffVuOUqFxm)** by **Verträumt** *(Daheim)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)** by **humanangst** *(Lost in Translation)*
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
+🎤 **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by **diggidaniel** *(Zwing mich zu meinem Glück)*
+🎤 **[mein herz setzt aus_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR)** by **Kasi** *(harddrive2024)*
+🎤 **[rettungsschwimmer](https://open.spotify.com/track/78amQaumXQhcho7hKlIDPg)** by **5star** *(rettungsschwimmer)*
+🎤 **[Verschwendete Zeit](https://open.spotify.com/track/7mSrDD4cUa6DRSf7zuv0rz)** by **Tom Blanc** *(Verschwendete Zeit)*
+🎤 **[wahrheit oder pflicht](https://open.spotify.com/track/2jeBIzBBOOs2fTndOoZNnw)** by **puls207, TROPFBUBEN** *(wahrheit oder pflicht)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 11:11:52Z UTC
+🕐 Last updated: 2025-11-05 11:28:03Z UTC
 <!-- SPOTIFY-END -->
