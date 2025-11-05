@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c271701c8c4b212938f83478" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)**
+*by* **kevin**
+*Album:* hollywood
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="164" height="4" fill="#1db954" rx="2"/>
+    <circle cx="164" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:24 • 2:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
 🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
 🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
-🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 06:19:55Z UTC
+🕐 Last updated: 2025-11-05 06:48:59Z UTC
 <!-- SPOTIFY-END -->
