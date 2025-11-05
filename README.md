@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e01a0937e854e0955f4e9e5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735cc599e882e3db78dd9164d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heimweh](https://open.spotify.com/track/3ItdEIty3fVQzwokWqmZFS)**
-*by* **Hannesy**
-*Album:* Heimweh
+**🎵 [Deine Jacke](https://open.spotify.com/track/73hhb1qwyqsFM9yYZMkjZe)**
+*by* **zwanzignullvier**
+*Album:* Deine Jacke
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 3:05
+    1:02 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
-🎤 **[Eine Hand frei](https://open.spotify.com/track/74WRu70N4TnENPArbIYFpa)** by **Kenny & Krabat** *(Eine Hand frei)*
-🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
-🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
+🎤 **[Mehr Davon](https://open.spotify.com/track/4x2WFOzabggrrkqOgSOIEU)** by **Vince, NIE** *(Zweitausendzweiundzwanzig)*
+🎤 **[TRÄUME BRÜCKEN ZÄUNE](https://open.spotify.com/track/0s8XyPtRo8lCWzDfZ7gqSD)** by **sotbarn, b3nn3t** *(TRÄUME BRÜCKEN ZÄUNE)*
+🎤 **[vier songs](https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf)** by **Keule** *(vier songs)*
+🎤 **[KNAX](https://open.spotify.com/track/2A2DChq4GRcLoiUnuMVxRs)** by **wavybaby, Flippa, Pablo Rochat** *(KNAX)*
+🎤 **[sowieso noch wach](https://open.spotify.com/track/0V9XgZbZcbkEo2e0LHMIEP)** by **exóTico** *(sonnenschirm & klappstuhl)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 14:13:19Z UTC
+🕐 Last updated: 2025-11-05 14:35:37Z UTC
 <!-- SPOTIFY-END -->
