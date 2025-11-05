@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273788de539df7d14ea01ae2e45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Du bist genauso..](https://open.spotify.com/track/13tO9qQ93hRienhWuqrP0f)**
-*by* **Urbannino**
-*Album:* Du bist genauso..
+**🎵 [Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)**
+*by* **sparr00w**
+*Album:* Bitte lass mich einfach los
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 2:56
+    2:24 • 3:01
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Schnulze](https://open.spotify.com/track/3HX1Si9G6bBac9xPp5vg0u)** by **bella bazz, OTPendia, Dauner** *(Mama ich werd Rapper)*
-🎤 **[zusamm mit dir](https://open.spotify.com/track/1eYs156q5r5WRrbNKZKSYg)** by **Keule** *(zusamm mit dir)*
-🎤 **[kein phone](https://open.spotify.com/track/2kWfOLoudOF7hOKr2f8UMJ)** by **b3nn3t** *(kein phone)*
-🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
+🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
+🎤 **[Crushh](https://open.spotify.com/track/2P8noxh7GWF6qfZf6NoY4g)** by **Sadi, Stoopid Lou** *(99)*
+🎤 **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
+🎤 **[augen zu](https://open.spotify.com/track/0gsH5GEgcRarnmAgYEu8uY)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[Pusher](https://open.spotify.com/track/5ftmc2CvRKeD8r8q3IoIZE)** by **c4rl** *(Pusher)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 17:12:29Z UTC
+🕐 Last updated: 2025-11-05 17:32:49Z UTC
 <!-- SPOTIFY-END -->
