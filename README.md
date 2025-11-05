@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c271701c8c4b212938f83478" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)**
+*by* **kevin**
+*Album:* hollywood
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:15 • 2:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[Schau dass du nicht fällst](https://open.spotify.com/track/60qK7FiujHk7SNGjsa25MH)** by **kevin** *(7)*
+🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
 🎤 **[Deswegen Schreib Ich Dieses Lied Für Dich](https://open.spotify.com/track/7GrGI5W9EJrmpX3tVWSGbR)** by **BoysDoCry, L3o, Lovis** *(Deswegen Schreib Ich Dieses Lied Für Dich)*
 🎤 **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by **diggidaniel** *(Zwing mich zu meinem Glück)*
-🎤 **[mein herz setzt aus_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR)** by **Kasi** *(harddrive2024)*
-🎤 **[rettungsschwimmer](https://open.spotify.com/track/78amQaumXQhcho7hKlIDPg)** by **5star** *(rettungsschwimmer)*
-🎤 **[Verschwendete Zeit](https://open.spotify.com/track/7mSrDD4cUa6DRSf7zuv0rz)** by **Tom Blanc** *(Verschwendete Zeit)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 10:15:02Z UTC
+🕐 Last updated: 2025-11-05 10:39:45Z UTC
 <!-- SPOTIFY-END -->
