@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c5156b011ddede6ae9b79b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)**
-*by* **humanangst**
-*Album:* Lost in Translation
+**🎵 [Kein Geld](https://open.spotify.com/track/7MJFkMK1D68T3We2jYs1bO)**
+*by* **diamando, Urbannino, DeeLou**
+*Album:* Kein Geld
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="89" height="4" fill="#1db954" rx="2"/>
-    <circle cx="89" cy="2" r="6" fill="#1db954"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:17
+    1:21 • 2:26
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)** by **humanangst** *(Lost in Translation)*
-🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
-🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[Frische Luft/Therapie](https://open.spotify.com/track/2nPhKehthjE5rFnsfrOX2D)** by **Taran, lomanuve** *(Frische Luft/Therapie)*
+🎤 **[600 Chrom](https://open.spotify.com/track/7de0j8K9WS7TsN2qBKpTOc)** by **Leo Kaminski, Yung GÉ** *(Ok çava)*
+🎤 **[Die werden das nie kapieren](https://open.spotify.com/track/7G09i8e1XvAkddDbmbjgxM)** by **VHM** *(Die werden das nie kapieren)*
+🎤 **[Daheim](https://open.spotify.com/track/2CsMyqVO9XZMffVuOUqFxm)** by **Verträumt** *(Daheim)*
+🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 09:14:55Z UTC
+🕐 Last updated: 2025-11-05 09:35:33Z UTC
 <!-- SPOTIFY-END -->
