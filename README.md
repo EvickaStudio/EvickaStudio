@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27322b4ad96de75c5e335a3f761" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f3e83b7d47aa471dfb457a0b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stop](https://open.spotify.com/track/5bx9c0kjK87OFNF3GRab5C)**
-*by* **c4rl**
-*Album:* Stop
+**🎵 [broken heart - freestyle](https://open.spotify.com/track/1cEohyQ9SCbFpMyoSVefYB)**
+*by* **puls207, TROPFBUBEN**
+*Album:* broken heart freestyle
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="208" height="4" fill="#1db954" rx="2"/>
-    <circle cx="208" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:32 • 2:13
+    0:22 • 1:44
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[80s Love](https://open.spotify.com/track/0cQlkgrLZSjNvYRP6BYeH6)** by **er!k** *(Deceiving)*
-🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
-🎤 **[Todeshigh](https://open.spotify.com/track/4ZjYfHhuqFlxqA8xbHz2m9)** by **Ritter Lean** *(Muss mein eigener Atze sein)*
-🎤 **[wer bist du wenn keiner schaut??](https://open.spotify.com/track/6oW8GqI45ndy0nYzdeUFz5)** by **b3nn3t** *(traeum ich??)*
-🎤 **[zu mir bin ich manchmal viel zu hart](https://open.spotify.com/track/0H7xjqUiBKtZF5svIDOnS5)** by **Keule, veil** *(ein blick in mein kopf)*
+🎤 **[oder auch in fabeln](https://open.spotify.com/track/7EZdVlK7gUwtDplEZAOJKt)** by **b3nn3t** *(traeum ich??)*
+🎤 **[Gestern](https://open.spotify.com/track/3JdsRW0PatIcT6bdI4tDGM)** by **Keule** *(Gestern)*
+🎤 **[LÄUFST NICHT WEG](https://open.spotify.com/track/5k37TK6UjHVrXIk6WrXbCL)** by **mickyi** *(LÄUFST NICHT WEG)*
+🎤 **[ich verlieb mich in einen geist](https://open.spotify.com/track/4dhXoxxjnD9zIHdIfyhXr6)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
+🎤 **[zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)** by **ghostboo, Lawin** *(exxtra)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 18:48:09Z UTC
+🕐 Last updated: 2025-11-05 19:10:52Z UTC
 <!-- SPOTIFY-END -->
