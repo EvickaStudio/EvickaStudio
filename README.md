@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea92c3688e51197d5dfacdc3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273828a87114bc6c42fa437991b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [fallrückzieher](https://open.spotify.com/track/2dZqGFbkT6mSnbWenKY5Ca)**
-*by* **puls207, TROPFBUBEN, rizzlas ku$h**
-*Album:* fallrückzieher
+**🎵 [Hi Haters](https://open.spotify.com/track/0N8Rrtt5Q108xImeY8dErb)**
+*by* **c4rl**
+*Album:* Hi Haters
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 1:20
+    0:53 • 1:46
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
-🎤 **[Poser](https://open.spotify.com/track/0dwGwUeTaWiluc86vhFeH4)** by **c4rl** *(Poser)*
-🎤 **[Wichtig war](https://open.spotify.com/track/6M9VcDgKSHB0SKxiJcnbn3)** by **kevin** *(Wichtig war)*
-🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
+🎤 **[B.H.C.(BrokenHeartsClub)](https://open.spotify.com/track/471TNZvEhpEHIoJZkyCi4W)** by **juizz, loeschelbua** *(B.H.C.(BrokenHeartsClub))*
+🎤 **[zwei stunden](https://open.spotify.com/track/6ilb5DaEu9zp5WFGkXEHcV)** by **b3nn3t, ben clean** *(zwei stunden)*
+🎤 **[letzte warnung](https://open.spotify.com/track/6fOyLFGoVcEKc2fleonmuJ)** by **mickyi** *(letzte warnung)*
+🎤 **[fallrückzieher](https://open.spotify.com/track/2dZqGFbkT6mSnbWenKY5Ca)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(fallrückzieher)*
+🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 21:37:27Z UTC
+🕐 Last updated: 2025-11-05 21:47:47Z UTC
 <!-- SPOTIFY-END -->
