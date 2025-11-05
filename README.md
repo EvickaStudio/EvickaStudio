@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27371777bf84e1bc7a35b019c16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Deswegen Schreib Ich Dieses Lied Für Dich](https://open.spotify.com/track/7GrGI5W9EJrmpX3tVWSGbR)**
-*by* **BoysDoCry, L3o, Lovis**
-*Album:* Deswegen Schreib Ich Dieses Lied Für Dich
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:33
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Deswegen Schreib Ich Dieses Lied Für Dich](https://open.spotify.com/track/7GrGI5W9EJrmpX3tVWSGbR)** by **BoysDoCry, L3o, Lovis** *(Deswegen Schreib Ich Dieses Lied Für Dich)*
 🎤 **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by **diggidaniel** *(Zwing mich zu meinem Glück)*
 🎤 **[mein herz setzt aus_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR)** by **Kasi** *(harddrive2024)*
 🎤 **[rettungsschwimmer](https://open.spotify.com/track/78amQaumXQhcho7hKlIDPg)** by **5star** *(rettungsschwimmer)*
 🎤 **[Verschwendete Zeit](https://open.spotify.com/track/7mSrDD4cUa6DRSf7zuv0rz)** by **Tom Blanc** *(Verschwendete Zeit)*
-🎤 **[wahrheit oder pflicht](https://open.spotify.com/track/2jeBIzBBOOs2fTndOoZNnw)** by **puls207, TROPFBUBEN** *(wahrheit oder pflicht)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 11:28:03Z UTC
+🕐 Last updated: 2025-11-05 11:38:25Z UTC
 <!-- SPOTIFY-END -->
