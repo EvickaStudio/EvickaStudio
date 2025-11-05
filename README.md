@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731c5156b011ddede6ae9b79b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Kein Geld](https://open.spotify.com/track/7MJFkMK1D68T3We2jYs1bO)**
-*by* **diamando, Urbannino, DeeLou**
-*Album:* Kein Geld
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 2:26
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Frische Luft/Therapie](https://open.spotify.com/track/2nPhKehthjE5rFnsfrOX2D)** by **Taran, lomanuve** *(Frische Luft/Therapie)*
-🎤 **[600 Chrom](https://open.spotify.com/track/7de0j8K9WS7TsN2qBKpTOc)** by **Leo Kaminski, Yung GÉ** *(Ok çava)*
-🎤 **[Die werden das nie kapieren](https://open.spotify.com/track/7G09i8e1XvAkddDbmbjgxM)** by **VHM** *(Die werden das nie kapieren)*
-🎤 **[Daheim](https://open.spotify.com/track/2CsMyqVO9XZMffVuOUqFxm)** by **Verträumt** *(Daheim)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
+🎤 **[Deswegen Schreib Ich Dieses Lied Für Dich](https://open.spotify.com/track/7GrGI5W9EJrmpX3tVWSGbR)** by **BoysDoCry, L3o, Lovis** *(Deswegen Schreib Ich Dieses Lied Für Dich)*
+🎤 **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by **diggidaniel** *(Zwing mich zu meinem Glück)*
+🎤 **[mein herz setzt aus_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR)** by **Kasi** *(harddrive2024)*
+🎤 **[rettungsschwimmer](https://open.spotify.com/track/78amQaumXQhcho7hKlIDPg)** by **5star** *(rettungsschwimmer)*
+🎤 **[Verschwendete Zeit](https://open.spotify.com/track/7mSrDD4cUa6DRSf7zuv0rz)** by **Tom Blanc** *(Verschwendete Zeit)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 09:35:33Z UTC
+🕐 Last updated: 2025-11-05 09:50:52Z UTC
 <!-- SPOTIFY-END -->
