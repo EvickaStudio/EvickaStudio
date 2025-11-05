@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f87c514ebd80a609c9152a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Gepäckträgerfahrt](https://open.spotify.com/track/6Vs4dKM0NujKeJiiRCvY7H)**
-*by* **Leo Kaminski**
-*Album:* Alles gut soweit
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:16
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[wir_s3lbst](https://open.spotify.com/track/1Fk25C1ezbpW5z0A7KIvry)** by **Pink Katana** *(wir_s3lbst)*
-🎤 **[ZAHNLÜCKE MUTTERMAL](https://open.spotify.com/track/4NgPhHHnUMQHphptL4cVlY)** by **Levin** *(ZAHNLÜCKE MUTTERMAL)*
-🎤 **[Geister](https://open.spotify.com/track/2gWt80w7sn9VVk4820DuAx)** by **ottomatisch** *(Geister)*
-🎤 **[piss mir nicht ans bein](https://open.spotify.com/track/0t3Jv9CQLowtl4o1jF84dC)** by **wavybaby, Flippa** *(piss mir nicht ans bein)*
-🎤 **[Eins Zwei](https://open.spotify.com/track/7bXF3hl3Re9tZvFw9fU0s8)** by **kevin** *(Eins Zwei)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)** by **PinkPantheress, Bladee** *(Fancy Some More?)*
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[Big Dreams](https://open.spotify.com/track/7BNj5aqto08LnvuAJYFnqG)** by **Okfella, boundxry, enchpannt** *(Big Dreams)*
+🎤 **[so weit weg](https://open.spotify.com/track/2AxpKD3pT6FteDnqCv1cV1)** by **rentnerotto, m84this** *(so weit weg)*
 
 
 
@@ -154,10 +135,10 @@
 
 🥇 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 🥈 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
-🥉 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
-🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
+🥉 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
+🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 13:06:49Z UTC
+🕐 Last updated: 2025-11-05 13:43:25Z UTC
 <!-- SPOTIFY-END -->
