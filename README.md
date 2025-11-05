@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f87c514ebd80a609c9152a6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Gepäckträgerfahrt](https://open.spotify.com/track/6Vs4dKM0NujKeJiiRCvY7H)**
+*by* **Leo Kaminski**
+*Album:* Alles gut soweit
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="260" height="4" fill="#1db954" rx="2"/>
+    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:58 • 2:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Deswegen Schreib Ich Dieses Lied Für Dich](https://open.spotify.com/track/7GrGI5W9EJrmpX3tVWSGbR)** by **BoysDoCry, L3o, Lovis** *(Deswegen Schreib Ich Dieses Lied Für Dich)*
-🎤 **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by **diggidaniel** *(Zwing mich zu meinem Glück)*
-🎤 **[mein herz setzt aus_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR)** by **Kasi** *(harddrive2024)*
-🎤 **[rettungsschwimmer](https://open.spotify.com/track/78amQaumXQhcho7hKlIDPg)** by **5star** *(rettungsschwimmer)*
-🎤 **[Verschwendete Zeit](https://open.spotify.com/track/7mSrDD4cUa6DRSf7zuv0rz)** by **Tom Blanc** *(Verschwendete Zeit)*
+🎤 **[wir_s3lbst](https://open.spotify.com/track/1Fk25C1ezbpW5z0A7KIvry)** by **Pink Katana** *(wir_s3lbst)*
+🎤 **[ZAHNLÜCKE MUTTERMAL](https://open.spotify.com/track/4NgPhHHnUMQHphptL4cVlY)** by **Levin** *(ZAHNLÜCKE MUTTERMAL)*
+🎤 **[Geister](https://open.spotify.com/track/2gWt80w7sn9VVk4820DuAx)** by **ottomatisch** *(Geister)*
+🎤 **[piss mir nicht ans bein](https://open.spotify.com/track/0t3Jv9CQLowtl4o1jF84dC)** by **wavybaby, Flippa** *(piss mir nicht ans bein)*
+🎤 **[Eins Zwei](https://open.spotify.com/track/7bXF3hl3Re9tZvFw9fU0s8)** by **kevin** *(Eins Zwei)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 12:27:01Z UTC
+🕐 Last updated: 2025-11-05 13:06:49Z UTC
 <!-- SPOTIFY-END -->
