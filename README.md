@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735cc599e882e3db78dd9164d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273252a9c92109c1485fa62948a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Deine Jacke](https://open.spotify.com/track/73hhb1qwyqsFM9yYZMkjZe)**
-*by* **zwanzignullvier**
-*Album:* Deine Jacke
+**🎵 [rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)**
+*by* **ghostboo**
+*Album:* rette mich nicht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:18
+    1:47 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mehr Davon](https://open.spotify.com/track/4x2WFOzabggrrkqOgSOIEU)** by **Vince, NIE** *(Zweitausendzweiundzwanzig)*
-🎤 **[TRÄUME BRÜCKEN ZÄUNE](https://open.spotify.com/track/0s8XyPtRo8lCWzDfZ7gqSD)** by **sotbarn, b3nn3t** *(TRÄUME BRÜCKEN ZÄUNE)*
-🎤 **[vier songs](https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf)** by **Keule** *(vier songs)*
-🎤 **[KNAX](https://open.spotify.com/track/2A2DChq4GRcLoiUnuMVxRs)** by **wavybaby, Flippa, Pablo Rochat** *(KNAX)*
-🎤 **[sowieso noch wach](https://open.spotify.com/track/0V9XgZbZcbkEo2e0LHMIEP)** by **exóTico** *(sonnenschirm & klappstuhl)*
+🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
+🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
+🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[ERINNERUNG](https://open.spotify.com/track/7KTWuXvMQBaDVbb4rDNmjc)** by **Peter P. Peters** *(Peter P. Peters)*
+🎤 **[Zu Laut](https://open.spotify.com/track/3QmxWUJQPp7WQhlpzX9Ilj)** by **c4rl** *(Zu Laut)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 14:35:37Z UTC
+🕐 Last updated: 2025-11-05 14:52:23Z UTC
 <!-- SPOTIFY-END -->
