@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734834b2b0b719dd403f291400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)**
-*by* **sparr00w**
-*Album:* Bitte lass mich einfach los
+**🎵 [stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)**
+*by* **SQF2000, Tamino404**
+*Album:* YOLOCORE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 3:01
+    1:35 • 1:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[Crushh](https://open.spotify.com/track/2P8noxh7GWF6qfZf6NoY4g)** by **Sadi, Stoopid Lou** *(99)*
-🎤 **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
-🎤 **[augen zu](https://open.spotify.com/track/0gsH5GEgcRarnmAgYEu8uY)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[Pusher](https://open.spotify.com/track/5ftmc2CvRKeD8r8q3IoIZE)** by **c4rl** *(Pusher)*
+🎤 **[ISSO](https://open.spotify.com/track/0zHESRhLQ1B3aLNCdhmZdi)** by **TYM** *(ISSO)*
+🎤 **[Pueblo Blau](https://open.spotify.com/track/4T214QVgoZAbprCMxFwqfN)** by **ottomatisch** *(Pueblo Blau)*
+🎤 **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)*
+🎤 **[Zusammen allein](https://open.spotify.com/track/4RUBlvgdUwEBLGSh3by3YO)** by **Tape Head, NONI** *(Zusammen allein)*
+🎤 **[naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)** by **ghostboo** *(naiv)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-05 17:32:49Z UTC
+🕐 Last updated: 2025-11-05 17:48:00Z UTC
 <!-- SPOTIFY-END -->
