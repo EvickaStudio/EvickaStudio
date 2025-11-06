@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27305c2056a1c46d380b8b3e0cf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad7676e42eb05b6605acb5bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [zwei stunden](https://open.spotify.com/track/6ilb5DaEu9zp5WFGkXEHcV)**
-*by* **b3nn3t, ben clean**
-*Album:* zwei stunden
+**🎵 [Hin & Her ⋆｡˚𖦹 - slowed](https://open.spotify.com/track/5TmPZeDXmk8DqF4YcaIncX)**
+*by* **S1RENA**
+*Album:* Hin & Her ⋆｡˚𖦹
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:14
+    0:10 • 2:38
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)*
-🎤 **[verstrahlt](https://open.spotify.com/track/5yXkP1i7MN8IuIHadpfCA8)** by **GERO** *(verstrahlt)*
-🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
-🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
-🎤 **[du musst ein engel sein](https://open.spotify.com/track/12j68yRCyQ2IOkYceJdLun)** by **ghostboo, Lawin, Juri** *(exxtra)*
+🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
+🎤 **[ich war noch nie so verliebt](https://open.spotify.com/track/7FXxO76Q3VTEbQmIu1V0rd)** by **Pink Katana Archive** *(ich war noch nie so verliebt)*
+🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
+🎤 **[sterne Still](https://open.spotify.com/track/3dqnJfQHd04svxpocw15FW)** by **sotbarn, b3nn3t** *(per Aspera ad #Astra)*
+🎤 **[Zeichen](https://open.spotify.com/track/3hjWNs88F4jednBx6xaO4Q)** by **herr ulrich** *(Zeichen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 17:48:57Z UTC
+🕐 Last updated: 2025-11-06 18:19:22Z UTC
 <!-- SPOTIFY-END -->
