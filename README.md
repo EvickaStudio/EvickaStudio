@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f8be95b1395ee4616c9d2956" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [EUROTANZ](https://open.spotify.com/track/0p712x2ODjzcrGbeguESWa)**
+*by* **puls207, TROPFBUBEN**
+*Album:* EUROTANZ
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="45" height="4" fill="#1db954" rx="2"/>
+    <circle cx="45" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:14 • 1:35
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
-🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
-🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[Melancholie](https://open.spotify.com/track/2Fm1hz750M8JhAmELP95yd)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
 🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
-🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
+🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
+🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
 
 
 
@@ -137,8 +156,8 @@
 🥈 [**Stateside + Bladee**](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)
 🥉 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
-🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
+🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 16:17:16Z UTC
+🕐 Last updated: 2025-11-06 16:48:47Z UTC
 <!-- SPOTIFY-END -->
