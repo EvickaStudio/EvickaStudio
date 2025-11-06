@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d6b7469ee361fbd35fbf802f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27361f4484c8d576063bf2e9541" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alles was ich wollte](https://open.spotify.com/track/5n6hY2houdahKiMx5nB2Mi)**
-*by* **ystn**
-*Album:* Alles was ich wollte
+**🎵 [morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)**
+*by* **benzii, sparr00w**
+*Album:* morgengrau + sparr00w flip
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="49" height="4" fill="#1db954" rx="2"/>
-    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 2:16
+    3:23 • 3:50
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mit Herz <3 (YOLO mix)](https://open.spotify.com/track/2L96UCGM4KV4uNL467Olvl)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)*
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
-🎤 **[GEGENWIND](https://open.spotify.com/track/1NeXTAsNXc9N7zHNtdtlwH)** by **Lil Keen** *(GEGENWIND)*
-🎤 **[oxytocin](https://open.spotify.com/track/5RXXZrbsPprpVXpSPRRiWU)** by **LEEPA** *(oxytocin)*
-🎤 **[Schmetterling - Babycor3 Version](https://open.spotify.com/track/1gYdiVII0YJMuaTiIY37HJ)** by **Baby B3ns** *(Schmetterling (Babycor3 Version))*
+🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
+🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
+🎤 **[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)** by **wurms, MDW** *(Slide)*
+🎤 **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)*
+🎤 **[eisengolem](https://open.spotify.com/track/1tPlg8LEytqm8R3lhf82Tj)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(eisengolem)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 21:47:35Z UTC
+🕐 Last updated: 2025-11-06 22:12:15Z UTC
 <!-- SPOTIFY-END -->
