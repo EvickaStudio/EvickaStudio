@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad7676e42eb05b6605acb5bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a5dc8d892f443342c85cce93" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hin & Her ⋆｡˚𖦹 - slowed](https://open.spotify.com/track/5TmPZeDXmk8DqF4YcaIncX)**
-*by* **S1RENA**
-*Album:* Hin & Her ⋆｡˚𖦹
+**🎵 [CROWS](https://open.spotify.com/track/5RTF0CIjib8luSzh3YnY0L)**
+*by* **mikeycyrus**
+*Album:* CYRUS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="20" height="4" fill="#1db954" rx="2"/>
-    <circle cx="20" cy="2" r="6" fill="#1db954"/>
+    <rect width="213" height="4" fill="#1db954" rx="2"/>
+    <circle cx="213" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 2:38
+    1:53 • 2:40
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
-🎤 **[ich war noch nie so verliebt](https://open.spotify.com/track/7FXxO76Q3VTEbQmIu1V0rd)** by **Pink Katana Archive** *(ich war noch nie so verliebt)*
-🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
-🎤 **[sterne Still](https://open.spotify.com/track/3dqnJfQHd04svxpocw15FW)** by **sotbarn, b3nn3t** *(per Aspera ad #Astra)*
-🎤 **[Zeichen](https://open.spotify.com/track/3hjWNs88F4jednBx6xaO4Q)** by **herr ulrich** *(Zeichen)*
+🎤 **[VIP](https://open.spotify.com/track/7HMVpKGi7gaLdFmle0TDgs)** by **Gola Gianni** *(GTA (Grand Theft Audio))*
+🎤 **[ohne waffe](https://open.spotify.com/track/1N0YclUvQcPbIneE51cah2)** by **b3nn3t** *(ohne waffe)*
+🎤 **[transparent](https://open.spotify.com/track/6G5i4rj3zXKavGorPHCjgW)** by **ghostboo, Lawin, Keule** *(exxtra)*
+🎤 **[zwischen beats & rauch](https://open.spotify.com/track/3Ptl7YNK0X72Eex6kOSNDi)** by **Vince** *(zwischen beats & rauch)*
+🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 18:19:22Z UTC
+🕐 Last updated: 2025-11-06 18:49:42Z UTC
 <!-- SPOTIFY-END -->
