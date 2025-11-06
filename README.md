@@ -107,26 +107,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f680c6842228c991ae6db2f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ZUCKER - Remix](https://open.spotify.com/track/7ykUSnlWwheGIgpWxXkNIL)**
-*by* **TYM, Nadir**
-*Album:* ZUCKER - REMIX
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 3:37
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 22:48:00Z UTC
+🕐 Last updated: 2025-11-06 23:12:01Z UTC
 <!-- SPOTIFY-END -->
