@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cf24f7bef4c8598928e660ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736539b62727dae928c7e9c8da" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shibuya SWAG](https://open.spotify.com/track/6SOLEmxJZpfSByC8DvXstF)**
-*by* **toobrokeforfiji**
-*Album:* Shibuya SWAG
+**🎵 [cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)**
+*by* **puls207, TROPFBUBEN**
+*Album:* cappy von bazar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="115" height="4" fill="#1db954" rx="2"/>
+    <circle cx="115" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:27
+    0:39 • 1:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
-🎤 **[wo sind wir?](https://open.spotify.com/track/38JhixTCd5ZlIqFNOpQVMu)** by **Keule, Pink Katana** *(ein blick in mein kopf)*
-🎤 **[kein phone](https://open.spotify.com/track/2kWfOLoudOF7hOKr2f8UMJ)** by **b3nn3t** *(kein phone)*
-🎤 **[immer allein](https://open.spotify.com/track/4b6wihjhzAjo2TJXLDSM5z)** by **Rrotzer** *(immer allein)*
+🎤 **[vogel auf dem drahtseil](https://open.spotify.com/track/5SqS15UcEBKoy3l3SEzAih)** by **Klang Der Nudel, Ultra Raphi** *(vogel auf dem drahtseil)*
+🎤 **[ohne aufsicht](https://open.spotify.com/track/28wuB3kEFYPaYy1zSjyuer)** by **b3nn3t** *(laut nachgedacht)*
+🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
+🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
+🎤 **[Shibuya SWAG](https://open.spotify.com/track/6SOLEmxJZpfSByC8DvXstF)** by **toobrokeforfiji** *(Shibuya SWAG)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 19:33:55Z UTC
+🕐 Last updated: 2025-11-06 19:47:51Z UTC
 <!-- SPOTIFY-END -->
