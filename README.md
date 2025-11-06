@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736487a6b6623825cd794f6fba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cf24f7bef4c8598928e660ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kein phone](https://open.spotify.com/track/2kWfOLoudOF7hOKr2f8UMJ)**
-*by* **b3nn3t**
-*Album:* kein phone
+**🎵 [Shibuya SWAG](https://open.spotify.com/track/6SOLEmxJZpfSByC8DvXstF)**
+*by* **toobrokeforfiji**
+*Album:* Shibuya SWAG
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="30" height="4" fill="#1db954" rx="2"/>
+    <circle cx="30" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:18
+    0:14 • 2:27
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
+🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
+🎤 **[wo sind wir?](https://open.spotify.com/track/38JhixTCd5ZlIqFNOpQVMu)** by **Keule, Pink Katana** *(ein blick in mein kopf)*
+🎤 **[kein phone](https://open.spotify.com/track/2kWfOLoudOF7hOKr2f8UMJ)** by **b3nn3t** *(kein phone)*
 🎤 **[immer allein](https://open.spotify.com/track/4b6wihjhzAjo2TJXLDSM5z)** by **Rrotzer** *(immer allein)*
-🎤 **[Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)** by **MC WINDHUND** *(Uschi)*
-🎤 **[broken heart - freestyle](https://open.spotify.com/track/1cEohyQ9SCbFpMyoSVefYB)** by **puls207, TROPFBUBEN** *(broken heart freestyle)*
-🎤 **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by **RYLO** *(fern als heimweh)*
-🎤 **[IDIOT](https://open.spotify.com/track/0Q5Hcwm8ikmjndnzXfojAc)** by **toobrokeforfiji** *(Was is mit UNS los?)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 19:25:32Z UTC
+🕐 Last updated: 2025-11-06 19:33:55Z UTC
 <!-- SPOTIFY-END -->
