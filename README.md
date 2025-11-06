@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27361f4484c8d576063bf2e9541" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738e727b778571dd96fd94a269" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)**
-*by* **benzii, sparr00w**
-*Album:* morgengrau + sparr00w flip
+**🎵 [Ich blute (aus)](https://open.spotify.com/track/5HwkukUNHYFqEWQ3YvN5ih)**
+*by* **Tape Head, NONI**
+*Album:* Ich blute (aus)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:37 • 3:50
+    0:20 • 1:47
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mein Stern](https://open.spotify.com/track/4W7y4UPDemdwDG5uOVpbBK)** by **Sadi** *(99)*
-🎤 **[Vom Winter in den Sommer](https://open.spotify.com/track/4yGnpC41lfU2eRi5zoMkVx)** by **toobrokeforfiji, Gemini** *(Was is mit UNS los?)*
-🎤 **[Kopf im Himmel](https://open.spotify.com/track/627UXaoF3W2ZZBqrIkyQQc)** by **Leo Kaminski, NONI** *(Stahlbeton)*
-🎤 **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by **diggidaniel** *(So weit)*
-🎤 **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[vier songs](https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf)** by **Keule** *(vier songs)*
+🎤 **[raucherschaeden](https://open.spotify.com/track/5uYKK8CGh0kvPoz29CzHdA)** by **b3nn3t, sotbarn** *(laut nachgedacht)*
+🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
+🎤 **[hey du - sped up](https://open.spotify.com/track/0KtLr5TJZVAeijGsHcZrZZ)** by **Lil Keen** *(hey du (sped up))*
+🎤 **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 17:13:04Z UTC
+🕐 Last updated: 2025-11-06 17:32:58Z UTC
 <!-- SPOTIFY-END -->
