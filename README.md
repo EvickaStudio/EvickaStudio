@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273252a9c92109c1485fa62948a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736487a6b6623825cd794f6fba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)**
-*by* **ghostboo**
-*Album:* rette mich nicht
+**🎵 [kein phone](https://open.spotify.com/track/2kWfOLoudOF7hOKr2f8UMJ)**
+*by* **b3nn3t**
+*Album:* kein phone
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="134" height="4" fill="#1db954" rx="2"/>
-    <circle cx="134" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 1:57
+    1:43 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Herzblut](https://open.spotify.com/track/1R1XwFPVhNt8W6D0tncdZl)** by **Tape Head, NONI** *(Memento Mori)*
-🎤 **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)*
-🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
-🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
-🎤 **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)*
+🎤 **[immer allein](https://open.spotify.com/track/4b6wihjhzAjo2TJXLDSM5z)** by **Rrotzer** *(immer allein)*
+🎤 **[Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)** by **MC WINDHUND** *(Uschi)*
+🎤 **[broken heart - freestyle](https://open.spotify.com/track/1cEohyQ9SCbFpMyoSVefYB)** by **puls207, TROPFBUBEN** *(broken heart freestyle)*
+🎤 **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by **RYLO** *(fern als heimweh)*
+🎤 **[IDIOT](https://open.spotify.com/track/0Q5Hcwm8ikmjndnzXfojAc)** by **toobrokeforfiji** *(Was is mit UNS los?)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 19:10:51Z UTC
+🕐 Last updated: 2025-11-06 19:25:32Z UTC
 <!-- SPOTIFY-END -->
