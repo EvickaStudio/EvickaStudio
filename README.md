@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fd3d13da17a1014a3538f9df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [probleme???](https://open.spotify.com/track/2Pwiol82a4eNITrMWLPCQn)**
-*by* **b3nn3t**
-*Album:* laut nachgedacht
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="61" height="4" fill="#1db954" rx="2"/>
-    <circle cx="61" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 1:37
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[probleme???](https://open.spotify.com/track/2Pwiol82a4eNITrMWLPCQn)** by **b3nn3t** *(laut nachgedacht)*
+🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
 🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
 🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
 🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
-🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-06 07:29:43Z UTC
+🕐 Last updated: 2025-11-06 07:40:27Z UTC
 <!-- SPOTIFY-END -->
