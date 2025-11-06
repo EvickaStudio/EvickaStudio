@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[hey du - sped up](https://open.spotify.com/track/0KtLr5TJZVAeijGsHcZrZZ)** by **Lil Keen** *(hey du (sped up))*
 🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
 🎤 **[probleme???](https://open.spotify.com/track/2Pwiol82a4eNITrMWLPCQn)** by **b3nn3t** *(laut nachgedacht)*
 🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
 🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-06 08:46:10Z UTC
+🕐 Last updated: 2025-11-06 09:14:51Z UTC
 <!-- SPOTIFY-END -->
