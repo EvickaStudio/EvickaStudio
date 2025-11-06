@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27336e7b919e5c5b946b1bb18d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)**
+*by* **Tamino404**
+*Album:* stoppschild
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:49 • 2:27
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
 🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
 🎤 **[hey du - sped up](https://open.spotify.com/track/0KtLr5TJZVAeijGsHcZrZZ)** by **Lil Keen** *(hey du (sped up))*
 🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
 🎤 **[probleme???](https://open.spotify.com/track/2Pwiol82a4eNITrMWLPCQn)** by **b3nn3t** *(laut nachgedacht)*
-🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-06 15:14:23Z UTC
+🕐 Last updated: 2025-11-06 15:35:28Z UTC
 <!-- SPOTIFY-END -->
