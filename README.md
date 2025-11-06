@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27336e7b919e5c5b946b1bb18d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e279c0bd83178109ce8df9ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)**
-*by* **Tamino404**
-*Album:* stoppschild
+**🎵 [Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)**
+*by* **kevin**
+*Album:* Es ist peinlich
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="80" height="4" fill="#1db954" rx="2"/>
+    <circle cx="80" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 2:27
+    0:41 • 2:33
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
-🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
+🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
 🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-06 06:49:42Z UTC
+🕐 Last updated: 2025-11-06 07:13:02Z UTC
 <!-- SPOTIFY-END -->
