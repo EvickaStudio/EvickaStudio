@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738e727b778571dd96fd94a269" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27305c2056a1c46d380b8b3e0cf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ich blute (aus)](https://open.spotify.com/track/5HwkukUNHYFqEWQ3YvN5ih)**
-*by* **Tape Head, NONI**
-*Album:* Ich blute (aus)
+**🎵 [zwei stunden](https://open.spotify.com/track/6ilb5DaEu9zp5WFGkXEHcV)**
+*by* **b3nn3t, ben clean**
+*Album:* zwei stunden
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="56" height="4" fill="#1db954" rx="2"/>
-    <circle cx="56" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 1:47
+    3:01 • 3:14
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[vier songs](https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf)** by **Keule** *(vier songs)*
-🎤 **[raucherschaeden](https://open.spotify.com/track/5uYKK8CGh0kvPoz29CzHdA)** by **b3nn3t, sotbarn** *(laut nachgedacht)*
-🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
-🎤 **[hey du - sped up](https://open.spotify.com/track/0KtLr5TJZVAeijGsHcZrZZ)** by **Lil Keen** *(hey du (sped up))*
-🎤 **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)*
+🎤 **[verstrahlt](https://open.spotify.com/track/5yXkP1i7MN8IuIHadpfCA8)** by **GERO** *(verstrahlt)*
+🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
+🎤 **[du musst ein engel sein](https://open.spotify.com/track/12j68yRCyQ2IOkYceJdLun)** by **ghostboo, Lawin, Juri** *(exxtra)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 17:32:58Z UTC
+🕐 Last updated: 2025-11-06 17:48:57Z UTC
 <!-- SPOTIFY-END -->
