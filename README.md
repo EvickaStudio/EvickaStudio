@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27362a547dfe95c3ef8b07def3e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27314a549b8098d8da36610b105" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)**
-*by* **nobis**
-*Album:* Zum Glück (Bist du nicht mehr da)
+**🎵 [sommernacht remix](https://open.spotify.com/track/2L3KTLhORBp7O43mf4XgvC)**
+*by* **Kasi, antonius**
+*Album:* sommernacht remix
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:13 • 3:35
+    0:37 • 2:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sternenstaub](https://open.spotify.com/track/6B2IajMM3LN55Sz6nOFCkI)** by **Baby B3ns** *(Sternenstaub)*
-🎤 **[Crash Dummy](https://open.spotify.com/track/0kEO3qtCCZN8S42RdL1fp2)** by **BHZ, Monk, Ion Miles** *(2013)*
-🎤 **[EUROTANZ - puls207 remix](https://open.spotify.com/track/3dmtQg47S1umQNfzWptbZU)** by **puls207, TROPFBUBEN** *(EUROTANZ)*
-🎤 **[hey du](https://open.spotify.com/track/3b71FX80KyuYGlLBjUVUTU)** by **Lil Keen** *(hey du)*
-🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
+🎤 **[fallrückzieher](https://open.spotify.com/track/2dZqGFbkT6mSnbWenKY5Ca)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(fallrückzieher)*
+🎤 **[Zaza aufgehört](https://open.spotify.com/track/78zHIThyvcCKdyubG7Cdi3)** by **Baron** *(Zaza aufgehört)*
+🎤 **[T-Shirt](https://open.spotify.com/track/2c8wDars3qvBW5v5SAEDPH)** by **Baby B3ns** *(T-Shirt)*
+🎤 **[Erlkönig](https://open.spotify.com/track/3TyNmDkPI3KOcVaS2COsVj)** by **Lūcadelic** *(Erlkönig)*
+🎤 **[heimlich](https://open.spotify.com/track/4cISIYff8JKFWpi3kFuot5)** by **Lil Keen** *(heimlich)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 21:11:23Z UTC
+🕐 Last updated: 2025-11-06 21:28:04Z UTC
 <!-- SPOTIFY-END -->
