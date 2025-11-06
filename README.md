@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27361f4484c8d576063bf2e9541" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739fb57599360ec9bfaf352066" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)**
-*by* **benzii, sparr00w**
-*Album:* morgengrau + sparr00w flip
+**🎵 [Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)**
+*by* **Ellie Mic**
+*Album:* Asche im Auge
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="265" height="4" fill="#1db954" rx="2"/>
-    <circle cx="265" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:23 • 3:50
+    0:34 • 1:48
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
-🎤 **[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)** by **wurms, MDW** *(Slide)*
-🎤 **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)*
-🎤 **[eisengolem](https://open.spotify.com/track/1tPlg8LEytqm8R3lhf82Tj)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(eisengolem)*
+🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
+🎤 **[Play Em Like Atari](https://open.spotify.com/track/2KRfNaClGnlVyWkLwHbiVN)** by **Drain Gang Archive** *(Play Em Like Atari)*
+🎤 **[Reckless - Gareth Emery & Luke Bond Remix](https://open.spotify.com/track/3LE4L92Vj2G1Uis3kIpgap)** by **Gareth Emery, Wayward Daughter, Luke Bond** *(Reckless (Gareth Emery & Luke Bond Remix))*
+🎤 **[...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm)** by **$uicideboy$** *(Stop Staring At the Shadows)*
+🎤 **[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)** by **Lil Peep** *(Star Shopping)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 22:12:15Z UTC
+🕐 Last updated: 2025-11-06 22:32:52Z UTC
 <!-- SPOTIFY-END -->
