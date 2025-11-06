@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736539b62727dae928c7e9c8da" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)**
-*by* **puls207, TROPFBUBEN**
-*Album:* cappy von bazar
+**🎵 [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)**
+*by* **Edwin Rosen**
+*Album:* Die Sterne
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="115" height="4" fill="#1db954" rx="2"/>
-    <circle cx="115" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 1:43
+    1:03 • 2:51
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[vogel auf dem drahtseil](https://open.spotify.com/track/5SqS15UcEBKoy3l3SEzAih)** by **Klang Der Nudel, Ultra Raphi** *(vogel auf dem drahtseil)*
-🎤 **[ohne aufsicht](https://open.spotify.com/track/28wuB3kEFYPaYy1zSjyuer)** by **b3nn3t** *(laut nachgedacht)*
-🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
-🎤 **[Ich und meine Freunde](https://open.spotify.com/track/6lmtGcNFKq39f6YF6SYaoP)** by **mickyi** *(Ich und meine Freunde)*
-🎤 **[Shibuya SWAG](https://open.spotify.com/track/6SOLEmxJZpfSByC8DvXstF)** by **toobrokeforfiji** *(Shibuya SWAG)*
+🎤 **[CEO von mein Herz](https://open.spotify.com/track/70TtSv4qhiqo9XK7bAVAkY)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(CEO von mein Herz)*
+🎤 **[supernova/GTA (sped up)](https://open.spotify.com/track/5hICe9cpZggvm7LUsYxlpg)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
+🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
+🎤 **[balotelli - slowed](https://open.spotify.com/track/5QoJti5skXkAYl9ytaI2Fb)** by **puls207, TROPFBUBEN** *(balotelli)*
+🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 19:47:51Z UTC
+🕐 Last updated: 2025-11-06 20:14:01Z UTC
 <!-- SPOTIFY-END -->
