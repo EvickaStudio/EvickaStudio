@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7aedd74ece63a86a2c18924" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d6b7469ee361fbd35fbf802f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schmetterling - Babycor3 Version](https://open.spotify.com/track/1gYdiVII0YJMuaTiIY37HJ)**
-*by* **Baby B3ns**
-*Album:* Schmetterling (Babycor3 Version)
+**🎵 [Alles was ich wollte](https://open.spotify.com/track/5n6hY2houdahKiMx5nB2Mi)**
+*by* **ystn**
+*Album:* Alles was ich wollte
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 1:49
+    0:22 • 2:16
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[CR7](https://open.spotify.com/track/4KCa81gbJnrQ1dfz5SiUos)** by **puls207, rizzlas ku$h, TROPFBUBEN** *(S€X TAPE)*
-🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
-🎤 **[Übertrieben](https://open.spotify.com/track/4hTPQsiIVpkYMo92LtSlPv)** by **Dontknow, Minas** *(Übertrieben)*
-🎤 **[I'm On It - Trance Remix](https://open.spotify.com/track/5OJmHPx44WQ4yJ1a9jcRuP)** by **Lil Keen, glissey** *(I'm On It (Trance Remix))*
-🎤 **[sommernacht remix](https://open.spotify.com/track/2L3KTLhORBp7O43mf4XgvC)** by **Kasi, antonius** *(sommernacht remix)*
+🎤 **[mit Herz <3 (YOLO mix)](https://open.spotify.com/track/2L96UCGM4KV4uNL467Olvl)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
+🎤 **[GEGENWIND](https://open.spotify.com/track/1NeXTAsNXc9N7zHNtdtlwH)** by **Lil Keen** *(GEGENWIND)*
+🎤 **[oxytocin](https://open.spotify.com/track/5RXXZrbsPprpVXpSPRRiWU)** by **LEEPA** *(oxytocin)*
+🎤 **[Schmetterling - Babycor3 Version](https://open.spotify.com/track/1gYdiVII0YJMuaTiIY37HJ)** by **Baby B3ns** *(Schmetterling (Babycor3 Version))*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 21:37:58Z UTC
+🕐 Last updated: 2025-11-06 21:47:35Z UTC
 <!-- SPOTIFY-END -->
