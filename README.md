@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd4fd0b801906e78069494f4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d035d5c1f99a115aed5aa9ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wassereis in Blau - Sped Up](https://open.spotify.com/track/6PlHLfJplfCis0XQnPCiR4)**
-*by* **Lil Keen**
-*Album:* Wassereis in Blau
+**🎵 [Ein Shot](https://open.spotify.com/track/7AAeC3lTzVeFlbLLHSddlC)**
+*by* **YBRE, Yung Vision, Sin Davis**
+*Album:* Ein Shot
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 1:58
+    1:04 • 2:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
-🎤 **[Augenblick](https://open.spotify.com/track/3m0ROY5WALPwqdsaraxN6i)** by **01099, Gustav, Paul** *(Augenblick)*
-🎤 **[Zugzwang](https://open.spotify.com/track/0FMwBL7kFH1oYcjdYL9n9i)** by **Tape Head, NONI** *(Zugzwang)*
-🎤 **[broken heart - freestyle (sped up)](https://open.spotify.com/track/0GKFxGO5L7Or499FLSVJ4p)** by **puls207, TROPFBUBEN** *(broken heart freestyle)*
-🎤 **[</3](https://open.spotify.com/track/5tpZ50hUQzTZ7XT3Hu3hNl)** by **TYM** *(</3)*
+🎤 **[cappy von bazar (rizzmix)](https://open.spotify.com/track/6oka8GNNX6JvHnvMEJ4xzZ)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(cappy von bazar)*
+🎤 **[ildx2](https://open.spotify.com/track/0OzUFEQDQgOx1CHgAc32uK)** by **Lil Keen** *(ildx2)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[nichts zu verlieren](https://open.spotify.com/track/3Oqeb1QFbzawmsOI1qpKwR)** by **Young 501, DIESELBOYZ** *(nichts zu verlieren)*
+🎤 **[SchwippSchwapp](https://open.spotify.com/track/5C79eYo6WoYmnYT4vPIjCq)** by **Ritter Lean** *(Auch ein Atze muss mal weinen)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 20:33:43Z UTC
+🕐 Last updated: 2025-11-06 20:50:27Z UTC
 <!-- SPOTIFY-END -->
