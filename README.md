@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd4fd0b801906e78069494f4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)**
-*by* **Edwin Rosen**
-*Album:* Die Sterne
+**🎵 [Wassereis in Blau - Sped Up](https://open.spotify.com/track/6PlHLfJplfCis0XQnPCiR4)**
+*by* **Lil Keen**
+*Album:* Wassereis in Blau
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="149" height="4" fill="#1db954" rx="2"/>
+    <circle cx="149" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 2:51
+    0:59 • 1:58
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[CEO von mein Herz](https://open.spotify.com/track/70TtSv4qhiqo9XK7bAVAkY)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(CEO von mein Herz)*
-🎤 **[supernova/GTA (sped up)](https://open.spotify.com/track/5hICe9cpZggvm7LUsYxlpg)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
-🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
-🎤 **[balotelli - slowed](https://open.spotify.com/track/5QoJti5skXkAYl9ytaI2Fb)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
+🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
+🎤 **[Augenblick](https://open.spotify.com/track/3m0ROY5WALPwqdsaraxN6i)** by **01099, Gustav, Paul** *(Augenblick)*
+🎤 **[Zugzwang](https://open.spotify.com/track/0FMwBL7kFH1oYcjdYL9n9i)** by **Tape Head, NONI** *(Zugzwang)*
+🎤 **[broken heart - freestyle (sped up)](https://open.spotify.com/track/0GKFxGO5L7Or499FLSVJ4p)** by **puls207, TROPFBUBEN** *(broken heart freestyle)*
+🎤 **[</3](https://open.spotify.com/track/5tpZ50hUQzTZ7XT3Hu3hNl)** by **TYM** *(</3)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 20:14:01Z UTC
+🕐 Last updated: 2025-11-06 20:33:43Z UTC
 <!-- SPOTIFY-END -->
