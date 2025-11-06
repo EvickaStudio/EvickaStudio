@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d035d5c1f99a115aed5aa9ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27362a547dfe95c3ef8b07def3e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ein Shot](https://open.spotify.com/track/7AAeC3lTzVeFlbLLHSddlC)**
-*by* **YBRE, Yung Vision, Sin Davis**
-*Album:* Ein Shot
+**🎵 [Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)**
+*by* **nobis**
+*Album:* Zum Glück (Bist du nicht mehr da)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="269" height="4" fill="#1db954" rx="2"/>
+    <circle cx="269" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 2:57
+    3:13 • 3:35
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cappy von bazar (rizzmix)](https://open.spotify.com/track/6oka8GNNX6JvHnvMEJ4xzZ)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(cappy von bazar)*
-🎤 **[ildx2](https://open.spotify.com/track/0OzUFEQDQgOx1CHgAc32uK)** by **Lil Keen** *(ildx2)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[nichts zu verlieren](https://open.spotify.com/track/3Oqeb1QFbzawmsOI1qpKwR)** by **Young 501, DIESELBOYZ** *(nichts zu verlieren)*
-🎤 **[SchwippSchwapp](https://open.spotify.com/track/5C79eYo6WoYmnYT4vPIjCq)** by **Ritter Lean** *(Auch ein Atze muss mal weinen)*
+🎤 **[Sternenstaub](https://open.spotify.com/track/6B2IajMM3LN55Sz6nOFCkI)** by **Baby B3ns** *(Sternenstaub)*
+🎤 **[Crash Dummy](https://open.spotify.com/track/0kEO3qtCCZN8S42RdL1fp2)** by **BHZ, Monk, Ion Miles** *(2013)*
+🎤 **[EUROTANZ - puls207 remix](https://open.spotify.com/track/3dmtQg47S1umQNfzWptbZU)** by **puls207, TROPFBUBEN** *(EUROTANZ)*
+🎤 **[hey du](https://open.spotify.com/track/3b71FX80KyuYGlLBjUVUTU)** by **Lil Keen** *(hey du)*
+🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 20:50:27Z UTC
+🕐 Last updated: 2025-11-06 21:11:23Z UTC
 <!-- SPOTIFY-END -->
