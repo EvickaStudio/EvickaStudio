@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27314a549b8098d8da36610b105" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7aedd74ece63a86a2c18924" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sommernacht remix](https://open.spotify.com/track/2L3KTLhORBp7O43mf4XgvC)**
-*by* **Kasi, antonius**
-*Album:* sommernacht remix
+**🎵 [Schmetterling - Babycor3 Version](https://open.spotify.com/track/1gYdiVII0YJMuaTiIY37HJ)**
+*by* **Baby B3ns**
+*Album:* Schmetterling (Babycor3 Version)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:48
+    0:29 • 1:49
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[fallrückzieher](https://open.spotify.com/track/2dZqGFbkT6mSnbWenKY5Ca)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(fallrückzieher)*
-🎤 **[Zaza aufgehört](https://open.spotify.com/track/78zHIThyvcCKdyubG7Cdi3)** by **Baron** *(Zaza aufgehört)*
-🎤 **[T-Shirt](https://open.spotify.com/track/2c8wDars3qvBW5v5SAEDPH)** by **Baby B3ns** *(T-Shirt)*
-🎤 **[Erlkönig](https://open.spotify.com/track/3TyNmDkPI3KOcVaS2COsVj)** by **Lūcadelic** *(Erlkönig)*
-🎤 **[heimlich](https://open.spotify.com/track/4cISIYff8JKFWpi3kFuot5)** by **Lil Keen** *(heimlich)*
+🎤 **[CR7](https://open.spotify.com/track/4KCa81gbJnrQ1dfz5SiUos)** by **puls207, rizzlas ku$h, TROPFBUBEN** *(S€X TAPE)*
+🎤 **[4 Finger 1 Herz](https://open.spotify.com/track/2FAyVqzhaHis9JP5KSVXTn)** by **ystn** *(4 Finger 1 Herz)*
+🎤 **[Übertrieben](https://open.spotify.com/track/4hTPQsiIVpkYMo92LtSlPv)** by **Dontknow, Minas** *(Übertrieben)*
+🎤 **[I'm On It - Trance Remix](https://open.spotify.com/track/5OJmHPx44WQ4yJ1a9jcRuP)** by **Lil Keen, glissey** *(I'm On It (Trance Remix))*
+🎤 **[sommernacht remix](https://open.spotify.com/track/2L3KTLhORBp7O43mf4XgvC)** by **Kasi, antonius** *(sommernacht remix)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 21:28:04Z UTC
+🕐 Last updated: 2025-11-06 21:37:58Z UTC
 <!-- SPOTIFY-END -->
