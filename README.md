@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a5dc8d892f443342c85cce93" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273252a9c92109c1485fa62948a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CROWS](https://open.spotify.com/track/5RTF0CIjib8luSzh3YnY0L)**
-*by* **mikeycyrus**
-*Album:* CYRUS
+**🎵 [rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)**
+*by* **ghostboo**
+*Album:* rette mich nicht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 2:40
+    0:52 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[VIP](https://open.spotify.com/track/7HMVpKGi7gaLdFmle0TDgs)** by **Gola Gianni** *(GTA (Grand Theft Audio))*
-🎤 **[ohne waffe](https://open.spotify.com/track/1N0YclUvQcPbIneE51cah2)** by **b3nn3t** *(ohne waffe)*
-🎤 **[transparent](https://open.spotify.com/track/6G5i4rj3zXKavGorPHCjgW)** by **ghostboo, Lawin, Keule** *(exxtra)*
-🎤 **[zwischen beats & rauch](https://open.spotify.com/track/3Ptl7YNK0X72Eex6kOSNDi)** by **Vince** *(zwischen beats & rauch)*
-🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
+🎤 **[Herzblut](https://open.spotify.com/track/1R1XwFPVhNt8W6D0tncdZl)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)*
+🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
+🎤 **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)*
+🎤 **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-11-06 18:49:42Z UTC
+🕐 Last updated: 2025-11-06 19:10:51Z UTC
 <!-- SPOTIFY-END -->
