@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27361f4484c8d576063bf2e9541" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)**
+*by* **benzii, sparr00w**
+*Album:* morgengrau + sparr00w flip
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:19 • 3:50
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
 🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
 🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
 🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
-🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-08 11:47:49Z UTC
+🕐 Last updated: 2025-11-08 12:22:19Z UTC
 <!-- SPOTIFY-END -->
