@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730a7eaf19583a76cdbb40e853" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f84030478e4d07543dea6714" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)**
-*by* **mint**
-*Album:* tell me where u hide
+**🎵 [I called and left a message](https://open.spotify.com/track/5myoBOTaycNR7S3FZY0ft0)**
+*by* **Agatha is Dead!**
+*Album:* Interlude
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="167" height="4" fill="#1db954" rx="2"/>
+    <circle cx="167" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 2:08
+    1:31 • 2:43
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
-🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
-🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
+🎤 **[pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)** by **5star, Talia Dorr** *(pappschild)*
+🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
 🎤 **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)*
+🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
 
 
-🕐 Last updated: 2025-11-08 15:27:26Z UTC
+🕐 Last updated: 2025-11-08 15:36:57Z UTC
 <!-- SPOTIFY-END -->
