@@ -127,7 +127,7 @@
 🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-🏅 [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
 
 
@@ -136,9 +136,9 @@
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 🥈 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 🥉 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
-🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 🏅 [**Wolves Howling**](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)
+🏅 [**Man in the Mirror - 2012 Remaster**](https://open.spotify.com/track/3c7Ctlw9MKlIQPxRH3fOTt)
 
 
-🕐 Last updated: 2025-11-08 18:16:30Z UTC
+🕐 Last updated: 2025-11-08 18:43:31Z UTC
 <!-- SPOTIFY-END -->
