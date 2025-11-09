@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273881b2aec05fa127e727fe3a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [„Freunde“](https://open.spotify.com/track/7sllMqTh2RNO8EAacmtZOr)**
+*by* **Punk Christ**
+*Album:* „Freunde“
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:11 • 1:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[St3rb3n 1m Str34m](https://open.spotify.com/track/41mrGM5D1xJaEVa39qpC6k)** by **Punk Christ, Kidha** *(St3rb3n 1m Str34m)*
+🎤 **[Vaseline](https://open.spotify.com/track/0BMmHh3fBjpZxH0ofHcARY)** by **Dylan Thom** *(t)*
 🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
 🎤 **[Uschi](https://open.spotify.com/track/3qQfiiHy3mekxkF4zjYzin)** by **MC WINDHUND** *(Uschi)*
 🎤 **[Stuck In The Middle](https://open.spotify.com/track/4xr3oAbfR7NXCHC7Vewns9)** by **Kkoki** *(Stuck In The Middle)*
-🎤 **[Newark Liberty](https://open.spotify.com/track/5nhhqOqEuBThGBppZ0vmyH)** by **Kkoki** *(Newark Liberty)*
-🎤 **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-09 21:47:50Z UTC
+🕐 Last updated: 2025-11-09 22:11:09Z UTC
 <!-- SPOTIFY-END -->
