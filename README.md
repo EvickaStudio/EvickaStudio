@@ -113,11 +113,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
 🎤 **[BELIAS KINDER 432hz](https://open.spotify.com/track/1lPoQqZdMC4EaF6ekCnWDi)** by **agelast222** *(BELIAS KINDER 432hz)*
 🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
 🎤 **[pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)** by **5star, Talia Dorr** *(pappschild)*
 🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
 
 
 
@@ -140,5 +140,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-09 16:48:56Z UTC
+🕐 Last updated: 2025-11-09 17:09:50Z UTC
 <!-- SPOTIFY-END -->
