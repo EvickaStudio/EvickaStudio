@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730028cbf53cb1a5a6bfe9a44f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c92a3532b22e647cae44f797" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [skin deep](https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14)**
-*by* **benzii, Lucy Dye**
-*Album:* skin deep
+**🎵 [morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)**
+*by* **benzii**
+*Album:* morgengrau
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="260" height="4" fill="#1db954" rx="2"/>
-    <circle cx="260" cy="2" r="6" fill="#1db954"/>
+    <rect width="131" height="4" fill="#1db954" rx="2"/>
+    <circle cx="131" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:14 • 3:43
+    1:25 • 3:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[montag bis freitag](https://open.spotify.com/track/6rfDeEA6ZQXxL8mAZ2A1Gg)** by **cinnemane** *(montag bis freitag)*
-🎤 **[miuccia melody](https://open.spotify.com/track/3QnaAcPzYMcXJijDGRmp39)** by **lil london** *(miuccia melody)*
-🎤 **[wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)** by **Tamino404** *(wenn ich nicht mehr will...☻)*
-🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
-🎤 **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)*
+🎤 **[Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq)** by **MC WINDHUND** *(Klassenclown)*
+🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
+🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[pass mal auf mich auf](https://open.spotify.com/track/4AetOMgrEwuCbhARSgOfTD)** by **wavybaby, Flippa** *(pass mal auf mich auf)*
+🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-09 19:34:02Z UTC
+🕐 Last updated: 2025-11-09 19:47:34Z UTC
 <!-- SPOTIFY-END -->
