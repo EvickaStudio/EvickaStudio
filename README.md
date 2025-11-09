@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)**
-*by* **luu**
-*Album:* immenser pflegefall
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 1:57
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
 🎤 **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)*
 🎤 **[fly! 2-c-b](https://open.spotify.com/track/5SRXLfX0vLboFnlvS7vAiV)** by **Punk Christ, Kento** *(fly! 2-c-b)*
 🎤 **[SWEET LIKE SIN](https://open.spotify.com/track/5ho6UJBQCqLuEg4bPMctqW)** by **p6inkillr** *(SWEET LIKE SIN)*
 🎤 **[Warm Glow of the Past Dreams](https://open.spotify.com/track/10DZp1NePiXBP4MtA7WsX0)** by **DXNKXR, SH3TLVIZ** *(Warm Glow of the Past Dreams)*
-🎤 **[hotel delirium (II)](https://open.spotify.com/track/2KOCeApUWGjQbzSVdphKMh)** by **luu, iwannabemissed** *(irgendwo im schatten)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-09 22:41:17Z UTC
+🕐 Last updated: 2025-11-09 22:48:26Z UTC
 <!-- SPOTIFY-END -->
