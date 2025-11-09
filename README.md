@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c92a3532b22e647cae44f797" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a6b188d3afd62afeeb6137cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)**
-*by* **benzii**
-*Album:* morgengrau
+**🎵 [pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)**
+*by* **5star, Talia Dorr**
+*Album:* pappschild
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="131" height="4" fill="#1db954" rx="2"/>
-    <circle cx="131" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 3:15
+    1:24 • 2:18
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq)** by **MC WINDHUND** *(Klassenclown)*
-🎤 **[rette mich nicht](https://open.spotify.com/track/6yBasxkdBaEbm6wbu59DOv)** by **ghostboo** *(rette mich nicht)*
-🎤 **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[pass mal auf mich auf](https://open.spotify.com/track/4AetOMgrEwuCbhARSgOfTD)** by **wavybaby, Flippa** *(pass mal auf mich auf)*
-🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
+🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
+🎤 **[deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)** by **Tamino404** *(du hast uns alle vergessen und ich bin stolz auf dich)*
+🎤 **[Winterschlaf](https://open.spotify.com/track/5uu0UTwWZeSpyKcIS8T78M)** by **Tamino404** *(es ist nicht mehr 2016)*
+🎤 **[herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-09 19:47:34Z UTC
+🕐 Last updated: 2025-11-09 20:12:43Z UTC
 <!-- SPOTIFY-END -->
