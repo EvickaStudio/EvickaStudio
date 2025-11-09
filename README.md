@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
+*by* **blombi19**
+*Album:* herzkasper
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:33 • 3:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
+🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
 🎤 **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)*
 🎤 **[BELIAS KINDER 432hz](https://open.spotify.com/track/1lPoQqZdMC4EaF6ekCnWDi)** by **agelast222** *(BELIAS KINDER 432hz)*
-🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)** by **5star, Talia Dorr** *(pappschild)*
-🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-09 17:09:50Z UTC
+🕐 Last updated: 2025-11-09 17:26:54Z UTC
 <!-- SPOTIFY-END -->
