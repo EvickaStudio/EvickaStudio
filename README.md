@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cb2f9566bf10a6b6ceb3080f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Warm Glow of the Past Dreams](https://open.spotify.com/track/10DZp1NePiXBP4MtA7WsX0)**
-*by* **DXNKXR, SH3TLVIZ**
-*Album:* Warm Glow of the Past Dreams
+**🎵 [sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)**
+*by* **luu**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:47
+    0:18 • 1:57
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)*
+🎤 **[fly! 2-c-b](https://open.spotify.com/track/5SRXLfX0vLboFnlvS7vAiV)** by **Punk Christ, Kento** *(fly! 2-c-b)*
+🎤 **[SWEET LIKE SIN](https://open.spotify.com/track/5ho6UJBQCqLuEg4bPMctqW)** by **p6inkillr** *(SWEET LIKE SIN)*
+🎤 **[Warm Glow of the Past Dreams](https://open.spotify.com/track/10DZp1NePiXBP4MtA7WsX0)** by **DXNKXR, SH3TLVIZ** *(Warm Glow of the Past Dreams)*
 🎤 **[hotel delirium (II)](https://open.spotify.com/track/2KOCeApUWGjQbzSVdphKMh)** by **luu, iwannabemissed** *(irgendwo im schatten)*
-🎤 **[Not a Scene Slut](https://open.spotify.com/track/5NPMo1Wf8hTjDcfCiIpUOr)** by **503scoob, 444pluto, k1lltr4sh** *(Not a Scene Slut)*
-🎤 **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)*
-🎤 **[BREAKUP](https://open.spotify.com/track/1z5IgJwq78uRL7l9AZ0qpN)** by **Tiffany Day** *(BREAKUP)*
-🎤 **[start a riot](https://open.spotify.com/track/5VX5ZXg60yqJguALYSchu8)** by **kruu, belly records** *(start a riot)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-09 22:30:06Z UTC
+🕐 Last updated: 2025-11-09 22:41:17Z UTC
 <!-- SPOTIFY-END -->
