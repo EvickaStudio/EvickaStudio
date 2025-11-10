@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b88ff6637a83f870d255e0ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)**
+*by* **Senses, mint, Nightclub20xx**
+*Album:* remedy
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="247" height="4" fill="#1db954" rx="2"/>
+    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:11 • 2:38
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)** by **PinkPantheress, Bladee** *(Fancy Some More?)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 11:47:54Z UTC
+🕐 Last updated: 2025-11-10 12:26:42Z UTC
 <!-- SPOTIFY-END -->
