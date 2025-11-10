@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273416ed1ffc9784b48721e1a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273764096f29129a923ad1d9ba6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)**
-*by* **grim noir**
-*Album:* Herz macht Turbo
+**🎵 [i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)**
+*by* **5v**
+*Album:* i rly hate it here..
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="2" height="4" fill="#1db954" rx="2"/>
+    <circle cx="2" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 2:39
+    0:01 • 2:24
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
-🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat, cxpyyy, luu** *(zurück)*
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
+🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
+🎤 **[like you~ my best view](https://open.spotify.com/track/2ZvppbKzoSTAyqkg3vEgnS)** by **may, angelicxmei** *(like you~ my best view)*
+🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 22:48:45Z UTC
+🕐 Last updated: 2025-11-10 23:12:17Z UTC
 <!-- SPOTIFY-END -->
