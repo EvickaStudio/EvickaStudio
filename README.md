@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a6b188d3afd62afeeb6137cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273456f2a666766bc2562e82a9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)**
-*by* **5star, Talia Dorr**
-*Album:* pappschild
+**🎵 [Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)**
+*by* **g0r3c0r3**
+*Album:* We <3 g0r3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 2:18
+    1:39 • 2:00
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
-🎤 **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)*
-🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
-🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
+🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
+🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
+🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
+🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
+🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 17:12:05Z UTC
+🕐 Last updated: 2025-11-10 17:30:45Z UTC
 <!-- SPOTIFY-END -->
