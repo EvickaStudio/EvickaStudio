@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2f4114eb1e98cafef5a3f3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)**
-*by* **RADWIMPS**
-*Album:* RADWIMPS 4 ～おかずのごはん～
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="271" height="4" fill="#1db954" rx="2"/>
-    <circle cx="271" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    4:15 • 4:41
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)*
+🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
 🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
 🎤 **[REDiCi](https://open.spotify.com/track/32DCrPLlNu23eKxjxctk6I)** by **agelast222, gard** *(SOLAR TACTICS)*
 🎤 **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)*
-🎤 **[Call Across Rooms](https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz)** by **Grouper** *(Ruins)*
-🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 15:50:09Z UTC
+🕐 Last updated: 2025-11-10 16:17:00Z UTC
 <!-- SPOTIFY-END -->
