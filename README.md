@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273764096f29129a923ad1d9ba6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fb3d102213a95301dbdc5570" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)**
-*by* **5v**
-*Album:* i rly hate it here..
+**🎵 [invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)**
+*by* **RudeClub**
+*Album:* invisible
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="2" height="4" fill="#1db954" rx="2"/>
-    <circle cx="2" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 2:24
+    2:16 • 2:25
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Synthetic Pills](https://open.spotify.com/track/6LX8W1kHcHIqNHD913TG9U)** by **503scoob, k1lltr4sh, osm1c, Scarly, disoc8** *(Synthetic Pills)*
-🎤 **[like you~ my best view](https://open.spotify.com/track/2ZvppbKzoSTAyqkg3vEgnS)** by **may, angelicxmei** *(like you~ my best view)*
-🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
-🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[Lights Off](https://open.spotify.com/track/2ApFtB3lmG9rggyjxK29oq)** by **503scoob, 444pluto, k1lltr4sh** *(Lights Off)*
+🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
+🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
+🎤 **[reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)** by **seph, nomu.** *(reside)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 23:12:17Z UTC
+🕐 Last updated: 2025-11-10 23:28:55Z UTC
 <!-- SPOTIFY-END -->
