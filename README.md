@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a6b188d3afd62afeeb6137cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)**
+*by* **5star, Talia Dorr**
+*Album:* pappschild
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:46 • 2:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)*
-🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **snor, hateoryx** *(angelRavegirl)*
-🎤 **[REDiCi](https://open.spotify.com/track/32DCrPLlNu23eKxjxctk6I)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)*
+🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)*
+🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
+🎤 **[tears](https://open.spotify.com/track/2Dx4ArXpMPaISqe4bUVpR7)** by **angelicxmei** *(tears)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 16:47:44Z UTC
+🕐 Last updated: 2025-11-10 17:12:05Z UTC
 <!-- SPOTIFY-END -->
