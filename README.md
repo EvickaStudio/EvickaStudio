@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c9582d5cc7e40d8f4c21b13f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)**
-*by* **Luvsick2k, cholorofilm**
-*Album:* serotonin
+**🎵 [mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)**
+*by* **Edwin Rosen**
+*Album:* mitleerenhänden
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 1:52
+    1:32 • 3:29
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bunny](https://open.spotify.com/track/7FopCTc5OaK5HT7fMYzCAc)** by **Senses** *(Bunny)*
-🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
-🎤 **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)*
-🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
-🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
+🎤 **[take a pic](https://open.spotify.com/track/4rLsGvEhsnIKjsAMwAhgVm)** by **xandera, iamsodead, lavendr** *(take a pic)*
+🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
+🎤 **[you're so pretty when you cry](https://open.spotify.com/track/69cHwOkSdHeNH1Nw1K1ooA)** by **5v** *(you're so pretty when you cry)*
+🎤 **[j'ai du sang sur les mains](https://open.spotify.com/track/53fCKWY9mfHvorX1iB2yPg)** by **luos** *(j'ai du sang sur les mains)*
+🎤 **[arteries](https://open.spotify.com/track/3BLhOEe4PhKwEp0mB3RvQR)** by **Senses** *(arteries)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 13:07:05Z UTC
+🕐 Last updated: 2025-11-10 13:41:56Z UTC
 <!-- SPOTIFY-END -->
