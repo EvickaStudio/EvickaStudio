@@ -107,36 +107,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fb3d102213a95301dbdc5570" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)**
-*by* **RudeClub**
-*Album:* invisible
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:25
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
+🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
+🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
 🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
 🎤 **[Lights Off](https://open.spotify.com/track/2ApFtB3lmG9rggyjxK29oq)** by **503scoob, 444pluto, k1lltr4sh** *(Lights Off)*
-🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
-🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
-🎤 **[reside](https://open.spotify.com/track/2L7x0kZtDx3y80K2uwXg1G)** by **seph, nomu.** *(reside)*
 
 
 
@@ -159,5 +140,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 23:28:55Z UTC
+🕐 Last updated: 2025-11-10 23:39:28Z UTC
 <!-- SPOTIFY-END -->
