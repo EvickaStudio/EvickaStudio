@@ -107,17 +107,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a6b188d3afd62afeeb6137cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)**
+*by* **5star, Talia Dorr**
+*Album:* pappschild
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="41" height="4" fill="#1db954" rx="2"/>
+    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:19 • 2:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)*
 🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
 🎤 **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)*
 🎤 **[fly! 2-c-b](https://open.spotify.com/track/5SRXLfX0vLboFnlvS7vAiV)** by **Punk Christ, Kento** *(fly! 2-c-b)*
 🎤 **[SWEET LIKE SIN](https://open.spotify.com/track/5ho6UJBQCqLuEg4bPMctqW)** by **p6inkillr** *(SWEET LIKE SIN)*
-🎤 **[Warm Glow of the Past Dreams](https://open.spotify.com/track/10DZp1NePiXBP4MtA7WsX0)** by **DXNKXR, SH3TLVIZ** *(Warm Glow of the Past Dreams)*
 
 
 
@@ -140,5 +159,5 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 
 
-🕐 Last updated: 2025-11-10 07:13:22Z UTC
+🕐 Last updated: 2025-11-10 07:30:02Z UTC
 <!-- SPOTIFY-END -->
