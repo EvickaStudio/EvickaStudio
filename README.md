@@ -108,23 +108,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736a7a35b1274a3624b42c9110" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)**
-*by* **ilymeow, wujek, Kyurukai, Nightclub20xx**
-*Album:* beyblade
+**🎵 [hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)**
+*by* **luu, mehlhaltig**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:19
+    1:31 • 2:15
 </span>
 </p>
 
@@ -132,11 +132,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
+🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
 
 
 
@@ -159,5 +159,5 @@
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
 
-🕐 Last updated: 2025-11-10 18:19:03Z UTC
+🕐 Last updated: 2025-11-10 18:46:40Z UTC
 <!-- SPOTIFY-END -->
