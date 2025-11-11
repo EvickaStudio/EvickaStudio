@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27391d5b428ca664fb869052017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d6ae665490ec905ddc3fd17f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [empty](https://open.spotify.com/track/7fLgdgMKlZ8L9Mo8rR5ymd)**
-*by* **ronin**
-*Album:* empty
+**🎵 [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)**
+*by* **Senses, mint**
+*Album:* paranoid
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 2:08
+    2:05 • 2:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[foolish](https://open.spotify.com/track/3xUJ0JJIzvwYHDAlBX1iUp)** by **Senses** *(idle state)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
-🎤 **[porcelain scars](https://open.spotify.com/track/2DSxe1Qs8TIX214s0CHmV4)** by **cholorofilm** *(porcelain scars)*
-🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
+🎤 **[killer!](https://open.spotify.com/track/3vMuE4SNRjz50xCunrW9ih)** by **traumadoll** *(killer!)*
+🎤 **[what u please](https://open.spotify.com/track/1wbpjEnQO422PrfkXyfFoK)** by **Tera, vin0** *(what u please)*
+🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
+🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
+🎤 **[why me](https://open.spotify.com/track/37dFTC2Kts5AYfucHGQB12)** by **Senses** *(why me)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-11 22:47:57Z UTC
+🕐 Last updated: 2025-11-11 23:11:38Z UTC
 <!-- SPOTIFY-END -->
