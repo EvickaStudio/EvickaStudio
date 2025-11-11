@@ -88,17 +88,22 @@
 
 <!-- SPOTIFY-START -->
 
+
 ### 🟢 Now Playing
 
 🎵 Not playing anything right now.
 
+
+
 ### 📜 Recently Played
 
+🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
 🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
 🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
 🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
 🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
-🎤 **[Lights Off](https://open.spotify.com/track/2ApFtB3lmG9rggyjxK29oq)** by **503scoob, 444pluto, k1lltr4sh** *(Lights Off)*
+
+
 
 ### 🌟 Top Artists *(Short Term)*
 
@@ -108,6 +113,8 @@
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 
+
+
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
@@ -116,5 +123,6 @@
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 
-🕐 Last updated: 2025-11-11 08:45:40Z UTC
+
+🕐 Last updated: 2025-11-11 09:14:49Z UTC
 <!-- SPOTIFY-END -->
