@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d51f73218768ae37e3bb3218" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [teeth](https://open.spotify.com/track/7IaKP1mfFnGeKZiO1MFurW)**
+*by* **halfadedd**
+*Album:* forever faded
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:18 • 1:31
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)*
-🎤 **[boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)** by **may, wenszy** *(boyfriend)*
-🎤 **[fireworks](https://open.spotify.com/track/1L5BXtMOqd2CrjVTUfX7PX)** by **whyhaze** *(the flower we saw that day)*
-🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
-🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[you wouldnt get it](https://open.spotify.com/track/0RBcdHoVPUwwzthp24rlro)** by **RudeClub, Angst, Luvange1** *(you wouldnt get it)*
+🎤 **[that's ok](https://open.spotify.com/track/5T7AArrh5G5YzeqwsWMhtb)** by **Rezlaine, KidSnorlax** *(that's ok)*
+🎤 **[spend](https://open.spotify.com/track/71hSz5vd50DTEAu2qwCw5Y)** by **5v, Nosgov** *(spend)*
+🎤 **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)*
+🎤 **[modern warfare](https://open.spotify.com/track/13hqVZ8ui6sm29W7mjovRB)** by **Nosgov** *(modern warfare)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 
 
-🕐 Last updated: 2025-11-11 12:25:55Z UTC
+🕐 Last updated: 2025-11-11 13:06:17Z UTC
 <!-- SPOTIFY-END -->
