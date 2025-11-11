@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733c1fd4bfaf1026ad6209de21" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f05f0f4d6d4c5711557fb3c8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mein herz](https://open.spotify.com/track/6SnoQM36RDqpUcUud84wi3)**
-*by* **mundus, pink luu**
-*Album:* mein herz
+**🎵 [vision](https://open.spotify.com/track/4MoUXuVK4V0MW0yNFA7ZXT)**
+*by* **angelicxmei**
+*Album:* vision
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:12
+    1:19 • 2:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[leiche auf emma](https://open.spotify.com/track/5XxkG1fcUwl2mfwODFK2fy)** by **luu, luvwillow** *(immenser pflegefall)*
-🎤 **[LETZTE NACHT](https://open.spotify.com/track/0E4vkkE8tMfV1u94Df8wQs)** by **stixz, muli** *(love core)*
-🎤 **[hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)** by **pink luu, cxpyyy, luu** *(0800-111-0-111)*
-🎤 **[spiral out control](https://open.spotify.com/track/3XRnFAadgVDwAu1SXLK3aW)** by **hateoryx, Pawl4k** *(spiral out control)*
-🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
+🎤 **[share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)** by **Mezha** *(share)*
+🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luu, Slatty** *(KLOPF KLOPF)*
+🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
+🎤 **[SMS](https://open.spotify.com/track/4upElsfQhSMxGzfyxBpdMy)** by **pink luu, xtatus** *(SMS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-11 15:33:46Z UTC
+🕐 Last updated: 2025-11-11 15:50:08Z UTC
 <!-- SPOTIFY-END -->
