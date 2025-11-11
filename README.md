@@ -39,14 +39,6 @@
   to get involved creatively in other places.
 </p>
 
-<h4>Quick Facts</h4>
-<ul>
-  <li>🔬 Currently focusing on new coding paradigms and design workflows</li>
-  <li>👀 I enjoy working with GUIs, graphics, and some 3D modeling</li>
-  <li>🌱 Learning about advanced DevOps principles and containerization</li>
-  
-</ul>
-
 <br clear="left"/>
 
 <p align="center">
@@ -55,15 +47,7 @@
 
 ---
 
-## 📚 Table of Contents
-
-- **[🛠️ Skills & Technologies](#️-skills--technologies)**
-- **[📈 Metrics](#-metrics)**
-- **[🎧 Spotify](#-spotify)**
-
----
-
-## 🛠️ Skills & Technologies
+## Technologies
 
 | **Category**          | **Technologies**                                                                                                 |
 |-----------------------|------------------------------------------------------------------------------------------------------------------|
@@ -73,7 +57,7 @@
 | **Operating Systems** | `Linux (EndeavourOS, CachyOS, Debian, Ubuntu)`, `Windows`                                                        |
 | **Design Tools**      | `Figma`, `Photoshop`, `Illustrator`, `Gimp`                                                                      |
 | **3D Tools**          | `Blender`, `ZBrush`                                                                                              |
-| **Other**             | `Git`, `Docker`                                                                                                  |
+| **Other**             | `Git`, `Docker`, `Kubernetes`                                                                                                 |
 
 ---
 
@@ -104,12 +88,9 @@
 
 <!-- SPOTIFY-START -->
 
-
 ### 🟢 Now Playing
 
 🎵 Not playing anything right now.
-
-
 
 ### 📜 Recently Played
 
@@ -119,8 +100,6 @@
 🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
 🎤 **[Lights Off](https://open.spotify.com/track/2ApFtB3lmG9rggyjxK29oq)** by **503scoob, 444pluto, k1lltr4sh** *(Lights Off)*
 
-
-
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
@@ -129,8 +108,6 @@
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 
-
-
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
@@ -138,7 +115,6 @@
 🥉 [**DREAM**](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)
 🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
-
 
 🕐 Last updated: 2025-11-11 08:45:40Z UTC
 <!-- SPOTIFY-END -->
