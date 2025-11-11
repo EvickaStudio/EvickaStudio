@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d6ae665490ec905ddc3fd17f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)**
-*by* **Senses, mint**
-*Album:* paranoid
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 2:37
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[killer!](https://open.spotify.com/track/3vMuE4SNRjz50xCunrW9ih)** by **traumadoll** *(killer!)*
-🎤 **[what u please](https://open.spotify.com/track/1wbpjEnQO422PrfkXyfFoK)** by **Tera, vin0** *(what u please)*
-🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
-🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
-🎤 **[why me](https://open.spotify.com/track/37dFTC2Kts5AYfucHGQB12)** by **Senses** *(why me)*
+🎤 **[passive](https://open.spotify.com/track/7vGSYFHg0lKLWN0HI6pyPh)** by **Tera, nomu.** *(passive)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
+🎤 **[kms online](https://open.spotify.com/track/66FnhZd2teeIz8TZrr0omv)** by **disoc8, hateoryx, Bandiicam** *(kms online)*
+🎤 **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-11 23:11:38Z UTC
+🕐 Last updated: 2025-11-11 23:28:04Z UTC
 <!-- SPOTIFY-END -->
