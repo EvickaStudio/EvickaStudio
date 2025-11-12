@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
+*by* **mint**
+*Album:* gold
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:27 • 3:51
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
 🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
 🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
-🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
-🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-12 15:14:37Z UTC
+🕐 Last updated: 2025-11-12 15:36:23Z UTC
 <!-- SPOTIFY-END -->
