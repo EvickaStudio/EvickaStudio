@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af7205c1f3dcc81e96f042ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737603a201836888cb5f33a2c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)**
-*by* **flywoah**
-*Album:* Super-Loud
+**🎵 [superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)**
+*by* **ilyproxy, leander, Hadesthegrim, eversonder**
+*Album:* superswag pt. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="27" height="4" fill="#1db954" rx="2"/>
-    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:40
+    0:21 • 2:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
+🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))*
+🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-12 19:26:56Z UTC
+🕐 Last updated: 2025-11-12 19:37:29Z UTC
 <!-- SPOTIFY-END -->
