@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731cf243e32ab63e841c5e4030" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a75f65dff25aca8e0deab615" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)**
-*by* **SHEMYYY**
-*Album:* new friends
+**🎵 [love always seems to come out the blue](https://open.spotify.com/track/0W18At7uaqyugRN0WYK3MG)**
+*by* **may**
+*Album:* love always seems to come out the blue
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="53" height="4" fill="#1db954" rx="2"/>
-    <circle cx="53" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 2:10
+    0:32 • 3:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[internet depression club!!! >__<](https://open.spotify.com/track/7zVToCOmfS1dfz9M4eIKC9)** by **starstrike** *(internet depression club!!! >__<)*
-🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
-🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
-🎤 **[reject](https://open.spotify.com/track/0olauCqHK4AdNe14qUxpdS)** by **Scarly** *(reject)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)** by **DJ Worm, Eurohead** *(Klubb Musik vol.1)*
+🎤 **[Cycles](https://open.spotify.com/track/0suotaNKCJeJGC7FFRLxED)** by **DJ_Dave, Switch Angel** *(Cycles)*
+🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
+🎤 **[Floating](https://open.spotify.com/track/54EZOioxGy6onUrwqA1Z35)** by **heartcoregirl** *(Floating)*
+🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-12 15:52:30Z UTC
+🕐 Last updated: 2025-11-12 16:17:47Z UTC
 <!-- SPOTIFY-END -->
