@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27327bc31fd58461ed9bdc07a19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334a78803f43a0fa3fe7a82fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)**
-*by* **flywoah**
-*Album:* Choices
+**🎵 [throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)**
+*by* **BED**
+*Album:* everything hurts
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 1:52
+    2:49 • 3:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)*
-🎤 **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)*
-🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
-🎤 **[Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)** by **DJ_Dave** *(Airglow)*
-🎤 **[CALL THE DOCTOR!](https://open.spotify.com/track/2MMTeFoPFBD8NHZK8AyFLE)** by **LXKAS** *(CALL THE DOCTOR!)*
+🎤 **[Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)** by **HighSchool** *(Colt)*
+🎤 **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-13 14:13:22Z UTC
+🕐 Last updated: 2025-11-13 14:33:07Z UTC
 <!-- SPOTIFY-END -->
