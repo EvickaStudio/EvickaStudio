@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732999640090d01eec0aef403f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)**
-*by* **angelicxmei, utumiyqcom**
-*Album:* promise
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="31" height="4" fill="#1db954" rx="2"/>
-    <circle cx="31" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
 🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
 🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
 🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[Crystalize](https://open.spotify.com/track/4JW9aIKvrrkYJwP4EGm3Eq)** by **Crescent, Rose, Y4ndere, Crystal Statues** *(Crystal Clear)*
-🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
 
 
 
@@ -139,9 +120,9 @@
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 🥈 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 🥉 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
-🏅 [**PIXELATED KISSES**](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
+🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-13 15:15:06Z UTC
+🕐 Last updated: 2025-11-13 15:33:23Z UTC
 <!-- SPOTIFY-END -->
