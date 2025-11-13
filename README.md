@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)**
-*by* **Michael Jackson**
-*Album:* HIStory - PAST, PRESENT AND FUTURE - BOOK I
+**🎵 [afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)**
+*by* **2hollis, nate sib**
+*Album:* afraid (feat. nate sib)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 5:19
+    1:44 • 2:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
-🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
-🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
-🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
+🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
+🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(hide (midwest emo version + extras))*
+🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-13 13:08:29Z UTC
+🕐 Last updated: 2025-11-13 13:43:39Z UTC
 <!-- SPOTIFY-END -->
