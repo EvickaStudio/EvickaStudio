@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27378fb0f913281c519df52c2b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Dosenwerfen](https://open.spotify.com/track/6S6mTCmFFNXRa7eRPUaEal)**
-*by* **Nikku, Yatsu, maaks**
-*Album:* Dosenwerfen
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 1:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)*
-🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luu, mundus** *(wunderschön)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[pSychose](https://open.spotify.com/track/6jX4s440XKII5txKIo4mXa)** by **pink luu, lusi 7896** *(pSychose)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-14 16:47:06Z UTC
+🕐 Last updated: 2025-11-14 17:11:51Z UTC
 <!-- SPOTIFY-END -->
