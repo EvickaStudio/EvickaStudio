@@ -120,9 +120,9 @@
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 🥈 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 🥉 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
+🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
-🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-14 17:11:51Z UTC
+🕐 Last updated: 2025-11-14 17:30:44Z UTC
 <!-- SPOTIFY-END -->
