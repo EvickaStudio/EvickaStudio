@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273504e5f6d14d6c3314b0b35a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)**
-*by* **Lix, Elujjin**
-*Album:* 128
+**🎵 [Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)**
+*by* **flywoah**
+*Album:* Test Subject
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="38" height="4" fill="#1db954" rx="2"/>
-    <circle cx="38" cy="2" r="6" fill="#1db954"/>
+    <rect width="299" height="4" fill="#1db954" rx="2"/>
+    <circle cx="299" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 2:25
+    2:35 • 2:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
+🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
 🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
-🎤 **[still into you +icdamix+](https://open.spotify.com/track/2G1cLGiueC65jIOsZSS2PZ)** by **temcandoanything** *(still into you +icdamix+)*
-🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
-🎤 **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)*
-🎤 **[Sequence](https://open.spotify.com/track/4PasUb74PQ4N6HOxtaIqZm)** by **Capoxxo, mayh3mp** *(Sequence)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-14 15:29:29Z UTC
+🕐 Last updated: 2025-11-14 15:41:28Z UTC
 <!-- SPOTIFY-END -->
