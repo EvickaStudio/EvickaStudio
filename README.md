@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369f61e36c885ecf648456e69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273630e3b3f24a3a7ab3e2a8991" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)**
-*by* **snor**
-*Album:* tear drops
+**🎵 [wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)**
+*by* **bliiiss, Buffalobang**
+*Album:* wrong place
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:07
+    0:47 • 2:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)*
-🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
-🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
+🎤 **[LOV3 L3TT3RS](https://open.spotify.com/track/4KFkz63DORUX2I0scvhTTr)** by **stixz** *(unre1eased)*
+🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[DROP DEAD REMIX!](https://open.spotify.com/track/2sSOZpsrMMDELNVqjGq7nU)** by **UpVampin, Zak Conner, Pixel Hood, kets4eki** *(DROP DEAD REMIX!)*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-15 21:47:48Z UTC
+🕐 Last updated: 2025-11-15 22:09:45Z UTC
 <!-- SPOTIFY-END -->
