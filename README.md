@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733b998c6672e9d6d8cbb112c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)**
+*by* **luu, n3vio**
+*Album:* dancefloor!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 3:43
+    0:39 • 1:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)*
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
-🎤 **[SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)** by **temcandoanything, 16:9 krollo ✥** *(SCARY MONSTERZ)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
+🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-15 17:09:32Z UTC
+🕐 Last updated: 2025-11-15 17:26:20Z UTC
 <!-- SPOTIFY-END -->
