@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27304be819976cdba4bb39762b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c620507a4da98bc9c60df9ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)**
-*by* **The Cure**
-*Album:* Bloodflowers
+**🎵 [SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)**
+*by* **lavendr, roshyw**
+*Album:* SHE'S A GIRL IN A BLACK DRESS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="240" height="4" fill="#1db954" rx="2"/>
+    <circle cx="240" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 5:35
+    1:36 • 2:00
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
+🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
 🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
 🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
-🎤 **[​vampire girl](https://open.spotify.com/track/4ws27V1UEwNHqkYJfJ2ZxY)** by **korpsebunny** *(vampire girl)*
-🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-11-15 14:29:09Z UTC
+🕐 Last updated: 2025-11-15 14:39:51Z UTC
 <!-- SPOTIFY-END -->
