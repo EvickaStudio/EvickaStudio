@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2daead7e0289f6760c9504c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27382b0817bbeccb3f003c12651" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)**
-*by* **Hello Hannes**
-*Album:* FML
+**🎵 [yin&yang/seifenblasen](https://open.spotify.com/track/6DP6eoGXRra5oyHTBgjO72)**
+*by* **5star**
+*Album:* yin&yang/seifenblasen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="170" height="4" fill="#1db954" rx="2"/>
-    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 1:30
+    1:58 • 2:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[TREif](https://open.spotify.com/track/2ZJLODyo8p98W9EA0mWNOc)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
-🎤 **[ALLEINE SEIN](https://open.spotify.com/track/1HkCM4ILSkdHppAkjFLStI)** by **mikeycyrus** *(CYRUS)*
-🎤 **[black hawk](https://open.spotify.com/track/78gTcursyf6xeUI8l0xRgz)** by **Senses, uusymon** *(seventh heaven)*
+🎤 **[Opfer](https://open.spotify.com/track/62egbOvUjsDmSYvdcMS0Bo)** by **Odece, uusymon** *(Wakanda)*
+🎤 **[TRÄUME BRÜCKEN ZÄUNE](https://open.spotify.com/track/0s8XyPtRo8lCWzDfZ7gqSD)** by **sotbarn, b3nn3t** *(TRÄUME BRÜCKEN ZÄUNE)*
+🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
+🎤 **[Wassup](https://open.spotify.com/track/7bGQtMbFEQrwz2nfcU6pwf)** by **humanangst** *(Lost in Translation)*
+🎤 **[montag bis freitag](https://open.spotify.com/track/6rfDeEA6ZQXxL8mAZ2A1Gg)** by **cinnemane** *(montag bis freitag)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-15 19:08:54Z UTC
+🕐 Last updated: 2025-11-15 19:22:12Z UTC
 <!-- SPOTIFY-END -->
