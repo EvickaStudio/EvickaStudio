@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f5098317ab9dc3cc6da0be92" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a8df059b0457444852eef72c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)**
-*by* **cinnemane**
-*Album:* srrysora
+**🎵 [BELIAS KINDER 432hz](https://open.spotify.com/track/1lPoQqZdMC4EaF6ekCnWDi)**
+*by* **agelast222**
+*Album:* BELIAS KINDER 432hz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="215" height="4" fill="#1db954" rx="2"/>
+    <circle cx="215" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 1:55
+    2:32 • 3:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)*
+🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
+🎤 **[srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)** by **cinnemane** *(srrysora)*
 🎤 **[100 Franken Pisse](https://open.spotify.com/track/6Q15J9TLk9dfAfv7jUBITc)** by **sotbarn** *(100 Franken Pisse)*
 🎤 **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)*
-🎤 **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)*
-🎤 **[miuccia melody](https://open.spotify.com/track/3QnaAcPzYMcXJijDGRmp39)** by **lil london** *(miuccia melody)*
-🎤 **[NixOderAlles <3](https://open.spotify.com/track/7iQBAwkUNb3ofiw28H9drD)** by **cinnemane** *(NixOderAlles <3)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-15 18:43:33Z UTC
+🕐 Last updated: 2025-11-15 18:51:33Z UTC
 <!-- SPOTIFY-END -->
