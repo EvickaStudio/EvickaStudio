@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27382b0817bbeccb3f003c12651" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738e257d9ed0525d468a782926" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [yin&yang/seifenblasen](https://open.spotify.com/track/6DP6eoGXRra5oyHTBgjO72)**
-*by* **5star**
-*Album:* yin&yang/seifenblasen
+**🎵 [Ok Lynn](https://open.spotify.com/track/28OGBPbfiK8BbbEeR6Tqhs)**
+*by* **2klynn**
+*Album:* Lynn, Pt. 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="99" height="4" fill="#1db954" rx="2"/>
+    <circle cx="99" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:19
+    0:43 • 2:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Opfer](https://open.spotify.com/track/62egbOvUjsDmSYvdcMS0Bo)** by **Odece, uusymon** *(Wakanda)*
-🎤 **[TRÄUME BRÜCKEN ZÄUNE](https://open.spotify.com/track/0s8XyPtRo8lCWzDfZ7gqSD)** by **sotbarn, b3nn3t** *(TRÄUME BRÜCKEN ZÄUNE)*
-🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
-🎤 **[Wassup](https://open.spotify.com/track/7bGQtMbFEQrwz2nfcU6pwf)** by **humanangst** *(Lost in Translation)*
-🎤 **[montag bis freitag](https://open.spotify.com/track/6rfDeEA6ZQXxL8mAZ2A1Gg)** by **cinnemane** *(montag bis freitag)*
+🎤 **[LEB' DAS](https://open.spotify.com/track/6WcQ7ToDDThL9A7iPFi81k)** by **Navy, Wavy Adam, einfachnureddy** *(LEB' DAS)*
+🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
+🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
+🎤 **[Ganz Altes Lied](https://open.spotify.com/track/6HvNcLxuM2e9nq2H3JZ7sy)** by **uusymon, hqwilli** *(rare & lost tracks archive (2017-2020))*
+🎤 **[JULiEt](https://open.spotify.com/track/6UxMM5cymzCaFnwhoxyGBO)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-🏅 [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-15 19:22:12Z UTC
+🕐 Last updated: 2025-11-15 19:33:54Z UTC
 <!-- SPOTIFY-END -->
