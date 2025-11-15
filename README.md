@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738e257d9ed0525d468a782926" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27397f77dd83347bf87ac64558b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ok Lynn](https://open.spotify.com/track/28OGBPbfiK8BbbEeR6Tqhs)**
-*by* **2klynn**
-*Album:* Lynn, Pt. 2
+**🎵 [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)**
+*by* **ilyproxy, leander, Hadesthegrim**
+*Album:* Schnuffel
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:12
+    1:13 • 3:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LEB' DAS](https://open.spotify.com/track/6WcQ7ToDDThL9A7iPFi81k)** by **Navy, Wavy Adam, einfachnureddy** *(LEB' DAS)*
-🎤 **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)*
-🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
-🎤 **[Ganz Altes Lied](https://open.spotify.com/track/6HvNcLxuM2e9nq2H3JZ7sy)** by **uusymon, hqwilli** *(rare & lost tracks archive (2017-2020))*
-🎤 **[JULiEt](https://open.spotify.com/track/6UxMM5cymzCaFnwhoxyGBO)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-15 19:33:54Z UTC
+🕐 Last updated: 2025-11-15 19:47:47Z UTC
 <!-- SPOTIFY-END -->
