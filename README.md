@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a8df059b0457444852eef72c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a2daead7e0289f6760c9504c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [BELIAS KINDER 432hz](https://open.spotify.com/track/1lPoQqZdMC4EaF6ekCnWDi)**
-*by* **agelast222**
-*Album:* BELIAS KINDER 432hz
+**🎵 [FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)**
+*by* **Hello Hannes**
+*Album:* FML
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 3:32
+    0:51 • 1:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)*
-🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
-🎤 **[srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)** by **cinnemane** *(srrysora)*
-🎤 **[100 Franken Pisse](https://open.spotify.com/track/6Q15J9TLk9dfAfv7jUBITc)** by **sotbarn** *(100 Franken Pisse)*
-🎤 **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)*
+🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[TREif](https://open.spotify.com/track/2ZJLODyo8p98W9EA0mWNOc)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
+🎤 **[ALLEINE SEIN](https://open.spotify.com/track/1HkCM4ILSkdHppAkjFLStI)** by **mikeycyrus** *(CYRUS)*
+🎤 **[black hawk](https://open.spotify.com/track/78gTcursyf6xeUI8l0xRgz)** by **Senses, uusymon** *(seventh heaven)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-15 18:51:33Z UTC
+🕐 Last updated: 2025-11-15 19:08:54Z UTC
 <!-- SPOTIFY-END -->
