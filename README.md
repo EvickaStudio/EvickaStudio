@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273630e3b3f24a3a7ab3e2a8991" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bd48ded18987be5a1abe384b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)**
-*by* **bliiiss, Buffalobang**
-*Album:* wrong place
+**🎵 [bitch what u want](https://open.spotify.com/track/7MZML3S89wEJwVLnSt62hA)**
+*by* **503scoob, M0llyRoxx, misalive, Keta, suddendeathovertime**
+*Album:* bitch what u want
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:04
+    2:10 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LOV3 L3TT3RS](https://open.spotify.com/track/4KFkz63DORUX2I0scvhTTr)** by **stixz** *(unre1eased)*
-🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[DROP DEAD REMIX!](https://open.spotify.com/track/2sSOZpsrMMDELNVqjGq7nU)** by **UpVampin, Zak Conner, Pixel Hood, kets4eki** *(DROP DEAD REMIX!)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[all my fault](https://open.spotify.com/track/2b07aJJY5XnkVs3eaTjXLm)** by **Fijimar** *(all my fault)*
+🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra, cxpyyy, luu** *(0800-111-0-111)*
+🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-15 22:09:45Z UTC
+🕐 Last updated: 2025-11-15 22:28:05Z UTC
 <!-- SPOTIFY-END -->
