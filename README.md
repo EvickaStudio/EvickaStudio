@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739112bde6d28101142df7f3c8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)**
-*by* **Peake**
-*Album:* Forever the Sickest Rose
+**🎵 [ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)**
+*by* **luu, Nosgov**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="75" height="4" fill="#1db954" rx="2"/>
-    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 1:42
+    0:59 • 1:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[tonight](https://open.spotify.com/track/6SbknQrVd8sTPJ7pgSlSPX)** by **Fijimar** *(tonight)*
+🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
+🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
+🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
 🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
-🎤 **[hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)** by **luu** *(immenser pflegefall)*
-🎤 **[rave grl](https://open.spotify.com/track/1Csd45WdBtF6Ph7hC6xdo2)** by **Fijimar** *(rave grl)*
-🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu, cxpyyy, luu** *(ICK (I Can't Kiss))*
-🎤 **[merry go round](https://open.spotify.com/track/0IFIIjzfSzSUk80DFQQISL)** by **Senses, mint** *(merry go round)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**zurück**](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)
 
 
-🕐 Last updated: 2025-11-15 22:38:26Z UTC
+🕐 Last updated: 2025-11-15 22:47:48Z UTC
 <!-- SPOTIFY-END -->
