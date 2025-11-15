@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)**
-*by* **luu, Nosgov**
-*Album:* immenser pflegefall
+**🎵 [your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)**
+*by* **Levi Ryan**
+*Album:* southern comfort EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="292" height="4" fill="#1db954" rx="2"/>
+    <circle cx="292" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 1:34
+    3:22 • 3:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tonight](https://open.spotify.com/track/6SbknQrVd8sTPJ7pgSlSPX)** by **Fijimar** *(tonight)*
-🎤 **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty, cxpyyy, luu** *(love castle)*
-🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
-🎤 **[Witchmark](https://open.spotify.com/track/2F5xbWF5Jt5NDW5kyRbsoP)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
+🎤 **[STIMULATE](https://open.spotify.com/track/6iHyviUpvsA6gS01YckgRI)** by **hateoryx, Nosgov** *(STIMULATE)*
+🎤 **[unheilbar](https://open.spotify.com/track/37XkpNS0wr0RzxTo3UfvEN)** by **luu, iwannabemissed** *(unheilbar)*
+🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
+🎤 **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))*
+🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**zurück**](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)
 
 
-🕐 Last updated: 2025-11-15 22:47:48Z UTC
+🕐 Last updated: 2025-11-15 23:11:27Z UTC
 <!-- SPOTIFY-END -->
