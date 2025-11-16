@@ -91,7 +91,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737c6e7090a833c0cf93b90558" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)**
+*by* **n3vio, mehlhaltig**
+*Album:* n//
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:53 • 2:16
+</span>
+</p>
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-16 13:38:37Z UTC
+🕐 Last updated: 2025-11-16 13:47:44Z UTC
 <!-- SPOTIFY-END -->
