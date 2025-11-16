@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c6e7090a833c0cf93b90558" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)**
-*by* **n3vio, mehlhaltig**
-*Album:* n//
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="249" height="4" fill="#1db954" rx="2"/>
-    <circle cx="249" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 2:16
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Hotel Obsession](https://open.spotify.com/track/0bkGnlQtajhpEI0zIfw8Cs)** by **nobis** *(Hotel Obsession)*
-🎤 **[EVRYTIME WE TOUCH](https://open.spotify.com/track/3usvumgeXhvYJhHWYmmqXg)** by **03osc** *(EVRYTIME WE TOUCH)*
-🎤 **[EVRYTIME WE TOUCH](https://open.spotify.com/track/3usvumgeXhvYJhHWYmmqXg)** by **03osc** *(EVRYTIME WE TOUCH)*
-🎤 **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
+🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
+🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
+🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
+🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-16 13:47:44Z UTC
+🕐 Last updated: 2025-11-16 14:10:36Z UTC
 <!-- SPOTIFY-END -->
