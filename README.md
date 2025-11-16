@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fd3d13da17a1014a3538f9df" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)**
-*by* **b3nn3t, strangerperson**
-*Album:* laut nachgedacht
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="184" height="4" fill="#1db954" rx="2"/>
-    <circle cx="184" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:19
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
+🎤 **[Wieder gut](https://open.spotify.com/track/2iswi2ayohjT0cCdui9k8N)** by **Tape Head, NONI** *(Memento Mori)*
+🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
 🎤 **[Überall, Immer](https://open.spotify.com/track/1IW91VlVJgTlxKCNNlSORI)** by **JB 50, ghostboo** *(Überall, Immer)*
 🎤 **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
-🎤 **[you're not alone](https://open.spotify.com/track/52NhgSLKTQot2a5mCVfdsa)** by **benzii** *(you're not alone)*
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-16 19:34:24Z UTC
+🕐 Last updated: 2025-11-16 19:47:40Z UTC
 <!-- SPOTIFY-END -->
