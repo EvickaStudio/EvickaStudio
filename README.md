@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af7205c1f3dcc81e96f042ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)**
-*by* **flywoah**
-*Album:* Super-Loud
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:40
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luu** *(#SCENEJESUS)*
+🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
+🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
+🎤 **[taschentücher](https://open.spotify.com/track/2jiRplIpJ6t42e9qcv84oF)** by **pink luu, SSJ Twiin** *(taschentücher)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-16 22:31:14Z UTC
+🕐 Last updated: 2025-11-16 22:47:43Z UTC
 <!-- SPOTIFY-END -->
