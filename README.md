@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hotel Obsession](https://open.spotify.com/track/0bkGnlQtajhpEI0zIfw8Cs)** by **nobis** *(Hotel Obsession)*
 🎤 **[EVRYTIME WE TOUCH](https://open.spotify.com/track/3usvumgeXhvYJhHWYmmqXg)** by **03osc** *(EVRYTIME WE TOUCH)*
 🎤 **[EVRYTIME WE TOUCH](https://open.spotify.com/track/3usvumgeXhvYJhHWYmmqXg)** by **03osc** *(EVRYTIME WE TOUCH)*
 🎤 **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)*
 🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
 
 
-🕐 Last updated: 2025-11-16 09:29:21Z UTC
+🕐 Last updated: 2025-11-16 09:39:30Z UTC
 <!-- SPOTIFY-END -->
