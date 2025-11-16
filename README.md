@@ -91,26 +91,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273866daa4ba1690cde69054822" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)**
-*by* **nuphory, Luna Lenta**
-*Album:* EXOPLANET // HYPERTRANCE
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="35" height="4" fill="#1db954" rx="2"/>
-    <circle cx="35" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 3:57
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-11-16 15:47:43Z UTC
+🕐 Last updated: 2025-11-16 16:13:42Z UTC
 <!-- SPOTIFY-END -->
