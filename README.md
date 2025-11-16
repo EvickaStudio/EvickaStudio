@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c72c35d8aacd65a241849928" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739aa01d76e67c40bca1318ffd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)**
-*by* **Tamino404**
-*Album:* mondlicht
+**🎵 [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)**
+*by* **Leftovers**
+*Album:* Marmelade Und Himbeereis
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 2:53
+    0:26 • 3:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)** by **Tamino404** *(du hast uns alle vergessen und ich bin stolz auf dich)*
-🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[pappschild](https://open.spotify.com/track/061CzWxpmP9TDsZZP46R1h)** by **5star, Talia Dorr** *(pappschild)*
-🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
+🎤 **[wie es war](https://open.spotify.com/track/0RlLXZi1l1KsTkkQ5pBi5q)** by **wavybaby** *(wieso nicht)*
+🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**tear drops**](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)
 
 
-🕐 Last updated: 2025-11-16 18:52:48Z UTC
+🕐 Last updated: 2025-11-16 19:09:25Z UTC
 <!-- SPOTIFY-END -->
