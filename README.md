@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737037dfed700b1e6f72ff762d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b882844a42e70ac9fe0fe768" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)**
-*by* **Senses, Nightclub20xx, ROAR**
-*Album:* no insight
+**🎵 [iiiistillthinkineeduu](https://open.spotify.com/track/5DzjEiHlU61SV0SQIqn7Or)**
+*by* **Rezlaine, rylorie**
+*Album:* iiiistillthinkineeduu
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="129" height="4" fill="#1db954" rx="2"/>
-    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:22
+    0:03 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[Repair](https://open.spotify.com/track/3PfVt0qkDCBbseXzwvlgu2)** by **Lil Peep, BEXEY** *(Romeo's Regrets)*
-🎤 **[TAX ON IT](https://open.spotify.com/track/1AtvQtVWmSpYTSaK0sNtsB)** by **kets4eki, asteria** *(TAX ON IT)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[elfbar (freestyle)](https://open.spotify.com/track/0CS7Rq2swLuq1SPAyVKJWC)** by **Iuvumi, 1ndertat** *(elfbar (freestyle))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**zurück**](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)
 
 
-🕐 Last updated: 2025-11-16 08:15:33Z UTC
+🕐 Last updated: 2025-11-16 08:42:16Z UTC
 <!-- SPOTIFY-END -->
