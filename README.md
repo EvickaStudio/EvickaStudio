@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737037dfed700b1e6f72ff762d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)**
+*by* **Senses, Nightclub20xx, ROAR**
+*Album:* no insight
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="129" height="4" fill="#1db954" rx="2"/>
+    <circle cx="129" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:01 • 2:22
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
 🎤 **[Repair](https://open.spotify.com/track/3PfVt0qkDCBbseXzwvlgu2)** by **Lil Peep, BEXEY** *(Romeo's Regrets)*
 🎤 **[TAX ON IT](https://open.spotify.com/track/1AtvQtVWmSpYTSaK0sNtsB)** by **kets4eki, asteria** *(TAX ON IT)*
-🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
-🎤 **[i was wrong](https://open.spotify.com/track/14Q9HQq9zcSatCaordgQM6)** by **SHEMYYY** *(i was wrong)*
-🎤 **[ich](https://open.spotify.com/track/5DXfP6u563DJiuKwVPHqmX)** by **Tape Head, NONI** *(ich)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**zurück**](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)
 
 
-🕐 Last updated: 2025-11-16 07:47:28Z UTC
+🕐 Last updated: 2025-11-16 08:15:33Z UTC
 <!-- SPOTIFY-END -->
