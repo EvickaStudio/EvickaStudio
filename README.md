@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273866daa4ba1690cde69054822" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)**
-*by* **nuphory, Luna Lenta**
-*Album:* EXOPLANET // HYPERTRANCE
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:43 • 3:57
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
-🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
+🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
+🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
 
 
 
@@ -139,9 +120,9 @@
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 🥈 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 🥉 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
+🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
-🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 15:15:09Z UTC
+🕐 Last updated: 2025-11-17 15:35:55Z UTC
 <!-- SPOTIFY-END -->
