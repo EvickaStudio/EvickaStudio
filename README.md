@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273866daa4ba1690cde69054822" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)**
-*by* **nuphory, Luna Lenta**
-*Album:* EXOPLANET // HYPERTRANCE
+**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
+*by* **Bassvictim**
+*Album:* Forever
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="292" height="4" fill="#1db954" rx="2"/>
-    <circle cx="292" cy="2" r="6" fill="#1db954"/>
+    <rect width="284" height="4" fill="#1db954" rx="2"/>
+    <circle cx="284" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:51 • 3:57
+    3:14 • 3:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
-🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
+🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 08:20:01Z UTC
+🕐 Last updated: 2025-11-17 08:48:06Z UTC
 <!-- SPOTIFY-END -->
