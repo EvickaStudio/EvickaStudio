@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360a8e9731e7b670326fdb68c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736486f16a416e5c100bbde0c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)**
-*by* **ghostboo**
-*Album:* naiv
+**🎵 [Keine Zeit](https://open.spotify.com/track/5yJtizcFWj5rXhLcgZOdRu)**
+*by* **Leftovers**
+*Album:* Krach
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 2:28
+    1:44 • 2:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Gestern](https://open.spotify.com/track/3JdsRW0PatIcT6bdI4tDGM)** by **Keule** *(Gestern)*
-🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
-🎤 **[Ich blute (aus)](https://open.spotify.com/track/5HwkukUNHYFqEWQ3YvN5ih)** by **Tape Head, NONI** *(Ich blute (aus))*
-🎤 **[Gesichter](https://open.spotify.com/track/1fy1TbpC7GMEOPx7K19rVp)** by **Leftovers** *(Krach)*
-🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
+🎤 **[mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)*
+🎤 **[wirwirwir](https://open.spotify.com/track/23PhKTl5NACt60B5AKNKcH)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[idc](https://open.spotify.com/track/6kHgwf0WtGsUa7nJfz57Z0)** by **Keule** *(ein blick in mein kopf)*
+🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
+🎤 **[Kein Fake](https://open.spotify.com/track/6SasfqIpbQIrKDvrolSncT)** by **Fanny, No.Ri** *(Kein Fake)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 18:47:52Z UTC
+🕐 Last updated: 2025-11-17 19:09:59Z UTC
 <!-- SPOTIFY-END -->
