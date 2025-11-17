@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b20dfefdc86f90e913c135b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273529b0a2be4e55ed42ef2bcd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [GEKOMMEN UM ZU GEHEN](https://open.spotify.com/track/41wbBNUYOiWhtaTKeNWCWs)**
-*by* **Leftovers**
-*Album:* GEKOMMEN UM ZU GEHEN
+**🎵 [haven](https://open.spotify.com/track/1OHbWof0dTq3lQop7ofTXb)**
+*by* **Bhertuy**
+*Album:* haven
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="297" height="4" fill="#1db954" rx="2"/>
+    <circle cx="297" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 2:32
+    2:22 • 2:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[GEKOMMEN UM ZU GEHEN](https://open.spotify.com/track/41wbBNUYOiWhtaTKeNWCWs)** by **Leftovers** *(GEKOMMEN UM ZU GEHEN)*
+🎤 **[Viel zu gern](https://open.spotify.com/track/5VBA4tEHnRQkfSK9NSnODk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
+🎤 **[HEY](https://open.spotify.com/track/0MvC4x1v2FjsrpS8DJiIty)** by **Leftovers** *(HEY)*
 🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
-🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
-🎤 **[goes nowhere](https://open.spotify.com/track/2z1vxjtnzZ069uqJwuwEkW)** by **Nosgov, Avast** *(goes nowhere)*
-🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
+🎤 **[Es geht mir gut](https://open.spotify.com/track/4d9ItJ2CZptK3J9VYnHjhY)** by **Leftovers** *(Es geht mir gut)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-17 23:29:41Z UTC
+🕐 Last updated: 2025-11-17 23:40:21Z UTC
 <!-- SPOTIFY-END -->
