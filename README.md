@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce739a5b8063d0ec744e5d5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f3e83b7d47aa471dfb457a0b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)**
-*by* **benzii**
-*Album:* beine spüren
+**🎵 [broken heart - freestyle (rizzmix)](https://open.spotify.com/track/5SViUiCC3w3oDKilKeM7fe)**
+*by* **puls207, TROPFBUBEN, rizzlas ku$h**
+*Album:* broken heart freestyle
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:52
+    1:00 • 1:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
-🎤 **[fallrückzieher](https://open.spotify.com/track/2dZqGFbkT6mSnbWenKY5Ca)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(fallrückzieher)*
-🎤 **[Schock](https://open.spotify.com/track/7fwMWxd5VUQn5sJdbqGrfr)** by **Tape Head, NONI** *(Schock)*
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
-🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
+🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
+🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
+🎤 **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
+🎤 **[WOLKE](https://open.spotify.com/track/2kYEpK3d07h2pMoqo8HP72)** by **Leftovers** *(WOLKE)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 17:48:30Z UTC
+🕐 Last updated: 2025-11-17 18:19:05Z UTC
 <!-- SPOTIFY-END -->
