@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3b638147de6a521a5d65950" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27342fc041969d403111457946a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)**
-*by* **ilyproxy, leander, Hadesthegrim, eversonder**
-*Album:* 2016
+**🎵 [take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)**
+*by* **Lvl99magic, dxsh**
+*Album:* take a look
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="249" height="4" fill="#1db954" rx="2"/>
-    <circle cx="249" cy="2" r="6" fill="#1db954"/>
+    <rect width="24" height="4" fill="#1db954" rx="2"/>
+    <circle cx="24" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:52 • 3:26
+    0:14 • 2:59
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
-🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luu, offaflat** *(was kann ich tun?)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)*
-🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
+🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luu** *(#SCENEJESUS)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami, cxpyyy, luu** *(snorting adderall)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **snor** *(tear drops)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-17 20:33:40Z UTC
+🕐 Last updated: 2025-11-17 20:48:03Z UTC
 <!-- SPOTIFY-END -->
