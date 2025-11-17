@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369aacce2fd43d8c72ddcdcd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739a25181b5d63f71dc0348c0b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)**
-*by* **luu, Skatey Hellstar, chromey**
-*Album:* HYPERCORE, Vol. 3
+**🎵 [oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)**
+*by* **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy**
+*Album:* oyoyoyoy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:28
+    1:28 • 2:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
-🎤 **[An nichts denken](https://open.spotify.com/track/0DFccHLde09realK7yAtZd)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
-🎤 **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
-🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
+🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 19:35:08Z UTC
+🕐 Last updated: 2025-11-17 19:47:51Z UTC
 <!-- SPOTIFY-END -->
