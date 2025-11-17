@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736486f16a416e5c100bbde0c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Keine Zeit](https://open.spotify.com/track/5yJtizcFWj5rXhLcgZOdRu)**
+**🎵 [Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)**
 *by* **Leftovers**
-*Album:* Krach
+*Album:* ES KANN SEIN DASS ALLES ENDET
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="175" height="4" fill="#1db954" rx="2"/>
-    <circle cx="175" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:58
+    2:41 • 3:29
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)*
-🎤 **[wirwirwir](https://open.spotify.com/track/23PhKTl5NACt60B5AKNKcH)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[idc](https://open.spotify.com/track/6kHgwf0WtGsUa7nJfz57Z0)** by **Keule** *(ein blick in mein kopf)*
-🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
-🎤 **[Kein Fake](https://open.spotify.com/track/6SasfqIpbQIrKDvrolSncT)** by **Fanny, No.Ri** *(Kein Fake)*
+🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
+🎤 **[wo sind wir?](https://open.spotify.com/track/38JhixTCd5ZlIqFNOpQVMu)** by **Keule, Pink Katana** *(ein blick in mein kopf)*
+🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
+🎤 **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by **diggidaniel** *(So weit)*
+🎤 **[zu staub + UHD flip](https://open.spotify.com/track/49mdMxyy0SAnjWIoB6Owvr)** by **benzii, UHD** *(zu staub + UHD flip)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 19:09:59Z UTC
+🕐 Last updated: 2025-11-17 19:25:34Z UTC
 <!-- SPOTIFY-END -->
