@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731f9887b4d7f41d2a5069b7d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)**
-*by* **Bassvictim**
-*Album:* Forever
+**🎵 [hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)**
+*by* **jacal**
+*Album:* hide (midwest emo version + extras)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:14 • 3:25
+    2:21 • 4:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
-🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
-🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
-🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
-🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luu, Skatey Hellstar** *(shapeshifter)*
+🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
+🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
 
 
 
@@ -139,9 +139,9 @@
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 🥈 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 🥉 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
+🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 🏅 [**hello kitty murder case**](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)
-🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 08:48:06Z UTC
+🕐 Last updated: 2025-11-17 09:17:30Z UTC
 <!-- SPOTIFY-END -->
