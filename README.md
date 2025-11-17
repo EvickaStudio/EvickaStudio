@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735e92361af5facda3ec7e989b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c92a3532b22e647cae44f797" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Winterschlaf](https://open.spotify.com/track/5uu0UTwWZeSpyKcIS8T78M)**
-*by* **Tamino404**
-*Album:* es ist nicht mehr 2016
+**🎵 [morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)**
+*by* **benzii**
+*Album:* morgengrau
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="165" height="4" fill="#1db954" rx="2"/>
+    <circle cx="165" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:32
+    1:47 • 3:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
-🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
-🎤 **[herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
-🎤 **[eine liebe](https://open.spotify.com/track/72fV0RCHpxERuxcxCm38Ll)** by **ilyproxy** *(eine liebe)*
-🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Wichtig war](https://open.spotify.com/track/6M9VcDgKSHB0SKxiJcnbn3)** by **kevin** *(Wichtig war)*
+🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
+🎤 **[Machtlos](https://open.spotify.com/track/0G1elLFbHGXCKsvnbuY8lM)** by **Tape Head, NONI** *(Machtlos)*
+🎤 **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[Heimlich](https://open.spotify.com/track/7tzT4s3ntyS9xpDjNvCgpf)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 17:13:15Z UTC
+🕐 Last updated: 2025-11-17 17:33:17Z UTC
 <!-- SPOTIFY-END -->
