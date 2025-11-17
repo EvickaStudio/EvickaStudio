@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f3e83b7d47aa471dfb457a0b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360a8e9731e7b670326fdb68c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [broken heart - freestyle (rizzmix)](https://open.spotify.com/track/5SViUiCC3w3oDKilKeM7fe)**
-*by* **puls207, TROPFBUBEN, rizzlas ku$h**
-*Album:* broken heart freestyle
+**🎵 [naiv](https://open.spotify.com/track/5BQ6YpX4a9rVewUBq8FURd)**
+*by* **ghostboo**
+*Album:* naiv
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 1:44
+    2:22 • 2:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
-🎤 **[Augenblick](https://open.spotify.com/track/3Y2TvHbRq2L9Pvycf7GTde)** by **diggidaniel** *(Augenblick)*
-🎤 **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)*
-🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
-🎤 **[WOLKE](https://open.spotify.com/track/2kYEpK3d07h2pMoqo8HP72)** by **Leftovers** *(WOLKE)*
+🎤 **[Gestern](https://open.spotify.com/track/3JdsRW0PatIcT6bdI4tDGM)** by **Keule** *(Gestern)*
+🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[Ich blute (aus)](https://open.spotify.com/track/5HwkukUNHYFqEWQ3YvN5ih)** by **Tape Head, NONI** *(Ich blute (aus))*
+🎤 **[Gesichter](https://open.spotify.com/track/1fy1TbpC7GMEOPx7K19rVp)** by **Leftovers** *(Krach)*
+🎤 **[manchmal - Reeperbahn Festival Collide](https://open.spotify.com/track/4SGxVFHwvarFqKoWbLIc8k)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 18:19:05Z UTC
+🕐 Last updated: 2025-11-17 18:47:52Z UTC
 <!-- SPOTIFY-END -->
