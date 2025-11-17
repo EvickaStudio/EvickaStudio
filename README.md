@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369aacce2fd43d8c72ddcdcd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)**
-*by* **Leftovers**
-*Album:* ES KANN SEIN DASS ALLES ENDET
+**🎵 [princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)**
+*by* **luu, Skatey Hellstar, chromey**
+*Album:* HYPERCORE, Vol. 3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="30" height="4" fill="#1db954" rx="2"/>
+    <circle cx="30" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 3:29
+    0:14 • 2:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[für immer hier](https://open.spotify.com/track/2QYLrrH7iVh5evjjeGbCfN)** by **ghostboo, fürimmerhier** *(für immer hier)*
+🎤 **[An nichts denken](https://open.spotify.com/track/0DFccHLde09realK7yAtZd)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
+🎤 **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
 🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
-🎤 **[wo sind wir?](https://open.spotify.com/track/38JhixTCd5ZlIqFNOpQVMu)** by **Keule, Pink Katana** *(ein blick in mein kopf)*
-🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
-🎤 **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by **diggidaniel** *(So weit)*
-🎤 **[zu staub + UHD flip](https://open.spotify.com/track/49mdMxyy0SAnjWIoB6Owvr)** by **benzii, UHD** *(zu staub + UHD flip)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-17 19:25:34Z UTC
+🕐 Last updated: 2025-11-17 19:35:08Z UTC
 <!-- SPOTIFY-END -->
