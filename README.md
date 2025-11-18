@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ac888ad505c39f50656eac16" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739de62bd8805f8a1b77cbedf5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [On The Floor](https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh)**
-*by* **Jennifer Lopez, Pitbull**
-*Album:* LOVE?
+**🎵 [Dancing Through the Night - Single Edit](https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF)**
+*by* **Raveboy**
+*Album:* Dancing Through the Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="31" height="4" fill="#1db954" rx="2"/>
-    <circle cx="31" cy="2" r="6" fill="#1db954"/>
+    <rect width="180" height="4" fill="#1db954" rx="2"/>
+    <circle cx="180" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 4:44
+    2:04 • 3:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))*
-🎤 **[Die braune Tasche - Frizzo Remix](https://open.spotify.com/track/0WWphMtsnrm1WSldFJkkc7)** by **Haftbefehl, Frizzo** *(Die braune Tasche (Frizzo Remix))*
-🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
-🎤 **[Mr Vain (feat. Tamika)](https://open.spotify.com/track/2UthFHQ34gEPNQ0qa6ihTa)** by **S3RL, Tamika** *(Mr Vain (feat. Tamika))*
-🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
+🎤 **[Mary](https://open.spotify.com/track/36TbBJ7mLPOZMAYs0p4mxb)** by **Alex G** *(Trick)*
+🎤 **[Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk)** by **Porter Robinson** *(Worlds)*
+🎤 **[City Treff nur schneller](https://open.spotify.com/track/3ZgCEkFgEkmIOqinjLYf1q)** by **anunyma** *(City Treff)*
+🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
+🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-18 18:49:24Z UTC
+🕐 Last updated: 2025-11-18 19:11:14Z UTC
 <!-- SPOTIFY-END -->
