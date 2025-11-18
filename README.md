@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273579b367de850b6cdfa7ab35a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)**
+*by* **User2222**
+*Album:* i'm so thankful i didn't end up with what i thought i wanted
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="195" height="4" fill="#1db954" rx="2"/>
+    <circle cx="195" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:57 • 3:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[obsessed](https://open.spotify.com/track/3KFe2MbpSsHoEkPQeHiuTj)** by **Ilykimchi** *(obsessed)*
-🎤 **[fall at the same time](https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn)** by **aldn** *(fall at the same time)*
-🎤 **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))*
-🎤 **[Take Me To The Sun](https://open.spotify.com/track/32GHYtVVAsYNQGafHrrRxv)** by **d4vd** *(Take Me To The Sun)*
-🎤 **[haven](https://open.spotify.com/track/1OHbWof0dTq3lQop7ofTXb)** by **Bhertuy** *(haven)*
+🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
+🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
+🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
+🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
+🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**EXOPLANET // HYPERTRANCE**](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)
 
 
-🕐 Last updated: 2025-11-18 07:30:52Z UTC
+🕐 Last updated: 2025-11-18 07:47:49Z UTC
 <!-- SPOTIFY-END -->
