@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be9bb007638d6e2a0f64cab0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)**
-*by* **LSD and the Search for God**
-*Album:* LSD and the Search for God
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="281" height="4" fill="#1db954" rx="2"/>
-    <circle cx="281" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    4:45 • 5:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)*
-🎤 **[Stars](https://open.spotify.com/track/6qldoBkOcSbj2KUHpGILwB)** by **limedisx.** *(Stars)*
-🎤 **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
-🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
+🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
+🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
+🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
+🎤 **[Last Friday Night](https://open.spotify.com/track/5MKhSKaCJruH3oQpiMyIo0)** by **sign crushes motorist** *(i'll be okay)*
+🎤 **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-18 22:33:35Z UTC
+🕐 Last updated: 2025-11-18 22:48:34Z UTC
 <!-- SPOTIFY-END -->
