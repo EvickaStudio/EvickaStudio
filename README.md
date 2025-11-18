@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736760598cc4bee636199da508" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)**
-*by* **HAR$h, ilymeow**
-*Album:* relapse (different versions)
+**🎵 [Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)**
+*by* **The Police**
+*Album:* Reggatta De Blanc (Remastered 2003)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="41" height="4" fill="#1db954" rx="2"/>
-    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 1:38
+    2:12 • 4:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Heaven (Interlude)](https://open.spotify.com/track/7uVpCKCrfJl02npkIQaUzH)** by **SUMMER ALONE** *(Sleep Longer, You'll Be Ok)*
+🎤 **[You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)** by **Ecco2k, Bladee, Thaiboy Digital** *(Trash Island)*
+🎤 **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))*
 🎤 **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)*
 🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
-🎤 **[Dancing Through the Night - Single Edit](https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF)** by **Raveboy** *(Dancing Through the Night)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-18 19:25:22Z UTC
+🕐 Last updated: 2025-11-18 19:33:37Z UTC
 <!-- SPOTIFY-END -->
