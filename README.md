@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27342fc041969d403111457946a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d9ad771e9f58e231a391e2f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)**
-*by* **Lvl99magic, dxsh**
-*Album:* take a look
+**🎵 [Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)**
+*by* **SUICIDAL-IDOL, hoshie star**
+*Album:* Right Next 2 U
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:59
+    0:44 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[shut up and sleep with me](https://open.spotify.com/track/5poBMvgDCMP02dtPgUr259)** by **iamsodead, elctrnc/sed:/, LooveX** *(shut up and sleep with me)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[EVRYTIME WE TOUCH](https://open.spotify.com/track/3usvumgeXhvYJhHWYmmqXg)** by **03osc** *(EVRYTIME WE TOUCH)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
+🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luu** *(#SCENEJESUS)*
+🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**triple trauma**](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)
 
 
-🕐 Last updated: 2025-11-18 11:11:53Z UTC
+🕐 Last updated: 2025-11-18 11:28:39Z UTC
 <!-- SPOTIFY-END -->
