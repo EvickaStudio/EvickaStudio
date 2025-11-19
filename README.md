@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730804a52670c5d67adafe95f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c4604290202855ab73b8044" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)**
-*by* **diamando, DeeLou**
-*Album:* Zigaretten
+**🎵 [Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)**
+*by* **Edwin Rosen**
+*Album:* Balancieren
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="195" height="4" fill="#1db954" rx="2"/>
-    <circle cx="195" cy="2" r="6" fill="#1db954"/>
+    <rect width="160" height="4" fill="#1db954" rx="2"/>
+    <circle cx="160" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:50 • 2:50
+    1:57 • 3:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by **Traumatin, whosroman** *(Helium)*
-🎤 **[Fremder Traum](https://open.spotify.com/track/17s3VTiBQQvA7OCyTHTJUD)** by **NILS KEPPEL** *(Fremder Traum)*
-🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
-🎤 **[Die Amsel im Regen im Garten](https://open.spotify.com/track/6a8BfivR77jcZp1IvC1i9H)** by **lauenburg** *(Die Amsel im Regen im Garten)*
-🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
+🎤 **[Stop](https://open.spotify.com/track/5bx9c0kjK87OFNF3GRab5C)** by **c4rl** *(Stop)*
+🎤 **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)*
+🎤 **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)*
+🎤 **[zu mir bin ich manchmal viel zu hart](https://open.spotify.com/track/0H7xjqUiBKtZF5svIDOnS5)** by **Keule, veil** *(ein blick in mein kopf)*
+🎤 **[Augen](https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ)** by **MC WINDHUND** *(Augen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-19 22:12:51Z UTC
+🕐 Last updated: 2025-11-19 22:32:39Z UTC
 <!-- SPOTIFY-END -->
