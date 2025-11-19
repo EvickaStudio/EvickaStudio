@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ba7fd787b9844f1b779cdc9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730c6985cafde0ad7f25e369ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)**
-*by* **luu**
-*Album:* #SCENEJESUS
+**🎵 [murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)**
+*by* **korpsebunny**
+*Album:* murderous
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
+    <rect width="177" height="4" fill="#1db954" rx="2"/>
+    <circle cx="177" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 1:35
+    1:24 • 2:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[gory gurl](https://open.spotify.com/track/6aF582ci6U9yyRchg648qf)** by **korpsebunny** *(gory gurl)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami, cxpyyy, luu** *(freitag nacht)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
+🎤 **[after u](https://open.spotify.com/track/1eUlCXga5930jXYBkl2mgE)** by **ilymeow, evasive** *(after u)*
+🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu, cxpyyy, luu** *(too late)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-19 17:12:57Z UTC
+🕐 Last updated: 2025-11-19 17:29:52Z UTC
 <!-- SPOTIFY-END -->
