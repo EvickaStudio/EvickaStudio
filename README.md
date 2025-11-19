@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733aed227447315c04fcd0ab8c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739aa01d76e67c40bca1318ffd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SCARY MONSTERZ](https://open.spotify.com/track/7LiQEh3HpHRBUuPFp2TAxE)**
-*by* **temcandoanything, 16:9 krollo ✥**
-*Album:* SCARY MONSTERZ
+**🎵 [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)**
+*by* **Leftovers**
+*Album:* Marmelade Und Himbeereis
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 3:16
+    0:37 • 3:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich hasse mich so sehr](https://open.spotify.com/track/5tUHLJicRg5GLxSCFNQlqi)** by **luu, Skatey Hellstar** *(HYPERCORE, Vol. 1)*
-🎤 **[percy dreams](https://open.spotify.com/track/33JEQ1TPcuPVJn81VBkHAp)** by **Iuvumi** *(percy dreams)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[league](https://open.spotify.com/track/30BSCCFcoGAWsO4Iex6j18)** by **agelast222, cdgplug** *(Last Bible)*
-🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu, cxpyyy, luu** *(1234)*
+🎤 **[eine liebe](https://open.spotify.com/track/72fV0RCHpxERuxcxCm38Ll)** by **ilyproxy** *(eine liebe)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
+🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
+🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
+🎤 **[SHOW ME!](https://open.spotify.com/track/5PqlB4k5ABMMq2lBLpovfR)** by **p6inkillr** *(SHOW ME!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-19 17:48:23Z UTC
+🕐 Last updated: 2025-11-19 18:19:11Z UTC
 <!-- SPOTIFY-END -->
