@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c6e7090a833c0cf93b90558" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4b73339656901955689f896" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)**
-*by* **n3vio, mehlhaltig**
-*Album:* n//
+**🎵 [WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)**
+*by* **Lix, Elujjin**
+*Album:* LLL x X
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="226" height="4" fill="#1db954" rx="2"/>
-    <circle cx="226" cy="2" r="6" fill="#1db954"/>
+    <rect width="130" height="4" fill="#1db954" rx="2"/>
+    <circle cx="130" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:16
+    0:57 • 2:11
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
-🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
-🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
-🎤 **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
+🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
+🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
 🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
+🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-19 11:37:58Z UTC
+🕐 Last updated: 2025-11-19 11:47:36Z UTC
 <!-- SPOTIFY-END -->
