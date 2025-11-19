@@ -91,25 +91,44 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736ba3687aec030cec6089ed2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Судно (Борис Рижий)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p)**
+*by* **Molchat Doma**
+*Album:* Этажи
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:21 • 2:21
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Morgen](https://open.spotify.com/track/7beFHpcc9fIWzzIuVxSCDb)** by **Pink Katana Archive** *(Briefe)*
+🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
 🎤 **[Immer](https://open.spotify.com/track/0cQ6WzGN37SWqkCe3UL03y)** by **c4rl** *(Immer)*
 🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
 🎤 **[Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
-🎤 **[oxy2cin](https://open.spotify.com/track/2OJp6Ptmj6YHm0TxEVBA4F)** by **MDW, MC WINDHUND** *(oxy2cin)*
-🎤 **[Fremder Traum](https://open.spotify.com/track/17s3VTiBQQvA7OCyTHTJUD)** by **NILS KEPPEL** *(Fremder Traum)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 
@@ -124,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-19 06:20:04Z UTC
+🕐 Last updated: 2025-11-19 06:48:51Z UTC
 <!-- SPOTIFY-END -->
