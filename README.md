@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736ba3687aec030cec6089ed2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Судно (Борис Рижий)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p)**
-*by* **Molchat Doma**
-*Album:* Этажи
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="172" height="4" fill="#1db954" rx="2"/>
-    <circle cx="172" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 2:21
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Morgen](https://open.spotify.com/track/7beFHpcc9fIWzzIuVxSCDb)** by **Pink Katana Archive** *(Briefe)*
+🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
 🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
-🎤 **[Immer](https://open.spotify.com/track/0cQ6WzGN37SWqkCe3UL03y)** by **c4rl** *(Immer)*
-🎤 **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)*
-🎤 **[Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
+🎤 **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-19 06:48:51Z UTC
+🕐 Last updated: 2025-11-19 07:13:28Z UTC
 <!-- SPOTIFY-END -->
