@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b01a6dffde8c2d562af8af2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b0f28b9e6484bfd943e71ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)**
-*by* **sparr00w**
-*Album:* 0201
+**🎵 [Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)**
+*by* **lauenburg**
+*Album:* Wenn du fällst, lass mich hier
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:47
+    1:54 • 3:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[oxy2cin](https://open.spotify.com/track/2OJp6Ptmj6YHm0TxEVBA4F)** by **MDW, MC WINDHUND** *(oxy2cin)*
+🎤 **[Fremder Traum](https://open.spotify.com/track/17s3VTiBQQvA7OCyTHTJUD)** by **NILS KEPPEL** *(Fremder Traum)*
+🎤 **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)*
+🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
 🎤 **[rein in mein zuhause](https://open.spotify.com/track/7d8p99FCBHewKahSBfHnlW)** by **pink luu, ystn** *(rein in mein zuhause)*
-🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
-🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
-🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
-🎤 **[Last Friday Night](https://open.spotify.com/track/5MKhSKaCJruH3oQpiMyIo0)** by **sign crushes motorist** *(i'll be okay)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-19 05:34:14Z UTC
+🕐 Last updated: 2025-11-19 05:48:39Z UTC
 <!-- SPOTIFY-END -->
