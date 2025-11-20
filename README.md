@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c72c35d8aacd65a241849928" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736604509e688966719b09447d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)**
-*by* **Tamino404**
-*Album:* mondlicht
+**🎵 [you're not alone](https://open.spotify.com/track/52NhgSLKTQot2a5mCVfdsa)**
+*by* **benzii**
+*Album:* you're not alone
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 2:53
+    2:13 • 3:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)** by **Tamino404** *(wenn ich nicht mehr will...☻)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)*
+🎤 **[Schlecht gelaunt](https://open.spotify.com/track/5f59nxBo05q9hqbvFf1T6O)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
+🎤 **[Vom Winter in den Sommer](https://open.spotify.com/track/4yGnpC41lfU2eRi5zoMkVx)** by **toobrokeforfiji, Gemini** *(Was is mit UNS los?)*
+🎤 **[Backstage](https://open.spotify.com/track/11pphDiQfUpUsPxzEdA6Y9)** by **Fanny, Sadi, Wings** *(Backstage)*
+🎤 **[direktwiedermüde](https://open.spotify.com/track/4ws4sJgZANDvOgnqa0otZe)** by **GERO** *(direktwiedermüde)*
+🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 21:12:32Z UTC
+🕐 Last updated: 2025-11-20 21:28:25Z UTC
 <!-- SPOTIFY-END -->
