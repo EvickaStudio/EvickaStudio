@@ -91,35 +91,16 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a259e1c00490f15b8eddfa27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [purextc](https://open.spotify.com/track/3Lv7M6z3QY4b9LbmHI1FSL)**
-*by* **Levi Ryan**
-*Album:* out of spite
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="175" height="4" fill="#1db954" rx="2"/>
-    <circle cx="175" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 2:51
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[purextc](https://open.spotify.com/track/3Lv7M6z3QY4b9LbmHI1FSL)** by **Levi Ryan** *(out of spite)*
 🎤 **[the devil he wrote this](https://open.spotify.com/track/2joDVHEZfG6mQoqjQA09vi)** by **Levi Ryan** *(the devil he wrote this)*
 🎤 **[mud](https://open.spotify.com/track/2V7e7Tv6FJoMhliKsRz3j2)** by **bleach.bath, Levi Ryan** *(numb.exe)*
 🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
 🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
 
 
@@ -143,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 10:38:04Z UTC
+🕐 Last updated: 2025-11-20 10:51:25Z UTC
 <!-- SPOTIFY-END -->
