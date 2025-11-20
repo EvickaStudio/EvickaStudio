@@ -124,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 13:49:38Z UTC
+🕐 Last updated: 2025-11-20 14:12:54Z UTC
 <!-- SPOTIFY-END -->
