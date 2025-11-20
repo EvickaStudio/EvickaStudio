@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736604509e688966719b09447d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27362a547dfe95c3ef8b07def3e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [you're not alone](https://open.spotify.com/track/52NhgSLKTQot2a5mCVfdsa)**
-*by* **benzii**
-*Album:* you're not alone
+**🎵 [Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)**
+*by* **nobis**
+*Album:* Zum Glück (Bist du nicht mehr da)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 3:28
+    2:51 • 3:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Alles gut](https://open.spotify.com/track/1ne1D2aSouP3XotVarAHmZ)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
+🎤 **[Feuer in der Diskothek](https://open.spotify.com/track/5giOSpUPw2QgSIR0WhsUlB)** by **MDW, nobis** *(Feuer in der Diskothek)*
+🎤 **[you're not alone](https://open.spotify.com/track/52NhgSLKTQot2a5mCVfdsa)** by **benzii** *(you're not alone)*
 🎤 **[Schlecht gelaunt](https://open.spotify.com/track/5f59nxBo05q9hqbvFf1T6O)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
 🎤 **[Vom Winter in den Sommer](https://open.spotify.com/track/4yGnpC41lfU2eRi5zoMkVx)** by **toobrokeforfiji, Gemini** *(Was is mit UNS los?)*
-🎤 **[Backstage](https://open.spotify.com/track/11pphDiQfUpUsPxzEdA6Y9)** by **Fanny, Sadi, Wings** *(Backstage)*
-🎤 **[direktwiedermüde](https://open.spotify.com/track/4ws4sJgZANDvOgnqa0otZe)** by **GERO** *(direktwiedermüde)*
-🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 21:28:25Z UTC
+🕐 Last updated: 2025-11-20 21:36:38Z UTC
 <!-- SPOTIFY-END -->
