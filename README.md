@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737c6e7090a833c0cf93b90558" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)**
+*by* **n3vio, mehlhaltig**
+*Album:* n//
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="215" height="4" fill="#1db954" rx="2"/>
+    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:38 • 2:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[purextc](https://open.spotify.com/track/3Lv7M6z3QY4b9LbmHI1FSL)** by **Levi Ryan** *(out of spite)*
-🎤 **[the devil he wrote this](https://open.spotify.com/track/2joDVHEZfG6mQoqjQA09vi)** by **Levi Ryan** *(the devil he wrote this)*
-🎤 **[mud](https://open.spotify.com/track/2V7e7Tv6FJoMhliKsRz3j2)** by **bleach.bath, Levi Ryan** *(numb.exe)*
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
+🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
+🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)*
+🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
+🎤 **[condolence letter](https://open.spotify.com/track/5GQqX9NEbbsMSmC95XJCC6)** by **Levi Ryan** *(soviet winter)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 15:13:38Z UTC
+🕐 Last updated: 2025-11-20 15:34:28Z UTC
 <!-- SPOTIFY-END -->
