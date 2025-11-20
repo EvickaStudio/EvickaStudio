@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27362a547dfe95c3ef8b07def3e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739defad6fcf46c222d0cc0e39" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)**
-*by* **nobis**
-*Album:* Zum Glück (Bist du nicht mehr da)
+**🎵 [CEO von mein Herz](https://open.spotify.com/track/70TtSv4qhiqo9XK7bAVAkY)**
+*by* **puls207, TROPFBUBEN, rizzlas ku$h**
+*Album:* CEO von mein Herz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="12" height="4" fill="#1db954" rx="2"/>
+    <circle cx="12" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:51 • 3:35
+    0:05 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Alles gut](https://open.spotify.com/track/1ne1D2aSouP3XotVarAHmZ)** by **lauenburg** *(Wenn du fällst, lass mich hier)*
-🎤 **[Feuer in der Diskothek](https://open.spotify.com/track/5giOSpUPw2QgSIR0WhsUlB)** by **MDW, nobis** *(Feuer in der Diskothek)*
-🎤 **[you're not alone](https://open.spotify.com/track/52NhgSLKTQot2a5mCVfdsa)** by **benzii** *(you're not alone)*
-🎤 **[Schlecht gelaunt](https://open.spotify.com/track/5f59nxBo05q9hqbvFf1T6O)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)*
-🎤 **[Vom Winter in den Sommer](https://open.spotify.com/track/4yGnpC41lfU2eRi5zoMkVx)** by **toobrokeforfiji, Gemini** *(Was is mit UNS los?)*
+🎤 **[NixOderAlles <3](https://open.spotify.com/track/7iQBAwkUNb3ofiw28H9drD)** by **cinnemane** *(NixOderAlles <3)*
+🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
+🎤 **[Angst](https://open.spotify.com/track/0WVu0Ts83ouxQrqZjSAoGt)** by **Leftovers** *(Krach)*
+🎤 **[Niemand hat uns gewarnt](https://open.spotify.com/track/6VRgC24rOm2ve1XsnDhfPL)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)** by **nobis** *(Zum Glück (Bist du nicht mehr da))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 21:36:38Z UTC
+🕐 Last updated: 2025-11-20 21:47:49Z UTC
 <!-- SPOTIFY-END -->
