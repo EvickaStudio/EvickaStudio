@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739defad6fcf46c222d0cc0e39" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CEO von mein Herz](https://open.spotify.com/track/70TtSv4qhiqo9XK7bAVAkY)**
-*by* **puls207, TROPFBUBEN, rizzlas ku$h**
-*Album:* CEO von mein Herz
+**🎵 [Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)**
+*by* **Leftovers**
+*Album:* ES KANN SEIN DASS ALLES ENDET
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:08
+    2:07 • 3:29
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[NixOderAlles <3](https://open.spotify.com/track/7iQBAwkUNb3ofiw28H9drD)** by **cinnemane** *(NixOderAlles <3)*
-🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
-🎤 **[Angst](https://open.spotify.com/track/0WVu0Ts83ouxQrqZjSAoGt)** by **Leftovers** *(Krach)*
-🎤 **[Niemand hat uns gewarnt](https://open.spotify.com/track/6VRgC24rOm2ve1XsnDhfPL)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[Zum Glück (Bist du nicht mehr da)](https://open.spotify.com/track/3vOG7RZkSVJCODzQFZiP02)** by **nobis** *(Zum Glück (Bist du nicht mehr da))*
+🎤 **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by **toobrokeforfiji** *(Was is mit UNS los?)*
+🎤 **[miuccia melody](https://open.spotify.com/track/3QnaAcPzYMcXJijDGRmp39)** by **lil london** *(miuccia melody)*
+🎤 **[Was Mal War](https://open.spotify.com/track/4phkoI4xECbI9rv6WqmsPr)** by **Fanny, No.Ri** *(Fanny EP)*
+🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
+🎤 **[Schau dass du nicht fällst](https://open.spotify.com/track/60qK7FiujHk7SNGjsa25MH)** by **kevin** *(7)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 21:47:49Z UTC
+🕐 Last updated: 2025-11-20 22:12:43Z UTC
 <!-- SPOTIFY-END -->
