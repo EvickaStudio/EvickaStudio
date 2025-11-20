@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f737beff339fb4f95596498e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)**
-*by* **Leftovers**
-*Album:* ES KANN SEIN DASS ALLES ENDET
+**🎵 [Zaza aufgehört](https://open.spotify.com/track/78zHIThyvcCKdyubG7Cdi3)**
+*by* **Baron**
+*Album:* Zaza aufgehört
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 3:29
+    1:44 • 2:16
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Denken vs. Fühlen](https://open.spotify.com/track/3h2edVnGfF7yXln9eGzJdB)** by **toobrokeforfiji** *(Was is mit UNS los?)*
-🎤 **[miuccia melody](https://open.spotify.com/track/3QnaAcPzYMcXJijDGRmp39)** by **lil london** *(miuccia melody)*
-🎤 **[Was Mal War](https://open.spotify.com/track/4phkoI4xECbI9rv6WqmsPr)** by **Fanny, No.Ri** *(Fanny EP)*
-🎤 **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)*
-🎤 **[Schau dass du nicht fällst](https://open.spotify.com/track/60qK7FiujHk7SNGjsa25MH)** by **kevin** *(7)*
+🎤 **[WOLKE](https://open.spotify.com/track/2kYEpK3d07h2pMoqo8HP72)** by **Leftovers** *(WOLKE)*
+🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
+🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
+🎤 **[augen zu](https://open.spotify.com/track/0gsH5GEgcRarnmAgYEu8uY)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[PROMISE](https://open.spotify.com/track/2SWaeIJ3mi3Xnszp3gWnCT)** by **mikeycyrus** *(PROMISE)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 22:12:43Z UTC
+🕐 Last updated: 2025-11-20 22:30:20Z UTC
 <!-- SPOTIFY-END -->
