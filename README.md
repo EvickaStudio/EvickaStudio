@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f737beff339fb4f95596498e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Zaza aufgehört](https://open.spotify.com/track/78zHIThyvcCKdyubG7Cdi3)**
-*by* **Baron**
-*Album:* Zaza aufgehört
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:16
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[WOLKE](https://open.spotify.com/track/2kYEpK3d07h2pMoqo8HP72)** by **Leftovers** *(WOLKE)*
-🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
-🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
-🎤 **[augen zu](https://open.spotify.com/track/0gsH5GEgcRarnmAgYEu8uY)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[PROMISE](https://open.spotify.com/track/2SWaeIJ3mi3Xnszp3gWnCT)** by **mikeycyrus** *(PROMISE)*
+🎤 **[Blumen](https://open.spotify.com/track/5hwR1BohUBNLViFAUoElMs)** by **Leftovers** *(Krach)*
+🎤 **[zusamm mit dir](https://open.spotify.com/track/1eYs156q5r5WRrbNKZKSYg)** by **Keule** *(zusamm mit dir)*
+🎤 **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)*
+🎤 **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)*
+🎤 **[BAHN FAHREN](https://open.spotify.com/track/3dxFjpyWBR2i06gpMrhrhI)** by **toobrokeforfiji** *(Was is mit UNS los?)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-20 22:30:20Z UTC
+🕐 Last updated: 2025-11-20 22:47:49Z UTC
 <!-- SPOTIFY-END -->
