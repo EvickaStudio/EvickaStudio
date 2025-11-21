@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[intransient](https://open.spotify.com/track/0PpU9NiuCmIuefekCExOdZ)** by **5v** *(cut)*
 🎤 **[deep web](https://open.spotify.com/track/7ycRPuV0jjvkHA27M773w4)** by **luutwo, 4rde, luu** *(deep web)*
 🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
 🎤 **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)*
 🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
-🎤 **[PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(PLANET)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-21 16:53:20Z UTC
+🕐 Last updated: 2025-11-21 17:11:18Z UTC
 <!-- SPOTIFY-END -->
