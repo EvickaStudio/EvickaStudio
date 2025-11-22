@@ -120,9 +120,9 @@
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 🥈 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 🥉 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
+🏅 [**0201**](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
-🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-22 15:11:29Z UTC
+🕐 Last updated: 2025-11-22 15:28:08Z UTC
 <!-- SPOTIFY-END -->
