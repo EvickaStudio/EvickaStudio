@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by **uusymon** *(Stardust)*
 🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
 🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
 🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
 🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-22 18:17:11Z UTC
+🕐 Last updated: 2025-11-22 18:44:19Z UTC
 <!-- SPOTIFY-END -->
