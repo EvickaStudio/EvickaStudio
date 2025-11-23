@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730894733c00d108333c26d7ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [für für immer](https://open.spotify.com/track/7w7oN0OCYygKuBWGQQXaOk)**
-*by* **DANZINGER 99, æmilia**
-*Album:* aber immer noch besser als in dieser welt in der ich wach bin
+**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
+*by* **mint**
+*Album:* gold
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="260" height="4" fill="#1db954" rx="2"/>
+    <circle cx="260" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 1:48
+    3:20 • 3:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
-🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
-🎤 **[Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)** by **Geo22** *(Wizardry)*
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
+🎤 **[Legends](https://open.spotify.com/track/1Knctxx9vGZxpZfF66BIEa)** by **Juice WRLD** *(Legends)*
+🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
+🎤 **[guardianAngels](https://open.spotify.com/track/2JxBABZ8loPD6559kkH5kR)** by **3versince** *(guardianAngels)*
+🎤 **[für für immer](https://open.spotify.com/track/7w7oN0OCYygKuBWGQQXaOk)** by **DANZINGER 99, æmilia** *(aber immer noch besser als in dieser welt in der ich wach bin)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-23 19:09:45Z UTC
+🕐 Last updated: 2025-11-23 19:24:19Z UTC
 <!-- SPOTIFY-END -->
