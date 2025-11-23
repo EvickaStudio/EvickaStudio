@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)*
+🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
+🎤 **[C ma shit pt. 2](https://open.spotify.com/track/1iJRSsTH0ZHRihrkZ8Mvkc)** by **Realo, Simala, abel31, Recklessboise** *(C ma shit pt. 2)*
 🎤 **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)*
-🎤 **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
-🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
-🎤 **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)*
-🎤 **[danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl)** by **my dead girlfriend** *(hades (the nine stages of change at the deceased remains))*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-23 12:21:51Z UTC
+🕐 Last updated: 2025-11-23 12:57:13Z UTC
 <!-- SPOTIFY-END -->
