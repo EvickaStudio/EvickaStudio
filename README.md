@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732b46ebf547a745096109d8fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)**
-*by* **ilyproxy, Aachen Demon**
-*Album:* großstadt lifestyle
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:30
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
-🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[balotelli](https://open.spotify.com/track/6h5U2nQoykydMC8VZhkSyc)** by **puls207, TROPFBUBEN** *(balotelli)*
+🎤 **[Судно (Борис Рыжий)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO)** by **Molchat Doma** *(Этажи)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-23 13:47:39Z UTC
+🕐 Last updated: 2025-11-23 14:10:50Z UTC
 <!-- SPOTIFY-END -->
