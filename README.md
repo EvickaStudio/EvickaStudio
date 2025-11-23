@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f1ce2fb546f0b71e5efa6592" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369b5804bdc37f1bc55ac8cd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)**
-*by* **Dignified Burial, æmilia**
-*Album:* they should have found me by now
+**🎵 [nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)**
+*by* **i9bonsai**
+*Album:* nthn
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 3:10
+    0:25 • 1:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[LIGHTS OFF](https://open.spotify.com/track/20lhNppZrQq2Nz6S3nJiiT)** by **Bandiicam** *(LIGHTS OFF)*
+🎤 **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)*
 🎤 **[Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)** by **Central Sonic** *(Club Scenes - Psytrance)*
 🎤 **[Ich romantisiere Drogen](https://open.spotify.com/track/5f53Pdy4937QSXB3h5HJIA)** by **Punk Christ, Love Pact** *(NERVENKONSTRUKT)*
-🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
-🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
-🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-23 17:38:41Z UTC
+🕐 Last updated: 2025-11-23 17:47:36Z UTC
 <!-- SPOTIFY-END -->
