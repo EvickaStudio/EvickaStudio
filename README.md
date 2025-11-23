@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310843ceb1e261c2acfbecc23" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a8bd395f286c7bf700d1232e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)**
-*by* **sighsare**
-*Album:* NOTHIN TO SHOW
+**🎵 [c0ldLA/h0pelessPlace](https://open.spotify.com/track/6m04rkFdYrE2YZTHdLFizP)**
+*by* **TYM**
+*Album:* c0ldLA/h0pelessPlace
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="226" height="4" fill="#1db954" rx="2"/>
+    <circle cx="226" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:35
+    4:43 • 6:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
-🎤 **[Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)** by **Ellie Mic** *(Asche im Auge)*
-🎤 **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)*
-🎤 **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)*
-🎤 **[JUMPSTYLE AUF MEIN HERZ](https://open.spotify.com/track/1PYScnkcn4xui0Gty97nFZ)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)*
+🎤 **[Taub](https://open.spotify.com/track/35YEb10VcwXhAoudC4nYvN)** by **Pink Katana, TYM** *(Taub)*
+🎤 **[du_spürst+nur-<3.durch-pillen+++](https://open.spotify.com/track/7buy6nBCpSDTWOYq4eVnDs)** by **DANZINGER 99** *(du_spürst+nur-<3.durch-pillen+++)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-23 16:50:46Z UTC
+🕐 Last updated: 2025-11-23 17:10:48Z UTC
 <!-- SPOTIFY-END -->
