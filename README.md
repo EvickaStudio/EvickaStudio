@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273779eb1582923c0e421ee2c26" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27330ea56ae0681539f253c7e91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FALL FROM THE SKY - Sped up](https://open.spotify.com/track/2xKcZilUlZgM6jjt2SwTkA)**
-*by* **RomancePlanet**
-*Album:* FALL FROM THE SKY
+**🎵 [break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)**
+*by* **oaf1, Lain**
+*Album:* break me down
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="23" height="4" fill="#1db954" rx="2"/>
-    <circle cx="23" cy="2" r="6" fill="#1db954"/>
+    <rect width="41" height="4" fill="#1db954" rx="2"/>
+    <circle cx="41" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:24
+    0:22 • 2:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Schwebebahn](https://open.spotify.com/track/7sMFTDZMZjLGjrowjxwTY5)** by **Brown-Eyes White Boy** *(Schwebebahn)*
-🎤 **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)*
-🎤 **[club+biz4rr3](https://open.spotify.com/track/6fX36zMIsn8kAQFEBQIQWq)** by **echia** *(club+biz4rr3)*
-🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
+🎤 **[I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA)** by **Kanye West** *(Graduation)*
+🎤 **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))*
+🎤 **[Cynthoni Of Flames](https://open.spotify.com/track/0dUUliAEzw1EhwE7dbDPk1)** by **Cynthoni, Sewerslvt** *(Cynthoni Of Flames)*
+🎤 **[Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO)** by **Tevvez** *(Phantom)*
+🎤 **[Hold Me Close](https://open.spotify.com/track/0XjWu0ld7kthYqgTqAmUjF)** by **Carter Tomorrow** *(Hold Me Close)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-23 18:17:28Z UTC
+🕐 Last updated: 2025-11-23 18:44:51Z UTC
 <!-- SPOTIFY-END -->
