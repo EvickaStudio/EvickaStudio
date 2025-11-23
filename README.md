@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c614421aca6f616ceea60ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Prio](https://open.spotify.com/track/2Y4NLmk9YkoarzqN30apuc)**
-*by* **makko**
-*Album:* Prio
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 2:54
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)*
+🎤 **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
+🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
 🎤 **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)*
 🎤 **[danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl)** by **my dead girlfriend** *(hades (the nine stages of change at the deceased remains))*
-🎤 **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[Auszeit](https://open.spotify.com/track/7u13sauQpwexStVJrEeOx5)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**keep yourself safe**](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)
 
 
-🕐 Last updated: 2025-11-23 10:12:38Z UTC
+🕐 Last updated: 2025-11-23 10:33:03Z UTC
 <!-- SPOTIFY-END -->
