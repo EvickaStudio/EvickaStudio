@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Discounterherz](https://open.spotify.com/track/5u35caoAeK6QsJ52HwaJbz)** by **Streichelt** *(Discounterherz)*
 🎤 **[Судно (Борис Рыжий)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO)** by **Molchat Doma** *(Этажи)*
 🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
 🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
 🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-23 14:10:50Z UTC
+🕐 Last updated: 2025-11-23 14:29:12Z UTC
 <!-- SPOTIFY-END -->
