@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ad23cad3ef037b00c1d2a20" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5a7cac5f838dcd77512037d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Irresistible](https://open.spotify.com/track/3EAUSlUzVTLhxLn8Fhpz5V)**
-*by* **Deafheaven**
-*Album:* Sunbather
+**🎵 [tremolo+delay](https://open.spotify.com/track/4FMJnfuIHkiRMGuf4HcipI)**
+*by* **toe**
+*Album:* the book about my idle plot on a vague anxiety
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 3:13
+    0:45 • 3:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)*
-🎤 **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)*
-🎤 **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)*
-🎤 **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)*
-🎤 **[Rotkäppchen](https://open.spotify.com/track/4PfxmvtmYalTxBoxrFUA2G)** by **Florida Juicy, Longus Mongus, verifiziert** *(Rotkäppchen)*
+🎤 **[owari no kisetsu](https://open.spotify.com/track/0MpYcFOQXnjkQF4hRKpetC)** by **Rei Harakami** *([lust])*
+🎤 **[メトロ](https://open.spotify.com/track/53OCr7z2x9CojT6OYukh52)** by **Advantage Lucy** *(ファンファーレ)*
+🎤 **[Counting Stars](https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif)** by **Nujabes** *(2nd Collection)*
+🎤 **[POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn)** by **Fishmans** *(宇宙 日本 世田谷)*
+🎤 **[#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz)** by **Aphex Twin** *(Selected Ambient Works Volume II)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 05:51:13Z UTC
+🕐 Last updated: 2025-11-24 06:21:13Z UTC
 <!-- SPOTIFY-END -->
