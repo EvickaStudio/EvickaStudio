@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)**
+*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
+*Album:* Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    4:02 • 6:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[wdw](https://open.spotify.com/track/7zUh5NJYQWhJgyZZRnJS0N)** by **5star, Tr1esch** *(wdw)*
-🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
-🎤 **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)*
-🎤 **[ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/1wSQx1RKbYbhvtvye0wGVW)** by **DANZINGER 99** *(ich+will-für_immer_betäubt★彡sein+++)*
-🎤 **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)*
+🎤 **[Pushe Packs](https://open.spotify.com/track/54f2IdWSfeTb1LxmpvVb0K)** by **Kev Koko, Bauernfeind, Pashanim** *(Pushe Packs)*
+🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
+🎤 **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))*
+🎤 **[☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(☾⋆⁺₊✧)*
+🎤 **[Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)** by **Declan McKenna** *(What Do You Think About the Car?)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 12:26:55Z UTC
+🕐 Last updated: 2025-11-24 13:08:00Z UTC
 <!-- SPOTIFY-END -->
