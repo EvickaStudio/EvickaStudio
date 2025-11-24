@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393956d476579d2d54c028c36" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300286f2f796356fda971b872" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)**
-*by* **kevin**
-*Album:* Endstation
+**🎵 [IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)**
+*by* **WHIPPED CREAM, Ravenna Golden**
+*Album:* WHO IS WHIPPED CREAM?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+    <rect width="69" height="4" fill="#1db954" rx="2"/>
+    <circle cx="69" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:49
+    0:33 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[n//](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)** by **n3vio, mehlhaltig** *(n//)*
-🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
-🎤 **[Dieser kleine Junge](https://open.spotify.com/track/2cRdj9vZCVNFFOoX4Wwhpd)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by **Novulent** *(unknown feelings)*
-🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
+🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
+🎤 **[Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os)** by **Duster** *(Stratosphere)*
+🎤 **[DARK KNIGHT.](https://open.spotify.com/track/2LYBfxdVY0lg5lMUCfKFqF)** by **Scarlxrd** *(SCARHXURS)*
+🎤 **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)*
+🎤 **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 16:36:51Z UTC
+🕐 Last updated: 2025-11-24 16:52:41Z UTC
 <!-- SPOTIFY-END -->
