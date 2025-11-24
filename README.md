@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f0848eae2594bbab3c3d4363" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DAYDREAM](https://open.spotify.com/track/2BVeeIDSD2dCnkNMhGDYK4)**
+**🎵 [ナイトクルージング](https://open.spotify.com/track/36Thm3dOVuCR4SFyzwJioN)**
 *by* **Fishmans**
-*Album:* 宇宙 日本 世田谷
+*Album:* 空中キャンプ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:22 • 8:39
+    4:32 • 6:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[また明日](https://open.spotify.com/track/2QPhw4NOFEfP5qp9RVa3u2)** by **OGRE YOU ASSHOLE** *(OGRE YOU ASSHOLE)*
-🎤 **[ブリーズ](https://open.spotify.com/track/2llFlNkPX4hW1M3HLdEMBm)** by **稲垣次郎とソウル・メディア** *(ファンキー・スタッフ)*
-🎤 **[Breakbeats](https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83)** by **Pasteboard** *(Glitter)*
-🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[BABY BLUE](https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF)** by **Fishmans** *(空中キャンプ)*
+🎤 **[最後の楽園](https://open.spotify.com/track/3Q59MwvTzZveZTNunIQY1x)** by **Haruomi Hosono** *(PACIFIC)*
+🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
+🎤 **[Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[two moons](https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG)** by **toe** *(For Long Tomorrow)*
+🎤 **[DAYDREAM](https://open.spotify.com/track/2BVeeIDSD2dCnkNMhGDYK4)** by **Fishmans** *(宇宙 日本 世田谷)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 06:50:10Z UTC
+🕐 Last updated: 2025-11-24 07:13:43Z UTC
 <!-- SPOTIFY-END -->
