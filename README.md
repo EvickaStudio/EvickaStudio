@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e9fd02e97a157b435f106dd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)**
+*by* **Konomi Suzuki**
+*Album:* LIFE of DASH
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:26 • 4:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
 🎤 **[Be Yourself Or Die Dreaming](https://open.spotify.com/track/38Ag3lftAiZfCxe5W7Psnp)** by **Nouvelle Story** *(Be Yourself Or Die Dreaming)*
 🎤 **[Katawaredoki](https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK)** by **RADWIMPS** *(Your Name.)*
 🎤 **[Redo](https://open.spotify.com/track/0WjYHf18yTqGEQjLRHLNWp)** by **Konomi Suzuki** *(lead)*
 🎤 **[unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk)** by **LiSA** *(LEO-NiNE)*
-🎤 **[Lovesick](https://open.spotify.com/track/3ARnfNFPZ9DYviuqC9TK3M)** by **Moe Shop, maisou** *(Moe Moe)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 20:15:02Z UTC
+🕐 Last updated: 2025-11-24 20:33:55Z UTC
 <!-- SPOTIFY-END -->
