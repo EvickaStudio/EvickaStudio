@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)**
+*by* **Fishmans**
+*Album:* LONG SEASON
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:30 • 35:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
 🎤 **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)*
+🎤 **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)*
 🎤 **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)*
 🎤 **[Rotkäppchen](https://open.spotify.com/track/4PfxmvtmYalTxBoxrFUA2G)** by **Florida Juicy, Longus Mongus, verifiziert** *(Rotkäppchen)*
 🎤 **[wanna go back](https://open.spotify.com/track/6FRX0d3fzz70Cgu0Btsm4f)** by **alleycat** *(wanna go back)*
-🎤 **[Eclipse](https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk)** by **Pink Floyd** *(The Dark Side of the Moon)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 04:57:25Z UTC
+🕐 Last updated: 2025-11-24 05:19:07Z UTC
 <!-- SPOTIFY-END -->
