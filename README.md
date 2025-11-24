@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc16d1eefe86b079c8805f8f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27359a6022f671f929b9979011d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)**
-*by* **RADWIMPS, Toaka**
-*Album:* Suzume (Motion Picture Soundtrack)
+**🎵 [No More What Ifs](https://open.spotify.com/track/2SQ9RmQAOxGICUSt9T5dIX)**
+*by* **Lyn**
+*Album:* Persona 5 Royal: Original Soundtrack
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 3:58
+    3:00 • 4:00
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Blood Drain -Again- (Eltnum Theme) - UNI2 Mix](https://open.spotify.com/track/6j5h3IbH4GtKN1XAACwy9G)** by **来兎** *(UNDER NIGHT IN-BIRTH II Sys:Celes (Original Soundtrack))*
+🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
 🎤 **[Blow out](https://open.spotify.com/track/3MCvjM3fRBxL1e4KHgSH10)** by **Konomi Suzuki** *(LIFE of DASH)*
 🎤 **[だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp)** by **LiSA** *(だってアタシのヒーロー。)*
 🎤 **[ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)** by **美波** *(カワキヲアメク)*
-🎤 **[Beneath the Mask - instrumental version](https://open.spotify.com/track/2Il4l22OHAP17Xvts61GHq)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)** by **cinnamons, evening cinema** *(summertime)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 19:24:23Z UTC
+🕐 Last updated: 2025-11-24 19:34:25Z UTC
 <!-- SPOTIFY-END -->
