@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730359e1e7a35282b49deffce0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
-*by* **Led Zeppelin**
-*Album:* Led Zeppelin IV (Deluxe Edition)
+**🎵 [Nadja #](https://open.spotify.com/track/045Bd57lOfRrfqgrKpxI1k)**
+*by* **sparr00w**
+*Album:* Nadja
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:03 • 8:02
+    0:24 • 1:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by **Led Zeppelin** *(Led Zeppelin IV (Deluxe Edition))*
 🎤 **[Goth (Slowed + Reverb)](https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz)** by **Sidewalks and Skeletons** *(Goth (Slowed + Reverb))*
 🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
 🎤 **[hold up](https://open.spotify.com/track/579PAYUpxvtf6PLK73Mplo)** by **Dropped here** *(hold up)*
 🎤 **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)*
-🎤 **[MIKICHAN](https://open.spotify.com/track/4FuWpGn9RWpofmZek5xV5Z)** by **Gutterboysouz** *(MIKICHAN)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 23:40:24Z UTC
+🕐 Last updated: 2025-11-24 23:47:50Z UTC
 <!-- SPOTIFY-END -->
