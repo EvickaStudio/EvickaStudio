@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:30 • 35:16
+    26:07 • 35:16
 </span>
 </p>
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 05:19:07Z UTC
+🕐 Last updated: 2025-11-24 05:41:44Z UTC
 <!-- SPOTIFY-END -->
