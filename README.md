@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe41211bd39726c842dc83a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736aeac5611c570e41c3906e33" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* Poser
+**🎵 [krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)**
+*by* **blombi19**
+*Album:* krank
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 1:59
+    1:31 • 2:59
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)*
-🎤 **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)*
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)*
+🎤 **[Duel of the Fates](https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw)** by **John Williams, London Symphony Orchestra** *(Star Wars: The Phantom Menace (Original Motion Picture Soundtrack))*
+🎤 **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)*
+🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
+🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
+🎤 **[titles](https://open.spotify.com/track/7rE2cZw1gJxKfGqOHA9PXs)** by **twikipedia, funeral** *(titles)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 17:13:00Z UTC
+🕐 Last updated: 2025-11-24 17:33:17Z UTC
 <!-- SPOTIFY-END -->
