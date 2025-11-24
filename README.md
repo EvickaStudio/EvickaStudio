@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[DieWithMe](https://open.spotify.com/track/25pGY4lgnAwPicc2hqwMvN)** by **SALEM** *(Fires In Heaven)*
 🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
 🎤 **[Omnipräsent](https://open.spotify.com/track/6ueEw27MgqwSwN5rFbhDdy)** by **Longus Mongus, BHZ** *(Endlich Wieder Sommer)*
 🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
 🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 08:48:36Z UTC
+🕐 Last updated: 2025-11-24 09:17:10Z UTC
 <!-- SPOTIFY-END -->
