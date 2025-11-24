@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736aeac5611c570e41c3906e33" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)**
-*by* **blombi19**
-*Album:* krank
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 2:59
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Duel of the Fates](https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw)** by **John Williams, London Symphony Orchestra** *(Star Wars: The Phantom Menace (Original Motion Picture Soundtrack))*
-🎤 **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)*
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
-🎤 **[titles](https://open.spotify.com/track/7rE2cZw1gJxKfGqOHA9PXs)** by **twikipedia, funeral** *(titles)*
+🎤 **[I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)** by **Mike Posner, Seeb** *(At Night, Alone.)*
+🎤 **[AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)** by **Chapo102, 102 Boyz, Stacks102** *(MISCHKONSUM EP)*
+🎤 **[Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E)** by **Nena** *(Nena)*
+🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
+🎤 **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 17:33:17Z UTC
+🕐 Last updated: 2025-11-24 17:49:39Z UTC
 <!-- SPOTIFY-END -->
