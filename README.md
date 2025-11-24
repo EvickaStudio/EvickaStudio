@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)**
-*by* **Ecco2k, Bladee, Thaiboy Digital**
-*Album:* Trash Island
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:37
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
-🎤 **[Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N)** by **GROUPLOVE** *(Never Trust a Happy Song)*
-🎤 **[DING DONG (feat. Mietze Conte)](https://open.spotify.com/track/3O79HkGiN07QB7kJ3gdCgi)** by **Yung Hurn, Mietze Conte** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv)** by **Xxtarlit⚸** *(A Thousand Things I Could Tell You)*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
+🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[Omnipräsent](https://open.spotify.com/track/6ueEw27MgqwSwN5rFbhDdy)** by **Longus Mongus, BHZ** *(Endlich Wieder Sommer)*
+🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 08:19:40Z UTC
+🕐 Last updated: 2025-11-24 08:48:36Z UTC
 <!-- SPOTIFY-END -->
