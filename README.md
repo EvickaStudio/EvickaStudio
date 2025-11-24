@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc16d1eefe86b079c8805f8f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b3704cb907f6638aeed16abf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tamaki](https://open.spotify.com/track/1EywXLi9gbYeWA6JXjUh7W)**
-*by* **RADWIMPS**
-*Album:* Suzume (Motion Picture Soundtrack)
+**🎵 [Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)**
+*by* **A Flock Of Seagulls**
+*Album:* We Are The '80s
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="98" height="4" fill="#1db954" rx="2"/>
+    <circle cx="98" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 4:55
+    1:14 • 3:46
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
+🎤 **[シルシ](https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k)** by **LiSA** *(Launcher)*
+🎤 **[Tamaki](https://open.spotify.com/track/1EywXLi9gbYeWA6JXjUh7W)** by **RADWIMPS** *(Suzume (Motion Picture Soundtrack))*
 🎤 **[Love Taste](https://open.spotify.com/track/7IlcN3RyY67UAVW1wrfbr8)** by **Moe Shop, Jamie Paige, Shiki-TMNS** *(Love Taste)*
 🎤 **[Invitation to Freedom](https://open.spotify.com/track/4jnFVqy2gwt8aZEa7wXtpV)** by **Lyn** *(ペルソナQ2 ニュー シネマ ラビリンス オリジナル・サウンドトラック)*
-🎤 **[main actor](https://open.spotify.com/track/3NNLPqn14eWuAulJxo4eZH)** by **美波** *(カワキヲアメク)*
-🎤 **[夢の続き](https://open.spotify.com/track/6gUOp39iGFDpamxrM53Rpr)** by **Konomi Suzuki** *(17)*
-🎤 **[Nandemonaiya - movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6)** by **RADWIMPS** *(Your Name.)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 22:32:46Z UTC
+🕐 Last updated: 2025-11-24 22:48:03Z UTC
 <!-- SPOTIFY-END -->
