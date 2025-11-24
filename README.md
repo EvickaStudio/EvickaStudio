@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f0848eae2594bbab3c3d4363" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MAGIC LOVE](https://open.spotify.com/track/7BpqssfH7oRRyZyki2QPWJ)**
-*by* **Fishmans**
-*Album:* 宇宙 日本 世田谷
+**🎵 [You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)**
+*by* **Ecco2k, Bladee, Thaiboy Digital**
+*Album:* Trash Island
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:58 • 4:58
+    2:31 • 2:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[メトロノーム](https://open.spotify.com/track/3hprYt6kZnlZgaEk0XbM5e)** by **toe** *(the book about my idle plot on a vague anxiety)*
-🎤 **[Way Star](https://open.spotify.com/track/67OvIrbWNP8bK7e5EUivw1)** by **Rubba, De Wolfe Music** *(In Motion)*
-🎤 **[Paper Machine](https://open.spotify.com/track/259op6g3A12uwePehZntdk)** by **藤丸バンド, 芳野藤丸** *(BGM)*
-🎤 **[MAGIC LOVE](https://open.spotify.com/track/7BpqssfH7oRRyZyki2QPWJ)** by **Fishmans** *(宇宙 日本 世田谷)*
-🎤 **[Always Returning - Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne)** by **Brian Eno** *(Apollo)*
+🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
+🎤 **[Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N)** by **GROUPLOVE** *(Never Trust a Happy Song)*
+🎤 **[DING DONG (feat. Mietze Conte)](https://open.spotify.com/track/3O79HkGiN07QB7kJ3gdCgi)** by **Yung Hurn, Mietze Conte** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Fleeting Frozen Heart](https://open.spotify.com/track/0GQkIfqneFqLAQRlmJtuBv)** by **Xxtarlit⚸** *(A Thousand Things I Could Tell You)*
+🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 07:47:52Z UTC
+🕐 Last updated: 2025-11-24 08:19:40Z UTC
 <!-- SPOTIFY-END -->
