@@ -92,12 +92,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f0848eae2594bbab3c3d4363" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sea of cloud](https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo)**
-*by* **Nujabes**
-*Album:* Modal Soul
+**🎵 [MAGIC LOVE](https://open.spotify.com/track/7BpqssfH7oRRyZyki2QPWJ)**
+*by* **Fishmans**
+*Album:* 宇宙 日本 世田谷
 
 
 <p align="center">
@@ -108,7 +108,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:01
+    4:58 • 4:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[メトロノーム](https://open.spotify.com/track/3hprYt6kZnlZgaEk0XbM5e)** by **toe** *(the book about my idle plot on a vague anxiety)*
+🎤 **[Way Star](https://open.spotify.com/track/67OvIrbWNP8bK7e5EUivw1)** by **Rubba, De Wolfe Music** *(In Motion)*
+🎤 **[Paper Machine](https://open.spotify.com/track/259op6g3A12uwePehZntdk)** by **藤丸バンド, 芳野藤丸** *(BGM)*
+🎤 **[MAGIC LOVE](https://open.spotify.com/track/7BpqssfH7oRRyZyki2QPWJ)** by **Fishmans** *(宇宙 日本 世田谷)*
 🎤 **[Always Returning - Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne)** by **Brian Eno** *(Apollo)*
-🎤 **[IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP)** by **Floating Points** *(Crush)*
-🎤 **[sea of cloud](https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo)** by **Nujabes** *(Modal Soul)*
-🎤 **[ナイトクルージング](https://open.spotify.com/track/36Thm3dOVuCR4SFyzwJioN)** by **Fishmans** *(空中キャンプ)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 07:30:59Z UTC
+🕐 Last updated: 2025-11-24 07:47:52Z UTC
 <!-- SPOTIFY-END -->
