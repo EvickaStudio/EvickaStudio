@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU)**
+*by* **DJ Snake, Justin Bieber**
+*Album:* Encore
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:06 • 3:25
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Lost](https://open.spotify.com/track/0ytmxOjS0L12GlEdGQJo37)** by **RONEN** *(Hidden)*
+🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Lose Control](https://open.spotify.com/track/0zpaRHLWPPeNDGTzRujz3p)** by **Crystal Statues, Crescent, resiiii** *(Lose Control)*
 🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
-🎤 **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
-🎤 **[Pushe Packs](https://open.spotify.com/track/54f2IdWSfeTb1LxmpvVb0K)** by **Kev Koko, Bauernfeind, Pashanim** *(Pushe Packs)*
-🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
-🎤 **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 14:43:06Z UTC
+🕐 Last updated: 2025-11-24 14:53:44Z UTC
 <!-- SPOTIFY-END -->
