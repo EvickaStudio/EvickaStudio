@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ナイトクルージング](https://open.spotify.com/track/36Thm3dOVuCR4SFyzwJioN)**
-*by* **Fishmans**
-*Album:* 空中キャンプ
+**🎵 [sea of cloud](https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo)**
+*by* **Nujabes**
+*Album:* Modal Soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:32 • 6:01
+    3:01 • 3:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[最後の楽園](https://open.spotify.com/track/3Q59MwvTzZveZTNunIQY1x)** by **Haruomi Hosono** *(PACIFIC)*
-🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
-🎤 **[Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[two moons](https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG)** by **toe** *(For Long Tomorrow)*
-🎤 **[DAYDREAM](https://open.spotify.com/track/2BVeeIDSD2dCnkNMhGDYK4)** by **Fishmans** *(宇宙 日本 世田谷)*
+🎤 **[Always Returning - Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne)** by **Brian Eno** *(Apollo)*
+🎤 **[IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq)** by **Aphex Twin** *(Come To Daddy)*
+🎤 **[Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP)** by **Floating Points** *(Crush)*
+🎤 **[sea of cloud](https://open.spotify.com/track/4rAcMik7N6LlIs61u5bzYo)** by **Nujabes** *(Modal Soul)*
+🎤 **[ナイトクルージング](https://open.spotify.com/track/36Thm3dOVuCR4SFyzwJioN)** by **Fishmans** *(空中キャンプ)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 07:13:43Z UTC
+🕐 Last updated: 2025-11-24 07:30:59Z UTC
 <!-- SPOTIFY-END -->
