@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
+🎤 **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))*
 🎤 **[Pushe Packs](https://open.spotify.com/track/54f2IdWSfeTb1LxmpvVb0K)** by **Kev Koko, Bauernfeind, Pashanim** *(Pushe Packs)*
 🎤 **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)*
 🎤 **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))*
-🎤 **[☾⋆⁺₊✧](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(☾⋆⁺₊✧)*
-🎤 **[Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)** by **Declan McKenna** *(What Do You Think About the Car?)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 14:16:12Z UTC
+🕐 Last updated: 2025-11-24 14:43:06Z UTC
 <!-- SPOTIFY-END -->
