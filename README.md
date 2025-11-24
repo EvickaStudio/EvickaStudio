@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273683aa2b8fc370b5ae3adb27f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739168173ffd9845a1192362bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [about u](https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4)**
-*by* **Lil Peep**
-*Album:* about u
+**🎵 [Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)**
+*by* **sparr00w, bleac**
+*Album:* 00
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 3:14
+    1:01 • 2:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
-🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
-🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
-🎤 **[Klettverschluss](https://open.spotify.com/track/5DK4lNGkh4fKxiKAkXRIj0)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[My Tears Are Becoming a Sea](https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f)** by **M83** *(Hurry up, We're Dreaming)*
+🎤 **[hold up](https://open.spotify.com/track/579PAYUpxvtf6PLK73Mplo)** by **Dropped here** *(hold up)*
+🎤 **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[MIKICHAN](https://open.spotify.com/track/4FuWpGn9RWpofmZek5xV5Z)** by **Gutterboysouz** *(MIKICHAN)*
+🎤 **[I called and left a message](https://open.spotify.com/track/5myoBOTaycNR7S3FZY0ft0)** by **Agatha is Dead!** *(Interlude)*
+🎤 **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 23:12:33Z UTC
+🕐 Last updated: 2025-11-24 23:29:13Z UTC
 <!-- SPOTIFY-END -->
