@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b3704cb907f6638aeed16abf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273683aa2b8fc370b5ae3adb27f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)**
-*by* **A Flock Of Seagulls**
-*Album:* We Are The '80s
+**🎵 [about u](https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4)**
+*by* **Lil Peep**
+*Album:* about u
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="98" height="4" fill="#1db954" rx="2"/>
-    <circle cx="98" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 3:46
+    1:34 • 3:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
-🎤 **[シルシ](https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k)** by **LiSA** *(Launcher)*
-🎤 **[Tamaki](https://open.spotify.com/track/1EywXLi9gbYeWA6JXjUh7W)** by **RADWIMPS** *(Suzume (Motion Picture Soundtrack))*
-🎤 **[Love Taste](https://open.spotify.com/track/7IlcN3RyY67UAVW1wrfbr8)** by **Moe Shop, Jamie Paige, Shiki-TMNS** *(Love Taste)*
-🎤 **[Invitation to Freedom](https://open.spotify.com/track/4jnFVqy2gwt8aZEa7wXtpV)** by **Lyn** *(ペルソナQ2 ニュー シネマ ラビリンス オリジナル・サウンドトラック)*
+🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
+🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
+🎤 **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)*
+🎤 **[Klettverschluss](https://open.spotify.com/track/5DK4lNGkh4fKxiKAkXRIj0)** by **Brown-Eyes White Boy** *(Metanarkose)*
+🎤 **[My Tears Are Becoming a Sea](https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f)** by **M83** *(Hurry up, We're Dreaming)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-24 22:48:03Z UTC
+🕐 Last updated: 2025-11-24 23:12:33Z UTC
 <!-- SPOTIFY-END -->
