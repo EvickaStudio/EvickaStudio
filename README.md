@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27362cb58529783fd34b83a9d5a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)**
-*by* **grim noir**
-*Album:* Lipgloss
+**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
+*by* **blombi19, 2dizzy**
+*Album:* medikament
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="180" height="4" fill="#1db954" rx="2"/>
-    <circle cx="180" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 2:12
+    1:25 • 3:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
-🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
-🎤 **[LuvLorn </3](https://open.spotify.com/track/1Ltno4ZlC55Vt3NQvJUy4a)** by **LooveX, cholorofilm** *(LuvLorn </3)*
+🎤 **[keep me safe](https://open.spotify.com/track/5psazsP0EN8pVNz8lSLcCB)** by **bliiiss** *(keep me safe)*
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)*
+🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
+🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 20:14:39Z UTC
+🕐 Last updated: 2025-11-25 20:35:54Z UTC
 <!-- SPOTIFY-END -->
