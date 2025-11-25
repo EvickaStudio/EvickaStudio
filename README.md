@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273af7205c1f3dcc81e96f042ac" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)**
+*by* **flywoah**
+*Album:* Super-Loud
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="189" height="4" fill="#1db954" rx="2"/>
+    <circle cx="189" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 3:43
+    1:41 • 2:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[my glue](https://open.spotify.com/track/0B37hZATkkCj1C2WZZnIw8)** by **bliiiss** *(my glue)*
+🎤 **[baehuntr](https://open.spotify.com/track/77JkCkCiqPQ01icVV0aAv5)** by **i9bonsai, mikosp** *(baehuntr)*
+🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
 🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 19:27:42Z UTC
+🕐 Last updated: 2025-11-25 19:37:48Z UTC
 <!-- SPOTIFY-END -->
