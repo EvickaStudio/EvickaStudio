@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee899f14f585135b51078379" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373ad4a7d2503ebbf0545fc5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [My Love](https://open.spotify.com/track/3kcRUbf7R1ShxWL3m997ED)**
-*by* **Soothing Oasis**
-*Album:* Sleep Well
+**🎵 [Dream Haze](https://open.spotify.com/track/08OIcgXtg1Y1pws27utfxt)**
+*by* **Avery's Ambient**
+*Album:* Dream Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 2:10
+    0:05 • 2:09
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-25 02:51:19Z UTC
+🕐 Last updated: 2025-11-25 03:44:13Z UTC
 <!-- SPOTIFY-END -->
