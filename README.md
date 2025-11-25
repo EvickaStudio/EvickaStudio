@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b78b5d3183766f1c530c308e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Moonlit Skies](https://open.spotify.com/track/2N26MsLOsLxB6EjHK4xosr)**
+**🎵 [Through the Fog](https://open.spotify.com/track/3hPBrP0ZbE2hOrZtuVgzg7)**
 *by* **Soothing Oasis**
-*Album:* Dream Realm
+*Album:* Through the Valley
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 2:09
+    0:32 • 2:10
 </span>
 </p>
 
@@ -135,9 +135,9 @@ No recently played tracks.
 🥇 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 🥈 [**0201**](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)
 🥉 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
-🏅 [**Best Friendz**](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
+🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 06:51:42Z UTC
+🕐 Last updated: 2025-11-25 07:14:11Z UTC
 <!-- SPOTIFY-END -->
