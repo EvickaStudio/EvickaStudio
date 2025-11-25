@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27353136b0bd8746efc7916bf08" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)**
-*by* **puls207, TROPFBUBEN, rizzlas ku$h**
-*Album:* mit Herz <3
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 1:38
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
+🎤 **[mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)*
 🎤 **[EUROTANZ - rizzmix](https://open.spotify.com/track/1DKSKG289FS0NIHJDSFVbR)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(EUROTANZ)*
 🎤 **[EUROTANZ](https://open.spotify.com/track/0p712x2ODjzcrGbeguESWa)** by **puls207, TROPFBUBEN** *(EUROTANZ)*
 🎤 **[formel 1](https://open.spotify.com/track/6GxqybGCdFNp6LihdLMwrD)** by **puls207, TROPFBUBEN** *(formel 1)*
-🎤 **[formel 1](https://open.spotify.com/track/6GxqybGCdFNp6LihdLMwrD)** by **puls207, TROPFBUBEN** *(formel 1)*
-🎤 **[supernova/GTA (sped up)](https://open.spotify.com/track/5hICe9cpZggvm7LUsYxlpg)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 17:13:51Z UTC
+🕐 Last updated: 2025-11-25 17:34:29Z UTC
 <!-- SPOTIFY-END -->
