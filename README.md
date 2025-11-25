@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27397f77dd83347bf87ac64558b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ba7fd787b9844f1b779cdc9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)**
-*by* **ilyproxy, leander, Hadesthegrim**
-*Album:* Schnuffel
+**🎵 [#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)**
+*by* **luutwo**
+*Album:* #SCENEJESUS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="2" height="4" fill="#1db954" rx="2"/>
+    <circle cx="2" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 3:15
+    0:00 • 1:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[come kill me](https://open.spotify.com/track/77kIxYbwGK5LYBgOZophpM)** by **cholorofilm, snor, Pixel Hood** *(come kill me)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[Every Night](https://open.spotify.com/track/3yKLA5lKQh8OTiXECWL0fB)** by **Nomark, Clappednik, Pröz** *(DJ MARKO)*
-🎤 **[not the same](https://open.spotify.com/track/3eln2VvmtJGZxDXynwVJSj)** by **Capoxxo, keyblayde808, mayh3mp** *(not the same)*
-🎤 **[elfbar (freestyle)](https://open.spotify.com/track/0CS7Rq2swLuq1SPAyVKJWC)** by **Iuvumi, 1ndertat** *(elfbar (freestyle))*
+🎤 **[Perfect](https://open.spotify.com/track/2dyeWlhqtGsDW7VpUroZwo)** by **Capoxxo, oaf1, dreamcache** *(Perfect)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
+🎤 **[too late](https://open.spotify.com/track/6OxDkiG7bLmiEmMiG7h0BY)** by **pink luu** *(too late)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 21:12:24Z UTC
+🕐 Last updated: 2025-11-25 21:29:36Z UTC
 <!-- SPOTIFY-END -->
