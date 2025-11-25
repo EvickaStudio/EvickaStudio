@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27315a794d121cc566b4572ebd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)**
+*by* **日本アニメ(ーター)見本市, TeddyLoid, Daoko**
+*Album:* 日本アニメ(ーター)見本市 「ME!ME!ME!」
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:21 • 2:38
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)** by **disoc8** *(ur the one i want <3)*
 🎤 **[crushed](https://open.spotify.com/track/4g2qcGNPIccpPEhKMMBRbg)** by **syris** *(crushed)*
 🎤 **[PICTURESQUE](https://open.spotify.com/track/1dW3eS0fDVOuGeXRcgTD9y)** by **lavendr, Gutzxx** *(PICTURESQUE)*
 🎤 **[krampfanfall](https://open.spotify.com/track/0tLYB5iaazZ0K2OgAdDuTJ)** by **luu** *(verluustanzeige (wo bin ich?))*
 🎤 **[party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)** by **dollreal, z4y4, p6inkillr** *(party at the graveyard)*
-🎤 **[New Life](https://open.spotify.com/track/7iPfZ5tQ6y6ng3py8FrU7Z)** by **503scoob, Keta, romziie** *(New Life)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 15:15:00Z UTC
+🕐 Last updated: 2025-11-25 15:36:04Z UTC
 <!-- SPOTIFY-END -->
