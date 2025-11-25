@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c0ce6f971c9d9a583fcdcdcb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [VERL1EBT](https://open.spotify.com/track/23Am5WwnpewpryjEbxedfI)**
+*by* **S1RENA**
+*Album:* MP3 M1XTAPE
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="145" height="4" fill="#1db954" rx="2"/>
+    <circle cx="145" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:08 • 2:21
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[du musst ein engel sein](https://open.spotify.com/track/12j68yRCyQ2IOkYceJdLun)** by **ghostboo, Lawin, Juri** *(exxtra)*
-🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
-🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
-🎤 **[BESESSEN](https://open.spotify.com/track/0FhD7gg2n2jVKWkr0JmGPG)** by **sotbarn** *(BESESSEN)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[NICHTS WERT](https://open.spotify.com/track/5h13XQQrwWj52kjkrn47tv)** by **Dave Plugs** *(NICHTS WERT)*
+🎤 **[extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
+🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
+🎤 **[aaahh give me some more time](https://open.spotify.com/track/5jUQFLVwMtB1YBqrD22cDH)** by **Mietze Conte** *(Mietzee)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 16:17:38Z UTC
+🕐 Last updated: 2025-11-25 16:49:46Z UTC
 <!-- SPOTIFY-END -->
