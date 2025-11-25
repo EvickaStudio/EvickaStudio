@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273686fe147080195081147eaaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d9ad771e9f58e231a391e2f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)**
-*by* **blombi19, aimée**
-*Album:* sternenkind
+**🎵 [Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)**
+*by* **SUICIDAL-IDOL, hoshie star**
+*Album:* Right Next 2 U
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="108" height="4" fill="#1db954" rx="2"/>
-    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:20 • 3:42
+    0:30 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)*
-🎤 **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[percy dreams](https://open.spotify.com/track/33JEQ1TPcuPVJn81VBkHAp)** by **Iuvumi** *(percy dreams)*
-🎤 **[haftpflichtversicherung](https://open.spotify.com/track/1LIDD6C0FJGQPuNnm6mBl4)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami** *(freitag nacht)*
+🎤 **[FREE S3X TOY](https://open.spotify.com/track/1Z1m5YjK0Z3swLkHha0VdM)** by **LooveX, iwannabemissed** *(FREE S3X TOY)*
+🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
+🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)*
+🎤 **[When you needed me most](https://open.spotify.com/track/43XvxlUFoCC0TQpZFcIW4B)** by **Psych** *(When you needed me most)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 21:48:03Z UTC
+🕐 Last updated: 2025-11-25 22:12:49Z UTC
 <!-- SPOTIFY-END -->
