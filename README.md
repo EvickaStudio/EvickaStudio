@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c0ce6f971c9d9a583fcdcdcb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27353136b0bd8746efc7916bf08" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [VERL1EBT](https://open.spotify.com/track/23Am5WwnpewpryjEbxedfI)**
-*by* **S1RENA**
-*Album:* MP3 M1XTAPE
+**🎵 [mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)**
+*by* **puls207, TROPFBUBEN, rizzlas ku$h**
+*Album:* mit Herz <3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
+    <rect width="264" height="4" fill="#1db954" rx="2"/>
+    <circle cx="264" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 2:21
+    1:26 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[NICHTS WERT](https://open.spotify.com/track/5h13XQQrwWj52kjkrn47tv)** by **Dave Plugs** *(NICHTS WERT)*
-🎤 **[extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
-🎤 **[seit wieviel jahren leuchten sterne??](https://open.spotify.com/track/1fErETOtrIzmb6viVrZ8OS)** by **b3nn3t, strangerperson** *(laut nachgedacht)*
-🎤 **[aaahh give me some more time](https://open.spotify.com/track/5jUQFLVwMtB1YBqrD22cDH)** by **Mietze Conte** *(Mietzee)*
+🎤 **[EUROTANZ - rizzmix](https://open.spotify.com/track/1DKSKG289FS0NIHJDSFVbR)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(EUROTANZ)*
+🎤 **[EUROTANZ](https://open.spotify.com/track/0p712x2ODjzcrGbeguESWa)** by **puls207, TROPFBUBEN** *(EUROTANZ)*
+🎤 **[formel 1](https://open.spotify.com/track/6GxqybGCdFNp6LihdLMwrD)** by **puls207, TROPFBUBEN** *(formel 1)*
+🎤 **[formel 1](https://open.spotify.com/track/6GxqybGCdFNp6LihdLMwrD)** by **puls207, TROPFBUBEN** *(formel 1)*
+🎤 **[supernova/GTA (sped up)](https://open.spotify.com/track/5hICe9cpZggvm7LUsYxlpg)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 16:49:46Z UTC
+🕐 Last updated: 2025-11-25 17:13:51Z UTC
 <!-- SPOTIFY-END -->
