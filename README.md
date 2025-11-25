@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
+*by* **blombi19**
+*Album:* herzkasper
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:54 • 3:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
+🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
 🎤 **[supernova/GTA](https://open.spotify.com/track/6mf1DpkoN5I6zhkmW5uzmD)** by **puls207, TROPFBUBEN** *(supernova/GTA)*
-🎤 **[mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)*
-🎤 **[EUROTANZ - rizzmix](https://open.spotify.com/track/1DKSKG289FS0NIHJDSFVbR)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(EUROTANZ)*
-🎤 **[EUROTANZ](https://open.spotify.com/track/0p712x2ODjzcrGbeguESWa)** by **puls207, TROPFBUBEN** *(EUROTANZ)*
-🎤 **[formel 1](https://open.spotify.com/track/6GxqybGCdFNp6LihdLMwrD)** by **puls207, TROPFBUBEN** *(formel 1)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 19:11:18Z UTC
+🕐 Last updated: 2025-11-25 19:27:42Z UTC
 <!-- SPOTIFY-END -->
