@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27362fe5668da98bc3dd4651bd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332061a41dbe77a6a41647017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Drift](https://open.spotify.com/track/64OdXIDNOeJK9Q8aJxVsmp)**
+**🎵 [Calmness](https://open.spotify.com/track/4RDUGJ8bVhETycG7aWG2Yi)**
 *by* **Soothing Oasis**
-*Album:* Between the Clouds
+*Album:* Foggy Morning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 2:05
+    0:21 • 2:06
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-25 04:03:06Z UTC
+🕐 Last updated: 2025-11-25 04:38:53Z UTC
 <!-- SPOTIFY-END -->
