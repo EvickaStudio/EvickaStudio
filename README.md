@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e0c6b41ebde22e619efdc46" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Drifting Leaves](https://open.spotify.com/track/1G4jILZWiClmzAe8QUV7k0)**
+**🎵 [Closure](https://open.spotify.com/track/1MlrxpSNvLuFPl7vsMkiRw)**
 *by* **Soothing Oasis**
-*Album:* Riverside
+*Album:* Breathing Forest
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:14
+    1:56 • 2:12
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 07:31:39Z UTC
+🕐 Last updated: 2025-11-25 07:47:52Z UTC
 <!-- SPOTIFY-END -->
