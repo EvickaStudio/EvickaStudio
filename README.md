@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27310927d3476cd8b73a0f35929" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ee899f14f585135b51078379" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [World](https://open.spotify.com/track/5MvVq93z7q1miPkAj2GuKs)**
+**🎵 [My Love](https://open.spotify.com/track/3kcRUbf7R1ShxWL3m997ED)**
 *by* **Soothing Oasis**
-*Album:* Soothing
+*Album:* Sleep Well
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="149" height="4" fill="#1db954" rx="2"/>
+    <circle cx="149" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:18
+    1:04 • 2:10
 </span>
 </p>
 
@@ -116,11 +116,7 @@
 
 ### 📜 Recently Played
 
-🎤 **[Leb es oder lass es 2](https://open.spotify.com/track/6yHaSNP75AtP6Q5LeT5081)** by **makko** *(Leb es oder lass es 2)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
-🎤 **[Issues](https://open.spotify.com/track/3W2p8YA8staB87XSG3eI0y)** by **Moritz, Longus Mongus** *(Issues)*
-🎤 **[I Crash, U Crash](https://open.spotify.com/track/5AAJRP3wdEuY4dO4cLrEEq)** by **Vénia** *(I Crash, U Crash)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+No recently played tracks.
 
 
 
@@ -143,5 +139,5 @@
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-25 01:00:37Z UTC
+🕐 Last updated: 2025-11-25 02:51:19Z UTC
 <!-- SPOTIFY-END -->
