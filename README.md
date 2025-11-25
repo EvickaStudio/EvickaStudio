@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5fd48ccf0c5e61b7a65a39b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wrapped in Blue](https://open.spotify.com/track/17AT5ZPQFd7IFsv18O2FoB)**
+**🎵 [Softly Spun](https://open.spotify.com/track/2w4OWSTguX9fH7KlrheFqq)**
 *by* **Avery's Ambient**
-*Album:* Everglow
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="33" height="4" fill="#1db954" rx="2"/>
+    <circle cx="33" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:08
+    0:15 • 2:14
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 
 
-🕐 Last updated: 2025-11-25 05:34:43Z UTC
+🕐 Last updated: 2025-11-25 05:50:02Z UTC
 <!-- SPOTIFY-END -->
