@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e192db03c0db78e0eead6114" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735f685067786c7e2d1253ecff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB)**
-*by* **美波**
-*Album:* カワキヲアメク
+**🎵 [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)**
+*by* **LiSA**
+*Album:* LANDSPACE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="171" height="4" fill="#1db954" rx="2"/>
+    <circle cx="171" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:46 • 4:11
+    2:21 • 4:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[Nandemonaiya - movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6)** by **RADWIMPS** *(Your Name.)*
+🎤 **[Kein Fake](https://open.spotify.com/track/6SasfqIpbQIrKDvrolSncT)** by **Fanny, No.Ri** *(Kein Fake)*
+🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
 🎤 **[DAYS of DASH](https://open.spotify.com/track/05tgM5KwoJL27Gm2b55u1W)** by **Konomi Suzuki** *(17)*
-🎤 **[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)** by **wurms, MDW** *(Slide)*
-🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
-🎤 **[Z&C](https://open.spotify.com/track/5kQ5wsHxHUImVEJfsyObyb)** by **sparr00w, NANA LE VRAI** *(Z&C)*
-🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 11:28:48Z UTC
+🕐 Last updated: 2025-11-25 11:39:59Z UTC
 <!-- SPOTIFY-END -->
