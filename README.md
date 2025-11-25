@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b0f28b9e6484bfd943e71ce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)**
-*by* **lauenburg**
-*Album:* Wenn du fällst, lass mich hier
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="199" height="4" fill="#1db954" rx="2"/>
-    <circle cx="199" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 3:19
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)*
-🎤 **[ich glaube nicht](https://open.spotify.com/track/1uzsWLUo9rGu2c6CVM82Sx)** by **wurms** *(ich glaube nicht)*
-🎤 **[zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl)** by **my dead girlfriend** *(hades (the nine stages of change at the deceased remains))*
-🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[du musst ein engel sein](https://open.spotify.com/track/12j68yRCyQ2IOkYceJdLun)** by **ghostboo, Lawin, Juri** *(exxtra)*
+🎤 **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)*
+🎤 **[Gib mir einen Grund](https://open.spotify.com/track/4GUtm3EvK2nkdjpGTrvtes)** by **diggidaniel** *(Gib mir einen Grund)*
+🎤 **[BESESSEN](https://open.spotify.com/track/0FhD7gg2n2jVKWkr0JmGPG)** by **sotbarn** *(BESESSEN)*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-25 15:52:35Z UTC
+🕐 Last updated: 2025-11-25 16:17:38Z UTC
 <!-- SPOTIFY-END -->
