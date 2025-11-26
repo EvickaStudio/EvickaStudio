@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27365609567e279325f81b1ce9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfa747f95a7fe672c0a4dcc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LOVE? REASON WHY!!](https://open.spotify.com/track/2IivGXRiuEKHqN7KAK9D9r)**
+**🎵 [ＣＨＯＩＲ　ＪＡＩＬ](https://open.spotify.com/track/1Dyq7omZntvbWaKlbtKzJX)**
 *by* **Konomi Suzuki**
-*Album:* OPENING SONG FROM TV SERIES ”LOVE FLOPS”
+*Album:* TVアニメ「黄昏乙女×アムネジア」オープニングテーマ「CHOIR JAIL」
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:54 • 3:54
+    3:06 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)** by **美波** *(アメヲマツ、)*
-🎤 **[Fireworks Festival](https://open.spotify.com/track/1IISJrJingJVC2JItzHG67)** by **RADWIMPS** *(Weathering With You)*
-🎤 **[PROJEKT MELODY](https://open.spotify.com/track/74euPhLydiJk34aZ6PKNx8)** by **GHOST DATA, AL!CE** *(PROJEKT MELODY)*
-🎤 **[oath sign](https://open.spotify.com/track/4WRoLfCYJ4sLMhXgQJnI2N)** by **LiSA** *(LOVER"S"MiLE)*
-🎤 **[Our Light](https://open.spotify.com/track/6o5Y5wrLuWvfS2qklYB0oc)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
+🎤 **[DROP](https://open.spotify.com/track/5DvUv3UT3KcH3IhNOTfiPF)** by **美波** *(DROP)*
+🎤 **[05410-(ん)](https://open.spotify.com/track/45Qz90khfSW8AnaH9vNg5j)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
+🎤 **[A Night Wanderer (From Femc Reloaded)](https://open.spotify.com/track/1QvA3J1IyF5zRWoLmwILw7)** by **MOSQ** *(A Night Wanderer (From Femc Reloaded))*
+🎤 **[炎](https://open.spotify.com/track/3YXGSpMR27cthwFJfwd5DY)** by **LiSA** *(LANDER)*
+🎤 **[Hoshi To Bokura To](https://open.spotify.com/track/6OkDMLziz00ipSDBHettUB)** by **Lyn** *(Persona 5: Dancing in Starlight Soundtrack)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 17:49:00Z UTC
+🕐 Last updated: 2025-11-26 18:16:54Z UTC
 <!-- SPOTIFY-END -->
