@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27374b26f95618f8fb986a3ad36" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273270b22c834084aa5357218c8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)**
-*by* **美波**
-*Album:* カワキヲアメク
+**🎵 [summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)**
+*by* **cinnamons, evening cinema**
+*Album:* summertime
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="182" height="4" fill="#1db954" rx="2"/>
-    <circle cx="182" cy="2" r="6" fill="#1db954"/>
+    <rect width="122" height="4" fill="#1db954" rx="2"/>
+    <circle cx="122" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:13 • 5:17
+    1:43 • 4:11
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
+🎤 **[KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1)** by **RADWIMPS** *(Suzume (Motion Picture Soundtrack))*
+🎤 **[ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)** by **美波** *(カワキヲアメク)*
 🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
-🎤 **[Horsey (feat. Sarah Bonito)](https://open.spotify.com/track/2YP9BF2Y9NUMJqgmx50FLH)** by **Macross 82-99, Sarah Bonito** *(Idols, Sakura)*
-🎤 **[No More What Ifs](https://open.spotify.com/track/2SQ9RmQAOxGICUSt9T5dIX)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
-🎤 **[Redo](https://open.spotify.com/track/0WjYHf18yTqGEQjLRHLNWp)** by **Konomi Suzuki** *(lead)*
-🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 15:12:28Z UTC
+🕐 Last updated: 2025-11-26 15:32:29Z UTC
 <!-- SPOTIFY-END -->
