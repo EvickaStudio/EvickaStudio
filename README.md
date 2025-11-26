@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27385b0876389c92ac31f514593" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fad328af65378e77a44403be" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zenzenzense - Original Version](https://open.spotify.com/track/57Hk29LVcJAaGSFYQSuOKM)**
-*by* **RADWIMPS**
-*Album:* Human Bloom
+**🎵 [だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp)**
+*by* **LiSA**
+*Album:* だってアタシのヒーロー。
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:25 • 4:35
+    1:28 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Colors Flying High](https://open.spotify.com/track/7fK9w5ebymfjG8hk18UOUY)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
+🎤 **[THEATER OF LIFE](https://open.spotify.com/track/62koFnew3T3BTBzZFPfPjD)** by **Konomi Suzuki** *(ULTRA FLASH)*
+🎤 **[PONPONPON](https://open.spotify.com/track/6W0h3ULsrzmD6C8B4cG57A)** by **Kyary Pamyu Pamyu** *(もしもし原宿)*
+🎤 **[Zenzenzense - Original Version](https://open.spotify.com/track/57Hk29LVcJAaGSFYQSuOKM)** by **RADWIMPS** *(Human Bloom)*
 🎤 **[Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9)** by **稲葉曇** *(ANTICYCLONE)*
-🎤 **[Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u)** by **LiSA** *(LiTTLE DEViL PARADE)*
-🎤 **[BREAK IN TO BREAK OUT](https://open.spotify.com/track/2J4tG0fWw1J8BU84VIKanY)** by **Lyn** *(BREAK IN TO BREAK OUT)*
-🎤 **[LIGHT OF LIFE](https://open.spotify.com/track/4XzkDn481euq4C4Pakg9g4)** by **Konomi Suzuki** *(ULTRA FLASH)*
-🎤 **[この街に晴れはこない](https://open.spotify.com/track/1gdwFGXLC2cKdxbELLYvOC)** by **美波** *(DROP)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 18:55:39Z UTC
+🕐 Last updated: 2025-11-26 19:11:10Z UTC
 <!-- SPOTIFY-END -->
