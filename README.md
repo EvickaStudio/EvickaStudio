@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hör mal mein Herz <3…](https://open.spotify.com/track/418wO5mzacDD1wDxdt1WVT)** by **Replay Okay** *(RIP Hyperpop DE 2022-2025)*
+🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
+🎤 **[NEWLY HUMAN FEELING](https://open.spotify.com/track/20EuE4NOmibKW8mEdidlOq)** by **Moe Shop, Jamie Paige** *(EVO EVO)*
 🎤 **[She Said I'm Gloomy - Remastered](https://open.spotify.com/track/6EMdiFVShHYnJIqcFzgBQX)** by **Nouvelle Story** *(She Said I'm Gloomy (Remastered))*
 🎤 **[BIRDBRAIN](https://open.spotify.com/track/0d42paxcUOhgvWy0HLxxYl)** by **Jamie Paige, OK Glass** *(Constant Companions (Deluxe Edition))*
-🎤 **[Machine Love](https://open.spotify.com/track/1H2pPtoPS8kNlqCN7HfT6g)** by **Jamie Paige** *(Constant Companions)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luutwo, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 08:18:37Z UTC
+🕐 Last updated: 2025-11-26 08:47:25Z UTC
 <!-- SPOTIFY-END -->
