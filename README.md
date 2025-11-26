@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7d5b2595e437b7e463f71f9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [君と僕の154小節戦争](https://open.spotify.com/track/10AC3n6YglAdIpi4TUAjNZ)**
-*by* **美波**
-*Album:* DROP
+**🎵 [Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)**
+*by* **RADWIMPS, Toko Miura**
+*Album:* Weathering With You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="9" height="4" fill="#1db954" rx="2"/>
+    <circle cx="9" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:30 • 4:58
+    0:05 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Voice of Wind (Movie Edit)](https://open.spotify.com/track/0L7TjIdcVQaDlX3nQbMdQC)** by **RADWIMPS** *(Weathering With You)*
-🎤 **[Fallen Angel feat. Aimee B](https://open.spotify.com/track/6JXAzCUM0Drgc4FgVA6mGC)** by **Mitsunori Ikeda, Aimee B** *(Panty & Stocking with Garterbelt　The Original Soundtrack)*
-🎤 **[unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk)** by **LiSA** *(LEO-NiNE)*
-🎤 **[Life Will Change](https://open.spotify.com/track/0JrzfHTEsiuSH2Te3HB20N)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Metaphor: ReFantazio ATLUS BRAND35th ALL TIME BEST)*
-🎤 **[Love is MY RAIL](https://open.spotify.com/track/6mL74yZt8nPTxDXE02V1nl)** by **Konomi Suzuki** *(lead)*
+🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Changing Seasons](https://open.spotify.com/track/6xxDh3PHEl1hS41nUYiCUM)** by **MOSQ** *(Mosq Reload Mixes)*
+🎤 **[Wake Up, Get Up, Get Out There](https://open.spotify.com/track/4AuZBIN4aeFL9egQldQfRn)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Mirror,Mirror,Mirror](https://open.spotify.com/track/04ShmwF1w3P6MnOHkEC2tD)** by **Konomi Suzuki** *(TVアニメ「ディープインサニティ ザ・ロストチャイルド」オープニングテーマ「命の灯火」)*
+🎤 **[君と僕の154小節戦争](https://open.spotify.com/track/10AC3n6YglAdIpi4TUAjNZ)** by **美波** *(DROP)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 20:14:38Z UTC
+🕐 Last updated: 2025-11-26 20:32:34Z UTC
 <!-- SPOTIFY-END -->
