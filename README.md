@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc16d1eefe86b079c8805f8f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27374b26f95618f8fb986a3ad36" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)**
-*by* **RADWIMPS, Toaka**
-*Album:* Suzume (Motion Picture Soundtrack)
+**🎵 [ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)**
+*by* **美波**
+*Album:* カワキヲアメク
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="142" height="4" fill="#1db954" rx="2"/>
-    <circle cx="142" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 3:58
+    3:13 • 5:17
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP)** by **Konomi Suzuki** *(ULTRA FLASH)*
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)** by **LiSA** *(LANDSPACE)*
-🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
+🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
+🎤 **[Horsey (feat. Sarah Bonito)](https://open.spotify.com/track/2YP9BF2Y9NUMJqgmx50FLH)** by **Macross 82-99, Sarah Bonito** *(Idols, Sakura)*
+🎤 **[No More What Ifs](https://open.spotify.com/track/2SQ9RmQAOxGICUSt9T5dIX)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
+🎤 **[Redo](https://open.spotify.com/track/0WjYHf18yTqGEQjLRHLNWp)** by **Konomi Suzuki** *(lead)*
+🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 14:52:29Z UTC
+🕐 Last updated: 2025-11-26 15:12:28Z UTC
 <!-- SPOTIFY-END -->
