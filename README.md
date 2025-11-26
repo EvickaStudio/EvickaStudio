@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Axe to Grind](https://open.spotify.com/track/6uUYdIpODNtc7QbWDLRCeK)**
-*by* **Lyn**
-*Album:* Persona 5 Strikers: Original Soundtrack
+**🎵 [Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)**
+*by* **RADWIMPS, Toko Miura**
+*Album:* Weathering With You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 3:14
+    0:33 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[BURSTY GREEDY SPIDER](https://open.spotify.com/track/2bV5eChvsGabS45jnmdlT7)** by **Konomi Suzuki** *(ULTRA FLASH)*
-🎤 **[Zenzenzense - movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR)** by **RADWIMPS** *(Your Name.)*
-🎤 **[ライラック](https://open.spotify.com/track/1bjvM3ArxhRzIUuum0bB7P)** by **美波** *(カワキヲアメク)*
-🎤 **[summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)** by **cinnamons, evening cinema** *(summertime)*
+🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
+🎤 **[This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)** by **Konomi Suzuki** *(LIFE of DASH)*
 🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Stay Alive](https://open.spotify.com/track/5ULPf6SjZSQkWCNSUn29xO)** by **エミリア(CV:高橋李依)** *(TVアニメ「Re:ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」)*
+🎤 **[Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m)** by **yama** *(Haru wo Tsugeru)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 15:49:20Z UTC
+🕐 Last updated: 2025-11-26 16:16:39Z UTC
 <!-- SPOTIFY-END -->
