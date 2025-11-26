@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273270b22c834084aa5357218c8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)**
-*by* **cinnamons, evening cinema**
-*Album:* summertime
+**🎵 [Axe to Grind](https://open.spotify.com/track/6uUYdIpODNtc7QbWDLRCeK)**
+*by* **Lyn**
+*Album:* Persona 5 Strikers: Original Soundtrack
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="122" height="4" fill="#1db954" rx="2"/>
-    <circle cx="122" cy="2" r="6" fill="#1db954"/>
+    <rect width="82" height="4" fill="#1db954" rx="2"/>
+    <circle cx="82" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 4:11
+    0:53 • 3:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[BURSTY GREEDY SPIDER](https://open.spotify.com/track/2bV5eChvsGabS45jnmdlT7)** by **Konomi Suzuki** *(ULTRA FLASH)*
+🎤 **[Zenzenzense - movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR)** by **RADWIMPS** *(Your Name.)*
+🎤 **[ライラック](https://open.spotify.com/track/1bjvM3ArxhRzIUuum0bB7P)** by **美波** *(カワキヲアメク)*
+🎤 **[summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)** by **cinnamons, evening cinema** *(summertime)*
 🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
-🎤 **[KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1)** by **RADWIMPS** *(Suzume (Motion Picture Soundtrack))*
-🎤 **[ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)** by **美波** *(カワキヲアメク)*
-🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 15:32:29Z UTC
+🕐 Last updated: 2025-11-26 15:49:20Z UTC
 <!-- SPOTIFY-END -->
