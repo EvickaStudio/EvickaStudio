@@ -91,26 +91,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730ad97afff296165f7d48f53c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Goodnight](https://open.spotify.com/track/7EjA8NsWdvmYidR3SQgDv4)**
-*by* **Soothing Oasis**
-*Album:* Sleeping Earth
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 2:05
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 23:12:06Z UTC
+🕐 Last updated: 2025-11-26 23:28:50Z UTC
 <!-- SPOTIFY-END -->
