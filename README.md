@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273638ee0944dab8f6f2b0939de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d42793fc31d74ac8398f7b9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dead by Dawn](https://open.spotify.com/track/4D3S43OaYupaZSBj2GJZGe)**
-*by* **Sematary, Ghost Mountain**
-*Album:* Grave House
+**🎵 [LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)**
+*by* **Drux, Lunaa, pradaaslife**
+*Album:* Scrapclub
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
+    <rect width="217" height="4" fill="#1db954" rx="2"/>
+    <circle cx="217" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 5:31
+    2:04 • 2:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)*
+🎤 **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)*
 🎤 **[You & Me - Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ)** by **Disclosure, Eliza Doolittle, Flume** *(Settle (Special Edition))*
 🎤 **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)*
 🎤 **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)*
-🎤 **[Afterburner](https://open.spotify.com/track/1z0EbPhl9w8QMqZF63mlCd)** by **Yota Dora** *(Afterburner)*
-🎤 **[nightjet](https://open.spotify.com/track/7817Rs5G0BpDA8Ppk2uQPE)** by **DANZINGER 99** *(aber immer noch besser als in dieser welt in der ich wach bin)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 11:39:22Z UTC
+🕐 Last updated: 2025-11-26 11:47:41Z UTC
 <!-- SPOTIFY-END -->
