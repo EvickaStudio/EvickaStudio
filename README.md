@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[She Said I'm Gloomy - Remastered](https://open.spotify.com/track/6EMdiFVShHYnJIqcFzgBQX)** by **Nouvelle Story** *(She Said I'm Gloomy (Remastered))*
+🎤 **[BIRDBRAIN](https://open.spotify.com/track/0d42paxcUOhgvWy0HLxxYl)** by **Jamie Paige, OK Glass** *(Constant Companions (Deluxe Edition))*
+🎤 **[Machine Love](https://open.spotify.com/track/1H2pPtoPS8kNlqCN7HfT6g)** by **Jamie Paige** *(Constant Companions)*
 🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luutwo, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
 🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
-🎤 **[#hashtag](https://open.spotify.com/track/6oYd6OXQEWQdT7VHPAgx3d)** by **ilyproxy, EN6O** *(#hashtag)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 07:47:51Z UTC
+🕐 Last updated: 2025-11-26 08:18:37Z UTC
 <!-- SPOTIFY-END -->
