@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c5b26fdb732ae43eb93dfcd6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27372794a02454878876b884db9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)**
-*by* **Varg²™, Ecco2k, Bladee**
-*Album:* Nordic Flora Series, Pt. 6: Outlaw Music
+**🎵 [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)**
+*by* **Cocteau Twins**
+*Album:* Milk & Kisses
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:58
+    3:19 • 3:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)*
-🎤 **[9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)** by **Brutalismus 3000** *(GOODBYE SALÒ)*
-🎤 **[I deserve this](https://open.spotify.com/track/0ExUm9JjGLGBrUrcVNOgJT)** by **Rebzyyx, Selfless Homage** *(I deserve this)*
-🎤 **[Aria Math Hardstyle](https://open.spotify.com/track/5HW67VMlRhL0OxKxS2RplT)** by **Mqx** *(Aria Math Hardstyle)*
-🎤 **[toxic city](https://open.spotify.com/track/1TYL7BonBQIssN0zpte1qQ)** by **Lil Peep** *(feelz)*
+🎤 **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)*
+🎤 **[fucked up](https://open.spotify.com/track/6ilYeHjC7WRqM6CaHPGctu)** by **Lil Keen** *(fucked up)*
+🎤 **[The Prayer](https://open.spotify.com/track/10f3slxAbJLHl4OURuxgzq)** by **Thrilliam Angels, Mori Mori, User2222** *(The Static Screams Your Name)*
+🎤 **[Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw)** by **Käärijä** *(Cha Cha Cha)*
+🎤 **[Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)** by **mol$, Ripsquad Archive, 240pearl** *(Rip+)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 13:10:14Z UTC
+🕐 Last updated: 2025-11-26 13:45:24Z UTC
 <!-- SPOTIFY-END -->
