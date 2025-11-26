@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27359a6022f671f929b9979011d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv)**
-*by* **RADWIMPS**
-*Album:* Weathering With You
+**🎵 [I believe](https://open.spotify.com/track/4uoRsea1v7ONQygWEOl4nV)**
+*by* **Lyn**
+*Album:* Persona 5 Royal: Original Soundtrack
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="273" height="4" fill="#1db954" rx="2"/>
-    <circle cx="273" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:17 • 6:54
+    2:07 • 4:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[私がモテないのはどう考えてもお前らが悪い](https://open.spotify.com/track/4bAyEqlO8cJVySCcImyk7u)** by **Konomi Suzuki, Kiba Of Akiba** *(17)*
+🎤 **[Full Bodied](https://open.spotify.com/track/6vBIDkbcKNCC2Ynzdvdb2F)** by **GHOST DATA** *(Void Walker)*
+🎤 **[Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv)** by **RADWIMPS** *(Weathering With You)*
 🎤 **[NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G)** by **前島麻由** *(ENDING THEME FROM TV SERIES ”OVERLORD IV”)*
 🎤 **[だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp)** by **LiSA** *(だってアタシのヒーロー。)*
-🎤 **[Colors Flying High](https://open.spotify.com/track/7fK9w5ebymfjG8hk18UOUY)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
-🎤 **[THEATER OF LIFE](https://open.spotify.com/track/62koFnew3T3BTBzZFPfPjD)** by **Konomi Suzuki** *(ULTRA FLASH)*
-🎤 **[PONPONPON](https://open.spotify.com/track/6W0h3ULsrzmD6C8B4cG57A)** by **Kyary Pamyu Pamyu** *(もしもし原宿)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 19:23:47Z UTC
+🕐 Last updated: 2025-11-26 19:33:59Z UTC
 <!-- SPOTIFY-END -->
