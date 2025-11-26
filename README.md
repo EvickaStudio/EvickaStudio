@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27356201cdc6ebea1fbf193299c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rivers In the Desert](https://open.spotify.com/track/6rgIKCKKCnhyaNTgmY73tq)**
-*by* **Lyn**
-*Album:* PERSONA5 ORIGINAL SOUNDTRACK
+**🎵 [Constellations](https://open.spotify.com/track/4MKwgQyeji4SrQGZb1VuEg)**
+*by* **Soothing Oasis**
+*Album:* At Peace
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="247" height="4" fill="#1db954" rx="2"/>
-    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:20 • 5:15
+    0:43 • 2:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Moon & Stars (feat. Maggie Lindemann)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu)** by **$NOT, Maggie Lindemann** *(- TRAGEDY +)*
+🎤 **[Rivers In the Desert](https://open.spotify.com/track/6rgIKCKKCnhyaNTgmY73tq)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 🎤 **[Iwatodai Dorm -Reload-](https://open.spotify.com/track/3uekHQtWNzxkcU6eNn16fv)** by **Lotus Juice, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
 🎤 **[Fallen Angel (El Poco Maro Drum'n'Bass Remix)](https://open.spotify.com/track/7bL6vnjwbb9l7y56Nyui05)** by **Mitsunori Ikeda, Aimee B** *(Panty & Stocking with Garterbelt　"THE WORST ALBUM")*
 🎤 **[CANDY CANDY](https://open.spotify.com/track/4r53usGeVPzb1fKUUSxN1w)** by **Kyary Pamyu Pamyu** *(ぱみゅぱみゅレボリューション)*
-🎤 **[STORY](https://open.spotify.com/track/73mTBbvJiVHW4Wquiws0x8)** by **前島麻由** *(OPENING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”)*
-🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 22:32:56Z UTC
+🕐 Last updated: 2025-11-26 22:48:09Z UTC
 <!-- SPOTIFY-END -->
