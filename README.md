@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cfa747f95a7fe672c0a4dcc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738f3dc36ed6737a2f83c723cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ＣＨＯＩＲ　ＪＡＩＬ](https://open.spotify.com/track/1Dyq7omZntvbWaKlbtKzJX)**
-*by* **Konomi Suzuki**
-*Album:* TVアニメ「黄昏乙女×アムネジア」オープニングテーマ「CHOIR JAIL」
+**🎵 [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u)**
+*by* **LiSA**
+*Album:* LiTTLE DEViL PARADE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:06 • 3:54
+    0:57 • 4:42
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[DROP](https://open.spotify.com/track/5DvUv3UT3KcH3IhNOTfiPF)** by **美波** *(DROP)*
-🎤 **[05410-(ん)](https://open.spotify.com/track/45Qz90khfSW8AnaH9vNg5j)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
-🎤 **[A Night Wanderer (From Femc Reloaded)](https://open.spotify.com/track/1QvA3J1IyF5zRWoLmwILw7)** by **MOSQ** *(A Night Wanderer (From Femc Reloaded))*
-🎤 **[炎](https://open.spotify.com/track/3YXGSpMR27cthwFJfwd5DY)** by **LiSA** *(LANDER)*
-🎤 **[Hoshi To Bokura To](https://open.spotify.com/track/6OkDMLziz00ipSDBHettUB)** by **Lyn** *(Persona 5: Dancing in Starlight Soundtrack)*
+🎤 **[BREAK IN TO BREAK OUT](https://open.spotify.com/track/2J4tG0fWw1J8BU84VIKanY)** by **Lyn** *(BREAK IN TO BREAK OUT)*
+🎤 **[LIGHT OF LIFE](https://open.spotify.com/track/4XzkDn481euq4C4Pakg9g4)** by **Konomi Suzuki** *(ULTRA FLASH)*
+🎤 **[この街に晴れはこない](https://open.spotify.com/track/1gdwFGXLC2cKdxbELLYvOC)** by **美波** *(DROP)*
+🎤 **[Theme of Mitsuha](https://open.spotify.com/track/66HNv8qd9jr7q5P9nNTOOZ)** by **RADWIMPS** *(Your Name.)*
+🎤 **[ME!ME!ME! feat. daoko_pt.2](https://open.spotify.com/track/5jaSLzDbU8PrKhtNuvN0qA)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 18:16:54Z UTC
+🕐 Last updated: 2025-11-26 18:45:03Z UTC
 <!-- SPOTIFY-END -->
