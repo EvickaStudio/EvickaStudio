@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27359a6022f671f929b9979011d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ffb55e7e9036d352382d4265" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I believe](https://open.spotify.com/track/4uoRsea1v7ONQygWEOl4nV)**
-*by* **Lyn**
-*Album:* Persona 5 Royal: Original Soundtrack
+**🎵 [Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V)**
+*by* **Lotus Juice, Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC**
+*Album:* Persona 3 Reload Original Soundtrack
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 4:30
+    1:36 • 3:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Katawaredoki](https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK)** by **RADWIMPS** *(Your Name.)*
+🎤 **[School Days (From "Persona")](https://open.spotify.com/track/3Zxp0mMMvOUNdawy6Z27g2)** by **GillStudio, daiagnosis** *(Shin Megami Tensei & Persona Collection, Vol. 2)*
+🎤 **[THIS ILLUSION](https://open.spotify.com/track/1OrzZdwIwqM7KSoks6Fqjp)** by **LiSA** *(THIS ILLUSION)*
+🎤 **[I believe](https://open.spotify.com/track/4uoRsea1v7ONQygWEOl4nV)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
 🎤 **[私がモテないのはどう考えてもお前らが悪い](https://open.spotify.com/track/4bAyEqlO8cJVySCcImyk7u)** by **Konomi Suzuki, Kiba Of Akiba** *(17)*
-🎤 **[Full Bodied](https://open.spotify.com/track/6vBIDkbcKNCC2Ynzdvdb2F)** by **GHOST DATA** *(Void Walker)*
-🎤 **[Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv)** by **RADWIMPS** *(Weathering With You)*
-🎤 **[NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G)** by **前島麻由** *(ENDING THEME FROM TV SERIES ”OVERLORD IV”)*
-🎤 **[だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp)** by **LiSA** *(だってアタシのヒーロー。)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 19:33:59Z UTC
+🕐 Last updated: 2025-11-26 19:47:42Z UTC
 <!-- SPOTIFY-END -->
