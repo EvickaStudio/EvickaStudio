@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ffb55e7e9036d352382d4265" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7d5b2595e437b7e463f71f9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V)**
-*by* **Lotus Juice, Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC**
-*Album:* Persona 3 Reload Original Soundtrack
+**🎵 [君と僕の154小節戦争](https://open.spotify.com/track/10AC3n6YglAdIpi4TUAjNZ)**
+*by* **美波**
+*Album:* DROP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 3:47
+    3:30 • 4:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Katawaredoki](https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK)** by **RADWIMPS** *(Your Name.)*
-🎤 **[School Days (From "Persona")](https://open.spotify.com/track/3Zxp0mMMvOUNdawy6Z27g2)** by **GillStudio, daiagnosis** *(Shin Megami Tensei & Persona Collection, Vol. 2)*
-🎤 **[THIS ILLUSION](https://open.spotify.com/track/1OrzZdwIwqM7KSoks6Fqjp)** by **LiSA** *(THIS ILLUSION)*
-🎤 **[I believe](https://open.spotify.com/track/4uoRsea1v7ONQygWEOl4nV)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
-🎤 **[私がモテないのはどう考えてもお前らが悪い](https://open.spotify.com/track/4bAyEqlO8cJVySCcImyk7u)** by **Konomi Suzuki, Kiba Of Akiba** *(17)*
+🎤 **[Voice of Wind (Movie Edit)](https://open.spotify.com/track/0L7TjIdcVQaDlX3nQbMdQC)** by **RADWIMPS** *(Weathering With You)*
+🎤 **[Fallen Angel feat. Aimee B](https://open.spotify.com/track/6JXAzCUM0Drgc4FgVA6mGC)** by **Mitsunori Ikeda, Aimee B** *(Panty & Stocking with Garterbelt　The Original Soundtrack)*
+🎤 **[unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk)** by **LiSA** *(LEO-NiNE)*
+🎤 **[Life Will Change](https://open.spotify.com/track/0JrzfHTEsiuSH2Te3HB20N)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Metaphor: ReFantazio ATLUS BRAND35th ALL TIME BEST)*
+🎤 **[Love is MY RAIL](https://open.spotify.com/track/6mL74yZt8nPTxDXE02V1nl)** by **Konomi Suzuki** *(lead)*
 
 
 
@@ -129,8 +129,8 @@
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥉 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 19:47:42Z UTC
+🕐 Last updated: 2025-11-26 20:14:38Z UTC
 <!-- SPOTIFY-END -->
