@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed032a924a5a80a25a9ec126" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [We'll Be Alright (Movie Edit)](https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq)**
-*by* **RADWIMPS**
-*Album:* Weathering With You
+**🎵 [oath sign](https://open.spotify.com/track/4WRoLfCYJ4sLMhXgQJnI2N)**
+*by* **LiSA**
+*Album:* LOVER"S"MiLE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="149" height="4" fill="#1db954" rx="2"/>
+    <circle cx="149" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:05 • 4:18
+    2:05 • 4:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Our Light](https://open.spotify.com/track/6o5Y5wrLuWvfS2qklYB0oc)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
+🎤 **[CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)** by **Konomi Suzuki** *(17)*
+🎤 **[Prologue](https://open.spotify.com/track/5afshZUnxUeMkYGSkf8iqP)** by **美波** *(カワキヲアメク)*
+🎤 **[We'll Be Alright (Movie Edit)](https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq)** by **RADWIMPS** *(Weathering With You)*
 🎤 **[A Way of Life](https://open.spotify.com/track/68E0GBbBBD55EFarzLOllN)** by **MOSQ** *(Mosq Reload Mixes)*
-🎤 **[Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF)** by **LiSA** *(Launcher)*
-🎤 **[Throw Away Your Mask](https://open.spotify.com/track/2uNrsZLJloillM1kbzxgmn)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
-🎤 **[Absolute Soul](https://open.spotify.com/track/16y05kAK8ssxKVFX31O2yy)** by **Konomi Suzuki** *(lead)*
-🎤 **[Be Yourself Or Die Dreaming](https://open.spotify.com/track/38Ag3lftAiZfCxe5W7Psnp)** by **Nouvelle Story** *(Be Yourself Or Die Dreaming)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 17:12:07Z UTC
+🕐 Last updated: 2025-11-26 17:32:05Z UTC
 <!-- SPOTIFY-END -->
