@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27349eb631f9c4b16c5212f3b35" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)**
+*by* **diggidaniel**
+*Album:* Zwing mich zu meinem Glück
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="266" height="4" fill="#1db954" rx="2"/>
+    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:01 • 2:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Hör mal mein Herz <3…](https://open.spotify.com/track/418wO5mzacDD1wDxdt1WVT)** by **Replay Okay** *(RIP Hyperpop DE 2022-2025)*
+🎤 **[downtown](https://open.spotify.com/track/5abkvDTaF8f3OHRyi0feuB)** by **lagosta<3** *(downtown)*
+🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
+🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
 🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
-🎤 **[NEWLY HUMAN FEELING](https://open.spotify.com/track/20EuE4NOmibKW8mEdidlOq)** by **Moe Shop, Jamie Paige** *(EVO EVO)*
-🎤 **[She Said I'm Gloomy - Remastered](https://open.spotify.com/track/6EMdiFVShHYnJIqcFzgBQX)** by **Nouvelle Story** *(She Said I'm Gloomy (Remastered))*
-🎤 **[BIRDBRAIN](https://open.spotify.com/track/0d42paxcUOhgvWy0HLxxYl)** by **Jamie Paige, OK Glass** *(Constant Companions (Deluxe Edition))*
+🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-26 10:15:18Z UTC
+🕐 Last updated: 2025-11-26 10:44:37Z UTC
 <!-- SPOTIFY-END -->
