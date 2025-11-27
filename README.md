@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735622096d8a571500b62e6b12" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d78be07f88363bb92ef5ed60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [true_ς๏ɭ๏ยг](https://open.spotify.com/track/6PO5C5YEsDTdMGt0BGusXo)**
-*by* **jequya**
-*Album:* kulyaimo
+**🎵 [paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)**
+*by* **Senses**
+*Album:* paralyzed
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="248" height="4" fill="#1db954" rx="2"/>
-    <circle cx="248" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 2:58
+    0:25 • 2:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
-🎤 **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)*
-🎤 **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
+🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 21:47:41Z UTC
+🕐 Last updated: 2025-11-27 22:12:21Z UTC
 <!-- SPOTIFY-END -->
