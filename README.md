@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273592a417fe522507be548c22f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273522c7081739c5196844e4dce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Moments](https://open.spotify.com/track/2avWl6QskQvfPZxj42CA5Q)**
+**🎵 [Silent Depths](https://open.spotify.com/track/6HOnyzjeGwEhwZUOdxGieB)**
 *by* **Soothing Oasis**
-*Album:* Moments
+*Album:* Calming River
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="271" height="4" fill="#1db954" rx="2"/>
-    <circle cx="271" cy="2" r="6" fill="#1db954"/>
+    <rect width="18" height="4" fill="#1db954" rx="2"/>
+    <circle cx="18" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:05 • 2:18
+    0:08 • 2:15
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 05:34:54Z UTC
+🕐 Last updated: 2025-11-27 05:50:23Z UTC
 <!-- SPOTIFY-END -->
