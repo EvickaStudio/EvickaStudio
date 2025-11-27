@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
-🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
+🎤 **[angelz den](https://open.spotify.com/track/2LK9vpASV1qXqoGKT0IbFr)** by **KidSnorlax, 6arelyhuman** *(angelz den)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luutwo, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
+🎤 **[zombies in designer](https://open.spotify.com/track/5LdmPs6SJnjzPCvz0K931i)** by **pink luu, cy4ne, 10n35t4r** *(zombies in designer)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 15:49:02Z UTC
+🕐 Last updated: 2025-11-27 16:16:00Z UTC
 <!-- SPOTIFY-END -->
