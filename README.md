@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738e04b5ec21c60f8745a435e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)**
-*by* **VØJ, Narvent**
-*Album:* Memory Reboot
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 3:56
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
-🎤 **[I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)** by **Mike Posner, Seeb** *(At Night, Alone.)*
-🎤 **[I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)** by **Mike Posner, Seeb** *(At Night, Alone.)*
-🎤 **[entombed](https://open.spotify.com/track/08YnzLilXX7e0zLSvonKRK)** by **nowayback** *(entombed)*
-🎤 **[Elastic Heart](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz)** by **Sia** *(1000 Forms Of Fear)*
+🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)** by **Two Door Cinema Club** *(Tourist History)*
+🎤 **[last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)** by **5v, mint, inssekt** *(last chance)*
+🎤 **[Arcadia](https://open.spotify.com/track/6nX0oVPdZxDnI2hfN0tkz3)** by **uusymon** *(Arcadia)*
+🎤 **[nuts](https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK)** by **Lil Peep, rainy bear** *(LIVE FOREVER)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 10:14:36Z UTC
+🕐 Last updated: 2025-11-27 10:40:17Z UTC
 <!-- SPOTIFY-END -->
