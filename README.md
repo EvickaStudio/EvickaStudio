@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730ad97afff296165f7d48f53c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dream Realm](https://open.spotify.com/track/1U36g1FU275M6AIuinBYVW)**
+**🎵 [Sleeping Earth](https://open.spotify.com/track/261nfVFtGFkC2Tn410aTI6)**
 *by* **Soothing Oasis**
-*Album:* Dream Realm
+*Album:* Sleeping Earth
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="127" height="4" fill="#1db954" rx="2"/>
+    <circle cx="127" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:10
+    0:53 • 2:07
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 04:29:12Z UTC
+🕐 Last updated: 2025-11-27 04:46:41Z UTC
 <!-- SPOTIFY-END -->
