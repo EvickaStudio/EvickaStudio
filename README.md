@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)**
+*by* **sparr00w**
+*Album:* Nadja
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:49 • 2:16
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
-🎤 **[angelz den](https://open.spotify.com/track/2LK9vpASV1qXqoGKT0IbFr)** by **KidSnorlax, 6arelyhuman** *(angelz den)*
-🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
-🎤 **[princess](https://open.spotify.com/track/63QU2geVNSsu3CU9KmGDQl)** by **luutwo, Skatey Hellstar, chromey** *(HYPERCORE, Vol. 3)*
-🎤 **[zombies in designer](https://open.spotify.com/track/5LdmPs6SJnjzPCvz0K931i)** by **pink luu, cy4ne, 10n35t4r** *(zombies in designer)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
+🎤 **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by **Sidewalks and Skeletons** *(White Light)*
+🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
+🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 16:16:00Z UTC
+🕐 Last updated: 2025-11-27 16:45:23Z UTC
 <!-- SPOTIFY-END -->
