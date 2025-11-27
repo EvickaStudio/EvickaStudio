@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27314877ba5b2264414403b70bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732f7b75f52408a384b802c5b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Time](https://open.spotify.com/track/65WU1Hk9yIu3LZUFaMMnHS)**
-*by* **MOSQ**
-*Album:* Mosq Reload Mixes
+**🎵 [Show Stealer ("Persona５ : The Phantom X" OP2 Soundtrack）](https://open.spotify.com/track/7jPlAbjvgKDiLki4cKpaCw)**
+*by* **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC**
+*Album:* Show Stealer ("Persona５ : The Phantom X" OP2 Soundtrack）
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 2:29
+    2:43 • 3:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Changing Seasons -Reload-](https://open.spotify.com/track/1PPzHVc3ietfHHU0vPPPDl)** by **Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
+🎤 **[怪物](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef)** by **YOASOBI** *(THE BOOK 2)*
+🎤 **[ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA)** by **稲葉曇** *(ウェザーステーション)*
+🎤 **[Time](https://open.spotify.com/track/65WU1Hk9yIu3LZUFaMMnHS)** by **MOSQ** *(Mosq Reload Mixes)*
 🎤 **[Zenzenzense - movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR)** by **RADWIMPS** *(Your Name.)*
-🎤 **[Tokyo Daylight](https://open.spotify.com/track/5dhdDcfa2lXYlg9XSqqZY2)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
-🎤 **[This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)** by **Konomi Suzuki** *(LIFE of DASH)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 19:33:45Z UTC
+🕐 Last updated: 2025-11-27 19:47:46Z UTC
 <!-- SPOTIFY-END -->
