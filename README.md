@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389c7a2794ba1cd8cc2f9ac6b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332061a41dbe77a6a41647017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dune](https://open.spotify.com/track/0DCTlszmjW9zzXciek6HO3)**
-*by* **Avery's Ambient**
-*Album:* Ripples in the Sand
+**🎵 [Early Hours](https://open.spotify.com/track/5Fd3wmg41l4XVO2GaNIk8E)**
+*by* **Soothing Oasis**
+*Album:* Foggy Morning
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="155" height="4" fill="#1db954" rx="2"/>
-    <circle cx="155" cy="2" r="6" fill="#1db954"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:10
+    2:02 • 2:05
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 06:51:42Z UTC
+🕐 Last updated: 2025-11-27 07:14:45Z UTC
 <!-- SPOTIFY-END -->
