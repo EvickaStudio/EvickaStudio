@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27374b9a0a138b331a6d1cbd32f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273001a2c71c82d87c527234ee5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ホタルノヒカリ](https://open.spotify.com/track/7AffKWcNn5Zv7QFgScW2ox)**
-*by* **Ikimonogakari**
-*Album:* ハジマリノウタ
+**🎵 [ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)**
+*by* **oaf1**
+*Album:* ilove urr girl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 4:04
+    0:25 • 1:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Angels and Demons](https://open.spotify.com/track/1jxfJHjTJ4741IjOC57MHS)** by **TeddyLoid, New PANTY & STOCKING with GARTERBELT** *(Theme of New PANTY & STOCKING)*
-🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
-🎤 **[courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR)** by **Haruka Tomatsu** *(戸松遥 BEST SELECTION -sunshine-)*
-🎤 **[The Whims of Fate](https://open.spotify.com/track/73DCreJgfFdFxVnjsMSeo4)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[STYX HELIX](https://open.spotify.com/track/2tcSz3bcJqriPg9vetvJLs)** by **MYTH & ROID** *(eYe's)*
+🎤 **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))*
+🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luutwo, mundus** *(wunderschön)*
+🎤 **[picnic](https://open.spotify.com/track/6ZQ9NNvZL8Go6iU0Cwpce7)** by **i9bonsai** *(picnic)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 20:47:59Z UTC
+🕐 Last updated: 2025-11-27 21:11:56Z UTC
 <!-- SPOTIFY-END -->
