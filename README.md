@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d78be07f88363bb92ef5ed60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)**
-*by* **Senses**
-*Album:* paralyzed
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:44
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
-🎤 **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[Life's Unfair](https://open.spotify.com/track/6X6nAlGNDF0XjMa17Yy0tH)** by **5v** *(Life's Unfair)*
+🎤 **[snorting adderall](https://open.spotify.com/track/5q9wy2LnQYokzLnImtGqz0)** by **pink luu, nami** *(snorting adderall)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[i understand U_U](https://open.spotify.com/track/6U1d49teNUKDPLvmWc4Ky6)** by **03osc** *(deleted_filez)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 22:12:21Z UTC
+🕐 Last updated: 2025-11-27 22:32:11Z UTC
 <!-- SPOTIFY-END -->
