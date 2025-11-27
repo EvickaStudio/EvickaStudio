@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bf97b2acaf967bb8ee7aa2f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27374b9a0a138b331a6d1cbd32f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [STYX HELIX](https://open.spotify.com/track/2tcSz3bcJqriPg9vetvJLs)**
-*by* **MYTH & ROID**
-*Album:* eYe's
+**🎵 [ホタルノヒカリ](https://open.spotify.com/track/7AffKWcNn5Zv7QFgScW2ox)**
+*by* **Ikimonogakari**
+*Album:* ハジマリノウタ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:29 • 4:49
+    2:32 • 4:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[It's Going Down Now](https://open.spotify.com/track/3uNb9n1ShVR32Xjskf6Y2o)** by **MOSQ** *(Mosq Reload Mixes)*
-🎤 **[シルシ](https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k)** by **LiSA** *(Launcher)*
-🎤 **[Blow out](https://open.spotify.com/track/3MCvjM3fRBxL1e4KHgSH10)** by **Konomi Suzuki** *(LIFE of DASH)*
-🎤 **[ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18)** by **Ikimonogakari** *(Chou Ikimonobakari Tennen Kinen Members Best Selection)*
-🎤 **[Beneath the Mask](https://open.spotify.com/track/5XLXrm5JVMdOus1fWmTOFw)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Angels and Demons](https://open.spotify.com/track/1jxfJHjTJ4741IjOC57MHS)** by **TeddyLoid, New PANTY & STOCKING with GARTERBELT** *(Theme of New PANTY & STOCKING)*
+🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
+🎤 **[courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR)** by **Haruka Tomatsu** *(戸松遥 BEST SELECTION -sunshine-)*
+🎤 **[The Whims of Fate](https://open.spotify.com/track/73DCreJgfFdFxVnjsMSeo4)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[STYX HELIX](https://open.spotify.com/track/2tcSz3bcJqriPg9vetvJLs)** by **MYTH & ROID** *(eYe's)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 20:31:07Z UTC
+🕐 Last updated: 2025-11-27 20:47:59Z UTC
 <!-- SPOTIFY-END -->
