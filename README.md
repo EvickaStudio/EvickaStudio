@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732f7b75f52408a384b802c5b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Show Stealer ("Persona５ : The Phantom X" OP2 Soundtrack）](https://open.spotify.com/track/7jPlAbjvgKDiLki4cKpaCw)**
-*by* **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC**
-*Album:* Show Stealer ("Persona５ : The Phantom X" OP2 Soundtrack）
+**🎵 [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18)**
+*by* **Ikimonogakari**
+*Album:* Chou Ikimonobakari Tennen Kinen Members Best Selection
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="132" height="4" fill="#1db954" rx="2"/>
+    <circle cx="132" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 3:06
+    1:35 • 3:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Changing Seasons -Reload-](https://open.spotify.com/track/1PPzHVc3ietfHHU0vPPPDl)** by **Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
-🎤 **[怪物](https://open.spotify.com/track/2vjY3jGKElvqXoaGNEuYef)** by **YOASOBI** *(THE BOOK 2)*
-🎤 **[ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA)** by **稲葉曇** *(ウェザーステーション)*
-🎤 **[Time](https://open.spotify.com/track/65WU1Hk9yIu3LZUFaMMnHS)** by **MOSQ** *(Mosq Reload Mixes)*
-🎤 **[Zenzenzense - movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR)** by **RADWIMPS** *(Your Name.)*
+🎤 **[Beneath the Mask](https://open.spotify.com/track/5XLXrm5JVMdOus1fWmTOFw)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Mass Destruction -Reload-](https://open.spotify.com/track/4xCzUoKfZOlQ99Lg48kgQN)** by **Lotus Juice, Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
+🎤 **[ME!ME!ME! feat. daoko_pt.2](https://open.spotify.com/track/5jaSLzDbU8PrKhtNuvN0qA)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF)** by **LiSA** *(Launcher)*
+🎤 **[Paradisus-Paradoxum](https://open.spotify.com/track/3CrYQaVrFUppSElxRwNHJK)** by **MYTH & ROID** *(eYe's)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 19:47:46Z UTC
+🕐 Last updated: 2025-11-27 20:12:45Z UTC
 <!-- SPOTIFY-END -->
