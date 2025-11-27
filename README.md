@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738d2cfad007b9431f48aef135" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738e04b5ec21c60f8745a435e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z)**
-*by* **The Chainsmokers, ROZES**
-*Album:* Roses
+**🎵 [Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)**
+*by* **VØJ, Narvent**
+*Album:* Memory Reboot
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:57 • 3:46
+    1:38 • 3:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC)** by **Sia** *(1000 Forms Of Fear)*
-🎤 **[Cheap Thrills (feat. Sean Paul)](https://open.spotify.com/track/6b3b7lILUJqXcp6w9wNQSm)** by **Sia, Sean Paul** *(Cheap Thrills (feat. Sean Paul))*
-🎤 **[DOOR](https://open.spotify.com/track/6MCSW8B86s60adxjXgFnT4)** by **エミリア(CV:高橋李依)** *(TV SERIES ”RE:ZERO -STARTING LIFE IN ANOTHER WORLD” CHRACTER SONG ALBUM)*
-🎤 **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)*
-🎤 **[If You're Ready](https://open.spotify.com/track/2AYqYR1LA9IBVhETeMooU0)** by **ikigaisoulya, letmedrown** *(If You're Ready)*
+🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
+🎤 **[I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)** by **Mike Posner, Seeb** *(At Night, Alone.)*
+🎤 **[I Took A Pill In Ibiza - Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8)** by **Mike Posner, Seeb** *(At Night, Alone.)*
+🎤 **[entombed](https://open.spotify.com/track/08YnzLilXX7e0zLSvonKRK)** by **nowayback** *(entombed)*
+🎤 **[Elastic Heart](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz)** by **Sia** *(1000 Forms Of Fear)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 09:49:18Z UTC
+🕐 Last updated: 2025-11-27 10:14:36Z UTC
 <!-- SPOTIFY-END -->
