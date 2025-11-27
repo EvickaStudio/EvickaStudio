@@ -91,32 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Moonrise](https://open.spotify.com/track/38E3zPQLu15gcim6yL4vzg)**
-*by* **Soothing Oasis**
-*Album:* Stillness
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 2:07
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-No recently played tracks.
+🎤 **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)*
+🎤 **[If You're Ready](https://open.spotify.com/track/2AYqYR1LA9IBVhETeMooU0)** by **ikigaisoulya, letmedrown** *(If You're Ready)*
+🎤 **[your place](https://open.spotify.com/track/58dERu1CXln3UaGw77QpaI)** by **healings** *(your place)*
+🎤 **[Made in Heaven](https://open.spotify.com/track/2aGTEXknZ3BX0Q0HRk4lhd)** by **Pastelfuneral** *(Made in Heaven)*
+🎤 **[EX-SKINWALKER](https://open.spotify.com/track/7js29mxQproqdh5FEJgJ93)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
 
 
 
@@ -139,5 +124,5 @@ No recently played tracks.
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-27 08:47:31Z UTC
+🕐 Last updated: 2025-11-27 09:14:49Z UTC
 <!-- SPOTIFY-END -->
