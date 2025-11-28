@@ -95,7 +95,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b2731122e7b32248151af3c03c54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [non seen demonic layer](https://open.spotify.com/track/0vd15QKB96ghtEplCnXabr)**
+**🎵 [fragile interlude](https://open.spotify.com/track/2Zpnb0KIhQg0ufExdkkURf)**
 *by* **meat computer**
 *Album:* new world disorder
 
@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="74" height="4" fill="#1db954" rx="2"/>
+    <circle cx="74" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 1:51
+    0:41 • 2:46
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[empty stressful half dreams](https://open.spotify.com/track/2TdiAElek08HAjeVG1FGAD)** by **meat computer** *(new world disorder)*
+🎤 **[full moon energy portal](https://open.spotify.com/track/5AqRO03gXvMHfHzjUPZD2V)** by **meat computer** *(new world disorder)*
+🎤 **[non seen demonic layer](https://open.spotify.com/track/0vd15QKB96ghtEplCnXabr)** by **meat computer** *(new world disorder)*
 🎤 **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)*
 🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[so wie kenny](https://open.spotify.com/track/7nfx9tepmahpL6ISf7vCjY)** by **luu, mehlhaltig** *(so wie kenny)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-28 16:44:43Z UTC
+🕐 Last updated: 2025-11-28 16:54:35Z UTC
 <!-- SPOTIFY-END -->
