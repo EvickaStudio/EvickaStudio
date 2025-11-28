@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273cb54a0852728136f8db62a5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)**
+*by* **Harrison Gordon**
+*Album:* The Yuppies are Winning
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    4:10 • 4:20
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)*
+🎤 **[static dreams](https://open.spotify.com/track/6oTDhIMH8R2XSb4iqpae7v)** by **marchpane** *(binary euphoria)*
+🎤 **[stari*](https://open.spotify.com/track/7cnPmj7ArsPRuLOEpm1nC1)** by **SQF2000, Tamino404** *(stari*)*
 🎤 **[immer nur geträumt (demo)](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt (demo))*
 🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
-🎤 **[PIXELATED KISSES (Visualizer)](https://open.spotify.com/track/24Xlwc81PTlnAgWyA6wOzB)** by **Joji** *(PIXELATED KISSES (Visualizer))*
-🎤 **[PIXELATED KISSES (Visualizer)](https://open.spotify.com/track/24Xlwc81PTlnAgWyA6wOzB)** by **Joji** *(PIXELATED KISSES (Visualizer))*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-28 17:30:10Z UTC
+🕐 Last updated: 2025-11-28 17:41:31Z UTC
 <!-- SPOTIFY-END -->
