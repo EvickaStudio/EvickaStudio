@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)*
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
 🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
 🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
 🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
-🎤 **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)*
-🎤 **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-29 12:24:02Z UTC
+🕐 Last updated: 2025-11-29 13:01:21Z UTC
 <!-- SPOTIFY-END -->
