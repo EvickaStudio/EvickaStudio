@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739bdd7d22ca1e86b0def0a4b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d1869d8c477d291a205a2d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [She Said I'm Gloomy - Remastered](https://open.spotify.com/track/6EMdiFVShHYnJIqcFzgBQX)**
-*by* **Nouvelle Story**
-*Album:* She Said I'm Gloomy (Remastered)
+**🎵 [Zenzenzense - movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR)**
+*by* **RADWIMPS**
+*Album:* Your Name.
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 4:12
+    4:35 • 4:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ME!ME!ME! feat. daoko_pt.2](https://open.spotify.com/track/5jaSLzDbU8PrKhtNuvN0qA)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[She Said I'm Gloomy - Remastered](https://open.spotify.com/track/6EMdiFVShHYnJIqcFzgBQX)** by **Nouvelle Story** *(She Said I'm Gloomy (Remastered))*
 🎤 **[Rivers In the Desert](https://open.spotify.com/track/6rgIKCKKCnhyaNTgmY73tq)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 🎤 **[Redo](https://open.spotify.com/track/0WjYHf18yTqGEQjLRHLNWp)** by **Konomi Suzuki** *(lead)*
 🎤 **[ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)** by **美波** *(カワキヲアメク)*
-🎤 **[A Night Wanderer (From Femc Reloaded)](https://open.spotify.com/track/1QvA3J1IyF5zRWoLmwILw7)** by **MOSQ** *(A Night Wanderer (From Femc Reloaded))*
-🎤 **[Theme for Scanty & Knee Socks](https://open.spotify.com/track/6Za2rCpQhZrRXldgz1MFAk)** by **TeddyLoid** *(Panty & Stocking with Garterbelt　The Original Soundtrack)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-30 21:37:52Z UTC
+🕐 Last updated: 2025-11-30 21:47:38Z UTC
 <!-- SPOTIFY-END -->
