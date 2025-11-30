@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273668fa3c6e60ef2375a87ed12" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP)**
-*by* **Konomi Suzuki**
-*Album:* ULTRA FLASH
+**🎵 [Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)**
+*by* **RADWIMPS, Toko Miura**
+*Album:* Weathering With You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="196" height="4" fill="#1db954" rx="2"/>
-    <circle cx="196" cy="2" r="6" fill="#1db954"/>
+    <rect width="212" height="4" fill="#1db954" rx="2"/>
+    <circle cx="212" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 4:03
+    2:13 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
-🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[BURSTY GREEDY SPIDER](https://open.spotify.com/track/2bV5eChvsGabS45jnmdlT7)** by **Konomi Suzuki** *(ULTRA FLASH)*
-🎤 **[ライラック](https://open.spotify.com/track/1bjvM3ArxhRzIUuum0bB7P)** by **美波** *(カワキヲアメク)*
+🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
+🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
+🎤 **[Nandemonaiya - movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6)** by **RADWIMPS** *(Your Name.)*
+🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP)** by **Konomi Suzuki** *(ULTRA FLASH)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-30 22:12:17Z UTC
+🕐 Last updated: 2025-11-30 22:32:16Z UTC
 <!-- SPOTIFY-END -->
