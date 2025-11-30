@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734a8663a8dbc6ac243ff4ef74" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)**
-*by* **mental**
-*Album:* Bruise
+**🎵 [SaveOST](https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei)**
+*by* **sparr00w**
+*Album:* Save Room Theme
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="180" height="4" fill="#1db954" rx="2"/>
-    <circle cx="180" cy="2" r="6" fill="#1db954"/>
+    <rect width="260" height="4" fill="#1db954" rx="2"/>
+    <circle cx="260" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 2:07
+    2:14 • 2:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
+🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
 🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
 🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
 🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
-🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
-🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-30 17:39:52Z UTC
+🕐 Last updated: 2025-11-30 17:47:48Z UTC
 <!-- SPOTIFY-END -->
