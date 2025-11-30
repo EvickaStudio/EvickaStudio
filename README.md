@@ -92,12 +92,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a2daead7e0289f6760c9504c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734a8663a8dbc6ac243ff4ef74" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)**
-*by* **Hello Hannes**
-*Album:* FML
+**🎵 [Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)**
+*by* **mental**
+*Album:* Bruise
 
 
 <p align="center">
@@ -108,7 +108,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 1:30
+    1:16 • 2:07
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
-🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
-🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
-🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
-🎤 **[Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6)** by **Sia** *(Colour The Small One)*
+🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
+🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
+🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
+🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
+🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-30 17:29:02Z UTC
+🕐 Last updated: 2025-11-30 17:39:52Z UTC
 <!-- SPOTIFY-END -->
