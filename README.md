@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736f82fc445adcfad0bc3f2e0f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [A Night Wanderer (From Femc Reloaded)](https://open.spotify.com/track/1QvA3J1IyF5zRWoLmwILw7)**
-*by* **MOSQ**
-*Album:* A Night Wanderer (From Femc Reloaded)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 3:44
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)** by **美波** *(カワキヲアメク)*
+🎤 **[A Night Wanderer (From Femc Reloaded)](https://open.spotify.com/track/1QvA3J1IyF5zRWoLmwILw7)** by **MOSQ** *(A Night Wanderer (From Femc Reloaded))*
 🎤 **[Theme for Scanty & Knee Socks](https://open.spotify.com/track/6Za2rCpQhZrRXldgz1MFAk)** by **TeddyLoid** *(Panty & Stocking with Garterbelt　The Original Soundtrack)*
 🎤 **[Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9)** by **稲葉曇** *(ANTICYCLONE)*
 🎤 **[Reminiscence Reincarnation](https://open.spotify.com/track/35DydwQwb4AIXJoghOoPcr)** by **MYTH & ROID** *(Future is Mine)*
-🎤 **[CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)** by **Konomi Suzuki** *(17)*
-🎤 **[No More What Ifs](https://open.spotify.com/track/2SQ9RmQAOxGICUSt9T5dIX)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-11-30 20:48:45Z UTC
+🕐 Last updated: 2025-11-30 21:11:21Z UTC
 <!-- SPOTIFY-END -->
