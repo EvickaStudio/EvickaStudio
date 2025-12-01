@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273591827a625d6783209c5b8ff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27367c70f1c8f8f06292bf4fef9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)**
-*by* **Dilla, emi x**
-*Album:* Willst du
+**🎵 [In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)**
+*by* **Pink Katana**
+*Album:* In mein Herz
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:55
+    0:34 • 2:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)*
-🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)*
-🎤 **[Staub](https://open.spotify.com/track/74Xs1K4MxMXNBs2ANbW9P2)** by **S1RENA** *(Staub)*
+🎤 **[copy & paste](https://open.spotify.com/track/5D4FubBTGAUAVhICPmOYAk)** by **dreamcache** *(copy & paste)*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[SPIRIT OF THUNDER](https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44)** by **Yung Lean, DVRST, Riff Raff, Bladee** *(SPIRIT OF THUNDER)*
+🎤 **[Moments Like This They Never Last](https://open.spotify.com/track/50w1uLhTHDTml7WDIuq7j6)** by **Eera** *(Cant Stop Wasting Time)*
+🎤 **[Heb ab - sped up](https://open.spotify.com/track/27vUyn9Jmnky5ru1kuJgYu)** by **S1RENA** *(Heb ab)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 18:54:50Z UTC
+🕐 Last updated: 2025-12-01 19:16:04Z UTC
 <!-- SPOTIFY-END -->
