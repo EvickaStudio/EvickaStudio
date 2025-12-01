@@ -91,43 +91,24 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373f105ca4eb0baf8636da217" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)**
-*by* **Psych**
-*Album:* ur love is too risky
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo** *(meine grosse liebe)*
+🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
 🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
 🎤 **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luutwo, offaflat** *(was kann ich tun?)*
-🎤 **[LOS3R](https://open.spotify.com/track/1iZZfXvpm3sKYHrQnf8iNz)** by **Scarly, ghostmasheen** *(LOS3R)*
-🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 22:33:32Z UTC
+🕐 Last updated: 2025-12-01 22:49:33Z UTC
 <!-- SPOTIFY-END -->
