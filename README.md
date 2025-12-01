@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27352f70e41588e2b53f42a957a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Roof](https://open.spotify.com/track/1pAgrtEcO6pF6ekmJsUfVe)**
-*by* **Kev Koko**
-*Album:* Roof
+**🎵 [AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)**
+*by* **Ecco2k**
+*Album:* E
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 2:49
+    1:47 • 4:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)*
-🎤 **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)*
-🎤 **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)*
-🎤 **[Memory Of Love](https://open.spotify.com/track/11FKG1EK1GImmtvXetBzQk)** by **Thrilliam Angels, floweroom, User2222** *(The Static Screams Your Name)*
+🎤 **[high as hell and sad as fuck](https://open.spotify.com/track/465G70pPUuXGI6GJiYBi61)** by **Love Pact** *(party boy)*
+🎤 **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)*
+🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
+🎤 **[Nächte in der Trap](https://open.spotify.com/track/7Ettk6tYui5ucUeRlEyZE3)** by **Beyazz** *(Nächte in der Trap)*
+🎤 **[lomomoto#](https://open.spotify.com/track/1MRUW05pHgu15jkebzP1w6)** by **Mietze Conte** *(Mietzee)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 17:15:01Z UTC
+🕐 Last updated: 2025-12-01 17:42:06Z UTC
 <!-- SPOTIFY-END -->
