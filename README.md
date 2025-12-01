@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7a42614ce04a37bd6328fe2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273991e501eb3c6befc2a73f123" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [every single day](https://open.spotify.com/track/4GxIRjPPXxj97Ecv8HUJyx)**
-*by* **kets4eki, Pröz**
-*Album:* party2daybreak
+**🎵 [changes](https://open.spotify.com/track/780m9E2Kw6EY204EveWIk3)**
+*by* **Love Pact**
+*Album:* changes
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 1:22
+    1:05 • 1:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Anders](https://open.spotify.com/track/0Z15svxDzrpLRyFGLd3ZOp)** by **Keule** *(Anders)*
+🎤 **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)*
+🎤 **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by **Yung Hurn, skrt cobain** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
 🎤 **[Zwilling](https://open.spotify.com/track/3S6UIdMcDx98LvbOYCRthO)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
-🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[give u the moon](https://open.spotify.com/track/2xa9224f1RXkIDoRvs58yI)** by **Lil Peep** *(LIVE FOREVER)*
-🎤 **[Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)** by **Kanye West, T-Pain** *(Graduation)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 19:39:06Z UTC
+🕐 Last updated: 2025-12-01 19:49:09Z UTC
 <!-- SPOTIFY-END -->
