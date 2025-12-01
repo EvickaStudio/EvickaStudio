@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27368d07434bb9e0282b788a81a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pierrot](https://open.spotify.com/track/0SIOdxVzOXTpuTN1fEj1Ff)**
-*by* **sparr00w**
-*Album:* Save Room Theme
+**🎵 [the girl next door](https://open.spotify.com/track/64obUTbSOTmiBRjQOgHUib)**
+*by* **IVOXYGEN**
+*Album:* the girl next door
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 2:18
+    1:23 • 3:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[iridescent](https://open.spotify.com/track/04zVG0upsOQdGEDDmwqNPa)** by **k0d4m4, echo angel, fake flowers** *(iridescent)*
-🎤 **[Heaven](https://open.spotify.com/track/7f5cuFTYXSRZuT5VaDxybm)** by **DJmegan23, cranes, mental** *(Great Escape/Heaven)*
-🎤 **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)*
-🎤 **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by **strangerperson** *(Kisses und Flowers)*
-🎤 **[Anams Song](https://open.spotify.com/track/3ckHTyS4sf5D6HJ3VxRStD)** by **Thrilliam Angels, 020baby** *(The Static Screams Your Name)*
+🎤 **[wieder mal](https://open.spotify.com/track/1JHeIF48hQCrSDcfBa1and)** by **Sampagne, YUNG SAINT PAUL, CRO** *(backtoback)*
+🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
+🎤 **[OFF THE PILL](https://open.spotify.com/track/3x6R6RD61Ll0ElQzsLyTjx)** by **vylexx, xavv1e, kmrnxo, 4EXIT!, kets4eki** *(OFF THE PILL)*
+🎤 **[by wszystko jebło](https://open.spotify.com/track/7rLDdFlRIrt7KVIGrb0XA1)** by **s33ya, morecalcium** *(by wszystko jebło)*
+🎤 **[Ron Bielecki](https://open.spotify.com/track/7laBncW2Geb71VrwaXETco)** by **Trashmann** *(Social Media Desaster - EP)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 15:36:15Z UTC
+🕐 Last updated: 2025-12-01 15:52:17Z UTC
 <!-- SPOTIFY-END -->
