@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27390f7cc221c8b5a553ce161ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy)**
+*by* **Ritter Lean**
+*Album:* geklaut
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:56 • 2:36
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre)** by **LiSA** *(LEO-NiNE)*
-🎤 **[私がモテないのはどう考えてもお前らが悪い](https://open.spotify.com/track/4bAyEqlO8cJVySCcImyk7u)** by **Konomi Suzuki, Kiba Of Akiba** *(17)*
-🎤 **[Angels and Demons](https://open.spotify.com/track/1jxfJHjTJ4741IjOC57MHS)** by **TeddyLoid, New PANTY & STOCKING with GARTERBELT** *(Theme of New PANTY & STOCKING)*
-🎤 **[Prologue](https://open.spotify.com/track/5afshZUnxUeMkYGSkf8iqP)** by **美波** *(カワキヲアメク)*
-🎤 **[Be Yourself Or Die Dreaming](https://open.spotify.com/track/38Ag3lftAiZfCxe5W7Psnp)** by **Nouvelle Story** *(Be Yourself Or Die Dreaming)*
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
+🎤 **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)*
+🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
+🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 07:50:11Z UTC
+🕐 Last updated: 2025-12-01 08:21:03Z UTC
 <!-- SPOTIFY-END -->
