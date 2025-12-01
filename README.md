@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737fd68d7f92983e9003002cb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4a0f46ec51ef2ddbcf3fd32" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sears Tower](https://open.spotify.com/track/0PWFdOlwwQIf0yLS7Gtw9Q)**
-*by* **SALEM**
-*Album:* Fires In Heaven
+**🎵 [Dunkelblau](https://open.spotify.com/track/2XGWBfy7FY8XP9YGWyF7ju)**
+*by* **Ion Miles, BHZ**
+*Album:* In Liebe, Ion
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 3:07
+    3:01 • 3:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Blick über die Stadt](https://open.spotify.com/track/27oTYbaXoQF4I1RtSHAitV)** by **52Blue** *(Blick über die Stadt)*
+🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
+🎤 **[Sears Tower](https://open.spotify.com/track/0PWFdOlwwQIf0yLS7Gtw9Q)** by **SALEM** *(Fires In Heaven)*
 🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
 🎤 **[UNDER CONTROL](https://open.spotify.com/track/1OGiBWp2vKLshpIWRlySc2)** by **funeral** *(UNDER CONTROL)*
-🎤 **[Bist Du alleine.](https://open.spotify.com/track/3JJ6v2R0Mwm8mUm8ano1P2)** by **Yung Hurn** *(1220)*
-🎤 **[auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)** by **wilson100k** *(auf wiedersehen </3)*
-🎤 **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 21:35:59Z UTC
+🕐 Last updated: 2025-12-01 21:47:49Z UTC
 <!-- SPOTIFY-END -->
