@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d39618c319ce20fb35469a12" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27321758484e1d7d23d8900ebf3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)**
-*by* **ilyproxy, leander**
-*Album:* Irgendwer in Wien
+**🎵 [ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)**
+*by* **Yung Hurn, Brutalismus 3000**
+*Album:* ALLEINE (Brutalismus 3000 RMX)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 2:37
+    1:13 • 3:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Es braucht nicht viel, ich will nur sein](https://open.spotify.com/track/12udUDOGGzpXI0cVpjC6sb)** by **strangerperson** *(Es braucht nicht viel, ich will nur sein)*
-🎤 **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/0NmfatHH0v8U3uyvubURs0)** by **Yung Hurn, skrt cobain** *(ELFBAR (feat. Skrt Cobain))*
-🎤 **[Leaked Song](https://open.spotify.com/track/7M0aI1E5ykkJkehMNxYZ72)** by **Yung Hurn** *(Y)*
-🎤 **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)*
-🎤 **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
+🎤 **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)*
+🎤 **[collision course](https://open.spotify.com/track/1Aqem6wOa0vjQ417fE820e)** by **re6ce** *(collision course)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 20:14:34Z UTC
+🕐 Last updated: 2025-12-01 20:32:16Z UTC
 <!-- SPOTIFY-END -->
