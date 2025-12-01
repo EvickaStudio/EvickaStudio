@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734c6acac4c400418a33908394" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27341f11bcbb041e5e216631299" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)**
-*by* **SILICONE VALLEY**
-*Album:* WORLD'S NO.1 SPIRIT
+**🎵 [Bist Du alleine.](https://open.spotify.com/track/3JJ6v2R0Mwm8mUm8ano1P2)**
+*by* **Yung Hurn**
+*Album:* 1220
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:56
+    0:25 • 3:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)*
-🎤 **[red tuesday](https://open.spotify.com/track/7LFNXjwx43EquNfQeHffaG)** by **threedimensionsapart, Lei** *(red tuesday)*
-🎤 **[Top Auf](https://open.spotify.com/track/6BSlXUKU9eTdz5e2uqADsa)** by **BHZ, Ion Miles** *(In Liebe, Ion)*
-🎤 **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)*
-🎤 **[Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR)** by **sign crushes motorist** *(i'll be okay)*
+🎤 **[auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)** by **wilson100k** *(auf wiedersehen </3)*
+🎤 **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)*
+🎤 **[Nichts mit euch zu tun (feat. Ion Miles)](https://open.spotify.com/track/7Dzhx67PjQO32z5juWrvyt)** by **Longus Mongus, BHZ, Ion Miles** *(KOMMAKLAR)*
+🎤 **[Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm)** by **Juice WRLD** *(Legends Never Die)*
+🎤 **[rotten](https://open.spotify.com/track/1ZcHq28lmqdckiwGwuGMMp)** by **jxlyn** *(rotten)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 21:11:17Z UTC
+🕐 Last updated: 2025-12-01 21:27:09Z UTC
 <!-- SPOTIFY-END -->
