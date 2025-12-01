@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273319f6643f9fc6a44402896d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273591827a625d6783209c5b8ff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)**
-*by* **sparr00w**
-*Album:* Soundcloud Archive
+**🎵 [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)**
+*by* **Dilla, emi x**
+*Album:* Willst du
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 1:47
+    0:25 • 2:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I'm On My Own](https://open.spotify.com/track/1O3NUmt3lxCl4LCG9XjNam)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Fragile](https://open.spotify.com/track/1WRVDs7XUvbc7quxIJDU4f)** by **Ecco2k** *(E)*
-🎤 **[sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI)** by **Kasi, antonius** *(sommernacht)*
-🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
-🎤 **[Side by Side](https://open.spotify.com/track/4f4q4xqoQEx6E0IyrNLkYS)** by **Bladee, Thaiboy Digital** *(Icedancer)*
+🎤 **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)*
+🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
+🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
+🎤 **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)*
+🎤 **[Staub](https://open.spotify.com/track/74Xs1K4MxMXNBs2ANbW9P2)** by **S1RENA** *(Staub)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 18:21:40Z UTC
+🕐 Last updated: 2025-12-01 18:54:50Z UTC
 <!-- SPOTIFY-END -->
