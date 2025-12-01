@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27341f11bcbb041e5e216631299" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737fd68d7f92983e9003002cb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bist Du alleine.](https://open.spotify.com/track/3JJ6v2R0Mwm8mUm8ano1P2)**
-*by* **Yung Hurn**
-*Album:* 1220
+**🎵 [Sears Tower](https://open.spotify.com/track/0PWFdOlwwQIf0yLS7Gtw9Q)**
+*by* **SALEM**
+*Album:* Fires In Heaven
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="40" height="4" fill="#1db954" rx="2"/>
-    <circle cx="40" cy="2" r="6" fill="#1db954"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 3:06
+    0:04 • 3:07
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
+🎤 **[UNDER CONTROL](https://open.spotify.com/track/1OGiBWp2vKLshpIWRlySc2)** by **funeral** *(UNDER CONTROL)*
+🎤 **[Bist Du alleine.](https://open.spotify.com/track/3JJ6v2R0Mwm8mUm8ano1P2)** by **Yung Hurn** *(1220)*
 🎤 **[auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)** by **wilson100k** *(auf wiedersehen </3)*
 🎤 **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)*
-🎤 **[Nichts mit euch zu tun (feat. Ion Miles)](https://open.spotify.com/track/7Dzhx67PjQO32z5juWrvyt)** by **Longus Mongus, BHZ, Ion Miles** *(KOMMAKLAR)*
-🎤 **[Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm)** by **Juice WRLD** *(Legends Never Die)*
-🎤 **[rotten](https://open.spotify.com/track/1ZcHq28lmqdckiwGwuGMMp)** by **jxlyn** *(rotten)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 21:27:09Z UTC
+🕐 Last updated: 2025-12-01 21:35:59Z UTC
 <!-- SPOTIFY-END -->
