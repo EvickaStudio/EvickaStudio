@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dca2144cc4cbfc37da6236fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ef837137160f8210e2477fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [immer wenn ich rausgeh](https://open.spotify.com/track/6S8GCS1zj47Le3DQgfbiMp)**
-*by* **RYLO**
-*Album:* immer wenn ich rausgeh
+**🎵 [Meer fahren](https://open.spotify.com/track/73z3CBj1xVRr1IQckImczP)**
+*by* **Longus Mongus, Monk, BHZ**
+*Album:* Meer fahren
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
+    <rect width="21" height="4" fill="#1db954" rx="2"/>
+    <circle cx="21" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 2:23
+    0:16 • 3:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2018](https://open.spotify.com/track/5uETTtRWHG2F1eUWFS0gQc)** by **BHZ, Monk, Longus Mongus, Big Pat, Ion Miles** *(2018)*
-🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
-🎤 **[Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv)** by **Joji** *(Past Won't Leave My Bed)*
-🎤 **[THYS TYM YT REALLY HURT](https://open.spotify.com/track/7golQfgXk4ZxVtaGUcaM0y)** by **TYM, MYT** *(THYS TYM YT REALLY HURT)*
-🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[Bastard](https://open.spotify.com/track/1u6zqsXN5WdTBJktOc0YlI)** by **leander, Hadesthegrim** *(Bastard)*
+🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
+🎤 **[Bad Girl](https://open.spotify.com/track/1EoxkRyTgJay6qlr3GSHKk)** by **IceLipzz, LØUS, SlushhKitten** *(Bad Girl)*
+🎤 **[Shelter](https://open.spotify.com/track/1hOtpq0cDrOLrUeKJTXAU0)** by **Lil Peep, BEXEY** *(Romeo's Regrets)*
+🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 16:19:10Z UTC
+🕐 Last updated: 2025-12-01 16:50:26Z UTC
 <!-- SPOTIFY-END -->
