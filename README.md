@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739db0b19fa174ea309a29278a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27319563ecc58f00c90957132b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)**
-*by* **Snow Strippers**
-*Album:* So What If I'm A Freak
+**🎵 [1:1](https://open.spotify.com/track/2dOah7YpxtEyjQRgwhRvqf)**
+*by* **Ecco2k, Thaiboy Digital, Yung Lean**
+*Album:* Trash Island
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 2:26
+    1:28 • 3:16
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[highs](https://open.spotify.com/track/1cXVnaJfUjoucBBZS9KoE0)** by **$OHO BANI** *($OHO UND NICHT ANDERS)*
-🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
-🎤 **[Weit Entfernt](https://open.spotify.com/track/2V5sOjankNjqgIfxuRR7As)** by **S1RENA** *(weit entfernt ep ☆)*
-🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
-🎤 **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)*
+🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **pathetic240px** *(2008)*
+🎤 **[Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9)** by **Baby B3ns** *(Schmetterling)*
+🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
+🎤 **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)*
+🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 14:40:44Z UTC
+🕐 Last updated: 2025-12-01 14:55:04Z UTC
 <!-- SPOTIFY-END -->
