@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27367c70f1c8f8f06292bf4fef9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7a42614ce04a37bd6328fe2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)**
-*by* **Pink Katana**
-*Album:* In mein Herz
+**🎵 [every single day](https://open.spotify.com/track/4GxIRjPPXxj97Ecv8HUJyx)**
+*by* **kets4eki, Pröz**
+*Album:* party2daybreak
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:32
+    0:20 • 1:22
 </span>
 </p>
 
@@ -116,18 +116,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[copy & paste](https://open.spotify.com/track/5D4FubBTGAUAVhICPmOYAk)** by **dreamcache** *(copy & paste)*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[SPIRIT OF THUNDER](https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44)** by **Yung Lean, DVRST, Riff Raff, Bladee** *(SPIRIT OF THUNDER)*
-🎤 **[Moments Like This They Never Last](https://open.spotify.com/track/50w1uLhTHDTml7WDIuq7j6)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[Heb ab - sped up](https://open.spotify.com/track/27vUyn9Jmnky5ru1kuJgYu)** by **S1RENA** *(Heb ab)*
+🎤 **[Zwilling](https://open.spotify.com/track/3S6UIdMcDx98LvbOYCRthO)** by **Brown-Eyes White Boy** *(Metanarkose)*
+🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
+🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
+🎤 **[give u the moon](https://open.spotify.com/track/2xa9224f1RXkIDoRvs58yI)** by **Lil Peep** *(LIVE FOREVER)*
+🎤 **[Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)** by **Kanye West, T-Pain** *(Graduation)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 19:16:04Z UTC
+🕐 Last updated: 2025-12-01 19:39:06Z UTC
 <!-- SPOTIFY-END -->
