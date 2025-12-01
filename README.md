@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319563ecc58f00c90957132b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eadf8dadfda77d34a117deb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1:1](https://open.spotify.com/track/2dOah7YpxtEyjQRgwhRvqf)**
-*by* **Ecco2k, Thaiboy Digital, Yung Lean**
-*Album:* Trash Island
+**🎵 [Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)**
+*by* **S1RENA**
+*Album:* Heb ab
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 3:16
+    0:58 • 2:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **pathetic240px** *(2008)*
-🎤 **[Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9)** by **Baby B3ns** *(Schmetterling)*
-🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
-🎤 **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)*
-🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
+🎤 **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by **my!lane** *(Sakura's Shadows)*
+🎤 **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))*
+🎤 **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)*
+🎤 **[Break down](https://open.spotify.com/track/3weEmMnV5bopuD9XyJSQtt)** by **Dropped here** *(Break down)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 14:55:04Z UTC
+🕐 Last updated: 2025-12-01 15:14:16Z UTC
 <!-- SPOTIFY-END -->
