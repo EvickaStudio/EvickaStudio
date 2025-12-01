@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a9a40262d12da7729ca2deab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27385a2da83b5b340365ae7d8cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Meine Gang (Bang Bang)](https://open.spotify.com/track/4IYNzoZ63Am2XYkxMFXsN7)**
-*by* **CRO, Danju**
-*Album:* Melodie
+**🎵 [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)**
+*by* **Robert Miles**
+*Album:* Children (Dance Vault Mixes)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="51" height="4" fill="#1db954" rx="2"/>
-    <circle cx="51" cy="2" r="6" fill="#1db954"/>
+    <rect width="281" height="4" fill="#1db954" rx="2"/>
+    <circle cx="281" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 4:01
+    3:48 • 4:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[can you tell?](https://open.spotify.com/track/2ODOdaX4ZqhqvnigNY3nSB)** by **Jane Remover** *(Frailty)*
-🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
-🎤 **[Ocean](https://open.spotify.com/track/6i51XkiNGhMc856cfuISEc)** by **orbit** *(Summer Someday)*
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
-🎤 **[geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy)** by **Ritter Lean** *(geklaut)*
+🎤 **[The Days - NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8)** by **Chrystal, NOTION** *(The Days (NOTION Remix))*
+🎤 **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)*
+🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
+🎤 **[obsessixn](https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi)** by **whatsaheart** *(obsessixn)*
+🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 09:47:01Z UTC
+🕐 Last updated: 2025-12-01 10:16:11Z UTC
 <!-- SPOTIFY-END -->
