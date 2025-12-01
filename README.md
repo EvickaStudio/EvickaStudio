@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c6acac4c400418a33908394" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)**
-*by* **Yung Lean**
-*Album:* Unknown Memory
+**🎵 [FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)**
+*by* **SILICONE VALLEY**
+*Album:* WORLD'S NO.1 SPIRIT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="288" height="4" fill="#1db954" rx="2"/>
-    <circle cx="288" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:36 • 3:45
+    2:16 • 2:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[MR. SWAG (feat. makko)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9)** by **Maikel, makko** *(MR. SWAG (feat. makko))*
-🎤 **[lost n found](https://open.spotify.com/track/4QTb29gVaviE9RXyeeabkT)** by **i9bonsai** *(lost n found)*
-🎤 **[Tweak](https://open.spotify.com/track/0HMj8yIPEWub336LOF5AdQ)** by **Saska** *(Dosis)*
-🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
-🎤 **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))*
+🎤 **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)*
+🎤 **[red tuesday](https://open.spotify.com/track/7LFNXjwx43EquNfQeHffaG)** by **threedimensionsapart, Lei** *(red tuesday)*
+🎤 **[Top Auf](https://open.spotify.com/track/6BSlXUKU9eTdz5e2uqADsa)** by **BHZ, Ion Miles** *(In Liebe, Ion)*
+🎤 **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)*
+🎤 **[Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR)** by **sign crushes motorist** *(i'll be okay)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 20:47:57Z UTC
+🕐 Last updated: 2025-12-01 21:11:17Z UTC
 <!-- SPOTIFY-END -->
