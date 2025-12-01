@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ef837137160f8210e2477fb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27352f70e41588e2b53f42a957a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Meer fahren](https://open.spotify.com/track/73z3CBj1xVRr1IQckImczP)**
-*by* **Longus Mongus, Monk, BHZ**
-*Album:* Meer fahren
+**🎵 [Roof](https://open.spotify.com/track/1pAgrtEcO6pF6ekmJsUfVe)**
+*by* **Kev Koko**
+*Album:* Roof
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="21" height="4" fill="#1db954" rx="2"/>
-    <circle cx="21" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 3:41
+    2:18 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bastard](https://open.spotify.com/track/1u6zqsXN5WdTBJktOc0YlI)** by **leander, Hadesthegrim** *(Bastard)*
-🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
-🎤 **[Bad Girl](https://open.spotify.com/track/1EoxkRyTgJay6qlr3GSHKk)** by **IceLipzz, LØUS, SlushhKitten** *(Bad Girl)*
-🎤 **[Shelter](https://open.spotify.com/track/1hOtpq0cDrOLrUeKJTXAU0)** by **Lil Peep, BEXEY** *(Romeo's Regrets)*
-🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
+🎤 **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)*
+🎤 **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)*
+🎤 **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)*
+🎤 **[Memory Of Love](https://open.spotify.com/track/11FKG1EK1GImmtvXetBzQk)** by **Thrilliam Angels, floweroom, User2222** *(The Static Screams Your Name)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 16:50:26Z UTC
+🕐 Last updated: 2025-12-01 17:15:01Z UTC
 <!-- SPOTIFY-END -->
