@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739db0b19fa174ea309a29278a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)**
+*by* **Snow Strippers**
+*Album:* So What If I'm A Freak
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:35 • 2:26
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Smirnoff Ice](https://open.spotify.com/track/0e1OE2pEor5kVTWBIs0nWX)** by **Yung Lean** *(Total Eclipse)*
-🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Empty Lightning](https://open.spotify.com/track/1wQ5iwSpQYl4Kp5JLYlz6o)** by **Woesum, Oklou** *(Blue Summer)*
-🎤 **[Staub - sped up](https://open.spotify.com/track/09bdhPbvXd7B3TOa7ainYN)** by **S1RENA** *(Staub)*
-🎤 **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)*
+🎤 **[highs](https://open.spotify.com/track/1cXVnaJfUjoucBBZS9KoE0)** by **$OHO BANI** *($OHO UND NICHT ANDERS)*
+🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
+🎤 **[Weit Entfernt](https://open.spotify.com/track/2V5sOjankNjqgIfxuRR7As)** by **S1RENA** *(weit entfernt ep ☆)*
+🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
+🎤 **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-01 14:14:18Z UTC
+🕐 Last updated: 2025-12-01 14:40:44Z UTC
 <!-- SPOTIFY-END -->
