@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)**
+*by* **Levi Ryan**
+*Album:* southern comfort EP
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:03 • 4:30
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
+🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
+🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
 🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
-🎤 **[Mental Clarity Is a Luxury I Can't Afford](https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X)** by **$uicideboy$** *(New World Depression)*
-🎤 **[Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)** by **Wir sind Helden** *(Die Reklamation)*
-🎤 **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by **Pink Katana** *(4ever)*
-🎤 **[so allein (sped up)](https://open.spotify.com/track/41vETQWfL3HafjYVk51BYz)** by **lil eyes** *(so allein)*
+🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 15:17:09Z UTC
+🕐 Last updated: 2025-12-02 15:43:17Z UTC
 <!-- SPOTIFY-END -->
