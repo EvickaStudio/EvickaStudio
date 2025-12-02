@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)**
-*by* **Kanye West, DJ Premier**
-*Album:* Graduation
+**🎵 [HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)**
+*by* **Yung Hurn, EN6O**
+*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="200" height="4" fill="#1db954" rx="2"/>
-    <circle cx="200" cy="2" r="6" fill="#1db954"/>
+    <rect width="299" height="4" fill="#1db954" rx="2"/>
+    <circle cx="299" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 3:47
+    2:28 • 2:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r)** by **quannnic** *(kenopsia)*
-🎤 **[leave me alone](https://open.spotify.com/track/4aVhD5GZCW5EDpOTEKBIcQ)** by **sssss, graphite** *(leave me alone)*
-🎤 **[Z0RNIG [2O24]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x)** by **Ski Aggu** *(Z0RNIG [2O24])*
-🎤 **[not the same : ohne Ende](https://open.spotify.com/track/3uUwl9DIMOSD3Y2Jy22hdL)** by **Steintor Herrenchor, Casket Cassette** *(oh scheiße Gefühle)*
-🎤 **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)*
+🎤 **[ich war da](https://open.spotify.com/track/0VWo0Iq6O2soaV0UkiX8H0)** by **Steintor Herrenchor** *(oh scheiße Gefühle)*
+🎤 **[its okay 2 cry\\](https://open.spotify.com/track/22G6ChG5lOHkxfPR1revKw)** by **Zaram** *(its okay 2 cry\\)*
+🎤 **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)*
+🎤 **[Iris](https://open.spotify.com/track/4t9vB7wIKWE5jIhjcztmmd)** by **Pastel Ghost** *(Ethereality)*
+🎤 **[NAGELLACK IN SACHSEN - SPEED UP](https://open.spotify.com/track/0sudfZLPyxDzV6vOB37sJz)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN (SPEED UP))*
 
 
 
@@ -129,8 +129,8 @@
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 20:53:14Z UTC
+🕐 Last updated: 2025-12-02 21:13:06Z UTC
 <!-- SPOTIFY-END -->
