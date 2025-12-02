@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2731b8a46d3a04fc07f884e3b28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)**
+*by* **Thrilliam Angels, Ecco2k**
+*Album:* The Static Screams Your Name
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:28 • 2:21
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Break down](https://open.spotify.com/track/3weEmMnV5bopuD9XyJSQtt)** by **Dropped here** *(Break down)*
-🎤 **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)*
-🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
-🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
+🎤 **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)*
+🎤 **[icantbelieveiletyougetaway](https://open.spotify.com/track/2jS4vBVGGqr6ioB5e9FzEz)** by **aldn** *(Strung Out Symphony)*
+🎤 **[Essenz](https://open.spotify.com/track/5hC5y2QgVef1wyUS65WJtR)** by **strangerperson** *(Essenz)*
+🎤 **[Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[1000 Blunts](https://open.spotify.com/track/09riz9pAPJyYYDVynE5xxY)** by **$uicideboy$** *(Sing Me a Lullaby, My Sweet Temptation)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 17:54:10Z UTC
+🕐 Last updated: 2025-12-02 18:21:09Z UTC
 <!-- SPOTIFY-END -->
