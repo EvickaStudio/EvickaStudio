@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ceaebcdc0301c729df241b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27306eb189cb35ed21098cd706d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dieser kleine Junge](https://open.spotify.com/track/3Pq6WwpwvGKKE2S1vXenMI)**
-*by* **Brown-Eyes White Boy**
-*Album:* Traumfänger
+**🎵 [99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)**
+*by* **Shoota Tori, Bon Aquâ**
+*Album:* 99-01
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 1:50
+    0:21 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
-🎤 **[Pass Nicht Rein (feat. Longus Mongus)](https://open.spotify.com/track/2utqNKlYqg2EiinmFzgYYK)** by **Ion Miles, Longus Mongus, BHZ** *(In Liebe, Ion)*
-🎤 **[Starfall](https://open.spotify.com/track/4XRhCdKeF1TpDR4mX5DVvx)** by **SALEM** *(Fires In Heaven)*
-🎤 **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)*
-🎤 **[Aria Math Hardstyle](https://open.spotify.com/track/5HW67VMlRhL0OxKxS2RplT)** by **Mqx** *(Aria Math Hardstyle)*
+🎤 **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)*
+🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
+🎤 **[sega saturn](https://open.spotify.com/track/6CeO9V6e7Lq0rChLTsphHk)** by **Dp** *(dvdp_)*
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[LIGHTS OFF](https://open.spotify.com/track/20lhNppZrQq2Nz6S3nJiiT)** by **Bandiicam** *(LIGHTS OFF)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 16:51:05Z UTC
+🕐 Last updated: 2025-12-02 17:16:49Z UTC
 <!-- SPOTIFY-END -->
