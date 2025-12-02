@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731298f1ce7b0e4fb6a3caba57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)**
-*by* **mickyi, S1RENA**
-*Album:* zone out ep ⋆｡°✩
+**🎵 [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)**
+*by* **Aphex Twin**
+*Album:* Richard D. James Album
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:34
+    0:26 • 3:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)*
-🎤 **[Fruit Bleed Juice](https://open.spotify.com/track/5slUHQvBIs1NLSuDIsMIgB)** by **Ecco2k** *(E)*
-🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[rockstarshawty.wav](https://open.spotify.com/track/6q3XlySLLwdlknfOmlCJ7m)** by **03osc** *(OSCWRLD333)*
-🎤 **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)*
+🎤 **[rauschen](https://open.spotify.com/track/0gd5mposEqtNGAj5HCfqfq)** by **Leocardo DiNaprio** *(rauschen)*
+🎤 **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)*
+🎤 **[E-MÄDCHEN - Sped Up Version](https://open.spotify.com/track/1vESrtzfZuFgOtjiMziPe7)** by **Punk Christ** *(E-MÄDCHEN (Sped Up Version))*
+🎤 **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)*
+🎤 **[3 Messer](https://open.spotify.com/track/4VVUW5n7EAJJNuVLiy6NLi)** by **Hello Hannes** *(3 Messer)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 19:30:48Z UTC
+🕐 Last updated: 2025-12-02 19:48:01Z UTC
 <!-- SPOTIFY-END -->
