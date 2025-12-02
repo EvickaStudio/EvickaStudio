@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273913b65dba0cbd411ffa45809" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27375e614a4c1db49c650a35824" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)**
-*by* **Jassin, Edwin Rosen**
-*Album:* Arsenalplatz
+**🎵 [stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)**
+*by* **meat computer**
+*Album:* stressed out
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:57 • 3:58
+    0:41 • 2:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)** by **meat computer** *(new world disorder)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[Aria Math Hardstyle](https://open.spotify.com/track/5HW67VMlRhL0OxKxS2RplT)** by **Mqx** *(Aria Math Hardstyle)*
+🎤 **[MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T)** by **347aidan** *(TROUBLED MEMORIES!)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
+🎤 **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)*
+🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 15:54:46Z UTC
+🕐 Last updated: 2025-12-02 16:18:27Z UTC
 <!-- SPOTIFY-END -->
