@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735f32e6c933d9e7754dc229d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [100 TAUSEND (Demo)](https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW)**
+*by* **Yung Hurn**
+*Album:* 100 TAUSEND (Demo)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:45 • 2:03
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT)** by **Crystal Castles** *(Crystal Castles)*
+🎤 **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)*
+🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
+🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
 🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)** by **meat computer** *(new world disorder)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 10:54:13Z UTC
+🕐 Last updated: 2025-12-02 11:13:03Z UTC
 <!-- SPOTIFY-END -->
