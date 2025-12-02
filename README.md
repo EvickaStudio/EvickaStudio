@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735c1a46f9e4545c175af1aabc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Helmut Lang](https://open.spotify.com/track/3T4wlrZq8lQoeOoVgdhJpq)**
-*by* **Kroka Koka**
-*Album:* Vindobona
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="271" height="4" fill="#1db954" rx="2"/>
-    <circle cx="271" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 1:32
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Helmut Lang](https://open.spotify.com/track/3T4wlrZq8lQoeOoVgdhJpq)** by **Kroka Koka** *(Vindobona)*
 🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
 🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
 🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
 🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo** *(meine grosse liebe)*
-🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 07:40:29Z UTC
+🕐 Last updated: 2025-12-02 07:49:18Z UTC
 <!-- SPOTIFY-END -->
