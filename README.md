@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273072e2599e77865ae194b8345" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [I Wait for You](https://open.spotify.com/track/7EDcAz6iuKSkxH4VcC3Oko)**
-*by* **alex_g_offline**
-*Album:* 1234
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:38
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[non zen darkness manuever](https://open.spotify.com/track/5EZo8rqOQqpOU38sft0zd7)** by **meat computer** *(new world disorder)*
-🎤 **[Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2)** by **Alex G, Emily Yacina** *(Treehouse)*
-🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
-🎤 **[nur das eine mal](https://open.spotify.com/track/2gliHWWr4YJHkMidpXG4tg)** by **Steintor Herrenchor** *(nur das eine mal)*
-🎤 **[Echolot](https://open.spotify.com/track/1cEQ6mryHemmstSgxJc13O)** by **Wir sind Helden** *(Von hier an blind)*
+🎤 **[Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102)](https://open.spotify.com/track/1BXzcQIefsxu65hENcPA6k)** by **102 Boyz, The Cratez, Chapo102, Skoob102, Stacks102** *(Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102))*
+🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[Тоска](https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3)** by **Molchat Doma** *(Этажи)*
+🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
+🎤 **[im #obsessed w u lol](https://open.spotify.com/track/7twvecghY5rHcHcNJyhMfe)** by **korpsebunny** *(im #obsessed w u lol)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 22:11:56Z UTC
+🕐 Last updated: 2025-12-02 22:31:10Z UTC
 <!-- SPOTIFY-END -->
