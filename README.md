@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)**
+*by* **Ecco2k**
+*Album:* E
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:52 • 3:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Helmut Lang](https://open.spotify.com/track/3T4wlrZq8lQoeOoVgdhJpq)** by **Kroka Koka** *(Vindobona)*
-🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
-🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo** *(meine grosse liebe)*
+🎤 **[Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)** by **$uicideboy$** *(7th or St. Tammany)*
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[one kiss](https://open.spotify.com/track/6vtsK67Ch4zWasXm8dmyEE)** by **5v, Drux** *(one kiss)*
+🎤 **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)*
+🎤 **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 07:49:18Z UTC
+🕐 Last updated: 2025-12-02 08:19:44Z UTC
 <!-- SPOTIFY-END -->
