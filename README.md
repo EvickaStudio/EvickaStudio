@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a8e8b10d2ada6d5a9a459a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389c7a2794ba1cd8cc2f9ac6b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Distant](https://open.spotify.com/track/1Hjv0edwz7rpN7Im7nULZZ)**
-*by* **Soothing Oasis**
-*Album:* Starry Night
+**🎵 [Peace](https://open.spotify.com/track/6WjfIRK2wnzKh2IzfQlgcE)**
+*by* **Avery's Ambient**
+*Album:* Ripples in the Sand
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:17
+    1:51 • 2:07
 </span>
 </p>
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 23:12:26Z UTC
+🕐 Last updated: 2025-12-02 23:29:19Z UTC
 <!-- SPOTIFY-END -->
