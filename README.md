@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27375e614a4c1db49c650a35824" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734ceaebcdc0301c729df241b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)**
-*by* **meat computer**
-*Album:* stressed out
+**🎵 [Dieser kleine Junge](https://open.spotify.com/track/3Pq6WwpwvGKKE2S1vXenMI)**
+*by* **Brown-Eyes White Boy**
+*Album:* Traumfänger
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="68" height="4" fill="#1db954" rx="2"/>
+    <circle cx="68" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:01
+    0:25 • 1:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
+🎤 **[Pass Nicht Rein (feat. Longus Mongus)](https://open.spotify.com/track/2utqNKlYqg2EiinmFzgYYK)** by **Ion Miles, Longus Mongus, BHZ** *(In Liebe, Ion)*
+🎤 **[Starfall](https://open.spotify.com/track/4XRhCdKeF1TpDR4mX5DVvx)** by **SALEM** *(Fires In Heaven)*
+🎤 **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)*
 🎤 **[Aria Math Hardstyle](https://open.spotify.com/track/5HW67VMlRhL0OxKxS2RplT)** by **Mqx** *(Aria Math Hardstyle)*
-🎤 **[MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T)** by **347aidan** *(TROUBLED MEMORIES!)*
-🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
-🎤 **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)*
-🎤 **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 16:18:27Z UTC
+🕐 Last updated: 2025-12-02 16:51:05Z UTC
 <!-- SPOTIFY-END -->
