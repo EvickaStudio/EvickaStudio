@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27352d77e720679ad0b4a95c784" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27347fb9584a92fac92a3c5875b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Race](https://open.spotify.com/track/78bcWFqyuhOrC8wnkpgcft)**
-*by* **Alex G**
-*Album:* Race
+**🎵 [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1)**
+*by* **Current Joys**
+*Album:* Wild Heart
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 3:43
+    2:19 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Psycho Dreams (Sped Up)](https://open.spotify.com/track/6yt46G7lWn0oC2FEZZDsi6)** by **Kill Eva, ENCASSATOR** *(Psycho Dreams (Sped Up))*
+🎤 **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)*
+🎤 **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)*
 🎤 **[Luna](https://open.spotify.com/track/5ZKWXHh40U2QX1NHiWTnTk)** by **Wisp** *(Pandora)*
 🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
-🎤 **[december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)** by **your favorite problem, grimheart** *(december (forever))*
-🎤 **[Big Air](https://open.spotify.com/track/7Jmj0w9dwd1VvKnaByOu0f)** by **Ecco2k** *(PXE)*
-🎤 **[Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)** by **Empire Of The Sun** *(Ice On The Dune)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 21:39:52Z UTC
+🕐 Last updated: 2025-12-02 21:47:53Z UTC
 <!-- SPOTIFY-END -->
