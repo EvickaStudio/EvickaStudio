@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737fd40b0dbe1e4869155459e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734776667f851f56c96b2198a4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pirouette](https://open.spotify.com/track/2mpagL8oTLAhOVLEAb2TvD)**
-*by* **Lil Narnia**
-*Album:* Wisteria
+**🎵 [Z0RNIG [2O24]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x)**
+*by* **Ski Aggu**
+*Album:* Z0RNIG [2O24]
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:29
+    0:07 • 2:36
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Bitte komm nach Hause](https://open.spotify.com/track/3DefhrB2WlZEtCz3tYVuJQ)** by **fliggsy** *(Project Life)*
-🎤 **[Knights](https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0)** by **Crystal Castles** *(Crystal Castles)*
-🎤 **[Wenn die Sonne scheint](https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg)** by **Rowli, Hank** *(Teenage Tears)*
-🎤 **[can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by **EKKSTACY** *(NEGATIVE)*
+🎤 **[not the same : ohne Ende](https://open.spotify.com/track/3uUwl9DIMOSD3Y2Jy22hdL)** by **Steintor Herrenchor, Casket Cassette** *(oh scheiße Gefühle)*
+🎤 **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)*
+🎤 **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)*
+🎤 **[Sommer in Berlin](https://open.spotify.com/track/0Mtm1zyKK4RXU4FMeXiya7)** by **Gabriel** *(Sommer in Berlin)*
+🎤 **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 20:16:00Z UTC
+🕐 Last updated: 2025-12-02 20:42:32Z UTC
 <!-- SPOTIFY-END -->
