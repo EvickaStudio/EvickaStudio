@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734d5b9e846c367d7c349ffeb3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Imperfect Girl](https://open.spotify.com/track/3B2hdjmWoNNMFSfNgsi8Ph)**
-*by* **ThxSoMch, thekid.ACE**
-*Album:* Imperfect Girl
+**🎵 [Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)**
+*by* **mickyi, S1RENA**
+*Album:* zone out ep ⋆｡°✩
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="298" height="4" fill="#1db954" rx="2"/>
-    <circle cx="298" cy="2" r="6" fill="#1db954"/>
+    <rect width="139" height="4" fill="#1db954" rx="2"/>
+    <circle cx="139" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:49 • 2:50
+    1:11 • 2:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)*
-🎤 **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
-🎤 **[u u u](https://open.spotify.com/track/7Gx2nlALaztIXZvtXoQqAr)** by **syris, korpsebunny** *(u u u)*
-🎤 **[A B](https://open.spotify.com/track/3Y2khY1lCNfbygFPUqtvW1)** by **jequya** *(1p)*
-🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
+🎤 **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)*
+🎤 **[Fruit Bleed Juice](https://open.spotify.com/track/5slUHQvBIs1NLSuDIsMIgB)** by **Ecco2k** *(E)*
+🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[rockstarshawty.wav](https://open.spotify.com/track/6q3XlySLLwdlknfOmlCJ7m)** by **03osc** *(OSCWRLD333)*
+🎤 **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 19:14:04Z UTC
+🕐 Last updated: 2025-12-02 19:30:48Z UTC
 <!-- SPOTIFY-END -->
