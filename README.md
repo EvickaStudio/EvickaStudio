@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d6d381d8ea05b07914caba5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)**
-*by* **Kev Koko, Nina Roy**
-*Album:* Happy Ending
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:37 • 3:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Break down](https://open.spotify.com/track/3weEmMnV5bopuD9XyJSQtt)** by **Dropped here** *(Break down)*
+🎤 **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)*
+🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
 🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH)** by **Fitz and The Tantrums** *(More Than Just a Dream (Deluxe Edition))*
-🎤 **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))*
-🎤 **[:UNLOCKEd](https://open.spotify.com/track/6z1QY4oQ9hAr9dPZUolBei)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
 
 
 
@@ -129,8 +110,8 @@
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥉 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 17:43:47Z UTC
+🕐 Last updated: 2025-12-02 17:54:10Z UTC
 <!-- SPOTIFY-END -->
