@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a760764541bc29040be812d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)**
-*by* **Dorian Concept**
-*Album:* Miniatures
+**🎵 [1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)**
+*by* **Ecco2k, Thaiboy Digital, Yung Lean**
+*Album:* Trash Island
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="5" height="4" fill="#1db954" rx="2"/>
-    <circle cx="5" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 0:57
+    0:34 • 3:16
 </span>
 </p>
 
@@ -116,6 +116,9 @@
 
 ### 📜 Recently Played
 
+🎤 **[Blue Eyes](https://open.spotify.com/track/0ifJZJq09BTa75v6iQPz74)** by **Ecco2k** *(E)*
+🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
+🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
 🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
 🎤 **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)*
 
@@ -140,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 05:49:23Z UTC
+🕐 Last updated: 2025-12-03 06:21:22Z UTC
 <!-- SPOTIFY-END -->
