@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ee3e3c7bca1637a6a1c4fd79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)**
+*by* **Elusin**
+*Album:* SYNFUELS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:19
+    0:50 • 4:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
+🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
 🎤 **[röntgenbrille](https://open.spotify.com/track/6h7e49F4PfsPcAgbONdbtC)** by **blombi19** *(herzkasper)*
 🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
-🎤 **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)*
-🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
-🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 20:43:23Z UTC
+🕐 Last updated: 2025-12-03 20:54:26Z UTC
 <!-- SPOTIFY-END -->
