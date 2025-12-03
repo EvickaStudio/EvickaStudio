@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b01a6dffde8c2d562af8af2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)**
-*by* **sparr00w**
-*Album:* 0201
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="175" height="4" fill="#1db954" rx="2"/>
-    <circle cx="175" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 2:47
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
-🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
-🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
-🎤 **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 06:51:58Z UTC
+🕐 Last updated: 2025-12-03 07:15:30Z UTC
 <!-- SPOTIFY-END -->
