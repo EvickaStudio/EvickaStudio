@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Mental Clarity Is a Luxury I Can't Afford](https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X)** by **$uicideboy$** *(New World Depression)*
 🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
 🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
 🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
 🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 08:49:25Z UTC
+🕐 Last updated: 2025-12-03 09:17:38Z UTC
 <!-- SPOTIFY-END -->
