@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dusky Horizon](https://open.spotify.com/track/1CD7kkvlve6prIywd0sSwW)**
-*by* **Avery's Ambient**
-*Album:* Everglow
+**🎵 [Moonrise](https://open.spotify.com/track/38E3zPQLu15gcim6yL4vzg)**
+*by* **Soothing Oasis**
+*Album:* Stillness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="213" height="4" fill="#1db954" rx="2"/>
+    <circle cx="213" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:54 • 2:08
+    1:30 • 2:07
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 01:03:13Z UTC
+🕐 Last updated: 2025-12-03 02:53:16Z UTC
 <!-- SPOTIFY-END -->
