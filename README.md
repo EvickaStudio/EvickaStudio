@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5c6772d1d98b2d0f3a69e37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)**
-*by* **luu, mehlhaltig, iwannabemissed**
-*Album:* triple trauma
+**🎵 [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)**
+*by* **Charli xcx**
+*Album:* BRAT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 1:34
+    3:06 • 3:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
-🎤 **[:UNLOCKEd](https://open.spotify.com/track/6z1QY4oQ9hAr9dPZUolBei)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 19:12:28Z UTC
+🕐 Last updated: 2025-12-03 19:28:49Z UTC
 <!-- SPOTIFY-END -->
