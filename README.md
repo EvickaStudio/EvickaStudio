@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee3e3c7bca1637a6a1c4fd79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f542e3f8e9d5d7f566badbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)**
-*by* **Elusin**
-*Album:* SYNFUELS
+**🎵 [gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)**
+*by* **mint**
+*Album:* gold
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="54" height="4" fill="#1db954" rx="2"/>
-    <circle cx="54" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 4:33
+    2:58 • 3:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
-🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
-🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
-🎤 **[röntgenbrille](https://open.spotify.com/track/6h7e49F4PfsPcAgbONdbtC)** by **blombi19** *(herzkasper)*
-🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
+🎤 **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 20:54:26Z UTC
+🕐 Last updated: 2025-12-03 21:12:52Z UTC
 <!-- SPOTIFY-END -->
