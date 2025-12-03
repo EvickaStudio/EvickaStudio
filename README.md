@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27389c7a2794ba1cd8cc2f9ac6b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dbeb3ab325fe9f460cb90599" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dune](https://open.spotify.com/track/0DCTlszmjW9zzXciek6HO3)**
-*by* **Avery's Ambient**
-*Album:* Ripples in the Sand
+**🎵 [Water and Light](https://open.spotify.com/track/3NdGpyJAAJdPCGSd69qSnu)**
+*by* **Soothing Oasis**
+*Album:* Riverside
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="107" height="4" fill="#1db954" rx="2"/>
-    <circle cx="107" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:10
+    0:41 • 2:19
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 03:47:14Z UTC
+🕐 Last updated: 2025-12-03 04:21:57Z UTC
 <!-- SPOTIFY-END -->
