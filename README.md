@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373ad4a7d2503ebbf0545fc5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737feac6e282dfac4ab8ec6fdf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)**
+**🎵 [Dusky Horizon](https://open.spotify.com/track/1CD7kkvlve6prIywd0sSwW)**
 *by* **Avery's Ambient**
-*Album:* Dream Haze
+*Album:* Everglow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 2:11
+    0:54 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,7 @@
 
 ### 📜 Recently Played
 
-🎤 **[SaveOST](https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)** by **meat computer** *(new world disorder)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+No recently played tracks.
 
 
 
@@ -143,5 +139,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-02 23:48:01Z UTC
+🕐 Last updated: 2025-12-03 01:03:13Z UTC
 <!-- SPOTIFY-END -->
