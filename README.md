@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27384ed460232eb6522e12917ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)**
-*by* **Edwin Rosen, sparr00w**
-*Album:* Die Sterne
+**🎵 [not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)**
+*by* **mint, dy.wsh**
+*Album:* not the one to blame
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="124" height="4" fill="#1db954" rx="2"/>
-    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 3:18
+    0:34 • 1:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)*
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)*
+🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 15:17:13Z UTC
+🕐 Last updated: 2025-12-03 15:43:34Z UTC
 <!-- SPOTIFY-END -->
