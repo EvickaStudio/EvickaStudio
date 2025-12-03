@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)**
-*by* **leander, ilyproxy, Hadesthegrim**
-*Album:* GV Magazin: Deluxe Sex
+**🎵 [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)**
+*by* **Edwin Rosen**
+*Album:* Die Sterne
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="121" height="4" fill="#1db954" rx="2"/>
-    <circle cx="121" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 2:07
+    2:09 • 2:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-03 19:39:42Z UTC
+🕐 Last updated: 2025-12-03 20:15:44Z UTC
 <!-- SPOTIFY-END -->
