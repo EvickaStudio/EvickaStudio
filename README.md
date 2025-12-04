@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27309ec12571ae089e2091deba2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)**
-*by* **Peake**
-*Album:* Tantalyse
+**🎵 [hotel delirium (I)](https://open.spotify.com/track/6k1juEvuoQMuJRqAOfEK9P)**
+*by* **luu**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:39
+    0:07 • 1:42
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[always](https://open.spotify.com/track/1q848MQ8bwXFp3vEr0j4qM)** by **angelicxmei** *(always)*
-🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
-🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
-🎤 **[munchausen syndrome](https://open.spotify.com/track/63NVIyOuCuoCGeGAj7mvoH)** by **luutwo, 4rde** *(munchausen syndrome)*
-🎤 **[bitch ritzt sich](https://open.spotify.com/track/77nNjAlL6w6wVEI3CpfOBd)** by **n3vio** *(bitch ritzt sich)*
+🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
+🎤 **[PINT](https://open.spotify.com/track/3Q8NwOoEibwvc0ETtfGRy3)** by **stixz** *(love core)*
+🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
+🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 20:52:35Z UTC
+🕐 Last updated: 2025-12-04 21:12:57Z UTC
 <!-- SPOTIFY-END -->
