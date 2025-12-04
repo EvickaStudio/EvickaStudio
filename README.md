@@ -92,12 +92,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d370b9f67dd4294dd3513dff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)**
-*by* **Bladee, Ecco2k, Thaiboy Digital**
-*Album:* TL;DR
+**🎵 [Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)**
+*by* **Aloboi**
+*Album:* Justcore Extravaganza
 
 
 <p align="center">
@@ -108,7 +108,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 3:04
+    0:47 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
-🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
+🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee** *(Brat and it’s completely different but also still brat)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)*
+🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 
 
-🕐 Last updated: 2025-12-04 05:13:45Z UTC
+🕐 Last updated: 2025-12-04 05:34:56Z UTC
 <!-- SPOTIFY-END -->
