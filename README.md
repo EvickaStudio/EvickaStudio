@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [dopamin](https://open.spotify.com/track/39f5jyDAQl5ZaAGj69RCcE)**
-*by* **blombi19**
-*Album:* herzkasper
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 2:40
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by **blombi19, p3pppa** *(herzkasper)*
+🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
+🎤 **[dopamin](https://open.spotify.com/track/39f5jyDAQl5ZaAGj69RCcE)** by **blombi19** *(herzkasper)*
+🎤 **[jeans](https://open.spotify.com/track/6mZKAgOHuq2QaTfSQLtLjk)** by **blombi19** *(herzkasper)*
 🎤 **[unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)** by **blombi19** *(herzkasper)*
-🎤 **[paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)** by **blombi19, mehlhaltig** *(herzkasper)*
-🎤 **[Wide Awake](https://open.spotify.com/track/3PfD7zzvw7hexsTHEjg9LG)** by **From Somewhere Quiet** *(Wide Awake)*
-🎤 **[Autumn](https://open.spotify.com/track/5n2SkadJQGgoPfzrRvFyp7)** by **Emilio Bonito** *(The River I Step In)*
-🎤 **[Same Shape Beautiful Chords](https://open.spotify.com/track/5HjUUQXBgzvfkw43fIJSM6)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
 
 
 
@@ -140,8 +121,8 @@
 🥈 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
 🥉 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
-🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
+🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 15:54:50Z UTC
+🕐 Last updated: 2025-12-04 16:19:04Z UTC
 <!-- SPOTIFY-END -->
