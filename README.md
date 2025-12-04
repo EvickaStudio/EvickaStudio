@@ -95,20 +95,20 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)**
-*by* **blombi19, mehlhaltig**
+**🎵 [ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)**
+*by* **blombi19**
 *Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 3:59
+    0:08 • 3:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)*
-🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
-🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
-🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
-🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
+🎤 **[kopfkissen](https://open.spotify.com/track/1Ra8bUQ6LXVIQPN6PieEwC)** by **blombi19** *(herzkasper)*
+🎤 **[arterien](https://open.spotify.com/track/0STuVrCzEKRtYj8ItoymYN)** by **blombi19** *(herzkasper)*
+🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
+🎤 **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by **blombi19, p3pppa** *(herzkasper)*
+🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 17:53:29Z UTC
+🕐 Last updated: 2025-12-04 18:21:50Z UTC
 <!-- SPOTIFY-END -->
