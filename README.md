@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3848095c903b30f969d8fcf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f0516414bf43a67c1f319ce1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)**
-*by* **ilymeow, Chicken Lover, 6778**
-*Album:* haunt me:33
+**🎵 [ghost](https://open.spotify.com/track/4KktynWC4oUlrhzZ0PkaGp)**
+*by* **angelicxmei, Nosgov**
+*Album:* ghost
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="12" height="4" fill="#1db954" rx="2"/>
+    <circle cx="12" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:23
+    0:05 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
-🎤 **[spacebar](https://open.spotify.com/track/1NlWBa7x2zQ7bAWxS8PpAw)** by **Mezha** *(spacebar)*
-🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
-🎤 **[richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)** by **pink luu, Lytra** *(0800-111-0-111)*
-🎤 **[LuvLorn </3](https://open.spotify.com/track/1Ltno4ZlC55Vt3NQvJUy4a)** by **LooveX, cholorofilm** *(LuvLorn </3)*
+🎤 **[PULL UP 2 THE PARTY](https://open.spotify.com/track/2Ic79WG4k5cGi973LW7e6N)** by **kmrnxo, pluto** *(PULL UP 2 THE PARTY)*
+🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
+🎤 **[porcelain scars](https://open.spotify.com/track/2DSxe1Qs8TIX214s0CHmV4)** by **cholorofilm** *(porcelain scars)*
+🎤 **[grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)** by **pink luu, nami, cxpyyy, luu** *(grabbesuch)*
+🎤 **[unheilbar](https://open.spotify.com/track/37XkpNS0wr0RzxTo3UfvEN)** by **luu, iwannabemissed** *(unheilbar)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 22:11:26Z UTC
+🕐 Last updated: 2025-12-04 22:32:31Z UTC
 <!-- SPOTIFY-END -->
