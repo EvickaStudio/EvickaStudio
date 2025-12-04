@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27333f5abbc76b70b34b92d7ba8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)**
-*by* **luu, luvwillow**
-*Album:* leiche
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 1:28
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[reject](https://open.spotify.com/track/2luCCQe7ga6IMnRjf2LNIn)** by **kets4eki, Pröz** *(reject)*
+🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu** *(ABCD)*
+🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
 🎤 **[need u](https://open.spotify.com/track/54tAgWEBNgaYtjBJSKOjj9)** by **dethkitty** *(need u)*
 🎤 **[goredance](https://open.spotify.com/track/3EhS4Jzub5RXziDOOL1ToW)** by **KidSnorlax** *(goredance)*
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
-🎤 **[high school](https://open.spotify.com/track/09NzfR4UREYwzrMnQ2jn4T)** by **03osc** *(high school)*
-🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 22:48:26Z UTC
+🕐 Last updated: 2025-12-04 23:12:43Z UTC
 <!-- SPOTIFY-END -->
