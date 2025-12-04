@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2734ea0b404905ee7e9eea3f666" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [molly in my backpack](https://open.spotify.com/track/6z6AWfubfdQob1F7bnJ8Ep)**
+*by* **kets4eki, Crescent, wujek**
+*Album:* molly in my backpack
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:24 • 1:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[shut up, we don't care](https://open.spotify.com/track/4CvrzDM5Z8scNMceVcVipb)** by **syris, luvwillow, Kaneda7, 6arelyhuman** *(shut up, we don't care)*
+🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 🎤 **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)*
-🎤 **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)*
-🎤 **[MIT UNS BEIDEN](https://open.spotify.com/track/5rHNgZm9YXiL1bZyAwUwFG)** by **wilson100k, Mobezzy** *(MIT UNS BEIDEN)*
-🎤 **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)*
-🎤 **[srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)** by **cinnemane** *(srrysora)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 19:29:39Z UTC
+🕐 Last updated: 2025-12-04 19:41:11Z UTC
 <!-- SPOTIFY-END -->
