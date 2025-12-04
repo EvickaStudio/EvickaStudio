@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f5098317ab9dc3cc6da0be92" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [srrysora](https://open.spotify.com/track/15uagDlZOGBB7NjPfMuqQc)**
+*by* **cinnemane**
+*Album:* srrysora
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:08 • 3:43
+    0:29 • 1:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kopfkissen](https://open.spotify.com/track/1Ra8bUQ6LXVIQPN6PieEwC)** by **blombi19** *(herzkasper)*
-🎤 **[arterien](https://open.spotify.com/track/0STuVrCzEKRtYj8ItoymYN)** by **blombi19** *(herzkasper)*
-🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
-🎤 **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by **blombi19, p3pppa** *(herzkasper)*
-🎤 **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)*
+🎤 **[Pupillen](https://open.spotify.com/track/5jbGbCZHy86HlnNtgQRJ0b)** by **Okfella** *(Pupillen)*
+🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
+🎤 **[sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)** by **blombi19, aimée** *(sternenkind)*
+🎤 **[sternschnuppe](https://open.spotify.com/track/5iTG27HIOQ7iZ866ZtI34D)** by **blombi19** *(herzkasper)*
+🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 18:21:50Z UTC
+🕐 Last updated: 2025-12-04 18:52:48Z UTC
 <!-- SPOTIFY-END -->
