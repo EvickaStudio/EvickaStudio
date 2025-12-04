@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f0516414bf43a67c1f319ce1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27333f5abbc76b70b34b92d7ba8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ghost](https://open.spotify.com/track/4KktynWC4oUlrhzZ0PkaGp)**
-*by* **angelicxmei, Nosgov**
-*Album:* ghost
+**🎵 [leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)**
+*by* **luu, luvwillow**
+*Album:* leiche
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 2:08
+    0:14 • 1:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[PULL UP 2 THE PARTY](https://open.spotify.com/track/2Ic79WG4k5cGi973LW7e6N)** by **kmrnxo, pluto** *(PULL UP 2 THE PARTY)*
-🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
-🎤 **[porcelain scars](https://open.spotify.com/track/2DSxe1Qs8TIX214s0CHmV4)** by **cholorofilm** *(porcelain scars)*
-🎤 **[grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)** by **pink luu, nami, cxpyyy, luu** *(grabbesuch)*
-🎤 **[unheilbar](https://open.spotify.com/track/37XkpNS0wr0RzxTo3UfvEN)** by **luu, iwannabemissed** *(unheilbar)*
+🎤 **[need u](https://open.spotify.com/track/54tAgWEBNgaYtjBJSKOjj9)** by **dethkitty** *(need u)*
+🎤 **[goredance](https://open.spotify.com/track/3EhS4Jzub5RXziDOOL1ToW)** by **KidSnorlax** *(goredance)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
+🎤 **[high school](https://open.spotify.com/track/09NzfR4UREYwzrMnQ2jn4T)** by **03osc** *(high school)*
+🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 22:32:31Z UTC
+🕐 Last updated: 2025-12-04 22:48:26Z UTC
 <!-- SPOTIFY-END -->
