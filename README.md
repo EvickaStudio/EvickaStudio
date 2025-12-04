@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27390cfdbdde89b9c6fc04abf33" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)**
-*by* **S1RENA**
-*Album:* Bildschirm
+**🎵 [0201](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)**
+*by* **sparr00w**
+*Album:* Save Room Theme
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:01
+    1:41 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)*
+🎤 **[Sorisu's Interlude](https://open.spotify.com/track/3mfw9HWXuJwYHKR6KXZrgU)** by **sparr00w, Sorisu** *(Save Room Theme)*
+🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
+🎤 **[SaveOST](https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei)** by **sparr00w** *(Save Room Theme)*
+🎤 **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-12-04 12:28:42Z UTC
+🕐 Last updated: 2025-12-04 13:11:23Z UTC
 <!-- SPOTIFY-END -->
