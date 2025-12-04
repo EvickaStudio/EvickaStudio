@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e7b64b871c6619071b469377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736803f4cbfa84b51b8e047745" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)**
-*by* **KidSnorlax**
-*Album:* scary monsters
+**🎵 [Self-Xplained](https://open.spotify.com/track/6x5Vnmcb4aDByrwoiVLNwZ)**
+*by* **LooveX, JeeRAWRXD**
+*Album:* Self-Xplained
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="2" height="4" fill="#1db954" rx="2"/>
+    <circle cx="2" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:29
+    0:00 • 1:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
-🎤 **[eugh!](https://open.spotify.com/track/4QBRWlQ7cPeipN1xmi7nvl)** by **luu** *(eugh!)*
-🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu** *(ICK (I Can't Kiss))*
-🎤 **[zombie](https://open.spotify.com/track/59GQTQZAPSWpyHZhZuJx6H)** by **xandera, gl!tz, disoc8** *(zombie)*
-🎤 **[come kill me](https://open.spotify.com/track/77kIxYbwGK5LYBgOZophpM)** by **cholorofilm, snor, Pixel Hood** *(come kill me)*
+🎤 **[september](https://open.spotify.com/track/640FsgzHFucTRp0gDbbP7w)** by **Mezha, JADEACYHILL** *(september)*
+🎤 **[burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)** by **dollreal, 9surgery, MXRCELINE** *(burning desire <3)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)** by **luu** *(irgendwo im schatten)*
+🎤 **[funky town](https://open.spotify.com/track/21vd2YcC5B4XNYLnTeVlqw)** by **pink luu, nami** *(funky town)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 21:31:00Z UTC
+🕐 Last updated: 2025-12-04 21:47:50Z UTC
 <!-- SPOTIFY-END -->
