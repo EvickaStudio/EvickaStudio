@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a43e26208f9bed42725a89e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Just Beautiful Chords, Pt. 2](https://open.spotify.com/track/74lYijF9kpkXgZ5S4mcd3V)**
+*by* **Marco Cirillo**
+*Album:* Music from My Lessons, Vol. 1
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="189" height="4" fill="#1db954" rx="2"/>
+    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:35 • 0:55
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Just Beautiful Chords (Jaw-Dropping)](https://open.spotify.com/track/5kCf7bU1j3FK7xgA3XsJI1)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Simple Fingerpicking Pattern](https://open.spotify.com/track/4LeKpRPfdgy5GWdSmCZMvg)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)*
 🎤 **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)*
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
-🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-12-04 09:17:35Z UTC
+🕐 Last updated: 2025-12-04 09:43:35Z UTC
 <!-- SPOTIFY-END -->
