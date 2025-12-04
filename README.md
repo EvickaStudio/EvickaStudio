@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ea0b404905ee7e9eea3f666" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c9c355d1ac62783d25530864" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [molly in my backpack](https://open.spotify.com/track/6z6AWfubfdQob1F7bnJ8Ep)**
-*by* **kets4eki, Crescent, wujek**
-*Album:* molly in my backpack
+**🎵 [persona](https://open.spotify.com/track/0exR5CXEeh8uxfMoioVnsG)**
+*by* **kmrnxo**
+*Album:* persona
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 1:52
+    2:08 • 3:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[boyfriend](https://open.spotify.com/track/12JupzYXuIiBHJqvS1bfTd)** by **iamsodead, pupsies** *(boyfriend)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[molly in my backpack](https://open.spotify.com/track/6z6AWfubfdQob1F7bnJ8Ep)** by **kets4eki, Crescent, wujek** *(molly in my backpack)*
 🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)*
 🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[shut up, we don't care](https://open.spotify.com/track/4CvrzDM5Z8scNMceVcVipb)** by **syris, luvwillow, Kaneda7, 6arelyhuman** *(shut up, we don't care)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-04 19:41:11Z UTC
+🕐 Last updated: 2025-12-04 19:48:38Z UTC
 <!-- SPOTIFY-END -->
