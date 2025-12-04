@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733185376916af3459f9f12fab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wide Awake](https://open.spotify.com/track/3PfD7zzvw7hexsTHEjg9LG)**
-*by* **From Somewhere Quiet**
-*Album:* Wide Awake
+**🎵 [dopamin](https://open.spotify.com/track/39f5jyDAQl5ZaAGj69RCcE)**
+*by* **blombi19**
+*Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="28" height="4" fill="#1db954" rx="2"/>
+    <circle cx="28" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 2:17
+    0:15 • 2:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)** by **blombi19** *(herzkasper)*
+🎤 **[paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)** by **blombi19, mehlhaltig** *(herzkasper)*
+🎤 **[Wide Awake](https://open.spotify.com/track/3PfD7zzvw7hexsTHEjg9LG)** by **From Somewhere Quiet** *(Wide Awake)*
 🎤 **[Autumn](https://open.spotify.com/track/5n2SkadJQGgoPfzrRvFyp7)** by **Emilio Bonito** *(The River I Step In)*
 🎤 **[Same Shape Beautiful Chords](https://open.spotify.com/track/5HjUUQXBgzvfkw43fIJSM6)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Simple Yet Beautiful Chords on Guitar](https://open.spotify.com/track/0CpWSxbW2q19uv4Zs7Vbi1)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Simple Chords and Melody Combined](https://open.spotify.com/track/4gdqgMRPvHVKHTrTp8oFqI)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[The Most Satisfying Chord Progression on Guitar](https://open.spotify.com/track/4V4y6jlMfszNoUHAa9bTh4)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-12-04 15:43:29Z UTC
+🕐 Last updated: 2025-12-04 15:54:50Z UTC
 <!-- SPOTIFY-END -->
