@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)**
-*by* **Lix, Elujjin**
-*Album:* 128
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="12" height="4" fill="#1db954" rx="2"/>
-    <circle cx="12" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:25
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
+🎤 **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)*
+🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**2012**](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)
 
 
-🕐 Last updated: 2025-12-04 07:33:20Z UTC
+🕐 Last updated: 2025-12-04 07:48:26Z UTC
 <!-- SPOTIFY-END -->
