@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ca1d031b552144e831400460" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)**
+*by* **meat computer**
+*Album:* help, im falling
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:53 • 1:58
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[reject](https://open.spotify.com/track/2luCCQe7ga6IMnRjf2LNIn)** by **kets4eki, Pröz** *(reject)*
-🎤 **[ABCD](https://open.spotify.com/track/6UsWyDrxdS2q3RHbsaT0TC)** by **pink luu** *(ABCD)*
-🎤 **[leiche](https://open.spotify.com/track/2dKiBmKDBy4r9ip2k6AplS)** by **luu, luvwillow** *(leiche)*
-🎤 **[need u](https://open.spotify.com/track/54tAgWEBNgaYtjBJSKOjj9)** by **dethkitty** *(need u)*
-🎤 **[goredance](https://open.spotify.com/track/3EhS4Jzub5RXziDOOL1ToW)** by **KidSnorlax** *(goredance)*
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
+🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
+🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-05 06:21:24Z UTC
+🕐 Last updated: 2025-12-05 06:52:04Z UTC
 <!-- SPOTIFY-END -->
