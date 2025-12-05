@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d3399484c668e05ce4bbc648" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [high as fuck](https://open.spotify.com/track/14cxhUvJbuo61Hb1wYQbP7)**
+*by* **kets4eki, d3r**
+*Album:* high as fuck
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:43 • 1:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
+🎤 **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)*
+🎤 **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[attached](https://open.spotify.com/track/0jbq5I267vc0vQdagWk19l)** by **angelicxmei** *(attached)*
 🎤 **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)*
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
-🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
-🎤 **[Lost](https://open.spotify.com/track/0ytmxOjS0L12GlEdGQJo37)** by **RONEN** *(Hidden)*
 
 
 
@@ -121,8 +140,8 @@
 🥈 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
 🥉 [**wunderschön**](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)
 🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
-🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
+🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-05 15:14:42Z UTC
+🕐 Last updated: 2025-12-05 15:36:10Z UTC
 <!-- SPOTIFY-END -->
