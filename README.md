@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)**
-*by* **blombi19**
-*Album:* herzkasper
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="124" height="4" fill="#1db954" rx="2"/>
-    <circle cx="124" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:32 • 3:43
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)** by **blombi19** *(herzkasper)*
 🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
 🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
 🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
 🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
-🎤 **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-05 17:32:37Z UTC
+🕐 Last updated: 2025-12-05 17:48:32Z UTC
 <!-- SPOTIFY-END -->
