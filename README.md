@@ -95,7 +95,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273a43e26208f9bed42725a89e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Busy Chord Progression](https://open.spotify.com/track/68Pgi6mSDoUY6CQRbvUEvw)**
+**🎵 [Six Emotional Fingerstyle Solos](https://open.spotify.com/track/4qSwGfM5aIKBscQMx9xeRo)**
 *by* **Marco Cirillo**
 *Album:* Music from My Lessons, Vol. 1
 
@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="137" height="4" fill="#1db954" rx="2"/>
-    <circle cx="137" cy="2" r="6" fill="#1db954"/>
+    <rect width="289" height="4" fill="#1db954" rx="2"/>
+    <circle cx="289" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 0:57
+    5:59 • 6:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sweet Beautiful Chords on Guitar](https://open.spotify.com/track/2UFojWzaKaytrI2CsJYn6c)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Slow Melody on Electric Guitar](https://open.spotify.com/track/1GQXX2ir9hSRbiK0ya4LIp)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Sentimental Chords on Guitar](https://open.spotify.com/track/61dH6WEZADwoXTsDIbAvAq)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Just Beautiful Chords, Pt. 2](https://open.spotify.com/track/74lYijF9kpkXgZ5S4mcd3V)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Just Beautiful Chords (Jaw-Dropping)](https://open.spotify.com/track/5kCf7bU1j3FK7xgA3XsJI1)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[The Most Satisfying Chord Progression on Guitar](https://open.spotify.com/track/4V4y6jlMfszNoUHAa9bTh4)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Three Easy Tips for Writing Chord Progressions](https://open.spotify.com/track/1UGDMX0rhWwr3Cq2ki5G3e)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Strumming Beautiful Chords](https://open.spotify.com/track/4HIaUlf3W8RLyMcWts82wW)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Make Your Chords Sing](https://open.spotify.com/track/1YWNaBV1cNr7GSAC8oXRIe)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 14:30:11Z UTC
+🕐 Last updated: 2025-12-06 14:41:40Z UTC
 <!-- SPOTIFY-END -->
