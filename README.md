@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a43e26208f9bed42725a89e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27313020134c1d68ad3139f0f47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Six Emotional Fingerstyle Solos](https://open.spotify.com/track/4qSwGfM5aIKBscQMx9xeRo)**
-*by* **Marco Cirillo**
-*Album:* Music from My Lessons, Vol. 1
+**🎵 [All This Time](https://open.spotify.com/track/4trmRcJCJZIFdpTaSkgVSu)**
+*by* **From Somewhere Quiet, Adam Dodson**
+*Album:* All This Time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="289" height="4" fill="#1db954" rx="2"/>
-    <circle cx="289" cy="2" r="6" fill="#1db954"/>
+    <rect width="54" height="4" fill="#1db954" rx="2"/>
+    <circle cx="54" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:59 • 6:12
+    0:37 • 3:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[The Most Satisfying Chord Progression on Guitar](https://open.spotify.com/track/4V4y6jlMfszNoUHAa9bTh4)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Three Easy Tips for Writing Chord Progressions](https://open.spotify.com/track/1UGDMX0rhWwr3Cq2ki5G3e)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Strumming Beautiful Chords](https://open.spotify.com/track/4HIaUlf3W8RLyMcWts82wW)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Make Your Chords Sing](https://open.spotify.com/track/1YWNaBV1cNr7GSAC8oXRIe)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Chrysanthemum](https://open.spotify.com/track/6jMzUt9LsxecDZCR3o8NLB)** by **Emilio Bonito** *(The River I Step In)*
+🎤 **[Same Shape Beautiful Chords](https://open.spotify.com/track/5HjUUQXBgzvfkw43fIJSM6)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Simple Yet Beautiful Chords on Guitar](https://open.spotify.com/track/0CpWSxbW2q19uv4Zs7Vbi1)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Simple Chords and Melody Combined](https://open.spotify.com/track/4gdqgMRPvHVKHTrTp8oFqI)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Six Emotional Fingerstyle Solos](https://open.spotify.com/track/4qSwGfM5aIKBscQMx9xeRo)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 14:41:40Z UTC
+🕐 Last updated: 2025-12-06 14:49:14Z UTC
 <!-- SPOTIFY-END -->
