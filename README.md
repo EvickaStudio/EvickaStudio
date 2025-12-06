@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273caf79654d60500398f8c2b29" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27385a2da83b5b340365ae7d8cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Along the Watchtower](https://open.spotify.com/track/6iyhA8MsadfFqyf29jj5gD)**
-*by* **Mike Dawes**
-*Album:* Galactic Acid
+**🎵 [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)**
+*by* **Robert Miles**
+*Album:* Children (Dance Vault Mixes)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="124" height="4" fill="#1db954" rx="2"/>
-    <circle cx="124" cy="2" r="6" fill="#1db954"/>
+    <rect width="165" height="4" fill="#1db954" rx="2"/>
+    <circle cx="165" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 3:54
+    2:14 • 4:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
-🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
-🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Hachijo kariyasu](https://open.spotify.com/track/5iXomXedi29RsyuW3aypuZ)** by **Isato Nakagawa** *(Rainbow Chaser)*
-🎤 **[Daydreamer](https://open.spotify.com/track/3j8Q1kFRcCEgVRmaHNM98T)** by **Emilio Bonito** *(The River I Step In)*
+🎤 **[See You When You Appear](https://open.spotify.com/track/5mldx1OHnf9w1prU4THCX8)** by **Dylan Ryche** *(Two Tigers)*
+🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
+🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
+🎤 **[All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f)** by **Jimi Hendrix** *(Electric Ladyland)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 16:14:29Z UTC
+🕐 Last updated: 2025-12-06 16:37:44Z UTC
 <!-- SPOTIFY-END -->
