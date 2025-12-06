@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27342aad4fabfbafe48dd7f55e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [What's Your Hurry?](https://open.spotify.com/track/0dbSPD7jbKGTDWOfmFKiYv)**
-*by* **Roan Zen Martin**
-*Album:* The Magician
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 5:18
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)** by **LiSA** *(LANDSPACE)*
+🎤 **[What's Your Hurry?](https://open.spotify.com/track/0dbSPD7jbKGTDWOfmFKiYv)** by **Roan Zen Martin** *(The Magician)*
 🎤 **[I called and left a message](https://open.spotify.com/track/5myoBOTaycNR7S3FZY0ft0)** by **Agatha is Dead!** *(Interlude)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[hide - midwest emo version](https://open.spotify.com/track/1lK91LXgv3JxZEHuB3a8vI)** by **jacal** *(hide (midwest emo version + extras))*
-🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
-🎤 **[See You When You Appear](https://open.spotify.com/track/5mldx1OHnf9w1prU4THCX8)** by **Dylan Ryche** *(Two Tigers)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 16:51:09Z UTC
+🕐 Last updated: 2025-12-06 17:10:44Z UTC
 <!-- SPOTIFY-END -->
