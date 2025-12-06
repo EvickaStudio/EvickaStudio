@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a43e26208f9bed42725a89e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Simple Yet Beautiful Chords on Guitar](https://open.spotify.com/track/0CpWSxbW2q19uv4Zs7Vbi1)**
+*by* **Marco Cirillo**
+*Album:* Music from My Lessons, Vol. 1
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:03 • 1:06
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Autumn](https://open.spotify.com/track/5n2SkadJQGgoPfzrRvFyp7)** by **Emilio Bonito** *(The River I Step In)*
-🎤 **[Same Shape Beautiful Chords](https://open.spotify.com/track/5HjUUQXBgzvfkw43fIJSM6)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Simple Yet Beautiful Chords on Guitar](https://open.spotify.com/track/0CpWSxbW2q19uv4Zs7Vbi1)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Simple Chords and Melody Combined](https://open.spotify.com/track/4gdqgMRPvHVKHTrTp8oFqI)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Six Emotional Fingerstyle Solos](https://open.spotify.com/track/4qSwGfM5aIKBscQMx9xeRo)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Sentimental Chords on Guitar](https://open.spotify.com/track/61dH6WEZADwoXTsDIbAvAq)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Busy Chord Progression](https://open.spotify.com/track/68Pgi6mSDoUY6CQRbvUEvw)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Three Easy Tips for Writing Chord Progressions](https://open.spotify.com/track/1UGDMX0rhWwr3Cq2ki5G3e)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Make Your Chords Sing](https://open.spotify.com/track/1YWNaBV1cNr7GSAC8oXRIe)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Sweet Beautiful Chords on Guitar](https://open.spotify.com/track/2UFojWzaKaytrI2CsJYn6c)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 15:39:22Z UTC
+🕐 Last updated: 2025-12-06 15:47:49Z UTC
 <!-- SPOTIFY-END -->
