@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a43e26208f9bed42725a89e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Busy Chord Progression](https://open.spotify.com/track/68Pgi6mSDoUY6CQRbvUEvw)**
+*by* **Marco Cirillo**
+*Album:* Music from My Lessons, Vol. 1
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="137" height="4" fill="#1db954" rx="2"/>
+    <circle cx="137" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:26 • 0:57
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)*
-🎤 **[ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)** by **blombi19** *(herzkasper)*
-🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
-🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
-🎤 **[dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)** by **blombi19** *(herzkasper)*
+🎤 **[Sweet Beautiful Chords on Guitar](https://open.spotify.com/track/2UFojWzaKaytrI2CsJYn6c)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Slow Melody on Electric Guitar](https://open.spotify.com/track/1GQXX2ir9hSRbiK0ya4LIp)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Sentimental Chords on Guitar](https://open.spotify.com/track/61dH6WEZADwoXTsDIbAvAq)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Just Beautiful Chords, Pt. 2](https://open.spotify.com/track/74lYijF9kpkXgZ5S4mcd3V)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Just Beautiful Chords (Jaw-Dropping)](https://open.spotify.com/track/5kCf7bU1j3FK7xgA3XsJI1)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 14:11:04Z UTC
+🕐 Last updated: 2025-12-06 14:30:11Z UTC
 <!-- SPOTIFY-END -->
