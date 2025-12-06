@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2731318790910567adb972e2482" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)**
+*by* **Ecco2k**
+*Album:* Scandinavian Swords IIII: Atlas of Visions Pt. I & II
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="40" height="4" fill="#1db954" rx="2"/>
+    <circle cx="40" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:16 • 2:02
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Sad Relief](https://open.spotify.com/track/7aw2laxWdNZIpsrowfrHKv)** by **Blanket Boy** *(Sad Relief)*
 🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
 🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)** by **LiSA** *(LANDSPACE)*
-🎤 **[What's Your Hurry?](https://open.spotify.com/track/0dbSPD7jbKGTDWOfmFKiYv)** by **Roan Zen Martin** *(The Magician)*
-🎤 **[I called and left a message](https://open.spotify.com/track/5myoBOTaycNR7S3FZY0ft0)** by **Agatha is Dead!** *(Interlude)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 19:33:51Z UTC
+🕐 Last updated: 2025-12-06 19:47:48Z UTC
 <!-- SPOTIFY-END -->
