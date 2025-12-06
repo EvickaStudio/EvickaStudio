@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a43e26208f9bed42725a89e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273caf79654d60500398f8c2b29" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Simple Yet Beautiful Chords on Guitar](https://open.spotify.com/track/0CpWSxbW2q19uv4Zs7Vbi1)**
-*by* **Marco Cirillo**
-*Album:* Music from My Lessons, Vol. 1
+**🎵 [All Along the Watchtower](https://open.spotify.com/track/6iyhA8MsadfFqyf29jj5gD)**
+*by* **Mike Dawes**
+*Album:* Galactic Acid
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 1:06
+    1:37 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sentimental Chords on Guitar](https://open.spotify.com/track/61dH6WEZADwoXTsDIbAvAq)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Busy Chord Progression](https://open.spotify.com/track/68Pgi6mSDoUY6CQRbvUEvw)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Three Easy Tips for Writing Chord Progressions](https://open.spotify.com/track/1UGDMX0rhWwr3Cq2ki5G3e)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Make Your Chords Sing](https://open.spotify.com/track/1YWNaBV1cNr7GSAC8oXRIe)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Sweet Beautiful Chords on Guitar](https://open.spotify.com/track/2UFojWzaKaytrI2CsJYn6c)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
+🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
+🎤 **[Hachijo kariyasu](https://open.spotify.com/track/5iXomXedi29RsyuW3aypuZ)** by **Isato Nakagawa** *(Rainbow Chaser)*
+🎤 **[Daydreamer](https://open.spotify.com/track/3j8Q1kFRcCEgVRmaHNM98T)** by **Emilio Bonito** *(The River I Step In)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-06 15:47:49Z UTC
+🕐 Last updated: 2025-12-06 16:14:29Z UTC
 <!-- SPOTIFY-END -->
