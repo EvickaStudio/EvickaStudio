@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de9fa100bac605052660d22a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ea6f9bfc54dcdc0303cfaed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)**
-*by* **RYLO**
-*Album:* der plattenspieler kratzt
+**🎵 [Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)**
+*by* **grim noir**
+*Album:* Verhext
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="215" height="4" fill="#1db954" rx="2"/>
+    <circle cx="215" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:49
+    1:50 • 2:33
 </span>
 </p>
 
@@ -116,18 +116,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fensterbank](https://open.spotify.com/track/140Yj9fbdYEQ4ym385jYe0)** by **52Blue** *(52Hz)*
-🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic** *(alprazolam)*
-🎤 **[buntetränen](https://open.spotify.com/track/06skzp8jtgf525Zl6l8uSg)** by **ALeiz** *(buntetränen)*
-🎤 **[vergessen](https://open.spotify.com/track/5eNVPjFB1OJr6aZ953jVH3)** by **wilson100k** *(vergessen)*
-🎤 **[Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[scheisse](https://open.spotify.com/track/2adKPw1y7Lb7acXRLhtc0k)** by **52Blue** *(scheisse)*
+🎤 **[hustensaft](https://open.spotify.com/track/4RpAzEkTkNERkGi58x4SbP)** by **pink luu** *(hustensaft)*
+🎤 **[i understand U_U](https://open.spotify.com/track/6U1d49teNUKDPLvmWc4Ky6)** by **03osc** *(deleted_filez)*
+🎤 **[SLMN](https://open.spotify.com/track/3mS8LCrLat7CtsNhg76Ot8)** by **wilson100k** *(SLMN)*
+🎤 **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 23:11:50Z UTC
+🕐 Last updated: 2025-12-07 23:27:58Z UTC
 <!-- SPOTIFY-END -->
