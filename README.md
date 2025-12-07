@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[drill](https://open.spotify.com/track/4xZRNPS2gMXRAhwBwqhTWb)** by **Nosgov** *(2mg)*
-🎤 **[by my side](https://open.spotify.com/track/0um3MIFglS9jCKGh4V0YKq)** by **Nosgov** *(2mg)*
-🎤 **[detergent](https://open.spotify.com/track/5gfCvaL6J7yMQ6KxQiasMJ)** by **Nosgov** *(2mg)*
-🎤 **[cyberangel anthem](https://open.spotify.com/track/5RafVY3peepDVYIEQyJoiA)** by **Nosgov** *(2mg)*
-🎤 **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)*
+🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
+🎤 **[Kaleidoskop](https://open.spotify.com/track/6WOetG6tyZnU3TccP7UTv7)** by **Bernstein** *(Kaleidoskop)*
+🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
+🎤 **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)*
+🎤 **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 15:47:52Z UTC
+🕐 Last updated: 2025-12-07 16:14:10Z UTC
 <!-- SPOTIFY-END -->
