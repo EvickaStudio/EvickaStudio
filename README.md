@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f26cac96687ed35ff19e085d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)**
+*by* **Traumatin**
+*Album:* Nur zu weit
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:41 • 3:46
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
-🎤 **[Kaleidoskop](https://open.spotify.com/track/6WOetG6tyZnU3TccP7UTv7)** by **Bernstein** *(Kaleidoskop)*
-🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
-🎤 **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)*
-🎤 **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)*
+🎤 **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)*
+🎤 **[Soul Shield](https://open.spotify.com/track/2ZpQJkeJDUAF2vwYj6WBvM)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 16:14:10Z UTC
+🕐 Last updated: 2025-12-07 16:36:29Z UTC
 <!-- SPOTIFY-END -->
