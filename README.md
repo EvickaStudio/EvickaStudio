@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730a013df03e750ca5d8bf73f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
+**🎵 [do addicts make it to heaven?](https://open.spotify.com/track/6SFTmpqVmYBtRC0NetFqYg)**
+*by* **disoc8, wintr**
+*Album:* do addicts make it to heaven?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 2:03
+    0:42 • 2:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[regenwolken](https://open.spotify.com/track/2PVFEOFZyIktVVx8Z21Kap)** by **stixz, muli** *(regenwolken)*
-🎤 **[eine liebe](https://open.spotify.com/track/72fV0RCHpxERuxcxCm38Ll)** by **ilyproxy** *(eine liebe)*
-🎤 **[mind communication "" ! + # --/// ::](https://open.spotify.com/track/2OShI8C1Gs19y8GmTpTRWS)** by **ALeiz** *(mind communication "" ! + # --/// ::)*
-🎤 **[IBUPROFEN!☆♡•-](https://open.spotify.com/track/6xJZUPLRdN4ODDTTsmFkuX)** by **fwks** *(IBUPROFEN!☆♡•-)*
-🎤 **[zusamm mit dir](https://open.spotify.com/track/1eYs156q5r5WRrbNKZKSYg)** by **Keule** *(zusamm mit dir)*
+🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
+🎤 **[broken heart - freestyle (rizzmix)](https://open.spotify.com/track/5SViUiCC3w3oDKilKeM7fe)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(broken heart freestyle)*
+🎤 **[Dolce & Gabbana](https://open.spotify.com/track/0PyX9K7sua6VROVSfTyGgm)** by **52Blue** *(Dolce & Gabbana)*
+🎤 **[WIR SIND HELDEN](https://open.spotify.com/track/3nYtlXc3tLPv4k8LmoGRWr)** by **stixz** *(WIR SIND HELDEN)*
+🎤 **[lichter](https://open.spotify.com/track/1XirZNhWH46wH60TL2tSnb)** by **ilyproxy, Hadesthegrim** *(lichter)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 22:11:56Z UTC
+🕐 Last updated: 2025-12-07 22:31:34Z UTC
 <!-- SPOTIFY-END -->
