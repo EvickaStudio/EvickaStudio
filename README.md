@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27332061a41dbe77a6a41647017" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a8e8b10d2ada6d5a9a459a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dreamer](https://open.spotify.com/track/7KUNXVZk7JnlBwZihiDPda)**
+**🎵 [Together With You](https://open.spotify.com/track/4DkZ6zYeshWSTn5zFD6E54)**
 *by* **Soothing Oasis**
-*Album:* Foggy Morning
+*Album:* Starry Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:08
+    1:14 • 2:11
 </span>
 </p>
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 23:38:01Z UTC
+🕐 Last updated: 2025-12-07 23:47:41Z UTC
 <!-- SPOTIFY-END -->
