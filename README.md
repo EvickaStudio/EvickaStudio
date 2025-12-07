@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3536f1e119499e5e536a802" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c0ce6f971c9d9a583fcdcdcb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)**
-*by* **5v, Crescent**
-*Album:* tell me where we are
+**🎵 [DUNKELBLAU 1NTERLUDE](https://open.spotify.com/track/1byyOBxv96mhZpKq6l707m)**
+*by* **S1RENA**
+*Album:* MP3 M1XTAPE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="41" height="4" fill="#1db954" rx="2"/>
-    <circle cx="41" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:31
+    1:42 • 1:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Liebe geht drauf](https://open.spotify.com/track/68GhoQkzuc0uybrkk6Jv7a)** by **S1RENA** *(Atlantis)*
-🎤 **[Ich und meine Freunde - Sped Up](https://open.spotify.com/track/1ljonsE2hEXHNUMzbhXPUd)** by **mickyi** *(Ich und meine Freunde)*
-🎤 **[Was Mal War](https://open.spotify.com/track/4phkoI4xECbI9rv6WqmsPr)** by **Fanny, No.Ri** *(Fanny EP)*
-🎤 **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by **diggidaniel** *(So weit)*
-🎤 **[egal](https://open.spotify.com/track/12XwCNlWz1FLGQu74yXjuz)** by **Love Pact** *(egal)*
+🎤 **[PINT](https://open.spotify.com/track/3Q8NwOoEibwvc0ETtfGRy3)** by **stixz** *(love core)*
+🎤 **[Du hattest recht Mama (sry)](https://open.spotify.com/track/2tfCZTp3siKVCjjAZs48pP)** by **SQF2000** *(YOLOCORE)*
+🎤 **[Schlitzohr](https://open.spotify.com/track/4KnGSLmWuY2VjHO1tKeyGY)** by **Sadi** *(Schlitzohr)*
+🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
+🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 19:47:52Z UTC
+🕐 Last updated: 2025-12-07 20:13:37Z UTC
 <!-- SPOTIFY-END -->
