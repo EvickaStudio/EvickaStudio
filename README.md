@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736114ffa71996fd0c7ce41390" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)**
-*by* **Mietze Conte**
-*Album:* Under my Bed
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)** by **elricfd** *(friday nite)*
+🎤 **[drill](https://open.spotify.com/track/4xZRNPS2gMXRAhwBwqhTWb)** by **Nosgov** *(2mg)*
+🎤 **[by my side](https://open.spotify.com/track/0um3MIFglS9jCKGh4V0YKq)** by **Nosgov** *(2mg)*
+🎤 **[detergent](https://open.spotify.com/track/5gfCvaL6J7yMQ6KxQiasMJ)** by **Nosgov** *(2mg)*
+🎤 **[cyberangel anthem](https://open.spotify.com/track/5RafVY3peepDVYIEQyJoiA)** by **Nosgov** *(2mg)*
+🎤 **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 15:11:30Z UTC
+🕐 Last updated: 2025-12-07 15:28:06Z UTC
 <!-- SPOTIFY-END -->
