@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732db12e16e0b7a2c55cf440dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a3536f1e119499e5e536a802" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)**
-*by* **Pink Katana**
-*Album:* Gift
+**🎵 [tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)**
+*by* **5v, Crescent**
+*Album:* tell me where we are
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="41" height="4" fill="#1db954" rx="2"/>
+    <circle cx="41" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 2:33
+    0:21 • 2:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[R1SKANT](https://open.spotify.com/track/6Ehl1Jx3dQ4zvGzcc0E6CM)** by **S1RENA** *(R1SKANT)*
-🎤 **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[skin deep](https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14)** by **benzii, Lucy Dye** *(skin deep)*
-🎤 **[Raccoon](https://open.spotify.com/track/5Ys85maRuIZyBuzlXUIBVg)** by **James Jetski** *(Just Joking)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
+🎤 **[Liebe geht drauf](https://open.spotify.com/track/68GhoQkzuc0uybrkk6Jv7a)** by **S1RENA** *(Atlantis)*
+🎤 **[Ich und meine Freunde - Sped Up](https://open.spotify.com/track/1ljonsE2hEXHNUMzbhXPUd)** by **mickyi** *(Ich und meine Freunde)*
+🎤 **[Was Mal War](https://open.spotify.com/track/4phkoI4xECbI9rv6WqmsPr)** by **Fanny, No.Ri** *(Fanny EP)*
+🎤 **[So weit](https://open.spotify.com/track/5kdS5H3dejO4TfMLmrVezJ)** by **diggidaniel** *(So weit)*
+🎤 **[egal](https://open.spotify.com/track/12XwCNlWz1FLGQu74yXjuz)** by **Love Pact** *(egal)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 19:33:44Z UTC
+🕐 Last updated: 2025-12-07 19:47:52Z UTC
 <!-- SPOTIFY-END -->
