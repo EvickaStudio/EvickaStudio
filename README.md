@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Water Drain](https://open.spotify.com/track/1nSSuSUwP2Ex2IOG5sRKyu)** by **Perdos Talent** *(Under the Sky)*
 🎤 **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)*
 🎤 **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)*
 🎤 **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)*
 🎤 **[every single day](https://open.spotify.com/track/12GSmDYwG6HIUieDnPeLqv)** by **kets4eki, Pröz** *(party2daybreak)*
-🎤 **[Things to Do](https://open.spotify.com/track/1V9lCLSierc1RFpERt6ak9)** by **Alex G** *(Race)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 11:47:45Z UTC
+🕐 Last updated: 2025-12-07 12:23:06Z UTC
 <!-- SPOTIFY-END -->
