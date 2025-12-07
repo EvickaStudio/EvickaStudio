@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27362cb58529783fd34b83a9d5a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)**
-*by* **grim noir**
-*Album:* Lipgloss
+**🎵 [du bist mir egal](https://open.spotify.com/track/1wA2Ezr8CnOXEiKbopVXH5)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 2:12
+    2:12 • 3:05
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[TXGC](https://open.spotify.com/track/0yOakCdnNteEnIJynCVKf5)** by **stixz** *(toxics1ut)*
+🎤 **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
 🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
 🎤 **[Wien](https://open.spotify.com/track/6qzvpqbdSRmR2mdn7gF8sK)** by **John on a Mission** *(Wien)*
-🎤 **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)*
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 18:44:52Z UTC
+🕐 Last updated: 2025-12-07 18:54:04Z UTC
 <!-- SPOTIFY-END -->
