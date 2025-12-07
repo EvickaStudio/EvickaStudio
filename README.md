@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730a013df03e750ca5d8bf73f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273286537d060b068a46f5fb810" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [do addicts make it to heaven?](https://open.spotify.com/track/6SFTmpqVmYBtRC0NetFqYg)**
-*by* **disoc8, wintr**
-*Album:* do addicts make it to heaven?
+**🎵 [einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)**
+*by* **n3vio, luu**
+*Album:* einhornkadaver
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="96" height="4" fill="#1db954" rx="2"/>
-    <circle cx="96" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 2:12
+    0:22 • 2:17
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
-🎤 **[broken heart - freestyle (rizzmix)](https://open.spotify.com/track/5SViUiCC3w3oDKilKeM7fe)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(broken heart freestyle)*
-🎤 **[Dolce & Gabbana](https://open.spotify.com/track/0PyX9K7sua6VROVSfTyGgm)** by **52Blue** *(Dolce & Gabbana)*
-🎤 **[WIR SIND HELDEN](https://open.spotify.com/track/3nYtlXc3tLPv4k8LmoGRWr)** by **stixz** *(WIR SIND HELDEN)*
-🎤 **[lichter](https://open.spotify.com/track/1XirZNhWH46wH60TL2tSnb)** by **ilyproxy, Hadesthegrim** *(lichter)*
+🎤 **[Blut oder Wein](https://open.spotify.com/track/4BJ98GTkGqFzlXW4K0qWwj)** by **RYLO** *(Blut oder Wein)*
+🎤 **[MANIFESTIERT TECHNO - Slit253 Remix](https://open.spotify.com/track/738vx7wQ7TCpCfsvWjhpDs)** by **MISKA, Slit253** *(MANIFESTIERT TECHNO (Slit253 Remix))*
+🎤 **[rein in mein zuhause](https://open.spotify.com/track/7d8p99FCBHewKahSBfHnlW)** by **pink luu, ystn** *(rein in mein zuhause)*
+🎤 **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)*
+🎤 **[Rockstar Shit!](https://open.spotify.com/track/12UsefLR9PLE5BNuBY7XEd)** by **Kidd Kazama** *(Hundert.tausend Briefe)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 22:31:34Z UTC
+🕐 Last updated: 2025-12-07 22:47:48Z UTC
 <!-- SPOTIFY-END -->
