@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738a328edfadea790a2e48bdea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d64680504dfbcf7b21096907" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP)**
-*by* **DJ Ötzi**
-*Album:* Es ist Zeit
+**🎵 [tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)**
+*by* **RYLO, veil**
+*Album:* tränen statt wut
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 2:53
+    1:33 • 2:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[für immer,](https://open.spotify.com/track/0vgNJz4rUtQYLnHDQ0mRrJ)** by **Fifteen** *(try not to cum)*
+🎤 **[Paris](https://open.spotify.com/track/2BvlpXH8GnGbEbCkoL8b1t)** by **Pink Katana Archive** *(Briefe)*
+🎤 **[Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP)** by **DJ Ötzi** *(Es ist Zeit)*
 🎤 **[found it (demo)](https://open.spotify.com/track/6Z05nc6InGk7Rz0ni3Vp2i)** by **Estrada** *(found it (demo))*
 🎤 **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)*
-🎤 **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by **5v** *(kein zufall)*
-🎤 **[mr. ikari & the cruel angels](https://open.spotify.com/track/05nN7qZAfHyswFUCpbqyx0)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 17:38:49Z UTC
+🕐 Last updated: 2025-12-07 17:47:38Z UTC
 <!-- SPOTIFY-END -->
