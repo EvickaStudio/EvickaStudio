@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273725aecfc44d533deddc1dd02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)**
-*by* **fliggsy**
-*Album:* Project Life
+**🎵 [BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)**
+*by* **agelast222, gard**
+*Album:* SOLAR TACTICS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 1:44
+    1:29 • 1:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[für für immer](https://open.spotify.com/track/7w7oN0OCYygKuBWGQQXaOk)** by **DANZINGER 99, æmilia** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[M E H R](https://open.spotify.com/track/7tdvmDbmpTI0BjyUKSgvcu)** by **stixz** *(M E H R)*
-🎤 **[Boom!](https://open.spotify.com/track/7q8RAdtRDZn0PaLk4Jo5RT)** by **c4rl, Yungpalo** *(Boom!)*
-🎤 **[ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll](https://open.spotify.com/track/1QWomHz2ekJSSqQKHYeKQb)** by **Niclov** *(ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll)*
+🎤 **[Sommer2019](https://open.spotify.com/track/4YAeMzQF2bZ6iReXMPPX38)** by **Pink Katana** *(Sommer2019)*
+🎤 **[vans](https://open.spotify.com/track/46sWe2Otf96B679FRDdrU8)** by **stixz** *(vans)*
+🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
+🎤 **[ich hasse alles hier](https://open.spotify.com/track/51tVSCuPK6GyVWvlE3MDQR)** by **ilyproxy** *(ich hasse alles hier)*
+🎤 **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 21:26:12Z UTC
+🕐 Last updated: 2025-12-07 21:34:59Z UTC
 <!-- SPOTIFY-END -->
