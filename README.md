@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a6986bb62d1f65698d3e4fb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
-*by* **EASY EASY**
-*Album:* schädel
+**🎵 [kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)**
+*by* **5v**
+*Album:* kein zufall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 3:06
+    1:41 • 2:16
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[i crash, u crash](https://open.spotify.com/track/2mmvUIfawPzUCbw3j9uJKk)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
-🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
-🎤 **[Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)** by **tim, TYM** *(Myself)*
-🎤 **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)*
+🎤 **[mr. ikari & the cruel angels](https://open.spotify.com/track/05nN7qZAfHyswFUCpbqyx0)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
+🎤 **[your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ)** by **Jane Remover** *(Frailty)*
+🎤 **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)*
+🎤 **[Bastard](https://open.spotify.com/track/1u6zqsXN5WdTBJktOc0YlI)** by **leander, Hadesthegrim** *(Bastard)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 17:10:25Z UTC
+🕐 Last updated: 2025-12-07 17:28:14Z UTC
 <!-- SPOTIFY-END -->
