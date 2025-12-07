@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730028cbf53cb1a5a6bfe9a44f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732db12e16e0b7a2c55cf440dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [skin deep](https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14)**
-*by* **benzii, Lucy Dye**
-*Album:* skin deep
+**🎵 [Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)**
+*by* **Pink Katana**
+*Album:* Gift
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="112" height="4" fill="#1db954" rx="2"/>
-    <circle cx="112" cy="2" r="6" fill="#1db954"/>
+    <rect width="207" height="4" fill="#1db954" rx="2"/>
+    <circle cx="207" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 3:43
+    1:45 • 2:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[R1SKANT](https://open.spotify.com/track/6Ehl1Jx3dQ4zvGzcc0E6CM)** by **S1RENA** *(R1SKANT)*
+🎤 **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[skin deep](https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14)** by **benzii, Lucy Dye** *(skin deep)*
 🎤 **[Raccoon](https://open.spotify.com/track/5Ys85maRuIZyBuzlXUIBVg)** by **James Jetski** *(Just Joking)*
 🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[hyper-emotional](https://open.spotify.com/track/59pb4FcRTOuH1vYna1skn9)** by **52Blue** *(hyper-emotional)*
-🎤 **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 19:24:00Z UTC
+🕐 Last updated: 2025-12-07 19:33:44Z UTC
 <!-- SPOTIFY-END -->
