@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730894733c00d108333c26d7ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [promise](https://open.spotify.com/track/7o9LCQ8RDOrMWV9dc0TmTG)**
-*by* **DANZINGER 99**
-*Album:* aber immer noch besser als in dieser welt in der ich wach bin
+**🎵 [reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="165" height="4" fill="#1db954" rx="2"/>
+    <circle cx="165" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:57 • 1:32
+    1:08 • 2:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)** by **stixz** *(fashionscars)*
-🎤 **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)*
-🎤 **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Bitte komm nach Hause](https://open.spotify.com/track/3DefhrB2WlZEtCz3tYVuJQ)** by **fliggsy** *(Project Life)*
+🎤 **[regenwolken](https://open.spotify.com/track/2PVFEOFZyIktVVx8Z21Kap)** by **stixz, muli** *(regenwolken)*
+🎤 **[eine liebe](https://open.spotify.com/track/72fV0RCHpxERuxcxCm38Ll)** by **ilyproxy** *(eine liebe)*
+🎤 **[mind communication "" ! + # --/// ::](https://open.spotify.com/track/2OShI8C1Gs19y8GmTpTRWS)** by **ALeiz** *(mind communication "" ! + # --/// ::)*
+🎤 **[IBUPROFEN!☆♡•-](https://open.spotify.com/track/6xJZUPLRdN4ODDTTsmFkuX)** by **fwks** *(IBUPROFEN!☆♡•-)*
+🎤 **[zusamm mit dir](https://open.spotify.com/track/1eYs156q5r5WRrbNKZKSYg)** by **Keule** *(zusamm mit dir)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 21:47:35Z UTC
+🕐 Last updated: 2025-12-07 22:11:56Z UTC
 <!-- SPOTIFY-END -->
