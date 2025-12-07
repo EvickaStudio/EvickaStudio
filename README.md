@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a6601e5fa9a020496e591492" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Baby Blizzard](https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN)**
-*by* **Baby B3ns**
-*Album:* Baby Blizzard
+**🎵 [MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)**
+*by* **Yung Hurn**
+*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 2:05
+    1:40 • 1:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//-](https://open.spotify.com/track/4Sdn5H5dWtLpSdTI9Qxd19)** by **ALeiz** *(lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//-)*
-🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
-🎤 **[Taub](https://open.spotify.com/track/35YEb10VcwXhAoudC4nYvN)** by **Pink Katana, TYM** *(Taub)*
-🎤 **[sober](https://open.spotify.com/track/1NmZ7m6HoMFQ0OEgjQ49id)** by **stixz** *(sober)*
-🎤 **[bitch ritzt sich](https://open.spotify.com/track/77nNjAlL6w6wVEI3CpfOBd)** by **n3vio** *(bitch ritzt sich)*
+🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
+🎤 **[kontostand](https://open.spotify.com/track/6vPwtoz2rDV8yN4VyHjXaU)** by **stixz** *(kontostand)*
+🎤 **[Sterne fallen](https://open.spotify.com/track/7dCR5qUUH0oPUiwMlTXcPA)** by **52Blue, Punk Christ** *(Sterne fallen)*
+🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
+🎤 **[broken heart - freestyle](https://open.spotify.com/track/1cEohyQ9SCbFpMyoSVefYB)** by **puls207, TROPFBUBEN** *(broken heart freestyle)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 20:47:48Z UTC
+🕐 Last updated: 2025-12-07 21:10:31Z UTC
 <!-- SPOTIFY-END -->
