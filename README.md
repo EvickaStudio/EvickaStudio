@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273286537d060b068a46f5fb810" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de9fa100bac605052660d22a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)**
-*by* **n3vio, luu**
-*Album:* einhornkadaver
+**🎵 [der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)**
+*by* **RYLO**
+*Album:* der plattenspieler kratzt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="50" height="4" fill="#1db954" rx="2"/>
-    <circle cx="50" cy="2" r="6" fill="#1db954"/>
+    <rect width="94" height="4" fill="#1db954" rx="2"/>
+    <circle cx="94" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 2:17
+    0:53 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Blut oder Wein](https://open.spotify.com/track/4BJ98GTkGqFzlXW4K0qWwj)** by **RYLO** *(Blut oder Wein)*
-🎤 **[MANIFESTIERT TECHNO - Slit253 Remix](https://open.spotify.com/track/738vx7wQ7TCpCfsvWjhpDs)** by **MISKA, Slit253** *(MANIFESTIERT TECHNO (Slit253 Remix))*
-🎤 **[rein in mein zuhause](https://open.spotify.com/track/7d8p99FCBHewKahSBfHnlW)** by **pink luu, ystn** *(rein in mein zuhause)*
-🎤 **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)*
-🎤 **[Rockstar Shit!](https://open.spotify.com/track/12UsefLR9PLE5BNuBY7XEd)** by **Kidd Kazama** *(Hundert.tausend Briefe)*
+🎤 **[Fensterbank](https://open.spotify.com/track/140Yj9fbdYEQ4ym385jYe0)** by **52Blue** *(52Hz)*
+🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic** *(alprazolam)*
+🎤 **[buntetränen](https://open.spotify.com/track/06skzp8jtgf525Zl6l8uSg)** by **ALeiz** *(buntetränen)*
+🎤 **[vergessen](https://open.spotify.com/track/5eNVPjFB1OJr6aZ953jVH3)** by **wilson100k** *(vergessen)*
+🎤 **[Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-07 22:47:48Z UTC
+🕐 Last updated: 2025-12-07 23:11:50Z UTC
 <!-- SPOTIFY-END -->
