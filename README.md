@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27373ad4a7d2503ebbf0545fc5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Endless](https://open.spotify.com/track/4wglXBRyvc4lkwq0QVrJdp)**
-*by* **Soothing Oasis**
-*Album:* Stillness
+**🎵 [Deep Slumber](https://open.spotify.com/track/2fbcLWdZdoCtYPcORJicZR)**
+*by* **Avery's Ambient**
+*Album:* Dream Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="122" height="4" fill="#1db954" rx="2"/>
+    <circle cx="122" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:06
+    0:53 • 2:11
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-08 03:53:52Z UTC
+🕐 Last updated: 2025-12-08 04:27:23Z UTC
 <!-- SPOTIFY-END -->
