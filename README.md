@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27364c8cf7bc530a05dd10e8efe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d1869d8c477d291a205a2d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk)**
-*by* **LiSA**
-*Album:* LEO-NiNE
+**🎵 [Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)**
+*by* **RADWIMPS**
+*Album:* Your Name.
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="89" height="4" fill="#1db954" rx="2"/>
+    <circle cx="89" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 4:56
+    2:41 • 8:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Absolute Soul](https://open.spotify.com/track/16y05kAK8ssxKVFX31O2yy)** by **Konomi Suzuki** *(lead)*
+🎤 **[unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk)** by **LiSA** *(LEO-NiNE)*
 🎤 **[Fly Away](https://open.spotify.com/track/7olMFQZhjN2EHf7ra2PjE7)** by **TeddyLoid** *(Panty & Stocking with Garterbelt　The Original Soundtrack)*
 🎤 **[CANDY CANDY](https://open.spotify.com/track/4r53usGeVPzb1fKUUSxN1w)** by **Kyary Pamyu Pamyu** *(ぱみゅぱみゅレボリューション)*
 🎤 **[君と僕の154小節戦争](https://open.spotify.com/track/10AC3n6YglAdIpi4TUAjNZ)** by **美波** *(DROP)*
-🎤 **[Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv)** by **RADWIMPS** *(Weathering With You)*
-🎤 **[CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)** by **Konomi Suzuki** *(17)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-08 21:27:11Z UTC
+🕐 Last updated: 2025-12-08 21:37:27Z UTC
 <!-- SPOTIFY-END -->
