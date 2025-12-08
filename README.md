@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27365550b92a7d7483f8042f327" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF)**
-*by* **LiSA**
-*Album:* Launcher
+**🎵 [Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)**
+*by* **Lyn**
+*Album:* PERSONA5 ORIGINAL SOUNDTRACK
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 4:11
+    3:06 • 3:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Signs Of Love](https://open.spotify.com/track/2GtQU3R2zEUqDyapXdBENM)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)** by **美波** *(カワキヲアメク)*
-🎤 **[ME!ME!ME! feat. daoko_pt.2](https://open.spotify.com/track/5jaSLzDbU8PrKhtNuvN0qA)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[The Whims of Fate](https://open.spotify.com/track/73DCreJgfFdFxVnjsMSeo4)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Redo](https://open.spotify.com/track/0WjYHf18yTqGEQjLRHLNWp)** by **Konomi Suzuki** *(lead)*
+🎤 **[crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw)** by **LiSA** *(LANDSPACE)*
+🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
+🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
+🎤 **[No More What Ifs](https://open.spotify.com/track/2SQ9RmQAOxGICUSt9T5dIX)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-08 19:47:53Z UTC
+🕐 Last updated: 2025-12-08 20:15:17Z UTC
 <!-- SPOTIFY-END -->
