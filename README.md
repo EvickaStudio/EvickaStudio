@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by **strangerperson** *(Kisses und Flowers)*
-🎤 **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))*
-🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
-🎤 **[ೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋ](https://open.spotify.com/track/7bUgkEuZV7kppzH2bDnQUF)** by **Fine-Sir-1584660650** *(ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ)*
-🎤 **[Don't Cry](https://open.spotify.com/track/5huZ31McP64waaPKoq6PIN)** by **Beyazz, Dante YN** *(Don't Cry)*
+🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)** by **OG Florin** *(ILY<3)*
+🎤 **[ich hasse alles hier](https://open.spotify.com/track/51tVSCuPK6GyVWvlE3MDQR)** by **ilyproxy** *(ich hasse alles hier)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-08 14:14:43Z UTC
+🕐 Last updated: 2025-12-08 14:40:59Z UTC
 <!-- SPOTIFY-END -->
