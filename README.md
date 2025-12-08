@@ -107,8 +107,8 @@
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥉 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
@@ -124,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-08 13:45:54Z UTC
+🕐 Last updated: 2025-12-08 14:14:43Z UTC
 <!-- SPOTIFY-END -->
