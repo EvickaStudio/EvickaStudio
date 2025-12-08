@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273656d17184f33544caeae3511" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)**
-*by* **美波**
-*Album:* アメヲマツ、
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 4:54
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Beneath the Mask](https://open.spotify.com/track/5XLXrm5JVMdOus1fWmTOFw)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)** by **美波** *(アメヲマツ、)*
 🎤 **[Be Yourself Or Die Dreaming](https://open.spotify.com/track/38Ag3lftAiZfCxe5W7Psnp)** by **Nouvelle Story** *(Be Yourself Or Die Dreaming)*
 🎤 **[紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre)** by **LiSA** *(LEO-NiNE)*
 🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
-🎤 **[Nandemonaiya - movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6)** by **RADWIMPS** *(Your Name.)*
-🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-08 16:18:03Z UTC
+🕐 Last updated: 2025-12-08 16:49:20Z UTC
 <!-- SPOTIFY-END -->
