@@ -91,26 +91,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [As Dusk Falls](https://open.spotify.com/track/4RlMbOkyGmnRQAlR0B16cX)**
-*by* **Soothing Oasis**
-*Album:* As Dusk Falls
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="3" height="4" fill="#1db954" rx="2"/>
-    <circle cx="3" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 2:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -139,5 +120,5 @@ No recently played tracks.
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-08 06:54:54Z UTC
+🕐 Last updated: 2025-12-08 07:18:18Z UTC
 <!-- SPOTIFY-END -->
