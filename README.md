@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27339917845c74c9e64320fbed9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18)**
-*by* **Ikimonogakari**
-*Album:* Chou Ikimonobakari Tennen Kinen Members Best Selection
+**🎵 [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB)**
+*by* **YOASOBI**
+*Album:* THE BOOK
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 3:35
+    3:47 • 4:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[セプテンバーさん](https://open.spotify.com/track/0D2ZQ5DKyys3UPAfeKpvwp)** by **RADWIMPS** *(RADWIMPS 3 ～無人島に持っていき忘れた一枚～)*
+🎤 **[この街に晴れはこない](https://open.spotify.com/track/1gdwFGXLC2cKdxbELLYvOC)** by **美波** *(DROP)*
+🎤 **[ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18)** by **Ikimonogakari** *(Chou Ikimonobakari Tennen Kinen Members Best Selection)*
 🎤 **[DAYS of DASH](https://open.spotify.com/track/05tgM5KwoJL27Gm2b55u1W)** by **Konomi Suzuki** *(17)*
 🎤 **[Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u)** by **LiSA** *(LiTTLE DEViL PARADE)*
-🎤 **[Bad Apple!!](https://open.spotify.com/track/2Yv0FavwiRO1mzaIThDAiM)** by **Alstroemeria Records** *(Bad Apple!!)*
-🎤 **[Katawaredoki](https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK)** by **RADWIMPS** *(Your Name.)*
-🎤 **[DROP](https://open.spotify.com/track/5DvUv3UT3KcH3IhNOTfiPF)** by **美波** *(DROP)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-08 22:34:04Z UTC
+🕐 Last updated: 2025-12-08 22:49:37Z UTC
 <!-- SPOTIFY-END -->
