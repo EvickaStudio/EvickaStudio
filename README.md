@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c9bbc53770e91912f64819fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Silent Castle](https://open.spotify.com/track/5el66REwlXnbOLZNy9BagT)**
+**🎵 [No More Stress](https://open.spotify.com/track/1ltmHkFkxtvrm0hOTKXrs8)**
 *by* **Soothing Oasis**
-*Album:* Dream Realm
+*Album:* Peace of Mind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
+    <rect width="251" height="4" fill="#1db954" rx="2"/>
+    <circle cx="251" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:04
+    1:51 • 2:13
 </span>
 </p>
 
@@ -116,11 +116,7 @@
 
 ### 📜 Recently Played
 
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
-🎤 **[scheisse](https://open.spotify.com/track/2adKPw1y7Lb7acXRLhtc0k)** by **52Blue** *(scheisse)*
-🎤 **[hustensaft](https://open.spotify.com/track/4RpAzEkTkNERkGi58x4SbP)** by **pink luu** *(hustensaft)*
-🎤 **[i understand U_U](https://open.spotify.com/track/6U1d49teNUKDPLvmWc4Ky6)** by **03osc** *(deleted_filez)*
-🎤 **[SLMN](https://open.spotify.com/track/3mS8LCrLat7CtsNhg76Ot8)** by **wilson100k** *(SLMN)*
+No recently played tracks.
 
 
 
@@ -143,5 +139,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-08 01:03:22Z UTC
+🕐 Last updated: 2025-12-08 02:57:10Z UTC
 <!-- SPOTIFY-END -->
