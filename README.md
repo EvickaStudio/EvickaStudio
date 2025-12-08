@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27374b26f95618f8fb986a3ad36" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7d5b2595e437b7e463f71f9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Prologue](https://open.spotify.com/track/5afshZUnxUeMkYGSkf8iqP)**
+**🎵 [DROP](https://open.spotify.com/track/5DvUv3UT3KcH3IhNOTfiPF)**
 *by* **美波**
-*Album:* カワキヲアメク
+*Album:* DROP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:11 • 5:30
+    2:27 • 5:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
-🎤 **[Absolute Soul](https://open.spotify.com/track/16y05kAK8ssxKVFX31O2yy)** by **Konomi Suzuki** *(lead)*
-🎤 **[unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk)** by **LiSA** *(LEO-NiNE)*
-🎤 **[Fly Away](https://open.spotify.com/track/7olMFQZhjN2EHf7ra2PjE7)** by **TeddyLoid** *(Panty & Stocking with Garterbelt　The Original Soundtrack)*
-🎤 **[CANDY CANDY](https://open.spotify.com/track/4r53usGeVPzb1fKUUSxN1w)** by **Kyary Pamyu Pamyu** *(ぱみゅぱみゅレボリューション)*
+🎤 **[Paradisus-Paradoxum](https://open.spotify.com/track/3CrYQaVrFUppSElxRwNHJK)** by **MYTH & ROID** *(eYe's)*
+🎤 **[夢の続き](https://open.spotify.com/track/6gUOp39iGFDpamxrM53Rpr)** by **Konomi Suzuki** *(17)*
+🎤 **[シルシ](https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k)** by **LiSA** *(Launcher)*
+🎤 **[Full Bodied](https://open.spotify.com/track/6vBIDkbcKNCC2Ynzdvdb2F)** by **GHOST DATA** *(Void Walker)*
+🎤 **[PONPONPON](https://open.spotify.com/track/6W0h3ULsrzmD6C8B4cG57A)** by **Kyary Pamyu Pamyu** *(もしもし原宿)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-08 21:47:55Z UTC
+🕐 Last updated: 2025-12-08 22:12:48Z UTC
 <!-- SPOTIFY-END -->
