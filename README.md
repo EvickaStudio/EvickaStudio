@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739bdd7d22ca1e86b0def0a4b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27315a794d121cc566b4572ebd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [She Said I'm Gloomy - Remastered](https://open.spotify.com/track/6EMdiFVShHYnJIqcFzgBQX)**
-*by* **Nouvelle Story**
-*Album:* She Said I'm Gloomy (Remastered)
+**🎵 [ME!ME!ME! feat. daoko_pt.2](https://open.spotify.com/track/5jaSLzDbU8PrKhtNuvN0qA)**
+*by* **日本アニメ(ーター)見本市, TeddyLoid, Daoko**
+*Album:* 日本アニメ(ーター)見本市 「ME!ME!ME!」
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 4:12
+    0:35 • 1:36
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[The Whims of Fate](https://open.spotify.com/track/73DCreJgfFdFxVnjsMSeo4)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Redo](https://open.spotify.com/track/0WjYHf18yTqGEQjLRHLNWp)** by **Konomi Suzuki** *(lead)*
+🎤 **[She Said I'm Gloomy - Remastered](https://open.spotify.com/track/6EMdiFVShHYnJIqcFzgBQX)** by **Nouvelle Story** *(She Said I'm Gloomy (Remastered))*
 🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
 🎤 **[Nandemonaiya - movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6)** by **RADWIMPS** *(Your Name.)*
-🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP)** by **Konomi Suzuki** *(ULTRA FLASH)*
-🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-08 19:28:01Z UTC
+🕐 Last updated: 2025-12-08 19:37:59Z UTC
 <!-- SPOTIFY-END -->
