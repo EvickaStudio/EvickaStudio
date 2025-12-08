@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273687ba13245209baae15d512a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)**
-*by* **a-ha**
-*Album:* Hunting High and Low
+**🎵 [your favorite dress](https://open.spotify.com/track/1i5VGJwl7gFw0hQP4dVDgK)**
+*by* **Lil Peep, Lil Tracy**
+*Album:* CASTLES II
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 3:45
+    0:12 • 2:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)*
-🎤 **[Soul Shield](https://open.spotify.com/track/2ZpQJkeJDUAF2vwYj6WBvM)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[Blind](https://open.spotify.com/track/7srg9XLX0EumYXWqsgPPKb)** by **Kidd Kazama** *(Hundert.tausend Briefe)*
-🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
-🎤 **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)*
+🎤 **[After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v)** by **Mr.Kitty** *(Time)*
+🎤 **[Money Loves Me](https://open.spotify.com/track/0ehzVOJ5aJlY3AhnN9gFti)** by **Der Witz** *(Affirmations)*
+🎤 **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)*
+🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
+🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-08 09:46:55Z UTC
+🕐 Last updated: 2025-12-08 10:16:00Z UTC
 <!-- SPOTIFY-END -->
