@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7d5b2595e437b7e463f71f9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)**
-*by* **Lyn**
-*Album:* PERSONA5 ORIGINAL SOUNDTRACK
+**🎵 [君と僕の154小節戦争](https://open.spotify.com/track/10AC3n6YglAdIpi4TUAjNZ)**
+*by* **美波**
+*Album:* DROP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="141" height="4" fill="#1db954" rx="2"/>
-    <circle cx="141" cy="2" r="6" fill="#1db954"/>
+    <rect width="10" height="4" fill="#1db954" rx="2"/>
+    <circle cx="10" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 4:38
+    0:10 • 4:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv)** by **RADWIMPS** *(Weathering With You)*
+🎤 **[CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)** by **Konomi Suzuki** *(17)*
+🎤 **[Ichiban no Takaramono - Yui final Ver.](https://open.spotify.com/track/6dQHnLbn8IholTJzr58OT4)** by **LiSA, VISUAL ARTS / Key** *(Ichiban no Takaramono -Yui final ver.- / Girls Dead Monster STARRING LiSA)*
+🎤 **[Beneath the Mask -rain-](https://open.spotify.com/track/2gGMJDtppeGj8s11mXaHKU)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
 🎤 **[Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5)** by **RADWIMPS, Toaka** *(Suzume (Motion Picture Soundtrack))*
-🎤 **[REALIZE](https://open.spotify.com/track/2IlivxoEfhgiVyuzNmEjfP)** by **Konomi Suzuki** *(ULTRA FLASH)*
-🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
-🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
-🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-08 20:52:25Z UTC
+🕐 Last updated: 2025-12-08 21:12:00Z UTC
 <!-- SPOTIFY-END -->
