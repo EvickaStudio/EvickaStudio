@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f70ccadf3a7e4dd27ec84a5e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce2640ef3e5fc31d1b8f74d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg)**
-*by* **Rebzyyx**
-*Album:* I'm so crazy for youuu </3
+**🎵 [december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)**
+*by* **your favorite problem, grimheart**
+*Album:* december (forever)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="279" height="4" fill="#1db954" rx="2"/>
-    <circle cx="279" cy="2" r="6" fill="#1db954"/>
+    <rect width="139" height="4" fill="#1db954" rx="2"/>
+    <circle cx="139" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 1:50
+    0:50 • 1:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
+🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
+🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
 🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
-🎤 **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[炎](https://open.spotify.com/track/3YXGSpMR27cthwFJfwd5DY)** by **LiSA** *(LANDER)*
-🎤 **[Your Affection](https://open.spotify.com/track/1FXJRXqLN0tqz2SuO0SD6o)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[STYX HELIX](https://open.spotify.com/track/2tcSz3bcJqriPg9vetvJLs)** by **MYTH & ROID** *(eYe's)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 09:16:52Z UTC
+🕐 Last updated: 2025-12-09 09:43:15Z UTC
 <!-- SPOTIFY-END -->
