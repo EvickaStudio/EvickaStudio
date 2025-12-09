@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273effbed04be3a9ea1a973ce38" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce4642b3b5ad3fa9d07af00f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)**
-*by* **uusymon, hqwilli**
-*Album:* Stardust
+**🎵 [fühlt sich echt an](https://open.spotify.com/track/2WpSZfI74aZCaxMZB0sMBh)**
+*by* **Hello Hannes**
+*Album:* fühlt sich echt an
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:46
+    0:12 • 1:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fall](https://open.spotify.com/track/1IaX8gHwMM9a3HN37oXpzX)** by **hqwilli** *(Allein im Club)*
-🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
-🎤 **[sternschnuppe](https://open.spotify.com/track/5iTG27HIOQ7iZ866ZtI34D)** by **blombi19** *(herzkasper)*
-🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
-🎤 **[tram](https://open.spotify.com/track/7kpin3Wn0LeBxJg7LeiDwE)** by **blombi19** *(herzkasper)*
+🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
+🎤 **[angst / hass](https://open.spotify.com/track/7jh9wlY2XWcXGw3kUnNOaK)** by **Lytro** *(angst / hass)*
+🎤 **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)*
+🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
+🎤 **[Rückblick](https://open.spotify.com/track/6Oh3C5VFwU2q19OplomHaT)** by **52Blue** *(L(i)ebe)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 22:32:33Z UTC
+🕐 Last updated: 2025-12-09 22:48:51Z UTC
 <!-- SPOTIFY-END -->
