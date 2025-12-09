@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27317e3743d01b198e54b16cc63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27396ee58975b12f19d7061e04c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [It Ain't No Fun](https://open.spotify.com/track/1aMJpA14sqoLd3c3h0q01d)**
-*by* **Shirley Brown**
-*Album:* Woman to Woman [Stax Remasters]
+**🎵 [Between Her Goodbye And My Hello](https://open.spotify.com/track/0yYrNjzFfaULcONtnfS4ZB)**
+*by* **Gladys Knight & The Pips**
+*Album:* Knight Time
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 5:58
+    0:33 • 3:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ)** by **Diana Ross & The Supremes, The Temptations** *(Diana Ross & The Supremes Join The Temptations)*
+🎤 **[Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j)** by **The Supremes** *(Where Did Our Love Go)*
+🎤 **[Didn't I Blow Your Mind](https://open.spotify.com/track/0841sepz7KhuUsmrjZSe4M)** by **The Spinners** *(Can't Shake This Feeling)*
+🎤 **[It Ain't No Fun](https://open.spotify.com/track/1aMJpA14sqoLd3c3h0q01d)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
 🎤 **[For Old Time's Sake](https://open.spotify.com/track/5PauQMckweKaamoMdTzOBh)** by **Dorothy Moore** *(Dorothy Moore)*
-🎤 **[It's Time To Go Now](https://open.spotify.com/track/0y8eSa0GG4jCojfeJpP6hH)** by **Gladys Knight & The Pips** *(Ultimate Collection: Gladys Knight & The Pips)*
-🎤 **[Say Yeah](https://open.spotify.com/track/3APU3aSMx79TKJYIDBRg17)** by **Commodores** *(Natural High)*
-🎤 **[Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS)** by **Diana Ross & The Supremes** *(Cream Of The Crop)*
-🎤 **[Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh)** by **The Spinners** *(Spinners)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 19:34:05Z UTC
+🕐 Last updated: 2025-12-09 19:47:59Z UTC
 <!-- SPOTIFY-END -->
