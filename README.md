@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27396ee58975b12f19d7061e04c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e194c059b65584a4e56af034" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Between Her Goodbye And My Hello](https://open.spotify.com/track/0yYrNjzFfaULcONtnfS4ZB)**
-*by* **Gladys Knight & The Pips**
-*Album:* Knight Time
+**🎵 [Sweet Love](https://open.spotify.com/track/3W7sJgfcVgR3ifmFxid141)**
+*by* **Commodores**
+*Album:* Movin' On
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 3:52
+    1:39 • 6:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ)** by **Diana Ross & The Supremes, The Temptations** *(Diana Ross & The Supremes Join The Temptations)*
-🎤 **[Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j)** by **The Supremes** *(Where Did Our Love Go)*
-🎤 **[Didn't I Blow Your Mind](https://open.spotify.com/track/0841sepz7KhuUsmrjZSe4M)** by **The Spinners** *(Can't Shake This Feeling)*
-🎤 **[It Ain't No Fun](https://open.spotify.com/track/1aMJpA14sqoLd3c3h0q01d)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
-🎤 **[For Old Time's Sake](https://open.spotify.com/track/5PauQMckweKaamoMdTzOBh)** by **Dorothy Moore** *(Dorothy Moore)*
+🎤 **[It's Gotta Be That Way](https://open.spotify.com/track/6bshdLwOsfCQbZALmJ8NzC)** by **Gladys Knight & The Pips** *(Neither One Of Us)*
+🎤 **[Love Child](https://open.spotify.com/track/69EILuL34ggLWQsa626bes)** by **Diana Ross & The Supremes** *(The Ultimate Collection: Diana Ross & The Supremes)*
+🎤 **[You Keep Me Hangin' On](https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn)** by **The Supremes** *(The Supremes Sing Holland, Dozier, Holland)*
+🎤 **[I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb)** by **The Spinners** *(Spinners)*
+🎤 **[Stay With Me Baby](https://open.spotify.com/track/7vZ5t9DW1Q28D20wQTccVf)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 19:47:59Z UTC
+🕐 Last updated: 2025-12-09 20:14:02Z UTC
 <!-- SPOTIFY-END -->
