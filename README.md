@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce2640ef3e5fc31d1b8f74d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730969485e6ff9b0e679ab229d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)**
-*by* **your favorite problem, grimheart**
-*Album:* december (forever)
+**🎵 [void of love](https://open.spotify.com/track/6jsUggOSvxhwEpXoZIq6Ve)**
+*by* **latex fruit**
+*Album:* void of love
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 1:48
+    1:26 • 2:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[BETTER OFF A BASS SLXT - INSTRUMENTAL](https://open.spotify.com/track/1DYhmHCidy8lCs1rAM1TVj)** by **lavendr** *(BETTER OFF A BASS SLXT (INSTRUMENTAL))*
+🎤 **[chili con carne](https://open.spotify.com/track/2211ZXHtXNBSlHxcnQA8sH)** by **luu** *(chili con carne)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)** by **your favorite problem, grimheart** *(december (forever))*
 🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
-🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
-🎤 **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)*
-🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 09:43:15Z UTC
+🕐 Last updated: 2025-12-09 09:53:11Z UTC
 <!-- SPOTIFY-END -->
