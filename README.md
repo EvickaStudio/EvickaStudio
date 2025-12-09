@@ -91,26 +91,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce4642b3b5ad3fa9d07af00f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [fühlt sich echt an](https://open.spotify.com/track/2WpSZfI74aZCaxMZB0sMBh)**
-*by* **Hello Hannes**
-*Album:* fühlt sich echt an
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 1:47
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -138,10 +119,10 @@
 
 🥇 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
 🥈 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
-🥉 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
-🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
+🥉 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
+🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 22:48:51Z UTC
+🕐 Last updated: 2025-12-09 23:13:24Z UTC
 <!-- SPOTIFY-END -->
