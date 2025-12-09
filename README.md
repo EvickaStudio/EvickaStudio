@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731b3bfae3894cb12e9e026e85" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)](https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z)**
-*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
-*Album:* Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
+**🎵 [The Way We Were / Try to Remember - Single Version](https://open.spotify.com/track/1Pz39jyfPKGY3z9HZJmrHj)**
+*by* **Gladys Knight & The Pips**
+*Album:* I Feel A Song (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 3:30
+    2:19 • 4:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp)** by **Raydio** *(Rock On)*
-🎤 **[The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0)** by **James Carr** *(You Got My Mind Messed Up)*
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
-🎤 **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat** *(zurück)*
-🎤 **[oktoberfest freestyle](https://open.spotify.com/track/5sRnPnSTtMUxgcw9a5kCnl)** by **n3vio, luu** *(oktoberfest freestyle)*
+🎤 **[When I Need You](https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk)** by **Leo Sayer** *(Endless Flight)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Warm and Tender Love - Single Version](https://open.spotify.com/track/3AcmG9xPYVeir8E6StWIQO)** by **Percy Sledge** *(Warm & Tender Soul)*
+🎤 **[Sail On](https://open.spotify.com/track/2QglMIKYxa06BFSXG6KwvC)** by **Commodores** *(Midnight Magic)*
+🎤 **[Too Much, Too Little, Too Late (with Deniece Williams)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm)** by **Johnny Mathis, Deniece Williams** *(The Essential Johnny Mathis 3.0)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 15:51:47Z UTC
+🕐 Last updated: 2025-12-09 16:18:53Z UTC
 <!-- SPOTIFY-END -->
