@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273effbed04be3a9ea1a973ce38" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dezibel](https://open.spotify.com/track/1gx7THmkCWTuNcnAADM78d)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)**
+*by* **uusymon, hqwilli**
+*Album:* Stardust
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="208" height="4" fill="#1db954" rx="2"/>
-    <circle cx="208" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 2:19
+    1:01 • 2:46
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[röntgenbrille](https://open.spotify.com/track/6h7e49F4PfsPcAgbONdbtC)** by **blombi19** *(herzkasper)*
-🎤 **[toxin](https://open.spotify.com/track/53ZTf7Zlj9IWzXtIMynOra)** by **blombi19** *(herzkasper)*
-🎤 **[ohnmächtig](https://open.spotify.com/track/3yQDa4Uiqg0H3EDHsbaiZ0)** by **blombi19** *(herzkasper)*
-🎤 **[kopfkissen](https://open.spotify.com/track/1Ra8bUQ6LXVIQPN6PieEwC)** by **blombi19** *(herzkasper)*
-🎤 **[arterien](https://open.spotify.com/track/0STuVrCzEKRtYj8ItoymYN)** by **blombi19** *(herzkasper)*
+🎤 **[Fall](https://open.spotify.com/track/1IaX8gHwMM9a3HN37oXpzX)** by **hqwilli** *(Allein im Club)*
+🎤 **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)*
+🎤 **[sternschnuppe](https://open.spotify.com/track/5iTG27HIOQ7iZ866ZtI34D)** by **blombi19** *(herzkasper)*
+🎤 **[ambrosia](https://open.spotify.com/track/7hddz96ZBC3iCBSBGL1U9J)** by **blombi19** *(herzkasper)*
+🎤 **[tram](https://open.spotify.com/track/7kpin3Wn0LeBxJg7LeiDwE)** by **blombi19** *(herzkasper)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 22:14:01Z UTC
+🕐 Last updated: 2025-12-09 22:32:33Z UTC
 <!-- SPOTIFY-END -->
