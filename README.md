@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27327936b60ce72b901eed401e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735efb8fc03b0fe72486392131" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Neither One Of Us (Wants To Be The First To Say Goodbye)](https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS)**
-*by* **Gladys Knight & The Pips**
-*Album:* Neither One Of Us
+**🎵 [These Ain't Raindrops](https://open.spotify.com/track/1nDSOHAjBN5M1KW74yO3R3)**
+*by* **James Carr**
+*Album:* You Got My Mind Messed Up
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="24" height="4" fill="#1db954" rx="2"/>
-    <circle cx="24" cy="2" r="6" fill="#1db954"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 4:24
+    0:07 • 2:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[He'll Never Love You Like I Do](https://open.spotify.com/track/608pGGpVmDk830bftRcy93)** by **The Spinners** *(Mighty Love)*
+🎤 **[I'm Livin' In Shame](https://open.spotify.com/track/2p2N5jnS43eOAcrsZLS8Ur)** by **Diana Ross & The Supremes** *(Let The Sunshine In)*
+🎤 **[High On Sunshine](https://open.spotify.com/track/5iVxkOzgZggmXx2YDi7wXy)** by **Commodores** *(Hot On The Tracks)*
+🎤 **[Neither One Of Us (Wants To Be The First To Say Goodbye)](https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS)** by **Gladys Knight & The Pips** *(Neither One Of Us)*
 🎤 **[I Hear A Symphony](https://open.spotify.com/track/5SCB7L1alKg7ZEeSw7Sq9f)** by **The Supremes** *(I Hear A Symphony)*
-🎤 **[Pouring Water on a Drowning Man](https://open.spotify.com/track/4Ff3Lqu2Ha1QK6Y6L15NI7)** by **James Carr** *(You Got My Mind Messed Up)*
-🎤 **[Games People Play](https://open.spotify.com/track/53R01ylELwpQO5TBZdqKsM)** by **The Spinners** *(Pick of the Litter)*
-🎤 **[Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA)** by **The O'Jays** *(Back Stabbers)*
-🎤 **[Sweet Love](https://open.spotify.com/track/3W7sJgfcVgR3ifmFxid141)** by **Commodores** *(Movin' On)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 20:32:32Z UTC
+🕐 Last updated: 2025-12-09 20:48:05Z UTC
 <!-- SPOTIFY-END -->
