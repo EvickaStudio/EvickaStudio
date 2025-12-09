@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731765f80342de1bc0898273d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e9fd02e97a157b435f106dd3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MMM](https://open.spotify.com/track/4qQKHNVoqYzkiAFzleruLz)**
-*by* **Ignabui**
-*Album:* MMM
+**🎵 [This game](https://open.spotify.com/track/3COSRKvFPnpnnorNF4oaMf)**
+*by* **Konomi Suzuki**
+*Album:* LIFE of DASH
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 2:50
+    2:07 • 4:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)** by **luu** *(irgendwo im schatten)*
-🎤 **[Hula Hoop](https://open.spotify.com/track/6l4Y9fQT68TWOGG9Fqg5gq)** by **[SAFYRE], [IVY], Teletech** *(Hula Hoop)*
-🎤 **[TTL.DECAY](https://open.spotify.com/track/158Hlbt6SvwmPiFAFOZKPF)** by **enable secret, dreamloader** *(NEWGAME+)*
-🎤 **[Heavenly Sign - Orbit1 Remix](https://open.spotify.com/track/0y1askKf595Jq4HGB5PzMw)** by **DJ Fetus** *(Hardcore Addiction 2)*
-🎤 **[Orbit 2000 - Original Mix](https://open.spotify.com/track/1rzZobrc1dPIgSyYirTlK6)** by **Orbit1** *(Hardcore Addiction 5)*
+🎤 **[Grand Escape (Movie Edit) [feat. Toko Miura]](https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE)** by **RADWIMPS, Toko Miura** *(Weathering With You)*
+🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
+🎤 **[paradiseredux](https://open.spotify.com/track/41DNJf9mj9oA6nk2WsRL5R)** by **venuscries** *(paradiseredux)*
+🎤 **[bLuTbAd](https://open.spotify.com/track/0NnjJPbfJhLAox1pYnulEo)** by **luu, offaflat** *(immenser pflegefall)*
+🎤 **[Alles Ist Wie Es Ist - RMX](https://open.spotify.com/track/4QOoRC9J4u8JgYKlUqoDO9)** by **Kalte Liebe** *(Blaue Violine)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 10:16:25Z UTC
+🕐 Last updated: 2025-12-09 10:46:02Z UTC
 <!-- SPOTIFY-END -->
