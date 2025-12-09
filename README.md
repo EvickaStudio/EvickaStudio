@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e8f98893b18f61ff7da0e6e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738d566831b931491cf96f3d3f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ)**
-*by* **Commodores**
-*Album:* Hot On The Tracks
+**🎵 [Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh)**
+*by* **Gregory Abbott**
+*Album:* Shake You Down (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="182" height="4" fill="#1db954" rx="2"/>
-    <circle cx="182" cy="2" r="6" fill="#1db954"/>
+    <rect width="173" height="4" fill="#1db954" rx="2"/>
+    <circle cx="173" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:52 • 6:21
+    2:21 • 4:05
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Let It Be](https://open.spotify.com/track/6Vw6CPzyMdkJAnwpDtaHPs)** by **Gladys Knight & The Pips** *(If I Were Your Woman)*
-🎤 **[Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)** by **Commodores** *(Natural High)*
-🎤 **[Where Peaceful Waters Flow](https://open.spotify.com/track/171QpKcPDUCJCzooUdRlSd)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Funny How Time Slips Away](https://open.spotify.com/track/4EmDfJApR28fMkhXZw6bKD)** by **Dorothy Moore** *(Misty Blue)*
-🎤 **[Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4)** by **Patti Austin** *(Every Home Should Have One)*
+🎤 **[Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)** by **Mel & Tim** *(Stax Volt Chartbusters Vol 1)*
+🎤 **[The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp)** by **The Supremes** *(The Story Of The Supremes)*
+🎤 **[Baby, Don't Change Your Mind](https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX)** by **Gladys Knight & The Pips** *(The Greatest Hits)*
+🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[Use Ta Be My Girl](https://open.spotify.com/track/5K3aLetDYAPtX1q0PTR1a5)** by **The O'Jays** *(So Full Of Love)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 16:49:09Z UTC
+🕐 Last updated: 2025-12-09 17:14:36Z UTC
 <!-- SPOTIFY-END -->
