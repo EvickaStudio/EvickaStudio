@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730969485e6ff9b0e679ab229d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731765f80342de1bc0898273d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [void of love](https://open.spotify.com/track/6jsUggOSvxhwEpXoZIq6Ve)**
-*by* **latex fruit**
-*Album:* void of love
+**🎵 [MMM](https://open.spotify.com/track/4qQKHNVoqYzkiAFzleruLz)**
+*by* **Ignabui**
+*Album:* MMM
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="146" height="4" fill="#1db954" rx="2"/>
-    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+    <rect width="187" height="4" fill="#1db954" rx="2"/>
+    <circle cx="187" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 2:57
+    1:46 • 2:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[BETTER OFF A BASS SLXT - INSTRUMENTAL](https://open.spotify.com/track/1DYhmHCidy8lCs1rAM1TVj)** by **lavendr** *(BETTER OFF A BASS SLXT (INSTRUMENTAL))*
-🎤 **[chili con carne](https://open.spotify.com/track/2211ZXHtXNBSlHxcnQA8sH)** by **luu** *(chili con carne)*
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)** by **your favorite problem, grimheart** *(december (forever))*
-🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)** by **luu** *(irgendwo im schatten)*
+🎤 **[Hula Hoop](https://open.spotify.com/track/6l4Y9fQT68TWOGG9Fqg5gq)** by **[SAFYRE], [IVY], Teletech** *(Hula Hoop)*
+🎤 **[TTL.DECAY](https://open.spotify.com/track/158Hlbt6SvwmPiFAFOZKPF)** by **enable secret, dreamloader** *(NEWGAME+)*
+🎤 **[Heavenly Sign - Orbit1 Remix](https://open.spotify.com/track/0y1askKf595Jq4HGB5PzMw)** by **DJ Fetus** *(Hardcore Addiction 2)*
+🎤 **[Orbit 2000 - Original Mix](https://open.spotify.com/track/1rzZobrc1dPIgSyYirTlK6)** by **Orbit1** *(Hardcore Addiction 5)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 09:53:11Z UTC
+🕐 Last updated: 2025-12-09 10:16:25Z UTC
 <!-- SPOTIFY-END -->
