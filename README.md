@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d5ea1215e77c3f7a7c716370" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731d1869ab51e0d5fb38efb83c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU)**
-*by* **The Supremes**
-*Album:* Where Did Our Love Go
+**🎵 [Say Yeah](https://open.spotify.com/track/3APU3aSMx79TKJYIDBRg17)**
+*by* **Commodores**
+*Album:* Natural High
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="133" height="4" fill="#1db954" rx="2"/>
-    <circle cx="133" cy="2" r="6" fill="#1db954"/>
+    <rect width="232" height="4" fill="#1db954" rx="2"/>
+    <circle cx="232" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 2:43
+    4:26 • 5:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Someday We'll Be Together](https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS)** by **Diana Ross & The Supremes** *(Cream Of The Crop)*
+🎤 **[Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh)** by **The Spinners** *(Spinners)*
+🎤 **[Come See About Me](https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU)** by **The Supremes** *(Where Did Our Love Go)*
 🎤 **[Misty Blue](https://open.spotify.com/track/20JcxdRw8gvqTY1EEpYxHb)** by **Dorothy Moore** *(Misty Blue)*
 🎤 **[Make Me The Woman That You Go Home To](https://open.spotify.com/track/6XWLyTGeOE1o5XXefKyFeY)** by **Gladys Knight & The Pips** *(Standing Ovation)*
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
-🎤 **[Love Finds Its Own Way](https://open.spotify.com/track/751iqUFTzPOdYQZq9Apeel)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[How 'Bout Us](https://open.spotify.com/track/1jc24HfkDT31GLKlxesuZl)** by **Champaign** *(How 'Bout Us (Expanded Edition))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 19:10:20Z UTC
+🕐 Last updated: 2025-12-09 19:24:00Z UTC
 <!-- SPOTIFY-END -->
