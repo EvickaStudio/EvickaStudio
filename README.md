@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318c7249a0324a4c5e230a17c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM)**
-*by* **ヨルシカ**
-*Album:* だから僕は音楽を辞めた
+**🎵 [percy dreams](https://open.spotify.com/track/33JEQ1TPcuPVJn81VBkHAp)**
+*by* **Iuvumi**
+*Album:* percy dreams
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 4:02
+    0:10 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ＣＨＯＩＲ　ＪＡＩＬ](https://open.spotify.com/track/1Dyq7omZntvbWaKlbtKzJX)** by **Konomi Suzuki** *(TVアニメ「黄昏乙女×アムネジア」オープニングテーマ「CHOIR JAIL」)*
-🎤 **[アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1)** by **YOASOBI** *(THE BOOK 3)*
-🎤 **[Theme of Mitsuha](https://open.spotify.com/track/66HNv8qd9jr7q5P9nNTOOZ)** by **RADWIMPS** *(Your Name.)*
-🎤 **[Rivers In the Desert](https://open.spotify.com/track/6rgIKCKKCnhyaNTgmY73tq)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos)** by **Eve** *(Kaikai Kitan / Ao No Waltz)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[cut ma fce, Pt. 2](https://open.spotify.com/track/5Np5X3dXOPqO8zt7ZHtGc1)** by **03osc** *(cut ma fce Pt. 2 / i ain't no tweaker i'm smart as shit)*
+🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[Pursuing My True Self](https://open.spotify.com/track/0a4SpxoCROSqL6eEi79pMc)** by **平田志穂子** *(ネバー・モア-『ペルソナ4』輪廻転生-)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 13:47:07Z UTC
+🕐 Last updated: 2025-12-09 14:15:16Z UTC
 <!-- SPOTIFY-END -->
