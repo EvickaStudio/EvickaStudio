@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731b3bfae3894cb12e9e026e85" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e8f98893b18f61ff7da0e6e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Way We Were / Try to Remember - Single Version](https://open.spotify.com/track/1Pz39jyfPKGY3z9HZJmrHj)**
-*by* **Gladys Knight & The Pips**
-*Album:* I Feel A Song (Expanded Edition)
+**🎵 [Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ)**
+*by* **Commodores**
+*Album:* Hot On The Tracks
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 4:48
+    3:52 • 6:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[When I Need You](https://open.spotify.com/track/2YwiE0KVhqwIiT4OfT0SFk)** by **Leo Sayer** *(Endless Flight)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Warm and Tender Love - Single Version](https://open.spotify.com/track/3AcmG9xPYVeir8E6StWIQO)** by **Percy Sledge** *(Warm & Tender Soul)*
-🎤 **[Sail On](https://open.spotify.com/track/2QglMIKYxa06BFSXG6KwvC)** by **Commodores** *(Midnight Magic)*
-🎤 **[Too Much, Too Little, Too Late (with Deniece Williams)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm)** by **Johnny Mathis, Deniece Williams** *(The Essential Johnny Mathis 3.0)*
+🎤 **[Let It Be](https://open.spotify.com/track/6Vw6CPzyMdkJAnwpDtaHPs)** by **Gladys Knight & The Pips** *(If I Were Your Woman)*
+🎤 **[Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ)** by **Commodores** *(Natural High)*
+🎤 **[Where Peaceful Waters Flow](https://open.spotify.com/track/171QpKcPDUCJCzooUdRlSd)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Funny How Time Slips Away](https://open.spotify.com/track/4EmDfJApR28fMkhXZw6bKD)** by **Dorothy Moore** *(Misty Blue)*
+🎤 **[Baby, Come To Me](https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4)** by **Patti Austin** *(Every Home Should Have One)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 16:18:53Z UTC
+🕐 Last updated: 2025-12-09 16:49:09Z UTC
 <!-- SPOTIFY-END -->
