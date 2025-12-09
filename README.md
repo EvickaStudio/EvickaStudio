@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bc16d1eefe86b079c8805f8f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27325c2a3af824b7dd8cafae97e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1)**
-*by* **RADWIMPS**
-*Album:* Suzume (Motion Picture Soundtrack)
+**🎵 [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9)**
+*by* **稲葉曇**
+*Album:* ANTICYCLONE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 5:55
+    2:21 • 3:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nandemonaiya - movie ver.](https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6)** by **RADWIMPS** *(Your Name.)*
-🎤 **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)*
-🎤 **[ADAMAS](https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS)** by **LiSA** *(赤い罠(who loves it?) / ADAMAS)*
-🎤 **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
-🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
+🎤 **[勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q)** by **YOASOBI** *(THE BOOK 3)*
+🎤 **[Sparkle - Original Version](https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd)** by **RADWIMPS** *(Human Bloom)*
+🎤 **[summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)** by **cinnamons, evening cinema** *(summertime)*
+🎤 **[Heartbeat, Heartbreak](https://open.spotify.com/track/4ZJKi7HXFDG2emN6xIdbmV)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
+🎤 **[Theme for Scanty & Knee Socks](https://open.spotify.com/track/6Za2rCpQhZrRXldgz1MFAk)** by **TeddyLoid** *(Panty & Stocking with Garterbelt　The Original Soundtrack)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 11:47:58Z UTC
+🕐 Last updated: 2025-12-09 12:28:32Z UTC
 <!-- SPOTIFY-END -->
