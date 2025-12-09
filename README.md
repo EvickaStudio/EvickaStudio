@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339917845c74c9e64320fbed9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o)**
-*by* **YOASOBI**
-*Album:* THE BOOK
+**🎵 [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM)**
+*by* **ヨルシカ**
+*Album:* だから僕は音楽を辞めた
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 4:16
+    1:34 • 4:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V)** by **Lotus Juice, Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
-🎤 **[We'll Be Alright](https://open.spotify.com/track/7vSF7u4vWtZGrWCxTbAVaw)** by **RADWIMPS** *(Weathering With You -Complete Version-)*
-🎤 **[Heaven](https://open.spotify.com/track/76YdWrd7Yw9GuU0LirE088)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[Beneath the Mask - instrumental version](https://open.spotify.com/track/2Il4l22OHAP17Xvts61GHq)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[BURSTY GREEDY SPIDER](https://open.spotify.com/track/2bV5eChvsGabS45jnmdlT7)** by **Konomi Suzuki** *(ULTRA FLASH)*
+🎤 **[ＣＨＯＩＲ　ＪＡＩＬ](https://open.spotify.com/track/1Dyq7omZntvbWaKlbtKzJX)** by **Konomi Suzuki** *(TVアニメ「黄昏乙女×アムネジア」オープニングテーマ「CHOIR JAIL」)*
+🎤 **[アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1)** by **YOASOBI** *(THE BOOK 3)*
+🎤 **[Theme of Mitsuha](https://open.spotify.com/track/66HNv8qd9jr7q5P9nNTOOZ)** by **RADWIMPS** *(Your Name.)*
+🎤 **[Rivers In the Desert](https://open.spotify.com/track/6rgIKCKKCnhyaNTgmY73tq)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos)** by **Eve** *(Kaikai Kitan / Ao No Waltz)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 13:11:39Z UTC
+🕐 Last updated: 2025-12-09 13:47:07Z UTC
 <!-- SPOTIFY-END -->
