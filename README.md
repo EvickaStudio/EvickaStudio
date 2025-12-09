@@ -95,7 +95,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)**
+**🎵 [jeans](https://open.spotify.com/track/6mZKAgOHuq2QaTfSQLtLjk)**
 *by* **blombi19**
 *Album:* herzkasper
 
@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="17" height="4" fill="#1db954" rx="2"/>
+    <circle cx="17" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 2:49
+    0:07 • 2:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)** by **blombi19, mehlhaltig** *(herzkasper)*
+🎤 **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)*
+🎤 **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)*
 🎤 **[Mighty Love](https://open.spotify.com/track/7DCav3rL0B3A5Lp7CXcatN)** by **The Spinners** *(Mighty Love)*
 🎤 **[Stop, Look, Listen](https://open.spotify.com/track/6eaZ0OakaNveVIuLVUNn1c)** by **Patti Austin** *(Every Home Should Have One)*
-🎤 **[Old-Fashion Love](https://open.spotify.com/track/4uCZ87lJrOyc1L38MpaA08)** by **Commodores** *(Heroes)*
-🎤 **[Best Thing That Ever Happened to Me](https://open.spotify.com/track/0bYwN4LqZYLfs9ZEHPXjBC)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av)** by **Percy Sledge** *(When a Man Loves a Woman)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 21:29:49Z UTC
+🕐 Last updated: 2025-12-09 21:41:11Z UTC
 <!-- SPOTIFY-END -->
