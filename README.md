@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e194c059b65584a4e56af034" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27327936b60ce72b901eed401e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sweet Love](https://open.spotify.com/track/3W7sJgfcVgR3ifmFxid141)**
-*by* **Commodores**
-*Album:* Movin' On
+**🎵 [Neither One Of Us (Wants To Be The First To Say Goodbye)](https://open.spotify.com/track/3QgSJ9CqgLPk9B4xLdwLrS)**
+*by* **Gladys Knight & The Pips**
+*Album:* Neither One Of Us
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="75" height="4" fill="#1db954" rx="2"/>
-    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+    <rect width="24" height="4" fill="#1db954" rx="2"/>
+    <circle cx="24" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 6:33
+    0:21 • 4:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[It's Gotta Be That Way](https://open.spotify.com/track/6bshdLwOsfCQbZALmJ8NzC)** by **Gladys Knight & The Pips** *(Neither One Of Us)*
-🎤 **[Love Child](https://open.spotify.com/track/69EILuL34ggLWQsa626bes)** by **Diana Ross & The Supremes** *(The Ultimate Collection: Diana Ross & The Supremes)*
-🎤 **[You Keep Me Hangin' On](https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn)** by **The Supremes** *(The Supremes Sing Holland, Dozier, Holland)*
-🎤 **[I'll Be Around](https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb)** by **The Spinners** *(Spinners)*
-🎤 **[Stay With Me Baby](https://open.spotify.com/track/7vZ5t9DW1Q28D20wQTccVf)** by **Shirley Brown** *(Woman to Woman [Stax Remasters])*
+🎤 **[I Hear A Symphony](https://open.spotify.com/track/5SCB7L1alKg7ZEeSw7Sq9f)** by **The Supremes** *(I Hear A Symphony)*
+🎤 **[Pouring Water on a Drowning Man](https://open.spotify.com/track/4Ff3Lqu2Ha1QK6Y6L15NI7)** by **James Carr** *(You Got My Mind Messed Up)*
+🎤 **[Games People Play](https://open.spotify.com/track/53R01ylELwpQO5TBZdqKsM)** by **The Spinners** *(Pick of the Litter)*
+🎤 **[Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA)** by **The O'Jays** *(Back Stabbers)*
+🎤 **[Sweet Love](https://open.spotify.com/track/3W7sJgfcVgR3ifmFxid141)** by **Commodores** *(Movin' On)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 20:14:02Z UTC
+🕐 Last updated: 2025-12-09 20:32:32Z UTC
 <!-- SPOTIFY-END -->
