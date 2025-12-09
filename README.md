@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738d566831b931491cf96f3d3f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735f55ad7f9a33a6f0d5ec9105" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh)**
-*by* **Gregory Abbott**
-*Album:* Shake You Down (Expanded Edition)
+**🎵 [How 'Bout Us](https://open.spotify.com/track/1jc24HfkDT31GLKlxesuZl)**
+*by* **Champaign**
+*Album:* How 'Bout Us (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 4:05
+    3:42 • 4:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3)** by **Mel & Tim** *(Stax Volt Chartbusters Vol 1)*
-🎤 **[The Happening](https://open.spotify.com/track/6IrBgAF2nSiwrdbIcaCKnp)** by **The Supremes** *(The Story Of The Supremes)*
-🎤 **[Baby, Don't Change Your Mind](https://open.spotify.com/track/373HS9bxPej6AuHBFM5fbX)** by **Gladys Knight & The Pips** *(The Greatest Hits)*
-🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
-🎤 **[Use Ta Be My Girl](https://open.spotify.com/track/5K3aLetDYAPtX1q0PTR1a5)** by **The O'Jays** *(So Full Of Love)*
+🎤 **[It's Summer](https://open.spotify.com/track/1wXV1nHOUn6AqhVm5OWtd9)** by **Gladys Knight & The Pips** *(Nitty Gritty)*
+🎤 **[Zoom](https://open.spotify.com/track/14Tj6yYXItEhy466a0yeR0)** by **Commodores** *(Commodores)*
+🎤 **[Reflections](https://open.spotify.com/track/4yChgYDVcQrAgIEIErW27b)** by **Diana Ross & The Supremes** *(Reflections (Expanded Edition))*
+🎤 **[I Can See Clearly Now](https://open.spotify.com/track/17WBjhf0bGnd4dK7ofbQW0)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh)** by **Gregory Abbott** *(Shake You Down (Expanded Edition))*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
-🏅 [**Senses**](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-09 17:14:36Z UTC
+🕐 Last updated: 2025-12-09 17:35:21Z UTC
 <!-- SPOTIFY-END -->
