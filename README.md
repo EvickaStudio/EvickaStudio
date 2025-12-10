@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Raindrops](https://open.spotify.com/track/35y8Vc3Lyrv8v03gckuj6Q)**
-*by* **Nokia Angel**
-*Album:* In Haze
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="133" height="4" fill="#1db954" rx="2"/>
-    <circle cx="133" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 3:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Make A Wish](https://open.spotify.com/track/3b7wukBjI4iIM4eX9DXx5q)** by **Nokia Angel** *(In Haze)*
+🎤 **[Raindrops](https://open.spotify.com/track/35y8Vc3Lyrv8v03gckuj6Q)** by **Nokia Angel** *(In Haze)*
 🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
 🎤 **[All Your Faces](https://open.spotify.com/track/3mKe7pLdShaRYEpqwMI92M)** by **Nokia Angel** *(Born Angel)*
 🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
-🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
-🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 07:40:59Z UTC
+🕐 Last updated: 2025-12-10 07:50:48Z UTC
 <!-- SPOTIFY-END -->
