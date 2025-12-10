@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c89991543fdf82ca7374bd7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Paper Trail$](https://open.spotify.com/track/23bOfmnZiN42pB1frXNyak)**
-*by* **Joey Bada$$**
-*Album:* B4.DA.$$
+**🎵 [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI)**
+*by* **Mac Miller**
+*Album:* Swimming
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
+    <rect width="176" height="4" fill="#1db954" rx="2"/>
+    <circle cx="176" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 3:14
+    2:49 • 4:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
+🎤 **[Potholderz](https://open.spotify.com/track/1VZUXXUGqIxePaMUXkabRn)** by **MF DOOM, Count Bass D** *(MM..FOOD)*
+🎤 **[Paper Trail$](https://open.spotify.com/track/23bOfmnZiN42pB1frXNyak)** by **Joey Bada$$** *(B4.DA.$$)*
 🎤 **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)*
 🎤 **[Do For Love](https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq)** by **2Pac** *(R U Still Down? [Remember Me])*
-🎤 **[What's the Use?](https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs)** by **Mac Miller** *(Swimming)*
-🎤 **[Praise The Lord (Da Shine) (feat. Skepta)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z)** by **A$AP Rocky, Skepta** *(TESTING)*
-🎤 **[N.Y. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo)** by **Nas** *(Illmatic)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 11:29:53Z UTC
+🕐 Last updated: 2025-12-10 11:41:35Z UTC
 <!-- SPOTIFY-END -->
