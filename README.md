@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cf4b69391d9387ca185e8ba4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Greater Purpose](https://open.spotify.com/track/47Kwym9Ybnj0KALnA26622)**
-*by* **Marcus D, Cise Star**
-*Album:* Earth Angel LP
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 4:06
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Deeper](https://open.spotify.com/track/2uB9gUU1HLnHckvK2tylJM)** by **Freddie Gibbs** *(Piñata)*
+🎤 **[81Summer](https://open.spotify.com/track/1R8DL1a9aFYdOzhv6sYjV1)** by **Uyama Hiroto** *(a son of the sun)*
+🎤 **[Greater Purpose](https://open.spotify.com/track/47Kwym9Ybnj0KALnA26622)** by **Marcus D, Cise Star** *(Earth Angel LP)*
 🎤 **[Babies & Fools (feat. Conway the Machine)](https://open.spotify.com/track/3RyLrayd9un9ClTah57JI0)** by **Freddie Gibbs, The Alchemist, Conway the Machine** *(Alfredo)*
 🎤 **[Autumn Groove](https://open.spotify.com/track/6hoahPnjmQ4dNtZrn2SjPS)** by **Ljones** *(Soul Below)*
-🎤 **[Mind over Matter](https://open.spotify.com/track/4h51San989VSqJ1sR9cEdZ)** by **Pete Rock, InI** *(Center of Attention)*
-🎤 **[Highly Recommended](https://open.spotify.com/track/700dnb47ud1w4fojNpIjxD)** by **Jazz Spastiks, People Without Shoes** *(Green Street (Deluxe Edition))*
-🎤 **[Paradise](https://open.spotify.com/track/1SHebjYOp0RE3HX8Fi2yKq)** by **CYNE** *(Time Being (Deluxe Edition))*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 17:16:17Z UTC
+🕐 Last updated: 2025-12-10 17:44:12Z UTC
 <!-- SPOTIFY-END -->
