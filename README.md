@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273acc67c7ea342815bb3e14e2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27350c9104f823d9de8c3897156" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blue Avenue](https://open.spotify.com/track/50e8KL7TnyNKLaWfCSr0xf)**
-*by* **Jazz Liberatorz**
-*Album:* Fruit Of The Past
+**🎵 [Dead Calm](https://open.spotify.com/track/27Z4yaeuxyRaIV7ve5rEx5)**
+*by* **Peebs The Prophet**
+*Album:* Ills of the Earth
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 3:10
+    1:23 • 3:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[tsurugi no mai](https://open.spotify.com/track/1r9W6X7XA07X11WbW1TveA)** by **Nujabes** *(samurai champloo music record impression)*
+🎤 **[Good Vibes Only](https://open.spotify.com/track/0BeYNNWbtEbMHVDpFbfWCC)** by **strangerperson** *(Good Vibes Only)*
+🎤 **[Backpack](https://open.spotify.com/track/65d3YuRIeblrM43McnTDlm)** by **strangerperson** *(Backpack)*
+🎤 **[Blue Avenue](https://open.spotify.com/track/50e8KL7TnyNKLaWfCSr0xf)** by **Jazz Liberatorz** *(Fruit Of The Past)*
 🎤 **[No More Words](https://open.spotify.com/track/4Cx5cVxgMQMYUgUKFXBcLl)** by **Pete Rock, InI** *(Center of Attention)*
-🎤 **[I'm Kurious](https://open.spotify.com/track/0cseWWMHpjB9Y9Wg02LLr9)** by **Kurious** *(A Constipated Monkey)*
-🎤 **[Letters to Jun(E)](https://open.spotify.com/track/4wG1OI56aIbNlvQcI2P8VA)** by **Witness** *(Hope Springs Eternal)*
-🎤 **[Coffee House No. 5](https://open.spotify.com/track/6uXpFSKDYxQoNybzIw5Adv)** by **Nitsua** *(B-Sides Unreleased Material)*
-🎤 **[Fly by Night (feat. Five Deez)](https://open.spotify.com/track/5ve8FDBRZEFtikETy4w0Hs)** by **Nujabes, Five Deez** *(2nd Collection)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 15:43:22Z UTC
+🕐 Last updated: 2025-12-10 15:54:52Z UTC
 <!-- SPOTIFY-END -->
