@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733174a9f789d91a20d3ef14aa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739bad5ebfe556fa260f31bedd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [TROPIC BIRDS](https://open.spotify.com/track/4XXipAxjNEQo20K12QZmr6)**
-*by* **Masayoshi Takanaka**
-*Album:* SEYCHELLES
+**🎵 [Yes (feat. Pase Rock)](https://open.spotify.com/track/2XaW5xe9iGD6cypnNvoWke)**
+*by* **Nujabes, Pase Rock**
+*Album:* Spiritual State
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:43 • 8:50
+    5:49 • 7:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c)** by **Thundercat** *(It Is What It Is)*
+🎤 **[If I Was Your Mic](https://open.spotify.com/track/2DOYDoZjnu4nLmru3hTQTB)** by **Substantial** *(To This Union a Sun Was Born (Deluxe Edition))*
+🎤 **[Winter Lane (Nujabes Remix)](https://open.spotify.com/track/4lD90LPUMiJIHPRZQ1l2I3)** by **DSK, Nujabes** *(2nd Collection)*
+🎤 **[TROPIC BIRDS](https://open.spotify.com/track/4XXipAxjNEQo20K12QZmr6)** by **Masayoshi Takanaka** *(SEYCHELLES)*
 🎤 **[World's end Rhapsody](https://open.spotify.com/track/7BBZGDSZbsb4Esi8YB94HT)** by **Nujabes** *(Modal Soul)*
-🎤 **[Run To The Sun](https://open.spotify.com/track/4Bjwyj8KM85xblkSt5A24j)** by **N.E.R.D** *(In Search Of...)*
-🎤 **[Run, Run, Run](https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ)** by **McKinley Dixon** *(Beloved! Paradise! Jazz!?)*
-🎤 **[Free The Robots](https://open.spotify.com/track/64vRLDEAUPOihu7WlD8kCC)** by **47 Archive** *(47 TAPE)*
-🎤 **[La Noche](https://open.spotify.com/track/2G6kgs4EwNlD6ryujXV10b)** by **Navy Blue** *(Memoirs In Armour)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 20:56:42Z UTC
+🕐 Last updated: 2025-12-10 21:17:57Z UTC
 <!-- SPOTIFY-END -->
