@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27321092a950bcd0f2ee5cc6dc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6baa3dfd144bfeb237fc55a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Night Bloom](https://open.spotify.com/track/4CdER7g16PycUeOae0Th69)**
-*by* **Avery's Ambient**
-*Album:* Night Bloom
+**🎵 [Whispers](https://open.spotify.com/track/4tXrBqfqgO1HYLSeA1Kxk8)**
+*by* **Soothing Oasis**
+*Album:* Beneath the Sky
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="112" height="4" fill="#1db954" rx="2"/>
-    <circle cx="112" cy="2" r="6" fill="#1db954"/>
+    <rect width="276" height="4" fill="#1db954" rx="2"/>
+    <circle cx="276" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:06
+    1:58 • 2:08
 </span>
 </p>
 
@@ -143,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-10 23:40:01Z UTC
+🕐 Last updated: 2025-12-10 23:47:42Z UTC
 <!-- SPOTIFY-END -->
