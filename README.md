@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739bad5ebfe556fa260f31bedd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Yes (feat. Pase Rock)](https://open.spotify.com/track/2XaW5xe9iGD6cypnNvoWke)**
-*by* **Nujabes, Pase Rock**
-*Album:* Spiritual State
+**🎵 [Horizon](https://open.spotify.com/track/545g4jlvOqZo1sj6k1f9j9)**
+*by* **Nujabes**
+*Album:* Modal Soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:49 • 7:51
+    4:56 • 7:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c)** by **Thundercat** *(It Is What It Is)*
-🎤 **[If I Was Your Mic](https://open.spotify.com/track/2DOYDoZjnu4nLmru3hTQTB)** by **Substantial** *(To This Union a Sun Was Born (Deluxe Edition))*
-🎤 **[Winter Lane (Nujabes Remix)](https://open.spotify.com/track/4lD90LPUMiJIHPRZQ1l2I3)** by **DSK, Nujabes** *(2nd Collection)*
-🎤 **[TROPIC BIRDS](https://open.spotify.com/track/4XXipAxjNEQo20K12QZmr6)** by **Masayoshi Takanaka** *(SEYCHELLES)*
-🎤 **[World's end Rhapsody](https://open.spotify.com/track/7BBZGDSZbsb4Esi8YB94HT)** by **Nujabes** *(Modal Soul)*
+🎤 **[Jippy's Weather Report](https://open.spotify.com/track/4fqGTF0XSkgaBgei2uvI8F)** by **your best friend jippy** *(BEAT TAPE 38)*
+🎤 **[Who's Theme](https://open.spotify.com/track/58yuFWA2sd63pW9i4Jy7fC)** by **MINMI** *(imagine)*
+🎤 **[NIGHTS](https://open.spotify.com/track/2za1yqhpjvm5EF4s3bUf6e)** by **Masayoshi Takanaka** *(BRASILIAN SKIES)*
+🎤 **[Wouldn't You Like to Ride](https://open.spotify.com/track/0a6q5XK264I3qDt5gmFNSf)** by **Kanye West, Common** *(Coach Carter Soundtrack)*
+🎤 **[Yes (feat. Pase Rock)](https://open.spotify.com/track/2XaW5xe9iGD6cypnNvoWke)** by **Nujabes, Pase Rock** *(Spiritual State)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 21:17:57Z UTC
+🕐 Last updated: 2025-12-10 21:41:23Z UTC
 <!-- SPOTIFY-END -->
