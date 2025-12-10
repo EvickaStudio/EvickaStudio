@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1a897ee5e642da6d945bcd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)**
-*by* **Nujabes, Cise Starr**
-*Album:* Metaphorical Music
+**🎵 [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498)**
+*by* **Nujabes**
+*Album:* Modal Soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="205" height="4" fill="#1db954" rx="2"/>
+    <circle cx="205" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 3:19
+    2:56 • 4:17
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
-🎤 **[ALLES DOPE](https://open.spotify.com/track/7HZMdCSq7oUYmn6OHU6kSB)** by **CRO** *(ALLES DOPE)*
-🎤 **[I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)** by **Bladee** *(Spiderr)*
+🎤 **[Night on the Town](https://open.spotify.com/track/2ev0X5gh2YRfQPPFo1Izes)** by **Marcus D, Cise Star, Substantial, Funky DL** *(Melancholy Hopeful)*
+🎤 **[I Would Change](https://open.spotify.com/track/0G7U7W5bXcDeQKxKV2d0yr)** by **3582** *(Situational Ethics)*
+🎤 **[After the Victory (feat. Maty Soul)](https://open.spotify.com/track/3QeOQM3KuMGZblLvVOfXtv)** by **Kyo Itachi, Maty Soul** *(Love Mugen 2: Dream and Existence)*
+🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
+🎤 **[Skinny Suge](https://open.spotify.com/track/1DA6UYm3jqf8b3ecWUbo6i)** by **Freddie Gibbs, The Alchemist** *(Alfredo)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 14:46:50Z UTC
+🕐 Last updated: 2025-12-10 15:16:53Z UTC
 <!-- SPOTIFY-END -->
