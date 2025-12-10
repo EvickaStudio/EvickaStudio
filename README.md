@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau)**
-*by* **Frank Ocean**
-*Album:* channel ORANGE
+**🎵 [The World Is Yours](https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC)**
+*by* **Nas**
+*Album:* Illmatic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:49 • 3:20
+    0:29 • 4:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)** by **Kanye West, T-Pain** *(Graduation)*
-🎤 **[Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI)** by **Mac Miller** *(Swimming)*
-🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
-🎤 **[Potholderz](https://open.spotify.com/track/1VZUXXUGqIxePaMUXkabRn)** by **MF DOOM, Count Bass D** *(MM..FOOD)*
-🎤 **[Paper Trail$](https://open.spotify.com/track/23bOfmnZiN42pB1frXNyak)** by **Joey Bada$$** *(B4.DA.$$)*
+🎤 **[Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo)** by **Kanye West** *(The College Dropout)*
+🎤 **[Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp)** by **MF DOOM** *(MM..FOOD)*
+🎤 **[Survival of the Fittest](https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO)** by **Mobb Deep** *(The Infamous)*
+🎤 **[Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53)** by **Frank Ocean** *(Novacane)*
+🎤 **[Don't Forget 'Em (Remix) [feat. Kanye West]](https://open.spotify.com/track/0iV249pmrKatl4dJdRxOwz)** by **Consequence, Kanye West** *(Don't Forget 'Em (Remix) [feat. Kanye West])*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 11:49:51Z UTC
+🕐 Last updated: 2025-12-10 12:28:06Z UTC
 <!-- SPOTIFY-END -->
