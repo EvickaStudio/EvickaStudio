@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27367bfdfafb7f11b68fc10ee30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Paranoid](https://open.spotify.com/track/0w2piYWj1F2bzUftzGJgK9)**
-*by* **Kanye West, Mr Hudson**
-*Album:* 808s & Heartbreak
+**🎵 [Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)**
+*by* **Gladys Knight & The Pips**
+*Album:* Visions (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="199" height="4" fill="#1db954" rx="2"/>
-    <circle cx="199" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:04 • 4:37
+    1:53 • 3:43
 </span>
 </p>
 
@@ -116,18 +116,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[It Ain't Hard to Tell](https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV)** by **Nas** *(Illmatic)*
-🎤 **[Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp)** by **MF DOOM** *(MM..FOOD)*
-🎤 **[Don't Mind If I Do](https://open.spotify.com/track/6OS3nd1CFSR98P56VqFsde)** by **Mac Miller** *(K.I.D.S.)*
-🎤 **[Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv)** by **2Pac, Talent** *(Greatest Hits)*
-🎤 **[Good Night](https://open.spotify.com/track/3bhyo2ED5Yd4RLydQBDtD6)** by **Kanye West, Mos Def, Albe Back** *(Graduation)*
+🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
+🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
+🎤 **[Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53)** by **Frank Ocean** *(Novacane)*
+🎤 **[Weekend (feat. Miguel)](https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA)** by **Mac Miller, Miguel** *(GO:OD AM)*
+🎤 **[California Love - Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35)** by **2Pac, Roger, Dr. Dre** *(Greatest Hits)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 13:48:40Z UTC
+🕐 Last updated: 2025-12-10 14:16:24Z UTC
 <!-- SPOTIFY-END -->
