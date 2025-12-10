@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b1bb0209c3f29678f62bf071" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735e92361af5facda3ec7e989b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Soul Of Freedom feat. Cise Starr](https://open.spotify.com/track/3oQqC98i1EhNRcXqIMoWQD)**
-*by* **Uyama Hiroto, Cise Starr**
-*Album:* freedom of the son
+**🎵 [es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)**
+*by* **Tamino404, Keule**
+*Album:* es ist nicht mehr 2016
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="219" height="4" fill="#1db954" rx="2"/>
+    <circle cx="219" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:29 • 5:02
+    1:42 • 2:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
+🎤 **[der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)** by **RYLO** *(der plattenspieler kratzt)*
+🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
 🎤 **[Next Levels](https://open.spotify.com/track/58MeeOMk6PMQxXWY9YCNPD)** by **King Geedorah, John Robinson, Stahhr, Stacy Epps, Invizible Handz** *(Take Me To Your Leader)*
 🎤 **[Horizon](https://open.spotify.com/track/545g4jlvOqZo1sj6k1f9j9)** by **Nujabes** *(Modal Soul)*
-🎤 **[Jippy's Weather Report](https://open.spotify.com/track/4fqGTF0XSkgaBgei2uvI8F)** by **your best friend jippy** *(BEAT TAPE 38)*
-🎤 **[Who's Theme](https://open.spotify.com/track/58yuFWA2sd63pW9i4Jy7fC)** by **MINMI** *(imagine)*
-🎤 **[NIGHTS](https://open.spotify.com/track/2za1yqhpjvm5EF4s3bUf6e)** by **Masayoshi Takanaka** *(BRASILIAN SKIES)*
 
 
 
@@ -140,8 +140,8 @@
 🥈 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
 🥉 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
-🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
+🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-10 21:50:07Z UTC
+🕐 Last updated: 2025-12-10 22:14:03Z UTC
 <!-- SPOTIFY-END -->
