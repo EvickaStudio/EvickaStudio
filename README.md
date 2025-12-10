@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)**
+*by* **Kanye West, Chris Martin**
+*Album:* Graduation
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="278" height="4" fill="#1db954" rx="2"/>
+    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:08 • 3:23
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by **Nokia Angel** *(Born Angel)*
+🎤 **[fühlt sich echt an](https://open.spotify.com/track/2WpSZfI74aZCaxMZB0sMBh)** by **Hello Hannes** *(fühlt sich echt an)*
 🎤 **[Make A Wish](https://open.spotify.com/track/3b7wukBjI4iIM4eX9DXx5q)** by **Nokia Angel** *(In Haze)*
 🎤 **[Raindrops](https://open.spotify.com/track/35y8Vc3Lyrv8v03gckuj6Q)** by **Nokia Angel** *(In Haze)*
 🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
-🎤 **[All Your Faces](https://open.spotify.com/track/3mKe7pLdShaRYEpqwMI92M)** by **Nokia Angel** *(Born Angel)*
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 08:50:26Z UTC
+🕐 Last updated: 2025-12-10 09:16:59Z UTC
 <!-- SPOTIFY-END -->
