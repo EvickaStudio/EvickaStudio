@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273713f297a7bdc1d48971062b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Make Her Say](https://open.spotify.com/track/1JzC9MScDhIomsiRIZYJO8)**
-*by* **Kid Cudi, Kanye West, Common**
-*Album:* Man On The Moon: The End Of Day (Int'l Version)
+**🎵 [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)**
+*by* **Kanye West**
+*Album:* ye
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="163" height="4" fill="#1db954" rx="2"/>
+    <circle cx="163" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 3:36
+    1:57 • 3:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Purple](https://open.spotify.com/track/42qK1JWm8fDy3qHZbIZNuQ)** by **Nas** *(The Lost Tapes)*
-🎤 **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)*
-🎤 **[THAT'S THAT](https://open.spotify.com/track/2Vy16OMt19FH30uQNTFdLk)** by **MF DOOM** *(BORN LIKE THIS)*
-🎤 **[LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
-🎤 **[Machine Gun Funk - 2005 Remaster](https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb)** by **The Notorious B.I.G.** *(Ready to Die (The Remaster))*
+🎤 **[Still Dreaming](https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c)** by **Nas, Kanye West, Chrisette Michele** *(Hip Hop Is Dead (Expanded Edition))*
+🎤 **[Day 'N' Nite (Nightmare)](https://open.spotify.com/track/60PAzFNW3vAiAiVK6DRJfB)** by **Kid Cudi** *(Man On The Moon: The End Of Day (Int'l Version))*
+🎤 **[Crack Rock](https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P)** by **Frank Ocean** *(channel ORANGE)*
+🎤 **[Rhymes Like Dimes](https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ)** by **MF DOOM, DJ Cucumber Slice** *(Operation: Doomsday (Complete))*
+🎤 **[I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA)** by **Kanye West** *(Graduation)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 10:16:06Z UTC
+🕐 Last updated: 2025-12-10 10:47:26Z UTC
 <!-- SPOTIFY-END -->
