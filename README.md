@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273713f297a7bdc1d48971062b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO)**
-*by* **Lil Uzi Vert**
-*Album:* Luv Is Rage 2
+**🎵 [Pursuit Of Happiness (Nightmare)](https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa)**
+*by* **Kid Cudi, MGMT, Ratatat**
+*Album:* Man On The Moon: The End Of Day (Int'l Version)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="284" height="4" fill="#1db954" rx="2"/>
+    <circle cx="284" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 3:02
+    4:40 • 4:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
+🎤 **[XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO)** by **Lil Uzi Vert** *(Luv Is Rage 2)*
 🎤 **[Love Lost](https://open.spotify.com/track/1gooIGZGh22TOPqaogU9bs)** by **Mac Miller, The Temper Trap** *(I Love Life, Thank You)*
 🎤 **[Fashion Killa](https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
 🎤 **[1985](https://open.spotify.com/track/1p1b9LdLJ0REuFJX9mYtFX)** by **Freddie Gibbs, The Alchemist** *(Alfredo)*
-🎤 **[Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i)** by **Kanye West** *(Yeezus)*
-🎤 **[Erase Me - Main](https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP)** by **Kid Cudi, Kanye West** *(Man On The Moon II: The Legend Of Mr. Rager)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 09:44:25Z UTC
+🕐 Last updated: 2025-12-10 09:55:16Z UTC
 <!-- SPOTIFY-END -->
