@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bfcb8d00cee4f8257a6b7fe1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)**
-*by* **Kanye West**
-*Album:* ye
+**🎵 [Praise The Lord (Da Shine) (feat. Skepta)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z)**
+*by* **A$AP Rocky, Skepta**
+*Album:* TESTING
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="163" height="4" fill="#1db954" rx="2"/>
-    <circle cx="163" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 3:35
+    1:58 • 3:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Still Dreaming](https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c)** by **Nas, Kanye West, Chrisette Michele** *(Hip Hop Is Dead (Expanded Edition))*
-🎤 **[Day 'N' Nite (Nightmare)](https://open.spotify.com/track/60PAzFNW3vAiAiVK6DRJfB)** by **Kid Cudi** *(Man On The Moon: The End Of Day (Int'l Version))*
-🎤 **[Crack Rock](https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P)** by **Frank Ocean** *(channel ORANGE)*
-🎤 **[Rhymes Like Dimes](https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ)** by **MF DOOM, DJ Cucumber Slice** *(Operation: Doomsday (Complete))*
-🎤 **[I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA)** by **Kanye West** *(Graduation)*
+🎤 **[N.Y. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo)** by **Nas** *(Illmatic)*
+🎤 **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)*
+🎤 **[where's the confetti?](https://open.spotify.com/track/6loD9KKsFjS7X5kkGwXrLt)** by **jev.** *(the color grey.)*
+🎤 **[Denver](https://open.spotify.com/track/5r30gHLxvhp60XMc5TIIMh)** by **Jack Harlow** *(Jackman.)*
+🎤 **[Nikes on My Feet](https://open.spotify.com/track/6oKDhbz7nqIAoTLSJyNX9b)** by **Mac Miller** *(K.I.D.S. (Deluxe))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 10:47:26Z UTC
+🕐 Last updated: 2025-12-10 11:12:40Z UTC
 <!-- SPOTIFY-END -->
