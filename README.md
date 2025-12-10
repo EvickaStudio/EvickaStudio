@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27367bfdfafb7f11b68fc10ee30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1a897ee5e642da6d945bcd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)**
-*by* **Gladys Knight & The Pips**
-*Album:* Visions (Expanded Edition)
+**🎵 [Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)**
+*by* **Nujabes, Cise Starr**
+*Album:* Metaphorical Music
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 3:43
+    0:47 • 3:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
-🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
-🎤 **[Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53)** by **Frank Ocean** *(Novacane)*
-🎤 **[Weekend (feat. Miguel)](https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA)** by **Mac Miller, Miguel** *(GO:OD AM)*
-🎤 **[California Love - Original Version](https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35)** by **2Pac, Roger, Dr. Dre** *(Greatest Hits)*
+🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[ALLES DOPE](https://open.spotify.com/track/7HZMdCSq7oUYmn6OHU6kSB)** by **CRO** *(ALLES DOPE)*
+🎤 **[I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)** by **Bladee** *(Spiderr)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 14:16:24Z UTC
+🕐 Last updated: 2025-12-10 14:46:50Z UTC
 <!-- SPOTIFY-END -->
