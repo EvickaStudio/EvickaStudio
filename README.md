@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273acc67c7ea342815bb3e14e2c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498)**
-*by* **Nujabes**
-*Album:* Modal Soul
+**🎵 [Blue Avenue](https://open.spotify.com/track/50e8KL7TnyNKLaWfCSr0xf)**
+*by* **Jazz Liberatorz**
+*Album:* Fruit Of The Past
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:56 • 4:17
+    1:36 • 3:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Night on the Town](https://open.spotify.com/track/2ev0X5gh2YRfQPPFo1Izes)** by **Marcus D, Cise Star, Substantial, Funky DL** *(Melancholy Hopeful)*
-🎤 **[I Would Change](https://open.spotify.com/track/0G7U7W5bXcDeQKxKV2d0yr)** by **3582** *(Situational Ethics)*
-🎤 **[After the Victory (feat. Maty Soul)](https://open.spotify.com/track/3QeOQM3KuMGZblLvVOfXtv)** by **Kyo Itachi, Maty Soul** *(Love Mugen 2: Dream and Existence)*
-🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
-🎤 **[Skinny Suge](https://open.spotify.com/track/1DA6UYm3jqf8b3ecWUbo6i)** by **Freddie Gibbs, The Alchemist** *(Alfredo)*
+🎤 **[No More Words](https://open.spotify.com/track/4Cx5cVxgMQMYUgUKFXBcLl)** by **Pete Rock, InI** *(Center of Attention)*
+🎤 **[I'm Kurious](https://open.spotify.com/track/0cseWWMHpjB9Y9Wg02LLr9)** by **Kurious** *(A Constipated Monkey)*
+🎤 **[Letters to Jun(E)](https://open.spotify.com/track/4wG1OI56aIbNlvQcI2P8VA)** by **Witness** *(Hope Springs Eternal)*
+🎤 **[Coffee House No. 5](https://open.spotify.com/track/6uXpFSKDYxQoNybzIw5Adv)** by **Nitsua** *(B-Sides Unreleased Material)*
+🎤 **[Fly by Night (feat. Five Deez)](https://open.spotify.com/track/5ve8FDBRZEFtikETy4w0Hs)** by **Nujabes, Five Deez** *(2nd Collection)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 15:16:53Z UTC
+🕐 Last updated: 2025-12-10 15:43:22Z UTC
 <!-- SPOTIFY-END -->
