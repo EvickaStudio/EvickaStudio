@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273224044e5376c38de8956c7fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Kiss Of Life](https://open.spotify.com/track/0VZpGZoz1sSGdP5VQ7SVux)**
+*by* **Nujabes, Giovanca, Benny Sings**
+*Album:* Kiss Of Life
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="64" height="4" fill="#1db954" rx="2"/>
+    <circle cx="64" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:02 • 4:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Deeper](https://open.spotify.com/track/2uB9gUU1HLnHckvK2tylJM)** by **Freddie Gibbs** *(Piñata)*
-🎤 **[81Summer](https://open.spotify.com/track/1R8DL1a9aFYdOzhv6sYjV1)** by **Uyama Hiroto** *(a son of the sun)*
-🎤 **[Greater Purpose](https://open.spotify.com/track/47Kwym9Ybnj0KALnA26622)** by **Marcus D, Cise Star** *(Earth Angel LP)*
-🎤 **[Babies & Fools (feat. Conway the Machine)](https://open.spotify.com/track/3RyLrayd9un9ClTah57JI0)** by **Freddie Gibbs, The Alchemist, Conway the Machine** *(Alfredo)*
-🎤 **[Autumn Groove](https://open.spotify.com/track/6hoahPnjmQ4dNtZrn2SjPS)** by **Ljones** *(Soul Below)*
+🎤 **[Latitude -remix (feat. Five Deez)](https://open.spotify.com/track/65u7IbuZ4viAlVBHxnpos1)** by **Nujabes, Five Deez** *(Metaphorical Music)*
+🎤 **[Hilary $Wank](https://open.spotify.com/track/5OM3RuosTT4YEVsd8w0eV4)** by **Joey Bada$$** *(Summer Knights)*
+🎤 **[Scottie Beam](https://open.spotify.com/track/15NQ3x1f2GUhqs8oBXhTqp)** by **Freddie Gibbs, The Alchemist, Rick Ross** *(Alfredo)*
+🎤 **[Cheap Date (Dive Bar Blend)](https://open.spotify.com/track/15Iv5jrUqZvwOfNcUEQtzn)** by **Witness** *(The Everafter Lp)*
+🎤 **[Earth Angel](https://open.spotify.com/track/2zcHqgikAH6wnSCdJbxDuF)** by **Marcus D, Cise Star** *(The Lone Wolf LP)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 18:21:19Z UTC
+🕐 Last updated: 2025-12-10 18:50:53Z UTC
 <!-- SPOTIFY-END -->
