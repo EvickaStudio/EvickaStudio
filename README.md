@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27323ac84a525286001770abc8e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273592a417fe522507be548c22f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)**
-*by* **Aphex Twin**
-*Album:* Come To Daddy
+**🎵 [Pinnacle](https://open.spotify.com/track/1fWizHrEOFRvEdNg6OnR41)**
+*by* **Soothing Oasis**
+*Album:* Moments
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="216" height="4" fill="#1db954" rx="2"/>
+    <circle cx="216" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 2:57
+    1:46 • 2:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i)** by **Fred again.., Swedish House Mafia, Future** *(Turn On The Lights again.. (feat. Future))*
+🎤 **[Boys Don't Cry](https://open.spotify.com/track/0C2eEsMBj78CLkHNJPjohc)** by **The Cure** *(Greatest Hits)*
+🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
 🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
 🎤 **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)*
-🎤 **[Whatever](https://open.spotify.com/track/3jtWarFX9mNJpamfDTeP5J)** by **CRO** *(Raop +5)*
-🎤 **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)*
-🎤 **[Deira City Centre](https://open.spotify.com/track/7fm0RfFil17f017qchrnyK)** by **Night Lovell** *(Concept Vague)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-10 22:35:11Z UTC
+🕐 Last updated: 2025-12-10 22:50:58Z UTC
 <!-- SPOTIFY-END -->
