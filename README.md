@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e7d6be4801b2f94de4a103dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27313e67ecfb1a638b48c49785c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Strive](https://open.spotify.com/track/37tcKkyqowAM7OfhS1Xpu7)**
-*by* **Example**
-*Album:* Impulses
+**🎵 [Grey October](https://open.spotify.com/track/2E05EFVzoU0gzM85SjMfky)**
+*by* **Boldy James, The Alchemist, Evidence**
+*Album:* The Price Of Tea In China
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:23 • 3:49
+    2:27 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)](https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV)** by **Nujabes, Substantial, Pase Rock** *(Metaphorical Music)*
-🎤 **[Check the Vibe](https://open.spotify.com/track/05cAjRFbioNoB0vhDyzCod)** by **Dred Scott, Adriana Evans** *(Breakin' Combs)*
-🎤 **[Just Another Case](https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P)** by **Cru** *(Da Dirty 30)*
-🎤 **[I REMEMBER YOU](https://open.spotify.com/track/2pnNh4K3tzSoqAy11vaXrH)** by **Masayoshi Takanaka** *(TAKANAKA)*
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
+🎤 **[Ain't No Happy Endings - Nujabes Remix](https://open.spotify.com/track/0LFgQ8boA2XX498cvyQnp0)** by **Substantial, Nujabes** *(To This Union a Sun Was Born (Deluxe Edition))*
+🎤 **[ordinary joe (feat. Terry Callier)](https://open.spotify.com/track/6zYBZOP6SuKa5JszwpAz7Z)** by **Nujabes, Terry Callier** *(Modal Soul)*
+🎤 **[Champ Magnétique](https://open.spotify.com/track/6350Cp9yZogJcgR7TwDLAQ)** by **Yakkle, Shing02** *(Champ Magnétique)*
+🎤 **[BRASILIAN SKIES](https://open.spotify.com/track/3bMc9oRaUWnojCrYTUXXcQ)** by **Masayoshi Takanaka** *(BRASILIAN SKIES)*
+🎤 **[Jazzmatic](https://open.spotify.com/track/1cDM4wL3FKPO4JpK3YNiWT)** by **Bop Alloy, Marcus D, Substantial, Stephanie Gayle** *(Substantial & Marcus D Are Bop Alloy)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 19:48:00Z UTC
+🕐 Last updated: 2025-12-10 20:15:43Z UTC
 <!-- SPOTIFY-END -->
