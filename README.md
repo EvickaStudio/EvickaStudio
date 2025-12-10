@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hold My Liquor](https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh)**
-*by* **Kanye West**
-*Album:* Yeezus
+**🎵 [Paranoid](https://open.spotify.com/track/0w2piYWj1F2bzUftzGJgK9)**
+*by* **Kanye West, Mr Hudson**
+*Album:* 808s & Heartbreak
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="159" height="4" fill="#1db954" rx="2"/>
-    <circle cx="159" cy="2" r="6" fill="#1db954"/>
+    <rect width="199" height="4" fill="#1db954" rx="2"/>
+    <circle cx="199" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:53 • 5:26
+    3:04 • 4:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sky's the Limit (feat. 112) - 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX)** by **The Notorious B.I.G., 112** *(Life After Death (2014 Remastered Edition))*
-🎤 **[FromdaTomb$](https://open.spotify.com/track/18Y3zi59zjRVUEjUhdApSX)** by **Joey Bada$$, Chuck Strangers** *(1999)*
-🎤 **[The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6)** by **Nas** *(It Was Written)*
-🎤 **[L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud)** by **A$AP Rocky** *(AT.LONG.LAST.A$AP)*
-🎤 **[Big Brother](https://open.spotify.com/track/2L47m9erkB5KBZcaqWtYen)** by **Kanye West** *(Graduation)*
+🎤 **[It Ain't Hard to Tell](https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV)** by **Nas** *(Illmatic)*
+🎤 **[Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp)** by **MF DOOM** *(MM..FOOD)*
+🎤 **[Don't Mind If I Do](https://open.spotify.com/track/6OS3nd1CFSR98P56VqFsde)** by **Mac Miller** *(K.I.D.S.)*
+🎤 **[Changes](https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv)** by **2Pac, Talent** *(Greatest Hits)*
+🎤 **[Good Night](https://open.spotify.com/track/3bhyo2ED5Yd4RLydQBDtD6)** by **Kanye West, Mos Def, Albe Back** *(Graduation)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 13:11:32Z UTC
+🕐 Last updated: 2025-12-10 13:48:40Z UTC
 <!-- SPOTIFY-END -->
