@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27366ee0fe5273c56dcaec90005" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730cd305734ab0bff7fe2d76b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [san francisco](https://open.spotify.com/track/0nsn0xuYHUTbq47O7SBV5v)**
-*by* **MIDICRONICA**
-*Album:* #501
+**🎵 [Clouds (RIP Nujabes)](https://open.spotify.com/track/0jFv17GhwABvPKC7m08SZE)**
+*by* **Kyo Itachi**
+*Album:* Love Mugen (Reissue)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="225" height="4" fill="#1db954" rx="2"/>
+    <circle cx="225" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 3:26
+    2:59 • 3:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Verdigris](https://open.spotify.com/track/1kfPzyTVTSiWF2NXjmecQO)** by **SERAPHINE NOIR, Mauricesax** *(Avalon)*
-🎤 **[Rain (feat. Vince Staples)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd)** by **Mac Miller, Vince Staples** *(Faces)*
-🎤 **[Piece of Mind](https://open.spotify.com/track/0pVxLnmqEphwVMRspv5N7Y)** by **Joey Bada$$** *(B4.DA.$$)*
-🎤 **[Feather (feat. Cise Starr & Akin from CYNE)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR)** by **Nujabes, Cise Starr & Akin from CYNE** *(Modal Soul)*
-🎤 **[Find Away](https://open.spotify.com/track/5mlJcgy5BN8XYxYNw8xDdU)** by **Cise Star** *(The Heart on the Right Spot)*
+🎤 **[Soul a la Mode](https://open.spotify.com/track/3drr5Oh4Jwng9dOPJ1R0lE)** by **Marcus D, Pismo, Substantial, Cise Star, Zane** *(The Lone Wolf LP)*
+🎤 **[Kumomi](https://open.spotify.com/track/3GUqoL8LDEpw2GH6G9onE0)** by **Nujabes** *(Metaphorical Music)*
+🎤 **[Skinny Suge](https://open.spotify.com/track/1DA6UYm3jqf8b3ecWUbo6i)** by **Freddie Gibbs, The Alchemist** *(Alfredo)*
+🎤 **[Just Can't Explain](https://open.spotify.com/track/2GwNLM42yZdQukyUXBBr62)** by **Alps Cru** *(The Classic Collection)*
+🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 16:19:45Z UTC
+🕐 Last updated: 2025-12-10 16:50:01Z UTC
 <!-- SPOTIFY-END -->
