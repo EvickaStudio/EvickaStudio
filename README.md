@@ -95,20 +95,20 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273713f297a7bdc1d48971062b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pursuit Of Happiness (Nightmare)](https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa)**
-*by* **Kid Cudi, MGMT, Ratatat**
+**🎵 [Make Her Say](https://open.spotify.com/track/1JzC9MScDhIomsiRIZYJO8)**
+*by* **Kid Cudi, Kanye West, Common**
 *Album:* Man On The Moon: The End Of Day (Int'l Version)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:40 • 4:55
+    1:41 • 3:36
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
-🎤 **[XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO)** by **Lil Uzi Vert** *(Luv Is Rage 2)*
-🎤 **[Love Lost](https://open.spotify.com/track/1gooIGZGh22TOPqaogU9bs)** by **Mac Miller, The Temper Trap** *(I Love Life, Thank You)*
-🎤 **[Fashion Killa](https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
-🎤 **[1985](https://open.spotify.com/track/1p1b9LdLJ0REuFJX9mYtFX)** by **Freddie Gibbs, The Alchemist** *(Alfredo)*
+🎤 **[Purple](https://open.spotify.com/track/42qK1JWm8fDy3qHZbIZNuQ)** by **Nas** *(The Lost Tapes)*
+🎤 **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[THAT'S THAT](https://open.spotify.com/track/2Vy16OMt19FH30uQNTFdLk)** by **MF DOOM** *(BORN LIKE THIS)*
+🎤 **[LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
+🎤 **[Machine Gun Funk - 2005 Remaster](https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb)** by **The Notorious B.I.G.** *(Ready to Die (The Remaster))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 09:55:16Z UTC
+🕐 Last updated: 2025-12-10 10:16:06Z UTC
 <!-- SPOTIFY-END -->
