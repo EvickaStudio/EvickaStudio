@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27317e3743d01b198e54b16cc63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1)**
+*by* **Shirley Brown**
+*Album:* Woman to Woman [Stax Remasters]
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:48 • 3:58
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Use Ta Be My Girl](https://open.spotify.com/track/5K3aLetDYAPtX1q0PTR1a5)** by **The O'Jays** *(So Full Of Love)*
+🎤 **[Seconds](https://open.spotify.com/track/5KXpelM3mKYfeKHoOAjznG)** by **Gladys Knight & The Pips** *(I Feel A Song (Expanded Edition))*
+🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
 🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
 🎤 **[angst / hass](https://open.spotify.com/track/7jh9wlY2XWcXGw3kUnNOaK)** by **Lytro** *(angst / hass)*
-🎤 **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)*
-🎤 **[Headline](https://open.spotify.com/track/6z0hVX78bw28WRrzWjvDp6)** by **JB 50** *(Headline)*
-🎤 **[Rückblick](https://open.spotify.com/track/6Oh3C5VFwU2q19OplomHaT)** by **52Blue** *(L(i)ebe)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
 
 
-🕐 Last updated: 2025-12-10 06:21:43Z UTC
+🕐 Last updated: 2025-12-10 06:53:18Z UTC
 <!-- SPOTIFY-END -->
