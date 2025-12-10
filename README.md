@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27350c9104f823d9de8c3897156" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27366ee0fe5273c56dcaec90005" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dead Calm](https://open.spotify.com/track/27Z4yaeuxyRaIV7ve5rEx5)**
-*by* **Peebs The Prophet**
-*Album:* Ills of the Earth
+**🎵 [san francisco](https://open.spotify.com/track/0nsn0xuYHUTbq47O7SBV5v)**
+*by* **MIDICRONICA**
+*Album:* #501
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 3:02
+    0:24 • 3:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tsurugi no mai](https://open.spotify.com/track/1r9W6X7XA07X11WbW1TveA)** by **Nujabes** *(samurai champloo music record impression)*
-🎤 **[Good Vibes Only](https://open.spotify.com/track/0BeYNNWbtEbMHVDpFbfWCC)** by **strangerperson** *(Good Vibes Only)*
-🎤 **[Backpack](https://open.spotify.com/track/65d3YuRIeblrM43McnTDlm)** by **strangerperson** *(Backpack)*
-🎤 **[Blue Avenue](https://open.spotify.com/track/50e8KL7TnyNKLaWfCSr0xf)** by **Jazz Liberatorz** *(Fruit Of The Past)*
-🎤 **[No More Words](https://open.spotify.com/track/4Cx5cVxgMQMYUgUKFXBcLl)** by **Pete Rock, InI** *(Center of Attention)*
+🎤 **[Verdigris](https://open.spotify.com/track/1kfPzyTVTSiWF2NXjmecQO)** by **SERAPHINE NOIR, Mauricesax** *(Avalon)*
+🎤 **[Rain (feat. Vince Staples)](https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd)** by **Mac Miller, Vince Staples** *(Faces)*
+🎤 **[Piece of Mind](https://open.spotify.com/track/0pVxLnmqEphwVMRspv5N7Y)** by **Joey Bada$$** *(B4.DA.$$)*
+🎤 **[Feather (feat. Cise Starr & Akin from CYNE)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR)** by **Nujabes, Cise Starr & Akin from CYNE** *(Modal Soul)*
+🎤 **[Find Away](https://open.spotify.com/track/5mlJcgy5BN8XYxYNw8xDdU)** by **Cise Star** *(The Heart on the Right Spot)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 15:54:52Z UTC
+🕐 Last updated: 2025-12-10 16:19:45Z UTC
 <!-- SPOTIFY-END -->
