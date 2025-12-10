@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1bb0209c3f29678f62bf071" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Horizon](https://open.spotify.com/track/545g4jlvOqZo1sj6k1f9j9)**
-*by* **Nujabes**
-*Album:* Modal Soul
+**🎵 [Soul Of Freedom feat. Cise Starr](https://open.spotify.com/track/3oQqC98i1EhNRcXqIMoWQD)**
+*by* **Uyama Hiroto, Cise Starr**
+*Album:* freedom of the son
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:56 • 7:20
+    2:29 • 5:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Next Levels](https://open.spotify.com/track/58MeeOMk6PMQxXWY9YCNPD)** by **King Geedorah, John Robinson, Stahhr, Stacy Epps, Invizible Handz** *(Take Me To Your Leader)*
+🎤 **[Horizon](https://open.spotify.com/track/545g4jlvOqZo1sj6k1f9j9)** by **Nujabes** *(Modal Soul)*
 🎤 **[Jippy's Weather Report](https://open.spotify.com/track/4fqGTF0XSkgaBgei2uvI8F)** by **your best friend jippy** *(BEAT TAPE 38)*
 🎤 **[Who's Theme](https://open.spotify.com/track/58yuFWA2sd63pW9i4Jy7fC)** by **MINMI** *(imagine)*
 🎤 **[NIGHTS](https://open.spotify.com/track/2za1yqhpjvm5EF4s3bUf6e)** by **Masayoshi Takanaka** *(BRASILIAN SKIES)*
-🎤 **[Wouldn't You Like to Ride](https://open.spotify.com/track/0a6q5XK264I3qDt5gmFNSf)** by **Kanye West, Common** *(Coach Carter Soundtrack)*
-🎤 **[Yes (feat. Pase Rock)](https://open.spotify.com/track/2XaW5xe9iGD6cypnNvoWke)** by **Nujabes, Pase Rock** *(Spiritual State)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 21:41:23Z UTC
+🕐 Last updated: 2025-12-10 21:50:07Z UTC
 <!-- SPOTIFY-END -->
