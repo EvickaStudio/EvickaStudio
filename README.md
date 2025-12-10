@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730cd305734ab0bff7fe2d76b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cf4b69391d9387ca185e8ba4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Clouds (RIP Nujabes)](https://open.spotify.com/track/0jFv17GhwABvPKC7m08SZE)**
-*by* **Kyo Itachi**
-*Album:* Love Mugen (Reissue)
+**🎵 [Greater Purpose](https://open.spotify.com/track/47Kwym9Ybnj0KALnA26622)**
+*by* **Marcus D, Cise Star**
+*Album:* Earth Angel LP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="225" height="4" fill="#1db954" rx="2"/>
-    <circle cx="225" cy="2" r="6" fill="#1db954"/>
+    <rect width="76" height="4" fill="#1db954" rx="2"/>
+    <circle cx="76" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:59 • 3:57
+    1:02 • 4:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Soul a la Mode](https://open.spotify.com/track/3drr5Oh4Jwng9dOPJ1R0lE)** by **Marcus D, Pismo, Substantial, Cise Star, Zane** *(The Lone Wolf LP)*
-🎤 **[Kumomi](https://open.spotify.com/track/3GUqoL8LDEpw2GH6G9onE0)** by **Nujabes** *(Metaphorical Music)*
-🎤 **[Skinny Suge](https://open.spotify.com/track/1DA6UYm3jqf8b3ecWUbo6i)** by **Freddie Gibbs, The Alchemist** *(Alfredo)*
-🎤 **[Just Can't Explain](https://open.spotify.com/track/2GwNLM42yZdQukyUXBBr62)** by **Alps Cru** *(The Classic Collection)*
-🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
+🎤 **[Babies & Fools (feat. Conway the Machine)](https://open.spotify.com/track/3RyLrayd9un9ClTah57JI0)** by **Freddie Gibbs, The Alchemist, Conway the Machine** *(Alfredo)*
+🎤 **[Autumn Groove](https://open.spotify.com/track/6hoahPnjmQ4dNtZrn2SjPS)** by **Ljones** *(Soul Below)*
+🎤 **[Mind over Matter](https://open.spotify.com/track/4h51San989VSqJ1sR9cEdZ)** by **Pete Rock, InI** *(Center of Attention)*
+🎤 **[Highly Recommended](https://open.spotify.com/track/700dnb47ud1w4fojNpIjxD)** by **Jazz Spastiks, People Without Shoes** *(Green Street (Deluxe Edition))*
+🎤 **[Paradise](https://open.spotify.com/track/1SHebjYOp0RE3HX8Fi2yKq)** by **CYNE** *(Time Being (Deluxe Edition))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 16:50:01Z UTC
+🕐 Last updated: 2025-12-10 17:16:17Z UTC
 <!-- SPOTIFY-END -->
