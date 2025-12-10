@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The World Is Yours](https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC)**
-*by* **Nas**
-*Album:* Illmatic
+**🎵 [Hold My Liquor](https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh)**
+*by* **Kanye West**
+*Album:* Yeezus
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="159" height="4" fill="#1db954" rx="2"/>
+    <circle cx="159" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 4:50
+    2:53 • 5:26
 </span>
 </p>
 
@@ -116,18 +116,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo)** by **Kanye West** *(The College Dropout)*
-🎤 **[Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp)** by **MF DOOM** *(MM..FOOD)*
-🎤 **[Survival of the Fittest](https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO)** by **Mobb Deep** *(The Infamous)*
-🎤 **[Novacane](https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53)** by **Frank Ocean** *(Novacane)*
-🎤 **[Don't Forget 'Em (Remix) [feat. Kanye West]](https://open.spotify.com/track/0iV249pmrKatl4dJdRxOwz)** by **Consequence, Kanye West** *(Don't Forget 'Em (Remix) [feat. Kanye West])*
+🎤 **[Sky's the Limit (feat. 112) - 2014 Remaster](https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX)** by **The Notorious B.I.G., 112** *(Life After Death (2014 Remastered Edition))*
+🎤 **[FromdaTomb$](https://open.spotify.com/track/18Y3zi59zjRVUEjUhdApSX)** by **Joey Bada$$, Chuck Strangers** *(1999)*
+🎤 **[The Message](https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6)** by **Nas** *(It Was Written)*
+🎤 **[L$D](https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud)** by **A$AP Rocky** *(AT.LONG.LAST.A$AP)*
+🎤 **[Big Brother](https://open.spotify.com/track/2L47m9erkB5KBZcaqWtYen)** by **Kanye West** *(Graduation)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥉 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
@@ -139,9 +139,9 @@
 🥇 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
 🥈 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
 🥉 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
-🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 🏅 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
+🏅 [**ADHS (sped up)**](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)
 
 
-🕐 Last updated: 2025-12-10 12:28:06Z UTC
+🕐 Last updated: 2025-12-10 13:11:32Z UTC
 <!-- SPOTIFY-END -->
