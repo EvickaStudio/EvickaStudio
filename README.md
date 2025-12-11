@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735bec323dd8c292a8b9d9e309" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)**
-*by* **Neil Young**
-*Album:* Throw Your Hatred Down (Live)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 4:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
 🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
 🎤 **[r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)** by **skrt cobain** *(r4ver girl)*
 🎤 **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)*
 🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
-🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 16:54:26Z UTC
+🕐 Last updated: 2025-12-11 17:20:04Z UTC
 <!-- SPOTIFY-END -->
