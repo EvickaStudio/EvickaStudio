@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)**
+*by* **Yung Hurn, EN6O**
+*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:03 • 2:28
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
 🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
 🎤 **[PIXELATED KISSES (with Yeat) (Remix)](https://open.spotify.com/track/4VGgr7uU1AeeiyDBGnVnI9)** by **Joji, Yeat** *(PIXELATED KISSES (with Yeat) (Remix))*
 🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
 🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
-🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 11:48:50Z UTC
+🕐 Last updated: 2025-12-11 12:29:22Z UTC
 <!-- SPOTIFY-END -->
