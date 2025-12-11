@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735a3750a7032eda3ea17e3419" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27367bfdfafb7f11b68fc10ee30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)**
-*by* **14?, Cise Star, Fayya**
-*Album:* Dreamland
+**🎵 [Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)**
+*by* **Gladys Knight & The Pips**
+*Album:* Visions (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 4:28
+    3:14 • 3:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
+🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
 🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
 🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
 🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
-🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
-🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 20:40:47Z UTC
+🕐 Last updated: 2025-12-11 20:49:54Z UTC
 <!-- SPOTIFY-END -->
