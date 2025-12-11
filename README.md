@@ -91,16 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a1a897ee5e642da6d945bcd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)**
+*by* **Nujabes, Cise Starr**
+*Album:* Metaphorical Music
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="10" height="4" fill="#1db954" rx="2"/>
+    <circle cx="10" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:06 • 3:19
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Soul Of Freedom feat. Cise Starr](https://open.spotify.com/track/3oQqC98i1EhNRcXqIMoWQD)** by **Uyama Hiroto, Cise Starr** *(freedom of the son)*
+🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
+🎤 **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)*
+🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
 🎤 **[Skin](https://open.spotify.com/track/0Vx1fYmQiObS2rg5ujQYJz)** by **Bladee** *(Eversince)*
 🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
-🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
 
 
 
@@ -123,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 09:55:22Z UTC
+🕐 Last updated: 2025-12-11 10:15:46Z UTC
 <!-- SPOTIFY-END -->
