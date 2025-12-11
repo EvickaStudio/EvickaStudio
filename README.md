@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b3fb28d8bc2670b73ebf898" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732a3f6c5536b87881d40f8f56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Moonrise](https://open.spotify.com/track/38E3zPQLu15gcim6yL4vzg)**
+**🎵 [Peaceful Skies](https://open.spotify.com/track/4T317D8kCVdPbqmsUdDA89)**
 *by* **Soothing Oasis**
-*Album:* Stillness
+*Album:* As Dusk Falls
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:07
+    1:08 • 2:14
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 06:54:30Z UTC
+🕐 Last updated: 2025-12-11 07:19:05Z UTC
 <!-- SPOTIFY-END -->
