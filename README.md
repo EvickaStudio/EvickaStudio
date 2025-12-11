@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27357fd9b2e77a394f872125555" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a29bda9c1edfd208a19fa1b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Animal](https://open.spotify.com/track/5ECEcUC90GdXaM8O0Pj9i5)**
-*by* **Juniper Fields, User2222**
-*Album:* Animal
+**🎵 [Is It Not?](https://open.spotify.com/track/1mMcJdbeJ1xori5eWkHw8t)**
+*by* **Dion**
+*Album:* Is It Not?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="105" height="4" fill="#1db954" rx="2"/>
-    <circle cx="105" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 3:01
+    2:20 • 2:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[How To Teleport](https://open.spotify.com/track/5BUTPG0Csnl1fF5RFg5lUH)** by **Jane Remover** *(♡)*
-🎤 **[Cortt](https://open.spotify.com/track/74Rcdai3OPZa7vBRbhKOtJ)** by **The Hellp** *(Riviera)*
-🎤 **[Final Song - bod [包家巷] Remix](https://open.spotify.com/track/4RgDoM6QBWYzMVtu8BpO0i)** by **Bassvictim, bod [包家巷]** *(Final Song (bod [包家巷] Remix))*
-🎤 **[full moon energy portal](https://open.spotify.com/track/5AqRO03gXvMHfHzjUPZD2V)** by **meat computer** *(new world disorder)*
-🎤 **[Heaven](https://open.spotify.com/track/14KWN9VVGdrO0pWvhjPvj7)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[Pray to Evil](https://open.spotify.com/track/2eYQNL63YMx4S8fvw3U7fi)** by **The Hellp** *(Riviera)*
+🎤 **[Flounder](https://open.spotify.com/track/3gz47lcUNpwo4UOZfEIOou)** by **smokedope2016** *(Flounder)*
+🎤 **[non seen demonic layer](https://open.spotify.com/track/0vd15QKB96ghtEplCnXabr)** by **meat computer** *(new world disorder)*
+🎤 **[Great Escape](https://open.spotify.com/track/0PcLkGjBDdsSYDITSifWMP)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[Animal](https://open.spotify.com/track/5ECEcUC90GdXaM8O0Pj9i5)** by **Juniper Fields, User2222** *(Animal)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 21:33:46Z UTC
+🕐 Last updated: 2025-12-11 21:48:06Z UTC
 <!-- SPOTIFY-END -->
