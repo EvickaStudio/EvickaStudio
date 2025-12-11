@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737b7fb46fd5ea7ca6259e74ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Falkor's Return](https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ)**
-*by* **Indecorum**
-*Album:* Sanctus
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="132" height="4" fill="#1db954" rx="2"/>
-    <circle cx="132" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 3:00
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
-🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
-🎤 **[i crash, u crash](https://open.spotify.com/track/2mmvUIfawPzUCbw3j9uJKk)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
-🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
+🎤 **[r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)** by **skrt cobain** *(r4ver girl)*
+🎤 **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)*
+🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
+🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
+🎤 **[Falkor's Return](https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ)** by **Indecorum** *(Sanctus)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 15:45:31Z UTC
+🕐 Last updated: 2025-12-11 16:19:45Z UTC
 <!-- SPOTIFY-END -->
