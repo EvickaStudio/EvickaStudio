@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6baa3dfd144bfeb237fc55a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273592a417fe522507be548c22f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Whispers](https://open.spotify.com/track/4tXrBqfqgO1HYLSeA1Kxk8)**
+**🎵 [Fresh Start](https://open.spotify.com/track/6hzVlFmxCRGBXCyFeedkxx)**
 *by* **Soothing Oasis**
-*Album:* Beneath the Sky
+*Album:* Moments
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="38" height="4" fill="#1db954" rx="2"/>
+    <circle cx="38" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:08
+    0:16 • 2:10
 </span>
 </p>
 
@@ -116,11 +116,7 @@
 
 ### 📜 Recently Played
 
-🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i)** by **Fred again.., Swedish House Mafia, Future** *(Turn On The Lights again.. (feat. Future))*
-🎤 **[Boys Don't Cry](https://open.spotify.com/track/0C2eEsMBj78CLkHNJPjohc)** by **The Cure** *(Greatest Hits)*
-🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
-🎤 **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)*
+No recently played tracks.
 
 
 
@@ -143,5 +139,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-10 23:47:42Z UTC
+🕐 Last updated: 2025-12-11 01:05:27Z UTC
 <!-- SPOTIFY-END -->
