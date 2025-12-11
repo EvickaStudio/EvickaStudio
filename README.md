@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27330579c8b71ae9181381c0ac8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)**
+*by* **M83**
+*Album:* Resurrection (Original Soundtrack)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="34" height="4" fill="#1db954" rx="2"/>
+    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:30 • 4:28
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
 🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
 🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
 🎤 **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)*
-🎤 **[immer nur geträumt (demo)](https://open.spotify.com/track/2GJaSy6PtsqZMPhYnDHnEa)** by **Leocardo DiNaprio** *(immer nur geträumt (demo))*
-🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
 
 
 
@@ -110,8 +129,8 @@
 🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-🏅 [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 19:31:49Z UTC
+🕐 Last updated: 2025-12-11 19:48:23Z UTC
 <!-- SPOTIFY-END -->
