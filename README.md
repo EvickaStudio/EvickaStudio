@@ -91,31 +91,15 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)**
-*by* **Bladee**
-*Album:* Eversince
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 3:06
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Soul Of Freedom feat. Cise Starr](https://open.spotify.com/track/3oQqC98i1EhNRcXqIMoWQD)** by **Uyama Hiroto, Cise Starr** *(freedom of the son)*
+🎤 **[Skin](https://open.spotify.com/track/0Vx1fYmQiObS2rg5ujQYJz)** by **Bladee** *(Eversince)*
+🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
 🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
 
 
@@ -139,5 +123,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 09:18:43Z UTC
+🕐 Last updated: 2025-12-11 09:44:44Z UTC
 <!-- SPOTIFY-END -->
