@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27316f22f331f822af67bbfc400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739866f83629f29c777e667e9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Music Baby](https://open.spotify.com/track/3heQu7YLQFf0WY4Z2giXhk)**
-*by* **Jane Remover**
-*Album:* ♡
+**🎵 [flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)**
+*by* **DJmegan23**
+*Album:* sound-proofed wilderness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="183" height="4" fill="#1db954" rx="2"/>
+    <circle cx="183" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:24 • 5:20
+    1:22 • 2:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)** by **Bladee** *(Eversince)*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
-🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
-🎤 **[r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)** by **skrt cobain** *(r4ver girl)*
+🎤 **[Nobody](https://open.spotify.com/track/3wTmRCrN193Al4RyAXlNVD)** by **PureSnow, bronclair** *(Nobody)*
+🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[넘버 원 // NUMMER ETT Part 2 - Effie & Eurohead Remix](https://open.spotify.com/track/217pG31hswPFS8zFo2KONE)** by **Dj Billybool, Varg²™, Effie, Eurohead** *(넘버 원 // NUMMER ETT Part 2 (Effie & Eurohead Remix))*
+🎤 **[So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY)** by **Jane Remover** *(♡)*
+🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 18:19:35Z UTC
+🕐 Last updated: 2025-12-11 18:52:15Z UTC
 <!-- SPOTIFY-END -->
