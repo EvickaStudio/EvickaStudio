@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a29bda9c1edfd208a19fa1b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Is It Not?](https://open.spotify.com/track/1mMcJdbeJ1xori5eWkHw8t)**
-*by* **Dion**
-*Album:* Is It Not?
+**🎵 [Missing Person](https://open.spotify.com/track/5xo35RaLLlUBkEpdz7DY5p)**
+*by* **Bladee**
+*Album:* Eversince
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="226" height="4" fill="#1db954" rx="2"/>
+    <circle cx="226" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:20 • 2:54
+    2:30 • 3:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Pray to Evil](https://open.spotify.com/track/2eYQNL63YMx4S8fvw3U7fi)** by **The Hellp** *(Riviera)*
-🎤 **[Flounder](https://open.spotify.com/track/3gz47lcUNpwo4UOZfEIOou)** by **smokedope2016** *(Flounder)*
-🎤 **[non seen demonic layer](https://open.spotify.com/track/0vd15QKB96ghtEplCnXabr)** by **meat computer** *(new world disorder)*
-🎤 **[Great Escape](https://open.spotify.com/track/0PcLkGjBDdsSYDITSifWMP)** by **DJmegan23, cranes, mental** *(Mirage)*
-🎤 **[Animal](https://open.spotify.com/track/5ECEcUC90GdXaM8O0Pj9i5)** by **Juniper Fields, User2222** *(Animal)*
+🎤 **[fading inner soul](https://open.spotify.com/track/6PAEP27e9W4uLusOJpARUB)** by **meat computer** *(new world disorder)*
+🎤 **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)*
+🎤 **[Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui)** by **ESP** *(Promise)*
+🎤 **[Som Jag - Lusi Remix](https://open.spotify.com/track/0Y8Z0oZ4JOaHBpVlcHlK7o)** by **Dj Billybool, Bladee** *(The Promised Future Remixes, Vol. 1)*
+🎤 **[Meridian](https://open.spotify.com/track/23TE2XargbCdbDrEQDSNQN)** by **The Hellp** *(Riviera)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 21:48:06Z UTC
+🕐 Last updated: 2025-12-11 22:13:17Z UTC
 <!-- SPOTIFY-END -->
