@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1a897ee5e642da6d945bcd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)**
-*by* **Nujabes, Cise Starr**
-*Album:* Metaphorical Music
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="10" height="4" fill="#1db954" rx="2"/>
-    <circle cx="10" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 3:19
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
-🎤 **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)*
-🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
-🎤 **[Skin](https://open.spotify.com/track/0Vx1fYmQiObS2rg5ujQYJz)** by **Bladee** *(Eversince)*
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
+🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
+🎤 **[PIXELATED KISSES (with Yeat) (Remix)](https://open.spotify.com/track/4VGgr7uU1AeeiyDBGnVnI9)** by **Joji, Yeat** *(PIXELATED KISSES (with Yeat) (Remix))*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 10:15:46Z UTC
+🕐 Last updated: 2025-12-11 10:46:58Z UTC
 <!-- SPOTIFY-END -->
