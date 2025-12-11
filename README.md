@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27316f22f331f822af67bbfc400" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Music Baby](https://open.spotify.com/track/3heQu7YLQFf0WY4Z2giXhk)**
+*by* **Jane Remover**
+*Album:* ♡
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:24 • 5:20
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)** by **Bladee** *(Eversince)*
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
 🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
 🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
 🎤 **[r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)** by **skrt cobain** *(r4ver girl)*
-🎤 **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)*
-🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 17:52:04Z UTC
+🕐 Last updated: 2025-12-11 18:19:35Z UTC
 <!-- SPOTIFY-END -->
