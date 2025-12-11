@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739468fa5372c9dc7a419525ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Revenge of the Mouse Diva](https://open.spotify.com/track/2OMbjYNsy18rcOMkYp51HV)**
-*by* **The Hellp**
-*Album:* Riviera
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:56 • 3:25
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Is there a place in heaven for boys like me?](https://open.spotify.com/track/0f4NbY8uXAIdxsEzJI2Waj)** by **Varg²™, Bladee, Skrillex** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
+🎤 **[Sidelinelyfe Interlude #PefectMartyrS](https://open.spotify.com/track/1JFS8gBy7exJ0MRU0IV4jd)** by **DJmegan23, abdulnour** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[STOCKHOLMSVECKAN](https://open.spotify.com/track/5zzYDgJ2dmnGAMbM9IlqB8)** by **Dj Billybool, swedm®, Eurohead** *(DYR)*
+🎤 **[Revenge of the Mouse Diva](https://open.spotify.com/track/2OMbjYNsy18rcOMkYp51HV)** by **The Hellp** *(Riviera)*
 🎤 **[Bloodveil / Stillborn](https://open.spotify.com/track/7lsxrbHKYBNcRW53M9RQ0U)** by **Bladee, Ecco2k** *(Eversince)*
-🎤 **[dissolving into chaos](https://open.spotify.com/track/3avDYvsq8SPauVUBuhi9Rr)** by **meat computer** *(new world disorder)*
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[Till i'm Dead](https://open.spotify.com/track/1OloKCCG0e7Pu3IUgkhISg)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[PROMETHEUS](https://open.spotify.com/track/1PWYC2fO7OBjlJVJ44eE6G)** by **Dj Billybool, Eurohead** *(DYR)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 22:35:20Z UTC
+🕐 Last updated: 2025-12-11 22:51:25Z UTC
 <!-- SPOTIFY-END -->
