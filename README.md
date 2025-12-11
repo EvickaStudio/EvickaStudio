@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27345de82e9468282a5f96a8324" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737b7fb46fd5ea7ca6259e74ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)**
-*by* **Kroka Koka**
-*Album:* PRADA
+**🎵 [Falkor's Return](https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ)**
+*by* **Indecorum**
+*Album:* Sanctus
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="132" height="4" fill="#1db954" rx="2"/>
+    <circle cx="132" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 1:49
+    1:19 • 3:00
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by **Holy Fuck** *(Congrats)*
-🎤 **[Girls Just Want Breaks (yion-flip)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1)** by **yion** *(Girls Just Want Breaks (yion-flip))*
-🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
-🎤 **[fucking highschool people](https://open.spotify.com/track/0Bc7D2OpXdj5cvu5YKod8z)** by **MRD** *(fucking highschool people)*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[i crash, u crash](https://open.spotify.com/track/2mmvUIfawPzUCbw3j9uJKk)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
+🎤 **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))*
+🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-11 15:16:24Z UTC
+🕐 Last updated: 2025-12-11 15:45:31Z UTC
 <!-- SPOTIFY-END -->
