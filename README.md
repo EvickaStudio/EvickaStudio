@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735fe78e05044b8d00f03f4e2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e757f06cdf2cd1d217e5985" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pink Sheets!](https://open.spotify.com/track/5UQYNEX8cYhGqDSv2iOYBB)**
-*by* **LooveX**
-*Album:* rather be alone than with bad company
+**🎵 [schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)**
+*by* **luu, n3vio**
+*Album:* schäm mich so
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="255" height="4" fill="#1db954" rx="2"/>
-    <circle cx="255" cy="2" r="6" fill="#1db954"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:18
+    1:44 • 2:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
-🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
-🎤 **[ur fxcking crazy <3](https://open.spotify.com/track/35D94ilGZCz3chDsfQoSIk)** by **2504, Snave, ang3lx** *(ur fxcking crazy <3)*
-🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic** *(alprazolam)*
-🎤 **[ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)** by **disoc8** *(ur the one i want <3)*
+🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
+🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
+🎤 **[Pink Sheets!](https://open.spotify.com/track/5UQYNEX8cYhGqDSv2iOYBB)** by **LooveX** *(rather be alone than with bad company)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 20:35:50Z UTC
+🕐 Last updated: 2025-12-12 20:52:28Z UTC
 <!-- SPOTIFY-END -->
