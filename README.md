@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27330579c8b71ae9181381c0ac8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27390c0dda6c4cafa7adcb57d04" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sullen Passage](https://open.spotify.com/track/1uhRtTpMX37u195FCRjDaZ)**
-*by* **M83**
-*Album:* Resurrection (Original Soundtrack)
+**🎵 [vis respekt](https://open.spotify.com/track/2CZ9TDSylFwDojim2Q3rsc)**
+*by* **legobygger123**
+*Album:* vis respekt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="175" height="4" fill="#1db954" rx="2"/>
-    <circle cx="175" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:00 • 3:26
+    0:33 • 2:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[GHOSTED (+pink luu)](https://open.spotify.com/track/3JNQRrXP0MyRZ8cnO6xgrL)** by **vee4archive, Vee4r, pink luu** *(GHOSTED (+pink luu))*
-🎤 **[Black Jeep](https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao)** by **fakemink, Fimiguerrero** *(Black Jeep)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
-🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
+🎤 **[Faery](https://open.spotify.com/track/2OUjxVO2SO2V5DtaTCiYUt)** by **Peake** *(Withered)*
+🎤 **[Evil World](https://open.spotify.com/track/03Q35hLOZxZfqierYYtHSL)** by **Bladee, Yung Lean** *(Evil World)*
+🎤 **[rotten](https://open.spotify.com/track/1ZcHq28lmqdckiwGwuGMMp)** by **jxlyn** *(rotten)*
+🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
+🎤 **[DNA REPAIR FREQUENCY "FG006"](https://open.spotify.com/track/3REWG291IoPX6EiSWV533w)** by **Focus Group, bleachblonde, w3bcam, Aidan Swank** *(FG COMPILATION "2018-2020")*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 13:46:22Z UTC
+🕐 Last updated: 2025-12-12 14:13:55Z UTC
 <!-- SPOTIFY-END -->
