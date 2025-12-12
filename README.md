@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ad9153a775a18ef36aa3eb17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)**
+*by* **Bladee**
+*Album:* Ingen hör
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:52 • 2:56
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
 🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
-🎤 **[going quietly - sped up](https://open.spotify.com/track/5nZxjCC9edqvv8dxrXAFBq)** by **Ezekiel, sped up + nightcore** *(going quietly (sped up))*
-🎤 **[heaven](https://open.spotify.com/track/3Tki5V7vhAU9s2KN6905hq)** by **Yandere** *(heaven)*
-🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
-🎤 **[We Major](https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE)** by **Kanye West, Nas, Really Doe** *(Late Registration)*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
+🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-12 11:49:09Z UTC
+🕐 Last updated: 2025-12-12 12:27:38Z UTC
 <!-- SPOTIFY-END -->
