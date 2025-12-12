@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [all 2s](https://open.spotify.com/track/4LFGa8tTHa3pZnLLTAHK3p)**
-*by* **2hollis**
-*Album:* 2
+**🎵 [Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)**
+*by* **Lix, Elujjin**
+*Album:* 128
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="10" height="4" fill="#1db954" rx="2"/>
+    <circle cx="10" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 2:47
+    0:05 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Inferno](https://open.spotify.com/track/31O8ZZCnYkHonBL00glsTT)** by **Bladee, Yung Lean** *(Inferno)*
-🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
-🎤 **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[▀▄ ◣﹏◢ ▀▄ sxoawlwenexiosls.com (og)](https://open.spotify.com/track/6dLaogon6gyQCgHnPe3UYL)** by **weirdo girl** *(▀▄ ◣﹏◢ ▀▄ sxoawlwenexiosls.com (og))*
+🎤 **[Throw It Back Away](https://open.spotify.com/track/3hlbMZoeYUllnXVnE9OnLh)** by **Snow Strippers** *(Night Killaz Vol. 2)*
+🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
+🎤 **[Tear Drop](https://open.spotify.com/track/1uVA1lDWpmVqo9j6MFhvWv)** by **DJmegan23, Sadd** *(Dry Tears)*
+🎤 **[Beautiful Day](https://open.spotify.com/track/1I9w0uIQXixRqiF45EgbCE)** by **finn sigil** *(Lynda Resnick)*
+🎤 **[C.R.E.A.M.](https://open.spotify.com/track/26hgqtaP8gOrVLAZ7KdeF9)** by **KOGAIHU, Nosgov** *(C.R.E.A.M.)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 15:52:17Z UTC
+🕐 Last updated: 2025-12-12 16:16:12Z UTC
 <!-- SPOTIFY-END -->
