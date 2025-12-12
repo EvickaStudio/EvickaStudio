@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d38f6aa32857451380fb4b43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
-*by* **mint**
-*Album:* help me
+**🎵 [Around the World](https://open.spotify.com/track/6sXfBXfdsoKigqauMFTojD)**
+*by* **503scoob, Bandiicam, lavendr**
+*Album:* Around the World
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 2:48
+    1:55 • 2:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Flow](https://open.spotify.com/track/42W79qD1r5BAMxjDjClxHx)** by **c4rl** *(Flow)*
-🎤 **[lookin at da stars](https://open.spotify.com/track/1feeAE28inmy1ZOtQsRlCh)** by **Caspr** *(lookin at da stars)*
-🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
-🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
-🎤 **[i dont wanna leave your love behind](https://open.spotify.com/track/5NqVxotA9spYr8wsCyUpSq)** by **marchpane, PAXNKOXD** *(Rememoration)*
+🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
+🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
+🎤 **[grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)** by **pink luu, nami, cxpyyy, luu** *(grabbesuch)*
+🎤 **[CUTTING IN DA CLUB](https://open.spotify.com/track/1IguDQYGaPiuia6EsVndlp)** by **Gutzxx, disoc8** *(CUTTING IN DA CLUB)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 22:34:23Z UTC
+🕐 Last updated: 2025-12-12 22:50:00Z UTC
 <!-- SPOTIFY-END -->
