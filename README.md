@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27343c0eeea0423e93b4ff6717e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273057d046c6dfb348e0215567c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dreams come true 2019](https://open.spotify.com/track/6C5hfGaJO3LsHZi8sJat7H)**
-*by* **Punkinloveee**
-*Album:* dreams come true 2019
+**🎵 [all 2s](https://open.spotify.com/track/4LFGa8tTHa3pZnLLTAHK3p)**
+*by* **2hollis**
+*Album:* 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
+    <rect width="30" height="4" fill="#1db954" rx="2"/>
+    <circle cx="30" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 1:45
+    0:17 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[HKWD END OF SUMMER CYPHER #2K23](https://open.spotify.com/track/79XMRaALe18syvlkgJ33ic)** by **HELLO KITTY WORLD WIDE DIVISION #HKWD, 0megafactor, 1laulau, 03osc, nighteye, LoMo, 1hydr4, Suffokation115** *(HKWD END OF SUMMER CYPHER #2K23)*
-🎤 **[Starfall](https://open.spotify.com/track/4XRhCdKeF1TpDR4mX5DVvx)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Inferno](https://open.spotify.com/track/31O8ZZCnYkHonBL00glsTT)** by **Bladee, Yung Lean** *(Inferno)*
+🎤 **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)*
+🎤 **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[▀▄ ◣﹏◢ ▀▄ sxoawlwenexiosls.com (og)](https://open.spotify.com/track/6dLaogon6gyQCgHnPe3UYL)** by **weirdo girl** *(▀▄ ◣﹏◢ ▀▄ sxoawlwenexiosls.com (og))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 15:37:14Z UTC
+🕐 Last updated: 2025-12-12 15:52:17Z UTC
 <!-- SPOTIFY-END -->
