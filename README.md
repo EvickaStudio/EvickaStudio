@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a011354e9d50476a59b00f45" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1f32e8767323bf184509864" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [honestly](https://open.spotify.com/track/4LXwMy3WEvpU9MjmUpI7OV)**
-*by* **angelicxmei**
-*Album:* honestly
+**🎵 [I RUN MY HANDS THRU IT](https://open.spotify.com/track/7jkdIwcprpMI1K3of1aLj0)**
+*by* **daine**
+*Album:* MAKE IT RIGHT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="2" height="4" fill="#1db954" rx="2"/>
+    <circle cx="2" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 2:07
+    0:01 • 2:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, snor** *(dnt fall asleep)*
-🎤 **[hirnmarmelade](https://open.spotify.com/track/68QNws5tdDbcr6hGjtbbhj)** by **pink luu** *(0800-111-0-111)*
-🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
-🎤 **[burning desire <3](https://open.spotify.com/track/2Htw2wEVQhzJhO5iRDTwkG)** by **dollreal, 9surgery, MXRCELINE** *(burning desire <3)*
-🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
+🎤 **[plastic surgeon](https://open.spotify.com/track/1iiqK5x6LdcOSf4zhUOn4O)** by **Gutzxx, skellingt0nn** *(plastic surgeon)*
+🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[zombies in designer](https://open.spotify.com/track/5LdmPs6SJnjzPCvz0K931i)** by **pink luu, cy4ne, 10n35t4r** *(zombies in designer)*
+🎤 **[i know!!](https://open.spotify.com/track/4gkKOpa7XQ8cIkVSUcdjnI)** by **ilymeow** *(i know!!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 23:13:13Z UTC
+🕐 Last updated: 2025-12-12 23:30:46Z UTC
 <!-- SPOTIFY-END -->
