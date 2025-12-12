@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738f9a34b9d423c2c814a10b09" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad9153a775a18ef36aa3eb17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [So Cool](https://open.spotify.com/track/6GUfBfgoqP699jvB2BM4Eu)**
-*by* **DJmegan23**
-*Album:* Dopamine Machine 4
+**🎵 [Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)**
+*by* **Bladee**
+*Album:* Ingen hör
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="55" height="4" fill="#1db954" rx="2"/>
-    <circle cx="55" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 1:15
+    1:25 • 2:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
-🎤 **[NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)** by **sighsare** *(NOTHIN TO SHOW)*
-🎤 **[Your Empty Eyes](https://open.spotify.com/track/5FuEoob4VZiLaiTlKynMMd)** by **Thrilliam Angels, Mori Mori, Crimson Chaos** *(This Sunrise Is Brutal)*
-🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Dragonborn](https://open.spotify.com/track/1OQDe01vuQcNT8rSnQwlxv)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
+🎤 **[slumberland](https://open.spotify.com/track/0T2c5AkH97AR6bw2onC9Un)** by **cleo walks through glass** *(slumberland)*
+🎤 **[✵ ✵ ✵](https://open.spotify.com/track/0l3jjOetD4GhI7ywcM1zDP)** by **weirdo girl** *(✵ ✵ ✵)*
+🎤 **[safety](https://open.spotify.com/track/3342r99l4qg0HeVAAJ2Mya)** by **2hollis** *(White Tiger)*
+🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[farAway](https://open.spotify.com/track/4DSbB0DXcLoYcqWombnu2o)** by **veil** *(farAway)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 14:32:29Z UTC
+🕐 Last updated: 2025-12-12 14:49:09Z UTC
 <!-- SPOTIFY-END -->
