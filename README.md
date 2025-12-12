@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372fe26fc3fba9088d5094d37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27343c0eeea0423e93b4ff6717e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)**
-*by* **Caspr, oaf1**
-*Album:* i can't find oaf1
+**🎵 [dreams come true 2019](https://open.spotify.com/track/6C5hfGaJO3LsHZi8sJat7H)**
+*by* **Punkinloveee**
+*Album:* dreams come true 2019
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="258" height="4" fill="#1db954" rx="2"/>
-    <circle cx="258" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:07 • 3:37
+    0:04 • 1:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
-🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
-🎤 **[CHEWING GUM](https://open.spotify.com/track/7LsX85eRBRyxJ5LP6K7JvR)** by **Focus Group, Aidan Swank, bleachblonde** *(STEPPED IN A PUDDLE NOW MY SOCKS R WET "FG004")*
-🎤 **[bladee + ecco2k (bleach + my circle)](https://open.spotify.com/track/592isSoxvYLbfFtPc8YvVN)** by **Flawle$$ Vibe** *(bladee + ecco2k (bleach + my circle))*
-🎤 **[cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)** by **2hollis** *(whiplash / cliche)*
+🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[HKWD END OF SUMMER CYPHER #2K23](https://open.spotify.com/track/79XMRaALe18syvlkgJ33ic)** by **HELLO KITTY WORLD WIDE DIVISION #HKWD, 0megafactor, 1laulau, 03osc, nighteye, LoMo, 1hydr4, Suffokation115** *(HKWD END OF SUMMER CYPHER #2K23)*
+🎤 **[Starfall](https://open.spotify.com/track/4XRhCdKeF1TpDR4mX5DVvx)** by **SALEM** *(Fires In Heaven)*
 
 
 
@@ -129,8 +129,8 @@
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
+🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 15:15:03Z UTC
+🕐 Last updated: 2025-12-12 15:37:14Z UTC
 <!-- SPOTIFY-END -->
