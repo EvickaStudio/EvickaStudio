@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739d8858b611d0ca8ffb52fa6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)**
+*by* **meat computer**
+*Album:* without you
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="199" height="4" fill="#1db954" rx="2"/>
+    <circle cx="199" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:17 • 1:55
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Crashout Rehab Freestyle](https://open.spotify.com/track/7oLBPS4WEFj3HosNBeTIYF)** by **nano, meat computer** *(Everybody's Album)*
-🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
-🎤 **[Is there a place in heaven for boys like me?](https://open.spotify.com/track/0f4NbY8uXAIdxsEzJI2Waj)** by **Varg²™, Bladee, Skrillex** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
-🎤 **[Sidelinelyfe Interlude #PefectMartyrS](https://open.spotify.com/track/1JFS8gBy7exJ0MRU0IV4jd)** by **DJmegan23, abdulnour** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[STOCKHOLMSVECKAN](https://open.spotify.com/track/5zzYDgJ2dmnGAMbM9IlqB8)** by **Dj Billybool, swedm®, Eurohead** *(DYR)*
+🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-12 06:21:48Z UTC
+🕐 Last updated: 2025-12-12 06:53:34Z UTC
 <!-- SPOTIFY-END -->
