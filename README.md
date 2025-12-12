@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736796cca081567c90e73f24d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735fe78e05044b8d00f03f4e2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [taschentücher](https://open.spotify.com/track/2jiRplIpJ6t42e9qcv84oF)**
-*by* **pink luu, SSJ Twiin**
-*Album:* taschentücher
+**🎵 [Pink Sheets!](https://open.spotify.com/track/5UQYNEX8cYhGqDSv2iOYBB)**
+*by* **LooveX**
+*Album:* rather be alone than with bad company
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="255" height="4" fill="#1db954" rx="2"/>
+    <circle cx="255" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 1:32
+    1:58 • 2:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
-🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
-🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
-🎤 **[misconstrued](https://open.spotify.com/track/4SwTiskWn91xDw0GedbYj5)** by **cholorofilm, skellington** *(misconstrued)*
-🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
+🎤 **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)*
+🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
+🎤 **[ur fxcking crazy <3](https://open.spotify.com/track/35D94ilGZCz3chDsfQoSIk)** by **2504, Snave, ang3lx** *(ur fxcking crazy <3)*
+🎤 **[alprazolam](https://open.spotify.com/track/75NAnVlrR9ynXq6fX7LMxZ)** by **pink luu, Ellie Mic** *(alprazolam)*
+🎤 **[ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)** by **disoc8** *(ur the one i want <3)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 20:14:43Z UTC
+🕐 Last updated: 2025-12-12 20:35:50Z UTC
 <!-- SPOTIFY-END -->
