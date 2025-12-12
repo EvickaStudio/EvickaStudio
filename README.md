@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27390c0dda6c4cafa7adcb57d04" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738f9a34b9d423c2c814a10b09" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [vis respekt](https://open.spotify.com/track/2CZ9TDSylFwDojim2Q3rsc)**
-*by* **legobygger123**
-*Album:* vis respekt
+**🎵 [So Cool](https://open.spotify.com/track/6GUfBfgoqP699jvB2BM4Eu)**
+*by* **DJmegan23**
+*Album:* Dopamine Machine 4
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="67" height="4" fill="#1db954" rx="2"/>
-    <circle cx="67" cy="2" r="6" fill="#1db954"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:27
+    0:13 • 1:15
 </span>
 </p>
 
@@ -116,19 +116,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[Faery](https://open.spotify.com/track/2OUjxVO2SO2V5DtaTCiYUt)** by **Peake** *(Withered)*
-🎤 **[Evil World](https://open.spotify.com/track/03Q35hLOZxZfqierYYtHSL)** by **Bladee, Yung Lean** *(Evil World)*
-🎤 **[rotten](https://open.spotify.com/track/1ZcHq28lmqdckiwGwuGMMp)** by **jxlyn** *(rotten)*
-🎤 **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)*
-🎤 **[DNA REPAIR FREQUENCY "FG006"](https://open.spotify.com/track/3REWG291IoPX6EiSWV533w)** by **Focus Group, bleachblonde, w3bcam, Aidan Swank** *(FG COMPILATION "2018-2020")*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)** by **sighsare** *(NOTHIN TO SHOW)*
+🎤 **[Your Empty Eyes](https://open.spotify.com/track/5FuEoob4VZiLaiTlKynMMd)** by **Thrilliam Angels, Mori Mori, Crimson Chaos** *(This Sunrise Is Brutal)*
+🎤 **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)*
+🎤 **[Dragonborn](https://open.spotify.com/track/1OQDe01vuQcNT8rSnQwlxv)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 14:13:55Z UTC
+🕐 Last updated: 2025-12-12 14:32:29Z UTC
 <!-- SPOTIFY-END -->
