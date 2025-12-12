@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27330579c8b71ae9181381c0ac8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Sullen Passage](https://open.spotify.com/track/1uhRtTpMX37u195FCRjDaZ)**
+*by* **M83**
+*Album:* Resurrection (Original Soundtrack)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:00 • 3:26
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
-🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
-🎤 **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)*
-🎤 **[Ghost](https://open.spotify.com/track/4JG8MhCVmEM458N4Xl7VMT)** by **Machine Girl** *(Wlfgrl)*
-🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
+🎤 **[GHOSTED (+pink luu)](https://open.spotify.com/track/3JNQRrXP0MyRZ8cnO6xgrL)** by **vee4archive, Vee4r, pink luu** *(GHOSTED (+pink luu))*
+🎤 **[Black Jeep](https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao)** by **fakemink, Fimiguerrero** *(Black Jeep)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
+🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
 
 
 
@@ -120,9 +139,9 @@
 🥇 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
 🥈 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 🥉 [**dancefloor!**](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)
-🏅 [**take a look**](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
+🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 13:09:30Z UTC
+🕐 Last updated: 2025-12-12 13:46:22Z UTC
 <!-- SPOTIFY-END -->
