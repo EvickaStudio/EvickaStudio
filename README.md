@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731cffddef489d9797b4c5442d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736796cca081567c90e73f24d7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)**
-*by* **dollreal, z4y4, p6inkillr**
-*Album:* party at the graveyard
+**🎵 [taschentücher](https://open.spotify.com/track/2jiRplIpJ6t42e9qcv84oF)**
+*by* **pink luu, SSJ Twiin**
+*Album:* taschentücher
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="112" height="4" fill="#1db954" rx="2"/>
-    <circle cx="112" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 3:08
+    0:20 • 1:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[model](https://open.spotify.com/track/2vAYNcoPhEmc1LkeKljEg7)** by **pink luu, kmrnxo** *(model)*
-🎤 **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)*
-🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
-🎤 **[munchausen syndrome](https://open.spotify.com/track/63NVIyOuCuoCGeGAj7mvoH)** by **luutwo, 4rde** *(munchausen syndrome)*
+🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
+🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
+🎤 **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)*
+🎤 **[misconstrued](https://open.spotify.com/track/4SwTiskWn91xDw0GedbYj5)** by **cholorofilm, skellington** *(misconstrued)*
+🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
 
 
 
@@ -138,10 +138,10 @@
 
 🥇 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
 🥈 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
-🥉 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
-🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
+🥉 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
+🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 19:48:00Z UTC
+🕐 Last updated: 2025-12-12 20:14:43Z UTC
 <!-- SPOTIFY-END -->
