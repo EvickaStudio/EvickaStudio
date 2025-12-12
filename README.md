@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Crashout Rehab Freestyle](https://open.spotify.com/track/7oLBPS4WEFj3HosNBeTIYF)** by **nano, meat computer** *(Everybody's Album)*
+🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
 🎤 **[Is there a place in heaven for boys like me?](https://open.spotify.com/track/0f4NbY8uXAIdxsEzJI2Waj)** by **Varg²™, Bladee, Skrillex** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
 🎤 **[Sidelinelyfe Interlude #PefectMartyrS](https://open.spotify.com/track/1JFS8gBy7exJ0MRU0IV4jd)** by **DJmegan23, abdulnour** *(Thou Art All Lost And Forgotten (DELUXE))*
 🎤 **[STOCKHOLMSVECKAN](https://open.spotify.com/track/5zzYDgJ2dmnGAMbM9IlqB8)** by **Dj Billybool, swedm®, Eurohead** *(DYR)*
-🎤 **[Revenge of the Mouse Diva](https://open.spotify.com/track/2OMbjYNsy18rcOMkYp51HV)** by **The Hellp** *(Riviera)*
-🎤 **[Bloodveil / Stillborn](https://open.spotify.com/track/7lsxrbHKYBNcRW53M9RQ0U)** by **Bladee, Ecco2k** *(Eversince)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 
 
-🕐 Last updated: 2025-12-12 05:20:09Z UTC
+🕐 Last updated: 2025-12-12 05:43:09Z UTC
 <!-- SPOTIFY-END -->
