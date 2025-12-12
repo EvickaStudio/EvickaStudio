@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad9153a775a18ef36aa3eb17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27372fe26fc3fba9088d5094d37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)**
-*by* **Bladee**
-*Album:* Ingen hör
+**🎵 [i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)**
+*by* **Caspr, oaf1**
+*Album:* i can't find oaf1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="146" height="4" fill="#1db954" rx="2"/>
-    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+    <rect width="258" height="4" fill="#1db954" rx="2"/>
+    <circle cx="258" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:54
+    3:07 • 3:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[slumberland](https://open.spotify.com/track/0T2c5AkH97AR6bw2onC9Un)** by **cleo walks through glass** *(slumberland)*
-🎤 **[✵ ✵ ✵](https://open.spotify.com/track/0l3jjOetD4GhI7ywcM1zDP)** by **weirdo girl** *(✵ ✵ ✵)*
-🎤 **[safety](https://open.spotify.com/track/3342r99l4qg0HeVAAJ2Mya)** by **2hollis** *(White Tiger)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[farAway](https://open.spotify.com/track/4DSbB0DXcLoYcqWombnu2o)** by **veil** *(farAway)*
+🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
+🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
+🎤 **[CHEWING GUM](https://open.spotify.com/track/7LsX85eRBRyxJ5LP6K7JvR)** by **Focus Group, Aidan Swank, bleachblonde** *(STEPPED IN A PUDDLE NOW MY SOCKS R WET "FG004")*
+🎤 **[bladee + ecco2k (bleach + my circle)](https://open.spotify.com/track/592isSoxvYLbfFtPc8YvVN)** by **Flawle$$ Vibe** *(bladee + ecco2k (bleach + my circle))*
+🎤 **[cliche](https://open.spotify.com/track/2oRNyf4qlAzGz6LljMcDJp)** by **2hollis** *(whiplash / cliche)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-12 14:49:09Z UTC
+🕐 Last updated: 2025-12-12 15:15:03Z UTC
 <!-- SPOTIFY-END -->
