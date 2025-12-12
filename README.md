@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c9582d5cc7e40d8f4c21b13f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [serotonin](https://open.spotify.com/track/1oiFoXl3mjQceUO8ExEXX3)**
+*by* **Luvsick2k, cholorofilm**
+*Album:* serotonin
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:05 • 1:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)** by **SILICONE VALLEY** *(AA Chrome)*
-🎤 **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Country Road](https://open.spotify.com/track/66ebkOa8Yfca90XPfCIQkS)** by **The Hellp** *(Riviera)*
-🎤 **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)*
+🎤 **[Clublights](https://open.spotify.com/track/2areJLHhxRJZT0xLvwH8r5)** by **BBlair, ghxstless** *(Clublights)*
+🎤 **[chili con carne](https://open.spotify.com/track/2211ZXHtXNBSlHxcnQA8sH)** by **luu** *(chili con carne)*
+🎤 **[ICK (I Can't Kiss)](https://open.spotify.com/track/6t1HnjHpgm3C7yRd2QD2gP)** by **pink luu** *(ICK (I Can't Kiss))*
+🎤 **[THROUGH THE SPIRE](https://open.spotify.com/track/2udIqhZZAo7OnzbfsdeEWL)** by **p6inkillr** *(THROUGH THE SPIRE)*
+🎤 **[do addicts make it to heaven?](https://open.spotify.com/track/6SFTmpqVmYBtRC0NetFqYg)** by **disoc8, wintr** *(do addicts make it to heaven?)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 18:51:30Z UTC
+🕐 Last updated: 2025-12-12 19:11:58Z UTC
 <!-- SPOTIFY-END -->
