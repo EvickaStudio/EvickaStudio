@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fb3d102213a95301dbdc5570" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)**
-*by* **RudeClub**
-*Album:* invisible
+**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
+*by* **mint**
+*Album:* help me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 2:25
+    0:20 • 2:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[you'll just say it's fine](https://open.spotify.com/track/6dTv6gPpkd1jq4inZDQ2pf)** by **503scoob, M0llyRoxx, misalive** *(you'll just say it's fine)*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)*
+🎤 **[Flow](https://open.spotify.com/track/42W79qD1r5BAMxjDjClxHx)** by **c4rl** *(Flow)*
+🎤 **[lookin at da stars](https://open.spotify.com/track/1feeAE28inmy1ZOtQsRlCh)** by **Caspr** *(lookin at da stars)*
+🎤 **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)*
+🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
+🎤 **[i dont wanna leave your love behind](https://open.spotify.com/track/5NqVxotA9spYr8wsCyUpSq)** by **marchpane, PAXNKOXD** *(Rememoration)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 22:13:06Z UTC
+🕐 Last updated: 2025-12-12 22:34:23Z UTC
 <!-- SPOTIFY-END -->
