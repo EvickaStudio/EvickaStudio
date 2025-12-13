@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c546db8d566b17db5427bd99" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfb479f2ba6f378eeca7eced" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I <3 DRUGS THAT KILL](https://open.spotify.com/track/23GA7huu1HSCdSajoOblat)**
-*by* **disoc8, Bandiicam**
-*Album:* I <3 DRUGS THAT KILL
+**🎵 [worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)**
+*by* **bliiiss**
+*Album:* worthit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="100" height="4" fill="#1db954" rx="2"/>
-    <circle cx="100" cy="2" r="6" fill="#1db954"/>
+    <rect width="119" height="4" fill="#1db954" rx="2"/>
+    <circle cx="119" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:31
+    1:00 • 2:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[counting the tiny stars in ur eyes](https://open.spotify.com/track/6D28Eammjc8nYxanroX331)** by **bliiiss** *(counting the tiny stars in ur eyes)*
-🎤 **[ALLEINE SEIN](https://open.spotify.com/track/1HkCM4ILSkdHppAkjFLStI)** by **mikeycyrus** *(CYRUS)*
-🎤 **[reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)** by **dollreal** *(reckless)*
-🎤 **[take a pic](https://open.spotify.com/track/4rLsGvEhsnIKjsAMwAhgVm)** by **xandera, iamsodead, lavendr** *(take a pic)*
-🎤 **[sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)** by **luu** *(irgendwo im schatten)*
+🎤 **[one cut of the dead X_X](https://open.spotify.com/track/5v2TGimsc01egxDdmhn7wN)** by **cholorofilm, ihylunar** *(one cut of the dead X_X)*
+🎤 **[adore u](https://open.spotify.com/track/3aQUBuB8W7oTfRW2eyxbic)** by **xandera** *(adore u)*
+🎤 **[foolish](https://open.spotify.com/track/3xUJ0JJIzvwYHDAlBX1iUp)** by **Senses** *(idle state)*
+🎤 **[bestgore.com](https://open.spotify.com/track/42RnBlBOQpL78Qr0vn1Y84)** by **luu, Nomark** *(bestgore.com)*
+🎤 **[PULLI ARMANI](https://open.spotify.com/track/2axw8ShXkqvJvUDg5tgaeX)** by **mikeycyrus, Kroka Koka** *(PULLI ARMANI)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 04:03:12Z UTC
+🕐 Last updated: 2025-12-13 04:38:57Z UTC
 <!-- SPOTIFY-END -->
