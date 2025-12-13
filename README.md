@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad9153a775a18ef36aa3eb17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)**
-*by* **Bladee**
-*Album:* Ingen hör
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:32 • 2:54
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
-🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
-🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
+🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
 🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 09:30:52Z UTC
+🕐 Last updated: 2025-12-13 09:47:49Z UTC
 <!-- SPOTIFY-END -->
