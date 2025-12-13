@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732d5072f0cf099815d188cd2e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b47434031b6bead181f437b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)**
-*by* **Dave Plugs**
-*Album:* SAG WIESO EP
+**🎵 [ich fall auf](https://open.spotify.com/track/1nzDS8uDkwp8sHEC4qfR5R)**
+*by* **Pink Katana**
+*Album:* ich will nie wieder warten auf etwas das nicht kommt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="221" height="4" fill="#1db954" rx="2"/>
+    <circle cx="221" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:08 • 1:44
+    1:25 • 1:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[SILICOn (SEELENGUT)](https://open.spotify.com/track/0bVz1DmQs7aaHTxeOLqmZT)** by **agelast222, gard** *(SILICOn (SEELENGUT))*
+🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
 🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
 🎤 **[stich](https://open.spotify.com/track/77Z2XSV3JjCV6iZpcSjRJp)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
-🎤 **[2001](https://open.spotify.com/track/6KLHNDjSCeFwStilmuK4nf)** by **katowice** *(katowice pt. 4)*
-🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[Herz Wie Ein Stein](https://open.spotify.com/track/3dsGcTXsj4ll7kNqQsibn7)** by **Lil Soda Boi, Sin Davis** *(Herz Wie Ein Stein)*
 
 
 
@@ -128,8 +128,8 @@
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 17:40:17Z UTC
+🕐 Last updated: 2025-12-13 17:47:46Z UTC
 <!-- SPOTIFY-END -->
