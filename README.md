@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735d42c1fa054a5a98f69a7ebe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736138153f00f9378f1d112caf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Easy](https://open.spotify.com/track/0r1kH7SIkkPP9W7mUknObF)**
-*by* **CRO**
-*Album:* Raop
+**🎵 [Ättestupa](https://open.spotify.com/track/0Q18CWf1Ml4J3ZnxovpuM4)**
+*by* **Holograms**
+*Album:* Forever
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="285" height="4" fill="#1db954" rx="2"/>
-    <circle cx="285" cy="2" r="6" fill="#1db954"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 2:52
+    3:10 • 3:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by **Blythe Star** *(If I Give You My Heart, Can I Trust You With It?)*
+🎤 **[nothing last 4ever](https://open.spotify.com/track/1wzCEEvNOyAxzgifct7SQj)** by **Rebzyyx, syris** *(nothing last 4ever)*
+🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
 🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
 🎤 **[Mr. Forgettable](https://open.spotify.com/track/3lJD5BzSARTxNj1OYRyraX)** by **David Kushner** *(Footprints I Found)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl)** by **Rainbow Kitten Surprise** *(How to: Friend, Love, Freefall)*
-🎤 **[Left](https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi)** by **sign crushes motorist** *(i'll be okay)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 15:30:11Z UTC
+🕐 Last updated: 2025-12-13 15:41:27Z UTC
 <!-- SPOTIFY-END -->
