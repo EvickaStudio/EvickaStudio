@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731c2c19a5a47ec89f9ccbf09f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273863a8ef358ed3c0e25e4486c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)**
-*by* **Ripsquad Archive**
-*Album:* waitt2Rs
+**🎵 [Invisible](https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2)**
+*by* **Yung Sherman, Uli K, Bladee**
+*Album:* Innocence v2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="117" height="4" fill="#1db954" rx="2"/>
-    <circle cx="117" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 3:03
+    0:45 • 2:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)*
-🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
-🎤 **[My Tears Are Becoming a Sea](https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f)** by **M83** *(Hurry up, We're Dreaming)*
-🎤 **[Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)** by **Kanye West** *(Graduation)*
+🎤 **[Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102)](https://open.spotify.com/track/1BXzcQIefsxu65hENcPA6k)** by **102 Boyz, The Cratez, Chapo102, Skoob102, Stacks102** *(Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102))*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[LIGHTS OFF](https://open.spotify.com/track/20lhNppZrQq2Nz6S3nJiiT)** by **Bandiicam** *(LIGHTS OFF)*
+🎤 **[NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)** by **sighsare** *(NOTHIN TO SHOW)*
+🎤 **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)*
 
 
 
@@ -129,8 +129,8 @@
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 14:31:43Z UTC
+🕐 Last updated: 2025-12-13 14:48:27Z UTC
 <!-- SPOTIFY-END -->
