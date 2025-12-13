@@ -91,44 +91,25 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f34a012b854ac55502a92e83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)**
-*by* **S1RENA**
-*Album:* NEUANFANG
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:43
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)*
+🎤 **[Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK)** by **Mother Mother** *(O My Heart)*
+🎤 **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
 🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
-🎤 **[Psychological Warfare](https://open.spotify.com/track/4TG6zBVoGuNr91qoty0dek)** by **uusymon** *(Arcadia)*
-🎤 **[Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)** by **Lukas, Der Rapper, Gomme-Hymne** *(Wenn Der Gommemode Angeht!)*
-🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
-🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 
@@ -143,5 +124,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 10:49:13Z UTC
+🕐 Last updated: 2025-12-13 11:10:33Z UTC
 <!-- SPOTIFY-END -->
