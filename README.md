@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273686fe147080195081147eaaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736803fd42234c6e133cd170e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)**
-*by* **blombi19, aimée**
-*Album:* sternenkind
+**🎵 [attachment issues](https://open.spotify.com/track/14jDw43krGvfuChI1Zqt1d)**
+*by* **dollreal, 9surgery**
+*Album:* attachment issues
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
+    <rect width="137" height="4" fill="#1db954" rx="2"/>
+    <circle cx="137" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:38 • 3:42
+    0:58 • 2:07
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[fireflies](https://open.spotify.com/track/1xKuZpQXYRHaXEUbMvkfjX)** by **Senses, mint** *(fairies have dreams too)*
-🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
-🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu** *(1234)*
-🎤 **[Useful.Mp3](https://open.spotify.com/track/27uowdUPkHCfocRf3UTIPi)** by **flywoah** *(Useful.Mp3)*
-🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
+🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
+🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[Rio Filter](https://open.spotify.com/track/2MGidUVwki5phVBpkCYsUc)** by **Clarry Berry** *(Rio Filter)*
+🎤 **[BERLIN EX](https://open.spotify.com/track/3lGeM5np5HlQkiw5z7ptxW)** by **mikeycyrus** *(BERLIN EX)*
+🎤 **[victim](https://open.spotify.com/track/4qfGcjrg4MW3CYy5LU9RTn)** by **Senses** *(victim)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 01:00:59Z UTC
+🕐 Last updated: 2025-12-13 02:51:04Z UTC
 <!-- SPOTIFY-END -->
