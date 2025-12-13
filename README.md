@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b87394f2f01a5d9d85b09678" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a04cea5c54f2a1b99f727b2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)**
-*by* **Valexus, Culcha Candela**
-*Album:* WILDES DING
+**🎵 [burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)**
+*by* **lustr**
+*Album:* burnt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="5" height="4" fill="#1db954" rx="2"/>
+    <circle cx="5" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:16
+    0:02 • 2:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))*
+🎤 **[It's a Dream - Infused mix](https://open.spotify.com/track/0KNR7j4Su86TZ6RNEtomv0)** by **DJ Panda** *(It's a Dream)*
+🎤 **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)*
 🎤 **[Various Types Of Ads](https://open.spotify.com/track/79VIJ0S4PAKXuvKpmfsBRD)** by **Rory in early 20s** *(Various Types Of Ads)*
 🎤 **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)*
-🎤 **[rockstarshawty.wav](https://open.spotify.com/track/6q3XlySLLwdlknfOmlCJ7m)** by **03osc** *(OSCWRLD333)*
-🎤 **[opiate](https://open.spotify.com/track/3ZuX1bvkFT6BlHhnrlIwMV)** by **DANZINGER 99** *(opiate)*
-🎤 **[Places - Lo-Fi Version](https://open.spotify.com/track/1ov3E8UKGTx40YAdoF9ZWf)** by **Yoyle Cake** *(Battle for BFDI (Original Soundtrack))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 13:35:52Z UTC
+🕐 Last updated: 2025-12-13 13:48:46Z UTC
 <!-- SPOTIFY-END -->
