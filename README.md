@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27329ed24a9129508f6a27bde4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273686fe147080195081147eaaa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)**
-*by* **luu, iwannabemissed**
-*Album:* schnuffel
+**🎵 [sternenkind](https://open.spotify.com/track/2330VEaaVJ6nXlWu15eahn)**
+*by* **blombi19, aimée**
+*Album:* sternenkind
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 1:43
+    3:38 • 3:42
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sacrifice](https://open.spotify.com/track/4uuGIScFJTYajxKU2oE6pS)** by **pink luu, Vee4r** *(sacrifice)*
-🎤 **[MAKE IT RIGHT](https://open.spotify.com/track/2yXyDFCnB6qcAmMZA2HfEl)** by **daine** *(MAKE IT RIGHT)*
-🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
-🎤 **[Incurable](https://open.spotify.com/track/01YFaEXdgUGg86c4IkcFF2)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[COUNTERSTRIKE - SPED UP](https://open.spotify.com/track/0qH6KYHlAh4NxMvy8t09QP)** by **fwks** *(COUNTERSTRIKE)*
+🎤 **[fireflies](https://open.spotify.com/track/1xKuZpQXYRHaXEUbMvkfjX)** by **Senses, mint** *(fairies have dreams too)*
+🎤 **[crashout](https://open.spotify.com/track/6xlmDQ8xvstJc9mg8yxAS9)** by **RudeClub, Angst, lucywav** *(crashout)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu** *(1234)*
+🎤 **[Useful.Mp3](https://open.spotify.com/track/27uowdUPkHCfocRf3UTIPi)** by **flywoah** *(Useful.Mp3)*
+🎤 **[kein respekt](https://open.spotify.com/track/5MDyrP1Ma7TSRrV4CgWChf)** by **5v** *(kein respekt)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-12 23:47:59Z UTC
+🕐 Last updated: 2025-12-13 01:00:59Z UTC
 <!-- SPOTIFY-END -->
