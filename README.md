@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c2b7b22366ac64841baa83c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b77c5c2b98ec6da11a333247" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)**
-*by* **Lvl99magic**
-*Album:* T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑
+**🎵 [what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)**
+*by* **Senses**
+*Album:* what i want
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:34 • 3:01
+    0:04 • 2:03
 </span>
 </p>
 
@@ -116,19 +116,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[in my mind](https://open.spotify.com/track/3BlJbQhmGmLV5YvYLmXbQO)** by **Mezha** *(in my mind)*
-🎤 **[side by side](https://open.spotify.com/track/4Lusp8LGc523HCxg2ZIh1N)** by **Senses, mint** *(fairies have dreams too)*
-🎤 **[chili con carne](https://open.spotify.com/track/2211ZXHtXNBSlHxcnQA8sH)** by **luu** *(chili con carne)*
-🎤 **[KISS ME OR I WILL KMS](https://open.spotify.com/track/6O27CLVuBwhMgyTtnXh8WQ)** by **disoc8** *(KISS ME OR I WILL KMS)*
-🎤 **[worthit](https://open.spotify.com/track/06JW2jZCPyqQyeSfTUdw3B)** by **bliiiss** *(worthit)*
+🎤 **[FULL Hp](https://open.spotify.com/track/1hJ8y4MTGfxuhesKBke1UT)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[get a taste](https://open.spotify.com/track/3hXwlWfjPADePN28QRxOn8)** by **dollreal, Pearlblade** *(get a taste)*
+🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
+🎤 **[wish I didnt kno her ##biblemusic - slowed](https://open.spotify.com/track/2Xuo4HV3HbEqgPbgV9q8u3)** by **snor** *(sobrelis (slowed))*
+🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
-🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥉 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 04:52:06Z UTC
+🕐 Last updated: 2025-12-13 05:14:10Z UTC
 <!-- SPOTIFY-END -->
