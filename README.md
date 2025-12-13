@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee1c948f4c46baad6a5f6023" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Alle meine Freunde hassen Raves](https://open.spotify.com/track/5criF7tmixUzFvuURN4WTp)**
-*by* **kramsen, KRAMER**
-*Album:* Alle meine Freunde hassen Raves
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="163" height="4" fill="#1db954" rx="2"/>
-    <circle cx="163" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Psychic](https://open.spotify.com/track/2o0HBEggQAyXYcIk4ZRMvY)** by **WILDE** *(Psychic)*
-🎤 **[alles schon gesagt](https://open.spotify.com/track/0j0KxkGYg8L54a5fkjOGvP)** by **5v, sparr00w** *(alles schon gesagt)*
-🎤 **[Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj)** by **The Beach Boys** *(Greatest Hits)*
-🎤 **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)*
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)*
+🎤 **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)*
+🎤 **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)*
+🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
+🎤 **[Alle meine Freunde hassen Raves](https://open.spotify.com/track/1GcjMV7H8NMJYZTZnWDFe1)** by **kramsen, KRAMER** *(Alle meine Freunde hassen Raves)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 20:48:56Z UTC
+🕐 Last updated: 2025-12-13 21:10:56Z UTC
 <!-- SPOTIFY-END -->
