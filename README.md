@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ad9153a775a18ef36aa3eb17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)**
+*by* **Bladee**
+*Album:* Ingen hör
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="86" height="4" fill="#1db954" rx="2"/>
+    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:50 • 2:54
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
+🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
 🎤 **[titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
-🎤 **[take your breath](https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ)** by **RudeClub** *(rudeclub)*
-🎤 **[2cb](https://open.spotify.com/track/5JSFU5hWDTcd7eqpvCwYkV)** by **mikeycyrus** *(2cb)*
-🎤 **[2001 km/h](https://open.spotify.com/track/2Y95k3zkkFrIjrYV4XssmH)** by **dreamloader** *(2000 km/h)*
-🎤 **[TREif](https://open.spotify.com/track/2ZJLODyo8p98W9EA0mWNOc)** by **agelast222, gard** *(SOLAR TACTICS)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 08:54:28Z UTC
+🕐 Last updated: 2025-12-13 09:13:11Z UTC
 <!-- SPOTIFY-END -->
