@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d8c787c42605af47ae9c28bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734ddcc393a72bebe7cf9dcf8d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [so wie kenny](https://open.spotify.com/track/7nfx9tepmahpL6ISf7vCjY)**
-*by* **luu, mehlhaltig**
-*Album:* so wie kenny
+**🎵 [partying (2021)](https://open.spotify.com/track/70ehzgxZAcX13bRrvQk8CQ)**
+*by* **03osc, Tr1st4n, Rebzyyx**
+*Album:* partying (2021)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="168" height="4" fill="#1db954" rx="2"/>
+    <circle cx="168" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 1:33
+    1:25 • 2:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[shtwt slut - I'm so Fucked up Please Help Me](https://open.spotify.com/track/0JMj4LmO3FdBaZ7b1170fo)** by **kysmelo, 1th44n, kemoxoo** *(shtwt slut (I'm so fucked up please help me))*
-🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
-🎤 **[Robins](https://open.spotify.com/track/75024A8Vt0otJIUZXzYJ10)** by **hqwilli** *(Robins)*
-🎤 **[wir_s3lbst](https://open.spotify.com/track/1Fk25C1ezbpW5z0A7KIvry)** by **Pink Katana** *(wir_s3lbst)*
-🎤 **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)*
+🎤 **[Schiess mir ins ♡](https://open.spotify.com/track/02CcPvgcNH0MRrbbgsYzh8)** by **mehlhaltig** *(Schiess mir ins ♡)*
+🎤 **[znow zepsulem wszystko](https://open.spotify.com/track/6O0XnLRvaiafAYSghp2Dxu)** by **kets2eki** *(znow zepsulem wszystko)*
+🎤 **[HEROIN IDOL](https://open.spotify.com/track/7DvtcKvvy6UMSZFhvjpg8A)** by **wintr, AD0RKEN** *(#HEROINIDOL)*
+🎤 **[ARM VERLETZT (+PINK LUU)](https://open.spotify.com/track/7jk39Y6KK0sTK1zgUDReW0)** by **vee4archive, pink luu, Vee4r** *(ARM VERLETZT (+PINK LUU))*
+🎤 **[BETTER OFF A BASS SLXT - SPED UP](https://open.spotify.com/track/1y6gFjKWkkZYJwKtlr385Y)** by **lavendr, Bandiicam, Lil Witchy** *(BETTER OFF A BASS SLXT (SPED UP))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 18:17:30Z UTC
+🕐 Last updated: 2025-12-13 18:45:04Z UTC
 <!-- SPOTIFY-END -->
