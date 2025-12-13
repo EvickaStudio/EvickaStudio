@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ddcc393a72bebe7cf9dcf8d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c3848095c903b30f969d8fcf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [partying (2021)](https://open.spotify.com/track/70ehzgxZAcX13bRrvQk8CQ)**
-*by* **03osc, Tr1st4n, Rebzyyx**
-*Album:* partying (2021)
+**🎵 [haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)**
+*by* **ilymeow, Chicken Lover, 6778**
+*Album:* haunt me:33
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:31
+    1:52 • 2:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)*
+🎤 **[TIME LAPSE](https://open.spotify.com/track/2Q6gsELOFjiIrN3PAAHxCO)** by **p6inkillr** *(TIME LAPSE)*
+🎤 **[je l'aime cette fille <3](https://open.spotify.com/track/4Cdb3KlvymPLgzj67N5CA1)** by **Dbx** *(je l'aime cette fille <3)*
+🎤 **[partying (2021)](https://open.spotify.com/track/70ehzgxZAcX13bRrvQk8CQ)** by **03osc, Tr1st4n, Rebzyyx** *(partying (2021))*
 🎤 **[Schiess mir ins ♡](https://open.spotify.com/track/02CcPvgcNH0MRrbbgsYzh8)** by **mehlhaltig** *(Schiess mir ins ♡)*
-🎤 **[znow zepsulem wszystko](https://open.spotify.com/track/6O0XnLRvaiafAYSghp2Dxu)** by **kets2eki** *(znow zepsulem wszystko)*
-🎤 **[HEROIN IDOL](https://open.spotify.com/track/7DvtcKvvy6UMSZFhvjpg8A)** by **wintr, AD0RKEN** *(#HEROINIDOL)*
-🎤 **[ARM VERLETZT (+PINK LUU)](https://open.spotify.com/track/7jk39Y6KK0sTK1zgUDReW0)** by **vee4archive, pink luu, Vee4r** *(ARM VERLETZT (+PINK LUU))*
-🎤 **[BETTER OFF A BASS SLXT - SPED UP](https://open.spotify.com/track/1y6gFjKWkkZYJwKtlr385Y)** by **lavendr, Bandiicam, Lil Witchy** *(BETTER OFF A BASS SLXT (SPED UP))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 18:45:04Z UTC
+🕐 Last updated: 2025-12-13 18:54:23Z UTC
 <!-- SPOTIFY-END -->
