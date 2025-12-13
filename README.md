@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3848095c903b30f969d8fcf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732b282c277f0babcc8fb52756" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)**
-*by* **ilymeow, Chicken Lover, 6778**
-*Album:* haunt me:33
+**🎵 [pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)**
+*by* **uziellsiilver, agelast222**
+*Album:* pixel_blackberry (777) *ether*
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="28" height="4" fill="#1db954" rx="2"/>
+    <circle cx="28" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:52 • 2:23
+    0:13 • 2:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)*
-🎤 **[TIME LAPSE](https://open.spotify.com/track/2Q6gsELOFjiIrN3PAAHxCO)** by **p6inkillr** *(TIME LAPSE)*
-🎤 **[je l'aime cette fille <3](https://open.spotify.com/track/4Cdb3KlvymPLgzj67N5CA1)** by **Dbx** *(je l'aime cette fille <3)*
-🎤 **[partying (2021)](https://open.spotify.com/track/70ehzgxZAcX13bRrvQk8CQ)** by **03osc, Tr1st4n, Rebzyyx** *(partying (2021))*
-🎤 **[Schiess mir ins ♡](https://open.spotify.com/track/02CcPvgcNH0MRrbbgsYzh8)** by **mehlhaltig** *(Schiess mir ins ♡)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[I NEED YOUR LUV!!](https://open.spotify.com/track/38zl1nP37E0D6rYPtOO2zm)** by **lavendr** *(I NEED YOUR LUV!!)*
+🎤 **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[slumber party](https://open.spotify.com/track/1H7NEL9URY6VJmk2qHcvDO)** by **korpsebunny** *(slumber party)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 18:54:23Z UTC
+🕐 Last updated: 2025-12-13 19:09:32Z UTC
 <!-- SPOTIFY-END -->
