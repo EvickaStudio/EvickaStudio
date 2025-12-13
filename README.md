@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a9795111064459a32111484b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f34a012b854ac55502a92e83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)**
-*by* **stixz**
-*Album:* toxics1ut
+**🎵 [NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)**
+*by* **S1RENA**
+*Album:* NEUANFANG
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 2:30
+    0:43 • 2:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[Alonely](https://open.spotify.com/track/2mZ4GBrpCTiwPTwvNO7bDZ)** by **Rill, Young Mask** *(I Came From Nobody Likes Me To Nobody Like Me)*
-🎤 **[Hold Me Close](https://open.spotify.com/track/0XjWu0ld7kthYqgTqAmUjF)** by **Carter Tomorrow** *(Hold Me Close)*
-🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
-🎤 **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)*
+🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
+🎤 **[Psychological Warfare](https://open.spotify.com/track/4TG6zBVoGuNr91qoty0dek)** by **uusymon** *(Arcadia)*
+🎤 **[Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)** by **Lukas, Der Rapper, Gomme-Hymne** *(Wenn Der Gommemode Angeht!)*
+🎤 **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)*
+🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 10:34:09Z UTC
+🕐 Last updated: 2025-12-13 10:49:13Z UTC
 <!-- SPOTIFY-END -->
