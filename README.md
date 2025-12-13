@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736803fd42234c6e133cd170e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27319fb8d10650df410b18b2a4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [attachment issues](https://open.spotify.com/track/14jDw43krGvfuChI1Zqt1d)**
-*by* **dollreal, 9surgery**
-*Album:* attachment issues
+**🎵 [achterbahn](https://open.spotify.com/track/7A1yJsaNYK3bLKtUZCSMGl)**
+*by* **pink luu**
+*Album:* achterbahn
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="137" height="4" fill="#1db954" rx="2"/>
-    <circle cx="137" cy="2" r="6" fill="#1db954"/>
+    <rect width="198" height="4" fill="#1db954" rx="2"/>
+    <circle cx="198" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:07
+    1:08 • 1:43
 </span>
 </p>
 
@@ -116,19 +116,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[thots](https://open.spotify.com/track/2JhkF2qPpEXeyH192w9zVd)** by **pink luu, kmrnxo, NXTY** *(thots)*
-🎤 **[ADIDAs](https://open.spotify.com/track/2gZKcIInTr6R1far6pmOmK)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Rio Filter](https://open.spotify.com/track/2MGidUVwki5phVBpkCYsUc)** by **Clarry Berry** *(Rio Filter)*
-🎤 **[BERLIN EX](https://open.spotify.com/track/3lGeM5np5HlQkiw5z7ptxW)** by **mikeycyrus** *(BERLIN EX)*
-🎤 **[victim](https://open.spotify.com/track/4qfGcjrg4MW3CYy5LU9RTn)** by **Senses** *(victim)*
+🎤 **[FOR TONIGHT](https://open.spotify.com/track/6oYq2a22zOA2ov6Mb1YgwE)** by **marchpane** *(MUSIC)*
+🎤 **[HIGH DRUNK SH!T](https://open.spotify.com/track/5GbozKc2z9fGgc4ohdvbA6)** by **Scarly, Xaxanity** *(HIGH DRUNK SH!T)*
+🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
+🎤 **[#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa)** by **Senses** *(#4u)*
+🎤 **[psychosocial](https://open.spotify.com/track/5kuNgyD7CQeEmaTvK75gW4)** by **p6inkillr, dollreal, 9surgery** *(psychosocial)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥉 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥇 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥉 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 02:51:04Z UTC
+🕐 Last updated: 2025-12-13 03:44:57Z UTC
 <!-- SPOTIFY-END -->
