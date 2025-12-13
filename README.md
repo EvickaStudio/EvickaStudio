@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b77c5c2b98ec6da11a333247" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [what i want](https://open.spotify.com/track/0eLgHBbGckvPKNHPcXdzKb)**
-*by* **Senses**
-*Album:* what i want
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="11" height="4" fill="#1db954" rx="2"/>
-    <circle cx="11" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 2:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[FULL Hp](https://open.spotify.com/track/1hJ8y4MTGfxuhesKBke1UT)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[get a taste](https://open.spotify.com/track/3hXwlWfjPADePN28QRxOn8)** by **dollreal, Pearlblade** *(get a taste)*
-🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
-🎤 **[wish I didnt kno her ##biblemusic - slowed](https://open.spotify.com/track/2Xuo4HV3HbEqgPbgV9q8u3)** by **snor** *(sobrelis (slowed))*
-🎤 **[sperr mich ein](https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc)** by **luu** *(sperr mich ein)*
+🎤 **[take your breath](https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ)** by **RudeClub** *(rudeclub)*
+🎤 **[2cb](https://open.spotify.com/track/5JSFU5hWDTcd7eqpvCwYkV)** by **mikeycyrus** *(2cb)*
+🎤 **[2001 km/h](https://open.spotify.com/track/2Y95k3zkkFrIjrYV4XssmH)** by **dreamloader** *(2000 km/h)*
+🎤 **[TREif](https://open.spotify.com/track/2ZJLODyo8p98W9EA0mWNOc)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 05:14:10Z UTC
+🕐 Last updated: 2025-12-13 05:35:30Z UTC
 <!-- SPOTIFY-END -->
