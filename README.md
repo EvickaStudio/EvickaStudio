@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736ba1cffc9b2c5469503430b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c2c19a5a47ec89f9ccbf09f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs)**
-*by* **Kanye West**
-*Album:* Donda
+**🎵 [waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)**
+*by* **Ripsquad Archive**
+*Album:* waitt2Rs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="117" height="4" fill="#1db954" rx="2"/>
+    <circle cx="117" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:16 • 5:39
+    1:11 • 3:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)*
-🎤 **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)*
-🎤 **[kaputt](https://open.spotify.com/track/10oTMRWrupuon8SUnvp4C1)** by **5v** *(kaputt)*
-🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
-🎤 **[Milka](https://open.spotify.com/track/3iCGsnaeCv2ToZmHwYORsn)** by **Dead Dawg, Ion Miles, BHZ, Monk** *(Kiezromantik)*
+🎤 **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)*
+🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
+🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
+🎤 **[My Tears Are Becoming a Sea](https://open.spotify.com/track/08wnOyN1wyMaNrup3m353f)** by **M83** *(Hurry up, We're Dreaming)*
+🎤 **[Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)** by **Kanye West** *(Graduation)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-13 14:12:00Z UTC
+🕐 Last updated: 2025-12-13 14:31:43Z UTC
 <!-- SPOTIFY-END -->
