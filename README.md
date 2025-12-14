@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734e71c06b04c3298128bf2196" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386f8b7ae69137fea4479cbf3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [d00m](https://open.spotify.com/track/2HNi8TnzsmL4kGSEnyN0yK)**
-*by* **cdgplug, gard, Hotelgodlin**
-*Album:* bl00dletter Collection
+**🎵 [Griechischer Wein](https://open.spotify.com/track/2f8Hc0w7BpDtzwoa6BHKec)**
+*by* **Udo Jürgens**
+*Album:* Meine Lieder
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="21" height="4" fill="#1db954" rx="2"/>
-    <circle cx="21" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:08 • 1:55
+    3:41 • 4:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
+🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
+🎤 **[d00m](https://open.spotify.com/track/2HNi8TnzsmL4kGSEnyN0yK)** by **cdgplug, gard, Hotelgodlin** *(bl00dletter Collection)*
 🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
 🎤 **[Missing Pieces](https://open.spotify.com/track/4Y7kSEgDsV4U4iPfbPqJX5)** by **Flawed Mangoes** *(The Unwavering Hand)*
-🎤 **[ilomilo tekkno (sped up)](https://open.spotify.com/track/13JMGEaIAXzOndW8ETk7wC)** by **TEKKNO** *(ilomilo tekkno (sped up))*
-🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
-🎤 **[Dream Sweet in Sea Major](https://open.spotify.com/track/3RznzRnsl8mzP63l4AF2M7)** by **Miracle Musical** *(Hawaii: Part II)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 17:29:48Z UTC
+🕐 Last updated: 2025-12-14 17:41:29Z UTC
 <!-- SPOTIFY-END -->
