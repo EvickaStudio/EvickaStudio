@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730806583d8d40e50081f605c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)**
-*by* **sparr00w**
-*Album:* Nadja
+**🎵 [Hokus Pokus](https://open.spotify.com/track/05Q6npnVAJIrRrVcPna9nh)**
+*by* **Sadi, Palazzo**
+*Album:* 99
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 2:16
+    0:34 • 2:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[____, close to you.](https://open.spotify.com/track/1GtENjkZjVkdCutcgkkjai)** by **es.cher, ultra caro** *(Scattered sunlight, broken glass)*
-🎤 **[extra](https://open.spotify.com/track/3NHoB4TkjUpdFOp6qovYpA)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
-🎤 **[me n u](https://open.spotify.com/track/7vAwHqeceMUadUmAkA2GCF)** by **bliiiss** *(me n u)*
-🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
+🎤 **[wirwirwir](https://open.spotify.com/track/23PhKTl5NACt60B5AKNKcH)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[Flow](https://open.spotify.com/track/42W79qD1r5BAMxjDjClxHx)** by **c4rl** *(Flow)*
+🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
+🎤 **[Xtra](https://open.spotify.com/track/1Kl0IQeqmHtIq8dhup3i83)** by **Sadi, kittyyy, LAVENDER** *(99)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 11:47:49Z UTC
+🕐 Last updated: 2025-12-14 12:24:27Z UTC
 <!-- SPOTIFY-END -->
