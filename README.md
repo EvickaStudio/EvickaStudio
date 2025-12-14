@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b01a6dffde8c2d562af8af2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273906569877fb49820ab5821e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)**
-*by* **sparr00w**
-*Album:* 0201
+**🎵 [XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)**
+*by* **Sg Lily, Buffalobang, Eera**
+*Album:* XTC FINAL
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="168" height="4" fill="#1db954" rx="2"/>
+    <circle cx="168" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 2:47
+    1:18 • 2:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Stereo Love](https://open.spotify.com/track/0gBfLS4aqbrr1ZvVv8dqWB)** by **Edward Maya, Vika Jigulina** *(Stereo Love)*
-🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
-🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
-🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
+🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
+🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 07:47:46Z UTC
+🕐 Last updated: 2025-12-14 08:17:02Z UTC
 <!-- SPOTIFY-END -->
