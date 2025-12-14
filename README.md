@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a55bb08a89fadf41ec1a3c35" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5b5a2335e8ec7b55c311c83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)**
-*by* **RudeClub**
-*Album:* Haunted
+**🎵 [me n u](https://open.spotify.com/track/7vAwHqeceMUadUmAkA2GCF)**
+*by* **bliiiss**
+*Album:* me n u
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 1:43
+    1:57 • 2:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)*
+🎤 **[zu schön](https://open.spotify.com/track/77MQQCYNEfvewq95xjZXjW)** by **flowerboii** *(zu schön)*
+🎤 **[bitter](https://open.spotify.com/track/1TyBZkJBWoOD8737fKGzvp)** by **aidan** *(bitter)*
+🎤 **[Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)** by **RudeClub** *(Haunted)*
 🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
-🎤 **[just one more](https://open.spotify.com/track/5xCzC6KN8XjmCNuDbFvESK)** by **Drux** *(euphoria sex / just one more)*
-🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
-🎤 **[ily fr](https://open.spotify.com/track/0lGUTSnK5uyW3TLPwxdIV1)** by **bliiiss** *(ily fr)*
-🎤 **[Search for Home](https://open.spotify.com/track/4Z0sHEK1IguPk4YukSyFUp)** by **ESP** *(Promise)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 11:26:38Z UTC
+🕐 Last updated: 2025-12-14 11:36:10Z UTC
 <!-- SPOTIFY-END -->
