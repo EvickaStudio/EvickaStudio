@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a88c6c3a82fe3a1c66219bd4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734de4da55422167fcc47fba65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)**
-*by* **Lykke Li, Autoerotique**
-*Album:* Little Bit (feat. Autoerotique) [Remix]
+**🎵 [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)**
+*by* **Eyedress**
+*Album:* Jealous
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="251" height="4" fill="#1db954" rx="2"/>
+    <circle cx="251" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 3:54
+    1:42 • 2:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dark Beach](https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr)** by **Pastel Ghost** *(Abyss)*
-🎤 **[it only gets worse, i promise](https://open.spotify.com/track/5H0BawU5IlPVzLTiresJwa)** by **EKKSTACY** *(NEGATIVE)*
-🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
-🎤 **[Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK)** by **Grimes** *(Visions)*
-🎤 **[Test & Recognise (Flume Re-work)](https://open.spotify.com/track/6uuScp16PI5hdUXkdYBVbp)** by **Seekae, Flume** *(The Worry (10th Anniversary Edition))*
+🎤 **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)*
+🎤 **[Embrace](https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL)** by **Pastel Ghost** *(Abyss)*
+🎤 **[Let U Go](https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3)** by **lucidbeatz** *(Let U Go)*
+🎤 **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by **EKKSTACY** *(NEGATIVE)*
+🎤 **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by **Sidewalks and Skeletons** *(White Light)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 15:47:47Z UTC
+🕐 Last updated: 2025-12-14 16:14:46Z UTC
 <!-- SPOTIFY-END -->
