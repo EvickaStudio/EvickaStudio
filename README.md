@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733d1439ea72452b263da3e175" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273db20089661aff3a8070600ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KLAPSE FREESTYLE/BESSA ALS IHR LETZTA](https://open.spotify.com/track/2JTlGTor5iE0YLG83giQ7T)**
-*by* **mikeycyrus**
-*Album:* KLAPSE FREESTYLE/BESSA ALS IHR LETZTA
+**🎵 [1000 Blunts](https://open.spotify.com/track/09riz9pAPJyYYDVynE5xxY)**
+*by* **$uicideboy$**
+*Album:* Sing Me a Lullaby, My Sweet Temptation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="19" height="4" fill="#1db954" rx="2"/>
-    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+    <rect width="139" height="4" fill="#1db954" rx="2"/>
+    <circle cx="139" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 1:32
+    1:21 • 2:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH)** by **Fitz and The Tantrums** *(More Than Just a Dream (Deluxe Edition))*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
-🎤 **[sex money feelings die - slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI)** by **Lykke Li** *(sex money feelings die (slowed version))*
-🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
-🎤 **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
+🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Тоска](https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3)** by **Molchat Doma** *(Этажи)*
+🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
+🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
 
 
 
@@ -137,11 +137,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
-🥈 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
-🥉 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
+🥈 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
+🥉 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 14:11:52Z UTC
+🕐 Last updated: 2025-12-14 14:31:39Z UTC
 <!-- SPOTIFY-END -->
