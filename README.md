@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273906569877fb49820ab5821e2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d5b24e609626e20cc88232ea" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)**
-*by* **Sg Lily, Buffalobang, Eera**
-*Album:* XTC FINAL
+**🎵 [Ghetto Techno - Swimmingpool](https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak)**
+*by* **Die Atzen**
+*Album:* Atzen Musik Vol.1, 2 & 3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="288" height="4" fill="#1db954" rx="2"/>
+    <circle cx="288" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:19
+    3:24 • 3:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)*
+🎤 **[____](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(____)*
+🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
+🎤 **[if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6)** by **Destroy Lonely** *(if looks could kill)*
+🎤 **[Drink Ist Kalt](https://open.spotify.com/track/40HuUTOc00s1M7VarvHBG8)** by **Big Pat, Ion Miles, BHZ, Longus Mongus** *(halb:vier)*
+🎤 **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 08:17:02Z UTC
+🕐 Last updated: 2025-12-14 08:44:07Z UTC
 <!-- SPOTIFY-END -->
