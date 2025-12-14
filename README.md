@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f1c76cdbc06cc04ae4d86e3f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7d60ae94e7b907a8a9ca3f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc)**
-*by* **SOFFIE**
-*Album:* Für immer Frühling
+**🎵 [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)**
+*by* **BONES**
+*Album:* Rotten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:40 • 2:00
+    1:31 • 2:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
-🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
-🎤 **[Intro (stop looking up at the attic)](https://open.spotify.com/track/5bP2EfUh4TMN19CYR2QzfU)** by **sparr00w** *(Save Room Theme)*
-🎤 **[zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)** by **grellewelt** *(zeitverloren)*
-🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[dlp 1.1.1](https://open.spotify.com/track/77gj5XEd5AdpCnIgGtYBqh)** by **William Basinski** *(The Disintegration Loops (Remastered))*
+🎤 **[Look at the beautiful stars](https://open.spotify.com/track/4Zd0ZfElXwghxm0R3bX8og)** by **ALFANI.X** *(Look at the beautiful stars)*
+🎤 **[Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg)** by **carolesdaughter** *(Violent)*
+🎤 **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)*
+🎤 **[PRETTY oMg](https://open.spotify.com/track/4EHrqIeF1joZtSUSPQKliR)** by **Dropped here** *(PRETTY oMg)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 16:52:59Z UTC
+🕐 Last updated: 2025-12-14 17:10:54Z UTC
 <!-- SPOTIFY-END -->
