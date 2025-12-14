@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730806583d8d40e50081f605c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27395d1d98c5176e4f982bd73d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hokus Pokus](https://open.spotify.com/track/05Q6npnVAJIrRrVcPna9nh)**
-*by* **Sadi, Palazzo**
-*Album:* 99
+**🎵 [My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0)**
+*by* **Jimmy Eat World**
+*Album:* Bleed American
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="84" height="4" fill="#1db954" rx="2"/>
-    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+    <rect width="167" height="4" fill="#1db954" rx="2"/>
+    <circle cx="167" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:01
+    3:14 • 5:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wirwirwir](https://open.spotify.com/track/23PhKTl5NACt60B5AKNKcH)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)*
-🎤 **[Flow](https://open.spotify.com/track/42W79qD1r5BAMxjDjClxHx)** by **c4rl** *(Flow)*
-🎤 **[coke clutch chemistry](https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ)** by **JB 50** *(coke clutch chemistry)*
-🎤 **[Xtra](https://open.spotify.com/track/1Kl0IQeqmHtIq8dhup3i83)** by **Sadi, kittyyy, LAVENDER** *(99)*
+🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
+🎤 **[Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v)** by **Duster** *(Stratosphere)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
+🎤 **[1979 - Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1)** by **The Smashing Pumpkins** *(Mellon Collie And The Infinite Sadness (Deluxe Edition))*
+🎤 **[oh, you](https://open.spotify.com/track/230FpUZFvksvXkmhRZrl33)** by **tommy oeffling** *(tomboy / laundry / oh, you)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 12:24:27Z UTC
+🕐 Last updated: 2025-12-14 13:02:36Z UTC
 <!-- SPOTIFY-END -->
