@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372794a02454878876b884db9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273130dc4fdbd143767ec6cc08a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)**
-*by* **Cocteau Twins**
-*Album:* Milk & Kisses
+**🎵 [Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)**
+*by* **.com**
+*Album:* In Their Shadows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="33" height="4" fill="#1db954" rx="2"/>
-    <circle cx="33" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 3:57
+    2:02 • 4:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
+🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
+🎤 **[Angels With God](https://open.spotify.com/track/2mBfFV0OlvdCBn3hrAEoLe)** by **$pirit Gurlz** *(12:12)*
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
 🎤 **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)*
-🎤 **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)*
-🎤 **[No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd)** by **Galantis** *(No Money)*
-🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
-🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 13:36:27Z UTC
+🕐 Last updated: 2025-12-14 13:49:03Z UTC
 <!-- SPOTIFY-END -->
