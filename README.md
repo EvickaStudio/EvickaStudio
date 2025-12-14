@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a55bb08a89fadf41ec1a3c35" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)**
-*by* **sparr00w**
-*Album:* Nadja
+**🎵 [Haunted](https://open.spotify.com/track/5eHymLnv4SVfGUR71AnWjE)**
+*by* **RudeClub**
+*Album:* Haunted
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="133" height="4" fill="#1db954" rx="2"/>
-    <circle cx="133" cy="2" r="6" fill="#1db954"/>
+    <rect width="286" height="4" fill="#1db954" rx="2"/>
+    <circle cx="286" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 1:41
+    1:38 • 1:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)** by **ghostboo, Lawin** *(exxtra)*
-🎤 **[A Whole Lot of Things](https://open.spotify.com/track/1RgVWRFgFyyWWINc2F0Rat)** by **Reserv** *(A True Romantic Comedy)*
-🎤 **[Druck](https://open.spotify.com/track/0cGyi1hPHAKb9sl13y6w1x)** by **JB 50** *(Druck)*
-🎤 **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)*
-🎤 **[Location](https://open.spotify.com/track/434UskeCc9DDKPgeZQNYEq)** by **Sadi** *(99)*
+🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
+🎤 **[just one more](https://open.spotify.com/track/5xCzC6KN8XjmCNuDbFvESK)** by **Drux** *(euphoria sex / just one more)*
+🎤 **[kopfnuss](https://open.spotify.com/track/2P8gzyO1L4snq1NTfmHhii)** by **5star** *(kopfnuss)*
+🎤 **[ily fr](https://open.spotify.com/track/0lGUTSnK5uyW3TLPwxdIV1)** by **bliiiss** *(ily fr)*
+🎤 **[Search for Home](https://open.spotify.com/track/4Z0sHEK1IguPk4YukSyFUp)** by **ESP** *(Promise)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 11:11:10Z UTC
+🕐 Last updated: 2025-12-14 11:26:38Z UTC
 <!-- SPOTIFY-END -->
