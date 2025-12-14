@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732d3b735cf6d956b66d0f7cb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318f452188d3f7e37a876e3a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [homecoming](https://open.spotify.com/track/5SWhEhbc0ShOzEQEIvCYJz)**
-*by* **Levi Ryan**
-*Album:* soviet winter
+**🎵 [Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)**
+*by* **sparr00w**
+*Album:* Nadja
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 4:30
+    0:45 • 1:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ANGEL](https://open.spotify.com/track/2FBLYvCCRkiLcSKWMWx0Mb)** by **Frederik Valentin, Emil F** *(Falling Into Fall)*
-🎤 **[gate of limit](https://open.spotify.com/track/0gQEcd2OaOhmz7hZSL6ExP)** by **blackwinterwells, DREAMGHOUL** *(gate of limit)*
-🎤 **[Under my breath](https://open.spotify.com/track/0MiYXhD1T7ae8IOo4Fh2vm)** by **Drux, Cgull** *(it always ends in pain)*
-🎤 **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[Dream Machine](https://open.spotify.com/track/2MuTgVUNKg7NR6TgqkOZrf)** by **Brotherkenzie** *(Ditto)*
+🎤 **[zu oft](https://open.spotify.com/track/1nZzcw1B8kzWEtkAU9ueek)** by **ghostboo, Lawin** *(exxtra)*
+🎤 **[A Whole Lot of Things](https://open.spotify.com/track/1RgVWRFgFyyWWINc2F0Rat)** by **Reserv** *(A True Romantic Comedy)*
+🎤 **[Druck](https://open.spotify.com/track/0cGyi1hPHAKb9sl13y6w1x)** by **JB 50** *(Druck)*
+🎤 **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)*
+🎤 **[Location](https://open.spotify.com/track/434UskeCc9DDKPgeZQNYEq)** by **Sadi** *(99)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 10:49:46Z UTC
+🕐 Last updated: 2025-12-14 11:11:10Z UTC
 <!-- SPOTIFY-END -->
