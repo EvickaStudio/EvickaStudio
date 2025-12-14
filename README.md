@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732e321bbee010305a4c9a4c47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730d0d42bbf38725beac420cba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blacklist](https://open.spotify.com/track/0vBAS1Q10EWfhSc8dhqBvH)**
-*by* **Drux**
-*Album:* What The Low Does
+**🎵 [La star](https://open.spotify.com/track/5xlyyIrhoUYMvfThHhpMjq)**
+*by* **Lvl99magic, Tommy Drama**
+*Album:* La star
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
+    <rect width="161" height="4" fill="#1db954" rx="2"/>
+    <circle cx="161" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:51 • 2:13
+    0:46 • 1:26
 </span>
 </p>
 
@@ -116,19 +116,19 @@
 
 ### 📜 Recently Played
 
-🎤 **[Überall, Immer](https://open.spotify.com/track/1IW91VlVJgTlxKCNNlSORI)** by **JB 50, ghostboo** *(Überall, Immer)*
-🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
-🎤 **[violent](https://open.spotify.com/track/024DijQGIFL2XcaZo43JQw)** by **Sg Lily** *(y 22-23rp EP)*
-🎤 **[Liebe+Dr*gs](https://open.spotify.com/track/1WLpKL8uQ0UOng5LVO3KuN)** by **Sadi, Fanny** *(99)*
-🎤 **[Polarstern](https://open.spotify.com/track/0bmbY2fFcNfW25Vsw7hTtZ)** by **Kidd Kazama** *(Polarstern)*
+🎤 **[Südeuropa](https://open.spotify.com/track/0w38d8H3hAAqe4PmKHX3bA)** by **Sadi** *(Südeuropa)*
+🎤 **[Kein Fake](https://open.spotify.com/track/6SasfqIpbQIrKDvrolSncT)** by **Fanny, No.Ri** *(Kein Fake)*
+🎤 **[Fєєɭ เՇ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ](https://open.spotify.com/track/2UTrnGqI8OLm8AEvR2G6pL)** by **jequya** *(frozone / feel it / visa)*
+🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
+🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🥈 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🥉 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
 🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 10:13:22Z UTC
+🕐 Last updated: 2025-12-14 10:34:45Z UTC
 <!-- SPOTIFY-END -->
