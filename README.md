@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bf44296ba30207f6a54c91ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a88c6c3a82fe3a1c66219bd4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Test & Recognise (Flume Re-work)](https://open.spotify.com/track/6uuScp16PI5hdUXkdYBVbp)**
-*by* **Seekae, Flume**
-*Album:* The Worry (10th Anniversary Edition)
+**🎵 [Little Bit (feat. Autoerotique) - Remix](https://open.spotify.com/track/4dVejqq0Jn4pSyD7WcQ0nw)**
+*by* **Lykke Li, Autoerotique**
+*Album:* Little Bit (feat. Autoerotique) [Remix]
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:55 • 5:03
+    1:21 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[delulu](https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB)** by **NESYA** *(Never Truly Happy)*
-🎤 **[striptease](https://open.spotify.com/track/2CCyaazY8X5EFqdWDtmVvs)** by **carwash** *(striptease)*
-🎤 **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)*
-🎤 **[Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo)** by **Lebanon Hanover** *(Tomb for Two)*
-🎤 **[Seasons](https://open.spotify.com/track/60qwFlUKJKd426itslpjX3)** by **Sam Austins** *(Seasons)*
+🎤 **[Dark Beach](https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr)** by **Pastel Ghost** *(Abyss)*
+🎤 **[it only gets worse, i promise](https://open.spotify.com/track/5H0BawU5IlPVzLTiresJwa)** by **EKKSTACY** *(NEGATIVE)*
+🎤 **[100](https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2)** by **Dean Blunt** *(BLACK METAL)*
+🎤 **[Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK)** by **Grimes** *(Visions)*
+🎤 **[Test & Recognise (Flume Re-work)](https://open.spotify.com/track/6uuScp16PI5hdUXkdYBVbp)** by **Seekae, Flume** *(The Worry (10th Anniversary Edition))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 15:30:25Z UTC
+🕐 Last updated: 2025-12-14 15:47:47Z UTC
 <!-- SPOTIFY-END -->
