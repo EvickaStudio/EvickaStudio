@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273db20089661aff3a8070600ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [1000 Blunts](https://open.spotify.com/track/09riz9pAPJyYYDVynE5xxY)**
-*by* **$uicideboy$**
-*Album:* Sing Me a Lullaby, My Sweet Temptation
+**🎵 [Heartbeat](https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d)**
+*by* **Childish Gambino**
+*Album:* Camp
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="139" height="4" fill="#1db954" rx="2"/>
-    <circle cx="139" cy="2" r="6" fill="#1db954"/>
+    <rect width="18" height="4" fill="#1db954" rx="2"/>
+    <circle cx="18" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 2:55
+    0:16 • 4:29
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)*
-🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[Тоска](https://open.spotify.com/track/0sMra9TqwOskuvn4eR11n3)** by **Molchat Doma** *(Этажи)*
-🎤 **[A New Kind Of Love - Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H)** by **Frou Frou, Imogen Heap, Guy Sigsworth** *(A New Kind Of Love (Demo))*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
+🎤 **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by **Santigold** *(Master of My Make-Believe)*
+🎤 **[scars](https://open.spotify.com/track/0ENO8Pu1riZdUdYEErLA8z)** by **Novulent** *(VOL. 1)*
+🎤 **[veil](https://open.spotify.com/track/0DEJ2X4QvFGboCAdO5MyXz)** by **akiaura, Olya Holiday** *(veil)*
+🎤 **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)*
+🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 14:31:39Z UTC
+🕐 Last updated: 2025-12-14 14:48:28Z UTC
 <!-- SPOTIFY-END -->
