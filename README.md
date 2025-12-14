@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fdf976de3668b6f65c3f6f91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b4ace0eaa952aa1d20ff7e6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)**
-*by* **Holy Fuck**
-*Album:* Congrats
+**🎵 [Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)**
+*by* **strangerperson**
+*Album:* Wie der Raum in dem wir leben
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="218" height="4" fill="#1db954" rx="2"/>
+    <circle cx="218" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:58 • 3:47
+    1:47 • 2:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wishing to forget](https://open.spotify.com/track/0haaiMK2aZE7RTkrbNl5wq)** by **hauntingclaire** *(wishing to forget)*
-🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[Ghetto Techno - Swimmingpool](https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak)** by **Die Atzen** *(Atzen Musik Vol.1, 2 & 3)*
-🎤 **[____](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(____)*
-🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
+🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
+🎤 **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)*
+🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
+🎤 **[Ikarus](https://open.spotify.com/track/3W0Mp0Q5uVntHb3fj2G1TC)** by **Brown-Eyes White Boy** *(Ikarus)*
+🎤 **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 08:54:33Z UTC
+🕐 Last updated: 2025-12-14 09:13:31Z UTC
 <!-- SPOTIFY-END -->
