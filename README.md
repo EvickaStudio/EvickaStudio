@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734de4da55422167fcc47fba65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d820d0eec25eda4941f06260" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)**
-*by* **Eyedress**
-*Album:* Jealous
+**🎵 [zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)**
+*by* **grellewelt**
+*Album:* zeitverloren
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
+    <rect width="160" height="4" fill="#1db954" rx="2"/>
+    <circle cx="160" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 2:02
+    1:50 • 3:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)*
-🎤 **[Embrace](https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL)** by **Pastel Ghost** *(Abyss)*
-🎤 **[Let U Go](https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3)** by **lucidbeatz** *(Let U Go)*
-🎤 **[i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd)** by **EKKSTACY** *(NEGATIVE)*
-🎤 **[Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)** by **Sidewalks and Skeletons** *(White Light)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[Need 2](https://open.spotify.com/track/1BDRKVuooLvqayamtAEV4z)** by **Pinegrove** *(Everything So Far)*
+🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
+🎤 **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))*
+🎤 **[then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z)** by **EKKSTACY** *(NEGATIVE)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 16:14:46Z UTC
+🕐 Last updated: 2025-12-14 16:39:37Z UTC
 <!-- SPOTIFY-END -->
