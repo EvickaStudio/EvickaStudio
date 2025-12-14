@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739fd04905aba432327f718012" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bf44296ba30207f6a54c91ee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [japan](https://open.spotify.com/track/0H7Wdgn1C7vFy4z0o2kBUZ)**
-*by* **Yot Club**
-*Album:* japan
+**🎵 [Test & Recognise (Flume Re-work)](https://open.spotify.com/track/6uuScp16PI5hdUXkdYBVbp)**
+*by* **Seekae, Flume**
+*Album:* The Worry (10th Anniversary Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="181" height="4" fill="#1db954" rx="2"/>
-    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+    <rect width="173" height="4" fill="#1db954" rx="2"/>
+    <circle cx="173" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 2:54
+    2:55 • 5:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)*
-🎤 **[icantbelieveiletyougetaway](https://open.spotify.com/track/2jS4vBVGGqr6ioB5e9FzEz)** by **aldn** *(Strung Out Symphony)*
-🎤 **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)*
-🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
-🎤 **[I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)](https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6)** by **A$AP Rocky, Imogen Heap, Clams Casino** *(I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino))*
+🎤 **[delulu](https://open.spotify.com/track/1SE81pYo16nzr3vWfNzNlB)** by **NESYA** *(Never Truly Happy)*
+🎤 **[striptease](https://open.spotify.com/track/2CCyaazY8X5EFqdWDtmVvs)** by **carwash** *(striptease)*
+🎤 **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)*
+🎤 **[Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo)** by **Lebanon Hanover** *(Tomb for Two)*
+🎤 **[Seasons](https://open.spotify.com/track/60qwFlUKJKd426itslpjX3)** by **Sam Austins** *(Seasons)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 15:12:23Z UTC
+🕐 Last updated: 2025-12-14 15:30:25Z UTC
 <!-- SPOTIFY-END -->
