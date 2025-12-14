@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d0d42bbf38725beac420cba" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732d3b735cf6d956b66d0f7cb2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [La star](https://open.spotify.com/track/5xlyyIrhoUYMvfThHhpMjq)**
-*by* **Lvl99magic, Tommy Drama**
-*Album:* La star
+**🎵 [homecoming](https://open.spotify.com/track/5SWhEhbc0ShOzEQEIvCYJz)**
+*by* **Levi Ryan**
+*Album:* soviet winter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="161" height="4" fill="#1db954" rx="2"/>
-    <circle cx="161" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 1:26
+    1:04 • 4:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Südeuropa](https://open.spotify.com/track/0w38d8H3hAAqe4PmKHX3bA)** by **Sadi** *(Südeuropa)*
-🎤 **[Kein Fake](https://open.spotify.com/track/6SasfqIpbQIrKDvrolSncT)** by **Fanny, No.Ri** *(Kein Fake)*
-🎤 **[Fєєɭ เՇ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ ᎦᏋᏋᏝ ᎥᏖ](https://open.spotify.com/track/2UTrnGqI8OLm8AEvR2G6pL)** by **jequya** *(frozone / feel it / visa)*
-🎤 **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)*
-🎤 **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)*
+🎤 **[ANGEL](https://open.spotify.com/track/2FBLYvCCRkiLcSKWMWx0Mb)** by **Frederik Valentin, Emil F** *(Falling Into Fall)*
+🎤 **[gate of limit](https://open.spotify.com/track/0gQEcd2OaOhmz7hZSL6ExP)** by **blackwinterwells, DREAMGHOUL** *(gate of limit)*
+🎤 **[Under my breath](https://open.spotify.com/track/0MiYXhD1T7ae8IOo4Fh2vm)** by **Drux, Cgull** *(it always ends in pain)*
+🎤 **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[Dream Machine](https://open.spotify.com/track/2MuTgVUNKg7NR6TgqkOZrf)** by **Brotherkenzie** *(Ditto)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 10:34:45Z UTC
+🕐 Last updated: 2025-12-14 10:49:46Z UTC
 <!-- SPOTIFY-END -->
