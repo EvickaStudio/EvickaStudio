@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732e321bbee010305a4c9a4c47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SaveOST](https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei)**
-*by* **sparr00w**
-*Album:* Save Room Theme
+**🎵 [Blacklist](https://open.spotify.com/track/0vBAS1Q10EWfhSc8dhqBvH)**
+*by* **Drux**
+*Album:* What The Low Does
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="59" height="4" fill="#1db954" rx="2"/>
-    <circle cx="59" cy="2" r="6" fill="#1db954"/>
+    <rect width="250" height="4" fill="#1db954" rx="2"/>
+    <circle cx="250" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:35
+    1:51 • 2:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Sorisu's Interlude](https://open.spotify.com/track/3mfw9HWXuJwYHKR6KXZrgU)** by **sparr00w, Sorisu** *(Save Room Theme)*
-🎤 **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)*
-🎤 **[0201](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Pierrot](https://open.spotify.com/track/0SIOdxVzOXTpuTN1fEj1Ff)** by **sparr00w** *(Save Room Theme)*
+🎤 **[Überall, Immer](https://open.spotify.com/track/1IW91VlVJgTlxKCNNlSORI)** by **JB 50, ghostboo** *(Überall, Immer)*
+🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
+🎤 **[violent](https://open.spotify.com/track/024DijQGIFL2XcaZo43JQw)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[Liebe+Dr*gs](https://open.spotify.com/track/1WLpKL8uQ0UOng5LVO3KuN)** by **Sadi, Fanny** *(99)*
+🎤 **[Polarstern](https://open.spotify.com/track/0bmbY2fFcNfW25Vsw7hTtZ)** by **Kidd Kazama** *(Polarstern)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 09:47:53Z UTC
+🕐 Last updated: 2025-12-14 10:13:22Z UTC
 <!-- SPOTIFY-END -->
