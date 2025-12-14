@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273130dc4fdbd143767ec6cc08a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d1439ea72452b263da3e175" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)**
-*by* **.com**
-*Album:* In Their Shadows
+**🎵 [KLAPSE FREESTYLE/BESSA ALS IHR LETZTA](https://open.spotify.com/track/2JTlGTor5iE0YLG83giQ7T)**
+*by* **mikeycyrus**
+*Album:* KLAPSE FREESTYLE/BESSA ALS IHR LETZTA
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="133" height="4" fill="#1db954" rx="2"/>
-    <circle cx="133" cy="2" r="6" fill="#1db954"/>
+    <rect width="19" height="4" fill="#1db954" rx="2"/>
+    <circle cx="19" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 4:34
+    0:05 • 1:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
-🎤 **[Angels With God](https://open.spotify.com/track/2mBfFV0OlvdCBn3hrAEoLe)** by **$pirit Gurlz** *(12:12)*
-🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)*
+🎤 **[Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH)** by **Fitz and The Tantrums** *(More Than Just a Dream (Deluxe Edition))*
+🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
+🎤 **[sex money feelings die - slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI)** by **Lykke Li** *(sex money feelings die (slowed version))*
+🎤 **[connected](https://open.spotify.com/track/5aoRPYxmQ1MFD5OJ9i3PHJ)** by **wiv** *(connected)*
+🎤 **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 13:49:03Z UTC
+🕐 Last updated: 2025-12-14 14:11:52Z UTC
 <!-- SPOTIFY-END -->
