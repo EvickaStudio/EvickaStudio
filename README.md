@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ebdf1800d3a9aea221846f0f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273725aecfc44d533deddc1dd02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fire sign](https://open.spotify.com/track/4RQoF2veOQ4wK2HVaOF9b2)**
-*by* **Dropped here**
-*Album:* Fire sign
+**🎵 [Er flog hoch](https://open.spotify.com/track/2krAHsdnMkEJxYiXoNabeA)**
+*by* **fliggsy**
+*Album:* Project Life
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="175" height="4" fill="#1db954" rx="2"/>
-    <circle cx="175" cy="2" r="6" fill="#1db954"/>
+    <rect width="221" height="4" fill="#1db954" rx="2"/>
+    <circle cx="221" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:45 • 2:59
+    2:04 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)*
+🎤 **[rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN)** by **Saiya Tiaw** *(tränen von dir)*
+🎤 **[Fire sign](https://open.spotify.com/track/4RQoF2veOQ4wK2HVaOF9b2)** by **Dropped here** *(Fire sign)*
 🎤 **[Dior 2001](https://open.spotify.com/track/6WusSsncC0Oo9sFHKwQii6)** by **RIN** *(Planet Megatron)*
 🎤 **[JUMPSTYLE AUF MEIN HERZ](https://open.spotify.com/track/1PYScnkcn4xui0Gty97nFZ)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[One More Kiss](https://open.spotify.com/track/7vCal7DIgDCPfQeqsXOZyX)** by **Robstar** *(One More Kiss)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[As the World Caves In - Wuki Remix](https://open.spotify.com/track/3L740L9Y186igjbzxz7Vfr)** by **Sarah Cothran, Wuki** *(As the World Caves In (Wuki Remix))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 19:25:05Z UTC
+🕐 Last updated: 2025-12-14 19:34:02Z UTC
 <!-- SPOTIFY-END -->
