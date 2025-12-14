@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739fd04905aba432327f718012" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heartbeat](https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d)**
-*by* **Childish Gambino**
-*Album:* Camp
+**🎵 [japan](https://open.spotify.com/track/0H7Wdgn1C7vFy4z0o2kBUZ)**
+*by* **Yot Club**
+*Album:* japan
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="18" height="4" fill="#1db954" rx="2"/>
-    <circle cx="18" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 4:29
+    1:46 • 2:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by **Santigold** *(Master of My Make-Believe)*
-🎤 **[scars](https://open.spotify.com/track/0ENO8Pu1riZdUdYEErLA8z)** by **Novulent** *(VOL. 1)*
-🎤 **[veil](https://open.spotify.com/track/0DEJ2X4QvFGboCAdO5MyXz)** by **akiaura, Olya Holiday** *(veil)*
-🎤 **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)*
-🎤 **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)*
+🎤 **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)*
+🎤 **[icantbelieveiletyougetaway](https://open.spotify.com/track/2jS4vBVGGqr6ioB5e9FzEz)** by **aldn** *(Strung Out Symphony)*
+🎤 **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)*
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
+🎤 **[I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)](https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6)** by **A$AP Rocky, Imogen Heap, Clams Casino** *(I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 14:48:28Z UTC
+🕐 Last updated: 2025-12-14 15:12:23Z UTC
 <!-- SPOTIFY-END -->
