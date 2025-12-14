@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733d1869d8c477d291a205a2d6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)**
-*by* **RADWIMPS**
-*Album:* Your Name.
+**🎵 [0201](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)**
+*by* **sparr00w**
+*Album:* Save Room Theme
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:45 • 8:57
+    0:58 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
-🎤 **[Griechischer Wein](https://open.spotify.com/track/2f8Hc0w7BpDtzwoa6BHKec)** by **Udo Jürgens** *(Meine Lieder)*
-🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
-🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
-🎤 **[d00m](https://open.spotify.com/track/2HNi8TnzsmL4kGSEnyN0yK)** by **cdgplug, gard, Hotelgodlin** *(bl00dletter Collection)*
+🎤 **[dancing while the world burns](https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC)** by **adore** *(dancing while the world burns)*
+🎤 **[white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)** by **Lil Peep, Lil Tracy** *(castles)*
+🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[PGD](https://open.spotify.com/track/3R90mgF7UeM6sPfCip0Qbj)** by **RudeClub** *(Sugar Dalmatian)*
+🎤 **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-14 17:49:10Z UTC
+🕐 Last updated: 2025-12-14 18:18:33Z UTC
 <!-- SPOTIFY-END -->
