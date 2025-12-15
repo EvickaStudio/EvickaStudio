@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734697676124b60404dcf3c6b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d2f9b9f59e37424553b859de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)**
-*by* **Zorrovian**
-*Album:* Lost and Found
+**🎵 [Keep My Coo](https://open.spotify.com/track/79DjvbtNrHbQ1AOJPbo5qe)**
+*by* **Lil Peep**
+*Album:* Keep My Coo
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
+    <rect width="200" height="4" fill="#1db954" rx="2"/>
+    <circle cx="200" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:31 • 3:38
+    2:58 • 4:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)*
-🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
-🎤 **[Bando Engel](https://open.spotify.com/track/2oKGkjUY62IELUIgMRd0rI)** by **Dante YN** *(Kleinstadt Uniques)*
-🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
-🎤 **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)*
+🎤 **[ichwillchecks pt. 2](https://open.spotify.com/track/4mqGRXiRTl2WF4C1jevwr7)** by **gard, 5v** *(ichwillchecks pt. 2)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm)** by **物語シリーズ** *(Utamonogatari Special Edition (Original Soundtrack))*
+🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 
 
-🕐 Last updated: 2025-12-15 08:21:47Z UTC
+🕐 Last updated: 2025-12-15 08:52:56Z UTC
 <!-- SPOTIFY-END -->
