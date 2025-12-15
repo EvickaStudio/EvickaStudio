@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af87be160fd029a96b6993c7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273249b5394fd54f95febf16a19" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [C ma shit pt. 2](https://open.spotify.com/track/1iJRSsTH0ZHRihrkZ8Mvkc)**
-*by* **Realo, Simala, abel31, Recklessboise**
-*Album:* C ma shit pt. 2
+**🎵 [I DONT WANNA GO](https://open.spotify.com/track/58dZmEgUxVNY4FKC9rA67X)**
+*by* **Braindaamage**
+*Album:* I DONT WANNA GO
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="198" height="4" fill="#1db954" rx="2"/>
+    <circle cx="198" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:15
+    1:44 • 2:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
-🎤 **[Mein Fetisch](https://open.spotify.com/track/5J5y6d3rFK1wbQKJEyBNsh)** by **$OHO BANI** *(Mein Fetisch)*
-🎤 **[Mirage](https://open.spotify.com/track/0OoD5Olbr2dcuzI2FlAknD)** by **vic, cethias** *(Mirage)*
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Toro - I Hate Models Speed Up Revival Edit of Andre VII RMX](https://open.spotify.com/track/7KnVy00zIJyFcsAIV1KWBT)** by **El Columpio Asesino, I Hate Models, Andre VII** *(Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX))*
+🎤 **[Dancing Through the Night - Single Edit](https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF)** by **Raveboy** *(Dancing Through the Night)*
+🎤 **[Who Is She ?](https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq)** by **I Monster** *(Neveroddoreven)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[guardianAngels](https://open.spotify.com/track/2JxBABZ8loPD6559kkH5kR)** by **3versince** *(guardianAngels)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-15 07:19:24Z UTC
+🕐 Last updated: 2025-12-15 07:42:21Z UTC
 <!-- SPOTIFY-END -->
