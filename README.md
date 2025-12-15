@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
 🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
 🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
 🎤 **[LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
-🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
-🎤 **[Roof](https://open.spotify.com/track/1pAgrtEcO6pF6ekmJsUfVe)** by **Kev Koko** *(Roof)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-15 05:46:11Z UTC
+🕐 Last updated: 2025-12-15 06:23:36Z UTC
 <!-- SPOTIFY-END -->
