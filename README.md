@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273441c76674ffd767b8b3bdc98" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731122e7b32248151af3c03c54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)**
-*by* **elricfd**
-*Album:* friday nite
+**🎵 [in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)**
+*by* **meat computer**
+*Album:* new world disorder
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="131" height="4" fill="#1db954" rx="2"/>
+    <circle cx="131" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 4:07
+    0:43 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Soul Shield](https://open.spotify.com/track/2ZpQJkeJDUAF2vwYj6WBvM)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))*
-🎤 **[Blind](https://open.spotify.com/track/7srg9XLX0EumYXWqsgPPKb)** by **Kidd Kazama** *(Hundert.tausend Briefe)*
-🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
-🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
+🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
+🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
+🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-15 19:47:45Z UTC
+🕐 Last updated: 2025-12-15 20:15:31Z UTC
 <!-- SPOTIFY-END -->
