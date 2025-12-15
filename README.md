@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dcba4a728ca0b17cbd204a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27334baadc83ba6e77794bf843b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)**
-*by* **Manu Chao**
-*Album:* Próxima Estación: Esperanza
+**🎵 [getgo2](https://open.spotify.com/track/7mywP9KOkYPHVesMOdBydq)**
+*by* **Nosgov**
+*Album:* getgo2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="65" height="4" fill="#1db954" rx="2"/>
-    <circle cx="65" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:52 • 3:59
+    0:09 • 2:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)*
-🎤 **[Issues](https://open.spotify.com/track/3W2p8YA8staB87XSG3eI0y)** by **Moritz, Longus Mongus** *(Issues)*
-🎤 **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)*
+🎤 **[California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)** by **Delta Spirit** *(Delta Spirit)*
+🎤 **[Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)** by **Krewella** *(Get Wet)*
+🎤 **[Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)** by **Krewella** *(Get Wet)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[IN DEINEM HERZ IST ES KALT](https://open.spotify.com/track/7wblVGls7DMH6nalzCSixo)** by **Saiya Tiaw** *(IN DEINEM HERZ IST ES KALT)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 
 
-🕐 Last updated: 2025-12-15 09:52:00Z UTC
+🕐 Last updated: 2025-12-15 10:17:51Z UTC
 <!-- SPOTIFY-END -->
