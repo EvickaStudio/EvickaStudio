@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f44b0873a0f9e95ff91338a1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734697676124b60404dcf3c6b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)**
-*by* **blombi19**
-*Album:* amalgamarchiv
+**🎵 [Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)**
+*by* **Zorrovian**
+*Album:* Lost and Found
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="98" height="4" fill="#1db954" rx="2"/>
-    <circle cx="98" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 5:10
+    1:31 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[I DONT WANNA GO](https://open.spotify.com/track/58dZmEgUxVNY4FKC9rA67X)** by **Braindaamage** *(I DONT WANNA GO)*
-🎤 **[Dancing Through the Night - Single Edit](https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF)** by **Raveboy** *(Dancing Through the Night)*
-🎤 **[Who Is She ?](https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq)** by **I Monster** *(Neveroddoreven)*
-🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
+🎤 **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)*
+🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
+🎤 **[Bando Engel](https://open.spotify.com/track/2oKGkjUY62IELUIgMRd0rI)** by **Dante YN** *(Kleinstadt Uniques)*
+🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
+🎤 **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🥉 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
-🏅 [**pink luu**](https://open.spotify.com/artist/0HWcSrvwfHx2msfhljmDuC)
+🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
 
@@ -139,9 +139,9 @@
 🥇 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
 🥈 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 🥉 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
-🏅 [**n//**](https://open.spotify.com/track/4EBg0Y2SXfv1lfe6EXZeRH)
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
+🏅 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 
 
-🕐 Last updated: 2025-12-15 07:51:52Z UTC
+🕐 Last updated: 2025-12-15 08:21:47Z UTC
 <!-- SPOTIFY-END -->
