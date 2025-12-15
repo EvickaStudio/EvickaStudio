@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273579b367de850b6cdfa7ab35a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27361f4484c8d576063bf2e9541" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)**
-*by* **User2222**
-*Album:* i'm so thankful i didn't end up with what i thought i wanted
+**🎵 [morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)**
+*by* **benzii, sparr00w**
+*Album:* morgengrau + sparr00w flip
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 3:00
+    2:28 • 3:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
-🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
-🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
-🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
-🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
+🎤 **[I called and left a message](https://open.spotify.com/track/5myoBOTaycNR7S3FZY0ft0)** by **Agatha is Dead!** *(Interlude)*
+🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-15 18:21:13Z UTC
+🕐 Last updated: 2025-12-15 18:53:01Z UTC
 <!-- SPOTIFY-END -->
