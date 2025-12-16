@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733a3a8d19e4dd9f7e45461e7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)**
-*by* **Fishmans**
-*Album:* LONG SEASON
+**🎵 [non zen darkness manuever](https://open.spotify.com/track/453qHaUkRrwJRqxSAn19tP)**
+*by* **meat computer**
+*Album:* non zen darkness manuever
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    10:22 • 35:16
+    0:16 • 2:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
-🎤 **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
-🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
+🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[Wings](https://open.spotify.com/track/0umT61v364TKUPHdPzbYtP)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
+🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 03:58:34Z UTC
+🕐 Last updated: 2025-12-16 04:36:02Z UTC
 <!-- SPOTIFY-END -->
