@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739dd16b44e27d0cc5aa678769" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)**
-*by* **Whitearmor**
-*Album:* In the Abyss: Music for Weddings
+**🎵 [Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)**
+*by* **PureSnow**
+*Album:* Revelation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="137" height="4" fill="#1db954" rx="2"/>
-    <circle cx="137" cy="2" r="6" fill="#1db954"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 4:35
+    0:08 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
-🎤 **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)*
-🎤 **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)*
-🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 05:54:10Z UTC
+🕐 Last updated: 2025-12-16 06:22:19Z UTC
 <!-- SPOTIFY-END -->
