@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee1c948f4c46baad6a5f6023" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273be5a8e25873482669c2322de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alle meine Freunde hassen Raves](https://open.spotify.com/track/5criF7tmixUzFvuURN4WTp)**
-*by* **kramsen, KRAMER**
-*Album:* Alle meine Freunde hassen Raves
+**🎵 [Hallo](https://open.spotify.com/track/7EtLCwZN3aHbPhdhVwuKOT)**
+*by* **viko63, penglord**
+*Album:* Strada d'Amore
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="42" height="4" fill="#1db954" rx="2"/>
+    <circle cx="42" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:39
+    0:23 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)*
+🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
+🎤 **[Alle meine Freunde hassen Raves](https://open.spotify.com/track/1GcjMV7H8NMJYZTZnWDFe1)** by **kramsen, KRAMER** *(Alle meine Freunde hassen Raves)*
 🎤 **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)*
 🎤 **[gothoroolol](https://open.spotify.com/track/6Wa46bQSQkWkiAtEnGHTGS)** by **Death Souljah** *(gothoroolol)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[home](https://open.spotify.com/track/3XTDX1sawI6hYvPgirrsSE)** by **wiv** *(home)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 15:42:40Z UTC
+🕐 Last updated: 2025-12-16 15:53:30Z UTC
 <!-- SPOTIFY-END -->
