@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273509eac7be01ddf48f1c0121f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)**
-*by* **Maikel**
-*Album:* Winterlove
+**🎵 [Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)**
+*by* **Men At Work**
+*Album:* Business As Usual
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 2:02
+    0:45 • 3:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[berlin08](https://open.spotify.com/track/3E2eMXAAOViUsVKbL0vQip)** by **Monk, BHZ** *(berlin08)*
-🎤 **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)*
-🎤 **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)*
-🎤 **[Dream House](https://open.spotify.com/track/6l3A2EWZSOA8LTMmzRCyD3)** by **Deafheaven** *(Sunbather)*
-🎤 **[downtown](https://open.spotify.com/track/5abkvDTaF8f3OHRyi0feuB)** by **lagosta<3** *(downtown)*
+🎤 **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[111 Seconds in Heaven](https://open.spotify.com/track/1YnWfFuOQiMgq4dzTKgVfP)** by **SyKo, glaive** *(111 Seconds in Heaven)*
+🎤 **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)*
+🎤 **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)*
+🎤 **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-16 22:13:30Z UTC
+🕐 Last updated: 2025-12-16 22:33:53Z UTC
 <!-- SPOTIFY-END -->
