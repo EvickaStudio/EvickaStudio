@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27314441bb4f56b75790d9d2ddd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sonnenuntergang (feat. Longus Mongus)](https://open.spotify.com/track/1Zv1LuULPBhu4v8sKy7TSJ)**
-*by* **Lugatti & 9ine, Longus Mongus**
-*Album:* MKS 3.0
+**🎵 [The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)**
+*by* **Harold Melvin & The Blue Notes, Teddy Pendergrass**
+*Album:* Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="195" height="4" fill="#1db954" rx="2"/>
-    <circle cx="195" cy="2" r="6" fill="#1db954"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:50 • 2:50
+    3:45 • 6:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)*
-🎤 **[how im made](https://open.spotify.com/track/2YbU67O0ZQvZzH2304698r)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)*
-🎤 **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)*
-🎤 **[highs](https://open.spotify.com/track/1cXVnaJfUjoucBBZS9KoE0)** by **$OHO BANI** *($OHO UND NICHT ANDERS)*
-🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
+🎤 **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)*
+🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
+🎤 **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)*
+🎤 **[makkohatjedenliebaussersichselbst](https://open.spotify.com/track/205bdmtyfWa9bzvWvlD3nK)** by **makko** *(Leb es oder lass es 2)*
+🎤 **[Sonnenuntergang](https://open.spotify.com/track/5MXzMhcB2hgUC87fkLDaRV)** by **Lugatti & 9ine, Longus Mongus** *(MKS 3.0)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-16 21:32:50Z UTC
+🕐 Last updated: 2025-12-16 21:49:12Z UTC
 <!-- SPOTIFY-END -->
