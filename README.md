@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27382674fad8b64aece6f4833c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)**
-*by* **Yung Hurn**
-*Album:* <3 aus <3
+**🎵 [silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)**
+*by* **blombi19**
+*Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 1:01
+    0:34 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL)** by **XXXTENTACION** *(?)*
-🎤 **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)*
-🎤 **[NAGELLACK IN SACHSEN](https://open.spotify.com/track/56jhnqot08ew8x4f2yXRAJ)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN)*
-🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
-🎤 **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)*
+🎤 **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)*
+🎤 **[Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c)** by **Juice WRLD** *(Goodbye & Good Riddance)*
+🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
+🎤 **[Sanjuro](https://open.spotify.com/track/1Ea7fh5U7lNNEWVUM3SndT)** by **st46y, daredvl, DJmegan23** *("Lust" 2022-2024 v2)*
+🎤 **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 16:19:02Z UTC
+🕐 Last updated: 2025-12-16 16:52:03Z UTC
 <!-- SPOTIFY-END -->
