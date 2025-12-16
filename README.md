@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273baa1633a4681a9fa36cc1ba7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm)**
+*by* **DVRST**
+*Album:* I Hate You I Love You
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:22 • 2:15
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
-🎤 **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)*
+🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
+🎤 **[I DONT WANNA GO](https://open.spotify.com/track/58dZmEgUxVNY4FKC9rA67X)** by **Braindaamage** *(I DONT WANNA GO)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 07:50:59Z UTC
+🕐 Last updated: 2025-12-16 08:20:40Z UTC
 <!-- SPOTIFY-END -->
