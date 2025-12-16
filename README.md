@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273be5a8e25873482669c2322de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27382674fad8b64aece6f4833c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hallo](https://open.spotify.com/track/7EtLCwZN3aHbPhdhVwuKOT)**
-*by* **viko63, penglord**
-*Album:* Strada d'Amore
+**🎵 [<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)**
+*by* **Yung Hurn**
+*Album:* <3 aus <3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 2:47
+    0:46 • 1:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)*
-🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
-🎤 **[Alle meine Freunde hassen Raves](https://open.spotify.com/track/1GcjMV7H8NMJYZTZnWDFe1)** by **kramsen, KRAMER** *(Alle meine Freunde hassen Raves)*
-🎤 **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)*
-🎤 **[gothoroolol](https://open.spotify.com/track/6Wa46bQSQkWkiAtEnGHTGS)** by **Death Souljah** *(gothoroolol)*
+🎤 **[Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL)** by **XXXTENTACION** *(?)*
+🎤 **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)*
+🎤 **[NAGELLACK IN SACHSEN](https://open.spotify.com/track/56jhnqot08ew8x4f2yXRAJ)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN)*
+🎤 **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)*
+🎤 **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 15:53:30Z UTC
+🕐 Last updated: 2025-12-16 16:19:02Z UTC
 <!-- SPOTIFY-END -->
