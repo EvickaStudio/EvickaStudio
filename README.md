@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273030ff1d186141132735d9879" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739f9c6d0e7696a708308ff311" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)**
-*by* **Geo22**
-*Album:* Wizardry
+**🎵 [iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)**
+*by* **Maxi Nagl, Tamino404**
+*Album:* Maxi Nagl Prod Tape #1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="118" height="4" fill="#1db954" rx="2"/>
-    <circle cx="118" cy="2" r="6" fill="#1db954"/>
+    <rect width="198" height="4" fill="#1db954" rx="2"/>
+    <circle cx="198" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 2:11
+    1:44 • 2:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
-🎤 **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)*
-🎤 **[Turn On The Lights again.. (feat. Future)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i)** by **Fred again.., Swedish House Mafia, Future** *(Turn On The Lights again.. (feat. Future))*
-🎤 **[ein letztes mal](https://open.spotify.com/track/7GfvRY2RlvtAblqBujpcIp)** by **absent** *(ein letztes mal)*
-🎤 **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)*
+🎤 **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)*
+🎤 **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)*
+🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆](https://open.spotify.com/track/2iPcZ48HmKSZlOeRN59lGo)** by **snafu, weirdo girl** *(⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆)*
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-16 22:49:59Z UTC
+🕐 Last updated: 2025-12-16 23:31:21Z UTC
 <!-- SPOTIFY-END -->
