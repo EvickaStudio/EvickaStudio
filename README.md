@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27386610dd5bc13c079191886b5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)**
-*by* **Symba**
-*Album:* Battlefield Freestyle
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:20
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR)** by **sign crushes motorist** *(i'll be okay)*
-🎤 **[Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU)** by **Rowli, Hank, Sick & Tired, Asterio** *(Nur ein Wort)*
-🎤 **[tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Materialism as a Means to an End](https://open.spotify.com/track/4t2dQ3OQaAJQn52BNszPnY)** by **$uicideboy$** *(Materialism as a Means to an End)*
+🎤 **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)*
+🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
+🎤 **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 07:17:51Z UTC
+🕐 Last updated: 2025-12-16 07:41:13Z UTC
 <!-- SPOTIFY-END -->
