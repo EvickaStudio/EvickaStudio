@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273756691cd36ad213bee0e3fe5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cf2f496c316eb20dd40e5a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)**
-*by* **RomancePlanet**
-*Album:* EVOLUTION
+**🎵 [RE: Life](https://open.spotify.com/track/1fpIrRQcZSRK1bzwLBY5ci)**
+*by* **deadboyboo**
+*Album:* P U N K S T A R
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="169" height="4" fill="#1db954" rx="2"/>
-    <circle cx="169" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 1:49
+    2:13 • 3:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)*
-🎤 **[Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6)** by **Sia** *(Colour The Small One)*
-🎤 **[Toro - I Hate Models Speed Up Revival Edit of Andre VII RMX](https://open.spotify.com/track/7KnVy00zIJyFcsAIV1KWBT)** by **El Columpio Asesino, I Hate Models, Andre VII** *(Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX))*
-🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
-🎤 **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)*
+🎤 **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by **Souly, overshiaat, Bovskey** *(Oh Mein Gott (Bovskey Version))*
+🎤 **[ich wach auf und denk an dich](https://open.spotify.com/track/1rioQG2heHKrIeSuwD89Rn)** by **5star** *(ich wach auf und denk an dich)*
+🎤 **[Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)** by **$uicideboy$** *(7th or St. Tammany)*
+🎤 **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)*
+🎤 **[what happened rick](https://open.spotify.com/track/4nKku8Y3QXsajkHYoGPOw6)** by **i hate my face, vic** *(what happened rick)*
 
 
 
@@ -140,8 +140,8 @@
 🥈 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 🥉 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
-🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
+🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-16 18:22:50Z UTC
+🕐 Last updated: 2025-12-16 18:52:38Z UTC
 <!-- SPOTIFY-END -->
