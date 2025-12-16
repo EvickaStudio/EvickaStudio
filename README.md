@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)**
-*by* **Ecco2k**
-*Album:* E
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="78" height="4" fill="#1db954" rx="2"/>
-    <circle cx="78" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 3:34
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[home](https://open.spotify.com/track/3XTDX1sawI6hYvPgirrsSE)** by **wiv** *(home)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
 🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
 🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
-🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
-🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**your blind eye**](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)
 
 
-🕐 Last updated: 2025-12-16 10:16:02Z UTC
+🕐 Last updated: 2025-12-16 10:47:06Z UTC
 <!-- SPOTIFY-END -->
