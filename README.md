@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f9c6d0e7696a708308ff311" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273863a8ef358ed3c0e25e4486c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)**
-*by* **Maxi Nagl, Tamino404**
-*Album:* Maxi Nagl Prod Tape #1
+**🎵 [Invisible](https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2)**
+*by* **Yung Sherman, Uli K, Bladee**
+*Album:* Innocence v2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="198" height="4" fill="#1db954" rx="2"/>
-    <circle cx="198" cy="2" r="6" fill="#1db954"/>
+    <rect width="82" height="4" fill="#1db954" rx="2"/>
+    <circle cx="82" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 2:37
+    0:46 • 2:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)*
-🎤 **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)*
-🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆](https://open.spotify.com/track/2iPcZ48HmKSZlOeRN59lGo)** by **snafu, weirdo girl** *(⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆)*
-🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[Nachts wach](https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA)** by **Miksu / Macloud, makko** *(Nachts wach)*
+🎤 **[lomomoto#](https://open.spotify.com/track/1MRUW05pHgu15jkebzP1w6)** by **Mietze Conte** *(Mietzee)*
+🎤 **[NAGELLACK IN SACHSEN - SPEED UP](https://open.spotify.com/track/0sudfZLPyxDzV6vOB37sJz)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN (SPEED UP))*
+🎤 **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)*
+🎤 **[Ich mag Züge](https://open.spotify.com/track/0DnVcskizKfZAioAA1Wfwz)** by **Baron** *(Ich mag Züge)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-16 23:31:21Z UTC
+🕐 Last updated: 2025-12-16 23:48:31Z UTC
 <!-- SPOTIFY-END -->
