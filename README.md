@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bd017336fc1c0200e956edd2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273753d796b1372c052609311ff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Mr. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU)**
-*by* **David Kushner**
-*Album:* Mr. Forgettable
+**🎵 [Fright Night](https://open.spotify.com/track/2QxlLeVrznXXMvBaYjTKFh)**
+*by* **adorken, evrythnghurtz**
+*Album:* Fright Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 3:07
+    1:17 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[dubstep2010](https://open.spotify.com/track/6wR74PQXoWkSALXww5SOmn)** by **blombi19** *(dubstep2010)*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
-🎤 **[Srce - Nightcore](https://open.spotify.com/track/30m9wU6eCPJLcKDOESFGE5)** by **Nomark** *(Srce (Nightcore))*
-🎤 **[kein problem...](https://open.spotify.com/track/0X7DDmVzJqtuCehGEJ7q3c)** by **luu, iwannabemissed** *(immenser pflegefall)*
-🎤 **[so wie kenny](https://open.spotify.com/track/7nfx9tepmahpL6ISf7vCjY)** by **luu, mehlhaltig** *(so wie kenny)*
+🎤 **[North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)** by **ESP** *(RIFT Two)*
+🎤 **[Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo)** by **Lebanon Hanover** *(Tomb for Two)*
+🎤 **[What I Am](https://open.spotify.com/track/0RO36kWlFqkLeVauFhHZbQ)** by **Edie Brickell & New Bohemians** *(Girls And Guitars)*
+🎤 **[MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T)** by **347aidan** *(TROUBLED MEMORIES!)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 09:20:57Z UTC
+🕐 Last updated: 2025-12-17 09:46:15Z UTC
 <!-- SPOTIFY-END -->
