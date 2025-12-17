@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273837a16120a701a750d9a765e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [WO DU](https://open.spotify.com/track/5Kqn206vSxUGYfSu0mF0oT)**
+*by* **lusi 7896**
+*Album:* listen to the music.. Bro
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:50 • 2:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[DSQUARED SCHMETTERLING](https://open.spotify.com/track/6IfAgUG0TKd63ApmBRmqbc)** by **MALIK LE ROI, lusi 7896** *(DSQUARED SCHMETTERLING)*
+🎤 **[(2oo9) RESORT](https://open.spotify.com/track/3AH62ePhHg8oBHy5y8qgXN)** by **lusi 7896, 1antibody, Sayako, Dani Kiyoko** *((2oo9) RESORT)*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
 🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
-🎤 **[der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)** by **RYLO** *(der plattenspieler kratzt)*
-🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 16:51:39Z UTC
+🕐 Last updated: 2025-12-17 17:18:19Z UTC
 <!-- SPOTIFY-END -->
