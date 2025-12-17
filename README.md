@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27307084232ca758b7515bd79b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [PLEASE DONT TRY ME](https://open.spotify.com/track/12d29udGvwO3eKe4uNQw0z)**
-*by* **o0o**
-*Album:* 15015
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:48 • 3:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[Whatever I Want](https://open.spotify.com/track/5QA0VJmt0BeHzwTb5z6ouI)** by **Nosgov, Cartier God** *(I Die 10000 Times a Day)*
-🎤 **[Wieso Denn Eigentlich Nicht](https://open.spotify.com/track/46L0I6c2RWNLD77LTDpAQ1)** by **sotbarn** *(Wieso Denn Eigentlich Nicht)*
-🎤 **[DO NOT DISTURB](https://open.spotify.com/track/0H5MEc69XenWFqPK63lPH1)** by **lusi 7896, gard** *(DO NOT DISTURB)*
-🎤 **[Wassup](https://open.spotify.com/track/7bGQtMbFEQrwz2nfcU6pwf)** by **humanangst** *(Lost in Translation)*
+🎤 **[NEW MUSIC](https://open.spotify.com/track/36TDOTfbhbmYFAUrHy5Qha)** by **o0o** *(15015)*
+🎤 **[wrong intentions/HERZ](https://open.spotify.com/track/0GHSFAhcvrOKYypcJClKCx)** by **gard, humanangst** *(wrong intentions/HERZ)*
+🎤 **[H1GHONL1F3](https://open.spotify.com/track/5nBfW0vqE6iXxQu7prYVwd)** by **lusi 7896** *(H1GHONL1F3)*
+🎤 **[TREif](https://open.spotify.com/track/2ZJLODyo8p98W9EA0mWNOc)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[KIPP DIE PINT WEG](https://open.spotify.com/track/4yixxq2OOA8U5erwYCXZ4z)** by **mikeycyrus** *(KIPP DIE PINT WEG)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 19:14:35Z UTC
+🕐 Last updated: 2025-12-17 19:30:43Z UTC
 <!-- SPOTIFY-END -->
