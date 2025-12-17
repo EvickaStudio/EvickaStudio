@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27306608c873f04aff632e99d47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)**
-*by* **Bassvictim**
-*Album:* Basspunk 2
+**🎵 [Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)**
+*by* **Snow Strippers**
+*Album:* Night Killaz Vol. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="208" height="4" fill="#1db954" rx="2"/>
-    <circle cx="208" cy="2" r="6" fill="#1db954"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:55
+    1:19 • 2:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Here I Am](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)** by **The Hellp** *(Riviera)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
-🎤 **[Nobody](https://open.spotify.com/track/3wTmRCrN193Al4RyAXlNVD)** by **PureSnow, bronclair** *(Nobody)*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
-🎤 **[NEW MUSIC](https://open.spotify.com/track/36TDOTfbhbmYFAUrHy5Qha)** by **o0o** *(15015)*
+🎤 **[I'm Never Looking Back](https://open.spotify.com/track/79ZZXWGjPxmL39qJaNEQf7)** by **PureSnow** *(Never Change)*
+🎤 **[i was wrong](https://open.spotify.com/track/14Q9HQq9zcSatCaordgQM6)** by **SHEMYYY** *(i was wrong)*
+🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
+🎤 **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
+🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 19:47:38Z UTC
+🕐 Last updated: 2025-12-17 20:15:56Z UTC
 <!-- SPOTIFY-END -->
