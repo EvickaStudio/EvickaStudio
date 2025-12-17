@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27306608c873f04aff632e99d47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738a2f4fa13a72807a583bf753" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)**
-*by* **Snow Strippers**
-*Album:* Night Killaz Vol. 1
+**🎵 [heart taker](https://open.spotify.com/track/1zIxCD7Snj3Vfiz4hxFd7O)**
+*by* **SHEMYYY**
+*Album:* heart taker
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="170" height="4" fill="#1db954" rx="2"/>
-    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 2:20
+    0:43 • 2:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I'm Never Looking Back](https://open.spotify.com/track/79ZZXWGjPxmL39qJaNEQf7)** by **PureSnow** *(Never Change)*
-🎤 **[i was wrong](https://open.spotify.com/track/14Q9HQq9zcSatCaordgQM6)** by **SHEMYYY** *(i was wrong)*
-🎤 **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)*
-🎤 **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
-🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
+🎤 **[Cautious](https://open.spotify.com/track/0dNLgNa4IiwsiebqEz5UZ5)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)*
+🎤 **[Colorway](https://open.spotify.com/track/4bnJS3XGKBBEFemguF1Fqi)** by **Baby Jane** *(A Grave Marked Strange)*
+🎤 **[Sears Tower](https://open.spotify.com/track/0PWFdOlwwQIf0yLS7Gtw9Q)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Mirror](https://open.spotify.com/track/1ipOQYHjsxv711DXd5MZyX)** by **PureSnow** *(Mirror)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 20:15:56Z UTC
+🕐 Last updated: 2025-12-17 20:43:14Z UTC
 <!-- SPOTIFY-END -->
