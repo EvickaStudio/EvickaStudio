@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
+🎤 **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
 🎤 **[die sterne sind fast so schön wie du](https://open.spotify.com/track/0xUIjUi0msWV0CSiEbGCQT)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Taub](https://open.spotify.com/track/35YEb10VcwXhAoudC4nYvN)** by **Pink Katana, TYM** *(Taub)*
-🎤 **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[du bist mir egal](https://open.spotify.com/track/1wA2Ezr8CnOXEiKbopVXH5)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 11:49:15Z UTC
+🕐 Last updated: 2025-12-17 12:28:29Z UTC
 <!-- SPOTIFY-END -->
