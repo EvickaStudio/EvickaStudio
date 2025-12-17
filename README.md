@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c4bccc2345761807df68af1e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b8776c04b64e15a5a3a8768f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)**
-*by* **lustr**
-*Album:* stares
+**🎵 [Absence](https://open.spotify.com/track/2KprIWkhK54bDYEHWzZjwD)**
+*by* **WEB**
+*Album:* Absence
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="106" height="4" fill="#1db954" rx="2"/>
+    <circle cx="106" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:06
+    1:01 • 2:53
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fe en Rebelión](https://open.spotify.com/track/4O6FylCq09NVEUsF9AV69q)** by **yaego** *(Fe en Rebelión)*
-🎤 **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)*
-🎤 **[Comin Down](https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp)** by **Snow Strippers** *(Night Killaz Vol. 1)*
-🎤 **[One Shot](https://open.spotify.com/track/4aep4I17LTXYe78eUKH2F1)** by **PureSnow** *(One Shot)*
-🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
+🎤 **[Child Medallion](https://open.spotify.com/track/1IHmbysEesVYvZvGZQ296y)** by **pathetic240px** *(Child Medallion)*
+🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
+🎤 **[End of the Night](https://open.spotify.com/track/56XVxIZaxSiBg2QTnD7iw1)** by **Baby Jane** *(A Grave Marked Strange)*
+🎤 **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 21:32:53Z UTC
+🕐 Last updated: 2025-12-17 21:49:06Z UTC
 <!-- SPOTIFY-END -->
