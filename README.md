@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)**
-*by* **Pink Katana**
-*Album:* Den Mutigen gehört die Welt
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="100" height="4" fill="#1db954" rx="2"/>
-    <circle cx="100" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
-🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
-🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
-🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
-🎤 **[Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)** by **Gehlektek, TakaTuka** *(Acid Pirate 13)*
+🎤 **[die sterne sind fast so schön wie du](https://open.spotify.com/track/0xUIjUi0msWV0CSiEbGCQT)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Taub](https://open.spotify.com/track/35YEb10VcwXhAoudC4nYvN)** by **Pink Katana, TYM** *(Taub)*
+🎤 **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[du bist mir egal](https://open.spotify.com/track/1wA2Ezr8CnOXEiKbopVXH5)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 10:46:24Z UTC
+🕐 Last updated: 2025-12-17 11:13:17Z UTC
 <!-- SPOTIFY-END -->
