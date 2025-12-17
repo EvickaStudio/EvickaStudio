@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b6865909f834058fb8d96c65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300a75c26e939f5a7a3fd9033" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)**
-*by* **Levi Ryan**
-*Album:* operation wandering soul
+**🎵 [Delinquent](https://open.spotify.com/track/41MQMSYRSVUalKFkkxZDb0)**
+*by* **Lyran Dasz**
+*Album:* Delinquent
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 2:34
+    2:13 • 2:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Loud (feat. Longus Mongus)](https://open.spotify.com/track/00RfCuFzHYJQDbcTCdOytV)** by **BHZ, Monk, Longus Mongus** *(Hellwach)*
-🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
-🎤 **[Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)** by **Ian Asher, Phantogram** *(Black Out Days (Stay Away))*
-🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
+🎤 **[Wein](https://open.spotify.com/track/2x0KAWjLgt4nmGxaBirZhx)** by **makko** *(Wein)*
+🎤 **[Fabergé](https://open.spotify.com/track/7lnQCEtaDJeMZN75siSxLc)** by **RIN** *(Fabergé)*
+🎤 **[Angels With God](https://open.spotify.com/track/2mBfFV0OlvdCBn3hrAEoLe)** by **$pirit Gurlz** *(12:12)*
+🎤 **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)*
+🎤 **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 02:55:36Z UTC
+🕐 Last updated: 2025-12-17 03:51:36Z UTC
 <!-- SPOTIFY-END -->
