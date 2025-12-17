@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273bd017336fc1c0200e956edd2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Mr. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU)**
+*by* **David Kushner**
+*Album:* Mr. Forgettable
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:19 • 3:07
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[dubstep2010](https://open.spotify.com/track/6wR74PQXoWkSALXww5SOmn)** by **blombi19** *(dubstep2010)*
 🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
 🎤 **[Srce - Nightcore](https://open.spotify.com/track/30m9wU6eCPJLcKDOESFGE5)** by **Nomark** *(Srce (Nightcore))*
 🎤 **[kein problem...](https://open.spotify.com/track/0X7DDmVzJqtuCehGEJ7q3c)** by **luu, iwannabemissed** *(immenser pflegefall)*
 🎤 **[so wie kenny](https://open.spotify.com/track/7nfx9tepmahpL6ISf7vCjY)** by **luu, mehlhaltig** *(so wie kenny)*
-🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 08:51:28Z UTC
+🕐 Last updated: 2025-12-17 09:20:57Z UTC
 <!-- SPOTIFY-END -->
