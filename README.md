@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737fd68d7f92983e9003002cb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4bccc2345761807df68af1e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Starfall](https://open.spotify.com/track/4XRhCdKeF1TpDR4mX5DVvx)**
-*by* **SALEM**
-*Album:* Fires In Heaven
+**🎵 [stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)**
+*by* **lustr**
+*Album:* stares
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="290" height="4" fill="#1db954" rx="2"/>
-    <circle cx="290" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:42 • 2:48
+    0:59 • 2:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Colliding Walls](https://open.spotify.com/track/1nGvkQ9zz1YeAiWXabTYT1)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)*
-🎤 **[I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY)** by **Sophia Stel** *(Object Permanence (Deluxe Edition))*
-🎤 **[without you.](https://open.spotify.com/track/0giFwZsDiXt1VjyZSSTSUV)** by **SHEMYYY** *(without you.)*
-🎤 **[gymnastics - cece natalie house remix](https://open.spotify.com/track/2SANR29IcggqNI8xxB8USl)** by **Cece Natalie** *(Recycling Bin Collection 2)*
+🎤 **[Fe en Rebelión](https://open.spotify.com/track/4O6FylCq09NVEUsF9AV69q)** by **yaego** *(Fe en Rebelión)*
+🎤 **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)*
+🎤 **[Comin Down](https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[One Shot](https://open.spotify.com/track/4aep4I17LTXYe78eUKH2F1)** by **PureSnow** *(One Shot)*
+🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 21:13:41Z UTC
+🕐 Last updated: 2025-12-17 21:32:53Z UTC
 <!-- SPOTIFY-END -->
