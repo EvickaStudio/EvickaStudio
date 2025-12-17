@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27392297f0f64dcf1a54b12f9b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)**
+**🎵 [LOWS PARTLYY](https://open.spotify.com/track/1epH5yYLgfWIrbhXnDn5KE)**
 *by* **Bladee**
-*Album:* The Fool
+*Album:* Cold Visions
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="101" height="4" fill="#1db954" rx="2"/>
+    <circle cx="101" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:00
+    0:45 • 2:16
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)*
-🎤 **[FUN FACT (feat. Yung Lean)](https://open.spotify.com/track/3KgxdBMhcSkdmerlGOfFKz)** by **Bladee, Yung Lean** *(Cold Visions)*
-🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
-🎤 **[RIVER FLOWS IN YOU](https://open.spotify.com/track/3zOnfGued2BRZ8Zt1JyTBB)** by **Bladee** *(Cold Visions)*
-🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
+🎤 **[MESSAGE TO MYSELF](https://open.spotify.com/track/1uexqo5emB6f1OKE7O1Liu)** by **Bladee** *(Cold Visions)*
+🎤 **[CANT END ON A LOSS (OUTRO)](https://open.spotify.com/track/4NfIRapLIelgtUUALkDmpy)** by **Bladee** *(Cold Visions)*
+🎤 **[WODRAINER](https://open.spotify.com/track/5JUVGhN9kashmZGVf5lSf2)** by **Bladee** *(Cold Visions)*
+🎤 **[TERRIBLE EXCELLENCE (feat. Yung Lean)](https://open.spotify.com/track/7bCGyK2MQFS56VyOYpDUQS)** by **Bladee, Yung Lean** *(Cold Visions)*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 13:12:12Z UTC
+🕐 Last updated: 2025-12-17 13:45:21Z UTC
 <!-- SPOTIFY-END -->
