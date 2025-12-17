@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de9fa100bac605052660d22a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)**
-*by* **RYLO**
-*Album:* der plattenspieler kratzt
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="45" height="4" fill="#1db954" rx="2"/>
-    <circle cx="45" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:49
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)*
+🎤 **[der plattenspieler kratzt](https://open.spotify.com/track/2kITUw7rnbQpC9H6y6gZvU)** by **RYLO** *(der plattenspieler kratzt)*
 🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
 🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
 🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
-🎤 **[Vanilla Sky](https://open.spotify.com/track/45S1AYnCco4cXjFpoctV7u)** by **Bladee, Ecco2k** *(Vanilla Sky)*
-🎤 **[ONE SECOND (feat. Yung Lean)](https://open.spotify.com/track/2TGwmgjl7qszphP6hfe6Df)** by **Bladee, Yung Lean** *(Cold Visions)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 14:42:38Z UTC
+🕐 Last updated: 2025-12-17 14:57:24Z UTC
 <!-- SPOTIFY-END -->
