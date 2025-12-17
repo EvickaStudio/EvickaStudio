@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)**
+*by* **Bladee**
+*Album:* The Fool
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:33 • 2:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)*
-🎤 **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)*
-🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
-🎤 **[die sterne sind fast so schön wie du](https://open.spotify.com/track/0xUIjUi0msWV0CSiEbGCQT)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
+🎤 **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)*
+🎤 **[FUN FACT (feat. Yung Lean)](https://open.spotify.com/track/3KgxdBMhcSkdmerlGOfFKz)** by **Bladee, Yung Lean** *(Cold Visions)*
+🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
+🎤 **[RIVER FLOWS IN YOU](https://open.spotify.com/track/3zOnfGued2BRZ8Zt1JyTBB)** by **Bladee** *(Cold Visions)*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 12:28:29Z UTC
+🕐 Last updated: 2025-12-17 13:12:12Z UTC
 <!-- SPOTIFY-END -->
