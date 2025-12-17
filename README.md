@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b8776c04b64e15a5a3a8768f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Absence](https://open.spotify.com/track/2KprIWkhK54bDYEHWzZjwD)**
-*by* **WEB**
-*Album:* Absence
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="106" height="4" fill="#1db954" rx="2"/>
-    <circle cx="106" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:53
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Child Medallion](https://open.spotify.com/track/1IHmbysEesVYvZvGZQ296y)** by **pathetic240px** *(Child Medallion)*
-🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
-🎤 **[End of the Night](https://open.spotify.com/track/56XVxIZaxSiBg2QTnD7iw1)** by **Baby Jane** *(A Grave Marked Strange)*
-🎤 **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
+🎤 **[Colorway - Sped Up](https://open.spotify.com/track/3OgcVdjSTA1Hp2erBhVEft)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)*
+🎤 **[Haunting Me](https://open.spotify.com/track/7zHehwGCfT6befxyOenhgE)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Exitin](https://open.spotify.com/track/04GobBF9S74lfUGKIYLkcP)** by **Cece Natalie** *(Miss Behaves)*
+🎤 **[Absence](https://open.spotify.com/track/2KprIWkhK54bDYEHWzZjwD)** by **WEB** *(Absence)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 21:49:06Z UTC
+🕐 Last updated: 2025-12-17 22:13:17Z UTC
 <!-- SPOTIFY-END -->
