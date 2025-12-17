@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7f5262f1aaa89bc67f69352" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27305eb9ae04c8a69ef2371189b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Who Is She ?](https://open.spotify.com/track/6AdgGDGbdRMoCVkGye11Zw)**
-*by* **I Monster**
-*Album:* Neveroddoreven
+**🎵 [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)**
+*by* **Gladys Knight & The Pips**
+*Album:* Imagination (Expanded Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 3:33
+    0:25 • 4:39
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)*
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint, Nightclub20xx** *(remedy)*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
+🎤 **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)*
+🎤 **[Hubba Bubba](https://open.spotify.com/track/1LhYl7a5VxCqpD1NgOhUJa)** by **Ski Aggu** *(2022 war film gewesen)*
+🎤 **[leave me alone](https://open.spotify.com/track/4aVhD5GZCW5EDpOTEKBIcQ)** by **sssss, graphite** *(leave me alone)*
+🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 04:26:57Z UTC
+🕐 Last updated: 2025-12-17 04:51:55Z UTC
 <!-- SPOTIFY-END -->
