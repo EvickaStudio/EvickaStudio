@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27307084232ca758b7515bd79b8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273515213998e18fd8deb4c579d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [15015](https://open.spotify.com/track/5xCaQYC2OQJlc1BayHiIXI)**
-*by* **o0o**
-*Album:* 15015
+**🎵 [www.AngelsAreReal.com](https://open.spotify.com/track/1XHWcZbK6kUOQQzh2yDDAA)**
+*by* **uziellsiilver**
+*Album:* INTERNET GOSPEL
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="117" height="4" fill="#1db954" rx="2"/>
+    <circle cx="117" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 1:56
+    1:00 • 2:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[LIKE A SAINT](https://open.spotify.com/track/79xMzw3j3l3Lsi0aagz0vI)** by **uziellsiilver** *(INTERNET GOSPEL)*
-🎤 **[OUTRO.. Bro](https://open.spotify.com/track/4ealqFIPHuErX72mEuWnFN)** by **lusi 7896, humanangst** *(listen to the music.. Bro)*
-🎤 **[BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[BEAMA](https://open.spotify.com/track/35JNrqu1XDWnf7y9JlKRfN)** by **mikeycyrus** *(BEAMA)*
-🎤 **[#tdddawz](https://open.spotify.com/track/0YKEiTvNoFJ03jBqSYB9Uq)** by **humanangst, busi, Hotelgodlin** *(#tdddawz)*
+🎤 **[:UNLOCKEd](https://open.spotify.com/track/6z1QY4oQ9hAr9dPZUolBei)** by **agelast222, gard** *(SOLAR TACTICS)*
+🎤 **[DIVA](https://open.spotify.com/track/3GLjDlUX3A3x6nSswcgSYc)** by **lusi 7896** *(DIVA)*
+🎤 **[ALLEINE SEIN](https://open.spotify.com/track/1HkCM4ILSkdHppAkjFLStI)** by **mikeycyrus** *(CYRUS)*
+🎤 **[TRÄUME BRÜCKEN ZÄUNE](https://open.spotify.com/track/0s8XyPtRo8lCWzDfZ7gqSD)** by **sotbarn, b3nn3t** *(TRÄUME BRÜCKEN ZÄUNE)*
+🎤 **[15015](https://open.spotify.com/track/5xCaQYC2OQJlc1BayHiIXI)** by **o0o** *(15015)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 17:44:19Z UTC
+🕐 Last updated: 2025-12-17 17:54:21Z UTC
 <!-- SPOTIFY-END -->
