@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)**
-*by* **Pink Katana, TYM**
-*Album:* Den Mutigen gehört die Welt
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="184" height="4" fill="#1db954" rx="2"/>
-    <circle cx="184" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:16 • 2:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[interlude](https://open.spotify.com/track/26S6NQixCrPEdvY2hNLhhl)** by **Pink Katana, veil** *(Den Mutigen gehört die Welt)*
-🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[du bist mir egal](https://open.spotify.com/track/1wA2Ezr8CnOXEiKbopVXH5)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Bangkok_wav](https://open.spotify.com/track/1rk2ObkJiiSD8hprviEOhe)** by **Pink Katana, katlix** *(Den Mutigen gehört die Welt)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[Srce - Nightcore](https://open.spotify.com/track/30m9wU6eCPJLcKDOESFGE5)** by **Nomark** *(Srce (Nightcore))*
+🎤 **[kein problem...](https://open.spotify.com/track/0X7DDmVzJqtuCehGEJ7q3c)** by **luu, iwannabemissed** *(immenser pflegefall)*
+🎤 **[so wie kenny](https://open.spotify.com/track/7nfx9tepmahpL6ISf7vCjY)** by **luu, mehlhaltig** *(so wie kenny)*
+🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 06:53:27Z UTC
+🕐 Last updated: 2025-12-17 07:17:02Z UTC
 <!-- SPOTIFY-END -->
