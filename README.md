@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273cb54a0852728136f8db62a5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)**
+*by* **Harrison Gordon**
+*Album:* The Yuppies are Winning
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:46 • 4:20
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
-🎤 **[Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH)** by **Fitz and The Tantrums** *(More Than Just a Dream (Deluxe Edition))*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
-🎤 **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)*
+🎤 **[Good Vibes Only](https://open.spotify.com/track/0BeYNNWbtEbMHVDpFbfWCC)** by **strangerperson** *(Good Vibes Only)*
+🎤 **[Alle meine Freunde hassen Raves](https://open.spotify.com/track/1GcjMV7H8NMJYZTZnWDFe1)** by **kramsen, KRAMER** *(Alle meine Freunde hassen Raves)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)*
+🎤 **[gothoroolol](https://open.spotify.com/track/6Wa46bQSQkWkiAtEnGHTGS)** by **Death Souljah** *(gothoroolol)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 05:16:29Z UTC
+🕐 Last updated: 2025-12-17 05:43:29Z UTC
 <!-- SPOTIFY-END -->
