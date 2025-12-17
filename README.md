@@ -95,7 +95,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273515213998e18fd8deb4c579d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [www.AngelsAreReal.com](https://open.spotify.com/track/1XHWcZbK6kUOQQzh2yDDAA)**
+**🎵 [INTERNET GOSPEL](https://open.spotify.com/track/4Fddt8wTC6GzAlIZrLjjv6)**
 *by* **uziellsiilver**
 *Album:* INTERNET GOSPEL
 
@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="117" height="4" fill="#1db954" rx="2"/>
-    <circle cx="117" cy="2" r="6" fill="#1db954"/>
+    <rect width="98" height="4" fill="#1db954" rx="2"/>
+    <circle cx="98" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 2:35
+    0:31 • 1:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[:UNLOCKEd](https://open.spotify.com/track/6z1QY4oQ9hAr9dPZUolBei)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[DIVA](https://open.spotify.com/track/3GLjDlUX3A3x6nSswcgSYc)** by **lusi 7896** *(DIVA)*
-🎤 **[ALLEINE SEIN](https://open.spotify.com/track/1HkCM4ILSkdHppAkjFLStI)** by **mikeycyrus** *(CYRUS)*
-🎤 **[TRÄUME BRÜCKEN ZÄUNE](https://open.spotify.com/track/0s8XyPtRo8lCWzDfZ7gqSD)** by **sotbarn, b3nn3t** *(TRÄUME BRÜCKEN ZÄUNE)*
-🎤 **[15015](https://open.spotify.com/track/5xCaQYC2OQJlc1BayHiIXI)** by **o0o** *(15015)*
+🎤 **[eine liebe](https://open.spotify.com/track/72fV0RCHpxERuxcxCm38Ll)** by **ilyproxy** *(eine liebe)*
+🎤 **[BERLIN EX](https://open.spotify.com/track/3lGeM5np5HlQkiw5z7ptxW)** by **mikeycyrus** *(BERLIN EX)*
+🎤 **[allow? Kalid Right of Passage](https://open.spotify.com/track/7GoIdnZH6Zlq5E4eX0qULP)** by **Junshi** *(allow? Kalid Right of Passage)*
+🎤 **[SO BASED SO COOL](https://open.spotify.com/track/6qCtsyaqjqWC3NZnW6jS0U)** by **lusi 7896, 1antibody, Braxton Knight** *(SO BASED SO COOL)*
+🎤 **[jumping](https://open.spotify.com/track/0WoG9ypuWZA6csZ7X4O6e6)** by **caponeti** *(jumping)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 17:54:21Z UTC
+🕐 Last updated: 2025-12-17 18:21:36Z UTC
 <!-- SPOTIFY-END -->
