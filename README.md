@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e9f4c0e74b7e50bbf151de9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b6865909f834058fb8d96c65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)**
-*by* **Varg²™, RXKNephew**
-*Album:* LD50 VOL.1
+**🎵 [i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)**
+*by* **Levi Ryan**
+*Album:* operation wandering soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="42" height="4" fill="#1db954" rx="2"/>
-    <circle cx="42" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 4:42
+    2:10 • 2:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
-🎤 **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)*
-🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
-🎤 **[Solitude - Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk)** by **M83, Felsmann + Tiley** *(Solitude (Felsmann + Tiley Reinterpretation))*
-🎤 **[Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)** by **Kicker Dibs** *(Sonnemondstern)*
+🎤 **[Loud (feat. Longus Mongus)](https://open.spotify.com/track/00RfCuFzHYJQDbcTCdOytV)** by **BHZ, Monk, Longus Mongus** *(Hellwach)*
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
+🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
+🎤 **[Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)** by **Ian Asher, Phantogram** *(Black Out Days (Stay Away))*
+🎤 **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
-🏅 [**Marco Cirillo**](https://open.spotify.com/artist/4cHsDM859LW0ndSRjcj6ee)
+🏅 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-17 01:01:16Z UTC
+🕐 Last updated: 2025-12-17 02:55:36Z UTC
 <!-- SPOTIFY-END -->
