@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f5b9b1d1495ad1ddd49fc869" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)**
-*by* **Cece Natalie**
-*Album:* Miracle
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="267" height="4" fill="#1db954" rx="2"/>
-    <circle cx="267" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 3:05
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
-🎤 **[flickering lights](https://open.spotify.com/track/6uIJsU6ynGotrvVzu9keBi)** by **boysinblush, anna luna** *(flickering lights)*
-🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
-🎤 **[Paranoid](https://open.spotify.com/track/0w2piYWj1F2bzUftzGJgK9)** by **Kanye West, Mr Hudson** *(808s & Heartbreak)*
-🎤 **[Durch den Monsun - Radio Mix](https://open.spotify.com/track/41YOS7VuxHEEwYHLfa7VWM)** by **Tokio Hotel** *(Schrei (so laut du kannst) [New Version])*
+🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
+🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[life is shitty](https://open.spotify.com/track/44AOXVPm88PRrAU5C7vYsf)** by **Xxcrush, Capoxxo** *(lifeeee)*
+🎤 **[Over](https://open.spotify.com/track/3KX7oKolUVqSQOkRxL3yaI)** by **Sg Lily, tonser** *(Content)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 20:51:14Z UTC
+🕐 Last updated: 2025-12-18 21:12:24Z UTC
 <!-- SPOTIFY-END -->
