@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360c2ba701cfb28ff86e70bc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)**
-*by* **Eera**
-*Album:* The Sky Thats Between Us
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:07 • 3:44
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
-🎤 **[BTSTU - Demo](https://open.spotify.com/track/59bvVhQYDomd4zc1gWYc3z)** by **Jai Paul** *(Leak 04-13 (Bait Ones))*
-🎤 **[My Wounds](https://open.spotify.com/track/4sQDzmcLTU2WP4SU15Kv8p)** by **Snow Strippers** *(April Mixtape)*
-🎤 **[Swimming in Your Pool](https://open.spotify.com/track/2QvI3cDXrh5JXJ3nHMC5xi)** by **Somewhere Special, Zeke The Zombie Slayur** *(Playground)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
+🎤 **[monster](https://open.spotify.com/track/42YfKgGBdhbUIKcjc8af0L)** by **Tamino404** *(monster)*
+🎤 **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by **RYLO** *(fern als heimweh)*
+🎤 **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)*
+🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
+🎤 **[Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL)** by **Kanye West** *(The Life Of Pablo)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 10:15:05Z UTC
+🕐 Last updated: 2025-12-18 10:42:32Z UTC
 <!-- SPOTIFY-END -->
