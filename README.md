@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ecec149045e4f83cce7c9c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)**
-*by* **Snow Strippers**
-*Album:* The Snow Strippers
+**🎵 [Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)**
+*by* **pathetic240px**
+*Album:* Dancing Nihilist
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:43
+    1:19 • 3:36
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[End of the Night](https://open.spotify.com/track/56XVxIZaxSiBg2QTnD7iw1)** by **Baby Jane** *(A Grave Marked Strange)*
+🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
+🎤 **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)*
+🎤 **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)*
 🎤 **[fw24](https://open.spotify.com/track/4ElTEqO5KuickZgw8aRw2H)** by **lil london** *(fw24)*
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
-🎤 **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)*
-🎤 **[Sommer in Berlin](https://open.spotify.com/track/0Mtm1zyKK4RXU4FMeXiya7)** by **Gabriel** *(Sommer in Berlin)*
-🎤 **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 17:44:42Z UTC
+🕐 Last updated: 2025-12-18 17:54:59Z UTC
 <!-- SPOTIFY-END -->
