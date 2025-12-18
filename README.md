@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273999a0eee5c7a5762e4cd325b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d438c086b54c5b97476d128d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)**
-*by* **Somewhere Special**
-*Album:* Playground
+**🎵 [754](https://open.spotify.com/track/1KOv9Wf7Kc0hoVooMfhrVJ)**
+*by* **Cece Natalie**
+*Album:* Miss Behaves
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="91" height="4" fill="#1db954" rx="2"/>
-    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+    <rect width="168" height="4" fill="#1db954" rx="2"/>
+    <circle cx="168" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 3:36
+    2:17 • 4:05
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[My Own Mistakes](https://open.spotify.com/track/48jdqvxgzqlOHNTaZY7GXj)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
-🎤 **[Like a taxi (Oh well)](https://open.spotify.com/track/1RZ6czgnmvTCVfPlfSRAAu)** by **Cece Natalie** *(Miss Behaves)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
-🎤 **[Nobody](https://open.spotify.com/track/3wTmRCrN193Al4RyAXlNVD)** by **PureSnow, bronclair** *(Nobody)*
+🎤 **[Neoperreo](https://open.spotify.com/track/0ZfNtW6eYyEfY2ni14Thwu)** by **Secret Society, ALIC3E** *(Neoperreo)*
+🎤 **[Don't Make Sense Anymore](https://open.spotify.com/track/6HPDCFueSmLHGBF1s60mBU)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[TKOHHH](https://open.spotify.com/track/4sFgDY8DsSWwC0SxnA7Phj)** by **yaego** *(ÆRO Vol. 2)*
+🎤 **[Anams Song](https://open.spotify.com/track/3ckHTyS4sf5D6HJ3VxRStD)** by **Thrilliam Angels, 020baby** *(The Static Screams Your Name)*
+🎤 **[rotten](https://open.spotify.com/track/1ZcHq28lmqdckiwGwuGMMp)** by **jxlyn** *(rotten)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 08:19:44Z UTC
+🕐 Last updated: 2025-12-18 08:50:21Z UTC
 <!-- SPOTIFY-END -->
