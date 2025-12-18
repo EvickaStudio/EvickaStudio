@@ -91,26 +91,7 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL)**
-*by* **XXXTENTACION**
-*Album:* ?
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:15 • 2:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 22:51:05Z UTC
+🕐 Last updated: 2025-12-18 23:13:29Z UTC
 <!-- SPOTIFY-END -->
