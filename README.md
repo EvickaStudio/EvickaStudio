@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ecec149045e4f83cce7c9c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734c56a857a1e66e92c2edae96" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)**
-*by* **pathetic240px**
-*Album:* Dancing Nihilist
+**🎵 [BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)**
+*by* **Dj Billybool, Eurohead, Bladee**
+*Album:* DYR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="67" height="4" fill="#1db954" rx="2"/>
+    <circle cx="67" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 3:36
+    0:34 • 2:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[End of the Night](https://open.spotify.com/track/56XVxIZaxSiBg2QTnD7iw1)** by **Baby Jane** *(A Grave Marked Strange)*
-🎤 **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)*
-🎤 **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)*
-🎤 **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[fw24](https://open.spotify.com/track/4ElTEqO5KuickZgw8aRw2H)** by **lil london** *(fw24)*
+🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
+🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 17:54:59Z UTC
+🕐 Last updated: 2025-12-18 18:20:49Z UTC
 <!-- SPOTIFY-END -->
