@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b8d235b248267f18f456baee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cf63ba5ed163932dc26cd41a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [7. Säule](https://open.spotify.com/track/7f5XOsY01liVHxblAtOwK7)**
-*by* **Lix, Elujjin**
-*Album:* 7. Säule
+**🎵 [AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)**
+*by* **SILICONE VALLEY**
+*Album:* AA Chrome
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 3:54
+    2:12 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[7. Säule](https://open.spotify.com/track/7f5XOsY01liVHxblAtOwK7)** by **Lix, Elujjin** *(7. Säule)*
 🎤 **[in my mind](https://open.spotify.com/track/3BlJbQhmGmLV5YvYLmXbQO)** by **Mezha** *(in my mind)*
 🎤 **[high school](https://open.spotify.com/track/09NzfR4UREYwzrMnQ2jn4T)** by **03osc** *(high school)*
-🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
-🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
-🎤 **[Rummelplatz](https://open.spotify.com/track/4YAAU6fRUHINAvPVNyx4NM)** by **Money Boy** *(The Lost Tape III)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 19:26:48Z UTC
+🕐 Last updated: 2025-12-18 19:35:34Z UTC
 <!-- SPOTIFY-END -->
