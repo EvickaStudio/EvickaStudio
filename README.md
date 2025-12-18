@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27385a2da83b5b340365ae7d8cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738b7b2e11970c698f38821452" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)**
-*by* **Robert Miles**
-*Album:* Children (Dance Vault Mixes)
+**🎵 [Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)**
+*by* **Wir sind Helden**
+*Album:* Die Reklamation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="162" height="4" fill="#1db954" rx="2"/>
+    <circle cx="162" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 4:03
+    1:55 • 3:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hubba Bubba](https://open.spotify.com/track/1LhYl7a5VxCqpD1NgOhUJa)** by **Ski Aggu** *(2022 war film gewesen)*
-🎤 **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)*
-🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
-🎤 **[Backpack](https://open.spotify.com/track/65d3YuRIeblrM43McnTDlm)** by **strangerperson** *(Backpack)*
-🎤 **[A Whole Lot of Things](https://open.spotify.com/track/1RgVWRFgFyyWWINc2F0Rat)** by **Reserv** *(A True Romantic Comedy)*
+🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
+🎤 **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Doktorspiele - English Version](https://open.spotify.com/track/7CSJZbmQd5YsNdwYfeGsNj)** by **Alex C., Yass** *(Euphoria (International Edition))*
+🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 18:52:32Z UTC
+🕐 Last updated: 2025-12-18 19:13:16Z UTC
 <!-- SPOTIFY-END -->
