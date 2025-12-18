@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731b8a46d3a04fc07f884e3b28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)**
-*by* **Thrilliam Angels, Ecco2k**
-*Album:* The Static Screams Your Name
+**🎵 [Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)**
+*by* **Ecco2k**
+*Album:* E
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="38" height="4" fill="#1db954" rx="2"/>
+    <circle cx="38" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 2:21
+    0:28 • 3:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ketamina](https://open.spotify.com/track/0mzHbZ09hL9uUeV7rJ1ylR)** by **yaego, KUČKA** *(ketamina)*
-🎤 **[Hurt So Good](https://open.spotify.com/track/61BRbDVw44CVNMfMvYX3ct)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[last one](https://open.spotify.com/track/2lfc2mzwAzNO1FXWlypl9U)** by **SHEMYYY** *(last one)*
-🎤 **[Tennis Court](https://open.spotify.com/track/33cHdg268lMi5XqqwSd5nb)** by **Cece Natalie** *(Miss Behaves)*
-🎤 **[Forever](https://open.spotify.com/track/5JkSyowcw5p0dKwhUrMRP6)** by **PureSnow** *(Revelation)*
+🎤 **[Tweak](https://open.spotify.com/track/0HMj8yIPEWub336LOF5AdQ)** by **Saska** *(Dosis)*
+🎤 **[In My Head](https://open.spotify.com/track/1MIKmAUOndg822y6CzuiHA)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[Frost](https://open.spotify.com/track/08qP9BisonMEIP2AuztMZX)** by **SALEM** *(King Night)*
+🎤 **[musica electronica - slowed version](https://open.spotify.com/track/0zridiBO8nU0DYZM9lpTxR)** by **yaego** *(ÆRO Vol. 2)*
+🎤 **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 09:19:25Z UTC
+🕐 Last updated: 2025-12-18 09:45:59Z UTC
 <!-- SPOTIFY-END -->
