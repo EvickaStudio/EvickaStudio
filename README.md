@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736631be482e2fbedd45de9e5d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)**
+*by* **Basement Jaxx, 100 gecs**
+*Album:* where's my head at _
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:23 • 2:32
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
+🎤 **[Meine Gang (Bang Bang) - feat. Danju](https://open.spotify.com/track/4aqFOur4hjlFpGTvhtSVjb)** by **CRO, Danju** *(Melodie (Deluxe-Premium Edition))*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
 🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
 🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[life is shitty](https://open.spotify.com/track/44AOXVPm88PRrAU5C7vYsf)** by **Xxcrush, Capoxxo** *(lifeeee)*
-🎤 **[Over](https://open.spotify.com/track/3KX7oKolUVqSQOkRxL3yaI)** by **Sg Lily, tonser** *(Content)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 21:12:24Z UTC
+🕐 Last updated: 2025-12-18 21:28:04Z UTC
 <!-- SPOTIFY-END -->
