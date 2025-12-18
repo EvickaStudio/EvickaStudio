@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273faa6560290393ee2057a6581" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27359c3c0bc91f30cfcdc3aa709" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK)**
-*by* **Gym Class Heroes**
-*Album:* The Papercut Chronicles
+**🎵 [Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)**
+*by* **mol$, Lusi, 240pearl**
+*Album:* Rip+
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="145" height="4" fill="#1db954" rx="2"/>
+    <circle cx="145" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 4:03
+    0:51 • 1:46
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wouldn't It Be Nice](https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj)** by **The Beach Boys** *(Greatest Hits)*
-🎤 **[Lost](https://open.spotify.com/track/0ytmxOjS0L12GlEdGQJo37)** by **RONEN** *(Hidden)*
-🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
-🎤 **[Intergallactic](https://open.spotify.com/track/1Ad4Uns8u9aytqNdPueSsP)** by **TYM** *(Sandstorm exuleD)*
-🎤 **[Pirouette](https://open.spotify.com/track/6tu82VxI7sN4zdeQd19H9f)** by **Lil Narnia** *(Wisteria)*
+🎤 **[All Dogs Go to Heaven](https://open.spotify.com/track/1DoBPOlB884EHiftB46QGx)** by **$uicideboy$** *(Stop Staring At the Shadows)*
+🎤 **[It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl)** by **Rainbow Kitten Surprise** *(How to: Friend, Love, Freefall)*
+🎤 **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)*
+🎤 **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)*
+🎤 **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 21:47:57Z UTC
+🕐 Last updated: 2025-12-18 22:13:01Z UTC
 <!-- SPOTIFY-END -->
