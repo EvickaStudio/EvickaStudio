@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce42b1d526c43bce06defb71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)**
-*by* **Joey Cash**
-*Album:* lose control
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="16" height="4" fill="#1db954" rx="2"/>
-    <circle cx="16" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:10 • 3:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv)** by **Chanel Beads** *(Your Day Will Come)*
+🎤 **[Edge Of The Ocean](https://open.spotify.com/track/2a9ghHbePKnkSOem2E1Dey)** by **Ivy** *(Long Distance (25th Anniversary Edition))*
+🎤 **[Dream About Me](https://open.spotify.com/track/4mTgvRi6Sy3Ya8PDzZy0XH)** by **The Depreciation Guild** *(Spirit Youth)*
+🎤 **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)*
 🎤 **[Skullcrush](https://open.spotify.com/track/4WiRI2Xp9Fq7zjM1buFC3k)** by **SALEM** *(Water)*
-🎤 **[Colorway - Sped Up](https://open.spotify.com/track/3OgcVdjSTA1Hp2erBhVEft)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
-🎤 **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)*
-🎤 **[Haunting Me](https://open.spotify.com/track/7zHehwGCfT6befxyOenhgE)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Exitin](https://open.spotify.com/track/04GobBF9S74lfUGKIYLkcP)** by **Cece Natalie** *(Miss Behaves)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 07:16:26Z UTC
+🕐 Last updated: 2025-12-18 07:40:00Z UTC
 <!-- SPOTIFY-END -->
