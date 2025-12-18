@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273af7ff57e29fc4ba9dd986952" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f5b9b1d1495ad1ddd49fc869" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Durch den Monsun - Radio Mix](https://open.spotify.com/track/41YOS7VuxHEEwYHLfa7VWM)**
-*by* **Tokio Hotel**
-*Album:* Schrei (so laut du kannst) [New Version]
+**🎵 [Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)**
+*by* **Cece Natalie**
+*Album:* Miracle
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="267" height="4" fill="#1db954" rx="2"/>
+    <circle cx="267" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 3:56
+    2:44 • 3:05
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Knights](https://open.spotify.com/track/2Q4hl7psP5tVG6rOYZk0m0)** by **Crystal Castles** *(Crystal Castles)*
-🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
-🎤 **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)*
-🎤 **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)*
-🎤 **[Stereo Love](https://open.spotify.com/track/3lYLrCyDzd7WN7mN4T9AkX)** by **Edward Maya, Vika Jigulina** *(The Stereo Love Show)*
+🎤 **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
+🎤 **[flickering lights](https://open.spotify.com/track/6uIJsU6ynGotrvVzu9keBi)** by **boysinblush, anna luna** *(flickering lights)*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[Paranoid](https://open.spotify.com/track/0w2piYWj1F2bzUftzGJgK9)** by **Kanye West, Mr Hudson** *(808s & Heartbreak)*
+🎤 **[Durch den Monsun - Radio Mix](https://open.spotify.com/track/41YOS7VuxHEEwYHLfa7VWM)** by **Tokio Hotel** *(Schrei (so laut du kannst) [New Version])*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 20:33:30Z UTC
+🕐 Last updated: 2025-12-18 20:51:14Z UTC
 <!-- SPOTIFY-END -->
