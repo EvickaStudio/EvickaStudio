@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b7b2e11970c698f38821452" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b8d235b248267f18f456baee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)**
-*by* **Wir sind Helden**
-*Album:* Die Reklamation
+**🎵 [7. Säule](https://open.spotify.com/track/7f5XOsY01liVHxblAtOwK7)**
+*by* **Lix, Elujjin**
+*Album:* 7. Säule
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 3:33
+    1:27 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
-🎤 **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Doktorspiele - English Version](https://open.spotify.com/track/7CSJZbmQd5YsNdwYfeGsNj)** by **Alex C., Yass** *(Euphoria (International Edition))*
-🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
+🎤 **[in my mind](https://open.spotify.com/track/3BlJbQhmGmLV5YvYLmXbQO)** by **Mezha** *(in my mind)*
+🎤 **[high school](https://open.spotify.com/track/09NzfR4UREYwzrMnQ2jn4T)** by **03osc** *(high school)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
+🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
+🎤 **[Rummelplatz](https://open.spotify.com/track/4YAAU6fRUHINAvPVNyx4NM)** by **Money Boy** *(The Lost Tape III)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 19:13:16Z UTC
+🕐 Last updated: 2025-12-18 19:26:48Z UTC
 <!-- SPOTIFY-END -->
