@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d438c086b54c5b97476d128d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731b8a46d3a04fc07f884e3b28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [754](https://open.spotify.com/track/1KOv9Wf7Kc0hoVooMfhrVJ)**
-*by* **Cece Natalie**
-*Album:* Miss Behaves
+**🎵 [Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)**
+*by* **Thrilliam Angels, Ecco2k**
+*Album:* The Static Screams Your Name
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="168" height="4" fill="#1db954" rx="2"/>
-    <circle cx="168" cy="2" r="6" fill="#1db954"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:17 • 4:05
+    2:18 • 2:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Neoperreo](https://open.spotify.com/track/0ZfNtW6eYyEfY2ni14Thwu)** by **Secret Society, ALIC3E** *(Neoperreo)*
-🎤 **[Don't Make Sense Anymore](https://open.spotify.com/track/6HPDCFueSmLHGBF1s60mBU)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[TKOHHH](https://open.spotify.com/track/4sFgDY8DsSWwC0SxnA7Phj)** by **yaego** *(ÆRO Vol. 2)*
-🎤 **[Anams Song](https://open.spotify.com/track/3ckHTyS4sf5D6HJ3VxRStD)** by **Thrilliam Angels, 020baby** *(The Static Screams Your Name)*
-🎤 **[rotten](https://open.spotify.com/track/1ZcHq28lmqdckiwGwuGMMp)** by **jxlyn** *(rotten)*
+🎤 **[ketamina](https://open.spotify.com/track/0mzHbZ09hL9uUeV7rJ1ylR)** by **yaego, KUČKA** *(ketamina)*
+🎤 **[Hurt So Good](https://open.spotify.com/track/61BRbDVw44CVNMfMvYX3ct)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[last one](https://open.spotify.com/track/2lfc2mzwAzNO1FXWlypl9U)** by **SHEMYYY** *(last one)*
+🎤 **[Tennis Court](https://open.spotify.com/track/33cHdg268lMi5XqqwSd5nb)** by **Cece Natalie** *(Miss Behaves)*
+🎤 **[Forever](https://open.spotify.com/track/5JkSyowcw5p0dKwhUrMRP6)** by **PureSnow** *(Revelation)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 08:50:21Z UTC
+🕐 Last updated: 2025-12-18 09:19:25Z UTC
 <!-- SPOTIFY-END -->
