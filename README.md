@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
-*by* **mint**
-*Album:* help me
+**🎵 [Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)**
+*by* **sparr00w**
+*Album:* Bitte lass mich einfach los
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 2:48
+    1:32 • 3:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
-🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
-🎤 **[Meine Gang (Bang Bang) - feat. Danju](https://open.spotify.com/track/4aqFOur4hjlFpGTvhtSVjb)** by **CRO, Danju** *(Melodie (Deluxe-Premium Edition))*
-🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)*
+🎤 **[ME!ME!ME! feat. daoko_pt.3](https://open.spotify.com/track/1YWmUFOR1jTFzEowXkCVG6)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)*
+🎤 **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 16:19:21Z UTC
+🕐 Last updated: 2025-12-18 16:51:41Z UTC
 <!-- SPOTIFY-END -->
