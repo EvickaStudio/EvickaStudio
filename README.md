@@ -91,24 +91,43 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273999a0eee5c7a5762e4cd325b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)**
+*by* **Somewhere Special**
+*Album:* Playground
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:05 • 3:36
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv)** by **Chanel Beads** *(Your Day Will Come)*
-🎤 **[Edge Of The Ocean](https://open.spotify.com/track/2a9ghHbePKnkSOem2E1Dey)** by **Ivy** *(Long Distance (25th Anniversary Edition))*
-🎤 **[Dream About Me](https://open.spotify.com/track/4mTgvRi6Sy3Ya8PDzZy0XH)** by **The Depreciation Guild** *(Spirit Youth)*
-🎤 **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)*
-🎤 **[Skullcrush](https://open.spotify.com/track/4WiRI2Xp9Fq7zjM1buFC3k)** by **SALEM** *(Water)*
+🎤 **[My Own Mistakes](https://open.spotify.com/track/48jdqvxgzqlOHNTaZY7GXj)** by **Snow Strippers** *(April Mixtape 2)*
+🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
+🎤 **[Like a taxi (Oh well)](https://open.spotify.com/track/1RZ6czgnmvTCVfPlfSRAAu)** by **Cece Natalie** *(Miss Behaves)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[Nobody](https://open.spotify.com/track/3wTmRCrN193Al4RyAXlNVD)** by **PureSnow, bronclair** *(Nobody)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥇 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**RADWIMPS**](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7)
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 07:49:35Z UTC
+🕐 Last updated: 2025-12-18 08:19:44Z UTC
 <!-- SPOTIFY-END -->
