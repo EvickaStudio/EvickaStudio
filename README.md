@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cf63ba5ed163932dc26cd41a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273999a0eee5c7a5762e4cd325b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)**
-*by* **SILICONE VALLEY**
-*Album:* AA Chrome
+**🎵 [Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)**
+*by* **Somewhere Special**
+*Album:* Playground
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="273" height="4" fill="#1db954" rx="2"/>
-    <circle cx="273" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 2:25
+    2:42 • 3:16
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Colliding Walls](https://open.spotify.com/track/1nGvkQ9zz1YeAiWXabTYT1)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[Loose Cannon](https://open.spotify.com/track/7Ff4n5xLCb6rDRuiox1Juw)** by **Puzzle** *(X Hail)*
+🎤 **[AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)** by **SILICONE VALLEY** *(AA Chrome)*
 🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[7. Säule](https://open.spotify.com/track/7f5XOsY01liVHxblAtOwK7)** by **Lix, Elujjin** *(7. Säule)*
-🎤 **[in my mind](https://open.spotify.com/track/3BlJbQhmGmLV5YvYLmXbQO)** by **Mezha** *(in my mind)*
-🎤 **[high school](https://open.spotify.com/track/09NzfR4UREYwzrMnQ2jn4T)** by **03osc** *(high school)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 19:35:34Z UTC
+🕐 Last updated: 2025-12-18 19:47:48Z UTC
 <!-- SPOTIFY-END -->
