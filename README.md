@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360c2ba701cfb28ff86e70bc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)**
-*by* **Ecco2k**
-*Album:* E
+**🎵 [The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)**
+*by* **Eera**
+*Album:* The Sky Thats Between Us
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="38" height="4" fill="#1db954" rx="2"/>
-    <circle cx="38" cy="2" r="6" fill="#1db954"/>
+    <rect width="250" height="4" fill="#1db954" rx="2"/>
+    <circle cx="250" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 3:44
+    3:07 • 3:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tweak](https://open.spotify.com/track/0HMj8yIPEWub336LOF5AdQ)** by **Saska** *(Dosis)*
-🎤 **[In My Head](https://open.spotify.com/track/1MIKmAUOndg822y6CzuiHA)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[Frost](https://open.spotify.com/track/08qP9BisonMEIP2AuztMZX)** by **SALEM** *(King Night)*
-🎤 **[musica electronica - slowed version](https://open.spotify.com/track/0zridiBO8nU0DYZM9lpTxR)** by **yaego** *(ÆRO Vol. 2)*
-🎤 **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[BTSTU - Demo](https://open.spotify.com/track/59bvVhQYDomd4zc1gWYc3z)** by **Jai Paul** *(Leak 04-13 (Bait Ones))*
+🎤 **[My Wounds](https://open.spotify.com/track/4sQDzmcLTU2WP4SU15Kv8p)** by **Snow Strippers** *(April Mixtape)*
+🎤 **[Swimming in Your Pool](https://open.spotify.com/track/2QvI3cDXrh5JXJ3nHMC5xi)** by **Somewhere Special, Zeke The Zombie Slayur** *(Playground)*
+🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 09:45:59Z UTC
+🕐 Last updated: 2025-12-18 10:15:05Z UTC
 <!-- SPOTIFY-END -->
