@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273429d2c451afd520ce02edf78" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)**
-*by* **jonatan leandoer96**
-*Album:* Psychopath Ballads
+**🎵 [Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL)**
+*by* **XXXTENTACION**
+*Album:* ?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 3:30
+    2:15 • 2:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Last Friday Night](https://open.spotify.com/track/5MKhSKaCJruH3oQpiMyIo0)** by **sign crushes motorist** *(i'll be okay)*
+🎤 **[Endlich bist Du da](https://open.spotify.com/track/1CfbGrMXQzo6iTuS0NbMHn)** by **leander** *(Endlich bist Du da)*
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
 🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
 🎤 **[4Life](https://open.spotify.com/track/2531Mg7kVzWjVVWRKwqPwI)** by **Maikel, TYM** *(4Life)*
-🎤 **[All The Things She Said 2020 - Sub Sonik Remix](https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj)** by **DJ Gollum, Scarlet, Sub Sonik** *(All the Things She Said 2020 (Sub Sonik Remix))*
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
-🎤 **[S u r r e a l i t y](https://open.spotify.com/track/1YCSXPHGGLtBT3pLHuoWKv)** by **TOKYOPILL** *(S u r r e a l i t y)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-18 22:35:12Z UTC
+🕐 Last updated: 2025-12-18 22:51:05Z UTC
 <!-- SPOTIFY-END -->
