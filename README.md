@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aa437639d146a7931ea671bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27308a501d02bc9680c6c7643a7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [haftpflichtversicherung](https://open.spotify.com/track/1LIDD6C0FJGQPuNnm6mBl4)**
-*by* **luu, mehlhaltig**
-*Album:* verluustanzeige (wo bin ich?)
+**🎵 [shtwt slut - I'm so Fucked up Please Help Me - Slowed](https://open.spotify.com/track/7ruAWYq9PiPOJg2USWtO5A)**
+*by* **kysmelo, 1th44n, kemoxoo**
+*Album:* shtwt slut (I'm so fucked up please help me)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="132" height="4" fill="#1db954" rx="2"/>
-    <circle cx="132" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 1:41
+    0:58 • 2:59
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
-🎤 **[GEGENgIFT (+danny2k)](https://open.spotify.com/track/4gxVDAc74sJzgFAydCkAbQ)** by **vee4archive, Vee4r, danny2k** *(GEGENgIFT (+danny2k))*
+🎤 **[1234 NASEN KOKS](https://open.spotify.com/track/3URAdWSODu10IcfsFl0Fjr)** by **vee4archive, Vee4r** *(1234 NASEN KOKS)*
+🎤 **[CUNT !](https://open.spotify.com/track/2bJQtYaWJBYlhWdUY6uC8m)** by **dethkitty, disoc8** *(CUNT !)*
+🎤 **[X](https://open.spotify.com/track/5fOUCr3wpg3xcEG1rIM0el)** by **realzombie, stardante** *(X)*
+🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
 🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luutwo, Skatey Hellstar** *(shapeshifter)*
-🎤 **[grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)** by **pink luu, nami, cxpyyy, luu** *(grabbesuch)*
-🎤 **[leaking red glitter - slowed](https://open.spotify.com/track/0bhlNYa2tuLIe1t27m0ZBU)** by **snor** *(sobrelis (slowed))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 17:13:02Z UTC
+🕐 Last updated: 2025-12-19 17:31:02Z UTC
 <!-- SPOTIFY-END -->
