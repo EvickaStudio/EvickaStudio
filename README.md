@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bf658990b86dd46e37a0c120" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b940ea21257240f2ad8b8b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MANIFESTIERT TECHNO - Slit253 Remix](https://open.spotify.com/track/738vx7wQ7TCpCfsvWjhpDs)**
-*by* **MISKA, Slit253**
-*Album:* MANIFESTIERT TECHNO (Slit253 Remix)
+**🎵 [DOPAMINE](https://open.spotify.com/track/08ZlsHt13Dm6kMvBhJU6xv)**
+*by* **Project**
+*Album:* P30
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 2:58
+    0:58 • 1:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[Klinge Klinge Ling](https://open.spotify.com/track/1IDyFralUKBofEirNKE0ar)** by **KANTROX** *(Klinge Klinge Ling)*
-🎤 **[Winter in Paris](https://open.spotify.com/track/0tCU58D3EQcsl4o37x7kLs)** by **TILLY PANTHA, Max Niklas** *(Winter in Paris)*
-🎤 **[morose](https://open.spotify.com/track/4iZ6qgwAI5eqhgeiexhaVl)** by **luu, m1v** *(morose)*
-🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
+🎤 **[SPEND IT ALL - og version](https://open.spotify.com/track/5DBBDhVYYFvGGZA9HLkRfB)** by **vee4archive, Vee4r, Lyretrix** *(SPEND IT ALL (og version))*
+🎤 **[Lovely](https://open.spotify.com/track/6lknOr8pXufeFO066dQH8k)** by **prvttyscrzz, 503scoob, euphoria** *(Mood Swing!)*
+🎤 **[IBUPROFEN!☆♡•-](https://open.spotify.com/track/6xJZUPLRdN4ODDTTsmFkuX)** by **fwks** *(IBUPROFEN!☆♡•-)*
+🎤 **[FENTPFLASTER](https://open.spotify.com/track/3dYlFQXWdOfGNFWx2780Il)** by **Vee4r, fwks** *(FENTPFLASTER)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 15:36:11Z UTC
+🕐 Last updated: 2025-12-19 15:52:08Z UTC
 <!-- SPOTIFY-END -->
