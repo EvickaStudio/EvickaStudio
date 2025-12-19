@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737dd95038536816a0a2e46848" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce42b1d526c43bce06defb71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [vamps @ nite](https://open.spotify.com/track/78dwYnh0zdEEXlOO8WH8bp)**
-*by* **03osc, 2BROKE**
-*Album:* vamps @ nite
+**🎵 [lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)**
+*by* **Joey Cash**
+*Album:* lose control
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="167" height="4" fill="#1db954" rx="2"/>
-    <circle cx="167" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 1:24
+    1:17 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[stupid little liar](https://open.spotify.com/track/2D8HsBtCLoFZ2PQzBwkqKE)** by **hauntingclaire, luvwillow** *(stupid little liar)*
-🎤 **[CAN'T DECIDE](https://open.spotify.com/track/6E8j1AZuvMYwDyQ3O8YpWB)** by **hydrakuma13, $kirmish** *(CAN'T DECIDE)*
-🎤 **[WIESO TUST DU MIR DAS AN](https://open.spotify.com/track/2UBLhEyQNqgvRhklkgFXK4)** by **vee4archive, Vee4r** *(WIESO TUST DU MIR DAS AN)*
-🎤 **[#breakurheart](https://open.spotify.com/track/3Edf6gKdh1p1BJdQXQ9tDo)** by **pink luu, TheyhxteAnt** *(#breakurheart)*
-🎤 **[HE'S LOST IT](https://open.spotify.com/track/2zVpChyxgIbRLpL8hYT0oN)** by **3DOKI** *(HE'S LOST IT)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
+🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
+🎤 **[BLISTER IM BACKPACK](https://open.spotify.com/track/4CduNMBHQUyhoPtw4A7apR)** by **vee4archive** *(BLISTER IM BACKPACK)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 18:49:50Z UTC
+🕐 Last updated: 2025-12-19 19:11:23Z UTC
 <!-- SPOTIFY-END -->
