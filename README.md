@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733131e5578ea9ad77a5242b23" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737dd95038536816a0a2e46848" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [PEINLICH (+danny2k)](https://open.spotify.com/track/1dAp2bCmneXTMFcA12vL7n)**
-*by* **vee4archive, Vee4r, danny2k**
-*Album:* PEINLICH (+danny2k)
+**🎵 [vamps @ nite](https://open.spotify.com/track/78dwYnh0zdEEXlOO8WH8bp)**
+*by* **03osc, 2BROKE**
+*Album:* vamps @ nite
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="167" height="4" fill="#1db954" rx="2"/>
+    <circle cx="167" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:03 • 1:58
+    0:47 • 1:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[offkey](https://open.spotify.com/track/0uJjvhrja2L1Y3mJMoYpeu)** by **vanity, stardante, Pr0xy** *(offkey)*
-🎤 **[NEED U BACK](https://open.spotify.com/track/3AVJ5ulGk6pFXdiclXanII)** by **stardante, vanity, 10n35t4r, luu** *(NEED U BACK)*
-🎤 **[RTW](https://open.spotify.com/track/2XzlcHUeyGtcz8z3KXZzFP)** by **pink luu** *(RTW)*
-🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luutwo, mundus** *(wunderschön)*
-🎤 **[HERZ EINHAUST](https://open.spotify.com/track/51CH1W0e9Ej7bjhURtvdB3)** by **vee4archive, Vee4r, y.mike** *(HERZ EINHAUST)*
+🎤 **[stupid little liar](https://open.spotify.com/track/2D8HsBtCLoFZ2PQzBwkqKE)** by **hauntingclaire, luvwillow** *(stupid little liar)*
+🎤 **[CAN'T DECIDE](https://open.spotify.com/track/6E8j1AZuvMYwDyQ3O8YpWB)** by **hydrakuma13, $kirmish** *(CAN'T DECIDE)*
+🎤 **[WIESO TUST DU MIR DAS AN](https://open.spotify.com/track/2UBLhEyQNqgvRhklkgFXK4)** by **vee4archive, Vee4r** *(WIESO TUST DU MIR DAS AN)*
+🎤 **[#breakurheart](https://open.spotify.com/track/3Edf6gKdh1p1BJdQXQ9tDo)** by **pink luu, TheyhxteAnt** *(#breakurheart)*
+🎤 **[HE'S LOST IT](https://open.spotify.com/track/2zVpChyxgIbRLpL8hYT0oN)** by **3DOKI** *(HE'S LOST IT)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 18:19:50Z UTC
+🕐 Last updated: 2025-12-19 18:49:50Z UTC
 <!-- SPOTIFY-END -->
