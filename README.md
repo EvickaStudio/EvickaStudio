@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27308a501d02bc9680c6c7643a7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [shtwt slut - I'm so Fucked up Please Help Me - Slowed](https://open.spotify.com/track/7ruAWYq9PiPOJg2USWtO5A)**
-*by* **kysmelo, 1th44n, kemoxoo**
-*Album:* shtwt slut (I'm so fucked up please help me)
+**🎵 [richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)**
+*by* **pink luu, Lytra**
+*Album:* 0800-111-0-111
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="97" height="4" fill="#1db954" rx="2"/>
-    <circle cx="97" cy="2" r="6" fill="#1db954"/>
+    <rect width="76" height="4" fill="#1db954" rx="2"/>
+    <circle cx="76" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:59
+    0:43 • 2:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[1234 NASEN KOKS](https://open.spotify.com/track/3URAdWSODu10IcfsFl0Fjr)** by **vee4archive, Vee4r** *(1234 NASEN KOKS)*
-🎤 **[CUNT !](https://open.spotify.com/track/2bJQtYaWJBYlhWdUY6uC8m)** by **dethkitty, disoc8** *(CUNT !)*
-🎤 **[X](https://open.spotify.com/track/5fOUCr3wpg3xcEG1rIM0el)** by **realzombie, stardante** *(X)*
-🎤 **[KEINE ANGST!](https://open.spotify.com/track/6STEEu19ljMmgnSSpqjhhu)** by **pink luu, Pearlblade** *(KEINE ANGST!)*
-🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luutwo, Skatey Hellstar** *(shapeshifter)*
+🎤 **[ich hasse mich so sehr](https://open.spotify.com/track/5tUHLJicRg5GLxSCFNQlqi)** by **luutwo, Skatey Hellstar** *(HYPERCORE, Vol. 1)*
+🎤 **[ruinieren ist mein hobby](https://open.spotify.com/track/63v7B4xKkouGSTWdEu1Rjp)** by **Hello Hannes** *(ruinieren ist mein hobby)*
+🎤 **[new jeans (sky suzuya mix)](https://open.spotify.com/track/0REUp5gvrfOPTeH6LNx0dX)** by **bloodonmybalmains, willowcore, sky suzuya, Lil Witchy** *(new jeans (sky suzuya mix))*
+🎤 **[SCHRECKLICH // POKEMON KARTEN](https://open.spotify.com/track/3XInmsn6J92WZIRhLM7tvL)** by **vee4archive** *(SCHRECKLICH // POKEMON KARTEN)*
+🎤 **[THIRTY FIRST](https://open.spotify.com/track/5eYgjIBkVn8DgvY8fuBHDp)** by **Vee4r, y.mike, DaniDV** *(THIRTY FIRST)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 17:31:02Z UTC
+🕐 Last updated: 2025-12-19 17:47:42Z UTC
 <!-- SPOTIFY-END -->
