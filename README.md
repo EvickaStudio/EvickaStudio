@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27391ba07c01bada610ccfd63ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273485e080683007b387cb4186f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)**
-*by* **Senses, Nosgov, mint**
-*Album:* somewhere safe
+**🎵 [shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)**
+*by* **luutwo, Skatey Hellstar**
+*Album:* shapeshifter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 3:24
+    0:11 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
-🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
-🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
-🎤 **[I called and left a message](https://open.spotify.com/track/5myoBOTaycNR7S3FZY0ft0)** by **Agatha is Dead!** *(Interlude)*
-🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
+🎤 **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)*
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
+🎤 **[vampire girl](https://open.spotify.com/track/1XJ8grBNoPrDQKkvUtIXvt)** by **korpsebunny** *(vampire girl)*
+🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 21:47:54Z UTC
+🕐 Last updated: 2025-12-19 22:13:28Z UTC
 <!-- SPOTIFY-END -->
