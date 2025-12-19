@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739c20e6dd4ee0808a7a160157" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733131e5578ea9ad77a5242b23" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [richtig scharfe klinge](https://open.spotify.com/track/4alhfC81ZyQGwBfgxoglel)**
-*by* **pink luu, Lytra**
-*Album:* 0800-111-0-111
+**🎵 [PEINLICH (+danny2k)](https://open.spotify.com/track/1dAp2bCmneXTMFcA12vL7n)**
+*by* **vee4archive, Vee4r, danny2k**
+*Album:* PEINLICH (+danny2k)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:48
+    0:03 • 1:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ich hasse mich so sehr](https://open.spotify.com/track/5tUHLJicRg5GLxSCFNQlqi)** by **luutwo, Skatey Hellstar** *(HYPERCORE, Vol. 1)*
-🎤 **[ruinieren ist mein hobby](https://open.spotify.com/track/63v7B4xKkouGSTWdEu1Rjp)** by **Hello Hannes** *(ruinieren ist mein hobby)*
-🎤 **[new jeans (sky suzuya mix)](https://open.spotify.com/track/0REUp5gvrfOPTeH6LNx0dX)** by **bloodonmybalmains, willowcore, sky suzuya, Lil Witchy** *(new jeans (sky suzuya mix))*
-🎤 **[SCHRECKLICH // POKEMON KARTEN](https://open.spotify.com/track/3XInmsn6J92WZIRhLM7tvL)** by **vee4archive** *(SCHRECKLICH // POKEMON KARTEN)*
-🎤 **[THIRTY FIRST](https://open.spotify.com/track/5eYgjIBkVn8DgvY8fuBHDp)** by **Vee4r, y.mike, DaniDV** *(THIRTY FIRST)*
+🎤 **[offkey](https://open.spotify.com/track/0uJjvhrja2L1Y3mJMoYpeu)** by **vanity, stardante, Pr0xy** *(offkey)*
+🎤 **[NEED U BACK](https://open.spotify.com/track/3AVJ5ulGk6pFXdiclXanII)** by **stardante, vanity, 10n35t4r, luu** *(NEED U BACK)*
+🎤 **[RTW](https://open.spotify.com/track/2XzlcHUeyGtcz8z3KXZzFP)** by **pink luu** *(RTW)*
+🎤 **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luutwo, mundus** *(wunderschön)*
+🎤 **[HERZ EINHAUST](https://open.spotify.com/track/51CH1W0e9Ej7bjhURtvdB3)** by **vee4archive, Vee4r, y.mike** *(HERZ EINHAUST)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 17:47:42Z UTC
+🕐 Last updated: 2025-12-19 18:19:50Z UTC
 <!-- SPOTIFY-END -->
