@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273736b69c09d63d97dd5244a54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273567733a847d855dcbfea0d25" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [WO BIST DU (+JP 454)](https://open.spotify.com/track/1g7a6Wv5dA4hLk49wikqPm)**
-*by* **vee4archive, Vee4r, JP 454**
-*Album:* WO BIST DU (+JP 454)
+**🎵 [sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)**
+*by* **luu**
+*Album:* irgendwo im schatten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="207" height="4" fill="#1db954" rx="2"/>
+    <circle cx="207" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:23
+    1:11 • 1:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[COUNTERSTRIKE - SPED UP](https://open.spotify.com/track/0qH6KYHlAh4NxMvy8t09QP)** by **fwks** *(COUNTERSTRIKE)*
-🎤 **[Useful.Mp3](https://open.spotify.com/track/27uowdUPkHCfocRf3UTIPi)** by **flywoah** *(Useful.Mp3)*
-🎤 **[KEINE ZEIT!](https://open.spotify.com/track/7aaLkwCDjSmZKCFeOb8k1H)** by **luutwo** *(KEINE ZEIT!)*
-🎤 **[i'm so sick of finding love](https://open.spotify.com/track/2tWCFhZNtPVpdkc7ChtGts)** by **iamsodead** *(i'm so sick of finding love)*
-🎤 **[unheilbar](https://open.spotify.com/track/37XkpNS0wr0RzxTo3UfvEN)** by **luu, iwannabemissed** *(unheilbar)*
+🎤 **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)*
+🎤 **[DANCE IN THE LIGHT](https://open.spotify.com/track/4Cac3kScrEAKGyH6nds4cs)** by **vanity, 4rde** *(DANCE IN THE LIGHT)*
+🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
+🎤 **[MONSTER AM DONNERSTAG (+y.mike)](https://open.spotify.com/track/1nVorIWUtRC60hHAlhIU9H)** by **vee4archive, y.mike** *(MONSTER AM DONNERSTAG (+y.mike))*
+🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luutwo** *(#SCENEJESUS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 16:17:19Z UTC
+🕐 Last updated: 2025-12-19 16:48:43Z UTC
 <!-- SPOTIFY-END -->
