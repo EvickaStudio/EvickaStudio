@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e5d68612cfc19b5bf0773022" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bf658990b86dd46e37a0c120" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)**
-*by* **vee4archive, Vee4r, y.mike**
-*Album:* REVOLUTIONÄR (+y.mike)
+**🎵 [MANIFESTIERT TECHNO - Slit253 Remix](https://open.spotify.com/track/738vx7wQ7TCpCfsvWjhpDs)**
+*by* **MISKA, Slit253**
+*Album:* MANIFESTIERT TECHNO (Slit253 Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="246" height="4" fill="#1db954" rx="2"/>
+    <circle cx="246" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:06
+    2:26 • 2:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Arcadia](https://open.spotify.com/track/6nX0oVPdZxDnI2hfN0tkz3)** by **uusymon** *(Arcadia)*
-🎤 **[Alonely](https://open.spotify.com/track/2mZ4GBrpCTiwPTwvNO7bDZ)** by **Rill, Young Mask** *(I Came From Nobody Likes Me To Nobody Like Me)*
-🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
-🎤 **[SPIRIT OF THUNDER](https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44)** by **Yung Lean, DVRST, Riff Raff, Bladee** *(SPIRIT OF THUNDER)*
-🎤 **[fuckk](https://open.spotify.com/track/1RFl1jsgW0EmRhtRYkrtJk)** by **bliiiss, Capoxxo** *(fuckk)*
+🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
+🎤 **[Klinge Klinge Ling](https://open.spotify.com/track/1IDyFralUKBofEirNKE0ar)** by **KANTROX** *(Klinge Klinge Ling)*
+🎤 **[Winter in Paris](https://open.spotify.com/track/0tCU58D3EQcsl4o37x7kLs)** by **TILLY PANTHA, Max Niklas** *(Winter in Paris)*
+🎤 **[morose](https://open.spotify.com/track/4iZ6qgwAI5eqhgeiexhaVl)** by **luu, m1v** *(morose)*
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 15:14:37Z UTC
+🕐 Last updated: 2025-12-19 15:36:11Z UTC
 <!-- SPOTIFY-END -->
