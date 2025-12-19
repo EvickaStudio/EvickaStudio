@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273567733a847d855dcbfea0d25" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aa437639d146a7931ea671bd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)**
-*by* **luu**
-*Album:* irgendwo im schatten
+**🎵 [haftpflichtversicherung](https://open.spotify.com/track/1LIDD6C0FJGQPuNnm6mBl4)**
+*by* **luu, mehlhaltig**
+*Album:* verluustanzeige (wo bin ich?)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="207" height="4" fill="#1db954" rx="2"/>
-    <circle cx="207" cy="2" r="6" fill="#1db954"/>
+    <rect width="132" height="4" fill="#1db954" rx="2"/>
+    <circle cx="132" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 1:43
+    0:44 • 1:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)*
-🎤 **[DANCE IN THE LIGHT](https://open.spotify.com/track/4Cac3kScrEAKGyH6nds4cs)** by **vanity, 4rde** *(DANCE IN THE LIGHT)*
-🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
-🎤 **[MONSTER AM DONNERSTAG (+y.mike)](https://open.spotify.com/track/1nVorIWUtRC60hHAlhIU9H)** by **vee4archive, y.mike** *(MONSTER AM DONNERSTAG (+y.mike))*
-🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luutwo** *(#SCENEJESUS)*
+🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
+🎤 **[GEGENgIFT (+danny2k)](https://open.spotify.com/track/4gxVDAc74sJzgFAydCkAbQ)** by **vee4archive, Vee4r, danny2k** *(GEGENgIFT (+danny2k))*
+🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luutwo, Skatey Hellstar** *(shapeshifter)*
+🎤 **[grabbesuch](https://open.spotify.com/track/7parhL1ui3uTvA8bFt7GAU)** by **pink luu, nami, cxpyyy, luu** *(grabbesuch)*
+🎤 **[leaking red glitter - slowed](https://open.spotify.com/track/0bhlNYa2tuLIe1t27m0ZBU)** by **snor** *(sobrelis (slowed))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 16:48:43Z UTC
+🕐 Last updated: 2025-12-19 17:13:02Z UTC
 <!-- SPOTIFY-END -->
