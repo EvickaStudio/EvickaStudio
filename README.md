@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d451f811927c0e4da1a6befe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)**
-*by* **mehlhaltig, luu**
-*Album:* engel>_<
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="216" height="4" fill="#1db954" rx="2"/>
-    <circle cx="216" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 2:05
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe)** by **Lana Del Rey** *(Say Yes To Heaven)*
+🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
 🎤 **[i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)** by **Caspr, oaf1** *(i can't find oaf1)*
 🎤 **[McQ](https://open.spotify.com/track/30I8qKpmVFsPKj87A22fRk)** by **GERO** *(McQ)*
-🎤 **[courtney love](https://open.spotify.com/track/4mMTAhcMac3BlSqqqvmiuz)** by **cholorofilm, SpaceMan Zack** *(courtney love)*
-🎤 **[Voices](https://open.spotify.com/track/4fyaqvQ1cECs9F0WYFbmBy)** by **Alison Wonderland, DJ_Dave** *(GHOST WORLD)*
-🎤 **[Cry All Month](https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY)** by **ThxSoMch** *(Cry All Month)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 14:38:55Z UTC
+🕐 Last updated: 2025-12-19 14:53:03Z UTC
 <!-- SPOTIFY-END -->
