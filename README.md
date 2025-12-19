@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273940e6dd89f311e726fb5687c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4b73339656901955689f896" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6)**
-*by* **Sia**
-*Album:* Colour The Small One
+**🎵 [WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)**
+*by* **Lix, Elujjin**
+*Album:* LLL x X
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:12 • 4:32
+    0:22 • 2:11
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Intro (stop looking up at the attic)](https://open.spotify.com/track/5bP2EfUh4TMN19CYR2QzfU)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Pierrot](https://open.spotify.com/track/0SIOdxVzOXTpuTN1fEj1Ff)** by **sparr00w** *(Save Room Theme)*
-🎤 **[0201](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Sorisu's Interlude](https://open.spotify.com/track/3mfw9HWXuJwYHKR6KXZrgU)** by **sparr00w, Sorisu** *(Save Room Theme)*
-🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
+🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
+🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
+🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
+🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
+🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-19 20:51:52Z UTC
+🕐 Last updated: 2025-12-19 21:12:38Z UTC
 <!-- SPOTIFY-END -->
