@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360c2ba701cfb28ff86e70bc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27371d9f4d7b44720731761717e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)**
-*by* **Eera**
-*Album:* The Sky Thats Between Us
+**🎵 [last chance](https://open.spotify.com/track/1DVY3f0iLn8Xg9cj6dpQXJ)**
+*by* **5v, mint, inssekt**
+*Album:* last chance
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:58 • 3:44
+    0:16 • 2:17
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[FLEXING & FINESSING](https://open.spotify.com/track/60B5bxo2fKytp3bO2kPCCG)** by **Bladee** *(Cold Visions)*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)*
+🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
+🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
+🎤 **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 10:49:27Z UTC
+🕐 Last updated: 2025-12-20 11:10:31Z UTC
 <!-- SPOTIFY-END -->
