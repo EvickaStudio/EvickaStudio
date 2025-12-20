@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731ee775acf7153a3f50919035" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273986e2755bbaa7ad3f4792939" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Time in the Afternoon](https://open.spotify.com/track/65gjM18NojCDOTENUde68G)**
-*by* **orbit**
-*Album:* Time in the Afternoon
+**🎵 [fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)**
+*by* **Chicken Lover**
+*Album:* fuckingloser
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="107" height="4" fill="#1db954" rx="2"/>
-    <circle cx="107" cy="2" r="6" fill="#1db954"/>
+    <rect width="113" height="4" fill="#1db954" rx="2"/>
+    <circle cx="113" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 3:47
+    1:26 • 3:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
-🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
-🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
-🎤 **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)*
-🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
+🎤 **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
+🎤 **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)*
+🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 02:50:18Z UTC
+🕐 Last updated: 2025-12-20 03:44:41Z UTC
 <!-- SPOTIFY-END -->
