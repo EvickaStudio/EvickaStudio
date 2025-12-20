@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731ee775acf7153a3f50919035" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)**
-*by* **The Truth**
-*Album:* U.S.T
+**🎵 [Time in the Afternoon](https://open.spotify.com/track/65gjM18NojCDOTENUde68G)**
+*by* **orbit**
+*Album:* Time in the Afternoon
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="291" height="4" fill="#1db954" rx="2"/>
-    <circle cx="291" cy="2" r="6" fill="#1db954"/>
+    <rect width="107" height="4" fill="#1db954" rx="2"/>
+    <circle cx="107" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:54 • 4:01
+    1:21 • 3:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)*
-🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[PURGATORY](https://open.spotify.com/track/2NAPXTRUMaXW4Pf3606hHL)** by **Seraphim** *(PURGATORY)*
+🎤 **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)*
+🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
+🎤 **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)*
+🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 01:01:05Z UTC
+🕐 Last updated: 2025-12-20 02:50:18Z UTC
 <!-- SPOTIFY-END -->
