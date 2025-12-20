@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27321487022b34751c712135dee" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369f61e36c885ecf648456e69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl)**
-*by* **sign crushes motorist**
-*Album:* i'll be okay
+**🎵 [tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)**
+*by* **KidSnorlax**
+*Album:* tear drops
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="188" height="4" fill="#1db954" rx="2"/>
-    <circle cx="188" cy="2" r="6" fill="#1db954"/>
+    <rect width="155" height="4" fill="#1db954" rx="2"/>
+    <circle cx="155" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:06 • 4:57
+    1:05 • 2:07
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
-🎤 **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)*
-🎤 **[Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU)** by **Rowli, Hank, Sick & Tired, Asterio** *(Nur ein Wort)*
-🎤 **[Summertime Sadness - Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV)** by **Lana Del Rey, Speed Radio** *(Summertime Sadness (Sped Up))*
-🎤 **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
+🎤 **[Tennis Court](https://open.spotify.com/track/0CZQdtHog1qGXMkEcrve41)** by **Flawless Issues** *(Modern Past)*
+🎤 **[Pierrot](https://open.spotify.com/track/0SIOdxVzOXTpuTN1fEj1Ff)** by **sparr00w** *(Save Room Theme)*
+🎤 **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)** by **Central Sonic** *(Club Scenes - Psytrance)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 15:30:51Z UTC
+🕐 Last updated: 2025-12-20 15:47:51Z UTC
 <!-- SPOTIFY-END -->
