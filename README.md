@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e0e85961a5a2dafe0dfe028b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360c2ba701cfb28ff86e70bc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)**
-*by* **Gutzxx, misalive**
-*Album:* im addicted
+**🎵 [The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)**
+*by* **Eera**
+*Album:* The Sky Thats Between Us
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="272" height="4" fill="#1db954" rx="2"/>
-    <circle cx="272" cy="2" r="6" fill="#1db954"/>
+    <rect width="11" height="4" fill="#1db954" rx="2"/>
+    <circle cx="11" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:00
+    0:08 • 3:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
+🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
 🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
-🎤 **[Play Em Like Atari](https://open.spotify.com/track/0xsPbrdG0Vgkw8DVlseItK)** by **petrkovar, vic** *(Play Em Like Atari)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
-🎤 **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)*
-🎤 **[Her Ribs](https://open.spotify.com/track/24WiPfA6p3w3lUh5dwSdis)** by **Shadow Wizard Money Gang, Death Souljah** *(Her Ribs)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 14:31:39Z UTC
+🕐 Last updated: 2025-12-20 14:48:20Z UTC
 <!-- SPOTIFY-END -->
