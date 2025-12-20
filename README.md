@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f2969003e71afccd7cbe50c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f0495e123406153b055ebc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)**
-*by* **RudeClub**
-*Album:* come down
+**🎵 [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)**
+*by* **DJ_Dave**
+*Album:* Airglow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="151" height="4" fill="#1db954" rx="2"/>
-    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+    <rect width="247" height="4" fill="#1db954" rx="2"/>
+    <circle cx="247" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 3:06
+    4:00 • 4:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[b4 u go](https://open.spotify.com/track/70913MHL9VTFQ5ch58RAYb)** by **5v** *(b4 u go)*
-🎤 **[What I Am](https://open.spotify.com/track/0RO36kWlFqkLeVauFhHZbQ)** by **Edie Brickell & New Bohemians** *(Girls And Guitars)*
-🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
-🎤 **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)*
-🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
+🎤 **[Together Forever](https://open.spotify.com/track/78C2Uhoy1sA4bEk0p3FC3w)** by **Thrilliam Angels, Frost Children, David Arms Deal, vrde** *(Iliad Unspoken)*
+🎤 **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)*
+🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
+🎤 **[LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)** by **Drux, Lunaa, pradaaslife** *(Scrapclub)*
+🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 13:35:57Z UTC
+🕐 Last updated: 2025-12-20 13:49:04Z UTC
 <!-- SPOTIFY-END -->
