@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273866daa4ba1690cde69054822" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)**
-*by* **Kanye West, Kid Cudi, Raekwon**
-*Album:* My Beautiful Dark Twisted Fantasy
+**🎵 [EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)**
+*by* **nuphory, Luna Lenta**
+*Album:* EXOPLANET // HYPERTRANCE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="222" height="4" fill="#1db954" rx="2"/>
-    <circle cx="222" cy="2" r="6" fill="#1db954"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:25 • 5:57
+    1:38 • 3:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
-🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
+🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[Weißes](https://open.spotify.com/track/5T6h0aC95ScaFJrzCxek56)** by **52Blue** *(Weißes)*
+🎤 **[SKY'STHEHIMMEL](https://open.spotify.com/track/5d2zHBBwzTRfS79tFlM7yL)** by **SQF2000** *(YOLOCORE)*
+🎤 **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)*
+🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 11:47:40Z UTC
+🕐 Last updated: 2025-12-20 12:24:00Z UTC
 <!-- SPOTIFY-END -->
