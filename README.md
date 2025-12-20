@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-❌ Error fetching now playing track.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f2969003e71afccd7cbe50c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)**
+*by* **RudeClub**
+*Album:* come down
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="151" height="4" fill="#1db954" rx="2"/>
+    <circle cx="151" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:33 • 3:06
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
-🎤 **[Greener Field](https://open.spotify.com/track/4bTDGTUULq4QGUUAf3sGlV)** by **SILICONE VALLEY** *(Greener Field)*
-🎤 **[Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)** by **Geo22** *(Wizardry)*
-🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
-🎤 **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub** *(invisible)*
+🎤 **[b4 u go](https://open.spotify.com/track/70913MHL9VTFQ5ch58RAYb)** by **5v** *(b4 u go)*
+🎤 **[What I Am](https://open.spotify.com/track/0RO36kWlFqkLeVauFhHZbQ)** by **Edie Brickell & New Bohemians** *(Girls And Guitars)*
+🎤 **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)*
+🎤 **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)*
+🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 13:02:30Z UTC
+🕐 Last updated: 2025-12-20 13:35:57Z UTC
 <!-- SPOTIFY-END -->
