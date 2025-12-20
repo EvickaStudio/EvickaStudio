@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aaac02d65fc1664ddef8e8a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)**
-*by* **Saska**
-*Album:* Wake Up
+**🎵 [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)**
+*by* **Kanye West, Kid Cudi, Raekwon**
+*Album:* My Beautiful Dark Twisted Fantasy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="98" height="4" fill="#1db954" rx="2"/>
-    <circle cx="98" cy="2" r="6" fill="#1db954"/>
+    <rect width="222" height="4" fill="#1db954" rx="2"/>
+    <circle cx="222" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:15
+    4:25 • 5:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
+🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[Wake Up](https://open.spotify.com/track/08GcPopUD2MGQu9HyhPT6J)** by **Saska** *(Wake Up)*
 🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
-🎤 **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)*
-🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
-🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-20 11:34:56Z UTC
+🕐 Last updated: 2025-12-20 11:47:40Z UTC
 <!-- SPOTIFY-END -->
