@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
-🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
-🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
-🎤 **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)*
+🎤 **[Miss You - Sped Up Version](https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW)** by **southstar** *(Miss You)*
+🎤 **[Ral Grad](https://open.spotify.com/track/6gLgahu2TXuewgQP9IVRma)** by **Harto Falión, Eera** *(Academy)*
+🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
+🎤 **[IN DEINEM HERZ IST ES KALT](https://open.spotify.com/track/7wblVGls7DMH6nalzCSixo)** by **Saiya Tiaw** *(IN DEINEM HERZ IST ES KALT)*
+🎤 **[Sugar (feat. Francesco Yates)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)** by **Robin Schulz, Francesco Yates** *(Sugar)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-21 14:12:04Z UTC
+🕐 Last updated: 2025-12-21 14:32:10Z UTC
 <!-- SPOTIFY-END -->
