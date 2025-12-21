@@ -117,12 +117,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
-🥈 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
+🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
+🥈 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
 🥉 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 🏅 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-21 13:49:23Z UTC
+🕐 Last updated: 2025-12-21 14:12:04Z UTC
 <!-- SPOTIFY-END -->
