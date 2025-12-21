@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)**
+*by* **Bladee**
+*Album:* Eversince
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="122" height="4" fill="#1db954" rx="2"/>
+    <circle cx="122" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:15 • 3:06
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)*
+🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
+🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
 🎤 **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)*
 🎤 **[Monster](https://open.spotify.com/track/0gzWOJcPeUOPsHuA4x09NQ)** by **Jaegershu** *(Monster)*
-🎤 **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))*
-🎤 **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-21 07:13:21Z UTC
+🕐 Last updated: 2025-12-21 07:30:24Z UTC
 <!-- SPOTIFY-END -->
