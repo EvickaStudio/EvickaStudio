@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)*
+🎤 **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)*
+🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
+🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
 🎤 **[Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk)** by **Porter Robinson** *(Worlds)*
-🎤 **[Miss You - Sped Up Version](https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW)** by **southstar** *(Miss You)*
-🎤 **[Ral Grad](https://open.spotify.com/track/6gLgahu2TXuewgQP9IVRma)** by **Harto Falión, Eera** *(Academy)*
-🎤 **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))*
-🎤 **[IN DEINEM HERZ IST ES KALT](https://open.spotify.com/track/7wblVGls7DMH6nalzCSixo)** by **Saiya Tiaw** *(IN DEINEM HERZ IST ES KALT)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-22 12:28:17Z UTC
+🕐 Last updated: 2025-12-22 13:09:26Z UTC
 <!-- SPOTIFY-END -->
