@@ -120,9 +120,9 @@
 🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 🥈 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 🥉 [**wanna see u run**](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)
-🏅 [**0201**](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
+🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-23 17:50:31Z UTC
+🕐 Last updated: 2025-12-23 18:20:27Z UTC
 <!-- SPOTIFY-END -->
