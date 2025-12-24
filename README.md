@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c569bef4a204d08c499ac844" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735919a3d8bab86711c3c551e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kommet ihr Hirten](https://open.spotify.com/track/1Jz1yfUFkA7Q1iei9Wxzyz)**
-*by* **Traditional, Thomanerchor Leipzig, Hans-Joachim Rotzsch**
-*Album:* Songs for Christmas Eve (The Greatest Traditional Christmas Carols)
+**🎵 [Ihr Kinderlein kommet](https://open.spotify.com/track/0QZzvCyPZsT7o26ILgvILK)**
+*by* **Dresdner Kreuzchor**
+*Album:* Bald nun ist Weihnachtszeit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="184" height="4" fill="#1db954" rx="2"/>
+    <circle cx="184" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 1:44
+    1:56 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Vom Himmel hoch, da komm ich her](https://open.spotify.com/track/1Pz7AjVdfk8Qf4JAMmGrgg)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
-🎤 **[Morgen kommt der Weihnachtsmann](https://open.spotify.com/track/2Sd7mxpslnAQU8XK4LnvYj)** by **Philharmonischer Kinderchor Dresden** *(Bald nun ist Weihnachtszeit)*
-🎤 **[Macht hoch die Tür](https://open.spotify.com/track/0nlGd32AY3GfZ5rdDaUpSH)** by **Traditional, Dresdner Kreuzchor, Dresdner Philharmonie, Gothart Stier, Michael-Chrustfried Winkler** *(Wunderbare Weihnacht' (Die schönsten Lieder, Chor- und Orgelwerke zum Fest))*
-🎤 **[Tochter Zion: Trompeten](https://open.spotify.com/track/5MPCTz92YywdXzC36GwVgX)** by **Junge Trompeter, Pare Jordi Bou** *(So De Poblet: Diabelli, Bach, Handel, Mozart, etc.)*
-🎤 **[Süßer die Glocken nie klingen](https://open.spotify.com/track/6MtLNYNbwpwrTPdC2E63pT)** by **Berlin Radio Children's Choir** *(Friede auf Erden)*
+🎤 **[Fröhliche Weihnacht überall](https://open.spotify.com/track/02TOuxJhAhxrWi52RWOcMp)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
+🎤 **[Tochter Zion](https://open.spotify.com/track/5wDVdjPoA79mEWyvVIFilH)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
+🎤 **[Morgen, Kinder, wirds was geben](https://open.spotify.com/track/1JUfDIkdvgjisDfYb4Q0ev)** by **Philharmonischer Kinderchor Dresden** *(Bald nun ist Weihnachtszeit)*
+🎤 **[Gloria in excelsis Deo (Hört der Engel helle Lieder)](https://open.spotify.com/track/0ozyRRSLK4ocoYZl7z7XTD)** by **Berlin Radio Children's Choir** *(Friede auf Erden)*
+🎤 **[Es ist ein Ros entsprungen](https://open.spotify.com/track/5Fl9vlRRWH2BOkI3mBiKxw)** by **Rundfunk-Jugendchor Wernigerode** *(Es ist ein Ros entsprungen - 25 Advent- und Weihnachtslieder)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-24 15:34:23Z UTC
+🕐 Last updated: 2025-12-24 15:50:27Z UTC
 <!-- SPOTIFY-END -->
