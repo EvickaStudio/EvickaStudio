@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732aad4953c7def8fed200620a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Praetorius, Michael : Es ist ein Ros Entsprungen](https://open.spotify.com/track/3z0X1yuC02WHtVmvZLVk7z)**
-*by* **Michael Praetorius, Chanticleer**
-*Album:* Sing We Christmas
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Carol of the Bells](https://open.spotify.com/track/25AtvmC59O7YhigsrxOme6)** by **Cathedral Choir** *(Christmas at the Cathedral)*
+🎤 **[Leise rieselt der Schnee](https://open.spotify.com/track/0n519py1ydWzbzG4JvRuZZ)** by **Fischer Chöre** *(Die schönsten Weihnachtslieder)*
+🎤 **[Praetorius, Michael : Es ist ein Ros Entsprungen](https://open.spotify.com/track/3z0X1yuC02WHtVmvZLVk7z)** by **Michael Praetorius, Chanticleer** *(Sing We Christmas)*
+🎤 **[Maria durch ein Dornwald ging](https://open.spotify.com/track/7j1Fyj9JbEgpygKmk4eX8d)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
 🎤 **[In dulci jubilo](https://open.spotify.com/track/1Iy7fuKLTfLAhnxlLrrE1P)** by **Michael Praetorius, Thomanerchor Leipzig, Erhard Mauersberger** *(In Dulci Jubilo - Der Thomanerchor singt zur Weihnachtszeit)*
-🎤 **[Den die Hirten lobeten sehre](https://open.spotify.com/track/5uowxD27GUd9EDrsmNgBKh)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
-🎤 **[O du Fröhliche](https://open.spotify.com/track/5XzFym0ka8PxPoB7YXJhOo)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
-🎤 **[Süßer die Glocken nie klingen](https://open.spotify.com/track/6MtLNYNbwpwrTPdC2E63pT)** by **Berlin Radio Children's Choir** *(Friede auf Erden)*
-🎤 **[Stille Nacht, heilige Nacht](https://open.spotify.com/track/4rXTxkK6q4LLBIUbZs1mcH)** by **Franz Xaver Gruber, Dresdner Kreuzchor, Roderich Kreile** *(Ihr Kinderlein kommet (Der Dresdner Kreuzchor singt die schönsten Weihnachtslieder))*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-24 16:17:13Z UTC
+🕐 Last updated: 2025-12-24 16:45:49Z UTC
 <!-- SPOTIFY-END -->
