@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c569bef4a204d08c499ac844" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Kommet ihr Hirten](https://open.spotify.com/track/1Jz1yfUFkA7Q1iei9Wxzyz)**
+*by* **Traditional, Thomanerchor Leipzig, Hans-Joachim Rotzsch**
+*Album:* Songs for Christmas Eve (The Greatest Traditional Christmas Carols)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:13 • 1:44
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Kapitel 1 & Kapitel 2.1 - Hilfe, die Herdmanns kommen](https://open.spotify.com/track/5PgJPFoYj3Nl9sAWfij5nX)** by **Barbara Robinson** *(Hilfe, die Herdmanns kommen (Gekürzte Lesung))*
-🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
-🎤 **[Fröhlich soll mein Herze springen](https://open.spotify.com/track/5WRduSFsg2XgNmGsZbYVSY)** by **Traditional, Windsbacher Knabenchor** *(Nun sei willkommen, Herre Christ)*
-🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
-🎤 **[Bequem](https://open.spotify.com/track/7mq4CCgO6vTBZHoOjF23b6)** by **makko** *(Leb es oder lass es 2)*
+🎤 **[Vom Himmel hoch, da komm ich her](https://open.spotify.com/track/1Pz7AjVdfk8Qf4JAMmGrgg)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
+🎤 **[Morgen kommt der Weihnachtsmann](https://open.spotify.com/track/2Sd7mxpslnAQU8XK4LnvYj)** by **Philharmonischer Kinderchor Dresden** *(Bald nun ist Weihnachtszeit)*
+🎤 **[Macht hoch die Tür](https://open.spotify.com/track/0nlGd32AY3GfZ5rdDaUpSH)** by **Traditional, Dresdner Kreuzchor, Dresdner Philharmonie, Gothart Stier, Michael-Chrustfried Winkler** *(Wunderbare Weihnacht' (Die schönsten Lieder, Chor- und Orgelwerke zum Fest))*
+🎤 **[Tochter Zion: Trompeten](https://open.spotify.com/track/5MPCTz92YywdXzC36GwVgX)** by **Junge Trompeter, Pare Jordi Bou** *(So De Poblet: Diabelli, Bach, Handel, Mozart, etc.)*
+🎤 **[Süßer die Glocken nie klingen](https://open.spotify.com/track/6MtLNYNbwpwrTPdC2E63pT)** by **Berlin Radio Children's Choir** *(Friede auf Erden)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-24 15:14:17Z UTC
+🕐 Last updated: 2025-12-24 15:34:23Z UTC
 <!-- SPOTIFY-END -->
