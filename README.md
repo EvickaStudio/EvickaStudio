@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Kapitel 1 & Kapitel 2.1 - Hilfe, die Herdmanns kommen](https://open.spotify.com/track/5PgJPFoYj3Nl9sAWfij5nX)** by **Barbara Robinson** *(Hilfe, die Herdmanns kommen (Gekürzte Lesung))*
 🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
 🎤 **[Fröhlich soll mein Herze springen](https://open.spotify.com/track/5WRduSFsg2XgNmGsZbYVSY)** by **Traditional, Windsbacher Knabenchor** *(Nun sei willkommen, Herre Christ)*
 🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
 🎤 **[Bequem](https://open.spotify.com/track/7mq4CCgO6vTBZHoOjF23b6)** by **makko** *(Leb es oder lass es 2)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-24 14:51:36Z UTC
+🕐 Last updated: 2025-12-24 15:14:17Z UTC
 <!-- SPOTIFY-END -->
