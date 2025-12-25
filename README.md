@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [baccarat der lügner](https://open.spotify.com/track/590aCBpQqWVDRqlYTB6JRR)**
-*by* **ilyproxy**
-*Album:* lifestyleschmerzen
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="280" height="4" fill="#1db954" rx="2"/>
-    <circle cx="280" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:03 • 3:16
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Starplayer](https://open.spotify.com/track/52Hcgh5MHj1jzJO1axsX62)** by **Clarry Berry** *(Starplayer)*
+🎤 **[baccarat der lügner](https://open.spotify.com/track/590aCBpQqWVDRqlYTB6JRR)** by **ilyproxy** *(lifestyleschmerzen)*
 🎤 **[chanc e inzige](https://open.spotify.com/track/1o0ATFfkdGhz7e7IvpURSr)** by **ilyproxy** *(lifestyleschmerzen)*
 🎤 **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy** *(lifestyleschmerzen)*
 🎤 **[baby fühlst du interlude](https://open.spotify.com/track/60tTqltN12zqrZU5Xy5ssG)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[beverly / verloren](https://open.spotify.com/track/6yvSjF7n1kOVIcU7AqtZNX)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[& frieden](https://open.spotify.com/track/6W9VZdWyyOiKUy7bm8KYtU)** by **ilyproxy** *(lifestyleschmerzen)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-25 07:48:29Z UTC
+🕐 Last updated: 2025-12-25 08:19:15Z UTC
 <!-- SPOTIFY-END -->
