@@ -95,7 +95,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [baby fühlst du interlude](https://open.spotify.com/track/60tTqltN12zqrZU5Xy5ssG)**
+**🎵 [baccarat der lügner](https://open.spotify.com/track/590aCBpQqWVDRqlYTB6JRR)**
 *by* **ilyproxy**
 *Album:* lifestyleschmerzen
 
@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 1:00
+    3:03 • 3:16
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[chanc e inzige](https://open.spotify.com/track/1o0ATFfkdGhz7e7IvpURSr)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[baby fühlst du interlude](https://open.spotify.com/track/60tTqltN12zqrZU5Xy5ssG)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[beverly / verloren](https://open.spotify.com/track/6yvSjF7n1kOVIcU7AqtZNX)** by **ilyproxy** *(lifestyleschmerzen)*
 🎤 **[& frieden](https://open.spotify.com/track/6W9VZdWyyOiKUy7bm8KYtU)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[lifestyleschmerzen](https://open.spotify.com/track/7Jps2Qb7bW7zhrEpEGknL4)** by **ilyproxy, K. Ronaldo** *(lifestyleschmerzen)*
-🎤 **[drama skit](https://open.spotify.com/track/3XM30Gi0Rt2C6g1oo7jbIl)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[all abt love](https://open.spotify.com/track/0TGjSAIe9NFcBjkZx71S1v)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[winnetou](https://open.spotify.com/track/34gx1MIJpAQJmzNSuu4cJA)** by **ilyproxy** *(lifestyleschmerzen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-25 07:39:56Z UTC
+🕐 Last updated: 2025-12-25 07:48:29Z UTC
 <!-- SPOTIFY-END -->
