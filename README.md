@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [baby fühlst du interlude](https://open.spotify.com/track/60tTqltN12zqrZU5Xy5ssG)**
+*by* **ilyproxy**
+*Album:* lifestyleschmerzen
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:07 • 1:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Carol of the Bells](https://open.spotify.com/track/25AtvmC59O7YhigsrxOme6)** by **Cathedral Choir** *(Christmas at the Cathedral)*
-🎤 **[Leise rieselt der Schnee](https://open.spotify.com/track/0n519py1ydWzbzG4JvRuZZ)** by **Fischer Chöre** *(Die schönsten Weihnachtslieder)*
-🎤 **[Praetorius, Michael : Es ist ein Ros Entsprungen](https://open.spotify.com/track/3z0X1yuC02WHtVmvZLVk7z)** by **Michael Praetorius, Chanticleer** *(Sing We Christmas)*
-🎤 **[Maria durch ein Dornwald ging](https://open.spotify.com/track/7j1Fyj9JbEgpygKmk4eX8d)** by **Thomanerchor Leipzig, Hans-Joachim Rotzsch** *(Weihnachten mit dem Thomanerchor)*
-🎤 **[In dulci jubilo](https://open.spotify.com/track/1Iy7fuKLTfLAhnxlLrrE1P)** by **Michael Praetorius, Thomanerchor Leipzig, Erhard Mauersberger** *(In Dulci Jubilo - Der Thomanerchor singt zur Weihnachtszeit)*
+🎤 **[& frieden](https://open.spotify.com/track/6W9VZdWyyOiKUy7bm8KYtU)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[lifestyleschmerzen](https://open.spotify.com/track/7Jps2Qb7bW7zhrEpEGknL4)** by **ilyproxy, K. Ronaldo** *(lifestyleschmerzen)*
+🎤 **[drama skit](https://open.spotify.com/track/3XM30Gi0Rt2C6g1oo7jbIl)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[all abt love](https://open.spotify.com/track/0TGjSAIe9NFcBjkZx71S1v)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[winnetou](https://open.spotify.com/track/34gx1MIJpAQJmzNSuu4cJA)** by **ilyproxy** *(lifestyleschmerzen)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-25 07:16:17Z UTC
+🕐 Last updated: 2025-12-25 07:39:56Z UTC
 <!-- SPOTIFY-END -->
