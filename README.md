@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27367bfdfafb7f11b68fc10ee30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)**
-*by* **Gladys Knight & The Pips**
-*Album:* Visions (Expanded Edition)
+**🎵 [Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)**
+*by* **Whitearmor**
+*Album:* In the Abyss: Music for Weddings
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 3:43
+    3:38 • 4:11
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Beds Are Burning](https://open.spotify.com/track/0XHGKdViVybbZKqEZ2tXqV)** by **Midnight Oil** *(Diesel And Dust)*
+🎤 **[Starfall](https://open.spotify.com/track/4XRhCdKeF1TpDR4mX5DVvx)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP)** by **DJ Ötzi** *(Es ist Zeit)*
 🎤 **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
-🎤 **[meow part4](https://open.spotify.com/track/4baC4xRQg12BJBt30RZCu5)** by **stixz** *(meow part4)*
-🎤 **[meow part4](https://open.spotify.com/track/4baC4xRQg12BJBt30RZCu5)** by **stixz** *(meow part4)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-26 16:55:29Z UTC
+🕐 Last updated: 2025-12-26 17:12:20Z UTC
 <!-- SPOTIFY-END -->
