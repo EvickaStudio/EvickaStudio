@@ -91,45 +91,26 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734b97f1e4bb898cc007ca584a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)**
-*by* **Tamino404**
-*Album:* keinen freund
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:30 • 2:37
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
-🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
-🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
-🎤 **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)*
-🎤 **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)*
+🎤 **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)*
+🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
+🎤 **[deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)** by **Tamino404** *(du hast uns alle vergessen und ich bin stolz auf dich)*
+🎤 **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥈 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🏅 [**Marco Cirillo**](https://open.spotify.com/artist/4cHsDM859LW0ndSRjcj6ee)
 
 
@@ -143,5 +124,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-26 17:48:22Z UTC
+🕐 Last updated: 2025-12-26 18:19:58Z UTC
 <!-- SPOTIFY-END -->
