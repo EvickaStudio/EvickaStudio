@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27367bfdfafb7f11b68fc10ee30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)**
+*by* **Gladys Knight & The Pips**
+*Album:* Visions (Expanded Edition)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:35 • 3:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
 🎤 **[meow part4](https://open.spotify.com/track/4baC4xRQg12BJBt30RZCu5)** by **stixz** *(meow part4)*
 🎤 **[meow part4](https://open.spotify.com/track/4baC4xRQg12BJBt30RZCu5)** by **stixz** *(meow part4)*
-🎤 **[Starplayer](https://open.spotify.com/track/52Hcgh5MHj1jzJO1axsX62)** by **Clarry Berry** *(Starplayer)*
-🎤 **[baccarat der lügner](https://open.spotify.com/track/590aCBpQqWVDRqlYTB6JRR)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[chanc e inzige](https://open.spotify.com/track/1o0ATFfkdGhz7e7IvpURSr)** by **ilyproxy** *(lifestyleschmerzen)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-26 16:44:39Z UTC
+🕐 Last updated: 2025-12-26 16:55:29Z UTC
 <!-- SPOTIFY-END -->
