@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27328cdcd2131951f94e7c8c1ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Everything You Say](https://open.spotify.com/track/1HKLxMKiHp9LVdPDGE5p0x)**
-*by* **M2UnderGround, 503scoob**
-*Album:* Everything You Say
+**🎵 [schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)**
+*by* **ilyproxy, gard**
+*Album:* lifestyleschmerzen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 3:10
+    2:01 • 2:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[undercover rn](https://open.spotify.com/track/2WkdcfNCX42atHXsYO8Pce)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[i feel sick x_X](https://open.spotify.com/track/4dZEbpbLnxSb33ArDFy2JA)** by **Vee4r, wasty** *(i feel sick x_X)*
-🎤 **[in my head pt. 2](https://open.spotify.com/track/7veaC8oydidRsERT9bdvnd)** by **03osc, StonedPlug** *(dreaming forever)*
-🎤 **[AHK](https://open.spotify.com/track/6Ze28rfIJWsu8asGQkugWZ)** by **d1v, with3r** *(AHK)*
-🎤 **[2soon](https://open.spotify.com/track/21uWH48OIaXI61JzpKptrN)** by **hateoryx, blackwinterwells, KidSnorlax** *(2soon)*
+🎤 **[Striptease](https://open.spotify.com/track/6EX05nSJOXi3DLPS900n2r)** by **Juniper Fields, User2222** *(Striptease)*
+🎤 **[engel 164BPM](https://open.spotify.com/track/7szYPb2qWJm8hYfoOjfdvB)** by **stixz** *(engel 164BPM)*
+🎤 **[withmydogs](https://open.spotify.com/track/3iQjJ31xWD4NPrVuazUXTA)** by **crusey, advxrse, 1crusafix** *(withmydogs)*
+🎤 **[live in a dream](https://open.spotify.com/track/7tVoM86Cf77QNL4aSzWOVx)** by **Nosgov, Senses, hateoryx** *(live in a dream)*
+🎤 **[ALLES NUR GEKLAUT (+ymike)](https://open.spotify.com/track/6LiTPFY0f6m9DtQxqAwKJR)** by **vee4archive, Vee4r, wasty** *(ALLES NUR GEKLAUT (+ymike))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-27 11:10:56Z UTC
+🕐 Last updated: 2025-12-27 11:26:27Z UTC
 <!-- SPOTIFY-END -->
