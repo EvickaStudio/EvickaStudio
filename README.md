@@ -91,45 +91,26 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273795244ff4b53adb0f0b8d0ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Ich Liebe Hardcore](https://open.spotify.com/track/3XEwYgyufWDlMx6Nc7tJ36)**
-*by* **Gabber Industries Berlin, IceLipzz, SlushhKitten, LØUS**
-*Album:* VA03
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:23 • 3:54
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Ich Liebe Hardcore](https://open.spotify.com/track/3XEwYgyufWDlMx6Nc7tJ36)** by **Gabber Industries Berlin, IceLipzz, SlushhKitten, LØUS** *(VA03)*
+🎤 **[DARK MATTER](https://open.spotify.com/track/2l6UTc6vaB7BnX3zNtxuUm)** by **MC Lan, Bladee** *(V3NOM Vol. 1 - Eclipse)*
 🎤 **[CHYP](https://open.spotify.com/track/7klHF87DeiZyVh8iuuwSx8)** by **TYM** *(CHYP)*
 🎤 **[DżentelMenel](https://open.spotify.com/track/3LUXy1R388adBZ5fncWzbi)** by **Esprit Clever, morecalcium, AstroWilk** *(NEFILIM)*
 🎤 **[nichts gelernt](https://open.spotify.com/track/61mo6nqYndmWCD2hyfJAda)** by **5v** *(nichts gelernt)*
-🎤 **[i feel so...](https://open.spotify.com/track/6x9OWraHIM0b0nSKwiEBye)** by **wiv** *(i feel so...)*
-🎤 **[with you](https://open.spotify.com/track/0CG1OuLGrCoPoxS0ELISU1)** by **Kail Parker, humanangst** *(Alles, was du willst)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥈 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**Marco Cirillo**](https://open.spotify.com/artist/4cHsDM859LW0ndSRjcj6ee)
 
 
@@ -143,5 +124,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-27 11:47:40Z UTC
+🕐 Last updated: 2025-12-27 12:25:05Z UTC
 <!-- SPOTIFY-END -->
