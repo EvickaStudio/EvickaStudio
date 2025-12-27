@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273968411b8f686f90f486660ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273795244ff4b53adb0f0b8d0ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i feel so...](https://open.spotify.com/track/6x9OWraHIM0b0nSKwiEBye)**
-*by* **wiv**
-*Album:* i feel so...
+**🎵 [Ich Liebe Hardcore](https://open.spotify.com/track/3XEwYgyufWDlMx6Nc7tJ36)**
+*by* **Gabber Industries Berlin, IceLipzz, SlushhKitten, LØUS**
+*Album:* VA03
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="261" height="4" fill="#1db954" rx="2"/>
-    <circle cx="261" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:13
+    0:23 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[CHYP](https://open.spotify.com/track/7klHF87DeiZyVh8iuuwSx8)** by **TYM** *(CHYP)*
+🎤 **[DżentelMenel](https://open.spotify.com/track/3LUXy1R388adBZ5fncWzbi)** by **Esprit Clever, morecalcium, AstroWilk** *(NEFILIM)*
+🎤 **[nichts gelernt](https://open.spotify.com/track/61mo6nqYndmWCD2hyfJAda)** by **5v** *(nichts gelernt)*
+🎤 **[i feel so...](https://open.spotify.com/track/6x9OWraHIM0b0nSKwiEBye)** by **wiv** *(i feel so...)*
 🎤 **[with you](https://open.spotify.com/track/0CG1OuLGrCoPoxS0ELISU1)** by **Kail Parker, humanangst** *(Alles, was du willst)*
-🎤 **[gewinner freestyle](https://open.spotify.com/track/6m4Fiauwrvl6epNTaFPKoG)** by **puls207, TROPFBUBEN** *(gewinner freestyle)*
-🎤 **[Removal so Heartful ~ again](https://open.spotify.com/track/1jAibFBxNV5hRlW77g6AN2)** by **Junshi** *(Afterglow, My Forgetfulness ~ PAKK2016)*
-🎤 **[INTO THE FLOOR](https://open.spotify.com/track/1JKU7PRzIXG8I67D57TOKE)** by **RomancePlanet** *(INTO THE FLOOR)*
-🎤 **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-27 11:36:07Z UTC
+🕐 Last updated: 2025-12-27 11:47:40Z UTC
 <!-- SPOTIFY-END -->
