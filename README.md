@@ -97,7 +97,11 @@
 
 ### 📜 Recently Played
 
-❌ Error fetching recently played tracks.
+🎤 **[Ich Liebe Hardcore](https://open.spotify.com/track/3XEwYgyufWDlMx6Nc7tJ36)** by **Gabber Industries Berlin, IceLipzz, SlushhKitten, LØUS** *(VA03)*
+🎤 **[DARK MATTER](https://open.spotify.com/track/2l6UTc6vaB7BnX3zNtxuUm)** by **MC Lan, Bladee** *(V3NOM Vol. 1 - Eclipse)*
+🎤 **[CHYP](https://open.spotify.com/track/7klHF87DeiZyVh8iuuwSx8)** by **TYM** *(CHYP)*
+🎤 **[DżentelMenel](https://open.spotify.com/track/3LUXy1R388adBZ5fncWzbi)** by **Esprit Clever, morecalcium, AstroWilk** *(NEFILIM)*
+🎤 **[nichts gelernt](https://open.spotify.com/track/61mo6nqYndmWCD2hyfJAda)** by **5v** *(nichts gelernt)*
 
 
 
@@ -120,5 +124,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-27 16:44:30Z UTC
+🕐 Last updated: 2025-12-27 16:54:56Z UTC
 <!-- SPOTIFY-END -->
