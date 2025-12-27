@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730a406a737ddadf83d58c5fbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27328cdcd2131951f94e7c8c1ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [maden](https://open.spotify.com/track/51iVYUTvuegZX9YUGePRj4)**
-*by* **luu, n3vio**
-*Album:* internetkind
+**🎵 [Everything You Say](https://open.spotify.com/track/1HKLxMKiHp9LVdPDGE5p0x)**
+*by* **M2UnderGround, 503scoob**
+*Album:* Everything You Say
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="112" height="4" fill="#1db954" rx="2"/>
-    <circle cx="112" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 1:43
+    2:12 • 3:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[oOoo](https://open.spotify.com/track/1Sxxcezzs5DCMUVtYDuyVz)** by **Rezlaine** *(oOoo)*
-🎤 **[all abt love](https://open.spotify.com/track/0TGjSAIe9NFcBjkZx71S1v)** by **ilyproxy** *(lifestyleschmerzen)*
-🎤 **[Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I)** by **01099, Zachi, Gustav** *(Altbau)*
-🎤 **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)*
-🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[undercover rn](https://open.spotify.com/track/2WkdcfNCX42atHXsYO8Pce)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[i feel sick x_X](https://open.spotify.com/track/4dZEbpbLnxSb33ArDFy2JA)** by **Vee4r, wasty** *(i feel sick x_X)*
+🎤 **[in my head pt. 2](https://open.spotify.com/track/7veaC8oydidRsERT9bdvnd)** by **03osc, StonedPlug** *(dreaming forever)*
+🎤 **[AHK](https://open.spotify.com/track/6Ze28rfIJWsu8asGQkugWZ)** by **d1v, with3r** *(AHK)*
+🎤 **[2soon](https://open.spotify.com/track/21uWH48OIaXI61JzpKptrN)** by **hateoryx, blackwinterwells, KidSnorlax** *(2soon)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-27 10:50:27Z UTC
+🕐 Last updated: 2025-12-27 11:10:56Z UTC
 <!-- SPOTIFY-END -->
