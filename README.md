@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273968411b8f686f90f486660ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)**
-*by* **ilyproxy, gard**
-*Album:* lifestyleschmerzen
+**🎵 [i feel so...](https://open.spotify.com/track/6x9OWraHIM0b0nSKwiEBye)**
+*by* **wiv**
+*Album:* i feel so...
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:22
+    1:56 • 2:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Striptease](https://open.spotify.com/track/6EX05nSJOXi3DLPS900n2r)** by **Juniper Fields, User2222** *(Striptease)*
-🎤 **[engel 164BPM](https://open.spotify.com/track/7szYPb2qWJm8hYfoOjfdvB)** by **stixz** *(engel 164BPM)*
-🎤 **[withmydogs](https://open.spotify.com/track/3iQjJ31xWD4NPrVuazUXTA)** by **crusey, advxrse, 1crusafix** *(withmydogs)*
-🎤 **[live in a dream](https://open.spotify.com/track/7tVoM86Cf77QNL4aSzWOVx)** by **Nosgov, Senses, hateoryx** *(live in a dream)*
-🎤 **[ALLES NUR GEKLAUT (+ymike)](https://open.spotify.com/track/6LiTPFY0f6m9DtQxqAwKJR)** by **vee4archive, Vee4r, wasty** *(ALLES NUR GEKLAUT (+ymike))*
+🎤 **[with you](https://open.spotify.com/track/0CG1OuLGrCoPoxS0ELISU1)** by **Kail Parker, humanangst** *(Alles, was du willst)*
+🎤 **[gewinner freestyle](https://open.spotify.com/track/6m4Fiauwrvl6epNTaFPKoG)** by **puls207, TROPFBUBEN** *(gewinner freestyle)*
+🎤 **[Removal so Heartful ~ again](https://open.spotify.com/track/1jAibFBxNV5hRlW77g6AN2)** by **Junshi** *(Afterglow, My Forgetfulness ~ PAKK2016)*
+🎤 **[INTO THE FLOOR](https://open.spotify.com/track/1JKU7PRzIXG8I67D57TOKE)** by **RomancePlanet** *(INTO THE FLOOR)*
+🎤 **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-27 11:26:27Z UTC
+🕐 Last updated: 2025-12-27 11:36:07Z UTC
 <!-- SPOTIFY-END -->
