@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)**
+*by* **ilyproxy, gard**
+*Album:* lifestyleschmerzen
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:33 • 2:22
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[H<3RZSHIRT - sped up](https://open.spotify.com/track/6kWOU0RdssynWZAVaLvQFT)** by **NYAR, ystn** *(H<3RZSHIRT)*
 🎤 **[Mind Freak](https://open.spotify.com/track/7iK0z4ZFY0GnFQhLxnRvZU)** by **boysinblush, Garett Caramel** *(Mind Freak)*
 🎤 **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)*
 🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
 🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
-🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-28 15:48:58Z UTC
+🕐 Last updated: 2025-12-28 16:15:45Z UTC
 <!-- SPOTIFY-END -->
