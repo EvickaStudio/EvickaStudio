@@ -124,5 +124,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-28 13:51:00Z UTC
+🕐 Last updated: 2025-12-28 14:12:38Z UTC
 <!-- SPOTIFY-END -->
