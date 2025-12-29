@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de3760be510e0fe8c0803bbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)**
-*by* **Freddie Dredd**
-*Album:* Opaul
+**🎵 [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL)**
+*by* **Kendrick Lamar**
+*Album:* Mr. Morale & The Big Steppers
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="45" height="4" fill="#1db954" rx="2"/>
-    <circle cx="45" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:20
+    1:14 • 4:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Don't Cry](https://open.spotify.com/track/5huZ31McP64waaPKoq6PIN)** by **Beyazz, Dante YN** *(Don't Cry)*
-🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
-🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
-🎤 **[Terror](https://open.spotify.com/track/4lg2hjAKigjscEfmxuCdny)** by **uusymon, 1antibody** *(Terror)*
-🎤 **[SEPTEMBER 17](https://open.spotify.com/track/4cuQMfza3xRckGb8DFYyh6)** by **Harrison Borts** *(HARRISONBORTS 2022)*
+🎤 **[Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0)** by **Cage The Elephant** *(Melophobia)*
+🎤 **[dancing crying at 4am in the rain](https://open.spotify.com/track/38tBhOt5B3ql2eBcl9r1rV)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
+🎤 **[No Hate Is A Cold Star](https://open.spotify.com/track/4kDgdqL7yg3XfJ3JhgqLfk)** by **7038634357** *(No Hate Is A Cold Star)*
+🎤 **[Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)** by **Freddie Dredd** *(Opaul)*
+🎤 **[Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m)** by **Grizzly Bear** *(Veckatimest)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 22:34:48Z UTC
+🕐 Last updated: 2025-12-29 22:50:32Z UTC
 <!-- SPOTIFY-END -->
