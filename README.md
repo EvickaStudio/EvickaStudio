@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273872a896e7c3776d6949df476" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e7b64b871c6619071b469377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)**
-*by* **MGMT**
-*Album:* Little Dark Age
+**🎵 [scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)**
+*by* **KidSnorlax**
+*Album:* scary monsters
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="0" height="4" fill="#1db954" rx="2"/>
+    <circle cx="0" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:38 • 4:59
+    0:00 • 2:29
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Snus](https://open.spotify.com/track/11pyUJH4ZpGCHuOQH1qbEW)** by **4gegenbeat, BIGBAX** *(Snus)*
-🎤 **[Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)** by **Machine Girl** *(Wlfgrl)*
-🎤 **[Viola](https://open.spotify.com/track/17oTp20ViuKhDTd2pcq5IZ)** by **Psychrex** *(Viola)*
-🎤 **[fw24](https://open.spotify.com/track/4ElTEqO5KuickZgw8aRw2H)** by **lil london** *(fw24)*
-🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
+🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
+🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
+🎤 **[my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)** by **cholorofilm** *(my heart :()*
+🎤 **[Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM)** by **Kool Savas** *(Die John Bello Story, Vol. 3)*
+🎤 **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 23:12:56Z UTC
+🕐 Last updated: 2025-12-29 23:30:43Z UTC
 <!-- SPOTIFY-END -->
