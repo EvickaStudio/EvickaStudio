@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad9153a775a18ef36aa3eb17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735a3750a7032eda3ea17e3419" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)**
-*by* **Bladee**
-*Album:* Ingen hör
+**🎵 [Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)**
+*by* **14?, Cise Star, Fayya**
+*Album:* Dreamland
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
+    <rect width="112" height="4" fill="#1db954" rx="2"/>
+    <circle cx="112" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:54
+    1:40 • 4:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
 🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
 🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
-🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/25CajT88PeOWBoeKhPK8Xb)** by **S1RENA** *(NEUANFANG)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 19:26:15Z UTC
+🕐 Last updated: 2025-12-29 19:36:18Z UTC
 <!-- SPOTIFY-END -->
