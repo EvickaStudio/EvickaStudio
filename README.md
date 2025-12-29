@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ecdb8f824367a53468100faf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)**
-*by* **Yung Lean, Skrillex, Bladee, Ecco2k**
-*Album:* Stardust
+**🎵 [Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)**
+*by* **Yung Lean**
+*Album:* Unknown Death 2002
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="120" height="4" fill="#1db954" rx="2"/>
-    <circle cx="120" cy="2" r="6" fill="#1db954"/>
+    <rect width="56" height="4" fill="#1db954" rx="2"/>
+    <circle cx="56" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 3:02
+    0:46 • 4:07
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Agony](https://open.spotify.com/track/2xxjQg2hh2Rjm7EY9OhZXY)** by **Yung Lean** *(Stranger)*
+🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
+🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
 🎤 **[SPIRIT OF THUNDER](https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44)** by **Yung Lean, DVRST, Riff Raff, Bladee** *(SPIRIT OF THUNDER)*
 🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
-🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 20:42:40Z UTC
+🕐 Last updated: 2025-12-29 20:53:18Z UTC
 <!-- SPOTIFY-END -->
