@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b9826a0336c5f40e976a13ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)**
-*by* **sparr00w, NANA LE VRAI**
-*Album:* Save Room Theme
+**🎵 [soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)**
+*by* **archive computer**
+*Album:* soul doubt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="121" height="4" fill="#1db954" rx="2"/>
-    <circle cx="121" cy="2" r="6" fill="#1db954"/>
+    <rect width="298" height="4" fill="#1db954" rx="2"/>
+    <circle cx="298" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 2:37
+    2:38 • 2:39
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
-🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
-🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
+🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
+🎤 **[PERFECT](https://open.spotify.com/track/1hUTR8gXowqUzX7iuacOY5)** by **disoc8, Gutzxx** *(PERFECT)*
+🎤 **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luutwo** *(#SCENEJESUS)*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 13:12:17Z UTC
+🕐 Last updated: 2025-12-29 13:48:50Z UTC
 <!-- SPOTIFY-END -->
