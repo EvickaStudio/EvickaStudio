@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273dff61be850aa5636c5e2034c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [kafa hi rolling](https://open.spotify.com/track/7hMJtL8Lx4BdJwhymZ7mQS)**
-*by* **ilyproxy**
-*Album:* lifestyleschmerzen
+**🎵 [tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)**
+*by* **pink luu, 1antibody**
+*Album:* tot wie maus
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:56 • 3:04
+    0:04 • 2:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Various Types Of Ads](https://open.spotify.com/track/79VIJ0S4PAKXuvKpmfsBRD)** by **Rory in early 20s** *(Various Types Of Ads)*
-🎤 **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)*
-🎤 **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
-🎤 **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)*
-🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
+🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
+🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[munchausen syndrome](https://open.spotify.com/track/63NVIyOuCuoCGeGAj7mvoH)** by **luutwo, 4rde** *(munchausen syndrome)*
+🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
+🎤 **[baccarat der lügner](https://open.spotify.com/track/590aCBpQqWVDRqlYTB6JRR)** by **ilyproxy** *(lifestyleschmerzen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 11:48:42Z UTC
+🕐 Last updated: 2025-12-29 12:29:02Z UTC
 <!-- SPOTIFY-END -->
