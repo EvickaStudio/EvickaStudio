@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e7b64b871c6619071b469377" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273377a42480f4a78062cf42577" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)**
-*by* **KidSnorlax**
-*Album:* scary monsters
+**🎵 [Castles](https://open.spotify.com/track/7camGp9HsgCNiBPQlXNkZQ)**
+*by* **Too Asian, Ghosu**
+*Album:* Castles
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="0" height="4" fill="#1db954" rx="2"/>
-    <circle cx="0" cy="2" r="6" fill="#1db954"/>
+    <rect width="198" height="4" fill="#1db954" rx="2"/>
+    <circle cx="198" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:00 • 2:29
+    1:49 • 2:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
-🎤 **[my heart :(](https://open.spotify.com/track/4pjyOOLH0cEBh2ywonFhkd)** by **cholorofilm** *(my heart :()*
-🎤 **[Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM)** by **Kool Savas** *(Die John Bello Story, Vol. 3)*
-🎤 **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)*
+🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
+🎤 **[A B](https://open.spotify.com/track/3Y2khY1lCNfbygFPUqtvW1)** by **jequya** *(1p)*
+🎤 **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)*
+🎤 **[Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)** by **Peake** *(Odile)*
+🎤 **[Disorder](https://open.spotify.com/track/2WEw8oFZiANQzWdGElO3Mf)** by **Joy Division** *(The Best Of)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 23:30:43Z UTC
+🕐 Last updated: 2025-12-29 23:48:37Z UTC
 <!-- SPOTIFY-END -->
