@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731860d9e6c7b98e2f83b03923" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de3760be510e0fe8c0803bbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)**
-*by* **Urbannino, DeeLou**
-*Album:* Für immer wach
+**🎵 [Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)**
+*by* **Freddie Dredd**
+*Album:* Opaul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="158" height="4" fill="#1db954" rx="2"/>
-    <circle cx="158" cy="2" r="6" fill="#1db954"/>
+    <rect width="45" height="4" fill="#1db954" rx="2"/>
+    <circle cx="45" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:44 • 3:18
+    0:21 • 2:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Upside Down](https://open.spotify.com/track/1O6Y59UFcRXmp9JFIhhjG7)** by **SlushhKitten, hqwilli** *(Upside Down)*
-🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
-🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
-🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
-🎤 **[Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)** by **southstar** *(Cover Up My Face)*
+🎤 **[Don't Cry](https://open.spotify.com/track/5huZ31McP64waaPKoq6PIN)** by **Beyazz, Dante YN** *(Don't Cry)*
+🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
+🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
+🎤 **[Terror](https://open.spotify.com/track/4lg2hjAKigjscEfmxuCdny)** by **uusymon, 1antibody** *(Terror)*
+🎤 **[SEPTEMBER 17](https://open.spotify.com/track/4cuQMfza3xRckGb8DFYyh6)** by **Harrison Borts** *(HARRISONBORTS 2022)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 22:13:09Z UTC
+🕐 Last updated: 2025-12-29 22:34:48Z UTC
 <!-- SPOTIFY-END -->
