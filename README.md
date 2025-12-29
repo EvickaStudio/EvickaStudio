@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dff61be850aa5636c5e2034c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [tot wie maus](https://open.spotify.com/track/0d6cQKFq7YsQATO3rfSV4G)**
-*by* **pink luu, 1antibody**
-*Album:* tot wie maus
+**🎵 [Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)**
+*by* **sparr00w, NANA LE VRAI**
+*Album:* Save Room Theme
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="121" height="4" fill="#1db954" rx="2"/>
+    <circle cx="121" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 2:27
+    1:03 • 2:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[beyblade](https://open.spotify.com/track/6yu7LVpZjt5D0ZZFtVU6NT)** by **ilymeow, wujek, Kyurukai, Nightclub20xx** *(beyblade)*
-🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[munchausen syndrome](https://open.spotify.com/track/63NVIyOuCuoCGeGAj7mvoH)** by **luutwo, 4rde** *(munchausen syndrome)*
-🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
-🎤 **[baccarat der lügner](https://open.spotify.com/track/590aCBpQqWVDRqlYTB6JRR)** by **ilyproxy** *(lifestyleschmerzen)*
+🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
+🎤 **[klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)** by **blombi19** *(herzkasper)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 12:29:02Z UTC
+🕐 Last updated: 2025-12-29 13:12:17Z UTC
 <!-- SPOTIFY-END -->
