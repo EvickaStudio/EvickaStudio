@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d820d0eec25eda4941f06260" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)**
-*by* **grellewelt**
-*Album:* zeitverloren
+**🎵 [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)**
+*by* **Tyler, The Creator**
+*Album:* IGOR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="47" height="4" fill="#1db954" rx="2"/>
+    <circle cx="47" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:32 • 3:26
+    0:59 • 6:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[MEIN TEE WIRD LANGSAM KALT](https://open.spotify.com/track/4Prtkiy65FTHgARDYp9xGN)** by **Chapo102, 102 Boyz, Longus Mongus, Stacks102** *(MEIN TEE WIRD LANGSAM KALT)*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/7BLMjJ1EHt2BZQHy2jDr07)** by **Joey Cash** *(r u kissin any1?)*
-🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[H<3RZSHIRT - sped up](https://open.spotify.com/track/6kWOU0RdssynWZAVaLvQFT)** by **NYAR, ystn** *(H<3RZSHIRT)*
+🎤 **[100 TAUSEND (Demo)](https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW)** by **Yung Hurn** *(100 TAUSEND (Demo))*
+🎤 **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)*
+🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
+🎤 **[Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)** by **Bladee, Mechatok** *(Good Luck)*
 
 
 
@@ -139,9 +139,9 @@
 🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 🥈 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 🥉 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
-🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
+🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 19:48:02Z UTC
+🕐 Last updated: 2025-12-29 20:15:44Z UTC
 <!-- SPOTIFY-END -->
