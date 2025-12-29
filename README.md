@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c69a666adf50abab6a062e32" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)**
-*by* **Ecco2k**
-*Album:* Pollen
+**🎵 [schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)**
+*by* **ilyproxy, gard**
+*Album:* lifestyleschmerzen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="59" height="4" fill="#1db954" rx="2"/>
-    <circle cx="59" cy="2" r="6" fill="#1db954"/>
+    <rect width="97" height="4" fill="#1db954" rx="2"/>
+    <circle cx="97" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:33 • 2:48
+    0:46 • 2:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
-🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
-🎤 **[You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)** by **Ecco2k, Bladee, Thaiboy Digital** *(Trash Island)*
-🎤 **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)*
-🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
+🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
+🎤 **[r u kissin any1?](https://open.spotify.com/track/7BLMjJ1EHt2BZQHy2jDr07)** by **Joey Cash** *(r u kissin any1?)*
+🎤 **[Vanilla Sky](https://open.spotify.com/track/45S1AYnCco4cXjFpoctV7u)** by **Bladee, Ecco2k** *(Vanilla Sky)*
+🎤 **[Kiss Me Through the Scope](https://open.spotify.com/track/3GCMcuFshftdxKEeFTCIwK)** by **Thaiboy Digital** *(Legendary Member)*
+🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 18:20:53Z UTC
+🕐 Last updated: 2025-12-29 18:49:48Z UTC
 <!-- SPOTIFY-END -->
