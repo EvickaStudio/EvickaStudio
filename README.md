@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738504a0836dfaa61b28930505" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)**
-*by* **Ecco2k**
-*Album:* E
+**🎵 [5 Star Crest (4 Vattenrum)](https://open.spotify.com/track/62ULDRgBvShFOFQoz4mTEb)**
+*by* **Bladee, Ecco2k**
+*Album:* Crest
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="85" height="4" fill="#1db954" rx="2"/>
-    <circle cx="85" cy="2" r="6" fill="#1db954"/>
+    <rect width="270" height="4" fill="#1db954" rx="2"/>
+    <circle cx="270" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 4:12
+    7:57 • 8:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
+🎤 **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)*
 🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
 🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
-🎤 **[The Flag is Raised](https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC)** by **Bladee, Ecco2k** *(Crest)*
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[Canary Wharf freestyle](https://open.spotify.com/track/61feSMPVPI3RadQEv8kvGb)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 17:33:06Z UTC
+🕐 Last updated: 2025-12-29 17:49:20Z UTC
 <!-- SPOTIFY-END -->
