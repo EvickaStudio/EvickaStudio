@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738504a0836dfaa61b28930505" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c69a666adf50abab6a062e32" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [5 Star Crest (4 Vattenrum)](https://open.spotify.com/track/62ULDRgBvShFOFQoz4mTEb)**
-*by* **Bladee, Ecco2k**
-*Album:* Crest
+**🎵 [Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)**
+*by* **Ecco2k**
+*Album:* Pollen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    7:57 • 8:49
+    0:33 • 2:48
 </span>
 </p>
 
@@ -116,10 +116,10 @@
 
 ### 📜 Recently Played
 
-🎤 **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)*
-🎤 **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)*
+🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
+🎤 **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)*
+🎤 **[You Lose](https://open.spotify.com/track/5sMeF22YDuHZ26cdgAI2GH)** by **Ecco2k, Bladee, Thaiboy Digital** *(Trash Island)*
+🎤 **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)*
 🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
 
 
@@ -143,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 17:49:20Z UTC
+🕐 Last updated: 2025-12-29 18:20:53Z UTC
 <!-- SPOTIFY-END -->
