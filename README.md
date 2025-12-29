@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731860d9e6c7b98e2f83b03923" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)**
-*by* **bôa**
-*Album:* Twilight
+**🎵 [Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)**
+*by* **Urbannino, DeeLou**
+*Album:* Für immer wach
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="19" height="4" fill="#1db954" rx="2"/>
-    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+    <rect width="158" height="4" fill="#1db954" rx="2"/>
+    <circle cx="158" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 3:23
+    1:44 • 3:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[found it (demo)](https://open.spotify.com/track/6Z05nc6InGk7Rz0ni3Vp2i)** by **Estrada** *(found it (demo))*
-🎤 **[ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/1wSQx1RKbYbhvtvye0wGVW)** by **DANZINGER 99** *(ich+will-für_immer_betäubt★彡sein+++)*
-🎤 **[C ma shit pt. 2](https://open.spotify.com/track/1iJRSsTH0ZHRihrkZ8Mvkc)** by **Realo, Simala, abel31, Recklessboise** *(C ma shit pt. 2)*
-🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
-🎤 **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by **Holy Fuck** *(Congrats)*
+🎤 **[Upside Down](https://open.spotify.com/track/1O6Y59UFcRXmp9JFIhhjG7)** by **SlushhKitten, hqwilli** *(Upside Down)*
+🎤 **[relation with you, Parfait](https://open.spotify.com/track/3N8jAm9UTCmh521CGp9pcm)** by **Junshi, oldoceans** *(relation with you, Parfait)*
+🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
+🎤 **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)*
+🎤 **[Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)** by **southstar** *(Cover Up My Face)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 21:50:12Z UTC
+🕐 Last updated: 2025-12-29 22:13:09Z UTC
 <!-- SPOTIFY-END -->
