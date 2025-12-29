@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734fbf52b8c98e5c6fbaeb504b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734a3f4c8c2ea9ecc876dddf9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Acid at 7/11](https://open.spotify.com/track/3L60fLXCpeTF4jRL8a7kk9)**
-*by* **Yung Lean**
-*Album:* Starz
+**🎵 [Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)**
+*by* **Caramella Girls, Tatsunoshin, Komb**
+*Album:* Caramelldansen (Komb & Tatsunoshin Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="165" height="4" fill="#1db954" rx="2"/>
-    <circle cx="165" cy="2" r="6" fill="#1db954"/>
+    <rect width="188" height="4" fill="#1db954" rx="2"/>
+    <circle cx="188" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:46 • 3:12
+    1:42 • 2:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
-🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)*
-🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)*
+🎤 **[Life Number 9](https://open.spotify.com/track/5XtzNbJsuSvGLXFPXRPH2m)** by **Rosesleeves** *(Pixie)*
+🎤 **[oxytocin](https://open.spotify.com/track/0aCP2CYv14RhplU5sCfzMd)** by **Mobezzy** *(INTEREA)*
+🎤 **[FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ)** by **pluko** *(FALLING)*
+🎤 **[Fire sign](https://open.spotify.com/track/4RQoF2veOQ4wK2HVaOF9b2)** by **Dropped here** *(Fire sign)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 21:12:25Z UTC
+🕐 Last updated: 2025-12-29 21:30:11Z UTC
 <!-- SPOTIFY-END -->
