@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ecdb8f824367a53468100faf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)**
-*by* **Tyler, The Creator**
-*Album:* IGOR
+**🎵 [SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)**
+*by* **Yung Lean, Skrillex, Bladee, Ecco2k**
+*Album:* Stardust
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="120" height="4" fill="#1db954" rx="2"/>
+    <circle cx="120" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 6:15
+    1:13 • 3:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[H<3RZSHIRT - sped up](https://open.spotify.com/track/6kWOU0RdssynWZAVaLvQFT)** by **NYAR, ystn** *(H<3RZSHIRT)*
-🎤 **[100 TAUSEND (Demo)](https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW)** by **Yung Hurn** *(100 TAUSEND (Demo))*
-🎤 **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)*
-🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
-🎤 **[Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)** by **Bladee, Mechatok** *(Good Luck)*
+🎤 **[SPIRIT OF THUNDER](https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44)** by **Yung Lean, DVRST, Riff Raff, Bladee** *(SPIRIT OF THUNDER)*
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
+🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-29 20:15:44Z UTC
+🕐 Last updated: 2025-12-29 20:42:40Z UTC
 <!-- SPOTIFY-END -->
