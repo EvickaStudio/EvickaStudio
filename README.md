@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ce57922debe8e1c458732a75" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/34RVQSrCUpa6AuclMPl8f9)**
+*by* **Kilian Knight**
+*Album:* Es wird bald vorbei sein (Allein sein)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:41 • 2:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
-🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
-🎤 **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)*
-🎤 **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)*
+🎤 **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[Goth (Slowed + Reverb)](https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz)** by **Sidewalks and Skeletons** *(Goth (Slowed + Reverb))*
+🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
+🎤 **[Verdient](https://open.spotify.com/track/5jqdb9Av5ZiY6tt0wzjJJ1)** by **EASY EASY** *(Echoes etc., Vol. 2)*
+🎤 **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 
 
-🕐 Last updated: 2025-12-29 05:57:49Z UTC
+🕐 Last updated: 2025-12-29 06:34:29Z UTC
 <!-- SPOTIFY-END -->
