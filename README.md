@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273577e621f0ecc8f95b12c065a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27335c24e8d94b50ef607545578" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Frost](https://open.spotify.com/track/08qP9BisonMEIP2AuztMZX)**
-*by* **SALEM**
-*Album:* King Night
+**🎵 [Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)**
+*by* **Whitearmor, Gud**
+*Album:* Frutta E Verdura
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="70" height="4" fill="#1db954" rx="2"/>
-    <circle cx="70" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 3:24
+    0:50 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Used To Give a Fuck](https://open.spotify.com/track/1mIMPcxX2mHxc9cLO7w4Sl)** by **t0ni** *(Ego Death Memories)*
-🎤 **[Vega](https://open.spotify.com/track/5OxX9mw7YJvEAipdesuurh)** by **ESP** *(Promise)*
-🎤 **[uu](https://open.spotify.com/track/2IuwQFxfEhtoQVDyhEUtfq)** by **Whitearmor** *(uu)*
-🎤 **[Voices - Malibu Remix](https://open.spotify.com/track/4Vz3mdKSX2ae40FO1w7Bya)** by **ESP, Malibu** *(Promise (Deluxe))*
-🎤 **[i kno](https://open.spotify.com/track/2VYGhT9YFJ6kd6YWLJSnfh)** by **Whitearmor** *(i kno)*
+🎤 **[1111 - 11](https://open.spotify.com/track/6bheEHW8cR0q8Pvi9zrJ9K)** by **t0ni** *(Ego Death Memories)*
+🎤 **[losted](https://open.spotify.com/track/707R3sDfG02LUKscjfxvWj)** by **Oxhy** *(to keep the desert from blooming)*
+🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
+🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[Frost](https://open.spotify.com/track/08qP9BisonMEIP2AuztMZX)** by **SALEM** *(King Night)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-30 20:36:44Z UTC
+🕐 Last updated: 2025-12-30 20:52:22Z UTC
 <!-- SPOTIFY-END -->
