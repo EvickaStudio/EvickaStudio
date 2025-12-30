@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736f06348c3db472d6a5070adc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)**
-*by* **Edwin Rosen**
-*Album:* Wie sehr tut es weh?
+**🎵 [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)**
+*by* **Have A Nice Life**
+*Album:* Deathconsciousness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 2:45
+    1:18 • 7:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Moonlight](https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL)** by **XXXTENTACION** *(?)*
-🎤 **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)*
-🎤 **[Dies Irae - Just Raw](https://open.spotify.com/track/5VwQYfL9t74S8A45z60Hxv)** by **Aloboi** *(Justcore Extravaganza)*
-🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)*
+🎤 **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)*
+🎤 **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))*
+🎤 **[999 (Remix)](https://open.spotify.com/track/0fmbjLzenF8z20WN0QPSXl)** by **MYT, TYM** *(999 (Remix))*
+🎤 **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 01:05:25Z UTC
+🕐 Last updated: 2025-12-30 03:02:35Z UTC
 <!-- SPOTIFY-END -->
