@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f09c95d42d11dc3f11502cf5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)**
-*by* **Snow Strippers**
-*Album:* RIFT Two
+**🎵 [Sommer vorbei](https://open.spotify.com/track/2yKHYx8N4Hk270XORXFJ5N)**
+*by* **TEMMIS**
+*Album:* Wenn du da bist
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="168" height="4" fill="#1db954" rx="2"/>
+    <circle cx="168" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 3:01
+    1:51 • 3:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
-🎤 **[It's a Dream - Infused mix](https://open.spotify.com/track/0KNR7j4Su86TZ6RNEtomv0)** by **DJ Panda** *(It's a Dream)*
-🎤 **[SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)** by **Sleepisformortals** *(SO DUMB)*
-🎤 **[Porcelain Angel](https://open.spotify.com/track/4XMCjvNxxNPBZDHOnzORN6)** by **kiLLa Laharl, s0cliché** *(Digital Shrine)*
-🎤 **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by **Steintor Herrenchor** *(Luisa)*
+🎤 **[I Know](https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ)** by **Moritz** *(I Know)*
+🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg)** by **Kendrick Lamar** *(DAMN.)*
+🎤 **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2025-12-30 10:55:41Z UTC
+🕐 Last updated: 2025-12-30 11:13:53Z UTC
 <!-- SPOTIFY-END -->
