@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27398d00ac6094ba72fa6018caf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e24f40c0e2aa2b0bd2918859" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)**
-*by* **Steintor Herrenchor**
-*Album:* Postkarten
+**🎵 [Mass Anasthesia](https://open.spotify.com/track/2mSvt89wTd99uETCSlePH2)**
+*by* **Mediavolo**
+*Album:* A Secret Sound
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="150" height="4" fill="#1db954" rx="2"/>
-    <circle cx="150" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:19 • 2:38
+    2:46 • 3:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)*
-🎤 **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)** by **Pitbull, Kesha** *(Global Warming: Meltdown (Deluxe Version))*
-🎤 **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)*
-🎤 **[Materialism as a Means to an End](https://open.spotify.com/track/4t2dQ3OQaAJQn52BNszPnY)** by **$uicideboy$** *(Materialism as a Means to an End)*
+🎤 **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)*
+🎤 **[UNDER CONTROL](https://open.spotify.com/track/1OGiBWp2vKLshpIWRlySc2)** by **funeral** *(UNDER CONTROL)*
+🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
+🎤 **[Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp)** by **Lil Tracy** *(Anarchy)*
+🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 15:52:00Z UTC
+🕐 Last updated: 2025-12-30 16:17:58Z UTC
 <!-- SPOTIFY-END -->
