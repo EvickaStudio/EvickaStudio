@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d10fd2514a37d436538a74be" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27394c6cd33b8be451c2372c6fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sugar & Diesel](https://open.spotify.com/track/32Ts37hxWyPWhMXUeZGz9a)**
-*by* **Ecco2k**
-*Album:* E
+**🎵 [Television / So Far So Good](https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv)**
+*by* **Rex Orange County**
+*Album:* Apricot Princess
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="94" height="4" fill="#1db954" rx="2"/>
-    <circle cx="94" cy="2" r="6" fill="#1db954"/>
+    <rect width="108" height="4" fill="#1db954" rx="2"/>
+    <circle cx="108" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 3:19
+    1:35 • 4:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)** by **Machine Girl** *(Wlfgrl)*
-🎤 **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)*
-🎤 **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
-🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
+🎤 **[taschen schwer](https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0)** by **5v, James Jetski** *(taschen schwer)*
+🎤 **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)*
+🎤 **[guardianAngels](https://open.spotify.com/track/2JxBABZ8loPD6559kkH5kR)** by **3versince** *(guardianAngels)*
+🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
+🎤 **[Teufel](https://open.spotify.com/track/503SCbKk3X6DpOVJE3L93v)** by **Miese Mau** *(Verbrecher)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 13:47:20Z UTC
+🕐 Last updated: 2025-12-30 14:14:12Z UTC
 <!-- SPOTIFY-END -->
