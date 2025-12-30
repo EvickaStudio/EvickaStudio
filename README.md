@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735edf0c8c7fa8589fdb5452fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273baa1633a4681a9fa36cc1ba7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hey Now Hey Now](https://open.spotify.com/track/4Mtr4LdNOrakUotEndRY0M)**
-*by* **Major Ghetto**
-*Album:* Major Ghetto
+**🎵 [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm)**
+*by* **DVRST**
+*Album:* I Hate You I Love You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 3:08
+    1:58 • 2:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))*
-🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
-🎤 **[high as hell and sad as fuck](https://open.spotify.com/track/465G70pPUuXGI6GJiYBi61)** by **Love Pact** *(party boy)*
-🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Ohne Dich](https://open.spotify.com/track/0Lym3XzkptNzplQXIeXHu6)** by **Marsi, Mondieuz** *(Ohne Dich)*
+🎤 **[IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)** by **BONES** *(Champion)*
+🎤 **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)*
+🎤 **[Saw](https://open.spotify.com/track/1WgSV4qb90fPut4rhwVhrV)** by **Tevvez** *(Pure)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 11:48:40Z UTC
+🕐 Last updated: 2025-12-30 12:28:32Z UTC
 <!-- SPOTIFY-END -->
