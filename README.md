@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734884378833acac3879ae4219" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27350a0e8f7884db9c0e3b54921" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)**
-*by* **wilson100k**
-*Album:* auf wiedersehen </3
+**🎵 [where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)**
+*by* **emorave**
+*Album:* where did i go wrong
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="5" height="4" fill="#1db954" rx="2"/>
+    <circle cx="5" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:24
+    0:02 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
-🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
-🎤 **[Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)** by **S1RENA** *(Staub)*
-🎤 **[Kiss Me At Camp Crystal Lake](https://open.spotify.com/track/68gOS7qY9yEXKZvs6lnHIk)** by **Television Blonde** *(Kiss Me At Camp Crystal Lake)*
-🎤 **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)*
+🎤 **[moonlit](https://open.spotify.com/track/6AgbVoJXwUSFCFlQgm3Hu3)** by **glissey** *(moonlit)*
+🎤 **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)*
+🎤 **[SSS](https://open.spotify.com/track/0mradpJjKccCx8pkgYRMua)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
+🎤 **[Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM)** by **Kool Savas** *(Die John Bello Story, Vol. 3)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2025-12-30 22:50:44Z UTC
+🕐 Last updated: 2025-12-30 23:12:49Z UTC
 <!-- SPOTIFY-END -->
