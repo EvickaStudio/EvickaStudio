@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739b62a44cd1a24b41089989ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730119b642ecbca56e18f5e0cf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lichter](https://open.spotify.com/track/1mA008p9HblZSlkd7waDjL)**
-*by* **herz., Traumatin**
-*Album:* lichter
+**🎵 [BLEED (RUNAWAY)](https://open.spotify.com/track/2mSVHXCnKDkhMdsjvTnmwx)**
+*by* **RomancePlanet, Euphorizer**
+*Album:* BLEED (RUNAWAY)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="206" height="4" fill="#1db954" rx="2"/>
-    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:57 • 2:50
+    1:09 • 2:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nice To Know Ya - Sped Up](https://open.spotify.com/track/2Jp4SHXHBDv9FLOQ4oB2Hb)** by **Sylendanna** *(Nice To Know Ya (Sped Up))*
-🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
-🎤 **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by **White Town** *(Women in Technology)*
-🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
-🎤 **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)*
+🎤 **[Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[ೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋ](https://open.spotify.com/track/7bUgkEuZV7kppzH2bDnQUF)** by **Fine-Sir-1584660650** *(ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ)*
+🎤 **[United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL)** by **Kendrick Lamar** *(Mr. Morale & The Big Steppers)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[Monster](https://open.spotify.com/track/0gzWOJcPeUOPsHuA4x09NQ)** by **Jaegershu** *(Monster)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-30 08:49:56Z UTC
+🕐 Last updated: 2025-12-30 09:18:21Z UTC
 <!-- SPOTIFY-END -->
