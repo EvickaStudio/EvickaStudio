@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dcfdefeaa6f213a676e0e613" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737fd68d7f92983e9003002cb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [With My Best](https://open.spotify.com/track/4U6qXDIbzu8J69lVl4c0UP)**
-*by* **User2222**
-*Album:* 2222
+**🎵 [Sears Tower](https://open.spotify.com/track/0PWFdOlwwQIf0yLS7Gtw9Q)**
+*by* **SALEM**
+*Album:* Fires In Heaven
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="107" height="4" fill="#1db954" rx="2"/>
-    <circle cx="107" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 2:54
+    2:44 • 3:07
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tar feathers](https://open.spotify.com/track/1O341BrG8w9A4LUNPP2L7J)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)*
-🎤 **[The End of the World](https://open.spotify.com/track/3ML8Ns9bDFl4TZYJ1AfcXx)** by **Rooster** *(Ssstupid / The End of the World)*
-🎤 **[Entropy (Sketch)](https://open.spotify.com/track/3B7pHvFHErfngnSt8IhCaU)** by **User2222** *(Entropy (Sketch))*
-🎤 **[Trust Goes Both Ways](https://open.spotify.com/track/44YAjGu3fS9a5BYmXj8oDQ)** by **t0ni** *(Ego Death Memories)*
+🎤 **[Open Your Eyes](https://open.spotify.com/track/6EV3KcksXaX2oLrLrYq23v)** by **User2222** *(2222)*
+🎤 **[lusi please focus!](https://open.spotify.com/track/2qQUMLcQFnvyedlEI2KBb3)** by **Ripsquad Archive** *(lusi please focus!)*
+🎤 **[Anams Song](https://open.spotify.com/track/3ckHTyS4sf5D6HJ3VxRStD)** by **Thrilliam Angels, 020baby** *(The Static Screams Your Name)*
+🎤 **[✧˖°꒰๑’ꀾ’๑꒱°˖✧](https://open.spotify.com/track/7yGxqunJUBEkuEPZELbFVH)** by **reverie** *(˚₊‧꒰ა ☆ ໒꒱ ‧₊˚)*
+🎤 **[Frostbite](https://open.spotify.com/track/1sQ6BmpQgK5VH2z3NtUQgp)** by **ESP** *(Frostbite)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-30 21:31:31Z UTC
+🕐 Last updated: 2025-12-30 21:49:00Z UTC
 <!-- SPOTIFY-END -->
