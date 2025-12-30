@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27368920b0101f15a48c7a22ce5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273facba1bc2f0af71f95165254" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Girls Just Want Breaks (yion-flip)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1)**
-*by* **yion**
-*Album:* Girls Just Want Breaks (yion-flip)
+**🎵 [9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)**
+*by* **Brutalismus 3000**
+*Album:* GOODBYE SALÒ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
+    <rect width="120" height="4" fill="#1db954" rx="2"/>
+    <circle cx="120" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 1:46
+    1:35 • 3:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
-🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
-🎤 **[Судно (Борис Рыжий)](https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO)** by **Molchat Doma** *(Этажи)*
-🎤 **[friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)** by **elricfd** *(friday nite)*
-🎤 **[Die braune Tasche - Frizzo Remix](https://open.spotify.com/track/0WWphMtsnrm1WSldFJkkc7)** by **Haftbefehl, Frizzo** *(Die braune Tasche (Frizzo Remix))*
+🎤 **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/4QnKglUXjCju9fpFuQJJ9L)** by **archive computer** *(how it feels to get run over)*
+🎤 **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)*
+🎤 **[titles](https://open.spotify.com/track/7rE2cZw1gJxKfGqOHA9PXs)** by **twikipedia, funeral** *(titles)*
+🎤 **[Girls Just Want Breaks (yion-flip)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1)** by **yion** *(Girls Just Want Breaks (yion-flip))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 14:38:42Z UTC
+🕐 Last updated: 2025-12-30 14:53:32Z UTC
 <!-- SPOTIFY-END -->
