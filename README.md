@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c7061e89cfa5cafebc133db5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734884378833acac3879ae4219" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Unendlichkeit (Remix)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN)**
-*by* **MilleniumKid, JBS, The Boy The G**
-*Album:* Unendlichkeit (Remix)
+**🎵 [auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)**
+*by* **wilson100k**
+*Album:* auf wiedersehen </3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 2:52
+    0:53 • 2:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Places - Lo-Fi Version](https://open.spotify.com/track/1ov3E8UKGTx40YAdoF9ZWf)** by **Yoyle Cake** *(Battle for BFDI (Original Soundtrack))*
-🎤 **[All Dogs Go to Heaven](https://open.spotify.com/track/1DoBPOlB884EHiftB46QGx)** by **$uicideboy$** *(Stop Staring At the Shadows)*
-🎤 **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)*
-🎤 **[silberstern](https://open.spotify.com/track/6EO7zOP54TVYDULBvWbNOj)** by **blombi19** *(herzkasper)*
-🎤 **[I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm)** by **DVRST** *(I Hate You I Love You)*
+🎤 **[Don't Speak](https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS)** by **No Doubt** *(Tragic Kingdom)*
+🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
+🎤 **[Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)** by **S1RENA** *(Staub)*
+🎤 **[Kiss Me At Camp Crystal Lake](https://open.spotify.com/track/68gOS7qY9yEXKZvs6lnHIk)** by **Television Blonde** *(Kiss Me At Camp Crystal Lake)*
+🎤 **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)*
 
 
 
@@ -140,8 +140,8 @@
 🥈 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 🥉 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
-🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
+🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2025-12-30 22:34:47Z UTC
+🕐 Last updated: 2025-12-30 22:50:44Z UTC
 <!-- SPOTIFY-END -->
