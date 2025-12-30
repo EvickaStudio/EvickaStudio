@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a341129bbb6f97371ef4a2f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2bb243604066dc0b62b66a1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)**
-*by* **EASY EASY**
-*Album:* schädel
+**🎵 [Rhythm Is A Dancer - 7" Edit](https://open.spotify.com/track/4RADreHMvMkZwsPgPr9z5c)**
+*by* **SNAP!**
+*Album:* The Madman's Return
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="280" height="4" fill="#1db954" rx="2"/>
+    <circle cx="280" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:06 • 3:06
+    3:31 • 3:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Rainbow](https://open.spotify.com/track/3Dy3sSOcWlvmPfKUW0uO7A)** by **Bladee, Mechatok** *(Good Luck)*
-🎤 **[Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)** by **Wir sind Helden** *(Von hier an blind)*
-🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
-🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
-🎤 **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)*
+🎤 **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)*
+🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
+🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
+🎤 **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)*
+🎤 **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 05:54:31Z UTC
+🕐 Last updated: 2025-12-30 06:21:58Z UTC
 <!-- SPOTIFY-END -->
