@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335c24e8d94b50ef607545578" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738127f8e463044bbc9cb955fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)**
-*by* **Whitearmor, Gud**
-*Album:* Frutta E Verdura
+**🎵 [Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)**
+*by* **Mori Mori**
+*Album:* BB Void
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="81" height="4" fill="#1db954" rx="2"/>
-    <circle cx="81" cy="2" r="6" fill="#1db954"/>
+    <rect width="175" height="4" fill="#1db954" rx="2"/>
+    <circle cx="175" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 3:04
+    1:55 • 3:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[1111 - 11](https://open.spotify.com/track/6bheEHW8cR0q8Pvi9zrJ9K)** by **t0ni** *(Ego Death Memories)*
-🎤 **[losted](https://open.spotify.com/track/707R3sDfG02LUKscjfxvWj)** by **Oxhy** *(to keep the desert from blooming)*
-🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
-🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
-🎤 **[Frost](https://open.spotify.com/track/08qP9BisonMEIP2AuztMZX)** by **SALEM** *(King Night)*
+🎤 **[13](https://open.spotify.com/track/5zyaj0Ln5PpRrbruCsxaYq)** by **Whitearmor** *(Karma)*
+🎤 **[Annika](https://open.spotify.com/track/5Pc4ylk5pVh6tCn2nlpH1z)** by **Whitearmor, Gud** *(Frutta E Verdura)*
+🎤 **[and we try](https://open.spotify.com/track/1a4MfXWWU5ZRbbs1MWCiTE)** by **Oxhy** *(if i could be an empty portal unto my love)*
+🎤 **[Bird on a Wire](https://open.spotify.com/track/0hcqinpvUZ8p8IdqJtGw7k)** by **User2222** *(Blame Games)*
+🎤 **[Search for Home](https://open.spotify.com/track/4Z0sHEK1IguPk4YukSyFUp)** by **ESP** *(Promise)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-30 20:52:22Z UTC
+🕐 Last updated: 2025-12-30 21:13:10Z UTC
 <!-- SPOTIFY-END -->
