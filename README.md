@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d1430224d631eaa5954f13c9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)**
-*by* **Kanye West, Rick Ross**
-*Album:* My Beautiful Dark Twisted Fantasy
+**🎵 [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA)**
+*by* **Beach House**
+*Album:* Depression Cherry
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:21 • 5:51
+    5:13 • 5:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
+🎤 **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)*
+🎤 **[Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)** by **Machine Girl** *(Wlfgrl)*
+🎤 **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)*
 🎤 **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
-🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
-🎤 **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)*
-🎤 **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)*
 
 
 
@@ -129,8 +129,8 @@
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+🏅 [**Marco Cirillo**](https://open.spotify.com/artist/4cHsDM859LW0ndSRjcj6ee)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2025-12-30 23:30:11Z UTC
+🕐 Last updated: 2025-12-30 23:42:08Z UTC
 <!-- SPOTIFY-END -->
