@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ea6f9bfc54dcdc0303cfaed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)**
-*by* **Whitearmor**
-*Album:* In the Abyss: Music for Weddings
+**🎵 [Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)**
+*by* **grim noir**
+*Album:* Verhext
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="26" height="4" fill="#1db954" rx="2"/>
+    <circle cx="26" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:50 • 3:52
+    0:13 • 2:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[To Kaže Sve](https://open.spotify.com/track/4GWeg3bt1TeTSivoXEM8qk)** by **Evanora Unlimited** *(Portraits from Memory)*
-🎤 **[Rivers Over Wall Street](https://open.spotify.com/track/7yEFgUZOKqWSGHeKxIT21D)** by **jonatan leandoer96** *(Nectar)*
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
-🎤 **[Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)** by **smokedope2016, Nokia Angel** *(Sleep)*
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
+🎤 **[Emotions 2.0](https://open.spotify.com/track/4O4YjcteBewBS603SK1enn)** by **Ufo361, CÉLINE** *(Emotions 2.0)*
+🎤 **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)*
+🎤 **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)*
+🎤 **[december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)** by **your favorite problem, grimheart** *(december (forever))*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 07:50:03Z UTC
+🕐 Last updated: 2025-12-30 08:19:50Z UTC
 <!-- SPOTIFY-END -->
