@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2733110ac6b32c463f398a9e051" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)**
+*by* **Wir sind Helden**
+*Album:* Von hier an blind
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="115" height="4" fill="#1db954" rx="2"/>
+    <circle cx="115" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:21 • 3:32
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)*
-🎤 **[sega saturn](https://open.spotify.com/track/6CeO9V6e7Lq0rChLTsphHk)** by **Dp** *(dvdp_)*
-🎤 **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)*
-🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
-🎤 **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)*
+🎤 **[Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)** by **Robert Miles** *(Children (Dance Vault Mixes))*
+🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
+🎤 **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)*
+🎤 **[zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)** by **grellewelt** *(zeitverloren)*
+🎤 **[MEIN TEE WIRD LANGSAM KALT](https://open.spotify.com/track/0vU1xp5OLSb0bsNqvumHgX)** by **Chapo102, 102 Boyz, Longus Mongus, Stacks102** *(COUNTRYCLUB)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 05:17:59Z UTC
+🕐 Last updated: 2025-12-30 05:44:38Z UTC
 <!-- SPOTIFY-END -->
