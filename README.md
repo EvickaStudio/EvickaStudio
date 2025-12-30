@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ea6f9bfc54dcdc0303cfaed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739b62a44cd1a24b41089989ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)**
-*by* **grim noir**
-*Album:* Verhext
+**🎵 [lichter](https://open.spotify.com/track/1mA008p9HblZSlkd7waDjL)**
+*by* **herz., Traumatin**
+*Album:* lichter
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="26" height="4" fill="#1db954" rx="2"/>
-    <circle cx="26" cy="2" r="6" fill="#1db954"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 2:33
+    1:57 • 2:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Emotions 2.0](https://open.spotify.com/track/4O4YjcteBewBS603SK1enn)** by **Ufo361, CÉLINE** *(Emotions 2.0)*
-🎤 **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)*
-🎤 **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)*
-🎤 **[december (forever)](https://open.spotify.com/track/2fEmgL39c3EDOS0fbMMrWo)** by **your favorite problem, grimheart** *(december (forever))*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[Nice To Know Ya - Sped Up](https://open.spotify.com/track/2Jp4SHXHBDv9FLOQ4oB2Hb)** by **Sylendanna** *(Nice To Know Ya (Sped Up))*
+🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
+🎤 **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by **White Town** *(Women in Technology)*
+🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
+🎤 **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)*
 
 
 
@@ -137,11 +137,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
-🥈 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
-🥉 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
-🏅 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
+🥈 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
+🥉 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
+🏅 [**PRADA**](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)
 
 
-🕐 Last updated: 2025-12-30 08:19:50Z UTC
+🕐 Last updated: 2025-12-30 08:49:56Z UTC
 <!-- SPOTIFY-END -->
