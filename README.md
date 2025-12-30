@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737fd68d7f92983e9003002cb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27332e995f48f3425dc6e9c292d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sears Tower](https://open.spotify.com/track/0PWFdOlwwQIf0yLS7Gtw9Q)**
-*by* **SALEM**
-*Album:* Fires In Heaven
+**🎵 [IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)**
+*by* **BONES**
+*Album:* Champion
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 3:07
+    0:49 • 2:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Open Your Eyes](https://open.spotify.com/track/6EV3KcksXaX2oLrLrYq23v)** by **User2222** *(2222)*
-🎤 **[lusi please focus!](https://open.spotify.com/track/2qQUMLcQFnvyedlEI2KBb3)** by **Ripsquad Archive** *(lusi please focus!)*
-🎤 **[Anams Song](https://open.spotify.com/track/3ckHTyS4sf5D6HJ3VxRStD)** by **Thrilliam Angels, 020baby** *(The Static Screams Your Name)*
-🎤 **[✧˖°꒰๑’ꀾ’๑꒱°˖✧](https://open.spotify.com/track/7yGxqunJUBEkuEPZELbFVH)** by **reverie** *(˚₊‧꒰ა ☆ ໒꒱ ‧₊˚)*
-🎤 **[Frostbite](https://open.spotify.com/track/1sQ6BmpQgK5VH2z3NtUQgp)** by **ESP** *(Frostbite)*
+🎤 **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)*
+🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
+🎤 **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)*
+🎤 **[Kisses and Hugs](https://open.spotify.com/track/4P9qRMCQ1jBxlhsMb3JkZU)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-30 21:49:00Z UTC
+🕐 Last updated: 2025-12-30 22:13:24Z UTC
 <!-- SPOTIFY-END -->
