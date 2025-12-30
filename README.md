@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)**
+**🎵 [0201](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)**
 *by* **sparr00w**
-*Album:* Bitte lass mich einfach los
+*Album:* Save Room Theme
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="256" height="4" fill="#1db954" rx="2"/>
-    <circle cx="256" cy="2" r="6" fill="#1db954"/>
+    <rect width="297" height="4" fill="#1db954" rx="2"/>
+    <circle cx="297" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:34 • 3:01
+    2:45 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Gon Be Okay](https://open.spotify.com/track/27D4XOkMf1hnVH38Tg4rLQ)** by **Lil B** *(Im Gay)*
-🎤 **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)*
-🎤 **[Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)** by **Hello Hannes** *(Hate Crime Against Myself)*
-🎤 **[Einmal um die Welt](https://open.spotify.com/track/6gQAyT7B7cYGTRBOiFdQUS)** by **CRO** *(Raop)*
-🎤 **[Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR)** by **sign crushes motorist** *(i'll be okay)*
+🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
+🎤 **[Gym Class](https://open.spotify.com/track/4BfJmlzP0ErWns1YM1XASc)** by **Lil Peep** *(Gym Class)*
+🎤 **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)*
+🎤 **[Was It Weird I Listened to Im God by Clams Casino,s When I Lost My Virginity](https://open.spotify.com/track/5T92IFQuMqrWbPlZLf6Utv)** by **DEADGHOSTBABY** *(Child Sacrifice)*
+🎤 **[Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)** by **Ellie Mic** *(Asche im Auge)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 04:07:15Z UTC
+🕐 Last updated: 2025-12-30 04:50:12Z UTC
 <!-- SPOTIFY-END -->
