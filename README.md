@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e24f40c0e2aa2b0bd2918859" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Mass Anasthesia](https://open.spotify.com/track/2mSvt89wTd99uETCSlePH2)**
-*by* **Mediavolo**
-*Album:* A Secret Sound
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="244" height="4" fill="#1db954" rx="2"/>
-    <circle cx="244" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:46 • 3:24
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)*
-🎤 **[UNDER CONTROL](https://open.spotify.com/track/1OGiBWp2vKLshpIWRlySc2)** by **funeral** *(UNDER CONTROL)*
-🎤 **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)*
-🎤 **[Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp)** by **Lil Tracy** *(Anarchy)*
-🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
+🎤 **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)*
+🎤 **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)*
+🎤 **[Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)** by **Mietze Conte** *(Mietzee)*
+🎤 **[Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst)** by **BEVN** *(Best Friend)*
+🎤 **[You Were Needed the Most](https://open.spotify.com/track/6zdycJe26VovH0Iv0uBtCH)** by **longlost** *(You Were Needed the Most)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 16:17:58Z UTC
+🕐 Last updated: 2025-12-30 16:49:46Z UTC
 <!-- SPOTIFY-END -->
