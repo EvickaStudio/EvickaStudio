@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e672690c2f8f55770c9d854d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)**
+*by* **Sleepisformortals**
+*Album:* SO DUMB
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:20 • 3:57
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Porcelain Angel](https://open.spotify.com/track/4XMCjvNxxNPBZDHOnzORN6)** by **kiLLa Laharl, s0cliché** *(Digital Shrine)*
 🎤 **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by **Steintor Herrenchor** *(Luisa)*
 🎤 **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)*
 🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
 🎤 **[ZUCKER - Remix](https://open.spotify.com/track/7ykUSnlWwheGIgpWxXkNIL)** by **TYM, Nadir** *(ZUCKER - REMIX)*
-🎤 **[The Prayer](https://open.spotify.com/track/10f3slxAbJLHl4OURuxgzq)** by **Thrilliam Angels, Mori Mori, User2222** *(The Static Screams Your Name)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2025-12-30 10:15:24Z UTC
+🕐 Last updated: 2025-12-30 10:45:10Z UTC
 <!-- SPOTIFY-END -->
