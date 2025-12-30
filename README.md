@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735edf0c8c7fa8589fdb5452fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)**
-*by* **Bladee**
-*Album:* The Fool
+**🎵 [Hey Now Hey Now](https://open.spotify.com/track/4Mtr4LdNOrakUotEndRY0M)**
+*by* **Major Ghetto**
+*Album:* Major Ghetto
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 2:14
+    0:24 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)*
-🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
-🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
-🎤 **[Was Glück ist](https://open.spotify.com/track/6FS2FoYdXBLWy3y3QehLuE)** by **TYM** *(Was Glück ist)*
-🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
+🎤 **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
+🎤 **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))*
+🎤 **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)*
+🎤 **[high as hell and sad as fuck](https://open.spotify.com/track/465G70pPUuXGI6GJiYBi61)** by **Love Pact** *(party boy)*
+🎤 **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))*
 
 
 
@@ -139,9 +139,9 @@
 🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 🥈 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 🥉 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
-🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
+🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 11:30:54Z UTC
+🕐 Last updated: 2025-12-30 11:48:40Z UTC
 <!-- SPOTIFY-END -->
