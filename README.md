@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c3a6978987e044e50b3eb572" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273577e621f0ecc8f95b12c065a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Skullcrush](https://open.spotify.com/track/4WiRI2Xp9Fq7zjM1buFC3k)**
+**🎵 [Frost](https://open.spotify.com/track/08qP9BisonMEIP2AuztMZX)**
 *by* **SALEM**
-*Album:* Water
+*Album:* King Night
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="70" height="4" fill="#1db954" rx="2"/>
+    <circle cx="70" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 4:34
+    0:48 • 3:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz)** by **Aphex Twin** *(Selected Ambient Works Volume II)*
-🎤 **[Sbiri](https://open.spotify.com/track/3t93JAaaKCrgD31jwjixM4)** by **t0ni** *(Ego Death Memories)*
-🎤 **[Promise](https://open.spotify.com/track/4OtaepBwuVf6vo4FF2MZ4l)** by **ESP** *(Promise)*
-🎤 **[*‧.₊˚*੭*ˊᵕˋ੭.*](https://open.spotify.com/track/6MlWtBhbww5btOEpVEVEbt)** by **reverie** *(˚₊‧꒰ა ☆ ໒꒱ ‧₊˚)*
-🎤 **[Back Yard](https://open.spotify.com/track/2vPI8mQKiUTuaTUgtjDYes)** by **7038634357** *(Xpetal)*
+🎤 **[I Used To Give a Fuck](https://open.spotify.com/track/1mIMPcxX2mHxc9cLO7w4Sl)** by **t0ni** *(Ego Death Memories)*
+🎤 **[Vega](https://open.spotify.com/track/5OxX9mw7YJvEAipdesuurh)** by **ESP** *(Promise)*
+🎤 **[uu](https://open.spotify.com/track/2IuwQFxfEhtoQVDyhEUtfq)** by **Whitearmor** *(uu)*
+🎤 **[Voices - Malibu Remix](https://open.spotify.com/track/4Vz3mdKSX2ae40FO1w7Bya)** by **ESP, Malibu** *(Promise (Deluxe))*
+🎤 **[i kno](https://open.spotify.com/track/2VYGhT9YFJ6kd6YWLJSnfh)** by **Whitearmor** *(i kno)*
 
 
 
@@ -137,11 +137,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
-🥈 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
-🥉 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
-🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
+🥈 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
+🥉 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
+🏅 [**Hi Fever**](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)
 
 
-🕐 Last updated: 2025-12-30 20:14:59Z UTC
+🕐 Last updated: 2025-12-30 20:36:44Z UTC
 <!-- SPOTIFY-END -->
