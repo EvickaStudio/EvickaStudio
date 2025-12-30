@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737543a796c95d72e31494b56d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c3a6978987e044e50b3eb572" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tantalus - Nymph Mix](https://open.spotify.com/track/2OcXB1lXXGGQliBTrRQUMd)**
-*by* **Peake**
-*Album:* Tantalus (Nymph Mix)
+**🎵 [Skullcrush](https://open.spotify.com/track/4WiRI2Xp9Fq7zjM1buFC3k)**
+*by* **SALEM**
+*Album:* Water
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:15 • 2:44
+    0:26 • 4:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[In Fiction](https://open.spotify.com/track/3dB3reUrNYDc8vEJqXOhC0)** by **t0ni** *(Ego Death Memories)*
-🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
-🎤 **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)*
+🎤 **[#20](https://open.spotify.com/track/0Pg0frSTti7d8Ck1OmOYkz)** by **Aphex Twin** *(Selected Ambient Works Volume II)*
+🎤 **[Sbiri](https://open.spotify.com/track/3t93JAaaKCrgD31jwjixM4)** by **t0ni** *(Ego Death Memories)*
+🎤 **[Promise](https://open.spotify.com/track/4OtaepBwuVf6vo4FF2MZ4l)** by **ESP** *(Promise)*
+🎤 **[*‧.₊˚*੭*ˊᵕˋ੭.*](https://open.spotify.com/track/6MlWtBhbww5btOEpVEVEbt)** by **reverie** *(˚₊‧꒰ა ☆ ໒꒱ ‧₊˚)*
+🎤 **[Back Yard](https://open.spotify.com/track/2vPI8mQKiUTuaTUgtjDYes)** by **7038634357** *(Xpetal)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Three Chords Amazing Music**](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)
 
 
-🕐 Last updated: 2025-12-30 19:47:48Z UTC
+🕐 Last updated: 2025-12-30 20:14:59Z UTC
 <!-- SPOTIFY-END -->
