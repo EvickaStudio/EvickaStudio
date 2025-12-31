@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27385a2da83b5b340365ae7d8cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc)**
-*by* **Robert Miles**
-*Album:* Children (Dance Vault Mixes)
+**🎵 [0201](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)**
+*by* **sparr00w**
+*Album:* Save Room Theme
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:14 • 4:03
+    2:19 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)*
-🎤 **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)*
-🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
-🎤 **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)*
-🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
+🎤 **[Sorisu's Interlude](https://open.spotify.com/track/3mfw9HWXuJwYHKR6KXZrgU)** by **sparr00w, Sorisu** *(Save Room Theme)*
+🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
+🎤 **[SaveOST](https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei)** by **sparr00w** *(Save Room Theme)*
+🎤 **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)*
+🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
 
 
 
@@ -129,8 +129,8 @@
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-🏅 [**Marco Cirillo**](https://open.spotify.com/artist/4cHsDM859LW0ndSRjcj6ee)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2025-12-31 08:49:34Z UTC
+🕐 Last updated: 2025-12-31 09:17:57Z UTC
 <!-- SPOTIFY-END -->
