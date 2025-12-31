@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730a406a737ddadf83d58c5fbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273429d2c451afd520ce02edf78" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)**
-*by* **luu, n3vio**
-*Album:* internetkind
+**🎵 [Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)**
+*by* **jonatan leandoer96**
+*Album:* Psychopath Ballads
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="224" height="4" fill="#1db954" rx="2"/>
-    <circle cx="224" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:14 • 1:39
+    1:21 • 3:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
-🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
+🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
+🎤 **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2025-12-31 12:27:33Z UTC
+🕐 Last updated: 2025-12-31 13:08:48Z UTC
 <!-- SPOTIFY-END -->
