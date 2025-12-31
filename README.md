@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ce42b1d526c43bce06defb71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aff88bface761e2bf22b1852" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)**
-*by* **Joey Cash**
-*Album:* lose control
+**🎵 [Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)**
+*by* **Quiet Light**
+*Album:* Starfall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="116" height="4" fill="#1db954" rx="2"/>
+    <circle cx="116" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:21 • 3:04
+    1:13 • 3:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
 🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
 🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
-🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
-🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
-🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2025-12-31 11:29:43Z UTC
+🕐 Last updated: 2025-12-31 11:41:19Z UTC
 <!-- SPOTIFY-END -->
