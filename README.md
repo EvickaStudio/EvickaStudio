@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f34a012b854ac55502a92e83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a1a897ee5e642da6d945bcd7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)**
-*by* **S1RENA**
-*Album:* NEUANFANG
+**🎵 [Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)**
+*by* **Nujabes, Cise Starr**
+*Album:* Metaphorical Music
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="189" height="4" fill="#1db954" rx="2"/>
-    <circle cx="189" cy="2" r="6" fill="#1db954"/>
+    <rect width="182" height="4" fill="#1db954" rx="2"/>
+    <circle cx="182" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:43
+    2:01 • 3:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
-🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
-🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
-🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
+🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
+🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
+🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2025-12-31 07:51:03Z UTC
+🕐 Last updated: 2025-12-31 08:19:43Z UTC
 <!-- SPOTIFY-END -->
