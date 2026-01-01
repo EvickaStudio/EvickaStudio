@@ -97,11 +97,7 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)*
-🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
-🎤 **[Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz)** by **Sufjan Stevens** *(Carrie & Lowell)*
-🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
-🎤 **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)*
+❌ Error fetching recently played tracks.
 
 
 
@@ -124,5 +120,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2026-01-01 06:25:08Z UTC
+🕐 Last updated: 2026-01-01 06:54:07Z UTC
 <!-- SPOTIFY-END -->
