@@ -111,7 +111,7 @@
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🏅 [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-🏅 [**Marco Cirillo**](https://open.spotify.com/artist/4cHsDM859LW0ndSRjcj6ee)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2026-01-01 11:29:30Z UTC
+🕐 Last updated: 2026-01-01 11:41:02Z UTC
 <!-- SPOTIFY-END -->
