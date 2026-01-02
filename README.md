@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27330579c8b71ae9181381c0ac8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273372f2b710ed2088bc0b20937" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Spectres](https://open.spotify.com/track/4JtcY0d5HencwSY5H4ZoBj)**
-*by* **M83**
-*Album:* Resurrection (Original Soundtrack)
+**🎵 [margielas](https://open.spotify.com/track/1yqYKZQAzjVEnsVoIsdax7)**
+*by* **flowerboii**
+*Album:* margielas
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="170" height="4" fill="#1db954" rx="2"/>
-    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+    <rect width="1" height="4" fill="#1db954" rx="2"/>
+    <circle cx="1" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:16 • 5:45
+    0:00 • 2:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ERA](https://open.spotify.com/track/5E7KhQEojDmT79YmYFHK6F)** by **Tevvez** *(ERA)*
-🎤 **[stop the car](https://open.spotify.com/track/6QcCLs7DM7cDoheGYc9dTW)** by **Lil Peep, Horse Head** *(stop the car)*
-🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
-🎤 **[Sick Youth/I Can't Escape](https://open.spotify.com/track/4dydtDPyQtakdfCHx8rn3D)** by **Rezlaine** *(Sick Youth/I Can't Escape)*
-🎤 **[LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)** by **Joji** *(LOVE YOU LESS)*
+🎤 **[sic transit gloria mundi](https://open.spotify.com/track/7BlFXvcsO1UKzeK1rG12nh)** by **Tape Head, NONI, Yosho** *(sic transit gloria mundi)*
+🎤 **[FABRI DISS](https://open.spotify.com/track/64CIVX1SYS9VkZ2FbFsUsB)** by **mikeycyrus** *(FABRI DISS)*
+🎤 **[boyfriend](https://open.spotify.com/track/1uHqdvKVc3Np2aPkwsIuUw)** by **Oatmilkandcodeine, Drux** *(David Kratomberg: Worst Hits)*
+🎤 **[Alive - DJ HEARTSTRING Remix](https://open.spotify.com/track/0cz6nvlqemvTygR3Bwybls)** by **Empire Of The Sun, DJ HEARTSTRING** *(Alive (DJ HEARTSTRING Remix))*
+🎤 **[Spectres](https://open.spotify.com/track/4JtcY0d5HencwSY5H4ZoBj)** by **M83** *(Resurrection (Original Soundtrack))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-02 17:32:23Z UTC
+🕐 Last updated: 2026-01-02 17:49:12Z UTC
 <!-- SPOTIFY-END -->
