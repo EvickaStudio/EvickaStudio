@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273acf9bf70b71028e0f4edddab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735ffc9759ca93def8e09bb1f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)**
-*by* **Varg²™, Thaiboy Digital**
-*Album:* Hitty
+**🎵 [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)**
+*by* **Joji**
+*Album:* LOVE YOU LESS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="76" height="4" fill="#1db954" rx="2"/>
+    <circle cx="76" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:21 • 2:56
+    0:51 • 3:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla)** by **Varg²™, Bladee, Escha, Ytem** *(SHINIE)*
-🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
-🎤 **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by **Varg²™, Bladee, VS--55** *(ᚦ)*
-🎤 **[Perfect Violation](https://open.spotify.com/track/5sUY2FPXJy1E2eZPBdT7AW)** by **Varg²™, Bladee** *(Evanescence (a Love Letter))*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[Let's Go](https://open.spotify.com/track/3rB6xrTitUjcSx6Q2VZqWm)** by **Mourning Star, Psych** *(Let's Go)*
+🎤 **[DON'T CARE!](https://open.spotify.com/track/1SVzgzGkW5qrTzXhfuf1Ux)** by **kmrnxo, kets4eki** *(DON'T CARE!)*
+🎤 **[rx type beat](https://open.spotify.com/track/3eR7Uz9l7rXCaZt8x1gc6x)** by **Psyke** *(Tape 2 / Magie)*
+🎤 **[i crave u](https://open.spotify.com/track/4jYBL6nhJdVPwEQwww81ba)** by **Scarly, ghostmasheen** *(i crave u)*
+🎤 **[signs](https://open.spotify.com/track/2qhUbEOlJU6aQMC6wsGwX5)** by **crusey, akkiro, deepinparis** *(signs)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-02 16:46:40Z UTC
+🕐 Last updated: 2026-01-02 17:12:08Z UTC
 <!-- SPOTIFY-END -->
