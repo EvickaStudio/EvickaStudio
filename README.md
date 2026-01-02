@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27339a253120efe6dcbdfd3f66f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273084997e544a06ea0697fac2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DON'T CARE!](https://open.spotify.com/track/1SVzgzGkW5qrTzXhfuf1Ux)**
-*by* **kmrnxo, kets4eki**
-*Album:* DON'T CARE!
+**🎵 [stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)**
+*by* **meat computer**
+*Album:* stay ?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:39 • 2:29
+    1:30 • 1:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Alive - DJ HEARTSTRING Remix](https://open.spotify.com/track/0cz6nvlqemvTygR3Bwybls)** by **Empire Of The Sun, DJ HEARTSTRING** *(Alive (DJ HEARTSTRING Remix))*
-🎤 **[margielas](https://open.spotify.com/track/1yqYKZQAzjVEnsVoIsdax7)** by **flowerboii** *(margielas)*
-🎤 **[elevated seltzer](https://open.spotify.com/track/7thf5G3pqAZTuhvHS91Ji2)** by **accessttt, DJmegan23** *(et blvd)*
-🎤 **[Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ)** by **teen*, whyhaze** *(Bleed Me Back to Yesterday)*
-🎤 **[boyfriend](https://open.spotify.com/track/1uHqdvKVc3Np2aPkwsIuUw)** by **Oatmilkandcodeine, Drux** *(David Kratomberg: Worst Hits)*
+🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[LowPoly](https://open.spotify.com/track/1ZyfXpt8JYLFTCHkOzNcrc)** by **BONES** *(LowPoly)*
+🎤 **[Spectres](https://open.spotify.com/track/4JtcY0d5HencwSY5H4ZoBj)** by **M83** *(Resurrection (Original Soundtrack))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-02 15:14:27Z UTC
+🕐 Last updated: 2026-01-02 15:35:08Z UTC
 <!-- SPOTIFY-END -->
