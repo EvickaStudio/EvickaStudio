@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)**
-*by* **agelast222, gard**
-*Album:* SOLAR TACTICS
+**🎵 [Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)**
+*by* **Snow Strippers**
+*Album:* RIFT Two
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:16 • 1:23
+    0:15 • 3:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
-🎤 **[100 TAUSEND (Demo)](https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW)** by **Yung Hurn** *(100 TAUSEND (Demo))*
-🎤 **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)*
+🎤 **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)*
+🎤 **[вновь мы ближе](https://open.spotify.com/track/1uJMSzPR8tCD18cYRZkjfH)** by **LONOWN, niteboi** *(вновь мы ближе)*
+🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
+🎤 **[rotten](https://open.spotify.com/track/0lSIYgRZ67n14ijRpBhLxD)** by **anna luna** *(rotten)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2026-01-02 14:14:07Z UTC
+🕐 Last updated: 2026-01-02 14:37:29Z UTC
 <!-- SPOTIFY-END -->
