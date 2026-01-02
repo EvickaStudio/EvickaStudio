@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27355e5812ec3cdf5f0ede5aa84" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27339a253120efe6dcbdfd3f66f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a)**
-*by* **$uicideboy$**
-*Album:* THY WILL BE DONE
+**🎵 [DON'T CARE!](https://open.spotify.com/track/1SVzgzGkW5qrTzXhfuf1Ux)**
+*by* **kmrnxo, kets4eki**
+*Album:* DON'T CARE!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:43 • 2:42
+    0:39 • 2:29
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
-🎤 **[signs](https://open.spotify.com/track/2qhUbEOlJU6aQMC6wsGwX5)** by **crusey, akkiro, deepinparis** *(signs)*
-🎤 **[Let's Go](https://open.spotify.com/track/3rB6xrTitUjcSx6Q2VZqWm)** by **Mourning Star, Psych** *(Let's Go)*
-🎤 **[lifelover](https://open.spotify.com/track/1z36Zb7JSXYg4ITs4TieBf)** by **dreamloader** *(lifelover)*
-🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[Alive - DJ HEARTSTRING Remix](https://open.spotify.com/track/0cz6nvlqemvTygR3Bwybls)** by **Empire Of The Sun, DJ HEARTSTRING** *(Alive (DJ HEARTSTRING Remix))*
+🎤 **[margielas](https://open.spotify.com/track/1yqYKZQAzjVEnsVoIsdax7)** by **flowerboii** *(margielas)*
+🎤 **[elevated seltzer](https://open.spotify.com/track/7thf5G3pqAZTuhvHS91Ji2)** by **accessttt, DJmegan23** *(et blvd)*
+🎤 **[Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ)** by **teen*, whyhaze** *(Bleed Me Back to Yesterday)*
+🎤 **[boyfriend](https://open.spotify.com/track/1uHqdvKVc3Np2aPkwsIuUw)** by **Oatmilkandcodeine, Drux** *(David Kratomberg: Worst Hits)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-02 14:52:40Z UTC
+🕐 Last updated: 2026-01-02 15:14:27Z UTC
 <!-- SPOTIFY-END -->
