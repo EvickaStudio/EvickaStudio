@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273372f2b710ed2088bc0b20937" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f34a012b854ac55502a92e83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [margielas](https://open.spotify.com/track/1yqYKZQAzjVEnsVoIsdax7)**
-*by* **flowerboii**
-*Album:* margielas
+**🎵 [NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)**
+*by* **S1RENA**
+*Album:* NEUANFANG
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="1" height="4" fill="#1db954" rx="2"/>
-    <circle cx="1" cy="2" r="6" fill="#1db954"/>
+    <rect width="131" height="4" fill="#1db954" rx="2"/>
+    <circle cx="131" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:00 • 2:21
+    1:11 • 2:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sic transit gloria mundi](https://open.spotify.com/track/7BlFXvcsO1UKzeK1rG12nh)** by **Tape Head, NONI, Yosho** *(sic transit gloria mundi)*
-🎤 **[FABRI DISS](https://open.spotify.com/track/64CIVX1SYS9VkZ2FbFsUsB)** by **mikeycyrus** *(FABRI DISS)*
-🎤 **[boyfriend](https://open.spotify.com/track/1uHqdvKVc3Np2aPkwsIuUw)** by **Oatmilkandcodeine, Drux** *(David Kratomberg: Worst Hits)*
-🎤 **[Alive - DJ HEARTSTRING Remix](https://open.spotify.com/track/0cz6nvlqemvTygR3Bwybls)** by **Empire Of The Sun, DJ HEARTSTRING** *(Alive (DJ HEARTSTRING Remix))*
-🎤 **[Spectres](https://open.spotify.com/track/4JtcY0d5HencwSY5H4ZoBj)** by **M83** *(Resurrection (Original Soundtrack))*
+🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
+🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-02 17:49:12Z UTC
+🕐 Last updated: 2026-01-02 18:20:05Z UTC
 <!-- SPOTIFY-END -->
