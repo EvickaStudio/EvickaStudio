@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735ffc9759ca93def8e09bb1f6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27330579c8b71ae9181381c0ac8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)**
-*by* **Joji**
-*Album:* LOVE YOU LESS
+**🎵 [Spectres](https://open.spotify.com/track/4JtcY0d5HencwSY5H4ZoBj)**
+*by* **M83**
+*Album:* Resurrection (Original Soundtrack)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="76" height="4" fill="#1db954" rx="2"/>
-    <circle cx="76" cy="2" r="6" fill="#1db954"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 3:21
+    3:16 • 5:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Let's Go](https://open.spotify.com/track/3rB6xrTitUjcSx6Q2VZqWm)** by **Mourning Star, Psych** *(Let's Go)*
-🎤 **[DON'T CARE!](https://open.spotify.com/track/1SVzgzGkW5qrTzXhfuf1Ux)** by **kmrnxo, kets4eki** *(DON'T CARE!)*
-🎤 **[rx type beat](https://open.spotify.com/track/3eR7Uz9l7rXCaZt8x1gc6x)** by **Psyke** *(Tape 2 / Magie)*
-🎤 **[i crave u](https://open.spotify.com/track/4jYBL6nhJdVPwEQwww81ba)** by **Scarly, ghostmasheen** *(i crave u)*
-🎤 **[signs](https://open.spotify.com/track/2qhUbEOlJU6aQMC6wsGwX5)** by **crusey, akkiro, deepinparis** *(signs)*
+🎤 **[ERA](https://open.spotify.com/track/5E7KhQEojDmT79YmYFHK6F)** by **Tevvez** *(ERA)*
+🎤 **[stop the car](https://open.spotify.com/track/6QcCLs7DM7cDoheGYc9dTW)** by **Lil Peep, Horse Head** *(stop the car)*
+🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
+🎤 **[Sick Youth/I Can't Escape](https://open.spotify.com/track/4dydtDPyQtakdfCHx8rn3D)** by **Rezlaine** *(Sick Youth/I Can't Escape)*
+🎤 **[LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)** by **Joji** *(LOVE YOU LESS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-02 17:12:08Z UTC
+🕐 Last updated: 2026-01-02 17:32:23Z UTC
 <!-- SPOTIFY-END -->
