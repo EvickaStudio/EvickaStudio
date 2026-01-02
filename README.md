@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273084997e544a06ea0697fac2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731a3a14136e950b50175cf0ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)**
-*by* **meat computer**
-*Album:* stay ?
+**🎵 [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI)**
+*by* **Kasi, antonius**
+*Album:* sommernacht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="241" height="4" fill="#1db954" rx="2"/>
-    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+    <rect width="235" height="4" fill="#1db954" rx="2"/>
+    <circle cx="235" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 1:51
+    1:46 • 2:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)*
-🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
-🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
-🎤 **[LowPoly](https://open.spotify.com/track/1ZyfXpt8JYLFTCHkOzNcrc)** by **BONES** *(LowPoly)*
-🎤 **[Spectres](https://open.spotify.com/track/4JtcY0d5HencwSY5H4ZoBj)** by **M83** *(Resurrection (Original Soundtrack))*
+🎤 **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)** by **Edwin Rosen** *(leichter//kälter / SSS)*
+🎤 **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)*
+🎤 **[Marmelade Und Himbeereis](https://open.spotify.com/track/0XgWyz9dYcbCIlu3OrgnIO)** by **Grauzone** *(Grauzone)*
+🎤 **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-02 15:35:08Z UTC
+🕐 Last updated: 2026-01-02 15:51:41Z UTC
 <!-- SPOTIFY-END -->
