@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)**
+*by* **Empire Of The Sun**
+*Album:* Walking On A Dream (10th Anniversary Edition)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="19" height="4" fill="#1db954" rx="2"/>
+    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:12 • 3:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
 🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
 🎤 **[United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL)** by **Kendrick Lamar** *(Mr. Morale & The Big Steppers)*
 🎤 **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)*
-🎤 **[CtrlAltDelete](https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap)** by **BONES** *(UNRENDERED)*
-🎤 **[Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz)** by **Sufjan Stevens** *(Carrie & Lowell)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 
 
-🕐 Last updated: 2026-01-02 13:43:52Z UTC
+🕐 Last updated: 2026-01-02 13:54:47Z UTC
 <!-- SPOTIFY-END -->
