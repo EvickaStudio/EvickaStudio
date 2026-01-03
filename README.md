@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b01a6dffde8c2d562af8af2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ad9153a775a18ef36aa3eb17" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)**
-*by* **sparr00w**
-*Album:* 0201
+**🎵 [Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)**
+*by* **Bladee**
+*Album:* Ingen hör
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="217" height="4" fill="#1db954" rx="2"/>
-    <circle cx="217" cy="2" r="6" fill="#1db954"/>
+    <rect width="258" height="4" fill="#1db954" rx="2"/>
+    <circle cx="258" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:47
+    2:30 • 2:54
 </span>
 </p>
 
@@ -116,21 +116,21 @@
 
 ### 📜 Recently Played
 
-🎤 **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)*
-🎤 **[Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6)** by **Sia** *(Colour The Small One)*
-🎤 **[Intro (stop looking up at the attic)](https://open.spotify.com/track/5bP2EfUh4TMN19CYR2QzfU)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Pierrot](https://open.spotify.com/track/0SIOdxVzOXTpuTN1fEj1Ff)** by **sparr00w** *(Save Room Theme)*
-🎤 **[0201](https://open.spotify.com/track/4MHoFbVH97rtNNHqcpnIyl)** by **sparr00w** *(Save Room Theme)*
+🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
+🎤 **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)*
+🎤 **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)*
+🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-🏅 [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-03 21:12:07Z UTC
+🕐 Last updated: 2026-01-03 21:30:02Z UTC
 <!-- SPOTIFY-END -->
