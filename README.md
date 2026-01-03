@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d2796d29db72c9d7f9083fe0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)**
+**🎵 [Lay, Lady, Lay](https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq)**
 *by* **Bob Dylan**
-*Album:* Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)
+*Album:* Nashville Skyline
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:29
+    1:01 • 3:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)*
+🎤 **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)*
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
 🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
-🎤 **[Another One Bites The Dust - Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7)** by **Queen** *(The Game (2011 Remaster))*
-🎤 **[Under Pressure - Remastered 2011](https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x)** by **Queen, David Bowie** *(Hot Space (2011 Remaster))*
-🎤 **[Don't Stop Me Now - Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7)** by **Queen** *(Jazz (2011 Remaster))*
-🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-03 23:12:48Z UTC
+🕐 Last updated: 2026-01-03 23:30:39Z UTC
 <!-- SPOTIFY-END -->
