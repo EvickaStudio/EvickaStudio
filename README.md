@@ -92,12 +92,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c7c28845ffb28e63ebaaf51c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce42b1d526c43bce06defb71" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i think you should know](https://open.spotify.com/track/5LfKWDwHGc12ChQhnXcuYG)**
-*by* **SHEMYYY, Senses**
-*Album:* i think you should know
+**🎵 [lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)**
+*by* **Joey Cash**
+*Album:* lose control
 
 
 <p align="center">
@@ -108,7 +108,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:27
+    0:52 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)*
-🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
-🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
+🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
+🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-03 10:36:21Z UTC
+🕐 Last updated: 2026-01-03 10:50:46Z UTC
 <!-- SPOTIFY-END -->
