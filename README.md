@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)*
 🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
 🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
 🎤 **[vampire girl](https://open.spotify.com/track/1XJ8grBNoPrDQKkvUtIXvt)** by **korpsebunny** *(vampire girl)*
 🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
-🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-03 17:47:30Z UTC
+🕐 Last updated: 2026-01-03 18:18:38Z UTC
 <!-- SPOTIFY-END -->
