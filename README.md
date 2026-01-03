@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734fdd246ecbbd292501575eed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)**
-*by* **Razegod**
-*Album:* lemme just...
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:34 • 3:03
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)*
 🎤 **[vampire girl](https://open.spotify.com/track/1XJ8grBNoPrDQKkvUtIXvt)** by **korpsebunny** *(vampire girl)*
 🎤 **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)*
 🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
-🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
-🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, Nosgov, mint** *(somewhere safe)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-03 17:12:22Z UTC
+🕐 Last updated: 2026-01-03 17:31:18Z UTC
 <!-- SPOTIFY-END -->
