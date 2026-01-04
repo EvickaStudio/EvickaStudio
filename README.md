@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273813da91820fd194cbee5bdce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG)**
-*by* **Fleetwood Mac**
-*Album:* Greatest Hits
+**🎵 [Who Can It Be Now?](https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy)**
+*by* **Men At Work**
+*Album:* Business As Usual
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="44" height="4" fill="#1db954" rx="2"/>
+    <circle cx="44" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 4:24
+    0:30 • 3:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Want You](https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v)** by **Bob Dylan** *(Blonde On Blonde)*
-🎤 **[California Dreamin' - Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ)** by **The Mamas & The Papas** *(If You Can Believe Your Eyes & Ears)*
-🎤 **[Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1)** by **The Ronettes** *(Presenting the Fabulous Ronettes Featuring Veronica)*
-🎤 **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
-🎤 **[Lonely People](https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU)** by **America** *(Holiday)*
+🎤 **[One More Cup of Coffee](https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX)** by **Bob Dylan** *(Desire)*
+🎤 **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)*
+🎤 **[Operator (That's Not the Way It Feels)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0)** by **Jim Croce** *(You Don't Mess Around With Jim)*
+🎤 **[Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM)** by **Dusty Springfield** *(Dusty... Definitely (Expanded Edtion))*
+🎤 **[Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG)** by **Fleetwood Mac** *(Greatest Hits)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 09:13:10Z UTC
+🕐 Last updated: 2026-01-04 09:31:55Z UTC
 <!-- SPOTIFY-END -->
