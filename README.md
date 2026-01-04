@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739d52169c3b609d4630e04433" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733992c7ab57975935b29fa22b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA)**
-*by* **Commodores**
-*Album:* Commodores
+**🎵 [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN)**
+*by* **The Doors**
+*Album:* L.A. Woman
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="183" height="4" fill="#1db954" rx="2"/>
-    <circle cx="183" cy="2" r="6" fill="#1db954"/>
+    <rect width="156" height="4" fill="#1db954" rx="2"/>
+    <circle cx="156" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:36 • 4:16
+    1:43 • 3:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf)** by **Rodríguez** *(Coming From Reality)*
-🎤 **[For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA)** by **Buffalo Springfield** *(Buffalo Springfield)*
-🎤 **[All Along the Watchtower](https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17)** by **Bob Dylan** *(John Wesley Harding)*
-🎤 **[Surfin' U.S.A. - Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b)** by **The Beach Boys** *(Surfin' USA (Remastered))*
-🎤 **[Everywhere - 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq)** by **Fleetwood Mac** *(Tango In the Night (Deluxe Edition))*
+🎤 **[Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW)** by **Creedence Clearwater Revival** *(Green River (Expanded Edition))*
+🎤 **[Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW)** by **Frankie Valli** *(Solo)*
+🎤 **[Good Vibrations - Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f)** by **The Beach Boys** *(Smiley Smile (Remastered))*
+🎤 **[Mr. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU)** by **Bob Dylan** *(Bringing It All Back Home)*
+🎤 **[Go Your Own Way - 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa)** by **Fleetwood Mac** *(Rumours)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 10:13:32Z UTC
+🕐 Last updated: 2026-01-04 10:35:53Z UTC
 <!-- SPOTIFY-END -->
