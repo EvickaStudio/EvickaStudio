@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735cfa8acfd1e92e415c04192b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273af0599d725c3e1c78ac1d25d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Solitude](https://open.spotify.com/track/1HWQ6l7Xu2U4bFYcZMs1y2)**
-*by* **Alluer**
-*Album:* Solitude
+**🎵 [Tomorrow](https://open.spotify.com/track/4ytc96DatAxDNAg7qmAkjU)**
+*by* **Plant Guy**
+*Album:* Tomorrow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="292" height="4" fill="#1db954" rx="2"/>
-    <circle cx="292" cy="2" r="6" fill="#1db954"/>
+    <rect width="242" height="4" fill="#1db954" rx="2"/>
+    <circle cx="242" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 1:38
+    1:55 • 2:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wayitis](https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0)** by **Twiggy Fiz** *(wayitis)*
-🎤 **[Lockdown](https://open.spotify.com/track/7JW6HbWC2LanRbQgOxdzsQ)** by **Mavine** *(Inference)*
-🎤 **[Laura's Dance](https://open.spotify.com/track/42QDLzlExLZBrHU2cyLYTJ)** by **Mirko Dukanovic** *(Laura's Dance)*
-🎤 **[Flume](https://open.spotify.com/track/74XzFXtqIY2nryC79GpHRJ)** by **Nicholas Bamberger** *(Inner Voyage)*
-🎤 **[Across The Fields](https://open.spotify.com/track/1tIuFRBheS2ckeReRPSeTC)** by **Morunas** *(Stay Close To Me)*
+🎤 **[Spark](https://open.spotify.com/track/6TRG8tmFQvzimTyihGZuzk)** by **Asti Fajriani** *(Persona)*
+🎤 **[By Myself](https://open.spotify.com/track/4NiO5whNtIitd2PHQTDfFj)** by **Melvyn Nielsen, Chill Space** *(The Journey)*
+🎤 **[Cabin Shade](https://open.spotify.com/track/2iYtdhziVclywSBlQ0hOPQ)** by **Ornithology** *(Ornithology)*
+🎤 **[Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW)** by **Jiří Horák** *(Parterre)*
+🎤 **[Blue Notes](https://open.spotify.com/track/2CrBBTrSgBWBsCf6ldjHEG)** by **Michael Yanis** *(Blue Notes)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 13:05:52Z UTC
+🕐 Last updated: 2026-01-04 13:39:51Z UTC
 <!-- SPOTIFY-END -->
