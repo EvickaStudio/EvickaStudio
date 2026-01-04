@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a07494bff5f5eeeb999111d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27325d655c11809455c10b15ac9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Frutiger 1](https://open.spotify.com/track/5cy81nUx1356uPx9dNMETG)**
-*by* **fliggsy**
-*Album:* No Comment
+**🎵 [unendlichkeit - Main Edit](https://open.spotify.com/track/3bV0ZqfzR3QYgWU2QivjQm)**
+*by* **CRO**
+*Album:* tru. (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="171" height="4" fill="#1db954" rx="2"/>
-    <circle cx="171" cy="2" r="6" fill="#1db954"/>
+    <rect width="290" height="4" fill="#1db954" rx="2"/>
+    <circle cx="290" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:03
+    3:29 • 3:36
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)*
-🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
-🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[Love Tonight (Edit)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP)** by **Shouse** *(Love Tonight)*
+🎤 **[Leb es oder lass es](https://open.spotify.com/track/5bJzKmFNpiTwGwLSNb5zVy)** by **makko** *(Leb es oder lass es)*
+🎤 **[Girls Just Want Breaks (yion-flip)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1)** by **yion** *(Girls Just Want Breaks (yion-flip))*
+🎤 **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)*
+🎤 **[rosa rugosa](https://open.spotify.com/track/6reIioBTYw7UIskhcQ2Biw)** by **Lucry & Suena, Blumengarten, 01099, Gustav, Zachi** *(rosa rugosa)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 14:48:38Z UTC
+🕐 Last updated: 2026-01-04 15:12:45Z UTC
 <!-- SPOTIFY-END -->
