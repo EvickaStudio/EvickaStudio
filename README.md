@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)**
-*by* **Steve Lacy**
-*Album:* Gemini Rights
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:36
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)*
-🎤 **[shapeshifter](https://open.spotify.com/track/2f0cm0ruBTqgdJnkf6njAA)** by **luutwo, Skatey Hellstar** *(shapeshifter)*
-🎤 **[AIR FORCE](https://open.spotify.com/track/4T03XcJcZZx1BmSzP3QZ01)** by **calvinsober** *(AIR FORCE)*
-🎤 **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)*
-🎤 **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)*
+🎤 **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)*
+🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
+🎤 **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)** by **Shoota Tori, Bon Aquâ** *(99-01)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 16:45:15Z UTC
+🕐 Last updated: 2026-01-04 17:11:21Z UTC
 <!-- SPOTIFY-END -->
