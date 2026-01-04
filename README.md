@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730d3d783124fd96e37b6feee4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735cfa8acfd1e92e415c04192b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gymnopédie No. 3](https://open.spotify.com/track/0hZBK2IS2uKdWVwEWXX1vB)**
-*by* **Erik Satie, Philippe Entremont**
-*Album:* Erik Satie & Friends
+**🎵 [Solitude](https://open.spotify.com/track/1HWQ6l7Xu2U4bFYcZMs1y2)**
+*by* **Alluer**
+*Album:* Solitude
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="21" height="4" fill="#1db954" rx="2"/>
-    <circle cx="21" cy="2" r="6" fill="#1db954"/>
+    <rect width="292" height="4" fill="#1db954" rx="2"/>
+    <circle cx="292" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:12 • 2:55
+    1:36 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[night mood](https://open.spotify.com/track/1xc37uddWtDmS2RPcVEv47)** by **Zoe Reed** *(night mood)*
-🎤 **[just let go](https://open.spotify.com/track/7btoampX4TCsFEw4Q7KZRS)** by **Cheeky Beez** *(just let go)*
-🎤 **[Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV)** by **Velvet Haven** *(Are We There Yet)*
-🎤 **[Hamsin](https://open.spotify.com/track/2llT1I7QQzXmBgBRp5J1Xp)** by **l'Outlander** *(One Way Ticket)*
-🎤 **[An alternate timeline](https://open.spotify.com/track/5ZVozUuW2EwErQpDTRBcrq)** by **Coltan Fuller** *(An alternate timeline)*
+🎤 **[wayitis](https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0)** by **Twiggy Fiz** *(wayitis)*
+🎤 **[Lockdown](https://open.spotify.com/track/7JW6HbWC2LanRbQgOxdzsQ)** by **Mavine** *(Inference)*
+🎤 **[Laura's Dance](https://open.spotify.com/track/42QDLzlExLZBrHU2cyLYTJ)** by **Mirko Dukanovic** *(Laura's Dance)*
+🎤 **[Flume](https://open.spotify.com/track/74XzFXtqIY2nryC79GpHRJ)** by **Nicholas Bamberger** *(Inner Voyage)*
+🎤 **[Across The Fields](https://open.spotify.com/track/1tIuFRBheS2ckeReRPSeTC)** by **Morunas** *(Stay Close To Me)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 12:25:56Z UTC
+🕐 Last updated: 2026-01-04 13:05:52Z UTC
 <!-- SPOTIFY-END -->
