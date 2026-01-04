@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734d2fbff666bf6a9997787214" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cico Buff](https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM)**
+**🎵 [Frou-frou Foxes in Midsummer Fires](https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB)**
 *by* **Cocteau Twins**
-*Album:* Blue Bell Knoll
+*Album:* Heaven or Las Vegas
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="241" height="4" fill="#1db954" rx="2"/>
-    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:02 • 3:46
+    2:33 • 5:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)*
-🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Breathe (In the Air)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
+🎤 **[Somewhere Tonight](https://open.spotify.com/track/7yZBfnw0qwSkZWPX1bJNYD)** by **Beach House** *(Thank Your Lucky Stars)*
+🎤 **[Loose Ends](https://open.spotify.com/track/74adZiYGOorQ4kcWBCRnZi)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[Dozen](https://open.spotify.com/track/7FoVZCTSLY9gQ2vqIURPcg)** by **Alison's Halo** *(Eyedazzler)*
+🎤 **[Still](https://open.spotify.com/track/3vh8Ezgb0iwZTTOO8sJo1Y)** by **You'll Never Get to Heaven** *(Images)*
+🎤 **[escape](https://open.spotify.com/track/2C4uXFyCjXo7F2OVPDxVLY)** by **jacal** *(escape)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 22:13:00Z UTC
+🕐 Last updated: 2026-01-04 22:35:22Z UTC
 <!-- SPOTIFY-END -->
