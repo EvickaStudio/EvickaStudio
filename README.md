@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)**
+*by* **Bob Dylan**
+*Album:* Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:00 • 2:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[House of the Rising Sun](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l)** by **The Animals** *(The Singles Plus)*
 🎤 **[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE)** by **The Smiths** *(Hatful of Hollow)*
 🎤 **[Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS)** by **Bob Dylan, Johnny Cash** *(Nashville Skyline)*
 🎤 **[A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt)** by **America, George Martin** *(America)*
 🎤 **[It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC)** by **Carole King** *(Tapestry)*
-🎤 **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 07:48:39Z UTC
+🕐 Last updated: 2026-01-04 08:18:17Z UTC
 <!-- SPOTIFY-END -->
