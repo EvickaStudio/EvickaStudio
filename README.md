@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733992c7ab57975935b29fa22b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273debe10da47ad2174ce32ca54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN)**
-*by* **The Doors**
-*Album:* L.A. Woman
+**🎵 [frostbite](https://open.spotify.com/track/4s6Yoo8hcS2uyJkmArzsHa)**
+*by* **Senses**
+*Album:* frostbite
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="156" height="4" fill="#1db954" rx="2"/>
-    <circle cx="156" cy="2" r="6" fill="#1db954"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 3:18
+    2:10 • 2:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
+🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
+🎤 **[Bohemian Rhapsody - Remastered 2011](https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv)** by **Queen** *(A Night At The Opera (2011 Remaster))*
 🎤 **[Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW)** by **Creedence Clearwater Revival** *(Green River (Expanded Edition))*
 🎤 **[Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW)** by **Frankie Valli** *(Solo)*
-🎤 **[Good Vibrations - Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f)** by **The Beach Boys** *(Smiley Smile (Remastered))*
-🎤 **[Mr. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU)** by **Bob Dylan** *(Bringing It All Back Home)*
-🎤 **[Go Your Own Way - 2004 Remaster](https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa)** by **Fleetwood Mac** *(Rumours)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 10:35:53Z UTC
+🕐 Last updated: 2026-01-04 10:50:55Z UTC
 <!-- SPOTIFY-END -->
