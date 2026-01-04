@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cherry-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ)**
-*by* **Cocteau Twins**
-*Album:* Heaven or Las Vegas
+**🎵 [Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)**
+*by* **The Smashing Pumpkins**
+*Album:* Siamese Dream (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="90" height="4" fill="#1db954" rx="2"/>
-    <circle cx="90" cy="2" r="6" fill="#1db954"/>
+    <rect width="162" height="4" fill="#1db954" rx="2"/>
+    <circle cx="162" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 3:12
+    1:49 • 3:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
-🎤 **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)*
-🎤 **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)*
-🎤 **[desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh)** by **spirit blue** *(ps / dm)*
-🎤 **[Weird Fishes / Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S)** by **Radiohead** *(In Rainbows)*
+🎤 **[Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV)** by **You'll Never Get to Heaven** *(Adorn)*
+🎤 **[Wildflower](https://open.spotify.com/track/1zampxUEvQWKx1nE2OvwQ6)** by **Beach House** *(Depression Cherry)*
+🎤 **[Lies in the Eyes of Love](https://open.spotify.com/track/5JQuDFh7QKTjJDoEQAmaO8)** by **Part Time** *(Lies in the Eyes of Love)*
+🎤 **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[Cherry-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ)** by **Cocteau Twins** *(Heaven or Las Vegas)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 20:36:09Z UTC
+🕐 Last updated: 2026-01-04 20:51:40Z UTC
 <!-- SPOTIFY-END -->
