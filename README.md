@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ca40908d43a2a80fb34de8a3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC)**
-*by* **The Cure**
-*Album:* Three Imaginary Boys
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="4" height="4" fill="#1db954" rx="2"/>
-    <circle cx="4" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 2:35
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt)** by **Bill Withers** *(Just As I Am)*
-🎤 **[There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)*
-🎤 **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))*
-🎤 **[Lay, Lady, Lay](https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq)** by **Bob Dylan** *(Nashville Skyline)*
+🎤 **[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS)** by **Bob Dylan, Johnny Cash** *(Nashville Skyline)*
+🎤 **[A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt)** by **America, George Martin** *(America)*
+🎤 **[It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC)** by **Carole King** *(Tapestry)*
+🎤 **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-03 23:48:39Z UTC
+🕐 Last updated: 2026-01-04 01:13:50Z UTC
 <!-- SPOTIFY-END -->
