@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273debe10da47ad2174ce32ca54" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379fa11abf599112929e1f3d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [frostbite](https://open.spotify.com/track/4s6Yoo8hcS2uyJkmArzsHa)**
-*by* **Senses**
-*Album:* frostbite
+**🎵 [keeper](https://open.spotify.com/track/0IAzncI3XC3o2mrGMUZ7bA)**
+*by* **Bayymack**
+*Album:* keeper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 2:15
+    1:05 • 1:42
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
-🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
-🎤 **[Bohemian Rhapsody - Remastered 2011](https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv)** by **Queen** *(A Night At The Opera (2011 Remaster))*
-🎤 **[Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW)** by **Creedence Clearwater Revival** *(Green River (Expanded Edition))*
-🎤 **[Can't Take My Eyes off You](https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW)** by **Frankie Valli** *(Solo)*
+🎤 **[Telephone - Jukaa 'Wired' Mix](https://open.spotify.com/track/16LFlRf5I52ZwTjynmJVrM)** by **Elxnce, Cece Natalie, Jukaa** *(Telephone (Jukaa Mix))*
+🎤 **[Midnight](https://open.spotify.com/track/1DRuwPQdKeB6VHyk5pEsoK)** by **RudeClub** *(Midnight)*
+🎤 **[love is suicide](https://open.spotify.com/track/0b5NFrQubPwNrUETgzvde9)** by **wenszy, yunki** *(girl2004)*
+🎤 **[Property](https://open.spotify.com/track/4jB1PO3KyhuIDHCKrfdVqD)** by **Saska** *(EmpirE)*
+🎤 **[Katie Vaughn - Remix](https://open.spotify.com/track/4WJCocVliS3kdi6VKXoYF2)** by **Tommy Fleece, I'll have another** *(Katie Vaughn (Remix))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 10:50:55Z UTC
+🕐 Last updated: 2026-01-04 11:11:16Z UTC
 <!-- SPOTIFY-END -->
