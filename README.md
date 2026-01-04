@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b125fe3170a337763c6a90bc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b88a7e843e3e86fc89139453" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)**
-*by* **Clara Kimera, notinbed**
-*Album:* angel candles
+**🎵 [魂 dyingforagoodcause](https://open.spotify.com/track/2fbTawwZU4dkD08UOFI2Oc)**
+*by* **uziellsiilver**
+*Album:* the silhouette 失われた精神の
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="61" height="4" fill="#1db954" rx="2"/>
+    <circle cx="61" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:09
+    0:35 • 2:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[You're A Bigger Man Than Me](https://open.spotify.com/track/6kdOssZKiEEAHLqJe7eOcA)** by **thayerperiod** *(Nothing Is All)*
+🎤 **[My Trembling Spirit](https://open.spotify.com/track/1pkIhPF2xUhMlB3Rw0FCza)** by **Ayegy** *(DAL 2)*
+🎤 **[don't tell me to wake up](https://open.spotify.com/track/077Kwm3fhHTQOHSc1zv1wM)** by **SHEMYYY** *(this is how it's meant to feel)*
+🎤 **[angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)** by **Clara Kimera, notinbed** *(angel candles)*
 🎤 **[live in a dream](https://open.spotify.com/track/7tVoM86Cf77QNL4aSzWOVx)** by **Nosgov, Senses, hateoryx** *(live in a dream)*
-🎤 **[In Love](https://open.spotify.com/track/19pkaHfjPBSh3Ox5ce9aDD)** by **datealyfe, Sayako** *(Haute Couture)*
-🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48, Luvange1** *(change us)*
-🎤 **[me n u](https://open.spotify.com/track/7vAwHqeceMUadUmAkA2GCF)** by **bliiiss** *(me n u)*
-🎤 **[nichts gelernt](https://open.spotify.com/track/61mo6nqYndmWCD2hyfJAda)** by **5v** *(nichts gelernt)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 11:27:25Z UTC
+🕐 Last updated: 2026-01-04 11:37:08Z UTC
 <!-- SPOTIFY-END -->
