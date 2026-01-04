@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273813da91820fd194cbee5bdce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1)**
-*by* **The Police**
-*Album:* Synchronicity (Remastered 2003)
+**🎵 [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG)**
+*by* **Fleetwood Mac**
+*Album:* Greatest Hits
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="100" height="4" fill="#1db954" rx="2"/>
-    <circle cx="100" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 4:13
+    1:21 • 4:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n)** by **The Cure** *(Wish)*
-🎤 **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)*
-🎤 **[Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E)** by **Bob Dylan** *(The Freewheelin' Bob Dylan)*
-🎤 **[House of the Rising Sun](https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l)** by **The Animals** *(The Singles Plus)*
-🎤 **[Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ)** by **Fleetwood Mac** *(Fleetwood Mac)*
+🎤 **[I Want You](https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v)** by **Bob Dylan** *(Blonde On Blonde)*
+🎤 **[California Dreamin' - Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ)** by **The Mamas & The Papas** *(If You Can Believe Your Eyes & Ears)*
+🎤 **[Be My Baby](https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1)** by **The Ronettes** *(Presenting the Fabulous Ronettes Featuring Veronica)*
+🎤 **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))*
+🎤 **[Lonely People](https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU)** by **America** *(Holiday)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 08:46:35Z UTC
+🕐 Last updated: 2026-01-04 09:13:10Z UTC
 <!-- SPOTIFY-END -->
