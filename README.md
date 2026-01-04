@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372794a02454878876b884db9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e15ed14cb9cb4a9908f6cdde" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)**
-*by* **Cocteau Twins**
-*Album:* Milk & Kisses
+**🎵 [cobain](https://open.spotify.com/track/375l2qnEfCpeY6AaoFOsjb)**
+*by* **Lil Peep, Lil Tracy**
+*Album:* HELLBOY
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="293" height="4" fill="#1db954" rx="2"/>
-    <circle cx="293" cy="2" r="6" fill="#1db954"/>
+    <rect width="291" height="4" fill="#1db954" rx="2"/>
+    <circle cx="291" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:52 • 3:57
+    2:26 • 2:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
-🎤 **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)*
-🎤 **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)*
-🎤 **[king of the darkness](https://open.spotify.com/track/1ZiRP1fP6Cqc2oG3H6kuRN)** by **2hollis** *(White Tiger)*
-🎤 **[As the World Caves In - Wuki Remix](https://open.spotify.com/track/3L740L9Y186igjbzxz7Vfr)** by **Sarah Cothran, Wuki** *(As the World Caves In (Wuki Remix))*
+🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
+🎤 **[Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[ZUCKER - Remix](https://open.spotify.com/track/7ykUSnlWwheGIgpWxXkNIL)** by **TYM, Nadir** *(ZUCKER - REMIX)*
+🎤 **[Melodie](https://open.spotify.com/track/2iGBtxtGTwomOhHoHptFSl)** by **OMG** *(Melodie / Kayseri)*
+🎤 **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by **Flawless Issues** *(Cut the Rope)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 15:31:38Z UTC
+🕐 Last updated: 2026-01-04 15:48:24Z UTC
 <!-- SPOTIFY-END -->
