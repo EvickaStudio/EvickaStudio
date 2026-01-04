@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e768618ac278b1fcb0204e7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c7f7596cd80cbd6436086f80" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Who Can It Be Now?](https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy)**
-*by* **Men At Work**
-*Album:* Business As Usual
+**🎵 [Don't Think Twice, It's All Right](https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3)**
+*by* **Bob Dylan**
+*Album:* The Freewheelin' Bob Dylan
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="44" height="4" fill="#1db954" rx="2"/>
-    <circle cx="44" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 3:25
+    3:19 • 3:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
+🎤 **[God Only Knows - Remastered 1996](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)** by **The Beach Boys** *(Pet Sounds)*
+🎤 **[Dreams - 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz)** by **Fleetwood Mac** *(Rumours (Super Deluxe))*
+🎤 **[Who Can It Be Now?](https://open.spotify.com/track/5BCykgPXc7zEBg2oU0klvy)** by **Men At Work** *(Business As Usual)*
 🎤 **[One More Cup of Coffee](https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX)** by **Bob Dylan** *(Desire)*
-🎤 **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)*
-🎤 **[Operator (That's Not the Way It Feels)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0)** by **Jim Croce** *(You Don't Mess Around With Jim)*
-🎤 **[Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM)** by **Dusty Springfield** *(Dusty... Definitely (Expanded Edtion))*
-🎤 **[Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG)** by **Fleetwood Mac** *(Greatest Hits)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 09:31:55Z UTC
+🕐 Last updated: 2026-01-04 09:48:22Z UTC
 <!-- SPOTIFY-END -->
