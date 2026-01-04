@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)**
-*by* **Cocteau Twins**
-*Album:* Heaven or Las Vegas
+**🎵 [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)**
+*by* **Slowdive**
+*Album:* Souvlaki
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="218" height="4" fill="#1db954" rx="2"/>
-    <circle cx="218" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:36 • 4:58
+    4:13 • 4:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[If It Only Gets Better](https://open.spotify.com/track/2Q5L6Ix8jIzF7G4u7XZVxp)** by **Joji** *(If It Only Gets Better)*
-🎤 **[PIXELATED KISSES](https://open.spotify.com/track/7qKoJTEj8OAmnS3TevWAVv)** by **Joji** *(Past Won't Leave My Bed)*
-🎤 **[If It Only Gets Better](https://open.spotify.com/track/2ZfF7kN4JPGRQ8EQChB04J)** by **Joji** *(Past Won't Leave My Bed)*
-🎤 **[Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv)** by **Joji** *(Past Won't Leave My Bed)*
+🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
+🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
+🎤 **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
+🎤 **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 18:19:00Z UTC
+🕐 Last updated: 2026-01-04 18:48:36Z UTC
 <!-- SPOTIFY-END -->
