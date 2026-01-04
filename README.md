@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733c36da040e5c8e6177f502f4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Frou-frou Foxes in Midsummer Fires](https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB)**
-*by* **Cocteau Twins**
-*Album:* Heaven or Las Vegas
+**🎵 [Return to Cherry](https://open.spotify.com/track/6lY7Xqgk7sJByPkeR2cCXH)**
+*by* **Part Time**
+*Album:* Return to Cherry
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 5:38
+    3:38 • 4:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Machine Gun Drum](https://open.spotify.com/track/2ghJXOQbgzfn0kd0a9mKzC)** by **Panchiko** *(Machine Gun Drum)*
+🎤 **[Dust](https://open.spotify.com/track/6CVCJaITugxMYYDarrKwAB)** by **You'll Never Get to Heaven** *(Wave Your Moonlight Hat For The Snowfall Train)*
+🎤 **[evergreen](https://open.spotify.com/track/7wnW4ypiBD2GCfjkzZp2RH)** by **jacal** *(evergreen)*
+🎤 **[Frou-frou Foxes in Midsummer Fires](https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB)** by **Cocteau Twins** *(Heaven or Las Vegas)*
 🎤 **[Somewhere Tonight](https://open.spotify.com/track/7yZBfnw0qwSkZWPX1bJNYD)** by **Beach House** *(Thank Your Lucky Stars)*
-🎤 **[Loose Ends](https://open.spotify.com/track/74adZiYGOorQ4kcWBCRnZi)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
-🎤 **[Dozen](https://open.spotify.com/track/7FoVZCTSLY9gQ2vqIURPcg)** by **Alison's Halo** *(Eyedazzler)*
-🎤 **[Still](https://open.spotify.com/track/3vh8Ezgb0iwZTTOO8sJo1Y)** by **You'll Never Get to Heaven** *(Images)*
-🎤 **[escape](https://open.spotify.com/track/2C4uXFyCjXo7F2OVPDxVLY)** by **jacal** *(escape)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 22:35:22Z UTC
+🕐 Last updated: 2026-01-04 22:51:22Z UTC
 <!-- SPOTIFY-END -->
