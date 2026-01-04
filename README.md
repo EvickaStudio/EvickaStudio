@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379fa11abf599112929e1f3d9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b125fe3170a337763c6a90bc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [keeper](https://open.spotify.com/track/0IAzncI3XC3o2mrGMUZ7bA)**
-*by* **Bayymack**
-*Album:* keeper
+**🎵 [angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)**
+*by* **Clara Kimera, notinbed**
+*Album:* angel candles
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="201" height="4" fill="#1db954" rx="2"/>
+    <circle cx="201" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 1:42
+    1:27 • 2:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Telephone - Jukaa 'Wired' Mix](https://open.spotify.com/track/16LFlRf5I52ZwTjynmJVrM)** by **Elxnce, Cece Natalie, Jukaa** *(Telephone (Jukaa Mix))*
-🎤 **[Midnight](https://open.spotify.com/track/1DRuwPQdKeB6VHyk5pEsoK)** by **RudeClub** *(Midnight)*
-🎤 **[love is suicide](https://open.spotify.com/track/0b5NFrQubPwNrUETgzvde9)** by **wenszy, yunki** *(girl2004)*
-🎤 **[Property](https://open.spotify.com/track/4jB1PO3KyhuIDHCKrfdVqD)** by **Saska** *(EmpirE)*
-🎤 **[Katie Vaughn - Remix](https://open.spotify.com/track/4WJCocVliS3kdi6VKXoYF2)** by **Tommy Fleece, I'll have another** *(Katie Vaughn (Remix))*
+🎤 **[live in a dream](https://open.spotify.com/track/7tVoM86Cf77QNL4aSzWOVx)** by **Nosgov, Senses, hateoryx** *(live in a dream)*
+🎤 **[In Love](https://open.spotify.com/track/19pkaHfjPBSh3Ox5ce9aDD)** by **datealyfe, Sayako** *(Haute Couture)*
+🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48, Luvange1** *(change us)*
+🎤 **[me n u](https://open.spotify.com/track/7vAwHqeceMUadUmAkA2GCF)** by **bliiiss** *(me n u)*
+🎤 **[nichts gelernt](https://open.spotify.com/track/61mo6nqYndmWCD2hyfJAda)** by **5v** *(nichts gelernt)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-04 11:11:16Z UTC
+🕐 Last updated: 2026-01-04 11:27:25Z UTC
 <!-- SPOTIFY-END -->
