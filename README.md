@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aed77cb497de50cd4f14c934" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)**
-*by* **Cocteau Twins**
-*Album:* Four-Calendar Café (Remastered 2024)
+**🎵 [envy](https://open.spotify.com/track/3CjiDzhLN8Wgp0uLPqn9XK)**
+*by* **Brothel in Belize**
+*Album:* envy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="156" height="4" fill="#1db954" rx="2"/>
-    <circle cx="156" cy="2" r="6" fill="#1db954"/>
+    <rect width="81" height="4" fill="#1db954" rx="2"/>
+    <circle cx="81" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 3:37
+    0:34 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)*
+🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
+🎤 **[Here's Where the Story Ends](https://open.spotify.com/track/5gSHlT2SI0dtjeHrjj96A1)** by **The Sundays** *(Reading Writing And Arithmetic)*
+🎤 **[Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)** by **Cocteau Twins** *(Four-Calendar Café (Remastered 2024))*
 🎤 **[IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)*
-🎤 **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)*
-🎤 **[Well I Wonder - 2011 Remaster](https://open.spotify.com/track/3OS4XXm4S42pnESQmtN9MG)** by **The Smiths** *(Meat Is Murder)*
-🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-04 21:12:11Z UTC
+🕐 Last updated: 2026-01-04 21:30:08Z UTC
 <!-- SPOTIFY-END -->
