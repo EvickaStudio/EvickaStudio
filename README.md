@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27308cc9bc3c9d72c00fdfa5a87" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27319bf3790caeb480f2c1a4ed1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)**
-*by* **Beach House**
-*Album:* Bloom
+**🎵 [Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)**
+*by* **The Radio Dept.**
+*Album:* Pet Grief
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="24" height="4" fill="#1db954" rx="2"/>
+    <circle cx="24" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 4:18
+    0:17 • 3:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
+🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
 🎤 **[Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)** by **Cocteau Twins** *(Four-Calendar Café (Remastered 2024))*
-🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Starting Over](https://open.spotify.com/track/2DcEfiRPwcpdm55mctCHUE)** by **LSD and the Search for God** *(LSD and the Search for God)*
-🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 22:38:35Z UTC
+🕐 Last updated: 2026-01-05 22:52:44Z UTC
 <!-- SPOTIFY-END -->
