@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273794624c277052d068bf311d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b405027d5b63acb6945f3beb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0)**
-*by* **Mareux**
-*Album:* Predestiny
+**🎵 [Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE)**
+*by* **Dream, Ivory**
+*Album:* Dream, Ivory
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="169" height="4" fill="#1db954" rx="2"/>
+    <circle cx="169" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 3:37
+    1:46 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj)** by **Glare** *(Into You)*
+🎤 **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))*
+🎤 **[wasted affairs](https://open.spotify.com/track/5Oy3MvisFnvTBCQsABK4VX)** by **Mind’s Eye** *(Long Nights and Wasted Affairs)*
+🎤 **[Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0)** by **Mareux** *(Predestiny)*
 🎤 **[no way !](https://open.spotify.com/track/3IwadYiQKN7O51JgIH9PBC)** by **Yot Club** *(aquarium)*
-🎤 **[Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu)** by **Provoker** *(Dark Angel)*
-🎤 **[On Fye](https://open.spotify.com/track/6qLQ0K5jkOB0QrbDwNmKg9)** by **The Simps, Eyedress, zzzahara** *(Siblings)*
-🎤 **[Cover Girl](https://open.spotify.com/track/0210J0nksrdjNk38g2rzhs)** by **Nyxjvh** *(Cover Girl)*
-🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 15:44:31Z UTC
+🕐 Last updated: 2026-01-05 15:57:46Z UTC
 <!-- SPOTIFY-END -->
