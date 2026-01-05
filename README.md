@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739468fa5372c9dc7a419525ec" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Here I Am](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)**
-*by* **The Hellp**
-*Album:* Riviera
+**🎵 [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb)**
+*by* **Aphex Twin**
+*Album:* Selected Ambient Works 85-92
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:24 • 3:46
+    1:54 • 5:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)*
-🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Breathe (In the Air)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53)** by **Pink Floyd** *(The Dark Side of the Moon)*
-🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
+🎤 **[White Light](https://open.spotify.com/track/4NehyYRKNzwec2LDJAUMWe)** by **You'll Never Get to Heaven** *(Images)*
+🎤 **[Country Road](https://open.spotify.com/track/66ebkOa8Yfca90XPfCIQkS)** by **The Hellp** *(Riviera)*
+🎤 **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)** by **ear** *(Nerves)*
+🎤 **[Malaysia Airlines](https://open.spotify.com/track/2ioYzfoZJRbJ8dy9veNqLo)** by **Contact Sports** *(Malaysia Airlines)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 20:17:00Z UTC
+🕐 Last updated: 2026-01-05 20:44:10Z UTC
 <!-- SPOTIFY-END -->
