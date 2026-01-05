@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372794a02454878876b884db9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b6b0f753e88e790454850c81" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Violaine](https://open.spotify.com/track/25y0PKEogdU7EDrxqULRBk)**
+**🎵 [Those Eyes, That Mouth](https://open.spotify.com/track/67FMvER1wXDIGzManwB4Xk)**
 *by* **Cocteau Twins**
-*Album:* Milk & Kisses
+*Album:* Love's Easy Tears
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="247" height="4" fill="#1db954" rx="2"/>
-    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+    <rect width="213" height="4" fill="#1db954" rx="2"/>
+    <circle cx="213" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:06 • 3:45
+    2:35 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Manipulating the Whores of the Glendale Wells Fargo Cabaret](https://open.spotify.com/track/5V1d2xc5J4kpl4Tel7SucN)** by **Part Time** *(Return to Cherry)*
-🎤 **[Cranekiss](https://open.spotify.com/track/1GVzqL6Ilvduq1ERnhLMxZ)** by **Tamaryn** *(Cranekiss)*
-🎤 **[R>O>B>O>T>S>R>E>P>R>I>S>E](https://open.spotify.com/track/4vdDSaWVBIL11b6HxAN7At)** by **Panchiko** *(R>O>B>O>T>S>R>E>P>R>I>S>E)*
-🎤 **[Adorn](https://open.spotify.com/track/1IT3cqWMXhShSUu5iUcWsl)** by **You'll Never Get to Heaven** *(Adorn)*
-🎤 **[Pretty Girls Make Graves - 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO)** by **The Smiths** *(The Smiths)*
+🎤 **[Time Well Spent](https://open.spotify.com/track/5Yh2kwmgRsEfcWh9O82b07)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
+🎤 **[Hai Bby](https://open.spotify.com/track/6aMFxo5WTedwbV2GMqHjnI)** by **The Bilinda Butchers** *(Goodbyes)*
+🎤 **[Until I Know](https://open.spotify.com/track/1LtisxPHpGNo1Bnv56OKvR)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
+🎤 **[By This River](https://open.spotify.com/track/3vaOxrqaRjuoUMMJmNJd01)** by **You'll Never Get to Heaven** *(Adorn)*
+🎤 **[Stars Above](https://open.spotify.com/track/4coOLKzvTTj7zQ9mzP3gxp)** by **sweet93** *(Stars Above)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 04:38:55Z UTC
+🕐 Last updated: 2026-01-05 05:21:45Z UTC
 <!-- SPOTIFY-END -->
