@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27320a41dfca40bb3573d8b2d94" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Alone Tonight](https://open.spotify.com/track/68YdAnQ1lW9HjjCYS5m6YG)**
-*by* **Gap Girls**
-*Album:* Street Desires
+**🎵 [In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)**
+*by* **Luis Ake, sparr00w**
+*Album:* Horse Trance: Melodien der Freiheit
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="62" height="4" fill="#1db954" rx="2"/>
+    <circle cx="62" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:05 • 3:38
+    0:25 • 2:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Treasure Hiding](https://open.spotify.com/track/7FVIYnY8F9IpQoh0GVafGc)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Shadow Garden](https://open.spotify.com/track/7DhjWiSPQ9kffauDMZYjJh)** by **You'll Never Get to Heaven** *(Images)*
+🎤 **[Alone Tonight](https://open.spotify.com/track/68YdAnQ1lW9HjjCYS5m6YG)** by **Gap Girls** *(Street Desires)*
 🎤 **[Blood on My Hands](https://open.spotify.com/track/5RYYDUdReZKsWBkcKqxhFY)** by **The Sundays** *(Blind)*
 🎤 **[Brazil 66](https://open.spotify.com/track/1X8127HN0ITOGhVIkjkL5L)** by **Alison's Halo** *(Eyedazzler)*
-🎤 **[Owain Panchiko - DEATHMETAL Remix](https://open.spotify.com/track/7z4a7fGnLh0BbE3Ht1k8oh)** by **Panchiko** *(R>E>M>I>X>E>D)*
-🎤 **[Half-Gifts](https://open.spotify.com/track/1imN8gl6LNbhXTerceC4lX)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[To Be Fair](https://open.spotify.com/track/1zeVPXIy8lWzB50BcyR9Vk)** by **You'll Never Get to Heaven** *(Images)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 07:41:17Z UTC
+🕐 Last updated: 2026-01-05 07:54:16Z UTC
 <!-- SPOTIFY-END -->
