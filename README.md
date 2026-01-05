@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Theft, And Wandering Around Lost - Remastered 2024](https://open.spotify.com/track/5KfrUjU1G33KYl8WNIhiXG)**
-*by* **Cocteau Twins**
-*Album:* Four-Calendar Café (Remastered 2024)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:02 • 4:30
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx)** by **ESPRIT 空想, George Clanton** *(Virtua.Zip)*
-🎤 **[I Know It's Over - 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[You're Not The Only One I Know](https://open.spotify.com/track/3nbFVNHVYCMCdD9vBo3udv)** by **The Sundays** *(Reading Writing And Arithmetic)*
-🎤 **[Little Leaf](https://open.spotify.com/track/5lXdWuoOlqoxq4Rsu1yDlF)** by **The Bilinda Butchers** *(Goodbyes)*
-🎤 **[Laputa_R>O>T](https://open.spotify.com/track/6OghNYryKi0KmWV3EJVsRb)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Infinite Pieces](https://open.spotify.com/track/2uyjJUYMr34Z6TykcGZQtI)** by **Panchiko** *(The Death Of)*
+🎤 **[Wolf in the Breast](https://open.spotify.com/track/5Cg9aQIEM2exLNBPupf6V4)** by **Cocteau Twins** *(Heaven or Las Vegas)*
+🎤 **[Pink and Gold and Blue](https://open.spotify.com/track/6cUY8WlPyarWF0arqdHocm)** by **You'll Never Get to Heaven** *(Wave Your Moonlight Hat For The Snowfall Train)*
+🎤 **[This Charming Man - 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ)** by **The Smiths** *(The Smiths)*
+🎤 **[Drinking](https://open.spotify.com/track/5fjFfw4mbNjcZuyT3dPKoV)** by **bôa** *(Twilight)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 05:54:10Z UTC
+🕐 Last updated: 2026-01-05 06:27:31Z UTC
 <!-- SPOTIFY-END -->
