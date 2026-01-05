@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ff7e8c6e9795c0d2da5565a6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bluebeard - Remastered 2024](https://open.spotify.com/track/5TJY6dY69tmjuB03TDbRAf)**
-*by* **Cocteau Twins**
-*Album:* Four-Calendar Café (Remastered 2024)
+**🎵 [Alone Tonight](https://open.spotify.com/track/68YdAnQ1lW9HjjCYS5m6YG)**
+*by* **Gap Girls**
+*Album:* Street Desires
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:01 • 3:52
+    3:05 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Pattern Waves](https://open.spotify.com/track/2TaGVBAZijkaP6VUmTreOB)** by **You'll Never Get to Heaven** *(Wave Your Moonlight Hat For The Snowfall Train)*
-🎤 **[Half a Person - 2011 Remaster](https://open.spotify.com/track/3ccAZx3wLZDVB2Nq6rikf9)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Duvet - Acoustic](https://open.spotify.com/track/0wlsgzAk1LaO8MMoXxpz7W)** by **bôa** *(Twilight)*
-🎤 **[Jetpacks for Julian](https://open.spotify.com/track/2cYgq0fcSt7yuLB7QOhIhh)** by **Alison's Halo** *(Eyedazzler)*
-🎤 **[Infinite Pieces](https://open.spotify.com/track/2uyjJUYMr34Z6TykcGZQtI)** by **Panchiko** *(The Death Of)*
+🎤 **[Blood on My Hands](https://open.spotify.com/track/5RYYDUdReZKsWBkcKqxhFY)** by **The Sundays** *(Blind)*
+🎤 **[Brazil 66](https://open.spotify.com/track/1X8127HN0ITOGhVIkjkL5L)** by **Alison's Halo** *(Eyedazzler)*
+🎤 **[Owain Panchiko - DEATHMETAL Remix](https://open.spotify.com/track/7z4a7fGnLh0BbE3Ht1k8oh)** by **Panchiko** *(R>E>M>I>X>E>D)*
+🎤 **[Half-Gifts](https://open.spotify.com/track/1imN8gl6LNbhXTerceC4lX)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[To Be Fair](https://open.spotify.com/track/1zeVPXIy8lWzB50BcyR9Vk)** by **You'll Never Get to Heaven** *(Images)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 07:02:05Z UTC
+🕐 Last updated: 2026-01-05 07:41:17Z UTC
 <!-- SPOTIFY-END -->
