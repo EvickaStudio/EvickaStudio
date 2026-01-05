@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27319bf3790caeb480f2c1a4ed1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)**
-*by* **The Radio Dept.**
-*Album:* Pet Grief
+**🎵 [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)**
+*by* **Panchiko**
+*Album:* D>E>A>T>H>M>E>T>A>L
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="24" height="4" fill="#1db954" rx="2"/>
-    <circle cx="24" cy="2" r="6" fill="#1db954"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 3:31
+    0:05 • 4:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)*
+🎤 **[#19](https://open.spotify.com/track/6gBbPTmT3qveiYpqAYvYJH)** by **Aphex Twin** *(Selected Ambient Works Volume II (Expanded Edition))*
+🎤 **[Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)** by **The Radio Dept.** *(Pet Grief)*
 🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
 🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
-🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
-🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
-🎤 **[Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)** by **Cocteau Twins** *(Four-Calendar Café (Remastered 2024))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 22:52:44Z UTC
+🕐 Last updated: 2026-01-05 23:13:34Z UTC
 <!-- SPOTIFY-END -->
