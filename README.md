@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27372794a02454878876b884db9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Violaine](https://open.spotify.com/track/25y0PKEogdU7EDrxqULRBk)**
+*by* **Cocteau Twins**
+*Album:* Milk & Kisses
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="247" height="4" fill="#1db954" rx="2"/>
+    <circle cx="247" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:06 • 3:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Failed at Math(s)](https://open.spotify.com/track/0CGTEFOmGzMjgcW5WUS7WW)** by **Panchiko** *(Failed at Math(s))*
-🎤 **[Images](https://open.spotify.com/track/5pEtjH9ISFr5ucQeRHtFeN)** by **You'll Never Get to Heaven** *(Images)*
-🎤 **[are you okay?](https://open.spotify.com/track/77RKTns194vbhdP7rh5HC2)** by **jacal** *(Dreamcollider)*
-🎤 **[Rilkean Heart](https://open.spotify.com/track/1oNfCMHwcVQtQPwpBqj49O)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[Elephant](https://open.spotify.com/track/5OpwZViQUOos3cSrEo5qXv)** by **bôa** *(Twilight)*
+🎤 **[Manipulating the Whores of the Glendale Wells Fargo Cabaret](https://open.spotify.com/track/5V1d2xc5J4kpl4Tel7SucN)** by **Part Time** *(Return to Cherry)*
+🎤 **[Cranekiss](https://open.spotify.com/track/1GVzqL6Ilvduq1ERnhLMxZ)** by **Tamaryn** *(Cranekiss)*
+🎤 **[R>O>B>O>T>S>R>E>P>R>I>S>E](https://open.spotify.com/track/4vdDSaWVBIL11b6HxAN7At)** by **Panchiko** *(R>O>B>O>T>S>R>E>P>R>I>S>E)*
+🎤 **[Adorn](https://open.spotify.com/track/1IT3cqWMXhShSUu5iUcWsl)** by **You'll Never Get to Heaven** *(Adorn)*
+🎤 **[Pretty Girls Make Graves - 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO)** by **The Smiths** *(The Smiths)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 03:21:28Z UTC
+🕐 Last updated: 2026-01-05 04:38:55Z UTC
 <!-- SPOTIFY-END -->
