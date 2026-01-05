@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730dbe3e9b1f3436574be16bc9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27311628314033c2483a9bfaf3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Dream of Jeannie - With the Light Brown Hair](https://open.spotify.com/track/0AWpPU3kRCICcfLUGqwRuC)**
-*by* **Stina Nordenstam**
-*Album:* People Are Strange
+**🎵 [Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)**
+*by* **agelast222, gard**
+*Album:* Parisienne
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="234" height="4" fill="#1db954" rx="2"/>
-    <circle cx="234" cy="2" r="6" fill="#1db954"/>
+    <rect width="105" height="4" fill="#1db954" rx="2"/>
+    <circle cx="105" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:04 • 3:56
+    0:38 • 1:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Theorem](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)** by **ear** *(The Most Dear and The Future)*
-🎤 **[Seal](https://open.spotify.com/track/4PtXXdT0TgT0H26VWV43Ao)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
-🎤 **[Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[White Light](https://open.spotify.com/track/4NehyYRKNzwec2LDJAUMWe)** by **You'll Never Get to Heaven** *(Images)*
-🎤 **[Country Road](https://open.spotify.com/track/66ebkOa8Yfca90XPfCIQkS)** by **The Hellp** *(Riviera)*
+🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
+🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
+🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint** *(remedy)*
+🎤 **[elfbar (freestyle)](https://open.spotify.com/track/0CS7Rq2swLuq1SPAyVKJWC)** by **Iuvumi, 1ndertat** *(elfbar (freestyle))*
+🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 20:55:33Z UTC
+🕐 Last updated: 2026-01-05 21:14:19Z UTC
 <!-- SPOTIFY-END -->
