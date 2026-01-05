@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27320a41dfca40bb3573d8b2d94" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)**
-*by* **Luis Ake, sparr00w**
-*Album:* Horse Trance: Melodien der Freiheit
+**🎵 [jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="62" height="4" fill="#1db954" rx="2"/>
-    <circle cx="62" cy="2" r="6" fill="#1db954"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:25 • 2:03
+    1:22 • 2:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Treasure Hiding](https://open.spotify.com/track/7FVIYnY8F9IpQoh0GVafGc)** by **Cocteau Twins** *(Milk & Kisses)*
-🎤 **[Shadow Garden](https://open.spotify.com/track/7DhjWiSPQ9kffauDMZYjJh)** by **You'll Never Get to Heaven** *(Images)*
-🎤 **[Alone Tonight](https://open.spotify.com/track/68YdAnQ1lW9HjjCYS5m6YG)** by **Gap Girls** *(Street Desires)*
-🎤 **[Blood on My Hands](https://open.spotify.com/track/5RYYDUdReZKsWBkcKqxhFY)** by **The Sundays** *(Blind)*
-🎤 **[Brazil 66](https://open.spotify.com/track/1X8127HN0ITOGhVIkjkL5L)** by **Alison's Halo** *(Eyedazzler)*
+🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
+🎤 **[Wenn die Sonne scheint](https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg)** by **Rowli, Hank** *(Teenage Tears)*
+🎤 **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)*
+🎤 **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[Passive And Plastic](https://open.spotify.com/track/26EHKiRiz0DU40iA8H3CCA)** by **Reserv** *(Passive And Plastic)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 07:54:16Z UTC
+🕐 Last updated: 2026-01-05 08:22:07Z UTC
 <!-- SPOTIFY-END -->
