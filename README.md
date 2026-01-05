@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738a31eda7e371388a06587845" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)**
-*by* **You'll Never Get to Heaven**
-*Album:* Images
+**🎵 [Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)**
+*by* **The Smashing Pumpkins**
+*Album:* Siamese Dream (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="209" height="4" fill="#1db954" rx="2"/>
-    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+    <rect width="224" height="4" fill="#1db954" rx="2"/>
+    <circle cx="224" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:53 • 4:08
+    2:31 • 3:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Venus As A Boy](https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ)** by **Björk** *(Debut)*
-🎤 **[Lies in the Eyes of Love](https://open.spotify.com/track/5JQuDFh7QKTjJDoEQAmaO8)** by **Part Time** *(Lies in the Eyes of Love)*
-🎤 **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)*
-🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE)** by **Dream, Ivory** *(Dream, Ivory)*
+🎤 **[Weird Fishes / Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S)** by **Radiohead** *(In Rainbows)*
+🎤 **[Here's Where the Story Ends](https://open.spotify.com/track/5gSHlT2SI0dtjeHrjj96A1)** by **The Sundays** *(Reading Writing And Arithmetic)*
+🎤 **[desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh)** by **spirit blue** *(ps / dm)*
+🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
+🎤 **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 21:33:50Z UTC
+🕐 Last updated: 2026-01-05 21:50:46Z UTC
 <!-- SPOTIFY-END -->
