@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)**
-*by* **Panchiko**
-*Album:* D>E>A>T>H>M>E>T>A>L
+**🎵 [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)**
+*by* **Labi Siffre**
+*Album:* Crying Laughing Loving Lying
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="141" height="4" fill="#1db954" rx="2"/>
+    <circle cx="141" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 4:21
+    1:56 • 4:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)*
-🎤 **[#19](https://open.spotify.com/track/6gBbPTmT3qveiYpqAYvYJH)** by **Aphex Twin** *(Selected Ambient Works Volume II (Expanded Edition))*
-🎤 **[Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)** by **The Radio Dept.** *(Pet Grief)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)*
+🎤 **[Wildflower](https://open.spotify.com/track/1zampxUEvQWKx1nE2OvwQ6)** by **Beach House** *(Depression Cherry)*
+🎤 **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)*
+🎤 **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 23:13:34Z UTC
+🕐 Last updated: 2026-01-05 23:32:11Z UTC
 <!-- SPOTIFY-END -->
