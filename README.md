@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273794624c277052d068bf311d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fly Out West](https://open.spotify.com/track/1GPmqcYcbgQeOiu7P3S6Xo)**
-*by* **Yot Club**
-*Album:* Bipolar
+**🎵 [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0)**
+*by* **Mareux**
+*Album:* Predestiny
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="52" height="4" fill="#1db954" rx="2"/>
+    <circle cx="52" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:40
+    0:38 • 3:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Take Me To The Sun](https://open.spotify.com/track/32GHYtVVAsYNQGafHrrRxv)** by **d4vd** *(Take Me To The Sun)*
-🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
-🎤 **[Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj)** by **Glare** *(Into You)*
-🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
-🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[no way !](https://open.spotify.com/track/3IwadYiQKN7O51JgIH9PBC)** by **Yot Club** *(aquarium)*
+🎤 **[Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu)** by **Provoker** *(Dark Angel)*
+🎤 **[On Fye](https://open.spotify.com/track/6qLQ0K5jkOB0QrbDwNmKg9)** by **The Simps, Eyedress, zzzahara** *(Siblings)*
+🎤 **[Cover Girl](https://open.spotify.com/track/0210J0nksrdjNk38g2rzhs)** by **Nyxjvh** *(Cover Girl)*
+🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 15:16:14Z UTC
+🕐 Last updated: 2026-01-05 15:44:31Z UTC
 <!-- SPOTIFY-END -->
