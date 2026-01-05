@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b6b0f753e88e790454850c81" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273890ffb29d6f135a6b6a5ccf4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Those Eyes, That Mouth](https://open.spotify.com/track/67FMvER1wXDIGzManwB4Xk)**
+**🎵 [Theft, And Wandering Around Lost - Remastered 2024](https://open.spotify.com/track/5KfrUjU1G33KYl8WNIhiXG)**
 *by* **Cocteau Twins**
-*Album:* Love's Easy Tears
+*Album:* Four-Calendar Café (Remastered 2024)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 3:38
+    3:02 • 4:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Time Well Spent](https://open.spotify.com/track/5Yh2kwmgRsEfcWh9O82b07)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
-🎤 **[Hai Bby](https://open.spotify.com/track/6aMFxo5WTedwbV2GMqHjnI)** by **The Bilinda Butchers** *(Goodbyes)*
-🎤 **[Until I Know](https://open.spotify.com/track/1LtisxPHpGNo1Bnv56OKvR)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
-🎤 **[By This River](https://open.spotify.com/track/3vaOxrqaRjuoUMMJmNJd01)** by **You'll Never Get to Heaven** *(Adorn)*
-🎤 **[Stars Above](https://open.spotify.com/track/4coOLKzvTTj7zQ9mzP3gxp)** by **sweet93** *(Stars Above)*
+🎤 **[Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx)** by **ESPRIT 空想, George Clanton** *(Virtua.Zip)*
+🎤 **[I Know It's Over - 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[You're Not The Only One I Know](https://open.spotify.com/track/3nbFVNHVYCMCdD9vBo3udv)** by **The Sundays** *(Reading Writing And Arithmetic)*
+🎤 **[Little Leaf](https://open.spotify.com/track/5lXdWuoOlqoxq4Rsu1yDlF)** by **The Bilinda Butchers** *(Goodbyes)*
+🎤 **[Laputa_R>O>T](https://open.spotify.com/track/6OghNYryKi0KmWV3EJVsRb)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 05:21:45Z UTC
+🕐 Last updated: 2026-01-05 05:54:10Z UTC
 <!-- SPOTIFY-END -->
