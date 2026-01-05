@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)**
+*by* **Cocteau Twins**
+*Album:* Heaven or Las Vegas
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="55" height="4" fill="#1db954" rx="2"/>
+    <circle cx="55" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:54 • 4:58
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
 🎤 **[Rose In A Glass](https://open.spotify.com/track/0oACcecqRIuP0vi2wvBq5o)** by **Provoker** *(Body Jumper)*
 🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
 🎤 **[Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk)** by **Pearly Drops** *(Call For Help)*
 🎤 **[this body means nothing to me](https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi)** by **Shrimp** *(this body means nothing to me)*
-🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 16:50:06Z UTC
+🕐 Last updated: 2026-01-05 17:16:32Z UTC
 <!-- SPOTIFY-END -->
