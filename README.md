@@ -91,7 +91,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c43ee2c59d5d6b0d4b3a2075" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)**
+*by* **Panchiko**
+*Album:* Ferric Oxide (Demos 1997 - 2001)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="132" height="4" fill="#1db954" rx="2"/>
+    <circle cx="132" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:56 • 2:07
+</span>
+</p>
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 13:27:03Z UTC
+🕐 Last updated: 2026-01-05 13:55:35Z UTC
 <!-- SPOTIFY-END -->
