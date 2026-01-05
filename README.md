@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b0cdf32bc53b002541d03b91" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [#19](https://open.spotify.com/track/6gBbPTmT3qveiYpqAYvYJH)**
+*by* **Aphex Twin**
+*Album:* Selected Ambient Works Volume II (Expanded Edition)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    7:53 • 10:14
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[Cherry-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ)** by **Cocteau Twins** *(Heaven or Las Vegas)*
 🎤 **[die sterne sind fast so schön wie du](https://open.spotify.com/track/0xUIjUi0msWV0CSiEbGCQT)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 🎤 **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
 🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
-🎤 **[Wenn die Sonne scheint](https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg)** by **Rowli, Hank** *(Teenage Tears)*
-🎤 **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-05 08:54:36Z UTC
+🕐 Last updated: 2026-01-05 09:24:23Z UTC
 <!-- SPOTIFY-END -->
