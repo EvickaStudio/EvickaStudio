@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Fly Out West](https://open.spotify.com/track/1GPmqcYcbgQeOiu7P3S6Xo)**
+*by* **Yot Club**
+*Album:* Bipolar
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="147" height="4" fill="#1db954" rx="2"/>
+    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:18 • 2:40
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)** by **Tyler, The Creator** *(IGOR)*
-🎤 **[I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl)** by **Elliott Fullam** *(What's Wrong)*
-🎤 **[i think you should know](https://open.spotify.com/track/5LfKWDwHGc12ChQhnXcuYG)** by **SHEMYYY, Senses** *(i think you should know)*
-🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
-🎤 **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)*
+🎤 **[Take Me To The Sun](https://open.spotify.com/track/32GHYtVVAsYNQGafHrrRxv)** by **d4vd** *(Take Me To The Sun)*
+🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
+🎤 **[Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj)** by **Glare** *(Into You)*
+🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
 
 
 
@@ -121,8 +140,8 @@
 🥈 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 🥉 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
 🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
-🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
+🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 14:48:40Z UTC
+🕐 Last updated: 2026-01-05 15:16:14Z UTC
 <!-- SPOTIFY-END -->
