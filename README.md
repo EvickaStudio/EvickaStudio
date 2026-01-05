@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27311628314033c2483a9bfaf3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738a31eda7e371388a06587845" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)**
-*by* **agelast222, gard**
-*Album:* Parisienne
+**🎵 [Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)**
+*by* **You'll Never Get to Heaven**
+*Album:* Images
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="105" height="4" fill="#1db954" rx="2"/>
-    <circle cx="105" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 1:50
+    2:53 • 4:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint** *(remedy)*
-🎤 **[elfbar (freestyle)](https://open.spotify.com/track/0CS7Rq2swLuq1SPAyVKJWC)** by **Iuvumi, 1ndertat** *(elfbar (freestyle))*
-🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Venus As A Boy](https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ)** by **Björk** *(Debut)*
+🎤 **[Lies in the Eyes of Love](https://open.spotify.com/track/5JQuDFh7QKTjJDoEQAmaO8)** by **Part Time** *(Lies in the Eyes of Love)*
+🎤 **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)*
+🎤 **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE)** by **Dream, Ivory** *(Dream, Ivory)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 21:14:19Z UTC
+🕐 Last updated: 2026-01-05 21:33:50Z UTC
 <!-- SPOTIFY-END -->
