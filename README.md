@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d164cb5cb9804b3fc44d587c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sea, Swallow Me - 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB)**
-*by* **Cocteau Twins, Harold Budd**
-*Album:* The Moon and the Melodies (2024 Remaster)
+**🎵 [desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh)**
+*by* **spirit blue**
+*Album:* ps / dm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 3:09
+    2:12 • 3:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv)** by **Chanel Beads** *(Your Day Will Come)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)*
-🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[Weird Fishes / Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S)** by **Radiohead** *(In Rainbows)*
+🎤 **[Starting Over](https://open.spotify.com/track/2DcEfiRPwcpdm55mctCHUE)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Setting Sun](https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN)** by **You'll Never Get to Heaven** *(Wave Your Moonlight Hat For The Snowfall Train)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 17:54:45Z UTC
+🕐 Last updated: 2026-01-05 18:21:49Z UTC
 <!-- SPOTIFY-END -->
