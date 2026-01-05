@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273317b8e4b1a3b72425f090af3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)**
-*by* **Max Fry**
-*Album:* zombie
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="217" height="4" fill="#1db954" rx="2"/>
-    <circle cx="217" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 2:11
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD)** by **Mareux** *(Lovers From The Past)*
-🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
-🎤 **[Facebook.com](https://open.spotify.com/track/1d0Ol4OODB5ioYsds2TtJC)** by **Memo Boy** *(Songs & Demos 2015-2017)*
-🎤 **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)*
-🎤 **[Sea, Swallow Me - 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB)** by **Cocteau Twins, Harold Budd** *(The Moon and the Melodies (2024 Remaster))*
+🎤 **[Rose In A Glass](https://open.spotify.com/track/0oACcecqRIuP0vi2wvBq5o)** by **Provoker** *(Body Jumper)*
+🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
+🎤 **[Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk)** by **Pearly Drops** *(Call For Help)*
+🎤 **[this body means nothing to me](https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi)** by **Shrimp** *(this body means nothing to me)*
+🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 16:26:22Z UTC
+🕐 Last updated: 2026-01-05 16:50:06Z UTC
 <!-- SPOTIFY-END -->
