@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738671a62813f58b499c8fccc3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27308cc9bc3c9d72c00fdfa5a87" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv)**
-*by* **Chanel Beads**
-*Album:* Your Day Will Come
+**🎵 [Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)**
+*by* **Beach House**
+*Album:* Bloom
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="144" height="4" fill="#1db954" rx="2"/>
+    <circle cx="144" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 2:22
+    2:04 • 4:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)*
-🎤 **[IZ-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
-🎤 **[Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG)** by **Mk.gee** *(Two Star & The Dream Police)*
-🎤 **[Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV)** by **You'll Never Get to Heaven** *(Adorn)*
+🎤 **[Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)** by **Cocteau Twins** *(Four-Calendar Café (Remastered 2024))*
+🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Starting Over](https://open.spotify.com/track/2DcEfiRPwcpdm55mctCHUE)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 22:14:02Z UTC
+🕐 Last updated: 2026-01-05 22:38:35Z UTC
 <!-- SPOTIFY-END -->
