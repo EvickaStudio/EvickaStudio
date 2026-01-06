@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f79a58a50609f0a3b3320316" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27356af592a4b7b06678a837813" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3)**
-*by* **Vegyn, Léa Sen**
-*Album:* The Road To Hell Is Paved With Good Intentions
+**🎵 [Hitherto](https://open.spotify.com/track/0dztiiq1gnHbxUILOFise7)**
+*by* **Cocteau Twins**
+*Album:* The Pink Opaque
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="211" height="4" fill="#1db954" rx="2"/>
-    <circle cx="211" cy="2" r="6" fill="#1db954"/>
+    <rect width="92" height="4" fill="#1db954" rx="2"/>
+    <circle cx="92" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 2:54
+    1:11 • 3:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[On Earth](https://open.spotify.com/track/7kPEvL8UmQiqRFcwUGPEtk)** by **The Sundays** *(Blind)*
-🎤 **[Sugar Hiccup](https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv)** by **Cocteau Twins** *(Head Over Heels)*
-🎤 **[Polynomial-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF)** by **Aphex Twin** *(Xylem Tube EP)*
-🎤 **[Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Trip II the OC](https://open.spotify.com/track/52PFAv7pNmudWuaRrwm2nx)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
+🎤 **[You're in Love](https://open.spotify.com/track/0oIOd9iLRBAwmSsJrfnZ77)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
+🎤 **[Violet](https://open.spotify.com/track/5nj0iOSOfyhhpppEIMQlux)** by **You'll Never Get to Heaven** *(You’ll Never Get to Heaven)*
+🎤 **[Slomo](https://open.spotify.com/track/0KYOthr76o5GlmYLEfp9OX)** by **Slowdive** *(Slowdive)*
+🎤 **[The Eyes of Ibad](https://open.spotify.com/track/3FK1eJKXboi8D8hOsWUZPk)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Boyfriend](https://open.spotify.com/track/6zJ8TiWgwoxxlQnZgCH7hS)** by **The Bilinda Butchers** *(Regret, Love, Guilt, Dreams)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 04:08:36Z UTC
+🕐 Last updated: 2026-01-06 04:50:24Z UTC
 <!-- SPOTIFY-END -->
