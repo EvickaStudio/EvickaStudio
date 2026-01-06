@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e88cf0a11c6a92b0eca25159" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27331ae1538d8ec5bd293f64601" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Flounder 202](https://open.spotify.com/track/5Bs3fjjTrSs7Fd19X20pez)**
+**🎵 [Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx)**
 *by* **ESPRIT 空想, George Clanton**
-*Album:* 200% Electronica
+*Album:* Virtua.Zip
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="244" height="4" fill="#1db954" rx="2"/>
-    <circle cx="244" cy="2" r="6" fill="#1db954"/>
+    <rect width="25" height="4" fill="#1db954" rx="2"/>
+    <circle cx="25" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:38 • 4:28
+    0:18 • 3:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Cico Buff](https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM)** by **Cocteau Twins** *(Blue Bell Knoll)*
-🎤 **[Here She Comes](https://open.spotify.com/track/5FuYgi1xinZAQyD5CYLpUJ)** by **Slowdive** *(Souvlaki)*
-🎤 **[Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
-🎤 **[It’s All Over](https://open.spotify.com/track/6TNULxDb3xKj0lq66PrME2)** by **You'll Never Get to Heaven** *(You’ll Never Get to Heaven)*
-🎤 **[Mac’s Omelette](https://open.spotify.com/track/76cublIM8MdirqrOPVaoET)** by **Panchiko** *(Ginkgo)*
+🎤 **[That Joke Isn't Funny Anymore](https://open.spotify.com/track/48veRDsAEBOJJnVnnabV99)** by **The Smiths** *(Meat Is Murder)*
+🎤 **[Tears Of Clown](https://open.spotify.com/track/56d708pQEb3rtXa3dXOjb9)** by **Gigi Masin** *(Wind)*
+🎤 **[Debold](https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j)** by **Vegyn** *(Only Diamonds Cut Diamonds)*
+🎤 **[I Wear Your Ring](https://open.spotify.com/track/20nCwr4GiOZ02PVePsuLEd)** by **Cocteau Twins** *(Heaven or Las Vegas)*
+🎤 **[Dozen](https://open.spotify.com/track/7FoVZCTSLY9gQ2vqIURPcg)** by **Alison's Halo** *(Eyedazzler)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 05:46:09Z UTC
+🕐 Last updated: 2026-01-06 06:23:04Z UTC
 <!-- SPOTIFY-END -->
