@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732e40f864986951c56d865edf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737824934eb48c0c85b5d9cfae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Animosity '93](https://open.spotify.com/track/57nrvuPvM8Qa0XNS4LVjg2)**
-*by* **Vestron Vulture**
-*Album:* Lionheart
+**🎵 [Her Ribs](https://open.spotify.com/track/24WiPfA6p3w3lUh5dwSdis)**
+*by* **Shadow Wizard Money Gang, Death Souljah**
+*Album:* Her Ribs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="206" height="4" fill="#1db954" rx="2"/>
-    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:52
+    2:41 • 3:00
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by **Varg²™, Bladee, VS--55** *(ᚦ)*
-🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
-🎤 **[i hate myself](https://open.spotify.com/track/4M70ljpNt2xibT7Rc1EmDZ)** by **korpsebunny** *(i hate myself)*
-🎤 **[you're so pretty when you cry](https://open.spotify.com/track/69cHwOkSdHeNH1Nw1K1ooA)** by **5v** *(you're so pretty when you cry)*
-🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
+🎤 **[999 (Remix)](https://open.spotify.com/track/0fmbjLzenF8z20WN0QPSXl)** by **MYT, TYM** *(999 (Remix))*
+🎤 **[Last Friday Night](https://open.spotify.com/track/5MKhSKaCJruH3oQpiMyIo0)** by **sign crushes motorist** *(i'll be okay)*
+🎤 **[And We Go](https://open.spotify.com/track/1bIaST1pmox6fEGof04Ve9)** by **S3RL, CODA, IC3MANIA** *(And We Go)*
+🎤 **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))*
+🎤 **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 16:52:32Z UTC
+🕐 Last updated: 2026-01-06 17:17:37Z UTC
 <!-- SPOTIFY-END -->
