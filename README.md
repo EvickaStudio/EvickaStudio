@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eca98c615ab5af7177e3276f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e88cf0a11c6a92b0eca25159" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Kelly Watch the Stars - Vegyn Version](https://open.spotify.com/track/65HglZ8oT5RoiXit0sweZP)**
-*by* **Vegyn, Air**
-*Album:* Blue Moon Safari
+**🎵 [Flounder 202](https://open.spotify.com/track/5Bs3fjjTrSs7Fd19X20pez)**
+*by* **ESPRIT 空想, George Clanton**
+*Album:* 200% Electronica
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:05 • 3:35
+    3:38 • 4:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[For Phoebe Still A Baby](https://open.spotify.com/track/5AW2K0F6g9AzDq4zzhevpa)** by **Cocteau Twins** *(Blue Bell Knoll)*
-🎤 **[So Heavy You Can't Float](https://open.spotify.com/track/2k8UbT5zSARHYTNUBLIgHC)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
-🎤 **[Girl Of The Year](https://open.spotify.com/track/3yQjndpiKjlL2KswiazUqH)** by **Beach House** *(7)*
-🎤 **[Dagger](https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8)** by **Slowdive** *(Souvlaki)*
-🎤 **[NeilSSong](https://open.spotify.com/track/1KewjSLZaDp6wYaIaQoGsf)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
+🎤 **[Cico Buff](https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM)** by **Cocteau Twins** *(Blue Bell Knoll)*
+🎤 **[Here She Comes](https://open.spotify.com/track/5FuYgi1xinZAQyD5CYLpUJ)** by **Slowdive** *(Souvlaki)*
+🎤 **[Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S)** by **Aphex Twin** *(Selected Ambient Works 85-92)*
+🎤 **[It’s All Over](https://open.spotify.com/track/6TNULxDb3xKj0lq66PrME2)** by **You'll Never Get to Heaven** *(You’ll Never Get to Heaven)*
+🎤 **[Mac’s Omelette](https://open.spotify.com/track/76cublIM8MdirqrOPVaoET)** by **Panchiko** *(Ginkgo)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 05:19:00Z UTC
+🕐 Last updated: 2026-01-06 05:46:09Z UTC
 <!-- SPOTIFY-END -->
