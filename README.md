@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c06604dc29f3e2cde0be91c6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/0qAVgHret39Bxt8AlfdePM)**
-*by* **Varg²™, Bladee, Escha, Ytem**
-*Album:* SHINIE (Escha & Ytem Remix)
+**🎵 [TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)**
+*by* **Bladee, Ecco2k, Thaiboy Digital**
+*Album:* TL;DR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
+    <rect width="57" height="4" fill="#1db954" rx="2"/>
+    <circle cx="57" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:08 • 5:11
+    0:35 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)*
-🎤 **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)*
-🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
-🎤 **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)*
-🎤 **[Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx)** by **BIG TIM** *(Alles ist relativ)*
+🎤 **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)*
+🎤 **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
+🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
+🎤 **[Castles](https://open.spotify.com/track/7camGp9HsgCNiBPQlXNkZQ)** by **Too Asian, Ghosu** *(Castles)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 20:52:49Z UTC
+🕐 Last updated: 2026-01-06 21:13:55Z UTC
 <!-- SPOTIFY-END -->
