@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f79a58a50609f0a3b3320316" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cupid De Locke - Remastered 2012](https://open.spotify.com/track/7zwwvrJAWGjfc9wFD3bVzZ)**
-*by* **The Smashing Pumpkins**
-*Album:* Mellon Collie And The Infinite Sadness (Deluxe Edition)
+**🎵 [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3)**
+*by* **Vegyn, Léa Sen**
+*Album:* The Road To Hell Is Paved With Good Intentions
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 2:50
+    2:03 • 2:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[#3](https://open.spotify.com/track/7glKwbR1DyuIuE6XvZvJbQ)** by **Aphex Twin** *(Selected Ambient Works Volume II)*
-🎤 **[Pink Orange Red](https://open.spotify.com/track/4A6aaU2Vkk7mLl66CT6zS4)** by **Cocteau Twins** *(Tiny Dynamine)*
-🎤 **[perfect storm](https://open.spotify.com/track/6SFNvzHlhrB6mbMXPIcLV3)** by **spirit blue** *(ps / dm)*
-🎤 **[Pet Grief](https://open.spotify.com/track/2eZeB5f2Ln5Qo1ghuk2293)** by **The Radio Dept.** *(Pet Grief)*
-🎤 **[Cry, Cry](https://open.spotify.com/track/4u5ofLk8CMrtQnRaiIVH4O)** by **Mazzy Star** *(Among My Swan)*
+🎤 **[On Earth](https://open.spotify.com/track/7kPEvL8UmQiqRFcwUGPEtk)** by **The Sundays** *(Blind)*
+🎤 **[Sugar Hiccup](https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv)** by **Cocteau Twins** *(Head Over Heels)*
+🎤 **[Polynomial-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF)** by **Aphex Twin** *(Xylem Tube EP)*
+🎤 **[Kicking Cars](https://open.spotify.com/track/6Cgj4eBFnYmPJcOcdCvnzr)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[Trip II the OC](https://open.spotify.com/track/52PFAv7pNmudWuaRrwm2nx)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 03:04:06Z UTC
+🕐 Last updated: 2026-01-06 04:08:36Z UTC
 <!-- SPOTIFY-END -->
