@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2732e40f864986951c56d865edf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Animosity '93](https://open.spotify.com/track/57nrvuPvM8Qa0XNS4LVjg2)**
+*by* **Vestron Vulture**
+*Album:* Lionheart
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:59 • 2:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by **Varg²™, Bladee, VS--55** *(ᚦ)*
+🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
 🎤 **[i hate myself](https://open.spotify.com/track/4M70ljpNt2xibT7Rc1EmDZ)** by **korpsebunny** *(i hate myself)*
 🎤 **[you're so pretty when you cry](https://open.spotify.com/track/69cHwOkSdHeNH1Nw1K1ooA)** by **5v** *(you're so pretty when you cry)*
 🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
-🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
-🎤 **[rückfall](https://open.spotify.com/track/5i2eJgnCIxHCXfD14B9Q4w)** by **luu** *(irgendwo im schatten)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 16:18:34Z UTC
+🕐 Last updated: 2026-01-06 16:52:32Z UTC
 <!-- SPOTIFY-END -->
