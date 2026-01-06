@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27377769ee82b034f20c42fd68c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [i adore you kitty](https://open.spotify.com/track/4pygMniTCwH41yXeAcPLjt)**
-*by* **bliiiss, Bigdog30k**
-*Album:* 2
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="37" height="4" fill="#1db954" rx="2"/>
-    <circle cx="37" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 2:59
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **KidSnorlax, hateoryx** *(angelRavegirl)*
-🎤 **[dead and bloody](https://open.spotify.com/track/1PbRjHmFzwEc1Mn38romEf)** by **korpsebunny** *(dead and bloody)*
-🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
-🎤 **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)*
-🎤 **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)*
+🎤 **[i hate myself](https://open.spotify.com/track/4M70ljpNt2xibT7Rc1EmDZ)** by **korpsebunny** *(i hate myself)*
+🎤 **[you're so pretty when you cry](https://open.spotify.com/track/69cHwOkSdHeNH1Nw1K1ooA)** by **5v** *(you're so pretty when you cry)*
+🎤 **[slutty mind!!](https://open.spotify.com/track/7Kp3FKbdDiQEWm01H05Yu1)** by **ilymeow** *(slutty mind!!)*
+🎤 **[nie mehr seh'](https://open.spotify.com/track/4g7HwJMc0HdR3CjD2TIrCV)** by **pink luu** *(nie mehr seh')*
+🎤 **[rückfall](https://open.spotify.com/track/5i2eJgnCIxHCXfD14B9Q4w)** by **luu** *(irgendwo im schatten)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 12:29:20Z UTC
+🕐 Last updated: 2026-01-06 13:12:31Z UTC
 <!-- SPOTIFY-END -->
