@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c4cc3c70e4896a692ca6b582" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [What I Am](https://open.spotify.com/track/6hHUiDe461VUoTHnsplRYs)**
+*by* **Edie Brickell & New Bohemians**
+*Album:* Shooting Rubberbands At The Stars
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="93" height="4" fill="#1db954" rx="2"/>
-    <circle cx="93" cy="2" r="6" fill="#1db954"/>
+    <rect width="21" height="4" fill="#1db954" rx="2"/>
+    <circle cx="21" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:49
+    0:21 • 4:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA)** by **Stegosaurus Rex** *(The Dino Soars)*
-🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
-🎤 **[Geht schon](https://open.spotify.com/track/7uy8ykjVavhsToDZXYOe11)** by **strangerperson** *(Geht schon)*
-🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
-🎤 **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)*
+🎤 **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)*
+🎤 **[FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ)** by **pluko** *(FALLING)*
+🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[Nightcall](https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA)** by **Kavinsky** *(OutRun)*
+🎤 **[Clash of Clans](https://open.spotify.com/track/5oJl2xKCAFCPy6eXjE6z0e)** by **EN6O** *(Clash of Clans)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 18:23:20Z UTC
+🕐 Last updated: 2026-01-06 18:51:36Z UTC
 <!-- SPOTIFY-END -->
