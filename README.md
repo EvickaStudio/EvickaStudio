@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
-*by* **Led Zeppelin**
-*Album:* Led Zeppelin IV (Deluxe Edition)
+**🎵 [taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)**
+*by* **blombi19**
+*Album:* herzkasper
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="249" height="4" fill="#1db954" rx="2"/>
-    <circle cx="249" cy="2" r="6" fill="#1db954"/>
+    <rect width="93" height="4" fill="#1db954" rx="2"/>
+    <circle cx="93" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:41 • 8:02
+    0:53 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)*
-🎤 **[⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆](https://open.spotify.com/track/2iPcZ48HmKSZlOeRN59lGo)** by **snafu, weirdo girl** *(⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆)*
-🎤 **[Ferrari](https://open.spotify.com/track/5FC1X5dpLKIsAKGlXNZHhx)** by **Yung Hurn** *(In Memory of Yung Hurn - Classic Compilation)*
-🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
-🎤 **[Rottweiler Welpe](https://open.spotify.com/track/16whV4IXCwGuspfB2ybu1P)** by **fliggsy** *(No Comment)*
+🎤 **[Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA)** by **Stegosaurus Rex** *(The Dino Soars)*
+🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
+🎤 **[Geht schon](https://open.spotify.com/track/7uy8ykjVavhsToDZXYOe11)** by **strangerperson** *(Geht schon)*
+🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
+🎤 **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 17:55:52Z UTC
+🕐 Last updated: 2026-01-06 18:23:20Z UTC
 <!-- SPOTIFY-END -->
