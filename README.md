@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ae9d28006d36e87b5ff284e4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [tabiy0ka](https://open.spotify.com/track/25i9bRcjb57SURItjHgiBA)**
+*by* **Iuvumi**
+*Album:* tabiy0ka
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:02 • 1:58
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
-🎤 **[Demi Lovato](https://open.spotify.com/track/5oUxYtUuv8AgMPUMTPAsH8)** by **c4rl** *(Demi Lovato)*
-🎤 **[hollow - Sasuke Haraguchi Remix](https://open.spotify.com/track/2LDqNDNX5Kt9kJ0EfQ8m7U)** by **vai5000, nujioh, Sasuke Haraguchi** *(the you that remained)*
-🎤 **[LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)** by **Joji** *(LOVE YOU LESS)*
-🎤 **[stop the car](https://open.spotify.com/track/6QcCLs7DM7cDoheGYc9dTW)** by **Lil Peep, Horse Head** *(stop the car)*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)*
+🎤 **[R U Down?](https://open.spotify.com/track/2zPJ8LFi0I2ltvtibtn5L2)** by **RudeClub** *(R U Down?)*
+🎤 **[1234](https://open.spotify.com/track/6ybfpjNh1IjS2ggxj9EiSi)** by **pink luu** *(1234)*
+🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo** *(meine grosse liebe)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 08:20:44Z UTC
+🕐 Last updated: 2026-01-06 08:51:36Z UTC
 <!-- SPOTIFY-END -->
