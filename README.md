@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)*
 🎤 **[Demi Lovato](https://open.spotify.com/track/5oUxYtUuv8AgMPUMTPAsH8)** by **c4rl** *(Demi Lovato)*
 🎤 **[hollow - Sasuke Haraguchi Remix](https://open.spotify.com/track/2LDqNDNX5Kt9kJ0EfQ8m7U)** by **vai5000, nujioh, Sasuke Haraguchi** *(the you that remained)*
 🎤 **[LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)** by **Joji** *(LOVE YOU LESS)*
 🎤 **[stop the car](https://open.spotify.com/track/6QcCLs7DM7cDoheGYc9dTW)** by **Lil Peep, Horse Head** *(stop the car)*
-🎤 **[tiempo presente](https://open.spotify.com/track/1UCDNOSyjZXRc5X71YsFcg)** by **temcandoanything, 16:9 krollo ✥** *(tiempo presente)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 07:53:51Z UTC
+🕐 Last updated: 2026-01-06 08:20:44Z UTC
 <!-- SPOTIFY-END -->
