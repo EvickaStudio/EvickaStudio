@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bafb7763507cb58d37c774c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)**
-*by* **Sun Kil Moon**
-*Album:* Ghosts of the Great Highway
+**🎵 [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)**
+*by* **Basement Jaxx**
+*Album:* Rooty
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="115" height="4" fill="#1db954" rx="2"/>
-    <circle cx="115" cy="2" r="6" fill="#1db954"/>
+    <rect width="23" height="4" fill="#1db954" rx="2"/>
+    <circle cx="23" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    5:35 • 14:32
+    0:22 • 4:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[new friends](https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo)** by **SHEMYYY** *(new friends)*
-🎤 **[Stereo Love](https://open.spotify.com/track/0gBfLS4aqbrr1ZvVv8dqWB)** by **Edward Maya, Vika Jigulina** *(Stereo Love)*
-🎤 **[Ruckus](https://open.spotify.com/track/4BwBNkKXzP3pMtXNcXfGq7)** by **SXMPRA** *(Ruckus)*
-🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
-🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
+🎤 **[Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)** by **Surf Curse** *(Freaks)*
+🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)*
+🎤 **[Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe)** by **Lana Del Rey** *(Say Yes To Heaven)*
+🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 21:50:51Z UTC
+🕐 Last updated: 2026-01-06 22:14:08Z UTC
 <!-- SPOTIFY-END -->
