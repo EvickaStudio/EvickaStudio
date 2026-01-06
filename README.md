@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739ecae5a26614bb1b9dc6ad58" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [tiempo presente](https://open.spotify.com/track/1UCDNOSyjZXRc5X71YsFcg)**
-*by* **temcandoanything, 16:9 krollo ✥**
-*Album:* tiempo presente
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="239" height="4" fill="#1db954" rx="2"/>
-    <circle cx="239" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 1:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[signs](https://open.spotify.com/track/2qhUbEOlJU6aQMC6wsGwX5)** by **crusey, akkiro, deepinparis** *(signs)*
-🎤 **[PR4CT1CE M0D3](https://open.spotify.com/track/6Kdn5wTQBSee2TCB383SWl)** by **made1nfuture, Vee4r, sh1neo** *(PR4CT1CE M0D3)*
-🎤 **[elevated seltzer](https://open.spotify.com/track/7thf5G3pqAZTuhvHS91Ji2)** by **accessttt, DJmegan23** *(et blvd)*
-🎤 **[Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ)** by **teen*, whyhaze** *(Bleed Me Back to Yesterday)*
-🎤 **[DON'T CARE!](https://open.spotify.com/track/1SVzgzGkW5qrTzXhfuf1Ux)** by **kmrnxo, kets4eki** *(DON'T CARE!)*
+🎤 **[Demi Lovato](https://open.spotify.com/track/5oUxYtUuv8AgMPUMTPAsH8)** by **c4rl** *(Demi Lovato)*
+🎤 **[hollow - Sasuke Haraguchi Remix](https://open.spotify.com/track/2LDqNDNX5Kt9kJ0EfQ8m7U)** by **vai5000, nujioh, Sasuke Haraguchi** *(the you that remained)*
+🎤 **[LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)** by **Joji** *(LOVE YOU LESS)*
+🎤 **[stop the car](https://open.spotify.com/track/6QcCLs7DM7cDoheGYc9dTW)** by **Lil Peep, Horse Head** *(stop the car)*
+🎤 **[tiempo presente](https://open.spotify.com/track/1UCDNOSyjZXRc5X71YsFcg)** by **temcandoanything, 16:9 krollo ✥** *(tiempo presente)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 06:55:57Z UTC
+🕐 Last updated: 2026-01-06 07:21:38Z UTC
 <!-- SPOTIFY-END -->
