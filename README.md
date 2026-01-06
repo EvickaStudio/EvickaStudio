@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738f9a34b9d423c2c814a10b09" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)**
-*by* **Bladee, Ecco2k, Thaiboy Digital**
-*Album:* TL;DR
+**🎵 [Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)**
+*by* **DJmegan23**
+*Album:* Dopamine Machine 4
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
+    <rect width="7" height="4" fill="#1db954" rx="2"/>
+    <circle cx="7" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 3:04
+    0:02 • 1:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)*
-🎤 **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
-🎤 **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)*
-🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
-🎤 **[Castles](https://open.spotify.com/track/7camGp9HsgCNiBPQlXNkZQ)** by **Too Asian, Ghosu** *(Castles)*
+🎤 **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)*
+🎤 **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)*
+🎤 **[100 TAUSEND (Demo)](https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW)** by **Yung Hurn** *(100 TAUSEND (Demo))*
+🎤 **[Psychological Warfare](https://open.spotify.com/track/4TG6zBVoGuNr91qoty0dek)** by **uusymon** *(Arcadia)*
+🎤 **[ich hasse alles hier](https://open.spotify.com/track/51tVSCuPK6GyVWvlE3MDQR)** by **ilyproxy** *(ich hasse alles hier)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 21:13:55Z UTC
+🕐 Last updated: 2026-01-06 21:33:30Z UTC
 <!-- SPOTIFY-END -->
