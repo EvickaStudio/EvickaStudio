@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27317ccf3d986c3addd22ce739b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu)**
+*by* **El Columpio Asesino, I Hate Models, Andre VII**
+*Album:* Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:30 • 6:11
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[IMMER (MIT MAKKO)](https://open.spotify.com/track/4FkFhmuX1rnAyZIp336AdB)** by **Ski Aggu, makko** *(Wilmersdorfs Kind)*
-🎤 **[What I Am](https://open.spotify.com/track/0RO36kWlFqkLeVauFhHZbQ)** by **Edie Brickell & New Bohemians** *(Girls And Guitars)*
-🎤 **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)*
-🎤 **[FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ)** by **pluko** *(FALLING)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
+🎤 **[MAKRODOSIS](https://open.spotify.com/track/5kL34ylUADm4lTPuLpLe2K)** by **Ski Aggu, Dj Schinkensuppe** *(2022 war film gewesen)*
+🎤 **[Oh Mein Gott - Bovskey Version](https://open.spotify.com/track/5JgS2ssMZJd1OniIu4De7p)** by **Souly, overshiaat, Bovskey** *(Oh Mein Gott (Bovskey Version))*
+🎤 **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)*
+🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
+🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 19:49:33Z UTC
+🕐 Last updated: 2026-01-06 20:15:44Z UTC
 <!-- SPOTIFY-END -->
