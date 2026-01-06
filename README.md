@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)**
-*by* **Radiohead**
-*Album:* In Rainbows
+**🎵 [CUT](https://open.spotify.com/track/2hCFo7Rd91GyhyamQgrV3b)**
+*by* **Panchiko**
+*Album:* D>E>A>T>H>M>E>T>A>L
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:17 • 3:48
+    2:30 • 4:53
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
-🎤 **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
-🎤 **[Well I Wonder - 2011 Remaster](https://open.spotify.com/track/3OS4XXm4S42pnESQmtN9MG)** by **The Smiths** *(Meat Is Murder)*
-🎤 **[Sea, Swallow Me - 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB)** by **Cocteau Twins, Harold Budd** *(The Moon and the Melodies (2024 Remaster))*
-🎤 **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)*
+🎤 **[She Will Destroy You](https://open.spotify.com/track/2cWc4NJ2WYAZllS4VWFcHs)** by **Cocteau Twins, Harold Budd** *(The Moon and the Melodies)*
+🎤 **[Tu Tu Neurotic](https://open.spotify.com/track/07n9sk2MGDjw0SHrSaxmog)** by **The Hellp** *(Vol. 1)*
+🎤 **[This Time](https://open.spotify.com/track/2JVwpyoYcLz8h9sUocMPh9)** by **LSD and the Search for God** *(LSD and the Search for God)*
+🎤 **[Machine Gun](https://open.spotify.com/track/1wXJjKJy5Pt38Bu3tUzTUL)** by **Slowdive** *(Souvlaki)*
+🎤 **[I Wanted You to Feel the Same](https://open.spotify.com/track/1BdovansNUKOu0ZrmZAqGj)** by **The Radio Dept.** *(Pet Grief)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-05 23:48:59Z UTC
+🕐 Last updated: 2026-01-06 01:06:41Z UTC
 <!-- SPOTIFY-END -->
