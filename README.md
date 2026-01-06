@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27331ae1538d8ec5bd293f64601" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739ecae5a26614bb1b9dc6ad58" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx)**
-*by* **ESPRIT 空想, George Clanton**
-*Album:* Virtua.Zip
+**🎵 [tiempo presente](https://open.spotify.com/track/1UCDNOSyjZXRc5X71YsFcg)**
+*by* **temcandoanything, 16:9 krollo ✥**
+*Album:* tiempo presente
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="25" height="4" fill="#1db954" rx="2"/>
-    <circle cx="25" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 3:30
+    1:11 • 1:29
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[That Joke Isn't Funny Anymore](https://open.spotify.com/track/48veRDsAEBOJJnVnnabV99)** by **The Smiths** *(Meat Is Murder)*
-🎤 **[Tears Of Clown](https://open.spotify.com/track/56d708pQEb3rtXa3dXOjb9)** by **Gigi Masin** *(Wind)*
-🎤 **[Debold](https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j)** by **Vegyn** *(Only Diamonds Cut Diamonds)*
-🎤 **[I Wear Your Ring](https://open.spotify.com/track/20nCwr4GiOZ02PVePsuLEd)** by **Cocteau Twins** *(Heaven or Las Vegas)*
-🎤 **[Dozen](https://open.spotify.com/track/7FoVZCTSLY9gQ2vqIURPcg)** by **Alison's Halo** *(Eyedazzler)*
+🎤 **[signs](https://open.spotify.com/track/2qhUbEOlJU6aQMC6wsGwX5)** by **crusey, akkiro, deepinparis** *(signs)*
+🎤 **[PR4CT1CE M0D3](https://open.spotify.com/track/6Kdn5wTQBSee2TCB383SWl)** by **made1nfuture, Vee4r, sh1neo** *(PR4CT1CE M0D3)*
+🎤 **[elevated seltzer](https://open.spotify.com/track/7thf5G3pqAZTuhvHS91Ji2)** by **accessttt, DJmegan23** *(et blvd)*
+🎤 **[Bleed Me Back to Yesterday](https://open.spotify.com/track/71WJmUixhnhTGZAFoIKfqZ)** by **teen*, whyhaze** *(Bleed Me Back to Yesterday)*
+🎤 **[DON'T CARE!](https://open.spotify.com/track/1SVzgzGkW5qrTzXhfuf1Ux)** by **kmrnxo, kets4eki** *(DON'T CARE!)*
 
 
 
@@ -129,8 +129,8 @@
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
 🏅 [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-06 06:23:04Z UTC
+🕐 Last updated: 2026-01-06 06:55:57Z UTC
 <!-- SPOTIFY-END -->
