@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
-🎤 **[Moon & Stars (feat. Maggie Lindemann)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu)** by **$NOT, Maggie Lindemann** *(- TRAGEDY +)*
-🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
-🎤 **[Television / So Far So Good](https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI)** by **Rex Orange County** *(Apricot Princess)*
+🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
+🎤 **[found it (demo)](https://open.spotify.com/track/6Z05nc6InGk7Rz0ni3Vp2i)** by **Estrada** *(found it (demo))*
+🎤 **[Falkor's Return](https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ)** by **Indecorum** *(Sanctus)*
+🎤 **[MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T)** by **347aidan** *(TROUBLED MEMORIES!)*
+🎤 **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 06:22:54Z UTC
+🕐 Last updated: 2026-01-07 06:55:13Z UTC
 <!-- SPOTIFY-END -->
