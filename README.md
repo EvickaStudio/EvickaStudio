@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738127f8e463044bbc9cb955fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27318e4c2913a55fa0de4d2a0a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)**
-*by* **Mori Mori**
-*Album:* BB Void
+**🎵 [Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)**
+*by* **smokedope2016**
+*Album:* THE PEAK
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="30" height="4" fill="#1db954" rx="2"/>
-    <circle cx="30" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:20 • 3:18
+    0:08 • 3:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Another One](https://open.spotify.com/track/6bfb9FFi7ImvHecPGBXQHE)** by **Vialice** *(Talk When Were Okay, Pt.1)*
+🎤 **[vintage cartier](https://open.spotify.com/track/4QGN4wLWk0r1aUideW29wq)** by **bliiiss, Cold Hart** *(vintage cartier)*
+🎤 **[tell me sum](https://open.spotify.com/track/1FLQl0S623XpQ3CmDqmqdj)** by **bronclair** *(tell me sum)*
+🎤 **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)*
 🎤 **[Last Party](https://open.spotify.com/track/5IAHJ6tpXeVvaLrwV0wmlT)** by **Nokia Angel** *(In Haze)*
-🎤 **[2016LYFE](https://open.spotify.com/track/6KbcIJ8jrc8LY3S2WjHsiA)** by **smokedope2016** *(2016LYFE)*
-🎤 **[Dolce Vita](https://open.spotify.com/track/3P06JqvwK94qA5lR3k1WEn)** by **myspacemark** *(Dolce Vita)*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[#control](https://open.spotify.com/track/283RxAmSsiaATzg5FXSFuH)** by **bronclair** *(#control)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 19:38:37Z UTC
+🕐 Last updated: 2026-01-07 19:49:05Z UTC
 <!-- SPOTIFY-END -->
