@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dd30fcbd5d7fa6ccb531cf6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27339aebfaa0122065f4d026e65" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hilflos vor dir](https://open.spotify.com/track/73MO7cp01ZVfxuv7Pvr1U1)**
-*by* **diggidaniel**
-*Album:* Hilflos vor dir
+**🎵 [HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)**
+*by* **Yung Hurn, EN6O**
+*Album:* CRAZY HORSE CLUB MIXTAPE, VOL. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="227" height="4" fill="#1db954" rx="2"/>
+    <circle cx="227" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 3:04
+    1:52 • 2:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Von ganz weit weg](https://open.spotify.com/track/1Eh4LQx2XVw3Z9CCzd7Vt3)** by **strangerperson** *(Von ganz weit weg)*
-🎤 **[99 in Flammen](https://open.spotify.com/track/21LoDVx8Gx6u48UZcqr8VV)** by **NEUNUNDNEUNZIG, Saiya Tiaw, Nicki Papa** *(99 in dein Herz)*
-🎤 **[Sommer in Berlin - 1,1x Speed](https://open.spotify.com/track/0S0gj5Ch3ev4Atub4SSHi5)** by **Gabriel** *(Sommer in Berlin (Extended EP))*
-🎤 **[ildx2 - sped up](https://open.spotify.com/track/3DwZekmoDuP2EgNVz8Qfdx)** by **Lil Keen** *(ildx2)*
-🎤 **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)*
+🎤 **[ZUCKER](https://open.spotify.com/track/42KHw2IzhzrXPB5tegUpDh)** by **TYM** *(ZUCKER)*
+🎤 **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)*
+🎤 **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)*
+🎤 **[Baby Blizzard](https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN)** by **Baby B3ns** *(Baby Blizzard)*
+🎤 **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 16:20:20Z UTC
+🕐 Last updated: 2026-01-07 16:53:38Z UTC
 <!-- SPOTIFY-END -->
