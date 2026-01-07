@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f36fe70c3901f5a7c3eca2e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736750769a5a0cdd2602cc13f3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dirrt Angel](https://open.spotify.com/track/3xXcSmmI8heZYRpUh3TNM3)**
-*by* **Rooster**
-*Album:* Rooster Slipped
+**🎵 [honest](https://open.spotify.com/track/0aRnGbUFhlKaaxnwJllI6b)**
+*by* **Diegointhedark**
+*Album:* honest
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 2:24
+    1:29 • 2:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
+🎤 **[Two Drugs](https://open.spotify.com/track/63gIsaLPei3J9OIYQnGsAC)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
+🎤 **[ZOEY 101 (feat. Marlon DuBois)](https://open.spotify.com/track/59g1PN6JyGF9VvqBRik7aq)** by **smokedope2016, Marlon DuBois** *(XTC)*
+🎤 **[Dirrt Angel](https://open.spotify.com/track/3xXcSmmI8heZYRpUh3TNM3)** by **Rooster** *(Rooster Slipped)*
 🎤 **[my Baddd](https://open.spotify.com/track/5mjabn9wlJT33dzjedfRjk)** by **kuru** *(Stay true forever)*
-🎤 **[9](https://open.spotify.com/track/3z2JBxvf4pEvev0WqQLysx)** by **Diegointhedark** *(9)*
-🎤 **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by **Nokia Angel** *(Born Angel)*
-🎤 **[Timezones](https://open.spotify.com/track/59BfCWIHlY0HOte28olOhM)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
-🎤 **[KNICKS IN 2013](https://open.spotify.com/track/7a12y8qT43yVwjZkm5EmNa)** by **smokedope2016** *(XTC)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 21:39:39Z UTC
+🕐 Last updated: 2026-01-07 21:50:35Z UTC
 <!-- SPOTIFY-END -->
