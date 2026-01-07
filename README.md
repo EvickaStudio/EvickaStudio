@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f8c819cd8e9bec52cef7031" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c0f7b1bc951484aca05d04f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [dia](https://open.spotify.com/track/63rNa2LPFgP8D6i7lFCeJY)**
-*by* **Diegointhedark**
-*Album:* dia
+**🎵 [↑ ↓ ← →](https://open.spotify.com/track/6jIebsNHoPbpObPlpQm9Gr)**
+*by* **Harto Falión**
+*Album:* ↑ ↓ ← →
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="237" height="4" fill="#1db954" rx="2"/>
-    <circle cx="237" cy="2" r="6" fill="#1db954"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 2:00
+    1:35 • 1:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
+🎤 **[dia](https://open.spotify.com/track/63rNa2LPFgP8D6i7lFCeJY)** by **Diegointhedark** *(dia)*
 🎤 **[Dirty Heaven](https://open.spotify.com/track/3KuOTtn9EvrU9EglbysKZK)** by **Nokia Angel** *(Born Angel)*
 🎤 **[Draft Night](https://open.spotify.com/track/4vGw0Z3WsFg0FLR4SQypvI)** by **smokedope2016** *(THE PEAK)*
 🎤 **[true_ς๏ɭ๏ยг](https://open.spotify.com/track/6PO5C5YEsDTdMGt0BGusXo)** by **jequya** *(kulyaimo)*
-🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[control yourselfv2](https://open.spotify.com/track/5a5fGeDnz1gWYgFeRWjQRD)** by **caponeti** *(control yourselfv2)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 18:54:41Z UTC
+🕐 Last updated: 2026-01-07 19:15:20Z UTC
 <!-- SPOTIFY-END -->
