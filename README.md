@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732ee1bc42000bca9b70fb9718" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Giuseppe](https://open.spotify.com/track/2Mls3J8FDADD8Y8INz6toB)**
-*by* **myspacemark**
-*Album:* Giuseppe
+**🎵 [moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)**
+*by* **Levi Ryan**
+*Album:* southern comfort EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="78" height="4" fill="#1db954" rx="2"/>
-    <circle cx="78" cy="2" r="6" fill="#1db954"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:10
+    0:05 • 4:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lil Angel Rose rosesfallonme](https://open.spotify.com/track/0c8b6mEWviEBODT2Klz3Fr)** by **AngelMayCry** *(Lil Angel Rose)*
-🎤 **[Face it](https://open.spotify.com/track/08o5xsgbmZ70zOwGoAGPdz)** by **bronclair** *(Face it)*
-🎤 **[All Your Faces](https://open.spotify.com/track/3mKe7pLdShaRYEpqwMI92M)** by **Nokia Angel** *(Born Angel)*
-🎤 **[Nike](https://open.spotify.com/track/4M2Po5WCdGQvQoHx2Q9oIG)** by **smokedope2016** *(2016)*
-🎤 **[stay_solid_foriver](https://open.spotify.com/track/01SQUsMp1tKgZUzzttfLrD)** by **Harto Falión, evilgiane** *(Im_my_worst_enemy)*
+🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
+🎤 **[girlfriend](https://open.spotify.com/track/1OLxrls2lcQrBCdFEuWXPk)** by **Diegointhedark** *(girlfriend)*
+🎤 **[Pished](https://open.spotify.com/track/1IIyy88hNBfJfL2nPTm4NQ)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
+🎤 **[High](https://open.spotify.com/track/2MamqPEyU1zRjjQvlk5gOj)** by **smokedope2016** *(THE COMEUP)*
+🎤 **[tragic!](https://open.spotify.com/track/1hvTgYnbZAVDzSKxxCgnI2)** by **diegointhedark archive** *(tragic!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 20:16:26Z UTC
+🕐 Last updated: 2026-01-07 20:45:01Z UTC
 <!-- SPOTIFY-END -->
