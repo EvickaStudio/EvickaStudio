@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318e4c2913a55fa0de4d2a0a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732ee1bc42000bca9b70fb9718" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)**
-*by* **smokedope2016**
-*Album:* THE PEAK
+**🎵 [Giuseppe](https://open.spotify.com/track/2Mls3J8FDADD8Y8INz6toB)**
+*by* **myspacemark**
+*Album:* Giuseppe
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+    <rect width="78" height="4" fill="#1db954" rx="2"/>
+    <circle cx="78" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:08 • 3:15
+    0:34 • 2:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Another One](https://open.spotify.com/track/6bfb9FFi7ImvHecPGBXQHE)** by **Vialice** *(Talk When Were Okay, Pt.1)*
-🎤 **[vintage cartier](https://open.spotify.com/track/4QGN4wLWk0r1aUideW29wq)** by **bliiiss, Cold Hart** *(vintage cartier)*
-🎤 **[tell me sum](https://open.spotify.com/track/1FLQl0S623XpQ3CmDqmqdj)** by **bronclair** *(tell me sum)*
-🎤 **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)*
-🎤 **[Last Party](https://open.spotify.com/track/5IAHJ6tpXeVvaLrwV0wmlT)** by **Nokia Angel** *(In Haze)*
+🎤 **[Lil Angel Rose rosesfallonme](https://open.spotify.com/track/0c8b6mEWviEBODT2Klz3Fr)** by **AngelMayCry** *(Lil Angel Rose)*
+🎤 **[Face it](https://open.spotify.com/track/08o5xsgbmZ70zOwGoAGPdz)** by **bronclair** *(Face it)*
+🎤 **[All Your Faces](https://open.spotify.com/track/3mKe7pLdShaRYEpqwMI92M)** by **Nokia Angel** *(Born Angel)*
+🎤 **[Nike](https://open.spotify.com/track/4M2Po5WCdGQvQoHx2Q9oIG)** by **smokedope2016** *(2016)*
+🎤 **[stay_solid_foriver](https://open.spotify.com/track/01SQUsMp1tKgZUzzttfLrD)** by **Harto Falión, evilgiane** *(Im_my_worst_enemy)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 19:49:05Z UTC
+🕐 Last updated: 2026-01-07 20:16:26Z UTC
 <!-- SPOTIFY-END -->
