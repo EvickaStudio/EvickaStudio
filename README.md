@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735734a79f1f9db08cb5410514" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Nachts wach](https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA)**
+*by* **Miksu / Macloud, makko**
+*Album:* Nachts wach
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:17 • 2:58
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[run & hide](https://open.spotify.com/track/240NdkbYaWty4hQKO0iNzJ)** by **Scarekrow, 3ri.xs, Pretty Demon Association** *(run & hide)*
-🎤 **[you could of just said sorry but here we are](https://open.spotify.com/track/2F84Nl1oUo9fKMHiEClJW3)** by **blackwinterwells, Psych, hateoryx** *(you could of just said sorry but here we are)*
-🎤 **[freak](https://open.spotify.com/track/7ykMQghEDSZJaGylq5QISp)** by **Kasl Lur, Nokia Angel** *(fractal weapon)*
-🎤 **[5 star hotel](https://open.spotify.com/track/04I8rYrYcrqX9mBlzINr6W)** by **Luvpurp, Punkinloveee, Holy Mountain** *(5 star hotel)*
-🎤 **[sanitize](https://open.spotify.com/track/1KMQFSJouOVnSJ0kzbyiFp)** by **Goochems** *(sanitize)*
+🎤 **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)*
+🎤 **[We Are The People - southstar Remix](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC)** by **Empire Of The Sun, southstar** *(We Are The People (southstar Remix))*
+🎤 **[IMMER (MIT MAKKO)](https://open.spotify.com/track/4FkFhmuX1rnAyZIp336AdB)** by **Ski Aggu, makko** *(Wilmersdorfs Kind)*
+🎤 **[Wenn Du weinst](https://open.spotify.com/track/5vulYgy2aOyY1RU2fok77p)** by **Lostboi Lino** *(Lost Tape)*
+🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 14:47:39Z UTC
+🕐 Last updated: 2026-01-07 15:16:50Z UTC
 <!-- SPOTIFY-END -->
