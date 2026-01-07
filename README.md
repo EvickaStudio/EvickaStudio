@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734f8c819cd8e9bec52cef7031" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)**
-*by* **Levi Ryan**
-*Album:* southern comfort EP
+**🎵 [dia](https://open.spotify.com/track/63rNa2LPFgP8D6i7lFCeJY)**
+*by* **Diegointhedark**
+*Album:* dia
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:52 • 3:08
+    1:35 • 2:00
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
-🎤 **[Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)** by **smokedope2016, Nokia Angel** *(Sleep)*
-🎤 **[Oceandrive](https://open.spotify.com/track/4lEH3p8zuIFovhgKTSvXEz)** by **Ghostfacekush, smokedope2016** *(Oceandrive)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
+🎤 **[Dirty Heaven](https://open.spotify.com/track/3KuOTtn9EvrU9EglbysKZK)** by **Nokia Angel** *(Born Angel)*
+🎤 **[Draft Night](https://open.spotify.com/track/4vGw0Z3WsFg0FLR4SQypvI)** by **smokedope2016** *(THE PEAK)*
+🎤 **[true_ς๏ɭ๏ยг](https://open.spotify.com/track/6PO5C5YEsDTdMGt0BGusXo)** by **jequya** *(kulyaimo)*
+🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[control yourselfv2](https://open.spotify.com/track/5a5fGeDnz1gWYgFeRWjQRD)** by **caponeti** *(control yourselfv2)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 18:21:35Z UTC
+🕐 Last updated: 2026-01-07 18:54:41Z UTC
 <!-- SPOTIFY-END -->
