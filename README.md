@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ee1624c308bdecd8fc15db2e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273aa966c5b28692fd8452d930a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wespenstich](https://open.spotify.com/track/3Z1WmO2s4mscNTuInYTTZy)**
-*by* **Leocardo DiNaprio**
-*Album:* wespenstich
+**🎵 [Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)**
+*by* **Traumatin**
+*Album:* Genug
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 3:44
+    0:47 • 2:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Melancholie](https://open.spotify.com/track/4Fr73atqXXu7OJCYkPM4A4)** by **Kilian Knight** *(Melancholie)*
-🎤 **[supersex pt. 1](https://open.spotify.com/track/22nBYqBuKjkXK825LL25vL)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[Alles brennt](https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO)** by **TEMMIS** *(Alles brennt)*
-🎤 **[fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)** by **stixz** *(fashionscars)*
-🎤 **[zu viel on my mind](https://open.spotify.com/track/6T1GA7doGAKom1CjS4GgWG)** by **makko, Kev Koko** *(Leb es oder lass es 2)*
+🎤 **[Klinge](https://open.spotify.com/track/2NCcaUGmPpvotD51FbATLv)** by **TEMMIS** *(Klinge)*
+🎤 **[Airpods](https://open.spotify.com/track/5ZQOmnGy7Jly6iGVrFxQ8J)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
+🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
+🎤 **[Rosen](https://open.spotify.com/track/2510XEaMmCWWBN0GsD8ONx)** by **Kilian Knight** *(Rosen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 17:19:53Z UTC
+🕐 Last updated: 2026-01-07 17:47:51Z UTC
 <!-- SPOTIFY-END -->
