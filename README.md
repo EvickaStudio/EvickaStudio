@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aa966c5b28692fd8452d930a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Genug](https://open.spotify.com/track/35WEQeBs0JvKsqEnmNueU9)**
-*by* **Traumatin**
-*Album:* Genug
+**🎵 [joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)**
+*by* **Levi Ryan**
+*Album:* southern comfort EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="91" height="4" fill="#1db954" rx="2"/>
-    <circle cx="91" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:37
+    2:52 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Klinge](https://open.spotify.com/track/2NCcaUGmPpvotD51FbATLv)** by **TEMMIS** *(Klinge)*
-🎤 **[Airpods](https://open.spotify.com/track/5ZQOmnGy7Jly6iGVrFxQ8J)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
-🎤 **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)*
-🎤 **[sommerluft](https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS)** by **Leocardo DiNaprio** *(sommerluft)*
-🎤 **[Rosen](https://open.spotify.com/track/2510XEaMmCWWBN0GsD8ONx)** by **Kilian Knight** *(Rosen)*
+🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
+🎤 **[Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)** by **smokedope2016, Nokia Angel** *(Sleep)*
+🎤 **[Oceandrive](https://open.spotify.com/track/4lEH3p8zuIFovhgKTSvXEz)** by **Ghostfacekush, smokedope2016** *(Oceandrive)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
+🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 17:47:51Z UTC
+🕐 Last updated: 2026-01-07 18:21:35Z UTC
 <!-- SPOTIFY-END -->
