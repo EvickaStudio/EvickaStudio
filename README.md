@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737bd6d19688a1260fc25afe5a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f36fe70c3901f5a7c3eca2e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [on my mind](https://open.spotify.com/track/4nomvL0SgjLWQhAG8kMXgd)**
-*by* **Diegointhedark**
-*Album:* on my mind
+**🎵 [Dirrt Angel](https://open.spotify.com/track/3xXcSmmI8heZYRpUh3TNM3)**
+*by* **Rooster**
+*Album:* Rooster Slipped
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:09
+    2:04 • 2:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[In My Head](https://open.spotify.com/track/2zDR3NVEyxfnjo8YXfHlWt)** by **Nokia Angel** *(In My Head)*
-🎤 **[Tylenol](https://open.spotify.com/track/2RThDYhdCyB15JH9vx4MvE)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
-🎤 **[Ball Out](https://open.spotify.com/track/3F3EFifX6vdv6SMHmEA43g)** by **smokedope2016** *(THE COMEUP)*
-🎤 **[Grey Goose](https://open.spotify.com/track/64pgtbHqwDbR953P9bgXyd)** by **myspacemark** *(stay stetti)*
-🎤 **[I HATE MYSELF](https://open.spotify.com/track/16MaWh7FJYfwtcFLPkGdun)** by **Sematary, Ghost Mountain** *(HAUNT-O-HOLIXXX THE MIXTAPE)*
+🎤 **[my Baddd](https://open.spotify.com/track/5mjabn9wlJT33dzjedfRjk)** by **kuru** *(Stay true forever)*
+🎤 **[9](https://open.spotify.com/track/3z2JBxvf4pEvev0WqQLysx)** by **Diegointhedark** *(9)*
+🎤 **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by **Nokia Angel** *(Born Angel)*
+🎤 **[Timezones](https://open.spotify.com/track/59BfCWIHlY0HOte28olOhM)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
+🎤 **[KNICKS IN 2013](https://open.spotify.com/track/7a12y8qT43yVwjZkm5EmNa)** by **smokedope2016** *(XTC)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 21:18:11Z UTC
+🕐 Last updated: 2026-01-07 21:39:39Z UTC
 <!-- SPOTIFY-END -->
