@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737ed02c2537c4c00de58fa415" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731dace90b75bd1e2b311d4947" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Waste Walker - Snow Strippers Remix](https://open.spotify.com/track/0NmJPk2C4WydG5oAYDY0my)**
-*by* **Eera, Snow Strippers**
-*Album:* Cant Stop Wasting Time
+**🎵 [stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)**
+*by* **mint**
+*Album:* stay with me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="267" height="4" fill="#1db954" rx="2"/>
-    <circle cx="267" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 2:57
+    0:27 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[under those jeans](https://open.spotify.com/track/2I01Iy3PTew42JaLNl6NBK)** by **RudeClub** *(rudeclub)*
-🎤 **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)*
-🎤 **[kaiser syndrom](https://open.spotify.com/track/49bSzaPOfz5ISN7FZzDlaz)** by **5v, juuhnkpop** *(kaiser syndrom)*
-🎤 **[next time](https://open.spotify.com/track/71F1QgHn7275Wp5FRSI9dW)** by **bliiiss, Buffalobang** *(next time)*
-🎤 **[FIGHT BACK](https://open.spotify.com/track/1qarfXfon25kY3XnQkfVCV)** by **occisor** *(FIGHT BACK)*
+🎤 **[uns/мы](https://open.spotify.com/track/22VBfROYpe6sj7s2Zn1Q6f)** by **joram, PIA OVA** *(uns/мы)*
+🎤 **[Across the City](https://open.spotify.com/track/6zInXxig4eqMawJ6rmI057)** by **Plymhides** *(Across the City)*
+🎤 **[I'm just trynna fuck](https://open.spotify.com/track/2KIlOe5wQqxztQcJB8shem)** by **RudeClub** *(rudeclub)*
+🎤 **[3012](https://open.spotify.com/track/55TKyV9Vy9AhoEtacRp5B3)** by **Pearlblade** *(3012)*
+🎤 **[deja vu](https://open.spotify.com/track/7kEwz5YWfOU9M6bwxrJJHJ)** by **Sean Pitaro** *(reverie)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 11:49:37Z UTC
+🕐 Last updated: 2026-01-07 12:29:58Z UTC
 <!-- SPOTIFY-END -->
