@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dace90b75bd1e2b311d4947" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)**
-*by* **mint**
-*Album:* stay with me
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 2:49
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[uns/мы](https://open.spotify.com/track/22VBfROYpe6sj7s2Zn1Q6f)** by **joram, PIA OVA** *(uns/мы)*
-🎤 **[Across the City](https://open.spotify.com/track/6zInXxig4eqMawJ6rmI057)** by **Plymhides** *(Across the City)*
-🎤 **[I'm just trynna fuck](https://open.spotify.com/track/2KIlOe5wQqxztQcJB8shem)** by **RudeClub** *(rudeclub)*
-🎤 **[3012](https://open.spotify.com/track/55TKyV9Vy9AhoEtacRp5B3)** by **Pearlblade** *(3012)*
-🎤 **[deja vu](https://open.spotify.com/track/7kEwz5YWfOU9M6bwxrJJHJ)** by **Sean Pitaro** *(reverie)*
+🎤 **[run & hide](https://open.spotify.com/track/240NdkbYaWty4hQKO0iNzJ)** by **Scarekrow, 3ri.xs, Pretty Demon Association** *(run & hide)*
+🎤 **[you could of just said sorry but here we are](https://open.spotify.com/track/2F84Nl1oUo9fKMHiEClJW3)** by **blackwinterwells, Psych, hateoryx** *(you could of just said sorry but here we are)*
+🎤 **[freak](https://open.spotify.com/track/7ykMQghEDSZJaGylq5QISp)** by **Kasl Lur, Nokia Angel** *(fractal weapon)*
+🎤 **[5 star hotel](https://open.spotify.com/track/04I8rYrYcrqX9mBlzINr6W)** by **Luvpurp, Punkinloveee, Holy Mountain** *(5 star hotel)*
+🎤 **[sanitize](https://open.spotify.com/track/1KMQFSJouOVnSJ0kzbyiFp)** by **Goochems** *(sanitize)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 12:29:58Z UTC
+🕐 Last updated: 2026-01-07 13:21:44Z UTC
 <!-- SPOTIFY-END -->
