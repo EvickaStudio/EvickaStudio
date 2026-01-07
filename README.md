@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c0f7b1bc951484aca05d04f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738127f8e463044bbc9cb955fe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [↑ ↓ ← →](https://open.spotify.com/track/6jIebsNHoPbpObPlpQm9Gr)**
-*by* **Harto Falión**
-*Album:* ↑ ↓ ← →
+**🎵 [Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)**
+*by* **Mori Mori**
+*Album:* BB Void
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="30" height="4" fill="#1db954" rx="2"/>
+    <circle cx="30" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 1:58
+    0:20 • 3:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)*
-🎤 **[dia](https://open.spotify.com/track/63rNa2LPFgP8D6i7lFCeJY)** by **Diegointhedark** *(dia)*
-🎤 **[Dirty Heaven](https://open.spotify.com/track/3KuOTtn9EvrU9EglbysKZK)** by **Nokia Angel** *(Born Angel)*
-🎤 **[Draft Night](https://open.spotify.com/track/4vGw0Z3WsFg0FLR4SQypvI)** by **smokedope2016** *(THE PEAK)*
-🎤 **[true_ς๏ɭ๏ยг](https://open.spotify.com/track/6PO5C5YEsDTdMGt0BGusXo)** by **jequya** *(kulyaimo)*
+🎤 **[Last Party](https://open.spotify.com/track/5IAHJ6tpXeVvaLrwV0wmlT)** by **Nokia Angel** *(In Haze)*
+🎤 **[2016LYFE](https://open.spotify.com/track/6KbcIJ8jrc8LY3S2WjHsiA)** by **smokedope2016** *(2016LYFE)*
+🎤 **[Dolce Vita](https://open.spotify.com/track/3P06JqvwK94qA5lR3k1WEn)** by **myspacemark** *(Dolce Vita)*
+🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
+🎤 **[#control](https://open.spotify.com/track/283RxAmSsiaATzg5FXSFuH)** by **bronclair** *(#control)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 19:15:20Z UTC
+🕐 Last updated: 2026-01-07 19:38:37Z UTC
 <!-- SPOTIFY-END -->
