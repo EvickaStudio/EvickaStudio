@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)*
 🎤 **[honest](https://open.spotify.com/track/0aRnGbUFhlKaaxnwJllI6b)** by **Diegointhedark** *(honest)*
 🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
 🎤 **[Two Drugs](https://open.spotify.com/track/63gIsaLPei3J9OIYQnGsAC)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
 🎤 **[ZOEY 101 (feat. Marlon DuBois)](https://open.spotify.com/track/59g1PN6JyGF9VvqBRik7aq)** by **smokedope2016, Marlon DuBois** *(XTC)*
-🎤 **[Dirrt Angel](https://open.spotify.com/track/3xXcSmmI8heZYRpUh3TNM3)** by **Rooster** *(Rooster Slipped)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 22:52:47Z UTC
+🕐 Last updated: 2026-01-07 23:14:21Z UTC
 <!-- SPOTIFY-END -->
