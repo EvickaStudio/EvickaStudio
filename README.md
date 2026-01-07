@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c1505c7c45b62c52e5b7d2c5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)**
-*by* **Levi Ryan**
-*Album:* southern comfort EP
+**🎵 [Im Dancing](https://open.spotify.com/track/7hieOOJygsG1J0x5KO802g)**
+*by* **Vialice**
+*Album:* Talk When Were Okay, Pt. 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="275" height="4" fill="#1db954" rx="2"/>
+    <circle cx="275" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:05 • 4:30
+    2:06 • 2:17
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Mobile (feat. Marlon Dubois)](https://open.spotify.com/track/2ytVS4UWEayH5XxpyaJ57H)** by **smokedope2016, Marlon DuBois** *(2016)*
+🎤 **[Gangstalkers](https://open.spotify.com/track/2Z0B7Px7O86QNKgaFNURyb)** by **Shadow Wizard Money Gang, smokedope2016, Xhris2Eazy** *(5K1NW4LK3R)*
+🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
 🎤 **[Pass Out](https://open.spotify.com/track/6JSo9PA6slUhnmepPhlk2B)** by **Nokia Angel** *(Pass Out)*
 🎤 **[girlfriend](https://open.spotify.com/track/1OLxrls2lcQrBCdFEuWXPk)** by **Diegointhedark** *(girlfriend)*
-🎤 **[Pished](https://open.spotify.com/track/1IIyy88hNBfJfL2nPTm4NQ)** by **Vialice** *(Talk When Were Okay, Pt. 2)*
-🎤 **[High](https://open.spotify.com/track/2MamqPEyU1zRjjQvlk5gOj)** by **smokedope2016** *(THE COMEUP)*
-🎤 **[tragic!](https://open.spotify.com/track/1hvTgYnbZAVDzSKxxCgnI2)** by **diegointhedark archive** *(tragic!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-07 20:45:01Z UTC
+🕐 Last updated: 2026-01-07 20:57:16Z UTC
 <!-- SPOTIFY-END -->
