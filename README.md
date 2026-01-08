@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b457bb4f0155fa5bc2194735" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27363506b734df695b6ec4aedbe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i dnt wna c u gone](https://open.spotify.com/track/0lZMVzxibmbN7nE0yf8g4L)**
-*by* **Mezha**
-*Album:* i dnt wna c u gone
+**🎵 [crushed](https://open.spotify.com/track/1ZR2rqTsD7r8mmOoQTWzB2)**
+*by* **syris**
+*Album:* midnite
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="215" height="4" fill="#1db954" rx="2"/>
-    <circle cx="215" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:32
+    0:59 • 1:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48, Luvange1** *(change us)*
-🎤 **[N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)** by **flywoah** *(N3ver Do)*
-🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **KidSnorlax, hateoryx** *(angelRavegirl)*
-🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
-🎤 **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)*
+🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
+🎤 **[One 4 Me](https://open.spotify.com/track/5P3R5WzQPlaPtfPqpDKlY0)** by **hydrakuma13, willowcore** *(One 4 Me)*
+🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)*
+🎤 **[luvbite](https://open.spotify.com/track/4Tac8dmH6yRV48s2n6CoEB)** by **korpsebunny** *(luvbite)*
+🎤 **[superstars](https://open.spotify.com/track/4ttbOgP7fHj7O344S84zh5)** by **Mezha, snor** *(superstars)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-08 11:51:09Z UTC
+🕐 Last updated: 2026-01-08 12:30:15Z UTC
 <!-- SPOTIFY-END -->
