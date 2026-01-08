@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
 🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
 🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
 🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-08 21:34:49Z UTC
+🕐 Last updated: 2026-01-08 21:51:01Z UTC
 <!-- SPOTIFY-END -->
