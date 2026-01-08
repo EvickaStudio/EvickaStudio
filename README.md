@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273180702c347e782c190b55e4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736803fd42234c6e133cd170e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [holy water](https://open.spotify.com/track/6Y3U39GJqoovFlLrytDGCB)**
-*by* **KidSnorlax**
-*Album:* holy water
+**🎵 [attachment issues](https://open.spotify.com/track/14jDw43krGvfuChI1Zqt1d)**
+*by* **dollreal, 9surgery**
+*Album:* attachment issues
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="173" height="4" fill="#1db954" rx="2"/>
-    <circle cx="173" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:01
+    1:56 • 2:07
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[relapse!!](https://open.spotify.com/track/3zQwsJ10D9oqiOZ3TXZpbb)** by **HAR$h, ilymeow** *(relapse!!)*
-🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
-🎤 **[toxic ✮](https://open.spotify.com/track/4glwPOmSZN6gRo0teEab0n)** by **dolldamage** *(toxic ✮)*
-🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
-🎤 **[share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)** by **Mezha** *(share)*
+🎤 **[i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)** by **Caspr, oaf1** *(i can't find oaf1)*
+🎤 **[skirt](https://open.spotify.com/track/2ABiGAsZ2j8dUPg5sDYt8r)** by **Yandere** *(skirt)*
+🎤 **[i'm ur only xtc](https://open.spotify.com/track/5MetOmlGcYhXRPDTn3YGVf)** by **disoc8, wintr** *(i'm ur only xtc)*
+🎤 **[☾⋆⁺₊✧ mesmerized ✩♬ ₊˚](https://open.spotify.com/track/5i6sHU8H8yjiIRxefCcWMX)** by **whyhaze, lexycat** *(☾⋆⁺₊✧ mesmerized ✩♬ ₊˚)*
+🎤 **[Telephone](https://open.spotify.com/track/173oCRuE5CCCiG2XSzxUQH)** by **Elxnce, Cece Natalie** *(Ridgeway Drive / Blurred Sentimentality)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-08 13:22:54Z UTC
+🕐 Last updated: 2026-01-08 13:55:36Z UTC
 <!-- SPOTIFY-END -->
