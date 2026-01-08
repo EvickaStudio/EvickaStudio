@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c90c3314e1fa87832764c370" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e0839142f28594ef9f9b3d7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [pretend we're forgotten](https://open.spotify.com/track/5oU0IMngPTn3zyuVgmZRe3)**
-*by* **caponeti**
-*Album:* pretend we're forgotten
+**🎵 [live for me](https://open.spotify.com/track/5UOFuADiZrPLiaTFPYZo8x)**
+*by* **crusey**
+*Album:* live for me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="193" height="4" fill="#1db954" rx="2"/>
+    <circle cx="193" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 1:26
+    2:02 • 3:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Missed Out](https://open.spotify.com/track/3P0QYpmBFkXeFFSo1kgVj9)** by **flywoah** *(Missed Out)*
-🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
-🎤 **[all my fault](https://open.spotify.com/track/2b07aJJY5XnkVs3eaTjXLm)** by **Fijimar** *(all my fault)*
-🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
-🎤 **[Beautiful (Like You)](https://open.spotify.com/track/2XLqcQlbu8kTtMfdOYuC8k)** by **whyhaze** *(Beautiful (Like You))*
+🎤 **[Heartstrings](https://open.spotify.com/track/2O82azYzkUcjuL7Owt1oW1)** by **whyhaze, Luvpurp** *(Heartstrings)*
+🎤 **[the final betrayal](https://open.spotify.com/track/0rQ5FjslI9Mh1xyIKxDTFH)** by **caponeti** *(the final betrayal)*
+🎤 **[breakfast in bed](https://open.spotify.com/track/1Hv6EYfrsl4BKs43uBA4ks)** by **Fijimar** *(breakfast in bed)*
+🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
+🎤 **[Ki$$](https://open.spotify.com/track/6aSJcL50XtN0zLcEyNiGu1)** by **mol$, daredvl, DJmegan23** *(kyo 3)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-08 16:19:55Z UTC
+🕐 Last updated: 2026-01-08 16:54:02Z UTC
 <!-- SPOTIFY-END -->
