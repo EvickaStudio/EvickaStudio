@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e0839142f28594ef9f9b3d7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [live for me](https://open.spotify.com/track/5UOFuADiZrPLiaTFPYZo8x)**
-*by* **crusey**
-*Album:* live for me
+**🎵 [Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)**
+*by* **Crystal Castles**
+*Album:* Crystal Castles (II)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="193" height="4" fill="#1db954" rx="2"/>
-    <circle cx="193" cy="2" r="6" fill="#1db954"/>
+    <rect width="58" height="4" fill="#1db954" rx="2"/>
+    <circle cx="58" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 3:09
+    0:47 • 4:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Heartstrings](https://open.spotify.com/track/2O82azYzkUcjuL7Owt1oW1)** by **whyhaze, Luvpurp** *(Heartstrings)*
-🎤 **[the final betrayal](https://open.spotify.com/track/0rQ5FjslI9Mh1xyIKxDTFH)** by **caponeti** *(the final betrayal)*
-🎤 **[breakfast in bed](https://open.spotify.com/track/1Hv6EYfrsl4BKs43uBA4ks)** by **Fijimar** *(breakfast in bed)*
-🎤 **[hot pink](https://open.spotify.com/track/6zMgLzDOfW2tdFUds1bs3J)** by **bliiiss** *(hot pink)*
-🎤 **[Ki$$](https://open.spotify.com/track/6aSJcL50XtN0zLcEyNiGu1)** by **mol$, daredvl, DJmegan23** *(kyo 3)*
+🎤 **[Perfect Violation](https://open.spotify.com/track/5sUY2FPXJy1E2eZPBdT7AW)** by **Varg²™, Bladee** *(Evanescence (a Love Letter))*
+🎤 **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
+🎤 **[endearment vessel daki ~ cecilia 1 ~](https://open.spotify.com/track/7lA6tHFnLpXN8lOP57GCIX)** by **Junshi, whyhaze** *(endearment vessel daki ~ cecilia 1 ~)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-08 16:54:02Z UTC
+🕐 Last updated: 2026-01-08 17:21:08Z UTC
 <!-- SPOTIFY-END -->
