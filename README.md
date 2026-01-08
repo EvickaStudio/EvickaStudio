@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27363506b734df695b6ec4aedbe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273180702c347e782c190b55e4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [crushed](https://open.spotify.com/track/1ZR2rqTsD7r8mmOoQTWzB2)**
-*by* **syris**
-*Album:* midnite
+**🎵 [holy water](https://open.spotify.com/track/6Y3U39GJqoovFlLrytDGCB)**
+*by* **KidSnorlax**
+*Album:* holy water
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="153" height="4" fill="#1db954" rx="2"/>
-    <circle cx="153" cy="2" r="6" fill="#1db954"/>
+    <rect width="173" height="4" fill="#1db954" rx="2"/>
+    <circle cx="173" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 1:57
+    1:10 • 2:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Choices](https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD)** by **flywoah** *(Choices)*
-🎤 **[One 4 Me](https://open.spotify.com/track/5P3R5WzQPlaPtfPqpDKlY0)** by **hydrakuma13, willowcore** *(One 4 Me)*
-🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)*
-🎤 **[luvbite](https://open.spotify.com/track/4Tac8dmH6yRV48s2n6CoEB)** by **korpsebunny** *(luvbite)*
-🎤 **[superstars](https://open.spotify.com/track/4ttbOgP7fHj7O344S84zh5)** by **Mezha, snor** *(superstars)*
+🎤 **[relapse!!](https://open.spotify.com/track/3zQwsJ10D9oqiOZ3TXZpbb)** by **HAR$h, ilymeow** *(relapse!!)*
+🎤 **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)*
+🎤 **[toxic ✮](https://open.spotify.com/track/4glwPOmSZN6gRo0teEab0n)** by **dolldamage** *(toxic ✮)*
+🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
+🎤 **[share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)** by **Mezha** *(share)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-08 12:30:15Z UTC
+🕐 Last updated: 2026-01-08 13:22:54Z UTC
 <!-- SPOTIFY-END -->
