@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737deecd86d061d7d8ee4ddbce" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c90c3314e1fa87832764c370" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sanitize](https://open.spotify.com/track/2SBplRL9V79eq1ynUWLftz)**
-*by* **Goochems**
-*Album:* everlasting
+**🎵 [pretend we're forgotten](https://open.spotify.com/track/5oU0IMngPTn3zyuVgmZRe3)**
+*by* **caponeti**
+*Album:* pretend we're forgotten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:13 • 2:56
+    0:44 • 1:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Spirit Lounge](https://open.spotify.com/track/3eNl57aMTj85dCLTcF8kId)** by **heffy** *(Dolly Mithril)*
-🎤 **[Ur so wonderful o.0](https://open.spotify.com/track/2pbZHqy3Akcbdzi265Q72v)** by **whyhaze** *(Ur so wonderful o.0)*
-🎤 **[im never leaving the club again](https://open.spotify.com/track/3B5xWBPWtBHOfVfs7OaPmA)** by **caponeti** *(TLC)*
-🎤 **[intertwine](https://open.spotify.com/track/3GSUY0asoEJZ3wSdczEb86)** by **crusey** *(intertwine)*
-🎤 **[i adore you kitty](https://open.spotify.com/track/4pygMniTCwH41yXeAcPLjt)** by **bliiiss, Bigdog30k** *(2)*
+🎤 **[Missed Out](https://open.spotify.com/track/3P0QYpmBFkXeFFSo1kgVj9)** by **flywoah** *(Missed Out)*
+🎤 **[napalm](https://open.spotify.com/track/6ufP0mAubftnLsQXlGBWep)** by **bliiiss** *(napalm)*
+🎤 **[all my fault](https://open.spotify.com/track/2b07aJJY5XnkVs3eaTjXLm)** by **Fijimar** *(all my fault)*
+🎤 **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)*
+🎤 **[Beautiful (Like You)](https://open.spotify.com/track/2XLqcQlbu8kTtMfdOYuC8k)** by **whyhaze** *(Beautiful (Like You))*
 
 
 
@@ -139,9 +139,9 @@
 🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
 🥈 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 🥉 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
-🏅 [**Ingen hör**](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
+🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-08 15:47:02Z UTC
+🕐 Last updated: 2026-01-08 16:19:55Z UTC
 <!-- SPOTIFY-END -->
