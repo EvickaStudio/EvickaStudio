@@ -91,7 +91,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27391e4b80a52363ccf5e0f550e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [bleed](https://open.spotify.com/track/0YtvvNHLINJYN1hT6iPU8C)**
+*by* **Stxlkin**
+*Album:* bleed
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="8" height="4" fill="#1db954" rx="2"/>
+    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:05 • 3:03
+</span>
+</p>
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-08 07:19:00Z UTC
+🕐 Last updated: 2026-01-08 07:42:54Z UTC
 <!-- SPOTIFY-END -->
