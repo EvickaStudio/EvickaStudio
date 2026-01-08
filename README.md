@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739842a813153f59787192a649" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [And We Go](https://open.spotify.com/track/1bIaST1pmox6fEGof04Ve9)**
+*by* **S3RL, CODA, IC3MANIA**
+*Album:* And We Go
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="299" height="4" fill="#1db954" rx="2"/>
+    <circle cx="299" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:14 • 3:14
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
-🎤 **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)*
+🎤 **[Sacrum Profanum](https://open.spotify.com/track/0j5MfVguBHhaPTTk392GFi)** by **Esprit Clever, morecalcium, AstroWilk** *(NEFILIM)*
+🎤 **[signs](https://open.spotify.com/track/2qhUbEOlJU6aQMC6wsGwX5)** by **crusey, akkiro, deepinparis** *(signs)*
+🎤 **[Let's Go](https://open.spotify.com/track/3rB6xrTitUjcSx6Q2VZqWm)** by **Mourning Star, Psych** *(Let's Go)*
+🎤 **[vessel](https://open.spotify.com/track/5uFYmmvLjzHqPKMcFf8AXB)** by **k0d4m4, fake flowers** *(vessel)*
+🎤 **[PR4CT1CE M0D3](https://open.spotify.com/track/6Kdn5wTQBSee2TCB383SWl)** by **made1nfuture, Vee4r, sh1neo** *(PR4CT1CE M0D3)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-08 21:51:01Z UTC
+🕐 Last updated: 2026-01-08 22:14:08Z UTC
 <!-- SPOTIFY-END -->
