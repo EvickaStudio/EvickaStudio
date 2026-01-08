@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273057c0aed7ef99e923cd511a0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)**
-*by* **Nokia Angel, smokedope2016**
-*Album:* In Haze
+**🎵 [wolkendecke](https://open.spotify.com/track/7MS510fzAL7mIgbC2rd2NR)**
+*by* **Dropped here, Steppi**
+*Album:* wolkendecke
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="28" height="4" fill="#1db954" rx="2"/>
-    <circle cx="28" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 3:21
+    2:11 • 2:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Better Off Alone](https://open.spotify.com/track/1tBzHXf8IeRzcEDyNQGXNS)** by **mol$, Lusi, 240pearl** *(Rip+)*
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)*
-🎤 **[Wings](https://open.spotify.com/track/0umT61v364TKUPHdPzbYtP)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)*
+🎤 **[Scheiß auf eure Party](https://open.spotify.com/track/1Syhm4vkn6n2DYuFnyI60s)** by **Ufo361** *(Ich bin 2 Berliner)*
+🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
+🎤 **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-08 10:47:50Z UTC
+🕐 Last updated: 2026-01-08 11:14:43Z UTC
 <!-- SPOTIFY-END -->
