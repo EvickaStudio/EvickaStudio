@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731f79cc2e577e2e575a4e12fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27308591f6850cc8923fde21b03" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [TURN IT UP](https://open.spotify.com/track/7hIQNKAduFlX8Bufz0XMry)**
-*by* **Pearlblade, Clover!**
-*Album:* TURN IT UP
+**🎵 [boyfriend](https://open.spotify.com/track/3P6oALudO0vTG7I4gYt2MY)**
+*by* **may, wenszy**
+*Album:* boyfriend
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="31" height="4" fill="#1db954" rx="2"/>
+    <circle cx="31" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 2:03
+    0:16 • 2:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)** by **marchpane, PAXNKOXD** *(Rememoration)*
-🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
-🎤 **[FR41L G1RL](https://open.spotify.com/track/7IupsqoTB17BmgX8p66lvG)** by **Gutter Whore** *(FR41L G1RL)*
-🎤 **[offkey](https://open.spotify.com/track/0uJjvhrja2L1Y3mJMoYpeu)** by **vanity, stardante, Pr0xy** *(offkey)*
-🎤 **[BITE!](https://open.spotify.com/track/2vVPkftCrXZZnA9xf2gEsr)** by **vai5000, stephie** *(BITE!)*
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[blue](https://open.spotify.com/track/7J8N9pMGzFKwqLWmx1As4b)** by **flywoah** *(blue)*
+🎤 **[in my mind](https://open.spotify.com/track/3BlJbQhmGmLV5YvYLmXbQO)** by **Mezha** *(in my mind)*
+🎤 **[anesthetic love](https://open.spotify.com/track/7MOHJxihFbZ5dzhJYrCsBN)** by **bliiiss** *(anesthetic love)*
+🎤 **[KISS ME OR I WILL KMS](https://open.spotify.com/track/6O27CLVuBwhMgyTtnXh8WQ)** by **disoc8** *(KISS ME OR I WILL KMS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-08 14:49:59Z UTC
+🕐 Last updated: 2026-01-08 15:17:59Z UTC
 <!-- SPOTIFY-END -->
