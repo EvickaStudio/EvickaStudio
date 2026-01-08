@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736803fd42234c6e133cd170e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27374f19282747bcc3e361f2688" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [attachment issues](https://open.spotify.com/track/14jDw43krGvfuChI1Zqt1d)**
-*by* **dollreal, 9surgery**
-*Album:* attachment issues
+**🎵 [i know!!](https://open.spotify.com/track/4gkKOpa7XQ8cIkVSUcdjnI)**
+*by* **ilymeow**
+*Album:* i know!!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="272" height="4" fill="#1db954" rx="2"/>
-    <circle cx="272" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:07
+    1:03 • 1:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)** by **Caspr, oaf1** *(i can't find oaf1)*
-🎤 **[skirt](https://open.spotify.com/track/2ABiGAsZ2j8dUPg5sDYt8r)** by **Yandere** *(skirt)*
-🎤 **[i'm ur only xtc](https://open.spotify.com/track/5MetOmlGcYhXRPDTn3YGVf)** by **disoc8, wintr** *(i'm ur only xtc)*
-🎤 **[☾⋆⁺₊✧ mesmerized ✩♬ ₊˚](https://open.spotify.com/track/5i6sHU8H8yjiIRxefCcWMX)** by **whyhaze, lexycat** *(☾⋆⁺₊✧ mesmerized ✩♬ ₊˚)*
-🎤 **[Telephone](https://open.spotify.com/track/173oCRuE5CCCiG2XSzxUQH)** by **Elxnce, Cece Natalie** *(Ridgeway Drive / Blurred Sentimentality)*
+🎤 **[pills!](https://open.spotify.com/track/3bXRG8OSP8xTUr0WQBOJf0)** by **blackwinterwells, hateoryx, xofilo** *(pills!)*
+🎤 **[do addicts make it to heaven?](https://open.spotify.com/track/6SFTmpqVmYBtRC0NetFqYg)** by **disoc8, wintr** *(do addicts make it to heaven?)*
+🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
+🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
+🎤 **[2soon](https://open.spotify.com/track/21uWH48OIaXI61JzpKptrN)** by **hateoryx, blackwinterwells, KidSnorlax** *(2soon)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-08 13:55:36Z UTC
+🕐 Last updated: 2026-01-08 14:19:30Z UTC
 <!-- SPOTIFY-END -->
