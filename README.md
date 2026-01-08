@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27374f19282747bcc3e361f2688" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731f79cc2e577e2e575a4e12fc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i know!!](https://open.spotify.com/track/4gkKOpa7XQ8cIkVSUcdjnI)**
-*by* **ilymeow**
-*Album:* i know!!
+**🎵 [TURN IT UP](https://open.spotify.com/track/7hIQNKAduFlX8Bufz0XMry)**
+*by* **Pearlblade, Clover!**
+*Album:* TURN IT UP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:03 • 1:34
+    1:04 • 2:03
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pills!](https://open.spotify.com/track/3bXRG8OSP8xTUr0WQBOJf0)** by **blackwinterwells, hateoryx, xofilo** *(pills!)*
-🎤 **[do addicts make it to heaven?](https://open.spotify.com/track/6SFTmpqVmYBtRC0NetFqYg)** by **disoc8, wintr** *(do addicts make it to heaven?)*
-🎤 **[Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)** by **flywoah** *(Digital Watch)*
-🎤 **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)*
-🎤 **[2soon](https://open.spotify.com/track/21uWH48OIaXI61JzpKptrN)** by **hateoryx, blackwinterwells, KidSnorlax** *(2soon)*
+🎤 **[y0u.and.m3](https://open.spotify.com/track/5eM2juiJXciKFHGh9En4OI)** by **marchpane, PAXNKOXD** *(Rememoration)*
+🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
+🎤 **[FR41L G1RL](https://open.spotify.com/track/7IupsqoTB17BmgX8p66lvG)** by **Gutter Whore** *(FR41L G1RL)*
+🎤 **[offkey](https://open.spotify.com/track/0uJjvhrja2L1Y3mJMoYpeu)** by **vanity, stardante, Pr0xy** *(offkey)*
+🎤 **[BITE!](https://open.spotify.com/track/2vVPkftCrXZZnA9xf2gEsr)** by **vai5000, stephie** *(BITE!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-08 14:19:30Z UTC
+🕐 Last updated: 2026-01-08 14:49:59Z UTC
 <!-- SPOTIFY-END -->
