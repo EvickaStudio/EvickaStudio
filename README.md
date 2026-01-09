@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27332c3c92e582a4a37cc47bf2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27384717a676897cb0c319ad7c0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [hier und jetzt](https://open.spotify.com/track/5AEOJ124tyHcXl1uXxXLVC)**
-*by* **MotB, Monk, BHZ**
-*Album:* hier und jetzt
+**🎵 [reminiscence ~ love me, love me not](https://open.spotify.com/track/3KG3gXNVmMmWIaVoB8sf25)**
+*by* **may**
+*Album:* reminiscence ~ love me, love me not
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="181" height="4" fill="#1db954" rx="2"/>
-    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+    <rect width="19" height="4" fill="#1db954" rx="2"/>
+    <circle cx="19" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:57
+    0:12 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
+🎤 **[hier und jetzt](https://open.spotify.com/track/5AEOJ124tyHcXl1uXxXLVC)** by **MotB, Monk, BHZ** *(hier und jetzt)*
 🎤 **[Heaven - Parent Companyy remix](https://open.spotify.com/track/2z44DBtEAjSgM4lTTx0gCb)** by **DJmegan23, cranes, mental, Parent Companyy** *(M+ (Remixes))*
 🎤 **[Play Em Like Atari](https://open.spotify.com/track/0xsPbrdG0Vgkw8DVlseItK)** by **petrkovar, vic** *(Play Em Like Atari)*
 🎤 **[paparazzi](https://open.spotify.com/track/0EGsZb7hb3oeJXfGzG0d4g)** by **siouxxie sixxsta** *(witchpop)*
-🎤 **[wanna hook up](https://open.spotify.com/track/0GugHqvR98xDd8taCb5E5E)** by **skypebf, SUICIDAL-IDOL, RudeClub** *(wanna hook up)*
-🎤 **[you](https://open.spotify.com/track/0anov8tE2Mmo2hrOAFHXfm)** by **m1v** *(suicide letter to myself)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 07:43:31Z UTC
+🕐 Last updated: 2026-01-09 07:53:29Z UTC
 <!-- SPOTIFY-END -->
