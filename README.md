@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27332c3c92e582a4a37cc47bf2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [hier und jetzt](https://open.spotify.com/track/5AEOJ124tyHcXl1uXxXLVC)**
+*by* **MotB, Monk, BHZ**
+*Album:* hier und jetzt
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="181" height="4" fill="#1db954" rx="2"/>
+    <circle cx="181" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:47 • 2:57
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Griechischer Wein](https://open.spotify.com/track/2f8Hc0w7BpDtzwoa6BHKec)** by **Udo Jürgens** *(Meine Lieder)*
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
-🎤 **[VESSEL](https://open.spotify.com/track/1w3UJpzlSn6sqTc2Vw8PxA)** by **p6inkillr** *(VESSEL)*
-🎤 **[Alive - DJ HEARTSTRING Remix](https://open.spotify.com/track/0cz6nvlqemvTygR3Bwybls)** by **Empire Of The Sun, DJ HEARTSTRING** *(Alive (DJ HEARTSTRING Remix))*
-🎤 **[raver girl](https://open.spotify.com/track/7fC3uUYgUkFn0hjPfXvTM9)** by **vanity** *(raver girl)*
+🎤 **[Heaven - Parent Companyy remix](https://open.spotify.com/track/2z44DBtEAjSgM4lTTx0gCb)** by **DJmegan23, cranes, mental, Parent Companyy** *(M+ (Remixes))*
+🎤 **[Play Em Like Atari](https://open.spotify.com/track/0xsPbrdG0Vgkw8DVlseItK)** by **petrkovar, vic** *(Play Em Like Atari)*
+🎤 **[paparazzi](https://open.spotify.com/track/0EGsZb7hb3oeJXfGzG0d4g)** by **siouxxie sixxsta** *(witchpop)*
+🎤 **[wanna hook up](https://open.spotify.com/track/0GugHqvR98xDd8taCb5E5E)** by **skypebf, SUICIDAL-IDOL, RudeClub** *(wanna hook up)*
+🎤 **[you](https://open.spotify.com/track/0anov8tE2Mmo2hrOAFHXfm)** by **m1v** *(suicide letter to myself)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 07:20:06Z UTC
+🕐 Last updated: 2026-01-09 07:43:31Z UTC
 <!-- SPOTIFY-END -->
