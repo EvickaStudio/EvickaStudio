@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
-*by* **Tape Head, NONI, Goldroger**
-*Album:* Memento Mori
+**🎵 [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)**
+*by* **Chappell Roan**
+*Album:* The Rise and Fall of a Midwest Princess
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="212" height="4" fill="#1db954" rx="2"/>
-    <circle cx="212" cy="2" r="6" fill="#1db954"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 2:48
+    1:38 • 4:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
-🎤 **[Für Immer](https://open.spotify.com/track/6kfb0y1HaJXfILKMNpfGZJ)** by **Happysadgirl, Aexhy** *(Für Immer)*
-🎤 **[Essenz](https://open.spotify.com/track/5hC5y2QgVef1wyUS65WJtR)** by **strangerperson** *(Essenz)*
-🎤 **[Hier raus](https://open.spotify.com/track/0Fd0JnOcUNRqlrk2C2fDf5)** by **EASY EASY** *(Hier raus)*
-🎤 **[Love U](https://open.spotify.com/track/6HdD9VoQ3fz4mvQ6RRxGEk)** by **Razihel** *(Love U)*
+🎤 **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)*
+🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
+🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
+🎤 **[keiner könnte](https://open.spotify.com/track/1HSOwusn1V6Rj1es4iFrPQ)** by **5star** *(keiner könnte)*
+🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 13:52:54Z UTC
+🕐 Last updated: 2026-01-09 14:17:02Z UTC
 <!-- SPOTIFY-END -->
