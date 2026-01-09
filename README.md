@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27314e03b8b6d55d7aa29e3512e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27306608c873f04aff632e99d47" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i'm ur only xtc](https://open.spotify.com/track/5MetOmlGcYhXRPDTn3YGVf)**
-*by* **disoc8, wintr**
-*Album:* i'm ur only xtc
+**🎵 [Comin Down](https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp)**
+*by* **Snow Strippers**
+*Album:* Night Killaz Vol. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="279" height="4" fill="#1db954" rx="2"/>
-    <circle cx="279" cy="2" r="6" fill="#1db954"/>
+    <rect width="191" height="4" fill="#1db954" rx="2"/>
+    <circle cx="191" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 2:26
+    1:54 • 2:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[shadows!!](https://open.spotify.com/track/7rcCwPIx8BfoMZls7MLoaV)** by **ilymeow, Pearlblade** *(shadows!!)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[Colliding Walls](https://open.spotify.com/track/1nGvkQ9zz1YeAiWXabTYT1)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
-🎤 **[TKOHHH](https://open.spotify.com/track/4sFgDY8DsSWwC0SxnA7Phj)** by **yaego** *(ÆRO Vol. 2)*
+🎤 **[Various Types Of Ads](https://open.spotify.com/track/79VIJ0S4PAKXuvKpmfsBRD)** by **Rory in early 20s** *(Various Types Of Ads)*
+🎤 **[Einmal um die Welt](https://open.spotify.com/track/6gQAyT7B7cYGTRBOiFdQUS)** by **CRO** *(Raop)*
+🎤 **[Venus As A Boy](https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ)** by **Björk** *(Debut)*
+🎤 **[Television / So Far So Good](https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI)** by **Rex Orange County** *(Apricot Princess)*
+🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 18:21:13Z UTC
+🕐 Last updated: 2026-01-09 18:52:58Z UTC
 <!-- SPOTIFY-END -->
