@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d7056912922902095245b73d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a07494bff5f5eeeb999111d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Vegan (mit TRVGERMVTO) by Kinaro](https://open.spotify.com/track/6dGZk8i34eB62xSNp7Gf41)**
-*by* **pulsi, TRVGERMVTO, Kinaro, 4ORTYFREE**
-*Album:* Vegan (mit TRVGERMVTO) by Kinaro
+**🎵 [Rottweiler Welpe](https://open.spotify.com/track/16whV4IXCwGuspfB2ybu1P)**
+*by* **fliggsy**
+*Album:* No Comment
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 1:33
+    1:00 • 1:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[we can get lost again](https://open.spotify.com/track/37K12ydvMbbdRLZUnzXjNK)** by **SHEMYYY** *(we can get lost again)*
-🎤 **[besser ist](https://open.spotify.com/track/756JRA8nmuEckCKDGU1R3X)** by **Hello Hannes** *(felt cute might kill myself later)*
-🎤 **[Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F)** by **A$AP Rocky** *(Punk Rocky)*
-🎤 **[Hocus Pocus](https://open.spotify.com/track/5eDRMpS9RxwxcO0rCIsbig)** by **Esprit Clever, morecalcium, ZA.JA, AstroWilk** *(NEFILIM)*
-🎤 **[Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F)** by **A$AP Rocky** *(Punk Rocky)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
+🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
+🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
+🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
+🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 09:48:02Z UTC
+🕐 Last updated: 2026-01-09 10:15:34Z UTC
 <!-- SPOTIFY-END -->
