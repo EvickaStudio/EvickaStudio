@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27369dfde83984990b8e807ca44" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [I Crash, U Crash](https://open.spotify.com/track/5AAJRP3wdEuY4dO4cLrEEq)**
-*by* **Vénia**
-*Album:* I Crash, U Crash
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="161" height="4" fill="#1db954" rx="2"/>
-    <circle cx="161" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:22 • 2:33
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
-🎤 **[Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9)** by **FiNCH** *(Dorfdisko)*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
-🎤 **[You & Me - Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ)** by **Disclosure, Eliza Doolittle, Flume** *(Settle (Special Edition))*
-🎤 **[maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)** by **Closed on Sunday** *(maul lofi ~ star wars)*
+🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[Back To You](https://open.spotify.com/track/77eiPtr5OCFnb5CGvGwfsT)** by **S3RL, Walras, REGINA** *(Back To You)*
+🎤 **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))*
+🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
+🎤 **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 11:49:04Z UTC
+🕐 Last updated: 2026-01-09 12:28:51Z UTC
 <!-- SPOTIFY-END -->
