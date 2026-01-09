@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e8c0189e9a0710224110bfb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)**
-*by* **Snow Strippers**
-*Album:* The Snow Strippers
+**🎵 [pedobear›⩊‹](https://open.spotify.com/track/0Wq8gZGBZZ5Npn9CBdRa8g)**
+*by* **тёмный принц**
+*Album:* мрачные треды
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:43
+    0:03 • 1:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[End of the Night](https://open.spotify.com/track/56XVxIZaxSiBg2QTnD7iw1)** by **Baby Jane** *(A Grave Marked Strange)*
-🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
-🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
+🎤 **[распять - folk remix](https://open.spotify.com/track/3jINdvTOF3PHlQouWbJ3rA)** by **stel11a, plateexx** *(распять (folk remix))*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 16:21:23Z UTC
+🕐 Last updated: 2026-01-09 16:51:29Z UTC
 <!-- SPOTIFY-END -->
