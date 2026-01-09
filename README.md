@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)*
 🎤 **[reminiscence ~ love me, love me not](https://open.spotify.com/track/3KG3gXNVmMmWIaVoB8sf25)** by **may** *(reminiscence ~ love me, love me not)*
 🎤 **[ionwnacri](https://open.spotify.com/track/15a4G06zQmr1yPtdIvDME9)** by **KidSnorlax, hateoryx, blackwinterwells** *(ionwnacri)*
 🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
 🎤 **[hier und jetzt](https://open.spotify.com/track/5AEOJ124tyHcXl1uXxXLVC)** by **MotB, Monk, BHZ** *(hier und jetzt)*
-🎤 **[Heaven - Parent Companyy remix](https://open.spotify.com/track/2z44DBtEAjSgM4lTTx0gCb)** by **DJmegan23, cranes, mental, Parent Companyy** *(M+ (Remixes))*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 08:51:56Z UTC
+🕐 Last updated: 2026-01-09 09:20:48Z UTC
 <!-- SPOTIFY-END -->
