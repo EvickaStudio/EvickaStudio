@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27381a3294d8cb52667c8701e6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)**
-*by* **Santigold**
-*Album:* Master of My Make-Believe
+**🎵 [Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)**
+*by* **Snow Strippers**
+*Album:* The Snow Strippers
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="178" height="4" fill="#1db954" rx="2"/>
-    <circle cx="178" cy="2" r="6" fill="#1db954"/>
+    <rect width="111" height="4" fill="#1db954" rx="2"/>
+    <circle cx="111" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:49 • 4:44
+    1:01 • 2:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[welcome and goodbye](https://open.spotify.com/track/00RLNHc2jkEjUoCUlFgPVT)** by **Dream, Ivory** *(welcome and goodbye)*
-🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
-🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
-🎤 **[Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a)** by **$uicideboy$** *(THY WILL BE DONE)*
-🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
+🎤 **[End of the Night](https://open.spotify.com/track/56XVxIZaxSiBg2QTnD7iw1)** by **Baby Jane** *(A Grave Marked Strange)*
+🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
+🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
+🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
+🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 15:56:28Z UTC
+🕐 Last updated: 2026-01-09 16:21:23Z UTC
 <!-- SPOTIFY-END -->
