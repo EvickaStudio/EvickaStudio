@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)**
-*by* **Chappell Roan**
-*Album:* The Rise and Fall of a Midwest Princess
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:38 • 4:18
-</span>
-</p>
+❌ Error fetching now playing track.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
-🎤 **[keiner könnte](https://open.spotify.com/track/1HSOwusn1V6Rj1es4iFrPQ)** by **5star** *(keiner könnte)*
-🎤 **[geist](https://open.spotify.com/track/2AWA8s5MInRb6QyZs9RVMS)** by **5v** *(geist)*
+🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
+🎤 **[sag mir wenn du down bist](https://open.spotify.com/track/1RmVTgoEgKaa20xM8T8S0f)** by **5v** *(sag mir wenn du down bist)*
+🎤 **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 14:17:02Z UTC
+🕐 Last updated: 2026-01-09 14:46:48Z UTC
 <!-- SPOTIFY-END -->
