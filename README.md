@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27350f166cce1d1b77f30489333" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273d5324a8c6b04b442746b4d74" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)**
-*by* **snor, Myojin**
-*Album:* always pick u #avemaria </33 :c
+**🎵 [Allein Allein](https://open.spotify.com/track/4HyJ1VGNu3IszMV0sTsqKP)**
+*by* **Polarkreis 18**
+*Album:* The Colour Of Snow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 2:15
+    3:10 • 4:00
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm)** by **DVRST** *(I Hate You I Love You)*
-🎤 **[SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla)** by **Varg²™, Bladee, Escha, Ytem** *(SHINIE)*
-🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
-🎤 **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
+🎤 **[Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6)** by **Design19** *(Trigger)*
+🎤 **[UNDER CONTROL](https://open.spotify.com/track/1OGiBWp2vKLshpIWRlySc2)** by **funeral** *(UNDER CONTROL)*
+🎤 **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)*
+🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
+🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 19:14:54Z UTC
+🕐 Last updated: 2026-01-09 19:31:33Z UTC
 <!-- SPOTIFY-END -->
