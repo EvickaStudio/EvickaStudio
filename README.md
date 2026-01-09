@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730871783de5e014c604c15e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27314e03b8b6d55d7aa29e3512e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Tropical Remix](https://open.spotify.com/track/2LE68RMpXjzqHiiFrF7zSP)**
-*by* **fakemink, EsDeeKid**
-*Album:* Tropical Remix
+**🎵 [i'm ur only xtc](https://open.spotify.com/track/5MetOmlGcYhXRPDTn3YGVf)**
+*by* **disoc8, wintr**
+*Album:* i'm ur only xtc
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="87" height="4" fill="#1db954" rx="2"/>
-    <circle cx="87" cy="2" r="6" fill="#1db954"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 1:43
+    2:16 • 2:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Together](https://open.spotify.com/track/0RwSkUIgsowQ6MU1NNVSA7)** by **Ruff Sqwad** *(White Label Classics)*
-🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
-🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/4tdv3spzS6ZhdlxV9xVx3O)** by **DANZINGER 99** *(Hotel+++)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[shadows!!](https://open.spotify.com/track/7rcCwPIx8BfoMZls7MLoaV)** by **ilymeow, Pearlblade** *(shadows!!)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[Colliding Walls](https://open.spotify.com/track/1nGvkQ9zz1YeAiWXabTYT1)** by **Snow Strippers** *(The Snow Strippers)*
+🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
+🎤 **[TKOHHH](https://open.spotify.com/track/4sFgDY8DsSWwC0SxnA7Phj)** by **yaego** *(ÆRO Vol. 2)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 17:54:50Z UTC
+🕐 Last updated: 2026-01-09 18:21:13Z UTC
 <!-- SPOTIFY-END -->
