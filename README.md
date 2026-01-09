@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fc6eef9b111d87e57b4b10cc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c065b19327eeb67457ad9d03" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)**
-*by* **Two Door Cinema Club**
-*Album:* Tourist History
+**🎵 [maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)**
+*by* **Closed on Sunday**
+*Album:* maul lofi ~ star wars
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 3:09
+    0:14 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
-🎤 **[Symbolism](https://open.spotify.com/track/2RQWB4Asy1rjZL4IUcJ7kn)** by **Electro-Light** *(Symbolism)*
-🎤 **[Alpha](https://open.spotify.com/track/3Gtha3Fwdu0yqpphxjXiTo)** by **Tevvez** *(Alpha)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
-🎤 **[Teufel](https://open.spotify.com/track/503SCbKk3X6DpOVJE3L93v)** by **Miese Mau** *(Verbrecher)*
+🎤 **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))*
+🎤 **[Приглашение-Сыктывкар-Club "HOST" 16.02.2013](https://open.spotify.com/track/5xE2kDm44jMLNFlTvfYGjk)** by **Gio Pika** *(Избранное)*
+🎤 **[NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)** by **sighsare** *(NOTHIN TO SHOW)*
+🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
+🎤 **[Toro - I Hate Models Speed Up Revival Edit of Andre VII RMX](https://open.spotify.com/track/7KnVy00zIJyFcsAIV1KWBT)** by **El Columpio Asesino, I Hate Models, Andre VII** *(Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 11:13:19Z UTC
+🕐 Last updated: 2026-01-09 11:31:42Z UTC
 <!-- SPOTIFY-END -->
