@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737e041a457bd312e73440532a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27381a3294d8cb52667c8701e6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)**
-*by* **Bladee**
-*Album:* Icedancer
+**🎵 [Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)**
+*by* **Santigold**
+*Album:* Master of My Make-Believe
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="178" height="4" fill="#1db954" rx="2"/>
+    <circle cx="178" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:07
+    2:49 • 4:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)*
-🎤 **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)*
-🎤 **[:UNLOCKEd](https://open.spotify.com/track/6z1QY4oQ9hAr9dPZUolBei)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)*
-🎤 **[KIPP DIE PINT WEG](https://open.spotify.com/track/4yixxq2OOA8U5erwYCXZ4z)** by **mikeycyrus** *(KIPP DIE PINT WEG)*
+🎤 **[welcome and goodbye](https://open.spotify.com/track/00RLNHc2jkEjUoCUlFgPVT)** by **Dream, Ivory** *(welcome and goodbye)*
+🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
+🎤 **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)*
+🎤 **[Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a)** by **$uicideboy$** *(THY WILL BE DONE)*
+🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 15:44:15Z UTC
+🕐 Last updated: 2026-01-09 15:56:28Z UTC
 <!-- SPOTIFY-END -->
