@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a07494bff5f5eeeb999111d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273267ad157f7bad96822a3d196" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rottweiler Welpe](https://open.spotify.com/track/16whV4IXCwGuspfB2ybu1P)**
-*by* **fliggsy**
-*Album:* No Comment
+**🎵 [ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)**
+*by* **RYLO**
+*Album:* ich wollte gar nicht sein, wer ich gerade bin
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="232" height="4" fill="#1db954" rx="2"/>
+    <circle cx="232" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:00 • 1:58
+    2:09 • 2:47
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
-🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
-🎤 **[Diva](https://open.spotify.com/track/4prQwPkejfbJjWFgpuZWJP)** by **James Jetski** *(Diva)*
-🎤 **[Regina](https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr)** by **SSIEGE** *(Fading Summer)*
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
+🎤 **[форева](https://open.spotify.com/track/3THzrFBk7SFzWWSh3Giuq0)** by **источник** *(так я в детстве все и представлял)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by **Edwin Rosen** *(mitleerenhänden)*
+🎤 **[Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2)** by **Alex G, Emily Yacina** *(Treehouse)*
+🎤 **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)*
+🎤 **[kaputt](https://open.spotify.com/track/10oTMRWrupuon8SUnvp4C1)** by **5v** *(kaputt)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 10:15:34Z UTC
+🕐 Last updated: 2026-01-09 10:46:40Z UTC
 <!-- SPOTIFY-END -->
