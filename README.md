@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d7056912922902095245b73d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Vegan (mit TRVGERMVTO) by Kinaro](https://open.spotify.com/track/6dGZk8i34eB62xSNp7Gf41)**
+*by* **pulsi, TRVGERMVTO, Kinaro, 4ORTYFREE**
+*Album:* Vegan (mit TRVGERMVTO) by Kinaro
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:46 • 1:33
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)*
-🎤 **[reminiscence ~ love me, love me not](https://open.spotify.com/track/3KG3gXNVmMmWIaVoB8sf25)** by **may** *(reminiscence ~ love me, love me not)*
-🎤 **[ionwnacri](https://open.spotify.com/track/15a4G06zQmr1yPtdIvDME9)** by **KidSnorlax, hateoryx, blackwinterwells** *(ionwnacri)*
-🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
-🎤 **[hier und jetzt](https://open.spotify.com/track/5AEOJ124tyHcXl1uXxXLVC)** by **MotB, Monk, BHZ** *(hier und jetzt)*
+🎤 **[we can get lost again](https://open.spotify.com/track/37K12ydvMbbdRLZUnzXjNK)** by **SHEMYYY** *(we can get lost again)*
+🎤 **[besser ist](https://open.spotify.com/track/756JRA8nmuEckCKDGU1R3X)** by **Hello Hannes** *(felt cute might kill myself later)*
+🎤 **[Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F)** by **A$AP Rocky** *(Punk Rocky)*
+🎤 **[Hocus Pocus](https://open.spotify.com/track/5eDRMpS9RxwxcO0rCIsbig)** by **Esprit Clever, morecalcium, ZA.JA, AstroWilk** *(NEFILIM)*
+🎤 **[Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F)** by **A$AP Rocky** *(Punk Rocky)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 09:20:48Z UTC
+🕐 Last updated: 2026-01-09 09:48:02Z UTC
 <!-- SPOTIFY-END -->
