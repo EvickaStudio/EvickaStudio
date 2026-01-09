@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736751f50cb1decaf7075074e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Universo Espectral](https://open.spotify.com/track/6NBFHiXz479opY3zo8mt32)**
-*by* **DJ AGD, F.A.B. flyingalienboy**
-*Album:* Universo Espectral
+**🎵 [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)**
+*by* **Radiohead**
+*Album:* In Rainbows
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 2:54
+    1:53 • 3:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)*
+🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
+🎤 **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)*
+🎤 **[Universo Espectral](https://open.spotify.com/track/6NBFHiXz479opY3zo8mt32)** by **DJ AGD, F.A.B. flyingalienboy** *(Universo Espectral)*
 🎤 **[Lá Miedra - Super Slowed](https://open.spotify.com/track/5v3TtJPctmajwQrL6rHqRS)** by **Raiden, SKYVER** *(Lá Miedra)*
-🎤 **[FALL FROM THE SKY PT. 2](https://open.spotify.com/track/7tBfGvT74zlqZ8RHQkBSz0)** by **RomancePlanet, STAKILLAZ** *(FALL FROM THE SKY PT. 2)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
-🎤 **[terrifier](https://open.spotify.com/track/6mUVSg3wrJXhC09UuljaLf)** by **disoc8, Gutzxx** *(terrifier)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 20:44:00Z UTC
+🕐 Last updated: 2026-01-09 20:55:15Z UTC
 <!-- SPOTIFY-END -->
