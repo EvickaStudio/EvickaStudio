@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730871783de5e014c604c15e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)**
-*by* **Edwin Rosen**
-*Album:* Die Sterne
+**🎵 [Tropical Remix](https://open.spotify.com/track/2LE68RMpXjzqHiiFrF7zSP)**
+*by* **fakemink, EsDeeKid**
+*Album:* Tropical Remix
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="97" height="4" fill="#1db954" rx="2"/>
-    <circle cx="97" cy="2" r="6" fill="#1db954"/>
+    <rect width="87" height="4" fill="#1db954" rx="2"/>
+    <circle cx="87" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:51
+    0:30 • 1:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Together](https://open.spotify.com/track/0RwSkUIgsowQ6MU1NNVSA7)** by **Ruff Sqwad** *(White Label Classics)*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 🎤 **[ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/4tdv3spzS6ZhdlxV9xVx3O)** by **DANZINGER 99** *(Hotel+++)*
 🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)*
-🎤 **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)*
-🎤 **[Streets of LA](https://open.spotify.com/track/2OSIh8VgntNZMlEdeTazXm)** by **Ayesha Erotica** *(Streets of LA)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 17:44:24Z UTC
+🕐 Last updated: 2026-01-09 17:54:50Z UTC
 <!-- SPOTIFY-END -->
