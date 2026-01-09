@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730e8c0189e9a0710224110bfb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27325f8c4c52c63b8d99a8a23b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [pedobear›⩊‹](https://open.spotify.com/track/0Wq8gZGBZZ5Npn9CBdRa8g)**
-*by* **тёмный принц**
-*Album:* мрачные треды
+**🎵 [Rummelplatz](https://open.spotify.com/track/4YAAU6fRUHINAvPVNyx4NM)**
+*by* **Money Boy**
+*Album:* The Lost Tape III
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="13" height="4" fill="#1db954" rx="2"/>
-    <circle cx="13" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:03 • 1:23
+    1:11 • 2:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)*
-🎤 **[распять - folk remix](https://open.spotify.com/track/3jINdvTOF3PHlQouWbJ3rA)** by **stel11a, plateexx** *(распять (folk remix))*
-🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
+🎤 **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)*
+🎤 **[Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP)** by **Roy Bianco & Die Abbrunzati Boys** *(Mille Grazie)*
+🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
+🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 16:51:29Z UTC
+🕐 Last updated: 2026-01-09 17:17:33Z UTC
 <!-- SPOTIFY-END -->
