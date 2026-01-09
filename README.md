@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736751f50cb1decaf7075074e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)**
-*by* **Kanye West, Kid Cudi, Raekwon**
-*Album:* My Beautiful Dark Twisted Fantasy
+**🎵 [Universo Espectral](https://open.spotify.com/track/6NBFHiXz479opY3zo8mt32)**
+*by* **DJ AGD, F.A.B. flyingalienboy**
+*Album:* Universo Espectral
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="236" height="4" fill="#1db954" rx="2"/>
-    <circle cx="236" cy="2" r="6" fill="#1db954"/>
+    <rect width="227" height="4" fill="#1db954" rx="2"/>
+    <circle cx="227" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:41 • 5:57
+    2:12 • 2:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
-🎤 **[Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0)** by **Cage The Elephant** *(Melophobia)*
-🎤 **[LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY)** by **Joji** *(LOVE YOU LESS)*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
-🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[Lá Miedra - Super Slowed](https://open.spotify.com/track/5v3TtJPctmajwQrL6rHqRS)** by **Raiden, SKYVER** *(Lá Miedra)*
+🎤 **[FALL FROM THE SKY PT. 2](https://open.spotify.com/track/7tBfGvT74zlqZ8RHQkBSz0)** by **RomancePlanet, STAKILLAZ** *(FALL FROM THE SKY PT. 2)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[Dance!](https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7)** by **平田志穂子, Lotus Juice** *(ペルソナ4 ダンシング・オールナイト オリジナル・サウンドトラック (ADVANCED CD付 COLLECTOR'S EDITION))*
+🎤 **[terrifier](https://open.spotify.com/track/6mUVSg3wrJXhC09UuljaLf)** by **disoc8, Gutzxx** *(terrifier)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 20:16:20Z UTC
+🕐 Last updated: 2026-01-09 20:44:00Z UTC
 <!-- SPOTIFY-END -->
