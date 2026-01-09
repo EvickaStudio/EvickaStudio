@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273267ad157f7bad96822a3d196" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fc6eef9b111d87e57b4b10cc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)**
-*by* **RYLO**
-*Album:* ich wollte gar nicht sein, wer ich gerade bin
+**🎵 [What You Know](https://open.spotify.com/track/4JHg4nNYUJQ5HULcCmI18R)**
+*by* **Two Door Cinema Club**
+*Album:* Tourist History
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="232" height="4" fill="#1db954" rx="2"/>
-    <circle cx="232" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:47
+    1:28 • 3:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[форева](https://open.spotify.com/track/3THzrFBk7SFzWWSh3Giuq0)** by **источник** *(так я в детстве все и представлял)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/4NyjMdxKotgNOCraPfobdE)** by **Edwin Rosen** *(mitleerenhänden)*
-🎤 **[Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2)** by **Alex G, Emily Yacina** *(Treehouse)*
-🎤 **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)*
-🎤 **[kaputt](https://open.spotify.com/track/10oTMRWrupuon8SUnvp4C1)** by **5v** *(kaputt)*
+🎤 **[When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
+🎤 **[Symbolism](https://open.spotify.com/track/2RQWB4Asy1rjZL4IUcJ7kn)** by **Electro-Light** *(Symbolism)*
+🎤 **[Alpha](https://open.spotify.com/track/3Gtha3Fwdu0yqpphxjXiTo)** by **Tevvez** *(Alpha)*
+🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
+🎤 **[Teufel](https://open.spotify.com/track/503SCbKk3X6DpOVJE3L93v)** by **Miese Mau** *(Verbrecher)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 10:46:40Z UTC
+🕐 Last updated: 2026-01-09 11:13:19Z UTC
 <!-- SPOTIFY-END -->
