@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c065b19327eeb67457ad9d03" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27369dfde83984990b8e807ca44" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)**
-*by* **Closed on Sunday**
-*Album:* maul lofi ~ star wars
+**🎵 [I Crash, U Crash](https://open.spotify.com/track/5AAJRP3wdEuY4dO4cLrEEq)**
+*by* **Vénia**
+*Album:* I Crash, U Crash
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="161" height="4" fill="#1db954" rx="2"/>
+    <circle cx="161" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:14 • 2:25
+    1:22 • 2:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))*
-🎤 **[Приглашение-Сыктывкар-Club "HOST" 16.02.2013](https://open.spotify.com/track/5xE2kDm44jMLNFlTvfYGjk)** by **Gio Pika** *(Избранное)*
-🎤 **[NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)** by **sighsare** *(NOTHIN TO SHOW)*
-🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
-🎤 **[Toro - I Hate Models Speed Up Revival Edit of Andre VII RMX](https://open.spotify.com/track/7KnVy00zIJyFcsAIV1KWBT)** by **El Columpio Asesino, I Hate Models, Andre VII** *(Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX))*
+🎤 **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)*
+🎤 **[Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9)** by **FiNCH** *(Dorfdisko)*
+🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
+🎤 **[You & Me - Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ)** by **Disclosure, Eliza Doolittle, Flume** *(Settle (Special Edition))*
+🎤 **[maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)** by **Closed on Sunday** *(maul lofi ~ star wars)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 11:31:42Z UTC
+🕐 Last updated: 2026-01-09 11:49:04Z UTC
 <!-- SPOTIFY-END -->
