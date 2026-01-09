@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737fd40b0dbe1e4869155459e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cfb657ea3fa3d6a4c4c54250" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Pirouette](https://open.spotify.com/track/2mpagL8oTLAhOVLEAb2TvD)**
-*by* **Lil Narnia**
-*Album:* Wisteria
+**🎵 [Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)**
+*by* **Tape Head, NONI, Goldroger**
+*Album:* Memento Mori
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+    <rect width="212" height="4" fill="#1db954" rx="2"/>
+    <circle cx="212" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 2:29
+    1:58 • 2:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst)** by **BEVN** *(Best Friend)*
-🎤 **[tired of getting high](https://open.spotify.com/track/52TOojHbPAw5w1LwIRCNXs)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)*
-🎤 **[Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)** by **Central Sonic** *(Club Scenes - Psytrance)*
-🎤 **[Led](https://open.spotify.com/track/1Z1aThbHMDqxQt8RgwQEae)** by **GOTOU寄生獣, OmenXIII** *(Led)*
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
+🎤 **[Für Immer](https://open.spotify.com/track/6kfb0y1HaJXfILKMNpfGZJ)** by **Happysadgirl, Aexhy** *(Für Immer)*
+🎤 **[Essenz](https://open.spotify.com/track/5hC5y2QgVef1wyUS65WJtR)** by **strangerperson** *(Essenz)*
+🎤 **[Hier raus](https://open.spotify.com/track/0Fd0JnOcUNRqlrk2C2fDf5)** by **EASY EASY** *(Hier raus)*
+🎤 **[Love U](https://open.spotify.com/track/6HdD9VoQ3fz4mvQ6RRxGEk)** by **Razihel** *(Love U)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-09 13:20:24Z UTC
+🕐 Last updated: 2026-01-09 13:52:54Z UTC
 <!-- SPOTIFY-END -->
