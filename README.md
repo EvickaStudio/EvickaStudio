@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730492a570b765f67f6e7d4ec8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wegen dir](https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu)**
-*by* **Kane**
-*Album:* Wegen dir
+**🎵 [All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)**
+*by* **Nokia Angel, smokedope2016**
+*Album:* In Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="134" height="4" fill="#1db954" rx="2"/>
-    <circle cx="134" cy="2" r="6" fill="#1db954"/>
+    <rect width="296" height="4" fill="#1db954" rx="2"/>
+    <circle cx="296" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:30
+    3:19 • 3:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Liebst du mich](https://open.spotify.com/track/3WUunbT3P4f9QCltSjBrEC)** by **F-Raz** *(Liebst du mich)*
-🎤 **[Sehnsucht](https://open.spotify.com/track/6RdeJ6Jgnx34skIJ0KUAZC)** by **Morpheuz** *(Leeres Herz)*
-🎤 **[erstersommerohnedich](https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7)** by **Pashanim** *(erstersommerohnedich)*
-🎤 **[Es Tut Mir Doch so Leid](https://open.spotify.com/track/3CHbWJr7M1ybyF3wkHfi4z)** by **F-Raz** *(Es Tut Mir Doch so Leid)*
-🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[Sterne](https://open.spotify.com/track/2ubletSLz2aUr2HJT9ZCR6)** by **Kane** *(Sterne)*
+🎤 **[Wage es zu glauben](https://open.spotify.com/track/33ENsMnZCFEz0J6rbHurlL)** by **XAVAS** *(Gespaltene Persönlichkeit (Deluxe Version))*
+🎤 **[Ruf mich an](https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi)** by **Morpheuz** *(Ruf mich an)*
+🎤 **[Auf dem Weg](https://open.spotify.com/track/0Ku0BoIMWmwcvKm8mOMrki)** by **Mikael** *(Auf dem Weg)*
+🎤 **[Vielleicht](https://open.spotify.com/track/3ZlnWpuXs3xP7KLzGbcGLT)** by **XAM** *(Vielleicht)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-10 21:49:08Z UTC
+🕐 Last updated: 2026-01-10 22:12:53Z UTC
 <!-- SPOTIFY-END -->
