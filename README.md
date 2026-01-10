@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
 🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
 🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
 🎤 **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/44HtgbGRHHRn9vUJ787Z9J)** by **Punk Christ** *(ELEKTRONISCHES MÄDCHEN)*
 🎤 **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)*
-🎤 **[Teufel](https://open.spotify.com/track/503SCbKk3X6DpOVJE3L93v)** by **Miese Mau** *(Verbrecher)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-10 06:20:04Z UTC
+🕐 Last updated: 2026-01-10 06:50:29Z UTC
 <!-- SPOTIFY-END -->
