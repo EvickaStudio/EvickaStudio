@@ -111,7 +111,7 @@
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
-🏅 [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+🏅 [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-10 07:30:32Z UTC
+🕐 Last updated: 2026-01-10 07:47:48Z UTC
 <!-- SPOTIFY-END -->
