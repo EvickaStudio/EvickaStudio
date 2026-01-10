@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273aad205f4a52b5c988d86c25f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Down Under (feat. Colin Hay)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)**
-*by* **Luude, Colin Hay**
-*Album:* Down Under (feat. Colin Hay)
+**🎵 [ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)**
+*by* **Pink Katana**
+*Album:* Den Mutigen gehört die Welt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="162" height="4" fill="#1db954" rx="2"/>
-    <circle cx="162" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 2:38
+    0:29 • 2:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)*
-🎤 **[GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ)** by **OGUZ, Nyctonian** *(GOLDEN SZN)*
-🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
-🎤 **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)*
-🎤 **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)*
+🎤 **[maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)** by **Closed on Sunday** *(maul lofi ~ star wars)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Doktorspiele](https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f)** by **Alex C., Yass** *(Euphorie)*
+🎤 **[Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR)** by **Joost** *(Europapa)*
+🎤 **[Ghosst(s)](https://open.spotify.com/track/2jUfLr32m2y9XVuHSJfj98)** by **Lorn** *(Ask The Dust)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-10 22:50:26Z UTC
+🕐 Last updated: 2026-01-10 23:13:00Z UTC
 <!-- SPOTIFY-END -->
