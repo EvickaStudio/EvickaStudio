@@ -91,7 +91,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27349f012f675fef31fb4a2ad01" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [PRETTYLIES](https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU)**
+*by* **hxly xo**
+*Album:* Umbrae
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:21 • 2:12
+</span>
+</p>
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-10 07:47:48Z UTC
+🕐 Last updated: 2026-01-10 08:17:41Z UTC
 <!-- SPOTIFY-END -->
