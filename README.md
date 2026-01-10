@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e236619d1054db8f6e092221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386f8b7ae69137fea4479cbf3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)**
-*by* **Chapo102, 102 Boyz, Stacks102**
-*Album:* MISCHKONSUM EP
+**🎵 [Griechischer Wein](https://open.spotify.com/track/2f8Hc0w7BpDtzwoa6BHKec)**
+*by* **Udo Jürgens**
+*Album:* Meine Lieder
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="127" height="4" fill="#1db954" rx="2"/>
-    <circle cx="127" cy="2" r="6" fill="#1db954"/>
+    <rect width="135" height="4" fill="#1db954" rx="2"/>
+    <circle cx="135" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 2:56
+    1:50 • 4:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sad Chord Progression](https://open.spotify.com/track/1sQxHY6X7m5JO8K6YqN7eQ)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)*
-🎤 **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)*
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)*
-🎤 **[Shot Up Overnight](https://open.spotify.com/track/0KNtYaHDoqgjQK0rB9Ke4x)** by **Underbelly** *(Shot Up Overnight)*
+🎤 **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)*
+🎤 **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)*
+🎤 **[moonlit](https://open.spotify.com/track/6AgbVoJXwUSFCFlQgm3Hu3)** by **glissey** *(moonlit)*
+🎤 **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)*
+🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
 
 
 
@@ -137,11 +137,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
-🥈 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
-🥉 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
+🥈 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
+🥉 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-10 09:13:35Z UTC
+🕐 Last updated: 2026-01-10 09:32:37Z UTC
 <!-- SPOTIFY-END -->
