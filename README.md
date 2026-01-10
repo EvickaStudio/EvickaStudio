@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730e14a62375f1cac7db495e63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)**
-*by* **Nightcore**
-*Album:* Back to Summer
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="74" height="4" fill="#1db954" rx="2"/>
-    <circle cx="74" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 3:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Never](https://open.spotify.com/track/4wXLZtpqSPm7nYlpZllz6A)** by **Mag.Lo, O Super** *(Never)*
-🎤 **[Maxi King](https://open.spotify.com/track/4L2pOra0PxKrWhrSHlvgEP)** by **Symba** *(Maxi King)*
-🎤 **[Sie ist anders <facts3](https://open.spotify.com/track/0NGxJsgMUFyRrUaVfo8TAf)** by **Replay Okay** *(Sie ist anders <facts3)*
-🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
+🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)*
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[engel](https://open.spotify.com/track/37EZeJeBQAWf6Z5HHAQ4hA)** by **blombi19** *(abiogenese)*
+🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
 
 
 
@@ -130,7 +111,7 @@
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
-🏅 [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-10 18:19:35Z UTC
+🕐 Last updated: 2026-01-10 18:48:35Z UTC
 <!-- SPOTIFY-END -->
