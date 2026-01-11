@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731139e5a23721f84d516c95e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)**
-*by* **Thaiboy Digital, Yung Lean**
-*Album:* Tiger
+**🎵 [Cynthoni Of Flames](https://open.spotify.com/track/0dUUliAEzw1EhwE7dbDPk1)**
+*by* **Cynthoni, Sewerslvt**
+*Album:* Cynthoni Of Flames
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="7" height="4" fill="#1db954" rx="2"/>
+    <circle cx="7" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:28 • 5:25
+    0:13 • 9:17
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mg1](https://open.spotify.com/track/7uk7aG1O2lYLbIt4hE7p5d)** by **Machine Girl** *(Wlfgrl)*
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))*
-🎤 **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))*
-🎤 **[i gave you everything](https://open.spotify.com/track/4ZmEsFdzxNfH2aWAhTEaWi)** by **EKKSTACY** *(misery)*
+🎤 **[Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)** by **H3artcrush, Punkinloveee** *(Freak Show)*
+🎤 **[DieWithMe](https://open.spotify.com/track/25pGY4lgnAwPicc2hqwMvN)** by **SALEM** *(Fires In Heaven)*
+🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
+🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
+🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 13:06:43Z UTC
+🕐 Last updated: 2026-01-11 13:40:43Z UTC
 <!-- SPOTIFY-END -->
