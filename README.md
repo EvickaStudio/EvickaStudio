@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f63203e1ddd367b69808f5bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27377537261613047353aa77532" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)**
-*by* **George Clanton**
-*Album:* Ooh Rap I Ya
+**🎵 [you look lonely](https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f)**
+*by* **Aaron Hibell**
+*Album:* Twilight Zone
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="83" height="4" fill="#1db954" rx="2"/>
-    <circle cx="83" cy="2" r="6" fill="#1db954"/>
+    <rect width="230" height="4" fill="#1db954" rx="2"/>
+    <circle cx="230" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:51
+    3:35 • 4:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
+🎤 **[wir wollen](https://open.spotify.com/track/1acSOl36KhJkuGPSXRVsO0)** by **Longus Mongus, Monk, BHZ** *(wir wollen)*
+🎤 **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)*
+🎤 **[Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)** by **George Clanton** *(Ooh Rap I Ya)*
 🎤 **[Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst)** by **BEVN** *(Best Friend)*
-🎤 **[Freak Show](https://open.spotify.com/track/5tf5yfShsau5KL2uMGlbWC)** by **H3artcrush, Punkinloveee** *(Freak Show)*
-🎤 **[DieWithMe](https://open.spotify.com/track/25pGY4lgnAwPicc2hqwMvN)** by **SALEM** *(Fires In Heaven)*
-🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 13:51:49Z UTC
+🕐 Last updated: 2026-01-11 14:12:29Z UTC
 <!-- SPOTIFY-END -->
