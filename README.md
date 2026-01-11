@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f2dfb69365374ced0adccc1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e62699a5518f9b71ff544d77" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [For Lifee](https://open.spotify.com/track/2rFeP9EpsxPKgjA564a5Tl)**
-*by* **Nosgov, Rezlaine**
-*Album:* I Die 10000 Times a Day
+**🎵 [wasting all my time wit u](https://open.spotify.com/track/53WXoazl3YNkKQQcxf06gj)**
+*by* **hateoryx**
+*Album:* doe general
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="214" height="4" fill="#1db954" rx="2"/>
-    <circle cx="214" cy="2" r="6" fill="#1db954"/>
+    <rect width="95" height="4" fill="#1db954" rx="2"/>
+    <circle cx="95" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 3:14
+    0:41 • 2:11
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cld b us </33](https://open.spotify.com/track/0srH0x8n8glG8pceuqs5F0)** by **KidSnorlax, hateoryx, 8t33n** *(cld b us </33)*
-🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
-🎤 **[NEED U BACK](https://open.spotify.com/track/3AVJ5ulGk6pFXdiclXanII)** by **stardante, vanity, 10n35t4r, luu** *(NEED U BACK)*
-🎤 **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)*
-🎤 **[so kawaii OMG](https://open.spotify.com/track/4C5IeNc6ow19sQyXT0zYaN)** by **hateoryx, backw666s, 8t33n** *(so kawaii OMG)*
+🎤 **[Deceivedd](https://open.spotify.com/track/3Up8DBrVqQwEaUmg3xEkSi)** by **Nosgov, domasnosebleed** *(I Die 10000 Times a Day)*
+🎤 **[lacertrauma](https://open.spotify.com/track/5Lh0H79kPssCi25uLPvYZN)** by **hurtsucca** *(lacertrauma)*
+🎤 **[Deceivedd](https://open.spotify.com/track/3Up8DBrVqQwEaUmg3xEkSi)** by **Nosgov, domasnosebleed** *(I Die 10000 Times a Day)*
+🎤 **[ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)** by **disoc8** *(ur the one i want <3)*
+🎤 **[antisocial](https://open.spotify.com/track/4cgAxbupOT0cTltmU6OdkD)** by **wintr, Keta** *(antisocial)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 09:33:39Z UTC
+🕐 Last updated: 2026-01-11 09:49:37Z UTC
 <!-- SPOTIFY-END -->
