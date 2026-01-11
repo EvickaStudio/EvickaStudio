@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b71fee8ac347985b498627ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733bdc6c16de7cf6385a0e6d11" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/7kpLzn6HWyrX33zBwDcnpi)**
-*by* **01099, Paul, Ikkimel**
-*Album:* orange
+**🎵 [swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)**
+*by* **Joey Cash**
+*Album:* swallow
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="149" height="4" fill="#1db954" rx="2"/>
-    <circle cx="149" cy="2" r="6" fill="#1db954"/>
+    <rect width="177" height="4" fill="#1db954" rx="2"/>
+    <circle cx="177" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:06 • 2:14
+    1:16 • 2:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[gymnastics - cece natalie house remix](https://open.spotify.com/track/2SANR29IcggqNI8xxB8USl)** by **Cece Natalie** *(Recycling Bin Collection 2)*
-🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
-🎤 **[Sie ist anders <facts3](https://open.spotify.com/track/00zz1ewpuL22UuoLmvIzYV)** by **Replay Okay** *(RIP Hyperpop DE 2022-2025)*
-🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
+🎤 **[Greed](https://open.spotify.com/track/4nevmz4M90Ix9Y8PTBasqu)** by **Freddie Dredd** *(Freddie's Inferno)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 18:48:54Z UTC
+🕐 Last updated: 2026-01-11 19:10:15Z UTC
 <!-- SPOTIFY-END -->
