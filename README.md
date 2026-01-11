@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2730cd20e9c1d31d80eae85cc02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [spacebar](https://open.spotify.com/track/1NlWBa7x2zQ7bAWxS8PpAw)**
+*by* **Mezha**
+*Album:* spacebar
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:06 • 2:34
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)** by **George Clanton** *(Ooh Rap I Ya)*
-🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
-🎤 **[Pretend](https://open.spotify.com/track/0tGqk0HlYMQ16aj7yJwleF)** by **alex_g_offline** *(1234)*
-🎤 **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)*
-🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
+🎤 **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)*
+🎤 **[KEINE ZEIT!](https://open.spotify.com/track/7aaLkwCDjSmZKCFeOb8k1H)** by **luutwo** *(KEINE ZEIT!)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
+🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 19:35:32Z UTC
+🕐 Last updated: 2026-01-11 19:47:41Z UTC
 <!-- SPOTIFY-END -->
