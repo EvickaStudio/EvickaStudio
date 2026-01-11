@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737f72b30a0a765ec7f0083150" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [place in yr heart](https://open.spotify.com/track/4Wj0YrsU6hqoBwoaOjBuGB)**
+*by* **hateoryx, elctrnc/sed:/, hurtsucca, Jeski Vaca, 8t33n**
+*Album:* place in yr heart
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:24 • 3:52
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by **Starship** *(Knee Deep In The Hoopla)*
-🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)** by **Closed on Sunday** *(maul lofi ~ star wars)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[Denial Loop](https://open.spotify.com/track/1wafIYUGr5zu9xShzOanJY)** by **Nosgov** *(I Die 10000 Times a Day)*
+🎤 **[igotblood](https://open.spotify.com/track/61P0XyU9FL3HeVPGza9YN6)** by **hurtsucca, backw666s, hateoryx** *(igotblood)*
+🎤 **[do addicts make it to heaven?](https://open.spotify.com/track/6SFTmpqVmYBtRC0NetFqYg)** by **disoc8, wintr** *(do addicts make it to heaven?)*
+🎤 **[swallow my pride](https://open.spotify.com/track/6O95qXXrcY6xxQPmld72es)** by **Fijimar, Sewerperson** *(swallow my pride)*
+🎤 **[cut our initials](https://open.spotify.com/track/60In6OPGIVSoNgbxMvQ3F3)** by **cholorofilm** *(cut our initials)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-11 08:17:42Z UTC
+🕐 Last updated: 2026-01-11 08:46:20Z UTC
 <!-- SPOTIFY-END -->
