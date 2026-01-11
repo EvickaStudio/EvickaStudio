@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734f0495e123406153b055ebc8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273405c45a0b05eac15b7982c7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Airglow](https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE)**
-*by* **DJ_Dave**
-*Album:* Airglow
+**🎵 [ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)**
+*by* **luu, mehlhaltig**
+*Album:* deluulu but mehlodic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 4:50
+    0:22 • 1:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Moon & Stars (feat. Maggie Lindemann)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu)** by **$NOT, Maggie Lindemann** *(- TRAGEDY +)*
-🎤 **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')*
-🎤 **[Intro (stop looking up at the attic)](https://open.spotify.com/track/5bP2EfUh4TMN19CYR2QzfU)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Doktorspiele](https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f)** by **Alex C., Yass** *(Euphorie)*
-🎤 **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
+🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
+🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
+🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
+🎤 **[Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E)** by **Eyedress** *(Jealous)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 17:13:04Z UTC
+🕐 Last updated: 2026-01-11 17:32:00Z UTC
 <!-- SPOTIFY-END -->
