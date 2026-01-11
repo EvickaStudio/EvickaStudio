@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Bei Dir Sein](https://open.spotify.com/track/25go3zbwk4NM8HA9uCy5wU)** by **SEFR** *(Bei Dir Sein)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
+🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
 🎤 **[hello](https://open.spotify.com/track/6o9tjrLDzxb1cFfXuXCBZA)** by **hateoryx** *(LostMyMind)*
 🎤 **[so #iconic](https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB)** by **disoc8** *(so #iconic)*
-🎤 **[ifigo2heavn](https://open.spotify.com/track/5EQdjUnKrxA7brKUBCtjTh)** by **hurtsucca** *(ifigo2heavn)*
-🎤 **[my star](https://open.spotify.com/track/1YqIcxKGD9CWBpqEfkQ4Bv)** by **hurtsucca** *(empyrean)*
-🎤 **[11:55](https://open.spotify.com/track/7EK5xflC761cTjchhILiNk)** by **Fijimar** *(11:55)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 11:11:11Z UTC
+🕐 Last updated: 2026-01-11 11:27:43Z UTC
 <!-- SPOTIFY-END -->
