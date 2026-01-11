@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273773345f3ea525ed284b05671" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273548f6fb8029b60db2a373ade" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)**
-*by* **Digighouls**
-*Album:* Vampire Rave Party
+**🎵 [I deserve this](https://open.spotify.com/track/2IIMOlNZQHr6RccFbbPhBx)**
+*by* **Rebzyyx, Selfless Homage**
+*Album:* I deserve this
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="244" height="4" fill="#1db954" rx="2"/>
-    <circle cx="244" cy="2" r="6" fill="#1db954"/>
+    <rect width="27" height="4" fill="#1db954" rx="2"/>
+    <circle cx="27" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:26
+    0:09 • 1:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
-🎤 **[in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)** by **meat computer** *(new world disorder)*
-🎤 **[alles schon gesagt](https://open.spotify.com/track/0j0KxkGYg8L54a5fkjOGvP)** by **5v, sparr00w** *(alles schon gesagt)*
-🎤 **[Alpha](https://open.spotify.com/track/3Gtha3Fwdu0yqpphxjXiTo)** by **Tevvez** *(Alpha)*
-🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
+🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
+🎤 **[Motherlode](https://open.spotify.com/track/6lrduzUfN6mAeHnPxBV3nF)** by **Clarry Berry** *(Motherlode)*
+🎤 **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)*
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 14:33:39Z UTC
+🕐 Last updated: 2026-01-11 14:50:02Z UTC
 <!-- SPOTIFY-END -->
