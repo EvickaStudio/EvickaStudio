@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e62699a5518f9b71ff544d77" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731840533d781301160921a56f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wasting all my time wit u](https://open.spotify.com/track/53WXoazl3YNkKQQcxf06gj)**
-*by* **hateoryx**
-*Album:* doe general
+**🎵 [ifigo2heavn](https://open.spotify.com/track/5EQdjUnKrxA7brKUBCtjTh)**
+*by* **hurtsucca**
+*Album:* ifigo2heavn
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="95" height="4" fill="#1db954" rx="2"/>
-    <circle cx="95" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:41 • 2:11
+    1:28 • 1:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Deceivedd](https://open.spotify.com/track/3Up8DBrVqQwEaUmg3xEkSi)** by **Nosgov, domasnosebleed** *(I Die 10000 Times a Day)*
-🎤 **[lacertrauma](https://open.spotify.com/track/5Lh0H79kPssCi25uLPvYZN)** by **hurtsucca** *(lacertrauma)*
-🎤 **[Deceivedd](https://open.spotify.com/track/3Up8DBrVqQwEaUmg3xEkSi)** by **Nosgov, domasnosebleed** *(I Die 10000 Times a Day)*
-🎤 **[ur the one i want <3](https://open.spotify.com/track/5v2zpzd9nVLjMZwTLWgyeI)** by **disoc8** *(ur the one i want <3)*
-🎤 **[antisocial](https://open.spotify.com/track/4cgAxbupOT0cTltmU6OdkD)** by **wintr, Keta** *(antisocial)*
+🎤 **[my star](https://open.spotify.com/track/1YqIcxKGD9CWBpqEfkQ4Bv)** by **hurtsucca** *(empyrean)*
+🎤 **[11:55](https://open.spotify.com/track/7EK5xflC761cTjchhILiNk)** by **Fijimar** *(11:55)*
+🎤 **[HIDAN](https://open.spotify.com/track/4kiaU0e7PwL1UnToOZwcho)** by **nami, 2burbo** *(HIDAN)*
+🎤 **[doeboyz rise up](https://open.spotify.com/track/5Nsju02ecX6iYfrBrTpmdJ)** by **hateoryx** *(doe general)*
+🎤 **[that's ok](https://open.spotify.com/track/5T7AArrh5G5YzeqwsWMhtb)** by **Rezlaine, KidSnorlax** *(that's ok)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 09:49:37Z UTC
+🕐 Last updated: 2026-01-11 10:13:49Z UTC
 <!-- SPOTIFY-END -->
