@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731840533d781301160921a56f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ifigo2heavn](https://open.spotify.com/track/5EQdjUnKrxA7brKUBCtjTh)**
-*by* **hurtsucca**
-*Album:* ifigo2heavn
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 1:44
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[hello](https://open.spotify.com/track/6o9tjrLDzxb1cFfXuXCBZA)** by **hateoryx** *(LostMyMind)*
+🎤 **[so #iconic](https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB)** by **disoc8** *(so #iconic)*
+🎤 **[ifigo2heavn](https://open.spotify.com/track/5EQdjUnKrxA7brKUBCtjTh)** by **hurtsucca** *(ifigo2heavn)*
 🎤 **[my star](https://open.spotify.com/track/1YqIcxKGD9CWBpqEfkQ4Bv)** by **hurtsucca** *(empyrean)*
 🎤 **[11:55](https://open.spotify.com/track/7EK5xflC761cTjchhILiNk)** by **Fijimar** *(11:55)*
-🎤 **[HIDAN](https://open.spotify.com/track/4kiaU0e7PwL1UnToOZwcho)** by **nami, 2burbo** *(HIDAN)*
-🎤 **[doeboyz rise up](https://open.spotify.com/track/5Nsju02ecX6iYfrBrTpmdJ)** by **hateoryx** *(doe general)*
-🎤 **[that's ok](https://open.spotify.com/track/5T7AArrh5G5YzeqwsWMhtb)** by **Rezlaine, KidSnorlax** *(that's ok)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 10:13:49Z UTC
+🕐 Last updated: 2026-01-11 10:37:03Z UTC
 <!-- SPOTIFY-END -->
