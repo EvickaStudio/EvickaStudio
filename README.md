@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737f72b30a0a765ec7f0083150" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b5a4edd5af4d830b820f3578" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [place in yr heart](https://open.spotify.com/track/4Wj0YrsU6hqoBwoaOjBuGB)**
-*by* **hateoryx, elctrnc/sed:/, hurtsucca, Jeski Vaca, 8t33n**
-*Album:* place in yr heart
+**🎵 [sewnangel </3](https://open.spotify.com/track/0qES66bmOaUMKLWgwxMn1Z)**
+*by* **KidSnorlax**
+*Album:* iSHOTMYANGEL
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
+    <rect width="142" height="4" fill="#1db954" rx="2"/>
+    <circle cx="142" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 3:52
+    1:10 • 2:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Denial Loop](https://open.spotify.com/track/1wafIYUGr5zu9xShzOanJY)** by **Nosgov** *(I Die 10000 Times a Day)*
-🎤 **[igotblood](https://open.spotify.com/track/61P0XyU9FL3HeVPGza9YN6)** by **hurtsucca, backw666s, hateoryx** *(igotblood)*
-🎤 **[do addicts make it to heaven?](https://open.spotify.com/track/6SFTmpqVmYBtRC0NetFqYg)** by **disoc8, wintr** *(do addicts make it to heaven?)*
-🎤 **[swallow my pride](https://open.spotify.com/track/6O95qXXrcY6xxQPmld72es)** by **Fijimar, Sewerperson** *(swallow my pride)*
-🎤 **[cut our initials](https://open.spotify.com/track/60In6OPGIVSoNgbxMvQ3F3)** by **cholorofilm** *(cut our initials)*
+🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
+🎤 **[wish I didnt kno her ##biblemusic - slowed](https://open.spotify.com/track/2Xuo4HV3HbEqgPbgV9q8u3)** by **snor** *(sobrelis (slowed))*
+🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
+🎤 **[brand new](https://open.spotify.com/track/7djiZrD1anxNeAkdk2UEpP)** by **hateoryx** *(doe general)*
+🎤 **[Push Through](https://open.spotify.com/track/3Hu4ZafrYQNYQxNvmMs3M4)** by **Nosgov** *(Telltale)*
 
 
 
@@ -137,11 +137,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
-🥈 [**NEUANFANG**](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)
-🥉 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
-🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
+🥈 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
+🥉 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
+🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 08:46:20Z UTC
+🕐 Last updated: 2026-01-11 09:14:03Z UTC
 <!-- SPOTIFY-END -->
