@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm)**
-*by* **Juice WRLD**
-*Album:* Legends Never Die
+**🎵 [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)**
+*by* **The Goo Goo Dolls**
+*Album:* Dizzy up the Girl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="68" height="4" fill="#1db954" rx="2"/>
-    <circle cx="68" cy="2" r="6" fill="#1db954"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 4:02
+    2:48 • 4:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)*
-🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
-🎤 **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)*
-🎤 **[Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)** by **S1RENA** *(Staub)*
+🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
+🎤 **[taschen schwer](https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0)** by **5v, James Jetski** *(taschen schwer)*
+🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
+🎤 **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[opiate](https://open.spotify.com/track/3ZuX1bvkFT6BlHhnrlIwMV)** by **DANZINGER 99** *(opiate)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 15:48:51Z UTC
+🕐 Last updated: 2026-01-11 16:15:26Z UTC
 <!-- SPOTIFY-END -->
