@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b5a4edd5af4d830b820f3578" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739f2dfb69365374ced0adccc1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sewnangel </3](https://open.spotify.com/track/0qES66bmOaUMKLWgwxMn1Z)**
-*by* **KidSnorlax**
-*Album:* iSHOTMYANGEL
+**🎵 [For Lifee](https://open.spotify.com/track/2rFeP9EpsxPKgjA564a5Tl)**
+*by* **Nosgov, Rezlaine**
+*Album:* I Die 10000 Times a Day
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="142" height="4" fill="#1db954" rx="2"/>
-    <circle cx="142" cy="2" r="6" fill="#1db954"/>
+    <rect width="214" height="4" fill="#1db954" rx="2"/>
+    <circle cx="214" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:10 • 2:28
+    2:18 • 3:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Take It Back](https://open.spotify.com/track/1TY9ESRqAsgecfqFlyt5NK)** by **503scoob, disoc8, Gutzxx** *(Take It Back)*
-🎤 **[wish I didnt kno her ##biblemusic - slowed](https://open.spotify.com/track/2Xuo4HV3HbEqgPbgV9q8u3)** by **snor** *(sobrelis (slowed))*
-🎤 **[kill me pls](https://open.spotify.com/track/53LQuwylyNbiKlAd6zfw97)** by **cholorofilm, snor** *(kill me pls)*
-🎤 **[brand new](https://open.spotify.com/track/7djiZrD1anxNeAkdk2UEpP)** by **hateoryx** *(doe general)*
-🎤 **[Push Through](https://open.spotify.com/track/3Hu4ZafrYQNYQxNvmMs3M4)** by **Nosgov** *(Telltale)*
+🎤 **[cld b us </33](https://open.spotify.com/track/0srH0x8n8glG8pceuqs5F0)** by **KidSnorlax, hateoryx, 8t33n** *(cld b us </33)*
+🎤 **[Sweet Dreams](https://open.spotify.com/track/1XlZl5T398fLuFQzrZH0hX)** by **503scoob, 444pluto, HAR$h, ap47hyc0r3** *(Sweet Dreams)*
+🎤 **[NEED U BACK](https://open.spotify.com/track/3AVJ5ulGk6pFXdiclXanII)** by **stardante, vanity, 10n35t4r, luu** *(NEED U BACK)*
+🎤 **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)*
+🎤 **[so kawaii OMG](https://open.spotify.com/track/4C5IeNc6ow19sQyXT0zYaN)** by **hateoryx, backw666s, 8t33n** *(so kawaii OMG)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 09:14:03Z UTC
+🕐 Last updated: 2026-01-11 09:33:39Z UTC
 <!-- SPOTIFY-END -->
