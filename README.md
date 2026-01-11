@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b0dbe5cdee230af2f14fa97b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b71fee8ac347985b498627ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)**
-*by* **DJ Worm, Eurohead, SPÖKE**
-*Album:* In My Heart / In My Mind
+**🎵 [Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/7kpLzn6HWyrX33zBwDcnpi)**
+*by* **01099, Paul, Ikkimel**
+*Album:* orange
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="219" height="4" fill="#1db954" rx="2"/>
-    <circle cx="219" cy="2" r="6" fill="#1db954"/>
+    <rect width="149" height="4" fill="#1db954" rx="2"/>
+    <circle cx="149" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:58 • 4:04
+    1:06 • 2:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)*
-🎤 **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)*
-🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
-🎤 **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)*
-🎤 **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)*
+🎤 **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[gymnastics - cece natalie house remix](https://open.spotify.com/track/2SANR29IcggqNI8xxB8USl)** by **Cece Natalie** *(Recycling Bin Collection 2)*
+🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
+🎤 **[Sie ist anders <facts3](https://open.spotify.com/track/00zz1ewpuL22UuoLmvIzYV)** by **Replay Okay** *(RIP Hyperpop DE 2022-2025)*
+🎤 **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 18:19:20Z UTC
+🕐 Last updated: 2026-01-11 18:48:54Z UTC
 <!-- SPOTIFY-END -->
