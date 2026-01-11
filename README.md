@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27377537261613047353aa77532" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273773345f3ea525ed284b05671" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [you look lonely](https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f)**
-*by* **Aaron Hibell**
-*Album:* Twilight Zone
+**🎵 [Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)**
+*by* **Digighouls**
+*Album:* Vampire Rave Party
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="230" height="4" fill="#1db954" rx="2"/>
-    <circle cx="230" cy="2" r="6" fill="#1db954"/>
+    <rect width="244" height="4" fill="#1db954" rx="2"/>
+    <circle cx="244" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:35 • 4:41
+    1:59 • 2:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
-🎤 **[wir wollen](https://open.spotify.com/track/1acSOl36KhJkuGPSXRVsO0)** by **Longus Mongus, Monk, BHZ** *(wir wollen)*
-🎤 **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)*
-🎤 **[Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)** by **George Clanton** *(Ooh Rap I Ya)*
-🎤 **[Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst)** by **BEVN** *(Best Friend)*
+🎤 **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)*
+🎤 **[in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)** by **meat computer** *(new world disorder)*
+🎤 **[alles schon gesagt](https://open.spotify.com/track/0j0KxkGYg8L54a5fkjOGvP)** by **5v, sparr00w** *(alles schon gesagt)*
+🎤 **[Alpha](https://open.spotify.com/track/3Gtha3Fwdu0yqpphxjXiTo)** by **Tevvez** *(Alpha)*
+🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 14:12:29Z UTC
+🕐 Last updated: 2026-01-11 14:33:39Z UTC
 <!-- SPOTIFY-END -->
