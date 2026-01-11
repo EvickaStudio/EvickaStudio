@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [klinik](https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb)**
-*by* **blombi19**
-*Album:* herzkasper
+**🎵 [gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)**
+*by* **luu, cxpyyy**
+*Album:* immenser pflegefall
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="138" height="4" fill="#1db954" rx="2"/>
-    <circle cx="138" cy="2" r="6" fill="#1db954"/>
+    <rect width="131" height="4" fill="#1db954" rx="2"/>
+    <circle cx="131" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 3:43
+    1:00 • 2:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[morning](https://open.spotify.com/track/38HSLWQNm6xra4EMnYeC1h)** by **Mezha, keyblayde808** *(morning)*
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)*
-🎤 **[high](https://open.spotify.com/track/6pSsYElSdv7ywfM22SGrQJ)** by **Fijimar, slatepsycho** *(high)*
-🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
+🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
+🎤 **[astagel aatum #diebrennenden (hotelgodlin)](https://open.spotify.com/track/3WhOiIMLQAiHv2XWNN78A8)** by **agelast222** *(astagel aatum #diebrennenden (hotelgodlin))*
+🎤 **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)*
+🎤 **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-11 21:11:56Z UTC
+🕐 Last updated: 2026-01-11 21:29:48Z UTC
 <!-- SPOTIFY-END -->
