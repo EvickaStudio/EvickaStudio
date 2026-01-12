@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273da81ef11666a0ac80cecc338" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27394974e1fe6045de52ba437da" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lie Use Die](https://open.spotify.com/track/23D6ljvZlVDsklcub2t0dW)**
-*by* **M()RE**
-*Album:* Five Years
+**🎵 [Love U](https://open.spotify.com/track/6HdD9VoQ3fz4mvQ6RRxGEk)**
+*by* **Razihel**
+*Album:* Love U
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="251" height="4" fill="#1db954" rx="2"/>
-    <circle cx="251" cy="2" r="6" fill="#1db954"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 3:08
+    2:43 • 4:23
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
-🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
-🎤 **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)*
-🎤 **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
+🎤 **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by **RYLO** *(fern als heimweh)*
+🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
+🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
+🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
+🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 21:34:39Z UTC
+🕐 Last updated: 2026-01-12 21:50:27Z UTC
 <!-- SPOTIFY-END -->
