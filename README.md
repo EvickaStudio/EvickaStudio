@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738b47434031b6bead181f437b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736ba1cffc9b2c5469503430b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)**
-*by* **Pink Katana**
-*Album:* ich will nie wieder warten auf etwas das nicht kommt
+**🎵 [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs)**
+*by* **Kanye West**
+*Album:* Donda
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="169" height="4" fill="#1db954" rx="2"/>
-    <circle cx="169" cy="2" r="6" fill="#1db954"/>
+    <rect width="125" height="4" fill="#1db954" rx="2"/>
+    <circle cx="125" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 1:45
+    2:22 • 5:39
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Rummelplatz](https://open.spotify.com/track/4YAAU6fRUHINAvPVNyx4NM)** by **Money Boy** *(The Lost Tape III)*
-🎤 **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)*
-🎤 **[CARNIVAL](https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq)** by **¥$, Kanye West, Ty Dolla $ign** *(VULTURES 1)*
-🎤 **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)*
-🎤 **[Love Tonight (Edit)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP)** by **Shouse** *(Love Tonight)*
+🎤 **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by **Steintor Herrenchor** *(Luisa)*
+🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
+🎤 **[Hör mal mein Herz <3…](https://open.spotify.com/track/418wO5mzacDD1wDxdt1WVT)** by **Replay Okay** *(RIP Hyperpop DE 2022-2025)*
+🎤 **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)*
+🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **pathetic240px** *(2008)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 15:47:42Z UTC
+🕐 Last updated: 2026-01-12 16:19:12Z UTC
 <!-- SPOTIFY-END -->
