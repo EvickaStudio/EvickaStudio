@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738797ecd22aaad23ce7fd9ab8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27374263936c646f196bfe58893" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Perfect Violation](https://open.spotify.com/track/5sUY2FPXJy1E2eZPBdT7AW)**
-*by* **Varg²™, Bladee**
-*Album:* Evanescence (a Love Letter)
+**🎵 [if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6)**
+*by* **Destroy Lonely**
+*Album:* if looks could kill
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="290" height="4" fill="#1db954" rx="2"/>
-    <circle cx="290" cy="2" r="6" fill="#1db954"/>
+    <rect width="233" height="4" fill="#1db954" rx="2"/>
+    <circle cx="233" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:54 • 4:02
+    2:31 • 3:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[Girls Just Want Breaks (yion-flip)](https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1)** by **yion** *(Girls Just Want Breaks (yion-flip))*
-🎤 **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)*
-🎤 **[RITTER DER NACHT OUTRO](https://open.spotify.com/track/6n0BEMe62sSIo5Yg6vJEEc)** by **Punk Christ** *(ORGANISCHE CHEMIE)*
-🎤 **[Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l)** by **jagger finn** *(Triplbt Theme)*
+🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
+🎤 **[AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Jedesmal](https://open.spotify.com/track/56XKSAP30m7klfOOUr4RWZ)** by **kevin** *(Jedesmal)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
+🎤 **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 17:52:29Z UTC
+🕐 Last updated: 2026-01-12 18:21:50Z UTC
 <!-- SPOTIFY-END -->
