@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27360c2ba701cfb28ff86e70bc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273340b7401d23f8f2a01721d28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)**
-*by* **Eera**
-*Album:* The Sky Thats Between Us
+**🎵 [Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)**
+*by* **tim, TYM**
+*Album:* Myself
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="32" height="4" fill="#1db954" rx="2"/>
-    <circle cx="32" cy="2" r="6" fill="#1db954"/>
+    <rect width="252" height="4" fill="#1db954" rx="2"/>
+    <circle cx="252" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:24 • 3:44
+    2:51 • 3:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)*
-🎤 **[Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)** by **Kanye West, Kid Cudi, Raekwon** *(My Beautiful Dark Twisted Fantasy)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[ೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋ](https://open.spotify.com/track/7bUgkEuZV7kppzH2bDnQUF)** by **Fine-Sir-1584660650** *(ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ)*
-🎤 **[derealization](https://open.spotify.com/track/7A2UI8oiwH9e2BvGJDKOcJ)** by **wiv, 68+1** *(derealization)*
+🎤 **[Pirouette](https://open.spotify.com/track/5YlsYwFBJ3RtJLRsaZh9Mz)** by **Lil Narnia** *(Wisteria)*
+🎤 **[Infinity - Miguel Angelo Remix](https://open.spotify.com/track/2lIhwPUNSDgM7SmcgBeYrD)** by **Guru Josh Project, Miguel Angelo** *(Infinity (Miguel Angelo Remix))*
+🎤 **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)** by **Edwin Rosen** *(Verschwende deine Zeit)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 22:33:54Z UTC
+🕐 Last updated: 2026-01-12 22:50:35Z UTC
 <!-- SPOTIFY-END -->
