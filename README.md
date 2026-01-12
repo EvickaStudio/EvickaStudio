@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736ba1cffc9b2c5469503430b3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a9db36779cc8f20b02141969" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs)**
-*by* **Kanye West**
-*Album:* Donda
+**🎵 [Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)**
+*by* **Zedd, Foxes**
+*Album:* Club Life, Vol. 3 - Stockholm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="125" height="4" fill="#1db954" rx="2"/>
-    <circle cx="125" cy="2" r="6" fill="#1db954"/>
+    <rect width="86" height="4" fill="#1db954" rx="2"/>
+    <circle cx="86" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 5:39
+    1:33 • 5:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Luisa](https://open.spotify.com/track/6sShc4tkAu2OMULhdtb7dK)** by **Steintor Herrenchor** *(Luisa)*
-🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
-🎤 **[Hör mal mein Herz <3…](https://open.spotify.com/track/418wO5mzacDD1wDxdt1WVT)** by **Replay Okay** *(RIP Hyperpop DE 2022-2025)*
-🎤 **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)*
-🎤 **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **pathetic240px** *(2008)*
+🎤 **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)*
+🎤 **[Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N)** by **GROUPLOVE** *(Never Trust a Happy Song)*
+🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
+🎤 **[oxidized](https://open.spotify.com/track/1aOPnTT8VZIuYswvzzzfh8)** by **MAQ 22** *(Catch-22)*
+🎤 **[Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU)** by **DJ Snake, Justin Bieber** *(Encore)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 16:19:12Z UTC
+🕐 Last updated: 2026-01-12 16:51:11Z UTC
 <!-- SPOTIFY-END -->
