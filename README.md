@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c1cacf29bebf3c0fd021ae0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ade0e0ac697b0ed71ad8d01d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)**
-*by* **Flawless Issues**
-*Album:* Oh Darlin'
+**🎵 [ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)**
+*by* **yaego, jsn**
+*Album:* ID63
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="299" height="4" fill="#1db954" rx="2"/>
-    <circle cx="299" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 2:44
+    1:56 • 3:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Intro (stop looking up at the attic)](https://open.spotify.com/track/5bP2EfUh4TMN19CYR2QzfU)** by **sparr00w** *(Save Room Theme)*
-🎤 **[Doktorspiele](https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f)** by **Alex C., Yass** *(Euphorie)*
-🎤 **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)*
-🎤 **[Who Is She ?](https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq)** by **I Monster** *(Neveroddoreven)*
-🎤 **[Princess Cuts My Wrist](https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b)** by **Sickboyrari** *(City Of Doves)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)*
+🎤 **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)*
+🎤 **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)*
+🎤 **[flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q)** by **Blue Smiley** *(ok)*
 
 
 
@@ -137,11 +137,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**lean 2 euro**](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)
-🥈 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
-🥉 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
-🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
+🥈 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
+🥉 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
+🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 09:24:58Z UTC
+🕐 Last updated: 2026-01-12 09:52:19Z UTC
 <!-- SPOTIFY-END -->
