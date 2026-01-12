@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a0a28407868b4e2cb09fba83" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e14a62375f1cac7db495e63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ALLES DOPE](https://open.spotify.com/track/7HZMdCSq7oUYmn6OHU6kSB)**
-*by* **CRO**
-*Album:* ALLES DOPE
+**🎵 [Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)**
+*by* **Nightcore**
+*Album:* Back to Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="271" height="4" fill="#1db954" rx="2"/>
-    <circle cx="271" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:25
+    1:34 • 3:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)** by **Sun Kil Moon** *(Ghosts of the Great Highway)*
-🎤 **[exist in me](https://open.spotify.com/track/6s6QMtWp3IbJJSXpMqWnj4)** by **zaya archive** *(exist in me)*
-🎤 **[Love Tonight](https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9)** by **Shouse** *(Love Tonight)*
-🎤 **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)*
-🎤 **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))*
+🎤 **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)*
+🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
+🎤 **[Kiss Me At Camp Crystal Lake](https://open.spotify.com/track/68gOS7qY9yEXKZvs6lnHIk)** by **Television Blonde** *(Kiss Me At Camp Crystal Lake)*
+🎤 **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)*
+🎤 **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 20:16:51Z UTC
+🕐 Last updated: 2026-01-12 20:44:19Z UTC
 <!-- SPOTIFY-END -->
