@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3c9944ee5e9ec629405e691" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27360c2ba701cfb28ff86e70bc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)**
-*by* **vudah**
-*Album:* I Do Whatever I Want
+**🎵 [The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)**
+*by* **Eera**
+*Album:* The Sky Thats Between Us
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:36 • 1:45
+    0:24 • 3:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
-🎤 **[Zu schön um wahr zu sein](https://open.spotify.com/track/3vuizylIn6nbzvDpowL0Kr)** by **ArniTheSavage** *(Zu schön um wahr zu sein)*
-🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[was du für mich bist](https://open.spotify.com/track/1yF4oqdTFno6424YoUVDE5)** by **OTIS, NØAH** *(was du für mich bist)*
-🎤 **[bleibt für ewich](https://open.spotify.com/track/7DGFmeMubdkOv8kYSbrTRs)** by **b3nn3t** *(bleibt für ewich)*
+🎤 **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)*
+🎤 **[Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2)** by **Kanye West, Kid Cudi, Raekwon** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[ೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋೋ](https://open.spotify.com/track/7bUgkEuZV7kppzH2bDnQUF)** by **Fine-Sir-1584660650** *(ᚍᚑᚄᚆᚁᚑᚃᚋᚘᚚᚒᚄᚁᚅᚑᚇᚃᚒᚙᚁᚈᚋᚅᚖᚇᚗᚁᚐᚊᚏᚈᚘ)*
+🎤 **[derealization](https://open.spotify.com/track/7A2UI8oiwH9e2BvGJDKOcJ)** by **wiv, 68+1** *(derealization)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 22:13:07Z UTC
+🕐 Last updated: 2026-01-12 22:33:54Z UTC
 <!-- SPOTIFY-END -->
