@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737b62944dd35241208ce7fb85" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273da81ef11666a0ac80cecc338" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Arschficksong](https://open.spotify.com/track/2a2DREOqbJyIAPs26EKAuX)**
-*by* **Sido**
-*Album:* Arschficksong
+**🎵 [Lie Use Die](https://open.spotify.com/track/23D6ljvZlVDsklcub2t0dW)**
+*by* **M()RE**
+*Album:* Five Years
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
+    <rect width="251" height="4" fill="#1db954" rx="2"/>
+    <circle cx="251" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 3:30
+    2:38 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)*
-🎤 **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)*
-🎤 **[what happened rick](https://open.spotify.com/track/4nKku8Y3QXsajkHYoGPOw6)** by **i hate my face, vic** *(what happened rick)*
-🎤 **[Tränen stillen keinen Durst](https://open.spotify.com/track/06cX1gmzT8uBgPD5eYY3fJ)** by **Kalte Liebe** *(Tränen stillen keinen Durst)*
-🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
+🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
+🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
+🎤 **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)*
+🎤 **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)*
+🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 21:14:55Z UTC
+🕐 Last updated: 2026-01-12 21:34:39Z UTC
 <!-- SPOTIFY-END -->
