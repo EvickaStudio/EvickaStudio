@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730e14a62375f1cac7db495e63" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)**
-*by* **Nightcore**
-*Album:* Back to Summer
+**🎵 [Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
+*by* **Led Zeppelin**
+*Album:* Led Zeppelin IV (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="146" height="4" fill="#1db954" rx="2"/>
-    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 3:13
+    6:35 • 8:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Slaughter House](https://open.spotify.com/track/1FlOHhlBsJhfv8K4cttbVE)** by **Sematary** *(Rainbow Bridge)*
+🎤 **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)*
 🎤 **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)*
 🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
 🎤 **[Kiss Me At Camp Crystal Lake](https://open.spotify.com/track/68gOS7qY9yEXKZvs6lnHIk)** by **Television Blonde** *(Kiss Me At Camp Crystal Lake)*
-🎤 **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)*
-🎤 **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 20:44:19Z UTC
+🕐 Last updated: 2026-01-12 20:55:55Z UTC
 <!-- SPOTIFY-END -->
