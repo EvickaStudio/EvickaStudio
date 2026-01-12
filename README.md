@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27393032355eb6ab1320904d086" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739866f83629f29c777e667e9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)**
-*by* **Woesum, Bladee**
-*Album:* Blue Summer
+**🎵 [flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)**
+*by* **DJmegan23**
+*Album:* sound-proofed wilderness
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="241" height="4" fill="#1db954" rx="2"/>
-    <circle cx="241" cy="2" r="6" fill="#1db954"/>
+    <rect width="35" height="4" fill="#1db954" rx="2"/>
+    <circle cx="35" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:19 • 2:53
+    0:16 • 2:15
 </span>
 </p>
 
@@ -116,21 +116,21 @@
 
 ### 📜 Recently Played
 
-🎤 **[Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)** by **southstar** *(Cover Up My Face)*
-🎤 **[Project Lee](https://open.spotify.com/track/4BWB4sloTnnEych80RIJhH)** by **Dj Settler** *(Project Lee)*
-🎤 **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/44HtgbGRHHRn9vUJ787Z9J)** by **Punk Christ** *(ELEKTRONISCHES MÄDCHEN)*
-🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
-🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
+🎤 **[RITTER DER NACHT OUTRO](https://open.spotify.com/track/6n0BEMe62sSIo5Yg6vJEEc)** by **Punk Christ** *(ORGANISCHE CHEMIE)*
+🎤 **[Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l)** by **jagger finn** *(Triplbt Theme)*
+🎤 **[SEPTEMBER 17](https://open.spotify.com/track/4cuQMfza3xRckGb8DFYyh6)** by **Harrison Borts** *(HARRISONBORTS 2022)*
+🎤 **[Fire sign](https://open.spotify.com/track/4RQoF2veOQ4wK2HVaOF9b2)** by **Dropped here** *(Fire sign)*
+🎤 **[about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM)** by **Lil Peep** *(about u)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 17:17:36Z UTC
+🕐 Last updated: 2026-01-12 17:43:13Z UTC
 <!-- SPOTIFY-END -->
