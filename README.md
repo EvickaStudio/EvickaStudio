@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27381727cf46d21d415690a743d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273abe3c5827a767d7cebcce198" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)**
-*by* **Delta Spirit**
-*Album:* Delta Spirit
+**🎵 [HUSO](https://open.spotify.com/track/37h4oEmchSH4UXFXq5NQbT)**
+*by* **Ritter Lean, Ski Aggu**
+*Album:* HUSO
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="228" height="4" fill="#1db954" rx="2"/>
-    <circle cx="228" cy="2" r="6" fill="#1db954"/>
+    <rect width="249" height="4" fill="#1db954" rx="2"/>
+    <circle cx="249" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:46 • 3:39
+    2:00 • 2:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Happiest Year](https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE)** by **Jaymes Young** *(Feel Something (Deluxe))*
-🎤 **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)*
-🎤 **[Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH)** by **Kanye West** *(Graduation)*
-🎤 **[It's Cold Out (Extended Mix)](https://open.spotify.com/track/32fs4Ws6pYYdyXppLm7OzV)** by **Jawnino** *(40)*
-🎤 **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)*
+🎤 **[Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw)** by **The Meeting Places** *(Find Yourself Along The Way)*
+🎤 **[can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Long Gone](https://open.spotify.com/track/1YYGobaxPu9TA76CsCJWki)** by **DONDON, LeFrers** *(Long Gone)*
+🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
+🎤 **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 18:54:02Z UTC
+🕐 Last updated: 2026-01-12 19:15:35Z UTC
 <!-- SPOTIFY-END -->
