@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a9db36779cc8f20b02141969" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27393032355eb6ab1320904d086" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)**
-*by* **Zedd, Foxes**
-*Album:* Club Life, Vol. 3 - Stockholm
+**🎵 [Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)**
+*by* **Woesum, Bladee**
+*Album:* Blue Summer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 5:22
+    2:19 • 2:53
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)*
-🎤 **[Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N)** by **GROUPLOVE** *(Never Trust a Happy Song)*
-🎤 **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)*
-🎤 **[oxidized](https://open.spotify.com/track/1aOPnTT8VZIuYswvzzzfh8)** by **MAQ 22** *(Catch-22)*
-🎤 **[Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU)** by **DJ Snake, Justin Bieber** *(Encore)*
+🎤 **[Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)** by **southstar** *(Cover Up My Face)*
+🎤 **[Project Lee](https://open.spotify.com/track/4BWB4sloTnnEych80RIJhH)** by **Dj Settler** *(Project Lee)*
+🎤 **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/44HtgbGRHHRn9vUJ787Z9J)** by **Punk Christ** *(ELEKTRONISCHES MÄDCHEN)*
+🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
+🎤 **[Borderline](https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC)** by **Ely Oaks, LAVINIA** *(Borderline)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 16:51:11Z UTC
+🕐 Last updated: 2026-01-12 17:17:36Z UTC
 <!-- SPOTIFY-END -->
