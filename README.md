@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2737b62944dd35241208ce7fb85" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)**
-*by* **Led Zeppelin**
-*Album:* Led Zeppelin IV (Deluxe Edition)
+**🎵 [Arschficksong](https://open.spotify.com/track/2a2DREOqbJyIAPs26EKAuX)**
+*by* **Sido**
+*Album:* Arschficksong
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="43" height="4" fill="#1db954" rx="2"/>
+    <circle cx="43" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:35 • 8:02
+    0:30 • 3:30
 </span>
 </p>
 
@@ -116,18 +116,18 @@
 
 ### 📜 Recently Played
 
-🎤 **[Slaughter House](https://open.spotify.com/track/1FlOHhlBsJhfv8K4cttbVE)** by **Sematary** *(Rainbow Bridge)*
-🎤 **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)*
-🎤 **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)*
-🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
-🎤 **[Kiss Me At Camp Crystal Lake](https://open.spotify.com/track/68gOS7qY9yEXKZvs6lnHIk)** by **Television Blonde** *(Kiss Me At Camp Crystal Lake)*
+🎤 **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)*
+🎤 **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)*
+🎤 **[what happened rick](https://open.spotify.com/track/4nKku8Y3QXsajkHYoGPOw6)** by **i hate my face, vic** *(what happened rick)*
+🎤 **[Tränen stillen keinen Durst](https://open.spotify.com/track/06cX1gmzT8uBgPD5eYY3fJ)** by **Kalte Liebe** *(Tränen stillen keinen Durst)*
+🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
 
 
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
 🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 🏅 [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 20:55:55Z UTC
+🕐 Last updated: 2026-01-12 21:14:55Z UTC
 <!-- SPOTIFY-END -->
