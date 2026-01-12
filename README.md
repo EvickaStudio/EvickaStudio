@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27394974e1fe6045de52ba437da" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a3c9944ee5e9ec629405e691" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love U](https://open.spotify.com/track/6HdD9VoQ3fz4mvQ6RRxGEk)**
-*by* **Razihel**
-*Album:* Love U
+**🎵 [I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)**
+*by* **vudah**
+*Album:* I Do Whatever I Want
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 4:23
+    1:36 • 1:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by **RYLO** *(fern als heimweh)*
-🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
-🎤 **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)*
-🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
-🎤 **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)*
+🎤 **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)*
+🎤 **[Zu schön um wahr zu sein](https://open.spotify.com/track/3vuizylIn6nbzvDpowL0Kr)** by **ArniTheSavage** *(Zu schön um wahr zu sein)*
+🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[was du für mich bist](https://open.spotify.com/track/1yF4oqdTFno6424YoUVDE5)** by **OTIS, NØAH** *(was du für mich bist)*
+🎤 **[bleibt für ewich](https://open.spotify.com/track/7DGFmeMubdkOv8kYSbrTRs)** by **b3nn3t** *(bleibt für ewich)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 21:50:27Z UTC
+🕐 Last updated: 2026-01-12 22:13:07Z UTC
 <!-- SPOTIFY-END -->
