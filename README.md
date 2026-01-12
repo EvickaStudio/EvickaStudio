@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2733a8c72dda10644977c3b3d30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)**
+*by* **blombi19**
+*Album:* nektar
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="49" height="4" fill="#1db954" rx="2"/>
+    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:45 • 4:37
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3)** by **Syn Cole** *(Feel Good)*
-🎤 **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)*
-🎤 **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)*
-🎤 **[The righteous wrath of an honorable man](https://open.spotify.com/track/4h9x2ICDsuzxMwSJCkliLp)** by **Colin Stetson** *(New History Warfare Vol. 2: Judges)*
+🎤 **[Hauseingang](https://open.spotify.com/track/3aLZ0s5ulFLcFCtIZQblpo)** by **Pashanim** *(Hauseingang)*
+🎤 **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)*
+🎤 **[Eiszeit](https://open.spotify.com/track/79cvTvPiRhJ6Ubrl3i6Ipy)** by **James Jetski** *(Just Joking)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
+🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Stab The Voice**](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)
 
 
-🕐 Last updated: 2026-01-12 13:28:50Z UTC
+🕐 Last updated: 2026-01-12 13:57:48Z UTC
 <!-- SPOTIFY-END -->
