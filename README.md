@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733a8c72dda10644977c3b3d30" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d586274d4c9c7e1ed97f972" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)**
-*by* **blombi19**
-*Album:* nektar
+**🎵 [TL;DR](https://open.spotify.com/track/60xS8hPFTPwjZwZ5b2091p)**
+*by* **Bladee, Ecco2k, Thaiboy Digital**
+*Album:* TL;DR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 4:37
+    2:32 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hauseingang](https://open.spotify.com/track/3aLZ0s5ulFLcFCtIZQblpo)** by **Pashanim** *(Hauseingang)*
-🎤 **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)*
-🎤 **[Eiszeit](https://open.spotify.com/track/79cvTvPiRhJ6Ubrl3i6Ipy)** by **James Jetski** *(Just Joking)*
-🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
-🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
+🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
+🎤 **[BLOMSTERTID](https://open.spotify.com/track/7Eq5Yn8g8aZWkq6Z38mGcU)** by **Dj Billybool, Eurohead, Bladee** *(DYR)*
+🎤 **[GOLDKRONE](https://open.spotify.com/track/3yuGQEAZEbM4SnDFqOzoR1)** by **Kkuba102, 102 Boyz, Uncle F** *(SACHSCHADEN EP)*
+🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
+🎤 **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-12 23:11:29Z UTC
+🕐 Last updated: 2026-01-12 23:27:32Z UTC
 <!-- SPOTIFY-END -->
