@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273835c51ccec2427aec3e9ef9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27386c4322b91dfe27efb371d89" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [We Are The People - southstar Remix](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC)**
-*by* **Empire Of The Sun, southstar**
-*Album:* We Are The People (southstar Remix)
+**🎵 [Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)**
+*by* **The Hellp**
+*Album:* Vol. 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="46" height="4" fill="#1db954" rx="2"/>
-    <circle cx="46" cy="2" r="6" fill="#1db954"/>
+    <rect width="232" height="4" fill="#1db954" rx="2"/>
+    <circle cx="232" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 3:56
+    2:47 • 3:36
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Durch den Monsun - Radio Mix](https://open.spotify.com/track/41YOS7VuxHEEwYHLfa7VWM)** by **Tokio Hotel** *(Schrei (so laut du kannst) [New Version])*
-🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
-🎤 **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)*
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
+🎤 **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)*
+🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
+🎤 **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)*
+🎤 **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)*
+🎤 **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 18:22:42Z UTC
+🕐 Last updated: 2026-01-13 18:52:44Z UTC
 <!-- SPOTIFY-END -->
