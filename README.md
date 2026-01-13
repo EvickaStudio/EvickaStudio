@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27325f8c4c52c63b8d99a8a23b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273835c51ccec2427aec3e9ef9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rummelplatz](https://open.spotify.com/track/4YAAU6fRUHINAvPVNyx4NM)**
-*by* **Money Boy**
-*Album:* The Lost Tape III
+**🎵 [We Are The People - southstar Remix](https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC)**
+*by* **Empire Of The Sun, southstar**
+*Album:* We Are The People (southstar Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="102" height="4" fill="#1db954" rx="2"/>
-    <circle cx="102" cy="2" r="6" fill="#1db954"/>
+    <rect width="46" height="4" fill="#1db954" rx="2"/>
+    <circle cx="46" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:58 • 2:51
+    0:36 • 3:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Allein Allein](https://open.spotify.com/track/4HyJ1VGNu3IszMV0sTsqKP)** by **Polarkreis 18** *(The Colour Of Snow)*
-🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
-🎤 **[dancing crying at 4am in the rain](https://open.spotify.com/track/38tBhOt5B3ql2eBcl9r1rV)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
-🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
-🎤 **[SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla)** by **Varg²™, Bladee, Escha, Ytem** *(SHINIE)*
+🎤 **[Durch den Monsun - Radio Mix](https://open.spotify.com/track/41YOS7VuxHEEwYHLfa7VWM)** by **Tokio Hotel** *(Schrei (so laut du kannst) [New Version])*
+🎤 **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)*
+🎤 **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)*
+🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
+🎤 **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 17:49:02Z UTC
+🕐 Last updated: 2026-01-13 18:22:42Z UTC
 <!-- SPOTIFY-END -->
