@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c4537f19d17e0443febecc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Transgender](https://open.spotify.com/track/3pbN3SGJott0Rgb5aE5kqc)**
-*by* **Crystal Castles**
-*Album:* (III)
+**🎵 [N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)**
+*by* **flywoah**
+*Album:* N3ver Do
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="277" height="4" fill="#1db954" rx="2"/>
-    <circle cx="277" cy="2" r="6" fill="#1db954"/>
+    <rect width="86" height="4" fill="#1db954" rx="2"/>
+    <circle cx="86" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:51 • 3:04
+    0:28 • 1:39
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)*
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[Paranoid](https://open.spotify.com/track/0w2piYWj1F2bzUftzGJgK9)** by **Kanye West, Mr Hudson** *(808s & Heartbreak)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
-🎤 **[Punk Rocky](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F)** by **A$AP Rocky** *(Punk Rocky)*
+🎤 **[angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)** by **Clara Kimera, notinbed** *(angel candles)*
+🎤 **[Sweden Freestyle](https://open.spotify.com/track/1zcrrLJQERrIpOE1p5gMnH)** by **Jawnino** *(Sweden Freestyle)*
+🎤 **[Feel Good](https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa)** by **slowthai** *(UGLY)*
+🎤 **[Young Money](https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy)** by **LZee** *(Young Money)*
+🎤 **[Tropical Remix](https://open.spotify.com/track/2LE68RMpXjzqHiiFrF7zSP)** by **fakemink, EsDeeKid** *(Tropical Remix)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 15:17:05Z UTC
+🕐 Last updated: 2026-01-13 15:47:18Z UTC
 <!-- SPOTIFY-END -->
