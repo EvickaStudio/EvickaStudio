@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731c4537f19d17e0443febecc2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [N3ver Do](https://open.spotify.com/track/0RHvpuEEiznXLmtPePG55w)**
-*by* **flywoah**
-*Album:* N3ver Do
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:28 • 1:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq)** by **Clara Kimera, notinbed** *(angel candles)*
-🎤 **[Sweden Freestyle](https://open.spotify.com/track/1zcrrLJQERrIpOE1p5gMnH)** by **Jawnino** *(Sweden Freestyle)*
-🎤 **[Feel Good](https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa)** by **slowthai** *(UGLY)*
-🎤 **[Young Money](https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy)** by **LZee** *(Young Money)*
-🎤 **[Tropical Remix](https://open.spotify.com/track/2LE68RMpXjzqHiiFrF7zSP)** by **fakemink, EsDeeKid** *(Tropical Remix)*
+🎤 **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))*
+🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
+🎤 **[Colorway](https://open.spotify.com/track/4bnJS3XGKBBEFemguF1Fqi)** by **Baby Jane** *(A Grave Marked Strange)*
+🎤 **[Exitin](https://open.spotify.com/track/04GobBF9S74lfUGKIYLkcP)** by **Cece Natalie** *(Miss Behaves)*
+🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 15:47:18Z UTC
+🕐 Last updated: 2026-01-13 16:21:32Z UTC
 <!-- SPOTIFY-END -->
