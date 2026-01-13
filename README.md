@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2739f2dfb69365374ced0adccc1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Whatever I Want](https://open.spotify.com/track/5QA0VJmt0BeHzwTb5z6ouI)**
+*by* **Nosgov, Cartier God**
+*Album:* I Die 10000 Times a Day
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="266" height="4" fill="#1db954" rx="2"/>
+    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:38 • 2:58
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))*
-🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
-🎤 **[Colorway](https://open.spotify.com/track/4bnJS3XGKBBEFemguF1Fqi)** by **Baby Jane** *(A Grave Marked Strange)*
-🎤 **[Exitin](https://open.spotify.com/track/04GobBF9S74lfUGKIYLkcP)** by **Cece Natalie** *(Miss Behaves)*
-🎤 **[Aching Like It's](https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x)** by **Snow Strippers** *(Night Killaz Vol. 1)*
+🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
+🎤 **[why do u wnna stay](https://open.spotify.com/track/7sXNz1o1klsaAmpYnGKnSx)** by **KidSnorlax, Mezha** *(why do u wnna stay)*
+🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
+🎤 **[Incurable](https://open.spotify.com/track/3C7pbLZ1ByyQar6TUO5Tst)** by **Peake** *(Forever the Sickest Rose)*
+🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 16:21:32Z UTC
+🕐 Last updated: 2026-01-13 16:55:31Z UTC
 <!-- SPOTIFY-END -->
