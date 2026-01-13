@@ -95,20 +95,20 @@
 <img src="https://i.scdn.co/image/ab67616d0000b27351719fb2d95910eb79928b72" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Salt Water](https://open.spotify.com/track/5Xk5nvGIzIev5kn96CyrFA)**
-*by* **Evanora Unlimited, Taraneh**
+**🎵 [Covered Eyes](https://open.spotify.com/track/3NqE9pG70Esz3YM0d7tflQ)**
+*by* **Evanora Unlimited**
 *Album:* Perfect Answer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="161" height="4" fill="#1db954" rx="2"/>
-    <circle cx="161" cy="2" r="6" fill="#1db954"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 3:04
+    3:01 • 3:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wet and cold](https://open.spotify.com/track/3YxC56ZmUZO7yaT79YpP45)** by **archive computer** *(wet and cold)*
-🎤 **[nightwalk](https://open.spotify.com/track/4XE0Tz9w2AxQtJiuvltyQc)** by **meat computer** *(soundtrack to the end of a world)*
-🎤 **[still lost](https://open.spotify.com/track/79T8F5zoBYa3MZxCxBXwcp)** by **meat computer** *(soundtrack to the end of a world)*
-🎤 **[why do i feel like this ???](https://open.spotify.com/track/054K3BHGXhHYVzi9rdu0Vz)** by **meat computer** *(soundtrack to the end of a world)*
-🎤 **[weird pilled (freestyle)](https://open.spotify.com/track/5t7ofiy7o5NqNdcr9DShc0)** by **meat computer** *(weird pilled (freestyle))*
+🎤 **[life is shitty](https://open.spotify.com/track/44AOXVPm88PRrAU5C7vYsf)** by **Xxcrush, Capoxxo** *(lifeeee)*
+🎤 **[Height](https://open.spotify.com/track/1zwfAgWnR8GzpHQhv2BUN6)** by **The Hellp** *(Enemy)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[texas gun shop](https://open.spotify.com/track/1Mr6IZpgXWM2BlT5qdC5Kq)** by **Levi Ryan, gl0wrm** *(texas gun shop)*
+🎤 **[Dark Blue](https://open.spotify.com/track/4DferDVxwfwR4hQZiVBDvW)** by **User2222** *(Dark Blue)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 22:54:15Z UTC
+🕐 Last updated: 2026-01-13 23:13:51Z UTC
 <!-- SPOTIFY-END -->
