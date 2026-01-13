@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f39424b069f0ace613d5002c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b1605a9160d8c82af7430db4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)**
-*by* **Kilian Knight**
-*Album:* Es wird bald vorbei sein (Allein sein)
+**🎵 [relief fleeting](https://open.spotify.com/track/0x8SHme4Z4Jvd8DwSq1UYl)**
+*by* **archive computer**
+*Album:* relief fleeting
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="49" height="4" fill="#1db954" rx="2"/>
-    <circle cx="49" cy="2" r="6" fill="#1db954"/>
+    <rect width="82" height="4" fill="#1db954" rx="2"/>
+    <circle cx="82" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 2:43
+    1:05 • 3:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
-🎤 **[Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv)** by **Joji** *(Past Won't Leave My Bed)*
-🎤 **[Even Angels Cry](https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO)** by **PETROS** *(Even Angels Cry)*
-🎤 **[wokeuplikethis*](https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt)** by **Playboi Carti, Lil Uzi Vert** *(Playboi Carti)*
-🎤 **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)*
+🎤 **[UNDER CONTROL](https://open.spotify.com/track/1OGiBWp2vKLshpIWRlySc2)** by **funeral** *(UNDER CONTROL)*
+🎤 **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by **Baby B3ns** *(Herzcrash)*
+🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
+🎤 **[Was Glück ist](https://open.spotify.com/track/69UbBnSOAbFxB0WcLzTpm1)** by **TYM** *(Sandstorm)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 20:56:25Z UTC
+🕐 Last updated: 2026-01-13 21:16:55Z UTC
 <!-- SPOTIFY-END -->
