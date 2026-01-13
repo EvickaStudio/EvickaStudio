@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed422d1fa6541907ce533756" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273211667ead19d27c2de052787" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)**
+**🎵 [risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)**
 *by* **archive computer**
-*Album:* freedom from the world
+*Album:* risking all and everything
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="284" height="4" fill="#1db954" rx="2"/>
+    <circle cx="284" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:37 • 1:59
+    3:15 • 3:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
-🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
-🎤 **[i'm desperate](https://open.spotify.com/track/3UKXgbwGwFwmYY2eK1rVUK)** by **archive computer** *(i'm desperate)*
-🎤 **[void grasping](https://open.spotify.com/track/331HxkjG7Apt2urg6akO3b)** by **archive computer** *(void grasping)*
-🎤 **[how it feels to get run over](https://open.spotify.com/track/4QnKglUXjCju9fpFuQJJ9L)** by **archive computer** *(how it feels to get run over)*
+🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
+🎤 **[77 spiders](https://open.spotify.com/track/3HwiGErM6OLa8EoV77stLr)** by **archive computer** *(77 spiders)*
+🎤 **[off the perc](https://open.spotify.com/track/5JB9ZhaDS7pMpycDJYX5Tw)** by **archive computer** *(off the perc)*
+🎤 **[weirdo type beat](https://open.spotify.com/track/0BtFudqhq1SHTpAOJzxZH9)** by **archive computer** *(weirdo type beat)*
+🎤 **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 21:41:10Z UTC
+🕐 Last updated: 2026-01-13 21:51:45Z UTC
 <!-- SPOTIFY-END -->
