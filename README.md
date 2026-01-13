@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734d5a4a5196080e3b03fdf516" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27325f8c4c52c63b8d99a8a23b1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)**
-*by* **southstar**
-*Album:* Cover Up My Face
+**🎵 [Rummelplatz](https://open.spotify.com/track/4YAAU6fRUHINAvPVNyx4NM)**
+*by* **Money Boy**
+*Album:* The Lost Tape III
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="102" height="4" fill="#1db954" rx="2"/>
+    <circle cx="102" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 3:24
+    0:58 • 2:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bunnybunnybunny](https://open.spotify.com/track/1E29IO6Pv3JB4Sa7ZwVjMk)** by **Mietze Conte** *(bunnybunnybunny)*
-🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
-🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
-🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
-🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
+🎤 **[Allein Allein](https://open.spotify.com/track/4HyJ1VGNu3IszMV0sTsqKP)** by **Polarkreis 18** *(The Colour Of Snow)*
+🎤 **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))*
+🎤 **[dancing crying at 4am in the rain](https://open.spotify.com/track/38tBhOt5B3ql2eBcl9r1rV)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
+🎤 **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)*
+🎤 **[SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla)** by **Varg²™, Bladee, Escha, Ytem** *(SHINIE)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 17:21:30Z UTC
+🕐 Last updated: 2026-01-13 17:49:02Z UTC
 <!-- SPOTIFY-END -->
