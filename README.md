@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27311d937d84174216839e1ed28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ce715e75a1d58be06f853043" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)**
-*by* **DVRKLXGHT**
-*Album:* EUPHORIA
+**🎵 [Colt](https://open.spotify.com/track/1NGtH0zCZeoJiAzo7mAVnf)**
+*by* **HighSchool**
+*Album:* Colt
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="123" height="4" fill="#1db954" rx="2"/>
-    <circle cx="123" cy="2" r="6" fill="#1db954"/>
+    <rect width="241" height="4" fill="#1db954" rx="2"/>
+    <circle cx="241" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 3:03
+    3:55 • 4:53
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh)** by **Bob Dylan** *(Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))*
-🎤 **[Schau dass du nicht fällst](https://open.spotify.com/track/60qK7FiujHk7SNGjsa25MH)** by **kevin** *(7)*
-🎤 **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)*
-🎤 **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)*
-🎤 **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))*
+🎤 **[i crash, u crash](https://open.spotify.com/track/2miw7jNOAe9Qny5TG3vGyg)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
+🎤 **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)*
+🎤 **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 06:55:12Z UTC
+🕐 Last updated: 2026-01-13 07:19:28Z UTC
 <!-- SPOTIFY-END -->
