@@ -124,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 09:21:03Z UTC
+🕐 Last updated: 2026-01-13 09:48:25Z UTC
 <!-- SPOTIFY-END -->
