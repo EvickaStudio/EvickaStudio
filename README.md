@@ -119,10 +119,10 @@
 
 🥇 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 🥈 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
-🥉 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
-🏅 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
+🥉 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
+🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 08:52:49Z UTC
+🕐 Last updated: 2026-01-13 09:21:03Z UTC
 <!-- SPOTIFY-END -->
