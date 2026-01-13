@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e0b1e14d98fe5a4f13f130ae" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [March Meant](https://open.spotify.com/track/7bTqycKgdL8NJSNwH9Y5HM)**
-*by* **User2222, Juniper Fields**
-*Album:* March Meant
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 2:59
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Sequoia Tide](https://open.spotify.com/track/3pjAWILo9SUmlkzgyd9eb7)** by **Evanora Unlimited, She Diamond** *(Perfect Answer)*
-🎤 **[The Prayer](https://open.spotify.com/track/10f3slxAbJLHl4OURuxgzq)** by **Thrilliam Angels, Mori Mori, User2222** *(The Static Screams Your Name)*
-🎤 **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)*
-🎤 **[there is no love in rome](https://open.spotify.com/track/4CSgjPK90IvoL5vRkGRbTA)** by **Levi Ryan** *(there is no love in rome)*
+🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
+🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[Unifier](https://open.spotify.com/track/1MgayGKX4jrShy651NAnBd)** by **Ayegy, User2222** *(Unifier)*
+🎤 **[Vampire Queen](https://open.spotify.com/track/3sWK0KgcD3qM7gCxqFMFxV)** by **Digighouls** *(Vampire Rave Party)*
+🎤 **[March Meant](https://open.spotify.com/track/7bTqycKgdL8NJSNwH9Y5HM)** by **User2222, Juniper Fields** *(March Meant)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 23:30:24Z UTC
+🕐 Last updated: 2026-01-13 23:49:11Z UTC
 <!-- SPOTIFY-END -->
