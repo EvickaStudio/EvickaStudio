@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a4401ef999757d7fc9d03c82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27333f65223e30d5509372ac6d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)**
-*by* **archive computer**
-*Album:* she knows
+**🎵 [stuck in wpg](https://open.spotify.com/track/1VL0g5od7B0Ewd3l9gkzbi)**
+*by* **meat computer**
+*Album:* stuck in wpg
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="80" height="4" fill="#1db954" rx="2"/>
-    <circle cx="80" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 1:10
+    0:19 • 2:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[deep water](https://open.spotify.com/track/6Bwbo0RIK4g0FycUKdRi7g)** by **archive computer** *(deep water)*
-🎤 **[trust](https://open.spotify.com/track/6GnFlTeCYuCzsmICRilTYB)** by **archive computer, capoxxo** *(trust)*
-🎤 **[dead end](https://open.spotify.com/track/2Nh47G6nuD5hcnDyKajZBB)** by **archive computer** *(dead end)*
-🎤 **[falling apart](https://open.spotify.com/track/1htBiS2BuChBecqigC9zuY)** by **archive computer** *(falling apart)*
-🎤 **[hurt](https://open.spotify.com/track/3kLgOLV4rB8Sjjyadqijam)** by **archive computer** *(hurt)*
+🎤 **[stuck being me](https://open.spotify.com/track/36ehYWySlTsOdxph8VpeGk)** by **meat computer** *(soundtrack to the end of a world)*
+🎤 **[wet and cold](https://open.spotify.com/track/3YxC56ZmUZO7yaT79YpP45)** by **archive computer** *(wet and cold)*
+🎤 **[perc nowitzki freestyle](https://open.spotify.com/track/3GUc27oIV4GGlpzj2qr7mj)** by **archive computer** *(perc nowitzki freestyle)*
+🎤 **[0.001 bitcoin stimulus](https://open.spotify.com/track/6Ts7T7YpRTJ5FZGokuNDal)** by **archive computer** *(0.001 bitcoin stimulus)*
+🎤 **[help](https://open.spotify.com/track/5C2xnKc4xyTLy99RRzNb3h)** by **archive computer** *(help)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 22:14:46Z UTC
+🕐 Last updated: 2026-01-13 22:40:53Z UTC
 <!-- SPOTIFY-END -->
