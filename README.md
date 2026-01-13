@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ac22e367a3bb9308d2a2beb5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq)**
-*by* **Grimes**
-*Album:* Visions
+**🎵 [Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]](https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD)**
+*by* **CIZA, Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats**
+*Album:* Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="135" height="4" fill="#1db954" rx="2"/>
-    <circle cx="135" cy="2" r="6" fill="#1db954"/>
+    <rect width="63" height="4" fill="#1db954" rx="2"/>
+    <circle cx="63" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:55 • 4:15
+    1:00 • 4:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
-🎤 **[Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8)** by **Adam Lambert** *(The Original High (Deluxe Version))*
-🎤 **[Träume](https://open.spotify.com/track/7k7v4A2i6OOOm8nloy8X9j)** by **Drachenlord** *(Träume)*
-🎤 **[Scherben](https://open.spotify.com/track/4NkFFwyuMmqK1IZbZBU4Ux)** by **Drachenlord** *(Scherben)*
-🎤 **[Barrenkrieg](https://open.spotify.com/track/0BXYFjolgfzylUqZqQqJlx)** by **Drachenlord** *(Barrenkrieg)*
+🎤 **[Tumo Weto](https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4)** by **Mavo** *(Ukanigbe)*
+🎤 **[Intentions (feat. Urban Chords)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw)** by **FAVE, Urban Chords** *(Intentions (feat. Urban Chords))*
+🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[Perfect Violation](https://open.spotify.com/track/5sUY2FPXJy1E2eZPBdT7AW)** by **Varg²™, Bladee** *(Evanescence (a Love Letter))*
+🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
 
 
 
@@ -136,12 +136,12 @@
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
-🥈 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
-🥉 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
-🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
+🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
+🥈 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
+🥉 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
+🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 11:50:12Z UTC
+🕐 Last updated: 2026-01-13 12:30:29Z UTC
 <!-- SPOTIFY-END -->
