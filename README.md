@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Träume](https://open.spotify.com/track/7k7v4A2i6OOOm8nloy8X9j)** by **Drachenlord** *(Träume)*
+🎤 **[Scherben](https://open.spotify.com/track/4NkFFwyuMmqK1IZbZBU4Ux)** by **Drachenlord** *(Scherben)*
+🎤 **[Barrenkrieg](https://open.spotify.com/track/0BXYFjolgfzylUqZqQqJlx)** by **Drachenlord** *(Barrenkrieg)*
 🎤 **[Versificateur](https://open.spotify.com/track/16SSORMtvK8ByCsP1EgSLv)** by **Drachenlord** *(Versificateur)*
 🎤 **[Mana](https://open.spotify.com/track/3wpMZstk5M6tpq7o3UTNv9)** by **Drachenlord** *(Mana)*
-🎤 **[Skrrr Skrrr](https://open.spotify.com/track/45lxOAnhWbPmVYO393RvA3)** by **Drachenlord** *(Skrrr Skrrr)*
-🎤 **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)*
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 10:47:44Z UTC
+🕐 Last updated: 2026-01-13 11:13:52Z UTC
 <!-- SPOTIFY-END -->
