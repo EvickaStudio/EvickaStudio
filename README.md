@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b1605a9160d8c82af7430db4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed422d1fa6541907ce533756" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [relief fleeting](https://open.spotify.com/track/0x8SHme4Z4Jvd8DwSq1UYl)**
+**🎵 [freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)**
 *by* **archive computer**
-*Album:* relief fleeting
+*Album:* freedom from the world
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="82" height="4" fill="#1db954" rx="2"/>
-    <circle cx="82" cy="2" r="6" fill="#1db954"/>
+    <rect width="246" height="4" fill="#1db954" rx="2"/>
+    <circle cx="246" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 3:55
+    1:37 • 1:59
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[UNDER CONTROL](https://open.spotify.com/track/1OGiBWp2vKLshpIWRlySc2)** by **funeral** *(UNDER CONTROL)*
-🎤 **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by **Baby B3ns** *(Herzcrash)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
-🎤 **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)*
-🎤 **[Was Glück ist](https://open.spotify.com/track/69UbBnSOAbFxB0WcLzTpm1)** by **TYM** *(Sandstorm)*
+🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
+🎤 **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)*
+🎤 **[i'm desperate](https://open.spotify.com/track/3UKXgbwGwFwmYY2eK1rVUK)** by **archive computer** *(i'm desperate)*
+🎤 **[void grasping](https://open.spotify.com/track/331HxkjG7Apt2urg6akO3b)** by **archive computer** *(void grasping)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/4QnKglUXjCju9fpFuQJJ9L)** by **archive computer** *(how it feels to get run over)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 21:16:55Z UTC
+🕐 Last updated: 2026-01-13 21:41:10Z UTC
 <!-- SPOTIFY-END -->
