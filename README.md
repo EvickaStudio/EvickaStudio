@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f2dfb69365374ced0adccc1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734d5a4a5196080e3b03fdf516" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Whatever I Want](https://open.spotify.com/track/5QA0VJmt0BeHzwTb5z6ouI)**
-*by* **Nosgov, Cartier God**
-*Album:* I Die 10000 Times a Day
+**🎵 [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG)**
+*by* **southstar**
+*Album:* Cover Up My Face
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="266" height="4" fill="#1db954" rx="2"/>
-    <circle cx="266" cy="2" r="6" fill="#1db954"/>
+    <rect width="66" height="4" fill="#1db954" rx="2"/>
+    <circle cx="66" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 2:58
+    0:45 • 3:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
-🎤 **[why do u wnna stay](https://open.spotify.com/track/7sXNz1o1klsaAmpYnGKnSx)** by **KidSnorlax, Mezha** *(why do u wnna stay)*
-🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
-🎤 **[Incurable](https://open.spotify.com/track/3C7pbLZ1ByyQar6TUO5Tst)** by **Peake** *(Forever the Sickest Rose)*
-🎤 **[air](https://open.spotify.com/track/63L7LFC5AmXRJeqlzB6ueY)** by **dreamcache, Capoxxo** *(alive)*
+🎤 **[bunnybunnybunny](https://open.spotify.com/track/1E29IO6Pv3JB4Sa7ZwVjMk)** by **Mietze Conte** *(bunnybunnybunny)*
+🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
+🎤 **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))*
+🎤 **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 16:55:31Z UTC
+🕐 Last updated: 2026-01-13 17:21:30Z UTC
 <!-- SPOTIFY-END -->
