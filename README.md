@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c45c1c29c18a5e0b46fc117" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4)**
-*by* **Asake, Wizkid**
-*Album:* Lungu Boy
+**🎵 [Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 3:39
+    1:54 • 2:05
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
-🎤 **[gymnastics - cece natalie house remix](https://open.spotify.com/track/2SANR29IcggqNI8xxB8USl)** by **Cece Natalie** *(Recycling Bin Collection 2)*
-🎤 **[GET HIGHER](https://open.spotify.com/track/3MiqSOZesQI2NctPFdSyzP)** by **SOPHIE** *(PRODUCT)*
-🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
+🎤 **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
+🎤 **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-13 19:48:15Z UTC
+🕐 Last updated: 2026-01-13 20:16:26Z UTC
 <!-- SPOTIFY-END -->
