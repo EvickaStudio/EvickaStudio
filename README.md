@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733067538e508a1553e6df6ee5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE)**
-*by* **Deftones**
-*Album:* Diamond Eyes
+**🎵 [brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)**
+*by* **re6ce**
+*Album:* brown eyes*
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="116" height="4" fill="#1db954" rx="2"/>
-    <circle cx="116" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:33 • 4:01
+    2:19 • 2:43
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pussypodium](https://open.spotify.com/track/5txB5jK1twwIOUWtrz8jcT)** by **akiaura, LONOWN** *(Destruction Age)*
-🎤 **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)*
-🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
-🎤 **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)*
+🎤 **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Lies in the Eyes of Love](https://open.spotify.com/track/5JQuDFh7QKTjJDoEQAmaO8)** by **Part Time** *(Lies in the Eyes of Love)*
+🎤 **[Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)** by **$uicideboy$** *(7th or St. Tammany)*
+🎤 **[Clarity (feat. Foxes) - Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0)** by **Zedd, Foxes** *(Club Life, Vol. 3 - Stockholm)*
+🎤 **[cobain](https://open.spotify.com/track/0zfLZO4iwrwWu9Gqfdj5ha)** by **Lil Peep, Lil Tracy** *(HELLBOY)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 11:14:43Z UTC
+🕐 Last updated: 2026-01-14 11:34:32Z UTC
 <!-- SPOTIFY-END -->
