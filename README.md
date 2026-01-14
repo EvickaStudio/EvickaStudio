@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27328c50326b4e477d500965a43" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273786201dca187d2b0c956c24b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)**
-*by* **RomancePlanet**
-*Album:* ALONE IN THE DARK
+**🎵 [You & Me - Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ)**
+*by* **Disclosure, Eliza Doolittle, Flume**
+*Album:* Settle (Special Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="15" height="4" fill="#1db954" rx="2"/>
-    <circle cx="15" cy="2" r="6" fill="#1db954"/>
+    <rect width="90" height="4" fill="#1db954" rx="2"/>
+    <circle cx="90" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 2:15
+    1:25 • 4:42
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sleep](https://open.spotify.com/track/71BVACmPHMoreRzjad8ncr)** by **smokedope2016, Nokia Angel** *(Sleep)*
-🎤 **[KISS ME](https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX)** by **SPIKEMYHEART, SEETHROUGH** *(KISS ME)*
-🎤 **[temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)** by **temcandoanything** *(blue screen'd my navii)*
-🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
-🎤 **[I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg)** by **Rebzyyx** *(I'm so crazy for youuu </3)*
+🎤 **[Sie ist anders <facts3](https://open.spotify.com/track/00zz1ewpuL22UuoLmvIzYV)** by **Replay Okay** *(RIP Hyperpop DE 2022-2025)*
+🎤 **[Letting A New Day Begin pt2](https://open.spotify.com/track/6dgbf5XFy38b0kaqwmiN3Q)** by **DJmegan23** *(Dopamine Machine 4)*
+🎤 **[Canary Wharf Drift](https://open.spotify.com/track/4CiTj60vRv6t6ZtefzA7ia)** by **Bassvictim, Oatmilkandcodeine** *(Basspunk)*
+🎤 **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)*
+🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 11:51:03Z UTC
+🕐 Last updated: 2026-01-14 12:29:45Z UTC
 <!-- SPOTIFY-END -->
