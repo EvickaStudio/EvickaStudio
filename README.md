@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273913b65dba0cbd411ffa45809" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)**
-*by* **Jassin, Edwin Rosen**
-*Album:* Arsenalplatz
+**🎵 [All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)**
+*by* **Nokia Angel, smokedope2016**
+*Album:* In Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="169" height="4" fill="#1db954" rx="2"/>
-    <circle cx="169" cy="2" r="6" fill="#1db954"/>
+    <rect width="180" height="4" fill="#1db954" rx="2"/>
+    <circle cx="180" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 3:58
+    2:01 • 3:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)*
-🎤 **[in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)** by **meat computer** *(new world disorder)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)*
-🎤 **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
+🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[SaveOST](https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei)** by **sparr00w** *(Save Room Theme)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 21:34:54Z UTC
+🕐 Last updated: 2026-01-14 21:51:52Z UTC
 <!-- SPOTIFY-END -->
