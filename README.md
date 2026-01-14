@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27333f65223e30d5509372ac6d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [stuck in wpg](https://open.spotify.com/track/1VL0g5od7B0Ewd3l9gkzbi)**
-*by* **meat computer**
-*Album:* stuck in wpg
+**🎵 [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)**
+*by* **Sidewalks and Skeletons**
+*Album:* White Light
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="73" height="4" fill="#1db954" rx="2"/>
+    <circle cx="73" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 2:02
+    0:50 • 3:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[stuck being me](https://open.spotify.com/track/36ehYWySlTsOdxph8VpeGk)** by **meat computer** *(soundtrack to the end of a world)*
-🎤 **[wet and cold](https://open.spotify.com/track/3YxC56ZmUZO7yaT79YpP45)** by **archive computer** *(wet and cold)*
-🎤 **[perc nowitzki freestyle](https://open.spotify.com/track/3GUc27oIV4GGlpzj2qr7mj)** by **archive computer** *(perc nowitzki freestyle)*
-🎤 **[0.001 bitcoin stimulus](https://open.spotify.com/track/6Ts7T7YpRTJ5FZGokuNDal)** by **archive computer** *(0.001 bitcoin stimulus)*
-🎤 **[help](https://open.spotify.com/track/5C2xnKc4xyTLy99RRzNb3h)** by **archive computer** *(help)*
+🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Trancendance](https://open.spotify.com/track/1AY0mnYvzxzFPW4Jd7cFn6)** by **Ayegy** *(DJ Fence Cat Presents: Real True Electronica)*
+🎤 **[Born To Dominate](https://open.spotify.com/track/6I9lcPdi5GYOrUpxZJ9Sk7)** by **Thrilliam Angels, Rain KaWulf** *(The Static Screams Your Name)*
+🎤 **[summer2012](https://open.spotify.com/track/1zsR8fB3wdANNfJZI9QEiM)** by **archive computer** *(summer2012)*
+🎤 **[nightwalk](https://open.spotify.com/track/4XE0Tz9w2AxQtJiuvltyQc)** by **meat computer** *(soundtrack to the end of a world)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 06:55:01Z UTC
+🕐 Last updated: 2026-01-14 07:19:47Z UTC
 <!-- SPOTIFY-END -->
