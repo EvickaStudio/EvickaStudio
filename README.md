@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
+🎤 **[facetune](https://open.spotify.com/track/2HkjPoZWoySeVbhIvCx9W9)** by **dreamcache** *(facetune)*
 🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
 🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
 🎤 **[Unifier](https://open.spotify.com/track/1MgayGKX4jrShy651NAnBd)** by **Ayegy, User2222** *(Unifier)*
-🎤 **[Vampire Queen](https://open.spotify.com/track/3sWK0KgcD3qM7gCxqFMFxV)** by **Digighouls** *(Vampire Rave Party)*
-🎤 **[March Meant](https://open.spotify.com/track/7bTqycKgdL8NJSNwH9Y5HM)** by **User2222, Juniper Fields** *(March Meant)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 04:58:21Z UTC
+🕐 Last updated: 2026-01-14 05:25:05Z UTC
 <!-- SPOTIFY-END -->
