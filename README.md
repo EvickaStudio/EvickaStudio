@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b9826a0336c5f40e976a13ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)**
+*by* **archive computer**
+*Album:* soul doubt
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="142" height="4" fill="#1db954" rx="2"/>
+    <circle cx="142" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:15 • 2:39
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
-🎤 **[facetune](https://open.spotify.com/track/2HkjPoZWoySeVbhIvCx9W9)** by **dreamcache** *(facetune)*
-🎤 **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)*
-🎤 **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)*
-🎤 **[Unifier](https://open.spotify.com/track/1MgayGKX4jrShy651NAnBd)** by **Ayegy, User2222** *(Unifier)*
+🎤 **[i'm desperate](https://open.spotify.com/track/3UKXgbwGwFwmYY2eK1rVUK)** by **archive computer** *(i'm desperate)*
+🎤 **[void grasping](https://open.spotify.com/track/331HxkjG7Apt2urg6akO3b)** by **archive computer** *(void grasping)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/4QnKglUXjCju9fpFuQJJ9L)** by **archive computer** *(how it feels to get run over)*
+🎤 **[dehumanizing audio](https://open.spotify.com/track/2dN0mOtiiOrMfeVKOjTF8c)** by **archive computer** *(dehumanizing audio)*
+🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 05:25:05Z UTC
+🕐 Last updated: 2026-01-14 05:46:43Z UTC
 <!-- SPOTIFY-END -->
