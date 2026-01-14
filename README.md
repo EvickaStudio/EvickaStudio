@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6)**
-*by* **Sidewalks and Skeletons**
-*Album:* White Light
+**🎵 [All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)**
+*by* **Nokia Angel, smokedope2016**
+*Album:* In Haze
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="73" height="4" fill="#1db954" rx="2"/>
-    <circle cx="73" cy="2" r="6" fill="#1db954"/>
+    <rect width="211" height="4" fill="#1db954" rx="2"/>
+    <circle cx="211" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:50 • 3:27
+    2:22 • 3:21
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Trancendance](https://open.spotify.com/track/1AY0mnYvzxzFPW4Jd7cFn6)** by **Ayegy** *(DJ Fence Cat Presents: Real True Electronica)*
-🎤 **[Born To Dominate](https://open.spotify.com/track/6I9lcPdi5GYOrUpxZJ9Sk7)** by **Thrilliam Angels, Rain KaWulf** *(The Static Screams Your Name)*
-🎤 **[summer2012](https://open.spotify.com/track/1zsR8fB3wdANNfJZI9QEiM)** by **archive computer** *(summer2012)*
-🎤 **[nightwalk](https://open.spotify.com/track/4XE0Tz9w2AxQtJiuvltyQc)** by **meat computer** *(soundtrack to the end of a world)*
+🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
+🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 07:19:47Z UTC
+🕐 Last updated: 2026-01-14 07:43:49Z UTC
 <!-- SPOTIFY-END -->
