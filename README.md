@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273447b3becf3e08955fc43a143" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)**
-*by* **Eera, Lilac**
-*Album:* As I Break Apart
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="288" height="4" fill="#1db954" rx="2"/>
-    <circle cx="288" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:01
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Air Bnb Sonnet](https://open.spotify.com/track/2RH5vqBNPnuXkJvuumNmxr)** by **The Hellp** *(Enemy)*
-🎤 **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)*
-🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
-🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
-🎤 **[GUN SONG](https://open.spotify.com/track/4lFGraxsJrAJ83YV94iez8)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
+🎤 **[non zen darkness manuever](https://open.spotify.com/track/5EZo8rqOQqpOU38sft0zd7)** by **meat computer** *(new world disorder)*
+🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
+🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 22:14:57Z UTC
+🕐 Last updated: 2026-01-14 22:41:30Z UTC
 <!-- SPOTIFY-END -->
