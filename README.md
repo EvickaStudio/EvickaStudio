@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739dd16b44e27d0cc5aa678769" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)**
-*by* **Whitearmor**
-*Album:* In the Abyss: Music for Weddings
+**🎵 [Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)**
+*by* **PureSnow**
+*Album:* Revelation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="269" height="4" fill="#1db954" rx="2"/>
-    <circle cx="269" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:28 • 3:52
+    0:47 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
-🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
-🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
+🎤 **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 15:46:44Z UTC
+🕐 Last updated: 2026-01-14 16:20:48Z UTC
 <!-- SPOTIFY-END -->
