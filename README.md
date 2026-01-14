@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b9826a0336c5f40e976a13ab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f1d628b49496c97633cdb461" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)**
-*by* **archive computer**
-*Album:* soul doubt
+**🎵 [trust](https://open.spotify.com/track/6GnFlTeCYuCzsmICRilTYB)**
+*by* **archive computer, capoxxo**
+*Album:* trust
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="142" height="4" fill="#1db954" rx="2"/>
-    <circle cx="142" cy="2" r="6" fill="#1db954"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 2:39
+    0:08 • 2:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i'm desperate](https://open.spotify.com/track/3UKXgbwGwFwmYY2eK1rVUK)** by **archive computer** *(i'm desperate)*
-🎤 **[void grasping](https://open.spotify.com/track/331HxkjG7Apt2urg6akO3b)** by **archive computer** *(void grasping)*
-🎤 **[how it feels to get run over](https://open.spotify.com/track/4QnKglUXjCju9fpFuQJJ9L)** by **archive computer** *(how it feels to get run over)*
-🎤 **[dehumanizing audio](https://open.spotify.com/track/2dN0mOtiiOrMfeVKOjTF8c)** by **archive computer** *(dehumanizing audio)*
-🎤 **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)*
+🎤 **[falling apart](https://open.spotify.com/track/1htBiS2BuChBecqigC9zuY)** by **archive computer** *(falling apart)*
+🎤 **[hurt](https://open.spotify.com/track/3kLgOLV4rB8Sjjyadqijam)** by **archive computer** *(hurt)*
+🎤 **[weird inner conversations](https://open.spotify.com/track/2J5zZkDt2lyxgfWdSKfhMU)** by **archive computer** *(weird inner conversations)*
+🎤 **[im so lonely](https://open.spotify.com/track/6h2hph8u9dVVA4YQh2Ut4S)** by **archive computer** *(im so lonely)*
+🎤 **[meaningless aimless universe](https://open.spotify.com/track/0u5FlSitgbR9sdQc3WFdn2)** by **archive computer** *(meaningless aimless universe)*
 
 
 
@@ -128,9 +128,9 @@
 
 🥇 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥉 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
+🥉 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
+🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 05:46:43Z UTC
+🕐 Last updated: 2026-01-14 06:23:26Z UTC
 <!-- SPOTIFY-END -->
