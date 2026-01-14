@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d9ad771e9f58e231a391e2f7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273866daa4ba1690cde69054822" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)**
-*by* **SUICIDAL-IDOL, hoshie star**
-*Album:* Right Next 2 U
+**🎵 [EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)**
+*by* **nuphory, Luna Lenta**
+*Album:* EXOPLANET // HYPERTRANCE
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="138" height="4" fill="#1db954" rx="2"/>
+    <circle cx="138" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:23 • 2:08
+    1:49 • 3:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))*
-🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
-🎤 **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)*
-🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
+🎤 **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)*
+🎤 **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)*
+🎤 **[somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)** by **Senses, mint, Nosgov** *(somewhere safe)*
+🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
+🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-14 18:22:43Z UTC
+🕐 Last updated: 2026-01-14 18:55:10Z UTC
 <!-- SPOTIFY-END -->
