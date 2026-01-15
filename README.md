@@ -95,20 +95,20 @@
 <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [So What](https://open.spotify.com/track/5WPARJFAemzCHkpwyDhEf5)**
-*by* **Bladee, Ecco2k**
+**🎵 [Wrist Cry](https://open.spotify.com/track/5R4LsSsOshbStU1QjRWEKt)**
+*by* **Bladee**
 *Album:* Eversince
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="185" height="4" fill="#1db954" rx="2"/>
-    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+    <rect width="157" height="4" fill="#1db954" rx="2"/>
+    <circle cx="157" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 3:19
+    2:03 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Who Goes There](https://open.spotify.com/track/0BRAPjnIOeVI48xwf9BTmV)** by **Bladee** *(Eversince)*
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
-🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
+🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
+🎤 **[Bloodveil / Stillborn](https://open.spotify.com/track/7lsxrbHKYBNcRW53M9RQ0U)** by **Bladee, Ecco2k** *(Eversince)*
+🎤 **[Rip](https://open.spotify.com/track/4fdi76zJ26bs0GDq1o8j54)** by **Bladee** *(Eversince)*
+🎤 **[Sick](https://open.spotify.com/track/6Gx4FmWOlLGpUckECC4Ytb)** by **Bladee** *(Eversince)*
+🎤 **[Xd Out](https://open.spotify.com/track/6wv2Mx3e92cHc11n89G7Mn)** by **Bladee** *(Eversince)*
 
 
 
@@ -128,8 +128,8 @@
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 08:51:53Z UTC
+🕐 Last updated: 2026-01-15 09:20:47Z UTC
 <!-- SPOTIFY-END -->
