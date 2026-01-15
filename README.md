@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273405c45a0b05eac15b7982c7a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)**
+*by* **luu, mehlhaltig**
+*Album:* deluulu but mehlodic
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="98" height="4" fill="#1db954" rx="2"/>
+    <circle cx="98" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:32 • 1:39
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)*
-🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
-🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
-🎤 **[Sumpf Monster](https://open.spotify.com/track/2M1eJuf8d8vjg6kD4C0eBI)** by **grim noir** *(Sumpf Monster)*
+🎤 **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)*
+🎤 **[einhornkadaver](https://open.spotify.com/track/71YJxSRB9VAMlk5wCLjyPN)** by **n3vio, luu** *(einhornkadaver)*
+🎤 **[freitag nacht](https://open.spotify.com/track/33VVdo9SLmp7ulNcZAM0kY)** by **pink luu, nami** *(freitag nacht)*
+🎤 **[Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[fashionscars - i won't ever play this live](https://open.spotify.com/track/0JYXIdTeTHG7OI1JrYxlTh)** by **stixz** *(fashionscars)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 15:52:10Z UTC
+🕐 Last updated: 2026-01-15 16:25:51Z UTC
 <!-- SPOTIFY-END -->
