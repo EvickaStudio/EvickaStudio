@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Fix Up, Lights On](https://open.spotify.com/track/1ogzpq3ngMUIuwUzQJVsLO)** by **Rooster** *(Rooster Slipped)*
-🎤 **[Plastic Surgery](https://open.spotify.com/track/5gzoBTffaHN5QYrT1XG5Gk)** by **Bladee, Ecco2k** *(Plastic Surgery)*
-🎤 **[angels in camo](https://open.spotify.com/track/7a4dV5aM4pHsTdOkqIVK8l)** by **Jane Remover** *(Revengeseekerz)*
-🎤 **[Hocus Pocus](https://open.spotify.com/track/4paa1ozjQuE3jrie757wN1)** by **Yung Lean, Bladee** *(Warlord)*
-🎤 **[I Wanna Be Adored](https://open.spotify.com/track/4oK8hbI2kpBFjdWiPNibpE)** by **Nokia Angel** *(I Wanna Be Adored)*
+🎤 **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)*
+🎤 **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)*
+🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
+🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[Sumpf Monster](https://open.spotify.com/track/2M1eJuf8d8vjg6kD4C0eBI)** by **grim noir** *(Sumpf Monster)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 13:22:18Z UTC
+🕐 Last updated: 2026-01-15 13:55:14Z UTC
 <!-- SPOTIFY-END -->
