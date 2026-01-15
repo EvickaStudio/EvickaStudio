@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736fa69696362e3047424bb49a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eeeb8050799b61bf58df30bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Walk With Me](https://open.spotify.com/track/2AkU3nekxTowTkJCvZPU0M)**
-*by* **Razegod, Burgos**
-*Album:* Dying
+**🎵 [Cut](https://open.spotify.com/track/5GxwCuVFulzmMOACGiDwZ7)**
+*by* **BONES**
+*Album:* PaidProgramming
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="60" height="4" fill="#1db954" rx="2"/>
-    <circle cx="60" cy="2" r="6" fill="#1db954"/>
+    <rect width="258" height="4" fill="#1db954" rx="2"/>
+    <circle cx="258" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 3:13
+    1:34 • 1:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Paper Dreams](https://open.spotify.com/track/5L6rkLs25dz2iDC3S3D0TW)** by **Carter Tomorrow** *(Paper Dreams)*
-🎤 **[Path](https://open.spotify.com/track/30qrWCnPyJNM9EEkCdvNHQ)** by **Corbin** *(Ghost With Skin)*
-🎤 **[SlayTheDragon,SaveThePrincess](https://open.spotify.com/track/5DphtwbbcrJWxjTTH8YoGy)** by **BONES, grayera** *(WITHERED)*
-🎤 **[Looking For You](https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI)** by **Lil Peep** *(HATE ME)*
-🎤 **[Mask It to the Casket](https://open.spotify.com/track/16u5jqodaQ5oWqhoTxhJhe)** by **Corbin** *(Ghost With Skin)*
+🎤 **[don't know who i am...](https://open.spotify.com/track/1qSMgrZUlNwU5j7mBOWvwp)** by **Razegod, Burgos** *(Dying)*
+🎤 **[Shaun White](https://open.spotify.com/track/7bcuO1wFvhjYErw3YHgJjI)** by **cr1tter** *(UnderDog Tale)*
+🎤 **[Yes or No](https://open.spotify.com/track/06mecKND9vnvkc8JKbOfAh)** by **Corbin** *(Ghost With Skin)*
+🎤 **[so far so slow](https://open.spotify.com/track/2OfZXXiq7mLRCKAnSzLnhH)** by **chaste, Open Ocean** *(so far so slow)*
+🎤 **[ItAllComesTogetherInTheFinalAct](https://open.spotify.com/track/3k47AJRISDs4CwsFOiY2e1)** by **BONES** *(Powder)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 21:14:29Z UTC
+🕐 Last updated: 2026-01-15 21:34:36Z UTC
 <!-- SPOTIFY-END -->
