@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735630576b92b52f435d4cb3af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27327b8f6bcf663da4e40336931" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)**
-*by* **leander, ilyproxy, Hadesthegrim**
-*Album:* GV Magazin: Deluxe Sex
+**🎵 [Fear](https://open.spotify.com/track/4rHfpAN2CK3H6eRWd7j7E0)**
+*by* **Current Joys**
+*Album:* A Different Age
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="265" height="4" fill="#1db954" rx="2"/>
-    <circle cx="265" cy="2" r="6" fill="#1db954"/>
+    <rect width="271" height="4" fill="#1db954" rx="2"/>
+    <circle cx="271" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:31 • 2:51
+    3:16 • 3:36
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)*
-🎤 **[cnt rlly see](https://open.spotify.com/track/7tg5Rejq7Df7PCWHcJgBTa)** by **syris, Nightclub20xx** *(cnt rlly see)*
-🎤 **[gestalten in der nacht](https://open.spotify.com/track/5Wn1WL32comRayXpouDJHf)** by **luu, cxpyyy** *(immenser pflegefall)*
-🎤 **[SWITCHBLADE](https://open.spotify.com/track/41QFNJ4s2mQBoOnILWUhdI)** by **Hello Hannes** *(SWITCHBLADE)*
-🎤 **[love the way u bleed<3](https://open.spotify.com/track/7u2tw7PT26xdtPiHWo1bP4)** by **1stress** *(love the way u bleed<3)*
+🎤 **[how it feels to get run over](https://open.spotify.com/track/4QnKglUXjCju9fpFuQJJ9L)** by **archive computer** *(how it feels to get run over)*
+🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
+🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
+🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
 
 
 
@@ -139,9 +139,9 @@
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🥈 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 🥉 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
-🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
+🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 17:01:26Z UTC
+🕐 Last updated: 2026-01-15 17:48:37Z UTC
 <!-- SPOTIFY-END -->
