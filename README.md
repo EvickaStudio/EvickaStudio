@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326e42b71afd75d9b029f5c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731b8a46d3a04fc07f884e3b28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lifetime Of You](https://open.spotify.com/track/18F2ZCccF3VIybUpuoqwkx)**
-*by* **Thrilliam Angels, CLAIR, Crimson Chaos, d.j. polyplus u.c.**
-*Album:* This Sunrise Is Brutal
+**🎵 [Life Glows On](https://open.spotify.com/track/5GfvzrqerqQnMZ8dkM00yF)**
+*by* **Thrilliam Angels**
+*Album:* The Static Screams Your Name
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="134" height="4" fill="#1db954" rx="2"/>
-    <circle cx="134" cy="2" r="6" fill="#1db954"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:31
+    1:12 • 1:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)*
-🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
-🎤 **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)*
-🎤 **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)*
-🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
+🎤 **[just don't](https://open.spotify.com/track/7dignw6Xutm9A83JlW7mAO)** by **meat computer** *(just don't)*
+🎤 **[Cold Wind Blowing](https://open.spotify.com/track/3slUVhcwj0L7F4Dn1Hxx8Z)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
+🎤 **[blind](https://open.spotify.com/track/0boIvmG2Vi9mRAIu5RmsKl)** by **dreamcache, Capoxxo** *(blind)*
+🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 06:22:35Z UTC
+🕐 Last updated: 2026-01-15 06:55:35Z UTC
 <!-- SPOTIFY-END -->
