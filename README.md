@@ -92,12 +92,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731b8a46d3a04fc07f884e3b28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27326e42b71afd75d9b029f5c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Life Glows On](https://open.spotify.com/track/5GfvzrqerqQnMZ8dkM00yF)**
-*by* **Thrilliam Angels**
-*Album:* The Static Screams Your Name
+**🎵 [God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)**
+*by* **Thrilliam Angels, 500, Attaura**
+*Album:* This Sunrise Is Brutal
 
 
 <p align="center">
@@ -108,7 +108,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 1:34
+    1:27 • 1:53
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[just don't](https://open.spotify.com/track/7dignw6Xutm9A83JlW7mAO)** by **meat computer** *(just don't)*
-🎤 **[Cold Wind Blowing](https://open.spotify.com/track/3slUVhcwj0L7F4Dn1Hxx8Z)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)*
-🎤 **[blind](https://open.spotify.com/track/0boIvmG2Vi9mRAIu5RmsKl)** by **dreamcache, Capoxxo** *(blind)*
-🎤 **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)*
+🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)*
+🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
+🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
+🎤 **[meaningless aimless universe](https://open.spotify.com/track/0u5FlSitgbR9sdQc3WFdn2)** by **archive computer** *(meaningless aimless universe)*
 
 
 
@@ -128,8 +128,8 @@
 
 🥇 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥈 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🥉 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 06:55:35Z UTC
+🕐 Last updated: 2026-01-15 07:20:42Z UTC
 <!-- SPOTIFY-END -->
