@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27348fc9636a3877a1f9bf7e39f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)**
-*by* **Nokia Angel, smokedope2016**
-*Album:* In Haze
+**🎵 [Newport Reds](https://open.spotify.com/track/4GpSV8M07TfMLtxANBSxBT)**
+*by* **$uicideboy$, Black Smurf**
+*Album:* Black $uicide Side C: The Seventh Seal
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="92" height="4" fill="#1db954" rx="2"/>
-    <circle cx="92" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:02 • 3:21
+    2:44 • 3:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[the headless horseman lost his way](https://open.spotify.com/track/5tIx8rJndO6lb5XIKtbeMW)** by **EKKSTACY** *(EKKSTACY)*
-🎤 **[IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)** by **BONES** *(Champion)*
-🎤 **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)*
-🎤 **[Durch die Nacht](https://open.spotify.com/track/3AjmnzdVpa6kvcqkA6KGP9)** by **Edo Saiya, Young Richie Rich** *(This Was Home)*
-🎤 **[Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX)** by **Sportfreunde Stiller** *(Die gute Seite (Die lange Seite))*
+🎤 **[i don't have one of those](https://open.spotify.com/track/4N6F3WfZZJbzm3HHaGivnz)** by **EKKSTACY** *(EKKSTACY)*
+🎤 **[cry alone - og version](https://open.spotify.com/track/3JRRYaBdm9DqCbyxszTD9d)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2 (og version))*
+🎤 **[Rouge](https://open.spotify.com/track/5tYfjCBGK13mq4ygGMCnFp)** by **Lil Narnia, Lil Soda Boi** *(Wisteria)*
+🎤 **[SadlyThatsJustTheWayThingsAre](https://open.spotify.com/track/38gG7Am9T2d4x347h1tOfk)** by **BONES** *(Rotten)*
+🎤 **[xans](https://open.spotify.com/track/0wMJogFjmvyNfct6oHalkQ)** by **Razegod, Burgos** *(Dying)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 19:00:47Z UTC
+🕐 Last updated: 2026-01-15 19:35:25Z UTC
 <!-- SPOTIFY-END -->
