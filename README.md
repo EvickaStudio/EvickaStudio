@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:12 • 2:43
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)*
-🎤 **[non zen darkness manuever](https://open.spotify.com/track/5EZo8rqOQqpOU38sft0zd7)** by **meat computer** *(new world disorder)*
-🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
-🎤 **[Fly Away (Without You)](https://open.spotify.com/track/7zzyojmYITRXnDs7di31z5)** by **User2222** *(User2222 Greatest Hits)*
-🎤 **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)*
+🎤 **[In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)** by **Ayegy** *(In It, Not of It)*
+🎤 **[goes nowhere](https://open.spotify.com/track/2z1vxjtnzZ069uqJwuwEkW)** by **Nosgov, Avast** *(goes nowhere)*
+🎤 **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)*
+🎤 **[whatever it takes](https://open.spotify.com/track/1IUPe1AlsG63907t2cwqa4)** by **oaf1, Lain** *(whatever it takes)*
+🎤 **[AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)** by **SILICONE VALLEY** *(AA Chrome)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 04:52:09Z UTC
+🕐 Last updated: 2026-01-15 05:19:51Z UTC
 <!-- SPOTIFY-END -->
