@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273380d45ee816361339657105f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27326e42b71afd75d9b029f5c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)**
-*by* **Levi Ryan**
-*Album:* the rest of our lives
+**🎵 [Lifetime Of You](https://open.spotify.com/track/18F2ZCccF3VIybUpuoqwkx)**
+*by* **Thrilliam Angels, CLAIR, Crimson Chaos, d.j. polyplus u.c.**
+*Album:* This Sunrise Is Brutal
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="144" height="4" fill="#1db954" rx="2"/>
-    <circle cx="144" cy="2" r="6" fill="#1db954"/>
+    <rect width="134" height="4" fill="#1db954" rx="2"/>
+    <circle cx="134" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:18 • 2:42
+    1:07 • 2:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)** by **Thrilliam Angels, Ecco2k** *(The Static Screams Your Name)*
-🎤 **[Hashed Out (That Feeling)](https://open.spotify.com/track/67U27lcmTjtKlyTfogAcsZ)** by **Mori Mori** *(BB Void)*
-🎤 **[relief fleeting](https://open.spotify.com/track/0x8SHme4Z4Jvd8DwSq1UYl)** by **archive computer** *(relief fleeting)*
-🎤 **[4up7up](https://open.spotify.com/track/2LlTrIxxo3f1CgXqG7U92G)** by **The Hellp** *(Enemy)*
-🎤 **[stuck](https://open.spotify.com/track/63pbFL0m8d2V662ICwz3F0)** by **anna luna** *(stuck)*
+🎤 **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)*
+🎤 **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)*
+🎤 **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)*
+🎤 **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)*
+🎤 **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 05:47:03Z UTC
+🕐 Last updated: 2026-01-15 06:22:35Z UTC
 <!-- SPOTIFY-END -->
