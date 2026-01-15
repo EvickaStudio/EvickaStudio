@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27348fc9636a3877a1f9bf7e39f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732417400ddf7445276814eeb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Newport Reds](https://open.spotify.com/track/4GpSV8M07TfMLtxANBSxBT)**
-*by* **$uicideboy$, Black Smurf**
-*Album:* Black $uicide Side C: The Seventh Seal
+**🎵 [Straw Chairs](https://open.spotify.com/track/40rmPKTvjHmgV5tBws8PF2)**
+*by* **$uicideboy$**
+*Album:* 7th or St. Tammany
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
+    <rect width="261" height="4" fill="#1db954" rx="2"/>
+    <circle cx="261" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 3:12
+    1:25 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i don't have one of those](https://open.spotify.com/track/4N6F3WfZZJbzm3HHaGivnz)** by **EKKSTACY** *(EKKSTACY)*
-🎤 **[cry alone - og version](https://open.spotify.com/track/3JRRYaBdm9DqCbyxszTD9d)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2 (og version))*
-🎤 **[Rouge](https://open.spotify.com/track/5tYfjCBGK13mq4ygGMCnFp)** by **Lil Narnia, Lil Soda Boi** *(Wisteria)*
-🎤 **[SadlyThatsJustTheWayThingsAre](https://open.spotify.com/track/38gG7Am9T2d4x347h1tOfk)** by **BONES** *(Rotten)*
-🎤 **[xans](https://open.spotify.com/track/0wMJogFjmvyNfct6oHalkQ)** by **Razegod, Burgos** *(Dying)*
+🎤 **[ComingToTerms](https://open.spotify.com/track/2R4HvTBtxlxctv3qdOZwnY)** by **BONES, Deergod** *(PushingUpDaisies)*
+🎤 **[Love](https://open.spotify.com/track/3ieYbUAeEknL78oe4mcyBP)** by **EKKSTACY** *(Love)*
+🎤 **[pray i die](https://open.spotify.com/track/4npEsMFr4J05dXtPO42XcL)** by **Lil Peep, Nedarb** *(CALIFORNIA GIRLS)*
+🎤 **[ctrl alt del](https://open.spotify.com/track/2sQLX7xGiCRtjdJQChFwqe)** by **Corbin** *(Ghost With Skin)*
+🎤 **[wtf is wrong?](https://open.spotify.com/track/6QRXMOkjEHsX789yl6SI8G)** by **Razegod, Burgos** *(Dying)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 19:35:25Z UTC
+🕐 Last updated: 2026-01-15 19:52:47Z UTC
 <!-- SPOTIFY-END -->
