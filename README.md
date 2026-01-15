@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27342ddc1ea9a4e592d994bc014" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f7d1cdca1cc70ab7bb545e6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)**
-*by* **Lil Peep, Xavier Wulf**
-*Album:* HELLBOY
+**🎵 [Starfire (Teen Titans)](https://open.spotify.com/track/03kjp7rp1REHaSloqcSEe3)**
+*by* **6 Dogs**
+*Album:* RONALD.
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="51" height="4" fill="#1db954" rx="2"/>
-    <circle cx="51" cy="2" r="6" fill="#1db954"/>
+    <rect width="110" height="4" fill="#1db954" rx="2"/>
+    <circle cx="110" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:30 • 2:55
+    0:45 • 2:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[NobodyHome](https://open.spotify.com/track/7CXyg7vzsn4RHpNDGzIS1U)** by **BONES, grayera** *(WITHERED)*
-🎤 **[SLUT!](https://open.spotify.com/track/4WFzYNiiOYiAPrvgHeKGPL)** by **Carter Tomorrow** *(SLUT!)*
-🎤 **[Perfect Fantasy](https://open.spotify.com/track/06cY0sOjuZgaUATGebioL5)** by **Razegod** *(Year of the Hermit)*
-🎤 **[Leave Your Things Behind](https://open.spotify.com/track/0aufCKnp6HJIhRIC5L2Fg3)** by **$uicideboy$** *(7th or St. Tammany)*
-🎤 **[get me out](https://open.spotify.com/track/5Na1nlRCFv1mqOWhvUSnPm)** by **EKKSTACY** *(EKKSTACY)*
+🎤 **[Death is Inevitable](https://open.spotify.com/track/3obUenqMlJOZQLQAoDxy67)** by **Razegod, Burgos** *(Dying)*
+🎤 **[Nightmare](https://open.spotify.com/track/3CdfleVcSZEXU7n2krd5mK)** by **BONES** *(SCUMBAG)*
+🎤 **[If Only Your Best Was Good Enough](https://open.spotify.com/track/1ZNPNrFGosxaj5GUxe4PVb)** by **grayera** *(It Feels Like I'm Wilting Away)*
+🎤 **[Black $uicide](https://open.spotify.com/track/04I5cTYrEcamaDgfIQAcSD)** by **$uicideboy$, Black Smurf** *(Black $uicide)*
+🎤 **[fingers - og version](https://open.spotify.com/track/6QexUW5WPdOAKHAlad94E3)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2 (og version))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 20:17:00Z UTC
+🕐 Last updated: 2026-01-15 20:45:22Z UTC
 <!-- SPOTIFY-END -->
