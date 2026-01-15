@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eeeb8050799b61bf58df30bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cut](https://open.spotify.com/track/5GxwCuVFulzmMOACGiDwZ7)**
-*by* **BONES**
-*Album:* PaidProgramming
+**🎵 [Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)**
+*by* **Snow Strippers**
+*Album:* RIFT Two
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="258" height="4" fill="#1db954" rx="2"/>
-    <circle cx="258" cy="2" r="6" fill="#1db954"/>
+    <rect width="265" height="4" fill="#1db954" rx="2"/>
+    <circle cx="265" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:34 • 1:50
+    2:41 • 3:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[don't know who i am...](https://open.spotify.com/track/1qSMgrZUlNwU5j7mBOWvwp)** by **Razegod, Burgos** *(Dying)*
-🎤 **[Shaun White](https://open.spotify.com/track/7bcuO1wFvhjYErw3YHgJjI)** by **cr1tter** *(UnderDog Tale)*
-🎤 **[Yes or No](https://open.spotify.com/track/06mecKND9vnvkc8JKbOfAh)** by **Corbin** *(Ghost With Skin)*
-🎤 **[so far so slow](https://open.spotify.com/track/2OfZXXiq7mLRCKAnSzLnhH)** by **chaste, Open Ocean** *(so far so slow)*
-🎤 **[ItAllComesTogetherInTheFinalAct](https://open.spotify.com/track/3k47AJRISDs4CwsFOiY2e1)** by **BONES** *(Powder)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
+🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
+🎤 **[It's Worth Feeling Empty <3](https://open.spotify.com/track/5BzHgggJpPmbDNCdwDZno3)** by **6 Dogs** *(Hi-Hats & Heartaches)*
+🎤 **[SHUN](https://open.spotify.com/track/6Utmh84Ug0wdRAXtAvu19f)** by **T-Choppa** *(SHUN)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 21:34:36Z UTC
+🕐 Last updated: 2026-01-15 21:50:56Z UTC
 <!-- SPOTIFY-END -->
