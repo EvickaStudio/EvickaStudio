@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f36fe70c3901f5a7c3eca2e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wrist Cry](https://open.spotify.com/track/5R4LsSsOshbStU1QjRWEKt)**
-*by* **Bladee**
-*Album:* Eversince
+**🎵 [The Mirror](https://open.spotify.com/track/1eguFDzYrQJbQaXrnLrTAg)**
+*by* **Rooster**
+*Album:* Rooster Slipped
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="157" height="4" fill="#1db954" rx="2"/>
-    <circle cx="157" cy="2" r="6" fill="#1db954"/>
+    <rect width="71" height="4" fill="#1db954" rx="2"/>
+    <circle cx="71" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 3:54
+    0:36 • 2:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)*
-🎤 **[Bloodveil / Stillborn](https://open.spotify.com/track/7lsxrbHKYBNcRW53M9RQ0U)** by **Bladee, Ecco2k** *(Eversince)*
-🎤 **[Rip](https://open.spotify.com/track/4fdi76zJ26bs0GDq1o8j54)** by **Bladee** *(Eversince)*
-🎤 **[Sick](https://open.spotify.com/track/6Gx4FmWOlLGpUckECC4Ytb)** by **Bladee** *(Eversince)*
-🎤 **[Xd Out](https://open.spotify.com/track/6wv2Mx3e92cHc11n89G7Mn)** by **Bladee** *(Eversince)*
+🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
+🎤 **[#control](https://open.spotify.com/track/283RxAmSsiaATzg5FXSFuH)** by **bronclair** *(#control)*
+🎤 **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)*
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
+🎤 **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 09:20:47Z UTC
+🕐 Last updated: 2026-01-15 09:47:39Z UTC
 <!-- SPOTIFY-END -->
