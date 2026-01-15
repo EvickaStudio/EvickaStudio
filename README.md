@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f36fe70c3901f5a7c3eca2e1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [The Mirror](https://open.spotify.com/track/1eguFDzYrQJbQaXrnLrTAg)**
-*by* **Rooster**
-*Album:* Rooster Slipped
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="71" height="4" fill="#1db954" rx="2"/>
-    <circle cx="71" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:36 • 2:31
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)*
-🎤 **[#control](https://open.spotify.com/track/283RxAmSsiaATzg5FXSFuH)** by **bronclair** *(#control)*
-🎤 **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)*
+🎤 **[Fix Up, Lights On](https://open.spotify.com/track/1ogzpq3ngMUIuwUzQJVsLO)** by **Rooster** *(Rooster Slipped)*
+🎤 **[Plastic Surgery](https://open.spotify.com/track/5gzoBTffaHN5QYrT1XG5Gk)** by **Bladee, Ecco2k** *(Plastic Surgery)*
+🎤 **[angels in camo](https://open.spotify.com/track/7a4dV5aM4pHsTdOkqIVK8l)** by **Jane Remover** *(Revengeseekerz)*
+🎤 **[Hocus Pocus](https://open.spotify.com/track/4paa1ozjQuE3jrie757wN1)** by **Yung Lean, Bladee** *(Warlord)*
+🎤 **[I Wanna Be Adored](https://open.spotify.com/track/4oK8hbI2kpBFjdWiPNibpE)** by **Nokia Angel** *(I Wanna Be Adored)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 09:47:39Z UTC
+🕐 Last updated: 2026-01-15 10:16:04Z UTC
 <!-- SPOTIFY-END -->
