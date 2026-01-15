@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732417400ddf7445276814eeb6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27342ddc1ea9a4e592d994bc014" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Straw Chairs](https://open.spotify.com/track/40rmPKTvjHmgV5tBws8PF2)**
-*by* **$uicideboy$**
-*Album:* 7th or St. Tammany
+**🎵 [drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)**
+*by* **Lil Peep, Xavier Wulf**
+*Album:* HELLBOY
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="261" height="4" fill="#1db954" rx="2"/>
-    <circle cx="261" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:25 • 1:38
+    0:30 • 2:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ComingToTerms](https://open.spotify.com/track/2R4HvTBtxlxctv3qdOZwnY)** by **BONES, Deergod** *(PushingUpDaisies)*
-🎤 **[Love](https://open.spotify.com/track/3ieYbUAeEknL78oe4mcyBP)** by **EKKSTACY** *(Love)*
-🎤 **[pray i die](https://open.spotify.com/track/4npEsMFr4J05dXtPO42XcL)** by **Lil Peep, Nedarb** *(CALIFORNIA GIRLS)*
-🎤 **[ctrl alt del](https://open.spotify.com/track/2sQLX7xGiCRtjdJQChFwqe)** by **Corbin** *(Ghost With Skin)*
-🎤 **[wtf is wrong?](https://open.spotify.com/track/6QRXMOkjEHsX789yl6SI8G)** by **Razegod, Burgos** *(Dying)*
+🎤 **[NobodyHome](https://open.spotify.com/track/7CXyg7vzsn4RHpNDGzIS1U)** by **BONES, grayera** *(WITHERED)*
+🎤 **[SLUT!](https://open.spotify.com/track/4WFzYNiiOYiAPrvgHeKGPL)** by **Carter Tomorrow** *(SLUT!)*
+🎤 **[Perfect Fantasy](https://open.spotify.com/track/06cY0sOjuZgaUATGebioL5)** by **Razegod** *(Year of the Hermit)*
+🎤 **[Leave Your Things Behind](https://open.spotify.com/track/0aufCKnp6HJIhRIC5L2Fg3)** by **$uicideboy$** *(7th or St. Tammany)*
+🎤 **[get me out](https://open.spotify.com/track/5Na1nlRCFv1mqOWhvUSnPm)** by **EKKSTACY** *(EKKSTACY)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 19:52:47Z UTC
+🕐 Last updated: 2026-01-15 20:17:00Z UTC
 <!-- SPOTIFY-END -->
