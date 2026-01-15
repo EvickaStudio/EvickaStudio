@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326e42b71afd75d9b029f5c4e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b8c459605de78e6824de0cb4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)**
-*by* **Thrilliam Angels, 500, Attaura**
-*Album:* This Sunrise Is Brutal
+**🎵 [kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)**
+*by* **Tommy Drama, Lvl99magic**
+*Album:* kidssss
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="256" height="4" fill="#1db954" rx="2"/>
+    <circle cx="256" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 1:53
+    1:43 • 2:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
-🎤 **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)*
 🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
-🎤 **[My Woeful Heart](https://open.spotify.com/track/1gwNIfPpKu347KUrmwWKNF)** by **Peake** *(My Woeful Heart)*
-🎤 **[meaningless aimless universe](https://open.spotify.com/track/0u5FlSitgbR9sdQc3WFdn2)** by **archive computer** *(meaningless aimless universe)*
+🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[GUN SONG](https://open.spotify.com/track/4lFGraxsJrAJ83YV94iez8)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
+🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**im addicted**](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)
 
 
-🕐 Last updated: 2026-01-15 07:20:42Z UTC
+🕐 Last updated: 2026-01-15 07:43:51Z UTC
 <!-- SPOTIFY-END -->
