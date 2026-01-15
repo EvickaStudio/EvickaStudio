@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7d1cdca1cc70ab7bb545e6e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736fa69696362e3047424bb49a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Starfire (Teen Titans)](https://open.spotify.com/track/03kjp7rp1REHaSloqcSEe3)**
-*by* **6 Dogs**
-*Album:* RONALD.
+**🎵 [Walk With Me](https://open.spotify.com/track/2AkU3nekxTowTkJCvZPU0M)**
+*by* **Razegod, Burgos**
+*Album:* Dying
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="110" height="4" fill="#1db954" rx="2"/>
-    <circle cx="110" cy="2" r="6" fill="#1db954"/>
+    <rect width="60" height="4" fill="#1db954" rx="2"/>
+    <circle cx="60" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:45 • 2:04
+    0:38 • 3:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Death is Inevitable](https://open.spotify.com/track/3obUenqMlJOZQLQAoDxy67)** by **Razegod, Burgos** *(Dying)*
-🎤 **[Nightmare](https://open.spotify.com/track/3CdfleVcSZEXU7n2krd5mK)** by **BONES** *(SCUMBAG)*
-🎤 **[If Only Your Best Was Good Enough](https://open.spotify.com/track/1ZNPNrFGosxaj5GUxe4PVb)** by **grayera** *(It Feels Like I'm Wilting Away)*
-🎤 **[Black $uicide](https://open.spotify.com/track/04I5cTYrEcamaDgfIQAcSD)** by **$uicideboy$, Black Smurf** *(Black $uicide)*
-🎤 **[fingers - og version](https://open.spotify.com/track/6QexUW5WPdOAKHAlad94E3)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2 (og version))*
+🎤 **[Paper Dreams](https://open.spotify.com/track/5L6rkLs25dz2iDC3S3D0TW)** by **Carter Tomorrow** *(Paper Dreams)*
+🎤 **[Path](https://open.spotify.com/track/30qrWCnPyJNM9EEkCdvNHQ)** by **Corbin** *(Ghost With Skin)*
+🎤 **[SlayTheDragon,SaveThePrincess](https://open.spotify.com/track/5DphtwbbcrJWxjTTH8YoGy)** by **BONES, grayera** *(WITHERED)*
+🎤 **[Looking For You](https://open.spotify.com/track/7C8RxsVy6MsOef3B5lk7TI)** by **Lil Peep** *(HATE ME)*
+🎤 **[Mask It to the Casket](https://open.spotify.com/track/16u5jqodaQ5oWqhoTxhJhe)** by **Corbin** *(Ghost With Skin)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**The Sky Thats Between Us**](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)
 
 
-🕐 Last updated: 2026-01-15 20:45:22Z UTC
+🕐 Last updated: 2026-01-15 21:14:29Z UTC
 <!-- SPOTIFY-END -->
