@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739f49c76d3ca1665eded88721" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla)**
-*by* **Varg²™, Bladee, Escha, Ytem**
-*Album:* SHINIE
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="142" height="4" fill="#1db954" rx="2"/>
-    <circle cx="142" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:27 • 5:11
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)*
+🎤 **[umm idk why!!](https://open.spotify.com/track/4uQ6j3hp2XGjKfhCTVmauo)** by **ilymeow, NXTY** *(umm idk why!!)*
+🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
+🎤 **[SHINIE - Escha & Ytem Remix](https://open.spotify.com/track/3eDXd2BF0jNVJ317Lpgcla)** by **Varg²™, Bladee, Escha, Ytem** *(SHINIE)*
 🎤 **[2016](https://open.spotify.com/track/0qaQLKapKcaGX8wNz544vv)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(2016)*
-🎤 **[wish I didnt kno her ##biblemusic - slowed](https://open.spotify.com/track/2Xuo4HV3HbEqgPbgV9q8u3)** by **snor** *(sobrelis (slowed))*
-🎤 **[Denial Loop](https://open.spotify.com/track/1wafIYUGr5zu9xShzOanJY)** by **Nosgov** *(I Die 10000 Times a Day)*
-🎤 **[immortal >:3](https://open.spotify.com/track/1Vgoh6sZ6Il8jmQpVSZg8Y)** by **ilymeow** *(immortal >:3)*
-🎤 **[Don't Give Up](https://open.spotify.com/track/2CtA6pEiFrwr1OuHr4WN5o)** by **flywoah** *(Don't Give Up)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Back On**](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)
 
 
-🕐 Last updated: 2026-01-16 22:52:03Z UTC
+🕐 Last updated: 2026-01-16 23:13:39Z UTC
 <!-- SPOTIFY-END -->
