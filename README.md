@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738cf2f496c316eb20dd40e5a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [RE: Life](https://open.spotify.com/track/1fpIrRQcZSRK1bzwLBY5ci)**
-*by* **deadboyboo**
-*Album:* P U N K S T A R
+**🎵 [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)**
+*by* **Kanye West, Dwele**
+*Album:* Graduation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="47" height="4" fill="#1db954" rx="2"/>
-    <circle cx="47" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:35 • 3:43
+    2:57 • 3:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[meow part4](https://open.spotify.com/track/4baC4xRQg12BJBt30RZCu5)** by **stixz** *(meow part4)*
-🎤 **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)*
-🎤 **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)*
-🎤 **[Alive - DJ HEARTSTRING Remix](https://open.spotify.com/track/0cz6nvlqemvTygR3Bwybls)** by **Empire Of The Sun, DJ HEARTSTRING** *(Alive (DJ HEARTSTRING Remix))*
-🎤 **[FALLING](https://open.spotify.com/track/20TuZfhMZRyVaZGTNDXR44)** by **pluko** *(OXY)*
+🎤 **[Disparate Youth](https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL)** by **Santigold** *(Master of My Make-Believe)*
+🎤 **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))*
+🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
+🎤 **[MIKICHAN](https://open.spotify.com/track/4FuWpGn9RWpofmZek5xV5Z)** by **Gutterboysouz** *(MIKICHAN)*
+🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Back On**](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)
 
 
-🕐 Last updated: 2026-01-16 21:50:15Z UTC
+🕐 Last updated: 2026-01-16 22:13:51Z UTC
 <!-- SPOTIFY-END -->
