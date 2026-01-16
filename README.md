@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273429d2c451afd520ce02edf78" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e54251f822301c80fda8d9a7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)**
-*by* **jonatan leandoer96**
-*Album:* Psychopath Ballads
+**🎵 [TKOHHH](https://open.spotify.com/track/4sFgDY8DsSWwC0SxnA7Phj)**
+*by* **yaego**
+*Album:* ÆRO Vol. 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="187" height="4" fill="#1db954" rx="2"/>
-    <circle cx="187" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 3:30
+    1:51 • 3:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
-🎤 **[Gallowdance](https://open.spotify.com/track/74SUn8w4lYSwgOGPvVZiEo)** by **Lebanon Hanover** *(Tomb for Two)*
-🎤 **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)*
-🎤 **[share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)** by **Mezha** *(share)*
-🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)*
+🎤 **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)*
+🎤 **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Back On**](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)
 
 
-🕐 Last updated: 2026-01-16 20:14:44Z UTC
+🕐 Last updated: 2026-01-16 20:34:16Z UTC
 <!-- SPOTIFY-END -->
