@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737eff36e91341e0f2f34ae4f5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739517eea594dfb828ec793e09" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)**
-*by* **S1RENA**
-*Album:* PLANET
+**🎵 [Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT)**
+*by* **SOPHIE**
+*Album:* OIL OF EVERY PEARL'S UN-INSIDES
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="16" height="4" fill="#1db954" rx="2"/>
-    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+    <rect width="30" height="4" fill="#1db954" rx="2"/>
+    <circle cx="30" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:07 • 2:09
+    0:23 • 3:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[MINESTYLE](https://open.spotify.com/track/6zIC6PARJ4iSdFyRlW6ZX5)** by **Vyzer, Lytra, wasty** *(MINESTYLE)*
-🎤 **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)*
-🎤 **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)*
-🎤 **[off the perc](https://open.spotify.com/track/5JB9ZhaDS7pMpycDJYX5Tw)** by **archive computer** *(off the perc)*
-🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
+🎤 **[shadows!!](https://open.spotify.com/track/7rcCwPIx8BfoMZls7MLoaV)** by **ilymeow, Pearlblade** *(shadows!!)*
+🎤 **[ionwnacri](https://open.spotify.com/track/15a4G06zQmr1yPtdIvDME9)** by **KidSnorlax, hateoryx, blackwinterwells** *(ionwnacri)*
+🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg)** by **Joji** *(PIXELATED KISSES)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
+🎤 **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Back On**](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)
 
 
-🕐 Last updated: 2026-01-16 21:13:46Z UTC
+🕐 Last updated: 2026-01-16 21:33:20Z UTC
 <!-- SPOTIFY-END -->
