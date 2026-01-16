@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
 🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
 🎤 **[Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a)** by **$uicideboy$** *(THY WILL BE DONE)*
 🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
 🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Back On**](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)
 
 
-🕐 Last updated: 2026-01-16 19:15:06Z UTC
+🕐 Last updated: 2026-01-16 19:30:03Z UTC
 <!-- SPOTIFY-END -->
