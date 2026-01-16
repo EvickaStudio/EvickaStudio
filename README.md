@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738797ecd22aaad23ce7fd9ab8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Perfect Violation](https://open.spotify.com/track/5sUY2FPXJy1E2eZPBdT7AW)**
-*by* **Varg²™, Bladee**
-*Album:* Evanescence (a Love Letter)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="167" height="4" fill="#1db954" rx="2"/>
-    <circle cx="167" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:14 • 4:02
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by **5v** *(kein zufall)*
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
-🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
+🎤 **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)*
+🎤 **[Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a)** by **$uicideboy$** *(THY WILL BE DONE)*
+🎤 **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Back On**](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)
 
 
-🕐 Last updated: 2026-01-16 09:45:59Z UTC
+🕐 Last updated: 2026-01-16 10:15:59Z UTC
 <!-- SPOTIFY-END -->
