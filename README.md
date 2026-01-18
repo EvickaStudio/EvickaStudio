@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27365ee509885af9d1e59ed7b55" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734e2af60bef560d7fb7152aa7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)**
-*by* **fakemink, Ecco2k, Mechatok**
-*Album:* MAKKA
+**🎵 [RAVEGRL ♪¸.•*](https://open.spotify.com/track/6xdddcXbs5J6nLdRCpni12)**
+*by* **vai5000**
+*Album:* RAVEGRL ♪¸.•*
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="191" height="4" fill="#1db954" rx="2"/>
-    <circle cx="191" cy="2" r="6" fill="#1db954"/>
+    <rect width="185" height="4" fill="#1db954" rx="2"/>
+    <circle cx="185" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 3:00
+    1:47 • 2:53
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
-🎤 **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)*
-🎤 **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[stari*](https://open.spotify.com/track/4NOpZbvSTaxfwhe1HB1rwg)** by **SQF2000, Tamino404** *(YOLOCORE)*
+🎤 **[miku's world tour (lalala)](https://open.spotify.com/track/0UMr9KEOivPMAaS6YojHSN)** by **Clover!, Bandiicam** *(miku's world tour (lalala))*
+🎤 **[Better Off Alone](https://open.spotify.com/track/4h1FFm6ifHUw3IHjFbNaa5)** by **Svard** *(Better Off Alone)*
+🎤 **[MAXI KING](https://open.spotify.com/track/0mBDsc9d6Y4DUQLdOoljOt)** by **mikeycyrus** *(MAXI KING)*
+🎤 **[amnesie](https://open.spotify.com/track/15rVMRmUMCli2hQZfjO8DO)** by **MotB, Zengo Zoo, Josethirty5, BHZ** *(ep26_v3)*
+🎤 **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-18 15:31:43Z UTC
+🕐 Last updated: 2026-01-18 15:48:19Z UTC
 <!-- SPOTIFY-END -->
