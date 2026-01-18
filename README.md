@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732cc361c409259cb369210161" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [light the sky](https://open.spotify.com/track/1XT0T2w6niq1tgTvQpAgzG)**
-*by* **d1v, with3r**
-*Album:* light the sky
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="109" height="4" fill="#1db954" rx="2"/>
-    <circle cx="109" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:46 • 2:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[so much blood](https://open.spotify.com/track/77LwDpoBZaWOqjFNiOosSR)** by **cholorofilm, luvhex** *(so much blood)*
+🎤 **[sunshine beach ★](https://open.spotify.com/track/5kNAWl8FwZGi9g4IJ2veZ0)** by **pupsies** *(sunshine beach ★)*
+🎤 **[CULLINAN SERIES 2](https://open.spotify.com/track/5vGrB0yU42qKK48jTnWpBA)** by **Ufo361** *(CULLINAN SERIES 2)*
+🎤 **[light the sky](https://open.spotify.com/track/1XT0T2w6niq1tgTvQpAgzG)** by **d1v, with3r** *(light the sky)*
 🎤 **[reality](https://open.spotify.com/track/7MA1oL7aWueXakD8334FwX)** by **d3r** *(reality)*
-🎤 **[I'm Back](https://open.spotify.com/track/3Jmo7REyXCO81uo83Cdafu)** by **PureSnow** *(Tunnel Vision)*
-🎤 **[<3](https://open.spotify.com/track/5fbZlvtW7B72znF79BnSnB)** by **swaggyforestfairy, Nosgov** *(<3)*
-🎤 **[DER FALSCHE ANSATZ](https://open.spotify.com/track/2o01fCFa3uKqKRdSJjr5Fv)** by **lusi 7896** *(DER FALSCHE ANSATZ)*
-🎤 **[i just wanna go back](https://open.spotify.com/track/6zfCArCH3yuD16ugitA136)** by **beansclub, dreamloader, enable secret** *(i just wanna go back)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-18 16:44:42Z UTC
+🕐 Last updated: 2026-01-18 16:55:25Z UTC
 <!-- SPOTIFY-END -->
