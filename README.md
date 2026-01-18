@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739e1c1b2b197ef9b3e5d7c1c8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [amnesie](https://open.spotify.com/track/15rVMRmUMCli2hQZfjO8DO)**
-*by* **MotB, Zengo Zoo, Josethirty5, BHZ**
-*Album:* ep26_v3
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="1" height="4" fill="#1db954" rx="2"/>
-    <circle cx="1" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:01 • 3:04
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[so much blood](https://open.spotify.com/track/77LwDpoBZaWOqjFNiOosSR)** by **cholorofilm, luvhex** *(so much blood)*
-🎤 **[sunshine beach ★](https://open.spotify.com/track/5kNAWl8FwZGi9g4IJ2veZ0)** by **pupsies** *(sunshine beach ★)*
-🎤 **[CULLINAN SERIES 2](https://open.spotify.com/track/5vGrB0yU42qKK48jTnWpBA)** by **Ufo361** *(CULLINAN SERIES 2)*
-🎤 **[light the sky](https://open.spotify.com/track/1XT0T2w6niq1tgTvQpAgzG)** by **d1v, with3r** *(light the sky)*
-🎤 **[reality](https://open.spotify.com/track/7MA1oL7aWueXakD8334FwX)** by **d3r** *(reality)*
+🎤 **[mehh](https://open.spotify.com/track/0JObg7KBTn7ifXavsVleud)** by **gard** *(mehh)*
+🎤 **[früher](https://open.spotify.com/track/0Tc9CRU1o9u7LOqiYaAuAv)** by **Dropped here, Steppi** *(früher)*
+🎤 **[RAVEGRL ♪¸.•*](https://open.spotify.com/track/6xdddcXbs5J6nLdRCpni12)** by **vai5000** *(RAVEGRL ♪¸.•*)*
+🎤 **[miku's world tour (lalala)](https://open.spotify.com/track/0UMr9KEOivPMAaS6YojHSN)** by **Clover!, Bandiicam** *(miku's world tour (lalala))*
+🎤 **[Better Off Alone](https://open.spotify.com/track/4h1FFm6ifHUw3IHjFbNaa5)** by **Svard** *(Better Off Alone)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-18 17:49:09Z UTC
+🕐 Last updated: 2026-01-18 18:18:43Z UTC
 <!-- SPOTIFY-END -->
