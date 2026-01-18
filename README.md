@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Someone Said](https://open.spotify.com/track/01uBSBXlAv25daalVLFusP)** by **Skrillex, Varg²™, Eurohead, Whitearmor, swedm®** *(Someone Said)*
 🎤 **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)*
 🎤 **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)*
 🎤 **[elfbar (freestyle)](https://open.spotify.com/track/0CS7Rq2swLuq1SPAyVKJWC)** by **Iuvumi, 1ndertat** *(elfbar (freestyle))*
 🎤 **[stimme](https://open.spotify.com/track/3i8yvJ5aVdbLnpbB2BfWQN)** by **blombi19** *(stimme)*
-🎤 **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**schlaf bb**](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)
 
 
-🕐 Last updated: 2026-01-18 09:49:17Z UTC
+🕐 Last updated: 2026-01-18 10:13:50Z UTC
 <!-- SPOTIFY-END -->
