@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733f3cbc5f0cf769239068d4b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)**
-*by* **Levi Ryan**
-*Album:* southern comfort EP
+**🎵 [Lies in the Eyes of Love](https://open.spotify.com/track/5JQuDFh7QKTjJDoEQAmaO8)**
+*by* **Part Time**
+*Album:* Lies in the Eyes of Love
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="163" height="4" fill="#1db954" rx="2"/>
-    <circle cx="163" cy="2" r="6" fill="#1db954"/>
+    <rect width="91" height="4" fill="#1db954" rx="2"/>
+    <circle cx="91" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 3:27
+    0:59 • 3:16
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
-🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
-🎤 **[PGD](https://open.spotify.com/track/3R90mgF7UeM6sPfCip0Qbj)** by **RudeClub** *(Sugar Dalmatian)*
-🎤 **[Monster](https://open.spotify.com/track/10ygBJo6LpULeOYs6Skiey)** by **Capoxxo** *(Monster)*
-🎤 **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)*
+🎤 **[Sayonara Cross Teck](https://open.spotify.com/track/5jztuiRR4sGzlXATycRV3N)** by **Miraidempa** *(Therapy)*
+🎤 **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)*
+🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
+🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**REVOLUTIONÄR (+y.mike)**](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)
 
 
-🕐 Last updated: 2026-01-18 14:32:51Z UTC
+🕐 Last updated: 2026-01-18 14:49:31Z UTC
 <!-- SPOTIFY-END -->
