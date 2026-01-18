@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734e2af60bef560d7fb7152aa7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2732cc361c409259cb369210161" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [RAVEGRL ♪¸.•*](https://open.spotify.com/track/6xdddcXbs5J6nLdRCpni12)**
-*by* **vai5000**
-*Album:* RAVEGRL ♪¸.•*
+**🎵 [light the sky](https://open.spotify.com/track/1XT0T2w6niq1tgTvQpAgzG)**
+*by* **d1v, with3r**
+*Album:* light the sky
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="185" height="4" fill="#1db954" rx="2"/>
-    <circle cx="185" cy="2" r="6" fill="#1db954"/>
+    <rect width="109" height="4" fill="#1db954" rx="2"/>
+    <circle cx="109" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:47 • 2:53
+    0:46 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[miku's world tour (lalala)](https://open.spotify.com/track/0UMr9KEOivPMAaS6YojHSN)** by **Clover!, Bandiicam** *(miku's world tour (lalala))*
-🎤 **[Better Off Alone](https://open.spotify.com/track/4h1FFm6ifHUw3IHjFbNaa5)** by **Svard** *(Better Off Alone)*
-🎤 **[MAXI KING](https://open.spotify.com/track/0mBDsc9d6Y4DUQLdOoljOt)** by **mikeycyrus** *(MAXI KING)*
-🎤 **[amnesie](https://open.spotify.com/track/15rVMRmUMCli2hQZfjO8DO)** by **MotB, Zengo Zoo, Josethirty5, BHZ** *(ep26_v3)*
-🎤 **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))*
+🎤 **[reality](https://open.spotify.com/track/7MA1oL7aWueXakD8334FwX)** by **d3r** *(reality)*
+🎤 **[I'm Back](https://open.spotify.com/track/3Jmo7REyXCO81uo83Cdafu)** by **PureSnow** *(Tunnel Vision)*
+🎤 **[<3](https://open.spotify.com/track/5fbZlvtW7B72znF79BnSnB)** by **swaggyforestfairy, Nosgov** *(<3)*
+🎤 **[DER FALSCHE ANSATZ](https://open.spotify.com/track/2o01fCFa3uKqKRdSJjr5Fv)** by **lusi 7896** *(DER FALSCHE ANSATZ)*
+🎤 **[i just wanna go back](https://open.spotify.com/track/6zfCArCH3yuD16ugitA136)** by **beansclub, dreamloader, enable secret** *(i just wanna go back)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-18 15:48:19Z UTC
+🕐 Last updated: 2026-01-18 16:44:42Z UTC
 <!-- SPOTIFY-END -->
