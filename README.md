@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)**
-*by* **Thaiboy Digital, Yung Lean**
-*Album:* Tiger
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    4:41 • 5:25
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
+🎤 **[Push / Lost Weekend](https://open.spotify.com/track/4scZRVbsvu5Cqli6BvTonw)** by **Yung Lean** *(Stranger)*
+🎤 **[Diamonds](https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R)** by **Thaiboy Digital, Yung Lean** *(Tiger)*
 🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
-🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
-🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
-🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-18 23:31:31Z UTC
+🕐 Last updated: 2026-01-18 23:49:19Z UTC
 <!-- SPOTIFY-END -->
