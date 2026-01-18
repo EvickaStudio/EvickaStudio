@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273521e896eec3ff0397696735f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27391ba07c01bada610ccfd63ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)**
-*by* **Mezha**
-*Album:* share
+**🎵 [somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4)**
+*by* **Senses, mint, Nosgov**
+*Album:* somewhere safe
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="139" height="4" fill="#1db954" rx="2"/>
+    <circle cx="139" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:27 • 2:02
+    1:35 • 3:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
-🎤 **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)*
-🎤 **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))*
-🎤 **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
+🎤 **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)*
+🎤 **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)*
+🎤 **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)*
+🎤 **[I called and left a message](https://open.spotify.com/track/5myoBOTaycNR7S3FZY0ft0)** by **Agatha is Dead!** *(Interlude)*
+🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-18 22:13:13Z UTC
+🕐 Last updated: 2026-01-18 22:34:33Z UTC
 <!-- SPOTIFY-END -->
