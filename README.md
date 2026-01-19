@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273bce883ca96c632fb5f6be746" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27321e0b365247114bb4a8cb88a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Nagomi](https://open.spotify.com/track/7Gbe6d4XIvmxqxe4Pd2fg6)**
-*by* **Kaiyo**
-*Album:* Nagomi
+**🎵 [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS)**
+*by* **Joep Beving**
+*Album:* For Mark
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="223" height="4" fill="#1db954" rx="2"/>
-    <circle cx="223" cy="2" r="6" fill="#1db954"/>
+    <rect width="72" height="4" fill="#1db954" rx="2"/>
+    <circle cx="72" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:10 • 2:55
+    1:15 • 5:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[looking for her](https://open.spotify.com/track/3NgO5ePtks9n4zE5lrt6X5)** by **Kaiyo** *(looking for her)*
-🎤 **[Warm Country](https://open.spotify.com/track/2oxDF5YMifWCBElkidzra3)** by **l'Outlander** *(One Way Ticket)*
-🎤 **[Idea 12](https://open.spotify.com/track/6FiVybin2ArwUDwGKSOA2r)** by **Gibran Alcocer** *(Idea 12)*
-🎤 **[Dreamland](https://open.spotify.com/track/5UreKbsH9dpfxDB2m6D3Ho)** by **Robert Gromotka** *(Dreamland)*
-🎤 **[green to blue](https://open.spotify.com/track/4zzxSXdXK4gLEOyGpPpb9v)** by **daniel.mp3** *(Backroom)*
+🎤 **[Aura](https://open.spotify.com/track/5dAPGnKs4i8M52qE5cETYq)** by **Demurely** *(Aura)*
+🎤 **[Ein kurzer Augenblick](https://open.spotify.com/track/5RblS5gGs0nfWBKk153KCN)** by **Norman Dück** *(Ein kurzer Augenblick)*
+🎤 **[Fracture](https://open.spotify.com/track/6GLy7czJd5VC2Jf47lpj12)** by **Stephan Moccio** *(Tales Of Solace)*
+🎤 **[the journey](https://open.spotify.com/track/1N8vfeM3DFC8TyrRKmrsDq)** by **Kaiyo** *(the journey)*
+🎤 **[Gymnopédie No. 3](https://open.spotify.com/track/0hZBK2IS2uKdWVwEWXX1vB)** by **Erik Satie, Philippe Entremont** *(Erik Satie & Friends)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 15:18:45Z UTC
+🕐 Last updated: 2026-01-19 15:46:55Z UTC
 <!-- SPOTIFY-END -->
