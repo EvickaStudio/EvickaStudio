@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e51134d3ca2b6a66b371089f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)**
-*by* **Konomi Suzuki**
-*Album:* 17
+**🎵 [Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv)**
+*by* **RADWIMPS**
+*Album:* Weathering With You
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="19" height="4" fill="#1db954" rx="2"/>
-    <circle cx="19" cy="2" r="6" fill="#1db954"/>
+    <rect width="21" height="4" fill="#1db954" rx="2"/>
+    <circle cx="21" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:15 • 3:52
+    0:29 • 6:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)*
-🎤 **[アメヲマツ、](https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB)** by **美波** *(アメヲマツ、)*
-🎤 **[PONPONPON](https://open.spotify.com/track/6W0h3ULsrzmD6C8B4cG57A)** by **Kyary Pamyu Pamyu** *(もしもし原宿)*
-🎤 **[GHOST FOOD (feat. TORIENA)](https://open.spotify.com/track/3vVrmzJ90RADY5oydu2yWZ)** by **Moe Shop, TORIENA** *(GHOST FOOD (feat. TORIENA))*
-🎤 **[Heartbeat, Heartbreak](https://open.spotify.com/track/4ZJKi7HXFDG2emN6xIdbmV)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
+🎤 **[熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7)** by **Ikimonogakari** *(Chou Ikimonobakari Tennen Kinen Members Best Selection)*
+🎤 **[Beneath the Mask](https://open.spotify.com/track/5XLXrm5JVMdOus1fWmTOFw)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
+🎤 **[紅蓮華](https://open.spotify.com/track/6ZxPofP51IZY0GOepgf0xQ)** by **LiSA** *(LEO-NiNE)*
+🎤 **[Pursuing My True Self](https://open.spotify.com/track/1cTkB7Xh8xNvQa9xohnoWb)** by **平田志穂子, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Metaphor: ReFantazio ATLUS BRAND35th ALL TIME BEST)*
+🎤 **[CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)** by **Konomi Suzuki** *(17)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 19:30:39Z UTC
+🕐 Last updated: 2026-01-19 19:48:33Z UTC
 <!-- SPOTIFY-END -->
