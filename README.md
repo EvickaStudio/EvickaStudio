@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273618c65f3ba5baded6390b687" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738f0ab0b7de325ddc29680bd8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [バイ・マイ・サイ](https://open.spotify.com/track/5h8jp1tzNDBhETtY4l1pjI)**
-*by* **RADWIMPS**
-*Album:* セツナレンサ
+**🎵 [チェリーボンボン](https://open.spotify.com/track/6vXRLoXXJymgJa9MWf0Tpn)**
+*by* **Kyary Pamyu Pamyu**
+*Album:* もしもし原宿
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="246" height="4" fill="#1db954" rx="2"/>
+    <circle cx="246" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:18 • 4:42
+    2:59 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj)** by **ヨルシカ** *(夏草が邪魔をする)*
-🎤 **[Take Over](https://open.spotify.com/track/1iNKgHv2k6cB09aB5ozR55)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
-🎤 **[にんじゃりばんばん](https://open.spotify.com/track/3zrmJWuIWUmrhhSAZnlOYF)** by **Kyary Pamyu Pamyu** *(なんだこれくしょん)*
-🎤 **[Heaven](https://open.spotify.com/track/76YdWrd7Yw9GuU0LirE088)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
+🎤 **[さみしいかみさま](https://open.spotify.com/track/1jsuNY2norISRscbYj5ISS)** by **Daoko** *(THANK YOU BLUE)*
+🎤 **[ライラック](https://open.spotify.com/track/1bjvM3ArxhRzIUuum0bB7P)** by **美波** *(カワキヲアメク)*
+🎤 **[summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)** by **cinnamons, evening cinema** *(summertime)*
+🎤 **[Your Affection](https://open.spotify.com/track/1FXJRXqLN0tqz2SuO0SD6o)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
+🎤 **[THERE IS A REASON](https://open.spotify.com/track/7dxZe6weXZEaCjh5DIFnye)** by **Konomi Suzuki** *(LIFE of DASH)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 20:15:55Z UTC
+🕐 Last updated: 2026-01-19 20:42:52Z UTC
 <!-- SPOTIFY-END -->
