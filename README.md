@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f9dfc56e21b03b9ef926c9e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bce883ca96c632fb5f6be746" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [just let go](https://open.spotify.com/track/7btoampX4TCsFEw4Q7KZRS)**
-*by* **Cheeky Beez**
-*Album:* just let go
+**🎵 [Nagomi](https://open.spotify.com/track/7Gbe6d4XIvmxqxe4Pd2fg6)**
+*by* **Kaiyo**
+*Album:* Nagomi
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="16" height="4" fill="#1db954" rx="2"/>
-    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 2:49
+    2:10 • 2:55
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV)** by **Velvet Haven** *(Are We There Yet)*
-🎤 **[Hamsin](https://open.spotify.com/track/2llT1I7QQzXmBgBRp5J1Xp)** by **l'Outlander** *(One Way Ticket)*
-🎤 **[An alternate timeline](https://open.spotify.com/track/5ZVozUuW2EwErQpDTRBcrq)** by **Coltan Fuller** *(An alternate timeline)*
-🎤 **[so much more](https://open.spotify.com/track/6Jq3HoQx6j0hWHJ52hoN5W)** by **sinnr** *(so much more)*
-🎤 **[Nagomi](https://open.spotify.com/track/7Gbe6d4XIvmxqxe4Pd2fg6)** by **Kaiyo** *(Nagomi)*
+🎤 **[looking for her](https://open.spotify.com/track/3NgO5ePtks9n4zE5lrt6X5)** by **Kaiyo** *(looking for her)*
+🎤 **[Warm Country](https://open.spotify.com/track/2oxDF5YMifWCBElkidzra3)** by **l'Outlander** *(One Way Ticket)*
+🎤 **[Idea 12](https://open.spotify.com/track/6FiVybin2ArwUDwGKSOA2r)** by **Gibran Alcocer** *(Idea 12)*
+🎤 **[Dreamland](https://open.spotify.com/track/5UreKbsH9dpfxDB2m6D3Ho)** by **Robert Gromotka** *(Dreamland)*
+🎤 **[green to blue](https://open.spotify.com/track/4zzxSXdXK4gLEOyGpPpb9v)** by **daniel.mp3** *(Backroom)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 14:45:18Z UTC
+🕐 Last updated: 2026-01-19 15:18:45Z UTC
 <!-- SPOTIFY-END -->
