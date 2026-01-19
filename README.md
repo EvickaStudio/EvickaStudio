@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27374b26f95618f8fb986a3ad36" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ホロネス](https://open.spotify.com/track/0leGjcgULCpL6qfSPYQmyJ)**
-*by* **美波**
-*Album:* カワキヲアメク
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="249" height="4" fill="#1db954" rx="2"/>
-    <circle cx="249" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    4:23 • 5:17
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[No More What Ifs](https://open.spotify.com/track/2SQ9RmQAOxGICUSt9T5dIX)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
-🎤 **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)*
-🎤 **[Signs Of Love](https://open.spotify.com/track/2GtQU3R2zEUqDyapXdBENM)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[Redo](https://open.spotify.com/track/0WjYHf18yTqGEQjLRHLNWp)** by **Konomi Suzuki** *(lead)*
-🎤 **[Zenzenzense - movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR)** by **RADWIMPS** *(Your Name.)*
+🎤 **[PONPONPON](https://open.spotify.com/track/6W0h3ULsrzmD6C8B4cG57A)** by **Kyary Pamyu Pamyu** *(もしもし原宿)*
+🎤 **[GHOST FOOD (feat. TORIENA)](https://open.spotify.com/track/3vVrmzJ90RADY5oydu2yWZ)** by **Moe Shop, TORIENA** *(GHOST FOOD (feat. TORIENA))*
+🎤 **[Heartbeat, Heartbreak](https://open.spotify.com/track/4ZJKi7HXFDG2emN6xIdbmV)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
+🎤 **[DAYS of DASH](https://open.spotify.com/track/05tgM5KwoJL27Gm2b55u1W)** by **Konomi Suzuki** *(17)*
+🎤 **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 17:45:20Z UTC
+🕐 Last updated: 2026-01-19 18:21:22Z UTC
 <!-- SPOTIFY-END -->
