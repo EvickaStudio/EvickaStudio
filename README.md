@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1)**
-*by* **TK from Ling tosite sigure**
-*Album:* Fantastic Magic
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="179" height="4" fill="#1db954" rx="2"/>
-    <circle cx="179" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 3:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Shadow World](https://open.spotify.com/track/4LfhUJfQX6fpuZ1uzcDEA6)** by **平田志穂子** *(ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック)*
-🎤 **[Blow out](https://open.spotify.com/track/3MCvjM3fRBxL1e4KHgSH10)** by **Konomi Suzuki** *(LIFE of DASH)*
-🎤 **[チェリーボンボン](https://open.spotify.com/track/6vXRLoXXJymgJa9MWf0Tpn)** by **Kyary Pamyu Pamyu** *(もしもし原宿)*
-🎤 **[さみしいかみさま](https://open.spotify.com/track/1jsuNY2norISRscbYj5ISS)** by **Daoko** *(THANK YOU BLUE)*
-🎤 **[ライラック](https://open.spotify.com/track/1bjvM3ArxhRzIUuum0bB7P)** by **美波** *(カワキヲアメク)*
+🎤 **[Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V)** by **Lotus Juice, Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
+🎤 **[Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD)** by **ASIAN KUNG-FU GENERATION** *(ソルファ)*
+🎤 **[小喋日和](https://open.spotify.com/track/0XHGvn7x3lQofve5wi3e0Y)** by **FantasticYouth** *(生生動動)*
+🎤 **[ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8)** by **ヨルシカ** *(負け犬にアンコールはいらない)*
+🎤 **[unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1)** by **TK from Ling tosite sigure** *(Fantastic Magic)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 20:54:16Z UTC
+🕐 Last updated: 2026-01-19 21:12:56Z UTC
 <!-- SPOTIFY-END -->
