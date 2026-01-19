@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f9dfc56e21b03b9ef926c9e0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [just let go](https://open.spotify.com/track/7btoampX4TCsFEw4Q7KZRS)**
+*by* **Cheeky Beez**
+*Album:* just let go
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:09 • 2:49
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))*
-🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
-🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
-🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
+🎤 **[Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV)** by **Velvet Haven** *(Are We There Yet)*
+🎤 **[Hamsin](https://open.spotify.com/track/2llT1I7QQzXmBgBRp5J1Xp)** by **l'Outlander** *(One Way Ticket)*
+🎤 **[An alternate timeline](https://open.spotify.com/track/5ZVozUuW2EwErQpDTRBcrq)** by **Coltan Fuller** *(An alternate timeline)*
+🎤 **[so much more](https://open.spotify.com/track/6Jq3HoQx6j0hWHJ52hoN5W)** by **sinnr** *(so much more)*
+🎤 **[Nagomi](https://open.spotify.com/track/7Gbe6d4XIvmxqxe4Pd2fg6)** by **Kaiyo** *(Nagomi)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 14:03:02Z UTC
+🕐 Last updated: 2026-01-19 14:45:18Z UTC
 <!-- SPOTIFY-END -->
