@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738f0ab0b7de325ddc29680bd8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [チェリーボンボン](https://open.spotify.com/track/6vXRLoXXJymgJa9MWf0Tpn)**
-*by* **Kyary Pamyu Pamyu**
-*Album:* もしもし原宿
+**🎵 [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1)**
+*by* **TK from Ling tosite sigure**
+*Album:* Fantastic Magic
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:59 • 3:38
+    2:22 • 3:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Shadow World](https://open.spotify.com/track/4LfhUJfQX6fpuZ1uzcDEA6)** by **平田志穂子** *(ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック)*
+🎤 **[Blow out](https://open.spotify.com/track/3MCvjM3fRBxL1e4KHgSH10)** by **Konomi Suzuki** *(LIFE of DASH)*
+🎤 **[チェリーボンボン](https://open.spotify.com/track/6vXRLoXXJymgJa9MWf0Tpn)** by **Kyary Pamyu Pamyu** *(もしもし原宿)*
 🎤 **[さみしいかみさま](https://open.spotify.com/track/1jsuNY2norISRscbYj5ISS)** by **Daoko** *(THANK YOU BLUE)*
 🎤 **[ライラック](https://open.spotify.com/track/1bjvM3ArxhRzIUuum0bB7P)** by **美波** *(カワキヲアメク)*
-🎤 **[summertime](https://open.spotify.com/track/172zA5Yn0YzayQWvEJuGAm)** by **cinnamons, evening cinema** *(summertime)*
-🎤 **[Your Affection](https://open.spotify.com/track/1FXJRXqLN0tqz2SuO0SD6o)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[THERE IS A REASON](https://open.spotify.com/track/7dxZe6weXZEaCjh5DIFnye)** by **Konomi Suzuki** *(LIFE of DASH)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 20:42:52Z UTC
+🕐 Last updated: 2026-01-19 20:54:16Z UTC
 <!-- SPOTIFY-END -->
