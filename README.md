@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733e2780c2283bbcb8f5d740d0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273618c65f3ba5baded6390b687" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Is There Still Anything That Love Can Do?](https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv)**
+**🎵 [バイ・マイ・サイ](https://open.spotify.com/track/5h8jp1tzNDBhETtY4l1pjI)**
 *by* **RADWIMPS**
-*Album:* Weathering With You
+*Album:* セツナレンサ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="21" height="4" fill="#1db954" rx="2"/>
-    <circle cx="21" cy="2" r="6" fill="#1db954"/>
+    <rect width="147" height="4" fill="#1db954" rx="2"/>
+    <circle cx="147" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 6:54
+    2:18 • 4:42
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7)** by **Ikimonogakari** *(Chou Ikimonobakari Tennen Kinen Members Best Selection)*
-🎤 **[Beneath the Mask](https://open.spotify.com/track/5XLXrm5JVMdOus1fWmTOFw)** by **Lyn** *(PERSONA5 ORIGINAL SOUNDTRACK)*
-🎤 **[紅蓮華](https://open.spotify.com/track/6ZxPofP51IZY0GOepgf0xQ)** by **LiSA** *(LEO-NiNE)*
-🎤 **[Pursuing My True Self](https://open.spotify.com/track/1cTkB7Xh8xNvQa9xohnoWb)** by **平田志穂子, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Metaphor: ReFantazio ATLUS BRAND35th ALL TIME BEST)*
-🎤 **[CHOIR JAIL](https://open.spotify.com/track/2JOvZwIlBGZLD66wQ9COoJ)** by **Konomi Suzuki** *(17)*
+🎤 **[言って。](https://open.spotify.com/track/6z1TvLTR0oOsWSJfDrERmj)** by **ヨルシカ** *(夏草が邪魔をする)*
+🎤 **[Take Over](https://open.spotify.com/track/1iNKgHv2k6cB09aB5ozR55)** by **Lyn** *(Persona 5 Royal: Original Soundtrack)*
+🎤 **[にんじゃりばんばん](https://open.spotify.com/track/3zrmJWuIWUmrhhSAZnlOYF)** by **Kyary Pamyu Pamyu** *(なんだこれくしょん)*
+🎤 **[Heaven](https://open.spotify.com/track/76YdWrd7Yw9GuU0LirE088)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
+🎤 **[Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi)** by **Konomi Suzuki** *(Reweave)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-19 19:48:33Z UTC
+🕐 Last updated: 2026-01-19 20:15:55Z UTC
 <!-- SPOTIFY-END -->
