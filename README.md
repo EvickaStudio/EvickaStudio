@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f90520eef8e7a21c5bc1d693" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)**
-*by* **archive computer**
-*Album:* ending harmony
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="39" height="4" fill="#1db954" rx="2"/>
-    <circle cx="39" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 4:55
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
-🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
-🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
-🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
-🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
+🎤 **[Reach Out To The Truth](https://open.spotify.com/track/1fwF0BA6R1ZLaXWmClIAw3)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
+🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
+🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
+🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
+🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 08:21:29Z UTC
+🕐 Last updated: 2026-01-20 08:55:15Z UTC
 <!-- SPOTIFY-END -->
