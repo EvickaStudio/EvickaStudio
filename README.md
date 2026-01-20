@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273067dfba04c23ce2887041fff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Waves - Robin Schulz Radio Edit](https://open.spotify.com/track/5Sf3GyLEAzJXxZ5mbCPXTu)**
+*by* **Mr. Probz, Robin Schulz**
+*Album:* Waves (Robin Schulz Radio Edit)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="128" height="4" fill="#1db954" rx="2"/>
+    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:29 • 3:28
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[One Kiss (with Dua Lipa)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)** by **Calvin Harris, Dua Lipa** *(One Kiss (with Dua Lipa))*
+🎤 **[One Kiss (with Dua Lipa)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)** by **Calvin Harris, Dua Lipa** *(One Kiss (with Dua Lipa))*
+🎤 **[Lights - Single Version](https://open.spotify.com/track/5aTsxlQlq0vIedDWZoqMWN)** by **Ellie Goulding** *(Bright Lights (Lights Re-pack / Bonus Version))*
 🎤 **[Reach Out To The Truth](https://open.spotify.com/track/1fwF0BA6R1ZLaXWmClIAw3)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
 🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
-🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
-🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 09:26:26Z UTC
+🕐 Last updated: 2026-01-20 09:53:25Z UTC
 <!-- SPOTIFY-END -->
