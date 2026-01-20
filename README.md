@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
 🎤 **[Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V)** by **Lotus Juice, Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
 🎤 **[Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD)** by **ASIAN KUNG-FU GENERATION** *(ソルファ)*
 🎤 **[小喋日和](https://open.spotify.com/track/0XHGvn7x3lQofve5wi3e0Y)** by **FantasticYouth** *(生生動動)*
 🎤 **[ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8)** by **ヨルシカ** *(負け犬にアンコールはいらない)*
-🎤 **[unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1)** by **TK from Ling tosite sigure** *(Fantastic Magic)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 04:14:00Z UTC
+🕐 Last updated: 2026-01-20 04:56:54Z UTC
 <!-- SPOTIFY-END -->
