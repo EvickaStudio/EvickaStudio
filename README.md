@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27366a0b08900cac229de242f66" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)**
-*by* **Tame Impala**
-*Album:* Currents
+**🎵 [Issues](https://open.spotify.com/track/53WaM9ggtDB2IeGGL4NY99)**
+*by* **Moritz, Longus Mongus**
+*Album:* Issues
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="31" height="4" fill="#1db954" rx="2"/>
-    <circle cx="31" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 5:18
+    2:02 • 3:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)*
-🎤 **[Barfuß am Klavier](https://open.spotify.com/track/4kr64ggr6ALZGxnkGdhK7b)** by **AnnenMayKantereit** *(Alles nix konkretes)*
-🎤 **[ilomilo tekkno (sped up)](https://open.spotify.com/track/13JMGEaIAXzOndW8ETk7wC)** by **TEKKNO** *(ilomilo tekkno (sped up))*
-🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)*
+🎤 **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)*
+🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
+🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
+🎤 **[Nie mehr auf Wolke 7](https://open.spotify.com/track/1swdoC3yiWgXqFORvP2Ifc)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 21:23:32Z UTC
+🕐 Last updated: 2026-01-20 21:41:11Z UTC
 <!-- SPOTIFY-END -->
