@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737d6e8fcbb65970a5329b6ef2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d586274d4c9c7e1ed97f972" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)**
-*by* **Alex G**
-*Album:* Trick
+**🎵 [TL;DR](https://open.spotify.com/track/60xS8hPFTPwjZwZ5b2091p)**
+*by* **Bladee, Ecco2k, Thaiboy Digital**
+*Album:* TL;DR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="242" height="4" fill="#1db954" rx="2"/>
-    <circle cx="242" cy="2" r="6" fill="#1db954"/>
+    <rect width="20" height="4" fill="#1db954" rx="2"/>
+    <circle cx="20" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:01 • 2:29
+    0:12 • 3:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)*
-🎤 **[Mary](https://open.spotify.com/track/36TbBJ7mLPOZMAYs0p4mxb)** by **Alex G** *(Trick)*
-🎤 **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)*
-🎤 **[White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV)** by **Frank Ocean** *(Blonde)*
-🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
+🎤 **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)*
+🎤 **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)*
+🎤 **[Cut the Rope](https://open.spotify.com/track/7ynAeDzL8B5Zccf8NGFCx5)** by **Flawless Issues** *(Cut the Rope)*
+🎤 **[AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)** by **Chapo102, 102 Boyz, Stacks102** *(MISCHKONSUM EP)*
+🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 22:15:43Z UTC
+🕐 Last updated: 2026-01-20 22:41:46Z UTC
 <!-- SPOTIFY-END -->
