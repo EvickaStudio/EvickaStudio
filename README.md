@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27308cc9bc3c9d72c00fdfa5a87" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)**
+*by* **Beach House**
+*Album:* Bloom
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="170" height="4" fill="#1db954" rx="2"/>
+    <circle cx="170" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:27 • 4:18
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)*
 🎤 **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)*
 🎤 **[You Were Needed the Most](https://open.spotify.com/track/6zdycJe26VovH0Iv0uBtCH)** by **longlost** *(You Were Needed the Most)*
 🎤 **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)*
 🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 20:33:39Z UTC
+🕐 Last updated: 2026-01-20 20:58:59Z UTC
 <!-- SPOTIFY-END -->
