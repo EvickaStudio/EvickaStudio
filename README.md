@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27358275126d7b69e097139fa22" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Void in Blue](https://open.spotify.com/track/0eZjwNa0wGZSzsOnt4T2hG)**
-*by* **Glare**
-*Album:* Void in Blue
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="205" height="4" fill="#1db954" rx="2"/>
-    <circle cx="205" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:11 • 4:38
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Shadows](https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2)** by **Pastel Ghost** *(Abyss)*
-🎤 **[It Almost Worked](https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp)** by **TV Girl** *(The Night in Question: French Exit Outtakes)*
-🎤 **[Iris](https://open.spotify.com/track/4t9vB7wIKWE5jIhjcztmmd)** by **Pastel Ghost** *(Ethereality)*
-🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
-🎤 **[did i tell u that i miss u](https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt)** by **adore** *(did i tell u that i miss u)*
+🎤 **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)*
+🎤 **[You Were Needed the Most](https://open.spotify.com/track/6zdycJe26VovH0Iv0uBtCH)** by **longlost** *(You Were Needed the Most)*
+🎤 **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)*
+🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 10:51:53Z UTC
+🕐 Last updated: 2026-01-20 11:17:25Z UTC
 <!-- SPOTIFY-END -->
