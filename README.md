@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f90520eef8e7a21c5bc1d693" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)**
+*by* **archive computer**
+*Album:* ending harmony
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="39" height="4" fill="#1db954" rx="2"/>
+    <circle cx="39" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:38 • 4:55
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Color Your Night](https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V)** by **Lotus Juice, Azumi Takahashi, アトラスサウンドチーム, ATLUS GAME MUSIC** *(Persona 3 Reload Original Soundtrack)*
-🎤 **[Re:Re:](https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD)** by **ASIAN KUNG-FU GENERATION** *(ソルファ)*
-🎤 **[小喋日和](https://open.spotify.com/track/0XHGvn7x3lQofve5wi3e0Y)** by **FantasticYouth** *(生生動動)*
-🎤 **[ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8)** by **ヨルシカ** *(負け犬にアンコールはいらない)*
+🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 07:53:57Z UTC
+🕐 Last updated: 2026-01-20 08:21:29Z UTC
 <!-- SPOTIFY-END -->
