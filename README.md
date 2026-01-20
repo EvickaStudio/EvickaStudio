@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a7d098298dd054fcf1f5d267" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273915b538fe48837fd2b3dd1fa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)**
-*by* **Tamino404**
-*Album:* wenn ich nicht mehr will...☻
+**🎵 [engel](https://open.spotify.com/track/37EZeJeBQAWf6Z5HHAQ4hA)**
+*by* **blombi19**
+*Album:* abiogenese
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="26" height="4" fill="#1db954" rx="2"/>
-    <circle cx="26" cy="2" r="6" fill="#1db954"/>
+    <rect width="254" height="4" fill="#1db954" rx="2"/>
+    <circle cx="254" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 2:03
+    3:03 • 3:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)*
-🎤 **[Eislaufen](https://open.spotify.com/track/60LCaKFI3huqUjzSROIGBo)** by **Hank, Rowli, Sick & Tired** *(Eislaufen)*
-🎤 **[bye bye](https://open.spotify.com/track/1z8JFqqyM4pmvYeIJ1BlaC)** by **OSAYUKI** *(bye bye)*
-🎤 **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)*
-🎤 **[Guts Theme](https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY)** by **Rooster** *(Rooster Debut)*
+🎤 **[Lets Go](https://open.spotify.com/track/3sjnaovOu1IyuHC50JIlSK)** by **uusymon, Slatty** *(Arcadia)*
+🎤 **[was du für mich bist](https://open.spotify.com/track/1yF4oqdTFno6424YoUVDE5)** by **OTIS, NØAH** *(was du für mich bist)*
+🎤 **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)*
+🎤 **[Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ)** by **Harmless** *(I'm Sure)*
+🎤 **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 22:51:45Z UTC
+🕐 Last updated: 2026-01-20 23:14:44Z UTC
 <!-- SPOTIFY-END -->
