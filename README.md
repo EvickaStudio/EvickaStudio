@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273067dfba04c23ce2887041fff" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Waves - Robin Schulz Radio Edit](https://open.spotify.com/track/5Sf3GyLEAzJXxZ5mbCPXTu)**
-*by* **Mr. Probz, Robin Schulz**
-*Album:* Waves (Robin Schulz Radio Edit)
+**🎵 [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus)**
+*by* **Snow Strippers**
+*Album:* April Mixtape 3
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="128" height="4" fill="#1db954" rx="2"/>
-    <circle cx="128" cy="2" r="6" fill="#1db954"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:29 • 3:28
+    2:06 • 3:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[One Kiss (with Dua Lipa)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)** by **Calvin Harris, Dua Lipa** *(One Kiss (with Dua Lipa))*
-🎤 **[One Kiss (with Dua Lipa)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6)** by **Calvin Harris, Dua Lipa** *(One Kiss (with Dua Lipa))*
-🎤 **[Lights - Single Version](https://open.spotify.com/track/5aTsxlQlq0vIedDWZoqMWN)** by **Ellie Goulding** *(Bright Lights (Lights Re-pack / Bonus Version))*
-🎤 **[Reach Out To The Truth](https://open.spotify.com/track/1fwF0BA6R1ZLaXWmClIAw3)** by **平田志穂子** *(ペルソナ4 オリジナル・サウンドトラック)*
-🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
+🎤 **[I Never Loved You](https://open.spotify.com/track/3S6S2qgCs7flhFyZUFYCZa)** by **angeltear333** *(I Never Loved You)*
+🎤 **[haunted](https://open.spotify.com/track/5CxYBDvPWvMyPRkaCthyz9)** by **angeltear333** *(haunted)*
+🎤 **[Butterfly Collector](https://open.spotify.com/track/7enh6gdYJJjHqFrQZI3EyZ)** by **FOOLHAUS** *(Butterfly Collector)*
+🎤 **[it will never be the same](https://open.spotify.com/track/4jAFlYmAucbpVjG3dB16K0)** by **vuul** *(lapse)*
+🎤 **[hope](https://open.spotify.com/track/17tVYFq0jdTvOsOd0aSi0j)** by **vuul** *(hope)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 09:53:25Z UTC
+🕐 Last updated: 2026-01-20 10:20:07Z UTC
 <!-- SPOTIFY-END -->
