@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27366a0b08900cac229de242f66" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Issues](https://open.spotify.com/track/53WaM9ggtDB2IeGGL4NY99)**
-*by* **Moritz, Longus Mongus**
-*Album:* Issues
+**🎵 [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)**
+*by* **MF DOOM**
+*Album:* MM..FOOD
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="137" height="4" fill="#1db954" rx="2"/>
+    <circle cx="137" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 3:12
+    1:58 • 4:18
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[calling for me](https://open.spotify.com/track/0Lw1s61I2yeWo1m8JKcGVz)** by **Rebzyyx** *(calling for me)*
+🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
+🎤 **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)*
+🎤 **[Issues](https://open.spotify.com/track/3W2p8YA8staB87XSG3eI0y)** by **Moritz, Longus Mongus** *(Issues)*
 🎤 **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)*
-🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
-🎤 **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)*
-🎤 **[Nie mehr auf Wolke 7](https://open.spotify.com/track/1swdoC3yiWgXqFORvP2Ifc)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
-🎤 **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-20 21:41:11Z UTC
+🕐 Last updated: 2026-01-20 21:50:00Z UTC
 <!-- SPOTIFY-END -->
