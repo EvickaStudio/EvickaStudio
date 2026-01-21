@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738349bc1fc110a9fcd75dbb8d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300410aa0bf43bdfadd644aa3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)**
+**🎵 [low light](https://open.spotify.com/track/17FGEPZDoDo63uxJckYjXd)**
 *by* **Levi Ryan**
-*Album:* operation wandering soul
+*Album:* low light
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="79" height="4" fill="#1db954" rx="2"/>
-    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:40 • 2:34
+    0:31 • 2:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[operation polar star](https://open.spotify.com/track/72gtn7HvNwYKcTIfdn7ADK)** by **Levi Ryan** *(soviet winter)*
-🎤 **[mud](https://open.spotify.com/track/2V7e7Tv6FJoMhliKsRz3j2)** by **bleach.bath, Levi Ryan** *(numb.exe)*
-🎤 **[marian dogma](https://open.spotify.com/track/0HfX0Lr84UzSJFnZ4HO7Dc)** by **Levi Ryan** *(marian dogma)*
-🎤 **[condolence letter](https://open.spotify.com/track/5GQqX9NEbbsMSmC95XJCC6)** by **Levi Ryan** *(soviet winter)*
-🎤 **[eyes wide shut](https://open.spotify.com/track/1kMDt1D8FYwiVMCGLGFymQ)** by **Levi Ryan** *(eyes wide shut)*
+🎤 **[richard](https://open.spotify.com/track/0ZKdeTYgZT1T1YpFEYlEdY)** by **Levi Ryan** *(out of spite)*
+🎤 **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)*
+🎤 **[cruelty](https://open.spotify.com/track/7BOLfJxAlUrPn2YFjW943B)** by **Levi Ryan, gl0wrm** *(cruelty)*
+🎤 **[purple heart lane](https://open.spotify.com/track/04LoE4zAwohHWawihxGmnu)** by **Levi Ryan** *(purple heart lane)*
+🎤 **[fashionova](https://open.spotify.com/track/5hvyFJYMtTSivsYF27AmsL)** by **Levi Ryan, bleach.bath** *(fashionova)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 22:21:36Z UTC
+🕐 Last updated: 2026-01-21 22:49:41Z UTC
 <!-- SPOTIFY-END -->
