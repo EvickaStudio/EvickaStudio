@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)**
-*by* **ilyproxy, gard**
-*Album:* lifestyleschmerzen
+**🎵 [Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)**
+*by* **Snow Strippers**
+*Album:* RIFT Two
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="250" height="4" fill="#1db954" rx="2"/>
-    <circle cx="250" cy="2" r="6" fill="#1db954"/>
+    <rect width="172" height="4" fill="#1db954" rx="2"/>
+    <circle cx="172" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:22
+    1:44 • 3:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
-🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
-🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
-🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
+🎤 **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)*
+🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 10:53:08Z UTC
+🕐 Last updated: 2026-01-21 11:17:20Z UTC
 <!-- SPOTIFY-END -->
