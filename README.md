@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a259e1c00490f15b8eddfa27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [crackshot](https://open.spotify.com/track/4386PdUSPY4Jomcmw3n3hF)**
-*by* **Levi Ryan, gl0wrm**
-*Album:* out of spite
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:07 • 3:27
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[悪魔の死の賛歌 angel++dove](https://open.spotify.com/track/1lzmBTRHpfZnesRFFGXdSu)** by **uziellsiilver** *(the silhouette 失われた精神の)*
+🎤 **[regiment 588](https://open.spotify.com/track/0paZtPoKRKLOcDwMbd7SaE)** by **Levi Ryan** *(soviet winter)*
+🎤 **[crackshot](https://open.spotify.com/track/4386PdUSPY4Jomcmw3n3hF)** by **Levi Ryan, gl0wrm** *(out of spite)*
 🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
-🎤 **[matrix](https://open.spotify.com/track/0Tpp21GZDiDRyawPpbnIBg)** by **Levi Ryan, David Shawty** *(out of spite)*
-🎤 **[the devil he wrote this](https://open.spotify.com/track/2joDVHEZfG6mQoqjQA09vi)** by **Levi Ryan** *(the devil he wrote this)*
-🎤 **[starry eyes](https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx)** by **gl0wrm, Levi Ryan** *(starry eyes)*
-🎤 **[PRZAC](https://open.spotify.com/track/6aUnbs2reEcV23cJvumFCw)** by **hxly xo, Levi Ryan** *(Synthetic Fauna)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 23:44:37Z UTC
+🕐 Last updated: 2026-01-21 23:56:55Z UTC
 <!-- SPOTIFY-END -->
