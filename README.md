@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27300410aa0bf43bdfadd644aa3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed596b5365b661f87aa70c73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [low light](https://open.spotify.com/track/17FGEPZDoDo63uxJckYjXd)**
+**🎵 [there is no love in rome](https://open.spotify.com/track/4CSgjPK90IvoL5vRkGRbTA)**
 *by* **Levi Ryan**
-*Album:* low light
+*Album:* there is no love in rome
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="59" height="4" fill="#1db954" rx="2"/>
-    <circle cx="59" cy="2" r="6" fill="#1db954"/>
+    <rect width="96" height="4" fill="#1db954" rx="2"/>
+    <circle cx="96" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:31 • 2:37
+    1:15 • 3:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[richard](https://open.spotify.com/track/0ZKdeTYgZT1T1YpFEYlEdY)** by **Levi Ryan** *(out of spite)*
-🎤 **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)*
-🎤 **[cruelty](https://open.spotify.com/track/7BOLfJxAlUrPn2YFjW943B)** by **Levi Ryan, gl0wrm** *(cruelty)*
-🎤 **[purple heart lane](https://open.spotify.com/track/04LoE4zAwohHWawihxGmnu)** by **Levi Ryan** *(purple heart lane)*
-🎤 **[fashionova](https://open.spotify.com/track/5hvyFJYMtTSivsYF27AmsL)** by **Levi Ryan, bleach.bath** *(fashionova)*
+🎤 **[2milesouth](https://open.spotify.com/track/29AEEV2GE5IBwL2IinmoIT)** by **gl0wrm, Levi Ryan** *(2milesouth)*
+🎤 **[purextc](https://open.spotify.com/track/3Lv7M6z3QY4b9LbmHI1FSL)** by **Levi Ryan** *(out of spite)*
+🎤 **[a life of service](https://open.spotify.com/track/2Tu7BOaAZ78d7Tp3o1WWe3)** by **Levi Ryan, bleach.bath** *(a life of service)*
+🎤 **[the bends](https://open.spotify.com/track/4tn9AwC0qzNnh8cLjFx4d5)** by **Levi Ryan** *(the bends)*
+🎤 **[fentanyl](https://open.spotify.com/track/2K30Fn5CIuxphnlzCg6C1c)** by **Levi Ryan** *(fentanyl)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 22:49:41Z UTC
+🕐 Last updated: 2026-01-21 23:18:02Z UTC
 <!-- SPOTIFY-END -->
