@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738825a6ff023d64a2147b8f6f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738155c4e547fa325f227f69dc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)**
-*by* **mint**
-*Album:* help me
+**🎵 [Chained Up](https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU)**
+*by* **Snow Strippers**
+*Album:* Night Killaz Vol. 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="284" height="4" fill="#1db954" rx="2"/>
-    <circle cx="284" cy="2" r="6" fill="#1db954"/>
+    <rect width="199" height="4" fill="#1db954" rx="2"/>
+    <circle cx="199" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 2:48
+    1:21 • 2:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)** by **Cece Natalie** *(Miracle)*
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **KidSnorlax** *(scary monsters)*
-🎤 **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)*
-🎤 **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)*
+🎤 **[dim me](https://open.spotify.com/track/5l17U3KHOpQkTaT37sfMJi)** by **heartcoregirl** *(dim me)*
+🎤 **[can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)*
+🎤 **[come down](https://open.spotify.com/track/2Rvhx2sLN8pZPOb5q4N995)** by **RudeClub** *(come down)*
+🎤 **[NYUTH](https://open.spotify.com/track/3p79z237PGNK6zD0CXwWOz)** by **The Truth** *(NYUTH)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 20:33:09Z UTC
+🕐 Last updated: 2026-01-21 21:01:18Z UTC
 <!-- SPOTIFY-END -->
