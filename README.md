@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed596b5365b661f87aa70c73" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a259e1c00490f15b8eddfa27" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [there is no love in rome](https://open.spotify.com/track/4CSgjPK90IvoL5vRkGRbTA)**
-*by* **Levi Ryan**
-*Album:* there is no love in rome
+**🎵 [crackshot](https://open.spotify.com/track/4386PdUSPY4Jomcmw3n3hF)**
+*by* **Levi Ryan, gl0wrm**
+*Album:* out of spite
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="96" height="4" fill="#1db954" rx="2"/>
-    <circle cx="96" cy="2" r="6" fill="#1db954"/>
+    <rect width="270" height="4" fill="#1db954" rx="2"/>
+    <circle cx="270" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 3:56
+    3:07 • 3:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2milesouth](https://open.spotify.com/track/29AEEV2GE5IBwL2IinmoIT)** by **gl0wrm, Levi Ryan** *(2milesouth)*
-🎤 **[purextc](https://open.spotify.com/track/3Lv7M6z3QY4b9LbmHI1FSL)** by **Levi Ryan** *(out of spite)*
-🎤 **[a life of service](https://open.spotify.com/track/2Tu7BOaAZ78d7Tp3o1WWe3)** by **Levi Ryan, bleach.bath** *(a life of service)*
-🎤 **[the bends](https://open.spotify.com/track/4tn9AwC0qzNnh8cLjFx4d5)** by **Levi Ryan** *(the bends)*
-🎤 **[fentanyl](https://open.spotify.com/track/2K30Fn5CIuxphnlzCg6C1c)** by **Levi Ryan** *(fentanyl)*
+🎤 **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)*
+🎤 **[matrix](https://open.spotify.com/track/0Tpp21GZDiDRyawPpbnIBg)** by **Levi Ryan, David Shawty** *(out of spite)*
+🎤 **[the devil he wrote this](https://open.spotify.com/track/2joDVHEZfG6mQoqjQA09vi)** by **Levi Ryan** *(the devil he wrote this)*
+🎤 **[starry eyes](https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx)** by **gl0wrm, Levi Ryan** *(starry eyes)*
+🎤 **[PRZAC](https://open.spotify.com/track/6aUnbs2reEcV23cJvumFCw)** by **hxly xo, Levi Ryan** *(Synthetic Fauna)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 23:18:02Z UTC
+🕐 Last updated: 2026-01-21 23:44:37Z UTC
 <!-- SPOTIFY-END -->
