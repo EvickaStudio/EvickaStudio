@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b78b5d3183766f1c530c308e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b0fda668be41ed74cb310132" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Scent of Wildflowers](https://open.spotify.com/track/34AfNuN7HXugpMlPzOP0h3)**
+**🎵 [Silence of Space](https://open.spotify.com/track/2cxpTQA3M5nCyYaOY9VBe4)**
 *by* **Soothing Oasis**
-*Album:* Through the Valley
+*Album:* Dream Realm
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="51" height="4" fill="#1db954" rx="2"/>
+    <circle cx="51" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:26 • 2:05
+    0:22 • 2:09
 </span>
 </p>
 
@@ -139,5 +139,5 @@ No recently played tracks.
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 05:24:37Z UTC
+🕐 Last updated: 2026-01-21 05:50:24Z UTC
 <!-- SPOTIFY-END -->
