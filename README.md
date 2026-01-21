@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)**
-*by* **Nokia Angel, smokedope2016**
-*Album:* In Haze
+**🎵 [schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)**
+*by* **ilyproxy, gard**
+*Album:* lifestyleschmerzen
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="277" height="4" fill="#1db954" rx="2"/>
-    <circle cx="277" cy="2" r="6" fill="#1db954"/>
+    <rect width="250" height="4" fill="#1db954" rx="2"/>
+    <circle cx="250" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:06 • 3:21
+    1:59 • 2:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
-🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
-🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
-🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
-🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
+🎤 **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)*
+🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 10:19:19Z UTC
+🕐 Last updated: 2026-01-21 10:53:08Z UTC
 <!-- SPOTIFY-END -->
