@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738349bc1fc110a9fcd75dbb8d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)**
+**🎵 [i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)**
 *by* **Levi Ryan**
-*Album:* southern comfort EP
+*Album:* operation wandering soul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="36" height="4" fill="#1db954" rx="2"/>
-    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:22 • 3:08
+    0:40 • 2:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[marine x](https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm)** by **Levi Ryan, Blksmiith** *(marine x)*
-🎤 **[digital holocaust](https://open.spotify.com/track/38fW2bWMcuy4fTyCzQTBbr)** by **Levi Ryan** *(soviet winter)*
-🎤 **[Kyoto Fight Club](https://open.spotify.com/track/6kPkY8lSb1ni4qrD6DN0LZ)** by **bleach.bath, Levi Ryan** *(numb.exe)*
-🎤 **[the things we carry](https://open.spotify.com/track/4F1nBGK2yeIc5TvqN06vlp)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[binary code](https://open.spotify.com/track/4ExXS46gKp608wdwE5GhUC)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[operation polar star](https://open.spotify.com/track/72gtn7HvNwYKcTIfdn7ADK)** by **Levi Ryan** *(soviet winter)*
+🎤 **[mud](https://open.spotify.com/track/2V7e7Tv6FJoMhliKsRz3j2)** by **bleach.bath, Levi Ryan** *(numb.exe)*
+🎤 **[marian dogma](https://open.spotify.com/track/0HfX0Lr84UzSJFnZ4HO7Dc)** by **Levi Ryan** *(marian dogma)*
+🎤 **[condolence letter](https://open.spotify.com/track/5GQqX9NEbbsMSmC95XJCC6)** by **Levi Ryan** *(soviet winter)*
+🎤 **[eyes wide shut](https://open.spotify.com/track/1kMDt1D8FYwiVMCGLGFymQ)** by **Levi Ryan** *(eyes wide shut)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-21 21:57:23Z UTC
+🕐 Last updated: 2026-01-21 22:21:36Z UTC
 <!-- SPOTIFY-END -->
