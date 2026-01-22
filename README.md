@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)*
-🎤 **[Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI)** by **Dr. Dog** *(Shame, Shame (Deluxe Edition))*
-🎤 **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)*
-🎤 **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)*
-🎤 **[AIR FORCE](https://open.spotify.com/track/4T03XcJcZZx1BmSzP3QZ01)** by **calvinsober** *(AIR FORCE)*
+🎤 **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)*
+🎤 **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)*
+🎤 **[Nirvana](https://open.spotify.com/track/3BfdAGi5A2EQ5WtxN7VfZ1)** by **Longus Mongus, Monk, BHZ, Ion Miles** *(halb:vier)*
+🎤 **[Deira City Centre](https://open.spotify.com/track/7fm0RfFil17f017qchrnyK)** by **Night Lovell** *(Concept Vague)*
+🎤 **[Die braune Tasche - Frizzo Remix](https://open.spotify.com/track/0WWphMtsnrm1WSldFJkkc7)** by **Haftbefehl, Frizzo** *(Die braune Tasche (Frizzo Remix))*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 20:48:07Z UTC
+🕐 Last updated: 2026-01-22 21:15:43Z UTC
 <!-- SPOTIFY-END -->
