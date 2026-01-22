@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Ferrari](https://open.spotify.com/track/5FC1X5dpLKIsAKGlXNZHhx)** by **Yung Hurn** *(In Memory of Yung Hurn - Classic Compilation)*
+🎤 **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)*
+🎤 **[Nicht schon wieder](https://open.spotify.com/track/6N7WzynEuY1EP6LayCIczb)** by **Dropped here** *(Sodium)*
 🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
 🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
-🎤 **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)*
-🎤 **[sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI)** by **Kasi, antonius** *(sommernacht)*
-🎤 **[Switch Heel](https://open.spotify.com/track/3MY4U399Azd79jGeMPzXE3)** by **makko** *(Switch Heel)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 19:43:07Z UTC
+🕐 Last updated: 2026-01-22 19:53:05Z UTC
 <!-- SPOTIFY-END -->
