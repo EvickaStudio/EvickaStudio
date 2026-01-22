@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273e2cead1a42720d931c5c4ac1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)**
+*by* **PureSnow**
+*Album:* Tunnel Vision
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="231" height="4" fill="#1db954" rx="2"/>
+    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:41 • 3:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
-🎤 **[Heartstyle (feat. Wisp)](https://open.spotify.com/track/7HDXvkyToDEZ5cKhHVLqoe)** by **Photographic Memory, Wisp** *(I look at her and light goes all through me)*
-🎤 **[goes nowhere](https://open.spotify.com/track/2z1vxjtnzZ069uqJwuwEkW)** by **Nosgov, Avast** *(goes nowhere)*
-🎤 **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[crybaby shame](https://open.spotify.com/track/6dwKj13DihYRDI1HExyXTt)** by **heartcoregirl, crimson//chaos.** *(crybaby shame)*
+🎤 **[bad intentions](https://open.spotify.com/track/2qA43wTpvl3OIqXyhNycwV)** by **5v** *(bad intentions)*
+🎤 **[Alive - SG Lewis Remix](https://open.spotify.com/track/06tI2UeECYQN6AM4mZkB5s)** by **Empire Of The Sun, SG Lewis** *(Alive (SG Lewis Remix))*
+🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
+🎤 **[Someone Said](https://open.spotify.com/track/01uBSBXlAv25daalVLFusP)** by **Skrillex, Varg²™, Eurohead, Whitearmor, swedm®** *(Someone Said)*
+🎤 **[lila herz](https://open.spotify.com/track/6xCubL7tmLpBfot0dxtEji)** by **luutwo** *(lila herz)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 12:32:12Z UTC
+🕐 Last updated: 2026-01-22 13:32:02Z UTC
 <!-- SPOTIFY-END -->
