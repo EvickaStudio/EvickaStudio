@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[i need 2 feel reality](https://open.spotify.com/track/5Fh2RRSUeKXdOzVWsq1vWd)** by **usedcvnt** *(wonderfulcore)*
-🎤 **[turn back](https://open.spotify.com/track/3V54q6xVyFDbNgFjZEqqqu)** by **wiv** *(turn back)*
-🎤 **[life flashing before my eyes](https://open.spotify.com/track/6j1t50yAfYRtBMRFDc3OiQ)** by **ivorydespair** *(life flashing before my eyes)*
-🎤 **[CODE](https://open.spotify.com/track/3GDGN9D13lkGUGNKoynbwR)** by **Nedaj** *(GENESIS)*
-🎤 **[Hopelessness](https://open.spotify.com/track/5gTGFOB8RIihsPxfIC0OtH)** by **Sewerslvt** *(Drowning in the Sewer)*
+🎤 **[Track 44](https://open.spotify.com/track/0pXOkvmWa7sA08Gyva1mga)** by **GnB Chili, gutshop lilium** *(Basement Popstar)*
+🎤 **[taste of blood](https://open.spotify.com/track/0nyeJrV282kbSa48RyiOMS)** by **usedcvnt, Sabuze** *(ultraviolet)*
+🎤 **[EXODUS](https://open.spotify.com/track/0TjAKtc37kvhsfVHHhRHp0)** by **Nedaj** *(GENESIS)*
+🎤 **[Ethereal](https://open.spotify.com/track/4eILnbDpp3LfrA4nVknjA6)** by **Jaegershu** *(Ethereal)*
+🎤 **[My Head Hurts](https://open.spotify.com/track/4k1pRLWkbIxwlaUZ4GafHB)** by **strxwberrymilk** *(Music for Awkward Dates)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 16:58:17Z UTC
+🕐 Last updated: 2026-01-22 17:29:24Z UTC
 <!-- SPOTIFY-END -->
