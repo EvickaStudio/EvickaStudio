@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d2528e2948428a6e7a7ce6cf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bird on a Wire](https://open.spotify.com/track/0hcqinpvUZ8p8IdqJtGw7k)**
-*by* **User2222**
-*Album:* Blame Games
+**🎵 [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)**
+*by* **Bassvictim**
+*Album:* Basspunk 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="66" height="4" fill="#1db954" rx="2"/>
-    <circle cx="66" cy="2" r="6" fill="#1db954"/>
+    <rect width="141" height="4" fill="#1db954" rx="2"/>
+    <circle cx="141" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:48 • 3:40
+    1:08 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)*
-🎤 **[crackshot](https://open.spotify.com/track/4386PdUSPY4Jomcmw3n3hF)** by **Levi Ryan, gl0wrm** *(out of spite)*
-🎤 **[Monster](https://open.spotify.com/track/5XSekkMBJgX3NaGoblYPul)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[is this really what you want?](https://open.spotify.com/track/4vTmXAihY7QGYJrl7pCRrQ)** by **SHEMYYY** *(is this really what you want?)*
-🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)*
+🎤 **[Telephone](https://open.spotify.com/track/173oCRuE5CCCiG2XSzxUQH)** by **Elxnce, Cece Natalie** *(Ridgeway Drive / Blurred Sentimentality)*
+🎤 **[Favorite Lifeline](https://open.spotify.com/track/6rHBKKhVw5pANLuynFxQjp)** by **Snow Strippers** *(Night Killaz Vol. 2)*
+🎤 **[homecoming](https://open.spotify.com/track/5SWhEhbc0ShOzEQEIvCYJz)** by **Levi Ryan** *(soviet winter)*
+🎤 **[lonelyfeather](https://open.spotify.com/track/0fAUyAt5ttMfAgSbwVd26s)** by **SHEMYYY** *(this is how it's meant to feel)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 07:26:26Z UTC
+🕐 Last updated: 2026-01-22 07:46:58Z UTC
 <!-- SPOTIFY-END -->
