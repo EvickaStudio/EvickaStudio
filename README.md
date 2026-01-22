@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273697d9708d21303030b186bdb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [PRZAC](https://open.spotify.com/track/6aUnbs2reEcV23cJvumFCw)**
-*by* **hxly xo, Levi Ryan**
-*Album:* Synthetic Fauna
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:36
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[new guns](https://open.spotify.com/track/0HINjqlStSVU2T4ZmkLbb9)** by **Levi Ryan, Mezha** *(new guns)*
-🎤 **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))*
-🎤 **[We Both Suffocate](https://open.spotify.com/track/3cBqLB1xFut1np2r3c0ueO)** by **Snow Strippers** *(April Mixtape 2)*
-🎤 **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)*
-🎤 **[when you tell me](https://open.spotify.com/track/4Cg7gdUrduGCuS0hyGe6m3)** by **trndytrndy** *(when you tell me)*
+🎤 **[Heartstyle (feat. Wisp)](https://open.spotify.com/track/7HDXvkyToDEZ5cKhHVLqoe)** by **Photographic Memory, Wisp** *(I look at her and light goes all through me)*
+🎤 **[goes nowhere](https://open.spotify.com/track/2z1vxjtnzZ069uqJwuwEkW)** by **Nosgov, Avast** *(goes nowhere)*
+🎤 **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[crybaby shame](https://open.spotify.com/track/6dwKj13DihYRDI1HExyXTt)** by **heartcoregirl, crimson//chaos.** *(crybaby shame)*
+🎤 **[don't tell me to wake up](https://open.spotify.com/track/077Kwm3fhHTQOHSc1zv1wM)** by **SHEMYYY** *(this is how it's meant to feel)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 08:21:10Z UTC
+🕐 Last updated: 2026-01-22 08:55:31Z UTC
 <!-- SPOTIFY-END -->
