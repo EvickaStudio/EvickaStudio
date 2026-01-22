@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e2cead1a42720d931c5c4ac1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e8e5b44d5baa40fe914b6e9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)**
-*by* **PureSnow**
-*Album:* Tunnel Vision
+**🎵 [m e m o r i e s](https://open.spotify.com/track/7cI10eOAbXQJlbTuxnuREP)**
+*by* **wiv**
+*Album:* m e m o r i e s
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="231" height="4" fill="#1db954" rx="2"/>
-    <circle cx="231" cy="2" r="6" fill="#1db954"/>
+    <rect width="197" height="4" fill="#1db954" rx="2"/>
+    <circle cx="197" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 3:29
+    2:04 • 3:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[bad intentions](https://open.spotify.com/track/2qA43wTpvl3OIqXyhNycwV)** by **5v** *(bad intentions)*
-🎤 **[Alive - SG Lewis Remix](https://open.spotify.com/track/06tI2UeECYQN6AM4mZkB5s)** by **Empire Of The Sun, SG Lewis** *(Alive (SG Lewis Remix))*
-🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[Someone Said](https://open.spotify.com/track/01uBSBXlAv25daalVLFusP)** by **Skrillex, Varg²™, Eurohead, Whitearmor, swedm®** *(Someone Said)*
-🎤 **[lila herz](https://open.spotify.com/track/6xCubL7tmLpBfot0dxtEji)** by **luutwo** *(lila herz)*
+🎤 **[panic attack in bed](https://open.spotify.com/track/49xGWp9uzz2bDBwFcjGV1J)** by **hkmori** *(panic attack in bed)*
+🎤 **[Fuji](https://open.spotify.com/track/1tb5PhrN4RTkc2fS4i6Ri0)** by **Nedaj** *(Fuji)*
+🎤 **[your eyes](https://open.spotify.com/track/1yVwZkfNwWBPDPT1P5Pv3t)** by **68+1** *(echoes of the past)*
+🎤 **[Dreamstation](https://open.spotify.com/track/2Wxi1ZfNXr1ewqa8QZuXic)** by **dreamstation, Blksmiith** *(Dreamcore, Vol. 1)*
+🎤 **[Hatred](https://open.spotify.com/track/5HEgBccgf98oIOwNWrUYw0)** by **Iwakura** *(Hatred)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 13:32:02Z UTC
+🕐 Last updated: 2026-01-22 14:05:32Z UTC
 <!-- SPOTIFY-END -->
