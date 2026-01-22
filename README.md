@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Hin & Her](https://open.spotify.com/track/0YuSMNVNyMeVTjGH3kqoG5)** by **Matze** *(Hin & Her)*
+🎤 **[We Major](https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE)** by **Kanye West, Nas, Really Doe** *(Late Registration)*
 🎤 **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)*
 🎤 **[fleeting moment](https://open.spotify.com/track/7mufYrXSD7uIGfzrGljWhb)** by **misani** *(moonlit meadows)*
 🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
-🎤 **[ZUCKER - Remix](https://open.spotify.com/track/7ykUSnlWwheGIgpWxXkNIL)** by **TYM, Nadir** *(ZUCKER - REMIX)*
-🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 21:55:42Z UTC
+🕐 Last updated: 2026-01-22 22:16:25Z UTC
 <!-- SPOTIFY-END -->
