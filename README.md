@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[i need 2 feel reality](https://open.spotify.com/track/5Fh2RRSUeKXdOzVWsq1vWd)** by **usedcvnt** *(wonderfulcore)*
+🎤 **[turn back](https://open.spotify.com/track/3V54q6xVyFDbNgFjZEqqqu)** by **wiv** *(turn back)*
 🎤 **[life flashing before my eyes](https://open.spotify.com/track/6j1t50yAfYRtBMRFDc3OiQ)** by **ivorydespair** *(life flashing before my eyes)*
 🎤 **[CODE](https://open.spotify.com/track/3GDGN9D13lkGUGNKoynbwR)** by **Nedaj** *(GENESIS)*
 🎤 **[Hopelessness](https://open.spotify.com/track/5gTGFOB8RIihsPxfIC0OtH)** by **Sewerslvt** *(Drowning in the Sewer)*
-🎤 **[3 minute](https://open.spotify.com/track/0d4iovoMq8YJ7wtuvKH7bj)** by **RFM Beats** *(3 minute)*
-🎤 **[limited in love](https://open.spotify.com/track/7eCXs1WpVy7xxedmyM2gVb)** by **usedcvnt, AKIBA** *(ultraviolet)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 16:24:45Z UTC
+🕐 Last updated: 2026-01-22 16:58:17Z UTC
 <!-- SPOTIFY-END -->
