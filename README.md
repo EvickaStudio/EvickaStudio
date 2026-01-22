@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[you talk like someone else](https://open.spotify.com/track/66vKRE9gzMvA75sJ18QXBn)** by **Blksmiith** *(blank)*
-🎤 **[pls tell me what is ur dream](https://open.spotify.com/track/0BNxkNtK2OyfZyMsELSxMF)** by **usedcvnt, Eden FM** *(ultraviolet)*
-🎤 **[unanswered call](https://open.spotify.com/track/1oobQYgsxtosjnJy0eojJx)** by **wiv** *(unanswered call)*
-🎤 **[drowning in problems](https://open.spotify.com/track/0Ae6jV1xOJcMxSRF91FMLT)** by **68+1** *(drowning in problems)*
-🎤 **[Alive](https://open.spotify.com/track/6LUOrRPkU3GbFBuLMR0ELW)** by **Nedaj** *(Alive)*
+🎤 **[Subterranean Loner](https://open.spotify.com/track/1SwIVRPPKALdsLtRQKQKrE)** by **Ftlframe** *(Overdrive Dreams)*
+🎤 **[inhuman](https://open.spotify.com/track/3CHOr5EkaZ6uyED07cATW3)** by **usedcvnt, aak3** *(ultraviolet)*
+🎤 **[you're too weak](https://open.spotify.com/track/14MpaNw9G7MHYfOHdp9YNo)** by **wiv** *(wivcore)*
+🎤 **[split ends](https://open.spotify.com/track/4hkjDtOD0VQs0iGjBiYQjQ)** by **marchpane** *(connection severed)*
+🎤 **[RUN](https://open.spotify.com/track/5vSJdvBEPlpqKUY22pBgWF)** by **Nedaj, Sadbalmain** *(GENESIS)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 14:48:31Z UTC
+🕐 Last updated: 2026-01-22 15:22:08Z UTC
 <!-- SPOTIFY-END -->
