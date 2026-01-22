@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Could be us](https://open.spotify.com/track/0alEROvI369DokhQoLWtXT)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
 🎤 **[Heartstyle (feat. Wisp)](https://open.spotify.com/track/7HDXvkyToDEZ5cKhHVLqoe)** by **Photographic Memory, Wisp** *(I look at her and light goes all through me)*
 🎤 **[goes nowhere](https://open.spotify.com/track/2z1vxjtnzZ069uqJwuwEkW)** by **Nosgov, Avast** *(goes nowhere)*
 🎤 **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)*
 🎤 **[crybaby shame](https://open.spotify.com/track/6dwKj13DihYRDI1HExyXTt)** by **heartcoregirl, crimson//chaos.** *(crybaby shame)*
-🎤 **[don't tell me to wake up](https://open.spotify.com/track/077Kwm3fhHTQOHSc1zv1wM)** by **SHEMYYY** *(this is how it's meant to feel)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 10:19:29Z UTC
+🕐 Last updated: 2026-01-22 10:51:40Z UTC
 <!-- SPOTIFY-END -->
