@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)*
+🎤 **[fleeting moment](https://open.spotify.com/track/7mufYrXSD7uIGfzrGljWhb)** by **misani** *(moonlit meadows)*
+🎤 **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)*
 🎤 **[ZUCKER - Remix](https://open.spotify.com/track/7ykUSnlWwheGIgpWxXkNIL)** by **TYM, Nadir** *(ZUCKER - REMIX)*
 🎤 **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)*
-🎤 **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)*
-🎤 **[Nur ein Wort](https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3)** by **flö** *(Nur ein Wort)*
-🎤 **[Scheiß auf eure Party](https://open.spotify.com/track/1Syhm4vkn6n2DYuFnyI60s)** by **Ufo361** *(Ich bin 2 Berliner)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 21:43:24Z UTC
+🕐 Last updated: 2026-01-22 21:55:42Z UTC
 <!-- SPOTIFY-END -->
