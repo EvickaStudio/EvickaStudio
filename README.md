@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e8e5b44d5baa40fe914b6e9f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [m e m o r i e s](https://open.spotify.com/track/7cI10eOAbXQJlbTuxnuREP)**
-*by* **wiv**
-*Album:* m e m o r i e s
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="197" height="4" fill="#1db954" rx="2"/>
-    <circle cx="197" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:04 • 3:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[panic attack in bed](https://open.spotify.com/track/49xGWp9uzz2bDBwFcjGV1J)** by **hkmori** *(panic attack in bed)*
-🎤 **[Fuji](https://open.spotify.com/track/1tb5PhrN4RTkc2fS4i6Ri0)** by **Nedaj** *(Fuji)*
-🎤 **[your eyes](https://open.spotify.com/track/1yVwZkfNwWBPDPT1P5Pv3t)** by **68+1** *(echoes of the past)*
-🎤 **[Dreamstation](https://open.spotify.com/track/2Wxi1ZfNXr1ewqa8QZuXic)** by **dreamstation, Blksmiith** *(Dreamcore, Vol. 1)*
-🎤 **[Hatred](https://open.spotify.com/track/5HEgBccgf98oIOwNWrUYw0)** by **Iwakura** *(Hatred)*
+🎤 **[you talk like someone else](https://open.spotify.com/track/66vKRE9gzMvA75sJ18QXBn)** by **Blksmiith** *(blank)*
+🎤 **[pls tell me what is ur dream](https://open.spotify.com/track/0BNxkNtK2OyfZyMsELSxMF)** by **usedcvnt, Eden FM** *(ultraviolet)*
+🎤 **[unanswered call](https://open.spotify.com/track/1oobQYgsxtosjnJy0eojJx)** by **wiv** *(unanswered call)*
+🎤 **[drowning in problems](https://open.spotify.com/track/0Ae6jV1xOJcMxSRF91FMLT)** by **68+1** *(drowning in problems)*
+🎤 **[Alive](https://open.spotify.com/track/6LUOrRPkU3GbFBuLMR0ELW)** by **Nedaj** *(Alive)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 14:05:32Z UTC
+🕐 Last updated: 2026-01-22 14:48:31Z UTC
 <!-- SPOTIFY-END -->
