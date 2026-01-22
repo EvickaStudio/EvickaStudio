@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Track 44](https://open.spotify.com/track/0pXOkvmWa7sA08Gyva1mga)** by **GnB Chili, gutshop lilium** *(Basement Popstar)*
-🎤 **[taste of blood](https://open.spotify.com/track/0nyeJrV282kbSa48RyiOMS)** by **usedcvnt, Sabuze** *(ultraviolet)*
-🎤 **[EXODUS](https://open.spotify.com/track/0TjAKtc37kvhsfVHHhRHp0)** by **Nedaj** *(GENESIS)*
-🎤 **[Ethereal](https://open.spotify.com/track/4eILnbDpp3LfrA4nVknjA6)** by **Jaegershu** *(Ethereal)*
-🎤 **[My Head Hurts](https://open.spotify.com/track/4k1pRLWkbIxwlaUZ4GafHB)** by **strxwberrymilk** *(Music for Awkward Dates)*
+🎤 **[SMP, dmt?? TRUST IN ME](https://open.spotify.com/track/0GlF9JK0Vb39wDia9HWuDp)** by **jequya** *(SMP, dmt?? TRUST IN ME)*
+🎤 **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)*
+🎤 **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)*
+🎤 **[sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI)** by **Kasi, antonius** *(sommernacht)*
+🎤 **[Switch Heel](https://open.spotify.com/track/3MY4U399Azd79jGeMPzXE3)** by **makko** *(Switch Heel)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 19:22:35Z UTC
+🕐 Last updated: 2026-01-22 19:43:07Z UTC
 <!-- SPOTIFY-END -->
