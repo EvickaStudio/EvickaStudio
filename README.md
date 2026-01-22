@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Subterranean Loner](https://open.spotify.com/track/1SwIVRPPKALdsLtRQKQKrE)** by **Ftlframe** *(Overdrive Dreams)*
-🎤 **[inhuman](https://open.spotify.com/track/3CHOr5EkaZ6uyED07cATW3)** by **usedcvnt, aak3** *(ultraviolet)*
-🎤 **[you're too weak](https://open.spotify.com/track/14MpaNw9G7MHYfOHdp9YNo)** by **wiv** *(wivcore)*
-🎤 **[split ends](https://open.spotify.com/track/4hkjDtOD0VQs0iGjBiYQjQ)** by **marchpane** *(connection severed)*
-🎤 **[RUN](https://open.spotify.com/track/5vSJdvBEPlpqKUY22pBgWF)** by **Nedaj, Sadbalmain** *(GENESIS)*
+🎤 **[life flashing before my eyes](https://open.spotify.com/track/6j1t50yAfYRtBMRFDc3OiQ)** by **ivorydespair** *(life flashing before my eyes)*
+🎤 **[CODE](https://open.spotify.com/track/3GDGN9D13lkGUGNKoynbwR)** by **Nedaj** *(GENESIS)*
+🎤 **[Hopelessness](https://open.spotify.com/track/5gTGFOB8RIihsPxfIC0OtH)** by **Sewerslvt** *(Drowning in the Sewer)*
+🎤 **[3 minute](https://open.spotify.com/track/0d4iovoMq8YJ7wtuvKH7bj)** by **RFM Beats** *(3 minute)*
+🎤 **[limited in love](https://open.spotify.com/track/7eCXs1WpVy7xxedmyM2gVb)** by **usedcvnt, AKIBA** *(ultraviolet)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-22 15:22:08Z UTC
+🕐 Last updated: 2026-01-22 15:52:26Z UTC
 <!-- SPOTIFY-END -->
