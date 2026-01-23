@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a9a40262d12da7729ca2deab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)**
-*by* **Sun Kil Moon**
-*Album:* Ghosts of the Great Highway
+**🎵 [Bad Chick](https://open.spotify.com/track/5UFbfXuj4TjirzmcvTFBBy)**
+*by* **CRO**
+*Album:* Melodie
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="101" height="4" fill="#1db954" rx="2"/>
-    <circle cx="101" cy="2" r="6" fill="#1db954"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:55 • 14:32
+    2:56 • 3:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)*
+🎤 **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)*
+🎤 **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)*
+🎤 **[Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)** by **Sun Kil Moon** *(Ghosts of the Great Highway)*
 🎤 **[Limerence](https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK)** by **Yves Tumor** *(Mono No Aware)*
-🎤 **[111 Seconds in Heaven](https://open.spotify.com/track/1YnWfFuOQiMgq4dzTKgVfP)** by **SyKo, glaive** *(111 Seconds in Heaven)*
-🎤 **[whoa (mind in awe)](https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa)** by **XXXTENTACION** *(SKINS)*
-🎤 **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)*
-🎤 **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 22:51:33Z UTC
+🕐 Last updated: 2026-01-23 23:14:16Z UTC
 <!-- SPOTIFY-END -->
