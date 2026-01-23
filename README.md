@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734a9f8f710344470fe729b0d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)**
-*by* **mickyi, S1RENA**
-*Album:* zone out ep ⋆｡°✩
+**🎵 [meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3)**
+*by* **The Hellp**
+*Album:* meant2be
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="147" height="4" fill="#1db954" rx="2"/>
-    <circle cx="147" cy="2" r="6" fill="#1db954"/>
+    <rect width="287" height="4" fill="#1db954" rx="2"/>
+    <circle cx="287" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 3:04
+    3:04 • 3:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Malaysia Airlines](https://open.spotify.com/track/2ioYzfoZJRbJ8dy9veNqLo)** by **Contact Sports** *(Malaysia Airlines)*
-🎤 **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)*
-🎤 **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[Telephone - Jukaa 'Wired' Mix](https://open.spotify.com/track/16LFlRf5I52ZwTjynmJVrM)** by **Elxnce, Cece Natalie, Jukaa** *(Telephone (Jukaa Mix))*
-🎤 **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)*
+🎤 **[The Meadow Where I Died](https://open.spotify.com/track/6EYnaxvl2fkGN7vPmooa77)** by **Ayegy** *(BLACKTHORN)*
+🎤 **[sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)** by **luu** *(irgendwo im schatten)*
+🎤 **[i was wrong](https://open.spotify.com/track/14Q9HQq9zcSatCaordgQM6)** by **SHEMYYY** *(i was wrong)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[Theorem](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)** by **ear** *(The Most Dear and The Future)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 20:17:10Z UTC
+🕐 Last updated: 2026-01-23 20:45:29Z UTC
 <!-- SPOTIFY-END -->
