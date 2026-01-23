@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273340b7401d23f8f2a01721d28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ade0e0ac697b0ed71ad8d01d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)**
-*by* **tim, TYM**
-*Album:* Myself
+**🎵 [ID63](https://open.spotify.com/track/5xTxkw7kfPFuG2C5CNlU6G)**
+*by* **yaego, jsn**
+*Album:* ID63
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="229" height="4" fill="#1db954" rx="2"/>
-    <circle cx="229" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:36 • 3:24
+    3:10 • 3:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
-🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
-🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
-🎤 **[dancing crying at 4am in the rain](https://open.spotify.com/track/38tBhOt5B3ql2eBcl9r1rV)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
-🎤 **[white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)** by **Lil Peep, Lil Tracy** *(castles)*
+🎤 **[Griechischer Wein](https://open.spotify.com/track/2f8Hc0w7BpDtzwoa6BHKec)** by **Udo Jürgens** *(Meine Lieder)*
+🎤 **[Intergallactic](https://open.spotify.com/track/1Ad4Uns8u9aytqNdPueSsP)** by **TYM** *(Sandstorm exuleD)*
+🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
+🎤 **[let me bleed](https://open.spotify.com/track/74nCM3fhMDl2NF8xaHR774)** by **Lil Peep, Nedarb** *(CALIFORNIA GIRLS)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 21:50:43Z UTC
+🕐 Last updated: 2026-01-23 22:12:10Z UTC
 <!-- SPOTIFY-END -->
