@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734a9f8f710344470fe729b0d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273adafc19fd8e12481b3360ad4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [meant2be](https://open.spotify.com/track/2ogIwH7SqsgCjXc5KJOes3)**
-*by* **The Hellp**
-*Album:* meant2be
+**🎵 [Sorry](https://open.spotify.com/track/2kxZnZBMfHbinyLaSDvP4Z)**
+*by* **Lil Bo Weep, nthngxxcitxsmx**
+*Album:* SOLOS 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:04 • 3:13
+    1:46 • 2:32
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[The Meadow Where I Died](https://open.spotify.com/track/6EYnaxvl2fkGN7vPmooa77)** by **Ayegy** *(BLACKTHORN)*
-🎤 **[sünden](https://open.spotify.com/track/5Sw626ySvNHVTpb9cInFKV)** by **luu** *(irgendwo im schatten)*
-🎤 **[i was wrong](https://open.spotify.com/track/14Q9HQq9zcSatCaordgQM6)** by **SHEMYYY** *(i was wrong)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[Theorem](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)** by **ear** *(The Most Dear and The Future)*
+🎤 **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)*
+🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
+🎤 **[Spiritual Cramp](https://open.spotify.com/track/4wC7f1PC6zWEmeBeZJAj0p)** by **Ayegy** *(Spiritual Cramp)*
+🎤 **[I Wanna Be Adored](https://open.spotify.com/track/4oK8hbI2kpBFjdWiPNibpE)** by **Nokia Angel** *(I Wanna Be Adored)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 20:45:29Z UTC
+🕐 Last updated: 2026-01-23 21:13:51Z UTC
 <!-- SPOTIFY-END -->
