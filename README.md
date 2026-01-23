@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d451f811927c0e4da1a6befe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eedc2915fba4d0e6f91a613f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)**
-*by* **mehlhaltig, luu**
-*Album:* engel>_<
+**🎵 [Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)**
+*by* **Snow Strippers**
+*Album:* RIFT Two
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="243" height="4" fill="#1db954" rx="2"/>
-    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+    <rect width="293" height="4" fill="#1db954" rx="2"/>
+    <circle cx="293" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:41 • 2:05
+    2:58 • 3:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
-🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
-🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
-🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
-🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)*
+🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
+🎤 **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)*
+🎤 **[GUN SONG](https://open.spotify.com/track/4lFGraxsJrAJ83YV94iez8)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[i think you should know](https://open.spotify.com/track/5LfKWDwHGc12ChQhnXcuYG)** by **SHEMYYY, Senses** *(i think you should know)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 18:56:15Z UTC
+🕐 Last updated: 2026-01-23 19:20:53Z UTC
 <!-- SPOTIFY-END -->
