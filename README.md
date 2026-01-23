@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d451f811927c0e4da1a6befe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)**
+*by* **mehlhaltig, luu**
+*Album:* engel>_<
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="243" height="4" fill="#1db954" rx="2"/>
+    <circle cx="243" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:41 • 2:05
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[crush](https://open.spotify.com/track/3dg9fskUm4BP9mZAoRJoGY)** by **vasthearts, disoc8** *(crush)*
-🎤 **[DISCONNECTED](https://open.spotify.com/track/4ZsxdLREM5LhOsWyWynIUU)** by **lavendr** *(DISCONNECTED)*
-🎤 **[Alive - SG Lewis Remix](https://open.spotify.com/track/06tI2UeECYQN6AM4mZkB5s)** by **Empire Of The Sun, SG Lewis** *(Alive (SG Lewis Remix))*
-🎤 **[désolé](https://open.spotify.com/track/1BVvaO7H4TFNKbot16Vad7)** by **MotB, Monk, BHZ** *(ep26_v3)*
-🎤 **[BAR](https://open.spotify.com/track/5kWQze7u4FNXZZGvyQl8my)** by **Frry, 7ventus** *(BAR)*
+🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
+🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 18:22:18Z UTC
+🕐 Last updated: 2026-01-23 18:56:15Z UTC
 <!-- SPOTIFY-END -->
