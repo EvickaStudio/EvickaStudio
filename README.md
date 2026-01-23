@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273628806a0a78fa06306f1d0d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27313c767050b344644da9eab33" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FÜHL DICH](https://open.spotify.com/track/3xX7shLF5JxldAoyc5cbhu)**
-*by* **TYM**
-*Album:* FÜHL DICH
+**🎵 [a new <3](https://open.spotify.com/track/2kum9sectR7fkOzZZkrxaG)**
+*by* **03osc**
+*Album:* dear diary
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="143" height="4" fill="#1db954" rx="2"/>
-    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+    <rect width="189" height="4" fill="#1db954" rx="2"/>
+    <circle cx="189" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:06 • 4:24
+    1:06 • 1:45
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sacrifice](https://open.spotify.com/track/3SUyid1hQ9BLZIChkYMhnr)** by **xandera** *(sacrifice)*
-🎤 **[FLAKKA](https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ)** by **IDK, Conductor Williams, MF DOOM** *(e.t.d.s. A Mixtape by .idk.)*
-🎤 **[上瘾](https://open.spotify.com/track/6zBnMFETCorusEGz97FWos)** by **User116, 5v, hallow** *(Baller Mixtape)*
-🎤 **[IT WASNT A PHASE IT LIVES IN MY VEINS](https://open.spotify.com/track/3pmCRgzVe2v3iPQ8EIAc9n)** by **d3r archive** *(IT WASNT A PHASE IT LIVES IN MY VEINS)*
-🎤 **[Last of a Dying Breed](https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI)** by **Joji** *(Last of a Dying Breed)*
+🎤 **[☼ugg&denim ᏬᎶᎶᦔꫀꪀ꠸ꪑ](https://open.spotify.com/track/5uKMXgEtBUGnrq6JAhka6P)** by **jequya** *(☼ugg&denim ᏬᎶᎶᦔꫀꪀ꠸ꪑ)*
+🎤 **[emerald! - maya & SlashD Remix](https://open.spotify.com/track/4OvuP6QvnywQBWaw8LL1pb)** by **vai5000, maji*, maya, SlashD** *(emerald! (maya & SlashD Remix))*
+🎤 **[numbb4](https://open.spotify.com/track/4M7iVI0RJAnC95VXi3RHMP)** by **stixz, vince** *(numbb4)*
+🎤 **[h1ghsc0re](https://open.spotify.com/track/7DRd8Yelw33TpJ5y6I2Ylp)** by **52Blue, Hello Hannes** *(h1ghsc0re)*
+🎤 **[chatroom](https://open.spotify.com/track/5VVa0gudPDRdFBypU2ZHiX)** by **AMANDUS 99** *(chatroom)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 16:54:31Z UTC
+🕐 Last updated: 2026-01-23 17:20:37Z UTC
 <!-- SPOTIFY-END -->
