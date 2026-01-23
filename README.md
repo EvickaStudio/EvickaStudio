@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273809315d956f78a0478e58cb1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739d79f6cc87d77b9dfade1662" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)**
-*by* **southstar**
-*Album:* Miss You
+**🎵 [töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)**
+*by* **augenschliesser, Spartakdakar, gothband1t**
+*Album:* Kunst für Künstler 1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="213" height="4" fill="#1db954" rx="2"/>
-    <circle cx="213" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 3:26
+    0:44 • 2:30
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)*
-🎤 **[Bastard](https://open.spotify.com/track/1u6zqsXN5WdTBJktOc0YlI)** by **leander, Hadesthegrim** *(Bastard)*
-🎤 **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)*
-🎤 **[Ponny](https://open.spotify.com/track/4hpiu5gL0eZxjynnGmrP0A)** by **Yung Hurn** *(Y)*
-🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
+🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
+🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
+🎤 **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)*
+🎤 **[high as hell and sad as fuck](https://open.spotify.com/track/465G70pPUuXGI6GJiYBi61)** by **Love Pact** *(party boy)*
+🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 23:34:08Z UTC
+🕐 Last updated: 2026-01-23 23:50:53Z UTC
 <!-- SPOTIFY-END -->
