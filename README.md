@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a52711bc675bb08ed6ce8726" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273340b7401d23f8f2a01721d28" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Odile](https://open.spotify.com/track/5jEPouEWqxZLFfdqL14Rgv)**
-*by* **Peake**
-*Album:* Odile
+**🎵 [Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)**
+*by* **tim, TYM**
+*Album:* Myself
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="264" height="4" fill="#1db954" rx="2"/>
-    <circle cx="264" cy="2" r="6" fill="#1db954"/>
+    <rect width="229" height="4" fill="#1db954" rx="2"/>
+    <circle cx="229" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:15 • 2:33
+    2:36 • 3:24
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)*
-🎤 **[stay alone](https://open.spotify.com/track/7qszzGsMV4wUFodAeg3JOZ)** by **archive computer** *(stay alone)*
-🎤 **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)*
-🎤 **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[calling for me](https://open.spotify.com/track/0Lw1s61I2yeWo1m8JKcGVz)** by **Rebzyyx** *(calling for me)*
+🎤 **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)*
+🎤 **[The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo)** by **Laurindo Almeida** *(Classical Current)*
+🎤 **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)*
+🎤 **[dancing crying at 4am in the rain](https://open.spotify.com/track/38tBhOt5B3ql2eBcl9r1rV)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)*
+🎤 **[white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)** by **Lil Peep, Lil Tracy** *(castles)*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🏅 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 21:34:12Z UTC
+🕐 Last updated: 2026-01-23 21:50:43Z UTC
 <!-- SPOTIFY-END -->
