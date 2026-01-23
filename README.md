@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273dc4a2384796df619d9bcde9e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [crush](https://open.spotify.com/track/3dg9fskUm4BP9mZAoRJoGY)**
-*by* **vasthearts, disoc8**
-*Album:* crush
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="296" height="4" fill="#1db954" rx="2"/>
-    <circle cx="296" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:12 • 2:14
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[crush](https://open.spotify.com/track/3dg9fskUm4BP9mZAoRJoGY)** by **vasthearts, disoc8** *(crush)*
 🎤 **[DISCONNECTED](https://open.spotify.com/track/4ZsxdLREM5LhOsWyWynIUU)** by **lavendr** *(DISCONNECTED)*
 🎤 **[Alive - SG Lewis Remix](https://open.spotify.com/track/06tI2UeECYQN6AM4mZkB5s)** by **Empire Of The Sun, SG Lewis** *(Alive (SG Lewis Remix))*
 🎤 **[désolé](https://open.spotify.com/track/1BVvaO7H4TFNKbot16Vad7)** by **MotB, Monk, BHZ** *(ep26_v3)*
 🎤 **[BAR](https://open.spotify.com/track/5kWQze7u4FNXZZGvyQl8my)** by **Frry, 7ventus** *(BAR)*
-🎤 **[TECHNO KITTY](https://open.spotify.com/track/6lACzDeSMVhIXZmVHWfv6Q)** by **vylexx, kmrnxo** *(TECHNO KITTY)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 17:55:16Z UTC
+🕐 Last updated: 2026-01-23 18:22:18Z UTC
 <!-- SPOTIFY-END -->
