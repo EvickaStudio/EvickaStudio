@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273628806a0a78fa06306f1d0d8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [FÜHL DICH](https://open.spotify.com/track/3xX7shLF5JxldAoyc5cbhu)**
+*by* **TYM**
+*Album:* FÜHL DICH
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="143" height="4" fill="#1db954" rx="2"/>
+    <circle cx="143" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:06 • 4:24
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)*
-🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
-🎤 **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)*
-🎤 **[downtown](https://open.spotify.com/track/5abkvDTaF8f3OHRyi0feuB)** by **lagosta<3** *(downtown)*
-🎤 **[eine nase](https://open.spotify.com/track/5VGReJtwl1BHxAZTPHOaPs)** by **Yung Hurn** *(eine nase)*
+🎤 **[sacrifice](https://open.spotify.com/track/3SUyid1hQ9BLZIChkYMhnr)** by **xandera** *(sacrifice)*
+🎤 **[FLAKKA](https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ)** by **IDK, Conductor Williams, MF DOOM** *(e.t.d.s. A Mixtape by .idk.)*
+🎤 **[上瘾](https://open.spotify.com/track/6zBnMFETCorusEGz97FWos)** by **User116, 5v, hallow** *(Baller Mixtape)*
+🎤 **[IT WASNT A PHASE IT LIVES IN MY VEINS](https://open.spotify.com/track/3pmCRgzVe2v3iPQ8EIAc9n)** by **d3r archive** *(IT WASNT A PHASE IT LIVES IN MY VEINS)*
+🎤 **[Last of a Dying Breed](https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI)** by **Joji** *(Last of a Dying Breed)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 16:20:11Z UTC
+🕐 Last updated: 2026-01-23 16:54:31Z UTC
 <!-- SPOTIFY-END -->
