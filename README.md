@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Sisters](https://open.spotify.com/track/0XaRGPhLkycSSrr6ve29q9)** by **The Truth** *(U.S.T)*
 🎤 **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)*
 🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
 🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
 🎤 **[Alles anders](https://open.spotify.com/track/5I8PSNvbnnXUpz5ioftyEb)** by **hqwilli** *(Allein im Club)*
-🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 09:49:17Z UTC
+🕐 Last updated: 2026-01-24 10:14:02Z UTC
 <!-- SPOTIFY-END -->
