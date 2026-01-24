@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b99752e5e287e51b147b60b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)**
-*by* **Levi Ryan**
-*Album:* valium
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="248" height="4" fill="#1db954" rx="2"/>
-    <circle cx="248" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 2:12
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
-🎤 **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)*
-🎤 **[Shut My Eyes](https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW)** by **Burrrn** *(Blaze Down His Way Like the Space Show)*
-🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
-🎤 **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)*
+🎤 **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)*
+🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
+🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
+🎤 **[Alles anders](https://open.spotify.com/track/5I8PSNvbnnXUpz5ioftyEb)** by **hqwilli** *(Allein im Club)*
+🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 08:46:40Z UTC
+🕐 Last updated: 2026-01-24 09:13:50Z UTC
 <!-- SPOTIFY-END -->
