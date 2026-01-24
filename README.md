@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273de3760be510e0fe8c0803bbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b99752e5e287e51b147b60b6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)**
-*by* **Freddie Dredd**
-*Album:* Opaul
+**🎵 [valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)**
+*by* **Levi Ryan**
+*Album:* valium
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="248" height="4" fill="#1db954" rx="2"/>
+    <circle cx="248" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:43 • 2:20
+    1:49 • 2:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)** by **Kanye West** *(ye)*
-🎤 **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)*
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Sorisu's Interlude](https://open.spotify.com/track/3mfw9HWXuJwYHKR6KXZrgU)** by **sparr00w, Sorisu** *(Save Room Theme)*
-🎤 **[Stars](https://open.spotify.com/track/6qldoBkOcSbj2KUHpGILwB)** by **limedisx.** *(Stars)*
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
+🎤 **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)*
+🎤 **[Shut My Eyes](https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW)** by **Burrrn** *(Blaze Down His Way Like the Space Show)*
+🎤 **[Meer fahren](https://open.spotify.com/track/2QBDq7Joo0ietSmrUY0lMm)** by **Longus Mongus, Monk, BHZ** *(Endlich Wieder Sommer)*
+🎤 **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 08:17:53Z UTC
+🕐 Last updated: 2026-01-24 08:46:40Z UTC
 <!-- SPOTIFY-END -->
