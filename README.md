@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e236619d1054db8f6e092221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273de3760be510e0fe8c0803bbb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)**
-*by* **Chapo102, 102 Boyz, Stacks102**
-*Album:* MISCHKONSUM EP
+**🎵 [Opaul](https://open.spotify.com/track/2slLXFcITuhf0oSp2wVJLv)**
+*by* **Freddie Dredd**
+*Album:* Opaul
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="274" height="4" fill="#1db954" rx="2"/>
-    <circle cx="274" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:41 • 2:56
+    1:43 • 2:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
-🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
-🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
-🎤 **[Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)** by **Surf Curse** *(Freaks)*
-🎤 **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)*
+🎤 **[Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)** by **Kanye West** *(ye)*
+🎤 **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)*
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[Sorisu's Interlude](https://open.spotify.com/track/3mfw9HWXuJwYHKR6KXZrgU)** by **sparr00w, Sorisu** *(Save Room Theme)*
+🎤 **[Stars](https://open.spotify.com/track/6qldoBkOcSbj2KUHpGILwB)** by **limedisx.** *(Stars)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 07:47:49Z UTC
+🕐 Last updated: 2026-01-24 08:17:53Z UTC
 <!-- SPOTIFY-END -->
