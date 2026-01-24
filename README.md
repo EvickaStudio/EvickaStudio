@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273674753c026f188eea01dca97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e236619d1054db8f6e092221" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)**
-*by* **jonatan leandoer96**
-*Album:* Under Heaven
+**🎵 [AVRIL LAVIGNE](https://open.spotify.com/track/4KAriyl7R09oB9Ljfp9nHv)**
+*by* **Chapo102, 102 Boyz, Stacks102**
+*Album:* MISCHKONSUM EP
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="274" height="4" fill="#1db954" rx="2"/>
+    <circle cx="274" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 4:07
+    2:41 • 2:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[nur das eine mal](https://open.spotify.com/track/2gliHWWr4YJHkMidpXG4tg)** by **Steintor Herrenchor** *(nur das eine mal)*
-🎤 **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))*
-🎤 **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)*
-🎤 **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[break me down](https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp)** by **oaf1, Lain** *(break me down)*
+🎤 **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)*
+🎤 **[GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)** by **Nedaj** *(GENESIS)*
+🎤 **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)*
+🎤 **[Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)** by **Surf Curse** *(Freaks)*
+🎤 **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 07:31:53Z UTC
+🕐 Last updated: 2026-01-24 07:47:49Z UTC
 <!-- SPOTIFY-END -->
