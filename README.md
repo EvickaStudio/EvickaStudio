@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730b85e96756077c80f4d9e7e7" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a9795111064459a32111484b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)**
-*by* **Alice Gas**
-*Album:* Sorry 4 Being Famous
+**🎵 [3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)**
+*by* **stixz, muli**
+*Album:* toxics1ut
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="16" height="4" fill="#1db954" rx="2"/>
+    <circle cx="16" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:17 • 3:22
+    0:05 • 1:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Doktorspiele](https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f)** by **Alex C., Yass** *(Euphorie)*
-🎤 **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)*
-🎤 **[SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)** by **agelast222, gard** *(SOLAR TACTICS)*
-🎤 **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)*
-🎤 **[S u r r e a l i t y](https://open.spotify.com/track/1YCSXPHGGLtBT3pLHuoWKv)** by **TOKYOPILL** *(S u r r e a l i t y)*
+🎤 **[Moon & Stars (feat. Maggie Lindemann)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu)** by **$NOT, Maggie Lindemann** *(- TRAGEDY +)*
+🎤 **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))*
+🎤 **[NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)** by **sighsare** *(NOTHIN TO SHOW)*
+🎤 **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)*
+🎤 **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 05:15:37Z UTC
+🕐 Last updated: 2026-01-24 05:42:15Z UTC
 <!-- SPOTIFY-END -->
