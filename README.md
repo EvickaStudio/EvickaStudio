@@ -91,7 +91,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273674753c026f188eea01dca97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)**
+*by* **jonatan leandoer96**
+*Album:* Under Heaven
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="186" height="4" fill="#1db954" rx="2"/>
+    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:33 • 4:07
+</span>
+</p>
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 07:14:11Z UTC
+🕐 Last updated: 2026-01-24 07:31:53Z UTC
 <!-- SPOTIFY-END -->
