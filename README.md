@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b95c8bdfc0645a4f4499bb70" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)**
-*by* **jonatan leandoer96, Frederik Valentin**
-*Album:* Sugar World
+**🎵 [Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)**
+*by* **Pink Katana**
+*Album:* Wieso fickst du meinen Kopf?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:46 • 5:38
+    0:44 • 1:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by **Lilac** *(amiss (+ winter))*
-🎤 **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)*
-🎤 **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)*
-🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
-🎤 **[Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX)** by **6euroneunzig** *(Zur Party)*
+🎤 **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)*
+🎤 **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)*
+🎤 **[Lip Service](https://open.spotify.com/track/1tv4UZuv7UOmfNNbyI6CLl)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)*
+🎤 **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)*
+🎤 **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by **Novulent** *(unknown feelings)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-24 03:01:18Z UTC
+🕐 Last updated: 2026-01-24 04:04:58Z UTC
 <!-- SPOTIFY-END -->
