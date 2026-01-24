@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739d79f6cc87d77b9dfade1662" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733703a0f5c52ab1357c35bb5f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)**
-*by* **augenschliesser, Spartakdakar, gothband1t**
-*Album:* Kunst für Künstler 1
+**🎵 [Für Immer](https://open.spotify.com/track/6kfb0y1HaJXfILKMNpfGZJ)**
+*by* **Happysadgirl, Aexhy**
+*Album:* Für Immer
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="64" height="4" fill="#1db954" rx="2"/>
+    <circle cx="64" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:44 • 2:30
+    0:49 • 3:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)*
-🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
-🎤 **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)*
-🎤 **[high as hell and sad as fuck](https://open.spotify.com/track/465G70pPUuXGI6GJiYBi61)** by **Love Pact** *(party boy)*
-🎤 **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)*
+🎤 **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)*
+🎤 **[Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ)** by **Harmless** *(I'm Sure)*
+🎤 **[Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk)** by **Porter Robinson** *(Worlds)*
+🎤 **[Among Us](https://open.spotify.com/track/6AfopDriwpgSKhJ32h9pwh)** by **iamjuampi** *(Among Us)*
+🎤 **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-23 23:50:53Z UTC
+🕐 Last updated: 2026-01-24 01:05:10Z UTC
 <!-- SPOTIFY-END -->
