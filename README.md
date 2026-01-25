@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-25 14:34:22Z UTC
+🕐 Last updated: 2026-01-25 14:51:15Z UTC
 <!-- SPOTIFY-END -->
