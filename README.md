@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Ayre](https://open.spotify.com/track/0r1R7sfyahHTHydyOG1MLt)** by **Inverted Variable** *(Armored core (ep))*
+🎤 **[SURVIVAL MODE..](https://open.spotify.com/track/4n9R9qdwshyeDmyRq8e5Li)** by **Inverted Variable** *(Armored core (ep))*
+🎤 **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))*
 🎤 **[brand new](https://open.spotify.com/track/34lCjkdCOA0AO3WcRWsOLl)** by **RudeClub** *(brand new)*
 🎤 **[Sisters](https://open.spotify.com/track/0XaRGPhLkycSSrr6ve29q9)** by **The Truth** *(U.S.T)*
-🎤 **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Easy](https://open.spotify.com/track/3FwxpJdlexIR6MeTT56HAm)** by **CRO** *(Raop)*
-🎤 **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-25 21:49:08Z UTC
+🕐 Last updated: 2026-01-25 22:13:31Z UTC
 <!-- SPOTIFY-END -->
