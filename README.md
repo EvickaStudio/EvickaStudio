@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)**
-*by* **mickyi, S1RENA**
-*Album:* zone out ep ⋆｡°✩
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="246" height="4" fill="#1db954" rx="2"/>
-    <circle cx="246" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 2:35
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[hier und jetzt](https://open.spotify.com/track/5AEOJ124tyHcXl1uXxXLVC)** by **MotB, Monk, BHZ** *(hier und jetzt)*
-🎤 **[Demi Lovato](https://open.spotify.com/track/5oUxYtUuv8AgMPUMTPAsH8)** by **c4rl** *(Demi Lovato)*
-🎤 **[chatroom](https://open.spotify.com/track/5VVa0gudPDRdFBypU2ZHiX)** by **AMANDUS 99** *(chatroom)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[Ayre](https://open.spotify.com/track/0r1R7sfyahHTHydyOG1MLt)** by **Inverted Variable** *(Armored core (ep))*
+🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
+🎤 **[Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
+🎤 **[st3rne☆*](https://open.spotify.com/track/5UCzGVMfK9DscLEOYC6Tx4)** by **b3nn3t** *(traeum ich??)*
+🎤 **[Cherry Sundae](https://open.spotify.com/track/3qw7ivI6TiqEtD0Im1tQTV)** by **heartcoregirl** *(Cherry Sundae)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
 
 
-🕐 Last updated: 2026-01-25 23:50:26Z UTC
+🕐 Last updated: 2026-01-26 01:13:27Z UTC
 <!-- SPOTIFY-END -->
