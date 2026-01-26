@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
 🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
 🎤 **[Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
 🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
 🎤 **[st3rne☆*](https://open.spotify.com/track/5UCzGVMfK9DscLEOYC6Tx4)** by **b3nn3t** *(traeum ich??)*
-🎤 **[Cherry Sundae](https://open.spotify.com/track/3qw7ivI6TiqEtD0Im1tQTV)** by **heartcoregirl** *(Cherry Sundae)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
 
 
-🕐 Last updated: 2026-01-26 06:26:32Z UTC
+🕐 Last updated: 2026-01-26 07:00:22Z UTC
 <!-- SPOTIFY-END -->
