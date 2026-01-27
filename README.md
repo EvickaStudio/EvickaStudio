@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
 🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
-🎤 **[ich hab mich noch nie verliebt](https://open.spotify.com/track/5oyddVh6sgMpdxWfjFSMDA)** by **ghostboo** *(ich hab mich noch nie verliebt)*
-🎤 **[Zone Out - sped-up](https://open.spotify.com/track/104JMvMoFKfIlFaAbPTpSV)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
-🎤 **[st3rne☆*](https://open.spotify.com/track/5UCzGVMfK9DscLEOYC6Tx4)** by **b3nn3t** *(traeum ich??)*
+🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
+🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
 
 
-🕐 Last updated: 2026-01-27 11:55:10Z UTC
+🕐 Last updated: 2026-01-27 12:31:41Z UTC
 <!-- SPOTIFY-END -->
