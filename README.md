@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ac345598e7697a319cb5b460" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a09b231129ab1cb1a6efc57f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Want the One I Can't Have - 2011 Remaster](https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8)**
+**🎵 [You've Got Everything Now - 2011 Remaster](https://open.spotify.com/track/2DYCM1sNmGliRszlzPkMiG)**
 *by* **The Smiths**
-*Album:* Meat Is Murder
+*Album:* The Smiths
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:22 • 3:13
+    3:59 • 3:59
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ask - 2011 Remaster](https://open.spotify.com/track/2AdRSHeYmDGMrgIfiS2w7K)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Still Ill - 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J)** by **The Smiths** *(The Smiths)*
-🎤 **[There Is a Light That Never Goes Out - Take 1](https://open.spotify.com/track/0XcSmqWQ14leUZ7Jo0z8I2)** by **The Smiths** *(The Queen Is Dead (Deluxe Edition))*
-🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Cemetry Gates - 2011 Remaster](https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Girlfriend in a Coma - 2011 Remaster](https://open.spotify.com/track/01q4ccXbvPlCwZ1fPiFaeM)** by **The Smiths** *(Strangeways, Here We Come)*
+🎤 **[William, It Was Really Nothing - 2011 Remaster](https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Some Girls Are Bigger Than Others - 2011 Remaster](https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Panic - 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[What Difference Does It Make? - 2011 Remaster](https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI)** by **The Smiths** *(The Smiths)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-28 20:54:29Z UTC
+🕐 Last updated: 2026-01-28 21:22:26Z UTC
 <!-- SPOTIFY-END -->
