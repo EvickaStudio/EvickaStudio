@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a09b231129ab1cb1a6efc57f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)**
+**🎵 [I Don't Owe You Anything - 2011 Remaster](https://open.spotify.com/track/4WKdgb3xzbTSU7WT3kK3na)**
 *by* **The Smiths**
-*Album:* Hatful of Hollow
+*Album:* The Smiths
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="57" height="4" fill="#1db954" rx="2"/>
-    <circle cx="57" cy="2" r="6" fill="#1db954"/>
+    <rect width="14" height="4" fill="#1db954" rx="2"/>
+    <circle cx="14" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:42 • 3:41
+    0:11 • 4:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[This Charming Man - 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ)** by **The Smiths** *(The Smiths)*
-🎤 **[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Heaven Knows I'm Miserable Now - 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Well I Wonder - 2011 Remaster](https://open.spotify.com/track/3OS4XXm4S42pnESQmtN9MG)** by **The Smiths** *(Meat Is Murder)*
+🎤 **[Pretty Girls Make Graves - 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO)** by **The Smiths** *(The Smiths)*
+🎤 **[Bigmouth Strikes Again - 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[How Soon Is Now? - 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[I Know It's Over - 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3)** by **The Smiths** *(The Queen Is Dead)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-28 19:55:48Z UTC
+🕐 Last updated: 2026-01-28 20:22:35Z UTC
 <!-- SPOTIFY-END -->
