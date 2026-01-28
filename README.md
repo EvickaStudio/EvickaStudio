@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a09b231129ab1cb1a6efc57f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ac345598e7697a319cb5b460" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Don't Owe You Anything - 2011 Remaster](https://open.spotify.com/track/4WKdgb3xzbTSU7WT3kK3na)**
+**🎵 [I Want the One I Can't Have - 2011 Remaster](https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8)**
 *by* **The Smiths**
-*Album:* The Smiths
+*Album:* Meat Is Murder
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="14" height="4" fill="#1db954" rx="2"/>
-    <circle cx="14" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:11 • 4:04
+    2:22 • 3:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Well I Wonder - 2011 Remaster](https://open.spotify.com/track/3OS4XXm4S42pnESQmtN9MG)** by **The Smiths** *(Meat Is Murder)*
-🎤 **[Pretty Girls Make Graves - 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO)** by **The Smiths** *(The Smiths)*
-🎤 **[Bigmouth Strikes Again - 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[How Soon Is Now? - 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[I Know It's Over - 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Ask - 2011 Remaster](https://open.spotify.com/track/2AdRSHeYmDGMrgIfiS2w7K)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[Still Ill - 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J)** by **The Smiths** *(The Smiths)*
+🎤 **[There Is a Light That Never Goes Out - Take 1](https://open.spotify.com/track/0XcSmqWQ14leUZ7Jo0z8I2)** by **The Smiths** *(The Queen Is Dead (Deluxe Edition))*
+🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[Cemetry Gates - 2011 Remaster](https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t)** by **The Smiths** *(The Queen Is Dead)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-28 20:22:35Z UTC
+🕐 Last updated: 2026-01-28 20:54:29Z UTC
 <!-- SPOTIFY-END -->
