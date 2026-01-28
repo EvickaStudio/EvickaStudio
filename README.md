@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273588f9fd36852b8a76ab0414a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [h1ghsc0re](https://open.spotify.com/track/7DRd8Yelw33TpJ5y6I2Ylp)**
+*by* **52Blue, Hello Hannes**
+*Album:* h1ghsc0re
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="117" height="4" fill="#1db954" rx="2"/>
+    <circle cx="117" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:55 • 2:22
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[crush](https://open.spotify.com/track/3dg9fskUm4BP9mZAoRJoGY)** by **vasthearts, disoc8** *(crush)*
+🎤 **[Rebell](https://open.spotify.com/track/51DCJKQ9Cd5f9FyhtBxSw1)** by **NILS KEPPEL** *(Rebell)*
+🎤 **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))*
+🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
 🎤 **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
-🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
-🎤 **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-28 06:26:04Z UTC
+🕐 Last updated: 2026-01-28 06:58:43Z UTC
 <!-- SPOTIFY-END -->
