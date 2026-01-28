@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273588f9fd36852b8a76ab0414a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [h1ghsc0re](https://open.spotify.com/track/7DRd8Yelw33TpJ5y6I2Ylp)**
-*by* **52Blue, Hello Hannes**
-*Album:* h1ghsc0re
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="117" height="4" fill="#1db954" rx="2"/>
-    <circle cx="117" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:55 • 2:22
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[crush](https://open.spotify.com/track/3dg9fskUm4BP9mZAoRJoGY)** by **vasthearts, disoc8** *(crush)*
-🎤 **[Rebell](https://open.spotify.com/track/51DCJKQ9Cd5f9FyhtBxSw1)** by **NILS KEPPEL** *(Rebell)*
-🎤 **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))*
-🎤 **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)*
-🎤 **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)*
+🎤 **[BANE](https://open.spotify.com/track/4wg6CCvlsaqbpwMUqfCgnH)** by **p6inkillr** *(PLANETARY)*
+🎤 **[..lowkey](https://open.spotify.com/track/6Oe3rQRJv6we0g4E0NKMfu)** by **b3nn3t** *(drei)*
+🎤 **[fall apart](https://open.spotify.com/track/7z75pog8Y8eCcB0gq5o5PS)** by **whyhaze, JKJMETASCO, johnnyrunts** *(fall apart)*
+🎤 **[FÜHL DICH](https://open.spotify.com/track/3xX7shLF5JxldAoyc5cbhu)** by **TYM** *(FÜHL DICH)*
+🎤 **[上瘾](https://open.spotify.com/track/6zBnMFETCorusEGz97FWos)** by **User116, 5v, hallow** *(Baller Mixtape)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
 
 
-🕐 Last updated: 2026-01-28 06:58:43Z UTC
+🕐 Last updated: 2026-01-28 07:28:04Z UTC
 <!-- SPOTIFY-END -->
