@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)**
+*by* **The Smiths**
+*Album:* Hatful of Hollow
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="57" height="4" fill="#1db954" rx="2"/>
+    <circle cx="57" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:42 • 3:41
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU)** by **Title Fight** *(Shed)*
-🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
-🎤 **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)*
-🎤 **[NOTHIN TO SHOW](https://open.spotify.com/track/5h8JxmV4eH7xTRzx0C5I06)** by **sighsare** *(NOTHIN TO SHOW)*
-🎤 **[Milchreis Zimt](https://open.spotify.com/track/1hgxdioWqUFpTpG9V1WoBC)** by **Streynge** *(Milchreis Zimt)*
+🎤 **[This Charming Man - 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ)** by **The Smiths** *(The Smiths)*
+🎤 **[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Heaven Knows I'm Miserable Now - 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)** by **The Smiths** *(The Queen Is Dead)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-28 18:59:50Z UTC
+🕐 Last updated: 2026-01-28 19:55:48Z UTC
 <!-- SPOTIFY-END -->
