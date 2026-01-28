@@ -121,8 +121,8 @@
 🥈 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 🥉 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🏅 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
-🏅 [**Cold Nights pt 2**](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)
+🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-28 07:47:28Z UTC
+🕐 Last updated: 2026-01-28 08:21:36Z UTC
 <!-- SPOTIFY-END -->
