@@ -119,10 +119,10 @@
 
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
-🥉 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
-🏅 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
+🥉 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
+🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 09:58:09Z UTC
+🕐 Last updated: 2026-01-29 10:36:43Z UTC
 <!-- SPOTIFY-END -->
