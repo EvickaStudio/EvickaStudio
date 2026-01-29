@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)*
+🎤 **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 🎤 **[☼ugg&denim ᏬᎶᎶᦔꫀꪀ꠸ꪑ](https://open.spotify.com/track/5uKMXgEtBUGnrq6JAhka6P)** by **jequya** *(☼ugg&denim ᏬᎶᎶᦔꫀꪀ꠸ꪑ)*
 🎤 **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)*
 🎤 **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))*
-🎤 **[Hier raus](https://open.spotify.com/track/0Fd0JnOcUNRqlrk2C2fDf5)** by **EASY EASY** *(Hier raus)*
-🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 20:51:59Z UTC
+🕐 Last updated: 2026-01-29 21:19:35Z UTC
 <!-- SPOTIFY-END -->
