@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e2cead1a42720d931c5c4ac1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)**
-*by* **PureSnow**
-*Album:* Tunnel Vision
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="169" height="4" fill="#1db954" rx="2"/>
-    <circle cx="169" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 3:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))*
-🎤 **[You've Got Everything Now - 2011 Remaster](https://open.spotify.com/track/2DYCM1sNmGliRszlzPkMiG)** by **The Smiths** *(The Smiths)*
-🎤 **[Girlfriend in a Coma - 2011 Remaster](https://open.spotify.com/track/01q4ccXbvPlCwZ1fPiFaeM)** by **The Smiths** *(Strangeways, Here We Come)*
-🎤 **[William, It Was Really Nothing - 2011 Remaster](https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Some Girls Are Bigger Than Others - 2011 Remaster](https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 06:26:46Z UTC
+🕐 Last updated: 2026-01-29 07:11:48Z UTC
 <!-- SPOTIFY-END -->
