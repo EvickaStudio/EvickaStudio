@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)**
-*by* **Bladee**
-*Album:* Eversince
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="113" height="4" fill="#1db954" rx="2"/>
-    <circle cx="113" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:05 • 2:51
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[fingers - og version](https://open.spotify.com/track/6QexUW5WPdOAKHAlad94E3)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2 (og version))*
+🎤 **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)*
+🎤 **[Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)** by **Bladee** *(Eversince)*
 🎤 **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)*
 🎤 **[umm idk why!!](https://open.spotify.com/track/4uQ6j3hp2XGjKfhCTVmauo)** by **ilymeow, NXTY** *(umm idk why!!)*
-🎤 **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)*
-🎤 **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)*
-🎤 **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 22:19:45Z UTC
+🕐 Last updated: 2026-01-29 22:52:16Z UTC
 <!-- SPOTIFY-END -->
