@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[☼ugg&denim ᏬᎶᎶᦔꫀꪀ꠸ꪑ](https://open.spotify.com/track/5uKMXgEtBUGnrq6JAhka6P)** by **jequya** *(☼ugg&denim ᏬᎶᎶᦔꫀꪀ꠸ꪑ)*
+🎤 **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)*
+🎤 **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))*
 🎤 **[Hier raus](https://open.spotify.com/track/0Fd0JnOcUNRqlrk2C2fDf5)** by **EASY EASY** *(Hier raus)*
 🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
-🎤 **[Borderline](https://open.spotify.com/track/3Q8zGsA0wfKcWGaR6hHBtW)** by **6host** *(Borderline)*
-🎤 **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)*
-🎤 **[Rotkäppchen](https://open.spotify.com/track/4PfxmvtmYalTxBoxrFUA2G)** by **Florida Juicy, Longus Mongus, verifiziert** *(Rotkäppchen)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 17:58:26Z UTC
+🕐 Last updated: 2026-01-29 18:50:27Z UTC
 <!-- SPOTIFY-END -->
