@@ -124,5 +124,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 16:33:42Z UTC
+🕐 Last updated: 2026-01-29 17:21:48Z UTC
 <!-- SPOTIFY-END -->
