@@ -108,8 +108,8 @@
 ### 🌟 Top Artists *(Short Term)*
 
 🥇 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-🥈 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🥉 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+🥈 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+🥉 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
@@ -124,5 +124,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 07:11:48Z UTC
+🕐 Last updated: 2026-01-29 07:53:27Z UTC
 <!-- SPOTIFY-END -->
