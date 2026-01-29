@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273b3d0bf02a5fb2f676c748432" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Dream Sweet in Sea Major](https://open.spotify.com/track/3RznzRnsl8mzP63l4AF2M7)**
+*by* **Miracle Musical**
+*Album:* Hawaii: Part II
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="59" height="4" fill="#1db954" rx="2"/>
+    <circle cx="59" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:23 • 7:00
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
-🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
-🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
-🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
-🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)*
+🎤 **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)*
+🎤 **[scream and run](https://open.spotify.com/track/6iIbkAVSU5P9DlzLdavHh2)** by **mykel** *(scream and run)*
+🎤 **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))*
+🎤 **[Long Sardine x Mr. Brightside](https://open.spotify.com/track/3LSfoRpyN83w68NgkpeGLR)** by **Oxis** *(Long Sardine x Mr. Brightside)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-29 15:03:49Z UTC
+🕐 Last updated: 2026-01-29 15:52:05Z UTC
 <!-- SPOTIFY-END -->
