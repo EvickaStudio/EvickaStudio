@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fa18d13e877213bda05881d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)**
-*by* **Leftovers**
-*Album:* ABSTURZ
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="252" height="4" fill="#1db954" rx="2"/>
-    <circle cx="252" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:33 • 3:01
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
 🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
+🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
 🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
 🎤 **[Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)** by **Pitbull, Kesha** *(Global Warming: Meltdown (Deluxe Version))*
 🎤 **[There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-30 08:03:16Z UTC
+🕐 Last updated: 2026-01-30 08:56:09Z UTC
 <!-- SPOTIFY-END -->
