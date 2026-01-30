@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273447f28af74ac1d0dfd18ea7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)**
-*by* **Slowdive**
-*Album:* Souvlaki
+**🎵 [if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)**
+*by* **Senses, mint**
+*Album:* if u wanna go with me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="114" height="4" fill="#1db954" rx="2"/>
-    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+    <rect width="99" height="4" fill="#1db954" rx="2"/>
+    <circle cx="99" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 4:45
+    0:32 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
-🎤 **[Whatever](https://open.spotify.com/track/3jtWarFX9mNJpamfDTeP5J)** by **CRO** *(Raop +5)*
-🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
-🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
-🎤 **[Boys Don't Cry](https://open.spotify.com/track/0C2eEsMBj78CLkHNJPjohc)** by **The Cure** *(Greatest Hits)*
+🎤 **[our romance, a story so sweet](https://open.spotify.com/track/09yvIt35gclVWZ4C56fXul)** by **may, whyhaze** *(our romance, a story so sweet)*
+🎤 **[How It Is](https://open.spotify.com/track/0orXlnb4FfYtjHiqHUb6xt)** by **temcandoanything, Kasane Teto, GUMI** *(Chances)*
+🎤 **[Gespenst - IceLipzz Edit](https://open.spotify.com/track/1zt9t3TMTqCs2onZSQbBPz)** by **IceLipzz, SlushhKitten, LØUS** *(Gespenst)*
+🎤 **[grown](https://open.spotify.com/track/2N9TOirEXxxGhdDhpCvu76)** by **Philip Brooks** *(grown)*
+🎤 **[unbutton me](https://open.spotify.com/track/21f9UjeNliFDSGfLdvHyzF)** by **benzii** *(unbutton me)*
 
 
 
@@ -139,9 +139,9 @@
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🥉 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
-🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
+🏅 [**GUN SONG**](https://open.spotify.com/track/4lFGraxsJrAJ83YV94iez8)
 
 
-🕐 Last updated: 2026-01-30 19:01:02Z UTC
+🕐 Last updated: 2026-01-30 19:45:07Z UTC
 <!-- SPOTIFY-END -->
