@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fa18d13e877213bda05881d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273748b397dbbd07277aa6ca116" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)**
-*by* **Leftovers**
-*Album:* ABSTURZ
+**🎵 [Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)**
+*by* **Yung Lean, Bladee**
+*Album:* Frost God
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="146" height="4" fill="#1db954" rx="2"/>
-    <circle cx="146" cy="2" r="6" fill="#1db954"/>
+    <rect width="237" height="4" fill="#1db954" rx="2"/>
+    <circle cx="237" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:28 • 3:01
+    3:21 • 4:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))*
-🎤 **[tau mich auf...](https://open.spotify.com/track/3JkNKa42bffTLr4XYF6EnV)** by **vee4archive, JOHN.** *(tau mich auf...)*
-🎤 **[hadenough](https://open.spotify.com/track/6c3cMti57gAS6PFrRVw8Jp)** by **vai5000, Kotori, maji*** *(hadenough)*
-🎤 **[bs](https://open.spotify.com/track/0n2IGZcHY1uxiSWYAtASop)** by **bliiiss** *(bs)*
-🎤 **[immature / pick up the phone omg](https://open.spotify.com/track/6LZsgG0JMvYEM05dwLMrNC)** by **syris** *(immature / pick up the phone omg)*
+🎤 **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)*
+🎤 **[Ferrari](https://open.spotify.com/track/5L2nTY906SquAXj9yqwr7X)** by **Alice Gas** *(Sorry 4 Being Famous)*
+🎤 **[Sold My Soul to Satan Waiting in Line at the Mall](https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4)** by **$uicideboy$** *(YUNGDEATHLILLIFE)*
+🎤 **[lil kennedy](https://open.spotify.com/track/23fICo2AZkyzPSDidKZH4y)** by **Lil Peep, Nedarb** *(CALIFORNIA GIRLS)*
+🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
 
 
 
@@ -140,8 +140,8 @@
 🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🥉 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
-🏅 [**GUN SONG**](https://open.spotify.com/track/4lFGraxsJrAJ83YV94iez8)
+🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-30 19:59:38Z UTC
+🕐 Last updated: 2026-01-30 20:35:22Z UTC
 <!-- SPOTIFY-END -->
