@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)**
-*by* **Edwin Rosen**
-*Album:* Die Sterne
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:51
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Society](https://open.spotify.com/track/5NLdlIggmKj4G7RB6l8Tm1)** by **pathetic240px** *(Society)*
-🎤 **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)*
-🎤 **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))*
-🎤 **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)*
-🎤 **[my reality!!](https://open.spotify.com/track/6GQkQ2AOTkcJiAg6raxzHf)** by **ilymeow** *(my reality!!)*
+🎤 **[Righteous](https://open.spotify.com/track/1xZCK1MXhE4EkHGYENzP9U)** by **Mo Beats** *(Righteous)*
+🎤 **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)*
+🎤 **[Hin & Her](https://open.spotify.com/track/0YuSMNVNyMeVTjGH3kqoG5)** by **Matze** *(Hin & Her)*
+🎤 **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)*
+🎤 **[toxic city](https://open.spotify.com/track/1TYL7BonBQIssN0zpte1qQ)** by **Lil Peep** *(feelz)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-30 21:53:36Z UTC
+🕐 Last updated: 2026-01-30 22:16:56Z UTC
 <!-- SPOTIFY-END -->
