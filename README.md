@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27318e4c2913a55fa0de4d2a0a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27362cb58529783fd34b83a9d5a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)**
-*by* **smokedope2016**
-*Album:* THE PEAK
+**🎵 [Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)**
+*by* **grim noir**
+*Album:* Lipgloss
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="245" height="4" fill="#1db954" rx="2"/>
-    <circle cx="245" cy="2" r="6" fill="#1db954"/>
+    <rect width="159" height="4" fill="#1db954" rx="2"/>
+    <circle cx="159" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:39 • 3:15
+    1:10 • 2:12
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Yoshi City](https://open.spotify.com/track/3da3ufjRxK1Kn5oqM0wmx4)** by **Yung Lean** *(Unknown Memory)*
-🎤 **[ydoifeel?](https://open.spotify.com/track/0Gm56UUEbs8n1g6IYG8HrE)** by **Saam Sultan** *(ydoifeel?)*
-🎤 **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))*
-🎤 **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)*
-🎤 **[Secret](https://open.spotify.com/track/3zoWeoe0RI2kS5Tv0m8M8m)** by **Somewhere Special** *(Secret)*
+🎤 **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)*
+🎤 **[Jealous](https://open.spotify.com/track/0bhudMmr0XdtBOjFbjq8R0)** by **Eyedress** *(Let's Skip to the Wedding)*
+🎤 **[nuts](https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK)** by **Lil Peep, rainy bear** *(LIVE FOREVER)*
+🎤 **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)*
+🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Starfall**](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)
 
 
-🕐 Last updated: 2026-01-30 21:00:12Z UTC
+🕐 Last updated: 2026-01-30 21:33:38Z UTC
 <!-- SPOTIFY-END -->
