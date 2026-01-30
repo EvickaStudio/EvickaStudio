@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735925ae9e9d5b352ea98cfc9c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [touchdown](https://open.spotify.com/track/3QTJTErwWvulPY5QA5P5yb)**
-*by* **alucify, hateoryx**
-*Album:* touchdown
+**🎵 [There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)**
+*by* **The Smiths**
+*Album:* The Queen Is Dead
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="287" height="4" fill="#1db954" rx="2"/>
-    <circle cx="287" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:02 • 2:07
+    2:04 • 4:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[unbutton me](https://open.spotify.com/track/21f9UjeNliFDSGfLdvHyzF)** by **benzii** *(unbutton me)*
-🎤 **[bs](https://open.spotify.com/track/0n2IGZcHY1uxiSWYAtASop)** by **bliiiss** *(bs)*
-🎤 **[Gespenst - IceLipzz Edit](https://open.spotify.com/track/1zt9t3TMTqCs2onZSQbBPz)** by **IceLipzz, SlushhKitten, LØUS** *(Gespenst)*
 🎤 **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)*
-🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[sei wen du gebraucht hättest](https://open.spotify.com/track/0TET8P5wLwENmNVhPqgZQZ)** by **Tape Head, NONI** *(sei wen du gebraucht hättest)*
+🎤 **[lose myself](https://open.spotify.com/track/3mYqoa9N53tsOXTbITFZBr)** by **Swaglord3000x** *(lose myself)*
+🎤 **[hadenough](https://open.spotify.com/track/6c3cMti57gAS6PFrRVw8Jp)** by **vai5000, Kotori, maji*** *(hadenough)*
+🎤 **[immature / pick up the phone omg](https://open.spotify.com/track/6LZsgG0JMvYEM05dwLMrNC)** by **syris** *(immature / pick up the phone omg)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-30 05:59:51Z UTC
+🕐 Last updated: 2026-01-30 06:56:52Z UTC
 <!-- SPOTIFY-END -->
