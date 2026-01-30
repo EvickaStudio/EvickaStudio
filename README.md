@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)**
+*by* **Slowdive**
+*Album:* Souvlaki
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="114" height="4" fill="#1db954" rx="2"/>
+    <circle cx="114" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:48 • 4:45
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
 🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
-🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS)** by **Pitbull, Kesha** *(Global Warming: Meltdown (Deluxe Version))*
-🎤 **[There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Whatever](https://open.spotify.com/track/3jtWarFX9mNJpamfDTeP5J)** by **CRO** *(Raop +5)*
+🎤 **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)*
+🎤 **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)*
+🎤 **[Boys Don't Cry](https://open.spotify.com/track/0C2eEsMBj78CLkHNJPjohc)** by **The Cure** *(Greatest Hits)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
 
 
-🕐 Last updated: 2026-01-30 18:03:33Z UTC
+🕐 Last updated: 2026-01-30 19:01:02Z UTC
 <!-- SPOTIFY-END -->
