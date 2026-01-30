@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273447f28af74ac1d0dfd18ea7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fa18d13e877213bda05881d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)**
-*by* **Senses, mint**
-*Album:* if u wanna go with me
+**🎵 [ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)**
+*by* **Leftovers**
+*Album:* ABSTURZ
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="146" height="4" fill="#1db954" rx="2"/>
+    <circle cx="146" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:32 • 1:38
+    1:28 • 3:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[our romance, a story so sweet](https://open.spotify.com/track/09yvIt35gclVWZ4C56fXul)** by **may, whyhaze** *(our romance, a story so sweet)*
-🎤 **[How It Is](https://open.spotify.com/track/0orXlnb4FfYtjHiqHUb6xt)** by **temcandoanything, Kasane Teto, GUMI** *(Chances)*
-🎤 **[Gespenst - IceLipzz Edit](https://open.spotify.com/track/1zt9t3TMTqCs2onZSQbBPz)** by **IceLipzz, SlushhKitten, LØUS** *(Gespenst)*
-🎤 **[grown](https://open.spotify.com/track/2N9TOirEXxxGhdDhpCvu76)** by **Philip Brooks** *(grown)*
-🎤 **[unbutton me](https://open.spotify.com/track/21f9UjeNliFDSGfLdvHyzF)** by **benzii** *(unbutton me)*
+🎤 **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))*
+🎤 **[tau mich auf...](https://open.spotify.com/track/3JkNKa42bffTLr4XYF6EnV)** by **vee4archive, JOHN.** *(tau mich auf...)*
+🎤 **[hadenough](https://open.spotify.com/track/6c3cMti57gAS6PFrRVw8Jp)** by **vai5000, Kotori, maji*** *(hadenough)*
+🎤 **[bs](https://open.spotify.com/track/0n2IGZcHY1uxiSWYAtASop)** by **bliiiss** *(bs)*
+🎤 **[immature / pick up the phone omg](https://open.spotify.com/track/6LZsgG0JMvYEM05dwLMrNC)** by **syris** *(immature / pick up the phone omg)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**GUN SONG**](https://open.spotify.com/track/4lFGraxsJrAJ83YV94iez8)
 
 
-🕐 Last updated: 2026-01-30 19:45:07Z UTC
+🕐 Last updated: 2026-01-30 19:59:38Z UTC
 <!-- SPOTIFY-END -->
