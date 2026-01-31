@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27317add53ee7ef16ac10e6f8a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c5c6772d1d98b2d0f3a69e37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)**
-*by* **Cavetown**
-*Album:* Animal Kingdom
+**🎵 [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)**
+*by* **Charli xcx**
+*Album:* BRAT
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="63" height="4" fill="#1db954" rx="2"/>
-    <circle cx="63" cy="2" r="6" fill="#1db954"/>
+    <rect width="32" height="4" fill="#1db954" rx="2"/>
+    <circle cx="32" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 4:38
+    0:20 • 3:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hold Me Close](https://open.spotify.com/track/0XjWu0ld7kthYqgTqAmUjF)** by **Carter Tomorrow** *(Hold Me Close)*
-🎤 **[perks of being a wallflower](https://open.spotify.com/track/6Zt4kkPMWPWfSfCA2PIzVq)** by **living proof** *(perks of being a wallflower)*
-🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)*
-🎤 **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)*
+🎤 **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)*
+🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
+🎤 **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)*
+🎤 **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)*
+🎤 **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 17:46:32Z UTC
+🕐 Last updated: 2026-01-31 18:21:31Z UTC
 <!-- SPOTIFY-END -->
