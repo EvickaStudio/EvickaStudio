@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27349bdbd5880802dcbe4e0b2dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Loose Ends](https://open.spotify.com/track/74adZiYGOorQ4kcWBCRnZi)**
-*by* **Imogen Heap**
-*Album:* Speak for Yourself (Deluxe Version)
+**🎵 [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw)**
+*by* **Charli xcx**
+*Album:* how i'm feeling now
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="52" height="4" fill="#1db954" rx="2"/>
-    <circle cx="52" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 3:39
+    2:48 • 2:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[ict](https://open.spotify.com/track/4fwtqq4bf4PKZ6VgTK5XM9)** by **Oklou** *(choke enough)*
-🎤 **[Tonight](https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI)** by **PinkPantheress** *(Fancy That)*
-🎤 **[Summer 2000 Baby](https://open.spotify.com/track/188JTF6dEXKksYBt9t05TJ)** by **TV Girl, George Clanton** *(Fauxllennium)*
-🎤 **[Next Level Charli](https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16)** by **Charli xcx** *(Charli)*
-🎤 **[Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk)** by **Addison Rae** *(Addison)*
+🎤 **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)*
+🎤 **[Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3)** by **A. G. Cook** *(PC Music, Vol. 1)*
+🎤 **[I Hate You In The Morning](https://open.spotify.com/track/1wb6Q8C37X3rJHSrgYCdOv)** by **Otha** *(I Hate You In The Morning)*
+🎤 **[Lost In My Bedroom](https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt)** by **Sky Ferreira** *(Ghost)*
+🎤 **[So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB)** by **Charli xcx** *(BRAT)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 18:53:59Z UTC
+🕐 Last updated: 2026-01-31 19:15:32Z UTC
 <!-- SPOTIFY-END -->
