@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e2cead1a42720d931c5c4ac1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)**
-*by* **Imogen Heap**
-*Album:* Speak for Yourself (Deluxe Version)
+**🎵 [Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)**
+*by* **PureSnow**
+*Album:* Tunnel Vision
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="232" height="4" fill="#1db954" rx="2"/>
-    <circle cx="232" cy="2" r="6" fill="#1db954"/>
+    <rect width="273" height="4" fill="#1db954" rx="2"/>
+    <circle cx="273" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:46 • 3:35
+    3:10 • 3:29
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Eko](https://open.spotify.com/track/5evQ6IgsuoLl98hlMlLoKN)** by **yeule** *(Evangelic Girl is a Gun)*
-🎤 **[Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu)** by **Chappell Roan** *(Good Luck, Babe!)*
-🎤 **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))*
-🎤 **[Tears (feat. Caroline Polachek)](https://open.spotify.com/track/64xw3gXNMWv4wNXjF6tnXr)** by **Charli xcx, Caroline Polachek** *(Pop 2)*
-🎤 **[Everything Is Embarrassing](https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9)** by **Sky Ferreira** *(Night Time, My Time)*
+🎤 **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))*
+🎤 **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)*
+🎤 **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)*
+🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
+🎤 **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 20:45:36Z UTC
+🕐 Last updated: 2026-01-31 21:14:18Z UTC
 <!-- SPOTIFY-END -->
