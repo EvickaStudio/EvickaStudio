@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e58724521fe7e84276b4c373" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734af5a4a9456c67ef7fea7228" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I)**
-*by* **Japanese Breakfast**
-*Album:* Jubilee
+**🎵 [Blink Twice](https://open.spotify.com/track/0mrawlgSrnmAoGxc8uG1mI)**
+*by* **Cecile Believe**
+*Album:* Blink Twice
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="29" height="4" fill="#1db954" rx="2"/>
-    <circle cx="29" cy="2" r="6" fill="#1db954"/>
+    <rect width="48" height="4" fill="#1db954" rx="2"/>
+    <circle cx="48" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:19 • 3:15
+    0:29 • 3:02
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[thank you for recording](https://open.spotify.com/track/6rZkRHWRA1B4tJM4LeyT82)** by **Oklou** *(choke enough)*
+🎤 **[2 die 4 (feat. Charli XCX)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz)** by **Addison Rae, Charli xcx** *(AR)*
+🎤 **[360 featuring robyn & yung lean](https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb)** by **Charli xcx, Robyn, Yung Lean** *(Brat and it’s completely different but also still brat)*
+🎤 **[Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I)** by **Japanese Breakfast** *(Jubilee)*
 🎤 **[You’re Not The One](https://open.spotify.com/track/43ZisASlIqU06vXrwWa9hw)** by **Sky Ferreira** *(Night Time, My Time)*
-🎤 **[Stateside](https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8)** by **PinkPantheress** *(Fancy That)*
-🎤 **[obvious](https://open.spotify.com/track/7LzHJU8IJnVvQTgYgIeaIh)** by **Oklou** *(choke enough)*
-🎤 **[Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW)** by **Charli xcx** *(BRAT)*
-🎤 **[Drama](https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))*
 
 
 
@@ -128,8 +128,8 @@
 
 🥇 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 🥈 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-🥉 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 19:39:15Z UTC
+🕐 Last updated: 2026-01-31 19:49:55Z UTC
 <!-- SPOTIFY-END -->
