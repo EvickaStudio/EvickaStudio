@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349bdbd5880802dcbe4e0b2dd" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e58724521fe7e84276b4c373" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw)**
-*by* **Charli xcx**
-*Album:* how i'm feeling now
+**🎵 [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I)**
+*by* **Japanese Breakfast**
+*Album:* Jubilee
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
+    <rect width="29" height="4" fill="#1db954" rx="2"/>
+    <circle cx="29" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:48 • 2:51
+    0:19 • 3:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)*
-🎤 **[Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3)** by **A. G. Cook** *(PC Music, Vol. 1)*
-🎤 **[I Hate You In The Morning](https://open.spotify.com/track/1wb6Q8C37X3rJHSrgYCdOv)** by **Otha** *(I Hate You In The Morning)*
-🎤 **[Lost In My Bedroom](https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt)** by **Sky Ferreira** *(Ghost)*
-🎤 **[So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB)** by **Charli xcx** *(BRAT)*
+🎤 **[You’re Not The One](https://open.spotify.com/track/43ZisASlIqU06vXrwWa9hw)** by **Sky Ferreira** *(Night Time, My Time)*
+🎤 **[Stateside](https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8)** by **PinkPantheress** *(Fancy That)*
+🎤 **[obvious](https://open.spotify.com/track/7LzHJU8IJnVvQTgYgIeaIh)** by **Oklou** *(choke enough)*
+🎤 **[Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW)** by **Charli xcx** *(BRAT)*
+🎤 **[Drama](https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 19:15:32Z UTC
+🕐 Last updated: 2026-01-31 19:39:15Z UTC
 <!-- SPOTIFY-END -->
