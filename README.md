@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273399cf1d801981f1aebf97da5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2733d54a30e59638f60f56dd4e6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [temcore](https://open.spotify.com/track/7orHcR1nnCB4tfrZdP6aP6)**
-*by* **temcandoanything**
-*Album:* blue screen'd my navii
+**🎵 [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)**
+*by* **Mareux**
+*Album:* The Perfect Girl
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="50" height="4" fill="#1db954" rx="2"/>
+    <circle cx="50" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:54 • 2:04
+    0:32 • 3:14
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Solitude - Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk)** by **M83, Felsmann + Tiley** *(Solitude (Felsmann + Tiley Reinterpretation))*
-🎤 **[Duel of the Fates](https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw)** by **John Williams, London Symphony Orchestra** *(Star Wars: The Phantom Menace (Original Motion Picture Soundtrack))*
-🎤 **[PIXELATED KISSES](https://open.spotify.com/track/2hRHqXOmJbomK2OJmrQ9EU)** by **Joji** *(PIXELATED KISSES)*
-🎤 **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)*
-🎤 **[Let Me Down!](https://open.spotify.com/track/697IKoErv9oo0BWNTyP3SW)** by **Clover!** *(Let Me Down!)*
+🎤 **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)*
+🎤 **[LIGHTS OFF](https://open.spotify.com/track/20lhNppZrQq2Nz6S3nJiiT)** by **Bandiicam** *(LIGHTS OFF)*
+🎤 **[No Hate Is A Cold Star](https://open.spotify.com/track/4kDgdqL7yg3XfJ3JhgqLfk)** by **7038634357** *(No Hate Is A Cold Star)*
+🎤 **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)*
+🎤 **[Haunt Muskie](https://open.spotify.com/track/6IciXD3wtLksXAR4CHULJC)** by **C418** *(Minecraft - Volume Beta)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 16:18:01Z UTC
+🕐 Last updated: 2026-01-31 16:51:22Z UTC
 <!-- SPOTIFY-END -->
