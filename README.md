@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737b9790b7662a19becbe101ed" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27350c0d2e724996748cf767190" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Melodie](https://open.spotify.com/track/2iGBtxtGTwomOhHoHptFSl)**
-*by* **OMG**
-*Album:* Melodie / Kayseri
+**🎵 [SPIRIT OF THUNDER](https://open.spotify.com/track/0rdTOhdlIGHn7QaLLv9G44)**
+*by* **Yung Lean, DVRST, Riff Raff, Bladee**
+*Album:* SPIRIT OF THUNDER
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="186" height="4" fill="#1db954" rx="2"/>
-    <circle cx="186" cy="2" r="6" fill="#1db954"/>
+    <rect width="234" height="4" fill="#1db954" rx="2"/>
+    <circle cx="234" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:04 • 1:43
+    2:32 • 3:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Tsunami](https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV)** by **DVBBS, Borgeous** *(Tsunami)*
-🎤 **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)*
-🎤 **[Pasta](https://open.spotify.com/track/1sXFidulOG1i2hZSxjmdZd)** by **Der Witz, yungcameltoe** *(Pasta)*
-🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
-🎤 **[FOR THE NIGHT! - SPED UP](https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD)** by **Clover!** *(FOR THE NIGHT!)*
+🎤 **[exist in me](https://open.spotify.com/track/6s6QMtWp3IbJJSXpMqWnj4)** by **zaya archive** *(exist in me)*
+🎤 **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)*
+🎤 **[wir wollen](https://open.spotify.com/track/1acSOl36KhJkuGPSXRVsO0)** by **Longus Mongus, Monk, BHZ** *(wir wollen)*
+🎤 **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)*
+🎤 **[you look lonely](https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f)** by **Aaron Hibell** *(Twilight Zone)*
 
 
 
@@ -138,10 +138,10 @@
 
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
-🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
+🥉 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
+🏅 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 15:14:59Z UTC
+🕐 Last updated: 2026-01-31 15:40:20Z UTC
 <!-- SPOTIFY-END -->
