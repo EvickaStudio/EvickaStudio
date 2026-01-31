@@ -121,8 +121,8 @@
 🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🥉 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
 🏅 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🏅 [**high as fuck**](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)
+🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
 
 
-🕐 Last updated: 2026-01-31 10:16:27Z UTC
+🕐 Last updated: 2026-01-31 10:48:19Z UTC
 <!-- SPOTIFY-END -->
