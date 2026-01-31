@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731e22fd1b16e1aaecace15960" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738cf71b1ba0aef56069be5613" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Praying to the sky](https://open.spotify.com/track/7fLatdTIvR4YDnf0cmBNuS)**
-*by* **Rxse Huxxain**
-*Album:* Praying to the sky - Single
+**🎵 [Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)**
+*by* **Lukas, Der Rapper, Gomme-Hymne**
+*Album:* Wenn Der Gommemode Angeht!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="163" height="4" fill="#1db954" rx="2"/>
-    <circle cx="163" cy="2" r="6" fill="#1db954"/>
+    <rect width="153" height="4" fill="#1db954" rx="2"/>
+    <circle cx="153" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:58 • 3:37
+    1:26 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
-🎤 **[Arschficksong](https://open.spotify.com/track/0AojNVrGNc29SeBcVAnkkf)** by **Sido** *(Arschficksong)*
-🎤 **[Nicht schon wieder](https://open.spotify.com/track/6N7WzynEuY1EP6LayCIczb)** by **Dropped here** *(Sodium)*
-🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
-🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
+🎤 **[Moon & Stars (feat. Maggie Lindemann)](https://open.spotify.com/track/3oGbHF3Kdwf3AsRCbBjUxu)** by **$NOT, Maggie Lindemann** *(- TRAGEDY +)*
+🎤 **[Winterlove - Sped Up](https://open.spotify.com/track/1AMQHB8OJOmquqlm30LkHv)** by **Maikel** *(Winterlove)*
+🎤 **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)*
+🎤 **[found it (demo)](https://open.spotify.com/track/6Z05nc6InGk7Rz0ni3Vp2i)** by **Estrada** *(found it (demo))*
+🎤 **[GOLDKRONE](https://open.spotify.com/track/3yuGQEAZEbM4SnDFqOzoR1)** by **Kkuba102, 102 Boyz, Uncle F** *(SACHSCHADEN EP)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
 
 
-🕐 Last updated: 2026-01-31 13:55:05Z UTC
+🕐 Last updated: 2026-01-31 14:17:25Z UTC
 <!-- SPOTIFY-END -->
