@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734af5a4a9456c67ef7fea7228" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273afe31aa89995bd44ba17457d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Blink Twice](https://open.spotify.com/track/0mrawlgSrnmAoGxc8uG1mI)**
-*by* **Cecile Believe**
-*Album:* Blink Twice
+**🎵 [Love Potions](https://open.spotify.com/track/4yMMsS5QaEcsHZkKwdEyLv)**
+*by* **BJ Lips, princess paparazzi**
+*Album:* Cum n Cocaine
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="48" height="4" fill="#1db954" rx="2"/>
-    <circle cx="48" cy="2" r="6" fill="#1db954"/>
+    <rect width="283" height="4" fill="#1db954" rx="2"/>
+    <circle cx="283" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:29 • 3:02
+    2:43 • 2:53
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[thank you for recording](https://open.spotify.com/track/6rZkRHWRA1B4tJM4LeyT82)** by **Oklou** *(choke enough)*
-🎤 **[2 die 4 (feat. Charli XCX)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz)** by **Addison Rae, Charli xcx** *(AR)*
-🎤 **[360 featuring robyn & yung lean](https://open.spotify.com/track/4gzzKqbaLeOIWTPG80UfXb)** by **Charli xcx, Robyn, Yung Lean** *(Brat and it’s completely different but also still brat)*
-🎤 **[Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I)** by **Japanese Breakfast** *(Jubilee)*
-🎤 **[You’re Not The One](https://open.spotify.com/track/43ZisASlIqU06vXrwWa9hw)** by **Sky Ferreira** *(Night Time, My Time)*
+🎤 **[Roll with Me](https://open.spotify.com/track/0D6VCA9ycrkk9kH9F0p0AB)** by **Charli xcx** *(Number 1 Angel)*
+🎤 **[Boy's a liar Pt. 2](https://open.spotify.com/track/5CCr8msaN3MhgqBoa9yWhH)** by **PinkPantheress, Ice Spice** *(Heaven knows)*
+🎤 **[Xcxoplex (with Charli XCX)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj)** by **A. G. Cook, Charli xcx** *(Apple vs. 7G)*
+🎤 **[jeans](https://open.spotify.com/track/6C2nVSSeXNqfoY8t6tliZ4)** by **2hollis** *(jeans)*
+🎤 **[visions](https://open.spotify.com/track/5oZIhePTCzvWskktjYgdjr)** by **Charli xcx** *(how i'm feeling now)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 19:49:55Z UTC
+🕐 Last updated: 2026-01-31 20:16:31Z UTC
 <!-- SPOTIFY-END -->
