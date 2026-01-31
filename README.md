@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273afe31aa89995bd44ba17457d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Love Potions](https://open.spotify.com/track/4yMMsS5QaEcsHZkKwdEyLv)**
-*by* **BJ Lips, princess paparazzi**
-*Album:* Cum n Cocaine
+**🎵 [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)**
+*by* **Imogen Heap**
+*Album:* Speak for Yourself (Deluxe Version)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="232" height="4" fill="#1db954" rx="2"/>
+    <circle cx="232" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 2:53
+    2:46 • 3:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Roll with Me](https://open.spotify.com/track/0D6VCA9ycrkk9kH9F0p0AB)** by **Charli xcx** *(Number 1 Angel)*
-🎤 **[Boy's a liar Pt. 2](https://open.spotify.com/track/5CCr8msaN3MhgqBoa9yWhH)** by **PinkPantheress, Ice Spice** *(Heaven knows)*
-🎤 **[Xcxoplex (with Charli XCX)](https://open.spotify.com/track/1cntn3ERV911IIKeGJtgQj)** by **A. G. Cook, Charli xcx** *(Apple vs. 7G)*
-🎤 **[jeans](https://open.spotify.com/track/6C2nVSSeXNqfoY8t6tliZ4)** by **2hollis** *(jeans)*
-🎤 **[visions](https://open.spotify.com/track/5oZIhePTCzvWskktjYgdjr)** by **Charli xcx** *(how i'm feeling now)*
+🎤 **[Eko](https://open.spotify.com/track/5evQ6IgsuoLl98hlMlLoKN)** by **yeule** *(Evangelic Girl is a Gun)*
+🎤 **[Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu)** by **Chappell Roan** *(Good Luck, Babe!)*
+🎤 **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))*
+🎤 **[Tears (feat. Caroline Polachek)](https://open.spotify.com/track/64xw3gXNMWv4wNXjF6tnXr)** by **Charli xcx, Caroline Polachek** *(Pop 2)*
+🎤 **[Everything Is Embarrassing](https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9)** by **Sky Ferreira** *(Night Time, My Time)*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**Cocteau Twins**](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-01-31 20:16:31Z UTC
+🕐 Last updated: 2026-01-31 20:45:36Z UTC
 <!-- SPOTIFY-END -->
