@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27391e75711a12ae785e9e24894" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731e22fd1b16e1aaecace15960" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)**
-*by* **Cortex**
-*Album:* Inedit 79
+**🎵 [Praying to the sky](https://open.spotify.com/track/7fLatdTIvR4YDnf0cmBNuS)**
+*by* **Rxse Huxxain**
+*Album:* Praying to the sky - Single
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="221" height="4" fill="#1db954" rx="2"/>
-    <circle cx="221" cy="2" r="6" fill="#1db954"/>
+    <rect width="163" height="4" fill="#1db954" rx="2"/>
+    <circle cx="163" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 3:29
+    1:58 • 3:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Infinity - Miguel Angelo Remix](https://open.spotify.com/track/2lIhwPUNSDgM7SmcgBeYrD)** by **Guru Josh Project, Miguel Angelo** *(Infinity (Miguel Angelo Remix))*
-🎤 **[Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx)** by **Patrick Watson** *(Je te laisserai des mots)*
-🎤 **[Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)** by **OG Florin** *(ILY<3)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)*
+🎤 **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)*
+🎤 **[Arschficksong](https://open.spotify.com/track/0AojNVrGNc29SeBcVAnkkf)** by **Sido** *(Arschficksong)*
+🎤 **[Nicht schon wieder](https://open.spotify.com/track/6N7WzynEuY1EP6LayCIczb)** by **Dropped here** *(Sodium)*
+🎤 **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)*
+🎤 **[Bruise](https://open.spotify.com/track/1dshRnCyqUyGwP2Gp7gigS)** by **mental** *(Bruise)*
 
 
 
@@ -138,10 +138,10 @@
 
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
-🥉 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
-🏅 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
+🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
+🏅 [**kidssss**](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)
 
 
-🕐 Last updated: 2026-01-31 13:23:44Z UTC
+🕐 Last updated: 2026-01-31 13:55:05Z UTC
 <!-- SPOTIFY-END -->
