@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2738a768dc5957aa00702b1d251" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [dance 2](https://open.spotify.com/track/2YBdJ1ZjoY809ZRhidoQxg)**
+*by* **Oklou**
+*Album:* choke enough (Deluxe)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="203" height="4" fill="#1db954" rx="2"/>
+    <circle cx="203" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    3:17 • 4:51
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)*
-🎤 **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))*
-🎤 **[Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3)** by **Bladee** *(Ingen hör)*
-🎤 **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)*
-🎤 **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)*
+🎤 **[Crash](https://open.spotify.com/track/6WKDtdVILJvcfqpvSQgwAQ)** by **Charli xcx** *(CRASH)*
+🎤 **[Off To The Races](https://open.spotify.com/track/3uUCgL0cbSd0isnqhHCm1f)** by **Lana Del Rey** *(Born To Die - The Paradise Edition)*
+🎤 **[We R Who We R](https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd)** by **Kesha** *(Cannibal (Expanded Edition))*
+🎤 **[Don’t Delete The Kisses](https://open.spotify.com/track/1LomCMl5wD3MPVlC6smUHe)** by **Wolf Alice** *(Visions Of A Life)*
+🎤 **[JAM !](https://open.spotify.com/track/2dgCHhgB4zsvKB8qcjHF7i)** by **BETWEEN FRIENDS** *(WOW!)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-01 10:50:47Z UTC
+🕐 Last updated: 2026-02-01 11:15:49Z UTC
 <!-- SPOTIFY-END -->
