@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735a0b6ab4985c37db209d45b2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f37732af6ea5dd18669c170c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [lights off](https://open.spotify.com/track/61xeQB0mqwnEwltemX1bVN)**
-*by* **HAR$h, Carter Lilcc!!**
-*Album:* lights off
+**🎵 [insane](https://open.spotify.com/track/3z3870bIEXZvESsgoYQYCb)**
+*by* **bliiiss**
+*Album:* insane
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="34" height="4" fill="#1db954" rx="2"/>
-    <circle cx="34" cy="2" r="6" fill="#1db954"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:13 • 1:58
+    2:38 • 2:48
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[RINGT0NE!](https://open.spotify.com/track/36jF8EdUpjpblpCNnpFYmk)** by **vai5000, Hatsune Miku** *(extrasensory)*
-🎤 **[jolly (caipirinha)](https://open.spotify.com/track/5XQov2bZ69sEEiFTVxQXk3)** by **n3vio, zargo** *(jolly (caipirinha))*
-🎤 **[FML (+kets4eki) - NIGHTCORE](https://open.spotify.com/track/6EmEJXvthYiqNutK3CGb5g)** by **vee4archive, Vee4r** *(FML +kets4eki (ALT MIXES))*
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
-🎤 **[connected but on my own](https://open.spotify.com/track/3rc7H3PhqrK3kQyJf71Iok)** by **hexxxed** *(connected but on my own)*
+🎤 **[don't care!](https://open.spotify.com/track/0nlZskJ9eHbmkY21hN4JQD)** by **vai5000, SEBii** *(sensory.)*
+🎤 **[foolish](https://open.spotify.com/track/3xUJ0JJIzvwYHDAlBX1iUp)** by **Senses** *(idle state)*
+🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)*
+🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
+🎤 **[schweb allein](https://open.spotify.com/track/13q9TRsFY4kaZcHde97wla)** by **5v, juuhnkpop, mint, Odece** *(petrichor)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 15:45:23Z UTC
+🕐 Last updated: 2026-02-01 16:19:44Z UTC
 <!-- SPOTIFY-END -->
