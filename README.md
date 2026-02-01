@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273296b3ad5a62ce5530b8af40a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f62d56d61cbb3bbd36359e1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [reach u](https://open.spotify.com/track/6rtL3UaevcskaMSumPN4vR)**
-*by* **vai5000, 重音テト**
-*Album:* reach u
+**🎵 [nightmares](https://open.spotify.com/track/2iiSvJRRZ9sXyBzXFTwE9X)**
+*by* **mint**
+*Album:* nightmares
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="111" height="4" fill="#1db954" rx="2"/>
-    <circle cx="111" cy="2" r="6" fill="#1db954"/>
+    <rect width="148" height="4" fill="#1db954" rx="2"/>
+    <circle cx="148" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:47 • 2:07
+    1:01 • 2:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)*
-🎤 **[2soon](https://open.spotify.com/track/21uWH48OIaXI61JzpKptrN)** by **hateoryx, blackwinterwells, KidSnorlax** *(2soon)*
-🎤 **[TECHNO KITTY](https://open.spotify.com/track/6lACzDeSMVhIXZmVHWfv6Q)** by **vylexx, kmrnxo** *(TECHNO KITTY)*
-🎤 **[Forever - dep4rted remix](https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU)** by **DJmegan23, ultra caro, dep4rted** *(M+ (Remixes))*
-🎤 **[HALLOWEEN SONG](https://open.spotify.com/track/6E2zC9ThnogHtG70HjMWcY)** by **g0r3c0r3** *(Thirteen Floorz)*
+🎤 **[2007!](https://open.spotify.com/track/6t19RxFBbDrVUEO8JSPemJ)** by **ama???!!!!** *(© 2007)*
+🎤 **[all 4 u](https://open.spotify.com/track/4HoJpDsuPMZ4DSLt0A2p5b)** by **Scarly, shxrda** *(all 4 u)*
+🎤 **[like you](https://open.spotify.com/track/026R57BzLQnMbB73oWa5x8)** by **Sean Pitaro** *(like you)*
+🎤 **[run & hide](https://open.spotify.com/track/240NdkbYaWty4hQKO0iNzJ)** by **Scarekrow, 3ri.xs, Pretty Demon Association** *(run & hide)*
+🎤 **[BITE!](https://open.spotify.com/track/2vVPkftCrXZZnA9xf2gEsr)** by **vai5000, stephie** *(BITE!)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 14:27:12Z UTC
+🕐 Last updated: 2026-02-01 14:51:26Z UTC
 <!-- SPOTIFY-END -->
