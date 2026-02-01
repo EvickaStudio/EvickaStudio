@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f37732af6ea5dd18669c170c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27300a4a294e34acdfe99138d1e" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [insane](https://open.spotify.com/track/3z3870bIEXZvESsgoYQYCb)**
-*by* **bliiiss**
-*Album:* insane
+**🎵 [how can u even make me feel so unwell](https://open.spotify.com/track/4rAofsjirEOtwGdVUSrlaH)**
+*by* **mint**
+*Album:* how can u even make me feel so unwell
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+    <rect width="223" height="4" fill="#1db954" rx="2"/>
+    <circle cx="223" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:38 • 2:48
+    1:22 • 1:50
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[don't care!](https://open.spotify.com/track/0nlZskJ9eHbmkY21hN4JQD)** by **vai5000, SEBii** *(sensory.)*
-🎤 **[foolish](https://open.spotify.com/track/3xUJ0JJIzvwYHDAlBX1iUp)** by **Senses** *(idle state)*
-🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)*
-🎤 **[crystal clear](https://open.spotify.com/track/6Lyio5q0dxPVvswqkaTmel)** by **mint** *(crystal clear)*
-🎤 **[schweb allein](https://open.spotify.com/track/13q9TRsFY4kaZcHde97wla)** by **5v, juuhnkpop, mint, Odece** *(petrichor)*
+🎤 **[do it ##right](https://open.spotify.com/track/1c1l7yvvhaojEJzUIXayjs)** by **5v** *(do it ##right)*
+🎤 **[broken hands](https://open.spotify.com/track/5mCT7M8ef2RlUmlqPKyU0i)** by **Senses** *(idle state)*
+🎤 **[pretty](https://open.spotify.com/track/67lQwBDkefTkD2uBSJF93p)** by **vai5000** *(sensory.)*
+🎤 **[weeping willow](https://open.spotify.com/track/67P6jdlnndDTymoCHOMYpB)** by **Peake** *(My Woeful Heart)*
+🎤 **[minecraft tree](https://open.spotify.com/track/4aqQ4QDCsC4i9IzmG7MOel)** by **Feeluvsyou** *(minecraft tree)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 16:19:44Z UTC
+🕐 Last updated: 2026-02-01 16:52:36Z UTC
 <!-- SPOTIFY-END -->
