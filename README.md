@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273b685c60e03694a7e89b1ea2a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bf1b9616edad332c81db507a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)**
-*by* **luutwo, Slatty**
-*Album:* KLOPF KLOPF
+**🎵 [Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)**
+*by* **105**
+*Album:* Hundra Dagar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="99" height="4" fill="#1db954" rx="2"/>
-    <circle cx="99" cy="2" r="6" fill="#1db954"/>
+    <rect width="228" height="4" fill="#1db954" rx="2"/>
+    <circle cx="228" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:37 • 1:52
+    2:50 • 3:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
-🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
-🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
-🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
-🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)*
+🎤 **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)*
+🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
+🎤 **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)*
+🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 21:55:18Z UTC
+🕐 Last updated: 2026-02-01 22:16:03Z UTC
 <!-- SPOTIFY-END -->
