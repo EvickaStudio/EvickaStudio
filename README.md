@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737f073a643f427db13ea969bf" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273203e4c6a048df02a21cdd813" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2)**
-*by* **A. G. Cook**
-*Album:* Britpop
+**🎵 [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)**
+*by* **MARINA**
+*Album:* Electra Heart (Deluxe)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="78" height="4" fill="#1db954" rx="2"/>
-    <circle cx="78" cy="2" r="6" fill="#1db954"/>
+    <rect width="245" height="4" fill="#1db954" rx="2"/>
+    <circle cx="245" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:51 • 3:19
+    3:00 • 3:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Nothing On (But The Radio)](https://open.spotify.com/track/58q4iIjSd6zueicG8F65GW)** by **Addison Rae** *(AR)*
+🎤 **[How Can I Not Know What I Need Right Now](https://open.spotify.com/track/29KYqUjF9Oc9NCxvs7srlP)** by **Charli xcx** *(CRASH (Deluxe))*
+🎤 **[Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2)** by **A. G. Cook** *(Britpop)*
 🎤 **[Boys](https://open.spotify.com/track/7clEXtT4uQj4ZUK89eR5Dr)** by **Sky Ferreira** *(Night Time, My Time)*
 🎤 **[blade bird](https://open.spotify.com/track/4Imp01XkBi3nquOhX5UGQN)** by **Oklou** *(choke enough)*
-🎤 **[Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)*
-🎤 **[Apple featuring the japanese house](https://open.spotify.com/track/1PJe42QnCMD6JqhcooaWzc)** by **Charli xcx, The Japanese House** *(Brat and it’s completely different but also still brat)*
-🎤 **[it could’ve been u](https://open.spotify.com/track/4kUs9LuptVXtLqm2CK9JA7)** by **Addison Rae** *(AR)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-01 11:41:16Z UTC
+🕐 Last updated: 2026-02-01 11:53:17Z UTC
 <!-- SPOTIFY-END -->
