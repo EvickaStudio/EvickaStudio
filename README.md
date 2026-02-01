@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d451f811927c0e4da1a6befe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738f298b801fd967c72ec193aa" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)**
-*by* **mehlhaltig, luu**
-*Album:* engel>_<
+**🎵 [lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)**
+*by* **mikeycyrus**
+*Album:* lean 2 euro
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="265" height="4" fill="#1db954" rx="2"/>
-    <circle cx="265" cy="2" r="6" fill="#1db954"/>
+    <rect width="240" height="4" fill="#1db954" rx="2"/>
+    <circle cx="240" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:50 • 2:05
+    1:34 • 1:58
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)*
+🎤 **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)*
+🎤 **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))*
+🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
 🎤 **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)*
-🎤 **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)*
-🎤 **[i think you should know](https://open.spotify.com/track/5LfKWDwHGc12ChQhnXcuYG)** by **SHEMYYY, Senses** *(i think you should know)*
-🎤 **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)*
-🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 19:43:34Z UTC
+🕐 Last updated: 2026-02-01 19:54:21Z UTC
 <!-- SPOTIFY-END -->
