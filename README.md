@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273e2cead1a42720d931c5c4ac1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27372fe26fc3fba9088d5094d37" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)**
-*by* **PureSnow**
-*Album:* Tunnel Vision
+**🎵 [i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)**
+*by* **Caspr, oaf1**
+*Album:* i can't find oaf1
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="239" height="4" fill="#1db954" rx="2"/>
+    <circle cx="239" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:44 • 3:29
+    2:53 • 3:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))*
-🎤 **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)*
-🎤 **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)*
-🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
-🎤 **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)*
+🎤 **[undercover](https://open.spotify.com/track/6rKwN3930mWrxeDSaAZUJG)** by **mint, olus** *(undercover)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)*
+🎤 **[paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34)** by **Senses** *(paralyzed)*
+🎤 **[shut me off](https://open.spotify.com/track/49oroEcJ1vn9oZLEdFLzDG)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)*
 
 
 
@@ -140,8 +140,8 @@
 🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
-🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
+🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 12:31:20Z UTC
+🕐 Last updated: 2026-02-01 13:29:08Z UTC
 <!-- SPOTIFY-END -->
