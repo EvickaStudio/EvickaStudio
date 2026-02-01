@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27325ebeb32724612ff3ecdf666" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)**
-*by* **Imogen Heap**
-*Album:* Speak for Yourself (Deluxe Version)
+**🎵 [maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)**
+*by* **Tamino404, DANZINGER 99**
+*Album:* maybach tears
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="278" height="4" fill="#1db954" rx="2"/>
-    <circle cx="278" cy="2" r="6" fill="#1db954"/>
+    <rect width="58" height="4" fill="#1db954" rx="2"/>
+    <circle cx="58" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:47 • 3:00
+    0:19 • 1:40
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
 🎤 **[Drama](https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))*
 🎤 **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))*
 🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
-🎤 **[enemy](https://open.spotify.com/track/4Wexl1sQ5LV3xNPFdnEMjv)** by **Senses** *(enemy)*
-🎤 **[mess](https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N)** by **5v** *(mess)*
+🎤 **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 17:48:25Z UTC
+🕐 Last updated: 2026-02-01 18:23:30Z UTC
 <!-- SPOTIFY-END -->
