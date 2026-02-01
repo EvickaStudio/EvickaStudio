@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f62d56d61cbb3bbd36359e1d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a166db8b011526df3c697c59" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [nightmares](https://open.spotify.com/track/2iiSvJRRZ9sXyBzXFTwE9X)**
-*by* **mint**
-*Album:* nightmares
+**🎵 [Mary](https://open.spotify.com/track/4zXbdPvJ59YPUZ6PYRhzuz)**
+*by* **mxrrow, LeXanax**
+*Album:* Mary
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="148" height="4" fill="#1db954" rx="2"/>
-    <circle cx="148" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 2:04
+    1:30 • 2:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2007!](https://open.spotify.com/track/6t19RxFBbDrVUEO8JSPemJ)** by **ama???!!!!** *(© 2007)*
-🎤 **[all 4 u](https://open.spotify.com/track/4HoJpDsuPMZ4DSLt0A2p5b)** by **Scarly, shxrda** *(all 4 u)*
-🎤 **[like you](https://open.spotify.com/track/026R57BzLQnMbB73oWa5x8)** by **Sean Pitaro** *(like you)*
-🎤 **[run & hide](https://open.spotify.com/track/240NdkbYaWty4hQKO0iNzJ)** by **Scarekrow, 3ri.xs, Pretty Demon Association** *(run & hide)*
-🎤 **[BITE!](https://open.spotify.com/track/2vVPkftCrXZZnA9xf2gEsr)** by **vai5000, stephie** *(BITE!)*
+🎤 **[Peak Mode](https://open.spotify.com/track/4VMz73cUunSMKTO6xF8rtQ)** by **hexxxed** *(Peak Mode)*
+🎤 **[HOLY SHOT](https://open.spotify.com/track/3Ze3mVIUgSphvj4XjeGrhF)** by **SyKo** *(Carousel (Deluxe))*
+🎤 **[c'est fini toi & moi](https://open.spotify.com/track/59zSNilpPiyDQJW2x2nvic)** by **ama???!!!!** *(c'est fini toi & moi)*
+🎤 **[jtm trop](https://open.spotify.com/track/2C5sVfRuo4rkQdEih8dxU8)** by **YA5L, Ciele, Mau_v** *(Lost Memory)*
+🎤 **[Fasssanation](https://open.spotify.com/track/3j1XeBNrUVs1EkO09WYcjz)** by **prvttyscrzz, HAR$h, 5GSWAG** *(Fasssanation)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-01 14:51:26Z UTC
+🕐 Last updated: 2026-02-01 15:17:05Z UTC
 <!-- SPOTIFY-END -->
