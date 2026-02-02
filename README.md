@@ -118,11 +118,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
-🥈 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
-🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
+🥈 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
+🥉 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-02 15:23:44Z UTC
+🕐 Last updated: 2026-02-02 15:55:37Z UTC
 <!-- SPOTIFY-END -->
