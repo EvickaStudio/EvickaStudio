@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273441c76674ffd767b8b3bdc98" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27319e22c1ab45bbd4d607ff9d1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)**
-*by* **elricfd**
-*Album:* friday nite
+**🎵 [Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)**
+*by* **jonatan leandoer96**
+*Album:* Nectar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="267" height="4" fill="#1db954" rx="2"/>
-    <circle cx="267" cy="2" r="6" fill="#1db954"/>
+    <rect width="200" height="4" fill="#1db954" rx="2"/>
+    <circle cx="200" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:40 • 4:07
+    2:18 • 3:26
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[LSD Racing Team](https://open.spotify.com/track/5AK1v847LeWu3RBaSawxNT)** by **Kiryano** *(01 Refine)*
-🎤 **[Lip Service](https://open.spotify.com/track/1tv4UZuv7UOmfNNbyI6CLl)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)*
-🎤 **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)*
-🎤 **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)*
+🎤 **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)*
+🎤 **[Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)** by **Bladee** *(Eversince)*
+🎤 **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)*
+🎤 **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)*
+🎤 **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-02 08:24:49Z UTC
+🕐 Last updated: 2026-02-02 09:07:01Z UTC
 <!-- SPOTIFY-END -->
