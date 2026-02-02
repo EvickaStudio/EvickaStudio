@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273872a896e7c3776d6949df476" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273b436be08f26b7ce554c7423f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)**
-*by* **MGMT**
-*Album:* Little Dark Age
+**🎵 [GENESIS](https://open.spotify.com/track/6v2NDq9QYZt24rAjL7WIFh)**
+*by* **Nedaj**
+*Album:* GENESIS
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="180" height="4" fill="#1db954" rx="2"/>
-    <circle cx="180" cy="2" r="6" fill="#1db954"/>
+    <rect width="124" height="4" fill="#1db954" rx="2"/>
+    <circle cx="124" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:00 • 4:59
+    1:18 • 3:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)*
-🎤 **[Caramelldansen - Komb & Tatsunoshin Radio Mix](https://open.spotify.com/track/3nUSgBvdHMdawUiwplAMlc)** by **Caramella Girls, Tatsunoshin, Komb** *(Caramelldansen (Komb & Tatsunoshin Remix))*
-🎤 **[Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)** by **PureSnow** *(Tunnel Vision)*
-🎤 **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))*
-🎤 **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)*
+🎤 **[Alpha](https://open.spotify.com/track/3Gtha3Fwdu0yqpphxjXiTo)** by **Tevvez** *(Alpha)*
+🎤 **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)*
+🎤 **[trance thesis](https://open.spotify.com/track/4GTYcXx9I3ipfkk3LEnsKj)** by **djacc v hearteyesL** *(cyberspace positron mar19-2021)*
+🎤 **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)*
+🎤 **[static dreams](https://open.spotify.com/track/6oTDhIMH8R2XSb4iqpae7v)** by **marchpane** *(binary euphoria)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-02 06:53:32Z UTC
+🕐 Last updated: 2026-02-02 07:43:48Z UTC
 <!-- SPOTIFY-END -->
