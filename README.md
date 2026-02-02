@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))*
+🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
+🎤 **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)*
 🎤 **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)*
 🎤 **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)*
-🎤 **[Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)** by **smokedope2016** *(THE PEAK)*
-🎤 **[A Night Again](https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7)** by **Nokia Angel** *(In Haze)*
-🎤 **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-02 11:04:50Z UTC
+🕐 Last updated: 2026-02-02 11:49:05Z UTC
 <!-- SPOTIFY-END -->
