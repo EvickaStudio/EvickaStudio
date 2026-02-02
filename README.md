@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
-🎤 **[tu m'écœures](https://open.spotify.com/track/5ZWJP97sdmBE8yqUEENLrQ)** by **ama???!!!!, kysmelo** *(tu m'écœures)*
-🎤 **[Drama](https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))*
-🎤 **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))*
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
+🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
+🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
+🎤 **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)*
+🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[gasoline love](https://open.spotify.com/track/4ndZEQIu3En43EhxabM38O)** by **luu, n3vio** *(internetkind)*
 
 
 
@@ -121,8 +121,8 @@
 🥈 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 🥉 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
-🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
+🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-02 18:36:59Z UTC
+🕐 Last updated: 2026-02-02 23:20:36Z UTC
 <!-- SPOTIFY-END -->
