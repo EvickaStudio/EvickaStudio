@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a3127c4fe017632d7aa1e84b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)**
-*by* **5v**
-*Album:* issues
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="272" height="4" fill="#1db954" rx="2"/>
-    <circle cx="272" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:56 • 2:08
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Useful.Mp3](https://open.spotify.com/track/27uowdUPkHCfocRf3UTIPi)** by **flywoah** *(Useful.Mp3)*
-🎤 **[keep me safe](https://open.spotify.com/track/5psazsP0EN8pVNz8lSLcCB)** by **bliiiss** *(keep me safe)*
-🎤 **[teamkill](https://open.spotify.com/track/2X1zKLZGXJ7x7cqWFNgn4m)** by **kysmelo, matascoo** *(teamkill)*
-🎤 **[sanctuaire](https://open.spotify.com/track/2SVHYIYv33CEUUpryLuSMu)** by **ama???!!!!** *(sanctuaire)*
-🎤 **[take your breath](https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ)** by **RudeClub** *(rudeclub)*
+🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
+🎤 **[Throw It Back Away](https://open.spotify.com/track/3hlbMZoeYUllnXVnE9OnLh)** by **Snow Strippers** *(Night Killaz Vol. 2)*
+🎤 **[2007!](https://open.spotify.com/track/6t19RxFBbDrVUEO8JSPemJ)** by **ama???!!!!** *(© 2007)*
+🎤 **[ghost](https://open.spotify.com/track/6vJUgfkfaEL5YyefZNcicg)** by **RudeClub** *(ghost)*
+🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v** *(issues)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 22:55:16Z UTC
+🕐 Last updated: 2026-02-03 23:21:15Z UTC
 <!-- SPOTIFY-END -->
