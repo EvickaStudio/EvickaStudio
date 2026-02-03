@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2738c2de5de3e20fa408171f517" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)**
-*by* **Calvin Harris**
-*Album:* Motion
+**🎵 [Stateside + Bladee](https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA)**
+*by* **PinkPantheress, Bladee**
+*Album:* Fancy Some More?
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:08 • 3:42
+    0:06 • 2:28
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J)** by **Lady Gaga, Colby O'Donis** *(The Fame)*
-🎤 **[Poker Face](https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg)** by **Lady Gaga** *(The Fame)*
-🎤 **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)*
-🎤 **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)*
-🎤 **[bleibt für ewich](https://open.spotify.com/track/7DGFmeMubdkOv8kYSbrTRs)** by **b3nn3t** *(bleibt für ewich)*
+🎤 **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)*
+🎤 **[Summertime Sadness](https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS)** by **Lana Del Rey** *(Born To Die - The Paradise Edition)*
+🎤 **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)*
+🎤 **[Bubblegum Bitch](https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F)** by **MARINA** *(Electra Heart (Deluxe))*
+🎤 **[Judas](https://open.spotify.com/track/7F25roCtYi55JouckaayPC)** by **Lady Gaga** *(Born This Way (International Special Edition Version))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 
 
-🕐 Last updated: 2026-02-03 19:32:40Z UTC
+🕐 Last updated: 2026-02-03 20:04:04Z UTC
 <!-- SPOTIFY-END -->
