@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730bfc38d01a4510e6da138cd5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)**
-*by* **Olmatri, SlushhKitten**
-*Album:* Zwei Welten
+**🎵 [Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)**
+*by* **Ecco2k**
+*Album:* E
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="136" height="4" fill="#1db954" rx="2"/>
-    <circle cx="136" cy="2" r="6" fill="#1db954"/>
+    <rect width="76" height="4" fill="#1db954" rx="2"/>
+    <circle cx="76" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:09 • 2:33
+    0:39 • 2:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9)** by **FiNCH** *(Dorfdisko)*
-🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
-🎤 **[California Dreamin' - Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ)** by **The Mamas & The Papas** *(If You Can Believe Your Eyes & Ears)*
-🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
-🎤 **[you look lonely](https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f)** by **Aaron Hibell** *(Twilight Zone)*
+🎤 **[every single day](https://open.spotify.com/track/12GSmDYwG6HIUieDnPeLqv)** by **kets4eki, Pröz** *(party2daybreak)*
+🎤 **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)*
+🎤 **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))*
+🎤 **[Zwing mich zu meinem Glück](https://open.spotify.com/track/2LG44sF58NplQCk9QXKUh6)** by **diggidaniel** *(Zwing mich zu meinem Glück)*
+🎤 **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 13:48:11Z UTC
+🕐 Last updated: 2026-02-03 14:38:34Z UTC
 <!-- SPOTIFY-END -->
