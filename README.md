@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730bfc38d01a4510e6da138cd5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)**
-*by* **Kanye West, T-Pain**
-*Album:* Graduation
+**🎵 [Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)**
+*by* **Olmatri, SlushhKitten**
+*Album:* Zwei Welten
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="286" height="4" fill="#1db954" rx="2"/>
-    <circle cx="286" cy="2" r="6" fill="#1db954"/>
+    <rect width="136" height="4" fill="#1db954" rx="2"/>
+    <circle cx="136" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:17 • 3:27
+    1:09 • 2:33
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
-🎤 **[Mr Vain (feat. Tamika)](https://open.spotify.com/track/2UthFHQ34gEPNQ0qa6ihTa)** by **S3RL, Tamika** *(Mr Vain (feat. Tamika))*
-🎤 **[Marmelade Und Himbeereis](https://open.spotify.com/track/0XgWyz9dYcbCIlu3OrgnIO)** by **Grauzone** *(Grauzone)*
-🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
-🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
+🎤 **[Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9)** by **FiNCH** *(Dorfdisko)*
+🎤 **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)*
+🎤 **[California Dreamin' - Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ)** by **The Mamas & The Papas** *(If You Can Believe Your Eyes & Ears)*
+🎤 **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)*
+🎤 **[you look lonely](https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f)** by **Aaron Hibell** *(Twilight Zone)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 12:39:52Z UTC
+🕐 Last updated: 2026-02-03 13:48:11Z UTC
 <!-- SPOTIFY-END -->
