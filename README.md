@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735a360acc37fe7e9fc0c2ea33" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2736af1f1d65e26c2f2a68f3b89" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [quand j’prends ma ….](https://open.spotify.com/track/279s5BoJWjRpW6rvDNcajH)**
-*by* **heav3nlink, emowou**
-*Album:* Bloodbath in 4K
+**🎵 [all I wanted was you - slower](https://open.spotify.com/track/4a6pWzHLC8bw6C9OfTOeiw)**
+*by* **Rebzyyx, Lélio**
+*Album:* all I wanted was you
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="20" height="4" fill="#1db954" rx="2"/>
-    <circle cx="20" cy="2" r="6" fill="#1db954"/>
+    <rect width="152" height="4" fill="#1db954" rx="2"/>
+    <circle cx="152" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:06 • 1:38
+    1:13 • 2:25
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[plaies](https://open.spotify.com/track/4DCbqfE7vbKViCaTLLJpLw)** by **ama???!!!!, nagi** *(© 2007)*
-🎤 **[wh☆t's next](https://open.spotify.com/track/0P1MfY4ED7Rs7k0RIhgaoq)** by **Illsaberr, ic3** *(wh☆t's next)*
-🎤 **[Luctus Mane (Snow Strippers Remix)](https://open.spotify.com/track/7DiuKRfZhiuxFZoF54hk3A)** by **Snow Strippers, Turnabout** *(Luctus Mane (Snow Strippers Remix))*
-🎤 **[Liberty](https://open.spotify.com/track/1ygWgfksLMVb3xdbdUKAgI)** by **dlwindle** *(GOTHIC)*
-🎤 **[effy](https://open.spotify.com/track/7Mi195iVKqG3t4hSNTppKW)** by **ama???!!!!** *(© 2007)*
+🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
+🎤 **[party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)** by **dollreal, z4y4, p6inkillr** *(party at the graveyard)*
+🎤 **[hello](https://open.spotify.com/track/6o9tjrLDzxb1cFfXuXCBZA)** by **hateoryx** *(LostMyMind)*
+🎤 **[Chained Up](https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU)** by **Snow Strippers** *(Night Killaz Vol. 2)*
+🎤 **[t'aimerais m'voir die](https://open.spotify.com/track/1DRZLnLPjlIsjazdi9P06O)** by **ama???!!!!** *(t'aimerais m'voir die)*
 
 
 
@@ -137,11 +137,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
-🥈 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🥉 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
+🥈 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
+🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
-🏅 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
+🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 20:53:18Z UTC
+🕐 Last updated: 2026-02-03 21:26:32Z UTC
 <!-- SPOTIFY-END -->
