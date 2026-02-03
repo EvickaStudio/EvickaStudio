@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736af1f1d65e26c2f2a68f3b89" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [all I wanted was you - slower](https://open.spotify.com/track/4a6pWzHLC8bw6C9OfTOeiw)**
-*by* **Rebzyyx, Lélio**
-*Album:* all I wanted was you
+**🎵 [plaies](https://open.spotify.com/track/4DCbqfE7vbKViCaTLLJpLw)**
+*by* **ama???!!!!, nagi**
+*Album:* © 2007
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
+    <rect width="202" height="4" fill="#1db954" rx="2"/>
+    <circle cx="202" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:13 • 2:25
+    1:42 • 2:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)*
-🎤 **[party at the graveyard](https://open.spotify.com/track/2tAHU8GdpJLZu5tIwHMFDp)** by **dollreal, z4y4, p6inkillr** *(party at the graveyard)*
-🎤 **[hello](https://open.spotify.com/track/6o9tjrLDzxb1cFfXuXCBZA)** by **hateoryx** *(LostMyMind)*
-🎤 **[Chained Up](https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU)** by **Snow Strippers** *(Night Killaz Vol. 2)*
-🎤 **[t'aimerais m'voir die](https://open.spotify.com/track/1DRZLnLPjlIsjazdi9P06O)** by **ama???!!!!** *(t'aimerais m'voir die)*
+🎤 **[wh☆t's next](https://open.spotify.com/track/0P1MfY4ED7Rs7k0RIhgaoq)** by **Illsaberr, ic3** *(wh☆t's next)*
+🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
+🎤 **[Nerve Damage](https://open.spotify.com/track/6yJgxPfdirvhoLTT9W1XWO)** by **Harto Falión, Spira me** *(Nerve Damage)*
+🎤 **[don't fall asleep](https://open.spotify.com/track/4J87yQByw5bvsR2uy6mlTk)** by **ama???!!!!, cholorofilm** *(don't fall asleep)*
+🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 21:26:32Z UTC
+🕐 Last updated: 2026-02-03 21:55:53Z UTC
 <!-- SPOTIFY-END -->
