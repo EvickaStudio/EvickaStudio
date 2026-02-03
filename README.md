@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a07494bff5f5eeeb999111d2" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Rottweiler Welpe](https://open.spotify.com/track/16whV4IXCwGuspfB2ybu1P)**
-*by* **fliggsy**
-*Album:* No Comment
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="277" height="4" fill="#1db954" rx="2"/>
-    <circle cx="277" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:49 • 1:58
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)*
-🎤 **[12 Stout Street](https://open.spotify.com/track/58Zrwv2urNcl404kX6HsAS)** by **Rx Papi, Gud** *(Foreign Exchange)*
-🎤 **[Wein](https://open.spotify.com/track/2x0KAWjLgt4nmGxaBirZhx)** by **makko** *(Wein)*
-🎤 **[100 TAUSEND (Demo)](https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW)** by **Yung Hurn** *(100 TAUSEND (Demo))*
-🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
+🎤 **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)*
+🎤 **[Forever (From "Euphoria: Season 1" Soundtrack)](https://open.spotify.com/track/6potEImiklXkwD9qFzpu15)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
+🎤 **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)*
+🎤 **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)*
+🎤 **[stray](https://open.spotify.com/track/3idl8Z80yzSbxx6VCEt5nY)** by **meat computer, Lvl99magic** *(stray)*
 
 
 
@@ -138,10 +119,10 @@
 
 🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🥈 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🥉 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
-🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
+🥉 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
+🏅 [**Dedicated To The One I Love**](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 16:32:35Z UTC
+🕐 Last updated: 2026-02-03 17:36:17Z UTC
 <!-- SPOTIFY-END -->
