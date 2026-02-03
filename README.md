@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7df5c70b9505f6471f9dbe1" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)**
-*by* **EASY EASY**
-*Album:* EASY EASY
+**🎵 [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)**
+*by* **Kanye West, T-Pain**
+*Album:* Graduation
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="8" height="4" fill="#1db954" rx="2"/>
-    <circle cx="8" cy="2" r="6" fill="#1db954"/>
+    <rect width="286" height="4" fill="#1db954" rx="2"/>
+    <circle cx="286" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:04 • 2:55
+    3:17 • 3:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)*
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
-🎤 **[Sorry](https://open.spotify.com/track/2kxZnZBMfHbinyLaSDvP4Z)** by **Lil Bo Weep, nthngxxcitxsmx** *(SOLOS 2)*
-🎤 **[Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)** by **Kanye West** *(ye)*
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
+🎤 **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)*
+🎤 **[Mr Vain (feat. Tamika)](https://open.spotify.com/track/2UthFHQ34gEPNQ0qa6ihTa)** by **S3RL, Tamika** *(Mr Vain (feat. Tamika))*
+🎤 **[Marmelade Und Himbeereis](https://open.spotify.com/track/0XgWyz9dYcbCIlu3OrgnIO)** by **Grauzone** *(Grauzone)*
+🎤 **[WORLD FAMOUS](https://open.spotify.com/track/3juMtCpa1cgeNmFu2jQrdt)** by **Vee4r, cy4ne** *(WORLD FAMOUS)*
+🎤 **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 11:54:12Z UTC
+🕐 Last updated: 2026-02-03 12:39:52Z UTC
 <!-- SPOTIFY-END -->
