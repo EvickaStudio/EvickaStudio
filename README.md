@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273630e3b3f24a3a7ab3e2a8991" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [plaies](https://open.spotify.com/track/4DCbqfE7vbKViCaTLLJpLw)**
-*by* **ama???!!!!, nagi**
-*Album:* © 2007
+**🎵 [wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)**
+*by* **bliiiss, Buffalobang**
+*Album:* wrong place
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="202" height="4" fill="#1db954" rx="2"/>
-    <circle cx="202" cy="2" r="6" fill="#1db954"/>
+    <rect width="166" height="4" fill="#1db954" rx="2"/>
+    <circle cx="166" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:42 • 2:31
+    1:08 • 2:04
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[wh☆t's next](https://open.spotify.com/track/0P1MfY4ED7Rs7k0RIhgaoq)** by **Illsaberr, ic3** *(wh☆t's next)*
-🎤 **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)*
-🎤 **[Nerve Damage](https://open.spotify.com/track/6yJgxPfdirvhoLTT9W1XWO)** by **Harto Falión, Spira me** *(Nerve Damage)*
-🎤 **[don't fall asleep](https://open.spotify.com/track/4J87yQByw5bvsR2uy6mlTk)** by **ama???!!!!, cholorofilm** *(don't fall asleep)*
-🎤 **[haunt me:33](https://open.spotify.com/track/3O0YBYKNSfVH2r53u4rnvI)** by **ilymeow, Chicken Lover, 6778** *(haunt me:33)*
+🎤 **[shtwt slut - I'm so Fucked up Please Help Me - Super Slowed](https://open.spotify.com/track/0utt7dl8m4qOPoDxDRRSFd)** by **kysmelo, 1th44n, kemoxoo** *(shtwt slut (I'm so fucked up please help me))*
+🎤 **[dans les bois](https://open.spotify.com/track/7vbJXiltBPmv6kXvxcabGZ)** by **ama???!!!!** *(dans les bois)*
+🎤 **[under those jeans](https://open.spotify.com/track/2I01Iy3PTew42JaLNl6NBK)** by **RudeClub** *(rudeclub)*
+🎤 **[caché mes sca##](https://open.spotify.com/track/6h6uFbEY6lHTcwZgrod8eA)** by **heav3nlink** *(caché mes sca##)*
+🎤 **[i dnt wna c u gone](https://open.spotify.com/track/0lZMVzxibmbN7nE0yf8g4L)** by **Mezha** *(i dnt wna c u gone)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 21:55:53Z UTC
+🕐 Last updated: 2026-02-03 22:23:51Z UTC
 <!-- SPOTIFY-END -->
