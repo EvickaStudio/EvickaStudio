@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273630e3b3f24a3a7ab3e2a8991" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a3127c4fe017632d7aa1e84b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [wrong place](https://open.spotify.com/track/2sV9cvcweAUlSjIjW80Lhg)**
-*by* **bliiiss, Buffalobang**
-*Album:* wrong place
+**🎵 [issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)**
+*by* **5v**
+*Album:* issues
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+    <rect width="272" height="4" fill="#1db954" rx="2"/>
+    <circle cx="272" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 2:04
+    1:56 • 2:08
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[shtwt slut - I'm so Fucked up Please Help Me - Super Slowed](https://open.spotify.com/track/0utt7dl8m4qOPoDxDRRSFd)** by **kysmelo, 1th44n, kemoxoo** *(shtwt slut (I'm so fucked up please help me))*
-🎤 **[dans les bois](https://open.spotify.com/track/7vbJXiltBPmv6kXvxcabGZ)** by **ama???!!!!** *(dans les bois)*
-🎤 **[under those jeans](https://open.spotify.com/track/2I01Iy3PTew42JaLNl6NBK)** by **RudeClub** *(rudeclub)*
-🎤 **[caché mes sca##](https://open.spotify.com/track/6h6uFbEY6lHTcwZgrod8eA)** by **heav3nlink** *(caché mes sca##)*
-🎤 **[i dnt wna c u gone](https://open.spotify.com/track/0lZMVzxibmbN7nE0yf8g4L)** by **Mezha** *(i dnt wna c u gone)*
+🎤 **[Useful.Mp3](https://open.spotify.com/track/27uowdUPkHCfocRf3UTIPi)** by **flywoah** *(Useful.Mp3)*
+🎤 **[keep me safe](https://open.spotify.com/track/5psazsP0EN8pVNz8lSLcCB)** by **bliiiss** *(keep me safe)*
+🎤 **[teamkill](https://open.spotify.com/track/2X1zKLZGXJ7x7cqWFNgn4m)** by **kysmelo, matascoo** *(teamkill)*
+🎤 **[sanctuaire](https://open.spotify.com/track/2SVHYIYv33CEUUpryLuSMu)** by **ama???!!!!** *(sanctuaire)*
+🎤 **[take your breath](https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ)** by **RudeClub** *(rudeclub)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-03 22:23:51Z UTC
+🕐 Last updated: 2026-02-03 22:55:16Z UTC
 <!-- SPOTIFY-END -->
