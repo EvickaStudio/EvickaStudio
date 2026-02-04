@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273180702c347e782c190b55e4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273447f28af74ac1d0dfd18ea7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [holy water](https://open.spotify.com/track/6Y3U39GJqoovFlLrytDGCB)**
-*by* **KidSnorlax**
-*Album:* holy water
+**🎵 [if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)**
+*by* **Senses, mint**
+*Album:* if u wanna go with me
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="6" height="4" fill="#1db954" rx="2"/>
-    <circle cx="6" cy="2" r="6" fill="#1db954"/>
+    <rect width="263" height="4" fill="#1db954" rx="2"/>
+    <circle cx="263" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 2:01
+    1:26 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)** by **dollreal** *(reckless)*
-🎤 **[LOVE UR SCENT](https://open.spotify.com/track/4YaliQUZrf98NrCIKd8hVR)** by **Bandiicam, hateoryx, disoc8** *(LOVE UR SCENT)*
-🎤 **[Cooltown](https://open.spotify.com/track/07YDoSgUb1VX1mnL2wL8Ok)** by **Neon Spectre** *(Cooltown)*
-🎤 **[sanctuaire](https://open.spotify.com/track/2SVHYIYv33CEUUpryLuSMu)** by **ama???!!!!** *(sanctuaire)*
-🎤 **[favorite person](https://open.spotify.com/track/7Kdt9WvRi6vUStD0vL8Ai3)** by **hateoryx, Pawl4k** *(favorite person)*
+🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
+🎤 **[Back](https://open.spotify.com/track/1pBVR5tm6IF7TS5UDnL3Fh)** by **flywoah** *(Back)*
+🎤 **[lost (verispeed)](https://open.spotify.com/track/76SJFq0jPNqD3tGwdMQ5ZZ)** by **RudeClub, Luvange1, dxsh** *(lost (verispeed))*
+🎤 **[pills](https://open.spotify.com/track/3BxlRAjqpIZLUAY9vTk4dG)** by **ama???!!!!, Chisa** *(© 2007)*
+🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48, Luvange1** *(change us)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 10:05:59Z UTC
+🕐 Last updated: 2026-02-04 10:59:08Z UTC
 <!-- SPOTIFY-END -->
