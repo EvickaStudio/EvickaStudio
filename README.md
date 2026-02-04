@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273eca246f6b51d714060f8e70f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)**
-*by* **ama???!!!!, kemoxoo**
-*Album:* © 2007
+**🎵 [pourquoi?!](https://open.spotify.com/track/0kGYqcWW4FD2vlObH8tykE)**
+*by* **ama???!!!!, Kingsley**
+*Album:* pourquoi?!
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="190" height="4" fill="#1db954" rx="2"/>
+    <circle cx="190" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:35 • 2:35
+    1:01 • 1:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by **uusymon** *(Stardust)*
-🎤 **[singularity](https://open.spotify.com/track/78mW9Pan78OWNWIdLmT5AP)** by **k0d4m4** *(singularity)*
-🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
-🎤 **[Still Don't Know My Name (From "Euphoria: Season 1" Soundtrack)](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
-🎤 **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[GO](https://open.spotify.com/track/27PGmZXtp0PfNvkdcU4U3R)** by **Krim2Gwer** *(GÉNÉRATION_IA)*
+🎤 **[Lifetime Of You](https://open.spotify.com/track/18F2ZCccF3VIybUpuoqwkx)** by **Thrilliam Angels, CLAIR, Crimson Chaos, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
+🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
+🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
+🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 08:31:18Z UTC
+🕐 Last updated: 2026-02-04 09:25:44Z UTC
 <!-- SPOTIFY-END -->
