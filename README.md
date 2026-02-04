@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d451f811927c0e4da1a6befe" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273638ee0944dab8f6f2b0939de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)**
-*by* **mehlhaltig, luu**
-*Album:* engel>_<
+**🎵 [Dead by Dawn](https://open.spotify.com/track/4D3S43OaYupaZSBj2GJZGe)**
+*by* **Sematary, Ghost Mountain**
+*Album:* Grave House
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="262" height="4" fill="#1db954" rx="2"/>
+    <circle cx="262" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:21 • 2:05
+    4:50 • 5:31
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)*
-🎤 **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)*
-🎤 **[therapieplatz](https://open.spotify.com/track/5at8mnBBkLNMxqYd2SkhEn)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
-🎤 **[haftpflichtversicherung](https://open.spotify.com/track/1LIDD6C0FJGQPuNnm6mBl4)** by **luu, mehlhaltig** *(verluustanzeige (wo bin ich?))*
-🎤 **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)*
+🎤 **[Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE)** by **Flawed Mangoes** *(Killswitch Lullaby)*
+🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
+🎤 **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)*
+🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
+🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 14:08:26Z UTC
+🕐 Last updated: 2026-02-04 14:57:54Z UTC
 <!-- SPOTIFY-END -->
