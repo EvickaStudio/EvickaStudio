@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733b6d585b35256ca77fc82e3a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)**
-*by* **Pitfall, kurtains**
-*Album:* Standby
+**🎵 [sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)**
+*by* **ama???!!!!, kemoxoo**
+*Album:* © 2007
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="43" height="4" fill="#1db954" rx="2"/>
-    <circle cx="43" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:17 • 1:57
+    2:35 • 2:35
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
-🎤 **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)*
-🎤 **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)*
-🎤 **[Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)** by **Soap Boyz** *(Scheide)*
-🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
+🎤 **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by **uusymon** *(Stardust)*
+🎤 **[singularity](https://open.spotify.com/track/78mW9Pan78OWNWIdLmT5AP)** by **k0d4m4** *(singularity)*
+🎤 **[Day 'N' Nite](https://open.spotify.com/track/2BeInbvK9KLJVKGyNKmyne)** by **Dj Streaks, benuebermensch** *(Houz Singles 2018-2019)*
+🎤 **[Still Don't Know My Name (From "Euphoria: Season 1" Soundtrack)](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))*
+🎤 **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 07:54:01Z UTC
+🕐 Last updated: 2026-02-04 08:31:18Z UTC
 <!-- SPOTIFY-END -->
