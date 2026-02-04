@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273638ee0944dab8f6f2b0939de" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735a360acc37fe7e9fc0c2ea33" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Dead by Dawn](https://open.spotify.com/track/4D3S43OaYupaZSBj2GJZGe)**
-*by* **Sematary, Ghost Mountain**
-*Album:* Grave House
+**🎵 [quand j’prends ma ….](https://open.spotify.com/track/279s5BoJWjRpW6rvDNcajH)**
+*by* **heav3nlink, emowou**
+*Album:* Bloodbath in 4K
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="262" height="4" fill="#1db954" rx="2"/>
-    <circle cx="262" cy="2" r="6" fill="#1db954"/>
+    <rect width="122" height="4" fill="#1db954" rx="2"/>
+    <circle cx="122" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:50 • 5:31
+    0:39 • 1:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE)** by **Flawed Mangoes** *(Killswitch Lullaby)*
-🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
 🎤 **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)*
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
-🎤 **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)*
+🎤 **[oyoyoyoy](https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5)** by **hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy** *(oyoyoyoy)*
+🎤 **[wh☆t's next](https://open.spotify.com/track/0P1MfY4ED7Rs7k0RIhgaoq)** by **Illsaberr, ic3** *(wh☆t's next)*
+🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48, Luvange1** *(change us)*
+🎤 **[plaies](https://open.spotify.com/track/4DCbqfE7vbKViCaTLLJpLw)** by **ama???!!!!, nagi** *(© 2007)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 14:57:54Z UTC
+🕐 Last updated: 2026-02-04 15:41:58Z UTC
 <!-- SPOTIFY-END -->
