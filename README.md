@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273eca246f6b51d714060f8e70f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273180702c347e782c190b55e4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [pourquoi?!](https://open.spotify.com/track/0kGYqcWW4FD2vlObH8tykE)**
-*by* **ama???!!!!, Kingsley**
-*Album:* pourquoi?!
+**🎵 [holy water](https://open.spotify.com/track/6Y3U39GJqoovFlLrytDGCB)**
+*by* **KidSnorlax**
+*Album:* holy water
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="190" height="4" fill="#1db954" rx="2"/>
-    <circle cx="190" cy="2" r="6" fill="#1db954"/>
+    <rect width="6" height="4" fill="#1db954" rx="2"/>
+    <circle cx="6" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:01 • 1:37
+    0:02 • 2:01
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[GO](https://open.spotify.com/track/27PGmZXtp0PfNvkdcU4U3R)** by **Krim2Gwer** *(GÉNÉRATION_IA)*
-🎤 **[Lifetime Of You](https://open.spotify.com/track/18F2ZCccF3VIybUpuoqwkx)** by **Thrilliam Angels, CLAIR, Crimson Chaos, d.j. polyplus u.c.** *(This Sunrise Is Brutal)*
-🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
-🎤 **[suicidal love](https://open.spotify.com/track/7x6J9kurieqnLCYjLpkRbS)** by **disoc8** *(suicidal love)*
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
+🎤 **[reckless](https://open.spotify.com/track/2OgsZYPyvGggD3udu8TtZG)** by **dollreal** *(reckless)*
+🎤 **[LOVE UR SCENT](https://open.spotify.com/track/4YaliQUZrf98NrCIKd8hVR)** by **Bandiicam, hateoryx, disoc8** *(LOVE UR SCENT)*
+🎤 **[Cooltown](https://open.spotify.com/track/07YDoSgUb1VX1mnL2wL8Ok)** by **Neon Spectre** *(Cooltown)*
+🎤 **[sanctuaire](https://open.spotify.com/track/2SVHYIYv33CEUUpryLuSMu)** by **ama???!!!!** *(sanctuaire)*
+🎤 **[favorite person](https://open.spotify.com/track/7Kdt9WvRi6vUStD0vL8Ai3)** by **hateoryx, Pawl4k** *(favorite person)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 09:25:44Z UTC
+🕐 Last updated: 2026-02-04 10:05:59Z UTC
 <!-- SPOTIFY-END -->
