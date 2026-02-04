@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734b1a08f25ca3631d57cf58b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)**
-*by* **flywoah**
-*Album:* Enuff
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="103" height="4" fill="#1db954" rx="2"/>
-    <circle cx="103" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:38 • 1:52
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[so #iconic](https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB)** by **disoc8** *(so #iconic)*
-🎤 **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)*
-🎤 **[HIGH DRUNK SH!T](https://open.spotify.com/track/5GbozKc2z9fGgc4ohdvbA6)** by **Scarly, Xaxanity** *(HIGH DRUNK SH!T)*
-🎤 **[we dont work hard (we're just naturally gifted)](https://open.spotify.com/track/2KjlmPEMz2NEm6DULuoa3O)** by **Tommy Fleece, aldrch** *(audio stars)*
-🎤 **[sur un fond d'piano](https://open.spotify.com/track/4FDNRCL2jSoXY3zoE5iejQ)** by **ama???!!!!, BlueeGarden** *(bassparty)*
+🎤 **[hold it down](https://open.spotify.com/track/2HKQqktysAz7yG0ChBzOfq)** by **Fijimar** *(hold it down)*
+🎤 **[Trophies](https://open.spotify.com/track/3psJYrxbJigWwo4b9fjc6s)** by **RudeClub, Lil Yu, Number48** *(Trophies)*
+🎤 **[mes voix](https://open.spotify.com/track/3jKKkFzukcjFwFqprVyc0B)** by **ama???!!!!** *(© 2007)*
+🎤 **[trauma gore twin](https://open.spotify.com/track/5vYmeeemkQ6mUGuAGvgTCI)** by **heav3nlink, sc4rzz** *(trauma gore twin)*
+🎤 **[rip gl0wrm](https://open.spotify.com/track/75wVMm1KRwGuGKHTb11hkW)** by **gl0wrm** *(junkie)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 11:59:56Z UTC
+🕐 Last updated: 2026-02-04 13:11:52Z UTC
 <!-- SPOTIFY-END -->
