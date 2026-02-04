@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
 🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
 🎤 **[Throw It Back Away](https://open.spotify.com/track/3hlbMZoeYUllnXVnE9OnLh)** by **Snow Strippers** *(Night Killaz Vol. 2)*
 🎤 **[2007!](https://open.spotify.com/track/6t19RxFBbDrVUEO8JSPemJ)** by **ama???!!!!** *(© 2007)*
 🎤 **[ghost](https://open.spotify.com/track/6vJUgfkfaEL5YyefZNcicg)** by **RudeClub** *(ghost)*
-🎤 **[issues](https://open.spotify.com/track/7et9bVtrXPEhcuBiDTZu2E)** by **5v** *(issues)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 05:01:04Z UTC
+🕐 Last updated: 2026-02-04 06:02:20Z UTC
 <!-- SPOTIFY-END -->
