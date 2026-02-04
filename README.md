@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2733b6d585b35256ca77fc82e3a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)**
+*by* **Pitfall, kurtains**
+*Album:* Standby
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="43" height="4" fill="#1db954" rx="2"/>
+    <circle cx="43" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:17 • 1:57
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)*
-🎤 **[melancholy](https://open.spotify.com/track/5jP3och2akqRjLSBQ4fPxn)** by **bliiiss** *(melancholy)*
-🎤 **[Throw It Back Away](https://open.spotify.com/track/3hlbMZoeYUllnXVnE9OnLh)** by **Snow Strippers** *(Night Killaz Vol. 2)*
-🎤 **[2007!](https://open.spotify.com/track/6t19RxFBbDrVUEO8JSPemJ)** by **ama???!!!!** *(© 2007)*
-🎤 **[ghost](https://open.spotify.com/track/6vJUgfkfaEL5YyefZNcicg)** by **RudeClub** *(ghost)*
+🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
+🎤 **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)*
+🎤 **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)*
+🎤 **[Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)** by **Soap Boyz** *(Scheide)*
+🎤 **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 07:09:00Z UTC
+🕐 Last updated: 2026-02-04 07:54:01Z UTC
 <!-- SPOTIFY-END -->
