@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273433c397dffb821e6cf900994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734b1a08f25ca3631d57cf58b0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)**
+**🎵 [Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)**
 *by* **flywoah**
-*Album:* Digital Watch
+*Album:* Enuff
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="257" height="4" fill="#1db954" rx="2"/>
-    <circle cx="257" cy="2" r="6" fill="#1db954"/>
+    <rect width="103" height="4" fill="#1db954" rx="2"/>
+    <circle cx="103" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:08 • 1:19
+    0:38 • 1:52
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[PERFECT](https://open.spotify.com/track/1hUTR8gXowqUzX7iuacOY5)** by **disoc8, Gutzxx** *(PERFECT)*
-🎤 **[idc if u kno](https://open.spotify.com/track/1qiuwLJCGYFHX9Sa1EU5EZ)** by **gl0wrm, Levi Ryan** *(junkie)*
-🎤 **[11:55](https://open.spotify.com/track/7EK5xflC761cTjchhILiNk)** by **Fijimar** *(11:55)*
-🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)*
-🎤 **[DJ](https://open.spotify.com/track/6Fwwrfh4Khv4KvA7Ak1Wow)** by **ama???!!!!** *(DJ)*
+🎤 **[so #iconic](https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB)** by **disoc8** *(so #iconic)*
+🎤 **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)*
+🎤 **[HIGH DRUNK SH!T](https://open.spotify.com/track/5GbozKc2z9fGgc4ohdvbA6)** by **Scarly, Xaxanity** *(HIGH DRUNK SH!T)*
+🎤 **[we dont work hard (we're just naturally gifted)](https://open.spotify.com/track/2KjlmPEMz2NEm6DULuoa3O)** by **Tommy Fleece, aldrch** *(audio stars)*
+🎤 **[sur un fond d'piano](https://open.spotify.com/track/4FDNRCL2jSoXY3zoE5iejQ)** by **ama???!!!!, BlueeGarden** *(bassparty)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 11:35:08Z UTC
+🕐 Last updated: 2026-02-04 11:59:56Z UTC
 <!-- SPOTIFY-END -->
