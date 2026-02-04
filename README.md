@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273447f28af74ac1d0dfd18ea7f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273433c397dffb821e6cf900994" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)**
-*by* **Senses, mint**
-*Album:* if u wanna go with me
+**🎵 [Digital Watch](https://open.spotify.com/track/5L7YcDbPIw8slVHFDRrDKY)**
+*by* **flywoah**
+*Album:* Digital Watch
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="263" height="4" fill="#1db954" rx="2"/>
-    <circle cx="263" cy="2" r="6" fill="#1db954"/>
+    <rect width="257" height="4" fill="#1db954" rx="2"/>
+    <circle cx="257" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:26 • 1:38
+    1:08 • 1:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
-🎤 **[Back](https://open.spotify.com/track/1pBVR5tm6IF7TS5UDnL3Fh)** by **flywoah** *(Back)*
-🎤 **[lost (verispeed)](https://open.spotify.com/track/76SJFq0jPNqD3tGwdMQ5ZZ)** by **RudeClub, Luvange1, dxsh** *(lost (verispeed))*
-🎤 **[pills](https://open.spotify.com/track/3BxlRAjqpIZLUAY9vTk4dG)** by **ama???!!!!, Chisa** *(© 2007)*
-🎤 **[change us](https://open.spotify.com/track/7K28Op0vkXkNhdfwyULoNj)** by **RudeClub, Number48, Luvange1** *(change us)*
+🎤 **[PERFECT](https://open.spotify.com/track/1hUTR8gXowqUzX7iuacOY5)** by **disoc8, Gutzxx** *(PERFECT)*
+🎤 **[idc if u kno](https://open.spotify.com/track/1qiuwLJCGYFHX9Sa1EU5EZ)** by **gl0wrm, Levi Ryan** *(junkie)*
+🎤 **[11:55](https://open.spotify.com/track/7EK5xflC761cTjchhILiNk)** by **Fijimar** *(11:55)*
+🎤 **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)*
+🎤 **[DJ](https://open.spotify.com/track/6Fwwrfh4Khv4KvA7Ak1Wow)** by **ama???!!!!** *(DJ)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-04 10:59:08Z UTC
+🕐 Last updated: 2026-02-04 11:35:08Z UTC
 <!-- SPOTIFY-END -->
