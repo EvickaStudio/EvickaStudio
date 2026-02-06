@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2739290ffc0dafb065b3dba3acc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Verrückte Welt](https://open.spotify.com/track/6rhwsaaHJxks2nh6mPxbbs)**
-*by* **Mars, hqwilli**
-*Album:* Respawn:/crazyworld
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="238" height="4" fill="#1db954" rx="2"/>
-    <circle cx="238" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:24 • 1:46
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG)** by **Kasi, antonius** *(kommst du runter bin hier)*
-🎤 **[severance](https://open.spotify.com/track/1WrNFjBIvrJi8F7tAgSmQa)** by **MAQ 22** *(severance)*
-🎤 **[warum nicht mit dir](https://open.spotify.com/track/6XPlhYxsFvPzMuI2FWJwRn)** by **Ellie Mic** *(warum nicht mit dir)*
-🎤 **[Blede](https://open.spotify.com/track/5RuF1z8YLsBZoXXQnQiYjp)** by **Nomark** *(Blede)*
-🎤 **[5 Monster Energy](https://open.spotify.com/track/6Ifuoi1rBkQf72d0XtztjN)** by **52Blue, Hello Hannes** *(5 Monster Energy)*
+🎤 **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
+🎤 **[leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)** by **Edwin Rosen** *(leichter//kälter / SSS)*
+🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
+🎤 **[everything (you my)](https://open.spotify.com/track/7jEaewEG35hL6SMzDUEiUk)** by **yaego, jsn** *(everything (you my))*
+🎤 **[where no one can find me](https://open.spotify.com/track/0PGXFoeeah4cG3IudMP6cM)** by **kennedyxoxo, Fijimar** *(where no one can find me)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 13:09:10Z UTC
+🕐 Last updated: 2026-02-06 14:07:03Z UTC
 <!-- SPOTIFY-END -->
