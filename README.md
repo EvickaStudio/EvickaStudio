@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Panic - 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK)**
-*by* **The Smiths**
-*Album:* Louder Than Bombs
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="126" height="4" fill="#1db954" rx="2"/>
-    <circle cx="126" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:59 • 2:20
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Girlfriend in a Coma - 2011 Remaster](https://open.spotify.com/track/01q4ccXbvPlCwZ1fPiFaeM)** by **The Smiths** *(Strangeways, Here We Come)*
+🎤 **[The Boy with the Thorn in His Side - 2011 Remaster](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Girl Afraid - 2011 Remaster](https://open.spotify.com/track/3UPpzmVM8UHimVKfpAg4xP)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Panic - 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK)** by **The Smiths** *(Louder Than Bombs)*
 🎤 **[What Difference Does It Make? - 2011 Remaster](https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI)** by **The Smiths** *(The Smiths)*
-🎤 **[Some Girls Are Bigger Than Others - 2011 Remaster](https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[I Want the One I Can't Have - 2011 Remaster](https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8)** by **The Smiths** *(Meat Is Murder)*
-🎤 **[Ask - 2011 Remaster](https://open.spotify.com/track/2AdRSHeYmDGMrgIfiS2w7K)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Still Ill - 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J)** by **The Smiths** *(The Smiths)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 20:49:07Z UTC
+🕐 Last updated: 2026-02-06 21:22:59Z UTC
 <!-- SPOTIFY-END -->
