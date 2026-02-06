@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bigmouth Strikes Again - 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p)**
+**🎵 [Panic - 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK)**
 *by* **The Smiths**
-*Album:* The Queen Is Dead
+*Album:* Louder Than Bombs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="192" height="4" fill="#1db954" rx="2"/>
-    <circle cx="192" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:03 • 3:13
+    0:59 • 2:20
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[How Soon Is Now? - 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[I Know It's Over - 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[This Charming Man - 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ)** by **The Smiths** *(The Smiths)*
-🎤 **[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[What Difference Does It Make? - 2011 Remaster](https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI)** by **The Smiths** *(The Smiths)*
+🎤 **[Some Girls Are Bigger Than Others - 2011 Remaster](https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[I Want the One I Can't Have - 2011 Remaster](https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8)** by **The Smiths** *(Meat Is Murder)*
+🎤 **[Ask - 2011 Remaster](https://open.spotify.com/track/2AdRSHeYmDGMrgIfiS2w7K)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[Still Ill - 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J)** by **The Smiths** *(The Smiths)*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 20:00:40Z UTC
+🕐 Last updated: 2026-02-06 20:49:07Z UTC
 <!-- SPOTIFY-END -->
