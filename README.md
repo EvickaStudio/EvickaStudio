@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)**
+**🎵 [Bigmouth Strikes Again - 2011 Remaster](https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p)**
 *by* **The Smiths**
-*Album:* Louder Than Bombs
+*Album:* The Queen Is Dead
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="86" height="4" fill="#1db954" rx="2"/>
-    <circle cx="86" cy="2" r="6" fill="#1db954"/>
+    <rect width="192" height="4" fill="#1db954" rx="2"/>
+    <circle cx="192" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:53 • 3:06
+    2:03 • 3:13
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
-🎤 **[New Dawn Fades - 2007 Remaster](https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
-🎤 **[The Hand That Rocks the Cradle - 2011 Remaster](https://open.spotify.com/track/4Xgswinq80oMl4a0xhBMWT)** by **The Smiths** *(The Smiths)*
-🎤 **[I Started Something I Couldn't Finish - 2011 Remaster](https://open.spotify.com/track/3PVVqlxFpXmU46iqAVG4Jg)** by **The Smiths** *(Strangeways, Here We Come)*
+🎤 **[How Soon Is Now? - 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[I Know It's Over - 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[This Charming Man - 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ)** by **The Smiths** *(The Smiths)*
+🎤 **[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE)** by **The Smiths** *(Hatful of Hollow)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 19:32:35Z UTC
+🕐 Last updated: 2026-02-06 20:00:40Z UTC
 <!-- SPOTIFY-END -->
