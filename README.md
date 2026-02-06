@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ded1f141dcaae4e00d922f0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739290ffc0dafb065b3dba3acc" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [zigarette](https://open.spotify.com/track/6aPaVKw27DDtVsbUvMOEUZ)**
-*by* **mehlhaltig, anzai**
-*Album:* zigarette
+**🎵 [Verrückte Welt](https://open.spotify.com/track/6rhwsaaHJxks2nh6mPxbbs)**
+*by* **Mars, hqwilli**
+*Album:* Respawn:/crazyworld
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="210" height="4" fill="#1db954" rx="2"/>
-    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+    <rect width="238" height="4" fill="#1db954" rx="2"/>
+    <circle cx="238" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:49
+    1:24 • 1:46
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[everything (you my)](https://open.spotify.com/track/7jEaewEG35hL6SMzDUEiUk)** by **yaego, jsn** *(everything (you my))*
-🎤 **[I <3 HARAJUKU](https://open.spotify.com/track/3ctErPOnXqcPCrcrfNSqAo)** by **vai5000, 重音テト** *(I <3 HARAJUKU)*
-🎤 **[AI Slop](https://open.spotify.com/track/2DDERMYQy2PK9DaUHzw5SE)** by **Remzcore, S3RL** *(AI Slop)*
-🎤 **[Keine Fotos!](https://open.spotify.com/track/5MdwmMiQfD7rpo09hONd2I)** by **Ritter Lean** *(Keine Fotos!)*
-🎤 **[where no one can find me](https://open.spotify.com/track/0PGXFoeeah4cG3IudMP6cM)** by **kennedyxoxo, Fijimar** *(where no one can find me)*
+🎤 **[kommst du runter bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG)** by **Kasi, antonius** *(kommst du runter bin hier)*
+🎤 **[severance](https://open.spotify.com/track/1WrNFjBIvrJi8F7tAgSmQa)** by **MAQ 22** *(severance)*
+🎤 **[warum nicht mit dir](https://open.spotify.com/track/6XPlhYxsFvPzMuI2FWJwRn)** by **Ellie Mic** *(warum nicht mit dir)*
+🎤 **[Blede](https://open.spotify.com/track/5RuF1z8YLsBZoXXQnQiYjp)** by **Nomark** *(Blede)*
+🎤 **[5 Monster Energy](https://open.spotify.com/track/6Ifuoi1rBkQf72d0XtztjN)** by **52Blue, Hello Hannes** *(5 Monster Energy)*
 
 
 
@@ -140,8 +140,8 @@
 🥈 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
-🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
+🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 11:59:36Z UTC
+🕐 Last updated: 2026-02-06 13:09:10Z UTC
 <!-- SPOTIFY-END -->
