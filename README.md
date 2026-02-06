@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731975ea8dd6bc8157dcaef1af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Rubber Ring - 2017 Master](https://open.spotify.com/track/7xuyW6Ly5oaVRmTVeZDKJU)**
+**🎵 [Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)**
 *by* **The Smiths**
-*Album:* The Queen Is Dead (Deluxe Edition)
+*Album:* Louder Than Bombs
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="174" height="4" fill="#1db954" rx="2"/>
-    <circle cx="174" cy="2" r="6" fill="#1db954"/>
+    <rect width="86" height="4" fill="#1db954" rx="2"/>
+    <circle cx="86" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:16 • 3:54
+    0:53 • 3:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[The Headmaster Ritual - 2011 Remaster](https://open.spotify.com/track/4tFGNFIIZ9ANSewxGZyiDD)** by **The Smiths** *(Meat Is Murder)*
-🎤 **[Shoplifters of the World Unite - 2011 Remaster](https://open.spotify.com/track/6a6zCBKwuZPO9S0rVJLVDI)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Stop Me If You Think You've Heard This One Before - 2011 Remaster](https://open.spotify.com/track/2JN57QFclho4vExKPq6OYg)** by **The Smiths** *(Strangeways, Here We Come)*
-🎤 **[Wonderful Woman - 2008 Remaster](https://open.spotify.com/track/1bNuTve1e53C7OWoX7Kkj3)** by **The Smiths** *(The Sound of the Smiths (Deluxe; 2008 Remaster))*
-🎤 **[That Joke Isn't Funny Anymore](https://open.spotify.com/track/48veRDsAEBOJJnVnnabV99)** by **The Smiths** *(Meat Is Murder)*
+🎤 **[There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[New Dawn Fades - 2007 Remaster](https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[The Hand That Rocks the Cradle - 2011 Remaster](https://open.spotify.com/track/4Xgswinq80oMl4a0xhBMWT)** by **The Smiths** *(The Smiths)*
+🎤 **[I Started Something I Couldn't Finish - 2011 Remaster](https://open.spotify.com/track/3PVVqlxFpXmU46iqAVG4Jg)** by **The Smiths** *(Strangeways, Here We Come)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 18:51:04Z UTC
+🕐 Last updated: 2026-02-06 19:32:35Z UTC
 <!-- SPOTIFY-END -->
