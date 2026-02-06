@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [I Know It's Over - 2011 Remaster](https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3)**
+*by* **The Smiths**
+*Album:* The Queen Is Dead
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="279" height="4" fill="#1db954" rx="2"/>
+    <circle cx="279" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    5:25 • 5:49
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)*
-🎤 **[leichter//kälter](https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE)** by **Edwin Rosen** *(leichter//kälter / SSS)*
-🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
-🎤 **[everything (you my)](https://open.spotify.com/track/7jEaewEG35hL6SMzDUEiUk)** by **yaego, jsn** *(everything (you my))*
-🎤 **[where no one can find me](https://open.spotify.com/track/0PGXFoeeah4cG3IudMP6cM)** by **kennedyxoxo, Fijimar** *(where no one can find me)*
+🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[This Charming Man - 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ)** by **The Smiths** *(The Smiths)*
+🎤 **[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Heaven Knows I'm Miserable Now - 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 16:23:58Z UTC
+🕐 Last updated: 2026-02-06 17:08:40Z UTC
 <!-- SPOTIFY-END -->
