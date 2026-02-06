@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ded1f141dcaae4e00d922f0c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [zigarette](https://open.spotify.com/track/6aPaVKw27DDtVsbUvMOEUZ)**
+*by* **mehlhaltig, anzai**
+*Album:* zigarette
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="210" height="4" fill="#1db954" rx="2"/>
+    <circle cx="210" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:59 • 2:49
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)*
-🎤 **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)*
-🎤 **[ending harmony](https://open.spotify.com/track/4T1ErGQTHBmz2kyv5XZhEh)** by **archive computer** *(ending harmony)*
-🎤 **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)*
-🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
+🎤 **[everything (you my)](https://open.spotify.com/track/7jEaewEG35hL6SMzDUEiUk)** by **yaego, jsn** *(everything (you my))*
+🎤 **[I <3 HARAJUKU](https://open.spotify.com/track/3ctErPOnXqcPCrcrfNSqAo)** by **vai5000, 重音テト** *(I <3 HARAJUKU)*
+🎤 **[AI Slop](https://open.spotify.com/track/2DDERMYQy2PK9DaUHzw5SE)** by **Remzcore, S3RL** *(AI Slop)*
+🎤 **[Keine Fotos!](https://open.spotify.com/track/5MdwmMiQfD7rpo09hONd2I)** by **Ritter Lean** *(Keine Fotos!)*
+🎤 **[where no one can find me](https://open.spotify.com/track/0PGXFoeeah4cG3IudMP6cM)** by **kennedyxoxo, Fijimar** *(where no one can find me)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**KLOPF KLOPF**](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)
 
 
-🕐 Last updated: 2026-02-06 11:36:18Z UTC
+🕐 Last updated: 2026-02-06 11:59:36Z UTC
 <!-- SPOTIFY-END -->
