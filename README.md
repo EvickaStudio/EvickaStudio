@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273ac345598e7697a319cb5b460" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2731975ea8dd6bc8157dcaef1af" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Want the One I Can't Have - 2011 Remaster](https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8)**
+**🎵 [Rubber Ring - 2017 Master](https://open.spotify.com/track/7xuyW6Ly5oaVRmTVeZDKJU)**
 *by* **The Smiths**
-*Album:* Meat Is Murder
+*Album:* The Queen Is Dead (Deluxe Edition)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="253" height="4" fill="#1db954" rx="2"/>
-    <circle cx="253" cy="2" r="6" fill="#1db954"/>
+    <rect width="174" height="4" fill="#1db954" rx="2"/>
+    <circle cx="174" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:43 • 3:13
+    2:16 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Ask - 2011 Remaster](https://open.spotify.com/track/2AdRSHeYmDGMrgIfiS2w7K)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Still Ill - 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J)** by **The Smiths** *(The Smiths)*
-🎤 **[There Is a Light That Never Goes Out - Take 1](https://open.spotify.com/track/0XcSmqWQ14leUZ7Jo0z8I2)** by **The Smiths** *(The Queen Is Dead (Deluxe Edition))*
-🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[Cemetry Gates - 2011 Remaster](https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[The Headmaster Ritual - 2011 Remaster](https://open.spotify.com/track/4tFGNFIIZ9ANSewxGZyiDD)** by **The Smiths** *(Meat Is Murder)*
+🎤 **[Shoplifters of the World Unite - 2011 Remaster](https://open.spotify.com/track/6a6zCBKwuZPO9S0rVJLVDI)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[Stop Me If You Think You've Heard This One Before - 2011 Remaster](https://open.spotify.com/track/2JN57QFclho4vExKPq6OYg)** by **The Smiths** *(Strangeways, Here We Come)*
+🎤 **[Wonderful Woman - 2008 Remaster](https://open.spotify.com/track/1bNuTve1e53C7OWoX7Kkj3)** by **The Smiths** *(The Sound of the Smiths (Deluxe; 2008 Remaster))*
+🎤 **[That Joke Isn't Funny Anymore](https://open.spotify.com/track/48veRDsAEBOJJnVnnabV99)** by **The Smiths** *(Meat Is Murder)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-06 17:57:53Z UTC
+🕐 Last updated: 2026-02-06 18:51:04Z UTC
 <!-- SPOTIFY-END -->
