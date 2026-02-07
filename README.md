@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)*
+🎤 **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)*
+🎤 **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)*
+🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
 🎤 **[Girlfriend in a Coma - 2011 Remaster](https://open.spotify.com/track/01q4ccXbvPlCwZ1fPiFaeM)** by **The Smiths** *(Strangeways, Here We Come)*
-🎤 **[The Boy with the Thorn in His Side - 2011 Remaster](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[Girl Afraid - 2011 Remaster](https://open.spotify.com/track/3UPpzmVM8UHimVKfpAg4xP)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Panic - 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[What Difference Does It Make? - 2011 Remaster](https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI)** by **The Smiths** *(The Smiths)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-07 07:19:45Z UTC
+🕐 Last updated: 2026-02-07 07:49:25Z UTC
 <!-- SPOTIFY-END -->
