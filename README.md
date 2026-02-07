@@ -110,19 +110,19 @@
 🥇 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 🏅 [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
+🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 
 
 
 ### 🎶 Top Tracks *(Short Term)*
 
-🥇 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
-🥈 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
+🥇 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
+🥈 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-07 08:21:18Z UTC
+🕐 Last updated: 2026-02-07 08:53:49Z UTC
 <!-- SPOTIFY-END -->
