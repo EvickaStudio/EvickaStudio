@@ -91,7 +91,26 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [There Is a Light That Never Goes Out - 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI)**
+*by* **The Smiths**
+*Album:* The Queen Is Dead
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="104" height="4" fill="#1db954" rx="2"/>
+    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    1:24 • 4:04
+</span>
+</p>
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-07 15:46:26Z UTC
+🕐 Last updated: 2026-02-07 16:20:18Z UTC
 <!-- SPOTIFY-END -->
