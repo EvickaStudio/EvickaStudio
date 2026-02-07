@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27316eb1e685e6bd37ab3228de6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Disorder - 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD)**
+*by* **Joy Division**
+*Album:* Unknown Pleasures (Collector's Edition)
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:25 • 3:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)*
+🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
+🎤 **[That Joke Isn't Funny Anymore](https://open.spotify.com/track/48veRDsAEBOJJnVnnabV99)** by **The Smiths** *(Meat Is Murder)*
 🎤 **[Hand in Glove - 2011 Remaster](https://open.spotify.com/track/2JZu2ny6Et9wFic99sMF7x)** by **The Smiths** *(The Smiths)*
 🎤 **[A Rush and a Push and the Land Is Ours - 2011 Remaster](https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU)** by **The Smiths** *(Strangeways, Here We Come)*
-🎤 **[Frankly, Mr. Shankly - 2011 Remaster](https://open.spotify.com/track/1qIagqll7ZcgmiLTrtSvKc)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[William, It Was Really Nothing - 2011 Remaster](https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[You've Got Everything Now - 2011 Remaster](https://open.spotify.com/track/2DYCM1sNmGliRszlzPkMiG)** by **The Smiths** *(The Smiths)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-07 21:18:22Z UTC
+🕐 Last updated: 2026-02-07 21:46:37Z UTC
 <!-- SPOTIFY-END -->
