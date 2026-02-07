@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Dagger](https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8)**
-*by* **Slowdive**
-*Album:* Souvlaki
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="254" height="4" fill="#1db954" rx="2"/>
-    <circle cx="254" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    3:05 • 3:38
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
+🎤 **[Dagger](https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8)** by **Slowdive** *(Souvlaki)*
 🎤 **[Suffer Little Children - 2011 Remaster](https://open.spotify.com/track/3nk8Vxo0BuovX4UtvuvcHR)** by **The Smiths** *(The Smiths)*
 🎤 **[Angelina](https://open.spotify.com/track/4NJqAk406Ro7MGxXsYRMaZ)** by **Pinegrove** *(Everything So Far)*
 🎤 **[Shadowplay - 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
-🎤 **[Know Who You Are At Every Age - Remastered 2024](https://open.spotify.com/track/0EIRVuLsHtZLZvlyy6c0sn)** by **Cocteau Twins** *(Four-Calendar Café (Remastered 2024))*
-🎤 **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-07 22:17:20Z UTC
+🕐 Last updated: 2026-02-07 22:51:43Z UTC
 <!-- SPOTIFY-END -->
