@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736d965be72ad1bceb7f2bd089" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Girlfriend in a Coma - 2011 Remaster](https://open.spotify.com/track/01q4ccXbvPlCwZ1fPiFaeM)**
-*by* **The Smiths**
-*Album:* Strangeways, Here We Come
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="233" height="4" fill="#1db954" rx="2"/>
-    <circle cx="233" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:35 • 2:02
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[The Boy with the Thorn in His Side - 2011 Remaster](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp)** by **The Smiths** *(The Queen Is Dead)*
-🎤 **[Girl Afraid - 2011 Remaster](https://open.spotify.com/track/3UPpzmVM8UHimVKfpAg4xP)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Panic - 2011 Remaster](https://open.spotify.com/track/64D3dzWyj0GpQT1AHx4kbK)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[What Difference Does It Make? - 2011 Remaster](https://open.spotify.com/track/3rzYUfyzdZW96cHXnGn1xI)** by **The Smiths** *(The Smiths)*
-🎤 **[Some Girls Are Bigger Than Others - 2011 Remaster](https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[Hand in Glove - 2011 Remaster](https://open.spotify.com/track/2JZu2ny6Et9wFic99sMF7x)** by **The Smiths** *(The Smiths)*
+🎤 **[A Rush and a Push and the Land Is Ours - 2011 Remaster](https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU)** by **The Smiths** *(Strangeways, Here We Come)*
+🎤 **[Frankly, Mr. Shankly - 2011 Remaster](https://open.spotify.com/track/1qIagqll7ZcgmiLTrtSvKc)** by **The Smiths** *(The Queen Is Dead)*
+🎤 **[William, It Was Really Nothing - 2011 Remaster](https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ)** by **The Smiths** *(Hatful of Hollow)*
+🎤 **[You've Got Everything Now - 2011 Remaster](https://open.spotify.com/track/2DYCM1sNmGliRszlzPkMiG)** by **The Smiths** *(The Smiths)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-07 17:48:59Z UTC
+🕐 Last updated: 2026-02-07 18:23:43Z UTC
 <!-- SPOTIFY-END -->
