@@ -118,11 +118,11 @@
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-🥈 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
-🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
+🥈 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
+🥉 [**All Mine**](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-08 21:18:44Z UTC
+🕐 Last updated: 2026-02-08 21:48:18Z UTC
 <!-- SPOTIFY-END -->
