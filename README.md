@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2737c159f88dc1ef39354f253e9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [230](https://open.spotify.com/track/5yZyBy1ULfdwv3tJgrkSdH)**
-*by* **blombi19**
-*Album:* 141826
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="69" height="4" fill="#1db954" rx="2"/>
-    <circle cx="69" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:34 • 2:29
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Star Shopping](https://open.spotify.com/track/50kQRnsbBv2SAcZ6BuVbks)** by **Megami** *(Star Shopping)*
+🎤 **[Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)** by **Kanye West, Chris Martin** *(Graduation)*
+🎤 **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)*
+🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
 🎤 **[312](https://open.spotify.com/track/6ViSdMCKWnzjgMbwT3zd04)** by **blombi19** *(141826)*
-🎤 **[301](https://open.spotify.com/track/7nFZ6oJNSRWbeHvSzbALvi)** by **blombi19** *(141826)*
-🎤 **[413](https://open.spotify.com/track/4VruLrDyJFGHRpaAgLCfK4)** by **blombi19** *(141826)*
-🎤 **[254](https://open.spotify.com/track/00rj3X5oH0ty5kVes78ast)** by **blombi19** *(141826)*
-🎤 **[303](https://open.spotify.com/track/3dQMOTKRnuzFkOBO2AB0z7)** by **blombi19** *(141826)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-08 07:26:29Z UTC
+🕐 Last updated: 2026-02-08 07:54:02Z UTC
 <!-- SPOTIFY-END -->
