@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2737c159f88dc1ef39354f253e9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [230](https://open.spotify.com/track/5yZyBy1ULfdwv3tJgrkSdH)**
+*by* **blombi19**
+*Album:* 141826
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="69" height="4" fill="#1db954" rx="2"/>
+    <circle cx="69" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:34 • 2:29
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[All They Wanted](https://open.spotify.com/track/28Ymf40EoJ6776juQZNPoY)** by **Panchiko** *(Ferric Oxide (Demos 1997 - 2001))*
-🎤 **[Dagger](https://open.spotify.com/track/3MmRfG64qt04Efx9gK9Ec8)** by **Slowdive** *(Souvlaki)*
-🎤 **[Suffer Little Children - 2011 Remaster](https://open.spotify.com/track/3nk8Vxo0BuovX4UtvuvcHR)** by **The Smiths** *(The Smiths)*
-🎤 **[Angelina](https://open.spotify.com/track/4NJqAk406Ro7MGxXsYRMaZ)** by **Pinegrove** *(Everything So Far)*
-🎤 **[Shadowplay - 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP)** by **Joy Division** *(Unknown Pleasures (Collector's Edition))*
+🎤 **[312](https://open.spotify.com/track/6ViSdMCKWnzjgMbwT3zd04)** by **blombi19** *(141826)*
+🎤 **[301](https://open.spotify.com/track/7nFZ6oJNSRWbeHvSzbALvi)** by **blombi19** *(141826)*
+🎤 **[413](https://open.spotify.com/track/4VruLrDyJFGHRpaAgLCfK4)** by **blombi19** *(141826)*
+🎤 **[254](https://open.spotify.com/track/00rj3X5oH0ty5kVes78ast)** by **blombi19** *(141826)*
+🎤 **[303](https://open.spotify.com/track/3dQMOTKRnuzFkOBO2AB0z7)** by **blombi19** *(141826)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 
 
-🕐 Last updated: 2026-02-08 06:31:01Z UTC
+🕐 Last updated: 2026-02-08 07:26:29Z UTC
 <!-- SPOTIFY-END -->
