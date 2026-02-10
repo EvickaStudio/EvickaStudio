@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
 🎤 **[AIR FORCE](https://open.spotify.com/track/4T03XcJcZZx1BmSzP3QZ01)** by **calvinsober** *(AIR FORCE)*
 🎤 **[Who Is She ?](https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq)** by **I Monster** *(Neveroddoreven)*
 🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
 🎤 **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)*
-🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**God Of London**](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)
 
 
-🕐 Last updated: 2026-02-10 20:25:17Z UTC
+🕐 Last updated: 2026-02-10 21:06:04Z UTC
 <!-- SPOTIFY-END -->
