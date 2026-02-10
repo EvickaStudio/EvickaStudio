@@ -119,10 +119,10 @@
 
 🥇 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 🥈 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🥉 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
-🏅 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
+🥉 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 🏅 [**God Of London**](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)
+🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-10 21:58:02Z UTC
+🕐 Last updated: 2026-02-10 22:39:18Z UTC
 <!-- SPOTIFY-END -->
