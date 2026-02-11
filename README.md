@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fa5bc52a1db732e5d621f2a8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [im #obsessed w u lol](https://open.spotify.com/track/0qjgm8RYJmRX3Nu6ZIwyJt)**
-*by* **evrythnghurtz, adorken**
-*Album:* im #obsessed w u lol
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="145" height="4" fill="#1db954" rx="2"/>
-    <circle cx="145" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:12 • 2:30
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR)** by **Joost** *(Europapa)*
-🎤 **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)*
-🎤 **[All Dogs Go to Heaven](https://open.spotify.com/track/1DoBPOlB884EHiftB46QGx)** by **$uicideboy$** *(Stop Staring At the Shadows)*
-🎤 **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)*
-🎤 **[club+biz4rr3](https://open.spotify.com/track/6fX36zMIsn8kAQFEBQIQWq)** by **echia** *(club+biz4rr3)*
+🎤 **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)*
+🎤 **[ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)** by **oaf1** *(ilove urr girl)*
+🎤 **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)*
+🎤 **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))*
+🎤 **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)*
 
 
 
@@ -139,9 +120,9 @@
 🥇 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 🥈 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 🏅 [**God Of London**](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)
+🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-11 16:16:06Z UTC
+🕐 Last updated: 2026-02-11 17:30:50Z UTC
 <!-- SPOTIFY-END -->
