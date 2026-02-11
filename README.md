@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27348dcf765cdc5b1ce04192cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Twilight](https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN)**
-*by* **bôa**
-*Album:* Twilight
+**🎵 [Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)**
+*by* **Desire**
+*Album:* Desire
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="283" height="4" fill="#1db954" rx="2"/>
-    <circle cx="283" cy="2" r="6" fill="#1db954"/>
+    <rect width="268" height="4" fill="#1db954" rx="2"/>
+    <circle cx="268" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:35 • 3:48
+    4:25 • 4:56
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Sunday](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg)** by **The Cranberries** *(Everybody Else Is Doing It, So Why Can't We?)*
-🎤 **[girl online](https://open.spotify.com/track/3BMaGHQximpMug2xrp6TdI)** by **siouxxie sixxsta** *(witchpop)*
-🎤 **[Sarah](https://open.spotify.com/track/2Wk8vEamlVBBalBi24NnU1)** by **Alex G** *(Trick)*
+🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
+🎤 **[Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)** by **The Radio Dept.** *(Pet Grief)*
 🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Pretty Girls Make Graves - 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO)** by **The Smiths** *(The Smiths)*
+🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
+🎤 **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-11 18:37:26Z UTC
+🕐 Last updated: 2026-02-11 19:40:00Z UTC
 <!-- SPOTIFY-END -->
