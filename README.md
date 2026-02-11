@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273a5181cdc280adca168d7d56f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI)**
+*by* **Kanii**
+*Album:* I Know
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="18" height="4" fill="#1db954" rx="2"/>
+    <circle cx="18" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:09 • 2:32
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Wings](https://open.spotify.com/track/0umT61v364TKUPHdPzbYtP)** by **SALEM** *(Fires In Heaven)*
 🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
 🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
 🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
 🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
-🎤 **[AIR FORCE](https://open.spotify.com/track/4T03XcJcZZx1BmSzP3QZ01)** by **calvinsober** *(AIR FORCE)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-11 09:05:55Z UTC
+🕐 Last updated: 2026-02-11 10:08:07Z UTC
 <!-- SPOTIFY-END -->
