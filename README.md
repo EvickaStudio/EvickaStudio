@@ -107,11 +107,11 @@
 
 ### 🌟 Top Artists *(Short Term)*
 
-🥇 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-🥈 [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
+🥇 [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
+🥈 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-🏅 [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+🏅 [**Lvl99magic**](https://open.spotify.com/artist/2oicFljpVahPh4w8BUiKoq)
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-11 08:04:07Z UTC
+🕐 Last updated: 2026-02-11 09:05:55Z UTC
 <!-- SPOTIFY-END -->
