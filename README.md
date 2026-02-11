@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27348dcf765cdc5b1ce04192cf8" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bf6d27f2f6f8a208de3b5b89" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)**
-*by* **Desire**
-*Album:* Desire
+**🎵 [Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)**
+*by* **ear**
+*Album:* The Most Dear and The Future
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="268" height="4" fill="#1db954" rx="2"/>
-    <circle cx="268" cy="2" r="6" fill="#1db954"/>
+    <rect width="209" height="4" fill="#1db954" rx="2"/>
+    <circle cx="209" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:25 • 4:56
+    1:37 • 2:19
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
-🎤 **[Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)** by **The Radio Dept.** *(Pet Grief)*
-🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
-🎤 **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)*
-🎤 **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)*
+🎤 **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))*
+🎤 **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)*
+🎤 **[Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG)** by **Mk.gee** *(Two Star & The Dream Police)*
+🎤 **[Here's Where the Story Ends](https://open.spotify.com/track/5gSHlT2SI0dtjeHrjj96A1)** by **The Sundays** *(Reading Writing And Arithmetic)*
+🎤 **[Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv)** by **Chanel Beads** *(Your Day Will Come)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-11 19:40:00Z UTC
+🕐 Last updated: 2026-02-11 20:05:39Z UTC
 <!-- SPOTIFY-END -->
