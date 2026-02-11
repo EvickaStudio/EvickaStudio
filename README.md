@@ -91,15 +91,34 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273836536cb9d87e6adb8d93c39" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)**
+*by* **PureSnow**
+*Album:* Bel Air
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="84" height="4" fill="#1db954" rx="2"/>
+    <circle cx="84" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:38 • 2:17
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI)** by **Kanii** *(I Know)*
-🎤 **[Wings](https://open.spotify.com/track/0umT61v364TKUPHdPzbYtP)** by **SALEM** *(Fires In Heaven)*
-🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
+🎤 **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)*
+🎤 **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)*
+🎤 **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)*
 🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
 🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
 
@@ -124,5 +143,5 @@
 🏅 [**God Of London**](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)
 
 
-🕐 Last updated: 2026-02-11 12:57:42Z UTC
+🕐 Last updated: 2026-02-11 14:14:40Z UTC
 <!-- SPOTIFY-END -->
