@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a5181cdc280adca168d7d56f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI)**
-*by* **Kanii**
-*Album:* I Know
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="18" height="4" fill="#1db954" rx="2"/>
-    <circle cx="18" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    0:09 • 2:32
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI)** by **Kanii** *(I Know)*
 🎤 **[Wings](https://open.spotify.com/track/0umT61v364TKUPHdPzbYtP)** by **SALEM** *(Fires In Heaven)*
 🎤 **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)*
 🎤 **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luu** *(doppelsuizid)*
 🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)*
 
 
 
@@ -130,18 +111,18 @@
 🥈 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🏅 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-🏅 [**Lvl99magic**](https://open.spotify.com/artist/2oicFljpVahPh4w8BUiKoq)
+🏅 [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 
 
 
 ### 🎶 Top Tracks *(Short Term)*
 
 🥇 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-🥈 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🥉 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
+🥈 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
+🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
+🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 🏅 [**God Of London**](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)
-🏅 [**cling to the edge**](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)
 
 
-🕐 Last updated: 2026-02-11 10:08:07Z UTC
+🕐 Last updated: 2026-02-11 11:07:40Z UTC
 <!-- SPOTIFY-END -->
