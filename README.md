@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273d2847a2060cd7fc1932b0154" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)**
-*by* **jacal**
-*Album:* resonance (midwest emo version)
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="199" height="4" fill="#1db954" rx="2"/>
-    <circle cx="199" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    2:25 • 3:39
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)** by **Cocteau Twins** *(Heaven or Las Vegas)*
+🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
 🎤 **[envy](https://open.spotify.com/track/5QxlPbTZywgqsK0ruzYCWh)** by **Brothel in Belize** *(envy)*
 🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
 🎤 **[Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV)** by **You'll Never Get to Heaven** *(Adorn)*
-🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
-🎤 **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-11 21:26:55Z UTC
+🕐 Last updated: 2026-02-11 21:57:13Z UTC
 <!-- SPOTIFY-END -->
