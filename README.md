@@ -119,10 +119,10 @@
 
 🥇 [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 🥈 [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
-🥉 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
-🏅 [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
+🥉 [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
+🏅 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 
 
-🕐 Last updated: 2026-02-11 21:57:13Z UTC
+🕐 Last updated: 2026-02-11 22:27:12Z UTC
 <!-- SPOTIFY-END -->
