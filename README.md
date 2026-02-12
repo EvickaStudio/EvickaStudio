@@ -124,5 +124,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-12 17:41:43Z UTC
+🕐 Last updated: 2026-02-12 18:36:18Z UTC
 <!-- SPOTIFY-END -->
