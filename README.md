@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)*
+🎤 **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)*
 🎤 **[Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok)** by **Cocteau Twins** *(Heaven or Las Vegas)*
 🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
 🎤 **[envy](https://open.spotify.com/track/5QxlPbTZywgqsK0ruzYCWh)** by **Brothel in Belize** *(envy)*
-🎤 **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)*
-🎤 **[Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV)** by **You'll Never Get to Heaven** *(Adorn)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**pets**](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)
 
 
-🕐 Last updated: 2026-02-12 09:11:04Z UTC
+🕐 Last updated: 2026-02-12 10:06:25Z UTC
 <!-- SPOTIFY-END -->
