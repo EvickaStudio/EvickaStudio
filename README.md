@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2735a97e388390c1f9f29de1f1a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27376ccf916963af8914ea4839a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)**
-*by* **Shoto**
-*Album:* ADHS (sped up)
+**🎵 [kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)**
+*by* **herz.**
+*Album:* kopflos durch die nacht
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="227" height="4" fill="#1db954" rx="2"/>
-    <circle cx="227" cy="2" r="6" fill="#1db954"/>
+    <rect width="215" height="4" fill="#1db954" rx="2"/>
+    <circle cx="215" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:59 • 2:37
+    1:50 • 2:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)*
-🎤 **[Rooftop](https://open.spotify.com/track/2nKFxDpNin6687nvU8nBtW)** by **yong casso, Saucyaf** *(Rooftop)*
-🎤 **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)*
-🎤 **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)*
-🎤 **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)*
+🎤 **[c0ldLA/h0pelessPlace](https://open.spotify.com/track/6m04rkFdYrE2YZTHdLFizP)** by **TYM** *(c0ldLA/h0pelessPlace)*
+🎤 **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)*
+🎤 **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)*
+🎤 **[Goth (Slowed + Reverb)](https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz)** by **Sidewalks and Skeletons** *(Goth (Slowed + Reverb))*
+🎤 **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-12 15:43:03Z UTC
+🕐 Last updated: 2026-02-12 16:39:41Z UTC
 <!-- SPOTIFY-END -->
