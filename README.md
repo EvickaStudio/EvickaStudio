@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731978e9a386aaf4945b8c0e7b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735a97e388390c1f9f29de1f1a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Scargazer](https://open.spotify.com/track/3HD9BE49dhRLZxFIzoRJg0)**
-*by* **Prompto**
-*Album:* Scargazer
+**🎵 [ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)**
+*by* **Shoto**
+*Album:* ADHS (sped up)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="270" height="4" fill="#1db954" rx="2"/>
-    <circle cx="270" cy="2" r="6" fill="#1db954"/>
+    <rect width="227" height="4" fill="#1db954" rx="2"/>
+    <circle cx="227" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:09 • 2:24
+    1:59 • 2:37
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)** by **George Clanton** *(Ooh Rap I Ya)*
-🎤 **[DING DONG (feat. Mietze Conte)](https://open.spotify.com/track/3O79HkGiN07QB7kJ3gdCgi)** by **Yung Hurn, Mietze Conte** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
-🎤 **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)*
-🎤 **[YMCA - Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY)** by **Village People** *(YMCA)*
-🎤 **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)*
+🎤 **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)*
+🎤 **[Rooftop](https://open.spotify.com/track/2nKFxDpNin6687nvU8nBtW)** by **yong casso, Saucyaf** *(Rooftop)*
+🎤 **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)*
+🎤 **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)*
+🎤 **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-12 14:48:36Z UTC
+🕐 Last updated: 2026-02-12 15:43:03Z UTC
 <!-- SPOTIFY-END -->
