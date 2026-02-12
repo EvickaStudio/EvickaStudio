@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273691e4be8a448ee8cbee162f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)**
-*by* **makko**
-*Album:* Lieb mich oder lass es, Pt.1+2
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="220" height="4" fill="#1db954" rx="2"/>
-    <circle cx="220" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:39 • 2:15
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Passive And Plastic](https://open.spotify.com/track/26EHKiRiz0DU40iA8H3CCA)** by **Reserv** *(Passive And Plastic)*
-🎤 **[drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)** by **Lil Peep, Xavier Wulf** *(HELLBOY)*
-🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
-🎤 **[Heaven (Interlude)](https://open.spotify.com/track/7uVpCKCrfJl02npkIQaUzH)** by **SUMMER ALONE** *(Sleep Longer, You'll Be Ok)*
-🎤 **[Nightcall](https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA)** by **Kavinsky** *(OutRun)*
+🎤 **[I Know](https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ)** by **Moritz** *(I Know)*
+🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
+🎤 **[Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)** by **Central Sonic** *(Club Scenes - Psytrance)*
+🎤 **[Klettverschluss](https://open.spotify.com/track/5DK4lNGkh4fKxiKAkXRIj0)** by **Brown-Eyes White Boy** *(Metanarkose)*
+🎤 **[Maxi King](https://open.spotify.com/track/4L2pOra0PxKrWhrSHlvgEP)** by **Symba** *(Maxi King)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-12 20:50:08Z UTC
+🕐 Last updated: 2026-02-12 21:25:55Z UTC
 <!-- SPOTIFY-END -->
