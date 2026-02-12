@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273691e4be8a448ee8cbee162f0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL)**
-*by* **Kendrick Lamar**
-*Album:* Mr. Morale & The Big Steppers
+**🎵 [Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)**
+*by* **makko**
+*Album:* Lieb mich oder lass es, Pt.1+2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="194" height="4" fill="#1db954" rx="2"/>
-    <circle cx="194" cy="2" r="6" fill="#1db954"/>
+    <rect width="220" height="4" fill="#1db954" rx="2"/>
+    <circle cx="220" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:45 • 4:15
+    1:39 • 2:15
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)*
-🎤 **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)*
-🎤 **[Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO)** by **Tevvez** *(Phantom)*
-🎤 **[Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)** by **Cavetown** *(Animal Kingdom)*
-🎤 **[GOLDKRONE](https://open.spotify.com/track/3yuGQEAZEbM4SnDFqOzoR1)** by **Kkuba102, 102 Boyz, Uncle F** *(SACHSCHADEN EP)*
+🎤 **[Passive And Plastic](https://open.spotify.com/track/26EHKiRiz0DU40iA8H3CCA)** by **Reserv** *(Passive And Plastic)*
+🎤 **[drive by](https://open.spotify.com/track/4USdmbhDidWVL8JXBVbVFm)** by **Lil Peep, Xavier Wulf** *(HELLBOY)*
+🎤 **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)*
+🎤 **[Heaven (Interlude)](https://open.spotify.com/track/7uVpCKCrfJl02npkIQaUzH)** by **SUMMER ALONE** *(Sleep Longer, You'll Be Ok)*
+🎤 **[Nightcall](https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA)** by **Kavinsky** *(OutRun)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-12 20:01:32Z UTC
+🕐 Last updated: 2026-02-12 20:50:08Z UTC
 <!-- SPOTIFY-END -->
