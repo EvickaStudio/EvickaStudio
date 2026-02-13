@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA)**
+*by* **Charli xcx**
+*Album:* Wuthering Heights
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="79" height="4" fill="#1db954" rx="2"/>
+    <circle cx="79" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:48 • 3:03
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[I Know](https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ)** by **Moritz** *(I Know)*
-🎤 **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)*
-🎤 **[Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)** by **Central Sonic** *(Club Scenes - Psytrance)*
-🎤 **[Klettverschluss](https://open.spotify.com/track/5DK4lNGkh4fKxiKAkXRIj0)** by **Brown-Eyes White Boy** *(Metanarkose)*
-🎤 **[Maxi King](https://open.spotify.com/track/4L2pOra0PxKrWhrSHlvgEP)** by **Symba** *(Maxi King)*
+🎤 **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)*
+🎤 **[FAMILY GUY](https://open.spotify.com/track/0dPzAVKKQABMyQknhCmyrF)** by **5v, Drux** *(Bad Intentions)*
+🎤 **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)*
+🎤 **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by **5v** *(kein zufall)*
+🎤 **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-13 05:23:19Z UTC
+🕐 Last updated: 2026-02-13 06:33:42Z UTC
 <!-- SPOTIFY-END -->
