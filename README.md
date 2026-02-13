@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27324c94ef98122f69d2c138937" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [celebrity iconic](https://open.spotify.com/track/3HvhtkkD3iYIQmygxuVhTS)**
+*by* **cholorofilm**
+*Album:* celebrity iconic
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="36" height="4" fill="#1db954" rx="2"/>
+    <circle cx="36" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:15 • 2:04
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[drank music](https://open.spotify.com/track/3iwhXg6myIbRW7hDSbSxn7)** by **Nosgov** *(drank music)*
-🎤 **[getting money still sad too](https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR)** by **Lil Peep, Horse Head** *(getting money still sad too)*
-🎤 **[lalala](https://open.spotify.com/track/3i6nLEvCHf4FKbpq4F0bbo)** by **Julux, Monstertruckpunk, JB 50** *(lalala)*
-🎤 **[Ganz weit weg](https://open.spotify.com/track/57TF5FBikoeUdndrXRMIYD)** by **Mars, hqwilli** *(Respawn:/crazyworld)*
-🎤 **[erase ur name](https://open.spotify.com/track/58rUmdZzVmKdIukmR5sJar)** by **Clover!, Bandiicam, elara** *(erase ur name)*
+🎤 **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)*
+🎤 **[lonely tonight](https://open.spotify.com/track/2YYsoCPVueY80FIZ7Fo1hl)** by **archive computer** *(lonely tonight)*
+🎤 **[behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)** by **luvarrow, mental** *(behave)*
+🎤 **[Blood Moon](https://open.spotify.com/track/5m1JXZ6mZtwbMuMWJIuEfn)** by **reverie, DJmegan23, 5v, voidd, softv1rus** *(New Moon)*
+🎤 **[Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA)** by **Charli xcx** *(Wuthering Heights)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-13 08:25:12Z UTC
+🕐 Last updated: 2026-02-13 09:06:48Z UTC
 <!-- SPOTIFY-END -->
