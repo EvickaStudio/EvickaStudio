@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273a485c1afd8be3c3741f6caab" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)**
-*by* **fliggsy**
-*Album:* RIDE OR DIE
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="160" height="4" fill="#1db954" rx="2"/>
-    <circle cx="160" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:15 • 2:21
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
-🎤 **[Nächte in der Trap](https://open.spotify.com/track/7Ettk6tYui5ucUeRlEyZE3)** by **Beyazz** *(Nächte in der Trap)*
-🎤 **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)*
-🎤 **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)*
-🎤 **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)*
-🎤 **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)*
+🎤 **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)*
+🎤 **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)*
+🎤 **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)*
+🎤 **[Zu schön um wahr zu sein](https://open.spotify.com/track/3vuizylIn6nbzvDpowL0Kr)** by **ArniTheSavage** *(Zu schön um wahr zu sein)*
+🎤 **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-13 19:58:48Z UTC
+🕐 Last updated: 2026-02-13 20:39:45Z UTC
 <!-- SPOTIFY-END -->
