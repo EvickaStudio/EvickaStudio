@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731e23d76d6595bce3b6167bc0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [lalala](https://open.spotify.com/track/3i6nLEvCHf4FKbpq4F0bbo)**
-*by* **Julux, Monstertruckpunk, JB 50**
-*Album:* lalala
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="152" height="4" fill="#1db954" rx="2"/>
-    <circle cx="152" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    1:07 • 2:13
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[drank music](https://open.spotify.com/track/3iwhXg6myIbRW7hDSbSxn7)** by **Nosgov** *(drank music)*
+🎤 **[getting money still sad too](https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR)** by **Lil Peep, Horse Head** *(getting money still sad too)*
+🎤 **[lalala](https://open.spotify.com/track/3i6nLEvCHf4FKbpq4F0bbo)** by **Julux, Monstertruckpunk, JB 50** *(lalala)*
 🎤 **[Ganz weit weg](https://open.spotify.com/track/57TF5FBikoeUdndrXRMIYD)** by **Mars, hqwilli** *(Respawn:/crazyworld)*
 🎤 **[erase ur name](https://open.spotify.com/track/58rUmdZzVmKdIukmR5sJar)** by **Clover!, Bandiicam, elara** *(erase ur name)*
-🎤 **[PRM](https://open.spotify.com/track/0QuRo4ctld7lkFmAjMSW2U)** by **Dropped here, Niko Jug** *(PRM)*
-🎤 **[LAUF WEITER](https://open.spotify.com/track/1c1CFCEYP9Pxysyjtae3Yu)** by **5v** *(Bad Intentions)*
-🎤 **[GASLIGHT STATION](https://open.spotify.com/track/5UuIonFtvtTH1HQ818nVs3)** by **Frry, 7ventus** *(GASLIGHT STATION)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
 
-🕐 Last updated: 2026-02-13 07:36:35Z UTC
+🕐 Last updated: 2026-02-13 08:25:12Z UTC
 <!-- SPOTIFY-END -->
