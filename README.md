@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b2733110ac6b32c463f398a9e051" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)**
+*by* **Wir sind Helden**
+*Album:* Von hier an blind
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="75" height="4" fill="#1db954" rx="2"/>
+    <circle cx="75" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:53 • 3:32
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
-🎤 **[drank music](https://open.spotify.com/track/3iwhXg6myIbRW7hDSbSxn7)** by **Nosgov** *(drank music)*
-🎤 **[getting money still sad too](https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR)** by **Lil Peep, Horse Head** *(getting money still sad too)*
-🎤 **[lalala](https://open.spotify.com/track/3i6nLEvCHf4FKbpq4F0bbo)** by **Julux, Monstertruckpunk, JB 50** *(lalala)*
-🎤 **[Ganz weit weg](https://open.spotify.com/track/57TF5FBikoeUdndrXRMIYD)** by **Mars, hqwilli** *(Respawn:/crazyworld)*
-🎤 **[erase ur name](https://open.spotify.com/track/58rUmdZzVmKdIukmR5sJar)** by **Clover!, Bandiicam, elara** *(erase ur name)*
+🎤 **[Shut My Eyes](https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW)** by **Burrrn** *(Blaze Down His Way Like the Space Show)*
+🎤 **[angelz den](https://open.spotify.com/track/2LK9vpASV1qXqoGKT0IbFr)** by **KidSnorlax, 6arelyhuman** *(angelz den)*
+🎤 **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)*
+🎤 **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)*
+🎤 **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-13 18:35:40Z UTC
+🕐 Last updated: 2026-02-13 19:29:08Z UTC
 <!-- SPOTIFY-END -->
