@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27355a71a721f700dd70997c8a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Cherry-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ)**
-*by* **Cocteau Twins**
-*Album:* Heaven or Las Vegas
+**🎵 [behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)**
+*by* **luvarrow, mental**
+*Album:* behave
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="3" height="4" fill="#1db954" rx="2"/>
-    <circle cx="3" cy="2" r="6" fill="#1db954"/>
+    <rect width="206" height="4" fill="#1db954" rx="2"/>
+    <circle cx="206" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:02 • 3:12
+    1:46 • 2:34
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))*
-🎤 **[Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)** by **The Smashing Pumpkins** *(Siamese Dream (Deluxe Edition))*
-🎤 **[When I'm Small](https://open.spotify.com/track/3y1EzRl5UEQxxd1f6Bv2aN)** by **Phantogram** *(Eyelid Movies)*
-🎤 **[This Night Has Opened My Eyes - 2011 Remaster](https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD)** by **The Smiths** *(Hatful of Hollow)*
-🎤 **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)*
+🎤 **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)*
+🎤 **[Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG)** by **Mk.gee** *(Two Star & The Dream Police)*
+🎤 **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)*
+🎤 **[envy](https://open.spotify.com/track/5QxlPbTZywgqsK0ruzYCWh)** by **Brothel in Belize** *(envy)*
+🎤 **[All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J)** by **Radiohead** *(In Rainbows)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 18:57:58Z UTC
+🕐 Last updated: 2026-02-14 19:23:23Z UTC
 <!-- SPOTIFY-END -->
