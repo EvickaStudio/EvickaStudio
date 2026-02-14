@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)**
+*by* **Kanye West, Rick Ross**
+*Album:* My Beautiful Dark Twisted Fantasy
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="27" height="4" fill="#1db954" rx="2"/>
+    <circle cx="27" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    0:32 • 5:51
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)*
 🎤 **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **KidSnorlax, hateoryx** *(angelRavegirl)*
 🎤 **[ZEHN NACH DREI](https://open.spotify.com/track/3r9Bnd6gG6iyTGdivqezle)** by **LiJon, kleinejess089** *(ZEHN NACH DREI)*
 🎤 **[Hallo](https://open.spotify.com/track/4zBcLQmNznBf0o66bitQwq)** by **viko63, penglord** *(Strada d'Amore)*
 🎤 **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)*
-🎤 **[if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6)** by **Destroy Lonely** *(if looks could kill)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 11:16:17Z UTC
+🕐 Last updated: 2026-02-14 11:42:51Z UTC
 <!-- SPOTIFY-END -->
