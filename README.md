@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2733c72d76829b2bacb3f8ae308" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2730e31b6a9d8449d144da26a2b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [neue whip](https://open.spotify.com/track/4ABWxivtdmGB9QRrUbvdUq)**
-*by* **skrt cobain**
-*Album:* neue whip
+**🎵 [Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)**
+*by* **Kicker Dibs**
+*Album:* Sonnemondstern
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="292" height="4" fill="#1db954" rx="2"/>
-    <circle cx="292" cy="2" r="6" fill="#1db954"/>
+    <rect width="193" height="4" fill="#1db954" rx="2"/>
+    <circle cx="193" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:11 • 2:14
+    1:50 • 2:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Never](https://open.spotify.com/track/12aSjFAMemBUyyp6cZKsM7)** by **Mag.Lo, O Super** *(Never)*
-🎤 **[calling for me](https://open.spotify.com/track/0Lw1s61I2yeWo1m8JKcGVz)** by **Rebzyyx** *(calling for me)*
-🎤 **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)*
-🎤 **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)*
-🎤 **[Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)** by **FiNCH, Little Big** *(Finchi's Love Tape)*
+🎤 **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)*
+🎤 **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)*
+🎤 **[Heb ab - sped up](https://open.spotify.com/track/27vUyn9Jmnky5ru1kuJgYu)** by **S1RENA** *(Heb ab)*
+🎤 **[Invisible Frenzy](https://open.spotify.com/track/51HrgXU1e1zNVxtYjCbP55)** by **Kobaryo** *(Invisible Frenzy)*
+🎤 **[The Boys Of Summer - Remastered 2024](https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5)** by **Don Henley** *(Building The Perfect Beast (Remastered 2024))*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 22:47:48Z UTC
+🕐 Last updated: 2026-02-14 23:16:25Z UTC
 <!-- SPOTIFY-END -->
