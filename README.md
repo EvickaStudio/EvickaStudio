@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27308cc9bc3c9d72c00fdfa5a87" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273a2f4114eb1e98cafef5a3f3d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)**
-*by* **Beach House**
-*Album:* Bloom
+**🎵 [me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)**
+*by* **RADWIMPS**
+*Album:* RADWIMPS 4 ～おかずのごはん～
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="104" height="4" fill="#1db954" rx="2"/>
-    <circle cx="104" cy="2" r="6" fill="#1db954"/>
+    <rect width="133" height="4" fill="#1db954" rx="2"/>
+    <circle cx="133" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:30 • 4:18
+    2:05 • 4:41
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[RISE](https://open.spotify.com/track/7Lthc6TRBRHRMIzydYu3se)** by **pluko** *(OXY)*
-🎤 **[feelings im bauch (feat. treason434) - techno remix](https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7)** by **lil eyes, 1800yassine, Asterio, treason434** *(feelings im bauch (feat. treason434) [techno remix])*
-🎤 **[Television / So Far So Good](https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI)** by **Rex Orange County** *(Apricot Princess)*
-🎤 **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)*
-🎤 **[perks of being a wallflower](https://open.spotify.com/track/6Zt4kkPMWPWfSfCA2PIzVq)** by **living proof** *(perks of being a wallflower)*
+🎤 **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)*
+🎤 **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)*
+🎤 **[Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk)** by **Porter Robinson** *(Worlds)*
+🎤 **[So Hoch](https://open.spotify.com/track/1zt3wy9gXLEG2naxIMRwSj)** by **Longus Mongus, BHZ, Monk** *(3062)*
+🎤 **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 14:59:31Z UTC
+🕐 Last updated: 2026-02-14 15:29:26Z UTC
 <!-- SPOTIFY-END -->
