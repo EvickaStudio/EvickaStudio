@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273f2d254f349b665010effad4a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i)**
-*by* **Kanye West**
-*Album:* Yeezus
+**🎵 [Rooftop](https://open.spotify.com/track/2nKFxDpNin6687nvU8nBtW)**
+*by* **yong casso, Saucyaf**
+*Album:* Rooftop
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="24" height="4" fill="#1db954" rx="2"/>
-    <circle cx="24" cy="2" r="6" fill="#1db954"/>
+    <rect width="179" height="4" fill="#1db954" rx="2"/>
+    <circle cx="179" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    0:18 • 3:49
+    1:54 • 3:11
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[cobain](https://open.spotify.com/track/0zfLZO4iwrwWu9Gqfdj5ha)** by **Lil Peep, Lil Tracy** *(HELLBOY)*
-🎤 **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)*
-🎤 **[Where Am I?](https://open.spotify.com/track/4Zf961QkP6Q6k7WFNMrWO8)** by **Title Fight** *(Shed)*
-🎤 **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)*
-🎤 **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)*
+🎤 **[static dreams](https://open.spotify.com/track/6oTDhIMH8R2XSb4iqpae7v)** by **marchpane** *(binary euphoria)*
+🎤 **[Irgendeine Kleinstadt](https://open.spotify.com/track/1y5oww3sAqHnTH64WVV6PL)** by **Tamino404, kevin** *(es ist nicht mehr 2016)*
+🎤 **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)*
+🎤 **[i crash, u crash](https://open.spotify.com/track/2miw7jNOAe9Qny5TG3vGyg)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
+🎤 **[video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)** by **blombi19** *(video)*
 
 
 
@@ -128,8 +128,8 @@
 
 🥇 [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
 🥈 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-🥉 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-🏅 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🥉 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+🏅 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 🏅 [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 13:30:25Z UTC
+🕐 Last updated: 2026-02-14 14:02:49Z UTC
 <!-- SPOTIFY-END -->
