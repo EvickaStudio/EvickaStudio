@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273c54ec2b9a6aa0e09054c5164" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273bf1b9616edad332c81db507a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [99-01](https://open.spotify.com/track/3gvxJteQcB4VEZM1QDR82d)**
-*by* **Shoota Tori, Bon Aquâ**
-*Album:* 99-01
+**🎵 [Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)**
+*by* **105**
+*Album:* Hundra Dagar
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="201" height="4" fill="#1db954" rx="2"/>
-    <circle cx="201" cy="2" r="6" fill="#1db954"/>
+    <rect width="13" height="4" fill="#1db954" rx="2"/>
+    <circle cx="13" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:26 • 3:38
+    0:10 • 3:44
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[perks of being a wallflower](https://open.spotify.com/track/6Zt4kkPMWPWfSfCA2PIzVq)** by **living proof** *(perks of being a wallflower)*
-🎤 **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
-🎤 **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)*
-🎤 **[Long Gone](https://open.spotify.com/track/1YYGobaxPu9TA76CsCJWki)** by **DONDON, LeFrers** *(Long Gone)*
-🎤 **[sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI)** by **Kasi, antonius** *(sommernacht)*
+🎤 **[Boom Boom Pow](https://open.spotify.com/track/00ruYa4EGRTFTmZ1xSBcWQ)** by **Odece, Cubbie** *(Wakanda)*
+🎤 **[Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c)** by **Juice WRLD** *(Goodbye & Good Riddance)*
+🎤 **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))*
+🎤 **[California Dreamin' - Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ)** by **The Mamas & The Papas** *(If You Can Believe Your Eyes & Ears)*
+🎤 **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 21:16:27Z UTC
+🕐 Last updated: 2026-02-14 21:44:20Z UTC
 <!-- SPOTIFY-END -->
