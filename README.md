@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273cb5c680f9191cc7ceeefd604" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2735db98b07c6a5af3ba91b9130" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt - Remix](https://open.spotify.com/track/2DZGs97ibWcEFHZQ3imUpM)**
-*by* **INTERWEB 成长**
-*Album:* Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt (Remix)
+**🎵 [Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)**
+*by* **BEVN, Hadesthegrim**
+*Album:* Prettyboy
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="299" height="4" fill="#1db954" rx="2"/>
-    <circle cx="299" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:11 • 6:11
+    0:31 • 2:22
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Scheiß auf eure Party](https://open.spotify.com/track/1Syhm4vkn6n2DYuFnyI60s)** by **Ufo361** *(Ich bin 2 Berliner)*
-🎤 **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)*
-🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
-🎤 **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)*
-🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
+🎤 **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)*
+🎤 **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)*
+🎤 **[du bist mir egal](https://open.spotify.com/track/2H2Y5YSMxH1QFoERMG3QeD)** by **Pink Katana** *(du bist mir egal)*
+🎤 **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))*
+🎤 **[angelz den](https://open.spotify.com/track/2LK9vpASV1qXqoGKT0IbFr)** by **KidSnorlax, 6arelyhuman** *(angelz den)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 20:16:56Z UTC
+🕐 Last updated: 2026-02-14 20:47:40Z UTC
 <!-- SPOTIFY-END -->
