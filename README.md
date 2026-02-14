@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273469de7bfa3867059052c104d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2739462d7c09f9b10baa5a12cf0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)**
-*by* **Leocardo DiNaprio, Traumatin**
-*Album:* geist
+**🎵 [Melodien 2](https://open.spotify.com/track/6BetK8MievretVRvgEBEzh)**
+*by* **makko**
+*Album:* Melodien 2
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="240" height="4" fill="#1db954" rx="2"/>
-    <circle cx="240" cy="2" r="6" fill="#1db954"/>
+    <rect width="3" height="4" fill="#1db954" rx="2"/>
+    <circle cx="3" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 2:38
+    0:02 • 3:00
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo** *(meine grosse liebe)*
-🎤 **[sega saturn](https://open.spotify.com/track/6CeO9V6e7Lq0rChLTsphHk)** by **Dp** *(dvdp_)*
-🎤 **[d00m](https://open.spotify.com/track/2HNi8TnzsmL4kGSEnyN0yK)** by **cdgplug, gard, Hotelgodlin** *(bl00dletter Collection)*
-🎤 **[Eiszeit](https://open.spotify.com/track/79cvTvPiRhJ6Ubrl3i6Ipy)** by **James Jetski** *(Just Joking)*
-🎤 **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)*
+🎤 **[Decay](https://open.spotify.com/track/7lwOe2S5Ge3k0FVDtmS1UF)** by **Blood Estate** *(Floodgate)*
+🎤 **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)*
+🎤 **[Verdient](https://open.spotify.com/track/5jqdb9Av5ZiY6tt0wzjJJ1)** by **EASY EASY** *(Echoes etc., Vol. 2)*
+🎤 **[Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m)** by **Grizzly Bear** *(Veckatimest)*
+🎤 **[Things to Do](https://open.spotify.com/track/1V9lCLSierc1RFpERt6ak9)** by **Alex G** *(Race)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 21:56:45Z UTC
+🕐 Last updated: 2026-02-14 22:19:12Z UTC
 <!-- SPOTIFY-END -->
