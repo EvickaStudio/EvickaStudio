@@ -97,11 +97,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[LAUF WEITER](https://open.spotify.com/track/1c1CFCEYP9Pxysyjtae3Yu)** by **5v** *(Bad Intentions)*
 🎤 **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)*
 🎤 **[9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)** by **Brutalismus 3000** *(GOODBYE SALÒ)*
 🎤 **[All For Us](https://open.spotify.com/track/0dSXFiK5FccucA4wo3ZVpe)** by **Labrinth, Zendaya** *(Imagination & the Misfit Kid)*
 🎤 **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)*
-🎤 **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)*
 
 
 
@@ -124,5 +124,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 16:53:49Z UTC
+🕐 Last updated: 2026-02-14 17:19:28Z UTC
 <!-- SPOTIFY-END -->
