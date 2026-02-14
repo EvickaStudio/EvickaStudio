@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ae73fbe53c8d6edb4d59683" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273cb5c680f9191cc7ceeefd604" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)**
-*by* **o0o, Aidan Swank, oaf1**
-*Album:* DUI_002
+**🎵 [Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt - Remix](https://open.spotify.com/track/2DZGs97ibWcEFHZQ3imUpM)**
+*by* **INTERWEB 成长**
+*Album:* Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt (Remix)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="166" height="4" fill="#1db954" rx="2"/>
-    <circle cx="166" cy="2" r="6" fill="#1db954"/>
+    <rect width="299" height="4" fill="#1db954" rx="2"/>
+    <circle cx="299" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:53 • 3:23
+    6:11 • 6:11
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Hate Crime Against Myself](https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ)** by **Hello Hannes** *(Hate Crime Against Myself)*
-🎤 **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)*
-🎤 **[rotten](https://open.spotify.com/track/0lSIYgRZ67n14ijRpBhLxD)** by **anna luna** *(rotten)*
-🎤 **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)*
-🎤 **[Echolot](https://open.spotify.com/track/1cEQ6mryHemmstSgxJc13O)** by **Wir sind Helden** *(Von hier an blind)*
+🎤 **[Scheiß auf eure Party](https://open.spotify.com/track/1Syhm4vkn6n2DYuFnyI60s)** by **Ufo361** *(Ich bin 2 Berliner)*
+🎤 **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)*
+🎤 **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)*
+🎤 **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)*
+🎤 **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
 
-🕐 Last updated: 2026-02-14 19:54:33Z UTC
+🕐 Last updated: 2026-02-14 20:16:56Z UTC
 <!-- SPOTIFY-END -->
