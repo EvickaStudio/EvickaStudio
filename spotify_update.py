@@ -28,11 +28,7 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
-SCOPE = (
-    "user-read-currently-playing "
-    "user-read-recently-played "
-    "user-top-read"
-)
+SCOPE = "user-read-currently-playing user-read-recently-played user-top-read"
 REDIRECT_URI = os.getenv(
     "SPOTIFY_REDIRECT_URI",
     "http://127.0.0.1:8888/callback",
@@ -42,21 +38,14 @@ TOP_LIMIT = int(os.getenv("SPOTIFY_TOP_LIMIT", "5"))
 PROGRESS_BAR_WIDTH = int(os.getenv("SPOTIFY_PROGRESS_BAR_WIDTH", "20"))
 
 MAX_AUTH_RETRIES = int(os.getenv("SPOTIFY_AUTH_RETRIES", "4"))
-AUTH_RETRY_BASE_DELAY = float(
-    os.getenv("SPOTIFY_AUTH_RETRY_BASE_DELAY", "5")
-)
+AUTH_RETRY_BASE_DELAY = float(os.getenv("SPOTIFY_AUTH_RETRY_BASE_DELAY", "5"))
 
 
 def icon_tag(name: str, alt: str) -> str:
     """
-    Return GitHub dark/light mode icon HTML using local SVG assets.
+    Return single-variant icon HTML using local SVG assets.
     """
-    return (
-        f"<img src=\"./assets/icons/{name}-light.svg#gh-light-mode-only\" "
-        f"width=\"16\" alt=\"\">"
-        f"<img src=\"./assets/icons/{name}-dark.svg#gh-dark-mode-only\" "
-        f"width=\"16\" alt=\"\">"
-    )
+    return f'<img src="./assets/icons/{name}.svg" width="16" alt="{alt}">'
 
 
 def section_heading(icon_name: str, title: str) -> str:
@@ -150,9 +139,7 @@ def get_spotify_client() -> spotipy.Spotify:
 
     access_token = token_info.get("access_token")
     if not isinstance(access_token, str) or not access_token:
-        raise RuntimeError(
-            "Spotify token refresh returned invalid access token"
-        )
+        raise RuntimeError("Spotify token refresh returned invalid access token")
 
     session = _build_retry_session()
     return spotipy.Spotify(auth=access_token, requests_session=session)
@@ -165,6 +152,32 @@ def format_duration(ms: int) -> str:
     minutes = ms // 60_000
     seconds = (ms % 60_000) // 1_000
     return f"{minutes}:{seconds:02d}"
+
+
+def format_relative_time(played_at: str) -> str:
+    """
+    Convert Spotify played_at timestamp into a short relative label.
+    """
+    try:
+        played_dt = datetime.fromisoformat(played_at.replace("Z", "+00:00"))
+    except ValueError:
+        return "unknown time"
+
+    delta = datetime.now(timezone.utc) - played_dt.astimezone(timezone.utc)
+    seconds = int(delta.total_seconds())
+    if seconds < 60:
+        return "just now"
+
+    minutes = seconds // 60
+    if minutes < 60:
+        return f"{minutes} min ago"
+
+    hours = minutes // 60
+    if hours < 24:
+        return f"{hours} h ago"
+
+    days = hours // 24
+    return f"{days} d ago"
 
 
 def create_progress_bar(
@@ -185,9 +198,9 @@ def create_progress_bar(
     filled = round(progress_percent * width)
     bar = "▓" * filled + "░" * (width - filled)
     return (
-        f"`{format_duration(progress_ms)}` "
+        f"<code>{format_duration(progress_ms)}</code> "
         f"{bar} "
-        f"`{format_duration(duration_ms)}`"
+        f"<code>{format_duration(duration_ms)}</code>"
     )
 
 
@@ -195,7 +208,11 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
     """
     Generate markdown lines for the "Now Playing" section.
     """
-    block: List[str] = ["", section_heading("play-circle", "Now Playing"), ""]
+    block: List[str] = [
+        "",
+        section_heading("play-circle", "Now Playing"),
+        "",
+    ]
     try:
         current = cast(dict[str, Any] | None, sp.current_user_playing_track())
         if not current or not current.get("is_playing"):
@@ -232,12 +249,12 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
 
         block.extend(
             [
-                f"**🎵 [{name}]({url})**",
+                f"**[{name}]({url})**",
                 f"*by* **{artists}**",
                 f"*Album:* {album}",
                 "",
                 (
-                    "<p align=\"center\">"
+                    '<p align="center">'
                     f"{create_progress_bar(progress_ms, duration_ms)}"
                     "</p>"
                 ),
@@ -275,8 +292,7 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
             name = cast(str, track.get("name", "Unknown"))
             artists_data = cast(list[dict[str, Any]], track.get("artists", []))
             artists = ", ".join(
-                cast(str, artist.get("name", "Unknown"))
-                for artist in artists_data
+                cast(str, artist.get("name", "Unknown")) for artist in artists_data
             )
             external_urls = cast(
                 dict[str, Any],
@@ -285,7 +301,11 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
             url = cast(str, external_urls.get("spotify", ""))
             album_data = cast(dict[str, Any], track.get("album", {}))
             album = cast(str, album_data.get("name", ""))
-            block.append(f"- **[{name}]({url})** by **{artists}** *({album})*")
+            played_at = cast(str, entry.get("played_at", ""))
+            played_ago = format_relative_time(played_at)
+            block.append(
+                f"- **[{name}]({url})** by **{artists}** *({album})* - `{played_ago}`"
+            )
 
         block.append("")
     except (
@@ -295,9 +315,7 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
         ValueError,
     ) as exc:
         logger.exception("Could not fetch recently played block")
-        block.extend(
-            [f"> ⚠️ Could not fetch recently played data: `{exc}`", ""]
-        )
+        block.extend([f"> ⚠️ Could not fetch recently played data: `{exc}`", ""])
     return block
 
 

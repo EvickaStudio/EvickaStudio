@@ -15,7 +15,7 @@ def test_format_duration() -> None:
 def test_create_progress_bar_empty() -> None:
     bar = su.create_progress_bar(0, 100_000, width=10)
     assert "░" * 10 in bar
-    assert "`0:00`" in bar
+    assert "<code>0:00</code>" in bar
 
 
 def test_create_progress_bar_half() -> None:
@@ -36,11 +36,7 @@ def test_create_progress_bar_zero_duration() -> None:
 
 
 def test_update_readme(tmp_path, monkeypatch) -> None:
-    content = (
-        "prefix\n"
-        "<!-- SPOTIFY-START -->\nold\n<!-- SPOTIFY-END -->\n"
-        "suffix"
-    )
+    content = "prefix\n<!-- SPOTIFY-START -->\nold\n<!-- SPOTIFY-END -->\nsuffix"
     readme = tmp_path / "README.md"
     readme.write_text(content, encoding="utf-8")
     monkeypatch.chdir(tmp_path)
