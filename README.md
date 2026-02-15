@@ -91,17 +91,36 @@
 
 ### 🟢 Now Playing
 
-🎵 Not playing anything right now.
+<p align="center">
+<img src="https://i.scdn.co/image/ab67616d0000b27355a71a721f700dd70997c8a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+</p>
+
+**🎵 [behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)**
+*by* **luvarrow, mental**
+*Album:* behave
+
+
+<p align="center">
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="4" fill="#282828" rx="2"/>
+    <rect width="282" height="4" fill="#1db954" rx="2"/>
+    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+</svg>
+<br/>
+<span style="font-size: 12px; color: #b3b3b3;">
+    2:25 • 2:34
+</span>
+</p>
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Let It Flow](https://open.spotify.com/track/1c8p5UwsBxVbyCBPdZIndL)** by **Spiritualized** *(Pure Phase)*
+🎤 **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)*
 🎤 **[Soul On Fire](https://open.spotify.com/track/5jc3RVYdLcmET3XRcMUxTe)** by **Spiritualized** *(Songs in A&E)*
 🎤 **[Run](https://open.spotify.com/track/4zRuq3KQr0Rh4GauyKRoNp)** by **Spiritualized** *(Lazer Guided Melodies)*
 🎤 **[Do It All Over Again](https://open.spotify.com/track/0ZNe4ar47OP0ztxhSOkMqX)** by **Spiritualized** *(Let It Come Down)*
-🎤 **[Anyway That You Want Me](https://open.spotify.com/track/7uhMeuq98zIoJM8KWrFpc1)** by **Spiritualized** *(The Complete Works, Vol. 1)*
-🎤 **[The Slide Song](https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0)** by **Spiritualized** *(Pure Phase)*
 
 
 
@@ -124,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 10:18:34Z UTC
+🕐 Last updated: 2026-02-15 10:51:40Z UTC
 <!-- SPOTIFY-END -->
