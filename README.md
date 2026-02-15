@@ -95,9 +95,11 @@
   <img src="https://i.scdn.co/image/ab67616d0000b2730e31b6a9d8449d144da26a2b" alt="" width="120" />
 </p>
 
-**[Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)**
-*by* **Kicker Dibs**
-*Album:* Sonnemondstern
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4">Sterne oder Häuser</a></strong><br/>
+  <em>by</em> <strong>Kicker Dibs</strong><br/>
+  <em>Album:</em> Sonnemondstern
+</p>
 
 <p align="center"><code>0:41</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:51</code></p>
 

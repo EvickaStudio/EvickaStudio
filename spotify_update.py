@@ -245,9 +245,11 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
 
         block.extend(
             [
-                f"**[{name}]({url})**",
-                f"*by* **{artists}**",
-                f"*Album:* {album}",
+                '<p align="center">',
+                f'  <strong><a href="{url}">{name}</a></strong><br/>',
+                f"  <em>by</em> <strong>{artists}</strong><br/>",
+                f"  <em>Album:</em> {album}",
+                "</p>",
                 "",
                 (
                     '<p align="center">'
