@@ -92,12 +92,12 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27343b0f176db65d900944f6422" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)**
+**🎵 [Anyway That You Want Me](https://open.spotify.com/track/7uhMeuq98zIoJM8KWrFpc1)**
 *by* **Spiritualized**
-*Album:* Ladies and gentlemen we are floating in space
+*Album:* The Complete Works, Vol. 1
 
 
 <p align="center">
@@ -108,7 +108,7 @@
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    6:30 • 6:38
+    6:20 • 6:27
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lay It Down Slow](https://open.spotify.com/track/2kZ4NJc7eRLUHd5D0BjFMB)** by **Spiritualized** *(Amazing Grace)*
-🎤 **[Come Together](https://open.spotify.com/track/5lI9y4ZbpBsNJp4qd3ewzc)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Shine a Light](https://open.spotify.com/track/5MFZIkSSZd63sJ4BOu5jb4)** by **Spiritualized** *(Lazer Guided Melodies)*
-🎤 **[I Think I'm in Love](https://open.spotify.com/track/4QvdgQSQnOUza57BmPK4fZ)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[The Slide Song](https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0)** by **Spiritualized** *(Pure Phase)*
+🎤 **[All of My Thoughts](https://open.spotify.com/track/3IwLbpcJuoFBdqod2XwDZa)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[Electricity](https://open.spotify.com/track/510unyxy4oNWCbyRMajc0w)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[Stay with Me](https://open.spotify.com/track/6DBsox9g6jOsWerFwrK7Gx)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB)** by **Spiritualized** *(Lazer Guided Melodies)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 09:25:07Z UTC
+🕐 Last updated: 2026-02-15 09:52:40Z UTC
 <!-- SPOTIFY-END -->
