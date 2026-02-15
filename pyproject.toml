@@ -5,16 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "black>=23.7.0",
-    "flake8>=6.1.0",
-    "flake8-bugbear>=23.9.23",
     "flask>=3.1.1",
-    "isort>=5.12.0",
     "mypy>=1.4.1",
     "pre-commit>=4.2.0",
     "pytest>=7.3.1",
     "python-dotenv>=0.21.0",
     "requests>=2.25.1",
+    "ruff>=0.12.7",
     "spotipy>=2.22.0",
     "types-requests>=2.32.0.20250515",
 ]
@@ -28,3 +25,13 @@ profile = "black"
 
 [tool.mypy]
 ignore_missing_imports = true
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+extend-select = ["B", "I"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/test_spotify_update.py" = ["E402"]

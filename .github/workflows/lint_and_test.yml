@@ -22,7 +22,9 @@ jobs:
         run: pip install -r requirements-dev.txt
       # - name: Run pre-commit
       #   run: pre-commit run --all-files
+      - name: Run format check
+        run: ruff format --check .
       - name: Run lint
-        run: flake8
+        run: ruff check .
       - name: Run tests
         run: python -m pytest --maxfail=1 --disable-warnings -q

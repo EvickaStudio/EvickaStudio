@@ -8,18 +8,14 @@ import os
 import re
 import sys
 import time
-from datetime import datetime
-from datetime import timezone
-from typing import Any
-from typing import List
-from typing import cast
+from datetime import datetime, timezone
+from typing import Any, List, cast
 
 import requests  # type: ignore
 import spotipy
 from dotenv import load_dotenv
 from requests.adapters import HTTPAdapter  # type: ignore
-from spotipy.exceptions import SpotifyException
-from spotipy.exceptions import SpotifyOauthError
+from spotipy.exceptions import SpotifyException, SpotifyOauthError
 from spotipy.oauth2 import SpotifyOAuth
 from urllib3.util.retry import Retry
 
