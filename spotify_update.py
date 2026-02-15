@@ -46,7 +46,34 @@ AUTH_RETRY_BASE_DELAY = float(
     os.getenv("SPOTIFY_AUTH_RETRY_BASE_DELAY", "5")
 )
 
-MEDALS = ["🥇", "🥈", "🥉"] + ["🏅"] * 7
+
+def icon_tag(name: str, alt: str) -> str:
+    """
+    Return dark/light mode icon HTML using local SVG assets.
+    """
+    return (
+        "<picture>"
+        f"<source media=\"(prefers-color-scheme: dark)\" "
+        f"srcset=\"./assets/icons/{name}-dark.svg\">"
+        f"<img src=\"./assets/icons/{name}-light.svg\" "
+        f"width=\"16\" alt=\"{alt}\">"
+        "</picture>"
+    )
+
+
+def section_heading(icon_name: str, title: str) -> str:
+    """
+    Build a markdown heading with a dark/light mode icon.
+    """
+    return f"### {icon_tag(icon_name, title)} {title}"
+
+
+def rank_prefix(index: int) -> str:
+    """
+    Build icon-based ranking prefix for top lists.
+    """
+    rank = index + 1
+    return f"{icon_tag('disc3', f'Rank {rank}')} **#{rank}**"
 
 
 def _require_env(name: str) -> str:
@@ -171,11 +198,11 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
     """
     Generate markdown lines for the "Now Playing" section.
     """
-    block: List[str] = ["", "### 🟢 Now Playing", ""]
+    block: List[str] = ["", section_heading("play-circle", "Now Playing"), ""]
     try:
         current = cast(dict[str, Any] | None, sp.current_user_playing_track())
         if not current or not current.get("is_playing"):
-            block.extend(["> *🎵 Not playing anything right now.*", ""])
+            block.extend(["> *Not playing anything right now.*", ""])
             return block
 
         item = cast(dict[str, Any], current.get("item") or {})
@@ -235,7 +262,7 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
     """
     Generate markdown lines for "Recently Played" section.
     """
-    block: List[str] = ["", "### 📜 Recently Played", ""]
+    block: List[str] = ["", section_heading("history", "Recently Played"), ""]
     try:
         results = cast(
             dict[str, Any],
@@ -261,7 +288,7 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
             url = cast(str, external_urls.get("spotify", ""))
             album_data = cast(dict[str, Any], track.get("album", {}))
             album = cast(str, album_data.get("name", ""))
-            block.append(f"🎤 **[{name}]({url})** by **{artists}** *({album})*")
+            block.append(f"**[{name}]({url})** by **{artists}** *({album})*")
 
         block.append("")
     except (
@@ -281,7 +308,11 @@ def generate_top_artists_block(sp: spotipy.Spotify) -> List[str]:
     """
     Generate markdown lines for "Top Artists" section.
     """
-    block: List[str] = ["", "### 🌟 Top Artists *(Short Term)*", ""]
+    block: List[str] = [
+        "",
+        section_heading("users", "Top Artists *(Short Term)*"),
+        "",
+    ]
     try:
         results = cast(
             dict[str, Any],
@@ -296,7 +327,6 @@ def generate_top_artists_block(sp: spotipy.Spotify) -> List[str]:
             return block
 
         for index, artist in enumerate(items):
-            medal = MEDALS[index] if index < len(MEDALS) else "🏅"
             name = cast(str, artist.get("name", "Unknown"))
             url = cast(
                 str,
@@ -305,7 +335,7 @@ def generate_top_artists_block(sp: spotipy.Spotify) -> List[str]:
                     "",
                 ),
             )
-            block.append(f"{medal} [**{name}**]({url})")
+            block.append(f"{rank_prefix(index)} [**{name}**]({url})")
 
         block.append("")
     except (
@@ -323,7 +353,11 @@ def generate_top_tracks_block(sp: spotipy.Spotify) -> List[str]:
     """
     Generate markdown lines for "Top Tracks" section.
     """
-    block: List[str] = ["", "### 🎶 Top Tracks *(Short Term)*", ""]
+    block: List[str] = [
+        "",
+        section_heading("list-music", "Top Tracks *(Short Term)*"),
+        "",
+    ]
     try:
         results = cast(
             dict[str, Any],
@@ -338,7 +372,6 @@ def generate_top_tracks_block(sp: spotipy.Spotify) -> List[str]:
             return block
 
         for index, track in enumerate(items):
-            medal = MEDALS[index] if index < len(MEDALS) else "🏅"
             name = cast(str, track.get("name", "Unknown"))
             url = cast(
                 str,
@@ -347,7 +380,7 @@ def generate_top_tracks_block(sp: spotipy.Spotify) -> List[str]:
                     "",
                 ),
             )
-            block.append(f"{medal} [**{name}**]({url})")
+            block.append(f"{rank_prefix(index)} [**{name}**]({url})")
 
         block.append("")
     except (
@@ -366,13 +399,15 @@ def generate_markdown() -> str:
     Generate complete Spotify markdown snippet.
     """
     sp = get_spotify_client()
-    parts: List[str] = []
+    parts: List[str] = [
+        section_heading("music", "Spotify"),
+    ]
     parts.extend(generate_now_playing_block(sp))
     parts.extend(generate_recently_played_block(sp))
     parts.extend(generate_top_artists_block(sp))
     parts.extend(generate_top_tracks_block(sp))
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-    parts.append(f"🕐 *Last updated: {now}*")
+    parts.append(f"{icon_tag('clock3', 'Last updated')} *Last updated: {now}*")
     return "\n".join(parts)
 
 
