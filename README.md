@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730e31b6a9d8449d144da26a2b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733dcbc7e4eb74dadad3d33a17" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4">Sterne oder Häuser</a></strong><br/>
-  <em>by</em> <strong>Kicker Dibs</strong><br/>
-  <em>Album:</em> Sonnemondstern
+  <strong><a href="https://open.spotify.com/track/1HXQt7g2YbKYtcMx2sHoCU">BUTTERFLY KISSES</a></strong><br/>
+  <em>by</em> <strong>Antwon, Lil Peep</strong><br/>
+  <em>Album:</em> BUTTERFLY KISSES
 </p>
 
-<p align="center"><code>0:41</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:51</code></p>
+<p align="center"><code>3:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)* - `just now`
-- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `4 min ago`
-- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `7 min ago`
-- **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)* - `11 min ago`
-- **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)* - `13 min ago`
+- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `3 min ago`
+- **[Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs)** by **347aidan** *(Demons and Monsters)* - `4 min ago`
+- **[Look at the beautiful stars](https://open.spotify.com/track/4Zd0ZfElXwghxm0R3bX8og)** by **ALFANI.X** *(Look at the beautiful stars)* - `8 min ago`
+- **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)* - `10 min ago`
+- **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 12:39:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 13:31:59 UTC*
 <!-- SPOTIFY-END -->
