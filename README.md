@@ -91,35 +91,25 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cccb7dfbda1e334777223540" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/32GHYtVVAsYNQGafHrrRxv">Take Me To The Sun</a></strong><br/>
-  <em>by</em> <strong>d4vd</strong><br/>
-  <em>Album:</em> Take Me To The Sun
-</p>
-
-<p align="center"><code>1:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:46</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `1 min ago`
-- **[Electricity](https://open.spotify.com/track/510unyxy4oNWCbyRMajc0w)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `10 min ago`
-- **[Stay with Me](https://open.spotify.com/track/6DBsox9g6jOsWerFwrK7Gx)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `14 min ago`
-- **[You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB)** by **Spiritualized** *(Lazer Guided Melodies)* - `19 min ago`
-- **[Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `22 min ago`
+- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `30 min ago`
+- **[Electricity](https://open.spotify.com/track/510unyxy4oNWCbyRMajc0w)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `39 min ago`
+- **[Stay with Me](https://open.spotify.com/track/6DBsox9g6jOsWerFwrK7Gx)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `42 min ago`
+- **[You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB)** by **Spiritualized** *(Lazer Guided Melodies)* - `48 min ago`
+- **[Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `51 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -128,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 20:48:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 21:17:06 UTC*
 <!-- SPOTIFY-END -->
