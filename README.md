@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv">I Am A Destiny</a></strong><br/>
+  <em>by</em> <strong>Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom</strong><br/>
+  <em>Album:</em> Iliad Unspoken
+</p>
+
+<p align="center"><code>0:10</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[celebrity iconic](https://open.spotify.com/track/3HvhtkkD3iYIQmygxuVhTS)** by **cholorofilm** *(celebrity iconic)* - `39 min ago`
-- **[Ganz weit weg](https://open.spotify.com/track/57TF5FBikoeUdndrXRMIYD)** by **Mars, hqwilli** *(Respawn:/crazyworld)* - `41 min ago`
-- **[erase ur name](https://open.spotify.com/track/58rUmdZzVmKdIukmR5sJar)** by **Clover!, Bandiicam, elara** *(erase ur name)* - `43 min ago`
-- **[drank music](https://open.spotify.com/track/3iwhXg6myIbRW7hDSbSxn7)** by **Nosgov** *(drank music)* - `45 min ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `47 min ago`
+- **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))* - `just now`
+- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `3 min ago`
+- **[tired of life](https://open.spotify.com/track/3eCYUeLbmZOwRQ7tVMMmFq)** by **meat computer** *(soundtrack to the end of a world)* - `5 min ago`
+- **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)* - `8 min ago`
+- **[behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)** by **luvarrow, mental** *(behave)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 16:19:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 16:53:44 UTC*
 <!-- SPOTIFY-END -->
