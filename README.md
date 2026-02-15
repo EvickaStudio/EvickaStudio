@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738349bc1fc110a9fcd75dbb8d" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89">i am machine</a></strong><br/>
+  <em>by</em> <strong>Levi Ryan</strong><br/>
+  <em>Album:</em> operation wandering soul
+</p>
+
+<p align="center"><code>2:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `30 min ago`
-- **[Electricity](https://open.spotify.com/track/510unyxy4oNWCbyRMajc0w)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `39 min ago`
-- **[Stay with Me](https://open.spotify.com/track/6DBsox9g6jOsWerFwrK7Gx)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `42 min ago`
-- **[You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB)** by **Spiritualized** *(Lazer Guided Melodies)* - `48 min ago`
-- **[Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `51 min ago`
+- **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)* - `2 min ago`
+- **[perks of being a wallflower](https://open.spotify.com/track/6Zt4kkPMWPWfSfCA2PIzVq)** by **living proof** *(perks of being a wallflower)* - `4 min ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `7 min ago`
+- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `58 min ago`
+- **[Electricity](https://open.spotify.com/track/510unyxy4oNWCbyRMajc0w)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 21:17:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 21:45:04 UTC*
 <!-- SPOTIFY-END -->
