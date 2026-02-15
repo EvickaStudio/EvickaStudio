@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27394fac2b49df6adce1521db9d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)**
+**🎵 [Always Together With You](https://open.spotify.com/track/6JRhY1HxkxdPTdHf0ywvSg)**
 *by* **Spiritualized**
-*Album:* Ladies and gentlemen we are floating in space
+*Album:* Everything Was Beautiful
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="193" height="4" fill="#1db954" rx="2"/>
-    <circle cx="193" cy="2" r="6" fill="#1db954"/>
+    <rect width="140" height="4" fill="#1db954" rx="2"/>
+    <circle cx="140" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:17 • 6:38
+    3:06 • 6:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Lay It Down Slow](https://open.spotify.com/track/2kZ4NJc7eRLUHd5D0BjFMB)** by **Spiritualized** *(Amazing Grace)*
-🎤 **[Come Together](https://open.spotify.com/track/5lI9y4ZbpBsNJp4qd3ewzc)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Shine a Light](https://open.spotify.com/track/5MFZIkSSZd63sJ4BOu5jb4)** by **Spiritualized** *(Lazer Guided Melodies)*
-🎤 **[I Think I'm in Love](https://open.spotify.com/track/4QvdgQSQnOUza57BmPK4fZ)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[I Want You](https://open.spotify.com/track/5C0pECjyE8yLH91eBB6noT)** by **Spiritualized** *(Lazer Guided Melodies)*
+🎤 **[All of My Tears](https://open.spotify.com/track/0Jsv4Dw0oPKiJTU1sPH8V0)** by **Spiritualized** *(Pure Phase)*
+🎤 **[Feel so Sad - Glides and Chimes](https://open.spotify.com/track/0vl1wGsduDeFBJgXaaF668)** by **Spiritualized** *(The Complete Works, Vol. 1)*
+🎤 **[If I Were with Her Now](https://open.spotify.com/track/2ozI3VNDpzQbpVtZ34Y61G)** by **Spiritualized** *(Lazer Guided Melodies)*
+🎤 **[Let It Flow](https://open.spotify.com/track/1c8p5UwsBxVbyCBPdZIndL)** by **Spiritualized** *(Pure Phase)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 04:30:06Z UTC
+🕐 Last updated: 2026-02-15 05:39:41Z UTC
 <!-- SPOTIFY-END -->
