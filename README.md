@@ -87,46 +87,46 @@
 ## 🎧 Spotify
 
 <!-- SPOTIFY-START -->
-### <img src="./assets/icons/music-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/music-dark.svg#gh-dark-mode-only" width="16" alt=""> Spotify
+### <img src="./assets/icons/music.svg" width="16" alt="Spotify"> Spotify
 
-### <img src="./assets/icons/play-circle-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/play-circle-dark.svg#gh-dark-mode-only" width="16" alt=""> Now Playing
+### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730e31b6a9d8449d144da26a2b" alt="" width="120" />
 </p>
 
-**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
-*by* **blombi19, 2dizzy**
-*Album:* medikament
+**[Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)**
+*by* **Kicker Dibs**
+*Album:* Sonnemondstern
 
-<p align="center">`3:04` ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ `3:23`</p>
-
-
-### <img src="./assets/icons/history-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/history-dark.svg#gh-dark-mode-only" width="16" alt=""> Recently Played
-
-- **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
-- **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
-- **[Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK)** by **Mother Mother** *(O My Heart)*
-- **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
-- **[realornot?](https://open.spotify.com/track/6C0tLRlczAtO5nnbCjvjPp)** by **wev** *(realornot?)*
+<p align="center"><code>0:41</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:51</code></p>
 
 
-### <img src="./assets/icons/users-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/users-dark.svg#gh-dark-mode-only" width="16" alt=""> Top Artists *(Short Term)*
+### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#3** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#5** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
+- **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)* - `just now`
+- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `4 min ago`
+- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `7 min ago`
+- **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)* - `11 min ago`
+- **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)* - `13 min ago`
 
 
-### <img src="./assets/icons/list-music-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/list-music-dark.svg#gh-dark-mode-only" width="16" alt=""> Top Tracks *(Short Term)*
+### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#2** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#3** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
-- <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
 
-<img src="./assets/icons/clock3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/clock3-dark.svg#gh-dark-mode-only" width="16" alt=""> *Last updated: 2026-02-15 12:31:52 UTC*
+
+### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
+
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
+
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 12:39:48 UTC*
 <!-- SPOTIFY-END -->
