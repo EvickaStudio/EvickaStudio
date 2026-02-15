@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273baf64818fb48b0608ae90ef0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fd4a18493204ded82b0c7b00" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Hold On](https://open.spotify.com/track/2bbl3t9UVUjYUVZ9k8bcm8)**
-*by* **Spiritualized**
-*Album:* Amazing Grace
+**🎵 [Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)**
+*by* **múm**
+*Album:* Finally We Are No One
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="276" height="4" fill="#1db954" rx="2"/>
-    <circle cx="276" cy="2" r="6" fill="#1db954"/>
+    <rect width="259" height="4" fill="#1db954" rx="2"/>
+    <circle cx="259" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:36 • 3:54
+    4:12 • 4:51
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Damaged](https://open.spotify.com/track/4c88q3SeqVQKs4JFPfR9Dj)** by **Spiritualized** *(And Nothing Hurt)*
-🎤 **[Hey Jane](https://open.spotify.com/track/151g5hGUYDxImwHO3fZnd5)** by **Spiritualized** *(Sweet Heart Sweet Light)*
-🎤 **[Harmony 2 (Piano)](https://open.spotify.com/track/4FrxNQlyOB6lqblubx5uaq)** by **Spiritualized** *(Songs in A&E)*
-🎤 **[Let It Bleed (For Iggy)](https://open.spotify.com/track/6dfEmo9ZhzCo1tyysVNuaK)** by **Spiritualized** *(Everything Was Beautiful)*
-🎤 **[The Straight and Narrow](https://open.spotify.com/track/4CHW97b3KvyEYzw6IaDZ1H)** by **Spiritualized** *(Let It Come Down)*
+🎤 **[Contender](https://open.spotify.com/track/3rDtZRThiTOHw5jDSQ3u6N)** by **The Pains Of Being Pure At Heart** *(The Pains of Being Pure at Heart)*
+🎤 **[Vapour Trail - 2001 Remaster](https://open.spotify.com/track/58AWfmYbSeMywgJtXkey7Q)** by **Ride** *(Nowhere (Expanded))*
+🎤 **[Gold Day](https://open.spotify.com/track/7yZF4VuAjjcXjcMbqwZtQc)** by **Sparklehorse** *(It's A Wonderful Life)*
+🎤 **[Cool Waves](https://open.spotify.com/track/2SmPYXFXcZTexcULk6ofQj)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[Let's Dance](https://open.spotify.com/track/6XaZC8IdBgXscKcA5NuQaT)** by **Spiritualized** *(And Nothing Hurt)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 07:53:50Z UTC
+🕐 Last updated: 2026-02-15 08:23:28Z UTC
 <!-- SPOTIFY-END -->
