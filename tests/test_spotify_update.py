@@ -1,4 +1,9 @@
-import spotify_update as su
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+import spotify_update as su  # noqa: E402
 
 
 def test_format_duration() -> None:
@@ -7,20 +12,35 @@ def test_format_duration() -> None:
     assert su.format_duration(125000) == "2:05"
 
 
-# def test_create_progress_bar_empty() -> None:
-#     bar = su.create_progress_bar(0, 100, width=5)
-#     assert set(bar) <= {"▬"}
-#     assert len(bar) == 5
+def test_create_progress_bar_empty() -> None:
+    bar = su.create_progress_bar(0, 100_000, width=10)
+    assert "░" * 10 in bar
+    assert "`0:00`" in bar
 
 
-# def test_create_progress_bar_partial() -> None:
-#     bar = su.create_progress_bar(50, 100, width=10)
-#     assert "🔘" in bar
-#     assert len(bar) == 10
+def test_create_progress_bar_half() -> None:
+    bar = su.create_progress_bar(50_000, 100_000, width=10)
+    assert "▓" * 5 in bar
+    assert "░" * 5 in bar
+
+
+def test_create_progress_bar_full() -> None:
+    bar = su.create_progress_bar(100_000, 100_000, width=10)
+    assert "▓" * 10 in bar
+    assert "░" not in bar
+
+
+def test_create_progress_bar_zero_duration() -> None:
+    bar = su.create_progress_bar(50_000, 0, width=10)
+    assert "░" * 10 in bar
 
 
 def test_update_readme(tmp_path, monkeypatch) -> None:
-    content = "prefix\n<!-- SPOTIFY-START -->\nold\n<!-- SPOTIFY-END -->\nsuffix"  # noqa: E501
+    content = (
+        "prefix\n"
+        "<!-- SPOTIFY-START -->\nold\n<!-- SPOTIFY-END -->\n"
+        "suffix"
+    )
     readme = tmp_path / "README.md"
     readme.write_text(content, encoding="utf-8")
     monkeypatch.chdir(tmp_path)
@@ -31,3 +51,5 @@ def test_update_readme(tmp_path, monkeypatch) -> None:
     su.update_readme()
     updated = readme.read_text(encoding="utf-8")
     assert "<!-- SPOTIFY-START -->\nnew\n<!-- SPOTIFY-END -->" in updated
+    assert "prefix" in updated
+    assert "suffix" in updated
