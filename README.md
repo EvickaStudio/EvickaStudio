@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734cac4a4cc899ccf1b9eed0bb" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0">healing spiritual echo</a></strong><br/>
-  <em>by</em> <strong>meat computer</strong><br/>
-  <em>Album:</em> slept on the floor still dreamt about you (pop edition)
-</p>
-
-<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:44</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)* - `1 min ago`
-- **[is this really what you want?](https://open.spotify.com/track/4vTmXAihY7QGYJrl7pCRrQ)** by **SHEMYYY** *(is this really what you want?)* - `4 min ago`
-- **[Valentine](https://open.spotify.com/track/2umZSq29BKffclefAP4wQJ)** by **heartcoregirl** *(Lullabies)* - `6 min ago`
-- **[digital holocaust](https://open.spotify.com/track/38fW2bWMcuy4fTyCzQTBbr)** by **Levi Ryan** *(soviet winter)* - `9 min ago`
-- **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)* - `12 min ago`
+- **[PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(PLANET)* - `5 min ago`
+- **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)* - `22 min ago`
+- **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)* - `24 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `27 min ago`
+- **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)* - `30 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 22:48:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 23:18:10 UTC*
 <!-- SPOTIFY-END -->
