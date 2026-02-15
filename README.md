@@ -96,10 +96,10 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)* - `39 min ago`
-- **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)* - `42 min ago`
-- **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `43 min ago`
-- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `47 min ago`
+- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)* - `1 h ago`
+- **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)* - `1 h ago`
+- **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `1 h ago`
+- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `1 h ago`
 - **[Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)** by **$uicideboy$** *(7th or St. Tammany)* - `1 h ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 18:59:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 19:29:03 UTC*
 <!-- SPOTIFY-END -->
