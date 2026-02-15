@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733cf4392ea0a052cec53e8297" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27317e2db8cf192f0600775b915" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1c1CFCEYP9Pxysyjtae3Yu">LAUF WEITER</a></strong><br/>
-  <em>by</em> <strong>5v</strong><br/>
-  <em>Album:</em> Bad Intentions
+  <strong><a href="https://open.spotify.com/track/5m1JXZ6mZtwbMuMWJIuEfn">Blood Moon</a></strong><br/>
+  <em>by</em> <strong>reverie, DJmegan23, 5v, voidd, softv1rus</strong><br/>
+  <em>Album:</em> New Moon
 </p>
 
-<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>1:48</code></p>
+<p align="center"><code>2:26</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>4:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lalala](https://open.spotify.com/track/3i6nLEvCHf4FKbpq4F0bbo)** by **Julux, Monstertruckpunk, JB 50** *(lalala)* - `1 min ago`
-- **[lonely tonight](https://open.spotify.com/track/2YYsoCPVueY80FIZ7Fo1hl)** by **archive computer** *(lonely tonight)* - `4 min ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `5 min ago`
-- **[survive](https://open.spotify.com/track/22kETOqu5tCWJALjyGXELC)** by **nyxixide, lovepopstarzz, Pröz, kets4eki** *(survive)* - `9 min ago`
-- **[Negative XP](https://open.spotify.com/track/6KpwVlibZELGYMZF2ruhGn)** by **S3RL** *(Negative XP)* - `11 min ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `1 min ago`
+- **[STAMINA](https://open.spotify.com/track/1inHMldquNFoA3o3jrj4Bo)** by **5v, humanangst** *(Bad Intentions)* - `5 min ago`
+- **[Heavensent Freestyle](https://open.spotify.com/track/22JikYmfGFzXWB40VqYZEg)** by **Monk, BHZ** *(Heavensent Freestyle)* - `7 min ago`
+- **[soul & beyond it](https://open.spotify.com/track/0yrPx0eap8PzNhMXNVJHGF)** by **temcandoanything, 16:9 krollo ✥** *(soul & beyond it)* - `9 min ago`
+- **[cyber rave](https://open.spotify.com/track/5GV2huJKYY8u3fC8fYrTrP)** by **cy4ne, EAERAN** *(cyber rave)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 14:03:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 14:45:15 UTC*
 <!-- SPOTIFY-END -->
