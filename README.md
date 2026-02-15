@@ -95,7 +95,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273baf64818fb48b0608ae90ef0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Oh Baby](https://open.spotify.com/track/7J7ryR9jO9klSgXvQDVfYl)**
+**🎵 [Hold On](https://open.spotify.com/track/2bbl3t9UVUjYUVZ9k8bcm8)**
 *by* **Spiritualized**
 *Album:* Amazing Grace
 
@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="300" height="4" fill="#1db954" rx="2"/>
-    <circle cx="300" cy="2" r="6" fill="#1db954"/>
+    <rect width="276" height="4" fill="#1db954" rx="2"/>
+    <circle cx="276" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:10 • 4:10
+    3:36 • 3:54
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Death Take Your Fiddle](https://open.spotify.com/track/2aSS3WArzIUU8PqY8FGmMb)** by **Spiritualized** *(Songs in A&E)*
-🎤 **[So Long You Pretty Thing](https://open.spotify.com/track/3XKGIK8gFOdFvJD4sglpGd)** by **Spiritualized** *(Sweet Heart Sweet Light)*
-🎤 **[Stop Your Crying](https://open.spotify.com/track/1EEL8DIaXO07NSatBjAzik)** by **Spiritualized** *(Let It Come Down)*
-🎤 **[Lord Let It Rain On Me](https://open.spotify.com/track/0DAaWfqcjbm4T9LDCy6ORh)** by **Spiritualized** *(Amazing Grace)*
-🎤 **[Crazy](https://open.spotify.com/track/3ggBC4UlL8rEf5all0Io7w)** by **Spiritualized** *(Everything Was Beautiful)*
+🎤 **[Damaged](https://open.spotify.com/track/4c88q3SeqVQKs4JFPfR9Dj)** by **Spiritualized** *(And Nothing Hurt)*
+🎤 **[Hey Jane](https://open.spotify.com/track/151g5hGUYDxImwHO3fZnd5)** by **Spiritualized** *(Sweet Heart Sweet Light)*
+🎤 **[Harmony 2 (Piano)](https://open.spotify.com/track/4FrxNQlyOB6lqblubx5uaq)** by **Spiritualized** *(Songs in A&E)*
+🎤 **[Let It Bleed (For Iggy)](https://open.spotify.com/track/6dfEmo9ZhzCo1tyysVNuaK)** by **Spiritualized** *(Everything Was Beautiful)*
+🎤 **[The Straight and Narrow](https://open.spotify.com/track/4CHW97b3KvyEYzw6IaDZ1H)** by **Spiritualized** *(Let It Come Down)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 07:25:44Z UTC
+🕐 Last updated: 2026-02-15 07:53:50Z UTC
 <!-- SPOTIFY-END -->
