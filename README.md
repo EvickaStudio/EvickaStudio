@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fd4a18493204ded82b0c7b00" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)**
-*by* **múm**
-*Album:* Finally We Are No One
+**🎵 [I Think I'm in Love](https://open.spotify.com/track/4QvdgQSQnOUza57BmPK4fZ)**
+*by* **Spiritualized**
+*Album:* Ladies and gentlemen we are floating in space
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="259" height="4" fill="#1db954" rx="2"/>
-    <circle cx="259" cy="2" r="6" fill="#1db954"/>
+    <rect width="77" height="4" fill="#1db954" rx="2"/>
+    <circle cx="77" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    4:12 • 4:51
+    2:07 • 8:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Contender](https://open.spotify.com/track/3rDtZRThiTOHw5jDSQ3u6N)** by **The Pains Of Being Pure At Heart** *(The Pains of Being Pure at Heart)*
-🎤 **[Vapour Trail - 2001 Remaster](https://open.spotify.com/track/58AWfmYbSeMywgJtXkey7Q)** by **Ride** *(Nowhere (Expanded))*
-🎤 **[Gold Day](https://open.spotify.com/track/7yZF4VuAjjcXjcMbqwZtQc)** by **Sparklehorse** *(It's A Wonderful Life)*
-🎤 **[Cool Waves](https://open.spotify.com/track/2SmPYXFXcZTexcULk6ofQj)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Let's Dance](https://open.spotify.com/track/6XaZC8IdBgXscKcA5NuQaT)** by **Spiritualized** *(And Nothing Hurt)*
+🎤 **[Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[Popstar researching oblivion](https://open.spotify.com/track/79RWsdvJOlMHZ5XHdvoiLT)** by **Flotation Toy Warning** *(Bluffer's guide to the flight deck)*
+🎤 **[Hey Moon](https://open.spotify.com/track/2NJGAT43AvS7BQvn2017yS)** by **John Maus** *(We Must Become the Pitiless Censors of Ourselves)*
+🎤 **[new you](https://open.spotify.com/track/7lZIMb2AD7T09fZlqOQJ0q)** by **my bloody valentine** *(m b v)*
+🎤 **[Grace Cathedral Park](https://open.spotify.com/track/78FJDOBOhAG9UpXd4cqEhx)** by **Red House Painters** *(Red House Painters I)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 08:23:28Z UTC
+🕐 Last updated: 2026-02-15 08:55:36Z UTC
 <!-- SPOTIFY-END -->
