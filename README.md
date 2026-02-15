@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27300410aa0bf43bdfadd644aa3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734cac4a4cc899ccf1b9eed0bb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/17FGEPZDoDo63uxJckYjXd">low light</a></strong><br/>
-  <em>by</em> <strong>Levi Ryan</strong><br/>
-  <em>Album:</em> low light
+  <strong><a href="https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0">healing spiritual echo</a></strong><br/>
+  <em>by</em> <strong>meat computer</strong><br/>
+  <em>Album:</em> slept on the floor still dreamt about you (pop edition)
 </p>
 
-<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:37</code></p>
+<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[PRZAC](https://open.spotify.com/track/6aUnbs2reEcV23cJvumFCw)** by **hxly xo, Levi Ryan** *(Synthetic Fauna)* - `2 min ago`
-- **[construction of love](https://open.spotify.com/track/2bDgbym0QjuAKZBQFt5dfV)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `5 min ago`
-- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `7 min ago`
-- **[Eternal High](https://open.spotify.com/track/0FHlkIxtC3gDivUrQvrbEQ)** by **dreamstation, Levi Ryan** *(Dreamcore, Vol. 1)* - `9 min ago`
-- **[Hotel suite](https://open.spotify.com/track/3gfJb22MINp3Ro7RyxgR2V)** by **heartcoregirl** *(Lullabies)* - `11 min ago`
+- **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)* - `1 min ago`
+- **[is this really what you want?](https://open.spotify.com/track/4vTmXAihY7QGYJrl7pCRrQ)** by **SHEMYYY** *(is this really what you want?)* - `4 min ago`
+- **[Valentine](https://open.spotify.com/track/2umZSq29BKffclefAP4wQJ)** by **heartcoregirl** *(Lullabies)* - `6 min ago`
+- **[digital holocaust](https://open.spotify.com/track/38fW2bWMcuy4fTyCzQTBbr)** by **Levi Ryan** *(soviet winter)* - `9 min ago`
+- **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 22:22:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 22:48:30 UTC*
 <!-- SPOTIFY-END -->
