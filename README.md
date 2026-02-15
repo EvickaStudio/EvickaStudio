@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273f7fb732d76ce90cd36be362c" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ)**
-*by* **pluko**
-*Album:* FALLING
+**🎵 [RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)**
+*by* **Tyler, The Creator**
+*Album:* IGOR
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="235" height="4" fill="#1db954" rx="2"/>
-    <circle cx="235" cy="2" r="6" fill="#1db954"/>
+    <rect width="126" height="4" fill="#1db954" rx="2"/>
+    <circle cx="126" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 2:42
+    1:14 • 2:57
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Summertime Sadness - Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV)** by **Lana Del Rey, Speed Radio** *(Summertime Sadness (Sped Up))*
-🎤 **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)*
-🎤 **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)*
-🎤 **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)*
-🎤 **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)*
+🎤 **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)*
+🎤 **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)*
+🎤 **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)*
+🎤 **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)*
+🎤 **[FALLING](https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ)** by **pluko** *(FALLING)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 11:43:00Z UTC
+🕐 Last updated: 2026-02-15 11:54:59Z UTC
 <!-- SPOTIFY-END -->
