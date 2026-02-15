@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27355a71a721f700dd70997c8a5" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab6742d3000053b79025a583bf641f0e139859e3" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)**
-*by* **luvarrow, mental**
-*Album:* behave
+**🎵 [Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/2bjaPqNPsAcHFvtqT8EC2i)**
+*by* **Jassin, Edwin Rosen**
+*Album:* Wieder zurück (feat. Edwin Rosen)
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="282" height="4" fill="#1db954" rx="2"/>
-    <circle cx="282" cy="2" r="6" fill="#1db954"/>
+    <rect width="65" height="4" fill="#1db954" rx="2"/>
+    <circle cx="65" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:25 • 2:34
+    0:53 • 4:06
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Let It Flow](https://open.spotify.com/track/1c8p5UwsBxVbyCBPdZIndL)** by **Spiritualized** *(Pure Phase)*
-🎤 **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)*
-🎤 **[Soul On Fire](https://open.spotify.com/track/5jc3RVYdLcmET3XRcMUxTe)** by **Spiritualized** *(Songs in A&E)*
-🎤 **[Run](https://open.spotify.com/track/4zRuq3KQr0Rh4GauyKRoNp)** by **Spiritualized** *(Lazer Guided Melodies)*
-🎤 **[Do It All Over Again](https://open.spotify.com/track/0ZNe4ar47OP0ztxhSOkMqX)** by **Spiritualized** *(Let It Come Down)*
+🎤 **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)*
+🎤 **[Teufel](https://open.spotify.com/track/503SCbKk3X6DpOVJE3L93v)** by **Miese Mau** *(Verbrecher)*
+🎤 **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)*
+🎤 **[Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX)** by **Take Care** *(Agony)*
+🎤 **[heaven](https://open.spotify.com/track/3Tki5V7vhAU9s2KN6905hq)** by **Yandere** *(heaven)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 10:51:40Z UTC
+🕐 Last updated: 2026-02-15 11:16:25Z UTC
 <!-- SPOTIFY-END -->
