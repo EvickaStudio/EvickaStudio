@@ -49,15 +49,13 @@ AUTH_RETRY_BASE_DELAY = float(
 
 def icon_tag(name: str, alt: str) -> str:
     """
-    Return dark/light mode icon HTML using local SVG assets.
+    Return GitHub dark/light mode icon HTML using local SVG assets.
     """
     return (
-        "<picture>"
-        f"<source media=\"(prefers-color-scheme: dark)\" "
-        f"srcset=\"./assets/icons/{name}-dark.svg\">"
-        f"<img src=\"./assets/icons/{name}-light.svg\" "
-        f"width=\"16\" alt=\"{alt}\">"
-        "</picture>"
+        f"<img src=\"./assets/icons/{name}-light.svg#gh-light-mode-only\" "
+        f"width=\"16\" alt=\"\">"
+        f"<img src=\"./assets/icons/{name}-dark.svg#gh-dark-mode-only\" "
+        f"width=\"16\" alt=\"\">"
     )
 
 
@@ -80,8 +78,7 @@ def _require_env(name: str) -> str:
     """
     Return required environment variable, otherwise raise ValueError.
     """
-    value = os.getenv(name)
-    if value:
+    if value := os.getenv(name):
         return value
     raise ValueError(f"Missing required environment variable: {name}")
 
@@ -227,7 +224,7 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
             block.extend(
                 [
                     '<p align="center">',
-                    f'  <img src="{cover}" alt="Cover" width="120" />',
+                    f'  <img src="{cover}" alt="" width="120" />',
                     "</p>",
                     "",
                 ]
@@ -288,7 +285,7 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
             url = cast(str, external_urls.get("spotify", ""))
             album_data = cast(dict[str, Any], track.get("album", {}))
             album = cast(str, album_data.get("name", ""))
-            block.append(f"**[{name}]({url})** by **{artists}** *({album})*")
+            block.append(f"- **[{name}]({url})** by **{artists}** *({album})*")
 
         block.append("")
     except (
@@ -335,7 +332,7 @@ def generate_top_artists_block(sp: spotipy.Spotify) -> List[str]:
                     "",
                 ),
             )
-            block.append(f"{rank_prefix(index)} [**{name}**]({url})")
+            block.append(f"- {rank_prefix(index)} [**{name}**]({url})")
 
         block.append("")
     except (
@@ -380,7 +377,7 @@ def generate_top_tracks_block(sp: spotipy.Spotify) -> List[str]:
                     "",
                 ),
             )
-            block.append(f"{rank_prefix(index)} [**{name}**]({url})")
+            block.append(f"- {rank_prefix(index)} [**{name}**]({url})")
 
         block.append("")
     except (
