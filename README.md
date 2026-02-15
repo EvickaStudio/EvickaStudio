@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27323ac84a525286001770abc8e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv">I Am A Destiny</a></strong><br/>
-  <em>by</em> <strong>Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom</strong><br/>
-  <em>Album:</em> Iliad Unspoken
+  <strong><a href="https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7">Flim</a></strong><br/>
+  <em>by</em> <strong>Aphex Twin</strong><br/>
+  <em>Album:</em> Come To Daddy
 </p>
 
-<p align="center"><code>0:10</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:44</code></p>
+<p align="center"><code>0:41</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:57</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))* - `just now`
-- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `3 min ago`
-- **[tired of life](https://open.spotify.com/track/3eCYUeLbmZOwRQ7tVMMmFq)** by **meat computer** *(soundtrack to the end of a world)* - `5 min ago`
-- **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)* - `8 min ago`
-- **[behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)** by **luvarrow, mental** *(behave)* - `14 min ago`
+- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `just now`
+- **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)* - `7 min ago`
+- **[Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)** by **Varg²™, RXKNephew** *(LD50 VOL.1)* - `10 min ago`
+- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)* - `15 min ago`
+- **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 16:53:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 17:18:54 UTC*
 <!-- SPOTIFY-END -->
