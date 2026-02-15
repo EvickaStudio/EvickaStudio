@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27352f70e41588e2b53f42a957a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Roof](https://open.spotify.com/track/1pAgrtEcO6pF6ekmJsUfVe)**
-*by* **Kev Koko**
-*Album:* Roof
+**🎵 [Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)**
+*by* **Spiritualized**
+*Album:* Ladies and gentlemen we are floating in space
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="154" height="4" fill="#1db954" rx="2"/>
-    <circle cx="154" cy="2" r="6" fill="#1db954"/>
+    <rect width="193" height="4" fill="#1db954" rx="2"/>
+    <circle cx="193" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:27 • 2:49
+    4:17 • 6:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)*
-🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)*
-🎤 **[Everything In Its Right Place - House](https://open.spotify.com/track/0NHzRvrq9uxH4SEBWPWtki)** by **Warband023** *(Everything In Its Right Place (House))*
-🎤 **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)*
-🎤 **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)*
+🎤 **[Lay It Down Slow](https://open.spotify.com/track/2kZ4NJc7eRLUHd5D0BjFMB)** by **Spiritualized** *(Amazing Grace)*
+🎤 **[Come Together](https://open.spotify.com/track/5lI9y4ZbpBsNJp4qd3ewzc)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[Shine a Light](https://open.spotify.com/track/5MFZIkSSZd63sJ4BOu5jb4)** by **Spiritualized** *(Lazer Guided Melodies)*
+🎤 **[I Think I'm in Love](https://open.spotify.com/track/4QvdgQSQnOUza57BmPK4fZ)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 02:12:55Z UTC
+🕐 Last updated: 2026-02-15 04:30:06Z UTC
 <!-- SPOTIFY-END -->
