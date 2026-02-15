@@ -95,7 +95,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [I Think I'm in Love](https://open.spotify.com/track/4QvdgQSQnOUza57BmPK4fZ)**
+**🎵 [Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)**
 *by* **Spiritualized**
 *Album:* Ladies and gentlemen we are floating in space
 
@@ -103,12 +103,12 @@
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="77" height="4" fill="#1db954" rx="2"/>
-    <circle cx="77" cy="2" r="6" fill="#1db954"/>
+    <rect width="294" height="4" fill="#1db954" rx="2"/>
+    <circle cx="294" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    2:07 • 8:10
+    6:30 • 6:38
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
+🎤 **[Lay It Down Slow](https://open.spotify.com/track/2kZ4NJc7eRLUHd5D0BjFMB)** by **Spiritualized** *(Amazing Grace)*
+🎤 **[Come Together](https://open.spotify.com/track/5lI9y4ZbpBsNJp4qd3ewzc)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
+🎤 **[Shine a Light](https://open.spotify.com/track/5MFZIkSSZd63sJ4BOu5jb4)** by **Spiritualized** *(Lazer Guided Melodies)*
+🎤 **[I Think I'm in Love](https://open.spotify.com/track/4QvdgQSQnOUza57BmPK4fZ)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
 🎤 **[Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Popstar researching oblivion](https://open.spotify.com/track/79RWsdvJOlMHZ5XHdvoiLT)** by **Flotation Toy Warning** *(Bluffer's guide to the flight deck)*
-🎤 **[Hey Moon](https://open.spotify.com/track/2NJGAT43AvS7BQvn2017yS)** by **John Maus** *(We Must Become the Pitiless Censors of Ourselves)*
-🎤 **[new you](https://open.spotify.com/track/7lZIMb2AD7T09fZlqOQJ0q)** by **my bloody valentine** *(m b v)*
-🎤 **[Grace Cathedral Park](https://open.spotify.com/track/78FJDOBOhAG9UpXd4cqEhx)** by **Red House Painters** *(Red House Painters I)*
 
 
 
@@ -130,7 +130,7 @@
 🥈 [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 🥉 [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 🏅 [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-🏅 [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+🏅 [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 08:55:36Z UTC
+🕐 Last updated: 2026-02-15 09:25:07Z UTC
 <!-- SPOTIFY-END -->
