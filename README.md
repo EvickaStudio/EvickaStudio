@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b27352f70e41588e2b53f42a957a" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)**
-*by* **Whitearmor**
-*Album:* In the Abyss: Music for Weddings
+**🎵 [Roof](https://open.spotify.com/track/1pAgrtEcO6pF6ekmJsUfVe)**
+*by* **Kev Koko**
+*Album:* Roof
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="130" height="4" fill="#1db954" rx="2"/>
-    <circle cx="130" cy="2" r="6" fill="#1db954"/>
+    <rect width="154" height="4" fill="#1db954" rx="2"/>
+    <circle cx="154" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:11 • 2:43
+    1:27 • 2:49
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[Auf den Dächern der Stadt](https://open.spotify.com/track/4QgWqv5PfoHFUv7f6wKagp)** by **Lugatti & 9ine** *(MKS 3.0)*
-🎤 **[⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆](https://open.spotify.com/track/2iPcZ48HmKSZlOeRN59lGo)** by **snafu, weirdo girl** *(⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆)*
-🎤 **[BUTTERFLY KISSES](https://open.spotify.com/track/1HXQt7g2YbKYtcMx2sHoCU)** by **Antwon, Lil Peep** *(BUTTERFLY KISSES)*
-🎤 **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)*
-🎤 **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)*
+🎤 **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)*
+🎤 **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)*
+🎤 **[Everything In Its Right Place - House](https://open.spotify.com/track/0NHzRvrq9uxH4SEBWPWtki)** by **Warband023** *(Everything In Its Right Place (House))*
+🎤 **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)*
+🎤 **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-14 23:58:00Z UTC
+🕐 Last updated: 2026-02-15 02:12:55Z UTC
 <!-- SPOTIFY-END -->
