@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27394fac2b49df6adce1521db9d" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273fa7341a0b60e3e4f90cb458b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Always Together With You](https://open.spotify.com/track/6JRhY1HxkxdPTdHf0ywvSg)**
+**🎵 [Out of Sight](https://open.spotify.com/track/0VAC0qEHH7gVDJi1CglA6X)**
 *by* **Spiritualized**
-*Album:* Everything Was Beautiful
+*Album:* Let It Come Down
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="140" height="4" fill="#1db954" rx="2"/>
-    <circle cx="140" cy="2" r="6" fill="#1db954"/>
+    <rect width="88" height="4" fill="#1db954" rx="2"/>
+    <circle cx="88" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    3:06 • 6:38
+    1:48 • 6:09
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[I Want You](https://open.spotify.com/track/5C0pECjyE8yLH91eBB6noT)** by **Spiritualized** *(Lazer Guided Melodies)*
-🎤 **[All of My Tears](https://open.spotify.com/track/0Jsv4Dw0oPKiJTU1sPH8V0)** by **Spiritualized** *(Pure Phase)*
-🎤 **[Feel so Sad - Glides and Chimes](https://open.spotify.com/track/0vl1wGsduDeFBJgXaaF668)** by **Spiritualized** *(The Complete Works, Vol. 1)*
-🎤 **[If I Were with Her Now](https://open.spotify.com/track/2ozI3VNDpzQbpVtZ34Y61G)** by **Spiritualized** *(Lazer Guided Melodies)*
-🎤 **[Let It Flow](https://open.spotify.com/track/1c8p5UwsBxVbyCBPdZIndL)** by **Spiritualized** *(Pure Phase)*
+🎤 **[A Perfect Miracle](https://open.spotify.com/track/7wLUliH9dLlRJixrZuoB8a)** by **Spiritualized** *(And Nothing Hurt)*
+🎤 **[Always Forgetting with You (The Bridge Song)](https://open.spotify.com/track/4XexgTaR7iIHwypjq0gOJm)** by **Spiritualized** *(The Space Project)*
+🎤 **[Don't Just Do Something](https://open.spotify.com/track/1OAlbAT8XQGlwxYX0OlTXS)** by **Spiritualized** *(Let It Come Down)*
+🎤 **[Goodnight Goodnight](https://open.spotify.com/track/7GocXozZ0Gxb8sC9tDrVBE)** by **Spiritualized** *(Songs in A&E)*
+🎤 **[Best Thing You Never Had (The D Song)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh)** by **Spiritualized** *(Everything Was Beautiful)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 05:39:41Z UTC
+🕐 Last updated: 2026-02-15 06:30:26Z UTC
 <!-- SPOTIFY-END -->
