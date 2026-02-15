@@ -92,23 +92,23 @@
 ### 🟢 Now Playing
 
 <p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b273fa7341a0b60e3e4f90cb458b" alt="Cover Art" width="120" style="border-radius: 8px;"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273baf64818fb48b0608ae90ef0" alt="Cover Art" width="120" style="border-radius: 8px;"/>
 </p>
 
-**🎵 [Out of Sight](https://open.spotify.com/track/0VAC0qEHH7gVDJi1CglA6X)**
+**🎵 [Oh Baby](https://open.spotify.com/track/7J7ryR9jO9klSgXvQDVfYl)**
 *by* **Spiritualized**
-*Album:* Let It Come Down
+*Album:* Amazing Grace
 
 
 <p align="center">
 <svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
     <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="88" height="4" fill="#1db954" rx="2"/>
-    <circle cx="88" cy="2" r="6" fill="#1db954"/>
+    <rect width="300" height="4" fill="#1db954" rx="2"/>
+    <circle cx="300" cy="2" r="6" fill="#1db954"/>
 </svg>
 <br/>
 <span style="font-size: 12px; color: #b3b3b3;">
-    1:48 • 6:09
+    4:10 • 4:10
 </span>
 </p>
 
@@ -116,11 +116,11 @@
 
 ### 📜 Recently Played
 
-🎤 **[A Perfect Miracle](https://open.spotify.com/track/7wLUliH9dLlRJixrZuoB8a)** by **Spiritualized** *(And Nothing Hurt)*
-🎤 **[Always Forgetting with You (The Bridge Song)](https://open.spotify.com/track/4XexgTaR7iIHwypjq0gOJm)** by **Spiritualized** *(The Space Project)*
-🎤 **[Don't Just Do Something](https://open.spotify.com/track/1OAlbAT8XQGlwxYX0OlTXS)** by **Spiritualized** *(Let It Come Down)*
-🎤 **[Goodnight Goodnight](https://open.spotify.com/track/7GocXozZ0Gxb8sC9tDrVBE)** by **Spiritualized** *(Songs in A&E)*
-🎤 **[Best Thing You Never Had (The D Song)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh)** by **Spiritualized** *(Everything Was Beautiful)*
+🎤 **[Death Take Your Fiddle](https://open.spotify.com/track/2aSS3WArzIUU8PqY8FGmMb)** by **Spiritualized** *(Songs in A&E)*
+🎤 **[So Long You Pretty Thing](https://open.spotify.com/track/3XKGIK8gFOdFvJD4sglpGd)** by **Spiritualized** *(Sweet Heart Sweet Light)*
+🎤 **[Stop Your Crying](https://open.spotify.com/track/1EEL8DIaXO07NSatBjAzik)** by **Spiritualized** *(Let It Come Down)*
+🎤 **[Lord Let It Rain On Me](https://open.spotify.com/track/0DAaWfqcjbm4T9LDCy6ORh)** by **Spiritualized** *(Amazing Grace)*
+🎤 **[Crazy](https://open.spotify.com/track/3ggBC4UlL8rEf5all0Io7w)** by **Spiritualized** *(Everything Was Beautiful)*
 
 
 
@@ -143,5 +143,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 06:30:26Z UTC
+🕐 Last updated: 2026-02-15 07:25:44Z UTC
 <!-- SPOTIFY-END -->
