@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e3862d9af1ad9688c2a0747a" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2eoXNu52PY00Mrd1IFD8ww">pls, sevr my head</a></strong><br/>
-  <em>by</em> <strong>hurtsucca</strong><br/>
-  <em>Album:</em> pls, sevr my head
-</p>
-
-<p align="center"><code>0:42</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:28</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[LAUF WEITER](https://open.spotify.com/track/1c1CFCEYP9Pxysyjtae3Yu)** by **5v** *(Bad Intentions)* - `just now`
-- **[MEDICATE](https://open.spotify.com/track/5SrfudSGvKsCST40CFhzsb)** by **kmrnxo, 4ortake, Pröz** *(MEDICATE)* - `2 min ago`
-- **[lalala](https://open.spotify.com/track/3i6nLEvCHf4FKbpq4F0bbo)** by **Julux, Monstertruckpunk, JB 50** *(lalala)* - `4 min ago`
-- **[lonely tonight](https://open.spotify.com/track/2YYsoCPVueY80FIZ7Fo1hl)** by **archive computer** *(lonely tonight)* - `6 min ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `8 min ago`
+- **[celebrity iconic](https://open.spotify.com/track/3HvhtkkD3iYIQmygxuVhTS)** by **cholorofilm** *(celebrity iconic)* - `5 min ago`
+- **[Ganz weit weg](https://open.spotify.com/track/57TF5FBikoeUdndrXRMIYD)** by **Mars, hqwilli** *(Respawn:/crazyworld)* - `7 min ago`
+- **[erase ur name](https://open.spotify.com/track/58rUmdZzVmKdIukmR5sJar)** by **Clover!, Bandiicam, elara** *(erase ur name)* - `9 min ago`
+- **[drank music](https://open.spotify.com/track/3iwhXg6myIbRW7hDSbSxn7)** by **Nosgov** *(drank music)* - `11 min ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 15:17:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 15:45:39 UTC*
 <!-- SPOTIFY-END -->
