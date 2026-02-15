@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273baf64818fb48b0608ae90ef0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273cccb7dfbda1e334777223540" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2kZ4NJc7eRLUHd5D0BjFMB">Lay It Down Slow</a></strong><br/>
-  <em>by</em> <strong>Spiritualized</strong><br/>
-  <em>Album:</em> Amazing Grace
+  <strong><a href="https://open.spotify.com/track/32GHYtVVAsYNQGafHrrRxv">Take Me To The Sun</a></strong><br/>
+  <em>by</em> <strong>d4vd</strong><br/>
+  <em>Album:</em> Take Me To The Sun
 </p>
 
-<p align="center"><code>3:11</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>5:00</code></p>
+<p align="center"><code>1:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Come Together](https://open.spotify.com/track/5lI9y4ZbpBsNJp4qd3ewzc)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `3 min ago`
-- **[Shine a Light](https://open.spotify.com/track/5MFZIkSSZd63sJ4BOu5jb4)** by **Spiritualized** *(Lazer Guided Melodies)* - `7 min ago`
-- **[I Think I'm in Love](https://open.spotify.com/track/4QvdgQSQnOUza57BmPK4fZ)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `15 min ago`
-- **[Ladies and gentlemen we are floating in space](https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `23 min ago`
-- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)* - `1 h ago`
+- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `1 min ago`
+- **[Electricity](https://open.spotify.com/track/510unyxy4oNWCbyRMajc0w)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `10 min ago`
+- **[Stay with Me](https://open.spotify.com/track/6DBsox9g6jOsWerFwrK7Gx)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `14 min ago`
+- **[You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB)** by **Spiritualized** *(Lazer Guided Melodies)* - `19 min ago`
+- **[Broken Heart](https://open.spotify.com/track/5jxN9knH0vlfpN2Ft7a5xi)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)* - `22 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 20:16:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 20:48:15 UTC*
 <!-- SPOTIFY-END -->
