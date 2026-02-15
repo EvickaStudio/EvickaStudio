@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[celebrity iconic](https://open.spotify.com/track/3HvhtkkD3iYIQmygxuVhTS)** by **cholorofilm** *(celebrity iconic)* - `5 min ago`
-- **[Ganz weit weg](https://open.spotify.com/track/57TF5FBikoeUdndrXRMIYD)** by **Mars, hqwilli** *(Respawn:/crazyworld)* - `7 min ago`
-- **[erase ur name](https://open.spotify.com/track/58rUmdZzVmKdIukmR5sJar)** by **Clover!, Bandiicam, elara** *(erase ur name)* - `9 min ago`
-- **[drank music](https://open.spotify.com/track/3iwhXg6myIbRW7hDSbSxn7)** by **Nosgov** *(drank music)* - `11 min ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `13 min ago`
+- **[celebrity iconic](https://open.spotify.com/track/3HvhtkkD3iYIQmygxuVhTS)** by **cholorofilm** *(celebrity iconic)* - `39 min ago`
+- **[Ganz weit weg](https://open.spotify.com/track/57TF5FBikoeUdndrXRMIYD)** by **Mars, hqwilli** *(Respawn:/crazyworld)* - `41 min ago`
+- **[erase ur name](https://open.spotify.com/track/58rUmdZzVmKdIukmR5sJar)** by **Clover!, Bandiicam, elara** *(erase ur name)* - `43 min ago`
+- **[drank music](https://open.spotify.com/track/3iwhXg6myIbRW7hDSbSxn7)** by **Nosgov** *(drank music)* - `45 min ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `47 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 15:45:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 16:19:38 UTC*
 <!-- SPOTIFY-END -->
