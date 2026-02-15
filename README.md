@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738349bc1fc110a9fcd75dbb8d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27300410aa0bf43bdfadd644aa3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt">economics of war</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/17FGEPZDoDo63uxJckYjXd">low light</a></strong><br/>
   <em>by</em> <strong>Levi Ryan</strong><br/>
-  <em>Album:</em> operation wandering soul
+  <em>Album:</em> low light
 </p>
 
-<p align="center"><code>1:51</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:22</code></p>
+<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[generation x](https://open.spotify.com/track/3dL5ALCRy6tanqZg9osfh8)** by **Levi Ryan** *(operation wandering soul)* - `1 min ago`
-- **[nuclear submarine](https://open.spotify.com/track/6YysyKfKZXltgCi1novq26)** by **Levi Ryan, gl0wrm** *(operation wandering soul)* - `4 min ago`
-- **[the things we carry](https://open.spotify.com/track/4F1nBGK2yeIc5TvqN06vlp)** by **Levi Ryan** *(operation wandering soul)* - `6 min ago`
-- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)* - `9 min ago`
-- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `11 min ago`
+- **[PRZAC](https://open.spotify.com/track/6aUnbs2reEcV23cJvumFCw)** by **hxly xo, Levi Ryan** *(Synthetic Fauna)* - `2 min ago`
+- **[construction of love](https://open.spotify.com/track/2bDgbym0QjuAKZBQFt5dfV)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `5 min ago`
+- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `7 min ago`
+- **[Eternal High](https://open.spotify.com/track/0FHlkIxtC3gDivUrQvrbEQ)** by **dreamstation, Levi Ryan** *(Dreamcore, Vol. 1)* - `9 min ago`
+- **[Hotel suite](https://open.spotify.com/track/3gfJb22MINp3Ro7RyxgR2V)** by **heartcoregirl** *(Lullabies)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 21:57:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 22:22:01 UTC*
 <!-- SPOTIFY-END -->
