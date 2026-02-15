@@ -92,23 +92,23 @@
 ### <img src="./assets/icons/play-circle-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/play-circle-dark.svg#gh-dark-mode-only" width="16" alt=""> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736d82586633548d5c122ee00c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b162ef13da6e9c8d3439ba73" alt="" width="120" />
 </p>
 
-**🎵 [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq)**
-*by* **Mother Mother**
-*Album:* O My Heart
+**🎵 [medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)**
+*by* **blombi19, 2dizzy**
+*Album:* medikament
 
-<p align="center">`3:00` ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ `3:01`</p>
+<p align="center">`3:04` ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ `3:23`</p>
 
 
 ### <img src="./assets/icons/history-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/history-dark.svg#gh-dark-mode-only" width="16" alt=""> Recently Played
 
+- **[doll](https://open.spotify.com/track/4i9PvRz0dBALx6iJPOLI9d)** by **Shrimp** *(doll)*
+- **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)*
+- **[Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK)** by **Mother Mother** *(O My Heart)*
 - **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)*
 - **[realornot?](https://open.spotify.com/track/6C0tLRlczAtO5nnbCjvjPp)** by **wev** *(realornot?)*
-- **[static dreams](https://open.spotify.com/track/6oTDhIMH8R2XSb4iqpae7v)** by **marchpane** *(binary euphoria)*
-- **[GOT UR NUMB3R (v2)](https://open.spotify.com/track/0diD9SEK0oNBOx0p0QGvAB)** by **bugcried** *(GOT UR NUMB3R (v2))*
-- **[i crash, u crash](https://open.spotify.com/track/2miw7jNOAe9Qny5TG3vGyg)** by **løve.wav, ghøst.wav** *(i crash, u crash)*
 
 
 ### <img src="./assets/icons/users-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/users-dark.svg#gh-dark-mode-only" width="16" alt=""> Top Artists *(Short Term)*
@@ -128,5 +128,5 @@
 - <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/disc3-dark.svg#gh-dark-mode-only" width="16" alt=""> **#5** [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
-<img src="./assets/icons/clock3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/clock3-dark.svg#gh-dark-mode-only" width="16" alt=""> *Last updated: 2026-02-15 12:22:40 UTC*
+<img src="./assets/icons/clock3-light.svg#gh-light-mode-only" width="16" alt=""><img src="./assets/icons/clock3-dark.svg#gh-dark-mode-only" width="16" alt=""> *Last updated: 2026-02-15 12:31:52 UTC*
 <!-- SPOTIFY-END -->
