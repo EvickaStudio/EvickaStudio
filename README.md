@@ -91,36 +91,17 @@
 
 ### 🟢 Now Playing
 
-<p align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b27343b0f176db65d900944f6422" alt="Cover Art" width="120" style="border-radius: 8px;"/>
-</p>
-
-**🎵 [Anyway That You Want Me](https://open.spotify.com/track/7uhMeuq98zIoJM8KWrFpc1)**
-*by* **Spiritualized**
-*Album:* The Complete Works, Vol. 1
-
-
-<p align="center">
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" fill="#282828" rx="2"/>
-    <rect width="294" height="4" fill="#1db954" rx="2"/>
-    <circle cx="294" cy="2" r="6" fill="#1db954"/>
-</svg>
-<br/>
-<span style="font-size: 12px; color: #b3b3b3;">
-    6:20 • 6:27
-</span>
-</p>
+🎵 Not playing anything right now.
 
 
 
 ### 📜 Recently Played
 
+🎤 **[Soul On Fire](https://open.spotify.com/track/5jc3RVYdLcmET3XRcMUxTe)** by **Spiritualized** *(Songs in A&E)*
+🎤 **[Run](https://open.spotify.com/track/4zRuq3KQr0Rh4GauyKRoNp)** by **Spiritualized** *(Lazer Guided Melodies)*
+🎤 **[Do It All Over Again](https://open.spotify.com/track/0ZNe4ar47OP0ztxhSOkMqX)** by **Spiritualized** *(Let It Come Down)*
+🎤 **[Anyway That You Want Me](https://open.spotify.com/track/7uhMeuq98zIoJM8KWrFpc1)** by **Spiritualized** *(The Complete Works, Vol. 1)*
 🎤 **[The Slide Song](https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0)** by **Spiritualized** *(Pure Phase)*
-🎤 **[All of My Thoughts](https://open.spotify.com/track/3IwLbpcJuoFBdqod2XwDZa)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Electricity](https://open.spotify.com/track/510unyxy4oNWCbyRMajc0w)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[Stay with Me](https://open.spotify.com/track/6DBsox9g6jOsWerFwrK7Gx)** by **Spiritualized** *(Ladies and gentlemen we are floating in space)*
-🎤 **[You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB)** by **Spiritualized** *(Lazer Guided Melodies)*
 
 
 
@@ -143,5 +124,5 @@
 🏅 [**Level 99**](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)
 
 
-🕐 Last updated: 2026-02-15 09:52:40Z UTC
+🕐 Last updated: 2026-02-15 10:18:34Z UTC
 <!-- SPOTIFY-END -->
