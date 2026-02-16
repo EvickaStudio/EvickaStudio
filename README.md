@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730713102d7bb855a4796f7cdc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G">Nope your too late i already died</a></strong><br/>
-  <em>by</em> <strong>wifiskeleton, i wanna be a jack-o-lantern</strong><br/>
-  <em>Album:</em> suburban daredevil
+  <strong><a href="https://open.spotify.com/track/1zX178V8sWozr96MrfmRun">Western Union</a></strong><br/>
+  <em>by</em> <strong>Ecco2k, Thaiboy Digital, Bladee</strong><br/>
+  <em>Album:</em> Trash Island
 </p>
 
-<p align="center"><code>0:28</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:30</code></p>
+<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Miracle](https://open.spotify.com/track/6xJZmA4B5e6atru3Fk4ILw)** by **Cece Natalie** *(Miracle)* - `just now`
-- **[SUGAR COOKIE](https://open.spotify.com/track/0vfEegPFOkJe273ubHxpeF)** by **Diamond Doll xo, Goldilux, AKA Furbie** *(SUGAR COOKIE)* - `5 min ago`
-- **[Next Level Charli](https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16)** by **Charli xcx** *(Charli)* - `8 min ago`
-- **[Poker Face](https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg)** by **Lady Gaga** *(The Fame)* - `10 min ago`
-- **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)* - `13 min ago`
+- **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)* - `1 min ago`
+- **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)* - `4 min ago`
+- **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)* - `8 min ago`
+- **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)* - `10 min ago`
+- **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 11:53:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 12:42:58 UTC*
 <!-- SPOTIFY-END -->
