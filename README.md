@@ -96,10 +96,10 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `2 h ago`
-- **[Just a Phase](https://open.spotify.com/track/3sTCMW7kF2QrskdocYSdwQ)** by **Volcan Peaks** *(Phases)* - `2 h ago`
-- **[I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc)** by **The Walters** *(I Love You So)* - `2 h ago`
-- **[WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)** by **Billie Eilish** *(HIT ME HARD AND SOFT)* - `2 h ago`
+- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `3 h ago`
+- **[Just a Phase](https://open.spotify.com/track/3sTCMW7kF2QrskdocYSdwQ)** by **Volcan Peaks** *(Phases)* - `3 h ago`
+- **[I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc)** by **The Walters** *(I Love You So)* - `3 h ago`
+- **[WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)** by **Billie Eilish** *(HIT ME HARD AND SOFT)* - `3 h ago`
 - **[No. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S)** by **Arctic Monkeys** *(AM)* - `3 h ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 17:00:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 17:53:57 UTC*
 <!-- SPOTIFY-END -->
