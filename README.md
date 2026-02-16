@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(PLANET)* - `34 min ago`
-- **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)* - `51 min ago`
-- **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)* - `54 min ago`
-- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `57 min ago`
-- **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)* - `59 min ago`
+- **[PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(PLANET)* - `2 h ago`
+- **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)* - `2 h ago`
+- **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)* - `2 h ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `2 h ago`
+- **[Our Chance](https://open.spotify.com/track/1gF3oexOPCELyCPiq14VkA)** by **Eera, Rapallo** *(Our Chance)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-15 23:47:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 01:22:18 UTC*
 <!-- SPOTIFY-END -->
