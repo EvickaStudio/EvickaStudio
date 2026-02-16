@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27386ae7bdad46cecc012bf805d" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1yCBTTm2QzU5eIsGUxlKEh">unlearning you</a></strong><br/>
-  <em>by</em> <strong>Crying City</strong><br/>
-  <em>Album:</em> unlearning you
-</p>
-
-<p align="center"><code>2:01</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:15</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Cry Baby](https://open.spotify.com/track/0EfsDEYaSjGYd66Pr881nq)** by **The Neighbourhood** *(Wiped Out!)* - `1 min ago`
-- **[back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6)** by **sombr** *(back to friends)* - `5 min ago`
-- **[Voicemail (feat. YNG Telly)](https://open.spotify.com/track/73kFEiuLCtjvTVe9ZujMVl)** by **Løvesick, YNG Telly** *(Sorry Doesn't Fix A Broken Heart)* - `8 min ago`
-- **[眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ)** by **MIMiNARI, 楠木ともり** *(眠れない)* - `12 min ago`
-- **[Layla](https://open.spotify.com/track/0g4kJXE7uV4PkFUWw4wLe8)** by **Eric Clapton, Jim Gordon, United States Air Force Band Of Mid-America** *(United States Air Force Band of Mid-America: Ready to Enjoy)* - `15 min ago`
+- **[Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9)** by **Arctic Monkeys** *(AM)* - `14 min ago`
+- **[Uncomfortable](https://open.spotify.com/track/4BreyjJu4w5EUhTKPIQymq)** by **Wallows** *(Uncomfortable)* - `16 min ago`
+- **[Everlong - Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D)** by **Foo Fighters** *(Greatest Hits)* - `21 min ago`
+- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `25 min ago`
+- **[voicemail](https://open.spotify.com/track/28RR2AgLBnIcuIkNftpVPM)** by **ded reception** *(voicemail)* - `29 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 08:26:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 09:11:21 UTC*
 <!-- SPOTIFY-END -->
