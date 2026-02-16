@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp">505</a></strong><br/>
-  <em>by</em> <strong>Arctic Monkeys</strong><br/>
-  <em>Album:</em> Favourite Worst Nightmare
-</p>
-
-<p align="center"><code>0:30</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:13</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ur so pretty](https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf)** by **Wasia Project** *(My Vine)* - `just now`
-- **[I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n)** by **Arctic Monkeys** *(AM)* - `2 min ago`
-- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `5 min ago`
-- **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)* - `10 min ago`
-- **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)* - `13 min ago`
+- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `22 min ago`
+- **[Just a Phase](https://open.spotify.com/track/3sTCMW7kF2QrskdocYSdwQ)** by **Volcan Peaks** *(Phases)* - `26 min ago`
+- **[I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc)** by **The Walters** *(I Love You So)* - `30 min ago`
+- **[WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)** by **Billie Eilish** *(HIT ME HARD AND SOFT)* - `32 min ago`
+- **[No. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S)** by **Arctic Monkeys** *(AM)* - `36 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 13:52:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 14:36:32 UTC*
 <!-- SPOTIFY-END -->
