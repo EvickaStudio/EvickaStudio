@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b71bce354fa7597ecb0ae895" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737ac50025258e36d1cf7215e1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY">Dangbana Riddim</a></strong><br/>
-  <em>by</em> <strong>Bella Shmurda, FOLA</strong><br/>
-  <em>Album:</em> Dangbana Riddim
+  <strong><a href="https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh">ex-freundin</a></strong><br/>
+  <em>by</em> <strong>luu, Nosgov</strong><br/>
+  <em>Album:</em> immenser pflegefall
 </p>
 
-<p align="center"><code>0:34</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:40</code></p>
+<p align="center"><code>0:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>1:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `just now`
-- **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)* - `3 min ago`
-- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `6 min ago`
-- **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `10 min ago`
-- **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)* - `13 min ago`
+- **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)* - `just now`
+- **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)* - `3 min ago`
+- **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)* - `6 min ago`
+- **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)* - `9 min ago`
+- **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 20:21:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 20:53:20 UTC*
 <!-- SPOTIFY-END -->
