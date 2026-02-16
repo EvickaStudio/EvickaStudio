@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27389fc8b71ce74de508e3109af" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1zX178V8sWozr96MrfmRun">Western Union</a></strong><br/>
-  <em>by</em> <strong>Ecco2k, Thaiboy Digital, Bladee</strong><br/>
-  <em>Album:</em> Trash Island
+  <strong><a href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp">505</a></strong><br/>
+  <em>by</em> <strong>Arctic Monkeys</strong><br/>
+  <em>Album:</em> Favourite Worst Nightmare
 </p>
 
-<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:00</code></p>
+<p align="center"><code>0:30</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)* - `1 min ago`
-- **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)* - `4 min ago`
-- **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)* - `8 min ago`
-- **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)* - `10 min ago`
-- **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)* - `13 min ago`
+- **[ur so pretty](https://open.spotify.com/track/1N6yLqYILv6h09MUcTIttf)** by **Wasia Project** *(My Vine)* - `just now`
+- **[I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n)** by **Arctic Monkeys** *(AM)* - `2 min ago`
+- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `5 min ago`
+- **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)* - `10 min ago`
+- **[Out Getting Ribs](https://open.spotify.com/track/41fXeYArdTRuSDO4C3Nabg)** by **King Krule** *(6 Feet Beneath the Moon)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 12:42:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 13:52:21 UTC*
 <!-- SPOTIFY-END -->
