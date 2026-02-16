@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9)** by **Arctic Monkeys** *(AM)* - `14 min ago`
-- **[Uncomfortable](https://open.spotify.com/track/4BreyjJu4w5EUhTKPIQymq)** by **Wallows** *(Uncomfortable)* - `16 min ago`
-- **[Everlong - Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D)** by **Foo Fighters** *(Greatest Hits)* - `21 min ago`
-- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `25 min ago`
-- **[voicemail](https://open.spotify.com/track/28RR2AgLBnIcuIkNftpVPM)** by **ded reception** *(voicemail)* - `29 min ago`
+- **[Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9)** by **Arctic Monkeys** *(AM)* - `1 h ago`
+- **[Uncomfortable](https://open.spotify.com/track/4BreyjJu4w5EUhTKPIQymq)** by **Wallows** *(Uncomfortable)* - `1 h ago`
+- **[Everlong - Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D)** by **Foo Fighters** *(Greatest Hits)* - `1 h ago`
+- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `1 h ago`
+- **[voicemail](https://open.spotify.com/track/28RR2AgLBnIcuIkNftpVPM)** by **ded reception** *(voicemail)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 09:11:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 10:10:17 UTC*
 <!-- SPOTIFY-END -->
