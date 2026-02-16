@@ -100,7 +100,7 @@
 - **[Just a Phase](https://open.spotify.com/track/3sTCMW7kF2QrskdocYSdwQ)** by **Volcan Peaks** *(Phases)* - `1 h ago`
 - **[I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc)** by **The Walters** *(I Love You So)* - `1 h ago`
 - **[WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)** by **Billie Eilish** *(HIT ME HARD AND SOFT)* - `1 h ago`
-- **[No. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S)** by **Arctic Monkeys** *(AM)* - `1 h ago`
+- **[No. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S)** by **Arctic Monkeys** *(AM)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 15:25:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-16 16:01:31 UTC*
 <!-- SPOTIFY-END -->
