@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sold My Soul to Satan Waiting in Line at the Mall](https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4)** by **$uicideboy$** *(YUNGDEATHLILLIFE)* - `24 min ago`
-- **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)* - `26 min ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `29 min ago`
-- **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)* - `34 min ago`
-- **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))* - `37 min ago`
+- **[Sold My Soul to Satan Waiting in Line at the Mall](https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4)** by **$uicideboy$** *(YUNGDEATHLILLIFE)* - `51 min ago`
+- **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)* - `54 min ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `57 min ago`
+- **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)* - `1 h ago`
+- **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 21:54:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 22:21:55 UTC*
 <!-- SPOTIFY-END -->
