@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27308459c90026555f846559fcc" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4">Sold My Soul to Satan Waiting in Line at the Mall</a></strong><br/>
-  <em>by</em> <strong>$uicideboy$</strong><br/>
-  <em>Album:</em> YUNGDEATHLILLIFE
-</p>
-
-<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:18</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)* - `just now`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `3 min ago`
-- **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)* - `7 min ago`
-- **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))* - `11 min ago`
-- **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))* - `14 min ago`
+- **[Sold My Soul to Satan Waiting in Line at the Mall](https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4)** by **$uicideboy$** *(YUNGDEATHLILLIFE)* - `24 min ago`
+- **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)* - `26 min ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `29 min ago`
+- **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)* - `34 min ago`
+- **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))* - `37 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 21:27:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 21:54:28 UTC*
 <!-- SPOTIFY-END -->
