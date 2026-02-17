@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c8a51064755699f139dce097" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732c7250b7521c190e40742ee6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60">Alice</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk 2
+  <strong><a href="https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo">Ненавижу(?)</a></strong><br/>
+  <em>by</em> <strong>Xopowo</strong><br/>
+  <em>Album:</em> Ненавижу
 </p>
 
-<p align="center"><code>0:29</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:05</code></p>
+<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>1:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)** by **smokedope2016** *(THE PEAK)* - `2 min ago`
-- **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)* - `4 min ago`
-- **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))* - `7 min ago`
-- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `10 min ago`
-- **[Lip Service](https://open.spotify.com/track/1tv4UZuv7UOmfNNbyI6CLl)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `12 min ago`
+- **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)* - `1 min ago`
+- **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)* - `2 min ago`
+- **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)* - `4 min ago`
+- **[Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu)** by **Juice WRLD** *(Death Race For Love (Bonus Track Version))* - `6 min ago`
+- **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 13:52:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 14:39:50 UTC*
 <!-- SPOTIFY-END -->
