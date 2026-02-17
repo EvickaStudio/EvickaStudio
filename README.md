@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `1 h ago`
-- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `14 h ago`
-- **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)* - `14 h ago`
-- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))* - `14 h ago`
-- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)* - `14 h ago`
+- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `2 h ago`
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `15 h ago`
+- **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)* - `15 h ago`
+- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))* - `15 h ago`
+- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)* - `15 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 11:52:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 12:42:45 UTC*
 <!-- SPOTIFY-END -->
