@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732c7250b7521c190e40742ee6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0VyU2ftwKd99UBZiRhjiNo">Ненавижу(?)</a></strong><br/>
-  <em>by</em> <strong>Xopowo</strong><br/>
-  <em>Album:</em> Ненавижу
+  <strong><a href="https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV">White Ferrari</a></strong><br/>
+  <em>by</em> <strong>Frank Ocean</strong><br/>
+  <em>Album:</em> Blonde
 </p>
 
-<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>1:19</code></p>
+<p align="center"><code>1:01</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>4:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)* - `1 min ago`
-- **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)* - `2 min ago`
-- **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)* - `4 min ago`
-- **[Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu)** by **Juice WRLD** *(Death Race For Love (Bonus Track Version))* - `6 min ago`
-- **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)* - `10 min ago`
+- **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)* - `1 min ago`
+- **[Rax](https://open.spotify.com/track/5VrnpamQF8oCq3ppmmhypj)** by **CAN MIT ME$$R, Sin Davis** *(Abi Albüm)* - `5 min ago`
+- **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)* - `7 min ago`
+- **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)* - `11 min ago`
+- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 14:39:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 15:34:55 UTC*
 <!-- SPOTIFY-END -->
