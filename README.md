@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV">White Ferrari</a></strong><br/>
-  <em>by</em> <strong>Frank Ocean</strong><br/>
-  <em>Album:</em> Blonde
+  <strong><a href="https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK">Fade Into You</a></strong><br/>
+  <em>by</em> <strong>Mazzy Star</strong><br/>
+  <em>Album:</em> So Tonight That I Might See
 </p>
 
-<p align="center"><code>1:01</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>4:08</code></p>
+<p align="center"><code>1:13</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>4:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)* - `1 min ago`
-- **[Rax](https://open.spotify.com/track/5VrnpamQF8oCq3ppmmhypj)** by **CAN MIT ME$$R, Sin Davis** *(Abi Albüm)* - `5 min ago`
-- **[going quietly](https://open.spotify.com/track/7Dfy5ldWfkX8XTbpxYEuob)** by **Ezekiel** *(Ezekiel Singles ’18-‘20)* - `7 min ago`
-- **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)* - `11 min ago`
-- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)* - `15 min ago`
+- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `1 min ago`
+- **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)* - `3 min ago`
+- **[Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E)** by **Nena** *(Nena)* - `6 min ago`
+- **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)* - `10 min ago`
+- **[epicenter of happiness](https://open.spotify.com/track/4qEE1XPcwmyLMum63tRqro)** by **usedcvnt** *(epicenter of happiness)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Myth**](https://open.spotify.com/track/5bNrxsBY7GaovXZ8gfbLfn)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 15:34:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-17 16:37:58 UTC*
 <!-- SPOTIFY-END -->
