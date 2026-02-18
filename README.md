@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273be4bca6cab59407236db76e8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh">Meine Hände sind im Feuer - Die Sterne Remix</a></strong><br/>
-  <em>by</em> <strong>Edwin Rosen, sparr00w</strong><br/>
-  <em>Album:</em> Die Sterne
+  <strong><a href="https://open.spotify.com/track/0mBDsc9d6Y4DUQLdOoljOt">MAXI KING</a></strong><br/>
+  <em>by</em> <strong>mikeycyrus</strong><br/>
+  <em>Album:</em> MAXI KING
 </p>
 
-<p align="center"><code>0:59</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:18</code></p>
+<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>1:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by **sparr00w** *(Ich kann die Sterne nicht mehr Zählen)* - `just now`
-- **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)* - `2 min ago`
-- **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)* - `5 min ago`
-- **[BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)** by **agelast222, gard** *(SOLAR TACTICS)* - `6 min ago`
-- **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)* - `8 min ago`
+- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)* - `just now`
+- **[Überall, Immer](https://open.spotify.com/track/1IW91VlVJgTlxKCNNlSORI)** by **JB 50, ghostboo** *(Überall, Immer)* - `3 min ago`
+- **[Wintermärchen](https://open.spotify.com/track/3OivUyzrZxP0uwgfviPeyE)** by **Kilian Knight** *(Wintermärchen)* - `5 min ago`
+- **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)* - `8 min ago`
+- **[Harmless](https://open.spotify.com/track/0Uyvj5G6D25Fav0jPkmMfh)** by **Opal, Eera** *(Harmless)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 22:31:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 23:03:40 UTC*
 <!-- SPOTIFY-END -->
