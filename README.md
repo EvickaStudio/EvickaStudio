@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc">Sugar</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Eversince
+</p>
+
+<p align="center"><code>2:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)* - `12 min ago`
-- **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `1 h ago`
-- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `1 h ago`
-- **[Sold My Soul to Satan Waiting in Line at the Mall](https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4)** by **$uicideboy$** *(YUNGDEATHLILLIFE)* - `11 h ago`
-- **[Letzte Chance](https://open.spotify.com/track/0RuecYZWPhD73pz5F4I5rC)** by **Yung Hurn** *(Letzte Chance)* - `11 h ago`
+- **[Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)** by **PureSnow** *(Tunnel Vision)* - `2 min ago`
+- **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)* - `25 min ago`
+- **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by **Blythe Star** *(If I Give You My Heart, Can I Trust You With It?)* - `27 min ago`
+- **[Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)** by **Varg²™, RXKNephew** *(LD50 VOL.1)* - `33 min ago`
+- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `40 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 09:08:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 10:04:08 UTC*
 <!-- SPOTIFY-END -->
