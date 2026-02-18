@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ce0efe7313db8c5f5011a264" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I">2012</a></strong><br/>
-  <em>by</em> <strong>Tamino404</strong><br/>
-  <em>Album:</em> 2012
+  <strong><a href="https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh">Meine Hände sind im Feuer - Die Sterne Remix</a></strong><br/>
+  <em>by</em> <strong>Edwin Rosen, sparr00w</strong><br/>
+  <em>Album:</em> Die Sterne
 </p>
 
-<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:27</code></p>
+<p align="center"><code>0:59</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `1 min ago`
-- **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)* - `3 min ago`
-- **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)* - `5 min ago`
-- **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)* - `7 min ago`
-- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `9 min ago`
+- **[Ich kann die Sterne nicht mehr Zählen](https://open.spotify.com/track/3VhNTYdRsQwcMO43iKq3Pm)** by **sparr00w** *(Ich kann die Sterne nicht mehr Zählen)* - `just now`
+- **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)* - `2 min ago`
+- **[Wieso fickst du meinen Kopf?](https://open.spotify.com/track/1yx8tqlLoc6tCi0Qrv0w6l)** by **Pink Katana** *(Wieso fickst du meinen Kopf?)* - `5 min ago`
+- **[BAKLAVa](https://open.spotify.com/track/7quUAr3afkDokS3yVy4m69)** by **agelast222, gard** *(SOLAR TACTICS)* - `6 min ago`
+- **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 21:57:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 22:31:11 UTC*
 <!-- SPOTIFY-END -->
