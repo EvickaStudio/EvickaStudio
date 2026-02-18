@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c2ba316076bfc481bea78f52" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ce0efe7313db8c5f5011a264" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4KkKFalsfbbwU8SPu2A5t0">Rebell</a></strong><br/>
-  <em>by</em> <strong>NILS KEPPEL</strong><br/>
-  <em>Album:</em> Super Sonic Youth
+  <strong><a href="https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I">2012</a></strong><br/>
+  <em>by</em> <strong>Tamino404</strong><br/>
+  <em>Album:</em> 2012
 </p>
 
-<p align="center"><code>1:01</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:57</code></p>
+<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `just now`
-- **[Jump!](https://open.spotify.com/track/45YzlcmsbsAvK78jTV2u8B)** by **c4rl** *(Jump!)* - `2 min ago`
-- **[chatroom](https://open.spotify.com/track/5VVa0gudPDRdFBypU2ZHiX)** by **AMANDUS 99** *(chatroom)* - `4 min ago`
-- **[bs](https://open.spotify.com/track/0n2IGZcHY1uxiSWYAtASop)** by **bliiiss** *(bs)* - `7 min ago`
-- **[Alexconsani](https://open.spotify.com/track/5FXT2y11RfWFjS90KzIsQu)** by **Clarry Berry** *(Alexconsani)* - `9 min ago`
+- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `1 min ago`
+- **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)* - `3 min ago`
+- **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)* - `5 min ago`
+- **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)* - `7 min ago`
+- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 21:29:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-18 21:57:35 UTC*
 <!-- SPOTIFY-END -->
