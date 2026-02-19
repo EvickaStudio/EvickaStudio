@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739168173ffd9845a1192362bd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273458f49533fce8a98819b4e70" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q">Ich_hoffe_du_bleibst_alleine</a></strong><br/>
-  <em>by</em> <strong>sparr00w, bleac</strong><br/>
-  <em>Album:</em> 00
+  <strong><a href="https://open.spotify.com/track/5FXT2y11RfWFjS90KzIsQu">Alexconsani</a></strong><br/>
+  <em>by</em> <strong>Clarry Berry</strong><br/>
+  <em>Album:</em> Alexconsani
 </p>
 
-<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:55</code></p>
+<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[2012](https://open.spotify.com/track/2LGVo84o0Y7eJmVcTUaP9I)** by **Tamino404** *(2012)* - `1 min ago`
-- **[4ever](https://open.spotify.com/track/7sQYYQCIFrmeGQU7kkchcS)** by **Pink Katana** *(4ever)* - `4 min ago`
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `5 min ago`
-- **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)* - `7 min ago`
-- **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)* - `9 min ago`
+- **[Never Felt Right](https://open.spotify.com/track/7KzCXFRlFrNq7ybVsRppIB)** by **Somewhere Special** *(Never Felt Right)* - `just now`
+- **[GAGA](https://open.spotify.com/track/11KFeEBSD8bF1adVFjAk4Z)** by **cdgplug** *(GAGA)* - `4 min ago`
+- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `7 min ago`
+- **[winnetou](https://open.spotify.com/track/34gx1MIJpAQJmzNSuu4cJA)** by **ilyproxy** *(lifestyleschmerzen)* - `9 min ago`
+- **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 00:00:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 03:14:13 UTC*
 <!-- SPOTIFY-END -->
