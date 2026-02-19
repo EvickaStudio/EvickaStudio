@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731530c3f38dd9b667d95860c7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b4c8cba84762d4fd7e721f92" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3">Nur ein Wort</a></strong><br/>
-  <em>by</em> <strong>flö</strong><br/>
-  <em>Album:</em> Nur ein Wort
+  <strong><a href="https://open.spotify.com/track/1BUyUj9QTfyUr1u1c0c8qJ">Friends</a></strong><br/>
+  <em>by</em> <strong>Vacations</strong><br/>
+  <em>Album:</em> Vibes
 </p>
 
-<p align="center"><code>0:56</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:19</code></p>
+<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `just now`
-- **[Fabergé](https://open.spotify.com/track/7lnQCEtaDJeMZN75siSxLc)** by **RIN** *(Fabergé)* - `2 min ago`
-- **[Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)** by **tim, TYM** *(Myself)* - `5 min ago`
-- **[Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)** by **Kicker Dibs** *(Sonnemondstern)* - `8 min ago`
-- **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)* - `11 min ago`
+- **[Dave Brubeck](https://open.spotify.com/track/65lzFYusbDhjbqB1qFZUtG)** by **Vacations** *(Vibes)* - `just now`
+- **[Dave Brubeck](https://open.spotify.com/track/65lzFYusbDhjbqB1qFZUtG)** by **Vacations** *(Vibes)* - `1 min ago`
+- **[Young](https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE)** by **Vacations** *(Vibes)* - `3 min ago`
+- **[Relax](https://open.spotify.com/track/5TuTHrKzN6NweeQaKkBNb7)** by **Vacations** *(Vibes)* - `6 min ago`
+- **[Away](https://open.spotify.com/track/2NaGl56lq71UMzDSI8jmJ3)** by **Vacations** *(Vibes)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 08:42:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 09:28:36 UTC*
 <!-- SPOTIFY-END -->
