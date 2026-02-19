@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734cac4a4cc899ccf1b9eed0bb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a6d7add1b6197e7b2cfe0bc8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0">healing spiritual echo</a></strong><br/>
-  <em>by</em> <strong>meat computer</strong><br/>
-  <em>Album:</em> slept on the floor still dreamt about you (pop edition)
+  <strong><a href="https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW">FALL FROM THE SKY - Sped up</a></strong><br/>
+  <em>by</em> <strong>RomancePlanet</strong><br/>
+  <em>Album:</em> FALL FROM THE SKY
 </p>
 
-<p align="center"><code>2:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:44</code></p>
+<p align="center"><code>0:23</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)* - `3 min ago`
-- **[Starting Over](https://open.spotify.com/track/2DcEfiRPwcpdm55mctCHUE)** by **LSD and the Search for God** *(LSD and the Search for God)* - `8 min ago`
-- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `13 min ago`
-- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `16 min ago`
-- **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)* - `22 min ago`
+- **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)* - `just now`
+- **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))* - `3 min ago`
+- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `7 min ago`
+- **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)* - `9 min ago`
+- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 12:43:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 13:57:10 UTC*
 <!-- SPOTIFY-END -->
