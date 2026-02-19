@@ -96,9 +96,9 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)* - `55 min ago`
-- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `57 min ago`
-- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `59 min ago`
+- **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)* - `1 h ago`
+- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `1 h ago`
+- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `1 h ago`
 - **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)* - `1 h ago`
 - **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)* - `1 h ago`
 
@@ -117,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 21:28:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 21:57:00 UTC*
 <!-- SPOTIFY-END -->
