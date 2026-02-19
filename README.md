@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738a7eae271096cd8f4e281c7d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734cac4a4cc899ccf1b9eed0bb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/01qf6hVf9cZ6AdqLeOWNUO">ours</a></strong><br/>
-  <em>by</em> <strong>60 juno</strong><br/>
-  <em>Album:</em> ours
+  <strong><a href="https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0">healing spiritual echo</a></strong><br/>
+  <em>by</em> <strong>meat computer</strong><br/>
+  <em>Album:</em> slept on the floor still dreamt about you (pop edition)
 </p>
 
-<p align="center"><code>2:23</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:36</code></p>
+<p align="center"><code>2:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN)** by **late night drive home** *(Am I sinking or Am I swimming?)* - `2 min ago`
-- **[Drive, Don't Talk](https://open.spotify.com/track/2CiJH4kFVfEmFke2bmEqj5)** by **Makeout Reef** *(Star Power)* - `5 min ago`
-- **[Steady](https://open.spotify.com/track/4VjG1jgzgfCuttqVc6DHYF)** by **Vacations** *(Changes)* - `8 min ago`
-- **[Sarah](https://open.spotify.com/track/2Wk8vEamlVBBalBi24NnU1)** by **Alex G** *(Trick)* - `12 min ago`
-- **[Last Time I'm Falling in Love](https://open.spotify.com/track/4yCmuI411hqlQOuqe6rfOj)** by **Eyedress** *(Let's Skip to the Wedding)* - `15 min ago`
+- **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)* - `3 min ago`
+- **[Starting Over](https://open.spotify.com/track/2DcEfiRPwcpdm55mctCHUE)** by **LSD and the Search for God** *(LSD and the Search for God)* - `8 min ago`
+- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `13 min ago`
+- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `16 min ago`
+- **[pflaster](https://open.spotify.com/track/4SoVYtDYcsRVxiipSNgVBI)** by **kevin** *(pflaster)* - `22 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 11:52:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 12:43:51 UTC*
 <!-- SPOTIFY-END -->
