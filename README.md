@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273458f49533fce8a98819b4e70" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c485c3544698abd313f6e006" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5FXT2y11RfWFjS90KzIsQu">Alexconsani</a></strong><br/>
-  <em>by</em> <strong>Clarry Berry</strong><br/>
-  <em>Album:</em> Alexconsani
+  <strong><a href="https://open.spotify.com/track/34gx1MIJpAQJmzNSuu4cJA">winnetou</a></strong><br/>
+  <em>by</em> <strong>ilyproxy</strong><br/>
+  <em>Album:</em> lifestyleschmerzen
 </p>
 
-<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:00</code></p>
+<p align="center"><code>1:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Never Felt Right](https://open.spotify.com/track/7KzCXFRlFrNq7ybVsRppIB)** by **Somewhere Special** *(Never Felt Right)* - `just now`
-- **[GAGA](https://open.spotify.com/track/11KFeEBSD8bF1adVFjAk4Z)** by **cdgplug** *(GAGA)* - `4 min ago`
-- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `7 min ago`
-- **[winnetou](https://open.spotify.com/track/34gx1MIJpAQJmzNSuu4cJA)** by **ilyproxy** *(lifestyleschmerzen)* - `9 min ago`
-- **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)* - `10 min ago`
+- **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)* - `just now`
+- **[MAXI KING](https://open.spotify.com/track/0mBDsc9d6Y4DUQLdOoljOt)** by **mikeycyrus** *(MAXI KING)* - `3 min ago`
+- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)* - `4 min ago`
+- **[Überall, Immer](https://open.spotify.com/track/1IW91VlVJgTlxKCNNlSORI)** by **JB 50, ghostboo** *(Überall, Immer)* - `7 min ago`
+- **[Wintermärchen](https://open.spotify.com/track/3OivUyzrZxP0uwgfviPeyE)** by **Kilian Knight** *(Wintermärchen)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 03:14:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 05:02:56 UTC*
 <!-- SPOTIFY-END -->
