@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Days](https://open.spotify.com/track/2VVNtqHnly2BGKhdjp7EYh)** by **Vacations** *(Days)* - `26 min ago`
-- **[No Fun](https://open.spotify.com/track/5V8foYUlvyd5vDf8m9oKti)** by **Vacations** *(Days)* - `29 min ago`
-- **[Moments](https://open.spotify.com/track/5JL5EnTvzxPowDaDGrBbFr)** by **Vacations** *(Days)* - `32 min ago`
-- **[Hamilton South](https://open.spotify.com/track/5qod0lgjqcI6o6ccz46qkD)** by **Vacations** *(Days)* - `35 min ago`
-- **[Day Dreamin](https://open.spotify.com/track/4BfINdTGi2L7gY57zbgByL)** by **Vacations** *(Days)* - `38 min ago`
+- **[Days](https://open.spotify.com/track/2VVNtqHnly2BGKhdjp7EYh)** by **Vacations** *(Days)* - `1 h ago`
+- **[No Fun](https://open.spotify.com/track/5V8foYUlvyd5vDf8m9oKti)** by **Vacations** *(Days)* - `1 h ago`
+- **[Moments](https://open.spotify.com/track/5JL5EnTvzxPowDaDGrBbFr)** by **Vacations** *(Days)* - `1 h ago`
+- **[Hamilton South](https://open.spotify.com/track/5qod0lgjqcI6o6ccz46qkD)** by **Vacations** *(Days)* - `1 h ago`
+- **[Day Dreamin](https://open.spotify.com/track/4BfINdTGi2L7gY57zbgByL)** by **Vacations** *(Days)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 10:10:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 11:05:39 UTC*
 <!-- SPOTIFY-END -->
