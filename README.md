@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7ec687847b5bfe21f637492" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx">Verschwende deine Zeit</a></strong><br/>
-  <em>by</em> <strong>Edwin Rosen</strong><br/>
-  <em>Album:</em> Verschwende deine Zeit
+  <strong><a href="https://open.spotify.com/track/5VVa0gudPDRdFBypU2ZHiX">chatroom</a></strong><br/>
+  <em>by</em> <strong>AMANDUS 99</strong><br/>
+  <em>Album:</em> chatroom
 </p>
 
-<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:38</code></p>
+<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `1 min ago`
-- **[BAD INTENTIONS](https://open.spotify.com/track/7s3q2at3C1KnZHHxhDLv8S)** by **5v** *(Bad Intentions)* - `4 min ago`
-- **[du bist mir egal](https://open.spotify.com/track/1wA2Ezr8CnOXEiKbopVXH5)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `6 min ago`
-- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `9 min ago`
-- **[Fotos von dir](https://open.spotify.com/track/2KOOaYwPjpHCUM6lHP3wf0)** by **hqwilli, Mars** *(Fotos von dir)* - `11 min ago`
+- **[bs](https://open.spotify.com/track/0n2IGZcHY1uxiSWYAtASop)** by **bliiiss** *(bs)* - `1 min ago`
+- **[Alexconsani](https://open.spotify.com/track/5FXT2y11RfWFjS90KzIsQu)** by **Clarry Berry** *(Alexconsani)* - `3 min ago`
+- **[Never Felt Right](https://open.spotify.com/track/7KzCXFRlFrNq7ybVsRppIB)** by **Somewhere Special** *(Never Felt Right)* - `5 min ago`
+- **[GAGA](https://open.spotify.com/track/11KFeEBSD8bF1adVFjAk4Z)** by **cdgplug** *(GAGA)* - `9 min ago`
+- **[winnetou](https://open.spotify.com/track/34gx1MIJpAQJmzNSuu4cJA)** by **ilyproxy** *(lifestyleschmerzen)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 06:12:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 07:15:08 UTC*
 <!-- SPOTIFY-END -->
