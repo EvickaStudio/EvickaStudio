@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27344f0d250e45aa471d3ec3753" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731530c3f38dd9b667d95860c7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw">Verdien dich nicht</a></strong><br/>
-  <em>by</em> <strong>Traumatin</strong><br/>
-  <em>Album:</em> Verdien dich nicht
+  <strong><a href="https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3">Nur ein Wort</a></strong><br/>
+  <em>by</em> <strong>flö</strong><br/>
+  <em>Album:</em> Nur ein Wort
 </p>
 
-<p align="center"><code>0:21</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:55</code></p>
+<p align="center"><code>0:56</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)* - `just now`
-- **[bunnybunnybunny](https://open.spotify.com/track/1E29IO6Pv3JB4Sa7ZwVjMk)** by **Mietze Conte** *(bunnybunnybunny)* - `3 min ago`
-- **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)* - `4 min ago`
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `5 min ago`
-- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `7 min ago`
+- **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `just now`
+- **[Fabergé](https://open.spotify.com/track/7lnQCEtaDJeMZN75siSxLc)** by **RIN** *(Fabergé)* - `2 min ago`
+- **[Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)** by **tim, TYM** *(Myself)* - `5 min ago`
+- **[Sterne oder Häuser](https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4)** by **Kicker Dibs** *(Sonnemondstern)* - `8 min ago`
+- **[spinnennetz](https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m)** by **blombi19** *(spinnennetz)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Deep End**](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 07:57:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-19 08:42:44 UTC*
 <!-- SPOTIFY-END -->
