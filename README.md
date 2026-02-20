@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d64680504dfbcf7b21096907" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q">tränen statt wut</a></strong><br/>
+  <em>by</em> <strong>RYLO, veil</strong><br/>
+  <em>Album:</em> tränen statt wut
+</p>
+
+<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fern](https://open.spotify.com/track/3LhL5Vzr5VOuMv7PGLCc6V)** by **Streichelt** *(Fern)* - `34 min ago`
-- **[verschwende mich](https://open.spotify.com/track/12LoCHZHv64fUdVeFibDq2)** by **diggidaniel** *(verschwende mich)* - `37 min ago`
-- **[Geburtstag](https://open.spotify.com/track/08Dls1eyfuQtTayXYsEg7q)** by **Steintor Herrenchor** *(Eine Woche Geburtstag)* - `40 min ago`
-- **[Scherben](https://open.spotify.com/track/6sTZMwDjyJkjPHPo07w7tj)** by **Souly, Loco Candy** *(Scherben)* - `43 min ago`
-- **[kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs)** by **Edwin Rosen** *(kontrollverlust)* - `45 min ago`
+- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `1 min ago`
+- **[Let Me Down!](https://open.spotify.com/track/697IKoErv9oo0BWNTyP3SW)** by **Clover!** *(Let Me Down!)* - `4 min ago`
+- **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)* - `6 min ago`
+- **[Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)** by **Kanye West, Chris Martin** *(Graduation)* - `8 min ago`
+- **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 12:39:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 13:45:20 UTC*
 <!-- SPOTIFY-END -->
