@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `52 min ago`
-- **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)* - `52 min ago`
-- **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)* - `52 min ago`
-- **[Lip Service](https://open.spotify.com/track/1tv4UZuv7UOmfNNbyI6CLl)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `52 min ago`
-- **[Materialism as a Means to an End](https://open.spotify.com/track/5xrH7dVah85mTEr4jgT1mu)** by **$uicideboy$** *(Long Term Effects of SUFFERING)* - `52 min ago`
+- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `1 h ago`
+- **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)* - `1 h ago`
+- **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)* - `1 h ago`
+- **[Lip Service](https://open.spotify.com/track/1tv4UZuv7UOmfNNbyI6CLl)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `1 h ago`
+- **[Materialism as a Means to an End](https://open.spotify.com/track/5xrH7dVah85mTEr4jgT1mu)** by **$uicideboy$** *(Long Term Effects of SUFFERING)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -108,8 +108,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 22:51:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 23:21:29 UTC*
 <!-- SPOTIFY-END -->
