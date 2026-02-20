@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f13b23ebeea4fc40194477dc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ceea7aadce4299cf8a12bc60" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4U9eBMmZUomyGnbF4bUNoS">sommerluft</a></strong><br/>
-  <em>by</em> <strong>Leocardo DiNaprio</strong><br/>
-  <em>Album:</em> sommerluft
+  <strong><a href="https://open.spotify.com/track/0BVX1IM7AG43HG6MeKCcJf">Lass mich schlafen/Тишина</a></strong><br/>
+  <em>by</em> <strong>Traumatin, bishkek</strong><br/>
+  <em>Album:</em> Lass mich schlafen/Тишина
 </p>
 
-<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:10</code></p>
+<p align="center"><code>0:29</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Schließ bitte ab wenn ich geh](https://open.spotify.com/track/7wbU0SyqErhlQyyPh6Lkc8)** by **Traumatin** *(Schließ bitte ab wenn ich geh)* - `1 min ago`
-- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)* - `4 min ago`
-- **[Wie sehr tut es weh?](https://open.spotify.com/track/3prkogzSQrFbHOnYDIxI46)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `8 min ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `10 min ago`
-- **[Wie sehr tut es weh?](https://open.spotify.com/track/3prkogzSQrFbHOnYDIxI46)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `16 min ago`
+- **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)* - `just now`
+- **[Taub](https://open.spotify.com/track/1aKZ8Llnl8YzlKetmh2xGY)** by **diggidaniel** *(Spät)* - `2 min ago`
+- **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)* - `5 min ago`
+- **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)* - `8 min ago`
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 07:35:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 08:06:55 UTC*
 <!-- SPOTIFY-END -->
