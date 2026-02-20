@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27351b0b0af87a9fc24f963e6a4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7fwE3Nr0RsTzYOocfu2XbV">Never</a></strong><br/>
-  <em>by</em> <strong>Mag.Lo, O Super</strong><br/>
-  <em>Album:</em> Never
+  <strong><a href="https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju">Just for Now</a></strong><br/>
+  <em>by</em> <strong>Imogen Heap</strong><br/>
+  <em>Album:</em> Speak for Yourself (Deluxe Version)
 </p>
 
-<p align="center"><code>5:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>6:24</code></p>
+<p align="center"><code>0:10</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `5 min ago`
-- **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))* - `8 min ago`
-- **[Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW)** by **Anamanaguchi, Hatsune Miku** *(Miku)* - `12 min ago`
-- **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)* - `16 min ago`
-- **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)* - `17 min ago`
+- **[GET HURT](https://open.spotify.com/track/7LHV6mSWNkfbvcXg8NPIq0)** by **5v, Nosgov** *(Bad Intentions)* - `just now`
+- **[charade](https://open.spotify.com/track/1RLEfcPqWCGgUUsnUNRom1)** by **caponeti, whyhaze** *(charade)* - `2 min ago`
+- **[Sojourn](https://open.spotify.com/track/3xXJHuTxbSF69tfqg061iT)** by **Joji** *(Piss In The Wind)* - `4 min ago`
+- **[tell me what it is](https://open.spotify.com/track/3PZtzI5e4zKpB7z9LW0IzJ)** by **Fijimar** *(tell me what it is)* - `9 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 18:54:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 19:31:42 UTC*
 <!-- SPOTIFY-END -->
