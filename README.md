@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))* - `11 min ago`
-- **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))* - `15 min ago`
-- **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)* - `18 min ago`
-- **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))* - `20 min ago`
-- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `25 min ago`
+- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))* - `37 min ago`
+- **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))* - `40 min ago`
+- **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)* - `43 min ago`
+- **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))* - `45 min ago`
+- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `50 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 20:28:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 20:54:00 UTC*
 <!-- SPOTIFY-END -->
