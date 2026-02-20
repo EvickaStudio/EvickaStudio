@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27324ca23e6c638e0b898d22883" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27315d0cf47d19150272167e294" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC">dancing while the world burns</a></strong><br/>
-  <em>by</em> <strong>adore</strong><br/>
-  <em>Album:</em> dancing while the world burns
+  <strong><a href="https://open.spotify.com/track/2H2Y5YSMxH1QFoERMG3QeD">du bist mir egal</a></strong><br/>
+  <em>by</em> <strong>Pink Katana</strong><br/>
+  <em>Album:</em> du bist mir egal
 </p>
 
-<p align="center"><code>2:01</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:32</code></p>
+<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Last Friday Night](https://open.spotify.com/track/5MKhSKaCJruH3oQpiMyIo0)** by **sign crushes motorist** *(i'll be okay)* - `2 min ago`
-- **[MEIN TEE WIRD LANGSAM KALT](https://open.spotify.com/track/0vU1xp5OLSb0bsNqvumHgX)** by **Chapo102, 102 Boyz, Longus Mongus, Stacks102** *(COUNTRYCLUB)* - `7 min ago`
-- **[North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)** by **ESP** *(RIFT Two)* - `10 min ago`
-- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `13 min ago`
-- **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)* - `16 min ago`
+- **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)* - `5 min ago`
+- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `7 min ago`
+- **[Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh)** by **SIRA, Themba, Monk, Longus Mongus** *(Secco Maracuja (feat. THEMBA))* - `9 min ago`
+- **[Night4](https://open.spotify.com/track/6K2VHRkY2cpN2meyiI9JCo)** by **Nonori** *(Tabula Rasa)* - `12 min ago`
+- **[Dieser kleine Junge](https://open.spotify.com/track/2cRdj9vZCVNFFOoX4Wwhpd)** by **Brown-Eyes White Boy** *(Metanarkose)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 14:35:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 15:23:00 UTC*
 <!-- SPOTIFY-END -->
