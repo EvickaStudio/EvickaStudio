@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27319e22c1ab45bbd4d607ff9d1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP">Wooden Girl</a></strong><br/>
-  <em>by</em> <strong>jonatan leandoer96</strong><br/>
-  <em>Album:</em> Nectar
+  <strong><a href="https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU">Stay Cold</a></strong><br/>
+  <em>by</em> <strong>Nokia Angel</strong><br/>
+  <em>Album:</em> Stay Cold
 </p>
 
-<p align="center"><code>1:46</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:26</code></p>
+<p align="center"><code>1:23</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r)** by **Radiohead** *(Pablo Honey)* - `1 min ago`
-- **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)* - `5 min ago`
-- **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)* - `8 min ago`
-- **[Alonely](https://open.spotify.com/track/2mZ4GBrpCTiwPTwvNO7bDZ)** by **Rill, Young Mask** *(I Came From Nobody Likes Me To Nobody Like Me)* - `10 min ago`
-- **[Nite Walker](https://open.spotify.com/track/5kqkYeDMGSkifYJYLqwrTV)** by **Sickboyrari** *(City Of Crows)* - `14 min ago`
+- **[Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx)** by **BIG TIM** *(Alles ist relativ)* - `just now`
+- **[SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)** by **agelast222, gard** *(SOLAR TACTICS)* - `3 min ago`
+- **[friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)** by **elricfd** *(friday nite)* - `4 min ago`
+- **[111 Seconds in Heaven](https://open.spotify.com/track/1YnWfFuOQiMgq4dzTKgVfP)** by **SyKo, glaive** *(111 Seconds in Heaven)* - `8 min ago`
+- **[Birdsong](https://open.spotify.com/track/2SBPSEUgaqqKAsVzOEbC1Z)** by **Flawed Mangoes** *(Killswitch Melodies)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 15:57:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 16:37:30 UTC*
 <!-- SPOTIFY-END -->
