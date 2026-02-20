@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d64680504dfbcf7b21096907" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27324ca23e6c638e0b898d22883" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q">tränen statt wut</a></strong><br/>
-  <em>by</em> <strong>RYLO, veil</strong><br/>
-  <em>Album:</em> tränen statt wut
+  <strong><a href="https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC">dancing while the world burns</a></strong><br/>
+  <em>by</em> <strong>adore</strong><br/>
+  <em>Album:</em> dancing while the world burns
 </p>
 
-<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:32</code></p>
+<p align="center"><code>2:01</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `1 min ago`
-- **[Let Me Down!](https://open.spotify.com/track/697IKoErv9oo0BWNTyP3SW)** by **Clover!** *(Let Me Down!)* - `4 min ago`
-- **[Sundress](https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK)** by **A$AP Rocky** *(Sundress)* - `6 min ago`
-- **[Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)** by **Kanye West, Chris Martin** *(Graduation)* - `8 min ago`
-- **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)* - `12 min ago`
+- **[Last Friday Night](https://open.spotify.com/track/5MKhSKaCJruH3oQpiMyIo0)** by **sign crushes motorist** *(i'll be okay)* - `2 min ago`
+- **[MEIN TEE WIRD LANGSAM KALT](https://open.spotify.com/track/0vU1xp5OLSb0bsNqvumHgX)** by **Chapo102, 102 Boyz, Longus Mongus, Stacks102** *(COUNTRYCLUB)* - `7 min ago`
+- **[North](https://open.spotify.com/track/66SttgdaylqSJ0QKxAQx5L)** by **ESP** *(RIFT Two)* - `10 min ago`
+- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `13 min ago`
+- **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 13:45:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 14:35:07 UTC*
 <!-- SPOTIFY-END -->
