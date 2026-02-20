@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU">Stay Cold</a></strong><br/>
-  <em>by</em> <strong>Nokia Angel</strong><br/>
-  <em>Album:</em> Stay Cold
+  <strong><a href="https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz">Lightsaber // Saviour</a></strong><br/>
+  <em>by</em> <strong>Yung Lean</strong><br/>
+  <em>Album:</em> Unknown Death 2002
 </p>
 
-<p align="center"><code>1:23</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:53</code></p>
+<p align="center"><code>4:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx)** by **BIG TIM** *(Alles ist relativ)* - `just now`
-- **[SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)** by **agelast222, gard** *(SOLAR TACTICS)* - `3 min ago`
-- **[friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)** by **elricfd** *(friday nite)* - `4 min ago`
-- **[111 Seconds in Heaven](https://open.spotify.com/track/1YnWfFuOQiMgq4dzTKgVfP)** by **SyKo, glaive** *(111 Seconds in Heaven)* - `8 min ago`
-- **[Birdsong](https://open.spotify.com/track/2SBPSEUgaqqKAsVzOEbC1Z)** by **Flawed Mangoes** *(Killswitch Melodies)* - `10 min ago`
+- **[As the World Caves In - Wuki Remix](https://open.spotify.com/track/3L740L9Y186igjbzxz7Vfr)** by **Sarah Cothran, Wuki** *(As the World Caves In (Wuki Remix))* - `3 min ago`
+- **[C ma shit pt. 2](https://open.spotify.com/track/1iJRSsTH0ZHRihrkZ8Mvkc)** by **Realo, Simala, abel31, Recklessboise** *(C ma shit pt. 2)* - `6 min ago`
+- **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)* - `8 min ago`
+- **[Hey Now Hey Now](https://open.spotify.com/track/2V7xWRfNRhfuYLfrjl1mRc)** by **Mainstream Moguls** *(Mainstream Moguls)* - `18 min ago`
+- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 16:37:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 17:21:40 UTC*
 <!-- SPOTIFY-END -->
