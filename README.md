@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f006ae54d6f3a2c1f15c1e50" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c6d0592361763bd8db30fc97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7dnXwD70dRyuKC9RKjkgn0">Verloren wie ich (Pt. 1)</a></strong><br/>
-  <em>by</em> <strong>TEMMIS</strong><br/>
-  <em>Album:</em> Klinge
+  <strong><a href="https://open.spotify.com/track/06eOnPoJ5EJcfeKzbN669r">Die Sonne in deinem Zimmer</a></strong><br/>
+  <em>by</em> <strong>Edwin Rosen</strong><br/>
+  <em>Album:</em> Die Sonne in deinem Zimmer
 </p>
 
-<p align="center"><code>3:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:50</code></p>
+<p align="center"><code>2:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mein Weg](https://open.spotify.com/track/3ZUbJ5wOu0MVXkMu44hjHk)** by **Kilian Knight** *(Mein Weg)* - `3 min ago`
-- **[wespenstich](https://open.spotify.com/track/3Z1WmO2s4mscNTuInYTTZy)** by **Leocardo DiNaprio** *(wespenstich)* - `6 min ago`
-- **[SSS](https://open.spotify.com/track/5PgOdXIUuImFutOxcVcVyF)** by **Edwin Rosen** *(leichter//kälter / SSS)* - `9 min ago`
-- **[Ich will nicht älter werden - Reeperbahn Festival Collide](https://open.spotify.com/track/6l69psxvo4iDFcEhqZZfoR)** by **Steintor Herrenchor** *(Collide Session #18 - Steintor Herrenchor)* - `12 min ago`
-- **[Haut an Haut](https://open.spotify.com/track/43npphURzkZ9nwXcV0EoLN)** by **diggidaniel** *(Haut an Haut)* - `15 min ago`
+- **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by **herz.** *(kopflos durch die nacht)* - `2 min ago`
+- **[Wie sehr tut es weh?](https://open.spotify.com/track/3prkogzSQrFbHOnYDIxI46)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `4 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `7 min ago`
+- **[Sekundenschlaf](https://open.spotify.com/track/5bPHtxHppZgUNQZktiG65X)** by **flö** *(Sekundenschlaf)* - `13 min ago`
+- **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 10:19:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 11:02:26 UTC*
 <!-- SPOTIFY-END -->
