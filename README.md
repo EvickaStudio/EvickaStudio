@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[toxic city](https://open.spotify.com/track/1TYL7BonBQIssN0zpte1qQ)** by **Lil Peep** *(feelz)* - `6 h ago`
-- **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)* - `7 h ago`
-- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `7 h ago`
-- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `7 h ago`
-- **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)* - `7 h ago`
+- **[toxic city](https://open.spotify.com/track/1TYL7BonBQIssN0zpte1qQ)** by **Lil Peep** *(feelz)* - `7 h ago`
+- **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)* - `9 h ago`
+- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `9 h ago`
+- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `9 h ago`
+- **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 04:22:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-20 05:34:24 UTC*
 <!-- SPOTIFY-END -->
