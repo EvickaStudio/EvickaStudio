@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p">GONE, GONE / THANK YOU</a></strong><br/>
-  <em>by</em> <strong>Tyler, The Creator</strong><br/>
-  <em>Album:</em> IGOR
-</p>
-
-<p align="center"><code>3:29</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>6:15</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)* - `3 min ago`
-- **[Freak Show](https://open.spotify.com/track/03KRZpV8xqp0tjxB7EsuBe)** by **Punkinloveee, H3artcrush** *(Freak Show)* - `4 min ago`
-- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `6 min ago`
-- **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)* - `8 min ago`
-- **[MAKRODOSIS](https://open.spotify.com/track/5kL34ylUADm4lTPuLpLe2K)** by **Ski Aggu, Dj Schinkensuppe** *(2022 war film gewesen)* - `11 min ago`
+- **[Asche im Auge](https://open.spotify.com/track/4LtaC42SCFxjtFXSk6dXZh)** by **Ellie Mic** *(Asche im Auge)* - `22 min ago`
+- **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)* - `24 min ago`
+- **[GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)** by **Tyler, The Creator** *(IGOR)* - `26 min ago`
+- **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)* - `32 min ago`
+- **[Freak Show](https://open.spotify.com/track/03KRZpV8xqp0tjxB7EsuBe)** by **Punkinloveee, H3artcrush** *(Freak Show)* - `34 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 17:18:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 17:48:12 UTC*
 <!-- SPOTIFY-END -->
