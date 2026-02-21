@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27355a71a721f700dd70997c8a5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU">joan of arc</a></strong><br/>
-  <em>by</em> <strong>Levi Ryan</strong><br/>
-  <em>Album:</em> southern comfort EP
+  <strong><a href="https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br">behave</a></strong><br/>
+  <em>by</em> <strong>luvarrow, mental</strong><br/>
+  <em>Album:</em> behave
 </p>
 
-<p align="center"><code>2:30</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:08</code></p>
+<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `1 min ago`
-- **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)* - `4 min ago`
-- **[Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)** by **PureSnow** *(Tunnel Vision)* - `28 min ago`
-- **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))* - `31 min ago`
-- **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)* - `43 min ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `2 min ago`
+- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `3 min ago`
+- **[START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92)** by **Tiffany Day** *(START OVER)* - `5 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `8 min ago`
+- **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 12:29:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 13:25:02 UTC*
 <!-- SPOTIFY-END -->
