@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27363977ef5464f554915f87db7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2">Untrust Us</a></strong><br/>
-  <em>by</em> <strong>Crystal Castles</strong><br/>
-  <em>Album:</em> Crystal Castles
+  <strong><a href="https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO">MISA & LIGHT</a></strong><br/>
+  <em>by</em> <strong>NXFEIT, Sillyelly, Hen848</strong><br/>
+  <em>Album:</em> CASSA DRITTISSIMA !!
 </p>
 
-<p align="center"><code>2:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:06</code></p>
+<p align="center"><code>2:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)* - `1 min ago`
-- **[KLOPF KLOPF](https://open.spotify.com/track/67hoqXdqNRNDv5A2ZDAdGe)** by **Slatty, luu** *(SCENEW!RE EP)* - `4 min ago`
-- **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)* - `6 min ago`
-- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `8 min ago`
-- **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)* - `9 min ago`
+- **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)* - `1 min ago`
+- **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)* - `4 min ago`
+- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)* - `6 min ago`
+- **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)* - `8 min ago`
+- **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 19:43:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 19:55:09 UTC*
 <!-- SPOTIFY-END -->
