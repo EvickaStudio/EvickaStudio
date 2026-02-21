@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d7620642ec7ac22e103bcc6b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273447f28af74ac1d0dfd18ea7f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2">Colt</a></strong><br/>
-  <em>by</em> <strong>HighSchool</strong><br/>
-  <em>Album:</em> HighSchool
+  <strong><a href="https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b">if u wanna go with me</a></strong><br/>
+  <em>by</em> <strong>Senses, mint</strong><br/>
+  <em>Album:</em> if u wanna go with me
 </p>
 
-<p align="center"><code>4:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:53</code></p>
+<p align="center"><code>1:01</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>1:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `4 min ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `6 min ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `9 min ago`
-- **[Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA)** by **Charli xcx** *(Wuthering Heights)* - `13 min ago`
-- **[behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)** by **luvarrow, mental** *(behave)* - `16 min ago`
+- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `just now`
+- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `3 min ago`
+- **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `5 min ago`
+- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `8 min ago`
+- **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 11:15:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 11:42:18 UTC*
 <!-- SPOTIFY-END -->
