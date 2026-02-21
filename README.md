@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27363977ef5464f554915f87db7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273efebb3e764a0e7a74ce5393b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7HRvlD8wlclNRSZi8lUtmO">MISA & LIGHT</a></strong><br/>
-  <em>by</em> <strong>NXFEIT, Sillyelly, Hen848</strong><br/>
-  <em>Album:</em> CASSA DRITTISSIMA !!
+  <strong><a href="https://open.spotify.com/track/2vj55J14cjerZEHlZ5ez0l">52Hertz - Bonus Track</a></strong><br/>
+  <em>by</em> <strong>Dropped here</strong><br/>
+  <em>Album:</em> Need for speed
 </p>
 
-<p align="center"><code>2:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:50</code></p>
+<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)* - `1 min ago`
-- **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)* - `4 min ago`
-- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)* - `6 min ago`
-- **[castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE)** by **Lil Peep, Lil Tracy** *(castles)* - `8 min ago`
-- **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)* - `10 min ago`
+- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `just now`
+- **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)* - `2 min ago`
+- **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)* - `5 min ago`
+- **[Ferrari](https://open.spotify.com/track/5L2nTY906SquAXj9yqwr7X)** by **Alice Gas** *(Sorry 4 Being Famous)* - `7 min ago`
+- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 19:55:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 20:15:41 UTC*
 <!-- SPOTIFY-END -->
