@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738155c4e547fa325f227f69dc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730900159dc40f3bff4fbac19b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3hlbMZoeYUllnXVnE9OnLh">Throw It Back Away</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> Night Killaz Vol. 2
+  <strong><a href="https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4">schnell</a></strong><br/>
+  <em>by</em> <strong>lil eyes</strong><br/>
+  <em>Album:</em> schnell
 </p>
 
-<p align="center"><code>0:08</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:55</code></p>
+<p align="center"><code>0:35</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))* - `2 min ago`
-- **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))* - `4 min ago`
-- **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)* - `9 min ago`
-- **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)* - `11 min ago`
-- **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)* - `14 min ago`
+- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `just now`
+- **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)* - `3 min ago`
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `4 min ago`
+- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `8 min ago`
+- **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 21:14:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 21:39:12 UTC*
 <!-- SPOTIFY-END -->
