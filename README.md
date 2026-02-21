@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737d8b048c21771c5b45ab6934" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5I8PSNvbnnXUpz5ioftyEb">Alles anders</a></strong><br/>
+  <em>by</em> <strong>hqwilli</strong><br/>
+  <em>Album:</em> Allein im Club
+</p>
+
+<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `42 min ago`
-- **[START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92)** by **Tiffany Day** *(START OVER)* - `44 min ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `47 min ago`
-- **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)* - `50 min ago`
-- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `53 min ago`
+- **[changes](https://open.spotify.com/track/780m9E2Kw6EY204EveWIk3)** by **Love Pact** *(changes)* - `2 min ago`
+- **[r4ver girl](https://open.spotify.com/track/3FG2KF53DvrOC6Zc7iaNIR)** by **skrt cobain** *(r4ver girl)* - `4 min ago`
+- **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/44HtgbGRHHRn9vUJ787Z9J)** by **Punk Christ** *(ELEKTRONISCHES MÄDCHEN)* - `6 min ago`
+- **[ELEKTRONISCHES MÄDCHEN](https://open.spotify.com/track/44HtgbGRHHRn9vUJ787Z9J)** by **Punk Christ** *(ELEKTRONISCHES MÄDCHEN)* - `7 min ago`
+- **[Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)** by **Varg²™, RXKNephew** *(LD50 VOL.1)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 15:46:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 16:19:24 UTC*
 <!-- SPOTIFY-END -->
