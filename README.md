@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d451f811927c0e4da1a6befe" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a1a897ee5e642da6d945bcd7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc">engel>_<</a></strong><br/>
-  <em>by</em> <strong>mehlhaltig, luu</strong><br/>
-  <em>Album:</em> engel>_<
+  <strong><a href="https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS">Lady Brown (feat. Cise Starr from CYNE)</a></strong><br/>
+  <em>by</em> <strong>Nujabes, Cise Starr</strong><br/>
+  <em>Album:</em> Metaphorical Music
 </p>
 
-<p align="center"><code>1:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:05</code></p>
+<p align="center"><code>3:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)* - `1 min ago`
-- **[Sie hat nicht an mich geglaubt](https://open.spotify.com/track/5IpQh8C2v3cnEk7OBw0IqG)** by **Psyke, humanangst** *(HumanPsyke202)* - `3 min ago`
-- **[Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ)** by **Vertigoaway, Schizoscriptures** *(Break This The Breaking Point 2)* - `5 min ago`
-- **[Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)** by **smokedope2016** *(THE PEAK)* - `12 min ago`
-- **[about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM)** by **Lil Peep** *(about u)* - `15 min ago`
+- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `3 min ago`
+- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `6 min ago`
+- **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `10 min ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `13 min ago`
+- **[Comin Down](https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 22:15:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 22:43:50 UTC*
 <!-- SPOTIFY-END -->
