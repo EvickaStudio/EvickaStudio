@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6">Fantasy</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> The Snow Strippers
+</p>
+
+<p align="center"><code>0:29</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)* - `12 min ago`
-- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `14 min ago`
-- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `17 min ago`
-- **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `18 min ago`
-- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `21 min ago`
+- **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)* - `just now`
+- **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)* - `40 min ago`
+- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `42 min ago`
+- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `45 min ago`
+- **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `46 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 14:22:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 14:50:10 UTC*
 <!-- SPOTIFY-END -->
