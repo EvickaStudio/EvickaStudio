@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27381376e47003d45f6513b5657" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9">Love Tonight</a></strong><br/>
-  <em>by</em> <strong>Shouse</strong><br/>
-  <em>Album:</em> Love Tonight
+  <strong><a href="https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p">GONE, GONE / THANK YOU</a></strong><br/>
+  <em>by</em> <strong>Tyler, The Creator</strong><br/>
+  <em>Album:</em> IGOR
 </p>
 
-<p align="center"><code>1:02</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>8:13</code></p>
+<p align="center"><code>3:29</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>6:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[schnuffel](https://open.spotify.com/track/5cHV3EmtYGlVcEwrGBWMtL)** by **luu, iwannabemissed** *(schnuffel)* - `just now`
-- **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)* - `2 min ago`
-- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)* - `4 min ago`
-- **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)* - `7 min ago`
-- **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)* - `9 min ago`
+- **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)* - `3 min ago`
+- **[Freak Show](https://open.spotify.com/track/03KRZpV8xqp0tjxB7EsuBe)** by **Punkinloveee, H3artcrush** *(Freak Show)* - `4 min ago`
+- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `6 min ago`
+- **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)* - `8 min ago`
+- **[MAKRODOSIS](https://open.spotify.com/track/5kL34ylUADm4lTPuLpLe2K)** by **Ski Aggu, Dj Schinkensuppe** *(2022 war film gewesen)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 16:52:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 17:18:28 UTC*
 <!-- SPOTIFY-END -->
