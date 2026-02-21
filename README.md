@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735c8da8c8629a571229f02f35" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d451f811927c0e4da1a6befe" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g">out of place</a></strong><br/>
-  <em>by</em> <strong>xnti, Rebzyyx</strong><br/>
-  <em>Album:</em> out of place
+  <strong><a href="https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc">engel>_<</a></strong><br/>
+  <em>by</em> <strong>mehlhaltig, luu</strong><br/>
+  <em>Album:</em> engel>_<
 </p>
 
-<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:14</code></p>
+<p align="center"><code>1:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg)** by **Charli xcx** *(Brat and it’s the same but there’s three more songs so it’s not)* - `2 min ago`
-- **[Stateside](https://open.spotify.com/track/5UBfLYnkImP1RKMMy4TGs8)** by **PinkPantheress** *(Fancy That)* - `4 min ago`
-- **[VYZEE - MELODIC PART EXTENTED](https://open.spotify.com/track/38fRuOVflZy0UuAt3WKEGh)** by **Charbo** *(VYZEE (MELODIC PART EXTENTED))* - `7 min ago`
-- **[Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i)** by **Kanye West** *(Yeezus)* - `10 min ago`
-- **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)* - `13 min ago`
+- **[es tut mir leid](https://open.spotify.com/track/2janW4jhNSNuNqoAv6CnIi)** by **Tamino404, Keule** *(es ist nicht mehr 2016)* - `1 min ago`
+- **[Sie hat nicht an mich geglaubt](https://open.spotify.com/track/5IpQh8C2v3cnEk7OBw0IqG)** by **Psyke, humanangst** *(HumanPsyke202)* - `3 min ago`
+- **[Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ)** by **Vertigoaway, Schizoscriptures** *(Break This The Breaking Point 2)* - `5 min ago`
+- **[Taipei / Waterbed](https://open.spotify.com/track/0gFueMhSgOv0EJXlYovd74)** by **smokedope2016** *(THE PEAK)* - `12 min ago`
+- **[about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM)** by **Lil Peep** *(about u)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 21:54:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 22:15:10 UTC*
 <!-- SPOTIFY-END -->
