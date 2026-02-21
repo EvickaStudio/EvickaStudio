@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27355a71a721f700dd70997c8a5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273203e4c6a048df02a21cdd813" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br">behave</a></strong><br/>
-  <em>by</em> <strong>luvarrow, mental</strong><br/>
-  <em>Album:</em> behave
+  <strong><a href="https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q">Primadonna</a></strong><br/>
+  <em>by</em> <strong>MARINA</strong><br/>
+  <em>Album:</em> Electra Heart (Deluxe)
 </p>
 
-<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:34</code></p>
+<p align="center"><code>1:58</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `2 min ago`
-- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `3 min ago`
-- **[START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92)** by **Tiffany Day** *(START OVER)* - `5 min ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `8 min ago`
-- **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)* - `12 min ago`
+- **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)* - `1 min ago`
+- **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luutwo** *(doppelsuizid)* - `4 min ago`
+- **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)* - `5 min ago`
+- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `10 min ago`
+- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 13:25:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 13:56:23 UTC*
 <!-- SPOTIFY-END -->
