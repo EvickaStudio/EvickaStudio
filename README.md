@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730162373b7076d62e17883336" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d7620642ec7ac22e103bcc6b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/23iKYWszFScsU02y1HJb92">START OVER</a></strong><br/>
-  <em>by</em> <strong>Tiffany Day</strong><br/>
-  <em>Album:</em> START OVER
+  <strong><a href="https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2">Colt</a></strong><br/>
+  <em>by</em> <strong>HighSchool</strong><br/>
+  <em>Album:</em> HighSchool
 </p>
 
-<p align="center"><code>0:14</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:50</code></p>
+<p align="center"><code>4:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)* - `3 min ago`
-- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `6 min ago`
-- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `12 h ago`
-- **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)* - `12 h ago`
-- **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)* - `12 h ago`
+- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `4 min ago`
+- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `6 min ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `9 min ago`
+- **[Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA)** by **Charli xcx** *(Wuthering Heights)* - `13 min ago`
+- **[behave](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)** by **luvarrow, mental** *(behave)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 10:49:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 11:15:22 UTC*
 <!-- SPOTIFY-END -->
