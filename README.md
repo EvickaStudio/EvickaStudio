@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273efebb3e764a0e7a74ce5393b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ec7be882734ed16843611b9d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2vj55J14cjerZEHlZ5ez0l">52Hertz - Bonus Track</a></strong><br/>
-  <em>by</em> <strong>Dropped here</strong><br/>
-  <em>Album:</em> Need for speed
+  <strong><a href="https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu">Are You The One</a></strong><br/>
+  <em>by</em> <strong>Basement</strong><br/>
+  <em>Album:</em> Be Here Now / Are You The One
 </p>
 
-<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:23</code></p>
+<p align="center"><code>0:08</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `just now`
-- **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)* - `2 min ago`
-- **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)* - `5 min ago`
-- **[Ferrari](https://open.spotify.com/track/5L2nTY906SquAXj9yqwr7X)** by **Alice Gas** *(Sorry 4 Being Famous)* - `7 min ago`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `10 min ago`
+- **[Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)** by **Bladee** *(Eversince)* - `2 min ago`
+- **[Wooden Girl](https://open.spotify.com/track/1uGUhIkx6bjDkYviM7xfTP)** by **jonatan leandoer96** *(Nectar)* - `5 min ago`
+- **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)* - `8 min ago`
+- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)* - `10 min ago`
+- **[Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh)** by **SIRA, Themba, Monk, Longus Mongus** *(Secco Maracuja (feat. THEMBA))* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 20:15:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-21 20:45:46 UTC*
 <!-- SPOTIFY-END -->
