@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732999640090d01eec0aef403f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP">Wait</a></strong><br/>
-  <em>by</em> <strong>M83</strong><br/>
-  <em>Album:</em> Hurry up, We're Dreaming
+  <strong><a href="https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH">promise</a></strong><br/>
+  <em>by</em> <strong>angelicxmei, utumiyqcom</strong><br/>
+  <em>Album:</em> promise
 </p>
 
-<p align="center"><code>3:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>5:43</code></p>
+<p align="center"><code>0:57</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `3 min ago`
-- **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)* - `8 min ago`
-- **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)* - `11 min ago`
-- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `16 min ago`
-- **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)* - `19 min ago`
+- **[...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm)** by **$uicideboy$** *(Stop Staring At the Shadows)* - `just now`
+- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `3 min ago`
+- **[at least one time](https://open.spotify.com/track/2UK2SceExNsvau2zt4FfNr)** by **strangerperson** *(at least one time)* - `5 min ago`
+- **[Emotions 2.0](https://open.spotify.com/track/4O4YjcteBewBS603SK1enn)** by **Ufo361, CÉLINE** *(Emotions 2.0)* - `6 min ago`
+- **[Everything In Its Right Place - House](https://open.spotify.com/track/0NHzRvrq9uxH4SEBWPWtki)** by **Warband023** *(Everything In Its Right Place (House))* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -125,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 15:46:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 16:19:56 UTC*
 <!-- SPOTIFY-END -->
