@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f53b4bc868aaed2f1b49546a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273579b367de850b6cdfa7ab35a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw">König Der Welt</a></strong><br/>
-  <em>by</em> <strong>Traumatin</strong><br/>
-  <em>Album:</em> König Der Welt
+  <strong><a href="https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ">i'm so thankful i didn't end up with what i thought i wanted</a></strong><br/>
+  <em>by</em> <strong>User2222</strong><br/>
+  <em>Album:</em> i'm so thankful i didn't end up with what i thought i wanted
 </p>
 
-<p align="center"><code>0:21</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:28</code></p>
+<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `just now`
-- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `1 min ago`
-- **[i hate this](https://open.spotify.com/track/4HytVTfbsGJEso9qSkJU5g)** by **threedimensionsapart** *(bliss)* - `5 min ago`
-- **[No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)** by **Radiohead** *(OK Computer OKNOTOK 1997 2017)* - `7 min ago`
-- **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)* - `9 min ago`
+- **[can you tell?](https://open.spotify.com/track/2ODOdaX4ZqhqvnigNY3nSB)** by **Jane Remover** *(Frailty)* - `1 min ago`
+- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `5 min ago`
+- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)* - `7 min ago`
+- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `10 min ago`
+- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 19:44:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 19:55:52 UTC*
 <!-- SPOTIFY-END -->
