@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9">Nur Du</a></strong><br/>
+  <em>by</em> <strong>mickyi, S1RENA</strong><br/>
+  <em>Album:</em> zone out ep ⋆｡°✩
+</p>
+
+<p align="center"><code>2:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `12 h ago`
-- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `12 h ago`
-- **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `12 h ago`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `12 h ago`
-- **[Comin Down](https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `12 h ago`
+- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `1 min ago`
+- **[Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP)** by **ThxSoMch** *(Keep It Tucked)* - `4 min ago`
+- **[Love U](https://open.spotify.com/track/5CypDZUPzV1UOx3DqB7trM)** by **Razihel** *(Love U)* - `7 min ago`
+- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `11 min ago`
+- **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 10:49:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 11:14:39 UTC*
 <!-- SPOTIFY-END -->
