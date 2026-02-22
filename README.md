@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736b66085355fc7789ca9ab82a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731cd31e31c57c3dcba292a5b8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX">Letzten Winter</a></strong><br/>
-  <em>by</em> <strong>kevin</strong><br/>
-  <em>Album:</em> Letzten Winter
+  <strong><a href="https://open.spotify.com/track/5AK1v847LeWu3RBaSawxNT">LSD Racing Team</a></strong><br/>
+  <em>by</em> <strong>Kiryano</strong><br/>
+  <em>Album:</em> 01 Refine
 </p>
 
-<p align="center"><code>0:39</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:26</code></p>
+<p align="center"><code>0:49</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:48</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))* - `just now`
-- **[Licht aus](https://open.spotify.com/track/2QN0d1qP7Lkrs6n50PPtza)** by **Murcy** *(Licht aus)* - `3 min ago`
-- **[Whatever](https://open.spotify.com/track/3jtWarFX9mNJpamfDTeP5J)** by **CRO** *(Raop +5)* - `6 min ago`
-- **[Toro - I Hate Models Speed Up Revival Edit of Andre VII RMX](https://open.spotify.com/track/7KnVy00zIJyFcsAIV1KWBT)** by **El Columpio Asesino, I Hate Models, Andre VII** *(Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX))* - `9 min ago`
-- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `16 min ago`
+- **[Slaughter House](https://open.spotify.com/track/1FlOHhlBsJhfv8K4cttbVE)** by **Sematary** *(Rainbow Bridge)* - `just now`
+- **[PRETTYLIES](https://open.spotify.com/track/4DeKuBTQSVVVOjWQ7mmNqw)** by **hxly xo** *(Umbrae)* - `4 min ago`
+- **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)* - `6 min ago`
+- **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)* - `9 min ago`
+- **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 12:31:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 13:30:21 UTC*
 <!-- SPOTIFY-END -->
