@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273579b367de850b6cdfa7ab35a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a2ea16cba15e73cc73bccaf6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ">i'm so thankful i didn't end up with what i thought i wanted</a></strong><br/>
-  <em>by</em> <strong>User2222</strong><br/>
-  <em>Album:</em> i'm so thankful i didn't end up with what i thought i wanted
+  <strong><a href="https://open.spotify.com/track/1YCQLUpd4HAvpITVDglW1F">Kisses</a></strong><br/>
+  <em>by</em> <strong>Lil Alice</strong><br/>
+  <em>Album:</em> Sighs
 </p>
 
-<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:00</code></p>
+<p align="center"><code>0:30</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:52</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[can you tell?](https://open.spotify.com/track/2ODOdaX4ZqhqvnigNY3nSB)** by **Jane Remover** *(Frailty)* - `1 min ago`
-- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `5 min ago`
-- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)* - `7 min ago`
-- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `10 min ago`
-- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `12 min ago`
+- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `just now`
+- **[Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU)** by **Rowli, Hank, Sick & Tired, Asterio** *(Nur ein Wort)* - `2 min ago`
+- **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)* - `4 min ago`
+- **[It's Cold Out (Extended Mix)](https://open.spotify.com/track/32fs4Ws6pYYdyXppLm7OzV)** by **Jawnino** *(40)* - `7 min ago`
+- **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 19:55:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 20:18:47 UTC*
 <!-- SPOTIFY-END -->
