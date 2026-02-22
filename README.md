@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a8b0e2778ba0735358d45223" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732d0373a546372d162a12b270" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV">Summertime Sadness - Sped Up</a></strong><br/>
-  <em>by</em> <strong>Lana Del Rey, Speed Radio</strong><br/>
-  <em>Album:</em> Summertime Sadness (Sped Up)
+  <strong><a href="https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI">how it feels to get run over</a></strong><br/>
+  <em>by</em> <strong>meat computer</strong><br/>
+  <em>Album:</em> how it feels to get run over
 </p>
 
-<p align="center"><code>3:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:17</code></p>
+<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Исчезаю](https://open.spotify.com/track/0BybFIHpANp0dYoiQec8XZ)** by **Lieless, билборды, hxvvxn** *(Исчезаю)* - `2 min ago`
-- **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)* - `5 min ago`
-- **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)* - `7 min ago`
-- **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))* - `11 min ago`
-- **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `13 min ago`
+- **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)* - `1 min ago`
+- **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `8 min ago`
+- **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `11 min ago`
+- **[obsessixn](https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi)** by **whatsaheart** *(obsessixn)* - `12 min ago`
+- **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -125,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 14:02:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 14:43:03 UTC*
 <!-- SPOTIFY-END -->
