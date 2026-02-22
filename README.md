@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a6ec281118955c371a5fc056" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ecec149045e4f83cce7c9c4e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U">doppelsuizid</a></strong><br/>
-  <em>by</em> <strong>mehlhaltig, luutwo</strong><br/>
-  <em>Album:</em> doppelsuizid
+  <strong><a href="https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY">Dancing Nihilist</a></strong><br/>
+  <em>by</em> <strong>pathetic240px</strong><br/>
+  <em>Album:</em> Dancing Nihilist
 </p>
 
-<p align="center"><code>1:11</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>1:44</code></p>
+<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))* - `just now`
-- **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)* - `3 min ago`
-- **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)* - `4 min ago`
-- **[100 TAUSEND (Demo)](https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW)** by **Yung Hurn** *(100 TAUSEND (Demo))* - `6 min ago`
-- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `9 min ago`
+- **[Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh)** by **Sports** *(Baby Baby)* - `1 min ago`
+- **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)* - `11 min ago`
+- **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)* - `13 min ago`
+- **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)* - `18 min ago`
+- **[Need 2 (slow pinegrove)](https://open.spotify.com/track/3ygLu1Efk6adwGoXk9pWgQ)** by **Pinegrove** *(Need 2)* - `23 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 18:58:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 19:26:55 UTC*
 <!-- SPOTIFY-END -->
