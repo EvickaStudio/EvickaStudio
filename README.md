@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a2ea16cba15e73cc73bccaf6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27344f0d250e45aa471d3ec3753" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1YCQLUpd4HAvpITVDglW1F">Kisses</a></strong><br/>
-  <em>by</em> <strong>Lil Alice</strong><br/>
-  <em>Album:</em> Sighs
+  <strong><a href="https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw">Verdien dich nicht</a></strong><br/>
+  <em>by</em> <strong>Traumatin</strong><br/>
+  <em>Album:</em> Verdien dich nicht
 </p>
 
-<p align="center"><code>0:30</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:52</code></p>
+<p align="center"><code>2:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `just now`
-- **[Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU)** by **Rowli, Hank, Sick & Tired, Asterio** *(Nur ein Wort)* - `2 min ago`
-- **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)* - `4 min ago`
-- **[It's Cold Out (Extended Mix)](https://open.spotify.com/track/32fs4Ws6pYYdyXppLm7OzV)** by **Jawnino** *(40)* - `7 min ago`
-- **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)* - `12 min ago`
+- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))* - `1 min ago`
+- **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)* - `5 min ago`
+- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `8 min ago`
+- **[Greed](https://open.spotify.com/track/7wiYi2QYJFI3j3YKD8Ct4i)** by **Freddie Dredd** *(Greed)* - `11 min ago`
+- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 20:18:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 20:48:21 UTC*
 <!-- SPOTIFY-END -->
