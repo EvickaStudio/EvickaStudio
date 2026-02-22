@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `7 h ago`
-- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `7 h ago`
-- **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `7 h ago`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `7 h ago`
-- **[Comin Down](https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `7 h ago`
+- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `8 h ago`
+- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `8 h ago`
+- **[scorpion](https://open.spotify.com/track/1aaYDdU83RXC8FpwjhbN49)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `8 h ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `8 h ago`
+- **[Comin Down](https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 06:07:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 07:05:33 UTC*
 <!-- SPOTIFY-END -->
