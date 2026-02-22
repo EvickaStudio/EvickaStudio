@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ecec149045e4f83cce7c9c4e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f53b4bc868aaed2f1b49546a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY">Dancing Nihilist</a></strong><br/>
-  <em>by</em> <strong>pathetic240px</strong><br/>
-  <em>Album:</em> Dancing Nihilist
+  <strong><a href="https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw">König Der Welt</a></strong><br/>
+  <em>by</em> <strong>Traumatin</strong><br/>
+  <em>Album:</em> König Der Welt
 </p>
 
-<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:36</code></p>
+<p align="center"><code>0:21</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh)** by **Sports** *(Baby Baby)* - `1 min ago`
-- **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)* - `11 min ago`
-- **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)* - `13 min ago`
-- **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)* - `18 min ago`
-- **[Need 2 (slow pinegrove)](https://open.spotify.com/track/3ygLu1Efk6adwGoXk9pWgQ)** by **Pinegrove** *(Need 2)* - `23 min ago`
+- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `just now`
+- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `1 min ago`
+- **[i hate this](https://open.spotify.com/track/4HytVTfbsGJEso9qSkJU5g)** by **threedimensionsapart** *(bliss)* - `5 min ago`
+- **[No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)** by **Radiohead** *(OK Computer OKNOTOK 1997 2017)* - `7 min ago`
+- **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 19:26:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 19:44:59 UTC*
 <!-- SPOTIFY-END -->
