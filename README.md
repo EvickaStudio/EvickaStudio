@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a114e922fe80f2f714f1c980" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ca057cfad765106b51ad757b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6n0BEMe62sSIo5Yg6vJEEc">RITTER DER NACHT OUTRO</a></strong><br/>
-  <em>by</em> <strong>Punk Christ</strong><br/>
-  <em>Album:</em> ORGANISCHE CHEMIE
+  <strong><a href="https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq">Wir kriegens hin</a></strong><br/>
+  <em>by</em> <strong>Kasi, antonius</strong><br/>
+  <em>Album:</em> No Hook
 </p>
 
-<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:41</code></p>
+<p align="center"><code>0:16</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `1 min ago`
-- **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)* - `4 min ago`
-- **[Time to Pretend](https://open.spotify.com/track/1U0mXbREaTeDN7alQ3D3RE)** by **MGMT** *(Time To Pretend)* - `6 min ago`
-- **[LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4)** by **A$AP Rocky** *(LONG.LIVE.A$AP (Deluxe Version))* - `10 min ago`
-- **[Tag//Nacht](https://open.spotify.com/track/1YuF8Cb72HyZrlwWITakq4)** by **The Doomers** *(Zeitlos)* - `13 min ago`
+- **[John Dee](https://open.spotify.com/track/7BLFY8GsDyUkaARTv0uwKH)** by **Ghostemane** *(John Dee)* - `just now`
+- **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **KidSnorlax, hateoryx** *(angelRavegirl)* - `2 min ago`
+- **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)* - `5 min ago`
+- **[SIE LIEBT NUR DIE DRUGS](https://open.spotify.com/track/67jbhWvRZ7nF1jegDiF0F9)** by **Laer Xirtam** *(ALTER EGO)* - `8 min ago`
+- **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 17:48:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 18:24:05 UTC*
 <!-- SPOTIFY-END -->
