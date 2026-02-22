@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732d0373a546372d162a12b270" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2iEkYccntXk2huCU2kFdVI">how it feels to get run over</a></strong><br/>
-  <em>by</em> <strong>meat computer</strong><br/>
-  <em>Album:</em> how it feels to get run over
+  <strong><a href="https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os">Inside Out</a></strong><br/>
+  <em>by</em> <strong>Duster</strong><br/>
+  <em>Album:</em> Stratosphere
 </p>
 
-<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:47</code></p>
+<p align="center"><code>1:14</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)* - `1 min ago`
-- **[Wedding Bells](https://open.spotify.com/track/3sYQKQwRttm43oUYDnCDSD)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `8 min ago`
-- **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `11 min ago`
-- **[obsessixn](https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi)** by **whatsaheart** *(obsessixn)* - `12 min ago`
-- **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)* - `15 min ago`
+- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `6 min ago`
+- **[Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)** by **Wir sind Helden** *(Die Reklamation)* - `7 min ago`
+- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `11 min ago`
+- **[how it feels to get run over](https://open.spotify.com/track/4QnKglUXjCju9fpFuQJJ9L)** by **archive computer** *(how it feels to get run over)* - `14 min ago`
+- **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 14:43:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 14:58:22 UTC*
 <!-- SPOTIFY-END -->
