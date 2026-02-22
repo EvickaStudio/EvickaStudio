@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a3c9944ee5e9ec629405e691" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB">I Do Whatever I Want</a></strong><br/>
-  <em>by</em> <strong>vudah</strong><br/>
-  <em>Album:</em> I Do Whatever I Want
+  <strong><a href="https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP">Wait</a></strong><br/>
+  <em>by</em> <strong>M83</strong><br/>
+  <em>Album:</em> Hurry up, We're Dreaming
 </p>
 
-<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>1:45</code></p>
+<p align="center"><code>3:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>5:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ikarus](https://open.spotify.com/track/5tOOvCKWVh5TNw6LauBVPs)** by **CKK** *(Ikarus)* - `just now`
-- **[Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8)** by **Roar** *(I Can't Handle Change)* - `2 min ago`
-- **[Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX)** by **6euroneunzig** *(Zur Party)* - `5 min ago`
-- **[clover](https://open.spotify.com/track/1nHWYbknvW8IkiRHfaPlBf)** by **5v, Rit** *(clover)* - `7 min ago`
-- **[The righteous wrath of an honorable man](https://open.spotify.com/track/4h9x2ICDsuzxMwSJCkliLp)** by **Colin Stetson** *(New History Warfare Vol. 2: Judges)* - `9 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `3 min ago`
+- **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)* - `8 min ago`
+- **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)* - `11 min ago`
+- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `16 min ago`
+- **[I Do Whatever I Want](https://open.spotify.com/track/4ZJU32VjEspY23GboTfskB)** by **vudah** *(I Do Whatever I Want)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 15:26:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 15:46:35 UTC*
 <!-- SPOTIFY-END -->
