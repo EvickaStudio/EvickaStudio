@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732999640090d01eec0aef403f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c5a006414c7faeeb09a1cc18" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH">promise</a></strong><br/>
-  <em>by</em> <strong>angelicxmei, utumiyqcom</strong><br/>
-  <em>Album:</em> promise
+  <strong><a href="https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf">Erotica</a></strong><br/>
+  <em>by</em> <strong>ChromeStylist</strong><br/>
+  <em>Album:</em> Erotica
 </p>
 
-<p align="center"><code>0:57</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:13</code></p>
+<p align="center"><code>2:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm)** by **$uicideboy$** *(Stop Staring At the Shadows)* - `just now`
-- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `3 min ago`
-- **[at least one time](https://open.spotify.com/track/2UK2SceExNsvau2zt4FfNr)** by **strangerperson** *(at least one time)* - `5 min ago`
-- **[Emotions 2.0](https://open.spotify.com/track/4O4YjcteBewBS603SK1enn)** by **Ufo361, CÉLINE** *(Emotions 2.0)* - `6 min ago`
-- **[Everything In Its Right Place - House](https://open.spotify.com/track/0NHzRvrq9uxH4SEBWPWtki)** by **Warband023** *(Everything In Its Right Place (House))* - `9 min ago`
+- **[Taub](https://open.spotify.com/track/35YEb10VcwXhAoudC4nYvN)** by **Pink Katana, TYM** *(Taub)* - `2 min ago`
+- **[Long Gone](https://open.spotify.com/track/1YYGobaxPu9TA76CsCJWki)** by **DONDON, LeFrers** *(Long Gone)* - `3 min ago`
+- **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)* - `6 min ago`
+- **[Freak Show](https://open.spotify.com/track/03KRZpV8xqp0tjxB7EsuBe)** by **Punkinloveee, H3artcrush** *(Freak Show)* - `9 min ago`
+- **[Verschwende deine Zeit](https://open.spotify.com/track/49FmbJ8nex1Dnc592ezhXN)** by **Edwin Rosen** *(mitleerenhänden)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**It wont stop raining here**](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 16:19:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-22 16:53:25 UTC*
 <!-- SPOTIFY-END -->
