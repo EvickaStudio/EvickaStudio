@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730162373b7076d62e17883336" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fc6c7a596cb7749e0b4a459" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/23iKYWszFScsU02y1HJb92">START OVER</a></strong><br/>
-  <em>by</em> <strong>Tiffany Day</strong><br/>
-  <em>Album:</em> START OVER
+  <strong><a href="https://open.spotify.com/track/5Fr0pGpno5QRjNJGoK5AzS">dress</a></strong><br/>
+  <em>by</em> <strong>coldspades, may</strong><br/>
+  <em>Album:</em> dress
 </p>
 
-<p align="center"><code>0:11</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:50</code></p>
+<p align="center"><code>0:31</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:20</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[One More Kiss](https://open.spotify.com/track/7vCal7DIgDCPfQeqsXOZyX)** by **Robstar** *(One More Kiss)* - `3 min ago`
-- **[One More Kiss](https://open.spotify.com/track/7vCal7DIgDCPfQeqsXOZyX)** by **Robstar** *(One More Kiss)* - `4 min ago`
-- **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)* - `1 h ago`
-- **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)* - `1 h ago`
-- **[LSD Racing Team](https://open.spotify.com/track/5AK1v847LeWu3RBaSawxNT)** by **Kiryano** *(01 Refine)* - `1 h ago`
+- **[doppel socken](https://open.spotify.com/track/10aCdqexGg9PLm0qHzAKOf)** by **marcello83, b3nn3t** *(fff (f für februar))* - `just now`
+- **[Sojourn](https://open.spotify.com/track/3xXJHuTxbSF69tfqg061iT)** by **Joji** *(Piss In The Wind)* - `2 min ago`
+- **[i just wanna vomit](https://open.spotify.com/track/1VKGN9OpHAxyopDEEsgaiG)** by **syris** *(i just wanna vomit)* - `5 min ago`
+- **[Song 6 ft Longus Mongus](https://open.spotify.com/track/0GxmFe2tA32M13VgamvCRB)** by **$OHO BANI, Longus Mongus, Ericson** *(listen carefully)* - `7 min ago`
+- **[defend](https://open.spotify.com/track/3j9ZJy5DnWYKiL0A1BtNah)** by **vai5000** *(defend)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 09:12:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 10:11:20 UTC*
 <!-- SPOTIFY-END -->
