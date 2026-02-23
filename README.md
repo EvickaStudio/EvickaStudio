@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328c50326b4e477d500965a43" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27373d74b938c8933ccfe33d8a8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8">ALONE IN THE DARK</a></strong><br/>
-  <em>by</em> <strong>RomancePlanet</strong><br/>
-  <em>Album:</em> ALONE IN THE DARK
+  <strong><a href="https://open.spotify.com/track/7Abdi621pkzX6WSXgGH4pR">Flowers</a></strong><br/>
+  <em>by</em> <strong>aye6</strong><br/>
+  <em>Album:</em> Flowers
 </p>
 
-<p align="center"><code>0:59</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:15</code></p>
+<p align="center"><code>0:43</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)* - `just now`
-- **[Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)** by **Varg²™, RXKNephew** *(LD50 VOL.1)* - `2 min ago`
-- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)* - `7 min ago`
-- **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)* - `10 min ago`
-- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)* - `13 min ago`
+- **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)* - `just now`
+- **[Einmal um die Welt](https://open.spotify.com/track/6gQAyT7B7cYGTRBOiFdQUS)** by **CRO** *(Raop)* - `5 min ago`
+- **[Pushe Packs](https://open.spotify.com/track/54f2IdWSfeTb1LxmpvVb0K)** by **Kev Koko, Bauernfeind, Pashanim** *(Pushe Packs)* - `7 min ago`
+- **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `9 min ago`
+- **[kit](https://open.spotify.com/track/6vyhJ4tMT5MEdEEpc6jLIX)** by **julie** *(starjump / kit)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 21:06:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 22:00:16 UTC*
 <!-- SPOTIFY-END -->
