@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f94d5223ca4f723935b59ae4" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe">Nachts wach</a></strong><br/>
-  <em>by</em> <strong>Miksu / Macloud, makko</strong><br/>
-  <em>Album:</em> Nachts wach
-</p>
-
-<p align="center"><code>2:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:58</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Lie Use Die](https://open.spotify.com/track/5HbC5fZTVbPCwjKiLYiktB)** by **M()RE** *(Five Years)* - `2 min ago`
-- **[YMCA - Original Version 1978](https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY)** by **Village People** *(YMCA)* - `5 min ago`
-- **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)* - `10 min ago`
-- **[CASTLE OF GLASS](https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5)** by **Linkin Park** *(LIVING THINGS)* - `14 min ago`
-- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `17 min ago`
+- **[Kn1fe<3](https://open.spotify.com/track/7tyBMXkSI6G0xIEvFCfxzE)** by **DJmegan23, sophie meiers** *(Kn1fe<3)* - `32 min ago`
+- **[RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)** by **Tyler, The Creator** *(IGOR)* - `34 min ago`
+- **[You Were Needed the Most](https://open.spotify.com/track/6zdycJe26VovH0Iv0uBtCH)** by **longlost** *(You Were Needed the Most)* - `37 min ago`
+- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `40 min ago`
+- **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)* - `42 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 17:37:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 18:38:33 UTC*
 <!-- SPOTIFY-END -->
