@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731dc76967a956d9c3c596fd3c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273865e92ac710b28784ae8f5a3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi">obsessixn</a></strong><br/>
-  <em>by</em> <strong>whatsaheart</strong><br/>
-  <em>Album:</em> obsessixn
+  <strong><a href="https://open.spotify.com/track/4h1Qse4KJxZ5fy2lbmT3sy">Hubba Bubba</a></strong><br/>
+  <em>by</em> <strong>Ski Aggu</strong><br/>
+  <em>Album:</em> Hubba Bubba
 </p>
 
-<p align="center"><code>0:32</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:54</code></p>
+<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>1:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)* - `just now`
-- **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)* - `3 min ago`
-- **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)* - `5 min ago`
-- **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)* - `8 min ago`
-- **[du_spürst+nur-<3.durch-pillen+++](https://open.spotify.com/track/7buy6nBCpSDTWOYq4eVnDs)** by **DANZINGER 99** *(du_spürst+nur-<3.durch-pillen+++)* - `12 min ago`
+- **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)* - `just now`
+- **[Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw)** by **The Meeting Places** *(Find Yourself Along The Way)* - `2 min ago`
+- **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)* - `7 min ago`
+- **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)* - `9 min ago`
+- **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 19:42:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 20:23:53 UTC*
 <!-- SPOTIFY-END -->
