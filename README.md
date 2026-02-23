@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds">Runaway</a></strong><br/>
-  <em>by</em> <strong>Kanye West, Pusha T</strong><br/>
-  <em>Album:</em> My Beautiful Dark Twisted Fantasy
+  <strong><a href="https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof">LONG SEASON</a></strong><br/>
+  <em>by</em> <strong>Fishmans</strong><br/>
+  <em>Album:</em> LONG SEASON
 </p>
 
-<p align="center"><code>3:31</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>9:07</code></p>
+<p align="center"><code>5:57</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>35:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)* - `3 min ago`
-- **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)* - `5 min ago`
-- **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)* - `8 min ago`
-- **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `10 min ago`
-- **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))* - `13 min ago`
+- **[club+biz4rr3](https://open.spotify.com/track/6fX36zMIsn8kAQFEBQIQWq)** by **echia** *(club+biz4rr3)* - `5 min ago`
+- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)* - `8 min ago`
+- **[Bequem](https://open.spotify.com/track/7mq4CCgO6vTBZHoOjF23b6)** by **makko** *(Leb es oder lass es 2)* - `12 min ago`
+- **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)* - `16 min ago`
+- **[Rummelplatz](https://open.spotify.com/track/4YAAU6fRUHINAvPVNyx4NM)** by **Money Boy** *(The Lost Tape III)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 15:29:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 16:28:28 UTC*
 <!-- SPOTIFY-END -->
