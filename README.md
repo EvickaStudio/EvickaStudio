@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fc6c7a596cb7749e0b4a459" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27381999087974d63098ba9de17" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5Fr0pGpno5QRjNJGoK5AzS">dress</a></strong><br/>
-  <em>by</em> <strong>coldspades, may</strong><br/>
-  <em>Album:</em> dress
+  <strong><a href="https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB">Kisses and Flowers</a></strong><br/>
+  <em>by</em> <strong>strangerperson</strong><br/>
+  <em>Album:</em> Kisses und Flowers
 </p>
 
-<p align="center"><code>0:31</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:20</code></p>
+<p align="center"><code>1:19</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:20</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[doppel socken](https://open.spotify.com/track/10aCdqexGg9PLm0qHzAKOf)** by **marcello83, b3nn3t** *(fff (f für februar))* - `just now`
-- **[Sojourn](https://open.spotify.com/track/3xXJHuTxbSF69tfqg061iT)** by **Joji** *(Piss In The Wind)* - `2 min ago`
-- **[i just wanna vomit](https://open.spotify.com/track/1VKGN9OpHAxyopDEEsgaiG)** by **syris** *(i just wanna vomit)* - `5 min ago`
-- **[Song 6 ft Longus Mongus](https://open.spotify.com/track/0GxmFe2tA32M13VgamvCRB)** by **$OHO BANI, Longus Mongus, Ericson** *(listen carefully)* - `7 min ago`
-- **[defend](https://open.spotify.com/track/3j9ZJy5DnWYKiL0A1BtNah)** by **vai5000** *(defend)* - `10 min ago`
+- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `1 min ago`
+- **[in my room](https://open.spotify.com/track/0uWMe4YAxph7wJnHYEpE84)** by **meat computer** *(new world disorder)* - `3 min ago`
+- **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)* - `5 min ago`
+- **[Hauseingang](https://open.spotify.com/track/3aLZ0s5ulFLcFCtIZQblpo)** by **Pashanim** *(Hauseingang)* - `8 min ago`
+- **[Gamer Girl](https://open.spotify.com/track/3eNAMJ9tVpOxaiCnttVdN9)** by **NovemberBoy** *(Gamer Girl)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 10:11:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 11:06:05 UTC*
 <!-- SPOTIFY-END -->
