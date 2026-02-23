@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731dc76967a956d9c3c596fd3c" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi">obsessixn</a></strong><br/>
+  <em>by</em> <strong>whatsaheart</strong><br/>
+  <em>Album:</em> obsessixn
+</p>
+
+<p align="center"><code>0:32</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kn1fe<3](https://open.spotify.com/track/7tyBMXkSI6G0xIEvFCfxzE)** by **DJmegan23, sophie meiers** *(Kn1fe<3)* - `32 min ago`
-- **[RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)** by **Tyler, The Creator** *(IGOR)* - `34 min ago`
-- **[You Were Needed the Most](https://open.spotify.com/track/6zdycJe26VovH0Iv0uBtCH)** by **longlost** *(You Were Needed the Most)* - `37 min ago`
-- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `40 min ago`
-- **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)* - `42 min ago`
+- **[Not Allowed](https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB)** by **TV Girl** *(Who Really Cares)* - `just now`
+- **[flirting with death](https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS)** by **DJmegan23** *(sound-proofed wilderness)* - `3 min ago`
+- **[Dramamine](https://open.spotify.com/track/4WhFJqlNSycgYlNga1IF6x)** by **Flawed Mangoes** *(The Unwavering Hand)* - `5 min ago`
+- **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)* - `8 min ago`
+- **[du_spürst+nur-<3.durch-pillen+++](https://open.spotify.com/track/7buy6nBCpSDTWOYq4eVnDs)** by **DANZINGER 99** *(du_spürst+nur-<3.durch-pillen+++)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 18:38:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 19:42:23 UTC*
 <!-- SPOTIFY-END -->
