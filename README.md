@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273865e92ac710b28784ae8f5a3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27328c50326b4e477d500965a43" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4h1Qse4KJxZ5fy2lbmT3sy">Hubba Bubba</a></strong><br/>
-  <em>by</em> <strong>Ski Aggu</strong><br/>
-  <em>Album:</em> Hubba Bubba
+  <strong><a href="https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8">ALONE IN THE DARK</a></strong><br/>
+  <em>by</em> <strong>RomancePlanet</strong><br/>
+  <em>Album:</em> ALONE IN THE DARK
 </p>
 
-<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>1:59</code></p>
+<p align="center"><code>0:59</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)* - `just now`
-- **[Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw)** by **The Meeting Places** *(Find Yourself Along The Way)* - `2 min ago`
-- **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)* - `7 min ago`
-- **[Do You Know Who You Are?](https://open.spotify.com/track/74HsNf2R9s09gpib6m9nbz)** by **Texas Is The Reason** *(Do You Know Who You Are?: The Complete Collection)* - `9 min ago`
-- **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)* - `11 min ago`
+- **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)* - `just now`
+- **[Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)** by **Varg²™, RXKNephew** *(LD50 VOL.1)* - `2 min ago`
+- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)* - `7 min ago`
+- **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)* - `10 min ago`
+- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 20:23:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-23 21:06:53 UTC*
 <!-- SPOTIFY-END -->
