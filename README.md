@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273319f6643f9fc6a44402896d9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv">Paris</a></strong><br/>
-  <em>by</em> <strong>sparr00w</strong><br/>
-  <em>Album:</em> Soundcloud Archive
+  <strong><a href="https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6">Fantasy</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> The Snow Strippers
 </p>
 
-<p align="center"><code>0:48</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:35</code></p>
+<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)* - `just now`
-- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `4 min ago`
-- **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)* - `5 min ago`
-- **[wohin](https://open.spotify.com/track/2sAp8fbeTgikm6dDVsEeiV)** by **Steintor Herrenchor** *(wohin)* - `8 min ago`
-- **[Augenringe](https://open.spotify.com/track/11w1uI2HR88crpYx2YIryq)** by **TEMMIS** *(Klinge)* - `12 min ago`
+- **[Alles brennt](https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO)** by **TEMMIS** *(Alles brennt)* - `4 min ago`
+- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `8 min ago`
+- **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)* - `10 min ago`
+- **[wiedersehen](https://open.spotify.com/track/5ocxnxCT3wNozlfoPh6T84)** by **diggidaniel** *(wiedersehen)* - `13 min ago`
+- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 20:17:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 21:01:04 UTC*
 <!-- SPOTIFY-END -->
