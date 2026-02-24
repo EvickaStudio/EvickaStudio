@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273521e896eec3ff0397696735f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92">share</a></strong><br/>
-  <em>by</em> <strong>Mezha</strong><br/>
-  <em>Album:</em> share
-</p>
-
-<p align="center"><code>0:21</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:02</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)* - `just now`
-- **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `4 min ago`
-- **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)* - `8 min ago`
-- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)* - `11 min ago`
-- **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo.Nomad** *(2AM Forever)* - `14 min ago`
+- **[Don't Cry](https://open.spotify.com/track/5huZ31McP64waaPKoq6PIN)** by **Beyazz, Dante YN** *(Don't Cry)* - `33 min ago`
+- **[Verlierer](https://open.spotify.com/track/43LnPMhyKJdyGSUmwUR8QA)** by **Dropped here** *(Verlierer)* - `35 min ago`
+- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)* - `36 min ago`
+- **[wir wollen](https://open.spotify.com/track/1acSOl36KhJkuGPSXRVsO0)** by **Longus Mongus, Monk, BHZ** *(wir wollen)* - `40 min ago`
+- **[Silence of the Lambs](https://open.spotify.com/track/0mQEWoesnmt58MzH1LIOus)** by **Babyteeth** *(Silence of the Lambs)* - `43 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 11:05:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 11:53:38 UTC*
 <!-- SPOTIFY-END -->
