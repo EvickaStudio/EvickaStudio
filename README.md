@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bc25b81211df621713558012" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738b7b2e11970c698f38821452" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB">Shiko</a></strong><br/>
-  <em>by</em> <strong>Gehlektek, TakaTuka</strong><br/>
-  <em>Album:</em> Acid Pirate 13
+  <strong><a href="https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf">Aurélie</a></strong><br/>
+  <em>by</em> <strong>Wir sind Helden</strong><br/>
+  <em>Album:</em> Die Reklamation
 </p>
 
-<p align="center"><code>6:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>10:33</code></p>
+<p align="center"><code>2:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)* - `6 min ago`
-- **[Hauseingang](https://open.spotify.com/track/3aLZ0s5ulFLcFCtIZQblpo)** by **Pashanim** *(Hauseingang)* - `9 min ago`
-- **[Gamer Girl](https://open.spotify.com/track/3eNAMJ9tVpOxaiCnttVdN9)** by **NovemberBoy** *(Gamer Girl)* - `12 min ago`
-- **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)* - `13 min ago`
-- **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)* - `14 min ago`
+- **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)* - `2 min ago`
+- **[S u r r e a l i t y](https://open.spotify.com/track/1YCSXPHGGLtBT3pLHuoWKv)** by **TOKYOPILL** *(S u r r e a l i t y)* - `5 min ago`
+- **[Space Age Love Song](https://open.spotify.com/track/7zSAI7Ae6DPVepN8MksKVZ)** by **A Flock Of Seagulls** *(We Are The '80s)* - `7 min ago`
+- **[Freak Show](https://open.spotify.com/track/03KRZpV8xqp0tjxB7EsuBe)** by **Punkinloveee, H3artcrush** *(Freak Show)* - `11 min ago`
+- **[wir_s3lbst](https://open.spotify.com/track/1Fk25C1ezbpW5z0A7KIvry)** by **Pink Katana** *(wir_s3lbst)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 07:36:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 08:26:19 UTC*
 <!-- SPOTIFY-END -->
