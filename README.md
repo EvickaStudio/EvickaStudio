@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273521e896eec3ff0397696735f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas">Violent Crimes</a></strong><br/>
-  <em>by</em> <strong>Kanye West</strong><br/>
-  <em>Album:</em> ye
+  <strong><a href="https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92">share</a></strong><br/>
+  <em>by</em> <strong>Mezha</strong><br/>
+  <em>Album:</em> share
 </p>
 
-<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:35</code></p>
+<p align="center"><code>0:21</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Animosity '93](https://open.spotify.com/track/57nrvuPvM8Qa0XNS4LVjg2)** by **Vestron Vulture** *(Lionheart)* - `2 min ago`
-- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `5 min ago`
-- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `8 min ago`
-- **[auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)** by **wilson100k** *(auf wiedersehen </3)* - `13 min ago`
-- **[LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)** by **Drux, Lunaa, pradaaslife** *(Scrapclub)* - `15 min ago`
+- **[Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3)** by **Muted Color** *(Pastel)* - `just now`
+- **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `4 min ago`
+- **[Back to Summer](https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF)** by **Nightcore** *(Back to Summer)* - `8 min ago`
+- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)* - `11 min ago`
+- **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo.Nomad** *(2AM Forever)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 10:08:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 11:05:20 UTC*
 <!-- SPOTIFY-END -->
