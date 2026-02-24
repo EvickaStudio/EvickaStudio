@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6">Fantasy</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> The Snow Strippers
-</p>
-
-<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:43</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Alles brennt](https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO)** by **TEMMIS** *(Alles brennt)* - `4 min ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `8 min ago`
-- **[21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3)** by **Edwin Rosen** *(21 Nächte wach)* - `10 min ago`
-- **[wiedersehen](https://open.spotify.com/track/5ocxnxCT3wNozlfoPh6T84)** by **diggidaniel** *(wiedersehen)* - `13 min ago`
-- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `15 min ago`
+- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)* - `2 min ago`
+- **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)* - `5 min ago`
+- **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `7 min ago`
+- **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)* - `9 min ago`
+- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 21:01:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 21:50:14 UTC*
 <!-- SPOTIFY-END -->
