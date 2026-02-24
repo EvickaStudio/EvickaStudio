@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bc25b81211df621713558012" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB">Shiko</a></strong><br/>
+  <em>by</em> <strong>Gehlektek, TakaTuka</strong><br/>
+  <em>Album:</em> Acid Pirate 13
+</p>
+
+<p align="center"><code>6:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>10:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hey Now Hey Now](https://open.spotify.com/track/2V7xWRfNRhfuYLfrjl1mRc)** by **Mainstream Moguls** *(Mainstream Moguls)* - `8 h ago`
-- **[Leb es oder lass es](https://open.spotify.com/track/5bJzKmFNpiTwGwLSNb5zVy)** by **makko** *(Leb es oder lass es)* - `8 h ago`
-- **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)* - `8 h ago`
-- **[Gym Class](https://open.spotify.com/track/4BfJmlzP0ErWns1YM1XASc)** by **Lil Peep** *(Gym Class)* - `8 h ago`
-- **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)* - `8 h ago`
+- **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)* - `6 min ago`
+- **[Hauseingang](https://open.spotify.com/track/3aLZ0s5ulFLcFCtIZQblpo)** by **Pashanim** *(Hauseingang)* - `9 min ago`
+- **[Gamer Girl](https://open.spotify.com/track/3eNAMJ9tVpOxaiCnttVdN9)** by **NovemberBoy** *(Gamer Girl)* - `12 min ago`
+- **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)* - `13 min ago`
+- **[Sparkle - movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO)** by **RADWIMPS** *(Your Name.)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 06:33:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 07:36:48 UTC*
 <!-- SPOTIFY-END -->
