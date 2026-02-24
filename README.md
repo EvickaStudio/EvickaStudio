@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dbf223dbb6abdffa642eb287" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY">YMCA - Original Version 1978</a></strong><br/>
-  <em>by</em> <strong>Village People</strong><br/>
-  <em>Album:</em> YMCA
-</p>
-
-<p align="center"><code>4:00</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>4:46</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[CASTLE OF GLASS](https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5)** by **Linkin Park** *(LIVING THINGS)* - `17 min ago`
-- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `20 min ago`
-- **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)* - `23 min ago`
-- **[9mm](https://open.spotify.com/track/6qn1myMSexJDtT0AGLwTXc)** by **Brutalismus 3000** *(GOODBYE SALÒ)* - `25 min ago`
-- **[sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI)** by **Kasi, antonius** *(sommernacht)* - `29 min ago`
+- **[Gamer Girl](https://open.spotify.com/track/3eNAMJ9tVpOxaiCnttVdN9)** by **NovemberBoy** *(Gamer Girl)* - `29 min ago`
+- **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)* - `31 min ago`
+- **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)* - `36 min ago`
+- **[Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX)** by **Lonely God** *(Marlboro Nights)* - `39 min ago`
+- **[Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO)** by **Kanye West, Dwele** *(Graduation)* - `41 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 16:57:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-24 17:54:26 UTC*
 <!-- SPOTIFY-END -->
