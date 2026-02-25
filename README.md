@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730f5510cef0e5eee91dd8e164" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5FlquDiUZGQMPM03pLYRrj">Psychic Unhealing</a></strong><br/>
+  <em>by</em> <strong>Shadow Wizard Money Gang, Cynthoni</strong><br/>
+  <em>Album:</em> MAXIMUM SONISTIC ASSAULT
+</p>
+
+<p align="center"><code>0:45</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy)** by **DANZINGER 99, DJ<3** *(regen༺♡✧+++)* - `6 min ago`
-- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `7 min ago`
-- **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)* - `9 min ago`
-- **[titles](https://open.spotify.com/track/7rE2cZw1gJxKfGqOHA9PXs)** by **twikipedia, funeral** *(titles)* - `14 min ago`
-- **[Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI)** by **Dr. Dog** *(Shame, Shame (Deluxe Edition))* - `16 min ago`
+- **[Her Ribs](https://open.spotify.com/track/24WiPfA6p3w3lUh5dwSdis)** by **Shadow Wizard Money Gang, Death Souljah** *(Her Ribs)* - `just now`
+- **[Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe)** by **Lana Del Rey** *(Say Yes To Heaven)* - `6 min ago`
+- **[oxidized](https://open.spotify.com/track/1aOPnTT8VZIuYswvzzzfh8)** by **MAQ 22** *(Catch-22)* - `10 min ago`
+- **[Aria Math Hardstyle](https://open.spotify.com/track/3YMLLVNRCqS0daxwWqmCsj)** by **Mqx** *(Aria Math Hardstyle)* - `13 min ago`
+- **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 10:33:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 11:26:31 UTC*
 <!-- SPOTIFY-END -->
