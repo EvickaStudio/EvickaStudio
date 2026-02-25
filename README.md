@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370a578aee2257568e86979c4" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR">Luv ₊˚ෆ</a></strong><br/>
+  <em>by</em> <strong>mickyi, S1RENA</strong><br/>
+  <em>Album:</em> zone out ep ⋆｡°✩
+</p>
+
+<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kolumbo (with Babyboy AV)](https://open.spotify.com/track/74XltIxLa6glHkOuJgXm6W)** by **255, Babyboy AV** *(TRINITY)* - `26 min ago`
-- **[069](https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b)** by **Haftbefehl, Bazzazian** *(Unzensiert)* - `30 min ago`
-- **[Nite Walker](https://open.spotify.com/track/5kqkYeDMGSkifYJYLqwrTV)** by **Sickboyrari** *(City Of Crows)* - `33 min ago`
-- **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)* - `35 min ago`
-- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `36 min ago`
+- **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))* - `1 min ago`
+- **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
+- **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)* - `5 min ago`
+- **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)* - `6 min ago`
+- **[Scandal](https://open.spotify.com/track/2CcfNk57mg4dgpB9qGXLsZ)** by **Skales** *(Martina's Son)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 23:01:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 23:42:49 UTC*
 <!-- SPOTIFY-END -->
