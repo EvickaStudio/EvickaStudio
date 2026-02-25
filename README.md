@@ -92,25 +92,21 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db6447d8a3e0b768dfcab975" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738cf71b1ba0aef56069be5613" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/53jPZyZVq2K7elZfvi2n8v">Above the Treetops</a></strong><br/>
-  <em>by</em> <strong>Soothing Oasis</strong><br/>
-  <em>Album:</em> Weightless
+  <strong><a href="https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN">Wenn Der Gommemode Angeht!</a></strong><br/>
+  <em>by</em> <strong>Lukas, Der Rapper, Gomme-Hymne</strong><br/>
+  <em>Album:</em> Wenn Der Gommemode Angeht!
 </p>
 
-<p align="center"><code>1:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:15</code></p>
+<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)* - `1 h ago`
-- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)* - `7 h ago`
-- **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)* - `8 h ago`
-- **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `8 h ago`
-- **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)* - `8 h ago`
+- **[hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)** by **meat computer** *(hurt and alone)* - `just now`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +126,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 05:46:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 06:53:28 UTC*
 <!-- SPOTIFY-END -->
