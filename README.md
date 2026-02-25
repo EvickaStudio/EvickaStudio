@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b19542c552ea2548c8b34bec" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6hHSJyZTjHHhknim3WLCNM">princess hour</a></strong><br/>
-  <em>by</em> <strong>datealyfe</strong><br/>
-  <em>Album:</em> princess hour
+  <strong><a href="https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9">Dreamflasher</a></strong><br/>
+  <em>by</em> <strong>Jane Remover</strong><br/>
+  <em>Album:</em> Revengeseekerz
 </p>
 
-<p align="center"><code>1:03</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:06</code></p>
+<p align="center"><code>0:20</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `1 min ago`
-- **[START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92)** by **Tiffany Day** *(START OVER)* - `4 min ago`
-- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)* - `9 min ago`
-- **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)* - `10 min ago`
-- **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)* - `13 min ago`
+- **[Midnight Princess](https://open.spotify.com/track/5KhhQHOEdUL0I8tL4917pz)** by **Thoom** *(Midnight Princess)* - `just now`
+- **[WHAT AM I RUNNING FROM](https://open.spotify.com/track/3j7utSEmQKvPsGarUSMnwz)** by **Tiffany Day** *(LOVER TOFU FRUIT)* - `3 min ago`
+- **[Only For The Summer](https://open.spotify.com/track/6U0joZOPwdv09FyMUoJWZc)** by **Tommy Fleece** *(VS the machine)* - `5 min ago`
+- **[All Raw, No Gloss](https://open.spotify.com/track/0fvqnz6JoM5m9RpJg8ZMJK)** by **hexxxed** *(All Raw, No Gloss)* - `7 min ago`
+- **[Guardian](https://open.spotify.com/track/4xRp4xclu6aEVNIjS8intA)** by **dlwindle** *(GOTHIC)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -125,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 15:10:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 16:18:20 UTC*
 <!-- SPOTIFY-END -->
