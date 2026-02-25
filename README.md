@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27306608c873f04aff632e99d47" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391d092488eaff72ece2451dd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp">Comin Down</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> Night Killaz Vol. 1
+  <strong><a href="https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr">Dedicated To The One I Love</a></strong><br/>
+  <em>by</em> <strong>The Mamas & The Papas</strong><br/>
+  <em>Album:</em> Deliver
 </p>
 
-<p align="center"><code>2:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:58</code></p>
+<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stereo Love](https://open.spotify.com/track/3lYLrCyDzd7WN7mN4T9AkX)** by **Edward Maya, Vika Jigulina** *(The Stereo Love Show)* - `2 min ago`
-- **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)* - `6 min ago`
-- **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))* - `9 min ago`
-- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)* - `11 min ago`
-- **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)* - `14 min ago`
+- **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))* - `1 min ago`
+- **[ENDO SMOKE](https://open.spotify.com/track/47xtlcPsIgNwmhMtSDN3IX)** by **SHADOWSTAR** *(ENDO SMOKE)* - `4 min ago`
+- **[Freak Show](https://open.spotify.com/track/03KRZpV8xqp0tjxB7EsuBe)** by **Punkinloveee, H3artcrush** *(Freak Show)* - `6 min ago`
+- **[envy](https://open.spotify.com/track/5QxlPbTZywgqsK0ruzYCWh)** by **Brothel in Belize** *(envy)* - `8 min ago`
+- **[Erotica](https://open.spotify.com/track/3CZMb7Pj97kYt4pNtVcPUf)** by **ChromeStylist** *(Erotica)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 20:02:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 20:53:12 UTC*
 <!-- SPOTIFY-END -->
