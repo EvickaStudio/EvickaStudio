@@ -91,24 +91,34 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fe480e9154ab51220f8e10ec" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x">meine grosse liebe</a></strong><br/>
+  <em>by</em> <strong>pink luu, xofilo</strong><br/>
+  <em>Album:</em> meine grosse liebe
+</p>
+
+<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI)** by **DVRKLXGHT** *(EUPHORIA)* - `7 min ago`
-- **[SaveOST](https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei)** by **sparr00w** *(Save Room Theme)* - `11 min ago`
-- **[Morgen/Heute](https://open.spotify.com/track/2VibMNR6tSAyltWSNQ6IPI)** by **makko** *(Leb es oder lass es 2)* - `13 min ago`
-- **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)* - `16 min ago`
-- **[theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl)** by **sign crushes motorist** *(i'll be okay)* - `19 min ago`
+- **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)* - `1 min ago`
+- **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)* - `4 min ago`
+- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))* - `6 min ago`
+- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `8 min ago`
+- **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**archive computer**](https://open.spotify.com/artist/2uctHdevYe0jrnr6RvmkBh)
 
 
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 07:46:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 08:38:19 UTC*
 <!-- SPOTIFY-END -->
