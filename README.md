@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f6bda9e64ed0ee73bbff71da" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I">Resonance x Genesis x Not allowed</a></strong><br/>
-  <em>by</em> <strong>mikeeysmind</strong><br/>
-  <em>Album:</em> Resonance x Genesis x Not allowed
-</p>
-
-<p align="center"><code>1:05</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:55</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)* - `1 min ago`
-- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `5 min ago`
-- **[friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)** by **elricfd** *(friday nite)* - `8 min ago`
-- **[hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)** by **meat computer** *(hurt and alone)* - `12 min ago`
-- **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `15 min ago`
+- **[regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy)** by **DANZINGER 99, DJ<3** *(regen༺♡✧+++)* - `6 min ago`
+- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `7 min ago`
+- **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)* - `9 min ago`
+- **[titles](https://open.spotify.com/track/7rE2cZw1gJxKfGqOHA9PXs)** by **twikipedia, funeral** *(titles)* - `14 min ago`
+- **[Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI)** by **Dr. Dog** *(Shame, Shame (Deluxe Edition))* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 09:35:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 10:33:11 UTC*
 <!-- SPOTIFY-END -->
