@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27324ca23e6c638e0b898d22883" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735154a3168e7a8d702a90a369" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC">dancing while the world burns</a></strong><br/>
-  <em>by</em> <strong>adore</strong><br/>
-  <em>Album:</em> dancing while the world burns
+  <strong><a href="https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3">I H3ART Y0U</a></strong><br/>
+  <em>by</em> <strong>Boy Fantasy, g0r3c0r3</strong><br/>
+  <em>Album:</em> BOY FANTASY
 </p>
 
-<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:32</code></p>
+<p align="center"><code>0:34</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>1:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dreamflasher](https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9)** by **Jane Remover** *(Revengeseekerz)* - `2 h ago`
-- **[Midnight Princess](https://open.spotify.com/track/5KhhQHOEdUL0I8tL4917pz)** by **Thoom** *(Midnight Princess)* - `2 h ago`
-- **[WHAT AM I RUNNING FROM](https://open.spotify.com/track/3j7utSEmQKvPsGarUSMnwz)** by **Tiffany Day** *(LOVER TOFU FRUIT)* - `2 h ago`
-- **[Only For The Summer](https://open.spotify.com/track/6U0joZOPwdv09FyMUoJWZc)** by **Tommy Fleece** *(VS the machine)* - `2 h ago`
-- **[All Raw, No Gloss](https://open.spotify.com/track/0fvqnz6JoM5m9RpJg8ZMJK)** by **hexxxed** *(All Raw, No Gloss)* - `2 h ago`
+- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `just now`
+- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `3 min ago`
+- **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)* - `4 min ago`
+- **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)* - `6 min ago`
+- **[im #obsessed w u lol](https://open.spotify.com/track/7twvecghY5rHcHcNJyhMfe)** by **korpsebunny** *(im #obsessed w u lol)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 18:39:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 19:36:56 UTC*
 <!-- SPOTIFY-END -->
