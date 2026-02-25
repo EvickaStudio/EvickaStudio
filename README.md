@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fe480e9154ab51220f8e10ec" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f6bda9e64ed0ee73bbff71da" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x">meine grosse liebe</a></strong><br/>
-  <em>by</em> <strong>pink luu, xofilo</strong><br/>
-  <em>Album:</em> meine grosse liebe
+  <strong><a href="https://open.spotify.com/track/6iJPjc9OffjP08s1muac3I">Resonance x Genesis x Not allowed</a></strong><br/>
+  <em>by</em> <strong>mikeeysmind</strong><br/>
+  <em>Album:</em> Resonance x Genesis x Not allowed
 </p>
 
-<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:25</code></p>
+<p align="center"><code>1:05</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)* - `1 min ago`
-- **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)* - `4 min ago`
-- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))* - `6 min ago`
-- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `8 min ago`
-- **[Förstelnad](https://open.spotify.com/track/4O8zatJk0aT5prQK6jzdXU)** by **Bladee** *(Ingen hör)* - `10 min ago`
+- **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)* - `1 min ago`
+- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `5 min ago`
+- **[friday nite](https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S)** by **elricfd** *(friday nite)* - `8 min ago`
+- **[hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)** by **meat computer** *(hurt and alone)* - `12 min ago`
+- **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 08:38:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 09:35:49 UTC*
 <!-- SPOTIFY-END -->
