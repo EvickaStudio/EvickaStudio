@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735154a3168e7a8d702a90a369" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27306608c873f04aff632e99d47" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3">I H3ART Y0U</a></strong><br/>
-  <em>by</em> <strong>Boy Fantasy, g0r3c0r3</strong><br/>
-  <em>Album:</em> BOY FANTASY
+  <strong><a href="https://open.spotify.com/track/3jPx5zrRYIQgp3Llweicyp">Comin Down</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> Night Killaz Vol. 1
 </p>
 
-<p align="center"><code>0:34</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>1:39</code></p>
+<p align="center"><code>2:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `just now`
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `3 min ago`
-- **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)* - `4 min ago`
-- **[obstacle](https://open.spotify.com/track/5ViYbWFwykpx7BBL5eZA0p)** by **Mezha, snor** *(obstacle)* - `6 min ago`
-- **[im #obsessed w u lol](https://open.spotify.com/track/7twvecghY5rHcHcNJyhMfe)** by **korpsebunny** *(im #obsessed w u lol)* - `8 min ago`
+- **[Stereo Love](https://open.spotify.com/track/3lYLrCyDzd7WN7mN4T9AkX)** by **Edward Maya, Vika Jigulina** *(The Stereo Love Show)* - `2 min ago`
+- **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)* - `6 min ago`
+- **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))* - `9 min ago`
+- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)* - `11 min ago`
+- **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 19:36:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 20:02:41 UTC*
 <!-- SPOTIFY-END -->
