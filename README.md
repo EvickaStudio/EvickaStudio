@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739168173ffd9845a1192362bd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e4835f69dae0b725ef825ce" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU">Kein Stop</a></strong><br/>
-  <em>by</em> <strong>sparr00w, bleac</strong><br/>
-  <em>Album:</em> 00
+  <strong><a href="https://open.spotify.com/track/1kHipg0p1ZHCIDHwmpJZ4d">Walk Me Home</a></strong><br/>
+  <em>by</em> <strong>Sg Lily</strong><br/>
+  <em>Album:</em> Content
 </p>
 
-<p align="center"><code>0:33</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:36</code></p>
+<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SCHEITERN ZSM](https://open.spotify.com/track/4op5W9glynxb2gTeYQeAPY)** by **mikeycyrus, RiCK!** *(SCHEITERN ZSM)* - `just now`
-- **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)* - `2 min ago`
-- **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)* - `4 min ago`
-- **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)* - `6 min ago`
-- **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)* - `9 min ago`
+- **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)* - `1 min ago`
+- **[when u called](https://open.spotify.com/track/5QNFGpPiW3ZBA2adItNBDx)** by **bliiiss** *(when u called)* - `4 min ago`
+- **[Idk Bettr..](https://open.spotify.com/track/7pAvXTUByINHEDou4n2ilx)** by **5v** *(Idk Bettr..)* - `6 min ago`
+- **[Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk)** by **Addison Rae** *(Addison)* - `7 min ago`
+- **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 21:28:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 21:56:55 UTC*
 <!-- SPOTIFY-END -->
