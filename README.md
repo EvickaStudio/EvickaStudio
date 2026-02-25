@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27352f70e41588e2b53f42a957a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ad8ebc3b69e8c5cf105ecd71" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1pAgrtEcO6pF6ekmJsUfVe">Roof</a></strong><br/>
-  <em>by</em> <strong>Kev Koko</strong><br/>
-  <em>Album:</em> Roof
+  <strong><a href="https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo">Bitte lass mich einfach los</a></strong><br/>
+  <em>by</em> <strong>sparr00w</strong><br/>
+  <em>Album:</em> Bitte lass mich einfach los
 </p>
 
-<p align="center"><code>1:15</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:49</code></p>
+<p align="center"><code>2:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Gamer Girl](https://open.spotify.com/track/3eNAMJ9tVpOxaiCnttVdN9)** by **NovemberBoy** *(Gamer Girl)* - `1 min ago`
-- **[Mind Freak](https://open.spotify.com/track/7iK0z4ZFY0GnFQhLxnRvZU)** by **boysinblush, Garett Caramel** *(Mind Freak)* - `2 min ago`
-- **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)* - `4 min ago`
-- **[Stateside + Bladee](https://open.spotify.com/track/419Ea8DED7cszLAlzXYReB)** by **PinkPantheress, Bladee** *(Stateside + Bladee)* - `6 min ago`
-- **[Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc)** by **Chappell Roan** *(The Rise and Fall of a Midwest Princess)* - `8 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `2 min ago`
+- **[Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)** by **Lukas, Der Rapper, Gomme-Hymne** *(Wenn Der Gommemode Angeht!)* - `7 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `10 min ago`
+- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by **Good Kid** *(Good Kid 4)* - `28 min ago`
+- **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)* - `31 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 13:04:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-25 14:14:15 UTC*
 <!-- SPOTIFY-END -->
