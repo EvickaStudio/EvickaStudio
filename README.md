@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273761f06912c54dbb0274c5e8b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB">so #iconic</a></strong><br/>
-  <em>by</em> <strong>disoc8</strong><br/>
-  <em>Album:</em> so #iconic
-</p>
-
-<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:03</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[GOTTA FEEL IT](https://open.spotify.com/track/3zfs3gHRAKQF5hha5FE0Vv)** by **lavendr, iveyy's lullaby, kiryo!, p6inkillr** *(GOTTA FEEL IT)* - `1 min ago`
-- **[hanging like a carcass](https://open.spotify.com/track/7pkEhLj13oyjQGXLEXF9CV)** by **Gutzxx** *(hanging like a carcass)* - `3 min ago`
-- **[Mary](https://open.spotify.com/track/4zXbdPvJ59YPUZ6PYRhzuz)** by **mxrrow, LeXanax** *(Mary)* - `5 min ago`
-- **[TECHNO KITTY](https://open.spotify.com/track/6lACzDeSMVhIXZmVHWfv6Q)** by **vylexx, kmrnxo** *(TECHNO KITTY)* - `8 min ago`
-- **[internet me va bien](https://open.spotify.com/track/2mQ9cuRl5WfE9rnWnPJLaw)** by **YA5L, optimvl, Ciele** *(internet me va bien)* - `10 min ago`
+- **[Klub2020 UltraBlend Pentagramma X ettternalriot X Vive La France](https://open.spotify.com/track/5nijZWc77Bh0mOYrkUDT9n)** by **Global** *(Klub2020 UltraBlend Pentagramma X ettternalriot X Vive La France)* - `27 min ago`
+- **[make it out](https://open.spotify.com/track/7oqBiwHzHlcGn8LhUP97Cs)** by **lavendr, rosecliffe** *(make it out)* - `30 min ago`
+- **[choke](https://open.spotify.com/track/6k4WCRfqOgIuZbJ5oTBKQs)** by **g0r3c0r3** *(mini mixtape 8)* - `32 min ago`
+- **[HEARTstrings NIGHTCORE](https://open.spotify.com/track/6ITuDQxy7Zn6KDKBrrTCcX)** by **BadMoodRude** *(HEARTstrings)* - `33 min ago`
+- **[want this forever](https://open.spotify.com/track/3iNiYcmHUAFGvox89mnehv)** by **hateoryx, Veigayboy** *(want this forever)* - `35 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 11:52:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 12:44:07 UTC*
 <!-- SPOTIFY-END -->
