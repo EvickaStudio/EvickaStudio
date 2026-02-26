@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3mxHqXL0dtggXm5TP0WPei">SaveOST</a></strong><br/>
+  <em>by</em> <strong>sparr00w</strong><br/>
+  <em>Album:</em> Save Room Theme
+</p>
+
+<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)* - `6 h ago`
-- **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)* - `6 h ago`
-- **[The Prayer](https://open.spotify.com/track/10f3slxAbJLHl4OURuxgzq)** by **Thrilliam Angels, Mori Mori, User2222** *(The Static Screams Your Name)* - `6 h ago`
-- **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)* - `6 h ago`
-- **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)* - `6 h ago`
+- **[Morgen/Heute](https://open.spotify.com/track/2VibMNR6tSAyltWSNQ6IPI)** by **makko** *(Leb es oder lass es 2)* - `just now`
+- **[keinen freund](https://open.spotify.com/track/3ZK92ZZkwm0z9f8Y5shCnE)** by **Tamino404** *(keinen freund)* - `3 min ago`
+- **[theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl)** by **sign crushes motorist** *(i'll be okay)* - `6 min ago`
+- **[wolkendecke](https://open.spotify.com/track/7MS510fzAL7mIgbC2rd2NR)** by **Dropped here, Steppi** *(wolkendecke)* - `11 min ago`
+- **[Psychic](https://open.spotify.com/track/2o0HBEggQAyXYcIk4ZRMvY)** by **WILDE** *(Psychic)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 06:37:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 07:37:13 UTC*
 <!-- SPOTIFY-END -->
