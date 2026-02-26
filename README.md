@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl">Know My Name</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> The Snow Strippers
-</p>
-
-<p align="center"><code>0:40</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:06</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `just now`
-- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `2 min ago`
-- **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)* - `4 min ago`
-- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)* - `6 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `8 min ago`
+- **[In deinen Augen ist ein Meer](https://open.spotify.com/track/104mqBs0Fo9itlxKbiGDdl)** by **Luis Ake, sparr00w** *(Horse Trance: Melodien der Freiheit)* - `5 min ago`
+- **[Pirouette](https://open.spotify.com/track/5YlsYwFBJ3RtJLRsaZh9Mz)** by **Lil Narnia** *(Wisteria)* - `7 min ago`
+- **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)* - `9 min ago`
+- **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)* - `12 min ago`
+- **[LIGHTS OFF](https://open.spotify.com/track/7hI7BiA7FPCFkeM9oWeW2U)** by **Bandiicam** *(LIGHTS OFF)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 22:58:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 23:32:06 UTC*
 <!-- SPOTIFY-END -->
