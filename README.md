@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735d362c29c144c3d14fa519cb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273566acaba72c5509e3887c4b0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/02AgnOmzqAHgg8PpSROfTw">Cover Up</a></strong><br/>
-  <em>by</em> <strong>Drain Gang Archive</strong><br/>
-  <em>Album:</em> Cover Up
+  <strong><a href="https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj">Can You Feel My Heart</a></strong><br/>
+  <em>by</em> <strong>Bring Me The Horizon</strong><br/>
+  <em>Album:</em> Sempiternal (Expanded Edition)
 </p>
 
-<p align="center"><code>0:24</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:42</code></p>
+<p align="center"><code>1:07</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Winter](https://open.spotify.com/track/06mzkatIkEianVsGklg3yX)** by **sparr00w** *(Soundcloud Archive)* - `just now`
-- **[GONE, GONE / THANK YOU](https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p)** by **Tyler, The Creator** *(IGOR)* - `2 min ago`
-- **[Blind](https://open.spotify.com/track/7srg9XLX0EumYXWqsgPPKb)** by **Kidd Kazama** *(Hundert.tausend Briefe)* - `8 min ago`
-- **[Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM)** by **Kool Savas** *(Die John Bello Story, Vol. 3)* - `11 min ago`
-- **[WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK)** by **KXLLSWXTCH** *(DISORDER)* - `14 min ago`
+- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `1 min ago`
+- **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)* - `4 min ago`
+- **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))* - `6 min ago`
+- **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)* - `11 min ago`
+- **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 20:02:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 20:54:01 UTC*
 <!-- SPOTIFY-END -->
