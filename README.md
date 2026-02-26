@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27341935e9a335bce17d1015f6a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273761f06912c54dbb0274c5e8b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6C8uzOGIZGiGDG66OFsNMs">Lalala</3</a></strong><br/>
-  <em>by</em> <strong>Carter Lilcc!!, KidSnorlax</strong><br/>
-  <em>Album:</em> Lalala</3
+  <strong><a href="https://open.spotify.com/track/5D3LJYcJegbX2FcFxvlnWB">so #iconic</a></strong><br/>
+  <em>by</em> <strong>disoc8</strong><br/>
+  <em>Album:</em> so #iconic
 </p>
 
-<p align="center"><code>0:41</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:25</code></p>
+<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[RATZ](https://open.spotify.com/track/0TGWYHl0PreLEfscukWKTE)** by **hydrakuma13, sss3ido!** *(RATZ)* - `just now`
-- **[celebrity iconic](https://open.spotify.com/track/3HvhtkkD3iYIQmygxuVhTS)** by **cholorofilm** *(celebrity iconic)* - `3 min ago`
-- **[Head Full of Nightmares - Sped Up](https://open.spotify.com/track/1u92yI7SzWOFfcxCGGlLxj)** by **Baby Jane** *(Head Full of Nightmares)* - `5 min ago`
-- **[tau mich auf...](https://open.spotify.com/track/3JkNKa42bffTLr4XYF6EnV)** by **vee4archive, JOHN.** *(tau mich auf...)* - `7 min ago`
-- **[DJ](https://open.spotify.com/track/6Fwwrfh4Khv4KvA7Ak1Wow)** by **ama???!!!!** *(DJ)* - `9 min ago`
+- **[GOTTA FEEL IT](https://open.spotify.com/track/3zfs3gHRAKQF5hha5FE0Vv)** by **lavendr, iveyy's lullaby, kiryo!, p6inkillr** *(GOTTA FEEL IT)* - `1 min ago`
+- **[hanging like a carcass](https://open.spotify.com/track/7pkEhLj13oyjQGXLEXF9CV)** by **Gutzxx** *(hanging like a carcass)* - `3 min ago`
+- **[Mary](https://open.spotify.com/track/4zXbdPvJ59YPUZ6PYRhzuz)** by **mxrrow, LeXanax** *(Mary)* - `5 min ago`
+- **[TECHNO KITTY](https://open.spotify.com/track/6lACzDeSMVhIXZmVHWfv6Q)** by **vylexx, kmrnxo** *(TECHNO KITTY)* - `8 min ago`
+- **[internet me va bien](https://open.spotify.com/track/2mQ9cuRl5WfE9rnWnPJLaw)** by **YA5L, optimvl, Ciele** *(internet me va bien)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 11:04:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 11:52:58 UTC*
 <!-- SPOTIFY-END -->
