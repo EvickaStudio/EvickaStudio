@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Klub2020 UltraBlend Pentagramma X ettternalriot X Vive La France](https://open.spotify.com/track/5nijZWc77Bh0mOYrkUDT9n)** by **Global** *(Klub2020 UltraBlend Pentagramma X ettternalriot X Vive La France)* - `2 h ago`
-- **[make it out](https://open.spotify.com/track/7oqBiwHzHlcGn8LhUP97Cs)** by **lavendr, rosecliffe** *(make it out)* - `2 h ago`
-- **[choke](https://open.spotify.com/track/6k4WCRfqOgIuZbJ5oTBKQs)** by **g0r3c0r3** *(mini mixtape 8)* - `2 h ago`
-- **[HEARTstrings NIGHTCORE](https://open.spotify.com/track/6ITuDQxy7Zn6KDKBrrTCcX)** by **BadMoodRude** *(HEARTstrings)* - `2 h ago`
-- **[want this forever](https://open.spotify.com/track/3iNiYcmHUAFGvox89mnehv)** by **hateoryx, Veigayboy** *(want this forever)* - `2 h ago`
+- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `26 min ago`
+- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `29 min ago`
+- **[till my heart stops](https://open.spotify.com/track/49RWwHK3Ho4ae1dmGJRjSw)** by **hydrakuma13** *(come n' play)* - `30 min ago`
+- **[Klub2020 UltraBlend Pentagramma X ettternalriot X Vive La France](https://open.spotify.com/track/5nijZWc77Bh0mOYrkUDT9n)** by **Global** *(Klub2020 UltraBlend Pentagramma X ettternalriot X Vive La France)* - `3 h ago`
+- **[make it out](https://open.spotify.com/track/7oqBiwHzHlcGn8LhUP97Cs)** by **lavendr, rosecliffe** *(make it out)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 14:44:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 15:37:32 UTC*
 <!-- SPOTIFY-END -->
