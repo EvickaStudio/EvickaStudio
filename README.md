@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bd078d2eb49deaced9a7d5ab" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK">825 hp</a></strong><br/>
-  <em>by</em> <strong>Exodia</strong><br/>
-  <em>Album:</em> 825 hp
+  <strong><a href="https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd">egobaby</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> The Fool
 </p>
 
-<p align="center"><code>0:21</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:37</code></p>
+<p align="center"><code>1:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[umm idk why!!](https://open.spotify.com/track/4uQ6j3hp2XGjKfhCTVmauo)** by **ilymeow, NXTY** *(umm idk why!!)* - `just now`
-- **[Jenny - Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2)** by **Studio Killers** *(Jenny (Hearteye Speed Mix))* - `1 min ago`
-- **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))* - `4 min ago`
-- **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)* - `10 min ago`
-- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `13 min ago`
+- **[Exceler](https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3)** by **Woesum, Bladee** *(Blue Summer)* - `1 min ago`
+- **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)* - `4 min ago`
+- **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)* - `7 min ago`
+- **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)* - `12 min ago`
+- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 21:25:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 21:51:34 UTC*
 <!-- SPOTIFY-END -->
