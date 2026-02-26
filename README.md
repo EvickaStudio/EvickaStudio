@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)* - `4 h ago`
-- **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)* - `4 h ago`
-- **[The Prayer](https://open.spotify.com/track/10f3slxAbJLHl4OURuxgzq)** by **Thrilliam Angels, Mori Mori, User2222** *(The Static Screams Your Name)* - `4 h ago`
-- **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)* - `4 h ago`
-- **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)* - `4 h ago`
+- **[I'm On My Own](https://open.spotify.com/track/5CMAAiKHrjViMRO8HDvwgp)** by **Snow Strippers** *(April Mixtape 3)* - `5 h ago`
+- **[D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)* - `5 h ago`
+- **[The Prayer](https://open.spotify.com/track/10f3slxAbJLHl4OURuxgzq)** by **Thrilliam Angels, Mori Mori, User2222** *(The Static Screams Your Name)* - `5 h ago`
+- **[U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b)** by **Cult Member, Mia Martina** *(U Weren't Here I Really Miss You)* - `5 h ago`
+- **[DREAM](https://open.spotify.com/track/1LFtGfgkv6uPAzR2wfYGER)** by **RomancePlanet** *(EVOLUTION)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 04:29:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 05:40:10 UTC*
 <!-- SPOTIFY-END -->
