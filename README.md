@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27366329173d05dab00ec3349f4" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7">vampire</a></strong><br/>
-  <em>by</em> <strong>re6ce</strong><br/>
-  <em>Album:</em> vampire
-</p>
-
-<p align="center"><code>2:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:40</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[throat](https://open.spotify.com/track/0SY2lJCIJDrVysEDFAI1Jx)** by **BED** *(everything hurts)* - `2 min ago`
-- **[Sold My Soul to Satan Waiting in Line at the Mall](https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4)** by **$uicideboy$** *(YUNGDEATHLILLIFE)* - `5 min ago`
-- **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)* - `7 min ago`
-- **[Rax](https://open.spotify.com/track/5VrnpamQF8oCq3ppmmhypj)** by **CAN MIT ME$$R, Sin Davis** *(Abi Albüm)* - `10 min ago`
-- **[Cynthoni Of Flames](https://open.spotify.com/track/0dUUliAEzw1EhwE7dbDPk1)** by **Cynthoni, Sewerslvt** *(Cynthoni Of Flames)* - `13 min ago`
+- **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)* - `33 min ago`
+- **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)* - `34 min ago`
+- **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)* - `36 min ago`
+- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)* - `39 min ago`
+- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)* - `41 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 17:43:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 18:29:09 UTC*
 <!-- SPOTIFY-END -->
