@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739dd16b44e27d0cc5aa678769" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY">Rock Bottom</a></strong><br/>
-  <em>by</em> <strong>PureSnow</strong><br/>
-  <em>Album:</em> Revelation
+  <strong><a href="https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl">Know My Name</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> The Snow Strippers
 </p>
 
-<p align="center"><code>1:24</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:04</code></p>
+<p align="center"><code>0:40</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)* - `1 min ago`
-- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `4 min ago`
-- **[Rover](https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs)** by **Khaid, Ayo Maff** *(Rover)* - `7 min ago`
-- **[Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ)** by **Blaqbonez** *(Everlasting Taker)* - `9 min ago`
-- **[Hello Hello](https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq)** by **Kashcoming, Mavo** *(Hello Hello)* - `11 min ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `just now`
+- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `2 min ago`
+- **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)* - `4 min ago`
+- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)* - `6 min ago`
+- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 22:25:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 22:58:44 UTC*
 <!-- SPOTIFY-END -->
