@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27338f2b7d6d3f0249faa6440ac" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27341935e9a335bce17d1015f6a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA">Good Vibrations</a></strong><br/>
-  <em>by</em> <strong>Flawless Issues</strong><br/>
-  <em>Album:</em> Good Vibrations
+  <strong><a href="https://open.spotify.com/track/6C8uzOGIZGiGDG66OFsNMs">Lalala</3</a></strong><br/>
+  <em>by</em> <strong>Carter Lilcc!!, KidSnorlax</strong><br/>
+  <em>Album:</em> Lalala</3
 </p>
 
-<p align="center"><code>0:17</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:00</code></p>
+<p align="center"><code>0:41</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)* - `just now`
-- **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)* - `2 min ago`
-- **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)* - `5 min ago`
-- **[changes](https://open.spotify.com/track/780m9E2Kw6EY204EveWIk3)** by **Love Pact** *(changes)* - `9 min ago`
-- **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)* - `11 min ago`
+- **[RATZ](https://open.spotify.com/track/0TGWYHl0PreLEfscukWKTE)** by **hydrakuma13, sss3ido!** *(RATZ)* - `just now`
+- **[celebrity iconic](https://open.spotify.com/track/3HvhtkkD3iYIQmygxuVhTS)** by **cholorofilm** *(celebrity iconic)* - `3 min ago`
+- **[Head Full of Nightmares - Sped Up](https://open.spotify.com/track/1u92yI7SzWOFfcxCGGlLxj)** by **Baby Jane** *(Head Full of Nightmares)* - `5 min ago`
+- **[tau mich auf...](https://open.spotify.com/track/3JkNKa42bffTLr4XYF6EnV)** by **vee4archive, JOHN.** *(tau mich auf...)* - `7 min ago`
+- **[DJ](https://open.spotify.com/track/6Fwwrfh4Khv4KvA7Ak1Wow)** by **ama???!!!!** *(DJ)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 10:04:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-26 11:04:43 UTC*
 <!-- SPOTIFY-END -->
