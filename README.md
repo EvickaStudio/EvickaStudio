@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f34a012b854ac55502a92e83" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273441c76674ffd767b8b3bdc98" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69">NEUANFANG</a></strong><br/>
-  <em>by</em> <strong>S1RENA</strong><br/>
-  <em>Album:</em> NEUANFANG
+  <strong><a href="https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S">friday nite</a></strong><br/>
+  <em>by</em> <strong>elricfd</strong><br/>
+  <em>Album:</em> friday nite
 </p>
 
-<p align="center"><code>2:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:43</code></p>
+<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>4:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `2 min ago`
-- **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)* - `4 min ago`
-- **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)* - `7 min ago`
-- **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))* - `10 min ago`
-- **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)* - `13 min ago`
+- **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)* - `2 min ago`
+- **[Soul Shield](https://open.spotify.com/track/2ZpQJkeJDUAF2vwYj6WBvM)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))* - `4 min ago`
+- **[Blind](https://open.spotify.com/track/7srg9XLX0EumYXWqsgPPKb)** by **Kidd Kazama** *(Hundert.tausend Briefe)* - `6 min ago`
+- **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)* - `9 min ago`
+- **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 13:44:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 14:25:38 UTC*
 <!-- SPOTIFY-END -->
