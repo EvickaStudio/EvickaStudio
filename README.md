@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f6a7e7224f30fc635ffb7a43" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732cfe704884cbe39c60e5e1c2" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7">Subwoofer</a></strong><br/>
-  <em>by</em> <strong>SHINSKY x DIMA</strong><br/>
-  <em>Album:</em> Subwoofer
+  <strong><a href="https://open.spotify.com/track/4BaWIU6w9M8UBhwzl9pBrQ">Schiff</a></strong><br/>
+  <em>by</em> <strong>Filow</strong><br/>
+  <em>Album:</em> Schiff
 </p>
 
-<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:42</code></p>
+<p align="center"><code>0:32</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)* - `just now`
-- **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)* - `2 min ago`
-- **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)* - `4 min ago`
-- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `6 min ago`
-- **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)* - `8 min ago`
+- **[Lost](https://open.spotify.com/track/0ytmxOjS0L12GlEdGQJo37)** by **RONEN** *(Hidden)* - `just now`
+- **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by **Traumatin, whosroman** *(Helium)* - `2 min ago`
+- **[Eislaufen 2k24](https://open.spotify.com/track/09sPmkKTfsWiH65SMhRrKn)** by **Rowli, Hank, Beats by Luca** *(Eislaufen 2k24)* - `6 min ago`
+- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `8 min ago`
+- **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 19:51:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 20:20:07 UTC*
 <!-- SPOTIFY-END -->
