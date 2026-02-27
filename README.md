@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a4c39297f9111ed535c1e37" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH">Leni (Crystal Castles vs GoodBooks)</a></strong><br/>
-  <em>by</em> <strong>GoodBooks, Crystal Castles</strong><br/>
-  <em>Album:</em> Control Freaks (The Remixes)
+  <strong><a href="https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc">ex-freundin (cut version)</a></strong><br/>
+  <em>by</em> <strong>luu</strong><br/>
+  <em>Album:</em> ex-freundin (cut version)
 </p>
 
-<p align="center"><code>2:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:16</code></p>
+<p align="center"><code>0:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>1:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `2 min ago`
-- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `4 min ago`
-- **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `4 min ago`
-- **[im #obsessed w u lol](https://open.spotify.com/track/7twvecghY5rHcHcNJyhMfe)** by **korpsebunny** *(im #obsessed w u lol)* - `4 min ago`
-- **[Led](https://open.spotify.com/track/1Z1aThbHMDqxQt8RgwQEae)** by **GOTOU寄生獣, OmenXIII** *(Led)* - `6 min ago`
+- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `just now`
+- **[START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92)** by **Tiffany Day** *(START OVER)* - `3 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `5 min ago`
+- **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)* - `9 min ago`
+- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ABSTURZ**](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 10:21:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 11:03:28 UTC*
 <!-- SPOTIFY-END -->
