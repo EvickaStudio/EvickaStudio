@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f6a7e7224f30fc635ffb7a43" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7">Subwoofer</a></strong><br/>
+  <em>by</em> <strong>SHINSKY x DIMA</strong><br/>
+  <em>Album:</em> Subwoofer
+</p>
+
+<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)* - `3 h ago`
-- **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)* - `3 h ago`
-- **[DieWithMe](https://open.spotify.com/track/25pGY4lgnAwPicc2hqwMvN)** by **SALEM** *(Fires In Heaven)* - `3 h ago`
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `3 h ago`
-- **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)* - `3 h ago`
+- **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)* - `just now`
+- **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)* - `2 min ago`
+- **[zyzz](https://open.spotify.com/track/1r5eJIzmFvRMVAd6WDuDV9)** by **meat computer** *(slept on the floor still dreamt about you)* - `4 min ago`
+- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `6 min ago`
+- **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 19:21:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 19:51:17 UTC*
 <!-- SPOTIFY-END -->
