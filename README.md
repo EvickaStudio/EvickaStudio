@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732cfe704884cbe39c60e5e1c2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f2bb243604066dc0b62b66a1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4BaWIU6w9M8UBhwzl9pBrQ">Schiff</a></strong><br/>
-  <em>by</em> <strong>Filow</strong><br/>
-  <em>Album:</em> Schiff
+  <strong><a href="https://open.spotify.com/track/4RADreHMvMkZwsPgPr9z5c">Rhythm Is A Dancer - 7" Edit</a></strong><br/>
+  <em>by</em> <strong>SNAP!</strong><br/>
+  <em>Album:</em> The Madman's Return
 </p>
 
-<p align="center"><code>0:32</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:07</code></p>
+<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Lost](https://open.spotify.com/track/0ytmxOjS0L12GlEdGQJo37)** by **RONEN** *(Hidden)* - `just now`
-- **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by **Traumatin, whosroman** *(Helium)* - `2 min ago`
-- **[Eislaufen 2k24](https://open.spotify.com/track/09sPmkKTfsWiH65SMhRrKn)** by **Rowli, Hank, Beats by Luca** *(Eislaufen 2k24)* - `6 min ago`
-- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `8 min ago`
-- **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)* - `12 min ago`
+- **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)* - `1 min ago`
+- **[realornot?](https://open.spotify.com/track/6C0tLRlczAtO5nnbCjvjPp)** by **wev** *(realornot?)* - `3 min ago`
+- **[Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)** by **FiNCH, Little Big** *(Finchi's Love Tape)* - `6 min ago`
+- **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)* - `9 min ago`
+- **[Deira City Centre](https://open.spotify.com/track/7fm0RfFil17f017qchrnyK)** by **Night Lovell** *(Concept Vague)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 20:20:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-27 20:50:14 UTC*
 <!-- SPOTIFY-END -->
