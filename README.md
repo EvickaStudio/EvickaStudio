@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C">Z&C</a></strong><br/>
+  <em>by</em> <strong>sparr00w, NANA LE VRAI</strong><br/>
+  <em>Album:</em> Save Room Theme
+</p>
+
+<p align="center"><code>0:26</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)* - `11 h ago`
-- **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)* - `11 h ago`
-- **[realornot?](https://open.spotify.com/track/6C0tLRlczAtO5nnbCjvjPp)** by **wev** *(realornot?)* - `11 h ago`
-- **[Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)** by **FiNCH, Little Big** *(Finchi's Love Tape)* - `11 h ago`
-- **[MIX'IT](https://open.spotify.com/track/4hHU9xI4B7F4a81qzRfn7R)** by **3DOKI** *(MIX'IT)* - `11 h ago`
+- **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)* - `just now`
+- **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)* - `3 min ago`
+- **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)* - `6 min ago`
+- **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)* - `9 min ago`
+- **[heaven](https://open.spotify.com/track/3Tki5V7vhAU9s2KN6905hq)** by **Yandere** *(heaven)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-28 07:52:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-28 08:19:29 UTC*
 <!-- SPOTIFY-END -->
