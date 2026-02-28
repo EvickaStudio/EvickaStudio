@@ -99,8 +99,8 @@
 - **[hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)** by **meat computer** *(hurt and alone)* - `3 h ago`
 - **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `6 h ago`
 - **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)* - `9 h ago`
-- **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)* - `9 h ago`
-- **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)* - `12 h ago`
+- **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)* - `10 h ago`
+- **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)* - `13 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-28 21:19:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-28 21:40:24 UTC*
 <!-- SPOTIFY-END -->
