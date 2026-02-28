@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `59 min ago`
+- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `1 h ago`
 - **[Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT)** by **Aphex Twin** *(Richard D. James Album)* - `4 h ago`
 - **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)* - `4 h ago`
 - **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)* - `7 h ago`
@@ -109,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Charli xcx**](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**if u wanna go with me**](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-28 15:52:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-02-28 16:17:26 UTC*
 <!-- SPOTIFY-END -->
