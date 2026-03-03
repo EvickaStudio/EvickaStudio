@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H">The Love I Lost (feat. Teddy Pendergrass)</a></strong><br/>
-  <em>by</em> <strong>Harold Melvin & The Blue Notes, Teddy Pendergrass</strong><br/>
-  <em>Album:</em> Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
+  <strong><a href="https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44">When the Sun Hits</a></strong><br/>
+  <em>by</em> <strong>Slowdive</strong><br/>
+  <em>Album:</em> Souvlaki
 </p>
 
-<p align="center"><code>1:36</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>6:24</code></p>
+<p align="center"><code>0:14</code> ▓░░░░░░░░░░░░░░░░░░░ <code>4:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)* - `1 min ago`
-- **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)* - `4 min ago`
-- **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)* - `6 min ago`
-- **[Space Age Love Song](https://open.spotify.com/track/1yKjxJR95rw8ckJ0dYpiMa)** by **A Flock Of Seagulls** *(A Flock of Seagulls)* - `8 min ago`
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)* - `12 min ago`
+- **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)* - `2 min ago`
+- **[webghost](https://open.spotify.com/track/1tM6TMYnWn5tRIwrRs9uN4)** by **2040x2040** *(webghost)* - `4 min ago`
+- **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)* - `6 min ago`
+- **[Down Under (feat. Colin Hay)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)** by **Luude, Colin Hay** *(Down Under (feat. Colin Hay))* - `8 min ago`
+- **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**doppelsuizid**](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 13:05:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 14:04:28 UTC*
 <!-- SPOTIFY-END -->
