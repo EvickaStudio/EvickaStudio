@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44">When the Sun Hits</a></strong><br/>
-  <em>by</em> <strong>Slowdive</strong><br/>
-  <em>Album:</em> Souvlaki
-</p>
-
-<p align="center"><code>0:14</code> ▓░░░░░░░░░░░░░░░░░░░ <code>4:45</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)* - `2 min ago`
-- **[webghost](https://open.spotify.com/track/1tM6TMYnWn5tRIwrRs9uN4)** by **2040x2040** *(webghost)* - `4 min ago`
-- **[komm zurück](https://open.spotify.com/track/7mskC57VxoqhmpqFfOicHY)** by **5star** *(komm zurück)* - `6 min ago`
-- **[Down Under (feat. Colin Hay)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)** by **Luude, Colin Hay** *(Down Under (feat. Colin Hay))* - `8 min ago`
-- **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)* - `10 min ago`
+- **[Drink Ist Kalt](https://open.spotify.com/track/40HuUTOc00s1M7VarvHBG8)** by **Big Pat, Ion Miles, BHZ, Longus Mongus** *(halb:vier)* - `32 min ago`
+- **[what happened rick](https://open.spotify.com/track/4nKku8Y3QXsajkHYoGPOw6)** by **i hate my face, vic** *(what happened rick)* - `36 min ago`
+- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `37 min ago`
+- **[Her Ribs](https://open.spotify.com/track/24WiPfA6p3w3lUh5dwSdis)** by **Shadow Wizard Money Gang, Death Souljah** *(Her Ribs)* - `40 min ago`
+- **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)* - `42 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**doppelsuizid**](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 14:04:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 15:02:55 UTC*
 <!-- SPOTIFY-END -->
