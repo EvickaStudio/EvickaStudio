@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27396a5f58c7bb18b04342dffb9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27307f251f34e5da6c7b591d27f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5">All Good Things (Come To An End)</a></strong><br/>
-  <em>by</em> <strong>DJ Traytex</strong><br/>
-  <em>Album:</em> All Good Things (Come To An End)
+  <strong><a href="https://open.spotify.com/track/0RlRqK8oIV7DuV3UCGVcjQ">i'm the one in love</a></strong><br/>
+  <em>by</em> <strong>timesgone, DNA</strong><br/>
+  <em>Album:</em> i'm the one in love
 </p>
 
-<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:24</code></p>
+<p align="center"><code>0:18</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `4 min ago`
-- **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)* - `1 h ago`
-- **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)* - `1 h ago`
-- **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)* - `1 h ago`
-- **[BLOMSTERTID](https://open.spotify.com/track/0qJR5242PvtHISvqxf4GE9)** by **Dj Billybool, Eurohead, Bladee** *(DYR)* - `1 h ago`
+- **[Want To Love - Just Raw](https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO)** by **Aloboi** *(Raw Tracks and Reworks)* - `1 min ago`
+- **[FAFB](https://open.spotify.com/track/25ERGFwjI1BUph1oqqTb6O)** by **Lucio101, Omar101, 1019** *(FAFB)* - `2 min ago`
+- **[Led](https://open.spotify.com/track/1Z1aThbHMDqxQt8RgwQEae)** by **GOTOU寄生獣, OmenXIII** *(Led)* - `5 min ago`
+- **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)* - `7 min ago`
+- **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 11:32:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 11:59:15 UTC*
 <!-- SPOTIFY-END -->
