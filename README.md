@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a8b0e2778ba0735358d45223" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730f80486b8f77d2b89e86e45f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV">Summertime Sadness - Sped Up</a></strong><br/>
-  <em>by</em> <strong>Lana Del Rey, Speed Radio</strong><br/>
-  <em>Album:</em> Summertime Sadness (Sped Up)
+  <strong><a href="https://open.spotify.com/track/7IKw8mQidaWbAfKcRo4Obp">Shot Up Overnight</a></strong><br/>
+  <em>by</em> <strong>Underbelly</strong><br/>
+  <em>Album:</em> Shot Up Overnight
 </p>
 
-<p align="center"><code>2:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:17</code></p>
+<p align="center"><code>0:39</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)* - `5 min ago`
-- **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)* - `53 min ago`
-- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)* - `14 h ago`
-- **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)* - `14 h ago`
-- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `14 h ago`
+- **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)* - `just now`
+- **[Pennywise](https://open.spotify.com/track/5WhZTVKHE32TysmSwKqVGl)** by **Angerfist** *(Creed Of Chaos)* - `3 min ago`
+- **[Nur ein Wort](https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3)** by **flö** *(Nur ein Wort)* - `7 min ago`
+- **[zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)** by **grellewelt** *(zeitverloren)* - `10 min ago`
+- **[ALLES DOPE](https://open.spotify.com/track/7HZMdCSq7oUYmn6OHU6kSB)** by **CRO** *(ALLES DOPE)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 07:52:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 08:31:02 UTC*
 <!-- SPOTIFY-END -->
