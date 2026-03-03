@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a8b0e2778ba0735358d45223" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV">Summertime Sadness - Sped Up</a></strong><br/>
+  <em>by</em> <strong>Lana Del Rey, Speed Radio</strong><br/>
+  <em>Album:</em> Summertime Sadness (Sped Up)
+</p>
+
+<p align="center"><code>2:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)* - `10 min ago`
-- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)* - `13 h ago`
-- **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)* - `13 h ago`
-- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `13 h ago`
-- **[So Hoch](https://open.spotify.com/track/1zt3wy9gXLEG2naxIMRwSj)** by **Longus Mongus, BHZ, Monk** *(3062)* - `13 h ago`
+- **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)* - `5 min ago`
+- **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)* - `53 min ago`
+- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)* - `14 h ago`
+- **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)* - `14 h ago`
+- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `14 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 07:09:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 07:52:31 UTC*
 <!-- SPOTIFY-END -->
