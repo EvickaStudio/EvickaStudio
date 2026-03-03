@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27396a5f58c7bb18b04342dffb9" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5">All Good Things (Come To An End)</a></strong><br/>
+  <em>by</em> <strong>DJ Traytex</strong><br/>
+  <em>Album:</em> All Good Things (Come To An End)
+</p>
+
+<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
+- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `4 min ago`
 - **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)* - `1 h ago`
 - **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)* - `1 h ago`
 - **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)* - `1 h ago`
 - **[BLOMSTERTID](https://open.spotify.com/track/0qJR5242PvtHISvqxf4GE9)** by **Dj Billybool, Eurohead, Bladee** *(DYR)* - `1 h ago`
-- **[Champion God Level](https://open.spotify.com/track/3aujFAv6o9EhKOPJYnGlMg)** by **fliggsy** *(Champion God Level)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 10:58:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 11:32:31 UTC*
 <!-- SPOTIFY-END -->
