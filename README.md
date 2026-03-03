@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27307f251f34e5da6c7b591d27f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273bcae489ac593de44bd9bda54" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0RlRqK8oIV7DuV3UCGVcjQ">i'm the one in love</a></strong><br/>
-  <em>by</em> <strong>timesgone, DNA</strong><br/>
-  <em>Album:</em> i'm the one in love
+  <strong><a href="https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H">The Love I Lost (feat. Teddy Pendergrass)</a></strong><br/>
+  <em>by</em> <strong>Harold Melvin & The Blue Notes, Teddy Pendergrass</strong><br/>
+  <em>Album:</em> Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)
 </p>
 
-<p align="center"><code>0:18</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:47</code></p>
+<p align="center"><code>1:36</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>6:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Want To Love - Just Raw](https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO)** by **Aloboi** *(Raw Tracks and Reworks)* - `1 min ago`
-- **[FAFB](https://open.spotify.com/track/25ERGFwjI1BUph1oqqTb6O)** by **Lucio101, Omar101, 1019** *(FAFB)* - `2 min ago`
-- **[Led](https://open.spotify.com/track/1Z1aThbHMDqxQt8RgwQEae)** by **GOTOU寄生獣, OmenXIII** *(Led)* - `5 min ago`
-- **[Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8)** by **Puzzle** *(X Hail)* - `7 min ago`
-- **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)* - `10 min ago`
+- **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)* - `1 min ago`
+- **[Hi Fever](https://open.spotify.com/track/35O1f9stOkNvgu3SFPVijC)** by **Ecco2k** *(Scandinavian Swords IIII: Atlas of Visions Pt. I & II)* - `4 min ago`
+- **[fireproof](https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG)** by **Senses, Nightclub20xx** *(fireproof)* - `6 min ago`
+- **[Space Age Love Song](https://open.spotify.com/track/1yKjxJR95rw8ckJ0dYpiMa)** by **A Flock Of Seagulls** *(A Flock of Seagulls)* - `8 min ago`
+- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**doppelsuizid**](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 11:59:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 13:05:08 UTC*
 <!-- SPOTIFY-END -->
