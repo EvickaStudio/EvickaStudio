@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Drink Ist Kalt](https://open.spotify.com/track/40HuUTOc00s1M7VarvHBG8)** by **Big Pat, Ion Miles, BHZ, Longus Mongus** *(halb:vier)* - `1 h ago`
-- **[what happened rick](https://open.spotify.com/track/4nKku8Y3QXsajkHYoGPOw6)** by **i hate my face, vic** *(what happened rick)* - `1 h ago`
-- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `1 h ago`
-- **[Her Ribs](https://open.spotify.com/track/24WiPfA6p3w3lUh5dwSdis)** by **Shadow Wizard Money Gang, Death Souljah** *(Her Ribs)* - `1 h ago`
-- **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)* - `1 h ago`
+- **[Drink Ist Kalt](https://open.spotify.com/track/40HuUTOc00s1M7VarvHBG8)** by **Big Pat, Ion Miles, BHZ, Longus Mongus** *(halb:vier)* - `2 h ago`
+- **[what happened rick](https://open.spotify.com/track/4nKku8Y3QXsajkHYoGPOw6)** by **i hate my face, vic** *(what happened rick)* - `2 h ago`
+- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `2 h ago`
+- **[Her Ribs](https://open.spotify.com/track/24WiPfA6p3w3lUh5dwSdis)** by **Shadow Wizard Money Gang, Death Souljah** *(Her Ribs)* - `2 h ago`
+- **[Man in the Mirror](https://open.spotify.com/track/2u2udGmop1z67EPpr91km7)** by **Michael Jackson** *(HIStory - PAST, PRESENT AND FUTURE - BOOK I)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**doppelsuizid**](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 15:58:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 16:50:51 UTC*
 <!-- SPOTIFY-END -->
