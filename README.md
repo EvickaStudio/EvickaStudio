@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730f80486b8f77d2b89e86e45f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739de62bd8805f8a1b77cbedf5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7IKw8mQidaWbAfKcRo4Obp">Shot Up Overnight</a></strong><br/>
-  <em>by</em> <strong>Underbelly</strong><br/>
-  <em>Album:</em> Shot Up Overnight
+  <strong><a href="https://open.spotify.com/track/1HcsUhdusmToTGnCWxnDFF">Dancing Through the Night - Single Edit</a></strong><br/>
+  <em>by</em> <strong>Raveboy</strong><br/>
+  <em>Album:</em> Dancing Through the Night
 </p>
 
-<p align="center"><code>0:39</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:26</code></p>
+<p align="center"><code>0:14</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)* - `just now`
-- **[Pennywise](https://open.spotify.com/track/5WhZTVKHE32TysmSwKqVGl)** by **Angerfist** *(Creed Of Chaos)* - `3 min ago`
-- **[Nur ein Wort](https://open.spotify.com/track/2e7V9UjUpul9rIH25mkZm3)** by **flö** *(Nur ein Wort)* - `7 min ago`
-- **[zeitverloren](https://open.spotify.com/track/6dYNVdpItoGZJ1MPJnEjR9)** by **grellewelt** *(zeitverloren)* - `10 min ago`
-- **[ALLES DOPE](https://open.spotify.com/track/7HZMdCSq7oUYmn6OHU6kSB)** by **CRO** *(ALLES DOPE)* - `14 min ago`
+- **[Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw)** by **Tame Impala** *(Currents)* - `just now`
+- **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)* - `5 min ago`
+- **[Zur Party](https://open.spotify.com/track/6HvHh0njau7LPTrBbzEpYX)** by **6euroneunzig** *(Zur Party)* - `9 min ago`
+- **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)* - `11 min ago`
+- **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sur la piste**](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 08:31:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-03 09:24:34 UTC*
 <!-- SPOTIFY-END -->
