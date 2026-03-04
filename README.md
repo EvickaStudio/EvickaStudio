@@ -99,8 +99,8 @@
 - **[i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)** by **Caspr, oaf1** *(i can't find oaf1)* - `6 h ago`
 - **[Mirage](https://open.spotify.com/track/0OoD5Olbr2dcuzI2FlAknD)** by **vic, cethias** *(Mirage)* - `7 h ago`
 - **[Alonely](https://open.spotify.com/track/2mZ4GBrpCTiwPTwvNO7bDZ)** by **Rill, Young Mask** *(I Came From Nobody Likes Me To Nobody Like Me)* - `7 h ago`
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `7 h ago`
-- **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)* - `7 h ago`
+- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `8 h ago`
+- **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**doppelsuizid**](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-04 13:41:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-04 14:24:57 UTC*
 <!-- SPOTIFY-END -->
