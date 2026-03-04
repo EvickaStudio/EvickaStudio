@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380ab44e51da54976bfeeb1c4" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6">Fantasy</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> The Snow Strippers
+</p>
+
+<p align="center"><code>0:33</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
+- **[hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)** by **meat computer** *(hurt and alone)* - `just now`
+- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `3 min ago`
+- **[zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)** by **5v, Tamino404** *(zu zweit allein)* - `10 min ago`
+- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `14 min ago`
 - **[i can't find oaf1](https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU)** by **Caspr, oaf1** *(i can't find oaf1)* - `9 h ago`
-- **[Mirage](https://open.spotify.com/track/0OoD5Olbr2dcuzI2FlAknD)** by **vic, cethias** *(Mirage)* - `10 h ago`
-- **[Alonely](https://open.spotify.com/track/2mZ4GBrpCTiwPTwvNO7bDZ)** by **Rill, Young Mask** *(I Came From Nobody Likes Me To Nobody Like Me)* - `10 h ago`
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `10 h ago`
-- **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)* - `10 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**doppelsuizid**](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-04 16:38:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-04 17:23:44 UTC*
 <!-- SPOTIFY-END -->
