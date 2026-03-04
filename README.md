@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l">Asleep - 2011 Remaster</a></strong><br/>
-  <em>by</em> <strong>The Smiths</strong><br/>
-  <em>Album:</em> Louder Than Bombs
-</p>
-
-<p align="center"><code>1:33</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:13</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `1 min ago`
-- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `4 min ago`
-- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `9 min ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `11 min ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `15 min ago`
+- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `1 h ago`
+- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `1 h ago`
+- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `1 h ago`
+- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `1 h ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**doppelsuizid**](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-04 18:01:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-04 19:05:33 UTC*
 <!-- SPOTIFY-END -->
