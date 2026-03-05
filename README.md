@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[perks of being a wallflower](https://open.spotify.com/track/6Zt4kkPMWPWfSfCA2PIzVq)** by **living proof** *(perks of being a wallflower)* - `3 h ago`
-- **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)* - `3 h ago`
-- **[RITTER DER NACHT OUTRO](https://open.spotify.com/track/6n0BEMe62sSIo5Yg6vJEEc)** by **Punk Christ** *(ORGANISCHE CHEMIE)* - `3 h ago`
+- **[perks of being a wallflower](https://open.spotify.com/track/6Zt4kkPMWPWfSfCA2PIzVq)** by **living proof** *(perks of being a wallflower)* - `4 h ago`
+- **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)* - `4 h ago`
+- **[RITTER DER NACHT OUTRO](https://open.spotify.com/track/6n0BEMe62sSIo5Yg6vJEEc)** by **Punk Christ** *(ORGANISCHE CHEMIE)* - `4 h ago`
 - **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)* - `4 h ago`
-- **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)* - `8 h ago`
+- **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-05 21:36:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-05 22:00:51 UTC*
 <!-- SPOTIFY-END -->
