@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `4 h ago`
-- **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)* - `5 h ago`
-- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `18 h ago`
-- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `18 h ago`
-- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `18 h ago`
+- **[PRADA](https://open.spotify.com/track/7Kqxe8QsPzfGt2bwRKVyRH)** by **Kroka Koka** *(PRADA)* - `21 min ago`
+- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `22 min ago`
+- **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)* - `24 min ago`
+- **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)* - `29 min ago`
+- **[DEUTSCHE VITA](https://open.spotify.com/track/2tPeJeXedyDgkRlNyRnoNA)** by **Deutsche Vita** *(DEUTSCHE VITA)* - `31 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -114,11 +114,11 @@
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-05 12:00:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-05 13:13:52 UTC*
 <!-- SPOTIFY-END -->
