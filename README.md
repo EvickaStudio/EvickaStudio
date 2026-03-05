@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `3 h ago`
-- **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)* - `4 h ago`
-- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `17 h ago`
-- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `17 h ago`
-- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `17 h ago`
+- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `4 h ago`
+- **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)* - `5 h ago`
+- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `18 h ago`
+- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `18 h ago`
+- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `18 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-05 11:35:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-05 12:00:17 UTC*
 <!-- SPOTIFY-END -->
