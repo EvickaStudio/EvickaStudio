@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27306e00756085191abc01e4cf0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27346ed71f4f0ab02c72179b15d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv">Our House</a></strong><br/>
-  <em>by</em> <strong>Crosby, Stills, Nash & Young</strong><br/>
-  <em>Album:</em> Deja Vu
+  <strong><a href="https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b">I Found a Reason - 2015 Remaster</a></strong><br/>
+  <em>by</em> <strong>The Velvet Underground</strong><br/>
+  <em>Album:</em> Loaded (2015 Remaster)
 </p>
 
-<p align="center"><code>0:31</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:59</code></p>
+<p align="center"><code>3:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy)** by **Bread** *(On the Waters)* - `just now`
-- **[Your Summer Dream - Remastered 2001](https://open.spotify.com/track/7ncP01goIb9GbhjZaVahdI)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `6 min ago`
-- **[Your Summer Dream - Remastered 2001](https://open.spotify.com/track/7ncP01goIb9GbhjZaVahdI)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `9 min ago`
-- **[Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3)** by **Sade** *(Soldier of Love)* - `12 min ago`
-- **[Time of the Season - Mono Remastered](https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI)** by **The Zombies** *(Odessey and Oracle (Mono Remastered))* - `16 min ago`
+- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `3 min ago`
+- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `7 min ago`
+- **[I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb)** by **The Beach Boys** *(Pet Sounds)* - `11 min ago`
+- **[Dreamin' Man](https://open.spotify.com/track/3lQVHa3aOBXjFvbrKHvAaq)** by **Neil Young** *(Harvest Moon)* - `14 min ago`
+- **[Dirty Work](https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH)** by **Steely Dan** *(Can't Buy A Thrill)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 13:52:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 14:17:11 UTC*
 <!-- SPOTIFY-END -->
