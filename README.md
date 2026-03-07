@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `34 min ago`
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `37 min ago`
-- **[holding on](https://open.spotify.com/track/3OP2JE057reXzDIz6PbCba)** by **The Twins, RADA** *(holding on)* - `46 min ago`
-- **[wenn du jetzt tot wärst](https://open.spotify.com/track/3oMI3IpZ3MciKLLDTsVN2U)** by **Hello Hannes** *(wenn du jetzt tot wärst)* - `47 min ago`
-- **[MVP](https://open.spotify.com/track/3qupetVGGvFGePQboxwgGU)** by **5v** *(Bad Intentions)* - `49 min ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `44 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `48 min ago`
+- **[holding on](https://open.spotify.com/track/3OP2JE057reXzDIz6PbCba)** by **The Twins, RADA** *(holding on)* - `56 min ago`
+- **[wenn du jetzt tot wärst](https://open.spotify.com/track/3oMI3IpZ3MciKLLDTsVN2U)** by **Hello Hannes** *(wenn du jetzt tot wärst)* - `57 min ago`
+- **[MVP](https://open.spotify.com/track/3qupetVGGvFGePQboxwgGU)** by **5v** *(Bad Intentions)* - `59 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 19:41:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 19:51:21 UTC*
 <!-- SPOTIFY-END -->
