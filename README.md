@@ -98,9 +98,9 @@
 
 - **[Northern Sky](https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r)** by **Nick Drake** *(Bryter Layter)* - `2 h ago`
 - **[I Found a Reason - 2015 Remaster](https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b)** by **The Velvet Underground** *(Loaded (2015 Remaster))* - `2 h ago`
-- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `2 h ago`
-- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `2 h ago`
-- **[I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb)** by **The Beach Boys** *(Pet Sounds)* - `2 h ago`
+- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `3 h ago`
+- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `3 h ago`
+- **[I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb)** by **The Beach Boys** *(Pet Sounds)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 16:48:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 17:14:40 UTC*
 <!-- SPOTIFY-END -->
