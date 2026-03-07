@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27319f2ae9a962f8152a9c76021" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7pwFaJaPWcPtNzL4UcALjR">WHAT U THINK THIS IS</a></strong><br/>
+  <em>by</em> <strong>444pluto, HAR$h</strong><br/>
+  <em>Album:</em> WHAT U THINK THIS IS
+</p>
+
+<p align="center"><code>0:40</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Northern Sky](https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r)** by **Nick Drake** *(Bryter Layter)* - `2 h ago`
-- **[I Found a Reason - 2015 Remaster](https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b)** by **The Velvet Underground** *(Loaded (2015 Remaster))* - `2 h ago`
-- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `3 h ago`
-- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `3 h ago`
-- **[I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb)** by **The Beach Boys** *(Pet Sounds)* - `3 h ago`
+- **[Silk Road](https://open.spotify.com/track/2OITBRdvXlqJOMHNzawWXZ)** by **Thaiboy Digital, swedm®** *(Silk Road)* - `just now`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `3 min ago`
+- **[One of These Days](https://open.spotify.com/track/0EAJ0xn42jBzzD9BRJA0I8)** by **Neil Young** *(Harvest Moon)* - `7 min ago`
+- **[Northern Sky](https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r)** by **Nick Drake** *(Bryter Layter)* - `3 h ago`
+- **[I Found a Reason - 2015 Remaster](https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b)** by **The Velvet Underground** *(Loaded (2015 Remaster))* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 17:14:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 17:37:15 UTC*
 <!-- SPOTIFY-END -->
