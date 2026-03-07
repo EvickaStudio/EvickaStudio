@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273854790db86fc65e96e694c49" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3OP2JE057reXzDIz6PbCba">holding on</a></strong><br/>
-  <em>by</em> <strong>The Twins, RADA</strong><br/>
-  <em>Album:</em> holding on
-</p>
-
-<p align="center"><code>0:43</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:34</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wenn du jetzt tot wärst](https://open.spotify.com/track/3oMI3IpZ3MciKLLDTsVN2U)** by **Hello Hannes** *(wenn du jetzt tot wärst)* - `just now`
-- **[MVP](https://open.spotify.com/track/3qupetVGGvFGePQboxwgGU)** by **5v** *(Bad Intentions)* - `2 min ago`
-- **[alles was ich anfass geht kaputt](https://open.spotify.com/track/23Ib8ciHSKO4Fg6vah51KB)** by **Kasi, antonius** *(alles was ich anfass geht kaputt)* - `4 min ago`
-- **[Ballerin(Aa)](https://open.spotify.com/track/39dWCCBtWebyMsjV0z9qXw)** by **Psyke** *(Psyke London)* - `8 min ago`
-- **[Sonne ausm Arsch](https://open.spotify.com/track/4dq5n8mD7SjsQtRPdG4fDI)** by **hqwilli** *(Sonne ausm Arsch)* - `52 min ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `9 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `12 min ago`
+- **[holding on](https://open.spotify.com/track/3OP2JE057reXzDIz6PbCba)** by **The Twins, RADA** *(holding on)* - `20 min ago`
+- **[wenn du jetzt tot wärst](https://open.spotify.com/track/3oMI3IpZ3MciKLLDTsVN2U)** by **Hello Hannes** *(wenn du jetzt tot wärst)* - `22 min ago`
+- **[MVP](https://open.spotify.com/track/3qupetVGGvFGePQboxwgGU)** by **5v** *(Bad Intentions)* - `24 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 18:54:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 19:15:56 UTC*
 <!-- SPOTIFY-END -->
