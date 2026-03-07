@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730f2dd57c38e9d9940d4a21af" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g">music</a></strong><br/>
-  <em>by</em> <strong>SQF2000</strong><br/>
-  <em>Album:</em> music
-</p>
-
-<p align="center"><code>0:27</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:51</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[WANTMEEE!](https://open.spotify.com/track/1ANSV9VGGII9Pl2ZlNzxmt)** by **vai5000** *(WANTMEEE!)* - `just now`
-- **[i'm already dead](https://open.spotify.com/track/4l0EgBc0MJgkXDgksueK8t)** by **meat computer** *(i'm already dead)* - `2 min ago`
-- **[YOU LOSE](https://open.spotify.com/track/3bA7h2VKtW0FATsBG8MIyv)** by **lavendr, NOKERB** *(YOU LOSE)* - `5 min ago`
-- **[GELD/LIEBE](https://open.spotify.com/track/3nv8L8DDLtPAVDlhqQtKgf)** by **mikeycyrus** *(GELD/LIEBE)* - `7 min ago`
-- **[l0Ve](https://open.spotify.com/track/2cbiXa6kT13tvggB0rPcHO)** by **Yatsu** *(l0Ve)* - `9 min ago`
+- **[Sonne ausm Arsch](https://open.spotify.com/track/4dq5n8mD7SjsQtRPdG4fDI)** by **hqwilli** *(Sonne ausm Arsch)* - `20 min ago`
+- **[HM](https://open.spotify.com/track/5h6N8TdDy5LfUlKGPOhm1N)** by **humanangst** *(HM)* - `21 min ago`
+- **[Dyer Lane](https://open.spotify.com/track/2TPenQE3wY6jkTzto4haJZ)** by **Ghost Mountain, Sematary** *(Dyer Lane)* - `24 min ago`
+- **[music](https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g)** by **SQF2000** *(music)* - `27 min ago`
+- **[WANTMEEE!](https://open.spotify.com/track/1ANSV9VGGII9Pl2ZlNzxmt)** by **vai5000** *(WANTMEEE!)* - `29 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 17:53:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 18:22:18 UTC*
 <!-- SPOTIFY-END -->
