@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27306e00756085191abc01e4cf0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh">Out on the Weekend</a></strong><br/>
-  <em>by</em> <strong>Neil Young</strong><br/>
-  <em>Album:</em> Harvest (50th Anniversary Edition)
+  <strong><a href="https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv">Our House</a></strong><br/>
+  <em>by</em> <strong>Crosby, Stills, Nash & Young</strong><br/>
+  <em>Album:</em> Deja Vu
 </p>
 
-<p align="center"><code>1:00</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:34</code></p>
+<p align="center"><code>0:31</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Breathe (In the Air)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53)** by **Pink Floyd** *(The Dark Side of the Moon)* - `just now`
-- **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)* - `3 min ago`
-- **[Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9)** by **Yusuf / Cat Stevens** *(Tea For The Tillerman (Remastered 2020))* - `6 min ago`
-- **[Place To Be](https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF)** by **Nick Drake** *(Pink Moon)* - `10 min ago`
-- **[In My Room - Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `27 min ago`
+- **[Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy)** by **Bread** *(On the Waters)* - `just now`
+- **[Your Summer Dream - Remastered 2001](https://open.spotify.com/track/7ncP01goIb9GbhjZaVahdI)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `6 min ago`
+- **[Your Summer Dream - Remastered 2001](https://open.spotify.com/track/7ncP01goIb9GbhjZaVahdI)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `9 min ago`
+- **[Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3)** by **Sade** *(Soldier of Love)* - `12 min ago`
+- **[Time of the Season - Mono Remastered](https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI)** by **The Zombies** *(Odessey and Oracle (Mono Remastered))* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 13:21:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 13:52:59 UTC*
 <!-- SPOTIFY-END -->
