@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27346ed71f4f0ab02c72179b15d" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b">I Found a Reason - 2015 Remaster</a></strong><br/>
-  <em>by</em> <strong>The Velvet Underground</strong><br/>
-  <em>Album:</em> Loaded (2015 Remaster)
-</p>
-
-<p align="center"><code>3:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:15</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `3 min ago`
-- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `7 min ago`
-- **[I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb)** by **The Beach Boys** *(Pet Sounds)* - `11 min ago`
-- **[Dreamin' Man](https://open.spotify.com/track/3lQVHa3aOBXjFvbrKHvAaq)** by **Neil Young** *(Harvest Moon)* - `14 min ago`
-- **[Dirty Work](https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH)** by **Steely Dan** *(Can't Buy A Thrill)* - `19 min ago`
+- **[Northern Sky](https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r)** by **Nick Drake** *(Bryter Layter)* - `25 min ago`
+- **[I Found a Reason - 2015 Remaster](https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b)** by **The Velvet Underground** *(Loaded (2015 Remaster))* - `29 min ago`
+- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `33 min ago`
+- **[Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd)** by **Mazzy Star** *(Among My Swan)* - `36 min ago`
+- **[I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb)** by **The Beach Boys** *(Pet Sounds)* - `41 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 14:17:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 14:46:36 UTC*
 <!-- SPOTIFY-END -->
