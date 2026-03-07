@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27319f2ae9a962f8152a9c76021" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730f2dd57c38e9d9940d4a21af" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7pwFaJaPWcPtNzL4UcALjR">WHAT U THINK THIS IS</a></strong><br/>
-  <em>by</em> <strong>444pluto, HAR$h</strong><br/>
-  <em>Album:</em> WHAT U THINK THIS IS
+  <strong><a href="https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g">music</a></strong><br/>
+  <em>by</em> <strong>SQF2000</strong><br/>
+  <em>Album:</em> music
 </p>
 
-<p align="center"><code>0:40</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:00</code></p>
+<p align="center"><code>0:27</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Silk Road](https://open.spotify.com/track/2OITBRdvXlqJOMHNzawWXZ)** by **Thaiboy Digital, swedm®** *(Silk Road)* - `just now`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `3 min ago`
-- **[One of These Days](https://open.spotify.com/track/0EAJ0xn42jBzzD9BRJA0I8)** by **Neil Young** *(Harvest Moon)* - `7 min ago`
-- **[Northern Sky](https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r)** by **Nick Drake** *(Bryter Layter)* - `3 h ago`
-- **[I Found a Reason - 2015 Remaster](https://open.spotify.com/track/63OJHHu2ambZAvdrvhdT2b)** by **The Velvet Underground** *(Loaded (2015 Remaster))* - `3 h ago`
+- **[WANTMEEE!](https://open.spotify.com/track/1ANSV9VGGII9Pl2ZlNzxmt)** by **vai5000** *(WANTMEEE!)* - `just now`
+- **[i'm already dead](https://open.spotify.com/track/4l0EgBc0MJgkXDgksueK8t)** by **meat computer** *(i'm already dead)* - `2 min ago`
+- **[YOU LOSE](https://open.spotify.com/track/3bA7h2VKtW0FATsBG8MIyv)** by **lavendr, NOKERB** *(YOU LOSE)* - `5 min ago`
+- **[GELD/LIEBE](https://open.spotify.com/track/3nv8L8DDLtPAVDlhqQtKgf)** by **mikeycyrus** *(GELD/LIEBE)* - `7 min ago`
+- **[l0Ve](https://open.spotify.com/track/2cbiXa6kT13tvggB0rPcHO)** by **Yatsu** *(l0Ve)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 17:37:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 17:53:21 UTC*
 <!-- SPOTIFY-END -->
