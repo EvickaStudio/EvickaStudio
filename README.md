@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5">Right Down the Line</a></strong><br/>
-  <em>by</em> <strong>Gerry Rafferty</strong><br/>
-  <em>Album:</em> City to City
+  <strong><a href="https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh">Out on the Weekend</a></strong><br/>
+  <em>by</em> <strong>Neil Young</strong><br/>
+  <em>Album:</em> Harvest (50th Anniversary Edition)
 </p>
 
-<p align="center"><code>3:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:27</code></p>
+<p align="center"><code>1:00</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `3 min ago`
-- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `7 min ago`
-- **[Early Morning Rain](https://open.spotify.com/track/7GQz5rXS4ArE1LTMIYjbWc)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `11 min ago`
-- **[Please Let Me Wonder - Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7)** by **The Beach Boys** *(The Beach Boys Today! (Remastered))* - `15 min ago`
-- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `18 min ago`
+- **[Breathe (In the Air)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53)** by **Pink Floyd** *(The Dark Side of the Moon)* - `just now`
+- **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)* - `3 min ago`
+- **[Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9)** by **Yusuf / Cat Stevens** *(Tea For The Tillerman (Remastered 2020))* - `6 min ago`
+- **[Place To Be](https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF)** by **Nick Drake** *(Pink Moon)* - `10 min ago`
+- **[In My Room - Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `27 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 12:29:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 13:21:51 UTC*
 <!-- SPOTIFY-END -->
