@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27377073761e43f273c60988eaf" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7">Baby I'm-a Want You</a></strong><br/>
-  <em>by</em> <strong>Bread</strong><br/>
-  <em>Album:</em> Baby I'm-a Want You
+  <strong><a href="https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5">Right Down the Line</a></strong><br/>
+  <em>by</em> <strong>Gerry Rafferty</strong><br/>
+  <em>Album:</em> City to City
 </p>
 
-<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:30</code></p>
+<p align="center"><code>3:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `1 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `3 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `7 min ago`
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `10 min ago`
-- **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)* - `24 min ago`
+- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `3 min ago`
+- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `7 min ago`
+- **[Early Morning Rain](https://open.spotify.com/track/7GQz5rXS4ArE1LTMIYjbWc)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `11 min ago`
+- **[Please Let Me Wonder - Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7)** by **The Beach Boys** *(The Beach Boys Today! (Remastered))* - `15 min ago`
+- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**The Smiths**](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 11:51:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-07 12:29:57 UTC*
 <!-- SPOTIFY-END -->
