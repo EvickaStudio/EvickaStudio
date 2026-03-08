@@ -98,9 +98,9 @@
 
 - **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)* - `11 h ago`
 - **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)* - `11 h ago`
-- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `11 h ago`
-- **[Pasta](https://open.spotify.com/track/1sXFidulOG1i2hZSxjmdZd)** by **Der Witz, yungcameltoe** *(Pasta)* - `11 h ago`
-- **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)* - `11 h ago`
+- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `12 h ago`
+- **[Pasta](https://open.spotify.com/track/1sXFidulOG1i2hZSxjmdZd)** by **Der Witz, yungcameltoe** *(Pasta)* - `12 h ago`
+- **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)* - `12 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 08:52:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 09:21:26 UTC*
 <!-- SPOTIFY-END -->
