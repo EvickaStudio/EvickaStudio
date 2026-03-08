@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27313e395a3664bb7238e8f3280" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27377073761e43f273c60988eaf" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G">Heart Racer</a></strong><br/>
-  <em>by</em> <strong>RudeClub</strong><br/>
-  <em>Album:</em> Heart Racer
+  <strong><a href="https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7">Baby I'm-a Want You</a></strong><br/>
+  <em>by</em> <strong>Bread</strong><br/>
+  <em>Album:</em> Baby I'm-a Want You
 </p>
 
-<p align="center"><code>1:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:57</code></p>
+<p align="center"><code>0:35</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)* - `1 min ago`
-- **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)* - `3 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `5 min ago`
-- **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)* - `8 min ago`
-- **[MISA & LIGHT](https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr)** by **NXFEIT, Sillyelly, Hen848** *(MISA & LIGHT)* - `20 min ago`
+- **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `just now`
+- **[Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5)** by **Steely Dan** *(Can't Buy A Thrill)* - `2 min ago`
+- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `5 min ago`
+- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `9 min ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 10:48:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 11:14:16 UTC*
 <!-- SPOTIFY-END -->
