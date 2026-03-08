@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY">Cannock Chase</a></strong><br/>
-  <em>by</em> <strong>Labi Siffre</strong><br/>
-  <em>Album:</em> Crying Laughing Loving Lying
-</p>
-
-<p align="center"><code>3:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:06</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `2 min ago`
-- **[Tomorrow Is Gone](https://open.spotify.com/track/5YiJN3PMNN3NzgHYlyneq2)** by **Jode** *(Jode)* - `5 min ago`
-- **[Crying Laughing Loving Lying (From "The Holdovers")](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `6 min ago`
-- **[Both Sides Now](https://open.spotify.com/track/7rb3D9Vex66Fm9yh0JKauU)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `9 min ago`
-- **[Don't Hang Up Your Dancing Shoes](https://open.spotify.com/track/5TPurU8g9R2iPcpC0twyrO)** by **Iain Matthews** *(Stealin' Home)* - `12 min ago`
+- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `14 min ago`
+- **[It's You](https://open.spotify.com/track/2IwPufkHvnsV4bsCbzVuuF)** by **The Sha La Das** *(Love in the Wind)* - `16 min ago`
+- **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `19 min ago`
+- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `22 min ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `25 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 13:54:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 14:17:56 UTC*
 <!-- SPOTIFY-END -->
