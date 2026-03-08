@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e369195caf5d169bf5e9eafc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC">Pink Moon</a></strong><br/>
-  <em>by</em> <strong>Nick Drake</strong><br/>
-  <em>Album:</em> Pink Moon
+  <strong><a href="https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8">Old Man</a></strong><br/>
+  <em>by</em> <strong>Neil Young</strong><br/>
+  <em>Album:</em> Harvest (50th Anniversary Edition)
 </p>
 
-<p align="center"><code>1:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:04</code></p>
+<p align="center"><code>2:58</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Helplessly Hoping - 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe)** by **Crosby, Stills & Nash** *(Crosby, Stills & Nash)* - `1 min ago`
-- **[The Road](https://open.spotify.com/track/2DIj3MGL4YbA7OHqnHaf8q)** by **Danny O'Keefe** *(O'Keefe)* - `3 min ago`
-- **[Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO)** by **Bread** *(Guitar Man)* - `7 min ago`
-- **[Didn't Want To Have To Do It](https://open.spotify.com/track/257YFNPcDJUp8c7v1q8hPp)** by **The Lovin' Spoonful** *(Daydream)* - `10 min ago`
-- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))* - `13 min ago`
+- **[Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA)** by **Bread** *(Baby I'm-a Want You)* - `2 min ago`
+- **[Crimson & Clover](https://open.spotify.com/track/0I4yYE831a8SW8QIx6bz4x)** by **Tommy James & The Shondells** *(Anthology)* - `5 min ago`
+- **[How Much I Feel](https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w)** by **Ambrosia** *(Life Beyond L.A.)* - `7 min ago`
+- **[Silver Eagle](https://open.spotify.com/track/21k8qO81uZKZE3FYsKaSjm)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `11 min ago`
+- **[These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs)** by **Nico** *(Chelsea Girl)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 11:52:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 12:30:49 UTC*
 <!-- SPOTIFY-END -->
