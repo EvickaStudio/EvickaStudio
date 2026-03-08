@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c11e9b3ed28a867ba35d6305" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H">Midnight on the Bay - 2016 Remaster</a></strong><br/>
-  <em>by</em> <strong>The Stills-Young Band</strong><br/>
-  <em>Album:</em> Long May You Run
+  <strong><a href="https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY">Cannock Chase</a></strong><br/>
+  <em>by</em> <strong>Labi Siffre</strong><br/>
+  <em>Album:</em> Crying Laughing Loving Lying
 </p>
 
-<p align="center"><code>2:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>4:00</code></p>
+<p align="center"><code>3:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Willow Tree](https://open.spotify.com/track/3h1ooUSQRS5KyzzsZ3zJh2)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `2 min ago`
-- **[Jemma](https://open.spotify.com/track/71FErTFQsI42FagahV3yDR)** by **Dead Calm** *(Accept)* - `6 min ago`
-- **[Blue Light](https://open.spotify.com/track/3BdHMOIA9B0bN53jbE5nWe)** by **Mazzy Star** *(So Tonight That I Might See)* - `8 min ago`
-- **[Albuquerque - 2016 Remaster](https://open.spotify.com/track/6nsxXdOAjeosqcGGsmPjnN)** by **Neil Young** *(Tonight's the Night)* - `13 min ago`
-- **[Neverending Math Equation](https://open.spotify.com/track/47MLKnVQpYNzHQps6EfULG)** by **Sun Kil Moon** *(Tiny Cities)* - `16 min ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `2 min ago`
+- **[Tomorrow Is Gone](https://open.spotify.com/track/5YiJN3PMNN3NzgHYlyneq2)** by **Jode** *(Jode)* - `5 min ago`
+- **[Crying Laughing Loving Lying (From "The Holdovers")](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `6 min ago`
+- **[Both Sides Now](https://open.spotify.com/track/7rb3D9Vex66Fm9yh0JKauU)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `9 min ago`
+- **[Don't Hang Up Your Dancing Shoes](https://open.spotify.com/track/5TPurU8g9R2iPcpC0twyrO)** by **Iain Matthews** *(Stealin' Home)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 13:26:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-08 13:54:43 UTC*
 <!-- SPOTIFY-END -->
