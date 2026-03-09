@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730d920d65d4e7c30cedc5eb53" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr">Your Woman</a></strong><br/>
+  <em>by</em> <strong>White Town</strong><br/>
+  <em>Album:</em> Women in Technology
+</p>
+
+<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>4:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Darko](https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff)** by **Freddie Dredd** *(Suffer)* - `1 h ago`
-- **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)* - `1 h ago`
-- **[Saw](https://open.spotify.com/track/1WgSV4qb90fPut4rhwVhrV)** by **Tevvez** *(Pure)* - `1 h ago`
-- **[rotten](https://open.spotify.com/track/0lSIYgRZ67n14ijRpBhLxD)** by **anna luna** *(rotten)* - `1 h ago`
-- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `1 h ago`
+- **[Bequem](https://open.spotify.com/track/7mq4CCgO6vTBZHoOjF23b6)** by **makko** *(Leb es oder lass es 2)* - `2 min ago`
+- **[Reckless - Gareth Emery & Luke Bond Remix](https://open.spotify.com/track/3LE4L92Vj2G1Uis3kIpgap)** by **Gareth Emery, Wayward Daughter, Luke Bond** *(Reckless (Gareth Emery & Luke Bond Remix))* - `5 min ago`
+- **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)* - `9 min ago`
+- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `13 min ago`
+- **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 11:47:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 12:41:35 UTC*
 <!-- SPOTIFY-END -->
