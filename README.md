@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR">Komisch & Naiv</a></strong><br/>
+  <em>by</em> <strong>Pink Katana</strong><br/>
+  <em>Album:</em> Den Mutigen gehört die Welt
+</p>
+
+<p align="center"><code>0:20</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `15 h ago`
-- **[Dry up Those Tears](https://open.spotify.com/track/2WpTUDRtOUARZolD6Ur1QP)** by **Bob Desper** *(New Sounds)* - `15 h ago`
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `15 h ago`
-- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `15 h ago`
-- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `16 h ago`
+- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `just now`
+- **[Theme from Psych](https://open.spotify.com/track/4xvCq9lfW7V18EnrJWi4Ru)** by **TV Theme Song Library** *(TV Theme Library - Hit TV Show Themes)* - `2 min ago`
+- **[schäm mich so](https://open.spotify.com/track/4fYb7WUoIgyXc6tv31o0xo)** by **luu, n3vio** *(schäm mich so)* - `4 min ago`
+- **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)* - `6 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 09:00:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 10:05:14 UTC*
 <!-- SPOTIFY-END -->
