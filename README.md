@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27349f012f675fef31fb4a2ad01" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU">PRETTYLIES</a></strong><br/>
-  <em>by</em> <strong>hxly xo</strong><br/>
-  <em>Album:</em> Umbrae
+  <strong><a href="https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8">Father Stretch My Hands Pt. 1</a></strong><br/>
+  <em>by</em> <strong>Kanye West</strong><br/>
+  <em>Album:</em> The Life Of Pablo
 </p>
 
-<p align="center"><code>0:13</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:12</code></p>
+<p align="center"><code>0:29</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[All The Things She Said 2020 - Sub Sonik Remix](https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj)** by **DJ Gollum, Scarlet, Sub Sonik** *(All the Things She Said 2020 (Sub Sonik Remix))* - `just now`
-- **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)* - `3 min ago`
-- **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)* - `6 min ago`
-- **[YAKIMOTO BLISS](https://open.spotify.com/track/5lzDzpwQsmAwRXWBtGlrmS)** by **DJmegan23** *(YAKIMOTO BLISS)* - `8 min ago`
-- **[Psychic](https://open.spotify.com/track/2o0HBEggQAyXYcIk4ZRMvY)** by **WILDE** *(Psychic)* - `11 min ago`
+- **[ALLEINE - Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti)** by **Yung Hurn, Brutalismus 3000** *(ALLEINE (Brutalismus 3000 RMX))* - `just now`
+- **[camel crush](https://open.spotify.com/track/36JTpzualTlZUNRxXd8SvJ)** by **Sg Lily** *(y 22-23rp EP)* - `3 min ago`
+- **[i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV)** by **salvia palth** *(melanchole)* - `6 min ago`
+- **[Snowmen (feat. Bladee & Ecco2k)](https://open.spotify.com/track/5uu8ThZf9pjGlbxhx3RZyj)** by **Xavier Wulf, Bladee, Ecco2k** *(Greatest Hits, Pt. 1)* - `8 min ago`
+- **[Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)** by **Wir sind Helden** *(Die Reklamation)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 14:42:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 15:40:05 UTC*
 <!-- SPOTIFY-END -->
