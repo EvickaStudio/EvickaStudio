@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734fdd44ce094e6fa87e962355" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27349f012f675fef31fb4a2ad01" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C">Z&C</a></strong><br/>
-  <em>by</em> <strong>sparr00w, NANA LE VRAI</strong><br/>
-  <em>Album:</em> Save Room Theme
+  <strong><a href="https://open.spotify.com/track/2H9p0RfRWzxg1Id86ywATU">PRETTYLIES</a></strong><br/>
+  <em>by</em> <strong>hxly xo</strong><br/>
+  <em>Album:</em> Umbrae
 </p>
 
-<p align="center"><code>2:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:37</code></p>
+<p align="center"><code>0:13</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:12</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `2 min ago`
-- **[Gamer Girl](https://open.spotify.com/track/3eNAMJ9tVpOxaiCnttVdN9)** by **NovemberBoy** *(Gamer Girl)* - `7 min ago`
-- **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)* - `8 min ago`
-- **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)* - `11 min ago`
-- **[Champion God Level](https://open.spotify.com/track/3aujFAv6o9EhKOPJYnGlMg)** by **fliggsy** *(Champion God Level)* - `13 min ago`
+- **[All The Things She Said 2020 - Sub Sonik Remix](https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj)** by **DJ Gollum, Scarlet, Sub Sonik** *(All the Things She Said 2020 (Sub Sonik Remix))* - `just now`
+- **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)* - `3 min ago`
+- **[Zigaretten](https://open.spotify.com/track/5UsNld4QsXJrF3ID9lX8PY)** by **diamando, DeeLou** *(Zigaretten)* - `6 min ago`
+- **[YAKIMOTO BLISS](https://open.spotify.com/track/5lzDzpwQsmAwRXWBtGlrmS)** by **DJmegan23** *(YAKIMOTO BLISS)* - `8 min ago`
+- **[Psychic](https://open.spotify.com/track/2o0HBEggQAyXYcIk4ZRMvY)** by **WILDE** *(Psychic)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 13:51:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 14:42:45 UTC*
 <!-- SPOTIFY-END -->
