@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273674753c026f188eea01dca97" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K">Under Heaven</a></strong><br/>
-  <em>by</em> <strong>jonatan leandoer96</strong><br/>
-  <em>Album:</em> Under Heaven
-</p>
-
-<p align="center"><code>3:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:07</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)* - `3 min ago`
-- **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)* - `4 min ago`
-- **[ich hasse alles hier](https://open.spotify.com/track/51tVSCuPK6GyVWvlE3MDQR)** by **ilyproxy** *(ich hasse alles hier)* - `1 h ago`
-- **[It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl)** by **Rainbow Kitten Surprise** *(How to: Friend, Love, Freefall)* - `1 h ago`
-- **[mondlicht](https://open.spotify.com/track/73qEii0U8Y811FFda67aAk)** by **Tamino404** *(mondlicht)* - `1 h ago`
+- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `42 min ago`
+- **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)* - `44 min ago`
+- **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)* - `46 min ago`
+- **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)* - `48 min ago`
+- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)* - `52 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 18:29:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-09 19:22:08 UTC*
 <!-- SPOTIFY-END -->
