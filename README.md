@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[WHAT U THINK THIS IS](https://open.spotify.com/track/7pwFaJaPWcPtNzL4UcALjR)** by **444pluto, HAR$h** *(WHAT U THINK THIS IS)* - `23 min ago`
-- **[nightclub fantasies](https://open.spotify.com/track/75ZOJeBV1u5AW19tCbNLlG)** by **stixz, muli** *(nightclub fantasies)* - `25 min ago`
-- **[Sonne ausm Arsch](https://open.spotify.com/track/4dq5n8mD7SjsQtRPdG4fDI)** by **hqwilli** *(Sonne ausm Arsch)* - `27 min ago`
-- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `28 min ago`
-- **[HM](https://open.spotify.com/track/5h6N8TdDy5LfUlKGPOhm1N)** by **humanangst** *(HM)* - `31 min ago`
+- **[WHAT U THINK THIS IS](https://open.spotify.com/track/7pwFaJaPWcPtNzL4UcALjR)** by **444pluto, HAR$h** *(WHAT U THINK THIS IS)* - `1 h ago`
+- **[nightclub fantasies](https://open.spotify.com/track/75ZOJeBV1u5AW19tCbNLlG)** by **stixz, muli** *(nightclub fantasies)* - `1 h ago`
+- **[Sonne ausm Arsch](https://open.spotify.com/track/4dq5n8mD7SjsQtRPdG4fDI)** by **hqwilli** *(Sonne ausm Arsch)* - `1 h ago`
+- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `1 h ago`
+- **[HM](https://open.spotify.com/track/5h6N8TdDy5LfUlKGPOhm1N)** by **humanangst** *(HM)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 16:39:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 17:28:55 UTC*
 <!-- SPOTIFY-END -->
