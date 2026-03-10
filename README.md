@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395b966bddc0c81fa8253c27b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739462d7c09f9b10baa5a12cf0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7sMFTDZMZjLGjrowjxwTY5">Schwebebahn</a></strong><br/>
-  <em>by</em> <strong>Brown-Eyes White Boy</strong><br/>
-  <em>Album:</em> Schwebebahn
+  <strong><a href="https://open.spotify.com/track/6BetK8MievretVRvgEBEzh">Melodien 2</a></strong><br/>
+  <em>by</em> <strong>makko</strong><br/>
+  <em>Album:</em> Melodien 2
 </p>
 
-<p align="center"><code>0:53</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:18</code></p>
+<p align="center"><code>0:38</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102)](https://open.spotify.com/track/1BXzcQIefsxu65hENcPA6k)** by **102 Boyz, The Cratez, Chapo102, Skoob102, Stacks102** *(Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102))* - `just now`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `3 min ago`
-- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `6 min ago`
-- **[WHAT U THINK THIS IS](https://open.spotify.com/track/7pwFaJaPWcPtNzL4UcALjR)** by **444pluto, HAR$h** *(WHAT U THINK THIS IS)* - `3 h ago`
-- **[nightclub fantasies](https://open.spotify.com/track/75ZOJeBV1u5AW19tCbNLlG)** by **stixz, muli** *(nightclub fantasies)* - `3 h ago`
+- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)* - `just now`
+- **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)* - `2 min ago`
+- **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `4 min ago`
+- **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)* - `9 min ago`
+- **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 19:50:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 20:24:45 UTC*
 <!-- SPOTIFY-END -->
