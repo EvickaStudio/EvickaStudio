@@ -92,35 +92,43 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736cb14ff55adf5a9d4e0c8615" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b09dcbe5ea33c4738e01f83a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F">Atlantis</a></strong><br/>
-  <em>by</em> <strong>S1RENA</strong><br/>
-  <em>Album:</em> Atlantis
+  <strong><a href="https://open.spotify.com/track/6VCMa97WIhNB8oPp8dGct7">¾</a></strong><br/>
+  <em>by</em> <strong>b3nn3t</strong><br/>
+  <em>Album:</em> ¾
 </p>
 
-<p align="center"><code>0:37</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:21</code></p>
+<p align="center"><code>0:20</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `just now`
-- **[Missing Pieces](https://open.spotify.com/track/4Y7kSEgDsV4U4iPfbPqJX5)** by **Flawed Mangoes** *(The Unwavering Hand)* - `4 min ago`
-- **[Wonderful now but it's fast](https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha)** by **Anatole Muster, Juliana Chahayed** *(Wonderful now but it's fast)* - `7 min ago`
-- **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)* - `9 min ago`
-- **[Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)** by **Gehlektek, TakaTuka** *(Acid Pirate 13)* - `5 h ago`
+- **[Ballerin(Aa)](https://open.spotify.com/track/39dWCCBtWebyMsjV0z9qXw)** by **Psyke** *(Psyke London)* - `just now`
+- **[klk (feat. S1rena)](https://open.spotify.com/track/0AAznuKailQREBDRjEpjm5)** by **Mietze Conte, S1RENA** *(wufwufwuf)* - `2 min ago`
+- **[talk2me.](https://open.spotify.com/track/0qHWK9ZVbSpvkWCjLOnbZi)** by **elara, wasty, Clover!** *(talk2me.)* - `4 min ago`
+- **[TRILLIUM FUNK](https://open.spotify.com/track/2X0ScjFxu9TjXrk7dTlIqZ)** by **Sayfalse, S3RL** *(TRILLIUM FUNK)* - `6 min ago`
+- **[BETTER OFF A BASS SLXT (NIGHTCORE)](https://open.spotify.com/track/3RoKeVtwzpuBraZiRtOeMC)** by **Bandiicam, lavendr, Lil Witchy** *(BETTER OFF A BASS SLXT (NIGHTCORE))* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-> ⚠️ Could not fetch top artists: `HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/me/top/artists?time_range=short_term&limit=5&offset=0 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)"))`
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Spiritualized**](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yung Hurn**](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-> ⚠️ Could not fetch top tracks: `HTTPSConnectionPool(host='api.spotify.com', port=443): Max retries exceeded with url: /v1/me/top/tracks?time_range=short_term&limit=5&offset=0 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='api.spotify.com', port=443): Read timed out. (read timeout=5)"))`
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 14:42:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 15:43:08 UTC*
 <!-- SPOTIFY-END -->
