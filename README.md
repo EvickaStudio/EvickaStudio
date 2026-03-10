@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b09dcbe5ea33c4738e01f83a" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6VCMa97WIhNB8oPp8dGct7">¾</a></strong><br/>
-  <em>by</em> <strong>b3nn3t</strong><br/>
-  <em>Album:</em> ¾
-</p>
-
-<p align="center"><code>0:20</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:46</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ballerin(Aa)](https://open.spotify.com/track/39dWCCBtWebyMsjV0z9qXw)** by **Psyke** *(Psyke London)* - `just now`
-- **[klk (feat. S1rena)](https://open.spotify.com/track/0AAznuKailQREBDRjEpjm5)** by **Mietze Conte, S1RENA** *(wufwufwuf)* - `2 min ago`
-- **[talk2me.](https://open.spotify.com/track/0qHWK9ZVbSpvkWCjLOnbZi)** by **elara, wasty, Clover!** *(talk2me.)* - `4 min ago`
-- **[TRILLIUM FUNK](https://open.spotify.com/track/2X0ScjFxu9TjXrk7dTlIqZ)** by **Sayfalse, S3RL** *(TRILLIUM FUNK)* - `6 min ago`
-- **[BETTER OFF A BASS SLXT (NIGHTCORE)](https://open.spotify.com/track/3RoKeVtwzpuBraZiRtOeMC)** by **Bandiicam, lavendr, Lil Witchy** *(BETTER OFF A BASS SLXT (NIGHTCORE))* - `8 min ago`
+- **[WHAT U THINK THIS IS](https://open.spotify.com/track/7pwFaJaPWcPtNzL4UcALjR)** by **444pluto, HAR$h** *(WHAT U THINK THIS IS)* - `23 min ago`
+- **[nightclub fantasies](https://open.spotify.com/track/75ZOJeBV1u5AW19tCbNLlG)** by **stixz, muli** *(nightclub fantasies)* - `25 min ago`
+- **[Sonne ausm Arsch](https://open.spotify.com/track/4dq5n8mD7SjsQtRPdG4fDI)** by **hqwilli** *(Sonne ausm Arsch)* - `27 min ago`
+- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `28 min ago`
+- **[HM](https://open.spotify.com/track/5h6N8TdDy5LfUlKGPOhm1N)** by **humanangst** *(HM)* - `31 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 15:43:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 16:39:00 UTC*
 <!-- SPOTIFY-END -->
