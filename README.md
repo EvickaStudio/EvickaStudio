@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739462d7c09f9b10baa5a12cf0" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6BetK8MievretVRvgEBEzh">Melodien 2</a></strong><br/>
-  <em>by</em> <strong>makko</strong><br/>
-  <em>Album:</em> Melodien 2
-</p>
-
-<p align="center"><code>0:38</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:00</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)* - `just now`
-- **[tiefer schmerz... o_0](https://open.spotify.com/track/1btYzNffjRjFv3bZzxmjwZ)** by **luu** *(tiefer schmerz... o_0)* - `2 min ago`
-- **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `4 min ago`
-- **[cute](https://open.spotify.com/track/2lIgA9K81vmtQixhvPJZWL)** by **mikeycyrus** *(minicyrus)* - `9 min ago`
-- **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `11 min ago`
+- **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)* - `10 min ago`
+- **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)* - `13 min ago`
+- **[Dreamscape](https://open.spotify.com/track/5fp6m6Zo4LetiWaMMrPjy5)** by **009 Sound System** *(009 Sound System)* - `16 min ago`
+- **[Freister Mensch der Welt](https://open.spotify.com/track/7Hy3sA9m1lVVc3UFTEmqTw)** by **ENNIO** *(Freister Mensch der Welt)* - `21 min ago`
+- **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)* - `23 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 20:24:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-10 20:55:47 UTC*
 <!-- SPOTIFY-END -->
