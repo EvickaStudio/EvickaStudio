@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735994422098a31dafc2360e2e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4B9Jf0Z6zdInxuYcoNwUSk">Let It Shine for You</a></strong><br/>
-  <em>by</em> <strong>Bob Desper</strong><br/>
-  <em>Album:</em> New Sounds
+  <strong><a href="https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY">Cannock Chase</a></strong><br/>
+  <em>by</em> <strong>Labi Siffre</strong><br/>
+  <em>Album:</em> Crying Laughing Loving Lying
 </p>
 
-<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:54</code></p>
+<p align="center"><code>1:58</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>4:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `1 min ago`
-- **[Magdalena](https://open.spotify.com/track/0uNGes2hztgG5F3nVc10dH)** by **Danny O'Keefe** *(Breezy Stories)* - `2 min ago`
-- **[Waiting Here for You](https://open.spotify.com/track/05rDMweir5mTy6KBaoGe22)** by **Rab Noakes, Gerry Rafferty** *(Demos and Rarities Vol. 2 - Adventures with Gerry Rafferty)* - `6 min ago`
-- **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `9 min ago`
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `12 min ago`
+- **[Getting Ready for Tomorrow](https://open.spotify.com/track/6c5n0sdJOKGEOXUqc4toPv)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `1 min ago`
+- **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `4 min ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `6 min ago`
+- **[Islands](https://open.spotify.com/track/1IECa6z5xu8kKPT8TQukCV)** by **Danny O'Keefe** *(Danny O'Keefe Classics)* - `9 min ago`
+- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yung Hurn**](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 18:01:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 19:08:51 UTC*
 <!-- SPOTIFY-END -->
