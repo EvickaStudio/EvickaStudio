@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730a9da133d38ecdcb172fc8de" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5loArOOunzX0fe67nrbCDh">The Wonder</a></strong><br/>
-  <em>by</em> <strong>Cowboy</strong><br/>
-  <em>Album:</em> 5'll Getcha Ten
-</p>
-
-<p align="center"><code>2:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>4:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[You're Not The Only One I Know](https://open.spotify.com/track/3nbFVNHVYCMCdD9vBo3udv)** by **The Sundays** *(Reading Writing And Arithmetic)* - `2 min ago`
-- **[Same Old Place - 1976 Version](https://open.spotify.com/track/4qnYPkndQKEmfqhUpDJbCi)** by **Rab Noakes, Gerry Rafferty** *(Demos and Rarities Vol. 2 - Adventures with Gerry Rafferty)* - `6 min ago`
-- **[Give You My Lovin](https://open.spotify.com/track/7Gwi3AOnlyXkt6yJzU3BmM)** by **Mazzy Star** *(She Hangs Brightly)* - `9 min ago`
-- **[What it Takes to Make You Love Me](https://open.spotify.com/track/2nlnkxVCbqEwAVmi6xT7vW)** by **Art Lown** *(Piper Oz the Hound)* - `12 min ago`
-- **[Which Will](https://open.spotify.com/track/4Cg0paoTgxlo2LC85HKaab)** by **Nick Drake** *(Pink Moon)* - `14 min ago`
+- **[Dry up Those Tears](https://open.spotify.com/track/2WpTUDRtOUARZolD6Ur1QP)** by **Bob Desper** *(New Sounds)* - `17 min ago`
+- **[Hello It's Me - 2015 Remaster](https://open.spotify.com/track/0HYpjov7NpcnsyDuhxSRd1)** by **Todd Rundgren** *(Something / Anything?)* - `20 min ago`
+- **[The Warmth Of The Sun - Remastered](https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `24 min ago`
+- **[The Wonder](https://open.spotify.com/track/5loArOOunzX0fe67nrbCDh)** by **Cowboy** *(5'll Getcha Ten)* - `27 min ago`
+- **[You're Not The Only One I Know](https://open.spotify.com/track/3nbFVNHVYCMCdD9vBo3udv)** by **The Sundays** *(Reading Writing And Arithmetic)* - `31 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 23:17:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 23:46:54 UTC*
 <!-- SPOTIFY-END -->
