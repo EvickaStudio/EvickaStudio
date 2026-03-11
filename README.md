@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a4c1e55432782aad4cfd09fd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735994422098a31dafc2360e2e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW">Darlin' - Remastered 2001</a></strong><br/>
-  <em>by</em> <strong>The Beach Boys</strong><br/>
-  <em>Album:</em> Wild Honey (Remastered)
+  <strong><a href="https://open.spotify.com/track/64DtsVYwYzYeaon6wtCqjk">Lonely Man</a></strong><br/>
+  <em>by</em> <strong>Bob Desper</strong><br/>
+  <em>Album:</em> New Sounds
 </p>
 
-<p align="center"><code>0:15</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:14</code></p>
+<p align="center"><code>1:41</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[What I Want Is You](https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0)** by **Cowboy** *(5'll Getcha Ten)* - `just now`
-- **[I Just Can't Neglect You](https://open.spotify.com/track/6zw581XY0OYRbqRXYI5L2u)** by **Art Lown** *(Piper Oz the Hound)* - `3 min ago`
-- **[Sweet Surrender](https://open.spotify.com/track/4pxstwcAaMdSXpb5wx48VR)** by **Bread** *(Guitar Man)* - `5 min ago`
-- **[Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19)** by **Steely Dan** *(Can't Buy A Thrill)* - `8 min ago`
-- **[Let It Shine for You](https://open.spotify.com/track/4B9Jf0Z6zdInxuYcoNwUSk)** by **Bob Desper** *(New Sounds)* - `13 min ago`
+- **[My Song](https://open.spotify.com/track/2EQWbkcNoKPOXQtJM7nqRV)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `just now`
+- **[Bleed](https://open.spotify.com/track/6yR4gnNVG4RZQjmouHNmb2)** by **Dead Calm** *(Accept)* - `5 min ago`
+- **[Early Morning Rain](https://open.spotify.com/track/7GQz5rXS4ArE1LTMIYjbWc)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `8 min ago`
+- **[I Got a Name - Stereo Version](https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK)** by **Jim Croce** *(I Got a Name)* - `11 min ago`
+- **[Into the Mystic - 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6)** by **Van Morrison** *(Moondance)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 19:49:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 20:25:48 UTC*
 <!-- SPOTIFY-END -->
