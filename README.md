@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a4c1e55432782aad4cfd09fd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY">Cannock Chase</a></strong><br/>
-  <em>by</em> <strong>Labi Siffre</strong><br/>
-  <em>Album:</em> Crying Laughing Loving Lying
+  <strong><a href="https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW">Darlin' - Remastered 2001</a></strong><br/>
+  <em>by</em> <strong>The Beach Boys</strong><br/>
+  <em>Album:</em> Wild Honey (Remastered)
 </p>
 
-<p align="center"><code>1:58</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>4:06</code></p>
+<p align="center"><code>0:15</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Getting Ready for Tomorrow](https://open.spotify.com/track/6c5n0sdJOKGEOXUqc4toPv)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `1 min ago`
-- **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `4 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `6 min ago`
-- **[Islands](https://open.spotify.com/track/1IECa6z5xu8kKPT8TQukCV)** by **Danny O'Keefe** *(Danny O'Keefe Classics)* - `9 min ago`
-- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `13 min ago`
+- **[What I Want Is You](https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0)** by **Cowboy** *(5'll Getcha Ten)* - `just now`
+- **[I Just Can't Neglect You](https://open.spotify.com/track/6zw581XY0OYRbqRXYI5L2u)** by **Art Lown** *(Piper Oz the Hound)* - `3 min ago`
+- **[Sweet Surrender](https://open.spotify.com/track/4pxstwcAaMdSXpb5wx48VR)** by **Bread** *(Guitar Man)* - `5 min ago`
+- **[Do It Again](https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19)** by **Steely Dan** *(Can't Buy A Thrill)* - `8 min ago`
+- **[Let It Shine for You](https://open.spotify.com/track/4B9Jf0Z6zdInxuYcoNwUSk)** by **Bob Desper** *(New Sounds)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 19:08:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 19:49:14 UTC*
 <!-- SPOTIFY-END -->
