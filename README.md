@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735994422098a31dafc2360e2e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730ad254b97842007beeb281ab" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4B9Jf0Z6zdInxuYcoNwUSk">Let It Shine for You</a></strong><br/>
-  <em>by</em> <strong>Bob Desper</strong><br/>
-  <em>Album:</em> New Sounds
+  <strong><a href="https://open.spotify.com/track/0XSBQhKk0C7OWQFigo9VHD">The Valentine Pieces</a></strong><br/>
+  <em>by</em> <strong>Danny O'Keefe</strong><br/>
+  <em>Album:</em> O'Keefe
 </p>
 
-<p align="center"><code>2:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:54</code></p>
+<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `2 min ago`
-- **[Magdalena](https://open.spotify.com/track/0uNGes2hztgG5F3nVc10dH)** by **Danny O'Keefe** *(Breezy Stories)* - `3 min ago`
-- **[Waiting Here for You](https://open.spotify.com/track/05rDMweir5mTy6KBaoGe22)** by **Rab Noakes, Gerry Rafferty** *(Demos and Rarities Vol. 2 - Adventures with Gerry Rafferty)* - `7 min ago`
-- **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `10 min ago`
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `13 min ago`
+- **[All Away](https://open.spotify.com/track/2gEZ3n8VImtNHoT8AsdfHQ)** by **Rab Noakes, Gerry Rafferty** *(Demos and Rarities Vol. 2 - Adventures with Gerry Rafferty)* - `2 min ago`
+- **[Hello It's Me](https://open.spotify.com/track/2ckXnzyvgva2oE9FWjb405)** by **Todd Rundgren** *(The Very Best of Todd Rundgren)* - `6 min ago`
+- **[Darlin' - Remastered 2001](https://open.spotify.com/track/4BcAcEbp6j6luowfAliUfW)** by **The Beach Boys** *(Wild Honey (Remastered))* - `10 min ago`
+- **[What I Want Is You](https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0)** by **Cowboy** *(5'll Getcha Ten)* - `12 min ago`
+- **[I Just Can't Neglect You](https://open.spotify.com/track/6zw581XY0OYRbqRXYI5L2u)** by **Art Lown** *(Piper Oz the Hound)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 21:26:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 21:53:50 UTC*
 <!-- SPOTIFY-END -->
