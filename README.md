@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737c03a760a734dd4262835f4d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6AMKMSkHyzBE7D1T7uX3rI">Bluebird</a></strong><br/>
-  <em>by</em> <strong>Alan Hawkshaw</strong><br/>
-  <em>Album:</em> Kpm 1000 Series: Happy Rainbows
+  <strong><a href="https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb">Heart of Gold</a></strong><br/>
+  <em>by</em> <strong>Neil Young</strong><br/>
+  <em>Album:</em> Harvest (50th Anniversary Edition)
 </p>
 
-<p align="center"><code>1:07</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:20</code></p>
+<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Volare (Nel Blu di Pinto di Blu)](https://open.spotify.com/track/4OjJAGDDZTLlTNeOMBl7UM)** by **Gipsy Kings** *(Mosaïque)* - `3 min ago`
-- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `6 min ago`
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `12 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `15 min ago`
-- **[Lost in Your Eyes](https://open.spotify.com/track/1XyWR4W4RW6sIlVZCRIf9i)** by **Tommy James & The Shondells** *(Gettin' Together)* - `18 min ago`
+- **[(Till I) Run With You](https://open.spotify.com/track/7JNR1RWQ5aAgLVcPPmHuqA)** by **The Lovin' Spoonful** *(Revelation: Revolution '69)* - `just now`
+- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))* - `2 min ago`
+- **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `6 min ago`
+- **[Thankful](https://open.spotify.com/track/6H2WpyqvAUFWWbZ6UTXF6O)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `8 min ago`
+- **[Please Let Me Wonder - Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7)** by **The Beach Boys** *(The Beach Boys Today! (Remastered))* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 11:34:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 11:59:56 UTC*
 <!-- SPOTIFY-END -->
