@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27352d209256072e7ec621c9c16" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739866f83629f29c777e667e9e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1rioQG2heHKrIeSuwD89Rn">ich wach auf und denk an dich</a></strong><br/>
-  <em>by</em> <strong>5star</strong><br/>
-  <em>Album:</em> ich wach auf und denk an dich
+  <strong><a href="https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS">flirting with death</a></strong><br/>
+  <em>by</em> <strong>DJmegan23</strong><br/>
+  <em>Album:</em> sound-proofed wilderness
 </p>
 
-<p align="center"><code>0:09</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:13</code></p>
+<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj)** by **Juice WRLD** *(Legends Never Die)* - `just now`
-- **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))* - `2 min ago`
-- **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)* - `5 min ago`
-- **[It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl)** by **Rainbow Kitten Surprise** *(How to: Friend, Love, Freefall)* - `9 min ago`
-- **[Ponny](https://open.spotify.com/track/4hpiu5gL0eZxjynnGmrP0A)** by **Yung Hurn** *(Y)* - `11 min ago`
+- **[SIE LIEBT NUR DIE DRUGS](https://open.spotify.com/track/67jbhWvRZ7nF1jegDiF0F9)** by **Laer Xirtam** *(ALTER EGO)* - `just now`
+- **[Keine Zeit](https://open.spotify.com/track/3MSa2px9WWdZPPDsHyHeX4)** by **Edwin Rosen** *(Die Sterne)* - `1 min ago`
+- **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)* - `4 min ago`
+- **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)* - `6 min ago`
+- **[you look lonely](https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f)** by **Aaron Hibell** *(Twilight Zone)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 16:00:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 17:08:42 UTC*
 <!-- SPOTIFY-END -->
