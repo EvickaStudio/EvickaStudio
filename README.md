@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bde8dfd1922129f3d9e3732f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f0466976cf93de14deeb6a3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP">God Only Knows</a></strong><br/>
-  <em>by</em> <strong>The Beach Boys</strong><br/>
-  <em>Album:</em> Pet Sounds (Original Mono & Stereo Mix)
+  <strong><a href="https://open.spotify.com/track/6H2WpyqvAUFWWbZ6UTXF6O">Thankful</a></strong><br/>
+  <em>by</em> <strong>Neil Young, neil young and the chrome hearts</strong><br/>
+  <em>Album:</em> Talkin to the Trees
 </p>
 
-<p align="center"><code>1:33</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:54</code></p>
+<p align="center"><code>2:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `1 min ago`
-- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `2 min ago`
-- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `5 min ago`
-- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `9 min ago`
-- **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)* - `9 min ago`
+- **[Please Let Me Wonder - Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7)** by **The Beach Boys** *(The Beach Boys Today! (Remastered))* - `2 min ago`
+- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `4 min ago`
+- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `8 min ago`
+- **[mitleerenhänden](https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3)** by **Edwin Rosen** *(mitleerenhänden)* - `12 min ago`
+- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**behave**](https://open.spotify.com/track/0izQoxeSBSzGm4FgefK1br)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Fantasy**](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 10:04:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 10:58:53 UTC*
 <!-- SPOTIFY-END -->
