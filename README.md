@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273db0caaa2b01471d6068053a8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8">Old Man</a></strong><br/>
-  <em>by</em> <strong>Neil Young</strong><br/>
-  <em>Album:</em> Harvest (50th Anniversary Edition)
+  <strong><a href="https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw">My My, Hey Hey (Out of the Blue) - 2016 Remaster</a></strong><br/>
+  <em>by</em> <strong>Neil Young, Crazy Horse</strong><br/>
+  <em>Album:</em> Rust Never Sleeps
 </p>
 
-<p align="center"><code>1:20</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:24</code></p>
+<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Saw the Light - 2015 Remaster](https://open.spotify.com/track/0lHZqyRXGbuXGF7Ba4aH4M)** by **Todd Rundgren** *(Something / Anything?)* - `1 min ago`
-- **[The World Is Crying out for Love](https://open.spotify.com/track/2UrZ40rtEboczYzX0WjgfL)** by **Bob Desper** *(New Sounds)* - `3 min ago`
-- **[Crying Laughing Loving Lying (From "The Holdovers")](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `6 min ago`
-- **[Jemma](https://open.spotify.com/track/71FErTFQsI42FagahV3yDR)** by **Dead Calm** *(Accept)* - `9 min ago`
-- **[Little Green Apples](https://open.spotify.com/track/4AGapwTVJn5t8PEMJsWMRu)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `11 min ago`
+- **[In My Room - Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `1 min ago`
+- **[The Willow Tree](https://open.spotify.com/track/3h1ooUSQRS5KyzzsZ3zJh2)** by **Cleveland Francis** *(Beyond the Willow Tree)* - `3 min ago`
+- **[Idle I'm - Colorama Coloured In Remix](https://open.spotify.com/track/6ajfyxyUZ3dECuKi04vaR3)** by **John Stammers, Colorama Coloured In, Colorama Coloured In Remix** *(Idle I'm (The Band Version) / Your Good Is as Guess as Mine (Colorama Coloured In Remix))* - `7 min ago`
+- **[She's All I See](https://open.spotify.com/track/2e1ZWqSBYlA5uGpEQ1VlDO)** by **Rab Noakes, Richard Brunton, Steve Whalley** *(Demos and Rarities Vol. 2 - Adventures with Gerry Rafferty)* - `10 min ago`
+- **[Place To Be](https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF)** by **Nick Drake** *(Pink Moon)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 22:20:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 22:47:10 UTC*
 <!-- SPOTIFY-END -->
