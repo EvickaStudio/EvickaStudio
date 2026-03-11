@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf870840227ff8f8af84705e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27352d209256072e7ec621c9c16" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2SBPSEUgaqqKAsVzOEbC1Z">Birdsong</a></strong><br/>
-  <em>by</em> <strong>Flawed Mangoes</strong><br/>
-  <em>Album:</em> Killswitch Melodies
+  <strong><a href="https://open.spotify.com/track/1rioQG2heHKrIeSuwD89Rn">ich wach auf und denk an dich</a></strong><br/>
+  <em>by</em> <strong>5star</strong><br/>
+  <em>Album:</em> ich wach auf und denk an dich
 </p>
 
-<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:57</code></p>
+<p align="center"><code>0:09</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[California](https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei)** by **Delta Spirit** *(Delta Spirit)* - `1 min ago`
-- **[Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)** by **Sewerslvt** *(Draining Love Story)* - `5 min ago`
-- **[going quietly - sped up](https://open.spotify.com/track/5nZxjCC9edqvv8dxrXAFBq)** by **Ezekiel, sped up + nightcore** *(going quietly (sped up))* - `11 min ago`
-- **[Silhouette](https://open.spotify.com/track/0Tj6yD6mdxwLhNxxZSSXeV)** by **Elusin** *(Silhouette)* - `14 min ago`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `17 min ago`
+- **[Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj)** by **Juice WRLD** *(Legends Never Die)* - `just now`
+- **[Smile - Bass](https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj)** by **Eera, DJH** *(Smile (Bass))* - `2 min ago`
+- **[NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf)** by **Tyler, The Creator** *(IGOR)* - `5 min ago`
+- **[It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl)** by **Rainbow Kitten Surprise** *(How to: Friend, Love, Freefall)* - `9 min ago`
+- **[Ponny](https://open.spotify.com/track/4hpiu5gL0eZxjynnGmrP0A)** by **Yung Hurn** *(Y)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yung Hurn**](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 15:03:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-11 16:00:23 UTC*
 <!-- SPOTIFY-END -->
