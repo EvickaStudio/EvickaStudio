@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730a9da133d38ecdcb172fc8de" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/69Kzq3FMkDwiSFBQzRckFD">This Night Has Opened My Eyes - 2011 Remaster</a></strong><br/>
-  <em>by</em> <strong>The Smiths</strong><br/>
-  <em>Album:</em> Hatful of Hollow
+  <strong><a href="https://open.spotify.com/track/23HDfo078lsecibVUxUc6d">5'll Getcha Ten</a></strong><br/>
+  <em>by</em> <strong>Cowboy</strong><br/>
+  <em>Album:</em> 5'll Getcha Ten
 </p>
 
-<p align="center"><code>1:54</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:41</code></p>
+<p align="center"><code>0:36</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Got The... - 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW)** by **Labi Siffre** *(Remember My Song)* - `11 min ago`
-- **[The Chosen One](https://open.spotify.com/track/1O6ErSqInuo4E7mHi2qGpL)** by **Bread** *(Lost Without Your Love)* - `17 min ago`
-- **[Baby Blue](https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj)** by **King Krule** *(6 Feet Beneath the Moon)* - `22 min ago`
-- **[One Of These Things First](https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN)** by **Nick Drake** *(Bryter Layter)* - `26 min ago`
-- **[In the Kingdom](https://open.spotify.com/track/0hCjDPhl5JbFpYbrlebXvB)** by **Mazzy Star** *(Seasons of Your Day)* - `30 min ago`
+- **[Back to the Old House - John Peel Session 14/09/83](https://open.spotify.com/track/62v1MU1PFXL6AUTyST8PJU)** by **The Smiths** *(Hatful of Hollow)* - `just now`
+- **[Back to the Old House - John Peel Session 14/09/83](https://open.spotify.com/track/62v1MU1PFXL6AUTyST8PJU)** by **The Smiths** *(Hatful of Hollow)* - `3 min ago`
+- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `8 min ago`
+- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `11 min ago`
+- **[Here's Where the Story Ends](https://open.spotify.com/track/5gSHlT2SI0dtjeHrjj96A1)** by **The Sundays** *(Reading Writing And Arithmetic)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 10:04:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 10:58:30 UTC*
 <!-- SPOTIFY-END -->
