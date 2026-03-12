@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734ce5c493f13bfb11a6b9a98c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd">Look On Down From The Bridge</a></strong><br/>
-  <em>by</em> <strong>Mazzy Star</strong><br/>
-  <em>Album:</em> Among My Swan
+  <strong><a href="https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN">Setting Sun</a></strong><br/>
+  <em>by</em> <strong>You'll Never Get to Heaven</strong><br/>
+  <em>Album:</em> Wave Your Moonlight Hat For The Snowfall Train
 </p>
 
-<p align="center"><code>0:44</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>4:47</code></p>
+<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)* - `just now`
-- **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)* - `5 min ago`
-- **[#19](https://open.spotify.com/track/6gBbPTmT3qveiYpqAYvYJH)** by **Aphex Twin** *(Selected Ambient Works Volume II (Expanded Edition))* - `9 min ago`
-- **[Wildflower](https://open.spotify.com/track/1zampxUEvQWKx1nE2OvwQ6)** by **Beach House** *(Depression Cherry)* - `15 min ago`
-- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `19 min ago`
+- **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)* - `1 min ago`
+- **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)* - `4 min ago`
+- **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)* - `8 min ago`
+- **[Weird Fishes / Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S)** by **Radiohead** *(In Rainbows)* - `11 min ago`
+- **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 22:17:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 22:50:07 UTC*
 <!-- SPOTIFY-END -->
