@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732bd47f21d91171bced3f5583" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b642af238927dd4cf465d8a4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7rb3D9Vex66Fm9yh0JKauU">Both Sides Now</a></strong><br/>
-  <em>by</em> <strong>Cleveland Francis</strong><br/>
-  <em>Album:</em> Beyond the Willow Tree
+  <strong><a href="https://open.spotify.com/track/14g6foD6sxO1qgkDKuPgWv">Swingin Party - 2008 Remaster</a></strong><br/>
+  <em>by</em> <strong>The Replacements</strong><br/>
+  <em>Album:</em> Tim (Expanded)
 </p>
 
-<p align="center"><code>2:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:19</code></p>
+<p align="center"><code>1:56</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Your Summer Dream - Remastered 2001](https://open.spotify.com/track/7ncP01goIb9GbhjZaVahdI)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `2 min ago`
-- **[Operator (That's Not the Way It Feels)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `5 min ago`
-- **[Dirty Work](https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH)** by **Steely Dan** *(Can't Buy A Thrill)* - `8 min ago`
-- **[Tell Me Why](https://open.spotify.com/track/6wfGrC6Vr7xBWxiEoIjvUh)** by **Neil Young** *(After the Gold Rush (2009 Remaster))* - `12 min ago`
-- **[Last Night Tonight](https://open.spotify.com/track/2JwwCsp5MwHV8JfDY3TAB3)** by **Labi Siffre** *(Labi Siffre (Deluxe Edition))* - `15 min ago`
+- **[Natural Beauty](https://open.spotify.com/track/3YAjmfGS33Z0cLwwBTpoYb)** by **Neil Young** *(Harvest Moon)* - `1 min ago`
+- **[Somesay](https://open.spotify.com/track/7FcwlImuJKJiBJUhRmrcc9)** by **Labi Siffre** *(For the Children (Deluxe Edition))* - `12 min ago`
+- **[Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5)** by **Steely Dan** *(Can't Buy A Thrill)* - `15 min ago`
+- **[Flight of Pegasus](https://open.spotify.com/track/5sf7PvyocWRkjtfLdMXa6x)** by **Michael Angelo** *(Michael Angelo)* - `18 min ago`
+- **[Sweeter Memories - 2015 Remaster](https://open.spotify.com/track/0udO4J9R1mkDHzza2gCkJl)** by **Todd Rundgren** *(Something / Anything?)* - `22 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 11:56:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 12:54:07 UTC*
 <!-- SPOTIFY-END -->
