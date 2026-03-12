@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bd8b0af490f57ec1e55513cf" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736d965be72ad1bceb7f2bd089" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa">I'm So Tired</a></strong><br/>
-  <em>by</em> <strong>Fugazi</strong><br/>
-  <em>Album:</em> Instrument Soundtrack
+  <strong><a href="https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb">I Won't Share You - 2011 Remaster</a></strong><br/>
+  <em>by</em> <strong>The Smiths</strong><br/>
+  <em>Album:</em> Strangeways, Here We Come
 </p>
 
-<p align="center"><code>1:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>1:58</code></p>
+<p align="center"><code>2:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2)** by **Linda Perhacs** *(Parallelograms)* - `1 min ago`
-- **[Accept Yourself - David Jensen Session 25/08/83](https://open.spotify.com/track/1PhnGug15WBUZZUEp7DDY8)** by **The Smiths** *(Hatful of Hollow)* - `4 min ago`
-- **[You and Me](https://open.spotify.com/track/6z6WdQ6ODxd2WZdjXfHJ4B)** by **Neil Young** *(Harvest Moon)* - `8 min ago`
-- **[No Name #3](https://open.spotify.com/track/2AqFIGyQtszt9poExltU59)** by **Elliott Smith** *(Roman Candle)* - `12 min ago`
-- **[Border Line](https://open.spotify.com/track/04CwADpo37TwnwqQLskoo5)** by **King Krule** *(6 Feet Beneath the Moon)* - `15 min ago`
+- **[On the Beach - 2016 Remaster](https://open.spotify.com/track/1Y8L4hT9CDJH6ROK2XGxgO)** by **Neil Young** *(On the Beach)* - `2 min ago`
+- **[Waltz #2 (XO)](https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI)** by **Elliott Smith** *(XO)* - `9 min ago`
+- **[Slush Puppy](https://open.spotify.com/track/7jVXopSLnC0GIygpsLGevM)** by **King Krule** *(The OOZ)* - `14 min ago`
+- **[Rilkean Heart](https://open.spotify.com/track/1oNfCMHwcVQtQPwpBqj49O)** by **Cocteau Twins** *(Milk & Kisses)* - `17 min ago`
+- **[Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl)** by **Hope Sandoval & The Warm Inventions** *(Bavarian Fruit Bread)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 14:46:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 15:51:12 UTC*
 <!-- SPOTIFY-END -->
