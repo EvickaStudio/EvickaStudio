@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732bd47f21d91171bced3f5583" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs">These Days</a></strong><br/>
-  <em>by</em> <strong>Nico</strong><br/>
-  <em>Album:</em> Chelsea Girl
+  <strong><a href="https://open.spotify.com/track/7rb3D9Vex66Fm9yh0JKauU">Both Sides Now</a></strong><br/>
+  <em>by</em> <strong>Cleveland Francis</strong><br/>
+  <em>Album:</em> Beyond the Willow Tree
 </p>
 
-<p align="center"><code>1:30</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:30</code></p>
+<p align="center"><code>2:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[5'll Getcha Ten](https://open.spotify.com/track/23HDfo078lsecibVUxUc6d)** by **Cowboy** *(5'll Getcha Ten)* - `1 min ago`
-- **[Back to the Old House - John Peel Session 14/09/83](https://open.spotify.com/track/62v1MU1PFXL6AUTyST8PJU)** by **The Smiths** *(Hatful of Hollow)* - `6 min ago`
-- **[These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs)** by **Nico** *(Chelsea Girl)* - `9 min ago`
-- **[5'll Getcha Ten](https://open.spotify.com/track/23HDfo078lsecibVUxUc6d)** by **Cowboy** *(5'll Getcha Ten)* - `29 min ago`
-- **[Back to the Old House - John Peel Session 14/09/83](https://open.spotify.com/track/62v1MU1PFXL6AUTyST8PJU)** by **The Smiths** *(Hatful of Hollow)* - `34 min ago`
+- **[Your Summer Dream - Remastered 2001](https://open.spotify.com/track/7ncP01goIb9GbhjZaVahdI)** by **The Beach Boys** *(Surfer Girl (Remastered))* - `2 min ago`
+- **[Operator (That's Not the Way It Feels)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `5 min ago`
+- **[Dirty Work](https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH)** by **Steely Dan** *(Can't Buy A Thrill)* - `8 min ago`
+- **[Tell Me Why](https://open.spotify.com/track/6wfGrC6Vr7xBWxiEoIjvUh)** by **Neil Young** *(After the Gold Rush (2009 Remaster))* - `12 min ago`
+- **[Last Night Tonight](https://open.spotify.com/track/2JwwCsp5MwHV8JfDY3TAB3)** by **Labi Siffre** *(Labi Siffre (Deluxe Edition))* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 11:32:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 11:56:59 UTC*
 <!-- SPOTIFY-END -->
