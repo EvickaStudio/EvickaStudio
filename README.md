@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dry up Those Tears](https://open.spotify.com/track/2WpTUDRtOUARZolD6Ur1QP)** by **Bob Desper** *(New Sounds)* - `5 h ago`
-- **[Hello It's Me - 2015 Remaster](https://open.spotify.com/track/0HYpjov7NpcnsyDuhxSRd1)** by **Todd Rundgren** *(Something / Anything?)* - `5 h ago`
-- **[The Warmth Of The Sun - Remastered](https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `5 h ago`
-- **[The Wonder](https://open.spotify.com/track/5loArOOunzX0fe67nrbCDh)** by **Cowboy** *(5'll Getcha Ten)* - `5 h ago`
-- **[You're Not The Only One I Know](https://open.spotify.com/track/3nbFVNHVYCMCdD9vBo3udv)** by **The Sundays** *(Reading Writing And Arithmetic)* - `5 h ago`
+- **[Dry up Those Tears](https://open.spotify.com/track/2WpTUDRtOUARZolD6Ur1QP)** by **Bob Desper** *(New Sounds)* - `6 h ago`
+- **[Hello It's Me - 2015 Remaster](https://open.spotify.com/track/0HYpjov7NpcnsyDuhxSRd1)** by **Todd Rundgren** *(Something / Anything?)* - `6 h ago`
+- **[The Warmth Of The Sun - Remastered](https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `6 h ago`
+- **[The Wonder](https://open.spotify.com/track/5loArOOunzX0fe67nrbCDh)** by **Cowboy** *(5'll Getcha Ten)* - `6 h ago`
+- **[You're Not The Only One I Know](https://open.spotify.com/track/3nbFVNHVYCMCdD9vBo3udv)** by **The Sundays** *(Reading Writing And Arithmetic)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 05:06:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 06:04:49 UTC*
 <!-- SPOTIFY-END -->
