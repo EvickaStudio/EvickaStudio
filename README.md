@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ae2d05d9a2b6a2fbac907eae" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2DcEfiRPwcpdm55mctCHUE">Starting Over</a></strong><br/>
-  <em>by</em> <strong>LSD and the Search for God</strong><br/>
-  <em>Album:</em> LSD and the Search for God
+  <strong><a href="https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd">Look On Down From The Bridge</a></strong><br/>
+  <em>by</em> <strong>Mazzy Star</strong><br/>
+  <em>Album:</em> Among My Swan
 </p>
 
-<p align="center"><code>4:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>5:04</code></p>
+<p align="center"><code>0:44</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>4:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `4 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `12 min ago`
-- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `15 min ago`
-- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `18 min ago`
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `23 min ago`
+- **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)* - `just now`
+- **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)* - `5 min ago`
+- **[#19](https://open.spotify.com/track/6gBbPTmT3qveiYpqAYvYJH)** by **Aphex Twin** *(Selected Ambient Works Volume II (Expanded Edition))* - `9 min ago`
+- **[Wildflower](https://open.spotify.com/track/1zampxUEvQWKx1nE2OvwQ6)** by **Beach House** *(Depression Cherry)* - `15 min ago`
+- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 21:46:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 22:17:04 UTC*
 <!-- SPOTIFY-END -->
