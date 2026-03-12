@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731cb0fd0c202d8057e8fde1f0" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0AAznuKailQREBDRjEpjm5">klk (feat. S1rena)</a></strong><br/>
+  <em>by</em> <strong>Mietze Conte, S1RENA</strong><br/>
+  <em>Album:</em> wufwufwuf
+</p>
+
+<p align="center"><code>0:43</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `2 min ago`
-- **[These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs)** by **Nico** *(Chelsea Girl)* - `5 min ago`
-- **[Please Let Me Wonder - Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7)** by **The Beach Boys** *(The Beach Boys Today! (Remastered))* - `8 min ago`
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `11 min ago`
-- **[Baby Blue](https://open.spotify.com/track/1RRBuxXdsIB0yazqGDlKTj)** by **King Krule** *(6 Feet Beneath the Moon)* - `12 min ago`
+- **[TRILLIUM FUNK](https://open.spotify.com/track/2X0ScjFxu9TjXrk7dTlIqZ)** by **Sayfalse, S3RL** *(TRILLIUM FUNK)* - `just now`
+- **[LOSE CONTROL](https://open.spotify.com/track/0IEpTTqDWoVGqlQ4aXVaSm)** by **p6inkillr** *(LOSE CONTROL)* - `2 min ago`
+- **[No Limit](https://open.spotify.com/track/0cr6y5Q9f6jGj56wVNmeID)** by **DJmegan23** *(No Limit)* - `4 min ago`
+- **[GELD / LIEBE](https://open.spotify.com/track/63a7oEN2Riu0MhUe9Bv7BX)** by **mikeycyrus** *(MIKEY)* - `6 min ago`
+- **[YOUVSME](https://open.spotify.com/track/0ZYglVayHTHhwsBZgg1z6a)** by **5v, olus** *(Bad Intentions)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 20:34:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 21:03:48 UTC*
 <!-- SPOTIFY-END -->
