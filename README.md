@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730db3901606954f424070ff01" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e7cb1429534f0d21133b714" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19">Futile Devices (Doveman Remix)</a></strong><br/>
-  <em>by</em> <strong>Sufjan Stevens</strong><br/>
-  <em>Album:</em> Call Me By Your Name (Original Motion Picture Soundtrack)
+  <strong><a href="https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK">A Mi Manera (Comme D'Habitude)</a></strong><br/>
+  <em>by</em> <strong>Gipsy Kings</strong><br/>
+  <em>Album:</em> Gipsy Kings
 </p>
 
-<p align="center"><code>0:16</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:15</code></p>
+<p align="center"><code>2:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp)** by **Dean Blunt, Elias Rønnenfelt** *(lucre)* - `just now`
-- **[Pretty Girls Make Graves - 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO)** by **The Smiths** *(The Smiths)* - `2 min ago`
-- **[Frou-frou Foxes in Midsummer Fires](https://open.spotify.com/track/6i18oi8cbvlv9Y2QVBSzkB)** by **Cocteau Twins** *(Heaven or Las Vegas)* - `6 min ago`
-- **[Thrasher - 2016 Remaster](https://open.spotify.com/track/5vqPaQXtqPtLolcDPcWuWH)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `11 min ago`
-- **[Neptune Estate](https://open.spotify.com/track/2HKt5ARoVnz1BJo5heFjs5)** by **King Krule** *(6 Feet Beneath the Moon)* - `17 min ago`
+- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `2 min ago`
+- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `5 min ago`
+- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `7 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `7 min ago`
+- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 17:42:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 18:31:29 UTC*
 <!-- SPOTIFY-END -->
