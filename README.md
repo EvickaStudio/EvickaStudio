@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb">Heart of Gold</a></strong><br/>
+  <em>by</em> <strong>Neil Young</strong><br/>
+  <em>Album:</em> Harvest (50th Anniversary Edition)
+</p>
+
+<p align="center"><code>0:38</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dry up Those Tears](https://open.spotify.com/track/2WpTUDRtOUARZolD6Ur1QP)** by **Bob Desper** *(New Sounds)* - `6 h ago`
-- **[Hello It's Me - 2015 Remaster](https://open.spotify.com/track/0HYpjov7NpcnsyDuhxSRd1)** by **Todd Rundgren** *(Something / Anything?)* - `6 h ago`
-- **[The Warmth Of The Sun - Remastered](https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `6 h ago`
-- **[The Wonder](https://open.spotify.com/track/5loArOOunzX0fe67nrbCDh)** by **Cowboy** *(5'll Getcha Ten)* - `6 h ago`
-- **[You're Not The Only One I Know](https://open.spotify.com/track/3nbFVNHVYCMCdD9vBo3udv)** by **The Sundays** *(Reading Writing And Arithmetic)* - `6 h ago`
+- **[Don't Worry Baby - Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5)** by **The Beach Boys** *(Shut Down, Vol. 2 (Remastered))* - `just now`
+- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `2 min ago`
+- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `5 min ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `8 min ago`
+- **[Dry up Those Tears](https://open.spotify.com/track/2WpTUDRtOUARZolD6Ur1QP)** by **Bob Desper** *(New Sounds)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 06:04:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 07:11:51 UTC*
 <!-- SPOTIFY-END -->
