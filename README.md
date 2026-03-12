@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273bd8b0af490f57ec1e55513cf" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7pfqtkZsNheOoDziqquDT3">Five String Serenade</a></strong><br/>
-  <em>by</em> <strong>Mazzy Star</strong><br/>
-  <em>Album:</em> So Tonight That I Might See
+  <strong><a href="https://open.spotify.com/track/6JgHKt0WwdwlXIht6M0mqa">I'm So Tired</a></strong><br/>
+  <em>by</em> <strong>Fugazi</strong><br/>
+  <em>Album:</em> Instrument Soundtrack
 </p>
 
-<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:24</code></p>
+<p align="center"><code>1:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>1:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[From Hank to Hendrix](https://open.spotify.com/track/2ymsEqiCJkQQsQRt66urxL)** by **Neil Young** *(Harvest Moon)* - `1 min ago`
-- **[Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx)** by **Elliott Smith** *(Either/Or)* - `7 min ago`
-- **[Flimsier](https://open.spotify.com/track/6IXan50zp9ZEdtkF0vsFAj)** by **King Krule** *(Space Heavy)* - `9 min ago`
-- **[Unloveable - 2017 Master](https://open.spotify.com/track/14WNN9XlshGSckMBNcP6Ez)** by **The Smiths** *(The Queen Is Dead (Deluxe Edition))* - `13 min ago`
-- **[Parasite](https://open.spotify.com/track/2tlhnUxHtYDqu0i9KIraUu)** by **Nick Drake** *(Pink Moon)* - `17 min ago`
+- **[Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2)** by **Linda Perhacs** *(Parallelograms)* - `1 min ago`
+- **[Accept Yourself - David Jensen Session 25/08/83](https://open.spotify.com/track/1PhnGug15WBUZZUEp7DDY8)** by **The Smiths** *(Hatful of Hollow)* - `4 min ago`
+- **[You and Me](https://open.spotify.com/track/6z6WdQ6ODxd2WZdjXfHJ4B)** by **Neil Young** *(Harvest Moon)* - `8 min ago`
+- **[No Name #3](https://open.spotify.com/track/2AqFIGyQtszt9poExltU59)** by **Elliott Smith** *(Roman Candle)* - `12 min ago`
+- **[Border Line](https://open.spotify.com/track/04CwADpo37TwnwqQLskoo5)** by **King Krule** *(6 Feet Beneath the Moon)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 13:57:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 14:46:38 UTC*
 <!-- SPOTIFY-END -->
