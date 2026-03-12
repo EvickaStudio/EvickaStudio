@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bb0514c406737cc241ffca62" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a2507ac7f34640ac11b3f31b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0uNGes2hztgG5F3nVc10dH">Magdalena</a></strong><br/>
-  <em>by</em> <strong>Danny O'Keefe</strong><br/>
-  <em>Album:</em> Breezy Stories
+  <strong><a href="https://open.spotify.com/track/4nRhbx8L4ifnMKaE5jSQGR">Only Love Can Break Your Heart</a></strong><br/>
+  <em>by</em> <strong>Neil Young</strong><br/>
+  <em>Album:</em> After the Gold Rush (2009 Remaster)
 </p>
 
-<p align="center"><code>4:15</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:34</code></p>
+<p align="center"><code>0:40</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Blue Light](https://open.spotify.com/track/3BdHMOIA9B0bN53jbE5nWe)** by **Mazzy Star** *(So Tonight That I Might See)* - `7 min ago`
-- **[Life Goes On](https://open.spotify.com/track/6st8aj6PmtqGctnLAat95M)** by **The Sundays** *(Cry)* - `11 min ago`
-- **[Shooting Star](https://open.spotify.com/track/4rgmJdswefN0Mrjhi3pTaB)** by **Danny O'Keefe** *(O'Keefe)* - `15 min ago`
-- **[Out on the Weekend](https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `18 min ago`
-- **[Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC)** by **Nick Drake** *(Pink Moon)* - `22 min ago`
+- **[Hot and Dirty in the City - 2006 Remaster](https://open.spotify.com/track/2xrxYSteGfxNUfUROIgPFn)** by **Labi Siffre** *(Remember My Song)* - `just now`
+- **[Make It with You](https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy)** by **Bread** *(On the Waters)* - `3 min ago`
+- **[Angel Spread Your Wings](https://open.spotify.com/track/4WnT99QL8crNiwWBQzjK39)** by **Danny O'Keefe** *(Breezy Stories)* - `7 min ago`
+- **[Hazey Jane II](https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh)** by **Nick Drake** *(Bryter Layter)* - `10 min ago`
+- **[River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k)** by **Nick Drake** *(Five Leaves Left)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 08:33:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-12 09:26:12 UTC*
 <!-- SPOTIFY-END -->
