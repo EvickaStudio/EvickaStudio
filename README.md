@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d164cb5cb9804b3fc44d587c" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh">desire machine</a></strong><br/>
+  <em>by</em> <strong>spirit blue</strong><br/>
+  <em>Album:</em> ps / dm
+</p>
+
+<p align="center"><code>2:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Setting Sun](https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN)** by **You'll Never Get to Heaven** *(Wave Your Moonlight Hat For The Snowfall Train)* - `10 min ago`
-- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `42 min ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `44 min ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `47 min ago`
-- **[Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA)** by **Charli xcx** *(Wuthering Heights)* - `51 min ago`
+- **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)* - `2 min ago`
+- **[Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv)** by **Chanel Beads** *(Your Day Will Come)* - `4 min ago`
+- **[Lies in the Eyes of Love](https://open.spotify.com/track/5JQuDFh7QKTjJDoEQAmaO8)** by **Part Time** *(Lies in the Eyes of Love)* - `6 min ago`
+- **[Warmpop](https://open.spotify.com/track/0Ubp7kMZ6MWZIL8qkloYub)** by **ESPRIT 空想, George Clanton** *(200% Electronica)* - `9 min ago`
+- **[Setting Sun](https://open.spotify.com/track/2D1rYPinUnikGU9xNWylnN)** by **You'll Never Get to Heaven** *(Wave Your Moonlight Hat For The Snowfall Train)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 09:22:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 10:00:01 UTC*
 <!-- SPOTIFY-END -->
