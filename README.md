@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fdf976de3668b6f65c3f6f91" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL">Tom Tom</a></strong><br/>
-  <em>by</em> <strong>Holy Fuck</strong><br/>
-  <em>Album:</em> Congrats
+  <strong><a href="https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R">Diamonds</a></strong><br/>
+  <em>by</em> <strong>Thaiboy Digital, Yung Lean</strong><br/>
+  <em>Album:</em> Tiger
 </p>
 
-<p align="center"><code>1:54</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:47</code></p>
+<p align="center"><code>1:56</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>5:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by **Tom Petty** *(Full Moon Fever)* - `1 min ago`
-- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `6 min ago`
-- **[I DONT WANNA GO](https://open.spotify.com/track/58dZmEgUxVNY4FKC9rA67X)** by **Braindaamage** *(I DONT WANNA GO)* - `9 min ago`
-- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `12 min ago`
-- **[Ghosst(s)](https://open.spotify.com/track/2jUfLr32m2y9XVuHSJfj98)** by **Lorn** *(Ask The Dust)* - `14 min ago`
+- **[When I R.I.P. (From "Euphoria: Season 1" Soundtrack)](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))* - `1 min ago`
+- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)* - `4 min ago`
+- **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)* - `6 min ago`
+- **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)* - `10 min ago`
+- **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 17:20:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 17:57:04 UTC*
 <!-- SPOTIFY-END -->
