@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273cb5c680f9191cc7ceeefd604" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2DZGs97ibWcEFHZQ3imUpM">Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt - Remix</a></strong><br/>
+  <em>by</em> <strong>INTERWEB 成长</strong><br/>
+  <em>Album:</em> Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt (Remix)
+</p>
+
+<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>6:11</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Black Cats](https://open.spotify.com/track/6OfnUW7ojHMgfubWVOeCkN)** by **ZillaKami** *(DOG BOY)* - `54 min ago`
-- **[ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz)** by **siouxxie sixxsta** *(witchpop)* - `56 min ago`
-- **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)* - `58 min ago`
-- **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)* - `1 h ago`
-- **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)* - `1 h ago`
+- **[opiate](https://open.spotify.com/track/3ZuX1bvkFT6BlHhnrlIwMV)** by **DANZINGER 99** *(opiate)* - `just now`
+- **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)* - `1 min ago`
+- **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))* - `4 min ago`
+- **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))* - `7 min ago`
+- **[Solitude - Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk)** by **M83, Felsmann + Tiley** *(Solitude (Felsmann + Tiley Reinterpretation))* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 20:25:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 20:58:49 UTC*
 <!-- SPOTIFY-END -->
