@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a00b7112b4faa75fb61e3d69" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC">casino143</a></strong><br/>
-  <em>by</em> <strong>IVOXYGEN</strong><br/>
-  <em>Album:</em> casino143
-</p>
-
-<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `1 min ago`
-- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `4 min ago`
-- **[Maybach](https://open.spotify.com/track/1sEtwdVSHgIBQAGjkkDfNf)** by **SUMMER ALONE** *(Wallflower In Baphomet's Garden)* - `8 min ago`
-- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `11 min ago`
-- **[going quietly](https://open.spotify.com/track/0F5NBPoZODoq0J0swH9wIM)** by **Ezekiel** *(going quietly (sped up))* - `14 min ago`
+- **[Black Cats](https://open.spotify.com/track/6OfnUW7ojHMgfubWVOeCkN)** by **ZillaKami** *(DOG BOY)* - `21 min ago`
+- **[ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz)** by **siouxxie sixxsta** *(witchpop)* - `23 min ago`
+- **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)* - `25 min ago`
+- **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)* - `29 min ago`
+- **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)* - `31 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 19:20:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 19:52:37 UTC*
 <!-- SPOTIFY-END -->
