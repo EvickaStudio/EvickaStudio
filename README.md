@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cb5c680f9191cc7ceeefd604" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ceab3351cc4ea65b6f783ef1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2DZGs97ibWcEFHZQ3imUpM">Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt - Remix</a></strong><br/>
-  <em>by</em> <strong>INTERWEB 成长</strong><br/>
-  <em>Album:</em> Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt (Remix)
+  <strong><a href="https://open.spotify.com/track/3yZCjDTxzZxx1kll1sRjGc">Emotions 2.0</a></strong><br/>
+  <em>by</em> <strong>Ufo361, CÉLINE</strong><br/>
+  <em>Album:</em> Emotions 2.0
 </p>
 
-<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>6:11</code></p>
+<p align="center"><code>0:35</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[opiate](https://open.spotify.com/track/3ZuX1bvkFT6BlHhnrlIwMV)** by **DANZINGER 99** *(opiate)* - `just now`
-- **[Happy Ending](https://open.spotify.com/track/56rzqsjLiejvWmY230rfmM)** by **Tamino404** *(es ist nicht mehr 2016)* - `1 min ago`
-- **[Hide - CS01 Version](https://open.spotify.com/track/0TvJGdPE42N4BadmQyvLDk)** by **Dorian Concept** *(Hide (CS01 Version))* - `4 min ago`
-- **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))* - `7 min ago`
-- **[Solitude - Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk)** by **M83, Felsmann + Tiley** *(Solitude (Felsmann + Tiley Reinterpretation))* - `9 min ago`
+- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)* - `just now`
+- **[Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)** by **PureSnow** *(Tunnel Vision)* - `2 min ago`
+- **[Broken Wings (I Don't Feel A Thing)](https://open.spotify.com/track/0FsMbOPLgOsPGFV0n2PfwM)** by **Walter Frosch** *(Broken Wings (I Don't Feel A Thing))* - `6 min ago`
+- **[The Thin Grey Line](https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP)** by **$uicideboy$** *(The Thin Grey Line)* - `9 min ago`
+- **[rockstarshawty.wav](https://open.spotify.com/track/6AmVfT45BJ3Zv62OAbHHGW)** by **03osc** *(rockstarshawty.wav)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 20:58:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 21:35:02 UTC*
 <!-- SPOTIFY-END -->
