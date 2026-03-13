@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730b85e96756077c80f4d9e7e7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273baa1633a4681a9fa36cc1ba7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM">Ferrari</a></strong><br/>
-  <em>by</em> <strong>Alice Gas</strong><br/>
-  <em>Album:</em> Sorry 4 Being Famous
+  <strong><a href="https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm">I Hate You I Love You</a></strong><br/>
+  <em>by</em> <strong>DVRST</strong><br/>
+  <em>Album:</em> I Hate You I Love You
 </p>
 
-<p align="center"><code>3:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:22</code></p>
+<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Wasted](https://open.spotify.com/track/5pL9OV0IEdQvcFQ0CfDD6J)** by **Night$$, Xulo** *(Wasted)* - `3 min ago`
-- **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)* - `6 min ago`
-- **[QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM)** by **Aphex Twin** *(Drukqs)* - `8 min ago`
-- **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)* - `10 min ago`
-- **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)* - `12 min ago`
+- **[Push Up - Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo)** by **Creeds** *(Push Up (Original Mix))* - `1 min ago`
+- **[dubstep2010](https://open.spotify.com/track/6wR74PQXoWkSALXww5SOmn)** by **blombi19** *(dubstep2010)* - `5 min ago`
+- **[heaven](https://open.spotify.com/track/3Tki5V7vhAU9s2KN6905hq)** by **Yandere** *(heaven)* - `9 min ago`
+- **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))* - `11 min ago`
+- **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 11:50:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 12:38:50 UTC*
 <!-- SPOTIFY-END -->
