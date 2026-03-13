@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273eb6e4eea02b0a5b3955271f3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk">Harvest Moon</a></strong><br/>
-  <em>by</em> <strong>Neil Young</strong><br/>
-  <em>Album:</em> Harvest Moon
+  <strong><a href="https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag">Berlin Hardcore</a></strong><br/>
+  <em>by</em> <strong>IceLipzz, SlushhKitten, LØUS</strong><br/>
+  <em>Album:</em> Berlin Hardcore
 </p>
 
-<p align="center"><code>1:31</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>5:03</code></p>
+<p align="center"><code>0:15</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `1 min ago`
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `4 min ago`
-- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `6 min ago`
-- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `9 min ago`
-- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `12 min ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `3 min ago`
+- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `4 min ago`
+- **[START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92)** by **Tiffany Day** *(START OVER)* - `6 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `9 min ago`
+- **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 07:53:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 08:31:02 UTC*
 <!-- SPOTIFY-END -->
