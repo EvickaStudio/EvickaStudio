@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737c614421aca6f616ceea60ee" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2Y4NLmk9YkoarzqN30apuc">Prio</a></strong><br/>
-  <em>by</em> <strong>makko</strong><br/>
-  <em>Album:</em> Prio
-</p>
-
-<p align="center"><code>0:19</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:54</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `just now`
-- **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))* - `2 min ago`
-- **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)* - `4 min ago`
-- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov, iwannabemissed** *(immenser pflegefall)* - `7 min ago`
-- **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)* - `8 min ago`
+- **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)* - `8 min ago`
+- **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)* - `13 min ago`
+- **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)* - `15 min ago`
+- **[Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)** by **Surf Curse** *(Freaks)* - `17 min ago`
+- **[i met sarah in the bathroom](https://open.spotify.com/track/6Csn07rSjTle1myRtfWAyn)** by **awfultune** *(i met sarah in the bathroom)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 21:59:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 22:32:36 UTC*
 <!-- SPOTIFY-END -->
