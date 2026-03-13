@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Black Cats](https://open.spotify.com/track/6OfnUW7ojHMgfubWVOeCkN)** by **ZillaKami** *(DOG BOY)* - `21 min ago`
-- **[ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz)** by **siouxxie sixxsta** *(witchpop)* - `23 min ago`
-- **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)* - `25 min ago`
-- **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)* - `29 min ago`
-- **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)* - `31 min ago`
+- **[Black Cats](https://open.spotify.com/track/6OfnUW7ojHMgfubWVOeCkN)** by **ZillaKami** *(DOG BOY)* - `54 min ago`
+- **[ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz)** by **siouxxie sixxsta** *(witchpop)* - `56 min ago`
+- **[Clouds](https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh)** by **Pastel Ghost** *(Abyss)* - `58 min ago`
+- **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)* - `1 h ago`
+- **[casino143](https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC)** by **IVOXYGEN** *(casino143)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 19:52:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 20:25:28 UTC*
 <!-- SPOTIFY-END -->
