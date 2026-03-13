@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ceab3351cc4ea65b6f783ef1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737c614421aca6f616ceea60ee" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3yZCjDTxzZxx1kll1sRjGc">Emotions 2.0</a></strong><br/>
-  <em>by</em> <strong>Ufo361, CÉLINE</strong><br/>
-  <em>Album:</em> Emotions 2.0
+  <strong><a href="https://open.spotify.com/track/2Y4NLmk9YkoarzqN30apuc">Prio</a></strong><br/>
+  <em>by</em> <strong>makko</strong><br/>
+  <em>Album:</em> Prio
 </p>
 
-<p align="center"><code>0:35</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:26</code></p>
+<p align="center"><code>0:19</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)* - `just now`
-- **[Deep End](https://open.spotify.com/track/3mDkMbe3lQV3Az4XrbhhiJ)** by **PureSnow** *(Tunnel Vision)* - `2 min ago`
-- **[Broken Wings (I Don't Feel A Thing)](https://open.spotify.com/track/0FsMbOPLgOsPGFV0n2PfwM)** by **Walter Frosch** *(Broken Wings (I Don't Feel A Thing))* - `6 min ago`
-- **[The Thin Grey Line](https://open.spotify.com/track/0lZYlxoSG7DCecuLvMERfP)** by **$uicideboy$** *(The Thin Grey Line)* - `9 min ago`
-- **[rockstarshawty.wav](https://open.spotify.com/track/6AmVfT45BJ3Zv62OAbHHGW)** by **03osc** *(rockstarshawty.wav)* - `11 min ago`
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `just now`
+- **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))* - `2 min ago`
+- **[Memory Reboot - Sped Up](https://open.spotify.com/track/0rSRw7Okw0PdZk7ASyggQV)** by **VØJ, Narvent** *(Memory Reboot)* - `4 min ago`
+- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov, iwannabemissed** *(immenser pflegefall)* - `7 min ago`
+- **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 21:35:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 21:59:51 UTC*
 <!-- SPOTIFY-END -->
