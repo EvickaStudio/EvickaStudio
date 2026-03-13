@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27330ea56ae0681539f253c7e91" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27332a24ead250d280b474a180d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/13Aqw8uGBc9CPMx5ibzugp">break me down</a></strong><br/>
-  <em>by</em> <strong>oaf1, Lain</strong><br/>
-  <em>Album:</em> break me down
+  <strong><a href="https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx">Csgo</a></strong><br/>
+  <em>by</em> <strong>uusymon, hqwilli</strong><br/>
+  <em>Album:</em> Csgo
 </p>
 
-<p align="center"><code>1:02</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:44</code></p>
+<p align="center"><code>0:37</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>1:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Frutiger Aero 4](https://open.spotify.com/track/2WqNNPnPiWDQhf5gtWi9Ci)** by **fliggsy** *(No Comment)* - `1 min ago`
-- **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)* - `3 min ago`
-- **[Morgen](https://open.spotify.com/track/7beFHpcc9fIWzzIuVxSCDb)** by **Pink Katana Archive** *(Briefe)* - `7 min ago`
-- **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)* - `9 min ago`
-- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)* - `14 min ago`
+- **[I Know](https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ)** by **Moritz** *(I Know)* - `just now`
+- **[I Heard a Sigh](https://open.spotify.com/track/4O4RFEWff8GeQwypae0ibM)** by **Cortex** *(Inedit 79)* - `2 min ago`
+- **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)* - `6 min ago`
+- **[Knives Out](https://open.spotify.com/track/521OhfIeThXJKiTyz0m883)** by **Radiohead** *(Amnesiac)* - `8 min ago`
+- **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 14:28:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 15:08:51 UTC*
 <!-- SPOTIFY-END -->
