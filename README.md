@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273452ab7d66b3cfc8f96f11b18" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk">Harvest Moon</a></strong><br/>
-  <em>by</em> <strong>Neil Young</strong><br/>
-  <em>Album:</em> Harvest Moon
+  <strong><a href="https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx">Don't Stop - Extended Mix</a></strong><br/>
+  <em>by</em> <strong>Rejecta</strong><br/>
+  <em>Album:</em> Generation Hardstyle - 2024
 </p>
 
-<p align="center"><code>3:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>5:03</code></p>
+<p align="center"><code>0:31</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `just now`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `1 min ago`
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `3 min ago`
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `4 min ago`
-- **[Well I Wonder - 2011 Remaster](https://open.spotify.com/track/3OS4XXm4S42pnESQmtN9MG)** by **The Smiths** *(Meat Is Murder)* - `6 min ago`
+- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `just now`
+- **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)* - `just now`
+- **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)* - `1 min ago`
+- **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)* - `7 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 10:43:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 11:17:41 UTC*
 <!-- SPOTIFY-END -->
