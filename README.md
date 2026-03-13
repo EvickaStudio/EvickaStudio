@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273452ab7d66b3cfc8f96f11b18" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730b85e96756077c80f4d9e7e7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx">Don't Stop - Extended Mix</a></strong><br/>
-  <em>by</em> <strong>Rejecta</strong><br/>
-  <em>Album:</em> Generation Hardstyle - 2024
+  <strong><a href="https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM">Ferrari</a></strong><br/>
+  <em>by</em> <strong>Alice Gas</strong><br/>
+  <em>Album:</em> Sorry 4 Being Famous
 </p>
 
-<p align="center"><code>0:31</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:47</code></p>
+<p align="center"><code>3:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `just now`
-- **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)* - `just now`
-- **[Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r)** by **Kanye West, Rick Ross** *(My Beautiful Dark Twisted Fantasy)* - `1 min ago`
-- **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)* - `7 min ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `9 min ago`
+- **[Wasted](https://open.spotify.com/track/5pL9OV0IEdQvcFQ0CfDD6J)** by **Night$$, Xulo** *(Wasted)* - `3 min ago`
+- **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)* - `6 min ago`
+- **[QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM)** by **Aphex Twin** *(Drukqs)* - `8 min ago`
+- **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)* - `10 min ago`
+- **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 11:17:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 11:50:40 UTC*
 <!-- SPOTIFY-END -->
