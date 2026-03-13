@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd6a7882075a8ed880d14e3b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a00b7112b4faa75fb61e3d69" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0Jk1o19bxKAFzt3BtD2fx3">Psycho Dreams</a></strong><br/>
-  <em>by</em> <strong>Kill Eva, ENCASSATOR</strong><br/>
-  <em>Album:</em> Psycho Dreams
+  <strong><a href="https://open.spotify.com/track/7tnxfCdXJgqqbCdXPhH4dC">casino143</a></strong><br/>
+  <em>by</em> <strong>IVOXYGEN</strong><br/>
+  <em>Album:</em> casino143
 </p>
 
-<p align="center"><code>1:51</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:15</code></p>
+<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `1 min ago`
-- **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)* - `5 min ago`
-- **[INTERNET LOVE](https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb)** by **IVOXYGEN** *(INTERNET LOVE)* - `7 min ago`
-- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `10 min ago`
-- **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)* - `13 min ago`
+- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `1 min ago`
+- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `4 min ago`
+- **[Maybach](https://open.spotify.com/track/1sEtwdVSHgIBQAGjkkDfNf)** by **SUMMER ALONE** *(Wallflower In Baphomet's Garden)* - `8 min ago`
+- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `11 min ago`
+- **[going quietly](https://open.spotify.com/track/0F5NBPoZODoq0J0swH9wIM)** by **Ezekiel** *(going quietly (sped up))* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 18:37:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 19:20:05 UTC*
 <!-- SPOTIFY-END -->
