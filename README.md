@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273600fa8d4790549c97a205339" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737624d61cfe73d2664a3a5570" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3BgLE9w5onc8zu991bqG7N">mess</a></strong><br/>
-  <em>by</em> <strong>5v</strong><br/>
-  <em>Album:</em> mess
+  <strong><a href="https://open.spotify.com/track/6N7WzynEuY1EP6LayCIczb">Nicht schon wieder</a></strong><br/>
+  <em>by</em> <strong>Dropped here</strong><br/>
+  <em>Album:</em> Sodium
 </p>
 
-<p align="center"><code>0:45</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:09</code></p>
+<p align="center"><code>2:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Soul Shield](https://open.spotify.com/track/2ZpQJkeJDUAF2vwYj6WBvM)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))* - `just now`
-- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `2 min ago`
-- **[du bist mir egal](https://open.spotify.com/track/2H2Y5YSMxH1QFoERMG3QeD)** by **Pink Katana** *(du bist mir egal)* - `5 min ago`
-- **[12 Stout Street](https://open.spotify.com/track/58Zrwv2urNcl404kX6HsAS)** by **Rx Papi, Gud** *(Foreign Exchange)* - `8 min ago`
-- **[lomomoto#](https://open.spotify.com/track/1MRUW05pHgu15jkebzP1w6)** by **Mietze Conte** *(Mietzee)* - `10 min ago`
+- **[Saw](https://open.spotify.com/track/1WgSV4qb90fPut4rhwVhrV)** by **Tevvez** *(Pure)* - `2 min ago`
+- **[tell me where u hide](https://open.spotify.com/track/7edI09fmGwEEc785bN7NUr)** by **mint** *(tell me where u hide)* - `5 min ago`
+- **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)* - `7 min ago`
+- **[Need 2 (slow pinegrove)](https://open.spotify.com/track/3ygLu1Efk6adwGoXk9pWgQ)** by **Pinegrove** *(Need 2)* - `9 min ago`
+- **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 15:56:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 16:34:02 UTC*
 <!-- SPOTIFY-END -->
