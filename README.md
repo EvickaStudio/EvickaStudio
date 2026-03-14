@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c435b364579b20a2037e819b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27356a6d6e493a8f338be63fc49" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn">i would lie</a></strong><br/>
-  <em>by</em> <strong>Nosgov</strong><br/>
-  <em>Album:</em> i would lie
+  <strong><a href="https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN">Mr. Brightside</a></strong><br/>
+  <em>by</em> <strong>The Killers</strong><br/>
+  <em>Album:</em> Hot Fuss
 </p>
 
-<p align="center"><code>0:03</code> ▓░░░░░░░░░░░░░░░░░░░ <code>1:22</code></p>
+<p align="center"><code>1:09</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)** by **Soap Boyz** *(Scheide)* - `just now`
-- **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)* - `3 min ago`
-- **[1975](https://open.spotify.com/track/6mf2YhtRwQUdnORRrRQ3hP)** by **MAJAN, CRO** *(1975)* - `8 min ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `11 min ago`
-- **[Megablast](https://open.spotify.com/track/4kSF9vv3i4IrMVew2uwMCs)** by **Downhill2k01** *(Butterfly Tetrad)* - `14 min ago`
+- **[Nachts wach](https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA)** by **Miksu / Macloud, makko** *(Nachts wach)* - `1 min ago`
+- **[Dreamland](https://open.spotify.com/track/48UcSLQvELjnLUE0t2iGiA)** by **14?, Cise Star, Fayya** *(Dreamland)* - `4 min ago`
+- **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)* - `8 min ago`
+- **[Ghetto Techno - Swimmingpool](https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak)** by **Die Atzen** *(Atzen Musik Vol.1, 2 & 3)* - `11 min ago`
+- **[Energy Around Us](https://open.spotify.com/track/7GQUMzVt0n2QTFi2N1u8c4)** by **Central Sonic** *(Club Scenes - Psytrance)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 13:32:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 14:04:28 UTC*
 <!-- SPOTIFY-END -->
