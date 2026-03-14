@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d060318e0c8cb5730a215386" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27367e31791c712349017c96e11" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5P45rIpV682KkvtZjZtuwB">...And So It Was</a></strong><br/>
-  <em>by</em> <strong>$uicideboy$, Black Smurf</strong><br/>
-  <em>Album:</em> Black $uicide
+  <strong><a href="https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP">Angels Sippen Mashup</a></strong><br/>
+  <em>by</em> <strong>Der Heimer, Symba, SDP</strong><br/>
+  <em>Album:</em> Angels Sippen Mashup
 </p>
 
-<p align="center"><code>4:54</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>4:57</code></p>
+<p align="center"><code>0:43</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)* - `4 min ago`
-- **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)* - `7 min ago`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `9 min ago`
-- **[Nothing at All](https://open.spotify.com/track/7FIIxaZ1ykUEwEMO8pVZai)** by **.com** *(In Their Shadows)* - `11 min ago`
-- **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)* - `16 min ago`
+- **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)* - `just now`
+- **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)* - `4 min ago`
+- **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)* - `7 min ago`
+- **[keine kraft](https://open.spotify.com/track/5tSzocu3ONCE5cIdcXe9Oh)** by **Mobezzy, Steve276** *(keine kraft)* - `9 min ago`
+- **[Infinity - Miguel Angelo Remix](https://open.spotify.com/track/2lIhwPUNSDgM7SmcgBeYrD)** by **Guru Josh Project, Miguel Angelo** *(Infinity (Miguel Angelo Remix))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 09:34:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 09:59:15 UTC*
 <!-- SPOTIFY-END -->
