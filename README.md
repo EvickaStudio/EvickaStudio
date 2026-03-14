@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)* - `1 h ago`
-- **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)* - `1 h ago`
-- **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)* - `1 h ago`
-- **[Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)** by **Surf Curse** *(Freaks)* - `1 h ago`
-- **[i met sarah in the bathroom](https://open.spotify.com/track/6Csn07rSjTle1myRtfWAyn)** by **awfultune** *(i met sarah in the bathroom)* - `1 h ago`
+- **[WANTED U](https://open.spotify.com/track/4rf7Mjit1TCiNaDgdn6peQ)** by **Joji** *(BALLADS 1)* - `3 h ago`
+- **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)* - `3 h ago`
+- **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)* - `3 h ago`
+- **[Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr)** by **Surf Curse** *(Freaks)* - `3 h ago`
+- **[i met sarah in the bathroom](https://open.spotify.com/track/6Csn07rSjTle1myRtfWAyn)** by **awfultune** *(i met sarah in the bathroom)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-13 23:58:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 02:07:12 UTC*
 <!-- SPOTIFY-END -->
