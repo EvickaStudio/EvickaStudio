@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27367e31791c712349017c96e11" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP">Angels Sippen Mashup</a></strong><br/>
-  <em>by</em> <strong>Der Heimer, Symba, SDP</strong><br/>
-  <em>Album:</em> Angels Sippen Mashup
+  <strong><a href="https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU">Stay Cold</a></strong><br/>
+  <em>by</em> <strong>Nokia Angel</strong><br/>
+  <em>Album:</em> Stay Cold
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:08</code></p>
+<p align="center"><code>0:49</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)* - `just now`
-- **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)* - `4 min ago`
-- **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)* - `7 min ago`
-- **[keine kraft](https://open.spotify.com/track/5tSzocu3ONCE5cIdcXe9Oh)** by **Mobezzy, Steve276** *(keine kraft)* - `9 min ago`
-- **[Infinity - Miguel Angelo Remix](https://open.spotify.com/track/2lIhwPUNSDgM7SmcgBeYrD)** by **Guru Josh Project, Miguel Angelo** *(Infinity (Miguel Angelo Remix))* - `11 min ago`
+- **[Unendlichkeit (Remix)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN)** by **MilleniumKid, JBS, The Boy The G** *(Unendlichkeit (Remix))* - `just now`
+- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)* - `3 min ago`
+- **[FOR THE NIGHT! - SPED UP](https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD)** by **Clover!** *(FOR THE NIGHT!)* - `5 min ago`
+- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `7 min ago`
+- **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 09:59:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 10:32:10 UTC*
 <!-- SPOTIFY-END -->
