@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b4ace0eaa952aa1d20ff7e6f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU">Stay Cold</a></strong><br/>
-  <em>by</em> <strong>Nokia Angel</strong><br/>
-  <em>Album:</em> Stay Cold
+  <strong><a href="https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1">Wie der Raum in dem wir leben</a></strong><br/>
+  <em>by</em> <strong>strangerperson</strong><br/>
+  <em>Album:</em> Wie der Raum in dem wir leben
 </p>
 
-<p align="center"><code>0:49</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:53</code></p>
+<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Unendlichkeit (Remix)](https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN)** by **MilleniumKid, JBS, The Boy The G** *(Unendlichkeit (Remix))* - `just now`
-- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)* - `3 min ago`
-- **[FOR THE NIGHT! - SPED UP](https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD)** by **Clover!** *(FOR THE NIGHT!)* - `5 min ago`
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `7 min ago`
-- **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))* - `8 min ago`
+- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `2 min ago`
+- **[Scargazer](https://open.spotify.com/track/3HD9BE49dhRLZxFIzoRJg0)** by **Prompto** *(Scargazer)* - `6 min ago`
+- **[non zen darkness manuever](https://open.spotify.com/track/5EZo8rqOQqpOU38sft0zd7)** by **meat computer** *(new world disorder)* - `8 min ago`
+- **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)* - `10 min ago`
+- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 10:32:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 10:59:23 UTC*
 <!-- SPOTIFY-END -->
