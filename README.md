@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273da9e59639a9759d8952890c6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273597ec2f031eaf7cce8134497" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa">whoa (mind in awe)</a></strong><br/>
-  <em>by</em> <strong>XXXTENTACION</strong><br/>
-  <em>Album:</em> SKINS
+  <strong><a href="https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7">feelings im bauch (feat. treason434) - techno remix</a></strong><br/>
+  <em>by</em> <strong>lil eyes, 1800yassine, Asterio, treason434</strong><br/>
+  <em>Album:</em> feelings im bauch (feat. treason434) [techno remix]
 </p>
 
-<p align="center"><code>0:34</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:37</code></p>
+<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)* - `just now`
-- **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)* - `3 min ago`
-- **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)* - `5 min ago`
-- **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)* - `8 min ago`
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `10 min ago`
+- **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)* - `1 min ago`
+- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `3 min ago`
+- **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)* - `5 min ago`
+- **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)* - `7 min ago`
+- **[Led](https://open.spotify.com/track/1Z1aThbHMDqxQt8RgwQEae)** by **GOTOU寄生獣, OmenXIII** *(Led)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 11:46:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 12:32:53 UTC*
 <!-- SPOTIFY-END -->
