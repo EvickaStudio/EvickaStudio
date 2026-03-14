@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273597ec2f031eaf7cce8134497" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c435b364579b20a2037e819b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5QgKONdH9msywalIrm2mi7">feelings im bauch (feat. treason434) - techno remix</a></strong><br/>
-  <em>by</em> <strong>lil eyes, 1800yassine, Asterio, treason434</strong><br/>
-  <em>Album:</em> feelings im bauch (feat. treason434) [techno remix]
+  <strong><a href="https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn">i would lie</a></strong><br/>
+  <em>by</em> <strong>Nosgov</strong><br/>
+  <em>Album:</em> i would lie
 </p>
 
-<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:03</code></p>
+<p align="center"><code>0:03</code> ▓░░░░░░░░░░░░░░░░░░░ <code>1:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)* - `1 min ago`
-- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `3 min ago`
-- **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)* - `5 min ago`
-- **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)* - `7 min ago`
-- **[Led](https://open.spotify.com/track/1Z1aThbHMDqxQt8RgwQEae)** by **GOTOU寄生獣, OmenXIII** *(Led)* - `10 min ago`
+- **[Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)** by **Soap Boyz** *(Scheide)* - `just now`
+- **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)* - `3 min ago`
+- **[1975](https://open.spotify.com/track/6mf2YhtRwQUdnORRrRQ3hP)** by **MAJAN, CRO** *(1975)* - `8 min ago`
+- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `11 min ago`
+- **[Megablast](https://open.spotify.com/track/4kSF9vv3i4IrMVew2uwMCs)** by **Downhill2k01** *(Butterfly Tetrad)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 12:32:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 13:32:15 UTC*
 <!-- SPOTIFY-END -->
