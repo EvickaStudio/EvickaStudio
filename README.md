@@ -96,9 +96,9 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `2 h ago`
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `2 h ago`
-- **[L1ebe 1n der Luft](https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN)** by **S1RENA, TYM** *(L1ebe 1n der Luft)* - `2 h ago`
+- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `3 h ago`
+- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `3 h ago`
+- **[L1ebe 1n der Luft](https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN)** by **S1RENA, TYM** *(L1ebe 1n der Luft)* - `3 h ago`
 - **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)* - `3 h ago`
 - **[Break This The Breaking Point 2](https://open.spotify.com/track/0lUHAZHS5h2dbBfNtlrVOJ)** by **Vertigoaway, Schizoscriptures** *(Break This The Breaking Point 2)* - `3 h ago`
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 19:02:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 19:38:23 UTC*
 <!-- SPOTIFY-END -->
