@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733eefbb6eea832325b1488333" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737358181bb49cf264415c6744" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4">PAPARAZZI</a></strong><br/>
-  <em>by</em> <strong>nami, d3r, Pearlblade</strong><br/>
-  <em>Album:</em> PAPARAZZI
+  <strong><a href="https://open.spotify.com/track/0oHzP4JE4Zpk9yrZJ2Q48G">BLUEBERRY YUM YUM</a></strong><br/>
+  <em>by</em> <strong>BHZ, Monk, Dead Dawg, Big Pat</strong><br/>
+  <em>Album:</em> HALB:VIER DELUXE
 </p>
 
-<p align="center"><code>0:16</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:51</code></p>
+<p align="center"><code>0:35</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:52</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[club+biz4rr3](https://open.spotify.com/track/6fX36zMIsn8kAQFEBQIQWq)** by **echia** *(club+biz4rr3)* - `2 min ago`
-- **[Rotkäppchen](https://open.spotify.com/track/4PfxmvtmYalTxBoxrFUA2G)** by **Florida Juicy, Longus Mongus, verifiziert** *(Rotkäppchen)* - `5 min ago`
-- **[Spinning Fury (Part 2)](https://open.spotify.com/track/5dzyB8xET8lsv0FV4gkQhr)** by **M83** *(Resurrection (Original Soundtrack))* - `8 min ago`
-- **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)* - `12 min ago`
-- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `14 min ago`
+- **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)* - `just now`
+- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `2 min ago`
+- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)* - `6 min ago`
+- **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `8 min ago`
+- **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 21:18:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-14 21:46:27 UTC*
 <!-- SPOTIFY-END -->
