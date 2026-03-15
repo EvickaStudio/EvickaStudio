@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273748b397dbbd07277aa6ca116" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA">Stateside + Bladee</a></strong><br/>
-  <em>by</em> <strong>PinkPantheress, Bladee</strong><br/>
-  <em>Album:</em> Fancy Some More?
+  <strong><a href="https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6">Hennessy & Sailor Moon</a></strong><br/>
+  <em>by</em> <strong>Yung Lean, Bladee</strong><br/>
+  <em>Album:</em> Frost God
 </p>
 
-<p align="center"><code>0:20</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:28</code></p>
+<p align="center"><code>1:27</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Alice Practice](https://open.spotify.com/track/6rnPYe750GNdwDB6UESmKW)** by **Crystal Castles** *(Crystal Castles)* - `just now`
-- **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)* - `3 min ago`
-- **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)* - `5 min ago`
-- **[Something About You](https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe)** by **Eyedress, Dent May** *(Mulholland Drive)* - `9 min ago`
-- **[Pulse](https://open.spotify.com/track/5bgvvo3M133lVVzTZpZFmV)** by **Pastel Ghost** *(Abyss)* - `10 min ago`
+- **[Celestica](https://open.spotify.com/track/325ZSqJnyHg6SNUQQZamVb)** by **Crystal Castles** *(Crystal Castles (II))* - `1 min ago`
+- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `5 min ago`
+- **[JRJRJR](https://open.spotify.com/track/29M6802gdnONhtdsjPdtv9)** by **Jane Remover** *(Revengeseekerz)* - `7 min ago`
+- **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)* - `11 min ago`
+- **[3NDL3SS](https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5)** by **Pastel Ghost** *(Ethereality)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 17:51:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 18:28:11 UTC*
 <!-- SPOTIFY-END -->
