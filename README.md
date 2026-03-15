@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f794db296f9bcda7e665f53f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2">Untrust Us</a></strong><br/>
-  <em>by</em> <strong>Crystal Castles</strong><br/>
-  <em>Album:</em> Crystal Castles
+  <strong><a href="https://open.spotify.com/track/6QCuFjMavSAlJBsmxMuHzs">i just want to hide my face</a></strong><br/>
+  <em>by</em> <strong>EKKSTACY</strong><br/>
+  <em>Album:</em> misery
 </p>
 
-<p align="center"><code>2:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:06</code></p>
+<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:12</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Windmill Isle - Day (Sonic Unleashed)](https://open.spotify.com/track/4A8rUnYhgfYoRXG41sJmmg)** by **SEGA SOUND TEAM, Tomoya Ohtani** *(Non-Stop Music Selection (Vol.2))* - `2 min ago`
-- **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)* - `2 min ago`
-- **[I deserve this](https://open.spotify.com/track/0ExUm9JjGLGBrUrcVNOgJT)** by **Rebzyyx, Selfless Homage** *(I deserve this)* - `8 min ago`
-- **[zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG)** by **60 juno** *(zzz)* - `38 min ago`
-- **[boyfriend, girlfriend](https://open.spotify.com/track/29BzkuOmr3QeKmdLGW15ZA)** by **carwash** *(boyfriend, girlfriend)* - `41 min ago`
+- **[Shadows](https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2)** by **Pastel Ghost** *(Abyss)* - `1 min ago`
+- **[friendship](https://open.spotify.com/track/02eGvHFSUWeL7Sa30bXJhK)** by **carwash** *(soap water)* - `5 min ago`
+- **[Reckless](https://open.spotify.com/track/6iJrkignemcwQ6JC212kUk)** by **Crystal Castles** *(Crystal Castles)* - `7 min ago`
+- **[Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)** by **Bladee** *(Eversince)* - `11 min ago`
+- **[Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6)** by **Memo Boy, Chakra Efendi** *(Songs & Demos 2015-2017)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 16:54:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 17:21:06 UTC*
 <!-- SPOTIFY-END -->
