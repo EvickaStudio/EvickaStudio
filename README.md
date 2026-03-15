@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273acc3db1c8848f4c4f77e0bbd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27357bcd0eb200ee781c11caa58" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2WUCapm3noSPEp3zZ3AOuM">XVI</a></strong><br/>
-  <em>by</em> <strong>akiaura, LONOWN, DJ Pointless</strong><br/>
-  <em>Album:</em> Destruction Age
+  <strong><a href="https://open.spotify.com/track/6od0uCQflgRn0GjfXMuSGK">crush</a></strong><br/>
+  <em>by</em> <strong>Max Fry</strong><br/>
+  <em>Album:</em> more than dead to me
 </p>
 
-<p align="center"><code>3:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:04</code></p>
+<p align="center"><code>1:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Staub - slowed](https://open.spotify.com/track/1MJGFjYVxgZntw4GDieN5K)** by **S1RENA** *(Staub)* - `3 min ago`
-- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `5 min ago`
-- **[away](https://open.spotify.com/track/391858zCp5td2G6HdBeCcS)** by **Max Fry** *(more than dead to me)* - `8 min ago`
-- **[Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD)** by **Mareux** *(Lovers From The Past)* - `10 min ago`
-- **[Amethyst](https://open.spotify.com/track/5nKuYHak9imBodD3g0RArf)** by **Pastel Ghost** *(Ethereality)* - `14 min ago`
+- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `1 min ago`
+- **[LEXVE ME XLONE](https://open.spotify.com/track/20wmio1PRemJZPWBSKfVtN)** by **Dxrkknght** *(LEXVE ME XLONE)* - `4 min ago`
+- **[poster girl](https://open.spotify.com/track/6qQYSeJTSFqzRaNjMq2bFL)** by **MOGY** *(poster girl)* - `7 min ago`
+- **[Kate Moss](https://open.spotify.com/track/3CKvbgToq3umqvaHjC14bM)** by **S1RENA** *(Kate Moss)* - `10 min ago`
+- **[Possession](https://open.spotify.com/track/02zU5fNQX1GaaBMavn6rXd)** by **Pastel Ghost** *(Ethereality)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 19:56:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 20:22:32 UTC*
 <!-- SPOTIFY-END -->
