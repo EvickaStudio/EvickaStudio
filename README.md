@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dbcbb34f8fdcb7d522c47aca" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0VWAc62e57lK3dgUs208hm">Looking For The Answer</a></strong><br/>
-  <em>by</em> <strong>Lllyric?</strong><br/>
-  <em>Album:</em> Looking For The Answer
-</p>
-
-<p align="center"><code>0:33</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Unknowing](https://open.spotify.com/track/0WngwdBLS8hFbq1C45DiMJ)** by **Jfarrari** *(Fear of the Unknown)* - `just now`
-- **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)* - `3 min ago`
-- **[Lilacs](https://open.spotify.com/track/2snxFPvT7T8YxQUKOePG2U)** by **Pastel Ghost** *(Abyss)* - `6 min ago`
-- **[zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY)** by **Max Fry** *(zombie)* - `10 min ago`
-- **[Heritage](https://open.spotify.com/track/2Iqtig8qalT0r777aKHmsq)** by **pathetic240px** *(Heritage)* - `12 min ago`
+- **[buzzin](https://open.spotify.com/track/6shmRRR2EOEIJaOY8Ng064)** by **Max Fry** *(far from perfect)* - `21 min ago`
+- **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)* - `24 min ago`
+- **[Looking For The Answer](https://open.spotify.com/track/0VWAc62e57lK3dgUs208hm)** by **Lllyric?** *(Looking For The Answer)* - `27 min ago`
+- **[The Unknowing](https://open.spotify.com/track/0WngwdBLS8hFbq1C45DiMJ)** by **Jfarrari** *(Fear of the Unknown)* - `29 min ago`
+- **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)* - `33 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 20:51:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 21:20:51 UTC*
 <!-- SPOTIFY-END -->
