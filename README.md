@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H">A New Kind Of Love - Demo</a></strong><br/>
-  <em>by</em> <strong>Frou Frou, Imogen Heap, Guy Sigsworth</strong><br/>
-  <em>Album:</em> A New Kind Of Love (Demo)
+  <strong><a href="https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem">Static</a></strong><br/>
+  <em>by</em> <strong>Steve Lacy</strong><br/>
+  <em>Album:</em> Gemini Rights
 </p>
 
-<p align="center"><code>0:58</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:19</code></p>
+<p align="center"><code>2:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Righteous](https://open.spotify.com/track/1xZCK1MXhE4EkHGYENzP9U)** by **Mo Beats** *(Righteous)* - `just now`
-- **[on & on](https://open.spotify.com/track/5mfGEs5n647v4WE3K5YmBy)** by **piri, Tommy Villiers, piri & tommy** *(froge.mp3)* - `3 min ago`
-- **[Embrace](https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL)** by **Pastel Ghost** *(Abyss)* - `5 min ago`
-- **[Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz)** by **Crystal Castles** *(Crystal Castles)* - `9 min ago`
-- **[teeth (you)](https://open.spotify.com/track/4R2bI0uNGq5cOqfEk39W24)** by **re6ce** *(teeth (you))* - `13 min ago`
+- **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)* - `2 min ago`
+- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `4 min ago`
+- **[Kerosene](https://open.spotify.com/track/2K70ZV0Ls65Kkj0WUEfHlz)** by **Crystal Castles** *((III))* - `6 min ago`
+- **[Girls Just Want to Have Fun](https://open.spotify.com/track/7hvwgwbZCCGZaNRQSf8bin)** by **Bladee, Ecco2k** *(Crest)* - `9 min ago`
+- **[Keep It Tucked](https://open.spotify.com/track/1EdQCb51lC8usq47IMhADP)** by **ThxSoMch** *(Keep It Tucked)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 14:48:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 15:21:14 UTC*
 <!-- SPOTIFY-END -->
