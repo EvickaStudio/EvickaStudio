@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273748b397dbbd07277aa6ca116" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27329a898f62b36a73e4c4a7c43" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6">Hennessy & Sailor Moon</a></strong><br/>
-  <em>by</em> <strong>Yung Lean, Bladee</strong><br/>
-  <em>Album:</em> Frost God
+  <strong><a href="https://open.spotify.com/track/7b3YF30p0ghFL7LykwaraK">Shadow</a></strong><br/>
+  <em>by</em> <strong>Sidewalks and Skeletons, Goo Munday</strong><br/>
+  <em>Album:</em> Exorcism
 </p>
 
-<p align="center"><code>1:27</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:14</code></p>
+<p align="center"><code>3:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:09</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Celestica](https://open.spotify.com/track/325ZSqJnyHg6SNUQQZamVb)** by **Crystal Castles** *(Crystal Castles (II))* - `1 min ago`
-- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `5 min ago`
-- **[JRJRJR](https://open.spotify.com/track/29M6802gdnONhtdsjPdtv9)** by **Jane Remover** *(Revengeseekerz)* - `7 min ago`
-- **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)* - `11 min ago`
-- **[3NDL3SS](https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5)** by **Pastel Ghost** *(Ethereality)* - `14 min ago`
+- **[Zone Out](https://open.spotify.com/track/6jBkR1afY04mU5cNsQCStC)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `3 min ago`
+- **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)* - `6 min ago`
+- **[Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE)** by **ThxSoMch** *(Knocking At My Door)* - `9 min ago`
+- **[roe's interlude](https://open.spotify.com/track/1tidcc2QmF1dZN263LZuAb)** by **Max Fry** *(more than dead to me)* - `12 min ago`
+- **[Night Vision](https://open.spotify.com/track/1SEb1lg5tWZFZgwPfhVbI0)** by **Mareux** *(Lovers From The Past)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 18:28:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 19:04:07 UTC*
 <!-- SPOTIFY-END -->
