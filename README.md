@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9">Dreamflasher</a></strong><br/>
-  <em>by</em> <strong>Jane Remover</strong><br/>
-  <em>Album:</em> Revengeseekerz
-</p>
-
-<p align="center"><code>2:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:44</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sound Of You Laughing](https://open.spotify.com/track/2zhu6NKMl644N9xURrM0dT)** by **ThxSoMch, Flawed Mangoes** *(The Sound of You Laughing)* - `2 min ago`
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `5 min ago`
-- **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)* - `8 min ago`
-- **[Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka)** by **PinkPantheress** *(to hell with it)* - `11 min ago`
-- **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)* - `12 min ago`
+- **[zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG)** by **60 juno** *(zzz)* - `7 min ago`
+- **[boyfriend, girlfriend](https://open.spotify.com/track/29BzkuOmr3QeKmdLGW15ZA)** by **carwash** *(boyfriend, girlfriend)* - `10 min ago`
+- **[Flash in the Pan](https://open.spotify.com/track/0BIsbY5UmkIMejNU55a0rv)** by **Jane Remover** *(Flash in the Pan)* - `13 min ago`
+- **[CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2)** by **ThxSoMch** *(CAROLINE)* - `17 min ago`
+- **[Black Panther](https://open.spotify.com/track/6T2TuRHYIAw43jaaISnkYq)** by **Crystal Castles** *(Crystal Castles)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 15:49:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 16:23:06 UTC*
 <!-- SPOTIFY-END -->
