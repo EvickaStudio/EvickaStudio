@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f794db296f9bcda7e665f53f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6QCuFjMavSAlJBsmxMuHzs">i just want to hide my face</a></strong><br/>
-  <em>by</em> <strong>EKKSTACY</strong><br/>
-  <em>Album:</em> misery
+  <strong><a href="https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA">Stateside + Bladee</a></strong><br/>
+  <em>by</em> <strong>PinkPantheress, Bladee</strong><br/>
+  <em>Album:</em> Fancy Some More?
 </p>
 
-<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:12</code></p>
+<p align="center"><code>0:20</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Shadows](https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2)** by **Pastel Ghost** *(Abyss)* - `1 min ago`
-- **[friendship](https://open.spotify.com/track/02eGvHFSUWeL7Sa30bXJhK)** by **carwash** *(soap water)* - `5 min ago`
-- **[Reckless](https://open.spotify.com/track/6iJrkignemcwQ6JC212kUk)** by **Crystal Castles** *(Crystal Castles)* - `7 min ago`
-- **[Romeo](https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp)** by **Bladee** *(Eversince)* - `11 min ago`
-- **[Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6)** by **Memo Boy, Chakra Efendi** *(Songs & Demos 2015-2017)* - `14 min ago`
+- **[Alice Practice](https://open.spotify.com/track/6rnPYe750GNdwDB6UESmKW)** by **Crystal Castles** *(Crystal Castles)* - `just now`
+- **[Hotel Breakfast](https://open.spotify.com/track/55CayibAnUWXdUwy2J68yB)** by **Bladee** *(The Fool)* - `3 min ago`
+- **[AAA Powerline](https://open.spotify.com/track/3RjB6goQY4QV7wRNPY9FoE)** by **Ecco2k** *(E)* - `5 min ago`
+- **[Something About You](https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe)** by **Eyedress, Dent May** *(Mulholland Drive)* - `9 min ago`
+- **[Pulse](https://open.spotify.com/track/5bgvvo3M133lVVzTZpZFmV)** by **Pastel Ghost** *(Abyss)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 17:21:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 17:51:23 UTC*
 <!-- SPOTIFY-END -->
