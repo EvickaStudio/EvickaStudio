@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27329a898f62b36a73e4c4a7c43" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ed95a22523215ce950826862" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7b3YF30p0ghFL7LykwaraK">Shadow</a></strong><br/>
-  <em>by</em> <strong>Sidewalks and Skeletons, Goo Munday</strong><br/>
-  <em>Album:</em> Exorcism
+  <strong><a href="https://open.spotify.com/track/5nKuYHak9imBodD3g0RArf">Amethyst</a></strong><br/>
+  <em>by</em> <strong>Pastel Ghost</strong><br/>
+  <em>Album:</em> Ethereality
 </p>
 
-<p align="center"><code>3:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:09</code></p>
+<p align="center"><code>3:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Zone Out](https://open.spotify.com/track/6jBkR1afY04mU5cNsQCStC)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `3 min ago`
-- **[Atlantis](https://open.spotify.com/track/5fwGZXqyNtktLPVVUrVn0F)** by **S1RENA** *(Atlantis)* - `6 min ago`
-- **[Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE)** by **ThxSoMch** *(Knocking At My Door)* - `9 min ago`
-- **[roe's interlude](https://open.spotify.com/track/1tidcc2QmF1dZN263LZuAb)** by **Max Fry** *(more than dead to me)* - `12 min ago`
-- **[Night Vision](https://open.spotify.com/track/1SEb1lg5tWZFZgwPfhVbI0)** by **Mareux** *(Lovers From The Past)* - `14 min ago`
+- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `3 min ago`
+- **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)* - `6 min ago`
+- **[Escalator](https://open.spotify.com/track/0HuFhVBMb4Ahpcw2IyFWHF)** by **pathetic240px** *(Escalator)* - `9 min ago`
+- **[obsessed](https://open.spotify.com/track/2PNeLt8LkQUzOauF5zfh2z)** by **Max Fry** *(far from perfect)* - `12 min ago`
+- **[Glass (feat. King Woman)](https://open.spotify.com/track/2RLMuz7vCUnazbchkjtGCH)** by **Mareux, King Woman** *(Lovers From The Past)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 19:04:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-15 19:41:20 UTC*
 <!-- SPOTIFY-END -->
