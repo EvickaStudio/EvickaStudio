@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d8ba39d4fdbbce093c0d8fae" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0uR0qQt8DRepceVPRnB5Cd">Fantastic Life</a></strong><br/>
-  <em>by</em> <strong>Cult Member</strong><br/>
-  <em>Album:</em> Stockholm
+  <strong><a href="https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM">Duvet</a></strong><br/>
+  <em>by</em> <strong>bôa</strong><br/>
+  <em>Album:</em> Twilight
 </p>
 
-<p align="center"><code>0:32</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:51</code></p>
+<p align="center"><code>0:34</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Symphonia IX](https://open.spotify.com/track/1rluwEqsWp5tz0lgyOT9rE)** by **Current Joys** *(Wild Heart)* - `just now`
-- **[does anybody love me](https://open.spotify.com/track/4sUmHOec2IhISCZS4d5a4Z)** by **NESYA** *(Never Truly Happy)* - `3 min ago`
-- **[lightspeed](https://open.spotify.com/track/0lLB36wM1xOFRkSauT0GVq)** by **Max Fry** *(more than dead to me)* - `6 min ago`
-- **[Kiss](https://open.spotify.com/track/3RIlrJDw7LWHCyj6HWiKez)** by **Lil Peep** *(Kiss)* - `9 min ago`
-- **[DIE](https://open.spotify.com/track/4nkR7dBuAleYLCjFPC6YPJ)** by **Vandalism** *(DIE)* - `13 min ago`
+- **[Your Pain Is Mine Now](https://open.spotify.com/track/1g1zQE8KtgrkGmid0PKtjm)** by **Title Fight** *(Hyperview)* - `just now`
+- **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)* - `4 min ago`
+- **[us](https://open.spotify.com/track/748RKO9bgD3PN8WVziPiQw)** by **NESYA** *(Never Truly Happy)* - `4 min ago`
+- **[live forever](https://open.spotify.com/track/1Vjn9saTlgAdag9UECRafl)** by **Lil Peep** *(LIVE FOREVER)* - `4 min ago`
+- **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 09:56:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 10:50:33 UTC*
 <!-- SPOTIFY-END -->
