@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d8ba39d4fdbbce093c0d8fae" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0uR0qQt8DRepceVPRnB5Cd">Fantastic Life</a></strong><br/>
+  <em>by</em> <strong>Cult Member</strong><br/>
+  <em>Album:</em> Stockholm
+</p>
+
+<p align="center"><code>0:32</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[buzzin](https://open.spotify.com/track/6shmRRR2EOEIJaOY8Ng064)** by **Max Fry** *(far from perfect)* - `11 h ago`
-- **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)* - `11 h ago`
-- **[Looking For The Answer](https://open.spotify.com/track/0VWAc62e57lK3dgUs208hm)** by **Lllyric?** *(Looking For The Answer)* - `11 h ago`
-- **[The Unknowing](https://open.spotify.com/track/0WngwdBLS8hFbq1C45DiMJ)** by **Jfarrari** *(Fear of the Unknown)* - `11 h ago`
-- **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)* - `11 h ago`
+- **[Symphonia IX](https://open.spotify.com/track/1rluwEqsWp5tz0lgyOT9rE)** by **Current Joys** *(Wild Heart)* - `just now`
+- **[does anybody love me](https://open.spotify.com/track/4sUmHOec2IhISCZS4d5a4Z)** by **NESYA** *(Never Truly Happy)* - `3 min ago`
+- **[lightspeed](https://open.spotify.com/track/0lLB36wM1xOFRkSauT0GVq)** by **Max Fry** *(more than dead to me)* - `6 min ago`
+- **[Kiss](https://open.spotify.com/track/3RIlrJDw7LWHCyj6HWiKez)** by **Lil Peep** *(Kiss)* - `9 min ago`
+- **[DIE](https://open.spotify.com/track/4nkR7dBuAleYLCjFPC6YPJ)** by **Vandalism** *(DIE)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 08:46:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 09:56:59 UTC*
 <!-- SPOTIFY-END -->
