@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733e378f6f76942740e239df0d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4Zf961QkP6Q6k7WFNMrWO8">Where Am I?</a></strong><br/>
-  <em>by</em> <strong>Title Fight</strong><br/>
-  <em>Album:</em> Shed
+  <strong><a href="https://open.spotify.com/track/7pP5mF7UGoQlKq6vKkmTRz">You Broke My Heart</a></strong><br/>
+  <em>by</em> <strong>Current Joys</strong><br/>
+  <em>Album:</em> Wild Heart
 </p>
 
-<p align="center"><code>1:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:06</code></p>
+<p align="center"><code>4:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>7:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)* - `1 min ago`
-- **[two](https://open.spotify.com/track/4CYFtUTwSrtcV5An3pO2n2)** by **Cult Member** *(2017 Archives)* - `5 min ago`
-- **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)* - `9 min ago`
-- **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)* - `13 min ago`
-- **[toxic city](https://open.spotify.com/track/1TYL7BonBQIssN0zpte1qQ)** by **Lil Peep** *(feelz)* - `16 min ago`
+- **[praying to the sky](https://open.spotify.com/track/0hzck1SKuiZM0x3oiAgeP3)** by **Lil Peep** *(LIL PEEP; PART ONE)* - `4 min ago`
+- **[Pap Smear](https://open.spotify.com/track/3EBCX213tph37xvo20rnsO)** by **Crystal Castles** *(Crystal Castles (II))* - `8 min ago`
+- **[Symphonia IX (My Wait Is U)](https://open.spotify.com/track/4W0P9MNb70qBqBR2leLb7j)** by **Grimes** *(Visions)* - `12 min ago`
+- **[Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `17 min ago`
+- **[Abyss](https://open.spotify.com/track/4gD62cf8agHxwmlnqfuJRO)** by **Pastel Ghost** *(Abyss)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 11:40:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 12:35:00 UTC*
 <!-- SPOTIFY-END -->
