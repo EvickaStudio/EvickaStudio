@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733e378f6f76942740e239df0d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM">Duvet</a></strong><br/>
-  <em>by</em> <strong>bôa</strong><br/>
-  <em>Album:</em> Twilight
+  <strong><a href="https://open.spotify.com/track/4Zf961QkP6Q6k7WFNMrWO8">Where Am I?</a></strong><br/>
+  <em>by</em> <strong>Title Fight</strong><br/>
+  <em>Album:</em> Shed
 </p>
 
-<p align="center"><code>0:34</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:23</code></p>
+<p align="center"><code>1:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Your Pain Is Mine Now](https://open.spotify.com/track/1g1zQE8KtgrkGmid0PKtjm)** by **Title Fight** *(Hyperview)* - `just now`
-- **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)* - `4 min ago`
-- **[us](https://open.spotify.com/track/748RKO9bgD3PN8WVziPiQw)** by **NESYA** *(Never Truly Happy)* - `4 min ago`
-- **[live forever](https://open.spotify.com/track/1Vjn9saTlgAdag9UECRafl)** by **Lil Peep** *(LIVE FOREVER)* - `4 min ago`
-- **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)* - `7 min ago`
+- **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)* - `1 min ago`
+- **[two](https://open.spotify.com/track/4CYFtUTwSrtcV5An3pO2n2)** by **Cult Member** *(2017 Archives)* - `5 min ago`
+- **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)* - `9 min ago`
+- **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)* - `13 min ago`
+- **[toxic city](https://open.spotify.com/track/1TYL7BonBQIssN0zpte1qQ)** by **Lil Peep** *(feelz)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 10:50:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 11:40:24 UTC*
 <!-- SPOTIFY-END -->
