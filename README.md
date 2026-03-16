@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[buzzin](https://open.spotify.com/track/6shmRRR2EOEIJaOY8Ng064)** by **Max Fry** *(far from perfect)* - `4 h ago`
-- **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)* - `4 h ago`
-- **[Looking For The Answer](https://open.spotify.com/track/0VWAc62e57lK3dgUs208hm)** by **Lllyric?** *(Looking For The Answer)* - `4 h ago`
-- **[The Unknowing](https://open.spotify.com/track/0WngwdBLS8hFbq1C45DiMJ)** by **Jfarrari** *(Fear of the Unknown)* - `4 h ago`
-- **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)* - `4 h ago`
+- **[buzzin](https://open.spotify.com/track/6shmRRR2EOEIJaOY8Ng064)** by **Max Fry** *(far from perfect)* - `7 h ago`
+- **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)* - `7 h ago`
+- **[Looking For The Answer](https://open.spotify.com/track/0VWAc62e57lK3dgUs208hm)** by **Lllyric?** *(Looking For The Answer)* - `7 h ago`
+- **[The Unknowing](https://open.spotify.com/track/0WngwdBLS8hFbq1C45DiMJ)** by **Jfarrari** *(Fear of the Unknown)* - `7 h ago`
+- **[NEUANFANG](https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69)** by **S1RENA** *(NEUANFANG)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 01:44:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 04:26:03 UTC*
 <!-- SPOTIFY-END -->
