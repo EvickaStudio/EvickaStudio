@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27377073761e43f273c60988eaf" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7pP5mF7UGoQlKq6vKkmTRz">You Broke My Heart</a></strong><br/>
-  <em>by</em> <strong>Current Joys</strong><br/>
-  <em>Album:</em> Wild Heart
+  <strong><a href="https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7">Baby I'm-a Want You</a></strong><br/>
+  <em>by</em> <strong>Bread</strong><br/>
+  <em>Album:</em> Baby I'm-a Want You
 </p>
 
-<p align="center"><code>4:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>7:07</code></p>
+<p align="center"><code>0:56</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[praying to the sky](https://open.spotify.com/track/0hzck1SKuiZM0x3oiAgeP3)** by **Lil Peep** *(LIL PEEP; PART ONE)* - `4 min ago`
-- **[Pap Smear](https://open.spotify.com/track/3EBCX213tph37xvo20rnsO)** by **Crystal Castles** *(Crystal Castles (II))* - `8 min ago`
-- **[Symphonia IX (My Wait Is U)](https://open.spotify.com/track/4W0P9MNb70qBqBR2leLb7j)** by **Grimes** *(Visions)* - `12 min ago`
-- **[Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `17 min ago`
-- **[Abyss](https://open.spotify.com/track/4gD62cf8agHxwmlnqfuJRO)** by **Pastel Ghost** *(Abyss)* - `20 min ago`
+- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `just now`
+- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `5 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `8 min ago`
+- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `10 min ago`
+- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Lil Peep**](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 12:35:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-16 14:04:14 UTC*
 <!-- SPOTIFY-END -->
