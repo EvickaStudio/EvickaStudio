@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk">Harvest Moon</a></strong><br/>
+  <em>by</em> <strong>Neil Young</strong><br/>
+  <em>Album:</em> Harvest Moon
+</p>
+
+<p align="center"><code>1:58</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>5:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Zickzack](https://open.spotify.com/track/7mBDRYTfJC24sFknHOGJb0)** by **makko, lucidbeatz** *(Zickzack)* - `38 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `18 h ago`
-- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `18 h ago`
-- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `18 h ago`
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `18 h ago`
+- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `1 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `4 min ago`
+- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `6 min ago`
+- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `9 min ago`
+- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-17 08:28:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-17 09:28:03 UTC*
 <!-- SPOTIFY-END -->
