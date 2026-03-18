@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273441c76674ffd767b8b3bdc98" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273579b367de850b6cdfa7ab35a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3qJMyNM5wdHwgwFt3ax42S">friday nite</a></strong><br/>
-  <em>by</em> <strong>elricfd</strong><br/>
-  <em>Album:</em> friday nite
+  <strong><a href="https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ">i'm so thankful i didn't end up with what i thought i wanted</a></strong><br/>
+  <em>by</em> <strong>User2222</strong><br/>
+  <em>Album:</em> i'm so thankful i didn't end up with what i thought i wanted
 </p>
 
-<p align="center"><code>3:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:07</code></p>
+<p align="center"><code>0:52</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)* - `3 min ago`
-- **[Soul Shield](https://open.spotify.com/track/2ZpQJkeJDUAF2vwYj6WBvM)** by **DJmegan23, hallow** *(Thou Art All Lost And Forgotten (DELUXE))* - `6 min ago`
-- **[Blind](https://open.spotify.com/track/7srg9XLX0EumYXWqsgPPKb)** by **Kidd Kazama** *(Hundert.tausend Briefe)* - `8 min ago`
-- **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)* - `11 min ago`
-- **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))* - `12 min ago`
+- **[dancefloor!](https://open.spotify.com/track/3fl7Ab2MYqd7lJVSe47H78)** by **luu, n3vio** *(dancefloor!)* - `just now`
+- **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)* - `2 min ago`
+- **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)* - `4 min ago`
+- **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)* - `5 min ago`
+- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-18 16:51:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-18 17:54:00 UTC*
 <!-- SPOTIFY-END -->
