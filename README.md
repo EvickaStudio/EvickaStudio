@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27363c524c96bd99720916280b7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273170f1908b3c5d98608defc9b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M">do you even hear me?</a></strong><br/>
-  <em>by</em> <strong>Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000</strong><br/>
-  <em>Album:</em> Crossover for Charity: UNITY PREVAILS
+  <strong><a href="https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8">Realize</a></strong><br/>
+  <em>by</em> <strong>Trxy!</strong><br/>
+  <em>Album:</em> Realize
 </p>
 
-<p align="center"><code>0:23</code> ▓░░░░░░░░░░░░░░░░░░░ <code>8:09</code></p>
+<p align="center"><code>0:09</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[tut mir leid](https://open.spotify.com/track/2FYCbwYF67MydQN7Aa9DWI)** by **Tape Head, NONI** *(tut mir leid)* - `6 min ago`
-- **[luv the way i look](https://open.spotify.com/track/5K1i5PIaZ6VcJ34n0HvnIj)** by **hateoryx** *(luv the way i look)* - `8 min ago`
-- **[way2go](https://open.spotify.com/track/4gOmicm2eos8CHKIswcM8Q)** by **myspacemark** *(way2go)* - `10 min ago`
-- **[Down Again](https://open.spotify.com/track/5EbVSY9Ftx8kxelsUXDhHf)** by **Eera** *(Down Again)* - `12 min ago`
-- **[lying bitch](https://open.spotify.com/track/5Ej0nOzvzwdu6aeYhWPrOg)** by **n3vio, iwannabemissed** *(lying bitch)* - `16 min ago`
+- **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `just now`
+- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `4 min ago`
+- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `6 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `7 min ago`
+- **[recuérdame](https://open.spotify.com/track/0eY8eZ9goya2f7GqEQqKpv)** by **yaego** *(recuérdame)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -125,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Wenn alle Stricke reissen**](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 11:26:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 11:51:21 UTC*
 <!-- SPOTIFY-END -->
