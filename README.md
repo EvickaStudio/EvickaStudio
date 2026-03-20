@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc">Feel So Close - Radio Edit</a></strong><br/>
-  <em>by</em> <strong>Calvin Harris</strong><br/>
-  <em>Album:</em> 18 Months
+  <strong><a href="https://open.spotify.com/track/6dCTkPt0ta0t0adgADhT4R">Diamonds</a></strong><br/>
+  <em>by</em> <strong>Thaiboy Digital, Yung Lean</strong><br/>
+  <em>Album:</em> Tiger
 </p>
 
-<p align="center"><code>0:17</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:26</code></p>
+<p align="center"><code>4:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>5:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stereo Love](https://open.spotify.com/track/3lYLrCyDzd7WN7mN4T9AkX)** by **Edward Maya, Vika Jigulina** *(The Stereo Love Show)* - `just now`
-- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `4 min ago`
-- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `6 min ago`
-- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)* - `8 min ago`
-- **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by **5v** *(kein zufall)* - `10 min ago`
+- **[Hennessy & Sailor Moon](https://open.spotify.com/track/5u4urxeKC7pd7AWHe0kOd6)** by **Yung Lean, Bladee** *(Frost God)* - `4 min ago`
+- **[Calcium (Show Me Love)](https://open.spotify.com/track/0PJWvYMTuFN5eghoXFiifn)** by **ewshem** *(yee)* - `7 min ago`
+- **[This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI)** by **my!lane** *(Sakura's Shadows)* - `12 min ago`
+- **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)* - `15 min ago`
+- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 20:23:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 20:55:13 UTC*
 <!-- SPOTIFY-END -->
