@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[700 Main Street](https://open.spotify.com/track/3BouYneOiIcnpuswhcfjwf)** by **DAT ADAM** *(Chrome)* - `9 min ago`
-- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `13 min ago`
-- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `14 min ago`
-- **[Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c)** by **Juice WRLD** *(Goodbye & Good Riddance)* - `18 min ago`
-- **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)* - `21 min ago`
+- **[700 Main Street](https://open.spotify.com/track/3BouYneOiIcnpuswhcfjwf)** by **DAT ADAM** *(Chrome)* - `37 min ago`
+- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `41 min ago`
+- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `42 min ago`
+- **[Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c)** by **Juice WRLD** *(Goodbye & Good Riddance)* - `46 min ago`
+- **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)* - `49 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 21:22:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 21:51:01 UTC*
 <!-- SPOTIFY-END -->
