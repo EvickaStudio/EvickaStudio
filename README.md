@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328d8c67effa267a818e53bec" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27315b72ee3398b9857fc468fbd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/31I9FPwCuHq6f4BoMW6yha">Wonderful now but it's fast</a></strong><br/>
-  <em>by</em> <strong>Anatole Muster, Juliana Chahayed</strong><br/>
-  <em>Album:</em> Wonderful now but it's fast
+  <strong><a href="https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY">nodding off</a></strong><br/>
+  <em>by</em> <strong>5v</strong><br/>
+  <em>Album:</em> nodding off
 </p>
 
-<p align="center"><code>0:50</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:11</code></p>
+<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kalt in der Hood](https://open.spotify.com/track/1uqPRPfFx29OaKkKDYSGwi)** by **Beyazz** *(Kara Tape)* - `just now`
-- **[Legends](https://open.spotify.com/track/1Knctxx9vGZxpZfF66BIEa)** by **Juice WRLD** *(Legends)* - `3 min ago`
-- **[do you even hear me?](https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M)** by **Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000** *(Crossover for Charity: UNITY PREVAILS)* - `6 min ago`
-- **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)* - `14 min ago`
-- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `18 min ago`
+- **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)* - `just now`
+- **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)* - `3 min ago`
+- **[Dream House](https://open.spotify.com/track/6l3A2EWZSOA8LTMmzRCyD3)** by **Deafheaven** *(Sunbather)* - `6 min ago`
+- **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)* - `15 min ago`
+- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 15:26:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 17:00:18 UTC*
 <!-- SPOTIFY-END -->
