@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273170f1908b3c5d98608defc9b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8">Realize</a></strong><br/>
-  <em>by</em> <strong>Trxy!</strong><br/>
-  <em>Album:</em> Realize
+  <strong><a href="https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj">Outro</a></strong><br/>
+  <em>by</em> <strong>Whitearmor</strong><br/>
+  <em>Album:</em> In the Abyss: Music for Weddings
 </p>
 
-<p align="center"><code>0:09</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:55</code></p>
+<p align="center"><code>1:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `just now`
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `4 min ago`
-- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `6 min ago`
-- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `7 min ago`
-- **[recuérdame](https://open.spotify.com/track/0eY8eZ9goya2f7GqEQqKpv)** by **yaego** *(recuérdame)* - `11 min ago`
+- **[Heroine](https://open.spotify.com/track/6N2rMGXBhNZ6slxJcp1E7z)** by **Dutch Disorder** *(Heroine)* - `1 min ago`
+- **[ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai)** by **Tyler, The Creator** *(IGOR)* - `4 min ago`
+- **[UNTER DRUCK](https://open.spotify.com/track/6JspwrCAbGUqHbFZpZelOA)** by **Skepsiz, headless_DATA** *(PUNK PARADOX!)* - `9 min ago`
+- **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)* - `11 min ago`
+- **[Bagchaser Can](https://open.spotify.com/track/5QVOfXj8466NDNQRAqfWaA)** by **Pashanim** *(Bagchaser Can)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 11:51:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 12:39:19 UTC*
 <!-- SPOTIFY-END -->
