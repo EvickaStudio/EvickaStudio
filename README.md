@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e9c5898fcbe03028e0f9412" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P">all1ne</a></strong><br/>
-  <em>by</em> <strong>Niclov, ilyproxy, leander</strong><br/>
-  <em>Album:</em> all1ne
+  <strong><a href="https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc">Feel So Close - Radio Edit</a></strong><br/>
+  <em>by</em> <strong>Calvin Harris</strong><br/>
+  <em>Album:</em> 18 Months
 </p>
 
-<p align="center"><code>2:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:51</code></p>
+<p align="center"><code>0:17</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)* - `2 min ago`
-- **[Poser](https://open.spotify.com/track/31OYENrUPlnD2YEos3jyWK)** by **ilyproxy, leander, Hadesthegrim** *(Poser)* - `4 min ago`
-- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `6 min ago`
-- **[tau mich auf](https://open.spotify.com/track/1prNhzt3DdgRoxKoALTEYo)** by **Zartmann** *(schönhauser EP)* - `8 min ago`
-- **[deine stadt](https://open.spotify.com/track/0j4UxuQnd1pWIUGYMuq84c)** by **Tamino404** *(du hast uns alle vergessen und ich bin stolz auf dich)* - `19 min ago`
+- **[Stereo Love](https://open.spotify.com/track/3lYLrCyDzd7WN7mN4T9AkX)** by **Edward Maya, Vika Jigulina** *(The Stereo Love Show)* - `just now`
+- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `4 min ago`
+- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `6 min ago`
+- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)* - `8 min ago`
+- **[kein zufall](https://open.spotify.com/track/51tk4E4RZMKATDGjvzAPWN)** by **5v** *(kein zufall)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 19:52:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 20:23:02 UTC*
 <!-- SPOTIFY-END -->
