@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e7cb1429534f0d21133b714" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49">Hate The Other Side (with Marshmello & The Kid Laroi)</a></strong><br/>
-  <em>by</em> <strong>Juice WRLD, Marshmello, The Kid LAROI, Polo G</strong><br/>
-  <em>Album:</em> Legends Never Die
+  <strong><a href="https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK">A Mi Manera (Comme D'Habitude)</a></strong><br/>
+  <em>by</em> <strong>Gipsy Kings</strong><br/>
+  <em>Album:</em> Gipsy Kings
 </p>
 
-<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:40</code></p>
+<p align="center"><code>1:58</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)** by **Levi Ryan** *(operation wandering soul)* - `2 min ago`
-- **[eine Woche](https://open.spotify.com/track/1L5Yx9t9a4kUOGx0gdiX9p)** by **Steintor Herrenchor** *(Eine Woche Geburtstag)* - `6 min ago`
-- **[Mirage](https://open.spotify.com/track/0OoD5Olbr2dcuzI2FlAknD)** by **vic, cethias** *(Mirage)* - `9 min ago`
-- **[Memory Reboot - Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ)** by **VØJ, Narvent** *(Memory Reboot)* - `10 min ago`
-- **[Project Lee](https://open.spotify.com/track/4BWB4sloTnnEych80RIJhH)** by **Dj Settler** *(Project Lee)* - `14 min ago`
+- **[Scheiß auf eure Party](https://open.spotify.com/track/1Syhm4vkn6n2DYuFnyI60s)** by **Ufo361** *(Ich bin 2 Berliner)* - `25 min ago`
+- **[scary monsters](https://open.spotify.com/track/61LjHLYGA0A7lyPBnSRsjy)** by **KidSnorlax** *(scary monsters)* - `29 min ago`
+- **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)* - `32 min ago`
+- **[eine nase](https://open.spotify.com/track/5VGReJtwl1BHxAZTPHOaPs)** by **Yung Hurn** *(eine nase)* - `33 min ago`
+- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `35 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 13:45:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 14:38:05 UTC*
 <!-- SPOTIFY-END -->
