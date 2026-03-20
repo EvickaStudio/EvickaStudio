@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732c1f6d2a405c71584e27a0b6" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW">Elei</a></strong><br/>
-  <em>by</em> <strong>OG Florin</strong><br/>
-  <em>Album:</em> ILY<3
-</p>
-
-<p align="center"><code>2:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>4:20</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[069](https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA)** by **Haftbefehl, Bazzazian** *(Deutschrap Hits)* - `2 min ago`
-- **[Endlos_demo](https://open.spotify.com/track/4tQA4uDHh6iPaQLWaxeQqH)** by **Mayberg** *(Endlos_demo)* - `6 min ago`
-- **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by **SMiLE.dk** *(Smile)* - `8 min ago`
-- **[Xenozis](https://open.spotify.com/track/59yfwAIsmdmNZBPXg966xu)** by **Tevvez** *(Xenozis)* - `11 min ago`
-- **[i met sarah in the bathroom](https://open.spotify.com/track/6Csn07rSjTle1myRtfWAyn)** by **awfultune** *(i met sarah in the bathroom)* - `13 min ago`
+- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `18 min ago`
+- **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)* - `21 min ago`
+- **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)* - `23 min ago`
+- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)* - `25 min ago`
+- **[do you even hear me?](https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M)** by **Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000** *(Crossover for Charity: UNITY PREVAILS)* - `27 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 17:52:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 18:36:14 UTC*
 <!-- SPOTIFY-END -->
