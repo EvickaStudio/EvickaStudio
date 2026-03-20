@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737603a201836888cb5f33a2c7" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6">superswag pt. 1</a></strong><br/>
+  <em>by</em> <strong>ilyproxy, leander, Hadesthegrim, eversonder</strong><br/>
+  <em>Album:</em> superswag pt. 1
+</p>
+
+<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:57</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[700 Main Street](https://open.spotify.com/track/3BouYneOiIcnpuswhcfjwf)** by **DAT ADAM** *(Chrome)* - `1 h ago`
-- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `1 h ago`
-- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `1 h ago`
-- **[Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c)** by **Juice WRLD** *(Goodbye & Good Riddance)* - `1 h ago`
-- **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)* - `1 h ago`
+- **[Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA)** by **Charli xcx** *(Wuthering Heights)* - `just now`
+- **[Boys Don't Cry](https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC)** by **The Cure** *(Three Imaginary Boys)* - `3 min ago`
+- **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)* - `6 min ago`
+- **[700 Main Street](https://open.spotify.com/track/3BouYneOiIcnpuswhcfjwf)** by **DAT ADAM** *(Chrome)* - `2 h ago`
+- **[white tee](https://open.spotify.com/track/6Ac8Byr6GByGr3wDH7JjYh)** by **Lil Peep, Lil Tracy** *(crybaby)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 22:53:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 23:21:20 UTC*
 <!-- SPOTIFY-END -->
