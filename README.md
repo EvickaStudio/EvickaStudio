@@ -96,18 +96,18 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `18 min ago`
-- **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)* - `21 min ago`
-- **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)* - `23 min ago`
-- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)* - `25 min ago`
-- **[do you even hear me?](https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M)** by **Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000** *(Crossover for Charity: UNITY PREVAILS)* - `27 min ago`
+- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `1 h ago`
+- **[dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt)** by **Yandere** *(dreamcore)* - `1 h ago`
+- **[Eiskalt](https://open.spotify.com/track/2xdlH0BNo5bjZ8i7ly8yY2)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)* - `1 h ago`
+- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)* - `1 h ago`
+- **[do you even hear me?](https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M)** by **Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000** *(Crossover for Charity: UNITY PREVAILS)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Lil Peep**](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3)
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 18:36:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-20 19:24:29 UTC*
 <!-- SPOTIFY-END -->
