@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739487675ea8ef004d3f147fda" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b3a31d76d1575e1e102a1346" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0S2VPE4ids1D5VDbC1ZKkm">plateau</a></strong><br/>
-  <em>by</em> <strong>IVOXYGEN</strong><br/>
-  <em>Album:</em> plateau
+  <strong><a href="https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN">L1ebe 1n der Luft</a></strong><br/>
+  <em>by</em> <strong>S1RENA, TYM</strong><br/>
+  <em>Album:</em> L1ebe 1n der Luft
 </p>
 
-<p align="center"><code>1:25</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:57</code></p>
+<p align="center"><code>2:58</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)* - `1 min ago`
-- **[Rewe 2 Go](https://open.spotify.com/track/2Emraq2gizjf3kc5JZlELF)** by **Cloud, Viertel 105** *(Rewe 2 Go)* - `4 min ago`
-- **[Off-Grid](https://open.spotify.com/track/5K0afcEiNfNaOewT3nwY8T)** by **SUMMER ALONE** *(Off-Grid)* - `5 min ago`
-- **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)* - `7 min ago`
-- **[ALLES IST WIE ES IST](https://open.spotify.com/track/5f2KAhJr9NFBunafQz9nWU)** by **Kalte Liebe** *(ALLES IST WIE ES IST)* - `11 min ago`
+- **[Let Me Fall](https://open.spotify.com/track/5j1roxIfO9KK7zaUNudO4P)** by **suisside** *(Let Me Fall)* - `2 min ago`
+- **[castle](https://open.spotify.com/track/1eKUWaM1Wv8TdJmyZSBZIW)** by **IVOXYGEN** *(castle)* - `5 min ago`
+- **[with u](https://open.spotify.com/track/5nKVY8ddr3VWhuuNn71SvN)** by **lucidbeatz** *(with u)* - `7 min ago`
+- **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)* - `9 min ago`
+- **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 10:31:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 10:58:23 UTC*
 <!-- SPOTIFY-END -->
