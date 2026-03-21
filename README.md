@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27386c4322b91dfe27efb371d89" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv">I Am A Destiny</a></strong><br/>
-  <em>by</em> <strong>Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom</strong><br/>
-  <em>Album:</em> Iliad Unspoken
+  <strong><a href="https://open.spotify.com/track/6HmTAsOX9oARMyFdMY4E7g">Wingspan</a></strong><br/>
+  <em>by</em> <strong>The Hellp</strong><br/>
+  <em>Album:</em> Vol. 1
 </p>
 
-<p align="center"><code>0:49</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:44</code></p>
+<p align="center"><code>0:16</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[talk ab it](https://open.spotify.com/track/5YhJjz8YCmaot4LnCoUP7w)** by **crusey, lynU** *(talk ab it)* - `just now`
-- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `3 min ago`
-- **[Gleam](https://open.spotify.com/track/1wK5UqExIm5iSAdHSVBcNk)** by **heartcoregirl** *(Gleam)* - `5 min ago`
-- **[hands of a stranger](https://open.spotify.com/track/1c0WSomt3EdYmEAuyST5hV)** by **Levi Ryan, syris** *(hands of a stranger)* - `7 min ago`
-- **[Wie es war](https://open.spotify.com/track/4eodJJt1wQ4SKgAnOY2gHd)** by **humanangst** *(Wie es war / Van Damme)* - `9 min ago`
+- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `just now`
+- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `2 min ago`
+- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `4 min ago`
+- **[paladin.ᎷᎧᏁᎴᏗᎩ](https://open.spotify.com/track/7to9EgFKEsVT6ZfqK6Vhcg)** by **jequya** *(jomyulo)* - `8 min ago`
+- **[ur stuck with me xoxo](https://open.spotify.com/track/1ZlgLqeVmC8Nes9WcbNHml)** by **Scarly** *(ur stuck with me xoxo)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 19:55:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 20:18:35 UTC*
 <!-- SPOTIFY-END -->
