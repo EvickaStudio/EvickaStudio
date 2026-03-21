@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `29 min ago`
-- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `31 min ago`
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `33 min ago`
-- **[paladin.ᎷᎧᏁᎴᏗᎩ](https://open.spotify.com/track/7to9EgFKEsVT6ZfqK6Vhcg)** by **jequya** *(jomyulo)* - `37 min ago`
-- **[ur stuck with me xoxo](https://open.spotify.com/track/1ZlgLqeVmC8Nes9WcbNHml)** by **Scarly** *(ur stuck with me xoxo)* - `39 min ago`
+- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `58 min ago`
+- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `1 h ago`
+- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `1 h ago`
+- **[paladin.ᎷᎧᏁᎴᏗᎩ](https://open.spotify.com/track/7to9EgFKEsVT6ZfqK6Vhcg)** by **jequya** *(jomyulo)* - `1 h ago`
+- **[ur stuck with me xoxo](https://open.spotify.com/track/1ZlgLqeVmC8Nes9WcbNHml)** by **Scarly** *(ur stuck with me xoxo)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 20:47:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 21:17:17 UTC*
 <!-- SPOTIFY-END -->
