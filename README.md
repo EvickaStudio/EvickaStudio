@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734f175be5724ca27706a81480" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273617380b4e0e350f509bded82" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5lx19oXQp2EPxKDOEgwvBa">I Hate Myself</a></strong><br/>
-  <em>by</em> <strong>kandyxkat, scarycide</strong><br/>
-  <em>Album:</em> I Hate Myself
+  <strong><a href="https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK">INTO YOU (feat. meat computer)</a></strong><br/>
+  <em>by</em> <strong>Yung Hurn, meat computer</strong><br/>
+  <em>Album:</em> CRAZY HORSE CLUB MIXTAPE, VOL. 1
 </p>
 
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:05</code></p>
+<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)* - `1 min ago`
-- **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)* - `4 min ago`
-- **[derealization](https://open.spotify.com/track/7A2UI8oiwH9e2BvGJDKOcJ)** by **wiv, 68+1** *(derealization)* - `6 min ago`
-- **[Mystique](https://open.spotify.com/track/3BrjDL7NEUuvwGOhG10O0e)** by **Tevvez** *(Divinity)* - `9 min ago`
-- **[viola](https://open.spotify.com/track/2rdUbYOAI23aw0XJSaE4eC)** by **Aurval** *(viola)* - `12 min ago`
+- **[Staub - sped up](https://open.spotify.com/track/09bdhPbvXd7B3TOa7ainYN)** by **S1RENA** *(Staub)* - `just now`
+- **[Heaven (Interlude)](https://open.spotify.com/track/7uVpCKCrfJl02npkIQaUzH)** by **SUMMER ALONE** *(Sleep Longer, You'll Be Ok)* - `2 min ago`
+- **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)* - `4 min ago`
+- **[Might Die](https://open.spotify.com/track/1vHdshX9QjmGf6ixaoFjqF)** by **suisside** *(Might Die)* - `6 min ago`
+- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 08:38:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 09:02:16 UTC*
 <!-- SPOTIFY-END -->
