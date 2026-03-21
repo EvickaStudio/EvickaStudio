@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328c07f3d0549fd874f7d1105" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f926a378b8b16662ecdc6a49" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU">Melancholie</a></strong><br/>
-  <em>by</em> <strong>mickyi</strong><br/>
-  <em>Album:</em> Melancholie
+  <strong><a href="https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J">the day i met astagel</a></strong><br/>
+  <em>by</em> <strong>humanangst, agelast222</strong><br/>
+  <em>Album:</em> the day i met astagel
 </p>
 
-<p align="center"><code>1:18</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:18</code></p>
+<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)* - `1 min ago`
-- **[eine liebe](https://open.spotify.com/track/72fV0RCHpxERuxcxCm38Ll)** by **ilyproxy** *(eine liebe)* - `3 min ago`
-- **[Forest Spell](https://open.spotify.com/track/35nqImy5Zszu7Bf1mSZ6QW)** by **ikigaisoulya, letmedrown** *(Forest Spell)* - `6 min ago`
-- **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)* - `9 min ago`
-- **[valhalla](https://open.spotify.com/track/1VLOCtdOIsoQ3RjKcQAz1v)** by **forever forever** *(valhalla)* - `11 min ago`
+- **[R0ul3tt3.html](https://open.spotify.com/track/3C9bkOSRpt7nIx0LRc4dLH)** by **Jahresgarantie** *(R0ul3tt3.html)* - `1 min ago`
+- **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)* - `3 min ago`
+- **[heartbeat](https://open.spotify.com/track/6vcf9Zu94B2P9dI6uMIZeG)** by **fangs** *(heartbeat)* - `5 min ago`
+- **[construction of love](https://open.spotify.com/track/2bDgbym0QjuAKZBQFt5dfV)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `7 min ago`
+- **[i wna be ur witch](https://open.spotify.com/track/0dvCvf7j69nBIrGpzNhzPa)** by **bliiiss** *(i wna be ur witch)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Lil Peep**](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 16:52:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 17:18:57 UTC*
 <!-- SPOTIFY-END -->
