@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733f40125dc86422780af2f6d1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738349bc1fc110a9fcd75dbb8d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v">words you say</a></strong><br/>
-  <em>by</em> <strong>SHEMYYY</strong><br/>
-  <em>Album:</em> words you say
+  <strong><a href="https://open.spotify.com/track/4F1nBGK2yeIc5TvqN06vlp">the things we carry</a></strong><br/>
+  <em>by</em> <strong>Levi Ryan</strong><br/>
+  <em>Album:</em> operation wandering soul
 </p>
 
-<p align="center"><code>1:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>1:57</code></p>
+<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)* - `1 min ago`
-- **[ISSEY](https://open.spotify.com/track/3fWTctA3VHTwbZgG5U6JQr)** by **rari kari** *(NOCLIP)* - `3 min ago`
-- **[Uncertain Cold - 2626 Mix](https://open.spotify.com/track/2HTZwoceztGBcsZqIPQfoC)** by **benzii, Luca Eck** *(Uncertain Cold (2626 Mix))* - `5 min ago`
-- **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)* - `9 min ago`
-- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `11 min ago`
+- **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)* - `1 min ago`
+- **[Coco Manifesto](https://open.spotify.com/track/4u7c3d2wycoc2uW6Wd6Z0b)** by **Ms* Gloom** *(J is for Joon)* - `5 min ago`
+- **[Atlantis - sped up](https://open.spotify.com/track/6QdUwjKRMzzQs4Rti0l2Ut)** by **S1RENA** *(Atlantis)* - `9 min ago`
+- **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)* - `11 min ago`
+- **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 11:43:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 11:55:12 UTC*
 <!-- SPOTIFY-END -->
