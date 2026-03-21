@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a8a908e872460de06f5df1e2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738312a913486acc9dfef57f43" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N">So What If I'm A Freak</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> So What If I'm A Freak
+  <strong><a href="https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD">Expression On Your Face</a></strong><br/>
+  <em>by</em> <strong>Mechatok, Ecco2k, Bladee</strong><br/>
+  <em>Album:</em> Wide Awake
 </p>
 
-<p align="center"><code>1:54</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:26</code></p>
+<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)* - `1 min ago`
-- **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `2 min ago`
-- **[Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX)** by **Sportfreunde Stiller** *(Die gute Seite (Die lange Seite))* - `6 min ago`
-- **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)* - `9 min ago`
-- **[ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz)** by **siouxxie sixxsta** *(witchpop)* - `11 min ago`
+- **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)* - `1 min ago`
+- **[(I Just) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm)** by **Cutting Crew** *(Broadcast)* - `5 min ago`
+- **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)* - `10 min ago`
+- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `14 min ago`
+- **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 14:51:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 15:18:18 UTC*
 <!-- SPOTIFY-END -->
