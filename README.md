@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cbe8008ca046872dfc4755a0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739487675ea8ef004d3f147fda" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/79qy0vLXsAixtBf6Q7ygzs">Astronaut</a></strong><br/>
-  <em>by</em> <strong>strangerperson</strong><br/>
-  <em>Album:</em> Astronaut
+  <strong><a href="https://open.spotify.com/track/0S2VPE4ids1D5VDbC1ZKkm">plateau</a></strong><br/>
+  <em>by</em> <strong>IVOXYGEN</strong><br/>
+  <em>Album:</em> plateau
 </p>
 
-<p align="center"><code>0:07</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:32</code></p>
+<p align="center"><code>1:25</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:57</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sommernacht](https://open.spotify.com/track/41nQxWOU0MYWxGwwRs1XBV)** by **Cloud, Viertel 105** *(Sommernacht)* - `just now`
-- **[economics of war](https://open.spotify.com/track/0lj5ztP2nkCRRBUIKq2MRt)** by **Levi Ryan** *(operation wandering soul)* - `2 min ago`
-- **[Heb ab](https://open.spotify.com/track/6IzcTPlDq4Ut3sQVd1ttC8)** by **S1RENA** *(Heb ab)* - `4 min ago`
-- **[Herzcrash](https://open.spotify.com/track/4i0y40eLTmexj9pCrCIkxF)** by **Baby B3ns** *(Herzcrash)* - `7 min ago`
-- **[OG Kush](https://open.spotify.com/track/7aU06OIUoTDsZDizo2ukTi)** by **SUMMER ALONE** *(Sleep Longer, You'll Be Ok)* - `9 min ago`
+- **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)* - `1 min ago`
+- **[Rewe 2 Go](https://open.spotify.com/track/2Emraq2gizjf3kc5JZlELF)** by **Cloud, Viertel 105** *(Rewe 2 Go)* - `4 min ago`
+- **[Off-Grid](https://open.spotify.com/track/5K0afcEiNfNaOewT3nwY8T)** by **SUMMER ALONE** *(Off-Grid)* - `5 min ago`
+- **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)* - `7 min ago`
+- **[ALLES IST WIE ES IST](https://open.spotify.com/track/5f2KAhJr9NFBunafQz9nWU)** by **Kalte Liebe** *(ALLES IST WIE ES IST)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 09:59:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 10:31:04 UTC*
 <!-- SPOTIFY-END -->
