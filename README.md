@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b8d235b248267f18f456baee" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27328c07f3d0549fd874f7d1105" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7f5XOsY01liVHxblAtOwK7">7. Säule</a></strong><br/>
-  <em>by</em> <strong>Lix, Elujjin</strong><br/>
-  <em>Album:</em> 7. Säule
+  <strong><a href="https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU">Melancholie</a></strong><br/>
+  <em>by</em> <strong>mickyi</strong><br/>
+  <em>Album:</em> Melancholie
 </p>
 
-<p align="center"><code>2:15</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:54</code></p>
+<p align="center"><code>1:18</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mimose // wein nicht](https://open.spotify.com/track/11SQsaAMpIE43uA5jI5oZO)** by **Jahresgarantie** *(Mimose // wein nicht)* - `2 min ago`
-- **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)* - `4 min ago`
-- **[porcelain](https://open.spotify.com/track/6whDMY83NEmxjuVteYICb2)** by **nineishuman** *(HUMAN CONDITION)* - `7 min ago`
-- **[purple heart lane](https://open.spotify.com/track/04LoE4zAwohHWawihxGmnu)** by **Levi Ryan** *(purple heart lane)* - `8 min ago`
-- **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)* - `12 min ago`
+- **[Test Subject](https://open.spotify.com/track/295aqLYuZ2NuQgZxpHPHMi)** by **flywoah** *(Test Subject)* - `1 min ago`
+- **[eine liebe](https://open.spotify.com/track/72fV0RCHpxERuxcxCm38Ll)** by **ilyproxy** *(eine liebe)* - `3 min ago`
+- **[Forest Spell](https://open.spotify.com/track/35nqImy5Zszu7Bf1mSZ6QW)** by **ikigaisoulya, letmedrown** *(Forest Spell)* - `6 min ago`
+- **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)* - `9 min ago`
+- **[valhalla](https://open.spotify.com/track/1VLOCtdOIsoQ3RjKcQAz1v)** by **forever forever** *(valhalla)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 16:19:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 16:52:09 UTC*
 <!-- SPOTIFY-END -->
