@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b8d235b248267f18f456baee" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7f5XOsY01liVHxblAtOwK7">7. Säule</a></strong><br/>
+  <em>by</em> <strong>Lix, Elujjin</strong><br/>
+  <em>Album:</em> 7. Säule
+</p>
+
+<p align="center"><code>2:15</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Cha Cha Cha](https://open.spotify.com/track/2Nq2IkUtXoO1DJ0A4bNBcj)** by **Käärijä** *(People's Champion)* - `18 min ago`
-- **[BLOMSTERTID](https://open.spotify.com/track/0qJR5242PvtHISvqxf4GE9)** by **Dj Billybool, Eurohead, Bladee** *(DYR)* - `21 min ago`
-- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `23 min ago`
-- **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)* - `27 min ago`
-- **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)* - `29 min ago`
+- **[Mimose // wein nicht](https://open.spotify.com/track/11SQsaAMpIE43uA5jI5oZO)** by **Jahresgarantie** *(Mimose // wein nicht)* - `2 min ago`
+- **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)* - `4 min ago`
+- **[porcelain](https://open.spotify.com/track/6whDMY83NEmxjuVteYICb2)** by **nineishuman** *(HUMAN CONDITION)* - `7 min ago`
+- **[purple heart lane](https://open.spotify.com/track/04LoE4zAwohHWawihxGmnu)** by **Levi Ryan** *(purple heart lane)* - `8 min ago`
+- **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 15:46:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 16:19:42 UTC*
 <!-- SPOTIFY-END -->
