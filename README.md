@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734b1b133e6d5c59f047b1b5b7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273481df6ab8bd3431ad21dc24c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4eodJJt1wQ4SKgAnOY2gHd">Wie es war</a></strong><br/>
-  <em>by</em> <strong>humanangst</strong><br/>
-  <em>Album:</em> Wie es war / Van Damme
+  <strong><a href="https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv">I Am A Destiny</a></strong><br/>
+  <em>by</em> <strong>Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom</strong><br/>
+  <em>Album:</em> Iliad Unspoken
 </p>
 
-<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>1:55</code></p>
+<p align="center"><code>0:49</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sex](https://open.spotify.com/track/1nqPB0vk6EpTSPVHZGSgF8)** by **Drux, Cgull, mikeycyrus** *(it always ends in pain)* - `2 min ago`
-- **[blues ςɭยєร](https://open.spotify.com/track/6CFlbGvvpzktKEaUxKPEeR)** by **jequya** *(jomyulo)* - `4 min ago`
-- **[keroscenic](https://open.spotify.com/track/32I2WQ2HVQkciQxQk98Liv)** by **ChromeStylist, mioskii** *(keroscenic)* - `7 min ago`
-- **[fashionova](https://open.spotify.com/track/5hvyFJYMtTSivsYF27AmsL)** by **Levi Ryan, bleach.bath** *(fashionova)* - `9 min ago`
-- **[facetune](https://open.spotify.com/track/2HkjPoZWoySeVbhIvCx9W9)** by **dreamcache** *(facetune)* - `12 min ago`
+- **[talk ab it](https://open.spotify.com/track/5YhJjz8YCmaot4LnCoUP7w)** by **crusey, lynU** *(talk ab it)* - `just now`
+- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `3 min ago`
+- **[Gleam](https://open.spotify.com/track/1wK5UqExIm5iSAdHSVBcNk)** by **heartcoregirl** *(Gleam)* - `5 min ago`
+- **[hands of a stranger](https://open.spotify.com/track/1c0WSomt3EdYmEAuyST5hV)** by **Levi Ryan, syris** *(hands of a stranger)* - `7 min ago`
+- **[Wie es war](https://open.spotify.com/track/4eodJJt1wQ4SKgAnOY2gHd)** by **humanangst** *(Wie es war / Van Damme)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 19:43:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 19:55:44 UTC*
 <!-- SPOTIFY-END -->
