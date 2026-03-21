@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f926a378b8b16662ecdc6a49" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273309eac04d704003425ddeec0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J">the day i met astagel</a></strong><br/>
-  <em>by</em> <strong>humanangst, agelast222</strong><br/>
-  <em>Album:</em> the day i met astagel
+  <strong><a href="https://open.spotify.com/track/42Zn7OOXM4tDl7fgs0vC8M">bliss</a></strong><br/>
+  <em>by</em> <strong>Ton</strong><br/>
+  <em>Album:</em> bliss
 </p>
 
-<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:42</code></p>
+<p align="center"><code>1:00</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>1:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[R0ul3tt3.html](https://open.spotify.com/track/3C9bkOSRpt7nIx0LRc4dLH)** by **Jahresgarantie** *(R0ul3tt3.html)* - `1 min ago`
-- **[tongue tied](https://open.spotify.com/track/0TYbo4GKqQJ3pDHARberyb)** by **5v, mitsu** *(tongue tied)* - `3 min ago`
-- **[heartbeat](https://open.spotify.com/track/6vcf9Zu94B2P9dI6uMIZeG)** by **fangs** *(heartbeat)* - `5 min ago`
-- **[construction of love](https://open.spotify.com/track/2bDgbym0QjuAKZBQFt5dfV)** by **RudeClub, Luvange1, dxsh** *(Sugar Dalmatian)* - `7 min ago`
-- **[i wna be ur witch](https://open.spotify.com/track/0dvCvf7j69nBIrGpzNhzPa)** by **bliiiss** *(i wna be ur witch)* - `10 min ago`
+- **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)* - `just now`
+- **[crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)** by **Scarly, korpsebunny** *(crawl out my skin)* - `4 min ago`
+- **[uns/мы](https://open.spotify.com/track/22VBfROYpe6sj7s2Zn1Q6f)** by **joram, PIA OVA** *(uns/мы)* - `6 min ago`
+- **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)* - `8 min ago`
+- **[dream about me](https://open.spotify.com/track/4qtt7cwXFAQu6jlrCWI7V3)** by **Reid** *(dream about me)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 17:18:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 17:47:38 UTC*
 <!-- SPOTIFY-END -->
