@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737eff36e91341e0f2f34ae4f5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273fb6d09c4700996b57095a41c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/75vkxudOD2VjeTQssjmE8W">PLANET - sped up</a></strong><br/>
-  <em>by</em> <strong>S1RENA</strong><br/>
-  <em>Album:</em> PLANET
+  <strong><a href="https://open.spotify.com/track/4sZGa0UXFc9Ako9Q0Sc9vk">Europapa</a></strong><br/>
+  <em>by</em> <strong>Joost</strong><br/>
+  <em>Album:</em> Unity
 </p>
 
-<p align="center"><code>0:19</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:01</code></p>
+<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)* - `just now`
-- **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)* - `2 min ago`
-- **[Glide](https://open.spotify.com/track/4ojzHFPkM9UnJJV8d0ceLJ)** by **heartcoregirl** *(Glide)* - `4 min ago`
-- **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)* - `7 min ago`
-- **[Keep Holding On](https://open.spotify.com/track/16WlDLBXcTIjoWBw4tGABH)** by **Snow Strippers** *(The Snow Strippers)* - `10 min ago`
+- **[going quietly - sped up](https://open.spotify.com/track/5nZxjCC9edqvv8dxrXAFBq)** by **Ezekiel, sped up + nightcore** *(going quietly (sped up))* - `1 min ago`
+- **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)* - `3 min ago`
+- **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)* - `5 min ago`
+- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `8 min ago`
+- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 12:30:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 13:28:58 UTC*
 <!-- SPOTIFY-END -->
