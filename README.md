@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730e31b6a9d8449d144da26a2b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ee9c38c07e791743506c8a2f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5PppvkvKMqU1mz4LVjKdw4">Sterne oder Häuser</a></strong><br/>
-  <em>by</em> <strong>Kicker Dibs</strong><br/>
-  <em>Album:</em> Sonnemondstern
+  <strong><a href="https://open.spotify.com/track/20wjyIgEQ0Gl0nHiO8fvrf">Snowmen</a></strong><br/>
+  <em>by</em> <strong>Xavier Wulf, Ecco, Bladee</strong><br/>
+  <em>Album:</em> Greatest Hits, Pt. 1
 </p>
 
-<p align="center"><code>1:51</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:51</code></p>
+<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)* - `just now`
-- **[MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T)** by **347aidan** *(TROUBLED MEMORIES!)* - `1 min ago`
-- **[do you even hear me?](https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M)** by **Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000** *(Crossover for Charity: UNITY PREVAILS)* - `4 min ago`
-- **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)* - `12 min ago`
-- **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)* - `7 h ago`
+- **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)* - `2 min ago`
+- **[Love Tonight (Edit)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP)** by **Shouse** *(Love Tonight)* - `4 min ago`
+- **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)* - `8 min ago`
+- **[Schwebebahn](https://open.spotify.com/track/7sMFTDZMZjLGjrowjxwTY5)** by **Brown-Eyes White Boy** *(Schwebebahn)* - `10 min ago`
+- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 07:05:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 07:44:56 UTC*
 <!-- SPOTIFY-END -->
