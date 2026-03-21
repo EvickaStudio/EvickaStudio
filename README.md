@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b3a31d76d1575e1e102a1346" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735ae4651ee587ea2bd52eb937" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN">L1ebe 1n der Luft</a></strong><br/>
-  <em>by</em> <strong>S1RENA, TYM</strong><br/>
-  <em>Album:</em> L1ebe 1n der Luft
+  <strong><a href="https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj">Smile - Bass</a></strong><br/>
+  <em>by</em> <strong>Eera, DJH</strong><br/>
+  <em>Album:</em> Smile (Bass)
 </p>
 
-<p align="center"><code>2:58</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:19</code></p>
+<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Let Me Fall](https://open.spotify.com/track/5j1roxIfO9KK7zaUNudO4P)** by **suisside** *(Let Me Fall)* - `2 min ago`
-- **[castle](https://open.spotify.com/track/1eKUWaM1Wv8TdJmyZSBZIW)** by **IVOXYGEN** *(castle)* - `5 min ago`
-- **[with u](https://open.spotify.com/track/5nKVY8ddr3VWhuuNn71SvN)** by **lucidbeatz** *(with u)* - `7 min ago`
-- **[meant to hurt](https://open.spotify.com/track/6LoKnBtNzNLG36ERP6CjrC)** by **Levi Ryan, gl0wrm** *(meant to hurt)* - `9 min ago`
-- **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)* - `12 min ago`
+- **[d(-_-)b dreaming of your latte art d(-_-)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3)** by **Mietze Conte, 1tbsp** *(d(-_-)b dreaming of your latte art d(-_-)b)* - `just now`
+- **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)* - `2 min ago`
+- **[the rest of our lives](https://open.spotify.com/track/5q2zC8mXer505KwCx8pInR)** by **Levi Ryan** *(the rest of our lives)* - `5 min ago`
+- **[ADRENAL1N](https://open.spotify.com/track/1s3NNlChSpBwQV7bYSNNOs)** by **S1RENA** *(ADRENAL1N)* - `8 min ago`
+- **[Zone Out](https://open.spotify.com/track/6jBkR1afY04mU5cNsQCStC)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 10:58:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 11:24:16 UTC*
 <!-- SPOTIFY-END -->
