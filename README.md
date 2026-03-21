@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e909035318f54c45ab17232b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273468dbd34b58a09350dead6d4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts">777th ELEMENT</a></strong><br/>
-  <em>by</em> <strong>cdgplug</strong><br/>
-  <em>Album:</em> HEAVY MENTAL
+  <strong><a href="https://open.spotify.com/track/0eY8eZ9goya2f7GqEQqKpv">recuérdame</a></strong><br/>
+  <em>by</em> <strong>yaego</strong><br/>
+  <em>Album:</em> recuérdame
 </p>
 
-<p align="center"><code>0:24</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:29</code></p>
+<p align="center"><code>1:16</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>5:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Exist](https://open.spotify.com/track/1uXo5agROjNBTMoDF9ZgYM)** by **flywoah** *(Exist)* - `3 min ago`
-- **[Electronica](https://open.spotify.com/track/1LjxxIT0LdC4HohMouVn5a)** by **Brothel in Belize** *(Electronica)* - `7 min ago`
-- **[Wingspan](https://open.spotify.com/track/6HmTAsOX9oARMyFdMY4E7g)** by **The Hellp** *(Vol. 1)* - `9 min ago`
-- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `1 h ago`
-- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `1 h ago`
+- **[do you even hear me?](https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M)** by **Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000** *(Crossover for Charity: UNITY PREVAILS)* - `1 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `9 min ago`
+- **[Exist](https://open.spotify.com/track/1uXo5agROjNBTMoDF9ZgYM)** by **flywoah** *(Exist)* - `15 min ago`
+- **[Electronica](https://open.spotify.com/track/1LjxxIT0LdC4HohMouVn5a)** by **Brothel in Belize** *(Electronica)* - `19 min ago`
+- **[Wingspan](https://open.spotify.com/track/6HmTAsOX9oARMyFdMY4E7g)** by **The Hellp** *(Vol. 1)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 21:44:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 21:57:20 UTC*
 <!-- SPOTIFY-END -->
