@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273617380b4e0e350f509bded82" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27307412527e4b77c417c5627a9" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK">INTO YOU (feat. meat computer)</a></strong><br/>
-  <em>by</em> <strong>Yung Hurn, meat computer</strong><br/>
-  <em>Album:</em> CRAZY HORSE CLUB MIXTAPE, VOL. 1
+  <strong><a href="https://open.spotify.com/track/3uOc6KGACK2F7mdNzuHlDK">destruction</a></strong><br/>
+  <em>by</em> <strong>IVOXYGEN</strong><br/>
+  <em>Album:</em> destruction
 </p>
 
-<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:49</code></p>
+<p align="center"><code>0:24</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Staub - sped up](https://open.spotify.com/track/09bdhPbvXd7B3TOa7ainYN)** by **S1RENA** *(Staub)* - `just now`
-- **[Heaven (Interlude)](https://open.spotify.com/track/7uVpCKCrfJl02npkIQaUzH)** by **SUMMER ALONE** *(Sleep Longer, You'll Be Ok)* - `2 min ago`
-- **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)* - `4 min ago`
-- **[Might Die](https://open.spotify.com/track/1vHdshX9QjmGf6ixaoFjqF)** by **suisside** *(Might Die)* - `6 min ago`
-- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)* - `9 min ago`
+- **[frag nicht mehr nach](https://open.spotify.com/track/2zFbW62NqEGEry73TBnSA3)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `just now`
+- **[Winter](https://open.spotify.com/track/3NIu0ffILZOVXUcf4msCgg)** by **strangerperson** *(Winter)* - `2 min ago`
+- **[Opium Sky (Sped Up)](https://open.spotify.com/track/6d7aQuEjLbxsejEEepUFas)** by **Kill Eva** *(Opium Sky)* - `5 min ago`
+- **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)* - `7 min ago`
+- **[Ich schrei](https://open.spotify.com/track/2c3v5cE2r3OdZs97sAv46z)** by **Kilian Knight** *(Ich schrei)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 09:02:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 09:44:56 UTC*
 <!-- SPOTIFY-END -->
