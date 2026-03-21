@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738a368dc6b9afb80f81dc383d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734b1b133e6d5c59f047b1b5b7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4KkjkEQBCfPMvsiCbLpItb">Dora the explorer</a></strong><br/>
-  <em>by</em> <strong>Drux, pradaaslife</strong><br/>
-  <em>Album:</em> Rooney Ronaldo
+  <strong><a href="https://open.spotify.com/track/4eodJJt1wQ4SKgAnOY2gHd">Wie es war</a></strong><br/>
+  <em>by</em> <strong>humanangst</strong><br/>
+  <em>Album:</em> Wie es war / Van Damme
 </p>
 
-<p align="center"><code>1:10</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:13</code></p>
+<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>1:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[nothing_ภ๏Շђเภﻮเรฬг๏ภﻮ](https://open.spotify.com/track/2UYKyd6hHRmrA8O3mUBGJO)** by **jequya** *(jomyulo)* - `1 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `3 min ago`
-- **[Exist](https://open.spotify.com/track/1uXo5agROjNBTMoDF9ZgYM)** by **flywoah** *(Exist)* - `6 min ago`
-- **[invisible](https://open.spotify.com/track/4WNjEKWZKTJCHVt4uIJwWd)** by **RudeClub, Luvange1, dxsh** *(invisible)* - `12 min ago`
-- **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)* - `14 min ago`
+- **[Sex](https://open.spotify.com/track/1nqPB0vk6EpTSPVHZGSgF8)** by **Drux, Cgull, mikeycyrus** *(it always ends in pain)* - `2 min ago`
+- **[blues ςɭยєร](https://open.spotify.com/track/6CFlbGvvpzktKEaUxKPEeR)** by **jequya** *(jomyulo)* - `4 min ago`
+- **[keroscenic](https://open.spotify.com/track/32I2WQ2HVQkciQxQk98Liv)** by **ChromeStylist, mioskii** *(keroscenic)* - `7 min ago`
+- **[fashionova](https://open.spotify.com/track/5hvyFJYMtTSivsYF27AmsL)** by **Levi Ryan, bleach.bath** *(fashionova)* - `9 min ago`
+- **[facetune](https://open.spotify.com/track/2HkjPoZWoySeVbhIvCx9W9)** by **dreamcache** *(facetune)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 19:26:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 19:43:49 UTC*
 <!-- SPOTIFY-END -->
