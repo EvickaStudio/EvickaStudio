@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738349bc1fc110a9fcd75dbb8d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737eff36e91341e0f2f34ae4f5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4F1nBGK2yeIc5TvqN06vlp">the things we carry</a></strong><br/>
-  <em>by</em> <strong>Levi Ryan</strong><br/>
-  <em>Album:</em> operation wandering soul
+  <strong><a href="https://open.spotify.com/track/75vkxudOD2VjeTQssjmE8W">PLANET - sped up</a></strong><br/>
+  <em>by</em> <strong>S1RENA</strong><br/>
+  <em>Album:</em> PLANET
 </p>
 
-<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:40</code></p>
+<p align="center"><code>0:19</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)* - `1 min ago`
-- **[Coco Manifesto](https://open.spotify.com/track/4u7c3d2wycoc2uW6Wd6Z0b)** by **Ms* Gloom** *(J is for Joon)* - `5 min ago`
-- **[Atlantis - sped up](https://open.spotify.com/track/6QdUwjKRMzzQs4Rti0l2Ut)** by **S1RENA** *(Atlantis)* - `9 min ago`
-- **[words you say](https://open.spotify.com/track/5pi9pIx3N6pFwFizfHh09v)** by **SHEMYYY** *(words you say)* - `11 min ago`
-- **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)* - `13 min ago`
+- **[Take Me Home](https://open.spotify.com/track/36wzMxfKU33VuQEECE6jSo)** by **Love Pact** *(Take Me Home)* - `just now`
+- **[zero hour](https://open.spotify.com/track/04wtAt1c3SMc4d9KmMU0V3)** by **Levi Ryan** *(operation wandering soul)* - `2 min ago`
+- **[Glide](https://open.spotify.com/track/4ojzHFPkM9UnJJV8d0ceLJ)** by **heartcoregirl** *(Glide)* - `4 min ago`
+- **[riding it + DJmegan23 flip](https://open.spotify.com/track/44xsvRDbGfPjBOhSYS3jJd)** by **benzii, DJmegan23** *(riding it + DJmegan23 flip)* - `7 min ago`
+- **[Keep Holding On](https://open.spotify.com/track/16WlDLBXcTIjoWBw4tGABH)** by **Snow Strippers** *(The Snow Strippers)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 11:55:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 12:30:57 UTC*
 <!-- SPOTIFY-END -->
