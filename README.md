@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fb6d09c4700996b57095a41c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273836536cb9d87e6adb8d93c39" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4sZGa0UXFc9Ako9Q0Sc9vk">Europapa</a></strong><br/>
-  <em>by</em> <strong>Joost</strong><br/>
-  <em>Album:</em> Unity
+  <strong><a href="https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH">I Dont Like People</a></strong><br/>
+  <em>by</em> <strong>PureSnow</strong><br/>
+  <em>Album:</em> Bel Air
 </p>
 
-<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:40</code></p>
+<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[going quietly - sped up](https://open.spotify.com/track/5nZxjCC9edqvv8dxrXAFBq)** by **Ezekiel, sped up + nightcore** *(going quietly (sped up))* - `1 min ago`
-- **[CUTE](https://open.spotify.com/track/3PzZ563r1c8niZx0EkrNzI)** by **dxnkwer** *(CUTE)* - `3 min ago`
-- **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)* - `5 min ago`
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `8 min ago`
-- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `10 min ago`
+- **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)* - `1 min ago`
+- **[holding on](https://open.spotify.com/track/5PSkVmVQ8DRqkhgMaV69uu)** by **The Twins, RADA** *(holding on)* - `4 min ago`
+- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)* - `6 min ago`
+- **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)* - `8 min ago`
+- **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 13:28:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 13:57:50 UTC*
 <!-- SPOTIFY-END -->
