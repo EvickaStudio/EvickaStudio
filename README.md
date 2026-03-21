@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cdb6758af75ead4a755fcb4c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27371684c1b649670f0753e0c3b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z">Rost</a></strong><br/>
-  <em>by</em> <strong>JB 50</strong><br/>
-  <em>Album:</em> Rost
+  <strong><a href="https://open.spotify.com/track/6ueNk1CpnDH2SAeC4LHymZ">take your breath</a></strong><br/>
+  <em>by</em> <strong>RudeClub</strong><br/>
+  <em>Album:</em> rudeclub
 </p>
 
-<p align="center"><code>2:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:16</code></p>
+<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lost and found](https://open.spotify.com/track/1yPb8Wms1LNyvXrzcWYDdo)** by **olus, mint** *(lost and found)* - `2 min ago`
-- **[Exist](https://open.spotify.com/track/1uXo5agROjNBTMoDF9ZgYM)** by **flywoah** *(Exist)* - `4 min ago`
-- **[eyes wide shut](https://open.spotify.com/track/1kMDt1D8FYwiVMCGLGFymQ)** by **Levi Ryan** *(eyes wide shut)* - `7 min ago`
-- **[two faced](https://open.spotify.com/track/4klNDilSqLptd99LnSjoCN)** by **Senses** *(two faced)* - `12 min ago`
-- **[faceless 顔のない人が生まれ変わる](https://open.spotify.com/track/1T2YB0ULV3PaXsFQxyGrwq)** by **uziellsiilver** *(the silhouette 失われた精神の)* - `14 min ago`
+- **[NICHTS GELERNT](https://open.spotify.com/track/4o78M50af8bUpBE3HtJm6b)** by **5v** *(Bad Intentions)* - `1 min ago`
+- **[Back2Uu](https://open.spotify.com/track/3t7Uf6VNU1S0jZRoGKO7Rc)** by **whyhaze** *(Back2Uu)* - `4 min ago`
+- **[if we're honest...](https://open.spotify.com/track/06B3vvj6arYrqHC6M2DFjq)** by **crusey** *(if we're honest...)* - `6 min ago`
+- **[XxX_P3r0X1d3_xXx](https://open.spotify.com/track/2ddT08xnidF7wn4V4MwhL6)** by **DJmegan23, Sadd** *(Rightmostplace7)* - `8 min ago`
+- **[marine x](https://open.spotify.com/track/2llmSAUZzE3lusEW8IjKKm)** by **Levi Ryan, Blksmiith** *(marine x)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 18:25:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 18:58:42 UTC*
 <!-- SPOTIFY-END -->
