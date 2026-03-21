@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ee9c38c07e791743506c8a2f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735ac6226a668978bf43185e97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/20wjyIgEQ0Gl0nHiO8fvrf">Snowmen</a></strong><br/>
-  <em>by</em> <strong>Xavier Wulf, Ecco, Bladee</strong><br/>
-  <em>Album:</em> Greatest Hits, Pt. 1
+  <strong><a href="https://open.spotify.com/track/2zR85kwGgnHaWIL9hI0zXM">Intimate</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> (II)
 </p>
 
-<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:35</code></p>
+<p align="center"><code>2:09</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>4:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)* - `2 min ago`
-- **[Love Tonight (Edit)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP)** by **Shouse** *(Love Tonight)* - `4 min ago`
-- **[Xleepy](https://open.spotify.com/track/4QiMfeTsOXdyZrmL3IWp4S)** by **Machine Girl** *(…Because I’m Young Arrogant and Hate Everything You Stand For)* - `8 min ago`
-- **[Schwebebahn](https://open.spotify.com/track/7sMFTDZMZjLGjrowjxwTY5)** by **Brown-Eyes White Boy** *(Schwebebahn)* - `10 min ago`
-- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `13 min ago`
+- **[she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)** by **archive computer** *(she knows)* - `2 min ago`
+- **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `3 min ago`
+- **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)* - `5 min ago`
+- **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)* - `8 min ago`
+- **[Snowmen (feat. Bladee & Ecco2k)](https://open.spotify.com/track/5uu8ThZf9pjGlbxhx3RZyj)** by **Xavier Wulf, Bladee, Ecco2k** *(Greatest Hits, Pt. 1)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 07:44:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-21 07:59:23 UTC*
 <!-- SPOTIFY-END -->
