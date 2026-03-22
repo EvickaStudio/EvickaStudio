@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `8 h ago`
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `8 h ago`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `8 h ago`
-- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `8 h ago`
-- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `8 h ago`
+- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `9 h ago`
+- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `9 h ago`
+- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `9 h ago`
+- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `9 h ago`
+- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 06:30:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 07:23:05 UTC*
 <!-- SPOTIFY-END -->
