@@ -91,16 +91,22 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <strong><a href="">iPod_Touch_x_Language_Ryan_Leahan_edit_KLICKAUD</a></strong><br/>
+  <em>by</em> <strong></strong><br/>
+  <em>Album:</em> 
+</p>
+
+<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `29 min ago`
-- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `11 h ago`
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `11 h ago`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `11 h ago`
-- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `11 h ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `1 min ago`
+- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `4 min ago`
+- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `7 min ago`
+- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `12 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +126,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 09:28:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 09:54:31 UTC*
 <!-- SPOTIFY-END -->
