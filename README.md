@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737c797ae4eaf5062537ca84fc" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7bGQtMbFEQrwz2nfcU6pwf">Wassup</a></strong><br/>
-  <em>by</em> <strong>humanangst</strong><br/>
-  <em>Album:</em> Lost in Translation
+  <strong><a href="https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk">Call For Help</a></strong><br/>
+  <em>by</em> <strong>Pearly Drops</strong><br/>
+  <em>Album:</em> Call For Help
 </p>
 
-<p align="center"><code>0:37</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:12</code></p>
+<p align="center"><code>0:23</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MAXI KING](https://open.spotify.com/track/0mBDsc9d6Y4DUQLdOoljOt)** by **mikeycyrus** *(MAXI KING)* - `just now`
-- **[GAGA](https://open.spotify.com/track/11KFeEBSD8bF1adVFjAk4Z)** by **cdgplug** *(GAGA)* - `2 min ago`
-- **[Alexconsani](https://open.spotify.com/track/5FXT2y11RfWFjS90KzIsQu)** by **Clarry Berry** *(Alexconsani)* - `4 min ago`
-- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `6 min ago`
-- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `9 min ago`
+- **[Dead, Again](https://open.spotify.com/track/03Q3ytaGt02fUewWo9fJW0)** by **Jadu Heart** *(Hyper Romance)* - `just now`
+- **[Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4)** by **TRAITRS** *(Butcher's Coin)* - `4 min ago`
+- **[It's In My Head](https://open.spotify.com/track/5e7WNpmrKaHtNoyq9XynHM)** by **Provoker** *(Demon Compass)* - `7 min ago`
+- **[Mission Impossible III](https://open.spotify.com/track/0NeYTEmugY7xa3xiKIAnVP)** by **Headache** *(The Head Hurts but the Heart Knows the Truth)* - `10 min ago`
+- **[Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ)** by **Vestron Vulture** *(Lionheart)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 12:39:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 13:31:06 UTC*
 <!-- SPOTIFY-END -->
