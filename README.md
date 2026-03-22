@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732db02ef77c3164d8c703b7dc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0Qy1fuasdNalFgkKtqxqRU">cdjs</a></strong><br/>
-  <em>by</em> <strong>lil london</strong><br/>
-  <em>Album:</em> cdjs
+  <strong><a href="https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2">Engel</a></strong><br/>
+  <em>by</em> <strong>Lix, Elujjin</strong><br/>
+  <em>Album:</em> 128
 </p>
 
-<p align="center"><code>1:11</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:32</code></p>
+<p align="center"><code>1:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N)** by **Bassvictim, Worldpeace DMT** *(Year of the Dragon)* - `1 min ago`
-- **[lazerdimm](https://open.spotify.com/track/0PaoZLxxdW55NM0sYhcBSk)** by **humanangst** *(lazerdimm)* - `4 min ago`
-- **[wir](https://open.spotify.com/track/23ijck2e4Z387q8dMH2U0C)** by **Pink Katana** *(wir)* - `6 min ago`
-- **[wakeup](https://open.spotify.com/track/0nlGLO5KSuoxZgevcjKAKv)** by **Mietze Conte** *(wufwufwuf)* - `8 min ago`
-- **[No Limit](https://open.spotify.com/track/0cr6y5Q9f6jGj56wVNmeID)** by **DJmegan23** *(No Limit)* - `10 min ago`
+- **[Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)** by **humanangst** *(Lost in Translation)* - `1 min ago`
+- **[10 RACKS](https://open.spotify.com/track/6khrdcYvCR0E5lMgXtNQ7y)** by **cdgplug** *(HEAVY MENTAL)* - `3 min ago`
+- **[Forever - dep4rted remix](https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU)** by **DJmegan23, ultra caro, dep4rted** *(M+ (Remixes))* - `5 min ago`
+- **[GELD / LIEBE](https://open.spotify.com/track/63a7oEN2Riu0MhUe9Bv7BX)** by **mikeycyrus** *(MIKEY)* - `9 min ago`
+- **[music](https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g)** by **SQF2000** *(music)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 11:17:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 11:43:46 UTC*
 <!-- SPOTIFY-END -->
