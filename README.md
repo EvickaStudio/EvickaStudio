@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27306e00756085191abc01e4cf0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732db02ef77c3164d8c703b7dc" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv">Our House</a></strong><br/>
-  <em>by</em> <strong>Crosby, Stills, Nash & Young</strong><br/>
-  <em>Album:</em> Deja Vu
+  <strong><a href="https://open.spotify.com/track/0Qy1fuasdNalFgkKtqxqRU">cdjs</a></strong><br/>
+  <em>by</em> <strong>lil london</strong><br/>
+  <em>Album:</em> cdjs
 </p>
 
-<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:59</code></p>
+<p align="center"><code>1:11</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `1 min ago`
-- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `4 min ago`
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `9 min ago`
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `12 min ago`
-- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `14 min ago`
+- **[Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N)** by **Bassvictim, Worldpeace DMT** *(Year of the Dragon)* - `1 min ago`
+- **[lazerdimm](https://open.spotify.com/track/0PaoZLxxdW55NM0sYhcBSk)** by **humanangst** *(lazerdimm)* - `4 min ago`
+- **[wir](https://open.spotify.com/track/23ijck2e4Z387q8dMH2U0C)** by **Pink Katana** *(wir)* - `6 min ago`
+- **[wakeup](https://open.spotify.com/track/0nlGLO5KSuoxZgevcjKAKv)** by **Mietze Conte** *(wufwufwuf)* - `8 min ago`
+- **[No Limit](https://open.spotify.com/track/0cr6y5Q9f6jGj56wVNmeID)** by **DJmegan23** *(No Limit)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 10:51:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 11:17:10 UTC*
 <!-- SPOTIFY-END -->
