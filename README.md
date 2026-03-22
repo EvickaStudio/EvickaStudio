@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732ef1edde3e2defd1586afb26" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX">It wont stop raining here</a></strong><br/>
+  <em>by</em> <strong>Inverted Variable</strong><br/>
+  <em>Album:</em> Armored core (ep)
+</p>
+
+<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>4:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Drama](https://open.spotify.com/track/0BHKGBxTI7LOMrdRRCpjUR)** by **Bladee, Mechatok, Charli xcx** *(Good Luck (Deluxe))* - `52 min ago`
-- **[Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q)** by **MARINA** *(Electra Heart (Deluxe))* - `54 min ago`
-- **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)* - `57 min ago`
-- **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luutwo** *(doppelsuizid)* - `1 h ago`
-- **[Asleep - 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l)** by **The Smiths** *(Louder Than Bombs)* - `1 h ago`
+- **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)* - `2 min ago`
+- **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)* - `5 min ago`
+- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `6 min ago`
+- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `9 min ago`
+- **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 19:00:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 19:31:34 UTC*
 <!-- SPOTIFY-END -->
