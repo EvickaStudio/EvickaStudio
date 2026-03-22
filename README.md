@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `6 min ago`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `8 min ago`
-- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `10 min ago`
-- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `13 min ago`
-- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `17 min ago`
+- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `22 min ago`
+- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `24 min ago`
+- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `25 min ago`
+- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `28 min ago`
+- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `32 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 14:44:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 15:00:22 UTC*
 <!-- SPOTIFY-END -->
