@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bf1b9616edad332c81db507a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ce42b1d526c43bce06defb71" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx">Hundra Dagar</a></strong><br/>
-  <em>by</em> <strong>105</strong><br/>
-  <em>Album:</em> Hundra Dagar
+  <strong><a href="https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4">lose control</a></strong><br/>
+  <em>by</em> <strong>Joey Cash</strong><br/>
+  <em>Album:</em> lose control
 </p>
 
-<p align="center"><code>0:39</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:44</code></p>
+<p align="center"><code>2:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Starfall](https://open.spotify.com/track/0zKb1LPFrl5CaA1RlYk6vd)** by **Quiet Light** *(Starfall)* - `just now`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `3 min ago`
-- **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)* - `5 min ago`
-- **[Girls ONLY!](https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T)** by **Lvl99magic** *(Girls ONLY!)* - `7 min ago`
-- **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)* - `9 min ago`
+- **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)* - `2 min ago`
+- **[REVOLUTIONÄR (+y.mike)](https://open.spotify.com/track/00BdPkyAGboc8kPMkmUdyb)** by **vee4archive, Vee4r, y.mike** *(REVOLUTIONÄR (+y.mike))* - `6 min ago`
+- **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)* - `8 min ago`
+- **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)* - `10 min ago`
+- **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 20:17:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 20:49:16 UTC*
 <!-- SPOTIFY-END -->
