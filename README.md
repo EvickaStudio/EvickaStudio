@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737c797ae4eaf5062537ca84fc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737d528675954fb8013407c112" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk">Call For Help</a></strong><br/>
-  <em>by</em> <strong>Pearly Drops</strong><br/>
-  <em>Album:</em> Call For Help
+  <strong><a href="https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR">drifting</a></strong><br/>
+  <em>by</em> <strong>Night Tapes</strong><br/>
+  <em>Album:</em> drifting
 </p>
 
-<p align="center"><code>0:23</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:18</code></p>
+<p align="center"><code>3:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dead, Again](https://open.spotify.com/track/03Q3ytaGt02fUewWo9fJW0)** by **Jadu Heart** *(Hyper Romance)* - `just now`
-- **[Thin Flesh](https://open.spotify.com/track/1P1u2H8BTKaKTRhsQAwFH4)** by **TRAITRS** *(Butcher's Coin)* - `4 min ago`
-- **[It's In My Head](https://open.spotify.com/track/5e7WNpmrKaHtNoyq9XynHM)** by **Provoker** *(Demon Compass)* - `7 min ago`
-- **[Mission Impossible III](https://open.spotify.com/track/0NeYTEmugY7xa3xiKIAnVP)** by **Headache** *(The Head Hurts but the Heart Knows the Truth)* - `10 min ago`
-- **[Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ)** by **Vestron Vulture** *(Lionheart)* - `14 min ago`
+- **[god complex](https://open.spotify.com/track/34BbMQc4AFjbojU7q5p9yJ)** by **yuronono** *(god complex)* - `3 min ago`
+- **[orange soda](https://open.spotify.com/track/5O1YsYR7E1FNKlwogmY8Pk)** by **Faerybabyy** *(Lucky Star EP)* - `5 min ago`
+- **[Invisible](https://open.spotify.com/track/1quJ23GtZEWmlrfx79bh1a)** by **Labyrinth Ear** *(Invisible)* - `7 min ago`
+- **[Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu)** by **Provoker** *(Dark Angel)* - `12 min ago`
+- **[Over It](https://open.spotify.com/track/3Vkl2lLObnQ9LDohDopxHH)** by **Future Nobodies** *(Apasionada / Over It)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 13:31:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 14:03:10 UTC*
 <!-- SPOTIFY-END -->
