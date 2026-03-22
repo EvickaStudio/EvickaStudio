@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27306e00756085191abc01e4cf0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L">Возвращайся</a></strong><br/>
-  <em>by</em> <strong>angel vox</strong><br/>
-  <em>Album:</em> Возвращайся
+  <strong><a href="https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv">Our House</a></strong><br/>
+  <em>by</em> <strong>Crosby, Stills, Nash & Young</strong><br/>
+  <em>Album:</em> Deja Vu
 </p>
 
-<p align="center"><code>2:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:46</code></p>
+<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `2 min ago`
-- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `4 min ago`
-- **[recuérdame](https://open.spotify.com/track/0eY8eZ9goya2f7GqEQqKpv)** by **yaego** *(recuérdame)* - `5 min ago`
-- **[do you even hear me?](https://open.spotify.com/track/6bj38o9nKNEo9mouqzlR1M)** by **Sadisfy, Abicyss, xue, lillybug, INVICT, z u y a, vai5000** *(Crossover for Charity: UNITY PREVAILS)* - `11 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `19 min ago`
+- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `1 min ago`
+- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `4 min ago`
+- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `9 min ago`
+- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `12 min ago`
+- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 10:19:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 10:51:19 UTC*
 <!-- SPOTIFY-END -->
