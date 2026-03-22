@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ddee85e03b1f6560e6c16008" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739d9fc2435584eb0aca677e94" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2">Engel</a></strong><br/>
-  <em>by</em> <strong>Lix, Elujjin</strong><br/>
-  <em>Album:</em> 128
+  <strong><a href="https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc">FiFA༺♡✧+++ - Vergeilt Version</a></strong><br/>
+  <em>by</em> <strong>ilyproxy, leander, Hadesthegrim</strong><br/>
+  <em>Album:</em> FiFA༺♡✧+++
 </p>
 
-<p align="center"><code>1:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:25</code></p>
+<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ich sterbe jeden Tag](https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM)** by **humanangst** *(Lost in Translation)* - `1 min ago`
-- **[10 RACKS](https://open.spotify.com/track/6khrdcYvCR0E5lMgXtNQ7y)** by **cdgplug** *(HEAVY MENTAL)* - `3 min ago`
-- **[Forever - dep4rted remix](https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU)** by **DJmegan23, ultra caro, dep4rted** *(M+ (Remixes))* - `5 min ago`
-- **[GELD / LIEBE](https://open.spotify.com/track/63a7oEN2Riu0MhUe9Bv7BX)** by **mikeycyrus** *(MIKEY)* - `9 min ago`
-- **[music](https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g)** by **SQF2000** *(music)* - `11 min ago`
+- **[CALVIN KLEIN](https://open.spotify.com/track/2BA9M0UJtJpV3AMWzVG3Eu)** by **cdgplug** *(HEAVY MENTAL)* - `1 min ago`
+- **[Heaven - Parent Companyy remix](https://open.spotify.com/track/2z44DBtEAjSgM4lTTx0gCb)** by **DJmegan23, cranes, mental, Parent Companyy** *(M+ (Remixes))* - `4 min ago`
+- **[SCHEITERN ZSM](https://open.spotify.com/track/4op5W9glynxb2gTeYQeAPY)** by **mikeycyrus, RiCK!** *(SCHEITERN ZSM)* - `6 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `8 min ago`
+- **[Engel](https://open.spotify.com/track/7pRwGzccLNKEDoDwCaBoJ2)** by **Lix, Elujjin** *(128)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 11:43:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-22 11:56:12 UTC*
 <!-- SPOTIFY-END -->
