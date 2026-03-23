@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273448cf69f54597f5e0b1cf784" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/24dRz9Dy6RgOlkjn0foM3Q">a reminder</a></strong><br/>
-  <em>by</em> <strong>campo</strong><br/>
-  <em>Album:</em> a reminder
-</p>
-
-<p align="center"><code>0:09</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:09</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `2 min ago`
-- **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)* - `10 h ago`
-- **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)* - `10 h ago`
-- **[Intro (stop looking up at the attic)](https://open.spotify.com/track/5bP2EfUh4TMN19CYR2QzfU)** by **sparr00w** *(Save Room Theme)* - `10 h ago`
-- **[Pierrot](https://open.spotify.com/track/0SIOdxVzOXTpuTN1fEj1Ff)** by **sparr00w** *(Save Room Theme)* - `10 h ago`
+- **[Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF)** by **Cavetown** *(Animal Kingdom)* - `4 min ago`
+- **[AIR FORCE](https://open.spotify.com/track/4T03XcJcZZx1BmSzP3QZ01)** by **calvinsober** *(AIR FORCE)* - `8 min ago`
+- **[MO - SO](https://open.spotify.com/track/3Dihl6u9zkpuQRFoRhhgFF)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `11 min ago`
+- **[Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)** by **Sun Kil Moon** *(Ghosts of the Great Highway)* - `13 min ago`
+- **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)* - `27 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -124,11 +114,11 @@
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 09:11:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 10:12:57 UTC*
 <!-- SPOTIFY-END -->
