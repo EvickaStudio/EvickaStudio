@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dffc3ae45ac53919f0adaa95" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735ac6226a668978bf43185e97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2zMyvlaCB6vFYFrvlstOgr">Only When I'm Gone</a></strong><br/>
-  <em>by</em> <strong>ETIC</strong><br/>
-  <em>Album:</em> WHITE
+  <strong><a href="https://open.spotify.com/track/1L0EA6BegmM4KMwTHmSHux">Empathy</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> (II)
 </p>
 
-<p align="center"><code>2:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:10</code></p>
+<p align="center"><code>3:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:09</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tu Tu Neurotic](https://open.spotify.com/track/07n9sk2MGDjw0SHrSaxmog)** by **The Hellp** *(Vol. 1)* - `2 min ago`
-- **[We Both Suffocate](https://open.spotify.com/track/3cBqLB1xFut1np2r3c0ueO)** by **Snow Strippers** *(April Mixtape 2)* - `5 min ago`
-- **[Easter Pink](https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj)** by **fakemink** *(Easter Pink)* - `8 min ago`
-- **[wanna hook up](https://open.spotify.com/track/0GugHqvR98xDd8taCb5E5E)** by **skypebf, SUICIDAL-IDOL, RudeClub** *(wanna hook up)* - `10 min ago`
-- **[Haunting Me](https://open.spotify.com/track/293NXJdvOaYVDnYGHCydBk)** by **Snow Strippers** *(Keep Holding On)* - `12 min ago`
+- **[Feel It](https://open.spotify.com/track/7bxLPCGYTriwJv5Kld0Czf)** by **DRES** *(Feel It)* - `3 min ago`
+- **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)* - `5 min ago`
+- **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))* - `10 min ago`
+- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `14 min ago`
+- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 22:57:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 23:29:51 UTC*
 <!-- SPOTIFY-END -->
