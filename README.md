@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738ffde069d2e01679797522fb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273fd53c5b8a4787f283833db4d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U">help, im falling</a></strong><br/>
-  <em>by</em> <strong>meat computer</strong><br/>
-  <em>Album:</em> help, im falling
+  <strong><a href="https://open.spotify.com/track/6NWl2m8asvH83xjuXVNsuG">Betrayed</a></strong><br/>
+  <em>by</em> <strong>Lil Xan</strong><br/>
+  <em>Album:</em> Betrayed
 </p>
 
-<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:58</code></p>
+<p align="center"><code>1:42</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rainbow](https://open.spotify.com/track/5nOXdmvlZS4nRot3vwt7IH)** by **Bladee, Mechatok** *(Good Luck)* - `1 min ago`
-- **[by your side](https://open.spotify.com/track/7GnzuFMfqnz8fCPtoAySmj)** by **vvherearewe** *(by your side)* - `4 min ago`
-- **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)* - `7 min ago`
-- **[Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME)** by **Sade** *(Promise)* - `10 min ago`
-- **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)* - `17 min ago`
+- **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)* - `1 min ago`
+- **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)* - `4 min ago`
+- **[Long Sardine x Mr. Brightside](https://open.spotify.com/track/3LSfoRpyN83w68NgkpeGLR)** by **Oxis** *(Long Sardine x Mr. Brightside)* - `6 min ago`
+- **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)* - `9 min ago`
+- **[FiFA༺♡✧+++ - Vergeilt Version](https://open.spotify.com/track/5ZPfaBLQTXDf382kJmDgKc)** by **ilyproxy, leander, Hadesthegrim** *(FiFA༺♡✧+++)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 12:46:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 14:09:31 UTC*
 <!-- SPOTIFY-END -->
