@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273431a71f5b2ffe472a66afc09" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7tP8JxygJhAZoyG0fdHouG">Fake Smile</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> April Mixtape 3
+  <strong><a href="https://open.spotify.com/track/6AOrV4ynK502K7QF2Y9tFk">5amlondon</a></strong><br/>
+  <em>by</em> <strong>RADA</strong><br/>
+  <em>Album:</em> 5amlondon
 </p>
 
-<p align="center"><code>0:46</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:31</code></p>
+<p align="center"><code>1:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[house](https://open.spotify.com/track/4aFmTTHsMgp5VSwq7sLt6X)** by **anna luna** *(house)* - `just now`
-- **[poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ)** by **2hollis** *(2)* - `3 min ago`
-- **[WDYM](https://open.spotify.com/track/3d7Kq9D1rNeeAnNfFY4GVO)** by **Virtual Memory** *(WDYM)* - `5 min ago`
-- **[Time Warp Angels](https://open.spotify.com/track/4GseKFKkXBf64JGKtrHtxj)** by **Snow Strippers** *(The Snow Strippers)* - `8 min ago`
-- **[Perfect Weapon](https://open.spotify.com/track/0ApqxAYkvwZdoutIJvQHlW)** by **Killedbykira** *(Perfect Weapon)* - `11 min ago`
+- **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **KidSnorlax, Mezha, mayh3mp** *(hold me down)* - `just now`
+- **[pretend *_*](https://open.spotify.com/track/2jUzaC7QyY14U2ajrOIUzV)** by **Ton** *(pretend *_*)* - `3 min ago`
+- **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)* - `5 min ago`
+- **[Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT)** by **Crystal Castles** *(Crystal Castles)* - `8 min ago`
+- **[PROTECTION CHARM](https://open.spotify.com/track/1ZZKczPTO71tpXrvP37uGP)** by **Miguel Angeles** *(PROTECTION CHARM)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 21:19:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 21:53:46 UTC*
 <!-- SPOTIFY-END -->
