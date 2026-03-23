@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a4b1528e3b76daf88e26c97c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273584ece0d998b4b6a9068d741" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5usMf75Fp6syf4LaLj8nsu">time</a></strong><br/>
-  <em>by</em> <strong>xo</strong><br/>
-  <em>Album:</em> whitenoise
+  <strong><a href="https://open.spotify.com/track/5ioUOGxFNhsRraxCSq4H3l">Days</a></strong><br/>
+  <em>by</em> <strong>Suzy Sheer</strong><br/>
+  <em>Album:</em> Blissed
 </p>
 
-<p align="center"><code>1:03</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:35</code></p>
+<p align="center"><code>0:44</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `1 min ago`
-- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `27 min ago`
-- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)* - `29 min ago`
-- **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)* - `31 min ago`
-- **[Melodien 2](https://open.spotify.com/track/7MoSqtbgMVdXtWnXj2VBQU)** by **makko** *(Pass dich nie an, Pass auf dich auf)* - `34 min ago`
+- **[tricked out](https://open.spotify.com/track/5HXgmD0Qbdjn8crHpTwlvm)** by **damon r.** *(tricked out)* - `just now`
+- **[Crystal Castles - Kept (Rebuild)](https://open.spotify.com/track/33cs9uabXYYf5O1oWjimJn)** by **Brothel in Belize** *(Crystal Castles - Kept (Rebuild))* - `3 min ago`
+- **[DUI_002](https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA)** by **o0o, Aidan Swank, oaf1** *(DUI_002)* - `3 min ago`
+- **[famous](https://open.spotify.com/track/6rsz0JdsjGYeFabIClI11S)** by **adore, Lillith** *(famous)* - `4 min ago`
+- **[club hospice (I.WANTED.YOU.TO.KNOW)](https://open.spotify.com/track/51sV6fiHS6Cyd9PJoYT002)** by **heffy** *(club hospice (I.WANTED.YOU.TO.KNOW))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 17:07:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 18:02:03 UTC*
 <!-- SPOTIFY-END -->
