@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273431a71f5b2ffe472a66afc09" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c7c27dc084925daa5b153cc8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6AOrV4ynK502K7QF2Y9tFk">5amlondon</a></strong><br/>
-  <em>by</em> <strong>RADA</strong><br/>
-  <em>Album:</em> 5amlondon
+  <strong><a href="https://open.spotify.com/track/6aUcmkaPMohYJhLQ1JcSgD">we're not angels</a></strong><br/>
+  <em>by</em> <strong>whiteskinny, money kidd</strong><br/>
+  <em>Album:</em> we're not angels
 </p>
 
-<p align="center"><code>1:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:19</code></p>
+<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[hold me down](https://open.spotify.com/track/3gzpHWyNjoooOK5Z3KcVo1)** by **KidSnorlax, Mezha, mayh3mp** *(hold me down)* - `just now`
-- **[pretend *_*](https://open.spotify.com/track/2jUzaC7QyY14U2ajrOIUzV)** by **Ton** *(pretend *_*)* - `3 min ago`
-- **[Something Always Follows](https://open.spotify.com/track/5hexKEPpfaHB49cUHQzsxi)** by **Somewhere Special** *(Something Always Follows)* - `5 min ago`
-- **[Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT)** by **Crystal Castles** *(Crystal Castles)* - `8 min ago`
-- **[PROTECTION CHARM](https://open.spotify.com/track/1ZZKczPTO71tpXrvP37uGP)** by **Miguel Angeles** *(PROTECTION CHARM)* - `13 min ago`
+- **[Angel Music](https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa)** by **Ninajirachi, MGNA Crrrta** *(Angel Music)* - `1 min ago`
+- **[Elskling](https://open.spotify.com/track/6Js4x5rklrHN7K2jI8IodO)** by **Elusin** *(SYNFUELS)* - `3 min ago`
+- **[Sabotage](https://open.spotify.com/track/7pVCgzMqsnh2hggEtpErnv)** by **Snow Strippers** *(April Mixtape 2)* - `5 min ago`
+- **[Ohyaaa (Turnabout & Bitgurl Remix)](https://open.spotify.com/track/4rrvcDbNZkLay5keXDV2Tm)** by **MGNA Crrrta, Turnabout, Bitgurl** *(Island Paradise: The Remixes)* - `8 min ago`
+- **[Fun 2night](https://open.spotify.com/track/1zgDnay9la9cb0gmOMMCnE)** by **VELVET DREAMING** *(Spiraling)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 21:53:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 22:23:59 UTC*
 <!-- SPOTIFY-END -->
