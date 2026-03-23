@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27333773126919a29e2a1bf9498" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27369d413b7ed32eed42d7495d9" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3Z0zxZS1t38IMhAI5OYDBi">ss_10_v4_4:00 | mary</a></strong><br/>
-  <em>by</em> <strong>famous love</strong><br/>
-  <em>Album:</em> ss_10_v4_4:00 | mary
+  <strong><a href="https://open.spotify.com/track/33ID1Ifpz3CP7Xrb30B5eu">Tweak</a></strong><br/>
+  <em>by</em> <strong>Saska</strong><br/>
+  <em>Album:</em> Tweak
 </p>
 
-<p align="center"><code>3:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:00</code></p>
+<p align="center"><code>2:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `3 min ago`
-- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `6 min ago`
-- **[Elskling](https://open.spotify.com/track/6Js4x5rklrHN7K2jI8IodO)** by **Elusin** *(SYNFUELS)* - `9 min ago`
-- **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)* - `12 min ago`
-- **[Blissed](https://open.spotify.com/track/5dcG6HCp0jF90Fx2pRKycM)** by **Suzy Sheer** *(Blissed)* - `16 min ago`
+- **[Genocide](https://open.spotify.com/track/5rbZZWQoVql2K35mhsUPtI)** by **Snow Strippers** *(The Snow Strippers)* - `2 min ago`
+- **[Bruises](https://open.spotify.com/track/5k0LL4yfTRr1hNBUeg8UPV)** by **KREZUS, morecalcium, Milord** *(Bruises)* - `4 min ago`
+- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)* - `6 min ago`
+- **[EQetamine](https://open.spotify.com/track/7q42Bh1YaRw8hELZZl1zbg)** by **EQ, Estratosfera, Qiri, MAJA, OKTE** *(EQetamine)* - `9 min ago`
+- **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sparr00w**](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 19:53:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 20:30:29 UTC*
 <!-- SPOTIFY-END -->
