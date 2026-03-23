@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a2376c88a3cb0163b33e7856" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27333773126919a29e2a1bf9498" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1MIKmAUOndg822y6CzuiHA">In My Head</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> April Mixtape 2
+  <strong><a href="https://open.spotify.com/track/3Z0zxZS1t38IMhAI5OYDBi">ss_10_v4_4:00 | mary</a></strong><br/>
+  <em>by</em> <strong>famous love</strong><br/>
+  <em>Album:</em> ss_10_v4_4:00 | mary
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:17</code></p>
+<p align="center"><code>3:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Every Night](https://open.spotify.com/track/00OyCmJh4yevnwC5bH4blE)** by **Snow Strippers** *(Every Night)* - `just now`
-- **[Colliding Walls](https://open.spotify.com/track/2tjfDaBtFPyXLISNDdU2TF)** by **Snow Strippers** *(COLLIDING WALLS KILLING AND FANTASY)* - `3 min ago`
-- **[My Wounds](https://open.spotify.com/track/4sQDzmcLTU2WP4SU15Kv8p)** by **Snow Strippers** *(April Mixtape)* - `6 min ago`
-- **[TV Sex](https://open.spotify.com/track/05enhLq9gJY7SuguIh1YZZ)** by **Snow Strippers** *(The Snow Strippers)* - `9 min ago`
-- **[Time Warp Angels](https://open.spotify.com/track/4GseKFKkXBf64JGKtrHtxj)** by **Snow Strippers** *(The Snow Strippers)* - `11 min ago`
+- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `3 min ago`
+- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `6 min ago`
+- **[Elskling](https://open.spotify.com/track/6Js4x5rklrHN7K2jI8IodO)** by **Elusin** *(SYNFUELS)* - `9 min ago`
+- **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)* - `12 min ago`
+- **[Blissed](https://open.spotify.com/track/5dcG6HCp0jF90Fx2pRKycM)** by **Suzy Sheer** *(Blissed)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 19:11:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 19:53:51 UTC*
 <!-- SPOTIFY-END -->
