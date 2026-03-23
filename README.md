@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27369d413b7ed32eed42d7495d9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/33ID1Ifpz3CP7Xrb30B5eu">Tweak</a></strong><br/>
-  <em>by</em> <strong>Saska</strong><br/>
-  <em>Album:</em> Tweak
+  <strong><a href="https://open.spotify.com/track/7tP8JxygJhAZoyG0fdHouG">Fake Smile</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> April Mixtape 3
 </p>
 
-<p align="center"><code>2:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:23</code></p>
+<p align="center"><code>0:46</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:31</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Genocide](https://open.spotify.com/track/5rbZZWQoVql2K35mhsUPtI)** by **Snow Strippers** *(The Snow Strippers)* - `2 min ago`
-- **[Bruises](https://open.spotify.com/track/5k0LL4yfTRr1hNBUeg8UPV)** by **KREZUS, morecalcium, Milord** *(Bruises)* - `4 min ago`
-- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)* - `6 min ago`
-- **[EQetamine](https://open.spotify.com/track/7q42Bh1YaRw8hELZZl1zbg)** by **EQ, Estratosfera, Qiri, MAJA, OKTE** *(EQetamine)* - `9 min ago`
-- **[So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N)** by **Snow Strippers** *(So What If I'm A Freak)* - `12 min ago`
+- **[house](https://open.spotify.com/track/4aFmTTHsMgp5VSwq7sLt6X)** by **anna luna** *(house)* - `just now`
+- **[poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ)** by **2hollis** *(2)* - `3 min ago`
+- **[WDYM](https://open.spotify.com/track/3d7Kq9D1rNeeAnNfFY4GVO)** by **Virtual Memory** *(WDYM)* - `5 min ago`
+- **[Time Warp Angels](https://open.spotify.com/track/4GseKFKkXBf64JGKtrHtxj)** by **Snow Strippers** *(The Snow Strippers)* - `8 min ago`
+- **[Perfect Weapon](https://open.spotify.com/track/0ApqxAYkvwZdoutIJvQHlW)** by **Killedbykira** *(Perfect Weapon)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 20:30:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 21:19:08 UTC*
 <!-- SPOTIFY-END -->
