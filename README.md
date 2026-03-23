@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735ac6226a668978bf43185e97" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732ba83d30de29062f9bb9ccef" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1L0EA6BegmM4KMwTHmSHux">Empathy</a></strong><br/>
-  <em>by</em> <strong>Crystal Castles</strong><br/>
-  <em>Album:</em> (II)
+  <strong><a href="https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3">Stay Ugly</a></strong><br/>
+  <em>by</em> <strong>Crim3s</strong><br/>
+  <em>Album:</em> Stay Ugly EP
 </p>
 
-<p align="center"><code>3:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:09</code></p>
+<p align="center"><code>0:55</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Feel It](https://open.spotify.com/track/7bxLPCGYTriwJv5Kld0Czf)** by **DRES** *(Feel It)* - `3 min ago`
-- **[Highway](https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz)** by **Elusin** *(SYNFUELS)* - `5 min ago`
-- **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))* - `10 min ago`
-- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `14 min ago`
-- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `17 min ago`
+- **[Luctus Mane (Snow Strippers Remix)](https://open.spotify.com/track/7DiuKRfZhiuxFZoF54hk3A)** by **Snow Strippers, Turnabout** *(Luctus Mane (Snow Strippers Remix))* - `just now`
+- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `3 min ago`
+- **[Adjacent Casualty](https://open.spotify.com/track/4YApK608yoCUqat1XHgSbi)** by **Kumo 99** *(Body N. Will)* - `6 min ago`
+- **[Caustic](https://open.spotify.com/track/4akQrFczed932aMXbY3Bw6)** by **The Hellp** *(LL)* - `10 min ago`
+- **[Kota on the plane - MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe)** by **Ninajirachi, Kota Banks, MGNA Crrrta** *(Kota on the plane (MGNA Crrrta Remix))* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 23:29:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 23:56:14 UTC*
 <!-- SPOTIFY-END -->
