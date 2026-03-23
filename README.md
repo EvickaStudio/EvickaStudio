@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aad205f4a52b5c988d86c25f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a4b1528e3b76daf88e26c97c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2">Down Under (feat. Colin Hay)</a></strong><br/>
-  <em>by</em> <strong>Luude, Colin Hay</strong><br/>
-  <em>Album:</em> Down Under (feat. Colin Hay)
+  <strong><a href="https://open.spotify.com/track/5usMf75Fp6syf4LaLj8nsu">time</a></strong><br/>
+  <em>by</em> <strong>xo</strong><br/>
+  <em>Album:</em> whitenoise
 </p>
 
-<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:38</code></p>
+<p align="center"><code>1:03</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ur love is too risky](https://open.spotify.com/track/4DGVveSlYNrHv4zAtFsHts)** by **Psych** *(ur love is too risky)* - `1 min ago`
-- **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)* - `3 min ago`
-- **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)* - `5 min ago`
-- **[Prio](https://open.spotify.com/track/52nGjtN5A8eYdFCBHugzB9)** by **makko** *(Lieb mich oder lass es, Pt.1+2)* - `9 min ago`
-- **[In mein Herz](https://open.spotify.com/track/4YnVN9zga46KncxApBomuL)** by **Pink Katana** *(In mein Herz)* - `12 min ago`
+- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `1 min ago`
+- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `27 min ago`
+- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)* - `29 min ago`
+- **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)* - `31 min ago`
+- **[Melodien 2](https://open.spotify.com/track/7MoSqtbgMVdXtWnXj2VBQU)** by **makko** *(Pass dich nie an, Pass auf dich auf)* - `34 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 16:09:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 17:07:52 UTC*
 <!-- SPOTIFY-END -->
