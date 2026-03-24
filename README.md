@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ac888ad505c39f50656eac16" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG">Forever salty</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk 2
+  <strong><a href="https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh">On The Floor</a></strong><br/>
+  <em>by</em> <strong>Jennifer Lopez, Pitbull</strong><br/>
+  <em>Album:</em> LOVE?
 </p>
 
-<p align="center"><code>2:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:25</code></p>
+<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Breach](https://open.spotify.com/track/7ECqo2py80Ys2txKeNPjRP)** by **Saska** *(Breach)* - `1 min ago`
-- **[Pain Brings](https://open.spotify.com/track/0NsDC5mWeCjGxMpwXQnOsb)** by **snowplug** *(snowplug)* - `4 min ago`
-- **[American girls](https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo)** by **MGNA Crrrta** *(American girls)* - `7 min ago`
-- **[she wolf](https://open.spotify.com/track/1ZSUV1uQ8Uew6svLi21FIm)** by **anna luna** *(she wolf)* - `9 min ago`
-- **[GTHRMX](https://open.spotify.com/track/0k0WJUnSTZsi5lsr9LlRoY)** by **Suzy Sheer** *(Euphoriphilia)* - `13 min ago`
+- **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))* - `1 min ago`
+- **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)* - `4 min ago`
+- **[warm//kalt](https://open.spotify.com/track/7kIeHIVS6LTaDqLSc7Qn34)** by **GALAX** *(pass auf dich auf)* - `6 min ago`
+- **[Animosity '93](https://open.spotify.com/track/57nrvuPvM8Qa0XNS4LVjg2)** by **Vestron Vulture** *(Lionheart)* - `8 min ago`
+- **[Hold Me Close](https://open.spotify.com/track/0XjWu0ld7kthYqgTqAmUjF)** by **Carter Tomorrow** *(Hold Me Close)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 06:42:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 07:40:14 UTC*
 <!-- SPOTIFY-END -->
