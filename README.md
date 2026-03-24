@@ -92,32 +92,32 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730459e223382fb8f32bfdd1d4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a618f9fa72551da720e0334" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0067vahb8HYvtwIh7eSXhM">Tough</a></strong><br/>
-  <em>by</em> <strong>Tommy Fleece</strong><br/>
-  <em>Album:</em> Hypermasculine
+  <strong><a href="https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ">you like me?</a></strong><br/>
+  <em>by</em> <strong>SHEMYYY</strong><br/>
+  <em>Album:</em> you like me?
 </p>
 
-<p align="center"><code>1:15</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:48</code></p>
+<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>1:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sisters](https://open.spotify.com/track/0XaRGPhLkycSSrr6ve29q9)** by **The Truth** *(U.S.T)* - `just now`
-- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `3 min ago`
-- **[Gimme it all](https://open.spotify.com/track/2hXJRgm82U2XLoh1HE05vz)** by **MGNA Crrrta** *(Beautiful Disaster)* - `5 min ago`
-- **[Uncrushworthy](https://open.spotify.com/track/11WwQT107JzT8UKyIeSAAv)** by **Suzy Sheer, DJH** *(Euphoriphilia)* - `8 min ago`
-- **[I Know What You Are Thinking](https://open.spotify.com/track/6tFwzKeXWquh85F80ci9kU)** by **Snow Strippers** *(The Snow Strippers)* - `10 min ago`
+- **[Shake](https://open.spotify.com/track/5Iqhb1ljDr08bMCpDS0Yye)** by **Saska** *(EmpirE)* - `just now`
+- **[i am floating](https://open.spotify.com/track/5PXqkhhquevOZRcEzG6F9v)** by **heartcoregirl** *(Lullabies)* - `3 min ago`
+- **[Insane Like Me](https://open.spotify.com/track/0I36yk6CpJfrQW1XERR8p3)** by **Snow Strippers** *(The Snow Strippers)* - `5 min ago`
+- **[bffs house](https://open.spotify.com/track/5fyzITsXODIL9Tk05eowHM)** by **Tommy Fleece, Groupthink** *(audio stars)* - `8 min ago`
+- **[Ask Her - Remix](https://open.spotify.com/track/3JH2RuDKZAkY5Y9Judugto)** by **Suzy Sheer, Cosmetics** *(Ask Her (Remix))* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 04:03:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 05:37:22 UTC*
 <!-- SPOTIFY-END -->
