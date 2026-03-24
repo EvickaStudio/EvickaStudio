@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27382cd7c9b928ad028f9afb73a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735437776069db4e9069547935" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0gBfLS4aqbrr1ZvVv8dqWB">Stereo Love</a></strong><br/>
-  <em>by</em> <strong>Edward Maya, Vika Jigulina</strong><br/>
-  <em>Album:</em> Stereo Love
+  <strong><a href="https://open.spotify.com/track/6nX0oVPdZxDnI2hfN0tkz3">Arcadia</a></strong><br/>
+  <em>by</em> <strong>uusymon</strong><br/>
+  <em>Album:</em> Arcadia
 </p>
 
-<p align="center"><code>3:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:07</code></p>
+<p align="center"><code>0:10</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `3 min ago`
-- **[HUSO](https://open.spotify.com/track/37h4oEmchSH4UXFXq5NQbT)** by **Ritter Lean, Ski Aggu** *(HUSO)* - `7 min ago`
-- **[Traum](https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ)** by **CRO** *(Melodie (Deluxe-Premium Edition))* - `10 min ago`
-- **[Delinquent](https://open.spotify.com/track/42MzWXItzH1R1hRWOLij9t)** by **Lyran Dasz** *(Delinquent (Deluxe))* - `13 min ago`
-- **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)* - `15 min ago`
+- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `just now`
+- **[MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65)** by **Nyxjvh** *(MOTHS)* - `2 min ago`
+- **[All Dogs Go to Heaven](https://open.spotify.com/track/1DoBPOlB884EHiftB46QGx)** by **$uicideboy$** *(Stop Staring At the Shadows)* - `4 min ago`
+- **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)* - `6 min ago`
+- **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 10:26:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 11:12:46 UTC*
 <!-- SPOTIFY-END -->
