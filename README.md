@@ -92,33 +92,33 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732ba83d30de29062f9bb9ccef" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e32ea5bf4f551c7d72802e33" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3">Stay Ugly</a></strong><br/>
-  <em>by</em> <strong>Crim3s</strong><br/>
-  <em>Album:</em> Stay Ugly EP
+  <strong><a href="https://open.spotify.com/track/758C6C3KdPkzKWW7ADobsA">The One</a></strong><br/>
+  <em>by</em> <strong>Suzy Sheer</strong><br/>
+  <em>Album:</em> The One
 </p>
 
-<p align="center"><code>0:55</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:29</code></p>
+<p align="center"><code>0:43</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Luctus Mane (Snow Strippers Remix)](https://open.spotify.com/track/7DiuKRfZhiuxFZoF54hk3A)** by **Snow Strippers, Turnabout** *(Luctus Mane (Snow Strippers Remix))* - `just now`
-- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `3 min ago`
-- **[Adjacent Casualty](https://open.spotify.com/track/4YApK608yoCUqat1XHgSbi)** by **Kumo 99** *(Body N. Will)* - `6 min ago`
-- **[Caustic](https://open.spotify.com/track/4akQrFczed932aMXbY3Bw6)** by **The Hellp** *(LL)* - `10 min ago`
-- **[Kota on the plane - MGNA Crrrta Remix](https://open.spotify.com/track/6TqyaDJqhtZkENDENy0LKe)** by **Ninajirachi, Kota Banks, MGNA Crrrta** *(Kota on the plane (MGNA Crrrta Remix))* - `13 min ago`
+- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `just now`
+- **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)* - `2 min ago`
+- **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)* - `5 min ago`
+- **[A melody, a lie](https://open.spotify.com/track/7bFfWgxKE95fgUKKZr0e13)** by **Helen Sun** *(talk with your Teeth)* - `8 min ago`
+- **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 
 
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-23 23:56:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 01:44:08 UTC*
 <!-- SPOTIFY-END -->
