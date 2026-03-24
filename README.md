@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731298f1ce7b0e4fb6a3caba57" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27382cd7c9b928ad028f9afb73a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT">Fingerbib</a></strong><br/>
-  <em>by</em> <strong>Aphex Twin</strong><br/>
-  <em>Album:</em> Richard D. James Album
+  <strong><a href="https://open.spotify.com/track/0gBfLS4aqbrr1ZvVv8dqWB">Stereo Love</a></strong><br/>
+  <em>by</em> <strong>Edward Maya, Vika Jigulina</strong><br/>
+  <em>Album:</em> Stereo Love
 </p>
 
-<p align="center"><code>0:37</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:48</code></p>
+<p align="center"><code>3:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))* - `just now`
-- **[I Crash, U Crash](https://open.spotify.com/track/5AAJRP3wdEuY4dO4cLrEEq)** by **Vénia** *(I Crash, U Crash)* - `2 min ago`
-- **[Frutta E Verdura](https://open.spotify.com/track/1HMAAlWgqPgErZwYForRdp)** by **Whitearmor, Gud** *(Frutta E Verdura)* - `5 min ago`
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `8 min ago`
-- **[wanna hook up](https://open.spotify.com/track/0GugHqvR98xDd8taCb5E5E)** by **skypebf, SUICIDAL-IDOL, RudeClub** *(wanna hook up)* - `13 min ago`
+- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `3 min ago`
+- **[HUSO](https://open.spotify.com/track/37h4oEmchSH4UXFXq5NQbT)** by **Ritter Lean, Ski Aggu** *(HUSO)* - `7 min ago`
+- **[Traum](https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ)** by **CRO** *(Melodie (Deluxe-Premium Edition))* - `10 min ago`
+- **[Delinquent](https://open.spotify.com/track/42MzWXItzH1R1hRWOLij9t)** by **Lyran Dasz** *(Delinquent (Deluxe))* - `13 min ago`
+- **[Classy](https://open.spotify.com/track/1OFPoLst7shHH68NAVN5Ym)** by **julius** *(Classy)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 09:28:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 10:26:02 UTC*
 <!-- SPOTIFY-END -->
