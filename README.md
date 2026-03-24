@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e32ea5bf4f551c7d72802e33" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730459e223382fb8f32bfdd1d4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/758C6C3KdPkzKWW7ADobsA">The One</a></strong><br/>
-  <em>by</em> <strong>Suzy Sheer</strong><br/>
-  <em>Album:</em> The One
+  <strong><a href="https://open.spotify.com/track/0067vahb8HYvtwIh7eSXhM">Tough</a></strong><br/>
+  <em>by</em> <strong>Tommy Fleece</strong><br/>
+  <em>Album:</em> Hypermasculine
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:29</code></p>
+<p align="center"><code>1:15</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:48</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `just now`
-- **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)* - `2 min ago`
-- **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)* - `5 min ago`
-- **[A melody, a lie](https://open.spotify.com/track/7bFfWgxKE95fgUKKZr0e13)** by **Helen Sun** *(talk with your Teeth)* - `8 min ago`
-- **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)* - `11 min ago`
+- **[Sisters](https://open.spotify.com/track/0XaRGPhLkycSSrr6ve29q9)** by **The Truth** *(U.S.T)* - `just now`
+- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `3 min ago`
+- **[Gimme it all](https://open.spotify.com/track/2hXJRgm82U2XLoh1HE05vz)** by **MGNA Crrrta** *(Beautiful Disaster)* - `5 min ago`
+- **[Uncrushworthy](https://open.spotify.com/track/11WwQT107JzT8UKyIeSAAv)** by **Suzy Sheer, DJH** *(Euphoriphilia)* - `8 min ago`
+- **[I Know What You Are Thinking](https://open.spotify.com/track/6tFwzKeXWquh85F80ci9kU)** by **Snow Strippers** *(The Snow Strippers)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 01:44:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 04:03:18 UTC*
 <!-- SPOTIFY-END -->
