@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736a618f9fa72551da720e0334" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2zYGHiXdvBlUK2BgLHLLsQ">you like me?</a></strong><br/>
-  <em>by</em> <strong>SHEMYYY</strong><br/>
-  <em>Album:</em> you like me?
+  <strong><a href="https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG">Forever salty</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Basspunk 2
 </p>
 
-<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>1:43</code></p>
+<p align="center"><code>2:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Shake](https://open.spotify.com/track/5Iqhb1ljDr08bMCpDS0Yye)** by **Saska** *(EmpirE)* - `just now`
-- **[i am floating](https://open.spotify.com/track/5PXqkhhquevOZRcEzG6F9v)** by **heartcoregirl** *(Lullabies)* - `3 min ago`
-- **[Insane Like Me](https://open.spotify.com/track/0I36yk6CpJfrQW1XERR8p3)** by **Snow Strippers** *(The Snow Strippers)* - `5 min ago`
-- **[bffs house](https://open.spotify.com/track/5fyzITsXODIL9Tk05eowHM)** by **Tommy Fleece, Groupthink** *(audio stars)* - `8 min ago`
-- **[Ask Her - Remix](https://open.spotify.com/track/3JH2RuDKZAkY5Y9Judugto)** by **Suzy Sheer, Cosmetics** *(Ask Her (Remix))* - `10 min ago`
+- **[Breach](https://open.spotify.com/track/7ECqo2py80Ys2txKeNPjRP)** by **Saska** *(Breach)* - `1 min ago`
+- **[Pain Brings](https://open.spotify.com/track/0NsDC5mWeCjGxMpwXQnOsb)** by **snowplug** *(snowplug)* - `4 min ago`
+- **[American girls](https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo)** by **MGNA Crrrta** *(American girls)* - `7 min ago`
+- **[she wolf](https://open.spotify.com/track/1ZSUV1uQ8Uew6svLi21FIm)** by **anna luna** *(she wolf)* - `9 min ago`
+- **[GTHRMX](https://open.spotify.com/track/0k0WJUnSTZsi5lsr9LlRoY)** by **Suzy Sheer** *(Euphoriphilia)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 05:37:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 06:42:15 UTC*
 <!-- SPOTIFY-END -->
