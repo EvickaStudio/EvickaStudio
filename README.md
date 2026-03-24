@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rockstars](https://open.spotify.com/track/0N76gMgRQr2Kfs0qXPR3hb)** by **dusy, Young Lime, Scruffy** *(Rockstars)* - `1 h ago`
-- **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)* - `1 h ago`
-- **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)* - `1 h ago`
-- **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)* - `1 h ago`
-- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `1 h ago`
+- **[Rockstars](https://open.spotify.com/track/0N76gMgRQr2Kfs0qXPR3hb)** by **dusy, Young Lime, Scruffy** *(Rockstars)* - `2 h ago`
+- **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)* - `2 h ago`
+- **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)* - `2 h ago`
+- **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)* - `2 h ago`
+- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**hurt and alone**](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 14:21:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-24 15:39:19 UTC*
 <!-- SPOTIFY-END -->
