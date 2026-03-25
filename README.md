@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735edf0c8c7fa8589fdb5452fc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273780e78d819ffe2cd2ac3fe3b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4Mtr4LdNOrakUotEndRY0M">Hey Now Hey Now</a></strong><br/>
-  <em>by</em> <strong>Major Ghetto</strong><br/>
-  <em>Album:</em> Major Ghetto
+  <strong><a href="https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L">Возвращайся</a></strong><br/>
+  <em>by</em> <strong>angel vox</strong><br/>
+  <em>Album:</em> Возвращайся
 </p>
 
-<p align="center"><code>2:23</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:08</code></p>
+<p align="center"><code>3:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)* - `2 min ago`
-- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `4 min ago`
-- **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)* - `6 min ago`
-- **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by **my!lane** *(Sakura's Shadows)* - `10 min ago`
-- **[Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)** by **lauenburg** *(Wenn du fällst, lass mich hier)* - `12 min ago`
+- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `3 min ago`
+- **[Essenz](https://open.spotify.com/track/5hC5y2QgVef1wyUS65WJtR)** by **strangerperson** *(Essenz)* - `5 min ago`
+- **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)* - `8 min ago`
+- **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)* - `9 min ago`
+- **[ZU DEN HUNDEN](https://open.spotify.com/track/7nwJciynBkmT0rct6ulm1q)** by **Saiya Tiaw** *(BETON)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 17:40:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 18:33:03 UTC*
 <!-- SPOTIFY-END -->
