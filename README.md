@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a73ac2a38d57b20dbf27c712" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735baca2f23c1131a0fa26305c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj">Legendary Member</a></strong><br/>
-  <em>by</em> <strong>Thaiboy Digital, Bladee, Ecco2k, Yung Lean</strong><br/>
-  <em>Album:</em> Legendary Member
+  <strong><a href="https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC">Tieferschatten</a></strong><br/>
+  <em>by</em> <strong>JB 50</strong><br/>
+  <em>Album:</em> Tieferschatten
 </p>
 
-<p align="center"><code>1:11</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:35</code></p>
+<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:31</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fall](https://open.spotify.com/track/1IaX8gHwMM9a3HN37oXpzX)** by **hqwilli** *(Allein im Club)* - `1 min ago`
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
-- **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)* - `6 min ago`
-- **[Real Spring :D](https://open.spotify.com/track/7dNsx7BCx9fP71tuvHOcjV)** by **DJmegan23** *(Trenches)* - `8 min ago`
-- **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)* - `10 min ago`
+- **[chasing_nothing เՇร кเภ๔ค รค๔](https://open.spotify.com/track/5LwD92HCmjuqQ1W5hlBTXC)** by **jequya** *(jomyulo)* - `just now`
+- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `2 min ago`
+- **[du brauchst mich](https://open.spotify.com/track/4fQnQPecg9QWXE49qxdXZG)** by **blombi19, amon.** *(du brauchst mich)* - `4 min ago`
+- **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)* - `7 min ago`
+- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 20:06:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 20:54:28 UTC*
 <!-- SPOTIFY-END -->
