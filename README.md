@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[BAD INTENTIONS](https://open.spotify.com/track/7s3q2at3C1KnZHHxhDLv8S)** by **5v** *(Bad Intentions)* - `46 min ago`
-- **[Hurt :](https://open.spotify.com/track/1h6fotImwAvPtMrricX1DH)** by **DJmegan23** *(Trenches)* - `47 min ago`
-- **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)* - `50 min ago`
-- **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)* - `52 min ago`
-- **[Moments Like This They Never Last](https://open.spotify.com/track/50w1uLhTHDTml7WDIuq7j6)** by **Eera** *(Cant Stop Wasting Time)* - `56 min ago`
+- **[BAD INTENTIONS](https://open.spotify.com/track/7s3q2at3C1KnZHHxhDLv8S)** by **5v** *(Bad Intentions)* - `1 h ago`
+- **[Hurt :](https://open.spotify.com/track/1h6fotImwAvPtMrricX1DH)** by **DJmegan23** *(Trenches)* - `1 h ago`
+- **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)* - `1 h ago`
+- **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)* - `1 h ago`
+- **[Moments Like This They Never Last](https://open.spotify.com/track/50w1uLhTHDTml7WDIuq7j6)** by **Eera** *(Cant Stop Wasting Time)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 23:26:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 23:56:50 UTC*
 <!-- SPOTIFY-END -->
