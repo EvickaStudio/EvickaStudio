@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734f39ae4ce7ea61b282451922" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6">3 Star Reunite</a></strong><br/>
-  <em>by</em> <strong>Thaiboy Digital, Bladee</strong><br/>
-  <em>Album:</em> Back 2 Life
-</p>
-
-<p align="center"><code>3:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:36</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ETC](https://open.spotify.com/track/6DbwtqT1iajOhti5mX5zSA)** by **humanangst** *(Lost in Translation)* - `3 min ago`
-- **[Obedient](https://open.spotify.com/track/5adW1n6jrFcc4sRAtFeQVX)** by **Bladee, Ecco2k** *(Red Light)* - `5 min ago`
-- **[morning again](https://open.spotify.com/track/2mUWmbStBzGF3a7Xtje67I)** by **meat computer** *(slept on the floor still dreamt about you)* - `8 min ago`
-- **[blossom](https://open.spotify.com/track/5KJkZWKDlZluA1d33xQQQD)** by **Peake** *(Forever the Sickest Rose)* - `10 min ago`
-- **[Life Glows On](https://open.spotify.com/track/5GfvzrqerqQnMZ8dkM00yF)** by **Thrilliam Angels** *(The Static Screams Your Name)* - `12 min ago`
+- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `31 min ago`
+- **[do not send me voicemails](https://open.spotify.com/track/5nzv8GLXMZbDMZ1kUU501F)** by **fangs** *(do not send me voicemails)* - `33 min ago`
+- **[makeit](https://open.spotify.com/track/4Swxiq29EAANc5LA00k3kR)** by **Mietze Conte** *(wufwufwuf)* - `36 min ago`
+- **[facing karma](https://open.spotify.com/track/0YAEhnDEYVGFqluYYKHPQO)** by **archive computer** *(facing karma)* - `39 min ago`
+- **[memory](https://open.spotify.com/track/0rzSTsGzuKAAIMNltZXa8V)** by **Ripsquad Archive** *(memory)* - `41 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 10:12:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 11:07:07 UTC*
 <!-- SPOTIFY-END -->
