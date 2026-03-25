@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `4 h ago`
-- **[do not send me voicemails](https://open.spotify.com/track/5nzv8GLXMZbDMZ1kUU501F)** by **fangs** *(do not send me voicemails)* - `4 h ago`
-- **[makeit](https://open.spotify.com/track/4Swxiq29EAANc5LA00k3kR)** by **Mietze Conte** *(wufwufwuf)* - `4 h ago`
-- **[facing karma](https://open.spotify.com/track/0YAEhnDEYVGFqluYYKHPQO)** by **archive computer** *(facing karma)* - `4 h ago`
-- **[memory](https://open.spotify.com/track/0rzSTsGzuKAAIMNltZXa8V)** by **Ripsquad Archive** *(memory)* - `4 h ago`
+- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `6 h ago`
+- **[do not send me voicemails](https://open.spotify.com/track/5nzv8GLXMZbDMZ1kUU501F)** by **fangs** *(do not send me voicemails)* - `6 h ago`
+- **[makeit](https://open.spotify.com/track/4Swxiq29EAANc5LA00k3kR)** by **Mietze Conte** *(wufwufwuf)* - `6 h ago`
+- **[facing karma](https://open.spotify.com/track/0YAEhnDEYVGFqluYYKHPQO)** by **archive computer** *(facing karma)* - `6 h ago`
+- **[memory](https://open.spotify.com/track/0rzSTsGzuKAAIMNltZXa8V)** by **Ripsquad Archive** *(memory)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 15:20:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 16:40:41 UTC*
 <!-- SPOTIFY-END -->
