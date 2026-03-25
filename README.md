@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735edf0c8c7fa8589fdb5452fc" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4Mtr4LdNOrakUotEndRY0M">Hey Now Hey Now</a></strong><br/>
+  <em>by</em> <strong>Major Ghetto</strong><br/>
+  <em>Album:</em> Major Ghetto
+</p>
+
+<p align="center"><code>2:23</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `6 h ago`
-- **[do not send me voicemails](https://open.spotify.com/track/5nzv8GLXMZbDMZ1kUU501F)** by **fangs** *(do not send me voicemails)* - `6 h ago`
-- **[makeit](https://open.spotify.com/track/4Swxiq29EAANc5LA00k3kR)** by **Mietze Conte** *(wufwufwuf)* - `6 h ago`
-- **[facing karma](https://open.spotify.com/track/0YAEhnDEYVGFqluYYKHPQO)** by **archive computer** *(facing karma)* - `6 h ago`
-- **[memory](https://open.spotify.com/track/0rzSTsGzuKAAIMNltZXa8V)** by **Ripsquad Archive** *(memory)* - `6 h ago`
+- **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)* - `2 min ago`
+- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `4 min ago`
+- **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)* - `6 min ago`
+- **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by **my!lane** *(Sakura's Shadows)* - `10 min ago`
+- **[Lass mich hier](https://open.spotify.com/track/7riJZ41FBNzok1iOdbm6ns)** by **lauenburg** *(Wenn du fällst, lass mich hier)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 16:40:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 17:40:29 UTC*
 <!-- SPOTIFY-END -->
