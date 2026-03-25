@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e909035318f54c45ab17232b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a73ac2a38d57b20dbf27c712" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts">777th ELEMENT</a></strong><br/>
-  <em>by</em> <strong>cdgplug</strong><br/>
-  <em>Album:</em> HEAVY MENTAL
+  <strong><a href="https://open.spotify.com/track/4Yul0QHDFy2uV5cupAzFqj">Legendary Member</a></strong><br/>
+  <em>by</em> <strong>Thaiboy Digital, Bladee, Ecco2k, Yung Lean</strong><br/>
+  <em>Album:</em> Legendary Member
 </p>
 
-<p align="center"><code>3:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:29</code></p>
+<p align="center"><code>1:11</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `3 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `5 min ago`
-- **[Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs)** by **347aidan** *(Demons and Monsters)* - `10 min ago`
-- **[allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU)** by **Ufo361, Pashanim** *(allein allein)* - `13 min ago`
-- **[zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)** by **5v, Tamino404** *(zu zweit allein)* - `16 min ago`
+- **[Fall](https://open.spotify.com/track/1IaX8gHwMM9a3HN37oXpzX)** by **hqwilli** *(Allein im Club)* - `1 min ago`
+- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
+- **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)* - `6 min ago`
+- **[Real Spring :D](https://open.spotify.com/track/7dNsx7BCx9fP71tuvHOcjV)** by **DJmegan23** *(Trenches)* - `8 min ago`
+- **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 19:31:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-25 20:06:19 UTC*
 <!-- SPOTIFY-END -->
