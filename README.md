@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731b2fd3dfffe100684ddea8db" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c8deaf5aea5573e3f3853584" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7b9OBMfDXNO9FUiJWfJP4o">Yin & Yang</a></strong><br/>
-  <em>by</em> <strong>Thaiboy Digital</strong><br/>
-  <em>Album:</em> Yin & Yang
+  <strong><a href="https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY">Guts Theme</a></strong><br/>
+  <em>by</em> <strong>Rooster</strong><br/>
+  <em>Album:</em> Rooster Debut
 </p>
 
-<p align="center"><code>0:29</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:13</code></p>
+<p align="center"><code>0:55</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `just now`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `4 min ago`
-- **[DER FALSCHE ANSATZ](https://open.spotify.com/track/2o01fCFa3uKqKRdSJjr5Fv)** by **lusi 7896** *(DER FALSCHE ANSATZ)* - `6 min ago`
-- **[Rio Filter](https://open.spotify.com/track/2MGidUVwki5phVBpkCYsUc)** by **Clarry Berry** *(Rio Filter)* - `8 min ago`
-- **[H2D](https://open.spotify.com/track/7iPgC5Ik6JdRpT3GskKumw)** by **Varg²™, Ecco2k, Bladee** *(Nordic Flora Series, Pt. 6: Outlaw Music)* - `10 min ago`
+- **[open air mental asylum](https://open.spotify.com/track/3El7dcC3Bh7C9OKnwSTN0k)** by **meat computer** *(new world disorder)* - `just now`
+- **[Sad World](https://open.spotify.com/track/296eT2gXUYOnwg4eNeR4ME)** by **Snow Strippers** *(April Mixtape 2)* - `3 min ago`
+- **[Soulja](https://open.spotify.com/track/38r3EeJlVSJVEX7oOuQ6Ga)** by **hqwilli, James Jetski** *(Soulja)* - `6 min ago`
+- **[Waterfall](https://open.spotify.com/track/086iuh3xnBANKx1VabmhAE)** by **Thaiboy Digital, Bladee, Ecco2k** *(Trash Island)* - `9 min ago`
+- **[I'm Goofy](https://open.spotify.com/track/2aSsrTaWOv2pvxmQmKyNll)** by **Bladee** *(Red Light)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-26 20:04:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-26 20:49:38 UTC*
 <!-- SPOTIFY-END -->
