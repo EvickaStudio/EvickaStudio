@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732c700c64cffdee30cdd40031" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273bbaaa8bf9aedb07135d2c6d3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4UHl6co013uzpT1mlwZM78">The Gloaming - Live</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/7esSFXeHFfBhDBhamtT9Nh">Morning Bell</a></strong><br/>
   <em>by</em> <strong>Radiohead</strong><br/>
-  <em>Album:</em> Hail to the Thief (Live Recordings 2003-2009)
+  <em>Album:</em> KID A MNESIA
 </p>
 
-<p align="center"><code>2:17</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:59</code></p>
+<p align="center"><code>0:32</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[We Suck Young Blood - Live](https://open.spotify.com/track/3A0ZuIcPY5rav31jdDTKwa)** by **Radiohead** *(Hail to the Thief (Live Recordings 2003-2009))* - `2 min ago`
-- **[Where I End and You Begin - Live](https://open.spotify.com/track/3uKrgtys1C89WeG9gPZbYL)** by **Radiohead** *(Hail to the Thief (Live Recordings 2003-2009))* - `7 min ago`
-- **[Go To Sleep - Live](https://open.spotify.com/track/686yl5S60Y0WdQ1mKNXbkR)** by **Radiohead** *(Hail to the Thief (Live Recordings 2003-2009))* - `11 min ago`
-- **[Sail To The Moon - Live](https://open.spotify.com/track/6kU7m0qhXWMyoLw69gk3b1)** by **Radiohead** *(Hail to the Thief (Live Recordings 2003-2009))* - `15 min ago`
-- **[Sit Down. Stand Up - Live](https://open.spotify.com/track/0AHb0DwnLi0X0ByfFyei0D)** by **Radiohead** *(Hail to the Thief (Live Recordings 2003-2009))* - `19 min ago`
+- **[Idioteque](https://open.spotify.com/track/7Kx2i89MjDBLaT6zwy6eM2)** by **Radiohead** *(KID A MNESIA)* - `just now`
+- **[In Limbo](https://open.spotify.com/track/6rBZtu8XpzdZT83CEp4zVT)** by **Radiohead** *(KID A MNESIA)* - `5 min ago`
+- **[Optimistic](https://open.spotify.com/track/2NLpanao1S1XKsGpi1hOsT)** by **Radiohead** *(KID A MNESIA)* - `9 min ago`
+- **[Treefingers](https://open.spotify.com/track/0XGxvQj8dRhGn41nvXIxN0)** by **Radiohead** *(KID A MNESIA)* - `14 min ago`
+- **[How to Disappear Completely](https://open.spotify.com/track/7hFmiFUYmIjELj5d0UjbVh)** by **Radiohead** *(KID A MNESIA)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-26 16:43:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-26 17:42:52 UTC*
 <!-- SPOTIFY-END -->
