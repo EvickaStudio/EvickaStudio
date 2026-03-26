@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bbaaa8bf9aedb07135d2c6d3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7esSFXeHFfBhDBhamtT9Nh">Morning Bell</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M">Idioteque</a></strong><br/>
   <em>by</em> <strong>Radiohead</strong><br/>
-  <em>Album:</em> KID A MNESIA
+  <em>Album:</em> Kid A
 </p>
 
-<p align="center"><code>0:32</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:35</code></p>
+<p align="center"><code>0:35</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>5:09</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Idioteque](https://open.spotify.com/track/7Kx2i89MjDBLaT6zwy6eM2)** by **Radiohead** *(KID A MNESIA)* - `just now`
-- **[In Limbo](https://open.spotify.com/track/6rBZtu8XpzdZT83CEp4zVT)** by **Radiohead** *(KID A MNESIA)* - `5 min ago`
-- **[Optimistic](https://open.spotify.com/track/2NLpanao1S1XKsGpi1hOsT)** by **Radiohead** *(KID A MNESIA)* - `9 min ago`
-- **[Treefingers](https://open.spotify.com/track/0XGxvQj8dRhGn41nvXIxN0)** by **Radiohead** *(KID A MNESIA)* - `14 min ago`
-- **[How to Disappear Completely](https://open.spotify.com/track/7hFmiFUYmIjELj5d0UjbVh)** by **Radiohead** *(KID A MNESIA)* - `18 min ago`
+- **[No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)** by **Radiohead** *(OK Computer OKNOTOK 1997 2017)* - `just now`
+- **[Life In a Glasshouse](https://open.spotify.com/track/0qFTFL1V5nRMw4fmEodSYQ)** by **Radiohead** *(KID A MNESIA)* - `4 min ago`
+- **[Like Spinning Plates](https://open.spotify.com/track/4KoyF1BiTEJ71EZxPVfMeZ)** by **Radiohead** *(KID A MNESIA)* - `9 min ago`
+- **[Hunting Bears](https://open.spotify.com/track/3eJ7eToeq7dOkTziF5neAk)** by **Radiohead** *(KID A MNESIA)* - `12 min ago`
+- **[Dollars and Cents](https://open.spotify.com/track/6EKBZ1eARNuk560JX7bbOD)** by **Radiohead** *(KID A MNESIA)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-26 17:42:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-26 18:39:31 UTC*
 <!-- SPOTIFY-END -->
