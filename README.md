@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27392596cf1e1c46b084ee9f3f0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a05cfd1465624285ea12cd9b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/38r3EeJlVSJVEX7oOuQ6Ga">Soulja</a></strong><br/>
-  <em>by</em> <strong>hqwilli, James Jetski</strong><br/>
-  <em>Album:</em> Soulja
+  <strong><a href="https://open.spotify.com/track/6sVBfA33bp7ROA5dtV6cOa">Next to Nothing - Che</a></strong><br/>
+  <em>by</em> <strong>Ayegy</strong><br/>
+  <em>Album:</em> Next to Nothing (Che)
 </p>
 
-<p align="center"><code>1:07</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:05</code></p>
+<p align="center"><code>2:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Waterfall](https://open.spotify.com/track/086iuh3xnBANKx1VabmhAE)** by **Thaiboy Digital, Bladee, Ecco2k** *(Trash Island)* - `1 min ago`
-- **[I'm Goofy](https://open.spotify.com/track/2aSsrTaWOv2pvxmQmKyNll)** by **Bladee** *(Red Light)* - `4 min ago`
-- **[vivienne](https://open.spotify.com/track/5XJbDcTrYdNpXCcmkfM67K)** by **5star** *(vivienne)* - `7 min ago`
-- **[ビートマニア](https://open.spotify.com/track/0gYoq9lFmBUvAUBdYcnUJP)** by **dreamloader** *(ビートマニア)* - `10 min ago`
-- **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)* - `12 min ago`
+- **[canada](https://open.spotify.com/track/6er01cSAxjrwBRkHOULeE3)** by **Mietze Conte** *(wufwufwuf)* - `2 min ago`
+- **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)* - `3 min ago`
+- **[digital holocaust](https://open.spotify.com/track/38fW2bWMcuy4fTyCzQTBbr)** by **Levi Ryan** *(soviet winter)* - `7 min ago`
+- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `10 min ago`
+- **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 11:27:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 12:01:48 UTC*
 <!-- SPOTIFY-END -->
