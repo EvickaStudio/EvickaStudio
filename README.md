@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a6a98c2fb909576d75069bb2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ec6734cd6f39da7fa5bac0eb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g">todesschwur</a></strong><br/>
-  <em>by</em> <strong>blombi19</strong><br/>
-  <em>Album:</em> schlangenhelix
+  <strong><a href="https://open.spotify.com/track/3xYvl8oV3hvu2ik1nRudi5">2012</a></strong><br/>
+  <em>by</em> <strong>Psyke, Maliq</strong><br/>
+  <em>Album:</em> Die Auslöschung
 </p>
 
-<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:47</code></p>
+<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[hab keine angst](https://open.spotify.com/track/1zjZzyg4AudURrJc4h3n62)** by **lil london** *(hab keine angst)* - `1 min ago`
-- **[ukrajina girl](https://open.spotify.com/track/6vETnB25ako5MDVEdgaa8m)** by **mikeycyrus** *(winterschlaf)* - `3 min ago`
-- **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)* - `5 min ago`
-- **[Einen Stern](https://open.spotify.com/track/2meHi8PGs6jESlnrybg2Ad)** by **Psyke, Maliq** *(Die Auslöschung)* - `8 min ago`
-- **[Gtblessgo](https://open.spotify.com/track/5NiQBI2I3Jjau7ad8Dj6My)** by **Thaiboy Digital, Bladee** *(Tiger)* - `10 min ago`
+- **[Burberry](https://open.spotify.com/track/3asl7yR1HiWRdfLQyo65FK)** by **uusymon, hqwilli, lil fendibelt** *(Burberry)* - `1 min ago`
+- **[no reality deep end](https://open.spotify.com/track/62icWBedI2P7rcmi88u7yO)** by **archive computer** *(no reality deep end)* - `4 min ago`
+- **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)* - `6 min ago`
+- **[lifelover](https://open.spotify.com/track/1z36Zb7JSXYg4ITs4TieBf)** by **dreamloader** *(lifelover)* - `9 min ago`
+- **[club+biz4rr3](https://open.spotify.com/track/6fX36zMIsn8kAQFEBQIQWq)** by **echia** *(club+biz4rr3)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 16:33:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 17:32:38 UTC*
 <!-- SPOTIFY-END -->
