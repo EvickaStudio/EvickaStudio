@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)* - `4 h ago`
-- **[i'm already dead](https://open.spotify.com/track/4l0EgBc0MJgkXDgksueK8t)** by **meat computer** *(i'm already dead)* - `4 h ago`
-- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `4 h ago`
-- **[desiree](https://open.spotify.com/track/3kknVQZP34JkNejzlwfwE7)** by **Bladee** *(The Fool)* - `4 h ago`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `4 h ago`
+- **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)* - `6 h ago`
+- **[i'm already dead](https://open.spotify.com/track/4l0EgBc0MJgkXDgksueK8t)** by **meat computer** *(i'm already dead)* - `6 h ago`
+- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `7 h ago`
+- **[desiree](https://open.spotify.com/track/3kknVQZP34JkNejzlwfwE7)** by **Bladee** *(The Fool)* - `7 h ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 01:29:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 04:15:44 UTC*
 <!-- SPOTIFY-END -->
