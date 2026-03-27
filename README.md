@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a73ac2a38d57b20dbf27c712" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1tv4UZuv7UOmfNNbyI6CLl">Lip Service</a></strong><br/>
+  <em>by</em> <strong>Thaiboy Digital, Ecco2k</strong><br/>
+  <em>Album:</em> Legendary Member
+</p>
+
+<p align="center"><code>0:19</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `32 min ago`
-- **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)* - `34 min ago`
-- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `38 min ago`
-- **[Marzipan](https://open.spotify.com/track/1kUxI3ZdPGMfcj5TbHdQau)** by **Psyke** *(Tape 2 / Magie)* - `42 min ago`
-- **[Dirrt Angel](https://open.spotify.com/track/3xXcSmmI8heZYRpUh3TNM3)** by **Rooster** *(Rooster Slipped)* - `44 min ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `just now`
+- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `4 min ago`
+- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `5 min ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `8 min ago`
+- **[Forever - dep4rted remix](https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU)** by **DJmegan23, ultra caro, dep4rted** *(M+ (Remixes))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 18:34:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 19:28:00 UTC*
 <!-- SPOTIFY-END -->
