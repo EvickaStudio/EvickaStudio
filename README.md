@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl">theres this girl</a></strong><br/>
+  <em>by</em> <strong>sign crushes motorist</strong><br/>
+  <em>Album:</em> i'll be okay
+</p>
+
+<p align="center"><code>0:31</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:57</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)* - `11 h ago`
-- **[i'm already dead](https://open.spotify.com/track/4l0EgBc0MJgkXDgksueK8t)** by **meat computer** *(i'm already dead)* - `11 h ago`
-- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `11 h ago`
-- **[desiree](https://open.spotify.com/track/3kknVQZP34JkNejzlwfwE7)** by **Bladee** *(The Fool)* - `11 h ago`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `11 h ago`
+- **[Life In a Glasshouse](https://open.spotify.com/track/0qFTFL1V5nRMw4fmEodSYQ)** by **Radiohead** *(KID A MNESIA)* - `just now`
+- **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)* - `5 min ago`
+- **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)* - `12 h ago`
+- **[i'm already dead](https://open.spotify.com/track/4l0EgBc0MJgkXDgksueK8t)** by **meat computer** *(i'm already dead)* - `12 h ago`
+- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `12 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 08:57:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 09:54:16 UTC*
 <!-- SPOTIFY-END -->
