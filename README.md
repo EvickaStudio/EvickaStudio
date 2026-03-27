@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c2128dd28851b8304a1571ea" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1pkIhPF2xUhMlB3Rw0FCza">My Trembling Spirit</a></strong><br/>
-  <em>by</em> <strong>Ayegy</strong><br/>
-  <em>Album:</em> DAL 2
-</p>
-
-<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:04</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `1 min ago`
-- **[Vanilla Sky](https://open.spotify.com/track/45S1AYnCco4cXjFpoctV7u)** by **Bladee, Ecco2k** *(Vanilla Sky)* - `6 min ago`
-- **[trust](https://open.spotify.com/track/6GnFlTeCYuCzsmICRilTYB)** by **archive computer, capoxxo** *(trust)* - `8 min ago`
-- **[GARDEN](https://open.spotify.com/track/1725HnRRdDQ5VPBXZbfohA)** by **Yabujin** *(BAROQUE)* - `10 min ago`
-- **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)* - `13 min ago`
+- **[Flash in the Pan](https://open.spotify.com/track/0BIsbY5UmkIMejNU55a0rv)** by **Jane Remover** *(Flash in the Pan)* - `10 min ago`
+- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `14 min ago`
+- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `17 min ago`
+- **[Blessed, Pt. 2](https://open.spotify.com/track/02o0YyusjMVFXycfajp1vl)** by **Psyke** *(Die Auslöschung)* - `20 min ago`
+- **[Som En Stjärna (Lusi x Eurohead)](https://open.spotify.com/track/5xGH47VQZPhVO3BvHhqJnz)** by **Dj Billybool, Eurohead, Ripsquad** *(DYR Part 2)* - `23 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 20:37:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 21:17:49 UTC*
 <!-- SPOTIFY-END -->
