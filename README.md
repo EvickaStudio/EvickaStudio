@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c285adba102c4a8d0c7497e2" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl">theres this girl</a></strong><br/>
-  <em>by</em> <strong>sign crushes motorist</strong><br/>
-  <em>Album:</em> i'll be okay
+  <strong><a href="https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU">leave this world behind</a></strong><br/>
+  <em>by</em> <strong>meat computer</strong><br/>
+  <em>Album:</em> leave this world behind
 </p>
 
-<p align="center"><code>0:31</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:57</code></p>
+<p align="center"><code>0:44</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Life In a Glasshouse](https://open.spotify.com/track/0qFTFL1V5nRMw4fmEodSYQ)** by **Radiohead** *(KID A MNESIA)* - `just now`
-- **[nektar](https://open.spotify.com/track/1V7TVmXIgR7OoN20bMGCEy)** by **blombi19** *(nektar)* - `5 min ago`
-- **[Not Now](https://open.spotify.com/track/4NKu719819Dh1E7hsW9dKy)** by **Eera** *(Not Now)* - `12 h ago`
-- **[i'm already dead](https://open.spotify.com/track/4l0EgBc0MJgkXDgksueK8t)** by **meat computer** *(i'm already dead)* - `12 h ago`
-- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `12 h ago`
+- **[In The Flesh](https://open.spotify.com/track/0UGwYOxzR4Gra267AmQPdR)** by **Ecco2k** *(PXE)* - `just now`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `2 min ago`
+- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `4 min ago`
+- **[Yin & Yang](https://open.spotify.com/track/7b9OBMfDXNO9FUiJWfJP4o)** by **Thaiboy Digital** *(Yin & Yang)* - `7 min ago`
+- **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I <3 DRUGS 2**](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 09:54:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 10:39:44 UTC*
 <!-- SPOTIFY-END -->
