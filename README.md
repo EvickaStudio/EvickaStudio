@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a82c9a891576d56151eedb35" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732d1442d8781d9a04e718b5d0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5XJbDcTrYdNpXCcmkfM67K">vivienne</a></strong><br/>
-  <em>by</em> <strong>5star</strong><br/>
-  <em>Album:</em> vivienne
+  <strong><a href="https://open.spotify.com/track/4jqnMhuS8KIh8gbCsOMsc6">FELL</a></strong><br/>
+  <em>by</em> <strong>Varg²™, Bladee</strong><br/>
+  <em>Album:</em> SIREN CALL
 </p>
 
-<p align="center"><code>0:35</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:04</code></p>
+<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ビートマニア](https://open.spotify.com/track/0gYoq9lFmBUvAUBdYcnUJP)** by **dreamloader** *(ビートマニア)* - `just now`
-- **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)* - `2 min ago`
-- **[Samurai](https://open.spotify.com/track/46H4Zrj1HEiNwmLbMBQg13)** by **Psyke, humanangst** *(HumanPsyke202)* - `4 min ago`
-- **[Windchime (My Sacrifice)](https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef)** by **Ayegy** *(BLACKTHORN)* - `7 min ago`
-- **[only1](https://open.spotify.com/track/5lBUl7GkVC6xjOu15JD5ip)** by **meat computer** *(slept on the floor still dreamt about you)* - `9 min ago`
+- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `1 min ago`
+- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `4 min ago`
+- **[2025](https://open.spotify.com/track/5bdRXiz7mgdt2pR44pTHMt)** by **Psyke** *(2025)* - `6 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `8 min ago`
+- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 14:34:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 15:30:15 UTC*
 <!-- SPOTIFY-END -->
