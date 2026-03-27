@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c68b61db6c5e04fa03e815e6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a82c9a891576d56151eedb35" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23">Love Is A State</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Love Is A State
+  <strong><a href="https://open.spotify.com/track/5XJbDcTrYdNpXCcmkfM67K">vivienne</a></strong><br/>
+  <em>by</em> <strong>5star</strong><br/>
+  <em>Album:</em> vivienne
 </p>
 
-<p align="center"><code>1:34</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:52</code></p>
+<p align="center"><code>0:35</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)* - `3 min ago`
-- **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)* - `6 min ago`
-- **[gib auf](https://open.spotify.com/track/2wpHdxT12VYiviIgLfxPQH)** by **blombi19** *(gib auf)* - `9 min ago`
-- **[T R U T H](https://open.spotify.com/track/1YL72LcDYiXXeUm5UlXmSQ)** by **EDENA, trejnts** *(T R U T H)* - `12 min ago`
-- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `16 min ago`
+- **[ビートマニア](https://open.spotify.com/track/0gYoq9lFmBUvAUBdYcnUJP)** by **dreamloader** *(ビートマニア)* - `just now`
+- **[freedom from the world](https://open.spotify.com/track/5RKq1U9Ka35Odw5TkEobZT)** by **archive computer** *(freedom from the world)* - `2 min ago`
+- **[Samurai](https://open.spotify.com/track/46H4Zrj1HEiNwmLbMBQg13)** by **Psyke, humanangst** *(HumanPsyke202)* - `4 min ago`
+- **[Windchime (My Sacrifice)](https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef)** by **Ayegy** *(BLACKTHORN)* - `7 min ago`
+- **[only1](https://open.spotify.com/track/5lBUl7GkVC6xjOu15JD5ip)** by **meat computer** *(slept on the floor still dreamt about you)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 13:41:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 14:34:51 UTC*
 <!-- SPOTIFY-END -->
