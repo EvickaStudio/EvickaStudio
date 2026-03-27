@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ec6734cd6f39da7fa5bac0eb" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3xYvl8oV3hvu2ik1nRudi5">2012</a></strong><br/>
-  <em>by</em> <strong>Psyke, Maliq</strong><br/>
-  <em>Album:</em> Die Auslöschung
-</p>
-
-<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:06</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Burberry](https://open.spotify.com/track/3asl7yR1HiWRdfLQyo65FK)** by **uusymon, hqwilli, lil fendibelt** *(Burberry)* - `1 min ago`
-- **[no reality deep end](https://open.spotify.com/track/62icWBedI2P7rcmi88u7yO)** by **archive computer** *(no reality deep end)* - `4 min ago`
-- **[Stay Cold](https://open.spotify.com/track/0VpYliX9CAlEbZT6isByt5)** by **Nokia Angel** *(In Haze)* - `6 min ago`
-- **[lifelover](https://open.spotify.com/track/1z36Zb7JSXYg4ITs4TieBf)** by **dreamloader** *(lifelover)* - `9 min ago`
-- **[club+biz4rr3](https://open.spotify.com/track/6fX36zMIsn8kAQFEBQIQWq)** by **echia** *(club+biz4rr3)* - `14 min ago`
+- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `32 min ago`
+- **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)* - `34 min ago`
+- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `38 min ago`
+- **[Marzipan](https://open.spotify.com/track/1kUxI3ZdPGMfcj5TbHdQau)** by **Psyke** *(Tape 2 / Magie)* - `42 min ago`
+- **[Dirrt Angel](https://open.spotify.com/track/3xXcSmmI8heZYRpUh3TNM3)** by **Rooster** *(Rooster Slipped)* - `44 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 17:32:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 18:34:02 UTC*
 <!-- SPOTIFY-END -->
