@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732d1442d8781d9a04e718b5d0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a6a98c2fb909576d75069bb2" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4jqnMhuS8KIh8gbCsOMsc6">FELL</a></strong><br/>
-  <em>by</em> <strong>Varg²™, Bladee</strong><br/>
-  <em>Album:</em> SIREN CALL
+  <strong><a href="https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g">todesschwur</a></strong><br/>
+  <em>by</em> <strong>blombi19</strong><br/>
+  <em>Album:</em> schlangenhelix
 </p>
 
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:03</code></p>
+<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `1 min ago`
-- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `4 min ago`
-- **[2025](https://open.spotify.com/track/5bdRXiz7mgdt2pR44pTHMt)** by **Psyke** *(2025)* - `6 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `8 min ago`
-- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `12 min ago`
+- **[hab keine angst](https://open.spotify.com/track/1zjZzyg4AudURrJc4h3n62)** by **lil london** *(hab keine angst)* - `1 min ago`
+- **[ukrajina girl](https://open.spotify.com/track/6vETnB25ako5MDVEdgaa8m)** by **mikeycyrus** *(winterschlaf)* - `3 min ago`
+- **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)* - `5 min ago`
+- **[Einen Stern](https://open.spotify.com/track/2meHi8PGs6jESlnrybg2Ad)** by **Psyke, Maliq** *(Die Auslöschung)* - `8 min ago`
+- **[Gtblessgo](https://open.spotify.com/track/5NiQBI2I3Jjau7ad8Dj6My)** by **Thaiboy Digital, Bladee** *(Tiger)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 15:30:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-27 16:33:40 UTC*
 <!-- SPOTIFY-END -->
