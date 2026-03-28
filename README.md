@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738ed6a9383d081030e44e3c55" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739593a0048b99d9bd48e0340d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2NonWGENYipnBNYvBd8fbY">say it back</a></strong><br/>
-  <em>by</em> <strong>damon r.</strong><br/>
-  <em>Album:</em> say it back
+  <strong><a href="https://open.spotify.com/track/17y2GNeAhIFLokYWDcFAzA">302? ionwan2go</a></strong><br/>
+  <em>by</em> <strong>Yabujin</strong><br/>
+  <em>Album:</em> 302? ionwan2go
 </p>
 
-<p align="center"><code>0:51</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:40</code></p>
+<p align="center"><code>2:00</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[No Way Back](https://open.spotify.com/track/5K90kbeHTjiYOIL1DtMxnr)** by **Nokia Angel** *(Born Angel)* - `just now`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `4 min ago`
-- **[I Think...](https://open.spotify.com/track/2DUvIOB03qVtZrOi7xurRI)** by **Bladee** *(The Fool)* - `6 min ago`
-- **[Psyke Mein Name](https://open.spotify.com/track/3iyJO8H6OY2IDGP2ldl5jn)** by **Psyke** *(Tape 2 / Magie)* - `9 min ago`
-- **[Dreamflasher](https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9)** by **Jane Remover** *(Revengeseekerz)* - `11 min ago`
+- **[blues ςɭยєร](https://open.spotify.com/track/6CFlbGvvpzktKEaUxKPEeR)** by **jequya** *(jomyulo)* - `1 min ago`
+- **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)* - `4 min ago`
+- **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)* - `6 min ago`
+- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `9 min ago`
+- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 16:24:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 16:57:17 UTC*
 <!-- SPOTIFY-END -->
