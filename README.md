@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273701d6cad5e7d67f78d3c2538" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e30afe2b96bc9becf63809e3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7gAzKwhynmNHwbNhUiiZ8n">Icebox</a></strong><br/>
-  <em>by</em> <strong>Dj Billybool</strong><br/>
-  <em>Album:</em> My Fantasy World
+  <strong><a href="https://open.spotify.com/track/3epQlgSd5THLImbQk9QLOV">LETS GO ZANTE</a></strong><br/>
+  <em>by</em> <strong>Babymorocco, River Moon</strong><br/>
+  <em>Album:</em> LETS GO ZANTE
 </p>
 
-<p align="center"><code>0:35</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:37</code></p>
+<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DRESDEN ER](https://open.spotify.com/track/1yMPTkN25hmgxiAQYkX63O)** by **Bladee** *(Spiderr)* - `just now`
-- **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)* - `3 min ago`
-- **[lol <4 lmao](https://open.spotify.com/track/6794WuQKb7PdVPiYiiJVaC)** by **augenschliesser** *(lol <4 lmao)* - `6 min ago`
-- **[3 Star Reunite](https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6)** by **Thaiboy Digital, Bladee** *(Back 2 Life)* - `9 min ago`
-- **[Star people](https://open.spotify.com/track/44Obh48yje3RZvWtYc4OpJ)** by **Jane Remover** *(Revengeseekerz)* - `12 min ago`
+- **[Songbird](https://open.spotify.com/track/0BACpUCvMHiRlYXPr7bUQF)** by **Ayegy** *(Songbird)* - `1 min ago`
+- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `4 min ago`
+- **[makeit](https://open.spotify.com/track/4Swxiq29EAANc5LA00k3kR)** by **Mietze Conte** *(wufwufwuf)* - `6 min ago`
+- **[Wassup](https://open.spotify.com/track/7bGQtMbFEQrwz2nfcU6pwf)** by **humanangst** *(Lost in Translation)* - `9 min ago`
+- **[Nummer 1](https://open.spotify.com/track/4KveXJMqbtZI6pWVlwmoV8)** by **Psyke** *(Tape 2 / Magie)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 17:26:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 17:53:23 UTC*
 <!-- SPOTIFY-END -->
