@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273689717286cc5b714eec1fd61" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732e27e233bbb0cef5e09d089d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4do5TVTLHNTHkGodI7LrnI">still awake</a></strong><br/>
-  <em>by</em> <strong>whyhaze</strong><br/>
-  <em>Album:</em> still awake
+  <strong><a href="https://open.spotify.com/track/04PwXV2Gp5YV0ZGzpOc2Ox">металл цэцэрлэг (1125) /full metal garden</a></strong><br/>
+  <em>by</em> <strong>agelast222</strong><br/>
+  <em>Album:</em> металл цэцэрлэг (1125) /full metal garden
 </p>
 
-<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:35</code></p>
+<p align="center"><code>0:28</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[2001 km/h](https://open.spotify.com/track/2Y95k3zkkFrIjrYV4XssmH)** by **dreamloader** *(2000 km/h)* - `1 min ago`
-- **[holding on](https://open.spotify.com/track/5PSkVmVQ8DRqkhgMaV69uu)** by **The Twins, RADA** *(holding on)* - `4 min ago`
-- **[basil smash](https://open.spotify.com/track/77C0XWzWSaEcDdfpjfUeFd)** by **Hellnah** *(basil smash)* - `6 min ago`
-- **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)* - `8 min ago`
-- **[Blaue Pille](https://open.spotify.com/track/3ciZTFSJ1o4NXstOLF7vD7)** by **Psyke** *(Blaue Pille)* - `11 min ago`
+- **[search party](https://open.spotify.com/track/490NAHwXWtwve0t4J2Q0D0)** by **Jane Remover** *(Frailty)* - `just now`
+- **[schwarzweiß](https://open.spotify.com/track/53hFo1zfs5ARgXmzcmSxKw)** by **blombi19** *(schwarzweiß)* - `5 min ago`
+- **[I'm such a mess i'm sorry](https://open.spotify.com/track/2yBx9PlOqOHso80Cao4yd4)** by **whyhaze** *(I'm such a mess i'm sorry)* - `7 min ago`
+- **[FW19](https://open.spotify.com/track/3QxHYmMloI76Zbw0XT4H5y)** by **kuru** *(FW19)* - `9 min ago`
+- **[Som Jag - Woesum Remix](https://open.spotify.com/track/2PXMXBWgLoCBKqJMttsq5d)** by **Dj Billybool, Bladee** *(The Promised Future Remixes, Vol. 1)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 21:01:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 21:43:33 UTC*
 <!-- SPOTIFY-END -->
