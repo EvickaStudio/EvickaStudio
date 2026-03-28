@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Flash in the Pan](https://open.spotify.com/track/0BIsbY5UmkIMejNU55a0rv)** by **Jane Remover** *(Flash in the Pan)* - `8 h ago`
-- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `8 h ago`
-- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `8 h ago`
-- **[Blessed, Pt. 2](https://open.spotify.com/track/02o0YyusjMVFXycfajp1vl)** by **Psyke** *(Die Auslöschung)* - `8 h ago`
-- **[Som En Stjärna (Lusi x Eurohead)](https://open.spotify.com/track/5xGH47VQZPhVO3BvHhqJnz)** by **Dj Billybool, Eurohead, Ripsquad** *(DYR Part 2)* - `8 h ago`
+- **[Flash in the Pan](https://open.spotify.com/track/0BIsbY5UmkIMejNU55a0rv)** by **Jane Remover** *(Flash in the Pan)* - `9 h ago`
+- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `9 h ago`
+- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `9 h ago`
+- **[Blessed, Pt. 2](https://open.spotify.com/track/02o0YyusjMVFXycfajp1vl)** by **Psyke** *(Die Auslöschung)* - `9 h ago`
+- **[Som En Stjärna (Lusi x Eurohead)](https://open.spotify.com/track/5xGH47VQZPhVO3BvHhqJnz)** by **Dj Billybool, Eurohead, Ripsquad** *(DYR Part 2)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 05:43:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 06:38:33 UTC*
 <!-- SPOTIFY-END -->
