@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c1471b056b29a6610d87f68e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5NiQBI2I3Jjau7ad8Dj6My">Gtblessgo</a></strong><br/>
-  <em>by</em> <strong>Thaiboy Digital, Bladee</strong><br/>
-  <em>Album:</em> Tiger
+  <strong><a href="https://open.spotify.com/track/1725HnRRdDQ5VPBXZbfohA">GARDEN</a></strong><br/>
+  <em>by</em> <strong>Yabujin</strong><br/>
+  <em>Album:</em> BAROQUE
 </p>
 
-<p align="center"><code>0:04</code> ░░░░░░░░░░░░░░░░░░░░ <code>4:21</code></p>
+<p align="center"><code>0:36</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `just now`
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `2 min ago`
-- **[Dumpster Baby](https://open.spotify.com/track/6eZU3FU5kerA6reORW5tp3)** by **Bladee** *(D&G)* - `4 min ago`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `7 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `10 min ago`
+- **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)* - `just now`
+- **[space.info](https://open.spotify.com/track/37KOuKPPKkwwWzp1Zg0etM)** by **dreamloader** *(space.info)* - `2 min ago`
+- **[todesschwur](https://open.spotify.com/track/22qG4YHuOlfYJjIOLtrp1g)** by **blombi19** *(schlangenhelix)* - `6 min ago`
+- **[hab keine angst](https://open.spotify.com/track/1zjZzyg4AudURrJc4h3n62)** by **lil london** *(hab keine angst)* - `10 min ago`
+- **[ukrajina girl](https://open.spotify.com/track/6vETnB25ako5MDVEdgaa8m)** by **mikeycyrus** *(winterschlaf)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 15:25:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 15:52:37 UTC*
 <!-- SPOTIFY-END -->
