@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cc389ff605984e577d0bd35b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731d60a5258f54e0e18937506f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM">Rhythmus meines Lebens</a></strong><br/>
-  <em>by</em> <strong>Kool Savas</strong><br/>
-  <em>Album:</em> Die John Bello Story, Vol. 3
+  <strong><a href="https://open.spotify.com/track/5zPT86unoFaNP2J348n1p0">Subwoofer</a></strong><br/>
+  <em>by</em> <strong>SHINSKY x DIMA</strong><br/>
+  <em>Album:</em> Subwoofer
 </p>
 
-<p align="center"><code>1:15</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:16</code></p>
+<p align="center"><code>0:55</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luutwo, mundus** *(wunderschön)* - `1 min ago`
-- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)* - `2 min ago`
-- **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)* - `5 min ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `8 min ago`
-- **[basil smash](https://open.spotify.com/track/77C0XWzWSaEcDdfpjfUeFd)** by **Hellnah** *(basil smash)* - `12 min ago`
+- **[So Hoch](https://open.spotify.com/track/1zt3wy9gXLEG2naxIMRwSj)** by **Longus Mongus, BHZ, Monk** *(3062)* - `just now`
+- **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)* - `3 min ago`
+- **[floods (outro)](https://open.spotify.com/track/2Pnw9Hzd4wVVTZwrq1pw6P)** by **Felix Bosques Harima** *(floods (outro))* - `7 min ago`
+- **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)* - `9 min ago`
+- **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 08:55:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 09:30:13 UTC*
 <!-- SPOTIFY-END -->
