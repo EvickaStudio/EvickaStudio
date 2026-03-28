@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c68b61db6c5e04fa03e815e6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5NiQBI2I3Jjau7ad8Dj6My">Gtblessgo</a></strong><br/>
-  <em>by</em> <strong>Thaiboy Digital, Bladee</strong><br/>
-  <em>Album:</em> Tiger
+  <strong><a href="https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF">Eyelash</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Love Is A State
 </p>
 
-<p align="center"><code>2:15</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>4:21</code></p>
+<p align="center"><code>0:33</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `2 min ago`
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `4 min ago`
-- **[Dumpster Baby](https://open.spotify.com/track/6eZU3FU5kerA6reORW5tp3)** by **Bladee** *(D&G)* - `6 min ago`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `9 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `12 min ago`
+- **[My Trembling Spirit](https://open.spotify.com/track/1pkIhPF2xUhMlB3Rw0FCza)** by **Ayegy** *(DAL 2)* - `just now`
+- **[TAX DEIN ASS](https://open.spotify.com/track/2NzIsOkrNNZR64A2QdsFGg)** by **5v** *(Bad Intentions)* - `3 min ago`
+- **[rx type beat](https://open.spotify.com/track/3eR7Uz9l7rXCaZt8x1gc6x)** by **Psyke** *(Tape 2 / Magie)* - `5 min ago`
+- **[Vanilla Sky](https://open.spotify.com/track/45S1AYnCco4cXjFpoctV7u)** by **Bladee, Ecco2k** *(Vanilla Sky)* - `7 min ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 13:36:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 14:17:28 UTC*
 <!-- SPOTIFY-END -->
