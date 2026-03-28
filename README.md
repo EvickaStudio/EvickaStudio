@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c68b61db6c5e04fa03e815e6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273573d0ada5c7e64c5c96d4279" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23">Love Is A State</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Love Is A State
+  <strong><a href="https://open.spotify.com/track/5NiQBI2I3Jjau7ad8Dj6My">Gtblessgo</a></strong><br/>
+  <em>by</em> <strong>Thaiboy Digital, Bladee</strong><br/>
+  <em>Album:</em> Tiger
 </p>
 
-<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:52</code></p>
+<p align="center"><code>0:04</code> ░░░░░░░░░░░░░░░░░░░░ <code>4:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `1 min ago`
-- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `3 min ago`
-- **[Eyelash](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)** by **Bladee** *(Love Is A State)* - `5 min ago`
-- **[Som Jag - Mechatok Remix](https://open.spotify.com/track/76x2KuIsqCFHezivLTsvBw)** by **Dj Billybool, Bladee** *(The Promised Future Remixes, Vol. 1)* - `10 min ago`
-- **[2012](https://open.spotify.com/track/3xYvl8oV3hvu2ik1nRudi5)** by **Psyke, Maliq** *(Die Auslöschung)* - `13 min ago`
+- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `just now`
+- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `2 min ago`
+- **[Dumpster Baby](https://open.spotify.com/track/6eZU3FU5kerA6reORW5tp3)** by **Bladee** *(D&G)* - `4 min ago`
+- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `7 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 14:55:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 15:25:31 UTC*
 <!-- SPOTIFY-END -->
