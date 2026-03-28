@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27393032355eb6ab1320904d086" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3">Exceler</a></strong><br/>
-  <em>by</em> <strong>Woesum, Bladee</strong><br/>
-  <em>Album:</em> Blue Summer
+  <strong><a href="https://open.spotify.com/track/7a4dV5aM4pHsTdOkqIVK8l">angels in camo</a></strong><br/>
+  <em>by</em> <strong>Jane Remover</strong><br/>
+  <em>Album:</em> Revengeseekerz
 </p>
 
-<p align="center"><code>1:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:53</code></p>
+<p align="center"><code>2:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Popcorn Und Tod](https://open.spotify.com/track/6dAeS7DuihB6Sjuzv7m4gt)** by **Psyke** *(Tape 2 / Magie)* - `1 min ago`
-- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `3 min ago`
-- **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)* - `6 min ago`
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
-- **[ionwan2go2heaven](https://open.spotify.com/track/15xbdk8EVrccV0eUA3ISiB)** by **dreamloader** *(Afterburner Compilation Vol. 1)* - `13 min ago`
+- **[You Know I Don't Get Down Like That (with swedishwhorehouse)](https://open.spotify.com/track/7zbHYkf4ytyrPv77gcpQhK)** by **Sacred holes** *(Wirehair)* - `2 min ago`
+- **[champagne](https://open.spotify.com/track/0N9FNZNvjpgj3VbHonvzeU)** by **osk** *(london night ballad)* - `4 min ago`
+- **[Planes](https://open.spotify.com/track/7d7nhRAwLy1jP89b6QREuI)** by **humanangst** *(Lost in Translation)* - `6 min ago`
+- **[So Mote It Be](https://open.spotify.com/track/1tTcvTykS5Z3saSndxMg7C)** by **Downhill2k01** *(So Mote It Be)* - `8 min ago`
+- **[Baby](https://open.spotify.com/track/2zffbc2pTwEiv9JwCIJRiW)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 19:43:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 19:59:08 UTC*
 <!-- SPOTIFY-END -->
