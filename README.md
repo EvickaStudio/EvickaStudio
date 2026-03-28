@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273158c72ad0003cb37ca0c9eff" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733b507dca6bec673bacfa1559" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb">Since U Been Gone</a></strong><br/>
-  <em>by</em> <strong>Kelly Clarkson</strong><br/>
-  <em>Album:</em> Breakaway
+  <strong><a href="https://open.spotify.com/track/1RFl1jsgW0EmRhtRYkrtJk">fuckk</a></strong><br/>
+  <em>by</em> <strong>bliiiss, Capoxxo</strong><br/>
+  <em>Album:</em> fuckk
 </p>
 
-<p align="center"><code>2:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:08</code></p>
+<p align="center"><code>0:04</code> ▓░░░░░░░░░░░░░░░░░░░ <code>1:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Snowmen (feat. Bladee & Ecco2k)](https://open.spotify.com/track/5uu8ThZf9pjGlbxhx3RZyj)** by **Xavier Wulf, Bladee, Ecco2k** *(Greatest Hits, Pt. 1)* - `2 min ago`
-- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `6 min ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `8 min ago`
-- **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)* - `20 min ago`
-- **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)* - `23 min ago`
+- **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)* - `just now`
+- **[i'm the one in love](https://open.spotify.com/track/0RlRqK8oIV7DuV3UCGVcjQ)** by **timesgone, DNA** *(i'm the one in love)* - `1 min ago`
+- **[United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL)** by **Kendrick Lamar** *(Mr. Morale & The Big Steppers)* - `3 min ago`
+- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)* - `7 min ago`
+- **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 11:49:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 12:36:23 UTC*
 <!-- SPOTIFY-END -->
