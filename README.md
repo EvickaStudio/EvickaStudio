@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273689717286cc5b714eec1fd61" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1wnkCR7qVF3DJPbowjlgCO">Trendy</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> The Fool
+  <strong><a href="https://open.spotify.com/track/4do5TVTLHNTHkGodI7LrnI">still awake</a></strong><br/>
+  <em>by</em> <strong>whyhaze</strong><br/>
+  <em>Album:</em> still awake
 </p>
 
-<p align="center"><code>2:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:43</code></p>
+<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)* - `2 min ago`
-- **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)* - `4 min ago`
-- **[Burning](https://open.spotify.com/track/4WkhMu7wONClKw2gIslnp9)** by **Sacred holes** *(Wirehair)* - `7 min ago`
-- **[Van Damme](https://open.spotify.com/track/4BteXEIp0SoEglzLxurGYN)** by **humanangst** *(Wie es war / Van Damme)* - `11 min ago`
-- **[OMG! WTF! (Only when it's lonely)](https://open.spotify.com/track/6NdCn91ANioS6OI4grCPHS)** by **Rooster** *(Rooster Slipped)* - `13 min ago`
+- **[2001 km/h](https://open.spotify.com/track/2Y95k3zkkFrIjrYV4XssmH)** by **dreamloader** *(2000 km/h)* - `1 min ago`
+- **[holding on](https://open.spotify.com/track/5PSkVmVQ8DRqkhgMaV69uu)** by **The Twins, RADA** *(holding on)* - `4 min ago`
+- **[basil smash](https://open.spotify.com/track/77C0XWzWSaEcDdfpjfUeFd)** by **Hellnah** *(basil smash)* - `6 min ago`
+- **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)* - `8 min ago`
+- **[Blaue Pille](https://open.spotify.com/track/3ciZTFSJ1o4NXstOLF7vD7)** by **Psyke** *(Blaue Pille)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 20:34:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 21:01:35 UTC*
 <!-- SPOTIFY-END -->
