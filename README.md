@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739593a0048b99d9bd48e0340d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273701d6cad5e7d67f78d3c2538" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/17y2GNeAhIFLokYWDcFAzA">302? ionwan2go</a></strong><br/>
-  <em>by</em> <strong>Yabujin</strong><br/>
-  <em>Album:</em> 302? ionwan2go
+  <strong><a href="https://open.spotify.com/track/7gAzKwhynmNHwbNhUiiZ8n">Icebox</a></strong><br/>
+  <em>by</em> <strong>Dj Billybool</strong><br/>
+  <em>Album:</em> My Fantasy World
 </p>
 
-<p align="center"><code>2:00</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:27</code></p>
+<p align="center"><code>0:35</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[blues ςɭยєร](https://open.spotify.com/track/6CFlbGvvpzktKEaUxKPEeR)** by **jequya** *(jomyulo)* - `1 min ago`
-- **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)* - `4 min ago`
-- **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)* - `6 min ago`
-- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `9 min ago`
-- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `12 min ago`
+- **[DRESDEN ER](https://open.spotify.com/track/1yMPTkN25hmgxiAQYkX63O)** by **Bladee** *(Spiderr)* - `just now`
+- **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)* - `3 min ago`
+- **[lol <4 lmao](https://open.spotify.com/track/6794WuQKb7PdVPiYiiJVaC)** by **augenschliesser** *(lol <4 lmao)* - `6 min ago`
+- **[3 Star Reunite](https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6)** by **Thaiboy Digital, Bladee** *(Back 2 Life)* - `9 min ago`
+- **[Star people](https://open.spotify.com/track/44Obh48yje3RZvWtYc4OpJ)** by **Jane Remover** *(Revengeseekerz)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 16:57:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 17:26:28 UTC*
 <!-- SPOTIFY-END -->
