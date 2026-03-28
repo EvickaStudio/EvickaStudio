@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27325919932ba81d0a59ed28130" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f36fe70c3901f5a7c3eca2e1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4LXADCKJwKZrkX1GwQdAwJ">cant stop</a></strong><br/>
-  <em>by</em> <strong>cranes, ss3bby</strong><br/>
-  <em>Album:</em> cant stop
+  <strong><a href="https://open.spotify.com/track/1eguFDzYrQJbQaXrnLrTAg">The Mirror</a></strong><br/>
+  <em>by</em> <strong>Rooster</strong><br/>
+  <em>Album:</em> Rooster Slipped
 </p>
 
-<p align="center"><code>0:08</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:24</code></p>
+<p align="center"><code>0:20</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:31</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)* - `just now`
-- **[G6 Anthem](https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN)** by **Lucy Bedroque** *(Unmusique)* - `2 min ago`
-- **[Buggy](https://open.spotify.com/track/2phTBssn4rTLOnT0HMmd0t)** by **Jawnino, YT, Deer park** *(Melancholia)* - `5 min ago`
-- **[Marzipan](https://open.spotify.com/track/1kUxI3ZdPGMfcj5TbHdQau)** by **Psyke** *(Tape 2 / Magie)* - `8 min ago`
-- **[Elysium](https://open.spotify.com/track/3vShimEODuYRz410BQpwB7)** by **JB 50** *(Elysium)* - `10 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `just now`
+- **[wenn du jetzt tot wärst](https://open.spotify.com/track/3oMI3IpZ3MciKLLDTsVN2U)** by **Hello Hannes** *(wenn du jetzt tot wärst)* - `2 min ago`
+- **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)* - `4 min ago`
+- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `6 min ago`
+- **[Eyelash](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)** by **Bladee** *(Love Is A State)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 21:59:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 22:34:04 UTC*
 <!-- SPOTIFY-END -->
