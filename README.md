@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27393032355eb6ab1320904d086" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM">Ich sterbe jeden Tag</a></strong><br/>
-  <em>by</em> <strong>humanangst</strong><br/>
-  <em>Album:</em> Lost in Translation
+  <strong><a href="https://open.spotify.com/track/5UETCRZNic9tMJSnDCsTJ3">Exceler</a></strong><br/>
+  <em>by</em> <strong>Woesum, Bladee</strong><br/>
+  <em>Album:</em> Blue Summer
 </p>
 
-<p align="center"><code>0:25</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:17</code></p>
+<p align="center"><code>1:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Som En Stjärna (Lusi x Eurohead)](https://open.spotify.com/track/5xGH47VQZPhVO3BvHhqJnz)** by **Dj Billybool, Eurohead, Ripsquad** *(DYR Part 2)* - `just now`
-- **[Armageddon / Seventh heaven](https://open.spotify.com/track/70z9gQLHt0QUXaOYvpV3Og)** by **MGNA Crrrta** *(Beautiful Disaster)* - `3 min ago`
-- **[HANNAH](https://open.spotify.com/track/4Fi63YDySVyR4txDSrR4SE)** by **dreamloader** *(HANNAH)* - `5 min ago`
-- **[movies for guys](https://open.spotify.com/track/1urgZoAjz91vFqPEokA1OR)** by **Jane Remover** *(Frailty)* - `8 min ago`
-- **[Thee 9 Is Up](https://open.spotify.com/track/5Hql3JHchoyik8xw24Q0KA)** by **Bladee** *(The Fool)* - `14 min ago`
+- **[Popcorn Und Tod](https://open.spotify.com/track/6dAeS7DuihB6Sjuzv7m4gt)** by **Psyke** *(Tape 2 / Magie)* - `1 min ago`
+- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `3 min ago`
+- **[the day i met astagel](https://open.spotify.com/track/5Lkd09hMieVW5hIACO007J)** by **humanangst, agelast222** *(the day i met astagel)* - `6 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
+- **[ionwan2go2heaven](https://open.spotify.com/track/15xbdk8EVrccV0eUA3ISiB)** by **dreamloader** *(Afterburner Compilation Vol. 1)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 19:06:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 19:43:18 UTC*
 <!-- SPOTIFY-END -->
