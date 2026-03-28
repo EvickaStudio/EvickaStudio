@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7a4dV5aM4pHsTdOkqIVK8l">angels in camo</a></strong><br/>
-  <em>by</em> <strong>Jane Remover</strong><br/>
-  <em>Album:</em> Revengeseekerz
+  <strong><a href="https://open.spotify.com/track/1wnkCR7qVF3DJPbowjlgCO">Trendy</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> The Fool
 </p>
 
-<p align="center"><code>2:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:41</code></p>
+<p align="center"><code>2:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[You Know I Don't Get Down Like That (with swedishwhorehouse)](https://open.spotify.com/track/7zbHYkf4ytyrPv77gcpQhK)** by **Sacred holes** *(Wirehair)* - `2 min ago`
-- **[champagne](https://open.spotify.com/track/0N9FNZNvjpgj3VbHonvzeU)** by **osk** *(london night ballad)* - `4 min ago`
-- **[Planes](https://open.spotify.com/track/7d7nhRAwLy1jP89b6QREuI)** by **humanangst** *(Lost in Translation)* - `6 min ago`
-- **[So Mote It Be](https://open.spotify.com/track/1tTcvTykS5Z3saSndxMg7C)** by **Downhill2k01** *(So Mote It Be)* - `8 min ago`
-- **[Baby](https://open.spotify.com/track/2zffbc2pTwEiv9JwCIJRiW)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `11 min ago`
+- **[Melancholie](https://open.spotify.com/track/37RekYp8RZPjTEPkXEwllU)** by **mickyi** *(Melancholie)* - `2 min ago`
+- **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)* - `4 min ago`
+- **[Burning](https://open.spotify.com/track/4WkhMu7wONClKw2gIslnp9)** by **Sacred holes** *(Wirehair)* - `7 min ago`
+- **[Van Damme](https://open.spotify.com/track/4BteXEIp0SoEglzLxurGYN)** by **humanangst** *(Wie es war / Van Damme)* - `11 min ago`
+- **[OMG! WTF! (Only when it's lonely)](https://open.spotify.com/track/6NdCn91ANioS6OI4grCPHS)** by **Rooster** *(Rooster Slipped)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 19:59:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 20:34:51 UTC*
 <!-- SPOTIFY-END -->
