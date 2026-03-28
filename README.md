@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c285adba102c4a8d0c7497e2" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU">leave this world behind</a></strong><br/>
-  <em>by</em> <strong>meat computer</strong><br/>
-  <em>Album:</em> leave this world behind
-</p>
-
-<p align="center"><code>0:35</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:22</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `just now`
-- **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)* - `2 min ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `4 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `8 min ago`
-- **[Pflaster](https://open.spotify.com/track/27ymVUs105mwFFIHSP1x1m)** by **humanangst** *(Pflaster/Was Solls)* - `11 min ago`
+- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `38 min ago`
+- **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)* - `39 min ago`
+- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `41 min ago`
+- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `44 min ago`
+- **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)* - `45 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 23:01:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 23:45:04 UTC*
 <!-- SPOTIFY-END -->
