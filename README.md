@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732829a182a74980d6b5a25d3b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4">null city</a></strong><br/>
-  <em>by</em> <strong>dreamloader</strong><br/>
-  <em>Album:</em> null city
+  <strong><a href="https://open.spotify.com/track/2kf5oardsdpurj4gvV2ngM">Ich sterbe jeden Tag</a></strong><br/>
+  <em>by</em> <strong>humanangst</strong><br/>
+  <em>Album:</em> Lost in Translation
 </p>
 
-<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:42</code></p>
+<p align="center"><code>0:25</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[K](https://open.spotify.com/track/4p0VZhNS6FgP9q7mGsXZXL)** by **Psyke** *(Tape 2 / Magie)* - `1 min ago`
-- **[Side by Side](https://open.spotify.com/track/4f4q4xqoQEx6E0IyrNLkYS)** by **Bladee, Thaiboy Digital** *(Icedancer)* - `3 min ago`
-- **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)* - `5 min ago`
-- **[hedi hours](https://open.spotify.com/track/5Eixdtks7zTMQEn45ctpfB)** by **lil london** *(hedi hours)* - `8 min ago`
-- **[All Mine](https://open.spotify.com/track/1ZEsaFZldUvaWm5qsHb37V)** by **Nokia Angel, smokedope2016** *(In Haze)* - `10 min ago`
+- **[Som En Stjärna (Lusi x Eurohead)](https://open.spotify.com/track/5xGH47VQZPhVO3BvHhqJnz)** by **Dj Billybool, Eurohead, Ripsquad** *(DYR Part 2)* - `just now`
+- **[Armageddon / Seventh heaven](https://open.spotify.com/track/70z9gQLHt0QUXaOYvpV3Og)** by **MGNA Crrrta** *(Beautiful Disaster)* - `3 min ago`
+- **[HANNAH](https://open.spotify.com/track/4Fi63YDySVyR4txDSrR4SE)** by **dreamloader** *(HANNAH)* - `5 min ago`
+- **[movies for guys](https://open.spotify.com/track/1urgZoAjz91vFqPEokA1OR)** by **Jane Remover** *(Frailty)* - `8 min ago`
+- **[Thee 9 Is Up](https://open.spotify.com/track/5Hql3JHchoyik8xw24Q0KA)** by **Bladee** *(The Fool)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**God Only Knows**](https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 18:29:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-28 19:06:24 UTC*
 <!-- SPOTIFY-END -->
