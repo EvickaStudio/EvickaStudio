@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732478cc851725dc32cfc78d1d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM">BBY</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> The Fool
+  <strong><a href="https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ">Mattress</a></strong><br/>
+  <em>by</em> <strong>Jawnino, Deer park</strong><br/>
+  <em>Album:</em> Melancholia
 </p>
 
-<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:00</code></p>
+<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)* - `1 min ago`
-- **[Canal Street](https://open.spotify.com/track/2OBSUbzvFbQ8CcRTHCuSKZ)** by **SILICONE VALLEY** *(Canal Street)* - `4 min ago`
-- **[9days](https://open.spotify.com/track/3jfSAiJHI5ZdsyVcSu1PSP)** by **Psyke, humanangst** *(HumanPsyke202)* - `6 min ago`
-- **[One Of Us Is Lying](https://open.spotify.com/track/4divPEANeDkW7sEMs3ZIQd)** by **Lucy Bedroque** *(Unmusique)* - `8 min ago`
-- **[Nothing Wrong](https://open.spotify.com/track/4WszIw0tmHSwqFejdZtrKi)** by **Mori Mori, 50matches** *(BB Void)* - `12 min ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `2 min ago`
+- **[GAGA](https://open.spotify.com/track/11KFeEBSD8bF1adVFjAk4Z)** by **cdgplug** *(GAGA)* - `5 min ago`
+- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `8 min ago`
+- **[Trendy](https://open.spotify.com/track/1wnkCR7qVF3DJPbowjlgCO)** by **Bladee** *(The Fool)* - `11 min ago`
+- **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 11:21:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 11:49:57 UTC*
 <!-- SPOTIFY-END -->
