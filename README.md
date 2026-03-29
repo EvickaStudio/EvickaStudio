@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27335f58f19ab125876752bcf6a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5GurVxgkSSr6BivYjGmIvu">Mann im Mond</a></strong><br/>
-  <em>by</em> <strong>humanangst</strong><br/>
-  <em>Album:</em> Lost in Translation
+  <strong><a href="https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM">BBY</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> The Fool
 </p>
 
-<p align="center"><code>1:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:51</code></p>
+<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stapleface](https://open.spotify.com/track/2NbCHh7qYuW7cRVJ1duQ5h)** by **bbpue** *(bbpue)* - `1 min ago`
-- **[White Flag](https://open.spotify.com/track/4RU4JhPBwLppIDb3p3IBjV)** by **Sacred holes** *(Genuine Uppers Life)* - `5 min ago`
-- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `6 min ago`
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `8 min ago`
-- **[Lifetime Of You](https://open.spotify.com/track/18F2ZCccF3VIybUpuoqwkx)** by **Thrilliam Angels, CLAIR, Crimson Chaos, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `11 min ago`
+- **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)* - `1 min ago`
+- **[Canal Street](https://open.spotify.com/track/2OBSUbzvFbQ8CcRTHCuSKZ)** by **SILICONE VALLEY** *(Canal Street)* - `4 min ago`
+- **[9days](https://open.spotify.com/track/3jfSAiJHI5ZdsyVcSu1PSP)** by **Psyke, humanangst** *(HumanPsyke202)* - `6 min ago`
+- **[One Of Us Is Lying](https://open.spotify.com/track/4divPEANeDkW7sEMs3ZIQd)** by **Lucy Bedroque** *(Unmusique)* - `8 min ago`
+- **[Nothing Wrong](https://open.spotify.com/track/4WszIw0tmHSwqFejdZtrKi)** by **Mori Mori, 50matches** *(BB Void)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 10:52:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 11:21:44 UTC*
 <!-- SPOTIFY-END -->
