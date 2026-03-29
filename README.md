@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273856e89869b61f6c769e8d823" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab6742d3000053b71281124443b262099febbbd8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef">Windchime (My Sacrifice)</a></strong><br/>
-  <em>by</em> <strong>Ayegy</strong><br/>
-  <em>Album:</em> BLACKTHORN
+  <strong><a href="https://open.spotify.com/track/55s2mowOC0kNLdFzyJRQnE">fml .</a></strong><br/>
+  <em>by</em> <strong>fakemink</strong><br/>
+  <em>Album:</em> fml .
 </p>
 
-<p align="center"><code>2:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:30</code></p>
+<p align="center"><code>0:45</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)* - `2 min ago`
-- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `5 min ago`
-- **[Fess Up](https://open.spotify.com/track/6DVZdTMwZfaKje8qzUYG2Q)** by **Deer park** *(Terra Infirma)* - `10 min ago`
-- **[斯德哥尔摩狂欢症 STOCKHOLMSVECKAN (Billionhappy Remix)](https://open.spotify.com/track/2LwTVK8c1WatMDfpaE4WLl)** by **Dj Billybool, Eurohead, swedm®, Billionhappy** *(DYR Part 2)* - `13 min ago`
-- **[G-String Signal](https://open.spotify.com/track/5IEM7ki8KBI5yFpX2Em2Bb)** by **Juniper Fields, User2222** *(Junkie Music)* - `15 min ago`
+- **[Expression On Your Face](https://open.spotify.com/track/6BP8dGvxMoSACclrkcf0S4)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `just now`
+- **[WHAT IS FOREVER FOR](https://open.spotify.com/track/6jBAP59RqiIR4HZt8x8Muv)** by **Frost Children** *(WHAT IS FOREVER FOR)* - `4 min ago`
+- **[Wayside](https://open.spotify.com/track/7ls8GjpkR2i66OzXl7JigU)** by **Ninajirachi** *(Wayside)* - `6 min ago`
+- **[Forever Yung](https://open.spotify.com/track/45MvuRFGvd0QnrVDX1faHK)** by **Yung Lean** *(Forever Yung)* - `9 min ago`
+- **[I'll Take It](https://open.spotify.com/track/5gJF4fvTyB8y9gtJEGQcnG)** by **Sophia Stel** *(I'll Take It)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 20:55:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 21:24:17 UTC*
 <!-- SPOTIFY-END -->
