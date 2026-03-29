@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732f03c2f3da028b57f4a2b5e8" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273856e89869b61f6c769e8d823" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2TPenQE3wY6jkTzto4haJZ">Dyer Lane</a></strong><br/>
-  <em>by</em> <strong>Ghost Mountain, Sematary</strong><br/>
-  <em>Album:</em> Dyer Lane
+  <strong><a href="https://open.spotify.com/track/73GaN0pQbOhZMINYNtHMef">Windchime (My Sacrifice)</a></strong><br/>
+  <em>by</em> <strong>Ayegy</strong><br/>
+  <em>Album:</em> BLACKTHORN
 </p>
 
-<p align="center"><code>0:50</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:18</code></p>
+<p align="center"><code>2:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Caved My Face](https://open.spotify.com/track/4QXP5RHJeDNW4CWthkHw5s)** by **Juniper Fields, User2222** *(Junkie Music)* - `just now`
-- **[Will U Still](https://open.spotify.com/track/2FBuo4EEmPrSy2urms3dAq)** by **User2222** *(User2222 Greatest Hits)* - `3 min ago`
-- **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `6 min ago`
-- **[Forever](https://open.spotify.com/track/2WAnyOABI1cKBwOKNT6XDH)** by **bbpue** *(bbpue)* - `8 min ago`
-- **[Alarm](https://open.spotify.com/track/5N99kZXU5QShN6oACaHX0A)** by **Canyon** *(So)* - `10 min ago`
+- **[Tantalise](https://open.spotify.com/track/0IN3dmR79mX5haebsUMlnN)** by **Peake** *(Withered)* - `2 min ago`
+- **[your blind eye](https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl)** by **Levi Ryan** *(southern comfort EP)* - `5 min ago`
+- **[Fess Up](https://open.spotify.com/track/6DVZdTMwZfaKje8qzUYG2Q)** by **Deer park** *(Terra Infirma)* - `10 min ago`
+- **[斯德哥尔摩狂欢症 STOCKHOLMSVECKAN (Billionhappy Remix)](https://open.spotify.com/track/2LwTVK8c1WatMDfpaE4WLl)** by **Dj Billybool, Eurohead, swedm®, Billionhappy** *(DYR Part 2)* - `13 min ago`
+- **[G-String Signal](https://open.spotify.com/track/5IEM7ki8KBI5yFpX2Em2Bb)** by **Juniper Fields, User2222** *(Junkie Music)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 20:21:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 20:55:16 UTC*
 <!-- SPOTIFY-END -->
