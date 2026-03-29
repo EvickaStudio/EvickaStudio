@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273468315210da62a4ffda72430" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273edfa39d77032b3f3d72c96d3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K">Real Life</a></strong><br/>
-  <em>by</em> <strong>ear</strong><br/>
-  <em>Album:</em> The Most Dear and The Future
+  <strong><a href="https://open.spotify.com/track/0G6ejwp4ayZeX5nEYmxVcg">Flowa Girl</a></strong><br/>
+  <em>by</em> <strong>Ms* Gloom</strong><br/>
+  <em>Album:</em> J is for Joon
 </p>
 
-<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:19</code></p>
+<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)* - `1 min ago`
-- **[Canal Street](https://open.spotify.com/track/2OBSUbzvFbQ8CcRTHCuSKZ)** by **SILICONE VALLEY** *(Canal Street)* - `4 min ago`
-- **[Minute Marks](https://open.spotify.com/track/0SWD4tja6tuXzBmNlBORSI)** by **Rooster** *(Rooster Slipped)* - `6 min ago`
-- **[YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh)** by **A Good Year, Horse Vision** *(YSL)* - `8 min ago`
-- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `10 min ago`
+- **[Wrist Cry](https://open.spotify.com/track/5R4LsSsOshbStU1QjRWEKt)** by **Bladee** *(Eversince)* - `1 min ago`
+- **[The Science of Giving In (Part II)](https://open.spotify.com/track/6jrKKImiJd1Qa9Ph7qMHds)** by **User2222** *(Blame Games)* - `5 min ago`
+- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `8 min ago`
+- **[Xoxo](https://open.spotify.com/track/6JBZR9LcjIm5N7pnjAxMJZ)** by **Rooster** *(Rooster Slipped)* - `12 min ago`
+- **[reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 18:30:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 19:09:06 UTC*
 <!-- SPOTIFY-END -->
