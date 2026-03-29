@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27345e58c83c5bee79af6fef7da" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/27ymVUs105mwFFIHSP1x1m">Pflaster</a></strong><br/>
-  <em>by</em> <strong>humanangst</strong><br/>
-  <em>Album:</em> Pflaster/Was Solls
+  <strong><a href="https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7">Going Home</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:37</code></p>
+<p align="center"><code>1:18</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:31</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `2 min ago`
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `4 min ago`
-- **[ich bin OFFSET](https://open.spotify.com/track/1ZmxzejFrG3cue5IVeOLe3)** by **agelast222, Kalila Oumbri** *(solar connection)* - `6 min ago`
-- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `7 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `9 min ago`
+- **[You Know I Don't Get Down Like That (with swedishwhorehouse)](https://open.spotify.com/track/7zbHYkf4ytyrPv77gcpQhK)** by **Sacred holes** *(Wirehair)* - `1 min ago`
+- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `3 min ago`
+- **[The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU)** by **ear** *(The Most Dear and The Future)* - `6 min ago`
+- **[Sing It For Tha Show](https://open.spotify.com/track/10rQpfyxx6SFOEX4Q29ENK)** by **Ms* Gloom** *(J is for Joon)* - `8 min ago`
+- **[big proverb](https://open.spotify.com/track/5pG72iLzzyfwaa15Mo096H)** by **Helen Sun** *(big proverb)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 12:36:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 13:38:20 UTC*
 <!-- SPOTIFY-END -->
