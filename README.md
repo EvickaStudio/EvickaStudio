@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731b8a46d3a04fc07f884e3b28" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7">Going Home</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
+  <strong><a href="https://open.spotify.com/track/5GfvzrqerqQnMZ8dkM00yF">Life Glows On</a></strong><br/>
+  <em>by</em> <strong>Thrilliam Angels</strong><br/>
+  <em>Album:</em> The Static Screams Your Name
 </p>
 
-<p align="center"><code>1:18</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:31</code></p>
+<p align="center"><code>0:29</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[You Know I Don't Get Down Like That (with swedishwhorehouse)](https://open.spotify.com/track/7zbHYkf4ytyrPv77gcpQhK)** by **Sacred holes** *(Wirehair)* - `1 min ago`
-- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `3 min ago`
-- **[The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU)** by **ear** *(The Most Dear and The Future)* - `6 min ago`
-- **[Sing It For Tha Show](https://open.spotify.com/track/10rQpfyxx6SFOEX4Q29ENK)** by **Ms* Gloom** *(J is for Joon)* - `8 min ago`
-- **[big proverb](https://open.spotify.com/track/5pG72iLzzyfwaa15Mo096H)** by **Helen Sun** *(big proverb)* - `12 min ago`
+- **[You idiot](https://open.spotify.com/track/4Jlj7Mhon9MQ7hC8kZrijM)** by **Helen Sun** *(talk with your Teeth)* - `just now`
+- **[Fetish](https://open.spotify.com/track/0sOSSBzcUMD7cbdFzDYnYa)** by **ear** *(Fetish / Valley Serpent)* - `1 min ago`
+- **[Reset](https://open.spotify.com/track/5ZZcINzdiNArgNStohLKdC)** by **Jonah Paz, Adeline Bateman** *(Exit)* - `4 min ago`
+- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `6 min ago`
+- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 13:38:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 14:18:36 UTC*
 <!-- SPOTIFY-END -->
