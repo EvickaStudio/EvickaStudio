@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27366b4e3d6adc2d83ef5b30ebc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732f03c2f3da028b57f4a2b5e8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01">The Cyclone</a></strong><br/>
-  <em>by</em> <strong>Sacred holes</strong><br/>
-  <em>Album:</em> Genuine Uppers Life
+  <strong><a href="https://open.spotify.com/track/2TPenQE3wY6jkTzto4haJZ">Dyer Lane</a></strong><br/>
+  <em>by</em> <strong>Ghost Mountain, Sematary</strong><br/>
+  <em>Album:</em> Dyer Lane
 </p>
 
-<p align="center"><code>1:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:24</code></p>
+<p align="center"><code>0:50</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tieferschatten](https://open.spotify.com/track/1VpicQNmbygk8TprXK9omC)** by **JB 50** *(Tieferschatten)* - `1 min ago`
-- **[Babcia Jadzia](https://open.spotify.com/track/3YUiDAxi6If11zNnxJDbDi)** by **Bassvictim** *(?)* - `4 min ago`
-- **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)* - `11 min ago`
-- **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)* - `13 min ago`
-- **[eurolife](https://open.spotify.com/track/79qk9wzNKn8UhBYohfdvTf)** by **dreamloader** *(under.net compilation vol. 3)* - `16 min ago`
+- **[Caved My Face](https://open.spotify.com/track/4QXP5RHJeDNW4CWthkHw5s)** by **Juniper Fields, User2222** *(Junkie Music)* - `just now`
+- **[Will U Still](https://open.spotify.com/track/2FBuo4EEmPrSy2urms3dAq)** by **User2222** *(User2222 Greatest Hits)* - `3 min ago`
+- **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `6 min ago`
+- **[Forever](https://open.spotify.com/track/2WAnyOABI1cKBwOKNT6XDH)** by **bbpue** *(bbpue)* - `8 min ago`
+- **[Alarm](https://open.spotify.com/track/5N99kZXU5QShN6oACaHX0A)** by **Canyon** *(So)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 19:45:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 20:21:59 UTC*
 <!-- SPOTIFY-END -->
