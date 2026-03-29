@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Aurora](https://open.spotify.com/track/60ROE8El697cDcueQiU2hD)** by **Quiet Light** *(Pure Hearts)* - `25 min ago`
-- **[Summit](https://open.spotify.com/track/3Htw9ODiZ6bMAv2GJXvHLC)** by **User2222** *(User2222 Greatest Hits)* - `28 min ago`
-- **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)* - `31 min ago`
-- **[DRESDEN ER](https://open.spotify.com/track/1yMPTkN25hmgxiAQYkX63O)** by **Bladee** *(Spiderr)* - `33 min ago`
-- **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)* - `36 min ago`
+- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `19 min ago`
+- **[Aurora](https://open.spotify.com/track/60ROE8El697cDcueQiU2hD)** by **Quiet Light** *(Pure Hearts)* - `55 min ago`
+- **[Summit](https://open.spotify.com/track/3Htw9ODiZ6bMAv2GJXvHLC)** by **User2222** *(User2222 Greatest Hits)* - `58 min ago`
+- **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)* - `1 h ago`
+- **[DRESDEN ER](https://open.spotify.com/track/1yMPTkN25hmgxiAQYkX63O)** by **Bladee** *(Spiderr)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 15:31:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 16:01:51 UTC*
 <!-- SPOTIFY-END -->
