@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731b8a46d3a04fc07f884e3b28" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27379cf43651dd1c7b896e642e6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5GfvzrqerqQnMZ8dkM00yF">Life Glows On</a></strong><br/>
-  <em>by</em> <strong>Thrilliam Angels</strong><br/>
-  <em>Album:</em> The Static Screams Your Name
+  <strong><a href="https://open.spotify.com/track/1yMPTkN25hmgxiAQYkX63O">DRESDEN ER</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Spiderr
 </p>
 
-<p align="center"><code>0:29</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:34</code></p>
+<p align="center"><code>2:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[You idiot](https://open.spotify.com/track/4Jlj7Mhon9MQ7hC8kZrijM)** by **Helen Sun** *(talk with your Teeth)* - `just now`
-- **[Fetish](https://open.spotify.com/track/0sOSSBzcUMD7cbdFzDYnYa)** by **ear** *(Fetish / Valley Serpent)* - `1 min ago`
-- **[Reset](https://open.spotify.com/track/5ZZcINzdiNArgNStohLKdC)** by **Jonah Paz, Adeline Bateman** *(Exit)* - `4 min ago`
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `6 min ago`
-- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `9 min ago`
+- **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)* - `2 min ago`
+- **[Feeling Loved As I Feel Understood](https://open.spotify.com/track/67VO098IAmZEqRxGVOqMDz)** by **Blessed and blushing** *(A Short Movie Where Tenderness Wins)* - `5 min ago`
+- **[Scared That I Might Blow Up](https://open.spotify.com/track/4fMIhL0DEDJU676Sxk4ANe)** by **Sacred holes** *(Genuine Uppers Life)* - `8 min ago`
+- **[Beso Zen/Bloodroot Valley](https://open.spotify.com/track/5HEG6teqIKNDgxv4Xtpe0y)** by **Ayegy, Meth Math** *(Beso Zen/Bloodroot Valley)* - `10 min ago`
+- **[Fenty Face](https://open.spotify.com/track/43U3Z78I4uoAPsy42MIVSl)** by **Lucy Bedroque** *(Unmusique)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 14:18:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 14:57:59 UTC*
 <!-- SPOTIFY-END -->
