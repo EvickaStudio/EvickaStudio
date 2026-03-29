@@ -96,9 +96,9 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[forever](https://open.spotify.com/track/3z2c1w8n0NcECWXnOpD5jb)** by **Charli xcx** *(forever)* - `1 h ago`
-- **[Babyface Maniacs](https://open.spotify.com/track/4siEAbXQifdpAaREF1D6GZ)** by **Yung Lean** *(Babyface Maniacs)* - `1 h ago`
-- **[Door](https://open.spotify.com/track/4QJ803MCDbQPjdAV3AYftR)** by **Caroline Polachek** *(Door)* - `1 h ago`
+- **[forever](https://open.spotify.com/track/3z2c1w8n0NcECWXnOpD5jb)** by **Charli xcx** *(forever)* - `2 h ago`
+- **[Babyface Maniacs](https://open.spotify.com/track/4siEAbXQifdpAaREF1D6GZ)** by **Yung Lean** *(Babyface Maniacs)* - `2 h ago`
+- **[Door](https://open.spotify.com/track/4QJ803MCDbQPjdAV3AYftR)** by **Caroline Polachek** *(Door)* - `2 h ago`
 - **[fml .](https://open.spotify.com/track/55s2mowOC0kNLdFzyJRQnE)** by **fakemink** *(fml .)* - `2 h ago`
 - **[Expression On Your Face](https://open.spotify.com/track/6BP8dGvxMoSACclrkcf0S4)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `2 h ago`
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 23:27:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 23:55:06 UTC*
 <!-- SPOTIFY-END -->
