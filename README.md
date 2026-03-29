@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273468315210da62a4ffda72430" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/65yE0MolVpKPQ5yazAAFzC">Ceremony</a></strong><br/>
+  <em>by</em> <strong>ear</strong><br/>
+  <em>Album:</em> The Most Dear and The Future
+</p>
+
+<p align="center"><code>1:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `19 min ago`
-- **[Aurora](https://open.spotify.com/track/60ROE8El697cDcueQiU2hD)** by **Quiet Light** *(Pure Hearts)* - `55 min ago`
-- **[Summit](https://open.spotify.com/track/3Htw9ODiZ6bMAv2GJXvHLC)** by **User2222** *(User2222 Greatest Hits)* - `58 min ago`
-- **[2000 km/h](https://open.spotify.com/track/1JRZofiAZNPp4e4zn3oBl3)** by **dreamloader** *(2000 km/h)* - `1 h ago`
-- **[DRESDEN ER](https://open.spotify.com/track/1yMPTkN25hmgxiAQYkX63O)** by **Bladee** *(Spiderr)* - `1 h ago`
+- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `1 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `3 min ago`
+- **[Honey](https://open.spotify.com/track/3P7MlnZljzBozR1lknaVTv)** by **Psyke, humanangst** *(HumanPsyke202)* - `5 min ago`
+- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `7 min ago`
+- **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 16:01:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 16:50:40 UTC*
 <!-- SPOTIFY-END -->
