@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[forever](https://open.spotify.com/track/3z2c1w8n0NcECWXnOpD5jb)** by **Charli xcx** *(forever)* - `42 min ago`
-- **[Babyface Maniacs](https://open.spotify.com/track/4siEAbXQifdpAaREF1D6GZ)** by **Yung Lean** *(Babyface Maniacs)* - `47 min ago`
-- **[Door](https://open.spotify.com/track/4QJ803MCDbQPjdAV3AYftR)** by **Caroline Polachek** *(Door)* - `51 min ago`
-- **[fml .](https://open.spotify.com/track/55s2mowOC0kNLdFzyJRQnE)** by **fakemink** *(fml .)* - `56 min ago`
-- **[Expression On Your Face](https://open.spotify.com/track/6BP8dGvxMoSACclrkcf0S4)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `58 min ago`
+- **[forever](https://open.spotify.com/track/3z2c1w8n0NcECWXnOpD5jb)** by **Charli xcx** *(forever)* - `1 h ago`
+- **[Babyface Maniacs](https://open.spotify.com/track/4siEAbXQifdpAaREF1D6GZ)** by **Yung Lean** *(Babyface Maniacs)* - `1 h ago`
+- **[Door](https://open.spotify.com/track/4QJ803MCDbQPjdAV3AYftR)** by **Caroline Polachek** *(Door)* - `1 h ago`
+- **[fml .](https://open.spotify.com/track/55s2mowOC0kNLdFzyJRQnE)** by **fakemink** *(fml .)* - `1 h ago`
+- **[Expression On Your Face](https://open.spotify.com/track/6BP8dGvxMoSACclrkcf0S4)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 22:21:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 22:56:14 UTC*
 <!-- SPOTIFY-END -->
