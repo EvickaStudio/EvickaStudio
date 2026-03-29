@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `8 h ago`
+- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `9 h ago`
 - **[Monster in Paris✰✰+++](https://open.spotify.com/track/5z0YzvW7KO3oDYA2FRMvXe)** by **ilyproxy, leander, Hadesthegrim** *(Monster in Paris✰✰+++)* - `9 h ago`
 - **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `9 h ago`
 - **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `9 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 08:05:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 08:57:36 UTC*
 <!-- SPOTIFY-END -->
