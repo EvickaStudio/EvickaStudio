@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27397c1c1234c884ef31e19bc85" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273468315210da62a4ffda72430" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5xh8BQ831kRhiKgdzie3Zr">Tea in Bed</a></strong><br/>
-  <em>by</em> <strong>Blessed and blushing</strong><br/>
-  <em>Album:</em> Blue Memory Box
+  <strong><a href="https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K">Real Life</a></strong><br/>
+  <em>by</em> <strong>ear</strong><br/>
+  <em>Album:</em> The Most Dear and The Future
 </p>
 
-<p align="center"><code>2:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:49</code></p>
+<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
-- **[White Flag](https://open.spotify.com/track/4RU4JhPBwLppIDb3p3IBjV)** by **Sacred holes** *(Genuine Uppers Life)* - `5 min ago`
-- **[____ ____ ___](https://open.spotify.com/track/4PuiFKjlDar0zfVnZT5VgS)** by **bbpue** *(DAL 2)* - `6 min ago`
-- **[Only](https://open.spotify.com/track/3rC1ot59JGha7EaHkccjLf)** by **Mori Mori** *(BB Void)* - `8 min ago`
-- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `10 min ago`
+- **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)* - `1 min ago`
+- **[Canal Street](https://open.spotify.com/track/2OBSUbzvFbQ8CcRTHCuSKZ)** by **SILICONE VALLEY** *(Canal Street)* - `4 min ago`
+- **[Minute Marks](https://open.spotify.com/track/0SWD4tja6tuXzBmNlBORSI)** by **Rooster** *(Rooster Slipped)* - `6 min ago`
+- **[YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh)** by **A Good Year, Horse Vision** *(YSL)* - `8 min ago`
+- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 17:54:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 18:30:13 UTC*
 <!-- SPOTIFY-END -->
