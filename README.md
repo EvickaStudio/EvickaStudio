@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273668f89613ff0436399963aba" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a59d55571d9f4913e0828c2a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp">Curse is Lifted - Club rmx</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Curse is Lifted (Club rmx)
+  <strong><a href="https://open.spotify.com/track/5GurVxgkSSr6BivYjGmIvu">Mann im Mond</a></strong><br/>
+  <em>by</em> <strong>humanangst</strong><br/>
+  <em>Album:</em> Lost in Translation
 </p>
 
-<p align="center"><code>2:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:39</code></p>
+<p align="center"><code>1:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `2 min ago`
-- **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)* - `4 min ago`
-- **[Ice Floors (feat. Bladee)](https://open.spotify.com/track/7iv7k4jGnuMwt1JJCtXptk)** by **Xavier Wulf, Bladee** *(Greatest Hits, Pt. 2)* - `6 min ago`
-- **[AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM)](https://open.spotify.com/track/5uLE54jvZcK2nKiGbAnvAE)** by **agelast222** *(AZTA-KEL #gyaan *godlin* 2222222222223 (AATUM))* - `9 min ago`
-- **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)* - `11 min ago`
+- **[Stapleface](https://open.spotify.com/track/2NbCHh7qYuW7cRVJ1duQ5h)** by **bbpue** *(bbpue)* - `1 min ago`
+- **[White Flag](https://open.spotify.com/track/4RU4JhPBwLppIDb3p3IBjV)** by **Sacred holes** *(Genuine Uppers Life)* - `5 min ago`
+- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `6 min ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `8 min ago`
+- **[Lifetime Of You](https://open.spotify.com/track/18F2ZCccF3VIybUpuoqwkx)** by **Thrilliam Angels, CLAIR, Crimson Chaos, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Baby I'm-a Want You**](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 10:03:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 10:52:04 UTC*
 <!-- SPOTIFY-END -->
