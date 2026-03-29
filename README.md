@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab6742d3000053b71281124443b262099febbbd8" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/55s2mowOC0kNLdFzyJRQnE">fml .</a></strong><br/>
-  <em>by</em> <strong>fakemink</strong><br/>
-  <em>Album:</em> fml .
-</p>
-
-<p align="center"><code>0:45</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:41</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Expression On Your Face](https://open.spotify.com/track/6BP8dGvxMoSACclrkcf0S4)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `just now`
-- **[WHAT IS FOREVER FOR](https://open.spotify.com/track/6jBAP59RqiIR4HZt8x8Muv)** by **Frost Children** *(WHAT IS FOREVER FOR)* - `4 min ago`
-- **[Wayside](https://open.spotify.com/track/7ls8GjpkR2i66OzXl7JigU)** by **Ninajirachi** *(Wayside)* - `6 min ago`
-- **[Forever Yung](https://open.spotify.com/track/45MvuRFGvd0QnrVDX1faHK)** by **Yung Lean** *(Forever Yung)* - `9 min ago`
-- **[I'll Take It](https://open.spotify.com/track/5gJF4fvTyB8y9gtJEGQcnG)** by **Sophia Stel** *(I'll Take It)* - `12 min ago`
+- **[forever](https://open.spotify.com/track/3z2c1w8n0NcECWXnOpD5jb)** by **Charli xcx** *(forever)* - `13 min ago`
+- **[Babyface Maniacs](https://open.spotify.com/track/4siEAbXQifdpAaREF1D6GZ)** by **Yung Lean** *(Babyface Maniacs)* - `17 min ago`
+- **[Door](https://open.spotify.com/track/4QJ803MCDbQPjdAV3AYftR)** by **Caroline Polachek** *(Door)* - `22 min ago`
+- **[fml .](https://open.spotify.com/track/55s2mowOC0kNLdFzyJRQnE)** by **fakemink** *(fml .)* - `27 min ago`
+- **[Expression On Your Face](https://open.spotify.com/track/6BP8dGvxMoSACclrkcf0S4)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `29 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 21:24:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-29 21:52:45 UTC*
 <!-- SPOTIFY-END -->
