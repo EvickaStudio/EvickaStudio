@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738127f8e463044bbc9cb955fe" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27379cf43651dd1c7b896e642e6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ">Red</a></strong><br/>
-  <em>by</em> <strong>Mori Mori</strong><br/>
-  <em>Album:</em> BB Void
+  <strong><a href="https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98">Velociraptor</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Spiderr
 </p>
 
-<p align="center"><code>2:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:18</code></p>
+<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[O My Soul](https://open.spotify.com/track/19HYKWgx7WAjRSupUgKKnV)** by **Deer park, thomas** *(Terra Infirma)* - `2 min ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `5 min ago`
-- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `9 min ago`
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `1 h ago`
-- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `1 h ago`
+- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `1 min ago`
+- **[Hanging From The Bridge](https://open.spotify.com/track/0oMzRdqKUhgw8JIfi9t5BL)** by **Yung Lean, Bladee** *(Psykos)* - `4 min ago`
+- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `7 min ago`
+- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `9 min ago`
+- **[DNA RAIN](https://open.spotify.com/track/57kIHII6uQTZpC0EdfkzjT)** by **Bladee** *(EXETER)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 17:45:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 18:39:53 UTC*
 <!-- SPOTIFY-END -->
