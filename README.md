@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d0175b678ffa7b54c572e803" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1wA2Ezr8CnOXEiKbopVXH5">du bist mir egal</a></strong><br/>
-  <em>by</em> <strong>Pink Katana</strong><br/>
-  <em>Album:</em> Den Mutigen gehört die Welt
+  <strong><a href="https://open.spotify.com/track/5pG72iLzzyfwaa15Mo096H">big proverb</a></strong><br/>
+  <em>by</em> <strong>Helen Sun</strong><br/>
+  <em>Album:</em> big proverb
 </p>
 
-<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:05</code></p>
+<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)** by **Ayegy** *(In It, Not of It)* - `2 min ago`
-- **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)* - `5 min ago`
-- **[Babe Wake Up](https://open.spotify.com/track/3VgLJcVMSL6fqVc40mMGEV)** by **Blessed and blushing** *(The Never Ending Hug)* - `9 min ago`
-- **[Theorem](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)** by **ear** *(The Most Dear and The Future)* - `10 min ago`
-- **[Red Gold White](https://open.spotify.com/track/6n45un296rGJ5xfE6xICqK)** by **Deer park** *(Terra Infirma)* - `13 min ago`
+- **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))* - `2 min ago`
+- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `5 min ago`
+- **[Bird on a Wire](https://open.spotify.com/track/0hcqinpvUZ8p8IdqJtGw7k)** by **User2222** *(Blame Games)* - `8 min ago`
+- **[Forever - dep4rted remix](https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU)** by **DJmegan23, ultra caro, dep4rted** *(M+ (Remixes))* - `12 min ago`
+- **[The Break Up Song](https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 19:39:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 20:24:22 UTC*
 <!-- SPOTIFY-END -->
