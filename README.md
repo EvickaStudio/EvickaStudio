@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c68b61db6c5e04fa03e815e6" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23">Love Is A State</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Love Is A State
-</p>
-
-<p align="center"><code>2:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:52</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Cheap Hotel](https://open.spotify.com/track/37WZ0nTpwsUtIFfxclzKEi)** by **FKA twigs** *(Cheap Hotel)* - `25 min ago`
-- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `4 h ago`
-- **[forever](https://open.spotify.com/track/3z2c1w8n0NcECWXnOpD5jb)** by **Charli xcx** *(forever)* - `10 h ago`
-- **[Babyface Maniacs](https://open.spotify.com/track/4siEAbXQifdpAaREF1D6GZ)** by **Yung Lean** *(Babyface Maniacs)* - `10 h ago`
-- **[Door](https://open.spotify.com/track/4QJ803MCDbQPjdAV3AYftR)** by **Caroline Polachek** *(Door)* - `10 h ago`
+- **[Boys Don't Cry](https://open.spotify.com/track/0C2eEsMBj78CLkHNJPjohc)** by **The Cure** *(Greatest Hits)* - `1 h ago`
+- **[oxytocin](https://open.spotify.com/track/0aCP2CYv14RhplU5sCfzMd)** by **Mobezzy** *(INTEREA)* - `1 h ago`
+- **[cannot get over you](https://open.spotify.com/track/3Nchp5FIgnabzgM1BMoOVT)** by **requiem for you** *(for you, 親愛なる)* - `1 h ago`
+- **[fuckingloser](https://open.spotify.com/track/3NP5JRfTJGY3rzKZKkKeK0)** by **Chicken Lover** *(fuckingloser)* - `1 h ago`
+- **[Junge](https://open.spotify.com/track/10waMsh44ojvTwXAIy213n)** by **Die Ärzte** *(Jazz ist anders)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 08:06:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 09:46:09 UTC*
 <!-- SPOTIFY-END -->
