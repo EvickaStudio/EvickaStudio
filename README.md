@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738127f8e463044bbc9cb955fe" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ">Red</a></strong><br/>
+  <em>by</em> <strong>Mori Mori</strong><br/>
+  <em>Album:</em> BB Void
+</p>
+
+<p align="center"><code>2:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `38 min ago`
-- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `41 min ago`
-- **[paradise](https://open.spotify.com/track/46tfnu119mRiA1eMJBfKxD)** by **rl1805** *(paradise)* - `42 min ago`
-- **[Animal](https://open.spotify.com/track/5ECEcUC90GdXaM8O0Pj9i5)** by **Juniper Fields, User2222** *(Animal)* - `46 min ago`
-- **[Milk & Honey .](https://open.spotify.com/track/09VF6TEVHTIJmH6S3JWwik)** by **fakemink** *(The Boy who cried Terrified .)* - `49 min ago`
+- **[O My Soul](https://open.spotify.com/track/19HYKWgx7WAjRSupUgKKnV)** by **Deer park, thomas** *(Terra Infirma)* - `2 min ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `5 min ago`
+- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `9 min ago`
+- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `1 h ago`
+- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 16:48:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 17:45:06 UTC*
 <!-- SPOTIFY-END -->
