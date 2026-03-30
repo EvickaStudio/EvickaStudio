@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27379cf43651dd1c7b896e642e6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98">Velociraptor</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Spiderr
+  <strong><a href="https://open.spotify.com/track/1wA2Ezr8CnOXEiKbopVXH5">du bist mir egal</a></strong><br/>
+  <em>by</em> <strong>Pink Katana</strong><br/>
+  <em>Album:</em> Den Mutigen gehört die Welt
 </p>
 
-<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:18</code></p>
+<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `1 min ago`
-- **[Hanging From The Bridge](https://open.spotify.com/track/0oMzRdqKUhgw8JIfi9t5BL)** by **Yung Lean, Bladee** *(Psykos)* - `4 min ago`
-- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `7 min ago`
-- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `9 min ago`
-- **[DNA RAIN](https://open.spotify.com/track/57kIHII6uQTZpC0EdfkzjT)** by **Bladee** *(EXETER)* - `13 min ago`
+- **[In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)** by **Ayegy** *(In It, Not of It)* - `2 min ago`
+- **[Piece of Me Part of You](https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7)** by **User2222** *(Blame Games)* - `5 min ago`
+- **[Babe Wake Up](https://open.spotify.com/track/3VgLJcVMSL6fqVc40mMGEV)** by **Blessed and blushing** *(The Never Ending Hug)* - `9 min ago`
+- **[Theorem](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)** by **ear** *(The Most Dear and The Future)* - `10 min ago`
+- **[Red Gold White](https://open.spotify.com/track/6n45un296rGJ5xfE6xICqK)** by **Deer park** *(Terra Infirma)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 18:39:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 19:39:56 UTC*
 <!-- SPOTIFY-END -->
