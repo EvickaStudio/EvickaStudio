@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c15a4d33fd18e2cd4a961a30" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU">djCEO66</a></strong><br/>
-  <em>by</em> <strong>Psyke</strong><br/>
-  <em>Album:</em> djCEO66
-</p>
-
-<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:53</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `1 min ago`
-- **[Topman](https://open.spotify.com/track/3WtuDfQ3Hs34LeRGUqwEJo)** by **Bladee** *(Icedancer)* - `3 min ago`
-- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `7 min ago`
-- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `9 min ago`
-- **[Bu-Hu (Gheist)](https://open.spotify.com/track/12qjWOCsiwGo0Gw2V9uSx2)** by **Psyke** *(Psyke London)* - `13 min ago`
+- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `38 min ago`
+- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `41 min ago`
+- **[paradise](https://open.spotify.com/track/46tfnu119mRiA1eMJBfKxD)** by **rl1805** *(paradise)* - `42 min ago`
+- **[Animal](https://open.spotify.com/track/5ECEcUC90GdXaM8O0Pj9i5)** by **Juniper Fields, User2222** *(Animal)* - `46 min ago`
+- **[Milk & Honey .](https://open.spotify.com/track/09VF6TEVHTIJmH6S3JWwik)** by **fakemink** *(The Boy who cried Terrified .)* - `49 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 15:49:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-30 16:48:42 UTC*
 <!-- SPOTIFY-END -->
