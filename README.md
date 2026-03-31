@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey)** by **Deer park, Ivy Knight** *(Terra Infirma)* - `11 h ago`
-- **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `11 h ago`
-- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `11 h ago`
-- **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)* - `11 h ago`
-- **[March Meant](https://open.spotify.com/track/7bTqycKgdL8NJSNwH9Y5HM)** by **User2222, Juniper Fields** *(March Meant)* - `11 h ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `29 min ago`
+- **[Trendy](https://open.spotify.com/track/1wnkCR7qVF3DJPbowjlgCO)** by **Bladee** *(The Fool)* - `35 min ago`
+- **[Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey)** by **Deer park, Ivy Knight** *(Terra Infirma)* - `12 h ago`
+- **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `12 h ago`
+- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `12 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 08:36:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 09:44:03 UTC*
 <!-- SPOTIFY-END -->
