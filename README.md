@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a9303131ecdf959edf06202c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA">I Wonder</a></strong><br/>
-  <em>by</em> <strong>Kanye West</strong><br/>
-  <em>Album:</em> Graduation
+  <strong><a href="https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ">dancing music 2</a></strong><br/>
+  <em>by</em> <strong>ilyproxy, leander, Hadesthegrim</strong><br/>
+  <em>Album:</em> dancing music 2
 </p>
 
-<p align="center"><code>3:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:03</code></p>
+<p align="center"><code>0:46</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[traurig･:__✧｡+++](https://open.spotify.com/track/2m5GgX8Bom56piVdmp1dAI)** by **DANZINGER 99, AMANDUS 99** *(traurig･:__✧｡+++)* - `3 min ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `5 min ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `1 h ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `11 h ago`
-- **[Trendy](https://open.spotify.com/track/1wnkCR7qVF3DJPbowjlgCO)** by **Bladee** *(The Fool)* - `11 h ago`
+- **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)* - `just now`
+- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `3 min ago`
+- **[Don’t b Sc4red](https://open.spotify.com/track/0CgFml59OcfqnSveJbxEpK)** by **UpVampin, Lil Witchy, 4rde, ang3lx** *(Don’t b Sc4red)* - `5 min ago`
+- **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)* - `8 min ago`
+- **[Fed Up](https://open.spotify.com/track/0jo5prwbvwPHGaQFjbvGqu)** by **Ghostemane** *(ANTI-ICON)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 20:23:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 21:00:48 UTC*
 <!-- SPOTIFY-END -->
