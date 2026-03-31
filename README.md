@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey)** by **Deer park, Ivy Knight** *(Terra Infirma)* - `4 h ago`
-- **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `4 h ago`
-- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `4 h ago`
-- **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)* - `4 h ago`
-- **[March Meant](https://open.spotify.com/track/7bTqycKgdL8NJSNwH9Y5HM)** by **User2222, Juniper Fields** *(March Meant)* - `4 h ago`
+- **[Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey)** by **Deer park, Ivy Knight** *(Terra Infirma)* - `7 h ago`
+- **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `7 h ago`
+- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `7 h ago`
+- **[You Know Where 2 Find Me](https://open.spotify.com/track/2EchzRWWPrW9sh1UOPkxak)** by **DJmegan23** *(Dopamine Machine 2)* - `7 h ago`
+- **[March Meant](https://open.spotify.com/track/7bTqycKgdL8NJSNwH9Y5HM)** by **User2222, Juniper Fields** *(March Meant)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 01:44:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 04:21:14 UTC*
 <!-- SPOTIFY-END -->
