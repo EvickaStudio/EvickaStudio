@@ -96,29 +96,29 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `29 min ago`
-- **[Trendy](https://open.spotify.com/track/1wnkCR7qVF3DJPbowjlgCO)** by **Bladee** *(The Fool)* - `35 min ago`
-- **[Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey)** by **Deer park, Ivy Knight** *(Terra Infirma)* - `12 h ago`
-- **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `12 h ago`
-- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `12 h ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `1 h ago`
+- **[Trendy](https://open.spotify.com/track/1wnkCR7qVF3DJPbowjlgCO)** by **Bladee** *(The Fool)* - `1 h ago`
+- **[Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey)** by **Deer park, Ivy Knight** *(Terra Infirma)* - `13 h ago`
+- **[FAITH ARMOR](https://open.spotify.com/track/4YDAnFr9BfuRwJmhcaN9tW)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `13 h ago`
+- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `13 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 09:44:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-03-31 10:38:13 UTC*
 <!-- SPOTIFY-END -->
