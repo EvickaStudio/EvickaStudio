@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732c475ea69b1597db49c62874" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3">21 Nächte wach</a></strong><br/>
+  <em>by</em> <strong>Edwin Rosen</strong><br/>
+  <em>Album:</em> 21 Nächte wach
+</p>
+
+<p align="center"><code>1:58</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)* - `9 h ago`
-- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `9 h ago`
-- **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)* - `9 h ago`
-- **[Space Age Love Song](https://open.spotify.com/track/1yKjxJR95rw8ckJ0dYpiMa)** by **A Flock Of Seagulls** *(A Flock of Seagulls)* - `9 h ago`
-- **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)* - `9 h ago`
+- **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)* - `1 min ago`
+- **[Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr)** by **White Town** *(Women in Technology)* - `4 min ago`
+- **[Auszeit](https://open.spotify.com/track/7u13sauQpwexStVJrEeOx5)** by **uusymon, hqwilli, sparr00w** *(Kuschel EP)* - `8 min ago`
+- **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)* - `11 min ago`
+- **[she knows](https://open.spotify.com/track/5aNpV3Tf7lpSJlVGx2Sn3U)** by **archive computer** *(she knows)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 07:09:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 08:21:09 UTC*
 <!-- SPOTIFY-END -->
