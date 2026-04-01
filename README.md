@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e9c5898fcbe03028e0f9412" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P">all1ne</a></strong><br/>
-  <em>by</em> <strong>Niclov, ilyproxy, leander</strong><br/>
-  <em>Album:</em> all1ne
-</p>
-
-<p align="center"><code>0:28</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:51</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)* - `just now`
-- **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)* - `2 min ago`
-- **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)* - `4 min ago`
-- **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `6 min ago`
-- **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)* - `9 min ago`
+- **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)* - `17 min ago`
+- **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `20 min ago`
+- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)* - `23 min ago`
+- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `25 min ago`
+- **[Hold Me Down Like Gravity](https://open.spotify.com/track/30KXkBRRjTYtiJQC22u5Tq)** by **osa, vic, ciaffa** *(Hold Me Down Like Gravity)* - `27 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 20:25:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 21:05:46 UTC*
 <!-- SPOTIFY-END -->
