@@ -92,43 +92,43 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732325418d07051b281cfb4206" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ab6011961bdca707cfa6b24d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV">Haunted</a></strong><br/>
-  <em>by</em> <strong>Computer Kill</strong><br/>
-  <em>Album:</em> Haunted
+  <strong><a href="https://open.spotify.com/track/63abx5Sjl5zkEd4WQgDSnJ">Hate Crime Against Myself</a></strong><br/>
+  <em>by</em> <strong>Hello Hannes</strong><br/>
+  <em>Album:</em> Hate Crime Against Myself
 </p>
 
-<p align="center"><code>3:43</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:38</code></p>
+<p align="center"><code>1:07</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)* - `3 min ago`
-- **[can you tell?](https://open.spotify.com/track/2ODOdaX4ZqhqvnigNY3nSB)** by **Jane Remover** *(Frailty)* - `7 min ago`
-- **[anästhesie](https://open.spotify.com/track/09UxJyjUVjreXwODluzEgf)** by **blombi19** *(amalgamarchiv)* - `10 min ago`
-- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `13 min ago`
-- **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))* - `18 min ago`
+- **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by **a-ha** *(Hunting High and Low)* - `1 min ago`
+- **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)* - `4 min ago`
+- **[Love U](https://open.spotify.com/track/5CypDZUPzV1UOx3DqB7trM)** by **Razihel** *(Love U)* - `8 min ago`
+- **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)* - `12 min ago`
+- **[realornot?](https://open.spotify.com/track/6C0tLRlczAtO5nnbCjvjPp)** by **wev** *(realornot?)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**The Beach Boys**](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 18:36:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 19:42:47 UTC*
 <!-- SPOTIFY-END -->
