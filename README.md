@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)* - `6 h ago`
-- **[Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs)** by **347aidan** *(Demons and Monsters)* - `6 h ago`
-- **[how im made](https://open.spotify.com/track/2YbU67O0ZQvZzH2304698r)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)* - `6 h ago`
-- **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)* - `6 h ago`
-- **[Rooftop](https://open.spotify.com/track/2nKFxDpNin6687nvU8nBtW)** by **yong casso, Saucyaf** *(Rooftop)* - `6 h ago`
+- **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)* - `7 h ago`
+- **[Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs)** by **347aidan** *(Demons and Monsters)* - `7 h ago`
+- **[how im made](https://open.spotify.com/track/2YbU67O0ZQvZzH2304698r)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)* - `7 h ago`
+- **[ion need u](https://open.spotify.com/track/4cjrh1eAqH0ULzgabI1T2u)** by **5v, hubithekid, Pearlblade** *(ion need u)* - `7 h ago`
+- **[Rooftop](https://open.spotify.com/track/2nKFxDpNin6687nvU8nBtW)** by **yong casso, Saucyaf** *(Rooftop)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 15:42:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-01 16:36:37 UTC*
 <!-- SPOTIFY-END -->
