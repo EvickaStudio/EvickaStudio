@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738504a0836dfaa61b28930505" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg">PRIDE.</a></strong><br/>
-  <em>by</em> <strong>Kendrick Lamar</strong><br/>
-  <em>Album:</em> DAMN.
+  <strong><a href="https://open.spotify.com/track/7mebNFbb0ehL1IX1DMktdC">The Flag is Raised</a></strong><br/>
+  <em>by</em> <strong>Bladee, Ecco2k</strong><br/>
+  <em>Album:</em> Crest
 </p>
 
-<p align="center"><code>0:48</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:35</code></p>
+<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)* - `just now`
-- **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)* - `3 min ago`
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)* - `5 min ago`
-- **[garden on 9](https://open.spotify.com/track/22cMrmmuHEPH77j8mKUTeS)** by **agelast222** *(Last Bible)* - `9 min ago`
-- **[Castles in the Sky](https://open.spotify.com/track/2malAtpEa3ex3FKr9naVgn)** by **Digighouls** *(Vampire Rave Party)* - `12 min ago`
+- **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)* - `1 min ago`
+- **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)* - `6 min ago`
+- **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)* - `8 min ago`
+- **[close to you](https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti)** by **Levi Ryan** *(out of spite)* - `9 min ago`
+- **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 16:35:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 17:31:47 UTC*
 <!-- SPOTIFY-END -->
