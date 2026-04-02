@@ -96,8 +96,8 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `54 min ago`
-- **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))* - `56 min ago`
+- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `1 h ago`
+- **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))* - `1 h ago`
 - **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `1 h ago`
 - **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `1 h ago`
 - **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)* - `1 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 19:34:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 20:06:19 UTC*
 <!-- SPOTIFY-END -->
