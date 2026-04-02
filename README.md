@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dc81a536fe471cff79ceaf5a" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/587Fh3fi644YPMkegLL0MD">Schatten</a></strong><br/>
-  <em>by</em> <strong>sparr00w</strong><br/>
-  <em>Album:</em> SC Collection #2
-</p>
-
-<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:40</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `2 min ago`
-- **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)* - `4 min ago`
-- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `7 min ago`
-- **[Who Is She ?](https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq)** by **I Monster** *(Neveroddoreven)* - `8 min ago`
-- **[Rooftop](https://open.spotify.com/track/2nKFxDpNin6687nvU8nBtW)** by **yong casso, Saucyaf** *(Rooftop)* - `12 min ago`
+- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `54 min ago`
+- **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))* - `56 min ago`
+- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `1 h ago`
+- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `1 h ago`
+- **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 18:33:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 19:34:23 UTC*
 <!-- SPOTIFY-END -->
