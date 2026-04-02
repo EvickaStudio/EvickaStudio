@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27300c2a7dbe2b53f3302388daf" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/25B2MPFfiI8b5lL1jBl8MY">i've been here before</a></strong><br/>
+  <em>by</em> <strong>SHEMYYY, kruu</strong><br/>
+  <em>Album:</em> I can live with you, or not at all.
+</p>
+
+<p align="center"><code>0:48</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)* - `16 h ago`
-- **[Just for Now](https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `16 h ago`
-- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)* - `16 h ago`
-- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `16 h ago`
-- **[Hold Me Down Like Gravity](https://open.spotify.com/track/30KXkBRRjTYtiJQC22u5Tq)** by **osa, vic, ciaffa** *(Hold Me Down Like Gravity)* - `16 h ago`
+- **[allee](https://open.spotify.com/track/1qZhMp7tVCYARztnwGnzyG)** by **Mietze Conte** *(wufwufwuf)* - `just now`
+- **[EVISCERATE](https://open.spotify.com/track/1wPuJ6TU1udIUxyzBmHlj9)** by **blackwinterwells, Psych, STM** *(EVISCERATE)* - `just now`
+- **[Baby 1](https://open.spotify.com/track/2Bvm6ElK4Ii0MlgBz4jEQp)** by **ilyproxy** *(Baby 1)* - `4 min ago`
+- **[Carousel](https://open.spotify.com/track/3VxX3Hk2X7XKqau1Xigd2C)** by **Kev Koko** *(Carousel)* - `9 min ago`
+- **[Baby 1](https://open.spotify.com/track/2Bvm6ElK4Ii0MlgBz4jEQp)** by **ilyproxy** *(Baby 1)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 12:59:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-02 14:21:56 UTC*
 <!-- SPOTIFY-END -->
