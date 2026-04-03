@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d2f9b9f59e37424553b859de" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e8739a06d3782dfea2d63049" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/79DjvbtNrHbQ1AOJPbo5qe">Keep My Coo</a></strong><br/>
-  <em>by</em> <strong>Lil Peep</strong><br/>
-  <em>Album:</em> Keep My Coo
+  <strong><a href="https://open.spotify.com/track/3iBP2tK2tAgJbM5ztrc05T">Girls ONLY!</a></strong><br/>
+  <em>by</em> <strong>Lvl99magic</strong><br/>
+  <em>Album:</em> Girls ONLY!
 </p>
 
-<p align="center"><code>3:54</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:26</code></p>
+<p align="center"><code>0:13</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lauf so schnell du kannst](https://open.spotify.com/track/0aUiVshPYvN7oVQMFv5VJN)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `3 min ago`
-- **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint** *(remedy)* - `6 min ago`
-- **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)* - `8 min ago`
-- **[danke](https://open.spotify.com/track/449lCGJlwXtMPtaZ5nPpIl)** by **my dead girlfriend** *(hades (the nine stages of change at the deceased remains))* - `14 min ago`
-- **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)* - `19 min ago`
+- **[All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9)** by **Kanye West, Syleena Johnson** *(The College Dropout)* - `just now`
+- **[Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH)** by **Fitz and The Tantrums** *(More Than Just a Dream (Deluxe Edition))* - `3 min ago`
+- **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)* - `7 min ago`
+- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)* - `10 min ago`
+- **[cling to the edge](https://open.spotify.com/track/7ip4YCQaYFG7Gb3Sd9pbjk)** by **archive computer** *(cling to the edge)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 14:36:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 15:26:57 UTC*
 <!-- SPOTIFY-END -->
