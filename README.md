@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27377537261613047353aa77532" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a7d098298dd054fcf1f5d267" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f">you look lonely</a></strong><br/>
-  <em>by</em> <strong>Aaron Hibell</strong><br/>
-  <em>Album:</em> Twilight Zone
+  <strong><a href="https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0">wenn ich nicht mehr will...☻</a></strong><br/>
+  <em>by</em> <strong>Tamino404</strong><br/>
+  <em>Album:</em> wenn ich nicht mehr will...☻
 </p>
 
-<p align="center"><code>0:51</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:41</code></p>
+<p align="center"><code>1:15</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)* - `just now`
-- **[Boom Boom Pow](https://open.spotify.com/track/00ruYa4EGRTFTmZ1xSBcWQ)** by **Odece, Cubbie** *(Wakanda)* - `4 min ago`
-- **[Late Time](https://open.spotify.com/track/4fPcT9H0iynHtwLhRoFCKZ)** by **Symba** *(Late Time)* - `6 min ago`
-- **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)* - `9 min ago`
-- **[Tagebuch Freestyle Chapter 1](https://open.spotify.com/track/0uBM97AqqWH4EyYaerc3pw)** by **neji.mp3** *(Tagebuch Freestyle Chapter 1)* - `11 min ago`
+- **[die sterne sind fast so schön wie du](https://open.spotify.com/track/0xUIjUi0msWV0CSiEbGCQT)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `1 min ago`
+- **[Lip Service](https://open.spotify.com/track/1tv4UZuv7UOmfNNbyI6CLl)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `2 min ago`
+- **[Love U](https://open.spotify.com/track/5CypDZUPzV1UOx3DqB7trM)** by **Razihel** *(Love U)* - `5 min ago`
+- **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)* - `10 min ago`
+- **[Love Tonight](https://open.spotify.com/track/1u73tmG4xQschbK8cXxSD9)** by **Shouse** *(Love Tonight)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 18:46:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 19:32:57 UTC*
 <!-- SPOTIFY-END -->
