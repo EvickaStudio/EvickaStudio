@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391ba07c01bada610ccfd63ed" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f53b4bc868aaed2f1b49546a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4">somewhere safe</a></strong><br/>
-  <em>by</em> <strong>Senses, mint, Nosgov</strong><br/>
-  <em>Album:</em> somewhere safe
+  <strong><a href="https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw">König Der Welt</a></strong><br/>
+  <em>by</em> <strong>Traumatin</strong><br/>
+  <em>Album:</em> König Der Welt
 </p>
 
-<p align="center"><code>1:41</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:24</code></p>
+<p align="center"><code>0:46</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[GOT UR NUMB3R (v2)](https://open.spotify.com/track/0diD9SEK0oNBOx0p0QGvAB)** by **bugcried** *(GOT UR NUMB3R (v2))* - `1 min ago`
-- **[Carousel](https://open.spotify.com/track/3VxX3Hk2X7XKqau1Xigd2C)** by **Kev Koko** *(Carousel)* - `4 min ago`
-- **[veil](https://open.spotify.com/track/1QkEUbGSlp70DYNFcxcxYI)** by **須田景凪** *(Billow)* - `11 min ago`
-- **[THIS GAME](https://open.spotify.com/track/18asIXvfX6RyEtdiGKpTF5)** by **Konomi Suzuki** *(18 -Colorful Gift-)* - `14 min ago`
-- **[カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8)** by **美波** *(カワキヲアメク)* - `19 min ago`
+- **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `just now`
+- **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)* - `2 min ago`
+- **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)* - `4 min ago`
+- **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luutwo, offaflat** *(was kann ich tun?)* - `5 min ago`
+- **[Mr. Forgettable](https://open.spotify.com/track/3lJD5BzSARTxNj1OYRyraX)** by **David Kushner** *(Footprints I Found)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 17:19:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 17:57:55 UTC*
 <!-- SPOTIFY-END -->
