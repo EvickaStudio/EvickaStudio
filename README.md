@@ -96,10 +96,10 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `14 h ago`
-- **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))* - `14 h ago`
-- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `14 h ago`
-- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `14 h ago`
+- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `15 h ago`
+- **[Girls - feat. makko](https://open.spotify.com/track/4pmcNLgZ8Xy6XmmjEXiZPy)** by **toobrokeforfiji, makko** *(Girls (feat. makko))* - `15 h ago`
+- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `15 h ago`
+- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `15 h ago`
 - **[FALL FROM THE SKY](https://open.spotify.com/track/5nruWdS8QlmSSffJeQLE76)** by **RomancePlanet** *(FALL FROM THE SKY)* - `15 h ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 09:29:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 10:07:57 UTC*
 <!-- SPOTIFY-END -->
