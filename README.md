@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273647e8069c98c7b23b6c80648" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737a3203f5ad3b119b1e7da834" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB">Ecifircas</a></strong><br/>
-  <em>by</em> <strong>Sewerslvt</strong><br/>
-  <em>Album:</em> Draining Love Story
+  <strong><a href="https://open.spotify.com/track/5HjBpej4uHPAX8sMeUFJms">Crossfire</a></strong><br/>
+  <em>by</em> <strong>Stephen</strong><br/>
+  <em>Album:</em> Crossfire
 </p>
 
-<p align="center"><code>3:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>5:47</code></p>
+<p align="center"><code>3:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `3 min ago`
-- **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)* - `6 min ago`
-- **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)* - `9 min ago`
-- **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)* - `10 min ago`
-- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `17 h ago`
+- **[Fed Up](https://open.spotify.com/track/0jo5prwbvwPHGaQFjbvGqu)** by **Ghostemane** *(ANTI-ICON)* - `3 min ago`
+- **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))* - `5 min ago`
+- **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)* - `7 min ago`
+- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
+- **[Hold Me Close](https://open.spotify.com/track/0XjWu0ld7kthYqgTqAmUjF)** by **Carter Tomorrow** *(Hold Me Close)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 11:51:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 12:43:05 UTC*
 <!-- SPOTIFY-END -->
