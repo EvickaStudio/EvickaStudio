@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f53b4bc868aaed2f1b49546a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27377537261613047353aa77532" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw">König Der Welt</a></strong><br/>
-  <em>by</em> <strong>Traumatin</strong><br/>
-  <em>Album:</em> König Der Welt
+  <strong><a href="https://open.spotify.com/track/2dMNEm3YTwS4TUycBTVf6f">you look lonely</a></strong><br/>
+  <em>by</em> <strong>Aaron Hibell</strong><br/>
+  <em>Album:</em> Twilight Zone
 </p>
 
-<p align="center"><code>0:46</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:28</code></p>
+<p align="center"><code>0:51</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `just now`
-- **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)* - `2 min ago`
-- **[if u wanna go with me](https://open.spotify.com/track/6BAL15TjwIuxZoiTcTvn4b)** by **Senses, mint** *(if u wanna go with me)* - `4 min ago`
-- **[was kann ich tun?](https://open.spotify.com/track/5fcmTxHkpRwplYvUk8QjiV)** by **luutwo, offaflat** *(was kann ich tun?)* - `5 min ago`
-- **[Mr. Forgettable](https://open.spotify.com/track/3lJD5BzSARTxNj1OYRyraX)** by **David Kushner** *(Footprints I Found)* - `7 min ago`
+- **[Flux](https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0)** by **Bloc Party** *(A Weekend In the City)* - `just now`
+- **[Boom Boom Pow](https://open.spotify.com/track/00ruYa4EGRTFTmZ1xSBcWQ)** by **Odece, Cubbie** *(Wakanda)* - `4 min ago`
+- **[Late Time](https://open.spotify.com/track/4fPcT9H0iynHtwLhRoFCKZ)** by **Symba** *(Late Time)* - `6 min ago`
+- **[Black Boy](https://open.spotify.com/track/3GrRZeFapgrQgTNsUnAE43)** by **Ecco2k** *(Black Boy)* - `9 min ago`
+- **[Tagebuch Freestyle Chapter 1](https://open.spotify.com/track/0uBM97AqqWH4EyYaerc3pw)** by **neji.mp3** *(Tagebuch Freestyle Chapter 1)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 17:57:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-03 18:46:16 UTC*
 <!-- SPOTIFY-END -->
