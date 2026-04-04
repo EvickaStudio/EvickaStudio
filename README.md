@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731cf243e32ab63e841c5e4030" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4prRopODrnxD7Yp6bEaAUo">new friends</a></strong><br/>
+  <em>by</em> <strong>SHEMYYY</strong><br/>
+  <em>Album:</em> new friends
+</p>
+
+<p align="center"><code>1:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)* - `2 h ago`
-- **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)* - `2 h ago`
-- **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)* - `2 h ago`
-- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `2 h ago`
-- **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)* - `2 h ago`
+- **[perfect](https://open.spotify.com/track/6ljAVsUGsbyJFBOVJtixcD)** by **Senses** *(perfect)* - `1 min ago`
+- **[dieselbe Leier](https://open.spotify.com/track/6kQ62Rc00IZKcdng15bNG8)** by **makko** *(Pass dich nie an, Pass auf dich auf)* - `3 min ago`
+- **[how im made](https://open.spotify.com/track/2YbU67O0ZQvZzH2304698r)** by **jequya** *(५༺ஜᏋጀፈᏋᏝᏝᏋᏁፈᏋ)* - `7 min ago`
+- **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)* - `8 min ago`
+- **[Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe)** by **Lana Del Rey** *(Say Yes To Heaven)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 14:57:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 15:29:12 UTC*
 <!-- SPOTIFY-END -->
