@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `1 h ago`
+- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `2 h ago`
 - **[rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN)** by **Saiya Tiaw** *(tränen von dir)* - `2 h ago`
 - **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `2 h ago`
 - **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)* - `2 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 19:50:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 20:20:35 UTC*
 <!-- SPOTIFY-END -->
