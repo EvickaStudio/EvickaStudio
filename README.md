@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736f6da93e04e4ab779a09b509" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3VxX3Hk2X7XKqau1Xigd2C">Carousel</a></strong><br/>
-  <em>by</em> <strong>Kev Koko</strong><br/>
-  <em>Album:</em> Carousel
+  <strong><a href="https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH">Transgender</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> (III)
 </p>
 
-<p align="center"><code>0:26</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:35</code></p>
+<p align="center"><code>2:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)* - `just now`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `15 h ago`
-- **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)* - `15 h ago`
-- **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)* - `15 h ago`
-- **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)* - `15 h ago`
+- **[FAFB](https://open.spotify.com/track/25ERGFwjI1BUph1oqqTb6O)** by **Lucio101, Omar101, 1019** *(FAFB)* - `2 min ago`
+- **[Meine Gang (Bang Bang) - feat. Danju](https://open.spotify.com/track/4aqFOur4hjlFpGTvhtSVjb)** by **CRO, Danju** *(Melodie (Deluxe-Premium Edition))* - `4 min ago`
+- **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)* - `8 min ago`
+- **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo Nomad** *(2AM Forever)* - `11 min ago`
+- **[Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)** by **Wir sind Helden** *(Von hier an blind)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 11:49:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 12:36:53 UTC*
 <!-- SPOTIFY-END -->
