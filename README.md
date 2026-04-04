@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)* - `1 h ago`
-- **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)* - `1 h ago`
-- **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)* - `1 h ago`
-- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `1 h ago`
-- **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)* - `1 h ago`
+- **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)* - `2 h ago`
+- **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)* - `2 h ago`
+- **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)* - `2 h ago`
+- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `2 h ago`
+- **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 14:18:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 14:57:15 UTC*
 <!-- SPOTIFY-END -->
