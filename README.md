@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737dd78d755aab2eba725472b3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735e1bad46155887c633a0a2a7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9">wish I didnt kno her ##biblemusic</a></strong><br/>
-  <em>by</em> <strong>KidSnorlax, d3r</strong><br/>
-  <em>Album:</em> wish I didnt kno her ##biblemusic
+  <strong><a href="https://open.spotify.com/track/5mXStRUZ64ZxzMIZmIeEYE">leichter//kälter</a></strong><br/>
+  <em>by</em> <strong>Edwin Rosen</strong><br/>
+  <em>Album:</em> leichter//kälter / SSS
 </p>
 
-<p align="center"><code>1:01</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:08</code></p>
+<p align="center"><code>1:16</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)* - `1 min ago`
-- **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)* - `4 min ago`
-- **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)* - `8 min ago`
-- **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)* - `11 min ago`
-- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))* - `12 min ago`
+- **[Teufel](https://open.spotify.com/track/503SCbKk3X6DpOVJE3L93v)** by **Miese Mau** *(Verbrecher)* - `1 min ago`
+- **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)* - `5 min ago`
+- **[Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)** by **FiNCH, Little Big** *(Finchi's Love Tape)* - `8 min ago`
+- **[Scheiß auf eure Party](https://open.spotify.com/track/1Syhm4vkn6n2DYuFnyI60s)** by **Ufo361** *(Ich bin 2 Berliner)* - `11 min ago`
+- **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 16:26:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 17:00:28 UTC*
 <!-- SPOTIFY-END -->
