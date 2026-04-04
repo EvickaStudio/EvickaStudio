@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731023b2ada2a08dc63f5106e5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737dd78d755aab2eba725472b3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4rHIGjDTXXL9Eudf3YF036">Drank & Drugs</a></strong><br/>
-  <em>by</em> <strong>Lil Kleine, Ronnie Flex</strong><br/>
-  <em>Album:</em> New Wave
+  <strong><a href="https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9">wish I didnt kno her ##biblemusic</a></strong><br/>
+  <em>by</em> <strong>KidSnorlax, d3r</strong><br/>
+  <em>Album:</em> wish I didnt kno her ##biblemusic
 </p>
 
-<p align="center"><code>0:33</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:25</code></p>
+<p align="center"><code>1:01</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)* - `just now`
-- **[NAGELLACK IN SACHSEN - SPEED UP](https://open.spotify.com/track/0sudfZLPyxDzV6vOB37sJz)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN (SPEED UP))* - `3 min ago`
-- **[Delinquent](https://open.spotify.com/track/42MzWXItzH1R1hRWOLij9t)** by **Lyran Dasz** *(Delinquent (Deluxe))* - `5 min ago`
-- **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)* - `7 min ago`
-- **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)* - `9 min ago`
+- **[Trouble](https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt)** by **Computer Kill** *(Computer Kill)* - `1 min ago`
+- **[Mindestens zu zweit](https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)* - `4 min ago`
+- **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)* - `8 min ago`
+- **[Old Beginnings](https://open.spotify.com/track/1lGY8rQg2RNuBYnSUoDrDJ)** by **Dorian Concept** *(Miniatures)* - `11 min ago`
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 15:55:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 16:26:24 UTC*
 <!-- SPOTIFY-END -->
