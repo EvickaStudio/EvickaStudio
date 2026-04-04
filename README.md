@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH">Transgender</a></strong><br/>
-  <em>by</em> <strong>Crystal Castles</strong><br/>
-  <em>Album:</em> (III)
-</p>
-
-<p align="center"><code>2:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:04</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[FAFB](https://open.spotify.com/track/25ERGFwjI1BUph1oqqTb6O)** by **Lucio101, Omar101, 1019** *(FAFB)* - `2 min ago`
-- **[Meine Gang (Bang Bang) - feat. Danju](https://open.spotify.com/track/4aqFOur4hjlFpGTvhtSVjb)** by **CRO, Danju** *(Melodie (Deluxe-Premium Edition))* - `4 min ago`
-- **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)* - `8 min ago`
-- **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo Nomad** *(2AM Forever)* - `11 min ago`
-- **[Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)** by **Wir sind Helden** *(Von hier an blind)* - `14 min ago`
+- **[Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn)** by **Twenty One Pilots** *(Blurryface)* - `44 min ago`
+- **[From The Start!](https://open.spotify.com/track/3unrwNxcdm0k5bRJkKjddl)** by **Clover!, Nosgov** *(From The Start!)* - `47 min ago`
+- **[Race](https://open.spotify.com/track/50gchdAhBUnVOLqQRyKE9L)** by **Alex G** *(Race)* - `49 min ago`
+- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `53 min ago`
+- **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)* - `55 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -125,10 +115,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 12:36:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 13:38:38 UTC*
 <!-- SPOTIFY-END -->
