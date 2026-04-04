@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `4 h ago`
-- **[rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN)** by **Saiya Tiaw** *(tränen von dir)* - `4 h ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `4 h ago`
-- **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)* - `4 h ago`
-- **[Echolot](https://open.spotify.com/track/1cEQ6mryHemmstSgxJc13O)** by **Wir sind Helden** *(Von hier an blind)* - `4 h ago`
+- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `5 h ago`
+- **[rave](https://open.spotify.com/track/0WeKatiC22TXaZ5wds00cN)** by **Saiya Tiaw** *(tränen von dir)* - `5 h ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `5 h ago`
+- **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)* - `5 h ago`
+- **[Echolot](https://open.spotify.com/track/1cEQ6mryHemmstSgxJc13O)** by **Wir sind Helden** *(Von hier an blind)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Our House**](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 22:20:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-04 22:54:41 UTC*
 <!-- SPOTIFY-END -->
