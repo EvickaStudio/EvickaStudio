@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cdccb671cc1dd54ff42d573e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1U0mXbREaTeDN7alQ3D3RE">Time to Pretend</a></strong><br/>
-  <em>by</em> <strong>MGMT</strong><br/>
-  <em>Album:</em> Time To Pretend
+  <strong><a href="https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc">Pink Pony Club</a></strong><br/>
+  <em>by</em> <strong>Chappell Roan</strong><br/>
+  <em>Album:</em> The Rise and Fall of a Midwest Princess
 </p>
 
-<p align="center"><code>2:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:21</code></p>
+<p align="center"><code>2:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[shelter](https://open.spotify.com/track/6PfUjZefwJUBk9E4I9M4aC)** by **Bayymack, i9bonsai** *(tough love 2!)* - `2 min ago`
-- **[LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)** by **Drux, Lunaa, pradaaslife** *(Scrapclub)* - `4 min ago`
-- **[Freister Mensch der Welt](https://open.spotify.com/track/7Hy3sA9m1lVVc3UFTEmqTw)** by **ENNIO** *(Freister Mensch der Welt)* - `7 min ago`
-- **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)* - `10 min ago`
-- **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)* - `14 min ago`
+- **[IMMER (MIT MAKKO)](https://open.spotify.com/track/2vWk7h0nrsHCTxcWF6A0sk)** by **Ski Aggu, makko** *(Wilmersdorfs Kind)* - `2 min ago`
+- **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/0NmfatHH0v8U3uyvubURs0)** by **Yung Hurn, skrt cobain** *(ELFBAR (feat. Skrt Cobain))* - `5 min ago`
+- **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)* - `7 min ago`
+- **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)* - `8 min ago`
+- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 15:36:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 16:01:37 UTC*
 <!-- SPOTIFY-END -->
