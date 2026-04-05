@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c5a8adf6ce312c1673ae87ef" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS">Security!</a></strong><br/>
-  <em>by</em> <strong>Ecco2k</strong><br/>
-  <em>Album:</em> E
+  <strong><a href="https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf">Ya Soshla S Uma</a></strong><br/>
+  <em>by</em> <strong>User2222</strong><br/>
+  <em>Album:</em> User2222 Greatest Hits
 </p>
 
-<p align="center"><code>1:10</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:35</code></p>
+<p align="center"><code>3:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `2 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `3 min ago`
-- **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))* - `7 min ago`
-- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `9 min ago`
-- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `12 min ago`
+- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `3 min ago`
+- **[Fragile](https://open.spotify.com/track/1WRVDs7XUvbc7quxIJDU4f)** by **Ecco2k** *(E)* - `4 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `7 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `9 min ago`
+- **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 20:56:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 21:26:21 UTC*
 <!-- SPOTIFY-END -->
