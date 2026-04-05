@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739bd9040e92f79ffb58eb9dbd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8">The Days - NOTION Remix</a></strong><br/>
-  <em>by</em> <strong>Chrystal, NOTION</strong><br/>
-  <em>Album:</em> The Days (NOTION Remix)
+  <strong><a href="https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr">idfc</a></strong><br/>
+  <em>by</em> <strong>blackbear</strong><br/>
+  <em>Album:</em> deadroses
 </p>
 
-<p align="center"><code>0:57</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:53</code></p>
+<p align="center"><code>2:20</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>4:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)* - `just now`
-- **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)* - `3 min ago`
-- **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)* - `5 min ago`
-- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `8 min ago`
-- **[Solitude - Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk)** by **M83, Felsmann + Tiley** *(Solitude (Felsmann + Tiley Reinterpretation))* - `10 min ago`
+- **[fleeting moment](https://open.spotify.com/track/7mufYrXSD7uIGfzrGljWhb)** by **misani** *(moonlit meadows)* - `2 min ago`
+- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `3 min ago`
+- **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)* - `8 min ago`
+- **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)* - `11 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 16:52:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 17:23:05 UTC*
 <!-- SPOTIFY-END -->
