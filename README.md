@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27343e16f09d6c3a5a5bcbfe5b3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a0394eb8e79d0e4b237738f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6fX36zMIsn8kAQFEBQIQWq">club+biz4rr3</a></strong><br/>
-  <em>by</em> <strong>echia</strong><br/>
-  <em>Album:</em> club+biz4rr3
+  <strong><a href="https://open.spotify.com/track/61OMeme3atDikStS4QxGIE">Irgendwie, Irgendwo, Irgendwann - Special 12" Dance Mix</a></strong><br/>
+  <em>by</em> <strong>Nena</strong><br/>
+  <em>Album:</em> Feuer und Flamme
 </p>
 
-<p align="center"><code>1:23</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:38</code></p>
+<p align="center"><code>1:46</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>7:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `1 min ago`
-- **[Carousel](https://open.spotify.com/track/3VxX3Hk2X7XKqau1Xigd2C)** by **Kev Koko** *(Carousel)* - `4 min ago`
-- **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)* - `4 min ago`
-- **[Feel So Close - Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc)** by **Calvin Harris** *(18 Months)* - `30 min ago`
-- **[leichter//kälter](https://open.spotify.com/track/2eodeIKonoj8LPWtNMM4tE)** by **Edwin Rosen** *(Verschwende deine Zeit)* - `33 min ago`
+- **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)* - `1 min ago`
+- **[Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85)** by **Lou Reed** *(Transformer)* - `3 min ago`
+- **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)* - `7 min ago`
+- **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)* - `9 min ago`
+- **[Bad Chick](https://open.spotify.com/track/3NqXYg2MGboDZY72cZCARQ)** by **CRO** *(Melodie (Deluxe-Premium Edition))* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 14:19:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 14:59:15 UTC*
 <!-- SPOTIFY-END -->
