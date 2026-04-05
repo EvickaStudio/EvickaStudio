@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736a0394eb8e79d0e4b237738f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273cdccb671cc1dd54ff42d573e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/61OMeme3atDikStS4QxGIE">Irgendwie, Irgendwo, Irgendwann - Special 12" Dance Mix</a></strong><br/>
-  <em>by</em> <strong>Nena</strong><br/>
-  <em>Album:</em> Feuer und Flamme
+  <strong><a href="https://open.spotify.com/track/1U0mXbREaTeDN7alQ3D3RE">Time to Pretend</a></strong><br/>
+  <em>by</em> <strong>MGMT</strong><br/>
+  <em>Album:</em> Time To Pretend
 </p>
 
-<p align="center"><code>1:46</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>7:17</code></p>
+<p align="center"><code>2:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)* - `1 min ago`
-- **[Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85)** by **Lou Reed** *(Transformer)* - `3 min ago`
-- **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)* - `7 min ago`
-- **[Arm in Arm](https://open.spotify.com/track/5d0SSxGDRf3AE29xqEAVbs)** by **Tape Head, NONI, Goldroger** *(Memento Mori)* - `9 min ago`
-- **[Bad Chick](https://open.spotify.com/track/3NqXYg2MGboDZY72cZCARQ)** by **CRO** *(Melodie (Deluxe-Premium Edition))* - `12 min ago`
+- **[shelter](https://open.spotify.com/track/6PfUjZefwJUBk9E4I9M4aC)** by **Bayymack, i9bonsai** *(tough love 2!)* - `2 min ago`
+- **[LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)** by **Drux, Lunaa, pradaaslife** *(Scrapclub)* - `4 min ago`
+- **[Freister Mensch der Welt](https://open.spotify.com/track/7Hy3sA9m1lVVc3UFTEmqTw)** by **ENNIO** *(Freister Mensch der Welt)* - `7 min ago`
+- **[Haunted](https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV)** by **Computer Kill** *(Haunted)* - `10 min ago`
+- **[Noblest Strive](https://open.spotify.com/track/4qA6oEXpK6NlmLG37PiABi)** by **Bladee** *(333)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 14:59:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 15:36:42 UTC*
 <!-- SPOTIFY-END -->
