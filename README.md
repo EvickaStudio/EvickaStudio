@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc">Pink Pony Club</a></strong><br/>
-  <em>by</em> <strong>Chappell Roan</strong><br/>
-  <em>Album:</em> The Rise and Fall of a Midwest Princess
+  <strong><a href="https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8">The Days - NOTION Remix</a></strong><br/>
+  <em>by</em> <strong>Chrystal, NOTION</strong><br/>
+  <em>Album:</em> The Days (NOTION Remix)
 </p>
 
-<p align="center"><code>2:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:18</code></p>
+<p align="center"><code>0:57</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[IMMER (MIT MAKKO)](https://open.spotify.com/track/2vWk7h0nrsHCTxcWF6A0sk)** by **Ski Aggu, makko** *(Wilmersdorfs Kind)* - `2 min ago`
-- **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/0NmfatHH0v8U3uyvubURs0)** by **Yung Hurn, skrt cobain** *(ELFBAR (feat. Skrt Cobain))* - `5 min ago`
-- **[Three Chords Amazing Music](https://open.spotify.com/track/1PXq1TgdW47fRLWNIZUAXj)** by **Marco Cirillo** *(Music from My Lessons, Vol. 1)* - `7 min ago`
-- **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)* - `8 min ago`
-- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `10 min ago`
+- **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)* - `just now`
+- **[Cindy](https://open.spotify.com/track/4R6ZwwYW4B3V1m0fuNQxAZ)** by **Gap Girls** *(Street Desires)* - `3 min ago`
+- **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)* - `5 min ago`
+- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `8 min ago`
+- **[Solitude - Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/6RK3IsiUW6YaSMEodbO4tk)** by **M83, Felsmann + Tiley** *(Solitude (Felsmann + Tiley Reinterpretation))* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 16:01:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 16:52:33 UTC*
 <!-- SPOTIFY-END -->
