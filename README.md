@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736631be482e2fbedd45de9e5d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw">where's my head at _</a></strong><br/>
-  <em>by</em> <strong>Basement Jaxx, 100 gecs</strong><br/>
-  <em>Album:</em> where's my head at _
+  <strong><a href="https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS">Security!</a></strong><br/>
+  <em>by</em> <strong>Ecco2k</strong><br/>
+  <em>Album:</em> E
 </p>
 
-<p align="center"><code>0:25</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:32</code></p>
+<p align="center"><code>1:10</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stay Cold](https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU)** by **Nokia Angel** *(Stay Cold)* - `just now`
-- **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)* - `4 min ago`
-- **[2008](https://open.spotify.com/track/6SzHmot5W9edcb47mFtinf)** by **pathetic240px** *(2008)* - `7 min ago`
-- **[Country Boy](https://open.spotify.com/track/6rvQQONGVKk491t3634NHd)** by **hqwilli** *(Country Boy)* - `11 min ago`
-- **[Licht aus](https://open.spotify.com/track/2QN0d1qP7Lkrs6n50PPtza)** by **Murcy** *(Licht aus)* - `12 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `2 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `3 min ago`
+- **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))* - `7 min ago`
+- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `9 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 20:23:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-05 20:56:17 UTC*
 <!-- SPOTIFY-END -->
