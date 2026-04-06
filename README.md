@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27379422ba6adfbdb351823c44b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/57x00pZiTU61Zi5MqFFye7">A Night Again</a></strong><br/>
-  <em>by</em> <strong>Nokia Angel</strong><br/>
-  <em>Album:</em> In Haze
+  <strong><a href="https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp">Romeo</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Eversince
 </p>
 
-<p align="center"><code>0:26</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:22</code></p>
+<p align="center"><code>1:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Wild 'N Out](https://open.spotify.com/track/0vFR1GI01WUT8ShqwphGEu)** by **smokedope2016** *(THE COMEDOWN)* - `just now`
-- **[Silk Road](https://open.spotify.com/track/2OITBRdvXlqJOMHNzawWXZ)** by **Thaiboy Digital, swedm®** *(Silk Road)* - `2 min ago`
-- **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)* - `4 min ago`
-- **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)* - `7 min ago`
-- **[Hashed Out (That Feeling)](https://open.spotify.com/track/67U27lcmTjtKlyTfogAcsZ)** by **Mori Mori** *(BB Void)* - `9 min ago`
+- **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)* - `1 min ago`
+- **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)* - `4 min ago`
+- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `6 min ago`
+- **[cdjs](https://open.spotify.com/track/0Qy1fuasdNalFgkKtqxqRU)** by **lil london** *(cdjs)* - `9 min ago`
+- **[outro](https://open.spotify.com/track/1NIB1oXdFI7SoAWVocQd9c)** by **neji.mp3, dusy** *(Play Me Backwards)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 21:42:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 22:04:47 UTC*
 <!-- SPOTIFY-END -->
