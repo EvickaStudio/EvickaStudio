@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)* - `1 h ago`
-- **[dwarf](https://open.spotify.com/track/3hUbixZk1fEPOSQjdGrvYH)** by **3versince** *(dwarf)* - `2 h ago`
-- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `2 h ago`
-- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `2 h ago`
-- **[Fragile](https://open.spotify.com/track/1WRVDs7XUvbc7quxIJDU4f)** by **Ecco2k** *(E)* - `2 h ago`
+- **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)* - `5 h ago`
+- **[dwarf](https://open.spotify.com/track/3hUbixZk1fEPOSQjdGrvYH)** by **3versince** *(dwarf)* - `6 h ago`
+- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `6 h ago`
+- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `6 h ago`
+- **[Fragile](https://open.spotify.com/track/1WRVDs7XUvbc7quxIJDU4f)** by **Ecco2k** *(E)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 00:02:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 03:38:12 UTC*
 <!-- SPOTIFY-END -->
