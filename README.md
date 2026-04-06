@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736005f655456415afb7414329" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR">Yeah</a></strong><br/>
-  <em>by</em> <strong>hqwilli, SlushhKitten</strong><br/>
-  <em>Album:</em> Yeah
+  <strong><a href="https://open.spotify.com/track/1WRVDs7XUvbc7quxIJDU4f">Fragile</a></strong><br/>
+  <em>by</em> <strong>Ecco2k</strong><br/>
+  <em>Album:</em> E
 </p>
 
-<p align="center"><code>0:37</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:52</code></p>
+<p align="center"><code>0:34</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)* - `just now`
-- **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)* - `3 min ago`
-- **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)* - `4 min ago`
-- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `9 min ago`
-- **[Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE)** by **Pat Benatar** *(Crimes Of Passion)* - `12 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `just now`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `2 min ago`
+- **[Hi-Fashion](https://open.spotify.com/track/74XsSQuB5IJ4qTXInNxSxs)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))* - `5 min ago`
+- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `8 min ago`
+- **[Eyelash](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)** by **Bladee** *(Love Is A State)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 10:01:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 11:10:57 UTC*
 <!-- SPOTIFY-END -->
