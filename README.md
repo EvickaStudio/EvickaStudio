@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739f226601d063b89db1efde74" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/42aX6Dhpsu0PGhM2hBBe9Y">KWI</a></strong><br/>
-  <em>by</em> <strong>lusi 7896, ilyproxy</strong><br/>
-  <em>Album:</em> KWI
+  <strong><a href="https://open.spotify.com/track/6wv2Mx3e92cHc11n89G7Mn">Xd Out</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Eversince
 </p>
 
-<p align="center"><code>0:37</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:09</code></p>
+<p align="center"><code>2:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `just now`
-- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `5 min ago`
-- **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)* - `8 min ago`
-- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `11 min ago`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `13 min ago`
+- **[MATTRESS](https://open.spotify.com/track/7uOZx9nH3xC4wpqk6WYBkN)** by **The Twins** *(TURMERIC)* - `2 min ago`
+- **[Z&C](https://open.spotify.com/track/4pIi7ncE3OYFUHNktqUL3C)** by **sparr00w, NANA LE VRAI** *(Save Room Theme)* - `4 min ago`
+- **[The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU)** by **ear** *(The Most Dear and The Future)* - `7 min ago`
+- **[Lifetime Of You](https://open.spotify.com/track/18F2ZCccF3VIybUpuoqwkx)** by **Thrilliam Angels, CLAIR, Crimson Chaos, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `9 min ago`
+- **[White Flag](https://open.spotify.com/track/4RU4JhPBwLppIDb3p3IBjV)** by **Sacred holes** *(Genuine Uppers Life)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 20:21:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 21:00:13 UTC*
 <!-- SPOTIFY-END -->
