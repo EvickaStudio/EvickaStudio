@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27395b966bddc0c81fa8253c27b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273703ccba6709f3eb61754089b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7sMFTDZMZjLGjrowjxwTY5">Schwebebahn</a></strong><br/>
-  <em>by</em> <strong>Brown-Eyes White Boy</strong><br/>
-  <em>Album:</em> Schwebebahn
+  <strong><a href="https://open.spotify.com/track/5CsiNGvRbu63d2PV3SvPDX">KISS ME</a></strong><br/>
+  <em>by</em> <strong>SPIKEMYHEART, SEETHROUGH</strong><br/>
+  <em>Album:</em> KISS ME
 </p>
 
-<p align="center"><code>1:14</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:18</code></p>
+<p align="center"><code>0:34</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:52</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `1 min ago`
-- **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)* - `3 min ago`
-- **[Everything In Its Right Place - House](https://open.spotify.com/track/0NHzRvrq9uxH4SEBWPWtki)** by **Warband023** *(Everything In Its Right Place (House))* - `6 min ago`
-- **[free now](https://open.spotify.com/track/6yDOdo1alTw008eSRhQQC1)** by **oaf1** *(free now)* - `8 min ago`
-- **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)* - `10 min ago`
+- **[Empty Lightning](https://open.spotify.com/track/1wQ5iwSpQYl4Kp5JLYlz6o)** by **Woesum, Oklou** *(Blue Summer)* - `just now`
+- **[BUTTERFLY KISSES](https://open.spotify.com/track/1HXQt7g2YbKYtcMx2sHoCU)** by **Antwon, Lil Peep** *(BUTTERFLY KISSES)* - `2 min ago`
+- **[Let Me Down!](https://open.spotify.com/track/697IKoErv9oo0BWNTyP3SW)** by **Clover!** *(Let Me Down!)* - `7 min ago`
+- **[I Hate Myself](https://open.spotify.com/track/1YxvVoreQh1uAt1EyweBJv)** by **Junior** *(I Hate Myself)* - `9 min ago`
+- **[It's a Dream - Infused mix](https://open.spotify.com/track/0KNR7j4Su86TZ6RNEtomv0)** by **DJ Panda** *(It's a Dream)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bless the Telephone**](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 07:19:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 08:50:37 UTC*
 <!-- SPOTIFY-END -->
