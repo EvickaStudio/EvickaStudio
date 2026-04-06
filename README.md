@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2KimUZVFyJ5oK4d10Y1RUp">Romeo</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Eversince
-</p>
-
-<p align="center"><code>1:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:51</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tantalyse](https://open.spotify.com/track/7r5GQXOBUzL0od5dO8KhL4)** by **Peake** *(Tantalyse)* - `1 min ago`
-- **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)* - `4 min ago`
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `6 min ago`
-- **[cdjs](https://open.spotify.com/track/0Qy1fuasdNalFgkKtqxqRU)** by **lil london** *(cdjs)* - `9 min ago`
-- **[outro](https://open.spotify.com/track/1NIB1oXdFI7SoAWVocQd9c)** by **neji.mp3, dusy** *(Play Me Backwards)* - `11 min ago`
+- **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)* - `16 min ago`
+- **[NUMBER ONE](https://open.spotify.com/track/3ndTgZ9nNX2VoDtQf2eg4j)** by **lavendr** *(NUMBER ONE)* - `20 min ago`
+- **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)* - `22 min ago`
+- **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)* - `24 min ago`
+- **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)* - `25 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 22:04:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-06 22:54:59 UTC*
 <!-- SPOTIFY-END -->
