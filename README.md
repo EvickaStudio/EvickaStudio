@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d911d737a5449fcf1a4bf32c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco">azar</a></strong><br/>
-  <em>by</em> <strong>JB 50</strong><br/>
-  <em>Album:</em> azar
-</p>
-
-<p align="center"><code>0:14</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:12</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fenty Face](https://open.spotify.com/track/43U3Z78I4uoAPsy42MIVSl)** by **Lucy Bedroque** *(Unmusique)* - `just now`
-- **[Som Jag - Lusi Remix](https://open.spotify.com/track/0Y8Z0oZ4JOaHBpVlcHlK7o)** by **Dj Billybool, Bladee** *(The Promised Future Remixes, Vol. 1)* - `2 min ago`
-- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `4 min ago`
-- **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)* - `7 min ago`
-- **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)* - `9 min ago`
+- **[Pose1don](https://open.spotify.com/track/4WeyIj9tJ1QUWIvvFWBkmN)** by **Varg²™, Woesum, Yung Sherman, Ms* Gloom** *(Nordic Flora Series, Pt. 6: Outlaw Music)* - `52 min ago`
+- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `1 h ago`
+- **[Fenty Face](https://open.spotify.com/track/43U3Z78I4uoAPsy42MIVSl)** by **Lucy Bedroque** *(Unmusique)* - `1 h ago`
+- **[Som Jag - Lusi Remix](https://open.spotify.com/track/0Y8Z0oZ4JOaHBpVlcHlK7o)** by **Dj Billybool, Bladee** *(The Promised Future Remixes, Vol. 1)* - `1 h ago`
+- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 17:30:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 18:34:15 UTC*
 <!-- SPOTIFY-END -->
