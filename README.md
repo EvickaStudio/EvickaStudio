@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730f47645df6ba416fc11e0290" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f788fab61b529d1c7b6dbcd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0VPvBUyR4zsW8NOJwQQYDR">Knot Me</a></strong><br/>
-  <em>by</em> <strong>Lucy Bedroque</strong><br/>
-  <em>Album:</em> Fête de la Vanille
+  <strong><a href="https://open.spotify.com/track/4gOmicm2eos8CHKIswcM8Q">way2go</a></strong><br/>
+  <em>by</em> <strong>myspacemark</strong><br/>
+  <em>Album:</em> way2go
 </p>
 
-<p align="center"><code>3:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:04</code></p>
+<p align="center"><code>1:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[My Chalice](https://open.spotify.com/track/5DO18wFTnk0Dzrd6q7FjQK)** by **smokedope2016** *(THE COMEDOWN)* - `3 min ago`
-- **[Alarm](https://open.spotify.com/track/5N99kZXU5QShN6oACaHX0A)** by **Canyon** *(So)* - `6 min ago`
-- **[L-ON-D-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp)** by **Bassvictim** *(Basspunk)* - `9 min ago`
-- **[Juno](https://open.spotify.com/track/6GC5SjY1cKEzWDwa3nFYn9)** by **User2222** *(Blame Games)* - `3 h ago`
-- **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)* - `3 h ago`
+- **[FELL](https://open.spotify.com/track/4jqnMhuS8KIh8gbCsOMsc6)** by **Varg²™, Bladee** *(SIREN CALL)* - `1 min ago`
+- **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)* - `4 min ago`
+- **[3 Star Reunite](https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6)** by **Thaiboy Digital, Bladee** *(Back 2 Life)* - `7 min ago`
+- **[GAGA](https://open.spotify.com/track/11KFeEBSD8bF1adVFjAk4Z)** by **cdgplug** *(GAGA)* - `10 min ago`
+- **[Forever - dep4rted remix](https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU)** by **DJmegan23, ultra caro, dep4rted** *(M+ (Remixes))* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 13:58:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 15:10:16 UTC*
 <!-- SPOTIFY-END -->
