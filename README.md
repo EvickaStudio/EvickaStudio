@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731f788fab61b529d1c7b6dbcd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c5a8adf6ce312c1673ae87ef" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4gOmicm2eos8CHKIswcM8Q">way2go</a></strong><br/>
-  <em>by</em> <strong>myspacemark</strong><br/>
-  <em>Album:</em> way2go
+  <strong><a href="https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf">Ya Soshla S Uma</a></strong><br/>
+  <em>by</em> <strong>User2222</strong><br/>
+  <em>Album:</em> User2222 Greatest Hits
 </p>
 
-<p align="center"><code>1:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:05</code></p>
+<p align="center"><code>3:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>4:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[FELL](https://open.spotify.com/track/4jqnMhuS8KIh8gbCsOMsc6)** by **Varg²™, Bladee** *(SIREN CALL)* - `1 min ago`
-- **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)* - `4 min ago`
-- **[3 Star Reunite](https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6)** by **Thaiboy Digital, Bladee** *(Back 2 Life)* - `7 min ago`
-- **[GAGA](https://open.spotify.com/track/11KFeEBSD8bF1adVFjAk4Z)** by **cdgplug** *(GAGA)* - `10 min ago`
-- **[Forever - dep4rted remix](https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU)** by **DJmegan23, ultra caro, dep4rted** *(M+ (Remixes))* - `13 min ago`
+- **[Till i'm Dead](https://open.spotify.com/track/1OloKCCG0e7Pu3IUgkhISg)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))* - `3 min ago`
+- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `5 min ago`
+- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `8 min ago`
+- **[Biblical Beast / Say Your Name](https://open.spotify.com/track/2YqtIA0NbXam48A2MupsLO)** by **Thrilliam Angels, Wounder, vrde** *(Iliad Unspoken)* - `11 min ago`
+- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 15:10:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 16:17:20 UTC*
 <!-- SPOTIFY-END -->
