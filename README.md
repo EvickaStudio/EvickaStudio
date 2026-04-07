@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27380d576be26c22a9836391b5f" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4BtaPciwVOkH7eFC59i27G">Built This Way ((Slow Remix))</a></strong><br/>
+  <em>by</em> <strong>Samantha Ronson</strong><br/>
+  <em>Album:</em> Mean Girls (Original Motion Picture Soundtrack)
+</p>
+
+<p align="center"><code>4:15</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>4:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Pose1don](https://open.spotify.com/track/4WeyIj9tJ1QUWIvvFWBkmN)** by **Varg²™, Woesum, Yung Sherman, Ms* Gloom** *(Nordic Flora Series, Pt. 6: Outlaw Music)* - `52 min ago`
-- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `1 h ago`
-- **[Fenty Face](https://open.spotify.com/track/43U3Z78I4uoAPsy42MIVSl)** by **Lucy Bedroque** *(Unmusique)* - `1 h ago`
-- **[Som Jag - Lusi Remix](https://open.spotify.com/track/0Y8Z0oZ4JOaHBpVlcHlK7o)** by **Dj Billybool, Bladee** *(The Promised Future Remixes, Vol. 1)* - `1 h ago`
-- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `1 h ago`
+- **[Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)** by **$uicideboy$** *(7th or St. Tammany)* - `4 min ago`
+- **[ecstacy (slowed)](https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS)** by **SUICIDAL-IDOL** *(ecstacy (slowed))* - `6 min ago`
+- **[Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx)** by **BIG TIM** *(Alles ist relativ)* - `8 min ago`
+- **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)* - `10 min ago`
+- **[share](https://open.spotify.com/track/6Va32o4t6zYbltTaUiTH92)** by **Mezha** *(share)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 18:34:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 20:38:39 UTC*
 <!-- SPOTIFY-END -->
