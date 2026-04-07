@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[superswag pt. 1](https://open.spotify.com/track/08556SGxHuwQGdFKjCblO6)** by **ilyproxy, leander, Hadesthegrim, eversonder** *(superswag pt. 1)* - `7 h ago`
-- **[NUMBER ONE](https://open.spotify.com/track/3ndTgZ9nNX2VoDtQf2eg4j)** by **lavendr** *(NUMBER ONE)* - `7 h ago`
-- **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)* - `7 h ago`
-- **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)* - `7 h ago`
-- **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)* - `7 h ago`
+- **[Nicht Mehr Da](https://open.spotify.com/track/6pK8XuXZg5NHgdLmjkOne5)** by **uusymon, James Jetski** *(Stardust)* - `10 min ago`
+- **[vampire girl](https://open.spotify.com/track/1XJ8grBNoPrDQKkvUtIXvt)** by **korpsebunny** *(vampire girl)* - `12 min ago`
+- **[Snus](https://open.spotify.com/track/11pyUJH4ZpGCHuOQH1qbEW)** by **4gegenbeat, BIGBAX** *(Snus)* - `14 min ago`
+- **[Durch die Nacht](https://open.spotify.com/track/3AjmnzdVpa6kvcqkA6KGP9)** by **Edo Saiya, Young Richie Rich** *(This Was Home)* - `16 min ago`
+- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 06:19:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 07:53:40 UTC*
 <!-- SPOTIFY-END -->
