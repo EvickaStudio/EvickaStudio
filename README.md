@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730f47645df6ba416fc11e0290" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0VPvBUyR4zsW8NOJwQQYDR">Knot Me</a></strong><br/>
+  <em>by</em> <strong>Lucy Bedroque</strong><br/>
+  <em>Album:</em> Fête de la Vanille
+</p>
+
+<p align="center"><code>3:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Juno](https://open.spotify.com/track/6GC5SjY1cKEzWDwa3nFYn9)** by **User2222** *(Blame Games)* - `1 h ago`
-- **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)* - `1 h ago`
-- **[2010 Justin Bieber](https://open.spotify.com/track/5WIGbrfNMvFeCQOx5XykBO)** by **Lucy Bedroque** *(Unmusique)* - `1 h ago`
-- **[Samurai](https://open.spotify.com/track/46H4Zrj1HEiNwmLbMBQg13)** by **Psyke, humanangst** *(HumanPsyke202)* - `1 h ago`
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `1 h ago`
+- **[My Chalice](https://open.spotify.com/track/5DO18wFTnk0Dzrd6q7FjQK)** by **smokedope2016** *(THE COMEDOWN)* - `3 min ago`
+- **[Alarm](https://open.spotify.com/track/5N99kZXU5QShN6oACaHX0A)** by **Canyon** *(So)* - `6 min ago`
+- **[L-ON-D-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp)** by **Bassvictim** *(Basspunk)* - `9 min ago`
+- **[Juno](https://open.spotify.com/track/6GC5SjY1cKEzWDwa3nFYn9)** by **User2222** *(Blame Games)* - `3 h ago`
+- **[Gift](https://open.spotify.com/track/64ukaQC8EGPS8jJUXMi6XS)** by **Pink Katana** *(Gift)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 12:01:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 13:58:44 UTC*
 <!-- SPOTIFY-END -->
