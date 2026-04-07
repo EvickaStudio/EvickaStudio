@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27393032355eb6ab1320904d086" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27326e42b71afd75d9b029f5c4e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5x9lyB5lP2lXR0zb7L6RaB">Violet Gold</a></strong><br/>
-  <em>by</em> <strong>Woesum, Bladee, Thaiboy Digital, Yung Lean</strong><br/>
-  <em>Album:</em> Blue Summer
+  <strong><a href="https://open.spotify.com/track/2my6pi0hh4oDuvHOWDtWEL">The Break Up Song</a></strong><br/>
+  <em>by</em> <strong>Thrilliam Angels, Helen Sun, d.j. polyplus u.c.</strong><br/>
+  <em>Album:</em> This Sunrise Is Brutal
 </p>
 
-<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:22</code></p>
+<p align="center"><code>0:32</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `1 min ago`
-- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `5 min ago`
-- **[Nosebleed](https://open.spotify.com/track/7l15jn9czuusxbpz3rOr5O)** by **Thaiboy Digital, Ecco2k** *(D&G)* - `8 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `11 min ago`
-- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `14 min ago`
+- **[eurolife](https://open.spotify.com/track/79qk9wzNKn8UhBYohfdvTf)** by **dreamloader** *(under.net compilation vol. 3)* - `just now`
+- **[Everything](https://open.spotify.com/track/1uj7DI0Or5BIx5U7WBtdLN)** by **Mechatok** *(Wide Awake)* - `3 min ago`
+- **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)* - `6 min ago`
+- **[big proverb](https://open.spotify.com/track/5pG72iLzzyfwaa15Mo096H)** by **Helen Sun** *(big proverb)* - `9 min ago`
+- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**A Mi Manera (Comme D'Habitude)**](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 08:53:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 10:00:22 UTC*
 <!-- SPOTIFY-END -->
