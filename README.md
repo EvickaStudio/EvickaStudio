@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27393032355eb6ab1320904d086" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5x9lyB5lP2lXR0zb7L6RaB">Violet Gold</a></strong><br/>
+  <em>by</em> <strong>Woesum, Bladee, Thaiboy Digital, Yung Lean</strong><br/>
+  <em>Album:</em> Blue Summer
+</p>
+
+<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nicht Mehr Da](https://open.spotify.com/track/6pK8XuXZg5NHgdLmjkOne5)** by **uusymon, James Jetski** *(Stardust)* - `10 min ago`
-- **[vampire girl](https://open.spotify.com/track/1XJ8grBNoPrDQKkvUtIXvt)** by **korpsebunny** *(vampire girl)* - `12 min ago`
-- **[Snus](https://open.spotify.com/track/11pyUJH4ZpGCHuOQH1qbEW)** by **4gegenbeat, BIGBAX** *(Snus)* - `14 min ago`
-- **[Durch die Nacht](https://open.spotify.com/track/3AjmnzdVpa6kvcqkA6KGP9)** by **Edo Saiya, Young Richie Rich** *(This Was Home)* - `16 min ago`
-- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `20 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `1 min ago`
+- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `5 min ago`
+- **[Nosebleed](https://open.spotify.com/track/7l15jn9czuusxbpz3rOr5O)** by **Thaiboy Digital, Ecco2k** *(D&G)* - `8 min ago`
+- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `11 min ago`
+- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 07:53:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 08:53:32 UTC*
 <!-- SPOTIFY-END -->
