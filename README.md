@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c5a8adf6ce312c1673ae87ef" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d911d737a5449fcf1a4bf32c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf">Ya Soshla S Uma</a></strong><br/>
-  <em>by</em> <strong>User2222</strong><br/>
-  <em>Album:</em> User2222 Greatest Hits
+  <strong><a href="https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco">azar</a></strong><br/>
+  <em>by</em> <strong>JB 50</strong><br/>
+  <em>Album:</em> azar
 </p>
 
-<p align="center"><code>3:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>4:39</code></p>
+<p align="center"><code>0:14</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:12</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Till i'm Dead](https://open.spotify.com/track/1OloKCCG0e7Pu3IUgkhISg)** by **DJmegan23** *(Thou Art All Lost And Forgotten (DELUXE))* - `3 min ago`
-- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `5 min ago`
-- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `8 min ago`
-- **[Biblical Beast / Say Your Name](https://open.spotify.com/track/2YqtIA0NbXam48A2MupsLO)** by **Thrilliam Angels, Wounder, vrde** *(Iliad Unspoken)* - `11 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `13 min ago`
+- **[Fenty Face](https://open.spotify.com/track/43U3Z78I4uoAPsy42MIVSl)** by **Lucy Bedroque** *(Unmusique)* - `just now`
+- **[Som Jag - Lusi Remix](https://open.spotify.com/track/0Y8Z0oZ4JOaHBpVlcHlK7o)** by **Dj Billybool, Bladee** *(The Promised Future Remixes, Vol. 1)* - `2 min ago`
+- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `4 min ago`
+- **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)* - `7 min ago`
+- **[DNA PLAY](https://open.spotify.com/track/7onpPXobnT4uodo02pimLK)** by **Varg²™, Bladee, Ecco2k** *(Lonestar Pandemonium)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 16:17:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-07 17:30:35 UTC*
 <!-- SPOTIFY-END -->
