@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Milchreis Zimt](https://open.spotify.com/track/1hgxdioWqUFpTpG9V1WoBC)** by **Streynge** *(Milchreis Zimt)* - `25 min ago`
-- **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)* - `11 h ago`
-- **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `11 h ago`
-- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `11 h ago`
-- **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)* - `11 h ago`
+- **[fern als heimweh](https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH)** by **RYLO** *(fern als heimweh)* - `just now`
+- **[Parisienne](https://open.spotify.com/track/7D63417MInhEo8QsPXcAy3)** by **agelast222, gard** *(Parisienne)* - `2 min ago`
+- **[Traumfänger](https://open.spotify.com/track/0CJFvpmFS51BFbfdUhNYma)** by **Brown-Eyes White Boy** *(Metanarkose)* - `4 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `6 min ago`
+- **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 08:07:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 09:17:24 UTC*
 <!-- SPOTIFY-END -->
