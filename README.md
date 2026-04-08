@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3sJZX0uLZkJYXOsULRJAq7">Kinda Like It That Way</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> April Mixtape 3
-</p>
-
-<p align="center"><code>2:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:51</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)* - `1 h ago`
-- **[a new kind of love - Enkei Remix](https://open.spotify.com/track/1ORJS3w16Z3bwNMzZpfULO)** by **Frou Frou, Enkei** *(a new kind of love (Enkei remix))* - `1 h ago`
-- **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by **Lil Peep, Nedarb** *(beamer boy)* - `1 h ago`
-- **[Dior 2001](https://open.spotify.com/track/6WusSsncC0Oo9sFHKwQii6)** by **RIN** *(Planet Megatron)* - `1 h ago`
-- **[Midnight City](https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9)** by **M83** *(Hurry up, We're Dreaming)* - `1 h ago`
+- **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)* - `2 h ago`
+- **[a new kind of love - Enkei Remix](https://open.spotify.com/track/1ORJS3w16Z3bwNMzZpfULO)** by **Frou Frou, Enkei** *(a new kind of love (Enkei remix))* - `2 h ago`
+- **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by **Lil Peep, Nedarb** *(beamer boy)* - `2 h ago`
+- **[Dior 2001](https://open.spotify.com/track/6WusSsncC0Oo9sFHKwQii6)** by **RIN** *(Planet Megatron)* - `2 h ago`
+- **[Midnight City](https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9)** by **M83** *(Hurry up, We're Dreaming)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 15:44:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 16:45:04 UTC*
 <!-- SPOTIFY-END -->
