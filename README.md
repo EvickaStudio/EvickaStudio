@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273245e7cba05265fd08ca4420c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0dHyyUHr6x8slqV7K9d7zK">damage</a></strong><br/>
-  <em>by</em> <strong>blombi19</strong><br/>
-  <em>Album:</em> amalgamarchiv2
-</p>
-
-<p align="center"><code>3:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:11</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sukkubus](https://open.spotify.com/track/2a5N0VKy7zZ8U4VpNydiKw)** by **blombi19** *(amalgamarchiv2)* - `3 min ago`
-- **[alptraum](https://open.spotify.com/track/4H1Cyp6i1erpgaNDTVDiWj)** by **blombi19** *(amalgamarchiv2)* - `6 min ago`
-- **[umbro](https://open.spotify.com/track/2TyBD12JaiaoHLG4UAtWNf)** by **blombi19** *(amalgamarchiv2)* - `9 min ago`
-- **[lumineszenz](https://open.spotify.com/track/0vLggfhna4ByF0XJ8fyyO0)** by **blombi19** *(amalgamarchiv2)* - `12 min ago`
-- **[lügner](https://open.spotify.com/track/4khKsdU4AANzg3ShqYC6s7)** by **blombi19** *(amalgamarchiv2)* - `16 min ago`
+- **[swag im backpack](https://open.spotify.com/track/36gEO6jBBhpVwv2DbctnMd)** by **blombi19** *(amalgamarchiv2)* - `46 min ago`
+- **[mayday](https://open.spotify.com/track/6zegE3Rxrx8iUtQdO91I5M)** by **blombi19** *(amalgamarchiv2)* - `49 min ago`
+- **[delirium](https://open.spotify.com/track/1Z62WlNS74GNr6GZT2QtBZ)** by **blombi19** *(amalgamarchiv2)* - `51 min ago`
+- **[damage - polyp19 remix](https://open.spotify.com/track/7KulC6LaKu6wCUf62UiWMY)** by **blombi19** *(amalgamarchiv2)* - `54 min ago`
+- **[damage](https://open.spotify.com/track/0dHyyUHr6x8slqV7K9d7zK)** by **blombi19** *(amalgamarchiv2)* - `57 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 20:02:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 21:00:01 UTC*
 <!-- SPOTIFY-END -->
