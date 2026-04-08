@@ -92,33 +92,33 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f02167585b3cbd8f8216cb3b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273391338ec665f536553b09477" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2i0w0hvrxXbu39dVQY08bb">klinik</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/4H5ZDKiILVUyRouF5pEYiR">sternenfeld</a></strong><br/>
   <em>by</em> <strong>blombi19</strong><br/>
-  <em>Album:</em> herzkasper
+  <em>Album:</em> sternenfeld
 </p>
 
-<p align="center"><code>1:46</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:43</code></p>
+<p align="center"><code>2:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[entzweit](https://open.spotify.com/track/3QZYxNnP6WSw2bWKENApfP)** by **blombi19** *(herzkasper)* - `1 min ago`
-- **[dopamin](https://open.spotify.com/track/39f5jyDAQl5ZaAGj69RCcE)** by **blombi19** *(herzkasper)* - `4 min ago`
-- **[jeans](https://open.spotify.com/track/6mZKAgOHuq2QaTfSQLtLjk)** by **blombi19** *(herzkasper)* - `6 min ago`
-- **[unsersong](https://open.spotify.com/track/5Jd3VXUB9l26CpWQJlKYNZ)** by **blombi19** *(herzkasper)* - `8 min ago`
-- **[paranoid](https://open.spotify.com/track/07LaJmoQTivlI4dkpO7YrA)** by **blombi19, mehlhaltig** *(herzkasper)* - `11 min ago`
+- **[hellblau](https://open.spotify.com/track/7kSrm16pte7bnYvWuHCwbg)** by **blombi19** *(sternenfeld)* - `2 min ago`
+- **[alright](https://open.spotify.com/track/3fbmRKGDQa0HnseW1zhPLB)** by **blombi19** *(sternenfeld)* - `5 min ago`
+- **[liebeszwang](https://open.spotify.com/track/5V8RIS7WezIjCIev5hA5nf)** by **blombi19** *(abiogenese)* - `8 min ago`
+- **[engel](https://open.spotify.com/track/37EZeJeBQAWf6Z5HHAQ4hA)** by **blombi19** *(abiogenese)* - `11 min ago`
+- **[abiogenese](https://open.spotify.com/track/5z7kx25WTVFovL4b4OwvmE)** by **blombi19** *(abiogenese)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 17:47:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 19:04:30 UTC*
 <!-- SPOTIFY-END -->
