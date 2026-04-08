@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[swag im backpack](https://open.spotify.com/track/36gEO6jBBhpVwv2DbctnMd)** by **blombi19** *(amalgamarchiv2)* - `1 h ago`
-- **[mayday](https://open.spotify.com/track/6zegE3Rxrx8iUtQdO91I5M)** by **blombi19** *(amalgamarchiv2)* - `1 h ago`
-- **[delirium](https://open.spotify.com/track/1Z62WlNS74GNr6GZT2QtBZ)** by **blombi19** *(amalgamarchiv2)* - `1 h ago`
-- **[damage - polyp19 remix](https://open.spotify.com/track/7KulC6LaKu6wCUf62UiWMY)** by **blombi19** *(amalgamarchiv2)* - `1 h ago`
-- **[damage](https://open.spotify.com/track/0dHyyUHr6x8slqV7K9d7zK)** by **blombi19** *(amalgamarchiv2)* - `1 h ago`
+- **[swag im backpack](https://open.spotify.com/track/36gEO6jBBhpVwv2DbctnMd)** by **blombi19** *(amalgamarchiv2)* - `2 h ago`
+- **[mayday](https://open.spotify.com/track/6zegE3Rxrx8iUtQdO91I5M)** by **blombi19** *(amalgamarchiv2)* - `2 h ago`
+- **[delirium](https://open.spotify.com/track/1Z62WlNS74GNr6GZT2QtBZ)** by **blombi19** *(amalgamarchiv2)* - `2 h ago`
+- **[damage - polyp19 remix](https://open.spotify.com/track/7KulC6LaKu6wCUf62UiWMY)** by **blombi19** *(amalgamarchiv2)* - `2 h ago`
+- **[damage](https://open.spotify.com/track/0dHyyUHr6x8slqV7K9d7zK)** by **blombi19** *(amalgamarchiv2)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 21:50:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 22:31:14 UTC*
 <!-- SPOTIFY-END -->
