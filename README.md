@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)* - `8 h ago`
-- **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `8 h ago`
-- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `8 h ago`
-- **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)* - `8 h ago`
-- **[SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)** by **Sleepisformortals** *(SO DUMB)* - `8 h ago`
+- **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)* - `9 h ago`
+- **[Lady Brown (feat. Cise Starr from CYNE)](https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `9 h ago`
+- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `9 h ago`
+- **[st3rbe nuR Für diChh+](https://open.spotify.com/track/482AJIpBuBgBxRBO6JMw44)** by **Pink Katana** *(st3rbe nuR Für diChh+)* - `9 h ago`
+- **[SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG)** by **Sleepisformortals** *(SO DUMB)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 05:01:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 06:49:07 UTC*
 <!-- SPOTIFY-END -->
