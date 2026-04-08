@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL">Embrace</a></strong><br/>
-  <em>by</em> <strong>Pastel Ghost</strong><br/>
-  <em>Album:</em> Abyss
+  <strong><a href="https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9">Midnight City</a></strong><br/>
+  <em>by</em> <strong>M83</strong><br/>
+  <em>Album:</em> Hurry up, We're Dreaming
 </p>
 
-<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:24</code></p>
+<p align="center"><code>0:25</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)* - `1 min ago`
-- **[Sold My Soul to Satan Waiting in Line at the Mall](https://open.spotify.com/track/1cc1QPB6ybcQ72OSD8tjb4)** by **$uicideboy$** *(YUNGDEATHLILLIFE)* - `3 min ago`
-- **[absolute in doubt](https://open.spotify.com/track/2AKH61h31qN7ka2tAGxFUO)** by **Lil Peep, Wicca Phase Springs Eternal** *(crybaby)* - `5 min ago`
-- **[Bequem](https://open.spotify.com/track/7mq4CCgO6vTBZHoOjF23b6)** by **makko** *(Leb es oder lass es 2)* - `9 min ago`
-- **[nothing last 4ever](https://open.spotify.com/track/1wzCEEvNOyAxzgifct7SQj)** by **Rebzyyx, syris** *(nothing last 4ever)* - `12 min ago`
+- **[Ich romantisiere Drogen](https://open.spotify.com/track/5f53Pdy4937QSXB3h5HJIA)** by **Punk Christ, Love Pact** *(NERVENKONSTRUKT)* - `just now`
+- **[Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL)** by **Holy Fuck** *(Congrats)* - `2 min ago`
+- **[Psycho Dreams](https://open.spotify.com/track/0Jk1o19bxKAFzt3BtD2fx3)** by **Kill Eva, ENCASSATOR** *(Psycho Dreams)* - `6 min ago`
+- **[1975](https://open.spotify.com/track/6mf2YhtRwQUdnORRrRQ3hP)** by **MAJAN, CRO** *(1975)* - `8 min ago`
+- **[Nie mehr auf Wolke 7](https://open.spotify.com/track/1swdoC3yiWgXqFORvP2Ifc)** by **makko** *(Lieb mich oder lass es, Pt.1+2)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 12:41:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-08 14:14:07 UTC*
 <!-- SPOTIFY-END -->
