@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737235379b198c482b3e6ef0af" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6eZU3FU5kerA6reORW5tp3">Dumpster Baby</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> D&G
-</p>
-
-<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:40</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Next to Nothing - Che](https://open.spotify.com/track/6sVBfA33bp7ROA5dtV6cOa)** by **Ayegy** *(Next to Nothing (Che))* - `2 min ago`
-- **[Diamonds](https://open.spotify.com/track/5DVv70rwp45N2SWgYNYr30)** by **lusi 7896** *(Diamonds)* - `4 min ago`
-- **[Famous](https://open.spotify.com/track/13OTkLgwliHiRGYNWzrWyx)** by **smokedope2016** *(THE COMEDOWN)* - `6 min ago`
-- **[Scared That I Might Blow Up](https://open.spotify.com/track/4fMIhL0DEDJU676Sxk4ANe)** by **Sacred holes** *(Genuine Uppers Life)* - `8 min ago`
-- **[all eyes](https://open.spotify.com/track/4YH7LS94LDGKErp0DzCFMh)** by **myspacemark** *(all eyes)* - `9 min ago`
+- **[So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY)** by **Jane Remover** *(♡)* - `8 min ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `12 min ago`
+- **[How I Bled](https://open.spotify.com/track/12Yw6L9fU4NZVTYrWjSnyb)** by **smokedope2016** *(THE COMEDOWN)* - `14 min ago`
+- **[Stacy](https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt)** by **bbpue** *(bbpue)* - `16 min ago`
+- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 21:01:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 21:56:23 UTC*
 <!-- SPOTIFY-END -->
