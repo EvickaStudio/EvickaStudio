@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b88a7e843e3e86fc89139453" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1lzmBTRHpfZnesRFFGXdSu">悪魔の死の賛歌 angel++dove</a></strong><br/>
-  <em>by</em> <strong>uziellsiilver</strong><br/>
-  <em>Album:</em> the silhouette 失われた精神の
-</p>
-
-<p align="center"><code>2:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:54</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)* - `2 min ago`
-- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `4 min ago`
-- **[Anams Song](https://open.spotify.com/track/3ckHTyS4sf5D6HJ3VxRStD)** by **Thrilliam Angels, 020baby** *(The Static Screams Your Name)* - `6 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `8 min ago`
-- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `11 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `4 min ago`
+- **[Buggy](https://open.spotify.com/track/2phTBssn4rTLOnT0HMmd0t)** by **Jawnino, YT, Deer park** *(Melancholia)* - `7 min ago`
+- **[sandevistan](https://open.spotify.com/track/3jbppmuZm3HtQQvRP6n5aJ)** by **SHEMYYY** *(I can live with you, or not at all.)* - `10 min ago`
+- **[Summit](https://open.spotify.com/track/3Htw9ODiZ6bMAv2GJXvHLC)** by **User2222** *(User2222 Greatest Hits)* - `12 min ago`
+- **[Lay My Body Down](https://open.spotify.com/track/2hN607IxXeMeGkw70iteFk)** by **smokedope2016** *(THE COMEDOWN)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 15:52:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 16:58:18 UTC*
 <!-- SPOTIFY-END -->
