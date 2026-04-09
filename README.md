@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cac5562d448b1aa9b6981b85" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c83bd8db302d3ed09b51168d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7ffbrctYlrpgChDSTSLqKS">a.n.g.e.l.o</a></strong><br/>
-  <em>by</em> <strong>bbpue</strong><br/>
-  <em>Album:</em> bbpue
+  <strong><a href="https://open.spotify.com/track/1mxuZMGaycrKnUAXOvPoNg">Thread</a></strong><br/>
+  <em>by</em> <strong>Lancer</strong><br/>
+  <em>Album:</em> Smile
 </p>
 
-<p align="center"><code>1:19</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:37</code></p>
+<p align="center"><code>3:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `1 min ago`
-- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `4 min ago`
-- **[Opium Dreams](https://open.spotify.com/track/6R8HBbBJEgggOnZqVRTcHF)** by **Yung Lean, Bladee** *(Opium Dreams)* - `6 min ago`
-- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `8 min ago`
-- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `12 min ago`
+- **[Stapleface](https://open.spotify.com/track/2NbCHh7qYuW7cRVJ1duQ5h)** by **bbpue** *(bbpue)* - `3 min ago`
+- **[Never Felt Right](https://open.spotify.com/track/7KzCXFRlFrNq7ybVsRppIB)** by **Somewhere Special** *(Never Felt Right)* - `6 min ago`
+- **[I Know It's Wrong](https://open.spotify.com/track/17af3Uv6hfLJi6UXdwKVEO)** by **PureSnow** *(Oaths)* - `10 min ago`
+- **[Be My Zombie](https://open.spotify.com/track/0EatqpdmvqSUSgBL5uWgug)** by **smokedope2016** *(THE COMEDOWN)* - `13 min ago`
+- **[CHANEL SHIRT](https://open.spotify.com/track/2kWTnJ8bTzpFJN6UyqWKTe)** by **mikeycyrus** *(WORST BOYFRIEND EVER)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -125,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 19:08:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 20:07:07 UTC*
 <!-- SPOTIFY-END -->
