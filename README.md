@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c83bd8db302d3ed09b51168d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737235379b198c482b3e6ef0af" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1mxuZMGaycrKnUAXOvPoNg">Thread</a></strong><br/>
-  <em>by</em> <strong>Lancer</strong><br/>
-  <em>Album:</em> Smile
+  <strong><a href="https://open.spotify.com/track/6eZU3FU5kerA6reORW5tp3">Dumpster Baby</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> D&G
 </p>
 
-<p align="center"><code>3:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:14</code></p>
+<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stapleface](https://open.spotify.com/track/2NbCHh7qYuW7cRVJ1duQ5h)** by **bbpue** *(bbpue)* - `3 min ago`
-- **[Never Felt Right](https://open.spotify.com/track/7KzCXFRlFrNq7ybVsRppIB)** by **Somewhere Special** *(Never Felt Right)* - `6 min ago`
-- **[I Know It's Wrong](https://open.spotify.com/track/17af3Uv6hfLJi6UXdwKVEO)** by **PureSnow** *(Oaths)* - `10 min ago`
-- **[Be My Zombie](https://open.spotify.com/track/0EatqpdmvqSUSgBL5uWgug)** by **smokedope2016** *(THE COMEDOWN)* - `13 min ago`
-- **[CHANEL SHIRT](https://open.spotify.com/track/2kWTnJ8bTzpFJN6UyqWKTe)** by **mikeycyrus** *(WORST BOYFRIEND EVER)* - `17 min ago`
+- **[Next to Nothing - Che](https://open.spotify.com/track/6sVBfA33bp7ROA5dtV6cOa)** by **Ayegy** *(Next to Nothing (Che))* - `2 min ago`
+- **[Diamonds](https://open.spotify.com/track/5DVv70rwp45N2SWgYNYr30)** by **lusi 7896** *(Diamonds)* - `4 min ago`
+- **[Famous](https://open.spotify.com/track/13OTkLgwliHiRGYNWzrWyx)** by **smokedope2016** *(THE COMEDOWN)* - `6 min ago`
+- **[Scared That I Might Blow Up](https://open.spotify.com/track/4fMIhL0DEDJU676Sxk4ANe)** by **Sacred holes** *(Genuine Uppers Life)* - `8 min ago`
+- **[all eyes](https://open.spotify.com/track/4YH7LS94LDGKErp0DzCFMh)** by **myspacemark** *(all eyes)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 20:07:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 21:01:55 UTC*
 <!-- SPOTIFY-END -->
