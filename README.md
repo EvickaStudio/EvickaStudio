@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f474c6844dec874d6c1d1700" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27355b52048f14d0564f8c8630f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1jIWpImUMCavRSxpVo6sd9">2. Gates 2 Hell : Fridhemsplan</a></strong><br/>
-  <em>by</em> <strong>DJ Worm, Eurohead</strong><br/>
-  <em>Album:</em> Klubb Musik vol.1
+  <strong><a href="https://open.spotify.com/track/2FNPQq4Q2sC702Zdxwsll1">DYR OUTRO</a></strong><br/>
+  <em>by</em> <strong>Dj Billybool, Eurohead</strong><br/>
+  <em>Album:</em> DYR
 </p>
 
-<p align="center"><code>0:44</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:37</code></p>
+<p align="center"><code>1:05</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>4:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Crisis](https://open.spotify.com/track/2zG12U8d84yyp9CQ7kHNe0)** by **ESP** *(Promise)* - `just now`
-- **[CMYK](https://open.spotify.com/track/2ChOqzPoYF5je9mfXtJrkW)** by **ear** *(The Most Dear and The Future)* - `2 min ago`
-- **[TSUNAMI GHOST](https://open.spotify.com/track/6MFtdS3egZTI8hz9AQALB7)** by **Palmistry** *(T2)* - `4 min ago`
-- **[Toke](https://open.spotify.com/track/1AOBll38FEe0LpaXHjqrCk)** by **Mechatok** *(See Thru)* - `6 min ago`
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `9 min ago`
+- **[5. Änglar : Rest in Pi** Medusa Gamla Stan!! "MCAT KLUBB" mix](https://open.spotify.com/track/4jahVVmueco4z9l2fKr9a8)** by **DJ Worm, Eurohead, RXKNephew, SPÖKE** *(Klubb Musik vol.1)* - `1 min ago`
+- **[Glitter - DJH Remix](https://open.spotify.com/track/6vovtAsprZijLqnvWcNpfC)** by **Suzy Sheer, DJH** *(Euphoriphilia)* - `5 min ago`
+- **[Cry8](https://open.spotify.com/track/5bcB94J3P9xeAdBmksJp4N)** by **Nation, Varg²™** *(Nation 2)* - `7 min ago`
+- **[All My Time](https://open.spotify.com/track/7wYWDOEnvyKerKRmTHU8rU)** by **Mechatok** *(All My Time)* - `11 min ago`
+- **[In Dreams I Hold You](https://open.spotify.com/track/1Us8fG1B2Ll0va5ryDH5sQ)** by **Bby Eco** *(Sky (i))* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 12:07:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 14:10:50 UTC*
 <!-- SPOTIFY-END -->
