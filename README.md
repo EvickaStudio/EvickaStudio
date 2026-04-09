@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738312a913486acc9dfef57f43" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730bb8023bb941c23c805a1ee1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/144JD8lLnhex2UPGW7DktJ">Addiction</a></strong><br/>
-  <em>by</em> <strong>Mechatok</strong><br/>
-  <em>Album:</em> Wide Awake
+  <strong><a href="https://open.spotify.com/track/60ROE8El697cDcueQiU2hD">Aurora</a></strong><br/>
+  <em>by</em> <strong>Quiet Light</strong><br/>
+  <em>Album:</em> Pure Hearts
 </p>
 
-<p align="center"><code>0:32</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:19</code></p>
+<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `just now`
-- **[marzahn freestyle](https://open.spotify.com/track/7ypetnsAXXwa4qPWcJsrFw)** by **blombi19** *(amalgamarchiv2)* - `3 min ago`
-- **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)* - `27 min ago`
-- **[Z0RNIG [2O24]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x)** by **Ski Aggu** *(Z0RNIG [2O24])* - `30 min ago`
-- **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)* - `33 min ago`
+- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `1 min ago`
+- **[summer](https://open.spotify.com/track/7rZakQcep7Tqhrwb5U72ml)** by **damon r.** *(summer)* - `3 min ago`
+- **[LDN NYC](https://open.spotify.com/track/5scYnpTamC50KeCsLt8z9t)** by **Palmistry** *(T2)* - `6 min ago`
+- **[Country Road](https://open.spotify.com/track/66ebkOa8Yfca90XPfCIQkS)** by **The Hellp** *(Riviera)* - `9 min ago`
+- **[Vega](https://open.spotify.com/track/5OxX9mw7YJvEAipdesuurh)** by **ESP** *(Promise)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 07:53:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 08:59:10 UTC*
 <!-- SPOTIFY-END -->
