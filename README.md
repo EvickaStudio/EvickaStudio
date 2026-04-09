@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `4 min ago`
-- **[Buggy](https://open.spotify.com/track/2phTBssn4rTLOnT0HMmd0t)** by **Jawnino, YT, Deer park** *(Melancholia)* - `7 min ago`
-- **[sandevistan](https://open.spotify.com/track/3jbppmuZm3HtQQvRP6n5aJ)** by **SHEMYYY** *(I can live with you, or not at all.)* - `10 min ago`
-- **[Summit](https://open.spotify.com/track/3Htw9ODiZ6bMAv2GJXvHLC)** by **User2222** *(User2222 Greatest Hits)* - `12 min ago`
-- **[Lay My Body Down](https://open.spotify.com/track/2hN607IxXeMeGkw70iteFk)** by **smokedope2016** *(THE COMEDOWN)* - `14 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `1 h ago`
+- **[Buggy](https://open.spotify.com/track/2phTBssn4rTLOnT0HMmd0t)** by **Jawnino, YT, Deer park** *(Melancholia)* - `1 h ago`
+- **[sandevistan](https://open.spotify.com/track/3jbppmuZm3HtQQvRP6n5aJ)** by **SHEMYYY** *(I can live with you, or not at all.)* - `1 h ago`
+- **[Summit](https://open.spotify.com/track/3Htw9ODiZ6bMAv2GJXvHLC)** by **User2222** *(User2222 Greatest Hits)* - `1 h ago`
+- **[Lay My Body Down](https://open.spotify.com/track/2hN607IxXeMeGkw70iteFk)** by **smokedope2016** *(THE COMEDOWN)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 16:58:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 17:58:33 UTC*
 <!-- SPOTIFY-END -->
