@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739b3113d996c0095ce25e63b7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f474c6844dec874d6c1d1700" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0">DO ME LIKE THAT</a></strong><br/>
-  <em>by</em> <strong>Palmistry</strong><br/>
-  <em>Album:</em> T2
+  <strong><a href="https://open.spotify.com/track/1jIWpImUMCavRSxpVo6sd9">2. Gates 2 Hell : Fridhemsplan</a></strong><br/>
+  <em>by</em> <strong>DJ Worm, Eurohead</strong><br/>
+  <em>Album:</em> Klubb Musik vol.1
 </p>
 
-<p align="center"><code>0:17</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:15</code></p>
+<p align="center"><code>0:44</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[swings and roundabouts](https://open.spotify.com/track/6RvqdSIeRd9AVKTpNJVqvB)** by **amil raja** *(swings and roundabouts)* - `just now`
-- **[Dogs](https://open.spotify.com/track/6dDTcvEih97rTZGBrXni83)** by **ear** *(The Most Dear and The Future)* - `3 min ago`
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `6 min ago`
-- **[In the Seat](https://open.spotify.com/track/3Cbu8KCGNDdNVQfIcY7a6p)** by **Mechatok** *(Defective Holiday OST)* - `8 min ago`
-- **[say it back](https://open.spotify.com/track/2NonWGENYipnBNYvBd8fbY)** by **damon r.** *(say it back)* - `12 min ago`
+- **[Crisis](https://open.spotify.com/track/2zG12U8d84yyp9CQ7kHNe0)** by **ESP** *(Promise)* - `just now`
+- **[CMYK](https://open.spotify.com/track/2ChOqzPoYF5je9mfXtJrkW)** by **ear** *(The Most Dear and The Future)* - `2 min ago`
+- **[TSUNAMI GHOST](https://open.spotify.com/track/6MFtdS3egZTI8hz9AQALB7)** by **Palmistry** *(T2)* - `4 min ago`
+- **[Toke](https://open.spotify.com/track/1AOBll38FEe0LpaXHjqrCk)** by **Mechatok** *(See Thru)* - `6 min ago`
+- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 11:16:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 12:07:47 UTC*
 <!-- SPOTIFY-END -->
