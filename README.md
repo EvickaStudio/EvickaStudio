@@ -96,10 +96,10 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY)** by **Jane Remover** *(♡)* - `47 min ago`
-- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `52 min ago`
-- **[How I Bled](https://open.spotify.com/track/12Yw6L9fU4NZVTYrWjSnyb)** by **smokedope2016** *(THE COMEDOWN)* - `54 min ago`
-- **[Stacy](https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt)** by **bbpue** *(bbpue)* - `56 min ago`
+- **[So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY)** by **Jane Remover** *(♡)* - `1 h ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `1 h ago`
+- **[How I Bled](https://open.spotify.com/track/12Yw6L9fU4NZVTYrWjSnyb)** by **smokedope2016** *(THE COMEDOWN)* - `1 h ago`
+- **[Stacy](https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt)** by **bbpue** *(bbpue)* - `1 h ago`
 - **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `1 h ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 22:36:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 23:23:55 UTC*
 <!-- SPOTIFY-END -->
