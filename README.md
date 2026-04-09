@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273134143802e3faa2395ddb659" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739b3113d996c0095ce25e63b7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/73tbEnfo0vb7UAdGQe7d4e">30 Tears</a></strong><br/>
-  <em>by</em> <strong>ESP</strong><br/>
-  <em>Album:</em> Forever
+  <strong><a href="https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0">DO ME LIKE THAT</a></strong><br/>
+  <em>by</em> <strong>Palmistry</strong><br/>
+  <em>Album:</em> T2
 </p>
 
-<p align="center"><code>2:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:13</code></p>
+<p align="center"><code>0:17</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)* - `2 min ago`
-- **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)* - `5 min ago`
-- **[Cold Nights pt 2](https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `8 min ago`
-- **[Som En Stjärna (Lusi x Eurohead)](https://open.spotify.com/track/5xGH47VQZPhVO3BvHhqJnz)** by **Dj Billybool, Eurohead, Ripsquad** *(DYR Part 2)* - `12 min ago`
-- **[Stunn](https://open.spotify.com/track/6wHDFttQM9JU16Oq41SXvq)** by **The Hellp** *(LL)* - `15 min ago`
+- **[swings and roundabouts](https://open.spotify.com/track/6RvqdSIeRd9AVKTpNJVqvB)** by **amil raja** *(swings and roundabouts)* - `just now`
+- **[Dogs](https://open.spotify.com/track/6dDTcvEih97rTZGBrXni83)** by **ear** *(The Most Dear and The Future)* - `3 min ago`
+- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `6 min ago`
+- **[In the Seat](https://open.spotify.com/track/3Cbu8KCGNDdNVQfIcY7a6p)** by **Mechatok** *(Defective Holiday OST)* - `8 min ago`
+- **[say it back](https://open.spotify.com/track/2NonWGENYipnBNYvBd8fbY)** by **damon r.** *(say it back)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 10:14:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 11:16:49 UTC*
 <!-- SPOTIFY-END -->
