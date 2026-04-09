@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ce3278a114fe6877b85372e3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738312a913486acc9dfef57f43" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3PcrNUFsSYnkJJNE6roBKl">Deira City Centre</a></strong><br/>
-  <em>by</em> <strong>Night Lovell</strong><br/>
-  <em>Album:</em> Concept Vague
+  <strong><a href="https://open.spotify.com/track/144JD8lLnhex2UPGW7DktJ">Addiction</a></strong><br/>
+  <em>by</em> <strong>Mechatok</strong><br/>
+  <em>Album:</em> Wide Awake
 </p>
 
-<p align="center"><code>0:28</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:16</code></p>
+<p align="center"><code>0:32</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[swag im backpack](https://open.spotify.com/track/36gEO6jBBhpVwv2DbctnMd)** by **blombi19** *(amalgamarchiv2)* - `9 h ago`
-- **[mayday](https://open.spotify.com/track/6zegE3Rxrx8iUtQdO91I5M)** by **blombi19** *(amalgamarchiv2)* - `9 h ago`
-- **[delirium](https://open.spotify.com/track/1Z62WlNS74GNr6GZT2QtBZ)** by **blombi19** *(amalgamarchiv2)* - `10 h ago`
-- **[damage - polyp19 remix](https://open.spotify.com/track/7KulC6LaKu6wCUf62UiWMY)** by **blombi19** *(amalgamarchiv2)* - `10 h ago`
-- **[damage](https://open.spotify.com/track/0dHyyUHr6x8slqV7K9d7zK)** by **blombi19** *(amalgamarchiv2)* - `10 h ago`
+- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `just now`
+- **[marzahn freestyle](https://open.spotify.com/track/7ypetnsAXXwa4qPWcJsrFw)** by **blombi19** *(amalgamarchiv2)* - `3 min ago`
+- **[MONEYFESTIEREN](https://open.spotify.com/track/2kNAle91frGqptHzmHA0MP)** by **agelast222** *(SOLARCORP)* - `27 min ago`
+- **[Z0RNIG [2O24]](https://open.spotify.com/track/4bL1w0m4bPkjqMfi93RK1x)** by **Ski Aggu** *(Z0RNIG [2O24])* - `30 min ago`
+- **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)* - `33 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Neil Young**](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 06:09:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 07:53:31 UTC*
 <!-- SPOTIFY-END -->
