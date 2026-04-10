@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c94b4072c458ec41ad1782d4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN">Silver Surfer</a></strong><br/>
-  <em>by</em> <strong>strangerperson</strong><br/>
-  <em>Album:</em> Silver Surfer
+  <strong><a href="https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r">Devil In A New Dress</a></strong><br/>
+  <em>by</em> <strong>Kanye West, Rick Ross</strong><br/>
+  <em>Album:</em> My Beautiful Dark Twisted Fantasy
 </p>
 
-<p align="center"><code>0:33</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:39</code></p>
+<p align="center"><code>0:54</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>5:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)* - `just now`
-- **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)* - `2 min ago`
-- **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))* - `3 min ago`
-- **[Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh)** by **SIRA, Themba, Monk, Longus Mongus** *(Secco Maracuja (feat. THEMBA))* - `6 min ago`
-- **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)* - `9 min ago`
+- **[Sanjuro](https://open.spotify.com/track/1Ea7fh5U7lNNEWVUM3SndT)** by **st46y, daredvl, DJmegan23** *("Lust" 2022-2024 v2)* - `just now`
+- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `3 min ago`
+- **[let me bleed](https://open.spotify.com/track/74nCM3fhMDl2NF8xaHR774)** by **Lil Peep, Nedarb** *(CALIFORNIA GIRLS)* - `5 min ago`
+- **[Guts Theme](https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY)** by **Rooster** *(Rooster Debut)* - `9 min ago`
+- **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 17:05:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 18:02:22 UTC*
 <!-- SPOTIFY-END -->
