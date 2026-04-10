@@ -96,10 +96,10 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[barrel of soil](https://open.spotify.com/track/4oK1xaXjd21wE87qiGA53J)** by **Goochems** *(barrel of soil)* - `48 min ago`
-- **[DO ME LIKE THAT](https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0)** by **Palmistry** *(T2)* - `53 min ago`
-- **[counting sheep](https://open.spotify.com/track/24TRQauIacjyM4gWLZ0Nqe)** by **ultra caro** *(moonlight diaries)* - `55 min ago`
-- **[Position Famous](https://open.spotify.com/track/5JNER0hibybDEhkemMLUHy)** by **Frost Children** *(SISTER)* - `57 min ago`
+- **[barrel of soil](https://open.spotify.com/track/4oK1xaXjd21wE87qiGA53J)** by **Goochems** *(barrel of soil)* - `1 h ago`
+- **[DO ME LIKE THAT](https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0)** by **Palmistry** *(T2)* - `1 h ago`
+- **[counting sheep](https://open.spotify.com/track/24TRQauIacjyM4gWLZ0Nqe)** by **ultra caro** *(moonlight diaries)* - `1 h ago`
+- **[Position Famous](https://open.spotify.com/track/5JNER0hibybDEhkemMLUHy)** by **Frost Children** *(SISTER)* - `1 h ago`
 - **[Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui)** by **ESP** *(Promise)* - `1 h ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 10:44:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 11:34:05 UTC*
 <!-- SPOTIFY-END -->
