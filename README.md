@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY)** by **Jane Remover** *(♡)* - `2 h ago`
-- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `2 h ago`
-- **[How I Bled](https://open.spotify.com/track/12Yw6L9fU4NZVTYrWjSnyb)** by **smokedope2016** *(THE COMEDOWN)* - `2 h ago`
-- **[Stacy](https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt)** by **bbpue** *(bbpue)* - `2 h ago`
-- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `2 h ago`
+- **[So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY)** by **Jane Remover** *(♡)* - `4 h ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `4 h ago`
+- **[How I Bled](https://open.spotify.com/track/12Yw6L9fU4NZVTYrWjSnyb)** by **smokedope2016** *(THE COMEDOWN)* - `4 h ago`
+- **[Stacy](https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt)** by **bbpue** *(bbpue)* - `4 h ago`
+- **[hoes love art](https://open.spotify.com/track/4fgqYYodnMupyYLIj3voSg)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-09 23:57:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 02:33:08 UTC*
 <!-- SPOTIFY-END -->
