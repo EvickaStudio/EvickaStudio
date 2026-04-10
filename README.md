@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3">mitleerenhänden</a></strong><br/>
-  <em>by</em> <strong>Edwin Rosen</strong><br/>
-  <em>Album:</em> mitleerenhänden
-</p>
-
-<p align="center"><code>1:49</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:29</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wir_s3lbst](https://open.spotify.com/track/1Fk25C1ezbpW5z0A7KIvry)** by **Pink Katana** *(wir_s3lbst)* - `1 min ago`
-- **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)* - `3 min ago`
-- **[Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)** by **Sun Kil Moon** *(Ghosts of the Great Highway)* - `6 min ago`
-- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `20 min ago`
-- **[Summer Of Love](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)** by **Torus, Malibu** *(Summer of Love)* - `23 min ago`
+- **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)* - `19 min ago`
+- **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)* - `21 min ago`
+- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `24 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `26 min ago`
+- **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)* - `30 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 19:09:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 19:52:12 UTC*
 <!-- SPOTIFY-END -->
