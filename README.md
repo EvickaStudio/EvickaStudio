@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d73c17d5fd8d7710fced5584" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4oK1xaXjd21wE87qiGA53J">barrel of soil</a></strong><br/>
-  <em>by</em> <strong>Goochems</strong><br/>
-  <em>Album:</em> barrel of soil
-</p>
-
-<p align="center"><code>1:42</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:24</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DO ME LIKE THAT](https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0)** by **Palmistry** *(T2)* - `1 min ago`
-- **[counting sheep](https://open.spotify.com/track/24TRQauIacjyM4gWLZ0Nqe)** by **ultra caro** *(moonlight diaries)* - `3 min ago`
-- **[Position Famous](https://open.spotify.com/track/5JNER0hibybDEhkemMLUHy)** by **Frost Children** *(SISTER)* - `6 min ago`
-- **[Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui)** by **ESP** *(Promise)* - `9 min ago`
-- **[American girls](https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo)** by **MGNA Crrrta** *(American girls)* - `11 min ago`
+- **[barrel of soil](https://open.spotify.com/track/4oK1xaXjd21wE87qiGA53J)** by **Goochems** *(barrel of soil)* - `48 min ago`
+- **[DO ME LIKE THAT](https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0)** by **Palmistry** *(T2)* - `53 min ago`
+- **[counting sheep](https://open.spotify.com/track/24TRQauIacjyM4gWLZ0Nqe)** by **ultra caro** *(moonlight diaries)* - `55 min ago`
+- **[Position Famous](https://open.spotify.com/track/5JNER0hibybDEhkemMLUHy)** by **Frost Children** *(SISTER)* - `57 min ago`
+- **[Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui)** by **ESP** *(Promise)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 09:52:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 10:44:00 UTC*
 <!-- SPOTIFY-END -->
