@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f7bae0fa0859c6afd220e7ba" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732deaf2c24693cd547d7af6ef" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3QlUvdZ3VR41vs9YHApJ3T">Simplify</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> April Mixtape
+  <strong><a href="https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R">i cant say</a></strong><br/>
+  <em>by</em> <strong>latex fruit, Technopagan</strong><br/>
+  <em>Album:</em> i cant say
 </p>
 
-<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:45</code></p>
+<p align="center"><code>2:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[What I Am](https://open.spotify.com/track/0RO36kWlFqkLeVauFhHZbQ)** by **Edie Brickell & New Bohemians** *(Girls And Guitars)* - `1 min ago`
-- **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)* - `6 min ago`
-- **[recuérdame](https://open.spotify.com/track/0eY8eZ9goya2f7GqEQqKpv)** by **yaego** *(recuérdame)* - `9 min ago`
-- **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)* - `14 min ago`
-- **[gothoroolol](https://open.spotify.com/track/6Wa46bQSQkWkiAtEnGHTGS)** by **Death Souljah** *(gothoroolol)* - `17 min ago`
+- **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)* - `2 min ago`
+- **[Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102)](https://open.spotify.com/track/1BXzcQIefsxu65hENcPA6k)** by **102 Boyz, The Cratez, Chapo102, Skoob102, Stacks102** *(Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102))* - `7 min ago`
+- **[So Hoch](https://open.spotify.com/track/1zt3wy9gXLEG2naxIMRwSj)** by **Longus Mongus, BHZ, Monk** *(3062)* - `10 min ago`
+- **[Kirby Down B](https://open.spotify.com/track/5jvm5wPPPqTlpFyjlZhXTE)** by **Harrison Gordon** *(The Yuppies are Winning)* - `13 min ago`
+- **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 14:02:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 15:04:27 UTC*
 <!-- SPOTIFY-END -->
