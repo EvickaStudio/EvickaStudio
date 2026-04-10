@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f7bae0fa0859c6afd220e7ba" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3QlUvdZ3VR41vs9YHApJ3T">Simplify</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> April Mixtape
+</p>
+
+<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[barrel of soil](https://open.spotify.com/track/4oK1xaXjd21wE87qiGA53J)** by **Goochems** *(barrel of soil)* - `2 h ago`
-- **[DO ME LIKE THAT](https://open.spotify.com/track/2Zclo7P20zM0mChajBMWi0)** by **Palmistry** *(T2)* - `2 h ago`
-- **[counting sheep](https://open.spotify.com/track/24TRQauIacjyM4gWLZ0Nqe)** by **ultra caro** *(moonlight diaries)* - `2 h ago`
-- **[Position Famous](https://open.spotify.com/track/5JNER0hibybDEhkemMLUHy)** by **Frost Children** *(SISTER)* - `2 h ago`
-- **[Break Free](https://open.spotify.com/track/7KIRJCAKHhzT4HC3uYXVui)** by **ESP** *(Promise)* - `2 h ago`
+- **[What I Am](https://open.spotify.com/track/0RO36kWlFqkLeVauFhHZbQ)** by **Edie Brickell & New Bohemians** *(Girls And Guitars)* - `1 min ago`
+- **[GORE-TEX COVERS MY SOUL](https://open.spotify.com/track/0BZJXCaLBz6h48wWYwvMoq)** by **Blksmiith** *(「DIGITAL TWIN」)* - `6 min ago`
+- **[recuérdame](https://open.spotify.com/track/0eY8eZ9goya2f7GqEQqKpv)** by **yaego** *(recuérdame)* - `9 min ago`
+- **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)* - `14 min ago`
+- **[gothoroolol](https://open.spotify.com/track/6Wa46bQSQkWkiAtEnGHTGS)** by **Death Souljah** *(gothoroolol)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 12:33:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 14:02:04 UTC*
 <!-- SPOTIFY-END -->
