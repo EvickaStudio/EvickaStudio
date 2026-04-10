@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d2528e2948428a6e7a7ce6cf" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1VHYCloRgNGunzwF5ALsk7">Piece of Me Part of You</a></strong><br/>
+  <em>by</em> <strong>User2222</strong><br/>
+  <em>Album:</em> Blame Games
+</p>
+
+<p align="center"><code>0:44</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `1 min ago`
-- **[So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY)** by **Jane Remover** *(♡)* - `9 h ago`
-- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `9 h ago`
-- **[How I Bled](https://open.spotify.com/track/12Yw6L9fU4NZVTYrWjSnyb)** by **smokedope2016** *(THE COMEDOWN)* - `9 h ago`
-- **[Stacy](https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt)** by **bbpue** *(bbpue)* - `9 h ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `just now`
+- **[Total Freedom](https://open.spotify.com/track/2GcQe8syqJAMsoBpuyUEY2)** by **Cowgirl Clue** *(Total Freedom)* - `3 min ago`
+- **[harvest sky](https://open.spotify.com/track/3M8bJdRfYj1S5iKZIgwAnH)** by **Oklou, underscores** *(choke enough)* - `6 min ago`
+- **[Where Do We Go](https://open.spotify.com/track/6Zun2x70G4dVoESZJwhYKe)** by **Eurohead** *(Where Do We Go)* - `10 min ago`
+- **[FÖR FORT](https://open.spotify.com/track/1ZlIsZlj8CSpquDHLDagCX)** by **Dj Billybool, Eurohead, Woesum** *(DYR)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 07:00:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 08:44:58 UTC*
 <!-- SPOTIFY-END -->
