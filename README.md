@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27373b36d1c642008838ebcc6cd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c94b4072c458ec41ad1782d4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4">Sugar World</a></strong><br/>
-  <em>by</em> <strong>jonatan leandoer96, Frederik Valentin</strong><br/>
-  <em>Album:</em> Sugar World
+  <strong><a href="https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN">Silver Surfer</a></strong><br/>
+  <em>by</em> <strong>strangerperson</strong><br/>
+  <em>Album:</em> Silver Surfer
 </p>
 
-<p align="center"><code>1:39</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>5:38</code></p>
+<p align="center"><code>0:33</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MISA & LIGHT](https://open.spotify.com/track/3x7EyXuAXqSlvu8FH5rYyr)** by **NXFEIT, Sillyelly, Hen848** *(MISA & LIGHT)* - `1 min ago`
-- **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)* - `4 min ago`
-- **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))* - `6 min ago`
-- **[Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw)** by **The Meeting Places** *(Find Yourself Along The Way)* - `10 min ago`
-- **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)* - `14 min ago`
+- **[ich hab sie verloren](https://open.spotify.com/track/0lpmTRzM34lXcrOi5Q5VMy)** by **5star** *(ich hab sie verloren)* - `just now`
+- **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)* - `2 min ago`
+- **[Watch This - ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup)** by **Lil Uzi Vert, sped up nightcore, ARIZONATEARS** *(Watch This (ARIZONATEARS Pluggnb Remix))* - `3 min ago`
+- **[Secco Maracuja](https://open.spotify.com/track/3iATVzRm0E8scMQ7aWoAmh)** by **SIRA, Themba, Monk, Longus Mongus** *(Secco Maracuja (feat. THEMBA))* - `6 min ago`
+- **[ich bin froh, dass ich so bin](https://open.spotify.com/track/4WVM0alatHz5lVgT3MKnpZ)** by **RYLO** *(ich bin froh, dass ich so bin)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 16:06:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 17:05:19 UTC*
 <!-- SPOTIFY-END -->
