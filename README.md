@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r">Devil In A New Dress</a></strong><br/>
-  <em>by</em> <strong>Kanye West, Rick Ross</strong><br/>
-  <em>Album:</em> My Beautiful Dark Twisted Fantasy
+  <strong><a href="https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3">mitleerenhänden</a></strong><br/>
+  <em>by</em> <strong>Edwin Rosen</strong><br/>
+  <em>Album:</em> mitleerenhänden
 </p>
 
-<p align="center"><code>0:54</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>5:51</code></p>
+<p align="center"><code>1:49</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sanjuro](https://open.spotify.com/track/1Ea7fh5U7lNNEWVUM3SndT)** by **st46y, daredvl, DJmegan23** *("Lust" 2022-2024 v2)* - `just now`
-- **[pull/toxic](https://open.spotify.com/track/5VdO3gzfEt4uTgILTWk1F5)** by **emorave** *(pull/toxic)* - `3 min ago`
-- **[let me bleed](https://open.spotify.com/track/74nCM3fhMDl2NF8xaHR774)** by **Lil Peep, Nedarb** *(CALIFORNIA GIRLS)* - `5 min ago`
-- **[Guts Theme](https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY)** by **Rooster** *(Rooster Debut)* - `9 min ago`
-- **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)* - `11 min ago`
+- **[wir_s3lbst](https://open.spotify.com/track/1Fk25C1ezbpW5z0A7KIvry)** by **Pink Katana** *(wir_s3lbst)* - `1 min ago`
+- **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)* - `3 min ago`
+- **[Duk Koo Kim](https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w)** by **Sun Kil Moon** *(Ghosts of the Great Highway)* - `6 min ago`
+- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `20 min ago`
+- **[Summer Of Love](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)** by **Torus, Malibu** *(Summer of Love)* - `23 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 18:02:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-10 19:09:59 UTC*
 <!-- SPOTIFY-END -->
