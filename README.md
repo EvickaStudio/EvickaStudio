@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)* - `10 h ago`
-- **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)* - `10 h ago`
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `10 h ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `10 h ago`
-- **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)* - `10 h ago`
+- **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)* - `11 h ago`
+- **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)* - `11 h ago`
+- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `11 h ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `11 h ago`
+- **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)* - `11 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 05:38:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 06:41:05 UTC*
 <!-- SPOTIFY-END -->
