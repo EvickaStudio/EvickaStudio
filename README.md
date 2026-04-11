@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273663de2e797b8660e370ddd36" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27371b8b869ec7d7aa10705c641" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/34suMP5fG78QH2hnM0RaG1">Alpha</a></strong><br/>
-  <em>by</em> <strong>Tevvez</strong><br/>
-  <em>Album:</em> Alpha
+  <strong><a href="https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5">teen romance</a></strong><br/>
+  <em>by</em> <strong>Lil Peep, Lederrick</strong><br/>
+  <em>Album:</em> teen romance
 </p>
 
-<p align="center"><code>0:27</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:07</code></p>
+<p align="center"><code>2:31</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)* - `just now`
-- **[Everything I Want](https://open.spotify.com/track/6XZNGncuUZScxKI3lUrBHD)** by **George Clanton** *(Ooh Rap I Ya)* - `4 min ago`
-- **[Down Under](https://open.spotify.com/track/5pSvjjfsh34sLrkYSNGCl4)** by **Men At Work** *(Business As Usual)* - `6 min ago`
-- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))* - `10 min ago`
-- **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)* - `15 min ago`
+- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `2 min ago`
+- **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))* - `5 min ago`
+- **[Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO)** by **Tevvez** *(Phantom)* - `6 min ago`
+- **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)* - `9 min ago`
+- **[white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)** by **Lil Peep, Lil Tracy** *(castles)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 10:26:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 11:00:52 UTC*
 <!-- SPOTIFY-END -->
