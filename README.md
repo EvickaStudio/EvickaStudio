@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b85e33d5a971fc81242fcc82" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d569a95f71c9311192021b9f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3AGMnXqVgVZebZ2bvmVeMl">your blind eye</a></strong><br/>
-  <em>by</em> <strong>Levi Ryan</strong><br/>
-  <em>Album:</em> southern comfort EP
+  <strong><a href="https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj">All The Things She Said 2020 - Sub Sonik Remix</a></strong><br/>
+  <em>by</em> <strong>DJ Gollum, Scarlet, Sub Sonik</strong><br/>
+  <em>Album:</em> All the Things She Said 2020 (Sub Sonik Remix)
 </p>
 
-<p align="center"><code>2:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:27</code></p>
+<p align="center"><code>3:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Parasite](https://open.spotify.com/track/1MXq2xmdSq3g3GojQDFH1A)** by **Olmatri, SlushhKitten** *(Zwei Welten)* - `2 min ago`
-- **[MIKICHAN](https://open.spotify.com/track/4FuWpGn9RWpofmZek5xV5Z)** by **Gutterboysouz** *(MIKICHAN)* - `4 min ago`
-- **[Eislaufen](https://open.spotify.com/track/60LCaKFI3huqUjzSROIGBo)** by **Hank, Rowli, Sick & Tired** *(Eislaufen)* - `7 min ago`
-- **[no time2waste](https://open.spotify.com/track/2nfRArnAub9nRS1IBy7rKC)** by **i9bonsai** *(##seedling)* - `9 min ago`
-- **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)* - `11 min ago`
+- **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)* - `3 min ago`
+- **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)* - `7 min ago`
+- **[Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV)** by **Dilla** *(Führerschein)* - `9 min ago`
+- **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)* - `13 min ago`
+- **[Für Immer](https://open.spotify.com/track/6kfb0y1HaJXfILKMNpfGZJ)** by **Happysadgirl, Aexhy** *(Für Immer)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 12:01:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 13:20:57 UTC*
 <!-- SPOTIFY-END -->
