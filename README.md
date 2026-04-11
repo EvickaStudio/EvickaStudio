@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736304ee61e0717cb42716b101" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f96f0a4be5ca27d9647d3430" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH">stinkbug (Over and Over)</a></strong><br/>
-  <em>by</em> <strong>Jack Pfeffer, Mother Soki</strong><br/>
-  <em>Album:</em> stinkbug (Over and Over)
+  <strong><a href="https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8">Nite Walker</a></strong><br/>
+  <em>by</em> <strong>Sickboyrari</strong><br/>
+  <em>Album:</em> City Of Crows
 </p>
 
-<p align="center"><code>0:09</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:55</code></p>
+<p align="center"><code>2:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `just now`
-- **[Summer Of Love](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)** by **Torus, Malibu** *(Summer of Love)* - `3 min ago`
-- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)* - `10 min ago`
-- **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)* - `14 min ago`
-- **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)* - `16 min ago`
+- **[Legends](https://open.spotify.com/track/1Knctxx9vGZxpZfF66BIEa)** by **Juice WRLD** *(Legends)* - `1 min ago`
+- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `5 min ago`
+- **[Nite Walker](https://open.spotify.com/track/5kqkYeDMGSkifYJYLqwrTV)** by **Sickboyrari** *(City Of Crows)* - `6 min ago`
+- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `9 min ago`
+- **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 15:25:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 15:53:38 UTC*
 <!-- SPOTIFY-END -->
