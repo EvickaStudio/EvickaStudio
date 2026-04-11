@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731c08bca073e89ae32c68ffaa" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391ba07c01bada610ccfd63ed" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA">Nightcall</a></strong><br/>
-  <em>by</em> <strong>Kavinsky</strong><br/>
-  <em>Album:</em> OutRun
+  <strong><a href="https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4">somewhere safe</a></strong><br/>
+  <em>by</em> <strong>Senses, mint, Nosgov</strong><br/>
+  <em>Album:</em> somewhere safe
 </p>
 
-<p align="center"><code>4:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>4:17</code></p>
+<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))* - `1 min ago`
-- **[Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF)** by **Basement** *(Colourmeinkindness)* - `5 min ago`
-- **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)* - `9 min ago`
-- **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)* - `12 min ago`
-- **[relapse - sped up](https://open.spotify.com/track/4GW1Qj5d3m4sdxEnlTxUm7)** by **HAR$h, ilymeow** *(relapse (different versions))* - `15 min ago`
+- **[Boys Don't Cry](https://open.spotify.com/track/0C2eEsMBj78CLkHNJPjohc)** by **The Cure** *(Greatest Hits)* - `1 min ago`
+- **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)* - `4 min ago`
+- **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)* - `6 min ago`
+- **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)* - `8 min ago`
+- **[fw24](https://open.spotify.com/track/4ElTEqO5KuickZgw8aRw2H)** by **lil london** *(fw24)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 17:48:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 18:32:30 UTC*
 <!-- SPOTIFY-END -->
