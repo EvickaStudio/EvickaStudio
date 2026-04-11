@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f7e995280c412caaf20d24ad" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273763effbf66f2511b6f850de6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al">pain in my brain</a></strong><br/>
-  <em>by</em> <strong>makko</strong><br/>
-  <em>Album:</em> Pass dich nie an, Pass auf dich auf
+  <strong><a href="https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz">Call Across Rooms</a></strong><br/>
+  <em>by</em> <strong>Grouper</strong><br/>
+  <em>Album:</em> Ruins
 </p>
 
-<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:42</code></p>
+<p align="center"><code>2:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `2 min ago`
-- **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by **strangerperson** *(Kisses und Flowers)* - `3 min ago`
-- **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)* - `7 min ago`
-- **[singularity](https://open.spotify.com/track/78mW9Pan78OWNWIdLmT5AP)** by **k0d4m4** *(singularity)* - `12 min ago`
-- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `13 min ago`
+- **[Rottweiler Welpe](https://open.spotify.com/track/16whV4IXCwGuspfB2ybu1P)** by **fliggsy** *(No Comment)* - `2 min ago`
+- **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)* - `4 min ago`
+- **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)* - `7 min ago`
+- **[every single day](https://open.spotify.com/track/12GSmDYwG6HIUieDnPeLqv)** by **kets4eki, Pröz** *(party2daybreak)* - `13 min ago`
+- **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 14:05:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 14:53:38 UTC*
 <!-- SPOTIFY-END -->
