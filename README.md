@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f96f0a4be5ca27d9647d3430" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731c08bca073e89ae32c68ffaa" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5L0UzaetCSpHAN9IlrJGv8">Nite Walker</a></strong><br/>
-  <em>by</em> <strong>Sickboyrari</strong><br/>
-  <em>Album:</em> City Of Crows
+  <strong><a href="https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA">Nightcall</a></strong><br/>
+  <em>by</em> <strong>Kavinsky</strong><br/>
+  <em>Album:</em> OutRun
 </p>
 
-<p align="center"><code>2:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:25</code></p>
+<p align="center"><code>4:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>4:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Legends](https://open.spotify.com/track/1Knctxx9vGZxpZfF66BIEa)** by **Juice WRLD** *(Legends)* - `1 min ago`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `5 min ago`
-- **[Nite Walker](https://open.spotify.com/track/5kqkYeDMGSkifYJYLqwrTV)** by **Sickboyrari** *(City Of Crows)* - `6 min ago`
-- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `9 min ago`
-- **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)* - `10 min ago`
+- **[Junge](https://open.spotify.com/track/10waMsh44ojvTwXAIy213n)** by **Die Ärzte** *(Jazz ist anders)* - `1 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `4 min ago`
+- **[Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M)** by **Radiohead** *(Kid A)* - `7 min ago`
+- **[Miss You - Sped Up Version](https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW)** by **southstar** *(Miss You)* - `12 min ago`
+- **[Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102)](https://open.spotify.com/track/1BXzcQIefsxu65hENcPA6k)** by **102 Boyz, The Cratez, Chapo102, Skoob102, Stacks102** *(Mit den Boyz (feat. Chapo102, Skoob102 & Stacks102))* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 15:53:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 16:27:14 UTC*
 <!-- SPOTIFY-END -->
