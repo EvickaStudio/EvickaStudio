@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c065b19327eeb67457ad9d03" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737df7c935b8457d2deed2842c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4">maul lofi ~ star wars</a></strong><br/>
-  <em>by</em> <strong>Closed on Sunday</strong><br/>
-  <em>Album:</em> maul lofi ~ star wars
+  <strong><a href="https://open.spotify.com/track/3qKmWo8z1KZx9s99a1qiff">Darko</a></strong><br/>
+  <em>by</em> <strong>Freddie Dredd</strong><br/>
+  <em>Album:</em> Suffer
 </p>
 
-<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:25</code></p>
+<p align="center"><code>0:39</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>1:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)* - `just now`
-- **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)* - `2 min ago`
-- **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)* - `5 min ago`
-- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `7 min ago`
-- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `10 min ago`
+- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `just now`
+- **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)* - `3 min ago`
+- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `5 min ago`
+- **[nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj)** by **Mietze Conte** *(nanana)* - `8 min ago`
+- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 09:05:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 09:55:18 UTC*
 <!-- SPOTIFY-END -->
