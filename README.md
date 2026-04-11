@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391ba07c01bada610ccfd63ed" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273870a5288e37abe4b4ea05013" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4">somewhere safe</a></strong><br/>
-  <em>by</em> <strong>Senses, mint, Nosgov</strong><br/>
-  <em>Album:</em> somewhere safe
+  <strong><a href="https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ">Embedded</a></strong><br/>
+  <em>by</em> <strong>60 juno</strong><br/>
+  <em>Album:</em> Embedded
 </p>
 
-<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:24</code></p>
+<p align="center"><code>0:55</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Boys Don't Cry](https://open.spotify.com/track/0C2eEsMBj78CLkHNJPjohc)** by **The Cure** *(Greatest Hits)* - `1 min ago`
-- **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)* - `4 min ago`
-- **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)* - `6 min ago`
-- **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)* - `8 min ago`
-- **[fw24](https://open.spotify.com/track/4ElTEqO5KuickZgw8aRw2H)** by **lil london** *(fw24)* - `10 min ago`
+- **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)* - `just now`
+- **[Omori](https://open.spotify.com/track/3ceYSXb7oDbqk5LBK7b92q)** by **Yatsu** *(Omori)* - `3 min ago`
+- **[Last of a Dying Breed](https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q)** by **Joji** *(Piss In The Wind)* - `4 min ago`
+- **[video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)** by **blombi19** *(video)* - `7 min ago`
+- **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 18:32:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 19:22:44 UTC*
 <!-- SPOTIFY-END -->
