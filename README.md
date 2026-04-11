@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273763effbf66f2511b6f850de6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736304ee61e0717cb42716b101" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz">Call Across Rooms</a></strong><br/>
-  <em>by</em> <strong>Grouper</strong><br/>
-  <em>Album:</em> Ruins
+  <strong><a href="https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH">stinkbug (Over and Over)</a></strong><br/>
+  <em>by</em> <strong>Jack Pfeffer, Mother Soki</strong><br/>
+  <em>Album:</em> stinkbug (Over and Over)
 </p>
 
-<p align="center"><code>2:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:59</code></p>
+<p align="center"><code>0:09</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rottweiler Welpe](https://open.spotify.com/track/16whV4IXCwGuspfB2ybu1P)** by **fliggsy** *(No Comment)* - `2 min ago`
-- **[1:1](https://open.spotify.com/track/03n0nZTSlZmggAECG7xhZ7)** by **Ecco2k, Thaiboy Digital, Yung Lean** *(Trash Island)* - `4 min ago`
-- **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)* - `7 min ago`
-- **[every single day](https://open.spotify.com/track/12GSmDYwG6HIUieDnPeLqv)** by **kets4eki, Pröz** *(party2daybreak)* - `13 min ago`
-- **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)* - `14 min ago`
+- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `just now`
+- **[Summer Of Love](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)** by **Torus, Malibu** *(Summer of Love)* - `3 min ago`
+- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)* - `10 min ago`
+- **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)* - `14 min ago`
+- **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 14:53:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 15:25:47 UTC*
 <!-- SPOTIFY-END -->
