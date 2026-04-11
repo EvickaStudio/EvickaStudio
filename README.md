@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371b8b869ec7d7aa10705c641" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27357e7f7b8a10a95bd7986e34c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5">teen romance</a></strong><br/>
-  <em>by</em> <strong>Lil Peep, Lederrick</strong><br/>
-  <em>Album:</em> teen romance
+  <strong><a href="https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s">RAUS</a></strong><br/>
+  <em>by</em> <strong>zwanzignullvier</strong><br/>
+  <em>Album:</em> RAUS
 </p>
 
-<p align="center"><code>2:31</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:50</code></p>
+<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `2 min ago`
-- **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))* - `5 min ago`
-- **[Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO)** by **Tevvez** *(Phantom)* - `6 min ago`
-- **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)* - `9 min ago`
-- **[white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)** by **Lil Peep, Lil Tracy** *(castles)* - `12 min ago`
+- **[Viva allein](https://open.spotify.com/track/4hr1q579WO4BTRHMAJzyCo)** by **EASY EASY** *(EASY EASY)* - `1 min ago`
+- **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)* - `4 min ago`
+- **[Untertauchen](https://open.spotify.com/track/6o4d8DBuEXgE34mPTvvyIA)** by **Fiasko Leitmotiv** *(Untertauchen)* - `5 min ago`
+- **[ich+will-für_immer_betäubt★彡sein+++](https://open.spotify.com/track/1wSQx1RKbYbhvtvye0wGVW)** by **DANZINGER 99** *(ich+will-für_immer_betäubt★彡sein+++)* - `9 min ago`
+- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 11:00:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 11:44:38 UTC*
 <!-- SPOTIFY-END -->
