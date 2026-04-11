@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c065b19327eeb67457ad9d03" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4">maul lofi ~ star wars</a></strong><br/>
+  <em>by</em> <strong>Closed on Sunday</strong><br/>
+  <em>Album:</em> maul lofi ~ star wars
+</p>
+
+<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[disappearing :](https://open.spotify.com/track/6Kbbb7lhboPtTEveSmGJUk)** by **cholorofilm, Keta** *(disappearing :)* - `28 min ago`
-- **[Nachtwache](https://open.spotify.com/track/0dp4pnDMKlnk5gxyQGJudP)** by **Punk Christ** *(Nachtwache)* - `12 h ago`
-- **[Folk Song](https://open.spotify.com/track/7G0xAgqHqylk684POTPgjb)** by **sparr00w** *(Save Room Theme)* - `12 h ago`
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `12 h ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `12 h ago`
+- **[alright!!](https://open.spotify.com/track/2ipwd9NWeRp6RxaTLFpLiy)** by **ilymeow, wenszy, lostsoundwtf** *(alright!!)* - `just now`
+- **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)* - `2 min ago`
+- **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)* - `5 min ago`
+- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `7 min ago`
+- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 08:23:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-11 09:05:16 UTC*
 <!-- SPOTIFY-END -->
