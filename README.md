@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730549784d17946caf93ae74fc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735022a5eeeb5b500c587b4e28" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a">amiss (+ winter)</a></strong><br/>
-  <em>by</em> <strong>Lilac</strong><br/>
-  <em>Album:</em> amiss (+ winter)
+  <strong><a href="https://open.spotify.com/track/4oMYxbNZ1TYwTkpphDVe2k">murderous</a></strong><br/>
+  <em>by</em> <strong>evrythnghurtz, adorken</strong><br/>
+  <em>Album:</em> murderous
 </p>
 
-<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:13</code></p>
+<p align="center"><code>0:28</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx)** by **Patrick Watson** *(Je te laisserai des mots)* - `1 min ago`
-- **[vampire girl](https://open.spotify.com/track/1XJ8grBNoPrDQKkvUtIXvt)** by **korpsebunny** *(vampire girl)* - `3 min ago`
-- **[MAKRODOSIS](https://open.spotify.com/track/5kL34ylUADm4lTPuLpLe2K)** by **Ski Aggu, Dj Schinkensuppe** *(2022 war film gewesen)* - `6 min ago`
-- **[Bad Boy](https://open.spotify.com/track/1AZ5owrY1uctulD2cwxGSa)** by **Nightcore Reality** *(Bad Boy)* - `9 min ago`
-- **[Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)** by **Kanye West, T-Pain** *(Graduation)* - `12 min ago`
+- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `just now`
+- **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by **Dilla, emi x** *(Willst du)* - `3 min ago`
+- **[Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)** by **OG Florin** *(ILY<3)* - `6 min ago`
+- **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)* - `10 min ago`
+- **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 17:17:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 17:57:28 UTC*
 <!-- SPOTIFY-END -->
