@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b5a7eec41d4806884c1587cc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738312a913486acc9dfef57f43" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6jOBkT5ah7ATmj4tOfhj2n">Monster in Paris✰✰+++</a></strong><br/>
-  <em>by</em> <strong>ilyproxy, leander, Hadesthegrim</strong><br/>
-  <em>Album:</em> Monster in Paris✰✰+++
+  <strong><a href="https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3">She's A Director</a></strong><br/>
+  <em>by</em> <strong>Mechatok, Isabella Lovestory</strong><br/>
+  <em>Album:</em> Wide Awake
 </p>
 
-<p align="center"><code>0:54</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:49</code></p>
+<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Abendrot](https://open.spotify.com/track/7CruQL6pEGMbeRDC6vRXOV)** by **The Cratez, Tarek K.I.Z** *(NONSTOP)* - `just now`
-- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `3 min ago`
-- **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)* - `5 min ago`
-- **[no margin 4 error](https://open.spotify.com/track/3u9S1IYsDNk0BN11HJUTPL)** by **archive computer** *(no margin 4 error)* - `8 min ago`
-- **[leaveme2fukitup *2020* *RARE*](https://open.spotify.com/track/3pNXcHdfBeGXivsO3KANxE)** by **ccareful, Capoxxo** *(leaveme2fukitup *2020* *RARE*)* - `10 min ago`
+- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `1 min ago`
+- **[Summer Of Love](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)** by **Torus, Malibu** *(Summer of Love)* - `4 min ago`
+- **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)* - `7 min ago`
+- **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)* - `13 min ago`
+- **[Mr Vain (feat. Tamika)](https://open.spotify.com/track/2UthFHQ34gEPNQ0qa6ihTa)** by **S3RL, Tamika** *(Mr Vain (feat. Tamika))* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 19:33:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 20:02:56 UTC*
 <!-- SPOTIFY-END -->
