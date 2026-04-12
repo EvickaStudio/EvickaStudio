@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dd7d0ba7e82b968a5e754804" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3szLIKmWPf7Yn6u5j7njie">BLEED WHEN I SAY SO</a></strong><br/>
-  <em>by</em> <strong>Death Souljah</strong><br/>
-  <em>Album:</em> Boy Toy: Porno Punk
-</p>
-
-<p align="center"><code>0:24</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:16</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Damien](https://open.spotify.com/track/2QFpfCxoGwubuQmCtCi7Iv)** by **Ghost Mountain, Sematary** *(October Country)* - `3 min ago`
-- **[Deer God](https://open.spotify.com/track/61f2eCFuCFYNIjdCJNSnEa)** by **Sematary, Ghost Mountain** *(Hundred Acre Wrist)* - `7 min ago`
-- **[Raindrops](https://open.spotify.com/track/35y8Vc3Lyrv8v03gckuj6Q)** by **Nokia Angel** *(In Haze)* - `11 min ago`
-- **[Gunsmith](https://open.spotify.com/track/4L2u0BttBiMVC6fMyhEvz6)** by **Hackle** *(GUNSMITH THA MIXTAPE)* - `14 min ago`
-- **[I'm Dead](https://open.spotify.com/track/2cUzLssId3bhAB6cnPm8I2)** by **fakemink** *(I'm Dead)* - `16 min ago`
+- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `14 min ago`
+- **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)* - `14 min ago`
+- **[M-TRAIN](https://open.spotify.com/track/5Psv24txgIm0VTzOHpYyE3)** by **Buckshot** *(M-TRAIN)* - `38 min ago`
+- **[BLEED WHEN I SAY SO](https://open.spotify.com/track/3szLIKmWPf7Yn6u5j7njie)** by **Death Souljah** *(Boy Toy: Porno Punk)* - `41 min ago`
+- **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)* - `43 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 11:03:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 11:46:56 UTC*
 <!-- SPOTIFY-END -->
