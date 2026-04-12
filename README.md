@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734bfd3b203425485e6954a305" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27367429daf4ee66966646d4574" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ">you'll come back</a></strong><br/>
-  <em>by</em> <strong>jigitz</strong><br/>
-  <em>Album:</em> don't come back
+  <strong><a href="https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1">Scheide</a></strong><br/>
+  <em>by</em> <strong>Soap Boyz</strong><br/>
+  <em>Album:</em> Scheide
 </p>
 
-<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:04</code></p>
+<p align="center"><code>0:37</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Wieder zurück (feat. Edwin Rosen)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9)** by **Jassin, Edwin Rosen** *(Arsenalplatz)* - `1 min ago`
-- **[All The Things She Said 2020 - Sub Sonik Remix](https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj)** by **DJ Gollum, Scarlet, Sub Sonik** *(All the Things She Said 2020 (Sub Sonik Remix))* - `5 min ago`
-- **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)* - `8 min ago`
-- **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)* - `12 min ago`
-- **[Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV)** by **Dilla** *(Führerschein)* - `15 min ago`
+- **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)* - `just now`
+- **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)* - `2 min ago`
+- **[pain in my brain](https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al)** by **makko** *(Pass dich nie an, Pass auf dich auf)* - `6 min ago`
+- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `9 min ago`
+- **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by **strangerperson** *(Kisses und Flowers)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 14:35:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 15:21:04 UTC*
 <!-- SPOTIFY-END -->
