@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736304ee61e0717cb42716b101" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730549784d17946caf93ae74fc" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH">stinkbug (Over and Over)</a></strong><br/>
-  <em>by</em> <strong>Jack Pfeffer, Mother Soki</strong><br/>
-  <em>Album:</em> stinkbug (Over and Over)
+  <strong><a href="https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a">amiss (+ winter)</a></strong><br/>
+  <em>by</em> <strong>Lilac</strong><br/>
+  <em>Album:</em> amiss (+ winter)
 </p>
 
-<p align="center"><code>3:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:55</code></p>
+<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `3 min ago`
-- **[We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ)** by **Starship** *(Knee Deep In The Hoopla)* - `6 min ago`
-- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)* - `11 min ago`
-- **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)* - `15 min ago`
-- **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)* - `17 min ago`
+- **[Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx)** by **Patrick Watson** *(Je te laisserai des mots)* - `1 min ago`
+- **[vampire girl](https://open.spotify.com/track/1XJ8grBNoPrDQKkvUtIXvt)** by **korpsebunny** *(vampire girl)* - `3 min ago`
+- **[MAKRODOSIS](https://open.spotify.com/track/5kL34ylUADm4lTPuLpLe2K)** by **Ski Aggu, Dj Schinkensuppe** *(2022 war film gewesen)* - `6 min ago`
+- **[Bad Boy](https://open.spotify.com/track/1AZ5owrY1uctulD2cwxGSa)** by **Nightcore Reality** *(Bad Boy)* - `9 min ago`
+- **[Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L)** by **Kanye West, T-Pain** *(Graduation)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 16:35:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 17:17:49 UTC*
 <!-- SPOTIFY-END -->
