@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27367429daf4ee66966646d4574" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27319563ecc58f00c90957132b5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1">Scheide</a></strong><br/>
-  <em>by</em> <strong>Soap Boyz</strong><br/>
-  <em>Album:</em> Scheide
+  <strong><a href="https://open.spotify.com/track/2dOah7YpxtEyjQRgwhRvqf">1:1</a></strong><br/>
+  <em>by</em> <strong>Ecco2k, Thaiboy Digital, Yung Lean</strong><br/>
+  <em>Album:</em> Trash Island
 </p>
 
-<p align="center"><code>0:37</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:30</code></p>
+<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)* - `just now`
-- **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)* - `2 min ago`
-- **[pain in my brain](https://open.spotify.com/track/1RScxiGXH9aPSZvGLbZ3al)** by **makko** *(Pass dich nie an, Pass auf dich auf)* - `6 min ago`
-- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `9 min ago`
-- **[Kisses and Flowers](https://open.spotify.com/track/6E5ANMoky19Lo7bOBbmQMB)** by **strangerperson** *(Kisses und Flowers)* - `11 min ago`
+- **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)* - `2 min ago`
+- **[every single day](https://open.spotify.com/track/12GSmDYwG6HIUieDnPeLqv)** by **kets4eki, Pröz** *(party2daybreak)* - `8 min ago`
+- **[Pretty Scene Girl!](https://open.spotify.com/track/4cpEwUqg9QIjSJ2m5giV20)** by **Clover!** *(Pretty Scene Girl!)* - `9 min ago`
+- **[When Will It End](https://open.spotify.com/track/5F8RUGunSSBdu8Tn5qc63M)** by **Birth Day** *(Boyhood)* - `11 min ago`
+- **[Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D)** by **Kaito Shoma, DJ Paul, Kingpin Skinny Pimp** *(Scary Garry)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 15:21:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 15:57:00 UTC*
 <!-- SPOTIFY-END -->
