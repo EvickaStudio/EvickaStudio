@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273da3e9df9c8abf976ef0025fc" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1wSQx1RKbYbhvtvye0wGVW">ich+will-für_immer_betäubt★彡sein+++</a></strong><br/>
+  <em>by</em> <strong>DANZINGER 99</strong><br/>
+  <em>Album:</em> ich+will-für_immer_betäubt★彡sein+++
+</p>
+
+<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `14 min ago`
-- **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)* - `14 min ago`
-- **[M-TRAIN](https://open.spotify.com/track/5Psv24txgIm0VTzOHpYyE3)** by **Buckshot** *(M-TRAIN)* - `38 min ago`
-- **[BLEED WHEN I SAY SO](https://open.spotify.com/track/3szLIKmWPf7Yn6u5j7njie)** by **Death Souljah** *(Boy Toy: Porno Punk)* - `41 min ago`
-- **[Calcium](https://open.spotify.com/track/4Ba0UyK60lCFlaKadHvVii)** by **Ecco2k** *(E)* - `43 min ago`
+- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `1 min ago`
+- **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)* - `4 min ago`
+- **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)* - `6 min ago`
+- **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)* - `10 min ago`
+- **[Cigarettes and Wine](https://open.spotify.com/track/0scE5rA7sC7Tx8M0AmSkVn)** by **absent, Saint Purple** *(Cigarettes and Wine)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 11:46:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 12:42:12 UTC*
 <!-- SPOTIFY-END -->
