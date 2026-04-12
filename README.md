@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738312a913486acc9dfef57f43" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273674753c026f188eea01dca97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3">She's A Director</a></strong><br/>
-  <em>by</em> <strong>Mechatok, Isabella Lovestory</strong><br/>
-  <em>Album:</em> Wide Awake
+  <strong><a href="https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K">Under Heaven</a></strong><br/>
+  <em>by</em> <strong>jonatan leandoer96</strong><br/>
+  <em>Album:</em> Under Heaven
 </p>
 
-<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:59</code></p>
+<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `1 min ago`
-- **[Summer Of Love](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)** by **Torus, Malibu** *(Summer of Love)* - `4 min ago`
-- **[Roll The Dice](https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk)** by **Nokia Angel** *(Roll The Dice)* - `7 min ago`
-- **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)* - `13 min ago`
-- **[Mr Vain (feat. Tamika)](https://open.spotify.com/track/2UthFHQ34gEPNQ0qa6ihTa)** by **S3RL, Tamika** *(Mr Vain (feat. Tamika))* - `16 min ago`
+- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `2 min ago`
+- **[relation with you, Parfait](https://open.spotify.com/track/7uaJCxRNlC0XWBVcEGEydu)** by **Junshi, oldoceans** *(relation with you, Parfait)* - `5 min ago`
+- **[leave me alone](https://open.spotify.com/track/4aVhD5GZCW5EDpOTEKBIcQ)** by **sssss, graphite** *(leave me alone)* - `7 min ago`
+- **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)* - `9 min ago`
+- **[Leanworld](https://open.spotify.com/track/3fe5yV40tZCxb9tMJJlCeW)** by **Yung Lean** *(Unknown Memory)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 20:02:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 20:51:00 UTC*
 <!-- SPOTIFY-END -->
