@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273da3e9df9c8abf976ef0025fc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1wSQx1RKbYbhvtvye0wGVW">ich+will-für_immer_betäubt★彡sein+++</a></strong><br/>
-  <em>by</em> <strong>DANZINGER 99</strong><br/>
-  <em>Album:</em> ich+will-für_immer_betäubt★彡sein+++
+  <strong><a href="https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh">Knockin' On Heaven's Door</a></strong><br/>
+  <em>by</em> <strong>Bob Dylan</strong><br/>
+  <em>Album:</em> Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)
 </p>
 
-<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:19</code></p>
+<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `1 min ago`
-- **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)* - `4 min ago`
-- **[Pandora](https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu)** by **Wisp** *(Pandora)* - `6 min ago`
-- **[Letzten Winter](https://open.spotify.com/track/1Z7k5Jig7bEPQqRcXsDYDX)** by **kevin** *(Letzten Winter)* - `10 min ago`
-- **[Cigarettes and Wine](https://open.spotify.com/track/0scE5rA7sC7Tx8M0AmSkVn)** by **absent, Saint Purple** *(Cigarettes and Wine)* - `14 min ago`
+- **[Fetish](https://open.spotify.com/track/0sOSSBzcUMD7cbdFzDYnYa)** by **ear** *(Fetish / Valley Serpent)* - `1 min ago`
+- **[Dieser kleine Junge](https://open.spotify.com/track/7l8Zm1r5XSM7rSGuzZIQSk)** by **Brown-Eyes White Boy** *(Dieser kleine Junge)* - `4 min ago`
+- **[Xenozis](https://open.spotify.com/track/59yfwAIsmdmNZBPXg966xu)** by **Tevvez** *(Xenozis)* - `6 min ago`
+- **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)* - `7 min ago`
+- **[Change Ur Mind](https://open.spotify.com/track/7E5zfZZohUlQWadUUwjS0U)** by **Luvsick2k, Mezha, LeXanax** *(Change Ur Mind)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 12:42:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 13:46:47 UTC*
 <!-- SPOTIFY-END -->
