@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU">"1119"</a></strong><br/>
-  <em>by</em> <strong>Edwin Rosen</strong><br/>
-  <em>Album:</em> mitleerenhänden
-</p>
-
-<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:50</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[white wine](https://open.spotify.com/track/55aOpqGaMRWhwm6cDPUtsV)** by **Lil Peep, Lil Tracy** *(castles)* - `2 min ago`
-- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `5 min ago`
-- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `7 min ago`
-- **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo Nomad** *(2AM Forever)* - `10 min ago`
-- **[oxytocin](https://open.spotify.com/track/0aCP2CYv14RhplU5sCfzMd)** by **Mobezzy** *(INTEREA)* - `13 min ago`
+- **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)* - `33 min ago`
+- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `35 min ago`
+- **[was ist passiert? (OMG)](https://open.spotify.com/track/0yYlg7slyVakdofc16PjVL)** by **sixtǝǝn⭐︎** *(was ist passiert? (OMG))* - `38 min ago`
+- **[Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO)** by **Tevvez** *(Phantom)* - `40 min ago`
+- **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)* - `44 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 09:38:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 10:22:52 UTC*
 <!-- SPOTIFY-END -->
