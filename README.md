@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735022a5eeeb5b500c587b4e28" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27327bc31fd58461ed9bdc07a19" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4oMYxbNZ1TYwTkpphDVe2k">murderous</a></strong><br/>
-  <em>by</em> <strong>evrythnghurtz, adorken</strong><br/>
-  <em>Album:</em> murderous
+  <strong><a href="https://open.spotify.com/track/6UYFYmePkDEUO13XDp2tUD">Choices</a></strong><br/>
+  <em>by</em> <strong>flywoah</strong><br/>
+  <em>Album:</em> Choices
 </p>
 
-<p align="center"><code>0:28</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:23</code></p>
+<p align="center"><code>1:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:52</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `just now`
-- **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by **Dilla, emi x** *(Willst du)* - `3 min ago`
-- **[Elei](https://open.spotify.com/track/3S9op53x0z4wmboFtyafqW)** by **OG Florin** *(ILY<3)* - `6 min ago`
-- **[Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM)** by **Black** *(Wonderful Life)* - `10 min ago`
-- **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)* - `15 min ago`
+- **[Seelen](https://open.spotify.com/track/5dLEKvnZoRfIyalagYnZc6)** by **strangerperson** *(Seelen)* - `1 min ago`
+- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `4 min ago`
+- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `6 min ago`
+- **[gaukler](https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm)** by **blombi19** *(gaukler)* - `8 min ago`
+- **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 17:57:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 18:46:51 UTC*
 <!-- SPOTIFY-END -->
