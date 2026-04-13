@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Angels With God](https://open.spotify.com/track/2mBfFV0OlvdCBn3hrAEoLe)** by **$pirit Gurlz** *(12:12)* - `2 h ago`
-- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)* - `2 h ago`
-- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `3 h ago`
-- **[relation with you, Parfait](https://open.spotify.com/track/7uaJCxRNlC0XWBVcEGEydu)** by **Junshi, oldoceans** *(relation with you, Parfait)* - `3 h ago`
-- **[leave me alone](https://open.spotify.com/track/4aVhD5GZCW5EDpOTEKBIcQ)** by **sssss, graphite** *(leave me alone)* - `3 h ago`
+- **[Angels With God](https://open.spotify.com/track/2mBfFV0OlvdCBn3hrAEoLe)** by **$pirit Gurlz** *(12:12)* - `5 h ago`
+- **[Under Heaven](https://open.spotify.com/track/2sm72B1Svh4B83f55D2g0K)** by **jonatan leandoer96** *(Under Heaven)* - `5 h ago`
+- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `5 h ago`
+- **[relation with you, Parfait](https://open.spotify.com/track/7uaJCxRNlC0XWBVcEGEydu)** by **Junshi, oldoceans** *(relation with you, Parfait)* - `5 h ago`
+- **[leave me alone](https://open.spotify.com/track/4aVhD5GZCW5EDpOTEKBIcQ)** by **sssss, graphite** *(leave me alone)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-12 23:50:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 01:56:00 UTC*
 <!-- SPOTIFY-END -->
