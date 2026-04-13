@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273054019e686cacb0b80fd789c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734f39ae4ce7ea61b282451922" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/67VO098IAmZEqRxGVOqMDz">Feeling Loved As I Feel Understood</a></strong><br/>
-  <em>by</em> <strong>Blessed and blushing</strong><br/>
-  <em>Album:</em> A Short Movie Where Tenderness Wins
+  <strong><a href="https://open.spotify.com/track/0otUbJWppRiuiqnzRcvdf0">Love Potion</a></strong><br/>
+  <em>by</em> <strong>Thaiboy Digital</strong><br/>
+  <em>Album:</em> Back 2 Life
 </p>
 
-<p align="center"><code>2:43</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:03</code></p>
+<p align="center"><code>1:30</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[big proverb](https://open.spotify.com/track/5pG72iLzzyfwaa15Mo096H)** by **Helen Sun** *(big proverb)* - `2 min ago`
-- **[White Flag](https://open.spotify.com/track/4RU4JhPBwLppIDb3p3IBjV)** by **Sacred holes** *(Genuine Uppers Life)* - `4 min ago`
-- **[Only - deer park Remix](https://open.spotify.com/track/3elkoL2WSMLx5TLOElurle)** by **Mori Mori, Deer park** *(BBV (Deluxe))* - `6 min ago`
-- **[The Science of Giving In (Part II)](https://open.spotify.com/track/6jrKKImiJd1Qa9Ph7qMHds)** by **User2222** *(Blame Games)* - `9 min ago`
-- **[Westfield](https://open.spotify.com/track/4fI9NDKGs0LXj3GRdH1sCX)** by **Bladee** *(Red Light)* - `12 min ago`
+- **[March Meant](https://open.spotify.com/track/7bTqycKgdL8NJSNwH9Y5HM)** by **User2222, Juniper Fields** *(March Meant)* - `1 min ago`
+- **[Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)** by **Thrilliam Angels, Ecco2k** *(The Static Screams Your Name)* - `4 min ago`
+- **[Xoxo](https://open.spotify.com/track/6JBZR9LcjIm5N7pnjAxMJZ)** by **Rooster** *(Rooster Slipped)* - `6 min ago`
+- **[Ebay](https://open.spotify.com/track/6jRCP46FGnbXAcJcOt51rZ)** by **Bladee, Thaiboy Digital, Ecco2k** *(Gluee)* - `9 min ago`
+- **[You Know I Don't Get Down Like That (with swedishwhorehouse)](https://open.spotify.com/track/7zbHYkf4ytyrPv77gcpQhK)** by **Sacred holes** *(Wirehair)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 17:35:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 18:47:56 UTC*
 <!-- SPOTIFY-END -->
