@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c2fcf2b7ac0d5db032511d3e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF">MIN</a></strong><br/>
-  <em>by</em> <strong>dreamloader</strong><br/>
-  <em>Album:</em> MIN
-</p>
-
-<p align="center"><code>2:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:19</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Climbing](https://open.spotify.com/track/6cxXYYFH52VPip8VW9FU39)** by **Thaiboy Digital** *(D&G)* - `2 min ago`
-- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `5 min ago`
-- **[Spoiled](https://open.spotify.com/track/4HaAryBKiI8cN03saZUZSH)** by **Europa, Mori Mori** *(LAgoon)* - `7 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `10 min ago`
-- **[Eyelash](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)** by **Bladee** *(Love Is A State)* - `14 min ago`
+- **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)* - `26 min ago`
+- **[Hey Charlie!](https://open.spotify.com/track/4VNEHDUOaSKvA1cuyI7M0A)** by **Europa, Charlie Osborne, Triskelia** *(LAgoon)* - `28 min ago`
+- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `31 min ago`
+- **[Labrat](https://open.spotify.com/track/3m7D3Mqi37JfPZ5TKPCWZt)** by **Solvent OS** *(Clickbait Manifesto)* - `33 min ago`
+- **[Hashed Out (That Feeling)](https://open.spotify.com/track/67U27lcmTjtKlyTfogAcsZ)** by **Mori Mori** *(BB Void)* - `37 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 13:42:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 15:03:56 UTC*
 <!-- SPOTIFY-END -->
