@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)** by **DJ Worm, Eurohead** *(Klubb Musik vol.1)* - `1 h ago`
+- **[4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)** by **DJ Worm, Eurohead** *(Klubb Musik vol.1)* - `2 h ago`
 - **[The Fool Intro](https://open.spotify.com/track/2PVicuneaLadJe9ODNBJOn)** by **Bladee** *(The Fool)* - `2 h ago`
-- **[One Of Us Is Lying](https://open.spotify.com/track/4divPEANeDkW7sEMs3ZIQd)** by **Lucy Bedroque** *(Unmusique)* - `2 h ago`
-- **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)* - `2 h ago`
-- **[Flowa Girl](https://open.spotify.com/track/0G6ejwp4ayZeX5nEYmxVcg)** by **Ms* Gloom** *(J is for Joon)* - `2 h ago`
+- **[One Of Us Is Lying](https://open.spotify.com/track/4divPEANeDkW7sEMs3ZIQd)** by **Lucy Bedroque** *(Unmusique)* - `3 h ago`
+- **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)* - `3 h ago`
+- **[Flowa Girl](https://open.spotify.com/track/0G6ejwp4ayZeX5nEYmxVcg)** by **Ms* Gloom** *(J is for Joon)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 23:01:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 23:57:25 UTC*
 <!-- SPOTIFY-END -->
