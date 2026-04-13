@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6wv2Mx3e92cHc11n89G7Mn">Xd Out</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Eversince
+</p>
+
+<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)* - `26 min ago`
-- **[Hey Charlie!](https://open.spotify.com/track/4VNEHDUOaSKvA1cuyI7M0A)** by **Europa, Charlie Osborne, Triskelia** *(LAgoon)* - `28 min ago`
-- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `31 min ago`
-- **[Labrat](https://open.spotify.com/track/3m7D3Mqi37JfPZ5TKPCWZt)** by **Solvent OS** *(Clickbait Manifesto)* - `33 min ago`
-- **[Hashed Out (That Feeling)](https://open.spotify.com/track/67U27lcmTjtKlyTfogAcsZ)** by **Mori Mori** *(BB Void)* - `37 min ago`
+- **[Visitor](https://open.spotify.com/track/6L7GIaXUtCVRcL4o9Yx5MN)** by **Europa, Jasmine Johnson** *(LAgoon)* - `2 min ago`
+- **[The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU)** by **ear** *(The Most Dear and The Future)* - `5 min ago`
+- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `7 min ago`
+- **[Baby](https://open.spotify.com/track/2zffbc2pTwEiv9JwCIJRiW)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `10 min ago`
+- **[Life Glows On](https://open.spotify.com/track/5GfvzrqerqQnMZ8dkM00yF)** by **Thrilliam Angels** *(The Static Screams Your Name)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 15:03:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 16:21:54 UTC*
 <!-- SPOTIFY-END -->
