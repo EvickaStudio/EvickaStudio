@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736bddd17da9e2dd96f878fafb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f474c6844dec874d6c1d1700" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN">Encyclopedia</a></strong><br/>
-  <em>by</em> <strong>Operelly</strong><br/>
-  <em>Album:</em> Encyclopedia
+  <strong><a href="https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb">4. 5-MMC : Förbannad i en evighet</a></strong><br/>
+  <em>by</em> <strong>DJ Worm, Eurohead</strong><br/>
+  <em>Album:</em> Klubb Musik vol.1
 </p>
 
-<p align="center"><code>0:38</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:18</code></p>
+<p align="center"><code>1:16</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Little baby sweet](https://open.spotify.com/track/5Am7aa9sj5Khovf2M1Uiwe)** by **heartcoregirl** *(Little baby sweet)* - `just now`
-- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `3 min ago`
-- **[ip.sec](https://open.spotify.com/track/1eK89WoL8ryDWsKPWCTsv1)** by **enable secret, dreamloader** *(ip.sec)* - `6 min ago`
-- **[Five Star Reviews](https://open.spotify.com/track/5VMO2nLDEbz1v2HpYHIWle)** by **Rooster** *(Rooster Slipped)* - `9 min ago`
-- **[HANNAH](https://open.spotify.com/track/4Fi63YDySVyR4txDSrR4SE)** by **dreamloader** *(HANNAH)* - `11 min ago`
+- **[The Fool Intro](https://open.spotify.com/track/2PVicuneaLadJe9ODNBJOn)** by **Bladee** *(The Fool)* - `1 min ago`
+- **[One Of Us Is Lying](https://open.spotify.com/track/4divPEANeDkW7sEMs3ZIQd)** by **Lucy Bedroque** *(Unmusique)* - `3 min ago`
+- **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)* - `6 min ago`
+- **[Flowa Girl](https://open.spotify.com/track/0G6ejwp4ayZeX5nEYmxVcg)** by **Ms* Gloom** *(J is for Joon)* - `9 min ago`
+- **[Back 2 Life](https://open.spotify.com/track/4C8dfWkBMl7CQTH4bzo7wy)** by **Thaiboy Digital** *(Back 2 Life)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 20:00:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 21:00:39 UTC*
 <!-- SPOTIFY-END -->
