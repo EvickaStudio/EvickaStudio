@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273504c829d86b6572adbc18adf" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736fc6f8ee83bbf49c3053b311" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU">Nostalgia</a></strong><br/>
-  <em>by</em> <strong>plenka</strong><br/>
-  <em>Album:</em> Pt. One
+  <strong><a href="https://open.spotify.com/track/253LDOJTMO88WUqWac9KVa">DieWithMe</a></strong><br/>
+  <em>by</em> <strong>SALEM</strong><br/>
+  <em>Album:</em> Fires In Heaven
 </p>
 
-<p align="center"><code>0:04</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:31</code></p>
+<p align="center"><code>2:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MR. SWAG (feat. makko)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9)** by **Maikel, makko** *(MR. SWAG (feat. makko))* - `just now`
-- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by **Novulent** *(unknown feelings)* - `2 min ago`
-- **[Push Up - Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo)** by **Creeds** *(Push Up (Original Mix))* - `4 min ago`
-- **[Einmal um die Welt](https://open.spotify.com/track/6gQAyT7B7cYGTRBOiFdQUS)** by **CRO** *(Raop)* - `9 min ago`
-- **[Suffocation](https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ)** by **Crystal Castles** *(Crystal Castles (II))* - `11 min ago`
+- **[Back On](https://open.spotify.com/track/1NBmnV9sxz55MowH3Z8iWi)** by **olus, mint** *(Back On)* - `2 min ago`
+- **[John Dee](https://open.spotify.com/track/7BLFY8GsDyUkaARTv0uwKH)** by **Ghostemane** *(John Dee)* - `4 min ago`
+- **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)* - `7 min ago`
+- **[Sommer vorbei](https://open.spotify.com/track/6rbvlbe5DX3ivJMBHwcAXp)** by **TEMMIS** *(Wenn du da bist)* - `11 min ago`
+- **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 10:54:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 11:58:40 UTC*
 <!-- SPOTIFY-END -->
