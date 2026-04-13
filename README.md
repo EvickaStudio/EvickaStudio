@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273054019e686cacb0b80fd789c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6wv2Mx3e92cHc11n89G7Mn">Xd Out</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Eversince
+  <strong><a href="https://open.spotify.com/track/67VO098IAmZEqRxGVOqMDz">Feeling Loved As I Feel Understood</a></strong><br/>
+  <em>by</em> <strong>Blessed and blushing</strong><br/>
+  <em>Album:</em> A Short Movie Where Tenderness Wins
 </p>
 
-<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:36</code></p>
+<p align="center"><code>2:43</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Visitor](https://open.spotify.com/track/6L7GIaXUtCVRcL4o9Yx5MN)** by **Europa, Jasmine Johnson** *(LAgoon)* - `2 min ago`
-- **[The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU)** by **ear** *(The Most Dear and The Future)* - `5 min ago`
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `7 min ago`
-- **[Baby](https://open.spotify.com/track/2zffbc2pTwEiv9JwCIJRiW)** by **Thaiboy Digital, Ecco2k** *(Legendary Member)* - `10 min ago`
-- **[Life Glows On](https://open.spotify.com/track/5GfvzrqerqQnMZ8dkM00yF)** by **Thrilliam Angels** *(The Static Screams Your Name)* - `13 min ago`
+- **[big proverb](https://open.spotify.com/track/5pG72iLzzyfwaa15Mo096H)** by **Helen Sun** *(big proverb)* - `2 min ago`
+- **[White Flag](https://open.spotify.com/track/4RU4JhPBwLppIDb3p3IBjV)** by **Sacred holes** *(Genuine Uppers Life)* - `4 min ago`
+- **[Only - deer park Remix](https://open.spotify.com/track/3elkoL2WSMLx5TLOElurle)** by **Mori Mori, Deer park** *(BBV (Deluxe))* - `6 min ago`
+- **[The Science of Giving In (Part II)](https://open.spotify.com/track/6jrKKImiJd1Qa9Ph7qMHds)** by **User2222** *(Blame Games)* - `9 min ago`
+- **[Westfield](https://open.spotify.com/track/4fI9NDKGs0LXj3GRdH1sCX)** by **Bladee** *(Red Light)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 16:21:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-13 17:35:47 UTC*
 <!-- SPOTIFY-END -->
