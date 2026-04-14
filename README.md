@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c8ab8ed800ffea421bfafad" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5s9xETUJAYpWLGGQL44mLg">Tanzverbot</a></strong><br/>
+  <em>by</em> <strong>Gewürztraminer</strong><br/>
+  <em>Album:</em> Tanzverbot
+</p>
+
+<p align="center"><code>0:57</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Der junge Atlantik lebt](https://open.spotify.com/track/2zPRw1LTM22owRfNl1lEXD)** by **Yvon** *(Im Kreis der Liebe)* - `28 min ago`
-- **[Meine Kneipe](https://open.spotify.com/track/5NBCRuSpMGY5ckTP6TfWDQ)** by **Von Wegen Lisbeth** *(Grande)* - `32 min ago`
-- **[Heut bring ich mich um](https://open.spotify.com/track/72twE2R0EtVDgkoIYDlk1y)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `35 min ago`
-- **[Zuckerwatte](https://open.spotify.com/track/3xNy465FPVZIlvwHf0sMol)** by **Tristan Brusch** *(Das Paradies)* - `39 min ago`
-- **[Ich bin zu müde, um Schlafen zu geh'n](https://open.spotify.com/track/6chJeDPBhdixooFqIYPftL)** by **Hildegard Knef** *(Ich sehe die Welt durch deine Augen (Remastered))* - `42 min ago`
+- **[Küssen kann man nicht alleine](https://open.spotify.com/track/3dHzw1D0j2r8NtBAUm5JWK)** by **Max Raabe** *(Küssen kann man nicht alleine)* - `just now`
+- **[Hi Freaks](https://open.spotify.com/track/2CC3G5KAVvXUvhS1qvEWkU)** by **Tocotronic** *(Tocotronic (Deluxe Edition))* - `3 min ago`
+- **[Guten Tag, liebes Glück](https://open.spotify.com/track/5scHfs6nM7brzXpe2biwqP)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `10 min ago`
+- **[Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU)** by **Wir sind Helden** *(Von hier an blind)* - `12 min ago`
+- **[Fahrrad fahr´n](https://open.spotify.com/track/4QYPN8GPhpXQ35nrcSPnmw)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 10:56:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 11:54:39 UTC*
 <!-- SPOTIFY-END -->
