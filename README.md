@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738e92463b7e8ff192d8b3a17f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3rT0K1YTsCzs37ElcyqEdL">Scheitern</a></strong><br/>
-  <em>by</em> <strong>Uta Köbernick</strong><br/>
-  <em>Album:</em> Auch nicht schlimmer
-</p>
-
-<p align="center"><code>0:49</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:33</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Der Abschaum](https://open.spotify.com/track/6kXPRwHk5Ow2Snh94oIhDm)** by **Tristan Brusch** *(Am Rest)* - `just now`
-- **[Papierfliegerfrau](https://open.spotify.com/track/1hDuBqzCutOT0HjrT3kF8J)** by **Nun flog Dr. Bert Rabe** *(Geschichten über das Übliche)* - `3 min ago`
-- **[Am Steinhuder Meer](https://open.spotify.com/track/7D2CrLE4nu2xyIliSNM9RN)** by **Ulrich Tukur Und Die Rhythmus Boys** *(Meine Sehnsucht Ist Die Strandbar)* - `6 min ago`
-- **[Fahrrad fahr´n](https://open.spotify.com/track/4QYPN8GPhpXQ35nrcSPnmw)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `10 min ago`
-- **[Der junge Atlantik lebt](https://open.spotify.com/track/2zPRw1LTM22owRfNl1lEXD)** by **Yvon** *(Im Kreis der Liebe)* - `14 min ago`
+- **[Der junge Atlantik lebt](https://open.spotify.com/track/2zPRw1LTM22owRfNl1lEXD)** by **Yvon** *(Im Kreis der Liebe)* - `28 min ago`
+- **[Meine Kneipe](https://open.spotify.com/track/5NBCRuSpMGY5ckTP6TfWDQ)** by **Von Wegen Lisbeth** *(Grande)* - `32 min ago`
+- **[Heut bring ich mich um](https://open.spotify.com/track/72twE2R0EtVDgkoIYDlk1y)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `35 min ago`
+- **[Zuckerwatte](https://open.spotify.com/track/3xNy465FPVZIlvwHf0sMol)** by **Tristan Brusch** *(Das Paradies)* - `39 min ago`
+- **[Ich bin zu müde, um Schlafen zu geh'n](https://open.spotify.com/track/6chJeDPBhdixooFqIYPftL)** by **Hildegard Knef** *(Ich sehe die Welt durch deine Augen (Remastered))* - `42 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 09:53:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 10:56:20 UTC*
 <!-- SPOTIFY-END -->
