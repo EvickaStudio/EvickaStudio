@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27384c0d90ba49a81abc7afa996" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273bc5ca2c0813d0b8cca29741c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0">taschen schwer</a></strong><br/>
-  <em>by</em> <strong>5v, James Jetski</strong><br/>
-  <em>Album:</em> taschen schwer
+  <strong><a href="https://open.spotify.com/track/0F5NBPoZODoq0J0swH9wIM">going quietly</a></strong><br/>
+  <em>by</em> <strong>Ezekiel</strong><br/>
+  <em>Album:</em> going quietly (sped up)
 </p>
 
-<p align="center"><code>0:26</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>1:59</code></p>
+<p align="center"><code>2:22</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `3 min ago`
-- **[ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)** by **oaf1** *(ilove urr girl)* - `5 min ago`
-- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `6 min ago`
-- **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)* - `9 min ago`
-- **[Deceitful Eyes](https://open.spotify.com/track/3EspPNbxpFNYbPwlyAs8rJ)** by **Snow Strippers** *(April Mixtape 3)* - `11 min ago`
+- **[Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA)** by **Stegosaurus Rex** *(The Dino Soars)* - `1 min ago`
+- **[Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD)** by **Snow Strippers** *(Just Your Doll)* - `6 min ago`
+- **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)* - `8 min ago`
+- **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)* - `11 min ago`
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 21:34:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 22:28:29 UTC*
 <!-- SPOTIFY-END -->
