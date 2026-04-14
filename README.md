@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b268504520bffb7d7bc56a2a" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1xhxXNRDW0FjkCxPQPxVa3">Arbeit und Struktur</a></strong><br/>
+  <em>by</em> <strong>Hotel Rimini</strong><br/>
+  <em>Album:</em> Arbeit und Struktur
+</p>
+
+<p align="center"><code>0:14</code> ▓░░░░░░░░░░░░░░░░░░░ <code>4:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In dieser Stadt](https://open.spotify.com/track/3dK0u7MVFtHSfYLFSWLSpE)** by **Hildegard Knef** *(Ich sehe die Welt durch deine Augen (Remastered))* - `6 min ago`
-- **[Hapag & Lloyd](https://open.spotify.com/track/2G0hkPXrmKxWxL5PAfVYys)** by **Hotel Rimini** *(Hapag & Lloyd)* - `9 min ago`
-- **[Urlaub in Italien](https://open.spotify.com/track/6DVHaplIW44aHvIW0obrrS)** by **Erobique** *(Urlaub in Italien)* - `12 min ago`
-- **[Berlin, dein Gesicht hat Sommersprossen](https://open.spotify.com/track/4lG6CoZobfed9YZ6BfD4O5)** by **Hildegard Knef** *(Ich sehe die Welt durch deine Augen (Remastered))* - `19 min ago`
-- **[Fahrrad fahr´n](https://open.spotify.com/track/4QYPN8GPhpXQ35nrcSPnmw)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `21 min ago`
+- **[Der junge Atlantik lebt](https://open.spotify.com/track/2zPRw1LTM22owRfNl1lEXD)** by **Yvon** *(Im Kreis der Liebe)* - `just now`
+- **[Gekommen um zu bleiben](https://open.spotify.com/track/0UdNzmV16GbFEDohWcEaDC)** by **Wir sind Helden** *(Von hier an blind)* - `4 min ago`
+- **[Heut bring ich mich um](https://open.spotify.com/track/72twE2R0EtVDgkoIYDlk1y)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `7 min ago`
+- **[Ich bin dein Mann](https://open.spotify.com/track/6zHnPU38izp8Iv5vhXldtG)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `11 min ago`
+- **[Papierfliegerfrau](https://open.spotify.com/track/1hDuBqzCutOT0HjrT3kF8J)** by **Nun flog Dr. Bert Rabe** *(Geschichten über das Übliche)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 18:42:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 19:51:14 UTC*
 <!-- SPOTIFY-END -->
