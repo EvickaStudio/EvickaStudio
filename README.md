@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tanzverbot](https://open.spotify.com/track/5s9xETUJAYpWLGGQL44mLg)** by **Gewürztraminer** *(Tanzverbot)* - `1 h ago`
-- **[Küssen kann man nicht alleine](https://open.spotify.com/track/3dHzw1D0j2r8NtBAUm5JWK)** by **Max Raabe** *(Küssen kann man nicht alleine)* - `1 h ago`
-- **[Hi Freaks](https://open.spotify.com/track/2CC3G5KAVvXUvhS1qvEWkU)** by **Tocotronic** *(Tocotronic (Deluxe Edition))* - `1 h ago`
-- **[Guten Tag, liebes Glück](https://open.spotify.com/track/5scHfs6nM7brzXpe2biwqP)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `1 h ago`
-- **[Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU)** by **Wir sind Helden** *(Von hier an blind)* - `1 h ago`
+- **[Tanzverbot](https://open.spotify.com/track/5s9xETUJAYpWLGGQL44mLg)** by **Gewürztraminer** *(Tanzverbot)* - `2 h ago`
+- **[Küssen kann man nicht alleine](https://open.spotify.com/track/3dHzw1D0j2r8NtBAUm5JWK)** by **Max Raabe** *(Küssen kann man nicht alleine)* - `3 h ago`
+- **[Hi Freaks](https://open.spotify.com/track/2CC3G5KAVvXUvhS1qvEWkU)** by **Tocotronic** *(Tocotronic (Deluxe Edition))* - `3 h ago`
+- **[Guten Tag, liebes Glück](https://open.spotify.com/track/5scHfs6nM7brzXpe2biwqP)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `3 h ago`
+- **[Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU)** by **Wir sind Helden** *(Von hier an blind)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 13:06:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 14:55:52 UTC*
 <!-- SPOTIFY-END -->
