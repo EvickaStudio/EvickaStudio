@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c56eabc2734d0f7574ce5736" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7D2CrLE4nu2xyIliSNM9RN">Am Steinhuder Meer</a></strong><br/>
+  <em>by</em> <strong>Ulrich Tukur Und Die Rhythmus Boys</strong><br/>
+  <em>Album:</em> Meine Sehnsucht Ist Die Strandbar
+</p>
+
+<p align="center"><code>2:25</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>4:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)** by **DJ Worm, Eurohead** *(Klubb Musik vol.1)* - `9 h ago`
-- **[The Fool Intro](https://open.spotify.com/track/2PVicuneaLadJe9ODNBJOn)** by **Bladee** *(The Fool)* - `9 h ago`
-- **[One Of Us Is Lying](https://open.spotify.com/track/4divPEANeDkW7sEMs3ZIQd)** by **Lucy Bedroque** *(Unmusique)* - `10 h ago`
-- **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)* - `10 h ago`
-- **[Flowa Girl](https://open.spotify.com/track/0G6ejwp4ayZeX5nEYmxVcg)** by **Ms* Gloom** *(J is for Joon)* - `10 h ago`
+- **[Hapag & Lloyd](https://open.spotify.com/track/2G0hkPXrmKxWxL5PAfVYys)** by **Hotel Rimini** *(Hapag & Lloyd)* - `2 min ago`
+- **[Zuckerwatte](https://open.spotify.com/track/3xNy465FPVZIlvwHf0sMol)** by **Tristan Brusch** *(Das Paradies)* - `5 min ago`
+- **[Ich bin zu müde, um Schlafen zu geh'n](https://open.spotify.com/track/6chJeDPBhdixooFqIYPftL)** by **Hildegard Knef** *(Ich sehe die Welt durch deine Augen (Remastered))* - `8 min ago`
+- **[Meine Kneipe](https://open.spotify.com/track/5NBCRuSpMGY5ckTP6TfWDQ)** by **Von Wegen Lisbeth** *(Grande)* - `11 min ago`
+- **[Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)** by **Wir sind Helden** *(Die Reklamation)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 06:59:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 08:27:55 UTC*
 <!-- SPOTIFY-END -->
