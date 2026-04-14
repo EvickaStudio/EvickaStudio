@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732223d222995065e0319412ba" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27384c0d90ba49a81abc7afa996" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/30e2HVfEUInoQNRVHHR1zH">Ein Tag wie Gold</a></strong><br/>
-  <em>by</em> <strong>Max Raabe, Palast Orchester</strong><br/>
-  <em>Album:</em> Wer hat hier schlechte Laune
+  <strong><a href="https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0">taschen schwer</a></strong><br/>
+  <em>by</em> <strong>5v, James Jetski</strong><br/>
+  <em>Album:</em> taschen schwer
 </p>
 
-<p align="center"><code>1:31</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:00</code></p>
+<p align="center"><code>0:26</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>1:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mond](https://open.spotify.com/track/5vjYby36ivpsLGxXwxZ8rf)** by **Fainschmitz** *(Fainschmitz Begins)* - `1 min ago`
-- **[Gefallen](https://open.spotify.com/track/4d6Beq9m0NOqa9lGleoIHg)** by **Hotel Rimini** *(Allein unter Möbeln)* - `4 min ago`
-- **[In Paris brennen Autos](https://open.spotify.com/track/67SVg7nelLF3y5TMTGtJpz)** by **Faber** *(Sei ein Faber im Wind)* - `7 min ago`
-- **[Nikotina Turner](https://open.spotify.com/track/0u2psIzlYT8AFk6T8UbLPp)** by **Yvon** *(Im Kreis der Liebe)* - `12 min ago`
-- **[Hohl](https://open.spotify.com/track/3W67uGLel0ecAslxBgzrNq)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `15 min ago`
+- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `3 min ago`
+- **[ilove urr girl](https://open.spotify.com/track/446tJwawEdurNyvwt4jn1X)** by **oaf1** *(ilove urr girl)* - `5 min ago`
+- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `6 min ago`
+- **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)* - `9 min ago`
+- **[Deceitful Eyes](https://open.spotify.com/track/3EspPNbxpFNYbPwlyAs8rJ)** by **Snow Strippers** *(April Mixtape 3)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 20:43:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-14 21:34:37 UTC*
 <!-- SPOTIFY-END -->
