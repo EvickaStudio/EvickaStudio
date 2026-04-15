@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `1 h ago`
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `1 h ago`
-- **[Guten Tag, liebes Glück - MTV Unplugged](https://open.spotify.com/track/7AZ7qNtU3zGSKxy6ysa9QL)** by **Max Raabe, Palast Orchester, LEA** *(MTV Unplugged)* - `1 h ago`
-- **[Wolken](https://open.spotify.com/track/2iYq7QAXjVKjui0UDHlZf2)** by **Bukahara** *(Canaries in a Coal Mine)* - `1 h ago`
-- **[Vivaldi](https://open.spotify.com/track/5Qt9nyg9UFZJ5iqFsKA4pM)** by **Faber** *(I fucking love my life)* - `1 h ago`
+- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `2 h ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `2 h ago`
+- **[Guten Tag, liebes Glück - MTV Unplugged](https://open.spotify.com/track/7AZ7qNtU3zGSKxy6ysa9QL)** by **Max Raabe, Palast Orchester, LEA** *(MTV Unplugged)* - `2 h ago`
+- **[Wolken](https://open.spotify.com/track/2iYq7QAXjVKjui0UDHlZf2)** by **Bukahara** *(Canaries in a Coal Mine)* - `2 h ago`
+- **[Vivaldi](https://open.spotify.com/track/5Qt9nyg9UFZJ5iqFsKA4pM)** by **Faber** *(I fucking love my life)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 11:15:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 12:09:04 UTC*
 <!-- SPOTIFY-END -->
