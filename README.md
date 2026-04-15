@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `2 h ago`
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `2 h ago`
-- **[Guten Tag, liebes Glück - MTV Unplugged](https://open.spotify.com/track/7AZ7qNtU3zGSKxy6ysa9QL)** by **Max Raabe, Palast Orchester, LEA** *(MTV Unplugged)* - `2 h ago`
-- **[Wolken](https://open.spotify.com/track/2iYq7QAXjVKjui0UDHlZf2)** by **Bukahara** *(Canaries in a Coal Mine)* - `2 h ago`
-- **[Vivaldi](https://open.spotify.com/track/5Qt9nyg9UFZJ5iqFsKA4pM)** by **Faber** *(I fucking love my life)* - `2 h ago`
+- **[Rax](https://open.spotify.com/track/5VrnpamQF8oCq3ppmmhypj)** by **CAN MIT ME$$R, Sin Davis** *(Abi Albüm)* - `24 min ago`
+- **[Stereo Love](https://open.spotify.com/track/0gBfLS4aqbrr1ZvVv8dqWB)** by **Edward Maya, Vika Jigulina** *(Stereo Love)* - `27 min ago`
+- **[Roof](https://open.spotify.com/track/1pAgrtEcO6pF6ekmJsUfVe)** by **Kev Koko** *(Roof)* - `31 min ago`
+- **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)* - `34 min ago`
+- **[Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)** by **Declan McKenna** *(What Do You Think About the Car?)* - `36 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 12:09:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 14:02:55 UTC*
 <!-- SPOTIFY-END -->
