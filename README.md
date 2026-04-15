@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Born Winner](https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J)** by **Burna Boy** *(No Sign Of Weakness)* - `24 min ago`
-- **[WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO)** by **Asake, DJ Snake** *(WORSHIP)* - `30 min ago`
-- **[Comforter](https://open.spotify.com/track/1YsGGtMNVuyvlq2enrwL35)** by **Llona** *(Homeless)* - `32 min ago`
-- **[God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx)** by **Ayo Maff** *(God is working)* - `34 min ago`
-- **[Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV)** by **Kunmie** *(Before We Became Strangers)* - `36 min ago`
+- **[Hi Freaks](https://open.spotify.com/track/2CC3G5KAVvXUvhS1qvEWkU)** by **Tocotronic** *(Tocotronic (Deluxe Edition))* - `24 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `1 h ago`
+- **[Born Winner](https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J)** by **Burna Boy** *(No Sign Of Weakness)* - `2 h ago`
+- **[WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO)** by **Asake, DJ Snake** *(WORSHIP)* - `2 h ago`
+- **[Comforter](https://open.spotify.com/track/1YsGGtMNVuyvlq2enrwL35)** by **Llona** *(Homeless)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 05:11:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 07:01:50 UTC*
 <!-- SPOTIFY-END -->
