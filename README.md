@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27357d33eb90b752e94c0d02e6d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273436242b181b86112c54839e5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW">Shut My Eyes</a></strong><br/>
-  <em>by</em> <strong>Burrrn</strong><br/>
-  <em>Album:</em> Blaze Down His Way Like the Space Show
+  <strong><a href="https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt">Trouble</a></strong><br/>
+  <em>by</em> <strong>Computer Kill</strong><br/>
+  <em>Album:</em> Computer Kill
 </p>
 
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:50</code></p>
+<p align="center"><code>2:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nightcall](https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA)** by **Kavinsky** *(OutRun)* - `1 min ago`
-- **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)* - `5 min ago`
-- **[Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80)** by **The Neighbourhood** *(#000000 & #FFFFFF (No DJ Version))* - `7 min ago`
-- **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)* - `10 min ago`
-- **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)* - `12 min ago`
+- **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)* - `2 min ago`
+- **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)* - `6 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `9 min ago`
+- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `11 min ago`
+- **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 18:49:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 19:57:47 UTC*
 <!-- SPOTIFY-END -->
