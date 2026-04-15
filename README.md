@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737c84e0c100166dab1b5a9f1c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/71n50Y3SJHBVZBsmRcUGWU">Stay Cold</a></strong><br/>
-  <em>by</em> <strong>Nokia Angel</strong><br/>
-  <em>Album:</em> Stay Cold
-</p>
-
-<p align="center"><code>1:30</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:53</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92)** by **Tiffany Day** *(START OVER)* - `just now`
-- **[Live It](https://open.spotify.com/track/2s3NJxm6FxX5q4gLXSfVqw)** by **flywoah** *(Live It)* - `3 min ago`
-- **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)* - `5 min ago`
-- **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `7 min ago`
-- **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)* - `11 min ago`
+- **[Born Winner](https://open.spotify.com/track/4eXb0vQK0syqsuLpj53C4J)** by **Burna Boy** *(No Sign Of Weakness)* - `24 min ago`
+- **[WORSHIP](https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO)** by **Asake, DJ Snake** *(WORSHIP)* - `30 min ago`
+- **[Comforter](https://open.spotify.com/track/1YsGGtMNVuyvlq2enrwL35)** by **Llona** *(Homeless)* - `32 min ago`
+- **[God is working](https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx)** by **Ayo Maff** *(God is working)* - `34 min ago`
+- **[Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV)** by **Kunmie** *(Before We Became Strangers)* - `36 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 02:37:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 05:11:57 UTC*
 <!-- SPOTIFY-END -->
