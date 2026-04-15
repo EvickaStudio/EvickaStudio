@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273436242b181b86112c54839e5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730478062bc04df0947d232fcb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt">Trouble</a></strong><br/>
-  <em>by</em> <strong>Computer Kill</strong><br/>
-  <em>Album:</em> Computer Kill
+  <strong><a href="https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI">Where'd All the Time Go?</a></strong><br/>
+  <em>by</em> <strong>Dr. Dog</strong><br/>
+  <em>Album:</em> Shame, Shame (Deluxe Edition)
 </p>
 
-<p align="center"><code>2:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:58</code></p>
+<p align="center"><code>3:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz)** by **Joji** *(SMITHEREENS)* - `2 min ago`
-- **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)* - `6 min ago`
-- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `9 min ago`
-- **[Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU)** by **plenka** *(Pt. One)* - `11 min ago`
-- **[Ättestupa](https://open.spotify.com/track/3PHS7FPcrIceQVZgd91WZh)** by **Holograms** *(Forever)* - `15 min ago`
+- **[Bleib](https://open.spotify.com/track/4RgYBDjNhQkQA6SXzxbQ9w)** by **Kidd Kwazulu** *(Bleib)* - `3 min ago`
+- **[eifersucht](https://open.spotify.com/track/61YiYVSLSK3kD6EGxEPQO0)** by **blombi19** *(herzkasper)* - `6 min ago`
+- **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by **Traumatin, Ronnie Rapid** *(Helium)* - `9 min ago`
+- **[This One Is for You (RIP Dad)](https://open.spotify.com/track/0Fi62HR4UwkdFlvoVAUP1z)** by **Yung City** *(This One Is for You (RIP Dad))* - `13 min ago`
+- **[Safe In Your Skin](https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso)** by **Title Fight** *(Shed)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 19:57:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 20:47:15 UTC*
 <!-- SPOTIFY-END -->
