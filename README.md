@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731cf9d1db4ee8e2752ee415e1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27357d33eb90b752e94c0d02e6d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ">New York, Paris and London</a></strong><br/>
-  <em>by</em> <strong>HighSchool</strong><br/>
-  <em>Album:</em> Forever at Last
+  <strong><a href="https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW">Shut My Eyes</a></strong><br/>
+  <em>by</em> <strong>Burrrn</strong><br/>
+  <em>Album:</em> Blaze Down His Way Like the Space Show
 </p>
 
-<p align="center"><code>0:58</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:26</code></p>
+<p align="center"><code>1:28</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `just now`
-- **[Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)** by **Nightcore Reality, meme my** *(Angel with a Shotgun)* - `3 min ago`
-- **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)* - `7 min ago`
-- **[Far away](https://open.spotify.com/track/3B1HJB5W8mO1zsjqq5cYqk)** by **Actavis7_** *(Far away)* - `10 min ago`
-- **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)* - `12 min ago`
+- **[Nightcall](https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA)** by **Kavinsky** *(OutRun)* - `1 min ago`
+- **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)* - `5 min ago`
+- **[Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80)** by **The Neighbourhood** *(#000000 & #FFFFFF (No DJ Version))* - `7 min ago`
+- **[Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem)** by **Steve Lacy** *(Gemini Rights)* - `10 min ago`
+- **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 17:45:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 18:49:08 UTC*
 <!-- SPOTIFY-END -->
