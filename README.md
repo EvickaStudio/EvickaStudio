@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27390ca63465a06350387339337" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0aJ2sM9mAn3bNk8ZKQ6fVk">fleisch</a></strong><br/>
-  <em>by</em> <strong>blombi19</strong><br/>
-  <em>Album:</em> fleisch
-</p>
-
-<p align="center"><code>1:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:00</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)* - `4 min ago`
-- **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo Nomad** *(2AM Forever)* - `6 min ago`
-- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)* - `8 min ago`
-- **[Psychic](https://open.spotify.com/track/2o0HBEggQAyXYcIk4ZRMvY)** by **WILDE** *(Psychic)* - `12 min ago`
-- **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)* - `14 min ago`
+- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `12 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `14 min ago`
+- **[Guten Tag, liebes Glück - MTV Unplugged](https://open.spotify.com/track/7AZ7qNtU3zGSKxy6ysa9QL)** by **Max Raabe, Palast Orchester, LEA** *(MTV Unplugged)* - `16 min ago`
+- **[Wolken](https://open.spotify.com/track/2iYq7QAXjVKjui0UDHlZf2)** by **Bukahara** *(Canaries in a Coal Mine)* - `17 min ago`
+- **[Vivaldi](https://open.spotify.com/track/5Qt9nyg9UFZJ5iqFsKA4pM)** by **Faber** *(I fucking love my life)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 08:52:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 10:09:44 UTC*
 <!-- SPOTIFY-END -->
