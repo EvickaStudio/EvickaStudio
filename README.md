@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i">TL;DR</a></strong><br/>
-  <em>by</em> <strong>Bladee, Ecco2k, Thaiboy Digital</strong><br/>
-  <em>Album:</em> TL;DR
+  <strong><a href="https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA">Stateside + Bladee</a></strong><br/>
+  <em>by</em> <strong>PinkPantheress, Bladee</strong><br/>
+  <em>Album:</em> Fancy Some More?
 </p>
 
-<p align="center"><code>2:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:04</code></p>
+<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dreamflasher](https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9)** by **Jane Remover** *(Revengeseekerz)* - `2 min ago`
-- **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)* - `6 min ago`
-- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)* - `8 min ago`
-- **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `11 min ago`
-- **[Virus Freestyle](https://open.spotify.com/track/6ORqBMtjCIRRq8CKveRSi2)** by **Mechatok** *(Wide Awake)* - `14 min ago`
+- **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)* - `1 min ago`
+- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)* - `3 min ago`
+- **[Genocide](https://open.spotify.com/track/5rbZZWQoVql2K35mhsUPtI)** by **Snow Strippers** *(The Snow Strippers)* - `6 min ago`
+- **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)* - `8 min ago`
+- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 14:11:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 15:53:53 UTC*
 <!-- SPOTIFY-END -->
