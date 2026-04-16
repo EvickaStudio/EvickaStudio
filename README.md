@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b7873c680671277489987d80" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap">CtrlAltDelete</a></strong><br/>
-  <em>by</em> <strong>BONES</strong><br/>
-  <em>Album:</em> UNRENDERED
+  <strong><a href="https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i">TL;DR</a></strong><br/>
+  <em>by</em> <strong>Bladee, Ecco2k, Thaiboy Digital</strong><br/>
+  <em>Album:</em> TL;DR
 </p>
 
-<p align="center"><code>0:25</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:58</code></p>
+<p align="center"><code>2:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)* - `just now`
-- **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)* - `2 min ago`
-- **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)* - `5 min ago`
-- **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)* - `7 min ago`
-- **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)* - `12 min ago`
+- **[Dreamflasher](https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9)** by **Jane Remover** *(Revengeseekerz)* - `2 min ago`
+- **[Amygdala](https://open.spotify.com/track/4lUc0XBymgLCx3fs6ovzRj)** by **Ecco2k, Bladee** *(Amygdala)* - `6 min ago`
+- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)* - `8 min ago`
+- **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `11 min ago`
+- **[Virus Freestyle](https://open.spotify.com/track/6ORqBMtjCIRRq8CKveRSi2)** by **Mechatok** *(Wide Awake)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 12:12:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 14:11:53 UTC*
 <!-- SPOTIFY-END -->
