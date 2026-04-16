@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dea66b6cb9d12d74ccbd9371" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273079044b710a9d2cb68aec833" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6qtTjd9flEojIS9sXpX72Y">The Girls</a></strong><br/>
-  <em>by</em> <strong>Calvin Harris</strong><br/>
-  <em>Album:</em> I Created Disco
+  <strong><a href="https://open.spotify.com/track/3zRye3R2lzX9xNU1ersC5X">ugly</a></strong><br/>
+  <em>by</em> <strong>Gutzxx</strong><br/>
+  <em>Album:</em> ugly
 </p>
 
-<p align="center"><code>3:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>5:15</code></p>
+<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Romeo](https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr)** by **Basement Jaxx** *(Rooty)* - `2 min ago`
-- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)* - `5 min ago`
-- **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)* - `8 min ago`
-- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)* - `10 min ago`
-- **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by **Dilla, emi x** *(Willst du)* - `13 min ago`
+- **[a. Good___b. Bad___(c.) Both](https://open.spotify.com/track/0xzoizlo2f5eNAg9gcbImn)** by **Harto Falión, 300SkullsAndCounting** *(a. Good___b. Bad___(c.) Both)* - `1 min ago`
+- **[somebody's baby](https://open.spotify.com/track/3b8M1zEgrctfyUDTbd1DAS)** by **archive computer** *(somebody's baby)* - `3 min ago`
+- **[AFTERLIFE](https://open.spotify.com/track/1BXsZwYg4UiO7AhfAJ0jY7)** by **p6inkillr, dollreal** *(AFTERLIFE)* - `6 min ago`
+- **[meat shed](https://open.spotify.com/track/2hSTSnhv8QB6aTPv8QE0Kx)** by **Burgos, Razegod** *(EVOLVING)* - `8 min ago`
+- **[sunroof](https://open.spotify.com/track/4HAgX8obZSaT8jVdJ0eQ91)** by **myspacemark** *(sunroof)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 18:16:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 19:41:55 UTC*
 <!-- SPOTIFY-END -->
