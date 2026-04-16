@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f5d8906500959f72feefc312" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6EUjksHprxyLw7dbNZtACA">Stateside + Bladee</a></strong><br/>
-  <em>by</em> <strong>PinkPantheress, Bladee</strong><br/>
-  <em>Album:</em> Fancy Some More?
+  <strong><a href="https://open.spotify.com/track/0rfA0I4IhArbfqa8wXZP3m">what do you want me to do?</a></strong><br/>
+  <em>by</em> <strong>Joey Cash</strong><br/>
+  <em>Album:</em> what do you want me to do?
 </p>
 
-<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:28</code></p>
+<p align="center"><code>1:02</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)* - `1 min ago`
-- **[all1ne](https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P)** by **Niclov, ilyproxy, leander** *(all1ne)* - `3 min ago`
-- **[Genocide](https://open.spotify.com/track/5rbZZWQoVql2K35mhsUPtI)** by **Snow Strippers** *(The Snow Strippers)* - `6 min ago`
-- **[du bleibst gleich](https://open.spotify.com/track/5Fl73l7tZGaKWIe0VhZmfM)** by **leander, ilyproxy** *(du bleibst gleich)* - `8 min ago`
-- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `10 min ago`
+- **[Lines](https://open.spotify.com/track/6Q3BBMfANxMg4LvpMYawgu)** by **Lorem Ipsum, Sacred holes** *(2014)* - `1 min ago`
+- **[Backseat](https://open.spotify.com/track/2F3La4OE9rPNOm9JmUoyEt)** by **Buckshot** *(Backseat)* - `3 min ago`
+- **[It's like](https://open.spotify.com/track/1kWydqs1bOcEVlWVTRuHhW)** by **Helen Sun** *(talk with your Teeth)* - `5 min ago`
+- **[I'm sorry, King](https://open.spotify.com/track/6ZVQKGAkrEAdYXasWaXbfp)** by **Bassvictim** *(Forever)* - `8 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 15:53:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 17:05:03 UTC*
 <!-- SPOTIFY-END -->
