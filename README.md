@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f5d8906500959f72feefc312" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dea66b6cb9d12d74ccbd9371" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0rfA0I4IhArbfqa8wXZP3m">what do you want me to do?</a></strong><br/>
-  <em>by</em> <strong>Joey Cash</strong><br/>
-  <em>Album:</em> what do you want me to do?
+  <strong><a href="https://open.spotify.com/track/6qtTjd9flEojIS9sXpX72Y">The Girls</a></strong><br/>
+  <em>by</em> <strong>Calvin Harris</strong><br/>
+  <em>Album:</em> I Created Disco
 </p>
 
-<p align="center"><code>1:02</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:02</code></p>
+<p align="center"><code>3:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>5:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Lines](https://open.spotify.com/track/6Q3BBMfANxMg4LvpMYawgu)** by **Lorem Ipsum, Sacred holes** *(2014)* - `1 min ago`
-- **[Backseat](https://open.spotify.com/track/2F3La4OE9rPNOm9JmUoyEt)** by **Buckshot** *(Backseat)* - `3 min ago`
-- **[It's like](https://open.spotify.com/track/1kWydqs1bOcEVlWVTRuHhW)** by **Helen Sun** *(talk with your Teeth)* - `5 min ago`
-- **[I'm sorry, King](https://open.spotify.com/track/6ZVQKGAkrEAdYXasWaXbfp)** by **Bassvictim** *(Forever)* - `8 min ago`
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `11 min ago`
+- **[Romeo](https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr)** by **Basement Jaxx** *(Rooty)* - `2 min ago`
+- **[Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I)** by **PinkPantheress** *(Take me home)* - `5 min ago`
+- **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)* - `8 min ago`
+- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)* - `10 min ago`
+- **[Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ)** by **Dilla, emi x** *(Willst du)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 17:05:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 18:16:39 UTC*
 <!-- SPOTIFY-END -->
