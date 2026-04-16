@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b7873c680671277489987d80" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1ZNVczQsUBA64aWhvWqaap">CtrlAltDelete</a></strong><br/>
+  <em>by</em> <strong>BONES</strong><br/>
+  <em>Album:</em> UNRENDERED
+</p>
+
+<p align="center"><code>0:25</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)* - `5 h ago`
-- **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)* - `5 h ago`
-- **[Gott segne die Säure](https://open.spotify.com/track/2PB0uECe4pzlPtdxPwNx5C)** by **KLAMER** *(Gott segne die Säure)* - `5 h ago`
-- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `5 h ago`
-- **[IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)** by **BONES** *(Champion)* - `5 h ago`
+- **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)* - `just now`
+- **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)* - `2 min ago`
+- **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)* - `5 min ago`
+- **[I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ)** by **Clams Casino, Imogen Heap** *(Instrumental Relics)* - `7 min ago`
+- **[New Flesh](https://open.spotify.com/track/786f01L1AbBOGr0WmAs54w)** by **Current Joys** *(Wild Heart)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 11:18:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 12:12:18 UTC*
 <!-- SPOTIFY-END -->
