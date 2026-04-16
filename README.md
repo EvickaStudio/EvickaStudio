@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273079044b710a9d2cb68aec833" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3zRye3R2lzX9xNU1ersC5X">ugly</a></strong><br/>
-  <em>by</em> <strong>Gutzxx</strong><br/>
-  <em>Album:</em> ugly
-</p>
-
-<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:07</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[a. Good___b. Bad___(c.) Both](https://open.spotify.com/track/0xzoizlo2f5eNAg9gcbImn)** by **Harto Falión, 300SkullsAndCounting** *(a. Good___b. Bad___(c.) Both)* - `1 min ago`
-- **[somebody's baby](https://open.spotify.com/track/3b8M1zEgrctfyUDTbd1DAS)** by **archive computer** *(somebody's baby)* - `3 min ago`
-- **[AFTERLIFE](https://open.spotify.com/track/1BXsZwYg4UiO7AhfAJ0jY7)** by **p6inkillr, dollreal** *(AFTERLIFE)* - `6 min ago`
-- **[meat shed](https://open.spotify.com/track/2hSTSnhv8QB6aTPv8QE0Kx)** by **Burgos, Razegod** *(EVOLVING)* - `8 min ago`
-- **[sunroof](https://open.spotify.com/track/4HAgX8obZSaT8jVdJ0eQ91)** by **myspacemark** *(sunroof)* - `10 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `2 min ago`
+- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `4 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `6 min ago`
+- **[Spoiled](https://open.spotify.com/track/4HaAryBKiI8cN03saZUZSH)** by **Europa, Mori Mori** *(LAgoon)* - `10 min ago`
+- **[break me down](https://open.spotify.com/track/48iKt8v08mycJooisoAQUe)** by **Slash Santana, hurtsucca** *(break me down)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 19:41:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 20:29:39 UTC*
 <!-- SPOTIFY-END -->
