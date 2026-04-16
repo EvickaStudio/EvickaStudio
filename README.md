@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Scherben](https://open.spotify.com/track/6sTZMwDjyJkjPHPo07w7tj)** by **Souly, Loco Candy** *(Scherben)* - `1 h ago`
-- **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)* - `1 h ago`
-- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)* - `1 h ago`
-- **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)* - `1 h ago`
-- **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)* - `1 h ago`
+- **[Scherben](https://open.spotify.com/track/6sTZMwDjyJkjPHPo07w7tj)** by **Souly, Loco Candy** *(Scherben)* - `4 h ago`
+- **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)* - `4 h ago`
+- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)* - `4 h ago`
+- **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)* - `4 h ago`
+- **[I H3ART Y0U](https://open.spotify.com/track/2cJDuuNIPxoC9u1G3zVaG3)** by **Boy Fantasy, g0r3c0r3** *(BOY FANTASY)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-15 23:57:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 02:32:25 UTC*
 <!-- SPOTIFY-END -->
