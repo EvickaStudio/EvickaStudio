@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `30 min ago`
-- **[Scherben](https://open.spotify.com/track/6sTZMwDjyJkjPHPo07w7tj)** by **Souly, Loco Candy** *(Scherben)* - `7 h ago`
-- **[feel u in my heart](https://open.spotify.com/track/30fHAVmdNZnJmLRUAHpdAp)** by **Bayymack, ashes.** *(feel u in my heart)* - `7 h ago`
-- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)* - `7 h ago`
-- **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)* - `7 h ago`
+- **[ss23](https://open.spotify.com/track/5IzvzY6zM9slayzBWNlPDi)** by **lil london** *(ss23)* - `1 h ago`
+- **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)* - `1 h ago`
+- **[Gott segne die Säure](https://open.spotify.com/track/2PB0uECe4pzlPtdxPwNx5C)** by **KLAMER** *(Gott segne die Säure)* - `1 h ago`
+- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `1 h ago`
+- **[IBelieveYou,ButMyGlock19Don't](https://open.spotify.com/track/4DlDy2jizewMjmojWphncr)** by **BONES** *(Champion)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 05:17:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-16 07:08:06 UTC*
 <!-- SPOTIFY-END -->
