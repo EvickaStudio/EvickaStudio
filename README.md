@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5R4LsSsOshbStU1QjRWEKt">Wrist Cry</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Eversince
+</p>
+
+<p align="center"><code>3:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[zuhause fühlen](https://open.spotify.com/track/3sMbwYLnGvxDljGvGpAZbz)** by **diggidaniel** *(zuhause fühlen)* - `1 h ago`
-- **[Better Now](https://open.spotify.com/track/1alToEsCqrehKwQJ6WgM9Y)** by **Donkey Kid** *(Heavyweight Champion)* - `2 h ago`
-- **[I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY)** by **Sophia Stel** *(Object Permanence (Deluxe Edition))* - `2 h ago`
-- **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)* - `2 h ago`
-- **[wiedersehen](https://open.spotify.com/track/7lyP4Wo5gKlrscCwHp5CEL)** by **3LNA, bleac** *(wiedersehen)* - `2 h ago`
+- **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)* - `3 min ago`
+- **[transluzid](https://open.spotify.com/track/5bH5yQSPLoFdTPvHZLjSOI)** by **blombi19** *(transluzid)* - `6 min ago`
+- **[im alone](https://open.spotify.com/track/2VnoLK80cB6yyhu0Ew7qxt)** by **meat computer** *(im alone)* - `9 min ago`
+- **[Moonlight](https://open.spotify.com/track/0yonM2FFXPSIakNEQPuMPt)** by **velvette blue** *(Moonlight)* - `11 min ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 12:03:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 13:56:39 UTC*
 <!-- SPOTIFY-END -->
