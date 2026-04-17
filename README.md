@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b20898fe1b65bcb09767d805" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1EUExGTHAI2jFOphheAv7t">Mondlicht</a></strong><br/>
+  <em>by</em> <strong>Saiya Tiaw</strong><br/>
+  <em>Album:</em> Kein Wunderland
+</p>
+
+<p align="center"><code>0:51</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:09</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[skypecall](https://open.spotify.com/track/2jCdpYoedO2c2vRCkxPuLf)** by **blombi19** *(skypecall)* - `1 h ago`
-- **[DIVA](https://open.spotify.com/track/3GLjDlUX3A3x6nSswcgSYc)** by **lusi 7896** *(DIVA)* - `1 h ago`
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `1 h ago`
-- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `1 h ago`
-- **[Sugar & Diesel](https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI)** by **Ecco2k** *(E)* - `1 h ago`
+- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `2 min ago`
+- **[Flim - Mixed](https://open.spotify.com/track/35ZNlPjJBiUXUsE0nCLnvu)** by **Aphex Twin** *(DJ-Kicks: Sofia Kourtesis)* - `4 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `7 min ago`
+- **[Carousel](https://open.spotify.com/track/3WUhq8xRlvbIpmQL0N5P2p)** by **Kev Koko** *(Ego Trip)* - `10 min ago`
+- **[Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE)** by **Pat Benatar** *(Crimes Of Passion)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 17:41:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 18:35:11 UTC*
 <!-- SPOTIFY-END -->
