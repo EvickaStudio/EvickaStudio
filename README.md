@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS">Home</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
+  <strong><a href="https://open.spotify.com/track/2mc5HfSeSpWkSVXThEG1UI">Sugar & Diesel</a></strong><br/>
+  <em>by</em> <strong>Ecco2k</strong><br/>
+  <em>Album:</em> E
 </p>
 
-<p align="center"><code>2:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:24</code></p>
+<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `2 min ago`
-- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `4 min ago`
-- **[PLml5gvNFnEw4p9_HbcIeLFBiw9uwPteKr](https://open.spotify.com/track/3zTbpNNM9KEamrI0CKsHKW)** by **AITANA★★OFICIAL** *(PLml5gvNFnEw4p9_HbcIeLFBiw9uwPteKr)* - `11 min ago`
-- **[Sidelinelyfe Interlude #PefectMartyrS](https://open.spotify.com/track/1JFS8gBy7exJ0MRU0IV4jd)** by **DJmegan23, abdulnour** *(Thou Art All Lost And Forgotten (DELUXE))* - `15 min ago`
-- **[Open Your Eyes](https://open.spotify.com/track/6EV3KcksXaX2oLrLrYq23v)** by **User2222** *(2222)* - `19 min ago`
+- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `2 min ago`
+- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `5 min ago`
+- **[Golden God](https://open.spotify.com/track/4Nv2DmZ8VvCavaOtlIHPHQ)** by **Yung Lean, Bladee** *(Psykos)* - `7 min ago`
+- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `10 min ago`
+- **[Silk Road](https://open.spotify.com/track/2OITBRdvXlqJOMHNzawWXZ)** by **Thaiboy Digital, swedm®** *(Silk Road)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 14:51:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 15:52:11 UTC*
 <!-- SPOTIFY-END -->
