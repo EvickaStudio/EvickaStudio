@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27356eedc82250d2fe79e6ccd5e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/73bul1LFVIqryg7dhNH6iT">Why Can't I Love</a></strong><br/>
-  <em>by</em> <strong>ikigaisoulya, letmedrown</strong><br/>
-  <em>Album:</em> Why Can't I Love
-</p>
-
-<p align="center"><code>1:34</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:19</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[küssmich.001](https://open.spotify.com/track/5S8DIVzKJaWyDSYTxAhBlf)** by **Odonis** *(küssmich.001)* - `1 min ago`
-- **[Nur Den Beat](https://open.spotify.com/track/2b4dulpN9u4PaHUcasAzRc)** by **kleinejess089** *(Einundzwanzig)* - `4 min ago`
-- **[SOS](https://open.spotify.com/track/5zacufUitktD2DwxtDniyI)** by **damals2014, headboi64** *(SOS)* - `7 min ago`
-- **[Athena](https://open.spotify.com/track/1zUYpbBXPZq8IQLF1AqKVF)** by **Yung Kmo, Emesboii** *(Athena)* - `9 min ago`
-- **[wie/party](https://open.spotify.com/track/2EThbYtav7XVH67yJ8g5G0)** by **Ado8** *(wie/party)* - `12 min ago`
+- **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)* - `28 min ago`
+- **[gesund/krank](https://open.spotify.com/track/4ba7NFMbdZaXQzPU5JSZD8)** by **b3nn3t, Maxi Nagl** *(gesund/krank)* - `31 min ago`
+- **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `33 min ago`
+- **[Was ich greade brauch - Lo-fi Version](https://open.spotify.com/track/5ohqLJ97Rgz3hXEIYxw8NY)** by **Appleuser** *(Was ich greade brauch (Lo-fi Version))* - `36 min ago`
+- **[Kate Moss](https://open.spotify.com/track/3CKvbgToq3umqvaHjC14bM)** by **S1RENA** *(Kate Moss)* - `38 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 19:43:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 20:26:04 UTC*
 <!-- SPOTIFY-END -->
