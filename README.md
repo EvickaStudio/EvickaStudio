@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27340ea8954103bee8fef466942" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/62fD5TTXqYLW0vKNgtDlQN">all i need..</a></strong><br/>
-  <em>by</em> <strong>enable secret</strong><br/>
-  <em>Album:</em> all i need..
-</p>
-
-<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:58</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[T R U T H](https://open.spotify.com/track/1YL72LcDYiXXeUm5UlXmSQ)** by **EDENA, trejnts** *(T R U T H)* - `1 min ago`
-- **[Across the City](https://open.spotify.com/track/6zInXxig4eqMawJ6rmI057)** by **Plymhides** *(Across the City)* - `5 min ago`
-- **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))* - `7 min ago`
-- **[TTL.DECAY](https://open.spotify.com/track/158Hlbt6SvwmPiFAFOZKPF)** by **enable secret, dreamloader** *(NEWGAME+)* - `9 min ago`
-- **[i think i've had enough](https://open.spotify.com/track/4zZuT0iYT7J0Wafi4EsvYm)** by **SHEMYYY** *(i think i've had enough)* - `11 min ago`
+- **[zuhause fühlen](https://open.spotify.com/track/3sMbwYLnGvxDljGvGpAZbz)** by **diggidaniel** *(zuhause fühlen)* - `10 min ago`
+- **[Better Now](https://open.spotify.com/track/1alToEsCqrehKwQJ6WgM9Y)** by **Donkey Kid** *(Heavyweight Champion)* - `13 min ago`
+- **[I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY)** by **Sophia Stel** *(Object Permanence (Deluxe Edition))* - `17 min ago`
+- **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)* - `21 min ago`
+- **[wiedersehen](https://open.spotify.com/track/7lyP4Wo5gKlrscCwHp5CEL)** by **3LNA, bleac** *(wiedersehen)* - `24 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 08:58:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 10:14:21 UTC*
 <!-- SPOTIFY-END -->
