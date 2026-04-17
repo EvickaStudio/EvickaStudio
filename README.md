@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)* - `2 h ago`
-- **[gesund/krank](https://open.spotify.com/track/4ba7NFMbdZaXQzPU5JSZD8)** by **b3nn3t, Maxi Nagl** *(gesund/krank)* - `2 h ago`
-- **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `2 h ago`
-- **[Was ich greade brauch - Lo-fi Version](https://open.spotify.com/track/5ohqLJ97Rgz3hXEIYxw8NY)** by **Appleuser** *(Was ich greade brauch (Lo-fi Version))* - `2 h ago`
-- **[Kate Moss](https://open.spotify.com/track/3CKvbgToq3umqvaHjC14bM)** by **S1RENA** *(Kate Moss)* - `2 h ago`
+- **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)* - `3 h ago`
+- **[gesund/krank](https://open.spotify.com/track/4ba7NFMbdZaXQzPU5JSZD8)** by **b3nn3t, Maxi Nagl** *(gesund/krank)* - `3 h ago`
+- **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `3 h ago`
+- **[Was ich greade brauch - Lo-fi Version](https://open.spotify.com/track/5ohqLJ97Rgz3hXEIYxw8NY)** by **Appleuser** *(Was ich greade brauch (Lo-fi Version))* - `3 h ago`
+- **[Kate Moss](https://open.spotify.com/track/3CKvbgToq3umqvaHjC14bM)** by **S1RENA** *(Kate Moss)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 22:44:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 23:24:56 UTC*
 <!-- SPOTIFY-END -->
