@@ -92,33 +92,33 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5R4LsSsOshbStU1QjRWEKt">Wrist Cry</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Eversince
+  <strong><a href="https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS">Home</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>3:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:54</code></p>
+<p align="center"><code>2:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)* - `3 min ago`
-- **[transluzid](https://open.spotify.com/track/5bH5yQSPLoFdTPvHZLjSOI)** by **blombi19** *(transluzid)* - `6 min ago`
-- **[im alone](https://open.spotify.com/track/2VnoLK80cB6yyhu0Ew7qxt)** by **meat computer** *(im alone)* - `9 min ago`
-- **[Moonlight](https://open.spotify.com/track/0yonM2FFXPSIakNEQPuMPt)** by **velvette blue** *(Moonlight)* - `11 min ago`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `15 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `2 min ago`
+- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `4 min ago`
+- **[PLml5gvNFnEw4p9_HbcIeLFBiw9uwPteKr](https://open.spotify.com/track/3zTbpNNM9KEamrI0CKsHKW)** by **AITANA★★OFICIAL** *(PLml5gvNFnEw4p9_HbcIeLFBiw9uwPteKr)* - `11 min ago`
+- **[Sidelinelyfe Interlude #PefectMartyrS](https://open.spotify.com/track/1JFS8gBy7exJ0MRU0IV4jd)** by **DJmegan23, abdulnour** *(Thou Art All Lost And Forgotten (DELUXE))* - `15 min ago`
+- **[Open Your Eyes](https://open.spotify.com/track/6EV3KcksXaX2oLrLrYq23v)** by **User2222** *(2222)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
 
 
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 13:56:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 14:51:42 UTC*
 <!-- SPOTIFY-END -->
