@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[zuhause fühlen](https://open.spotify.com/track/3sMbwYLnGvxDljGvGpAZbz)** by **diggidaniel** *(zuhause fühlen)* - `10 min ago`
-- **[Better Now](https://open.spotify.com/track/1alToEsCqrehKwQJ6WgM9Y)** by **Donkey Kid** *(Heavyweight Champion)* - `13 min ago`
-- **[I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY)** by **Sophia Stel** *(Object Permanence (Deluxe Edition))* - `17 min ago`
-- **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)* - `21 min ago`
-- **[wiedersehen](https://open.spotify.com/track/7lyP4Wo5gKlrscCwHp5CEL)** by **3LNA, bleac** *(wiedersehen)* - `24 min ago`
+- **[zuhause fühlen](https://open.spotify.com/track/3sMbwYLnGvxDljGvGpAZbz)** by **diggidaniel** *(zuhause fühlen)* - `1 h ago`
+- **[Better Now](https://open.spotify.com/track/1alToEsCqrehKwQJ6WgM9Y)** by **Donkey Kid** *(Heavyweight Champion)* - `1 h ago`
+- **[I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY)** by **Sophia Stel** *(Object Permanence (Deluxe Edition))* - `1 h ago`
+- **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)* - `1 h ago`
+- **[wiedersehen](https://open.spotify.com/track/7lyP4Wo5gKlrscCwHp5CEL)** by **3LNA, bleac** *(wiedersehen)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 10:14:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 11:13:08 UTC*
 <!-- SPOTIFY-END -->
