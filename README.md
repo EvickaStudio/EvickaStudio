@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b20898fe1b65bcb09767d805" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27356eedc82250d2fe79e6ccd5e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1EUExGTHAI2jFOphheAv7t">Mondlicht</a></strong><br/>
-  <em>by</em> <strong>Saiya Tiaw</strong><br/>
-  <em>Album:</em> Kein Wunderland
+  <strong><a href="https://open.spotify.com/track/73bul1LFVIqryg7dhNH6iT">Why Can't I Love</a></strong><br/>
+  <em>by</em> <strong>ikigaisoulya, letmedrown</strong><br/>
+  <em>Album:</em> Why Can't I Love
 </p>
 
-<p align="center"><code>0:51</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:09</code></p>
+<p align="center"><code>1:34</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `2 min ago`
-- **[Flim - Mixed](https://open.spotify.com/track/35ZNlPjJBiUXUsE0nCLnvu)** by **Aphex Twin** *(DJ-Kicks: Sofia Kourtesis)* - `4 min ago`
-- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `7 min ago`
-- **[Carousel](https://open.spotify.com/track/3WUhq8xRlvbIpmQL0N5P2p)** by **Kev Koko** *(Ego Trip)* - `10 min ago`
-- **[Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE)** by **Pat Benatar** *(Crimes Of Passion)* - `12 min ago`
+- **[küssmich.001](https://open.spotify.com/track/5S8DIVzKJaWyDSYTxAhBlf)** by **Odonis** *(küssmich.001)* - `1 min ago`
+- **[Nur Den Beat](https://open.spotify.com/track/2b4dulpN9u4PaHUcasAzRc)** by **kleinejess089** *(Einundzwanzig)* - `4 min ago`
+- **[SOS](https://open.spotify.com/track/5zacufUitktD2DwxtDniyI)** by **damals2014, headboi64** *(SOS)* - `7 min ago`
+- **[Athena](https://open.spotify.com/track/1zUYpbBXPZq8IQLF1AqKVF)** by **Yung Kmo, Emesboii** *(Athena)* - `9 min ago`
+- **[wie/party](https://open.spotify.com/track/2EThbYtav7XVH67yJ8g5G0)** by **Ado8** *(wie/party)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 18:35:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-17 19:43:30 UTC*
 <!-- SPOTIFY-END -->
