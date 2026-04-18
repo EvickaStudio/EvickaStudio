@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273552cfa1846cd879389008129" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7">resonance - midwest emo version</a></strong><br/>
-  <em>by</em> <strong>jacal</strong><br/>
-  <em>Album:</em> resonance (midwest emo version)
+  <strong><a href="https://open.spotify.com/track/2hgeIFy0hmc0URDHd5jVcQ">Good at Dying</a></strong><br/>
+  <em>by</em> <strong>YATWA</strong><br/>
+  <em>Album:</em> Parallel Lines II
 </p>
 
-<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:39</code></p>
+<p align="center"><code>0:45</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Path Less Travelled](https://open.spotify.com/track/0IlWyIgaBCmtENOwwNCke0)** by **Vegyn** *(The Road To Hell Is Paved With Good Intentions)* - `1 min ago`
-- **[Venus As A Boy](https://open.spotify.com/track/48oX55j4gqDw0G80KxzpaQ)** by **Björk** *(Debut)* - `4 min ago`
-- **[Myth](https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo)** by **Beach House** *(Bloom)* - `8 min ago`
-- **[Exquisite Tension](https://open.spotify.com/track/4lt7DuGYXo9M1LcEJ5KrQx)** by **You'll Never Get to Heaven** *(Images)* - `13 min ago`
-- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `17 min ago`
+- **[SYSTEM ERROR](https://open.spotify.com/track/5OhGPa8LyHYmPpaeQxzuj1)** by **YOU LOVE HER** *(SYSTEM ERROR)* - `just now`
+- **[Run](https://open.spotify.com/track/0lWJm5TX4a9j8kJjaoOKMh)** by **Anthea, enns** *(Mount Pleasant)* - `2 min ago`
+- **[Shift](https://open.spotify.com/track/3JGRuJ2rewdjWbsOxqqjP0)** by **GARDENS** *(Flaws)* - `4 min ago`
+- **[seventeen](https://open.spotify.com/track/2AUz0IhvouSf6GHNqZN5WO)** by **Kids don't smoke** *(seventeen)* - `8 min ago`
+- **[Papercut](https://open.spotify.com/track/5ZAuceBIUALl4kmnDjeq1F)** by **Astrid Pierce** *(Papercut)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 13:48:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 14:35:28 UTC*
 <!-- SPOTIFY-END -->
