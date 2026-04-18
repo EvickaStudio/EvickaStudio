@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273038b1c2017f14c805cf5b7e9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG">Alesis</a></strong><br/>
-  <em>by</em> <strong>Mk.gee</strong><br/>
-  <em>Album:</em> Two Star & The Dream Police
+  <strong><a href="https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd">Look On Down From The Bridge</a></strong><br/>
+  <em>by</em> <strong>Mazzy Star</strong><br/>
+  <em>Album:</em> Among My Swan
 </p>
 
-<p align="center"><code>0:11</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:18</code></p>
+<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)* - `just now`
-- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `4 min ago`
-- **[Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `6 min ago`
-- **[When I'm Small](https://open.spotify.com/track/3y1EzRl5UEQxxd1f6Bv2aN)** by **Phantogram** *(Eyelid Movies)* - `11 min ago`
-- **[Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)** by **The Smashing Pumpkins** *(Siamese Dream (Deluxe Edition))* - `15 min ago`
+- **[Sleeping in](https://open.spotify.com/track/0E4bYC2Gwi65NCM87iZ403)** by **The Radio Dept.** *(Pet Grief)* - `1 min ago`
+- **[Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7)** by **Panchiko** *(D>E>A>T>H>M>E>T>A>L)* - `5 min ago`
+- **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)* - `7 min ago`
+- **[Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY)** by **Cocteau Twins** *(Milk & Kisses)* - `11 min ago`
+- **[desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh)** by **spirit blue** *(ps / dm)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 11:48:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 12:42:13 UTC*
 <!-- SPOTIFY-END -->
