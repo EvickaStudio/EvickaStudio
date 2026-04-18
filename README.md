@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bbaaa8bf9aedb07135d2c6d3" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0qFTFL1V5nRMw4fmEodSYQ">Life In a Glasshouse</a></strong><br/>
+  <em>by</em> <strong>Radiohead</strong><br/>
+  <em>Album:</em> KID A MNESIA
+</p>
+
+<p align="center"><code>0:36</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>4:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nur Du](https://open.spotify.com/track/6S2EV7CgJzbLAPj0Itu9r9)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `24 min ago`
-- **[Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE)** by **Pat Benatar** *(Crimes Of Passion)* - `1 h ago`
-- **[Fetish](https://open.spotify.com/track/0sOSSBzcUMD7cbdFzDYnYa)** by **ear** *(Fetish / Valley Serpent)* - `1 h ago`
-- **[fleisch](https://open.spotify.com/track/0aJ2sM9mAn3bNk8ZKQ6fVk)** by **blombi19** *(fleisch)* - `1 h ago`
-- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `1 h ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `just now`
+- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `4 min ago`
+- **[Flim - Mixed](https://open.spotify.com/track/35ZNlPjJBiUXUsE0nCLnvu)** by **Aphex Twin** *(DJ-Kicks: Sofia Kourtesis)* - `6 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `9 min ago`
+- **[Carousel](https://open.spotify.com/track/3WUhq8xRlvbIpmQL0N5P2p)** by **Kev Koko** *(Ego Trip)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -108,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -117,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 08:39:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 09:31:53 UTC*
 <!-- SPOTIFY-END -->
