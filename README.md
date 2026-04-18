@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e076f96642e923876345d280" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b2c94705f20cad091d266056" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9">comeback d9 prime era</a></strong><br/>
-  <em>by</em> <strong>DANZINGER 99, NEUNUNDNEUNZIG</strong><br/>
-  <em>Album:</em> comeback d9 prime era
+  <strong><a href="https://open.spotify.com/track/6AfopDriwpgSKhJ32h9pwh">Among Us</a></strong><br/>
+  <em>by</em> <strong>iamjuampi</strong><br/>
+  <em>Album:</em> Among Us
 </p>
 
-<p align="center"><code>1:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:41</code></p>
+<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wunderschön](https://open.spotify.com/track/4UJTFdezbC0sRx5po1tFlc)** by **luutwo, mundus** *(wunderschön)* - `1 min ago`
-- **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)* - `2 min ago`
-- **[töt ich heute :](https://open.spotify.com/track/5pZajApGdHhHhZTqg6Aty8)** by **augenschliesser, Spartakdakar, gothband1t** *(Kunst für Künstler 1)* - `5 min ago`
-- **[Mirage](https://open.spotify.com/track/3w1Jk06kDrWdL1Q6oFQ8bt)** by **osa, vic, ciaffa** *(Mirage)* - `7 min ago`
-- **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)* - `9 min ago`
+- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `2 min ago`
+- **[Sugar (feat. Francesco Yates)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)** by **Robin Schulz, Francesco Yates** *(Sugar)* - `4 min ago`
+- **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)* - `7 min ago`
+- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `13 min ago`
+- **[Bitte komm nach Hause](https://open.spotify.com/track/3DefhrB2WlZEtCz3tYVuJQ)** by **fliggsy** *(Project Life)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 15:57:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 16:38:59 UTC*
 <!-- SPOTIFY-END -->
