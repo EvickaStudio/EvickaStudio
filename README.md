@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a8bd395f286c7bf700d1232e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c5a8adf6ce312c1673ae87ef" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6m04rkFdYrE2YZTHdLFizP">c0ldLA/h0pelessPlace</a></strong><br/>
-  <em>by</em> <strong>TYM</strong><br/>
-  <em>Album:</em> c0ldLA/h0pelessPlace
+  <strong><a href="https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf">Ya Soshla S Uma</a></strong><br/>
+  <em>by</em> <strong>User2222</strong><br/>
+  <em>Album:</em> User2222 Greatest Hits
 </p>
 
-<p align="center"><code>4:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>6:15</code></p>
+<p align="center"><code>0:25</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Pirouette](https://open.spotify.com/track/5YlsYwFBJ3RtJLRsaZh9Mz)** by **Lil Narnia** *(Wisteria)* - `4 min ago`
-- **[hopeless](https://open.spotify.com/track/612LuHT5h9zMcrMboRDukb)** by **Peake** *(Forever the Sickest Rose)* - `7 min ago`
-- **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)* - `9 min ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `13 min ago`
-- **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)* - `15 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `just now`
+- **[Eyelash](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)** by **Bladee** *(Love Is A State)* - `2 min ago`
+- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `5 min ago`
+- **[drunk on arrival](https://open.spotify.com/track/2e03CccSBFNEp9SuQ7alJF)** by **bludwalk** *(drunk on arrival)* - `7 min ago`
+- **[stuck](https://open.spotify.com/track/63pbFL0m8d2V662ICwz3F0)** by **anna luna** *(stuck)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 17:57:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 18:51:05 UTC*
 <!-- SPOTIFY-END -->
