@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273552cfa1846cd879389008129" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f3b44168459546cfbb9884c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2hgeIFy0hmc0URDHd5jVcQ">Good at Dying</a></strong><br/>
-  <em>by</em> <strong>YATWA</strong><br/>
-  <em>Album:</em> Parallel Lines II
+  <strong><a href="https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt">dreamcore</a></strong><br/>
+  <em>by</em> <strong>Yandere</strong><br/>
+  <em>Album:</em> dreamcore
 </p>
 
-<p align="center"><code>0:45</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:37</code></p>
+<p align="center"><code>0:23</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SYSTEM ERROR](https://open.spotify.com/track/5OhGPa8LyHYmPpaeQxzuj1)** by **YOU LOVE HER** *(SYSTEM ERROR)* - `just now`
-- **[Run](https://open.spotify.com/track/0lWJm5TX4a9j8kJjaoOKMh)** by **Anthea, enns** *(Mount Pleasant)* - `2 min ago`
-- **[Shift](https://open.spotify.com/track/3JGRuJ2rewdjWbsOxqqjP0)** by **GARDENS** *(Flaws)* - `4 min ago`
-- **[seventeen](https://open.spotify.com/track/2AUz0IhvouSf6GHNqZN5WO)** by **Kids don't smoke** *(seventeen)* - `8 min ago`
-- **[Papercut](https://open.spotify.com/track/5ZAuceBIUALl4kmnDjeq1F)** by **Astrid Pierce** *(Papercut)* - `11 min ago`
+- **[Uriel #tutmirleid (hotelgodlin)](https://open.spotify.com/track/2XJsgaRXkts2Xy5yFKnYIX)** by **agelast222** *(agelast222)* - `just now`
+- **[kaputt](https://open.spotify.com/track/10oTMRWrupuon8SUnvp4C1)** by **5v** *(kaputt)* - `3 min ago`
+- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `7 min ago`
+- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `9 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 14:35:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 15:22:41 UTC*
 <!-- SPOTIFY-END -->
