@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732f87a3fc74b0a6a85184ab88" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730162373b7076d62e17883336" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP">Europa Baby</a></strong><br/>
-  <em>by</em> <strong>ilyproxy</strong><br/>
-  <em>Album:</em> Europa Baby
+  <strong><a href="https://open.spotify.com/track/23iKYWszFScsU02y1HJb92">START OVER</a></strong><br/>
+  <em>by</em> <strong>Tiffany Day</strong><br/>
+  <em>Album:</em> START OVER
 </p>
 
-<p align="center"><code>0:42</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:54</code></p>
+<p align="center"><code>2:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[melancholie](https://open.spotify.com/track/3BWiqVnA2KcXfT5glt7EYO)** by **luu** *(melancholie)* - `just now`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `2 min ago`
-- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `4 min ago`
-- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `7 min ago`
-- **[poltergeist](https://open.spotify.com/track/2H3pfT9TG5mu2Meop4xA7p)** by **Tamino404** *(poltergeist)* - `11 min ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `2 min ago`
+- **[joan of arc](https://open.spotify.com/track/1P2RErdReBpRhTBAkztRZU)** by **Levi Ryan** *(southern comfort EP)* - `6 min ago`
+- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `9 min ago`
+- **[hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)** by **meat computer** *(hurt and alone)* - `11 min ago`
+- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 10:24:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 11:04:58 UTC*
 <!-- SPOTIFY-END -->
