@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b2c94705f20cad091d266056" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a8bd395f286c7bf700d1232e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6AfopDriwpgSKhJ32h9pwh">Among Us</a></strong><br/>
-  <em>by</em> <strong>iamjuampi</strong><br/>
-  <em>Album:</em> Among Us
+  <strong><a href="https://open.spotify.com/track/6m04rkFdYrE2YZTHdLFizP">c0ldLA/h0pelessPlace</a></strong><br/>
+  <em>by</em> <strong>TYM</strong><br/>
+  <em>Album:</em> c0ldLA/h0pelessPlace
 </p>
 
-<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:15</code></p>
+<p align="center"><code>4:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>6:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `2 min ago`
-- **[Sugar (feat. Francesco Yates)](https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w)** by **Robin Schulz, Francesco Yates** *(Sugar)* - `4 min ago`
-- **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)* - `7 min ago`
-- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `13 min ago`
-- **[Bitte komm nach Hause](https://open.spotify.com/track/3DefhrB2WlZEtCz3tYVuJQ)** by **fliggsy** *(Project Life)* - `15 min ago`
+- **[Pirouette](https://open.spotify.com/track/5YlsYwFBJ3RtJLRsaZh9Mz)** by **Lil Narnia** *(Wisteria)* - `4 min ago`
+- **[hopeless](https://open.spotify.com/track/612LuHT5h9zMcrMboRDukb)** by **Peake** *(Forever the Sickest Rose)* - `7 min ago`
+- **[Forever - Remastered Original Radio Edit](https://open.spotify.com/track/54FCodJkDUrgQ2O93OWy0j)** by **Dee Dee** *(Forever / Pour Toujours)* - `9 min ago`
+- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `13 min ago`
+- **[This Could Build Us a Home](https://open.spotify.com/track/7Cp2PE6Id35QlK1pIpu7X9)** by **The Garden** *(haha)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 16:38:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 17:57:48 UTC*
 <!-- SPOTIFY-END -->
