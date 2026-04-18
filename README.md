@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27317dbd78819c31da3641cb8ca" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738c4fcffc07dd98ad89c0f383" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq">It's A Dream (feat. Lil Uzi Vert)</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers, Lil Uzi Vert</strong><br/>
-  <em>Album:</em> April Mixtape 3
+  <strong><a href="https://open.spotify.com/track/3pbN3SGJott0Rgb5aE5kqc">Transgender</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> (III)
 </p>
 
-<p align="center"><code>0:54</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:31</code></p>
+<p align="center"><code>2:22</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Welcome](https://open.spotify.com/track/2lz2aIo24M8oCkMzXjQC90)** by **Bassvictim** *(Basspunk)* - `just now`
-- **[BLOMSTERTID](https://open.spotify.com/track/0qJR5242PvtHISvqxf4GE9)** by **Dj Billybool, Eurohead, Bladee** *(DYR)* - `2 min ago`
-- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `5 min ago`
-- **[No Limit](https://open.spotify.com/track/0cr6y5Q9f6jGj56wVNmeID)** by **DJmegan23** *(No Limit)* - `7 min ago`
-- **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)* - `9 min ago`
+- **[All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO)** by **Kanye West** *(My Beautiful Dark Twisted Fantasy)* - `1 min ago`
+- **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)* - `6 min ago`
+- **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)* - `9 min ago`
+- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)* - `13 min ago`
+- **[blush [2019]](https://open.spotify.com/track/33FpI5pgclw8lutZem3WRy)** by **damon r.** *(re)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 19:35:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-18 20:04:37 UTC*
 <!-- SPOTIFY-END -->
