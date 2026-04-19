@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738127f8e463044bbc9cb955fe" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273cac5562d448b1aa9b6981b85" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ">Red</a></strong><br/>
-  <em>by</em> <strong>Mori Mori</strong><br/>
-  <em>Album:</em> BB Void
+  <strong><a href="https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0">i ate myself</a></strong><br/>
+  <em>by</em> <strong>bbpue</strong><br/>
+  <em>Album:</em> bbpue
 </p>
 
-<p align="center"><code>0:07</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:18</code></p>
+<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `just now`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `1 min ago`
-- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `4 min ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `6 min ago`
-- **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)* - `8 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `2 min ago`
+- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `4 min ago`
+- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `8 min ago`
+- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `10 min ago`
+- **[Silk Road](https://open.spotify.com/track/2OITBRdvXlqJOMHNzawWXZ)** by **Thaiboy Digital, swedm®** *(Silk Road)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 16:40:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 17:19:47 UTC*
 <!-- SPOTIFY-END -->
