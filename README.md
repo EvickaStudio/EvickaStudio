@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273831ab57b9fd7f8ee51e87175" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273cac5562d448b1aa9b6981b85" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2KO5R9Lo6ypS8D2FdkOyV3">LOOPBACK</a></strong><br/>
-  <em>by</em> <strong>Zhnoi</strong><br/>
-  <em>Album:</em> HYPERDRIVE
+  <strong><a href="https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt">Stacy</a></strong><br/>
+  <em>by</em> <strong>bbpue</strong><br/>
+  <em>Album:</em> bbpue
 </p>
 
-<p align="center"><code>2:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:08</code></p>
+<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Destroy Me](https://open.spotify.com/track/2BPOdOoOW4QeDSS0pUTgue)** by **Bladee** *(Destroy Me)* - `2 min ago`
-- **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)* - `5 min ago`
-- **[K](https://open.spotify.com/track/4p0VZhNS6FgP9q7mGsXZXL)** by **Psyke** *(Tape 2 / Magie)* - `10 min ago`
-- **[MITSUBISHI FLASHBACKS](https://open.spotify.com/track/4PfU3w7Y3EyFN6IfIbDwBn)** by **Palmistry** *(T2)* - `12 min ago`
-- **[Nobody's Fault](https://open.spotify.com/track/4zAPLPwKiNwsHn27oVhuIU)** by **Nation, Ecco2k** *(Nation 2)* - `14 min ago`
+- **[Next to Nothing - Che](https://open.spotify.com/track/6sVBfA33bp7ROA5dtV6cOa)** by **Ayegy** *(Next to Nothing (Che))* - `1 min ago`
+- **[CRACKED SCREEN](https://open.spotify.com/track/6CXTVpjNRQUN4iwbZc4fJK)** by **The Twins, velvette blue** *(TURMERIC)* - `4 min ago`
+- **[Scared That I Might Blow Up](https://open.spotify.com/track/4fMIhL0DEDJU676Sxk4ANe)** by **Sacred holes** *(Genuine Uppers Life)* - `6 min ago`
+- **[Reset](https://open.spotify.com/track/5ZZcINzdiNArgNStohLKdC)** by **Jonah Paz, Adeline Bateman** *(Exit)* - `8 min ago`
+- **[Take Everything](https://open.spotify.com/track/78defdWP10SYPvjtJJwcIO)** by **Europa** *(LAgoon)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 12:41:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 13:45:52 UTC*
 <!-- SPOTIFY-END -->
