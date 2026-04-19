@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a6378e95e811a157c61551a1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738127f8e463044bbc9cb955fe" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7bF2aaowJLYbxIWyasRHBo">Im the One to Blame</a></strong><br/>
-  <em>by</em> <strong>latex fruit</strong><br/>
-  <em>Album:</em> Im the One to Blame
+  <strong><a href="https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ">Red</a></strong><br/>
+  <em>by</em> <strong>Mori Mori</strong><br/>
+  <em>Album:</em> BB Void
 </p>
 
-<p align="center"><code>0:58</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:29</code></p>
+<p align="center"><code>0:07</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[10 RACKS](https://open.spotify.com/track/6khrdcYvCR0E5lMgXtNQ7y)** by **cdgplug** *(HEAVY MENTAL)* - `just now`
-- **[Everybody is Hurting](https://open.spotify.com/track/2KPtRTyvMQgG4WOzzZepdo)** by **Ayegy** *(Everybody is Hurting)* - `3 min ago`
-- **[Niche 2 Divine](https://open.spotify.com/track/6POpvFv5XHbiFOb4DkoNKu)** by **Palmistry** *(TINKERBELL)* - `6 min ago`
-- **[SYNTHETIC HEART](https://open.spotify.com/track/7pmGnFYfalySRkr82i7fL6)** by **enable secret** *(SYNTHETIC HEART)* - `8 min ago`
-- **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)* - `12 min ago`
+- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `just now`
+- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `1 min ago`
+- **[djCEO66](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)** by **Psyke** *(djCEO66)* - `4 min ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `6 min ago`
+- **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 15:58:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 16:40:45 UTC*
 <!-- SPOTIFY-END -->
