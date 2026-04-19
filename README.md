@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273820e2ac14772ae3162c6d479" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273436242b181b86112c54839e5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz">Fourth of July</a></strong><br/>
-  <em>by</em> <strong>Sufjan Stevens</strong><br/>
-  <em>Album:</em> Carrie & Lowell
+  <strong><a href="https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt">Trouble</a></strong><br/>
+  <em>by</em> <strong>Computer Kill</strong><br/>
+  <em>Album:</em> Computer Kill
 </p>
 
-<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>4:39</code></p>
+<p align="center"><code>2:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)* - `1 min ago`
-- **[temcore](https://open.spotify.com/track/1VXK3vU169Y94j9EgM8yeR)** by **temcandoanything** *(blue screen'd my navii)* - `5 min ago`
-- **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)* - `7 min ago`
-- **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)* - `11 min ago`
-- **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)* - `13 min ago`
+- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `2 min ago`
+- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `4 min ago`
+- **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)* - `9 min ago`
+- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `12 min ago`
+- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 18:56:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 19:37:12 UTC*
 <!-- SPOTIFY-END -->
