@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735e2d556b8d172a10ae34147e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b">U Weren't Here I Really Miss You</a></strong><br/>
-  <em>by</em> <strong>Cult Member, Mia Martina</strong><br/>
-  <em>Album:</em> U Weren't Here I Really Miss You
+  <strong><a href="https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB">With you</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Basspunk 2
 </p>
 
-<p align="center"><code>1:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:40</code></p>
+<p align="center"><code>0:51</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:43</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn)** by **Ecco2k** *(E)* - `1 min ago`
-- **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)* - `4 min ago`
-- **[Pearl Fountain](https://open.spotify.com/track/2aXtvKNcNHlbZEsZ5C9yVB)** by **Yung Lean, Black Kray, Bladee** *(Warlord (Deluxe))* - `6 min ago`
-- **[Kiss Me Through the Scope](https://open.spotify.com/track/3GCMcuFshftdxKEeFTCIwK)** by **Thaiboy Digital** *(Legendary Member)* - `9 min ago`
-- **[Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW)** by **MGMT** *(Oracular Spectacular)* - `12 min ago`
+- **[Doppler](https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h)** by **The Hellp** *(Riviera)* - `just now`
+- **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)* - `3 min ago`
+- **[I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg)** by **Rebzyyx** *(I'm so crazy for youuu </3)* - `6 min ago`
+- **[Mimosa](https://open.spotify.com/track/4VORsp3UUBJeBGIYRSaIQz)** by **Lucy Bedroque** *(Fête de la Vanille)* - `7 min ago`
+- **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by **uusymon** *(Stardust)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 22:35:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 23:19:31 UTC*
 <!-- SPOTIFY-END -->
