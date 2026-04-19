@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273831ab57b9fd7f8ee51e87175" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2KO5R9Lo6ypS8D2FdkOyV3">LOOPBACK</a></strong><br/>
+  <em>by</em> <strong>Zhnoi</strong><br/>
+  <em>Album:</em> HYPERDRIVE
+</p>
+
+<p align="center"><code>2:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)* - `9 min ago`
-- **[Verdien dich nicht](https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw)** by **Traumatin** *(Verdien dich nicht)* - `13 min ago`
-- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)* - `16 min ago`
-- **[Wie sehr tut es weh?](https://open.spotify.com/track/3prkogzSQrFbHOnYDIxI46)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `20 min ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `23 min ago`
+- **[Destroy Me](https://open.spotify.com/track/2BPOdOoOW4QeDSS0pUTgue)** by **Bladee** *(Destroy Me)* - `2 min ago`
+- **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)* - `5 min ago`
+- **[K](https://open.spotify.com/track/4p0VZhNS6FgP9q7mGsXZXL)** by **Psyke** *(Tape 2 / Magie)* - `10 min ago`
+- **[MITSUBISHI FLASHBACKS](https://open.spotify.com/track/4PfU3w7Y3EyFN6IfIbDwBn)** by **Palmistry** *(T2)* - `12 min ago`
+- **[Nobody's Fault](https://open.spotify.com/track/4zAPLPwKiNwsHn27oVhuIU)** by **Nation, Ecco2k** *(Nation 2)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -115,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 11:48:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 12:41:27 UTC*
 <!-- SPOTIFY-END -->
