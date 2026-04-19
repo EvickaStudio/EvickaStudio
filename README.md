@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27320a41dfca40bb3573d8b2d94" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0Co7gzgksKa5tOvGlI37dn">Monogamie</a></strong><br/>
-  <em>by</em> <strong>Luis Ake, AMANDUS 99</strong><br/>
-  <em>Album:</em> Horse Trance: Melodien der Freiheit
+  <strong><a href="https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid">Gajówka</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Basspunk 2
 </p>
 
-<p align="center"><code>0:54</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:08</code></p>
+<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sportwagen✰✰+++](https://open.spotify.com/track/6qA38LdSXin6RowuxwMMoE)** by **DANZINGER 99, AMANDUS 99** *(sportwagen✰✰+++)* - `just now`
-- **[sportwagen✰✰+++](https://open.spotify.com/track/6TWMC0MocKEwTkZQNfvHbS)** by **DANZINGER 99, AMANDUS 99** *(Hotel+++)* - `2 min ago`
-- **[traurig・:__✧。+++](https://open.spotify.com/track/1w7gTXpE2isZFh03z064ST)** by **DANZINGER 99, AMANDUS 99** *(Hotel+++)* - `3 min ago`
-- **[Rettung P Cayman S](https://open.spotify.com/track/5ccD3cQKG1aHAhQ88YAcTq)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Saiya Tiaw, Nicki Papa** *(USA)* - `5 min ago`
-- **[Tendenz steigend](https://open.spotify.com/track/1cdthhd62WrDW1Y4Sf78Er)** by **AMANDUS 99, DANZINGER 99** *(Tendenz steigend)* - `6 min ago`
+- **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)* - `1 min ago`
+- **[holding on](https://open.spotify.com/track/5PSkVmVQ8DRqkhgMaV69uu)** by **The Twins, RADA** *(holding on)* - `3 min ago`
+- **[Closing Time](https://open.spotify.com/track/4xknWgReka280wDuVjmTMZ)** by **smokedope2016** *(THE COMEDOWN)* - `5 min ago`
+- **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)* - `7 min ago`
+- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 20:52:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 21:27:39 UTC*
 <!-- SPOTIFY-END -->
