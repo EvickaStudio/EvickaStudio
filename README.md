@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736631be482e2fbedd45de9e5d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid">Gajówka</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk 2
+  <strong><a href="https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw">where's my head at _</a></strong><br/>
+  <em>by</em> <strong>Basement Jaxx, 100 gecs</strong><br/>
+  <em>Album:</em> where's my head at _
 </p>
 
-<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:37</code></p>
+<p align="center"><code>0:54</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun)** by **Ecco2k, Thaiboy Digital, Bladee** *(Trash Island)* - `1 min ago`
-- **[holding on](https://open.spotify.com/track/5PSkVmVQ8DRqkhgMaV69uu)** by **The Twins, RADA** *(holding on)* - `3 min ago`
-- **[Closing Time](https://open.spotify.com/track/4xknWgReka280wDuVjmTMZ)** by **smokedope2016** *(THE COMEDOWN)* - `5 min ago`
-- **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)* - `7 min ago`
-- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `9 min ago`
+- **[Black Out Days (Stay Away)](https://open.spotify.com/track/6r7b1UHvO3fBZe7wBXWTaZ)** by **Ian Asher, Phantogram** *(Black Out Days (Stay Away))* - `just now`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `2 min ago`
+- **[Uncrushworthy](https://open.spotify.com/track/11WwQT107JzT8UKyIeSAAv)** by **Suzy Sheer, DJH** *(Euphoriphilia)* - `5 min ago`
+- **[Chained Up](https://open.spotify.com/track/4v3LkPH31MOIh2MFp8niuU)** by **Snow Strippers** *(Night Killaz Vol. 2)* - `7 min ago`
+- **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 21:27:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 21:57:47 UTC*
 <!-- SPOTIFY-END -->
