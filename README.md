@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273436242b181b86112c54839e5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731dc76967a956d9c3c596fd3c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4xDrxLWMb5V0fb3aFsbylt">Trouble</a></strong><br/>
-  <em>by</em> <strong>Computer Kill</strong><br/>
-  <em>Album:</em> Computer Kill
+  <strong><a href="https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi">obsessixn</a></strong><br/>
+  <em>by</em> <strong>whatsaheart</strong><br/>
+  <em>Album:</em> obsessixn
 </p>
 
-<p align="center"><code>2:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:58</code></p>
+<p align="center"><code>0:11</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `2 min ago`
-- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `4 min ago`
-- **[Irgendwer in Wien](https://open.spotify.com/track/2avSSKmdMnfW6EyjQwcERo)** by **ilyproxy, leander** *(Irgendwer in Wien)* - `9 min ago`
-- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `12 min ago`
-- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `13 min ago`
+- **[i crash, u crash](https://open.spotify.com/track/2miw7jNOAe9Qny5TG3vGyg)** by **løve.wav, ghøst.wav** *(i crash, u crash)* - `just now`
+- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `2 min ago`
+- **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)* - `4 min ago`
+- **[viola](https://open.spotify.com/track/2rdUbYOAI23aw0XJSaE4eC)** by **Aurval** *(viola)* - `7 min ago`
+- **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 19:37:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 20:05:24 UTC*
 <!-- SPOTIFY-END -->
