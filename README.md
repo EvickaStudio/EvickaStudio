@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB">With you</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk 2
+  <strong><a href="https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT">Vanished</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> Crystal Castles
 </p>
 
-<p align="center"><code>0:51</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:43</code></p>
+<p align="center"><code>0:25</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Doppler](https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h)** by **The Hellp** *(Riviera)* - `just now`
-- **[Untrust Us](https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2)** by **Crystal Castles** *(Crystal Castles)* - `3 min ago`
-- **[I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg)** by **Rebzyyx** *(I'm so crazy for youuu </3)* - `6 min ago`
-- **[Mimosa](https://open.spotify.com/track/4VORsp3UUBJeBGIYRSaIQz)** by **Lucy Bedroque** *(Fête de la Vanille)* - `7 min ago`
-- **[Stardust](https://open.spotify.com/track/0llvkp2O85rvWw6c4OEi3A)** by **uusymon** *(Stardust)* - `10 min ago`
+- **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)* - `just now`
+- **[Cha Cha Cha](https://open.spotify.com/track/2Nq2IkUtXoO1DJ0A4bNBcj)** by **Käärijä** *(People's Champion)* - `3 min ago`
+- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `5 min ago`
+- **[I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm)** by **DVRST** *(I Hate You I Love You)* - `8 min ago`
+- **[Rhythm Is a Dancer - 7" Edit](https://open.spotify.com/track/5mFQCdbvuzVATC7tP7XsPp)** by **SNAP!** *(The Madman's Return)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 23:19:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 23:59:25 UTC*
 <!-- SPOTIFY-END -->
