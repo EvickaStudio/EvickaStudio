@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731dc76967a956d9c3c596fd3c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27320a41dfca40bb3573d8b2d94" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi">obsessixn</a></strong><br/>
-  <em>by</em> <strong>whatsaheart</strong><br/>
-  <em>Album:</em> obsessixn
+  <strong><a href="https://open.spotify.com/track/0Co7gzgksKa5tOvGlI37dn">Monogamie</a></strong><br/>
+  <em>by</em> <strong>Luis Ake, AMANDUS 99</strong><br/>
+  <em>Album:</em> Horse Trance: Melodien der Freiheit
 </p>
 
-<p align="center"><code>0:11</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:54</code></p>
+<p align="center"><code>0:54</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[i crash, u crash](https://open.spotify.com/track/2miw7jNOAe9Qny5TG3vGyg)** by **løve.wav, ghøst.wav** *(i crash, u crash)* - `just now`
-- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `2 min ago`
-- **[I’m God](https://open.spotify.com/track/4xBuhWdeQ24ySQx6Gkzfnk)** by **extort** *(I’m God)* - `4 min ago`
-- **[viola](https://open.spotify.com/track/2rdUbYOAI23aw0XJSaE4eC)** by **Aurval** *(viola)* - `7 min ago`
-- **[SummerTime Blood](https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO)** by **Yung Lean, Skrillex, Bladee, Ecco2k** *(Stardust)* - `9 min ago`
+- **[sportwagen✰✰+++](https://open.spotify.com/track/6qA38LdSXin6RowuxwMMoE)** by **DANZINGER 99, AMANDUS 99** *(sportwagen✰✰+++)* - `just now`
+- **[sportwagen✰✰+++](https://open.spotify.com/track/6TWMC0MocKEwTkZQNfvHbS)** by **DANZINGER 99, AMANDUS 99** *(Hotel+++)* - `2 min ago`
+- **[traurig・:__✧。+++](https://open.spotify.com/track/1w7gTXpE2isZFh03z064ST)** by **DANZINGER 99, AMANDUS 99** *(Hotel+++)* - `3 min ago`
+- **[Rettung P Cayman S](https://open.spotify.com/track/5ccD3cQKG1aHAhQ88YAcTq)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Saiya Tiaw, Nicki Papa** *(USA)* - `5 min ago`
+- **[Tendenz steigend](https://open.spotify.com/track/1cdthhd62WrDW1Y4Sf78Er)** by **AMANDUS 99, DANZINGER 99** *(Tendenz steigend)* - `6 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 20:05:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 20:52:37 UTC*
 <!-- SPOTIFY-END -->
