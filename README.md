@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bc11baa96786e237fb1c3265" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a6378e95e811a157c61551a1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5zL8xmTUrPMFLNT2Yi2960">Falling apart</a></strong><br/>
-  <em>by</em> <strong>Zhnoi</strong><br/>
-  <em>Album:</em> Keep it 2 yourself
+  <strong><a href="https://open.spotify.com/track/7bF2aaowJLYbxIWyasRHBo">Im the One to Blame</a></strong><br/>
+  <em>by</em> <strong>latex fruit</strong><br/>
+  <em>Album:</em> Im the One to Blame
 </p>
 
-<p align="center"><code>2:00</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:42</code></p>
+<p align="center"><code>0:58</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `1 min ago`
-- **[LA to BCN](https://open.spotify.com/track/3S3vbcccF7wC57LNyk6Iwy)** by **Thaiboy Digital** *(RIFT Two)* - `4 min ago`
-- **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)* - `7 min ago`
-- **[My Chalice](https://open.spotify.com/track/5DO18wFTnk0Dzrd6q7FjQK)** by **smokedope2016** *(THE COMEDOWN)* - `10 min ago`
-- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `13 min ago`
+- **[10 RACKS](https://open.spotify.com/track/6khrdcYvCR0E5lMgXtNQ7y)** by **cdgplug** *(HEAVY MENTAL)* - `just now`
+- **[Everybody is Hurting](https://open.spotify.com/track/2KPtRTyvMQgG4WOzzZepdo)** by **Ayegy** *(Everybody is Hurting)* - `3 min ago`
+- **[Niche 2 Divine](https://open.spotify.com/track/6POpvFv5XHbiFOb4DkoNKu)** by **Palmistry** *(TINKERBELL)* - `6 min ago`
+- **[SYNTHETIC HEART](https://open.spotify.com/track/7pmGnFYfalySRkr82i7fL6)** by **enable secret** *(SYNTHETIC HEART)* - `8 min ago`
+- **[shut down entirely](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)** by **meat computer** *(slept on the floor still dreamt about you)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 15:22:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 15:58:15 UTC*
 <!-- SPOTIFY-END -->
