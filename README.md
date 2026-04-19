@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b5827f574f1b233f6fcc5355" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273820e2ac14772ae3162c6d479" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO">brauche deine liebe nicht mehr</a></strong><br/>
-  <em>by</em> <strong>Punk Christ</strong><br/>
-  <em>Album:</em> brauche deine liebe nicht mehr
+  <strong><a href="https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz">Fourth of July</a></strong><br/>
+  <em>by</em> <strong>Sufjan Stevens</strong><br/>
+  <em>Album:</em> Carrie & Lowell
 </p>
 
-<p align="center"><code>0:36</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>1:47</code></p>
+<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>4:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Black Static](https://open.spotify.com/track/5pKr2RCYmOuvZ8jTXqTkSy)** by **akiaura, LONOWN, STM** *(Ketamine Girl)* - `just now`
-- **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)* - `3 min ago`
-- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `5 min ago`
-- **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)* - `11 min ago`
-- **[Under Your Spell](https://open.spotify.com/track/6t8PCccr75xajvei9OLhWK)** by **Bladee** *(Working on Dying)* - `13 min ago`
+- **[Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX)** by **Slowdive** *(Souvlaki)* - `1 min ago`
+- **[temcore](https://open.spotify.com/track/1VXK3vU169Y94j9EgM8yeR)** by **temcandoanything** *(blue screen'd my navii)* - `5 min ago`
+- **[Back to the Old House - 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb)** by **The Smiths** *(Louder Than Bombs)* - `7 min ago`
+- **[Sexy im KaDeWe](https://open.spotify.com/track/037oWQ17tKZ6hWTyh5Q8GY)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)* - `11 min ago`
+- **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 17:59:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 18:56:00 UTC*
 <!-- SPOTIFY-END -->
