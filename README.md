@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cac5562d448b1aa9b6981b85" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b07b59e43232b88edbdcb72b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6PlF6E8UmjTcIW4NzTcszt">Stacy</a></strong><br/>
-  <em>by</em> <strong>bbpue</strong><br/>
-  <em>Album:</em> bbpue
+  <strong><a href="https://open.spotify.com/track/081VsMlmASUbpB9dAyadTU">Forever - dep4rted remix</a></strong><br/>
+  <em>by</em> <strong>DJmegan23, ultra caro, dep4rted</strong><br/>
+  <em>Album:</em> M+ (Remixes)
 </p>
 
-<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:14</code></p>
+<p align="center"><code>0:37</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Next to Nothing - Che](https://open.spotify.com/track/6sVBfA33bp7ROA5dtV6cOa)** by **Ayegy** *(Next to Nothing (Che))* - `1 min ago`
-- **[CRACKED SCREEN](https://open.spotify.com/track/6CXTVpjNRQUN4iwbZc4fJK)** by **The Twins, velvette blue** *(TURMERIC)* - `4 min ago`
-- **[Scared That I Might Blow Up](https://open.spotify.com/track/4fMIhL0DEDJU676Sxk4ANe)** by **Sacred holes** *(Genuine Uppers Life)* - `6 min ago`
-- **[Reset](https://open.spotify.com/track/5ZZcINzdiNArgNStohLKdC)** by **Jonah Paz, Adeline Bateman** *(Exit)* - `8 min ago`
-- **[Take Everything](https://open.spotify.com/track/78defdWP10SYPvjtJJwcIO)** by **Europa** *(LAgoon)* - `9 min ago`
+- **[The Meadow Where I Died](https://open.spotify.com/track/6EYnaxvl2fkGN7vPmooa77)** by **Ayegy** *(BLACKTHORN)* - `just now`
+- **[Blow The Speaker .](https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18)** by **fakemink** *(The Boy who cried Terrified .)* - `3 min ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `5 min ago`
+- **[My sad plan](https://open.spotify.com/track/0iR0fnoNTQcNKIfU5NT8w0)** by **Lorem Ipsum, Sacred holes** *(Ipsum Than The Rest)* - `7 min ago`
+- **[Aurora](https://open.spotify.com/track/60ROE8El697cDcueQiU2hD)** by **Quiet Light** *(Pure Hearts)* - `44 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 13:45:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-19 14:35:49 UTC*
 <!-- SPOTIFY-END -->
