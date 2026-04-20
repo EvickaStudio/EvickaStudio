@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27350a0e8f7884db9c0e3b54921" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27389c39ba1acdf33ed7acd3867" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M">where did i go wrong</a></strong><br/>
-  <em>by</em> <strong>emorave</strong><br/>
-  <em>Album:</em> where did i go wrong
+  <strong><a href="https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV">Still Don't Know My Name (From "Euphoria: Season 1" Soundtrack)</a></strong><br/>
+  <em>by</em> <strong>Labrinth</strong><br/>
+  <em>Album:</em> Euphoria (Original Score from the HBO Series)
 </p>
 
-<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:49</code></p>
+<p align="center"><code>1:16</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)* - `1 min ago`
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `6 min ago`
-- **[nothing last 4ever](https://open.spotify.com/track/1wzCEEvNOyAxzgifct7SQj)** by **Rebzyyx, syris** *(nothing last 4ever)* - `9 min ago`
-- **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)* - `12 min ago`
+- **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)* - `1 min ago`
+- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)* - `3 min ago`
+- **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)* - `7 min ago`
+- **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by **Blythe Star** *(If I Give You My Heart, Can I Trust You With It?)* - `9 min ago`
+- **[Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL)** by **Kanye West** *(The Life Of Pablo)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 08:16:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 10:12:45 UTC*
 <!-- SPOTIFY-END -->
