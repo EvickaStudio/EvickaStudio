@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a77506ce6eb7a4c0d0d15ce3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c8deaf5aea5573e3f3853584" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV">Führerschein</a></strong><br/>
-  <em>by</em> <strong>Dilla</strong><br/>
-  <em>Album:</em> Führerschein
+  <strong><a href="https://open.spotify.com/track/0mJ4RAd8kgXZLmWNCf6RHY">Guts Theme</a></strong><br/>
+  <em>by</em> <strong>Rooster</strong><br/>
+  <em>Album:</em> Rooster Debut
 </p>
 
-<p align="center"><code>2:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>4:02</code></p>
+<p align="center"><code>0:14</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Vermissen (feat. Henning May)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz)** by **Juju, Henning May** *(Bling Bling)* - `2 min ago`
-- **[mr. ikari & the cruel angels](https://open.spotify.com/track/05nN7qZAfHyswFUCpbqyx0)** by **DJmegan23** *(sound-proofed wilderness)* - `5 min ago`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `6 min ago`
-- **[A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)** by **Have A Nice Life** *(Deathconsciousness)* - `9 min ago`
-- **[Upside Down](https://open.spotify.com/track/1O6Y59UFcRXmp9JFIhhjG7)** by **SlushhKitten, hqwilli** *(Upside Down)* - `17 min ago`
+- **[Brexia](https://open.spotify.com/track/1lVlKZnGxVMbqkxjuDDwTJ)** by **Palmistry, Yung Lean** *(TINKERBELL)* - `just now`
+- **[2+2+2+2+2+2+2+2+2](https://open.spotify.com/track/5xnmTOEMgSpKMmpN5kJ5tc)** by **DJmegan23** *(Dopamine Machine 2)* - `1 min ago`
+- **[i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ)** by **meat computer** *(i feel like a dog)* - `2 min ago`
+- **[Cold Wind Blowing](https://open.spotify.com/track/3slUVhcwj0L7F4Dn1Hxx8Z)** by **Ayegy** *(BLACKTHORN)* - `4 min ago`
+- **[.410](https://open.spotify.com/track/0HbCDSpnbTQfJLBXXwcKxX)** by **Elusin** *(.410)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 14:28:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 15:52:17 UTC*
 <!-- SPOTIFY-END -->
