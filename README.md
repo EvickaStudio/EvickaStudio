@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c87b539fb5303710bd47c636" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27350a0e8f7884db9c0e3b54921" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1l0kNsXEU9CJeLscd79mHO">arcturian templars #ängel (hotelgodlin)</a></strong><br/>
-  <em>by</em> <strong>agelast222</strong><br/>
-  <em>Album:</em> agelast222
+  <strong><a href="https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M">where did i go wrong</a></strong><br/>
+  <em>by</em> <strong>emorave</strong><br/>
+  <em>Album:</em> where did i go wrong
 </p>
 
-<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:02</code></p>
+<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `1 min ago`
-- **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)* - `4 min ago`
-- **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)* - `6 min ago`
-- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `9 min ago`
-- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `11 min ago`
+- **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)* - `1 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
+- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `6 min ago`
+- **[nothing last 4ever](https://open.spotify.com/track/1wzCEEvNOyAxzgifct7SQj)** by **Rebzyyx, syris** *(nothing last 4ever)* - `9 min ago`
+- **[Embedded](https://open.spotify.com/track/4MDygOuNXEwOSNC0nickhJ)** by **60 juno** *(Embedded)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Thaiboy Digital**](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 05:59:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 08:16:14 UTC*
 <!-- SPOTIFY-END -->
