@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a604feed5966a61f05879342" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c87b539fb5303710bd47c636" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK">Waist</a></strong><br/>
-  <em>by</em> <strong>OMAH LAY</strong><br/>
-  <em>Album:</em> Waist
+  <strong><a href="https://open.spotify.com/track/1l0kNsXEU9CJeLscd79mHO">arcturian templars #ängel (hotelgodlin)</a></strong><br/>
+  <em>by</em> <strong>agelast222</strong><br/>
+  <em>Album:</em> agelast222
 </p>
 
-<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:45</code></p>
+<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV)** by **Seyi Vibez** *(Children of Africa)* - `just now`
-- **[Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy)** by **Monaky** *(Candor)* - `3 min ago`
-- **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by **The Police** *(Reggatta De Blanc (Remastered 2003))* - `6 min ago`
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)* - `10 min ago`
-- **[resonance - midwest emo version](https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7)** by **jacal** *(resonance (midwest emo version))* - `14 min ago`
+- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `1 min ago`
+- **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)* - `4 min ago`
+- **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)* - `6 min ago`
+- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `9 min ago`
+- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 03:21:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 05:59:37 UTC*
 <!-- SPOTIFY-END -->
