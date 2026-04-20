@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27389c39ba1acdf33ed7acd3867" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV">Still Don't Know My Name (From "Euphoria: Season 1" Soundtrack)</a></strong><br/>
-  <em>by</em> <strong>Labrinth</strong><br/>
-  <em>Album:</em> Euphoria (Original Score from the HBO Series)
-</p>
-
-<p align="center"><code>1:16</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:33</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq)** by **Ely Oaks, LAVINIA** *(Borderline)* - `1 min ago`
-- **[Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN)** by **Franz Ferdinand** *(Franz Ferdinand)* - `3 min ago`
-- **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)* - `7 min ago`
-- **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by **Blythe Star** *(If I Give You My Heart, Can I Trust You With It?)* - `9 min ago`
-- **[Waves](https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL)** by **Kanye West** *(The Life Of Pablo)* - `15 min ago`
+- **[regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy)** by **DANZINGER 99, DJ<3** *(regen༺♡✧+++)* - `53 min ago`
+- **[LSD Racing Team](https://open.spotify.com/track/5AK1v847LeWu3RBaSawxNT)** by **Kiryano** *(01 Refine)* - `54 min ago`
+- **[einschlafen](https://open.spotify.com/track/3Q12oCr3y4FBMtRa3eBfkl)** by **Pink Katana, TYM** *(Den Mutigen gehört die Welt)* - `56 min ago`
+- **[nthn](https://open.spotify.com/track/1uupDYcG6zHJFv5Z0HCZyz)** by **i9bonsai** *(nthn)* - `58 min ago`
+- **[geist](https://open.spotify.com/track/35XfmxiJHG3a1Owsz6HwDj)** by **Leocardo DiNaprio, Traumatin** *(geist)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 10:12:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-20 11:41:50 UTC*
 <!-- SPOTIFY-END -->
