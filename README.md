@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732829a182a74980d6b5a25d3b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738ffde069d2e01679797522fb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4">null city</a></strong><br/>
-  <em>by</em> <strong>dreamloader</strong><br/>
-  <em>Album:</em> null city
+  <strong><a href="https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U">help, im falling</a></strong><br/>
+  <em>by</em> <strong>meat computer</strong><br/>
+  <em>Album:</em> help, im falling
 </p>
 
-<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:42</code></p>
+<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>1:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)* - `1 min ago`
-- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `4 min ago`
-- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `7 min ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `14 min ago`
-- **[Cinderella's Daughter](https://open.spotify.com/track/12FVAlMTufWF0bHpP5CSom)** by **The Simps, Eyedress, zzzahara** *(Siblings)* - `2 h ago`
+- **[love is unfair](https://open.spotify.com/track/43m6TDNjIYvDjkjUW9eraa)** by **Zhnoi** *(webcore friends)* - `1 min ago`
+- **[4. 5-MMC : Förbannad i en evighet](https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb)** by **DJ Worm, Eurohead** *(Klubb Musik vol.1)* - `3 min ago`
+- **[Maybe](https://open.spotify.com/track/1wNC7lvRJqumk4SxONpwha)** by **Helen Sun** *(talk with your Teeth)* - `7 min ago`
+- **[Unifier](https://open.spotify.com/track/1MgayGKX4jrShy651NAnBd)** by **Ayegy, User2222** *(Unifier)* - `9 min ago`
+- **[put em high](https://open.spotify.com/track/2RqfGFM5pup0JHd3aPFGHP)** by **beansclub** *(put em high)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 10:20:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 11:36:01 UTC*
 <!-- SPOTIFY-END -->
