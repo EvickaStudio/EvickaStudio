@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739785c01cabc1c557dc50888c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/29RJoeJv7FwXD3r68H5euq">Green Eyed Girl</a></strong><br/>
-  <em>by</em> <strong>The Simps, Eyedress, zzzahara</strong><br/>
-  <em>Album:</em> Siblings
-</p>
-
-<p align="center"><code>0:18</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:09</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Separation Anxiety](https://open.spotify.com/track/3ES1Qz0Mqa4vTXZSd7hwSD)** by **Eyedress** *(Manila Ice)* - `just now`
-- **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)* - `4 min ago`
-- **[Mis](https://open.spotify.com/track/0lGTVZfU82bYT2uJw22Kz4)** by **Alex G** *(Rules)* - `7 min ago`
-- **[J Song](https://open.spotify.com/track/0CuRD2TMEILw4kEs73Fqpb)** by **60 juno** *(Swell blue)* - `11 min ago`
-- **[Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM)** by **TV Girl** *(French Exit)* - `14 min ago`
+- **[Cinderella's Daughter](https://open.spotify.com/track/12FVAlMTufWF0bHpP5CSom)** by **The Simps, Eyedress, zzzahara** *(Siblings)* - `1 h ago`
+- **[Sometimes I Wonder](https://open.spotify.com/track/0iKLueOVAQckHVMqBYOx9B)** by **Dream, Ivory** *(Dream, Ivory)* - `1 h ago`
+- **[Xenophobic](https://open.spotify.com/track/3lfYqYh3KaeQ25SuLtpvJi)** by **Eyedress** *(Sensitive G)* - `1 h ago`
+- **[Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO)** by **TV Girl** *(Who Really Cares)* - `1 h ago`
+- **[Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV)** by **Duster** *(Stratosphere)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 07:04:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 08:59:48 UTC*
 <!-- SPOTIFY-END -->
