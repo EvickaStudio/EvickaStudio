@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27390ca63465a06350387339337" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273174e964b6fdf664e564b4f62" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0aJ2sM9mAn3bNk8ZKQ6fVk">fleisch</a></strong><br/>
-  <em>by</em> <strong>blombi19</strong><br/>
-  <em>Album:</em> fleisch
+  <strong><a href="https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO">Legend</a></strong><br/>
+  <em>by</em> <strong>Tevvez</strong><br/>
+  <em>Album:</em> Phantom
 </p>
 
-<p align="center"><code>0:17</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:00</code></p>
+<p align="center"><code>0:58</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:09</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `1 min ago`
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `3 min ago`
-- **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)* - `5 min ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `7 min ago`
-- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `9 min ago`
+- **[Kein Raster](https://open.spotify.com/track/4AhcxC0G4OAzOQByXVjNdr)** by **toobrokeforfiji** *(Kein Raster)* - `just now`
+- **[brown eyes*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD)** by **re6ce** *(brown eyes*)* - `4 min ago`
+- **[RITTER DER NACHT OUTRO](https://open.spotify.com/track/6n0BEMe62sSIo5Yg6vJEEc)** by **Punk Christ** *(ORGANISCHE CHEMIE)* - `7 min ago`
+- **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `9 min ago`
+- **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by **Duster** *(Capsule Losing Contact)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 17:54:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 19:00:11 UTC*
 <!-- SPOTIFY-END -->
