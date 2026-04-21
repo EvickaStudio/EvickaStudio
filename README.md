@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))* - `57 min ago`
+- **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))* - `1 h ago`
 - **[EMO GIRL<3](https://open.spotify.com/track/1lrCTFAROnJz3oPlgPQIXT)** by **UpVampin, 2504** *(EMO GIRL<3)* - `1 h ago`
 - **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)* - `1 h ago`
 - **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)* - `1 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 21:57:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 22:35:31 UTC*
 <!-- SPOTIFY-END -->
