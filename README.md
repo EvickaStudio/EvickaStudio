@@ -97,10 +97,10 @@
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
 - **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))* - `2 h ago`
-- **[EMO GIRL<3](https://open.spotify.com/track/1lrCTFAROnJz3oPlgPQIXT)** by **UpVampin, 2504** *(EMO GIRL<3)* - `2 h ago`
-- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)* - `2 h ago`
-- **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)* - `2 h ago`
-- **[No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)** by **Radiohead** *(OK Computer OKNOTOK 1997 2017)* - `2 h ago`
+- **[EMO GIRL<3](https://open.spotify.com/track/1lrCTFAROnJz3oPlgPQIXT)** by **UpVampin, 2504** *(EMO GIRL<3)* - `3 h ago`
+- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)* - `3 h ago`
+- **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)* - `3 h ago`
+- **[No Surprises - Remastered](https://open.spotify.com/track/39UJG380DXNHAa07pGdVgI)** by **Radiohead** *(OK Computer OKNOTOK 1997 2017)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 23:21:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 23:57:46 UTC*
 <!-- SPOTIFY-END -->
