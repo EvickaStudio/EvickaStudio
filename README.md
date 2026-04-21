@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732829a182a74980d6b5a25d3b" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4">null city</a></strong><br/>
+  <em>by</em> <strong>dreamloader</strong><br/>
+  <em>Album:</em> null city
+</p>
+
+<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Cinderella's Daughter](https://open.spotify.com/track/12FVAlMTufWF0bHpP5CSom)** by **The Simps, Eyedress, zzzahara** *(Siblings)* - `1 h ago`
-- **[Sometimes I Wonder](https://open.spotify.com/track/0iKLueOVAQckHVMqBYOx9B)** by **Dream, Ivory** *(Dream, Ivory)* - `1 h ago`
-- **[Xenophobic](https://open.spotify.com/track/3lfYqYh3KaeQ25SuLtpvJi)** by **Eyedress** *(Sensitive G)* - `1 h ago`
-- **[Cigarettes out the Window](https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO)** by **TV Girl** *(Who Really Cares)* - `1 h ago`
-- **[Constellations](https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV)** by **Duster** *(Stratosphere)* - `1 h ago`
+- **[Security!](https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS)** by **Ecco2k** *(E)* - `1 min ago`
+- **[777th ELEMENT](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)** by **cdgplug** *(HEAVY MENTAL)* - `4 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `7 min ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `14 min ago`
+- **[Cinderella's Daughter](https://open.spotify.com/track/12FVAlMTufWF0bHpP5CSom)** by **The Simps, Eyedress, zzzahara** *(Siblings)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 08:59:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-21 10:20:24 UTC*
 <!-- SPOTIFY-END -->
