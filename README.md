@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)* - `41 min ago`
-- **[You Know I Don't Get Down Like That (with swedishwhorehouse)](https://open.spotify.com/track/7zbHYkf4ytyrPv77gcpQhK)** by **Sacred holes** *(Wirehair)* - `44 min ago`
-- **[precious (we just have different dreams)](https://open.spotify.com/track/1od3zg9lwSQweRUQOEkyVj)** by **beansclub** *(TRANSIENT FLEETING MEMOIRS)* - `46 min ago`
-- **[forever](https://open.spotify.com/track/6PjDElM1gi98hjaUkKHGng)** by **AITANA★★OFICIAL** *(forever)* - `49 min ago`
-- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `52 min ago`
+- **[stay with me](https://open.spotify.com/track/6PhiCizfWHniGvJnigKFzT)** by **mint** *(stay with me)* - `2 h ago`
+- **[You Know I Don't Get Down Like That (with swedishwhorehouse)](https://open.spotify.com/track/7zbHYkf4ytyrPv77gcpQhK)** by **Sacred holes** *(Wirehair)* - `2 h ago`
+- **[precious (we just have different dreams)](https://open.spotify.com/track/1od3zg9lwSQweRUQOEkyVj)** by **beansclub** *(TRANSIENT FLEETING MEMOIRS)* - `2 h ago`
+- **[forever](https://open.spotify.com/track/6PjDElM1gi98hjaUkKHGng)** by **AITANA★★OFICIAL** *(forever)* - `2 h ago`
+- **[Shiny kindness](https://open.spotify.com/track/3t09xhZZzf3GLtGdpEbhM3)** by **Helen Sun** *(talk with your Teeth)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 14:20:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 15:47:13 UTC*
 <!-- SPOTIFY-END -->
