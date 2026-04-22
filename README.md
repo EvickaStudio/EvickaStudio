@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e909035318f54c45ab17232b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739f7aae77ba3087ce0038a6c0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts">777th ELEMENT</a></strong><br/>
-  <em>by</em> <strong>cdgplug</strong><br/>
-  <em>Album:</em> HEAVY MENTAL
+  <strong><a href="https://open.spotify.com/track/3HkC34BKXgpqdroyMmKzkj">Always Gon Lose</a></strong><br/>
+  <em>by</em> <strong>Juniper Fields, User2222</strong><br/>
+  <em>Album:</em> Junkie Music
 </p>
 
-<p align="center"><code>0:54</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:29</code></p>
+<p align="center"><code>2:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `just now`
-- **[KUSH KOMA](https://open.spotify.com/track/4wjLiwwTLwBNrJgUfjpVFX)** by **lusi 7896** *(KUSH KOMA)* - `2 min ago`
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `4 min ago`
-- **[Velociraptor](https://open.spotify.com/track/7Bm6NB4Nade9tjlOUEAJ98)** by **Bladee** *(Spiderr)* - `5 min ago`
-- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `6 min ago`
+- **[in and out of love](https://open.spotify.com/track/6QHG5GAe8rfCpBOrG6eRew)** by **beansclub** *(FIGURINES AND PLASTIC DREAMS)* - `2 min ago`
+- **[Tiger](https://open.spotify.com/track/4gnPeeBusJEE8BdtBKxOwD)** by **Thaiboy Digital** *(Tiger)* - `8 min ago`
+- **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)* - `10 min ago`
+- **[You Are The Reason For My Life](https://open.spotify.com/track/28HXqAA49bTMm9YJs3ukWL)** by **Nation** *(Nation 2)* - `12 min ago`
+- **[Across the City](https://open.spotify.com/track/6zInXxig4eqMawJ6rmI057)** by **Plymhides** *(Across the City)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 17:53:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 19:01:55 UTC*
 <!-- SPOTIFY-END -->
