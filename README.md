@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ea203ff75d9502746c7b0019" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx">frei</a></strong><br/>
-  <em>by</em> <strong>5v, mint</strong><br/>
-  <em>Album:</em> frei
+  <strong><a href="https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G">afraid (feat. nate sib)</a></strong><br/>
+  <em>by</em> <strong>2hollis, nate sib</strong><br/>
+  <em>Album:</em> afraid (feat. nate sib)
 </p>
 
-<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:12</code></p>
+<p align="center"><code>0:49</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `1 min ago`
-- **[Home](https://open.spotify.com/track/13MkUFIjM7fQuu7ouP7mnc)** by **jonatan leandoer96** *(Home)* - `5 min ago`
-- **[ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE)** by **Varg²™, Bladee, VS--55** *(ᚦ)* - `8 min ago`
-- **[Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)** by **Wir sind Helden** *(Die Reklamation)* - `13 min ago`
-- **[Morgen](https://open.spotify.com/track/7beFHpcc9fIWzzIuVxSCDb)** by **Pink Katana Archive** *(Briefe)* - `16 min ago`
+- **[Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA)** by **Stegosaurus Rex** *(The Dino Soars)* - `just now`
+- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `5 min ago`
+- **[Eislaufen 2k24](https://open.spotify.com/track/09sPmkKTfsWiH65SMhRrKn)** by **Rowli, Hank, Beats by Luca** *(Eislaufen 2k24)* - `9 min ago`
+- **[what happened rick](https://open.spotify.com/track/4nKku8Y3QXsajkHYoGPOw6)** by **i hate my face, vic** *(what happened rick)* - `11 min ago`
+- **[Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz)** by **Sufjan Stevens** *(Carrie & Lowell)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 07:04:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 08:55:27 UTC*
 <!-- SPOTIFY-END -->
