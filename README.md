@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739f7aae77ba3087ce0038a6c0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737fd68d7f92983e9003002cb4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3HkC34BKXgpqdroyMmKzkj">Always Gon Lose</a></strong><br/>
-  <em>by</em> <strong>Juniper Fields, User2222</strong><br/>
-  <em>Album:</em> Junkie Music
+  <strong><a href="https://open.spotify.com/track/25pGY4lgnAwPicc2hqwMvN">DieWithMe</a></strong><br/>
+  <em>by</em> <strong>SALEM</strong><br/>
+  <em>Album:</em> Fires In Heaven
 </p>
 
-<p align="center"><code>2:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:21</code></p>
+<p align="center"><code>0:29</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[in and out of love](https://open.spotify.com/track/6QHG5GAe8rfCpBOrG6eRew)** by **beansclub** *(FIGURINES AND PLASTIC DREAMS)* - `2 min ago`
-- **[Tiger](https://open.spotify.com/track/4gnPeeBusJEE8BdtBKxOwD)** by **Thaiboy Digital** *(Tiger)* - `8 min ago`
-- **[Special Place](https://open.spotify.com/track/6yaYV3wo595zZWFwhC8s5T)** by **Bladee** *(Icedancer)* - `10 min ago`
-- **[You Are The Reason For My Life](https://open.spotify.com/track/28HXqAA49bTMm9YJs3ukWL)** by **Nation** *(Nation 2)* - `12 min ago`
-- **[Across the City](https://open.spotify.com/track/6zInXxig4eqMawJ6rmI057)** by **Plymhides** *(Across the City)* - `14 min ago`
+- **[Yr so Beautiful](https://open.spotify.com/track/4CDdx6YSR9tHiA4yogDvjw)** by **Thaiboy Digital** *(Tiger)* - `just now`
+- **[Blood splatters](https://open.spotify.com/track/5rY5ezYCdqpTVsagIfBsWc)** by **bbpue** *(bbpue)* - `3 min ago`
+- **[evocation](https://open.spotify.com/track/7JvEh1ItjuM8SrKbvkqttj)** by **Exodia** *(LI$024)* - `5 min ago`
+- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `10 min ago`
+- **[Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F)** by **Bladee** *(333)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 19:01:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 20:12:39 UTC*
 <!-- SPOTIFY-END -->
