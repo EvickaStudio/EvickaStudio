@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737fd68d7f92983e9003002cb4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734f39ae4ce7ea61b282451922" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/25pGY4lgnAwPicc2hqwMvN">DieWithMe</a></strong><br/>
-  <em>by</em> <strong>SALEM</strong><br/>
-  <em>Album:</em> Fires In Heaven
+  <strong><a href="https://open.spotify.com/track/7mhvF6hau3AiF7ImSSWXQv">Dreamworld</a></strong><br/>
+  <em>by</em> <strong>Thaiboy Digital</strong><br/>
+  <em>Album:</em> Back 2 Life
 </p>
 
-<p align="center"><code>0:29</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:54</code></p>
+<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Yr so Beautiful](https://open.spotify.com/track/4CDdx6YSR9tHiA4yogDvjw)** by **Thaiboy Digital** *(Tiger)* - `just now`
-- **[Blood splatters](https://open.spotify.com/track/5rY5ezYCdqpTVsagIfBsWc)** by **bbpue** *(bbpue)* - `3 min ago`
-- **[evocation](https://open.spotify.com/track/7JvEh1ItjuM8SrKbvkqttj)** by **Exodia** *(LI$024)* - `5 min ago`
-- **[Vakuum](https://open.spotify.com/track/4jvnJIaNU4AQrAvllm5o5f)** by **uusymon, hqwilli** *(Stardust)* - `10 min ago`
-- **[Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F)** by **Bladee** *(333)* - `13 min ago`
+- **[Numb/Beverly Hills](https://open.spotify.com/track/1G88lOEHuxownYQsPgeXNT)** by **Bladee** *(D&G)* - `1 min ago`
+- **[Soldier Vision](https://open.spotify.com/track/4xOEzXXUarAG3VPGU2bAW7)** by **Nation** *(Nation)* - `3 min ago`
+- **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `6 min ago`
+- **[t3chn0fr33k](https://open.spotify.com/track/6mGgHInywidnGoAFnNtNuk)** by **Technopagan, CTRLFR33K** *(white pollen)* - `9 min ago`
+- **[Take Everything](https://open.spotify.com/track/78defdWP10SYPvjtJJwcIO)** by **Europa** *(LAgoon)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 20:12:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 21:08:36 UTC*
 <!-- SPOTIFY-END -->
