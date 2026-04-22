@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e49806ff277ac693976caa97" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7s0Omwb4joRpfzAwuxZNtS">Security!</a></strong><br/>
+  <em>by</em> <strong>Ecco2k</strong><br/>
+  <em>Album:</em> E
+</p>
+
+<p align="center"><code>1:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[morgengrau + sparr00w flip](https://open.spotify.com/track/53CPLRh3awBbDaNiMCTqbK)** by **benzii, sparr00w** *(morgengrau + sparr00w flip)* - `14 min ago`
-- **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)* - `15 min ago`
-- **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)* - `18 min ago`
-- **[Nachts wach](https://open.spotify.com/track/3kgt8Ys78I6GBZlQrWqZiA)** by **Miksu / Macloud, makko** *(Nachts wach)* - `20 min ago`
-- **[Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN)** by **Luude, Mattafix** *(Big City Life)* - `23 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `1 min ago`
+- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `4 min ago`
+- **[Red](https://open.spotify.com/track/0LaYKKsGKY7IcjGGrKRaJQ)** by **Mori Mori** *(BB Void)* - `8 min ago`
+- **[Mattress](https://open.spotify.com/track/0kC0eaIUltcVQ2rVA23zFQ)** by **Jawnino, Deer park** *(Melancholia)* - `11 min ago`
+- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 11:31:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 12:43:20 UTC*
 <!-- SPOTIFY-END -->
