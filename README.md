@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736c294c7bd72c0f174258f861" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0j1J0ug7iNkC6UMbZmH5c7">you let me down</a></strong><br/>
-  <em>by</em> <strong>oliviajones34596070, twentythree</strong><br/>
-  <em>Album:</em> you let me down
+  <strong><a href="https://open.spotify.com/track/5UDJO7XT3AywHB3gGotlfn">Mr. President</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Forever
 </p>
 
-<p align="center"><code>2:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:30</code></p>
+<p align="center"><code>1:14</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Makes you wonder](https://open.spotify.com/track/4OpoKYHpAB91o7ZXayQvjR)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `6 min ago`
-- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `9 min ago`
-- **[Here I Am](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)** by **The Hellp** *(Riviera)* - `13 min ago`
-- **[Coco Manifesto](https://open.spotify.com/track/4u7c3d2wycoc2uW6Wd6Z0b)** by **Ms* Gloom** *(J is for Joon)* - `16 min ago`
+- **[LA](https://open.spotify.com/track/1656nQPmnncFrUulSXiTw6)** by **Bassvictim** *(Basspunk 2)* - `1 min ago`
+- **[I Like It](https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn)** by **Bassvictim** *(Basspunk)* - `3 min ago`
+- **[The Dogs of War](https://open.spotify.com/track/6pidilGWd5NuREht6PQkMj)** by **Bassvictim** *(?)* - `6 min ago`
+- **[Grow Up!!!](https://open.spotify.com/track/6WdsRJNc9bAbu6ILi7u39d)** by **Bassvictim** *(Forever)* - `8 min ago`
+- **[Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O)** by **Bassvictim** *(Basspunk)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 18:03:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 19:38:55 UTC*
 <!-- SPOTIFY-END -->
