@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391d092488eaff72ece2451dd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5UDJO7XT3AywHB3gGotlfn">Mr. President</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Forever
+  <strong><a href="https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr">Dedicated To The One I Love</a></strong><br/>
+  <em>by</em> <strong>The Mamas & The Papas</strong><br/>
+  <em>Album:</em> Deliver
 </p>
 
-<p align="center"><code>1:14</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:42</code></p>
+<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[LA](https://open.spotify.com/track/1656nQPmnncFrUulSXiTw6)** by **Bassvictim** *(Basspunk 2)* - `1 min ago`
-- **[I Like It](https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn)** by **Bassvictim** *(Basspunk)* - `3 min ago`
-- **[The Dogs of War](https://open.spotify.com/track/6pidilGWd5NuREht6PQkMj)** by **Bassvictim** *(?)* - `6 min ago`
-- **[Grow Up!!!](https://open.spotify.com/track/6WdsRJNc9bAbu6ILi7u39d)** by **Bassvictim** *(Forever)* - `8 min ago`
-- **[Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O)** by **Bassvictim** *(Basspunk)* - `9 min ago`
+- **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)* - `1 min ago`
+- **[вновь мы ближе](https://open.spotify.com/track/1uJMSzPR8tCD18cYRZkjfH)** by **LONOWN, niteboi** *(вновь мы ближе)* - `4 min ago`
+- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)* - `8 min ago`
+- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `14 min ago`
+- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 19:38:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 20:36:18 UTC*
 <!-- SPOTIFY-END -->
