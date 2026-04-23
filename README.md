@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Numb/Beverly Hills](https://open.spotify.com/track/1G88lOEHuxownYQsPgeXNT)** by **Bladee** *(D&G)* - `2 h ago`
-- **[Soldier Vision](https://open.spotify.com/track/4xOEzXXUarAG3VPGU2bAW7)** by **Nation** *(Nation)* - `2 h ago`
-- **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `2 h ago`
-- **[t3chn0fr33k](https://open.spotify.com/track/6mGgHInywidnGoAFnNtNuk)** by **Technopagan, CTRLFR33K** *(white pollen)* - `2 h ago`
-- **[Take Everything](https://open.spotify.com/track/78defdWP10SYPvjtJJwcIO)** by **Europa** *(LAgoon)* - `3 h ago`
+- **[Numb/Beverly Hills](https://open.spotify.com/track/1G88lOEHuxownYQsPgeXNT)** by **Bladee** *(D&G)* - `5 h ago`
+- **[Soldier Vision](https://open.spotify.com/track/4xOEzXXUarAG3VPGU2bAW7)** by **Nation** *(Nation)* - `5 h ago`
+- **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `5 h ago`
+- **[t3chn0fr33k](https://open.spotify.com/track/6mGgHInywidnGoAFnNtNuk)** by **Technopagan, CTRLFR33K** *(white pollen)* - `5 h ago`
+- **[Take Everything](https://open.spotify.com/track/78defdWP10SYPvjtJJwcIO)** by **Europa** *(LAgoon)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-22 23:59:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 02:50:53 UTC*
 <!-- SPOTIFY-END -->
