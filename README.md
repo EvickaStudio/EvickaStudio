@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c294c7bd72c0f174258f861" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO">Flop</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk
+  <strong><a href="https://open.spotify.com/track/0j1J0ug7iNkC6UMbZmH5c7">you let me down</a></strong><br/>
+  <em>by</em> <strong>oliviajones34596070, twentythree</strong><br/>
+  <em>Album:</em> you let me down
 </p>
 
-<p align="center"><code>3:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:27</code></p>
+<p align="center"><code>0:36</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `3 min ago`
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `5 min ago`
-- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `12 min ago`
-- **[Makes you wonder](https://open.spotify.com/track/4OpoKYHpAB91o7ZXayQvjR)** by **Bassvictim** *(Basspunk 2)* - `14 min ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `just now`
+- **[Dealerz](https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs)** by **A Good Year, Quiet Light, Late Verlane** *(Dealerz)* - `2 min ago`
+- **[what do you want me to do?](https://open.spotify.com/track/0rfA0I4IhArbfqa8wXZP3m)** by **Joey Cash** *(what do you want me to do?)* - `5 min ago`
+- **[It's like](https://open.spotify.com/track/1kWydqs1bOcEVlWVTRuHhW)** by **Helen Sun** *(talk with your Teeth)* - `8 min ago`
+- **[Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)** by **ear** *(Nerves)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 15:20:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 16:56:38 UTC*
 <!-- SPOTIFY-END -->
