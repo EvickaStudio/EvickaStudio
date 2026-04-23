@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dreamworld](https://open.spotify.com/track/7mhvF6hau3AiF7ImSSWXQv)** by **Thaiboy Digital** *(Back 2 Life)* - `54 min ago`
-- **[Numb/Beverly Hills](https://open.spotify.com/track/1G88lOEHuxownYQsPgeXNT)** by **Bladee** *(D&G)* - `10 h ago`
-- **[Soldier Vision](https://open.spotify.com/track/4xOEzXXUarAG3VPGU2bAW7)** by **Nation** *(Nation)* - `10 h ago`
-- **[In My Heart](https://open.spotify.com/track/4aMVT4VVMrbw3OakN1P22R)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `10 h ago`
-- **[t3chn0fr33k](https://open.spotify.com/track/6mGgHInywidnGoAFnNtNuk)** by **Technopagan, CTRLFR33K** *(white pollen)* - `10 h ago`
+- **[Nicht Mehr Da](https://open.spotify.com/track/6pK8XuXZg5NHgdLmjkOne5)** by **uusymon, James Jetski** *(Stardust)* - `1 h ago`
+- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `1 h ago`
+- **[everyday i suffer more](https://open.spotify.com/track/4ZIV03qbZdpcxwepo1rf8y)** by **Diegointhedark** *(everyday i suffer more)* - `1 h ago`
+- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `1 h ago`
+- **[Beautiful (with Joji)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2)** by **Anyma, Joji** *(Beautiful (with Joji))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Club Amour (Intro) (feat. iKeda, The Femcels)**](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 07:12:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 09:02:09 UTC*
 <!-- SPOTIFY-END -->
