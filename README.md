@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27316f6d677bd5b4b5df9a57400" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM">Dancing Queen</a></strong><br/>
-  <em>by</em> <strong>ABBA</strong><br/>
-  <em>Album:</em> The Essential Collection
+  <strong><a href="https://open.spotify.com/track/2ebBYx1rVm2wrTb2t7Pt6d">222</a></strong><br/>
+  <em>by</em> <strong>NILS KEPPEL</strong><br/>
+  <em>Album:</em> 222
 </p>
 
-<p align="center"><code>3:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:53</code></p>
+<p align="center"><code>0:27</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk)** by **ABBA** *(Waterloo)* - `3 min ago`
-- **[Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx)** by **ABBA** *(Arrival)* - `6 min ago`
-- **[Super Trouper](https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1)** by **ABBA** *(Super Trouper)* - `10 min ago`
-- **[Slipping Through My Fingers](https://open.spotify.com/track/6TvxPS4fj4LUdjw2es4g21)** by **ABBA** *(The Visitors (Deluxe Edition))* - `14 min ago`
-- **[Chiquitita](https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy)** by **ABBA** *(Voulez-Vous)* - `18 min ago`
+- **[end this](https://open.spotify.com/track/5rkTBetUlvxQ03iCkZA5gM)** by **mint** *(end this)* - `just now`
+- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `2 min ago`
+- **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)* - `6 min ago`
+- **[Für immer wach](https://open.spotify.com/track/4foZuITI3ocGsE4HxuD7Ln)** by **Urbannino, DeeLou** *(Für immer wach)* - `9 min ago`
+- **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 21:27:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 22:07:12 UTC*
 <!-- SPOTIFY-END -->
