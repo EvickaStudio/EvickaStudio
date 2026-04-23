@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391d092488eaff72ece2451dd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ec5de82891e542d4877c6d98" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr">Dedicated To The One I Love</a></strong><br/>
-  <em>by</em> <strong>The Mamas & The Papas</strong><br/>
-  <em>Album:</em> Deliver
+  <strong><a href="https://open.spotify.com/track/1rMfDvE2C8ne8UZj847rKM">Dancing Queen</a></strong><br/>
+  <em>by</em> <strong>ABBA</strong><br/>
+  <em>Album:</em> The Essential Collection
 </p>
 
-<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:58</code></p>
+<p align="center"><code>3:44</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[teen romance](https://open.spotify.com/track/09DFJg2KCnbBXkYItMubU5)** by **Lil Peep, Lederrick** *(teen romance)* - `1 min ago`
-- **[вновь мы ближе](https://open.spotify.com/track/1uJMSzPR8tCD18cYRZkjfH)** by **LONOWN, niteboi** *(вновь мы ближе)* - `4 min ago`
-- **[PEARL BOTTOMZ (DJM23)](https://open.spotify.com/track/70IR5gyJmcXg0VRWFE06zV)** by **DJmegan23, BBY GOYARD** *(Seraphim Ballads)* - `8 min ago`
-- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `14 min ago`
-- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `17 min ago`
+- **[Waterloo](https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk)** by **ABBA** *(Waterloo)* - `3 min ago`
+- **[Fernando](https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx)** by **ABBA** *(Arrival)* - `6 min ago`
+- **[Super Trouper](https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1)** by **ABBA** *(Super Trouper)* - `10 min ago`
+- **[Slipping Through My Fingers](https://open.spotify.com/track/6TvxPS4fj4LUdjw2es4g21)** by **ABBA** *(The Visitors (Deluxe Edition))* - `14 min ago`
+- **[Chiquitita](https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy)** by **ABBA** *(Voulez-Vous)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 20:36:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 21:27:34 UTC*
 <!-- SPOTIFY-END -->
