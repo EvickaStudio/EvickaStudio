@@ -101,16 +101,16 @@
   <em>Album:</em> you let me down
 </p>
 
-<p align="center"><code>0:36</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:30</code></p>
+<p align="center"><code>2:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `just now`
-- **[Dealerz](https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs)** by **A Good Year, Quiet Light, Late Verlane** *(Dealerz)* - `2 min ago`
-- **[what do you want me to do?](https://open.spotify.com/track/0rfA0I4IhArbfqa8wXZP3m)** by **Joey Cash** *(what do you want me to do?)* - `5 min ago`
-- **[It's like](https://open.spotify.com/track/1kWydqs1bOcEVlWVTRuHhW)** by **Helen Sun** *(talk with your Teeth)* - `8 min ago`
-- **[Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)** by **ear** *(Nerves)* - `11 min ago`
+- **[Makes you wonder](https://open.spotify.com/track/4OpoKYHpAB91o7ZXayQvjR)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `6 min ago`
+- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `9 min ago`
+- **[Here I Am](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)** by **The Hellp** *(Riviera)* - `13 min ago`
+- **[Coco Manifesto](https://open.spotify.com/track/4u7c3d2wycoc2uW6Wd6Z0b)** by **Ms* Gloom** *(J is for Joon)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Radiohead**](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Thaiboy Digital**](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Yeah**](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 16:56:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 18:03:24 UTC*
 <!-- SPOTIFY-END -->
