@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nicht Mehr Da](https://open.spotify.com/track/6pK8XuXZg5NHgdLmjkOne5)** by **uusymon, James Jetski** *(Stardust)* - `1 h ago`
-- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `1 h ago`
-- **[everyday i suffer more](https://open.spotify.com/track/4ZIV03qbZdpcxwepo1rf8y)** by **Diegointhedark** *(everyday i suffer more)* - `1 h ago`
-- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `1 h ago`
-- **[Beautiful (with Joji)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2)** by **Anyma, Joji** *(Beautiful (with Joji))* - `1 h ago`
+- **[Nicht Mehr Da](https://open.spotify.com/track/6pK8XuXZg5NHgdLmjkOne5)** by **uusymon, James Jetski** *(Stardust)* - `2 h ago`
+- **[A Mi Manera (Comme D'Habitude)](https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK)** by **Gipsy Kings** *(Gipsy Kings)* - `2 h ago`
+- **[everyday i suffer more](https://open.spotify.com/track/4ZIV03qbZdpcxwepo1rf8y)** by **Diegointhedark** *(everyday i suffer more)* - `2 h ago`
+- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `2 h ago`
+- **[Beautiful (with Joji)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2)** by **Anyma, Joji** *(Beautiful (with Joji))* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 09:02:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-23 10:44:57 UTC*
 <!-- SPOTIFY-END -->
