@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730a29856bf1c65d2f1b72990e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA">Nowhere To Run</a></strong><br/>
-  <em>by</em> <strong>Stegosaurus Rex</strong><br/>
-  <em>Album:</em> The Dino Soars
-</p>
-
-<p align="center"><code>3:51</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>5:00</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)* - `3 min ago`
-- **[Rock Bottom](https://open.spotify.com/track/2hwsvQAd9ZKbV77zgFOgUY)** by **PureSnow** *(Revelation)* - `6 min ago`
-- **[Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM)** by **MGMT** *(Little Dark Age)* - `9 min ago`
-- **[Invisible](https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2)** by **Yung Sherman, Uli K, Bladee** *(Innocence v2)* - `14 min ago`
-- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)* - `17 min ago`
+- **[Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu)** by **Juice WRLD** *(Death Race For Love (Bonus Track Version))* - `1 h ago`
+- **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)* - `1 h ago`
+- **[Ferrari](https://open.spotify.com/track/5FC1X5dpLKIsAKGlXNZHhx)** by **Yung Hurn** *(In Memory of Yung Hurn - Classic Compilation)* - `1 h ago`
+- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `1 h ago`
+- **[ich hab so oft von dir geträumt](https://open.spotify.com/track/2pD5RmOoWMLeRtqLtFsDW1)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Thaiboy Digital**](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Pink Katana**](https://open.spotify.com/artist/6BWQQSyCjsWidXMy1DjfMX)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 03:48:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 06:03:02 UTC*
 <!-- SPOTIFY-END -->
