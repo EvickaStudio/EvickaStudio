@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27388fbb25c435ec2976f976a73" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f638da8e77e449875219d378" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai">Rauch</a></strong><br/>
-  <em>by</em> <strong>sparr00w, Wicca Phase Springs Eternal</strong><br/>
-  <em>Album:</em> Rauch
+  <strong><a href="https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0">Stars Will Fall</a></strong><br/>
+  <em>by</em> <strong>Duster</strong><br/>
+  <em>Album:</em> Capsule Losing Contact
 </p>
 
-<p align="center"><code>0:40</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:39</code></p>
+<p align="center"><code>0:59</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)* - `just now`
-- **[Nachtschicht (feat. Ikkimel)](https://open.spotify.com/track/2att7IRXLwL6C91dQSzckz)** by **01099, Paul, Ikkimel** *(25grad)* - `4 min ago`
-- **[Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz)** by **Sufjan Stevens** *(Carrie & Lowell)* - `6 min ago`
-- **[Late Time](https://open.spotify.com/track/4fPcT9H0iynHtwLhRoFCKZ)** by **Symba** *(Late Time)* - `11 min ago`
-- **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)* - `14 min ago`
+- **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)* - `1 min ago`
+- **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)* - `7 min ago`
+- **[Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80)** by **The Neighbourhood** *(#000000 & #FFFFFF (No DJ Version))* - `8 min ago`
+- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `10 min ago`
+- **[Heavy Racks Intro](https://open.spotify.com/track/5uI2pQQ5Ygj1YH3SalP1ly)** by **gard** *(AMAZING)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 11:08:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 12:04:12 UTC*
 <!-- SPOTIFY-END -->
