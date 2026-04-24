@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW">Time to Pretend</a></strong><br/>
-  <em>by</em> <strong>MGMT</strong><br/>
-  <em>Album:</em> Oracular Spectacular
-</p>
-
-<p align="center"><code>1:22</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:21</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)** by **Thrilliam Angels, Ecco2k** *(The Static Screams Your Name)* - `1 min ago`
-- **[DRESDEN ER](https://open.spotify.com/track/1yMPTkN25hmgxiAQYkX63O)** by **Bladee** *(Spiderr)* - `3 min ago`
-- **[style](https://open.spotify.com/track/3jrY4AAWTvZfmwGs3E7QcN)** by **2hollis** *(style)* - `7 min ago`
-- **[Fashion Killa x Under Your Spell](https://open.spotify.com/track/42YxoeyyCnf3RpVGGoZiyn)** by **13Aurora, Sapphink** *(Fashion Killa x Under Your Spell)* - `8 min ago`
-- **[Monster](https://open.spotify.com/track/2WgyOP8Z1D6GQYumCwH4Dk)** by **Lady Gaga** *(The Fame Monster (Deluxe Edition))* - `10 min ago`
+- **[Fake ID](https://open.spotify.com/track/5bnvBQNcA3JvNFGFVwsrX0)** by **yukan** *(Fake ID)* - `31 min ago`
+- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)* - `33 min ago`
+- **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)* - `35 min ago`
+- **[Flop](https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO)** by **Bassvictim** *(Basspunk)* - `38 min ago`
+- **[Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK)** by **Wizkid, Asake** *(REAL, Vol. 1)* - `44 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 20:06:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 21:03:56 UTC*
 <!-- SPOTIFY-END -->
