@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bafb7763507cb58d37c774c0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f28bb2c3cf93284f57cf301b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b">Where's Your Head At</a></strong><br/>
-  <em>by</em> <strong>Basement Jaxx</strong><br/>
-  <em>Album:</em> Rooty
+  <strong><a href="https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo">SHEDIM</a></strong><br/>
+  <em>by</em> <strong>2hollis</strong><br/>
+  <em>Album:</em> SHEDIM
 </p>
 
-<p align="center"><code>3:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:45</code></p>
+<p align="center"><code>2:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr)** by **fakemink, Ecco2k, Mechatok** *(MAKKA)* - `2 min ago`
-- **[I Dont Like People](https://open.spotify.com/track/2VRQQLg5xlkzGebhfjlwqH)** by **PureSnow** *(Bel Air)* - `5 min ago`
-- **[Dead By Dawn](https://open.spotify.com/track/61u01flGENuhk1QgmyvP6B)** by **Sematary, Ghost Mountain** *(Grave House)* - `7 min ago`
-- **[Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf)** by **Bladee** *(Icedancer)* - `11 min ago`
-- **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)* - `13 min ago`
+- **[825 hp](https://open.spotify.com/track/08Lj7DfUAk3HgaOIA8QxMK)** by **Exodia** *(825 hp)* - `2 min ago`
+- **[Music Baby](https://open.spotify.com/track/3heQu7YLQFf0WY4Z2giXhk)** by **Jane Remover** *(♡)* - `5 min ago`
+- **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))* - `10 min ago`
+- **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)* - `12 min ago`
+- **[Jane!](https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5)** by **The Long Faces** *(Jane!)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 18:27:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 19:28:09 UTC*
 <!-- SPOTIFY-END -->
