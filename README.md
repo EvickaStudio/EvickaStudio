@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731ef97ddcd80fff208ca365bb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat">Wolves Howling</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Forever
+  <strong><a href="https://open.spotify.com/track/0PJWvYMTuFN5eghoXFiifn">Calcium (Show Me Love)</a></strong><br/>
+  <em>by</em> <strong>ewshem</strong><br/>
+  <em>Album:</em> yee
 </p>
 
-<p align="center"><code>2:51</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:25</code></p>
+<p align="center"><code>1:24</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>5:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Canary Wharf freestyle - Clean Edit](https://open.spotify.com/track/5xyIJyeLCF5lS85EdqzymX)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)* - `2 min ago`
-- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `5 min ago`
-- **[Live too fast](https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp)** by **Bassvictim** *(Basspunk 2)* - `8 min ago`
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `10 min ago`
-- **[L-ON-D-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp)** by **Bassvictim** *(Basspunk)* - `12 min ago`
+- **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `1 min ago`
+- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `2 min ago`
+- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `4 min ago`
+- **[hope](https://open.spotify.com/track/0Atv8SMvLDRBlWhCUWkAdc)** by **meat computer, oaf1** *(hope)* - `7 min ago`
+- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 15:35:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 16:37:07 UTC*
 <!-- SPOTIFY-END -->
