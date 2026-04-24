@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f638da8e77e449875219d378" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a081356ba32d993b5668f9b0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0">Stars Will Fall</a></strong><br/>
-  <em>by</em> <strong>Duster</strong><br/>
-  <em>Album:</em> Capsule Losing Contact
+  <strong><a href="https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w">Hurt</a></strong><br/>
+  <em>by</em> <strong>Yung Lean</strong><br/>
+  <em>Album:</em> Unknown Death 2002
 </p>
 
-<p align="center"><code>0:59</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:58</code></p>
+<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>4:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Last Day Of Summer](https://open.spotify.com/track/1tr425D7noUgk7bGuT2mJu)** by **The Cure** *(Bloodflowers)* - `1 min ago`
-- **[UGG BOOTS](https://open.spotify.com/track/3AFpwa4uZOTAZWofM140YC)** by **Longus Mongus, BHZ** *(UGG BOOTS)* - `7 min ago`
-- **[Unfair](https://open.spotify.com/track/0xD23i0X1WjqMSYIxRfO80)** by **The Neighbourhood** *(#000000 & #FFFFFF (No DJ Version))* - `8 min ago`
-- **[Another High](https://open.spotify.com/track/7r3a3qfIejvsNbzYfASg5t)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `10 min ago`
-- **[Heavy Racks Intro](https://open.spotify.com/track/5uI2pQQ5Ygj1YH3SalP1ly)** by **gard** *(AMAZING)* - `13 min ago`
+- **[TOYSTORY](https://open.spotify.com/track/77ypUECE0C1Yl6y4m9W0mu)** by **Dave Plugs** *(SAG WIESO EP)* - `2 min ago`
+- **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)* - `4 min ago`
+- **[Jealous](https://open.spotify.com/track/0bhudMmr0XdtBOjFbjq8R0)** by **Eyedress** *(Let's Skip to the Wedding)* - `6 min ago`
+- **[Getting Clean](https://open.spotify.com/track/6VqMCvPIh1pM35NLzktuZv)** by **Eera** *(Cant Stop Wasting Time)* - `8 min ago`
+- **[i hide](https://open.spotify.com/track/2GqCg8ZHDkNKdAExhYwgml)** by **meat computer** *(slept on the floor still dreamt about you)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 12:04:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 14:04:34 UTC*
 <!-- SPOTIFY-END -->
