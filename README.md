@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fake ID](https://open.spotify.com/track/5bnvBQNcA3JvNFGFVwsrX0)** by **yukan** *(Fake ID)* - `2 h ago`
-- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)* - `2 h ago`
-- **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)* - `2 h ago`
-- **[Flop](https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO)** by **Bassvictim** *(Basspunk)* - `2 h ago`
-- **[Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK)** by **Wizkid, Asake** *(REAL, Vol. 1)* - `2 h ago`
+- **[Fake ID](https://open.spotify.com/track/5bnvBQNcA3JvNFGFVwsrX0)** by **yukan** *(Fake ID)* - `3 h ago`
+- **[FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW)** by **LVL1** *(PLAY)* - `3 h ago`
+- **[r u kissin any1?](https://open.spotify.com/track/2CQoxS48ebF715bzy1m6Je)** by **Joey Cash** *(r u kissin any1?)* - `3 h ago`
+- **[Flop](https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO)** by **Bassvictim** *(Basspunk)* - `3 h ago`
+- **[Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK)** by **Wizkid, Asake** *(REAL, Vol. 1)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 22:46:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 23:33:36 UTC*
 <!-- SPOTIFY-END -->
