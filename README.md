@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f7ecaf9daf2c1d5ca89f7312" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b678f2665e211ff6cd38ffea" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4VR8erwUal5AIAhX4aBkhv">Knowing Me, Knowing You</a></strong><br/>
-  <em>by</em> <strong>ABBA</strong><br/>
-  <em>Album:</em> ABBA Gold
+  <strong><a href="https://open.spotify.com/track/6K2VHRkY2cpN2meyiI9JCo">Night4</a></strong><br/>
+  <em>by</em> <strong>Nonori</strong><br/>
+  <em>Album:</em> Tabula Rasa
 </p>
 
-<p align="center"><code>3:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:01</code></p>
+<p align="center"><code>2:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Honey, Honey](https://open.spotify.com/track/2w6JXokk0F8i241Y8C0Mn6)** by **ABBA** *(Waterloo)* - `3 min ago`
-- **[Does Your Mother Know](https://open.spotify.com/track/45EaIq9lKyoQxxTjFkiGbl)** by **ABBA** *(ABBA Gold)* - `5 min ago`
-- **[Don't Shut Me Down](https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3)** by **ABBA** *(I Still Have Faith In You / Don't Shut Me Down)* - `9 min ago`
-- **[Angeleyes](https://open.spotify.com/track/1zZLRpTzRTqPQ7G7uxYI9Y)** by **ABBA** *(The Essential Collection)* - `13 min ago`
-- **[Voulez-Vous](https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V)** by **ABBA** *(Voulez-Vous)* - `17 min ago`
+- **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by **Duster** *(Capsule Losing Contact)* - `2 min ago`
+- **[beine spüren](https://open.spotify.com/track/6ey66s3rrXBgsuX36GG1ci)** by **benzii** *(beine spüren)* - `8 min ago`
+- **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)* - `10 min ago`
+- **[Alle 13 Tage](https://open.spotify.com/track/0WZzrzs0F06ZGnyBdk30lS)** by **Streichelt** *(Alle 13 Tage)* - `14 min ago`
+- **[Winter](https://open.spotify.com/track/3NIu0ffILZOVXUcf4msCgg)** by **strangerperson** *(Winter)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**djCEO66**](https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 08:20:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-24 09:59:32 UTC*
 <!-- SPOTIFY-END -->
