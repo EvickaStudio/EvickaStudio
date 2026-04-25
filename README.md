@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirty](https://open.spotify.com/track/5w013AqrGOALmVi2UXyIRW)** by **Saska** *(EmpirE)* - `2 h ago`
-- **[Electronica](https://open.spotify.com/track/1LjxxIT0LdC4HohMouVn5a)** by **Brothel in Belize** *(Electronica)* - `2 h ago`
-- **[allee](https://open.spotify.com/track/1qZhMp7tVCYARztnwGnzyG)** by **Mietze Conte** *(wufwufwuf)* - `2 h ago`
-- **[2k14 soft grunge](https://open.spotify.com/track/3CO704JsR1A7mpKKz7dOoX)** by **Touching Ice** *(Jersey City / 2k14 soft grunge)* - `2 h ago`
-- **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)* - `2 h ago`
+- **[Dirty](https://open.spotify.com/track/5w013AqrGOALmVi2UXyIRW)** by **Saska** *(EmpirE)* - `3 h ago`
+- **[Electronica](https://open.spotify.com/track/1LjxxIT0LdC4HohMouVn5a)** by **Brothel in Belize** *(Electronica)* - `3 h ago`
+- **[allee](https://open.spotify.com/track/1qZhMp7tVCYARztnwGnzyG)** by **Mietze Conte** *(wufwufwuf)* - `3 h ago`
+- **[2k14 soft grunge](https://open.spotify.com/track/3CO704JsR1A7mpKKz7dOoX)** by **Touching Ice** *(Jersey City / 2k14 soft grunge)* - `3 h ago`
+- **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 23:21:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 23:59:56 UTC*
 <!-- SPOTIFY-END -->
