@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27311c5f472a24d2b9e0731cbb9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/23nOnPHUVYlnKX0YdJB3nY">Sacred Secrets</a></strong><br/>
-  <em>by</em> <strong>Eyedress, N8NOFACE</strong><br/>
-  <em>Album:</em> Committing Crimes
+  <strong><a href="https://open.spotify.com/track/3YUiDAxi6If11zNnxJDbDi">Babcia Jadzia</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>0:30</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:00</code></p>
+<p align="center"><code>6:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>7:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ent](https://open.spotify.com/track/6k0nNk8YlAk2cC6VGlqjyN)** by **Lofty305** *(Moisture)* - `just now`
-- **[Robbin Niggas In Hollywood](https://open.spotify.com/track/5VEjoeytM6REVoEmrhO6la)** by **Natia, Eyedress** *(Shroom Tapes, Vol. 1)* - `2 min ago`
-- **[Opp Hunting Season](https://open.spotify.com/track/0cMdiMsON2NYtaMOTRWEBN)** by **Eyedress, Juice, Michael Myers** *(Committing Crimes)* - `3 min ago`
-- **[No Competition](https://open.spotify.com/track/3DdtfCmIZQ3ZjHcW5DlR0A)** by **Eyedress** *(Supernatural)* - `5 min ago`
-- **[Secret Admirer (feat. Secret Attraction)](https://open.spotify.com/track/3KWKBTozCynvPbSTZHJ7HL)** by **Eyedress, Secret Attraction** *(Vampire in Beverly Hills)* - `8 min ago`
+- **[Mr. President](https://open.spotify.com/track/5UDJO7XT3AywHB3gGotlfn)** by **Bassvictim** *(Forever)* - `6 min ago`
+- **[The Big City (feat. Chad Hugo)](https://open.spotify.com/track/2oMJntV1GZupAziEOiDG6B)** by **Eyedress, Chad Hugo** *(Stoner)* - `13 min ago`
+- **[Never See Your Face Again (feat. Strawberry Guy)](https://open.spotify.com/track/0nAMVOrbp8LbOJUpgPJU1e)** by **Eyedress, Strawberry Guy** *(Stoner)* - `15 min ago`
+- **[Feel Like Givinig Up](https://open.spotify.com/track/4v0uffTavCcWu20turYYy3)** by **Eyedress, Teenage Granny** *(Manila Ice)* - `18 min ago`
+- **[MR NICE GUY](https://open.spotify.com/track/1Lf4hcCvOkPWe8NpbyHZxS)** by **Eyedress, Vex Ruffin** *(FULL TIME LOVER)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 17:43:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 18:26:54 UTC*
 <!-- SPOTIFY-END -->
