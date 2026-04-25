@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27326444e6c7655f3bc75c5609f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid">Gajówka</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk 2
+  <strong><a href="https://open.spotify.com/track/2lsBya6yTrw78oRgIM0xZO">Rodeo Star</a></strong><br/>
+  <em>by</em> <strong>Cowgirl Clue</strong><br/>
+  <em>Album:</em> Rodeo Star
 </p>
 
-<p align="center"><code>2:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:37</code></p>
+<p align="center"><code>0:53</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `4 min ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `7 min ago`
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `10 min ago`
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `12 min ago`
+- **[DYWATFT](https://open.spotify.com/track/1lX5zGDDRjGq2K7fCJfI8R)** by **Mayvi, dlb clee** *(DYWATFT)* - `just now`
+- **[Unifier](https://open.spotify.com/track/1MgayGKX4jrShy651NAnBd)** by **Ayegy, User2222** *(Unifier)* - `3 min ago`
+- **[Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO)** by **The Hellp** *(Hot Fun)* - `6 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `9 min ago`
+- **[The One](https://open.spotify.com/track/758C6C3KdPkzKWW7ADobsA)** by **Suzy Sheer** *(The One)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Eyelash**](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 14:36:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 15:25:56 UTC*
 <!-- SPOTIFY-END -->
