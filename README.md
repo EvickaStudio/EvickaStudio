@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739866f83629f29c777e667e9e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a7d098298dd054fcf1f5d267" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6RR27pM7dW3rg5O5qhdcpS">flirting with death</a></strong><br/>
-  <em>by</em> <strong>DJmegan23</strong><br/>
-  <em>Album:</em> sound-proofed wilderness
+  <strong><a href="https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0">wenn ich nicht mehr will...☻</a></strong><br/>
+  <em>by</em> <strong>Tamino404</strong><br/>
+  <em>Album:</em> wenn ich nicht mehr will...☻
 </p>
 
-<p align="center"><code>1:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:15</code></p>
+<p align="center"><code>2:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM)** by **Clean Bandit, Jess Glynne** *(New Eyes)* - `1 min ago`
-- **[Lost](https://open.spotify.com/track/7s7htB13KPxaqDWgl4XAGh)** by **RONEN** *(Hidden)* - `5 min ago`
-- **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by **Duster** *(Capsule Losing Contact)* - `7 min ago`
-- **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)* - `9 min ago`
-- **[Jedesmal](https://open.spotify.com/track/56XKSAP30m7klfOOUr4RWZ)** by **kevin** *(Jedesmal)* - `10 min ago`
+- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `2 min ago`
+- **[gloria](https://open.spotify.com/track/2UTAtsMndGwUnYwFal6iVQ)** by **Blumengarten** *(gloria)* - `5 min ago`
+- **[The Kingdom](https://open.spotify.com/track/769sRxyCa83th6Tc5KJFvc)** by **Thaiboy Digital, Bladee** *(Back 2 Life)* - `7 min ago`
+- **[Wings](https://open.spotify.com/track/0umT61v364TKUPHdPzbYtP)** by **SALEM** *(Fires In Heaven)* - `10 min ago`
+- **[Hatschi](https://open.spotify.com/track/1iWrUQyH7hWdDs1qXVOwI3)** by **Odece** *(Hatschi)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**777th ELEMENT**](https://open.spotify.com/track/2Oa4uT3sYCpeANLE6zZJts)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 08:11:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 09:08:39 UTC*
 <!-- SPOTIFY-END -->
