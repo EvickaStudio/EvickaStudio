@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27326444e6c7655f3bc75c5609f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f474c6844dec874d6c1d1700" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2lsBya6yTrw78oRgIM0xZO">Rodeo Star</a></strong><br/>
-  <em>by</em> <strong>Cowgirl Clue</strong><br/>
-  <em>Album:</em> Rodeo Star
+  <strong><a href="https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb">4. 5-MMC : Förbannad i en evighet</a></strong><br/>
+  <em>by</em> <strong>DJ Worm, Eurohead</strong><br/>
+  <em>Album:</em> Klubb Musik vol.1
 </p>
 
-<p align="center"><code>0:53</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:47</code></p>
+<p align="center"><code>2:31</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DYWATFT](https://open.spotify.com/track/1lX5zGDDRjGq2K7fCJfI8R)** by **Mayvi, dlb clee** *(DYWATFT)* - `just now`
-- **[Unifier](https://open.spotify.com/track/1MgayGKX4jrShy651NAnBd)** by **Ayegy, User2222** *(Unifier)* - `3 min ago`
-- **[Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO)** by **The Hellp** *(Hot Fun)* - `6 min ago`
-- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `9 min ago`
-- **[The One](https://open.spotify.com/track/758C6C3KdPkzKWW7ADobsA)** by **Suzy Sheer** *(The One)* - `12 min ago`
+- **[High Tide](https://open.spotify.com/track/2rbiNcBkwMRas17dD9CLvN)** by **Cowgirl Clue** *(Total Freedom)* - `2 min ago`
+- **[Looking 4 That Alley](https://open.spotify.com/track/29lTBjtR5kcBxz4b8R5mVf)** by **DJmegan23** *(Dopamine Machine 4)* - `5 min ago`
+- **[A melody, a lie](https://open.spotify.com/track/7bFfWgxKE95fgUKKZr0e13)** by **Helen Sun** *(talk with your Teeth)* - `6 min ago`
+- **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)* - `10 min ago`
+- **[Rainfield](https://open.spotify.com/track/2JtNgH0dxvOkcG35r4akeR)** by **snowplug** *(snowplug)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 15:25:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 16:01:27 UTC*
 <!-- SPOTIFY-END -->
