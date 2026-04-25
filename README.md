@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirty](https://open.spotify.com/track/5w013AqrGOALmVi2UXyIRW)** by **Saska** *(EmpirE)* - `59 min ago`
+- **[Dirty](https://open.spotify.com/track/5w013AqrGOALmVi2UXyIRW)** by **Saska** *(EmpirE)* - `1 h ago`
 - **[Electronica](https://open.spotify.com/track/1LjxxIT0LdC4HohMouVn5a)** by **Brothel in Belize** *(Electronica)* - `1 h ago`
 - **[allee](https://open.spotify.com/track/1qZhMp7tVCYARztnwGnzyG)** by **Mietze Conte** *(wufwufwuf)* - `1 h ago`
 - **[2k14 soft grunge](https://open.spotify.com/track/3CO704JsR1A7mpKKz7dOoX)** by **Touching Ice** *(Jersey City / 2k14 soft grunge)* - `1 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 21:58:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 22:37:20 UTC*
 <!-- SPOTIFY-END -->
