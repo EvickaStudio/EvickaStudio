@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru">Dancing with your eyes closed</a></strong><br/>
-  <em>by</em> <strong>Jane Remover</strong><br/>
-  <em>Album:</em> Revengeseekerz
+  <strong><a href="https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid">Gajówka</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Basspunk 2
 </p>
 
-<p align="center"><code>3:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:50</code></p>
+<p align="center"><code>2:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)* - `3 min ago`
-- **[Got It In Tha Mix](https://open.spotify.com/track/5KU7K7lsAspAMgSGDAZNoZ)** by **Ms* Gloom** *(J is for Joon)* - `6 min ago`
-- **[CONSPIRACY GIRL](https://open.spotify.com/track/48U1M12FN8WeZxdUitd9Ur)** by **Oli XL, Valeria Litvakov** *(Lick The Lens – Pt.1)* - `10 min ago`
-- **[AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)** by **SILICONE VALLEY** *(AA Chrome)* - `12 min ago`
-- **[Cruise Control](https://open.spotify.com/track/6GgclAsnCKZXFnlV3fvlKi)** by **Cowgirl Clue** *(Total Freedom)* - `15 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
+- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `4 min ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `7 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `10 min ago`
+- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Eyelash**](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 13:50:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 14:36:36 UTC*
 <!-- SPOTIFY-END -->
