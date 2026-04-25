@@ -96,21 +96,21 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3YUiDAxi6If11zNnxJDbDi">Babcia Jadzia</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve">Sometimes I believe in God (Sometimes I believe in Me)</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
   <em>Album:</em> ?
 </p>
 
-<p align="center"><code>6:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>7:24</code></p>
+<p align="center"><code>0:10</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mr. President](https://open.spotify.com/track/5UDJO7XT3AywHB3gGotlfn)** by **Bassvictim** *(Forever)* - `6 min ago`
-- **[The Big City (feat. Chad Hugo)](https://open.spotify.com/track/2oMJntV1GZupAziEOiDG6B)** by **Eyedress, Chad Hugo** *(Stoner)* - `13 min ago`
-- **[Never See Your Face Again (feat. Strawberry Guy)](https://open.spotify.com/track/0nAMVOrbp8LbOJUpgPJU1e)** by **Eyedress, Strawberry Guy** *(Stoner)* - `15 min ago`
-- **[Feel Like Givinig Up](https://open.spotify.com/track/4v0uffTavCcWu20turYYy3)** by **Eyedress, Teenage Granny** *(Manila Ice)* - `18 min ago`
-- **[MR NICE GUY](https://open.spotify.com/track/1Lf4hcCvOkPWe8NpbyHZxS)** by **Eyedress, Vex Ruffin** *(FULL TIME LOVER)* - `21 min ago`
+- **[Grow Up!!!](https://open.spotify.com/track/6WdsRJNc9bAbu6ILi7u39d)** by **Bassvictim** *(Forever)* - `just now`
+- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `1 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `4 min ago`
+- **[Vacation](https://open.spotify.com/track/5wRLGEldm63ndtlJraUYI7)** by **Bassvictim** *(Basspunk)* - `7 min ago`
+- **[L-ON-D-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp)** by **Bassvictim** *(Basspunk)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 18:26:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 19:24:24 UTC*
 <!-- SPOTIFY-END -->
