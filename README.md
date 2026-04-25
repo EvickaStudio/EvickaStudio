@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn">I Like It</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk
-</p>
-
-<p align="center"><code>0:11</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:02</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `just now`
-- **[Alice - Acoustic](https://open.spotify.com/track/0ezSqBigIXjTQcl9ynOTZ6)** by **Bassvictim** *(Alice)* - `2 min ago`
-- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `5 min ago`
-- **[The Kids Are Coming Home](https://open.spotify.com/track/35m5M54N5PzJszAt866rTp)** by **Bassvictim, Worldpeace DMT** *(The Kids Are Coming Home)* - `9 min ago`
-- **[Welcome](https://open.spotify.com/track/2lz2aIo24M8oCkMzXjQC90)** by **Bassvictim** *(Basspunk)* - `12 min ago`
+- **[Dirty](https://open.spotify.com/track/5w013AqrGOALmVi2UXyIRW)** by **Saska** *(EmpirE)* - `21 min ago`
+- **[Electronica](https://open.spotify.com/track/1LjxxIT0LdC4HohMouVn5a)** by **Brothel in Belize** *(Electronica)* - `23 min ago`
+- **[allee](https://open.spotify.com/track/1qZhMp7tVCYARztnwGnzyG)** by **Mietze Conte** *(wufwufwuf)* - `25 min ago`
+- **[2k14 soft grunge](https://open.spotify.com/track/3CO704JsR1A7mpKKz7dOoX)** by **Touching Ice** *(Jersey City / 2k14 soft grunge)* - `27 min ago`
+- **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)* - `29 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 20:40:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 21:19:59 UTC*
 <!-- SPOTIFY-END -->
