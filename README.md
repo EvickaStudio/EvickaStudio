@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b1972eb956c01432030c1bb8" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf">Makes you wonder</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve">Sometimes I believe in God (Sometimes I believe in Me)</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Makes you wonder
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:08</code></p>
+<p align="center"><code>2:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `just now`
-- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
-- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `6 min ago`
-- **[Live too fast](https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
-- **[The Dogs of War](https://open.spotify.com/track/6pidilGWd5NuREht6PQkMj)** by **Bassvictim** *(?)* - `10 min ago`
+- **[Air on a G String](https://open.spotify.com/track/5MV7OsDQMZGHDrdWnHim7O)** by **Bassvictim** *(Basspunk)* - `2 min ago`
+- **[Flop](https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO)** by **Bassvictim** *(Basspunk)* - `5 min ago`
+- **[I Like It](https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn)** by **Bassvictim** *(Basspunk)* - `9 min ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `12 min ago`
+- **[Canary Wharf freestyle](https://open.spotify.com/track/61feSMPVPI3RadQEv8kvGb)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 11:01:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 11:52:08 UTC*
 <!-- SPOTIFY-END -->
