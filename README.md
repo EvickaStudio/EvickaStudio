@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27357fd9b2e77a394f872125555" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ab0d83b752dcf9f2a7ddd51b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5ECEcUC90GdXaM8O0Pj9i5">Animal</a></strong><br/>
-  <em>by</em> <strong>Juniper Fields, User2222</strong><br/>
-  <em>Album:</em> Animal
+  <strong><a href="https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru">Dancing with your eyes closed</a></strong><br/>
+  <em>by</em> <strong>Jane Remover</strong><br/>
+  <em>Album:</em> Revengeseekerz
 </p>
 
-<p align="center"><code>1:11</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:01</code></p>
+<p align="center"><code>3:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lose control](https://open.spotify.com/track/6nyWL7BR75KiXF2WQoy1L4)** by **Joey Cash** *(lose control)* - `1 min ago`
-- **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)* - `4 min ago`
-- **[Ballet Flat$ On The Ga$ Pedal](https://open.spotify.com/track/26VUliruOm9r2zbg7uJDmY)** by **Cowgirl Clue** *(Total Freedom)* - `7 min ago`
-- **[Tu Tu Neurotic](https://open.spotify.com/track/07n9sk2MGDjw0SHrSaxmog)** by **The Hellp** *(Vol. 1)* - `9 min ago`
-- **[Nerves](https://open.spotify.com/track/6aWR7XlrJ5bveVG5YuIWpW)** by **ear** *(Nerves)* - `12 min ago`
+- **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)* - `3 min ago`
+- **[Got It In Tha Mix](https://open.spotify.com/track/5KU7K7lsAspAMgSGDAZNoZ)** by **Ms* Gloom** *(J is for Joon)* - `6 min ago`
+- **[CONSPIRACY GIRL](https://open.spotify.com/track/48U1M12FN8WeZxdUitd9Ur)** by **Oli XL, Valeria Litvakov** *(Lick The Lens – Pt.1)* - `10 min ago`
+- **[AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)** by **SILICONE VALLEY** *(AA Chrome)* - `12 min ago`
+- **[Cruise Control](https://open.spotify.com/track/6GgclAsnCKZXFnlV3fvlKi)** by **Cowgirl Clue** *(Total Freedom)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**HEY!**](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Eyelash**](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 12:43:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 13:50:46 UTC*
 <!-- SPOTIFY-END -->
