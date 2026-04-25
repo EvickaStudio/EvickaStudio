@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS">Home</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn">I Like It</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
+  <em>Album:</em> Basspunk
 </p>
 
-<p align="center"><code>1:05</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:24</code></p>
+<p align="center"><code>0:11</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `1 min ago`
-- **[Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N)** by **Bassvictim, Worldpeace DMT** *(Year of the Dragon)* - `4 min ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `7 min ago`
-- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `10 min ago`
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `12 min ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `just now`
+- **[Alice - Acoustic](https://open.spotify.com/track/0ezSqBigIXjTQcl9ynOTZ6)** by **Bassvictim** *(Alice)* - `2 min ago`
+- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `5 min ago`
+- **[The Kids Are Coming Home](https://open.spotify.com/track/35m5M54N5PzJszAt866rTp)** by **Bassvictim, Worldpeace DMT** *(The Kids Are Coming Home)* - `9 min ago`
+- **[Welcome](https://open.spotify.com/track/2lz2aIo24M8oCkMzXjQC90)** by **Bassvictim** *(Basspunk)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 19:58:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 20:40:12 UTC*
 <!-- SPOTIFY-END -->
