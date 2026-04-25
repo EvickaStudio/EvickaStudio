@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f474c6844dec874d6c1d1700" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3DUB1DFHqFMJL8GuQKQScb">4. 5-MMC : Förbannad i en evighet</a></strong><br/>
-  <em>by</em> <strong>DJ Worm, Eurohead</strong><br/>
-  <em>Album:</em> Klubb Musik vol.1
-</p>
-
-<p align="center"><code>2:31</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:56</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[High Tide](https://open.spotify.com/track/2rbiNcBkwMRas17dD9CLvN)** by **Cowgirl Clue** *(Total Freedom)* - `2 min ago`
-- **[Looking 4 That Alley](https://open.spotify.com/track/29lTBjtR5kcBxz4b8R5mVf)** by **DJmegan23** *(Dopamine Machine 4)* - `5 min ago`
-- **[A melody, a lie](https://open.spotify.com/track/7bFfWgxKE95fgUKKZr0e13)** by **Helen Sun** *(talk with your Teeth)* - `6 min ago`
-- **[Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c)** by **ear** *(Fetish / Valley Serpent)* - `10 min ago`
-- **[Rainfield](https://open.spotify.com/track/2JtNgH0dxvOkcG35r4akeR)** by **snowplug** *(snowplug)* - `12 min ago`
+- **[what do you want me to do?](https://open.spotify.com/track/0rfA0I4IhArbfqa8wXZP3m)** by **Joey Cash** *(what do you want me to do?)* - `37 min ago`
+- **[(She a $upastar now)](https://open.spotify.com/track/5VOp6KIeBggMa0RLIQ9lgC)** by **Mayvi** *((She a $upastar now))* - `40 min ago`
+- **[Everybody is Hurting](https://open.spotify.com/track/2KPtRTyvMQgG4WOzzZepdo)** by **Ayegy** *(Everybody is Hurting)* - `42 min ago`
+- **[Arrows](https://open.spotify.com/track/5N82nKgFgoDy3aO7mE7MnE)** by **Cowgirl Clue** *(Total Freedom)* - `45 min ago`
+- **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)* - `47 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 16:01:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-25 17:00:11 UTC*
 <!-- SPOTIFY-END -->
