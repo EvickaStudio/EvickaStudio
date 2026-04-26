@@ -92,21 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <strong><a href="">Unknown</a></strong><br/>
-  <em>by</em> <strong></strong><br/>
-  <em>Album:</em> 
+  <img src="https://i.scdn.co/image/ab67616d0000b273ea7d07580807ccf5acadf315" alt="" width="120" />
 </p>
 
-<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>0:00</code></p>
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1vagrF9UKmyBw3I52Shf8k">Hochhaus</a></strong><br/>
+  <em>by</em> <strong>AMANDUS 99, DANZINGER 99</strong><br/>
+  <em>Album:</em> Hochhaus
+</p>
+
+<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>1:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `just now`
-- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `2 min ago`
-- **[nettspend & xaviersobased](https://open.spotify.com/track/5KmcwWv5iKb3sJbkf1RTfN)** by **Hello Hannes** *(nettspend & xaviersobased)* - `4 min ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `6 min ago`
-- **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)* - `6 min ago`
+- **[meer aus tränen / du weinst](https://open.spotify.com/track/5QlBFxK0LwqGvftoK5wzV1)** by **AMANDUS 99** *(meer aus tränen / du weinst)* - `1 min ago`
+- **[Rettung P Cayman S](https://open.spotify.com/track/5ccD3cQKG1aHAhQ88YAcTq)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Saiya Tiaw, Nicki Papa** *(USA)* - `4 min ago`
+- **[chatroom](https://open.spotify.com/track/5VVa0gudPDRdFBypU2ZHiX)** by **AMANDUS 99** *(chatroom)* - `5 min ago`
+- **[traurig･:__✧｡+++](https://open.spotify.com/track/2m5GgX8Bom56piVdmp1dAI)** by **DANZINGER 99, AMANDUS 99** *(traurig･:__✧｡+++)* - `7 min ago`
+- **[sportwagen✰✰+++](https://open.spotify.com/track/6qA38LdSXin6RowuxwMMoE)** by **DANZINGER 99, AMANDUS 99** *(sportwagen✰✰+++)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 19:11:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 19:53:56 UTC*
 <!-- SPOTIFY-END -->
