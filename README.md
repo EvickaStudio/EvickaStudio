@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273350803935b9b43f6bb1547ff" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6mUJwpAg1QTvhML3W0IGam">tired of life</a></strong><br/>
+  <em>by</em> <strong>archive computer</strong><br/>
+  <em>Album:</em> soundtrack to the end of a world
+</p>
+
+<p align="center"><code>0:43</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirty](https://open.spotify.com/track/5w013AqrGOALmVi2UXyIRW)** by **Saska** *(EmpirE)* - `6 h ago`
-- **[Electronica](https://open.spotify.com/track/1LjxxIT0LdC4HohMouVn5a)** by **Brothel in Belize** *(Electronica)* - `6 h ago`
-- **[allee](https://open.spotify.com/track/1qZhMp7tVCYARztnwGnzyG)** by **Mietze Conte** *(wufwufwuf)* - `6 h ago`
-- **[2k14 soft grunge](https://open.spotify.com/track/3CO704JsR1A7mpKKz7dOoX)** by **Touching Ice** *(Jersey City / 2k14 soft grunge)* - `6 h ago`
-- **[Release Dove](https://open.spotify.com/track/2heiNVcp5xdiU7tXfvdQT3)** by **Ayegy** *(BLACKTHORN)* - `6 h ago`
+- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `just now`
+- **[video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)** by **blombi19** *(video)* - `2 min ago`
+- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `4 min ago`
+- **[Sugar World](https://open.spotify.com/track/7kL1BNcoUL8MXegIbee6s4)** by **jonatan leandoer96, Frederik Valentin** *(Sugar World)* - `6 min ago`
+- **[Stoner Olympics](https://open.spotify.com/track/1NDSnweXXbTcICI7wuzAEH)** by **Eyedress** *(Stoner Olympics)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 03:31:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 05:56:43 UTC*
 <!-- SPOTIFY-END -->
