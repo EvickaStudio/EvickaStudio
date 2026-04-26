@@ -92,25 +92,21 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e64aa6ce3ad0c96533398abe" alt="" width="120" />
+  <strong><a href="">Unknown</a></strong><br/>
+  <em>by</em> <strong></strong><br/>
+  <em>Album:</em> 
 </p>
 
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam">Einfach Sein - Demo</a></strong><br/>
-  <em>by</em> <strong>Leuchtstoff</strong><br/>
-  <em>Album:</em> Einfach Sein (Demo)
-</p>
-
-<p align="center"><code>1:27</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>5:19</code></p>
+<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>0:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[52Hertz - Bonus Track](https://open.spotify.com/track/2vj55J14cjerZEHlZ5ez0l)** by **Dropped here** *(Need for speed)* - `1 min ago`
-- **[Bianco](https://open.spotify.com/track/4m98OcCL585kG0tE4mbKxj)** by **Yung Hurn, RIN** *(Bianco)* - `3 min ago`
-- **[rotten](https://open.spotify.com/track/0lSIYgRZ67n14ijRpBhLxD)** by **anna luna** *(rotten)* - `7 min ago`
-- **[murderous](https://open.spotify.com/track/2CN4rS7PTdJbVxI7V7NgTO)** by **korpsebunny** *(murderous)* - `9 min ago`
-- **[Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0)** by **Cage The Elephant** *(Melophobia)* - `12 min ago`
+- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `1 min ago`
+- **[leave this world behind](https://open.spotify.com/track/2HTcEBx2NfjnH6dRTlEbFU)** by **meat computer** *(leave this world behind)* - `4 min ago`
+- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `5 min ago`
+- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `8 min ago`
+- **[rave](https://open.spotify.com/track/1qaV9vVsI3ROcBc7chACqd)** by **Saiya Tiaw** *(tränen von dir)* - `49 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +126,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 14:00:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 14:59:58 UTC*
 <!-- SPOTIFY-END -->
