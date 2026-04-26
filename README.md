@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734caa34b09ecc9a94b6b1538a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b3a31d76d1575e1e102a1346" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7KnVy00zIJyFcsAIV1KWBT">Toro - I Hate Models Speed Up Revival Edit of Andre VII RMX</a></strong><br/>
-  <em>by</em> <strong>El Columpio Asesino, I Hate Models, Andre VII</strong><br/>
-  <em>Album:</em> Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)
+  <strong><a href="https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN">L1ebe 1n der Luft</a></strong><br/>
+  <em>by</em> <strong>S1RENA, TYM</strong><br/>
+  <em>Album:</em> L1ebe 1n der Luft
 </p>
 
-<p align="center"><code>3:30</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>6:11</code></p>
+<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)* - `3 min ago`
-- **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)* - `5 min ago`
-- **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)* - `8 min ago`
-- **[Beautiful (with Joji)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2)** by **Anyma, Joji** *(Beautiful (with Joji))* - `11 min ago`
-- **[Their Kindness Is Charade](https://open.spotify.com/track/10n83bsDQRYpTKaNjX4wAE)** by **Crystal Castles** *(Amnesty (I))* - `14 min ago`
+- **[armed & ready](https://open.spotify.com/track/413LD6QpKlCH2qb1ZAGGHJ)** by **campthehills** *(campthehills)* - `2 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `5 min ago`
+- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `8 min ago`
+- **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)* - `11 min ago`
+- **[Skin](https://open.spotify.com/track/0Vx1fYmQiObS2rg5ujQYJz)** by **Bladee** *(Eversince)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 16:33:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 17:22:56 UTC*
 <!-- SPOTIFY-END -->
