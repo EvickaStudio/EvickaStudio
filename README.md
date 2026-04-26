@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b3a31d76d1575e1e102a1346" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733a6b9c436688d0b6ecdb13f5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN">L1ebe 1n der Luft</a></strong><br/>
-  <em>by</em> <strong>S1RENA, TYM</strong><br/>
-  <em>Album:</em> L1ebe 1n der Luft
+  <strong><a href="https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY">No Wind Resistance!</a></strong><br/>
+  <em>by</em> <strong>Kinneret</strong><br/>
+  <em>Album:</em> DMZ
 </p>
 
-<p align="center"><code>2:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:19</code></p>
+<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[armed & ready](https://open.spotify.com/track/413LD6QpKlCH2qb1ZAGGHJ)** by **campthehills** *(campthehills)* - `2 min ago`
-- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `5 min ago`
-- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `8 min ago`
-- **[Things Happen](https://open.spotify.com/track/4F0wiDvV93SvG8SOOGr0m8)** by **Yung Lean, Bladee** *(Psykos)* - `11 min ago`
-- **[Skin](https://open.spotify.com/track/0Vx1fYmQiObS2rg5ujQYJz)** by **Bladee** *(Eversince)* - `14 min ago`
+- **[miss the rage](https://open.spotify.com/track/4COqYDeJnJzECfehVJ4WEw)** by **junesforever** *(miss the rage)* - `1 min ago`
+- **[you ready?](https://open.spotify.com/track/4StTpr2rt9cNqeDsu1bqFk)** by **Nettspend** *(early life crisis)* - `3 min ago`
+- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `5 min ago`
+- **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)* - `7 min ago`
+- **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 17:22:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 18:02:23 UTC*
 <!-- SPOTIFY-END -->
