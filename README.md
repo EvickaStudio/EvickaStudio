@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ea7d07580807ccf5acadf315" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737e547333cf087b8cfc535444" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1vagrF9UKmyBw3I52Shf8k">Hochhaus</a></strong><br/>
-  <em>by</em> <strong>AMANDUS 99, DANZINGER 99</strong><br/>
-  <em>Album:</em> Hochhaus
+  <strong><a href="https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w">Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)</a></strong><br/>
+  <em>by</em> <strong>Green Day</strong><br/>
+  <em>Album:</em> American Idiot - The Original Broadway Cast Recording
 </p>
 
-<p align="center"><code>1:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>1:55</code></p>
+<p align="center"><code>3:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[meer aus tränen / du weinst](https://open.spotify.com/track/5QlBFxK0LwqGvftoK5wzV1)** by **AMANDUS 99** *(meer aus tränen / du weinst)* - `1 min ago`
-- **[Rettung P Cayman S](https://open.spotify.com/track/5ccD3cQKG1aHAhQ88YAcTq)** by **NEUNUNDNEUNZIG, DANZINGER 99, AMANDUS 99, Saiya Tiaw, Nicki Papa** *(USA)* - `4 min ago`
-- **[chatroom](https://open.spotify.com/track/5VVa0gudPDRdFBypU2ZHiX)** by **AMANDUS 99** *(chatroom)* - `5 min ago`
-- **[traurig･:__✧｡+++](https://open.spotify.com/track/2m5GgX8Bom56piVdmp1dAI)** by **DANZINGER 99, AMANDUS 99** *(traurig･:__✧｡+++)* - `7 min ago`
-- **[sportwagen✰✰+++](https://open.spotify.com/track/6qA38LdSXin6RowuxwMMoE)** by **DANZINGER 99, AMANDUS 99** *(sportwagen✰✰+++)* - `9 min ago`
+- **[Petals on the Moon](https://open.spotify.com/track/26qigRagi9CRNhbGYajKOS)** by **Wasia Project** *(My Vine)* - `3 min ago`
+- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `7 min ago`
+- **[Friction](https://open.spotify.com/track/4mAwxhMBANouZbcrgvgxeY)** by **Cafuné** *(Tek It/Friction)* - `11 min ago`
+- **[voicemail](https://open.spotify.com/track/28RR2AgLBnIcuIkNftpVPM)** by **ded reception** *(voicemail)* - `14 min ago`
+- **[Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd)** by **Rex Orange County** *(Best Friend)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 19:53:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 20:30:07 UTC*
 <!-- SPOTIFY-END -->
