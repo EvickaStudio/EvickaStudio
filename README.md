@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737e547333cf087b8cfc535444" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/41pFyxOpS119Pb8JEzhx0w">Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)</a></strong><br/>
-  <em>by</em> <strong>Green Day</strong><br/>
-  <em>Album:</em> American Idiot - The Original Broadway Cast Recording
+  <strong><a href="https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h">WILDFLOWER</a></strong><br/>
+  <em>by</em> <strong>Billie Eilish</strong><br/>
+  <em>Album:</em> HIT ME HARD AND SOFT
 </p>
 
-<p align="center"><code>3:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:22</code></p>
+<p align="center"><code>1:18</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Petals on the Moon](https://open.spotify.com/track/26qigRagi9CRNhbGYajKOS)** by **Wasia Project** *(My Vine)* - `3 min ago`
-- **[Reflections](https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `7 min ago`
-- **[Friction](https://open.spotify.com/track/4mAwxhMBANouZbcrgvgxeY)** by **Cafuné** *(Tek It/Friction)* - `11 min ago`
-- **[voicemail](https://open.spotify.com/track/28RR2AgLBnIcuIkNftpVPM)** by **ded reception** *(voicemail)* - `14 min ago`
-- **[Best Friend](https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd)** by **Rex Orange County** *(Best Friend)* - `16 min ago`
+- **[Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9)** by **Arctic Monkeys** *(AM)* - `1 min ago`
+- **[back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6)** by **sombr** *(back to friends)* - `3 min ago`
+- **[Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i)** by **sakanaction** *(Kaiju)* - `6 min ago`
+- **[Perspective](https://open.spotify.com/track/6IMRFDodOH0Mj3bx0vYocZ)** by **Cafuné** *(Love Songs for the End)* - `12 min ago`
+- **[Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe)** by **Chezile** *(Beanie)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 20:30:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 21:05:34 UTC*
 <!-- SPOTIFY-END -->
