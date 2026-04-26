@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p">Blizzard Warning</a></strong><br/>
+  <em>by</em> <strong>Somewhere Special</strong><br/>
+  <em>Album:</em> Blizzard Warning
+</p>
+
+<p align="center"><code>0:53</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[222](https://open.spotify.com/track/72aKopuxWsQ2ymfDdiDeJi)** by **NILS KEPPEL** *(222)* - `51 min ago`
-- **[Ga Weg](https://open.spotify.com/track/47kPXoau0VGVWHiZfGinXh)** by **Desinteresse** *(Ga Weg)* - `53 min ago`
-- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)* - `56 min ago`
-- **[Ohne Dich](https://open.spotify.com/track/0Lym3XzkptNzplQXIeXHu6)** by **Marsi, Mondieuz** *(Ohne Dich)* - `58 min ago`
-- **[It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl)** by **Rainbow Kitten Surprise** *(How to: Friend, Love, Freefall)* - `1 h ago`
+- **[WAKE UP](https://open.spotify.com/track/7ep5j1vJnqs0kNBO1hww43)** by **The Twins** *(TURMERIC)* - `just now`
+- **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)* - `2 min ago`
+- **[Heaven](https://open.spotify.com/track/14KWN9VVGdrO0pWvhjPvj7)** by **DJmegan23, cranes, mental** *(Mirage)* - `4 min ago`
+- **[tricked out](https://open.spotify.com/track/5HXgmD0Qbdjn8crHpTwlvm)** by **damon r.** *(tricked out)* - `6 min ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 07:23:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 08:41:32 UTC*
 <!-- SPOTIFY-END -->
