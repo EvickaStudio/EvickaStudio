@@ -92,25 +92,21 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733a6b9c436688d0b6ecdb13f5" alt="" width="120" />
+  <strong><a href="">Unknown</a></strong><br/>
+  <em>by</em> <strong></strong><br/>
+  <em>Album:</em> 
 </p>
 
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY">No Wind Resistance!</a></strong><br/>
-  <em>by</em> <strong>Kinneret</strong><br/>
-  <em>Album:</em> DMZ
-</p>
-
-<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:18</code></p>
+<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>0:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[miss the rage](https://open.spotify.com/track/4COqYDeJnJzECfehVJ4WEw)** by **junesforever** *(miss the rage)* - `1 min ago`
-- **[you ready?](https://open.spotify.com/track/4StTpr2rt9cNqeDsu1bqFk)** by **Nettspend** *(early life crisis)* - `3 min ago`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `5 min ago`
-- **[your favorite dress](https://open.spotify.com/track/6ArK3RtQGmvDV63sUnPHRN)** by **Lil Peep, Lil Tracy** *(CASTLES II)* - `7 min ago`
-- **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)* - `10 min ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `just now`
+- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `2 min ago`
+- **[nettspend & xaviersobased](https://open.spotify.com/track/5KmcwWv5iKb3sJbkf1RTfN)** by **Hello Hannes** *(nettspend & xaviersobased)* - `4 min ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `6 min ago`
+- **[null city](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)** by **dreamloader** *(null city)* - `6 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +126,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 18:02:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 19:11:48 UTC*
 <!-- SPOTIFY-END -->
