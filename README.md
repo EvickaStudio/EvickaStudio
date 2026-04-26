@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734caa34b09ecc9a94b6b1538a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp">L-ON-D-ON</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk
+  <strong><a href="https://open.spotify.com/track/7KnVy00zIJyFcsAIV1KWBT">Toro - I Hate Models Speed Up Revival Edit of Andre VII RMX</a></strong><br/>
+  <em>by</em> <strong>El Columpio Asesino, I Hate Models, Andre VII</strong><br/>
+  <em>Album:</em> Toro (I Hate Models Speed Up Revival Edit of Andre VII RMX)
 </p>
 
-<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:08</code></p>
+<p align="center"><code>3:30</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>6:11</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)* - `1 min ago`
-- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `3 min ago`
-- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `5 min ago`
-- **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)* - `8 min ago`
-- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `9 min ago`
+- **[eclipse](https://open.spotify.com/track/6NEscmKrMzevUzgIB9gjdj)** by **corpsse** *(psyhopath)* - `3 min ago`
+- **[Pogo](https://open.spotify.com/track/1YPxUUih6iIQsCshtPkv2L)** by **Digitalism** *(Idealism)* - `5 min ago`
+- **[make u stay](https://open.spotify.com/track/5KzoEsYy2DSOdpOOU1H2y9)** by **enable secret** *(under.net compilation vol. 3)* - `8 min ago`
+- **[Beautiful (with Joji)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2)** by **Anyma, Joji** *(Beautiful (with Joji))* - `11 min ago`
+- **[Their Kindness Is Charade](https://open.spotify.com/track/10n83bsDQRYpTKaNjX4wAE)** by **Crystal Castles** *(Amnesty (I))* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 15:48:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 16:33:41 UTC*
 <!-- SPOTIFY-END -->
