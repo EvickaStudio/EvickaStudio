@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p">Blizzard Warning</a></strong><br/>
-  <em>by</em> <strong>Somewhere Special</strong><br/>
-  <em>Album:</em> Blizzard Warning
+  <strong><a href="https://open.spotify.com/track/6ZVQKGAkrEAdYXasWaXbfp">I'm sorry, King</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Forever
 </p>
 
-<p align="center"><code>0:53</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:58</code></p>
+<p align="center"><code>2:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[WAKE UP](https://open.spotify.com/track/7ep5j1vJnqs0kNBO1hww43)** by **The Twins** *(TURMERIC)* - `just now`
-- **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)* - `2 min ago`
-- **[Heaven](https://open.spotify.com/track/14KWN9VVGdrO0pWvhjPvj7)** by **DJmegan23, cranes, mental** *(Mirage)* - `4 min ago`
-- **[tricked out](https://open.spotify.com/track/5HXgmD0Qbdjn8crHpTwlvm)** by **damon r.** *(tricked out)* - `6 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `9 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `2 min ago`
+- **[Alice](https://open.spotify.com/track/2U0c0gLahirV5552LZM11w)** by **Bassvictim** *(Alice)* - `4 min ago`
+- **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)* - `8 min ago`
+- **[Ny2](https://open.spotify.com/track/7Bn2toqYnCcwwKf98yIF34)** by **Patch +** *(White Paper)* - `11 min ago`
+- **[Dog Tag freestyle](https://open.spotify.com/track/7yoXY59Fon8io1k2lir2z3)** by **Bassvictim** *(Forever)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 08:41:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-26 09:36:34 UTC*
 <!-- SPOTIFY-END -->
