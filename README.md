@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6">Sweater Weather</a></strong><br/>
+  <em>by</em> <strong>The Neighbourhood</strong><br/>
+  <em>Album:</em> I Love You.
+</p>
+
+<p align="center"><code>1:11</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl)** by **girl in red** *(we fell in love in october / October Passed Me By)* - `39 min ago`
-- **[Fireside](https://open.spotify.com/track/4atMrAadB7dS8xn9vfk9PQ)** by **Arctic Monkeys** *(AM)* - `42 min ago`
-- **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)** by **Clean Bandit, Jess Glynne** *(Rather Be (feat. Jess Glynne))* - `45 min ago`
-- **[Smooth Operator - Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R)** by **Sade** *(The Best of Sade)* - `49 min ago`
-- **[Layla - Acoustic Live](https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo)** by **Eric Clapton** *(Unplugged (Live))* - `53 min ago`
+- **[Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA)** by **Conan Gray** *(Kid Krow)* - `1 min ago`
+- **[Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP)** by **Cafuné** *(Running)* - `4 min ago`
+- **[Voicemail (feat. YNG Telly)](https://open.spotify.com/track/73kFEiuLCtjvTVe9ZujMVl)** by **Løvesick, YNG Telly** *(Sorry Doesn't Fix A Broken Heart)* - `7 min ago`
+- **[My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b)** by **Bryant Barnes** *(My Everything)* - `10 min ago`
+- **[i'd find you](https://open.spotify.com/track/1XrLgICxJEqkgDmiuANWC7)** by **phendste** *(under the rug)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 10:07:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 11:58:35 UTC*
 <!-- SPOTIFY-END -->
