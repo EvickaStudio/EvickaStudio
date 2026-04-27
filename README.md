@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9">Young And Beautiful</a></strong><br/>
-  <em>by</em> <strong>Lana Del Rey</strong><br/>
-  <em>Album:</em> Young And Beautiful
+  <strong><a href="https://open.spotify.com/track/113xf7t4qNM7038YJvauik">Nervous</a></strong><br/>
+  <em>by</em> <strong>The Neighbourhood</strong><br/>
+  <em>Album:</em> Hard To Imagine The Neighbourhood Ever Changing
 </p>
 
-<p align="center"><code>0:07</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:56</code></p>
+<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs)** by **girl in red** *(summer depression)* - `just now`
-- **[Tek It - Slowed](https://open.spotify.com/track/0J52jV8skPWcKhZmK7aK6Q)** by **Cafuné** *(Tek It (I Watch the Moon))* - `2 min ago`
-- **[Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20)** by **Arctic Monkeys** *(Humbug)* - `6 min ago`
-- **[Just Like a Movie](https://open.spotify.com/track/3FUFJ8554hnrbA7zKoU2au)** by **Wallows** *(Nothing Happens (5th Anniversary Edition))* - `9 min ago`
-- **[Flawless](https://open.spotify.com/track/2Kt1XplPBQBsDKQDa6TssB)** by **The Neighbourhood** *(I Love You.)* - `13 min ago`
+- **[Fluorescent Adolescent](https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd)** by **Arctic Monkeys** *(Favourite Worst Nightmare)* - `1 min ago`
+- **[4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5)** by **girl in red** *(4am)* - `4 min ago`
+- **[1980s Horror Film II](https://open.spotify.com/track/3VzULnaqPKf1deQyZ5W4Ah)** by **Wallows** *(1980s Horror Film II)* - `6 min ago`
+- **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)* - `9 min ago`
+- **[Video Games](https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9)** by **Lana Del Rey** *(Born To Die - The Paradise Edition)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 15:43:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 17:10:12 UTC*
 <!-- SPOTIFY-END -->
