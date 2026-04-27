@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Too Close - Acoustic](https://open.spotify.com/track/3aad1d1dcCy8fuFPQ22g5H)** by **Alex Clare** *(Three Days at Greenmount)* - `1 h ago`
-- **[we never dated](https://open.spotify.com/track/0t1fdMrn7JOg9DDsT95bxt)** by **sombr** *(I Barely Know Her)* - `1 h ago`
-- **[踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7)** by **Vaundy** *(replica)* - `1 h ago`
-- **[Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t)** by **SawanoHiroyuki[nZk], mizuki** *(Avid)* - `1 h ago`
-- **[Cry Baby](https://open.spotify.com/track/0EfsDEYaSjGYd66Pr881nq)** by **The Neighbourhood** *(Wiped Out!)* - `1 h ago`
+- **[Too Close - Acoustic](https://open.spotify.com/track/3aad1d1dcCy8fuFPQ22g5H)** by **Alex Clare** *(Three Days at Greenmount)* - `2 h ago`
+- **[we never dated](https://open.spotify.com/track/0t1fdMrn7JOg9DDsT95bxt)** by **sombr** *(I Barely Know Her)* - `2 h ago`
+- **[踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7)** by **Vaundy** *(replica)* - `2 h ago`
+- **[Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t)** by **SawanoHiroyuki[nZk], mizuki** *(Avid)* - `2 h ago`
+- **[Cry Baby](https://open.spotify.com/track/0EfsDEYaSjGYd66Pr881nq)** by **The Neighbourhood** *(Wiped Out!)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 22:41:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 23:36:33 UTC*
 <!-- SPOTIFY-END -->
