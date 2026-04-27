@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/113xf7t4qNM7038YJvauik">Nervous</a></strong><br/>
-  <em>by</em> <strong>The Neighbourhood</strong><br/>
-  <em>Album:</em> Hard To Imagine The Neighbourhood Ever Changing
-</p>
-
-<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:05</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fluorescent Adolescent](https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd)** by **Arctic Monkeys** *(Favourite Worst Nightmare)* - `1 min ago`
-- **[4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5)** by **girl in red** *(4am)* - `4 min ago`
-- **[1980s Horror Film II](https://open.spotify.com/track/3VzULnaqPKf1deQyZ5W4Ah)** by **Wallows** *(1980s Horror Film II)* - `6 min ago`
-- **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)* - `9 min ago`
-- **[Video Games](https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9)** by **Lana Del Rey** *(Born To Die - The Paradise Edition)* - `12 min ago`
+- **[Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf)** by **Vacations** *(Changes)* - `36 min ago`
+- **[Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq)** by **Cage The Elephant** *(Social Cues)* - `39 min ago`
+- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `43 min ago`
+- **[Private](https://open.spotify.com/track/2qoxzXXSWPodTTsX4FkWEk)** by **The Neighbourhood** *((((((ultraSOUND))))))* - `45 min ago`
+- **[Only Ones Who Know](https://open.spotify.com/track/71ytDkCnYc11VRiRCrhDHX)** by **Arctic Monkeys** *(Favourite Worst Nightmare)* - `46 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -125,10 +115,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 17:10:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 18:18:50 UTC*
 <!-- SPOTIFY-END -->
