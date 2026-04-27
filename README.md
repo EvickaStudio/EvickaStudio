@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Beach](https://open.spotify.com/track/2u0CelO5c81XS7z3dGpHbS)** by **The Neighbourhood** *(Wiped Out!)* - `4 h ago`
-- **[WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)** by **Billie Eilish** *(HIT ME HARD AND SOFT)* - `4 h ago`
-- **[Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9)** by **Arctic Monkeys** *(AM)* - `4 h ago`
-- **[back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6)** by **sombr** *(back to friends)* - `4 h ago`
-- **[Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i)** by **sakanaction** *(Kaiju)* - `5 h ago`
+- **[The Beach](https://open.spotify.com/track/2u0CelO5c81XS7z3dGpHbS)** by **The Neighbourhood** *(Wiped Out!)* - `8 h ago`
+- **[WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)** by **Billie Eilish** *(HIT ME HARD AND SOFT)* - `8 h ago`
+- **[Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9)** by **Arctic Monkeys** *(AM)* - `8 h ago`
+- **[back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6)** by **sombr** *(back to friends)* - `8 h ago`
+- **[Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i)** by **sakanaction** *(Kaiju)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 02:01:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 05:32:31 UTC*
 <!-- SPOTIFY-END -->
