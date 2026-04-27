@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273de3c26283ce30f8ccdf06818" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0g4kJXE7uV4PkFUWw4wLe8">Layla</a></strong><br/>
-  <em>by</em> <strong>United States Air Force Band Of Mid-America</strong><br/>
-  <em>Album:</em> United States Air Force Band of Mid-America: Ready to Enjoy
-</p>
-
-<p align="center"><code>3:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>5:07</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[impossible](https://open.spotify.com/track/6FDzlEOK29XWew1qfnGhaU)** by **Wasia Project** *(how can i pretend?)* - `3 min ago`
-- **[Color Your Night](https://open.spotify.com/track/7sDb2MqZdvulzRavioCCQe)** by **Chewie Melodies, Pealeaf** *(Persona 3 Reload)* - `6 min ago`
-- **[Wind](https://open.spotify.com/track/5BqKtuCFLfZyzfZOwlgW1f)** by **Akeboshi** *(Akeboshi)* - `9 min ago`
-- **[Pretender](https://open.spotify.com/track/1OBAWkIciXl8rmbKtrp9ZG)** by **OFFICIAL HIGE DANDISM** *(Pretender)* - `12 min ago`
-- **[Wonderwall - Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa)** by **Oasis** *((What's The Story) Morning Glory? [Remastered])* - `18 min ago`
+- **[we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl)** by **girl in red** *(we fell in love in october / October Passed Me By)* - `39 min ago`
+- **[Fireside](https://open.spotify.com/track/4atMrAadB7dS8xn9vfk9PQ)** by **Arctic Monkeys** *(AM)* - `42 min ago`
+- **[Rather Be (feat. Jess Glynne)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6)** by **Clean Bandit, Jess Glynne** *(Rather Be (feat. Jess Glynne))* - `45 min ago`
+- **[Smooth Operator - Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R)** by **Sade** *(The Best of Sade)* - `49 min ago`
+- **[Layla - Acoustic Live](https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo)** by **Eric Clapton** *(Unplugged (Live))* - `53 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 07:54:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 10:07:31 UTC*
 <!-- SPOTIFY-END -->
