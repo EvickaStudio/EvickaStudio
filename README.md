@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd">The Cut That Always Bleeds</a></strong><br/>
-  <em>by</em> <strong>Conan Gray</strong><br/>
-  <em>Album:</em> Kid Krow
+  <strong><a href="https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9">Young And Beautiful</a></strong><br/>
+  <em>by</em> <strong>Lana Del Rey</strong><br/>
+  <em>Album:</em> Young And Beautiful
 </p>
 
-<p align="center"><code>2:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:51</code></p>
+<p align="center"><code>0:07</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[About A Girl](https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok)** by **Nirvana** *(Bleach)* - `2 min ago`
-- **[Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1)** by **Wallows** *(Pleaser)* - `4 min ago`
-- **[It Almost Worked](https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp)** by **TV Girl** *(The Night in Question: French Exit Outtakes)* - `6 min ago`
-- **[You Get Me So High](https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS)** by **The Neighbourhood** *(Hard To Imagine The Neighbourhood Ever Changing)* - `9 min ago`
-- **[Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz)** by **Lana Del Rey** *(Ultraviolence (Deluxe))* - `11 min ago`
+- **[summer depression](https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs)** by **girl in red** *(summer depression)* - `just now`
+- **[Tek It - Slowed](https://open.spotify.com/track/0J52jV8skPWcKhZmK7aK6Q)** by **Cafuné** *(Tek It (I Watch the Moon))* - `2 min ago`
+- **[Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20)** by **Arctic Monkeys** *(Humbug)* - `6 min ago`
+- **[Just Like a Movie](https://open.spotify.com/track/3FUFJ8554hnrbA7zKoU2au)** by **Wallows** *(Nothing Happens (5th Anniversary Edition))* - `9 min ago`
+- **[Flawless](https://open.spotify.com/track/2Kt1XplPBQBsDKQDa6TssB)** by **The Neighbourhood** *(I Love You.)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 13:56:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 15:43:03 UTC*
 <!-- SPOTIFY-END -->
