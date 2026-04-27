@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737e20b2fb207b843f967890d6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e0c3a68b9981c2e7b25f9737" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4BreyjJu4w5EUhTKPIQymq">Uncomfortable</a></strong><br/>
-  <em>by</em> <strong>Wallows</strong><br/>
-  <em>Album:</em> Uncomfortable
+  <strong><a href="https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7">踊り子</a></strong><br/>
+  <em>by</em> <strong>Vaundy</strong><br/>
+  <em>Album:</em> replica
 </p>
 
-<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:54</code></p>
+<p align="center"><code>1:14</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Beach](https://open.spotify.com/track/2u0CelO5c81XS7z3dGpHbS)** by **The Neighbourhood** *(Wiped Out!)* - `1 min ago`
-- **[WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h)** by **Billie Eilish** *(HIT ME HARD AND SOFT)* - `4 min ago`
-- **[Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9)** by **Arctic Monkeys** *(AM)* - `8 min ago`
-- **[back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6)** by **sombr** *(back to friends)* - `11 min ago`
-- **[Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i)** by **sakanaction** *(Kaiju)* - `14 min ago`
+- **[Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t)** by **SawanoHiroyuki[nZk], mizuki** *(Avid)* - `1 min ago`
+- **[Cry Baby](https://open.spotify.com/track/0EfsDEYaSjGYd66Pr881nq)** by **The Neighbourhood** *(Wiped Out!)* - `5 min ago`
+- **[Don't Look Back in Anger - Remastered](https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd)** by **Oasis** *((What's The Story) Morning Glory? [Remastered])* - `9 min ago`
+- **[Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze)** by **Brenn!** *(County Line)* - `13 min ago`
+- **[Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq)** by **Wallows** *(Nothing Happens)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 19:52:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-27 20:53:37 UTC*
 <!-- SPOTIFY-END -->
