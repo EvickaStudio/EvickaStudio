@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dc4b62caeaac9e0378cc1b9e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt">bleach</a></strong><br/>
-  <em>by</em> <strong>Vandalism</strong><br/>
-  <em>Album:</em> bleach
+  <strong><a href="https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i">TL;DR</a></strong><br/>
+  <em>by</em> <strong>Bladee, Ecco2k, Thaiboy Digital</strong><br/>
+  <em>Album:</em> TL;DR
 </p>
 
-<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:00</code></p>
+<p align="center"><code>0:46</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)* - `1 min ago`
-- **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)* - `3 min ago`
-- **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)* - `5 min ago`
-- **[Führerschein](https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV)** by **Dilla** *(Führerschein)* - `7 min ago`
-- **[Gym Class](https://open.spotify.com/track/4BfJmlzP0ErWns1YM1XASc)** by **Lil Peep** *(Gym Class)* - `12 min ago`
+- **[Clash of Clans](https://open.spotify.com/track/5oJl2xKCAFCPy6eXjE6z0e)** by **EN6O** *(Clash of Clans)* - `just now`
+- **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)* - `2 min ago`
+- **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)* - `5 min ago`
+- **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)* - `8 min ago`
+- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by **Good Kid** *(Good Kid 4)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 22:37:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 23:35:34 UTC*
 <!-- SPOTIFY-END -->
