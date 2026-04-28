@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27377e8af95863019d8c1fc7374" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27316eb1e685e6bd37ab3228de6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5P2PozFsCjo8wBtRkHATjF">Nirvana</a></strong><br/>
-  <em>by</em> <strong>BHZ, Ion Miles, Monk, Longus Mongus</strong><br/>
-  <em>Album:</em> halb:vier
+  <strong><a href="https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD">Disorder - 2007 Remaster</a></strong><br/>
+  <em>by</em> <strong>Joy Division</strong><br/>
+  <em>Album:</em> Unknown Pleasures (Collector's Edition)
 </p>
 
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:32</code></p>
+<p align="center"><code>1:33</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)* - `1 min ago`
-- **[Flash Mich](https://open.spotify.com/track/78Od1EZxnTo0WAfM4i56mv)** by **Mark Forster** *(Bauch und Kopf (Live Edition))* - `3 min ago`
-- **[Teufel](https://open.spotify.com/track/503SCbKk3X6DpOVJE3L93v)** by **Miese Mau** *(Verbrecher)* - `6 min ago`
-- **[Duel of the Fates](https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw)** by **John Williams, London Symphony Orchestra** *(Star Wars: The Phantom Menace (Original Motion Picture Soundtrack))* - `11 min ago`
-- **[Gåvor](https://open.spotify.com/track/0iZomrwE0dIiDIs4O71xqO)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `13 min ago`
+- **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)* - `1 min ago`
+- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `3 min ago`
+- **[Jedesmal](https://open.spotify.com/track/56XKSAP30m7klfOOUr4RWZ)** by **kevin** *(Jedesmal)* - `7 min ago`
+- **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)* - `9 min ago`
+- **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 07:26:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 09:39:29 UTC*
 <!-- SPOTIFY-END -->
