@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27340fb27f15a54947a67e337cc" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6A7oU5L6aKfnEdMXajsFZJ">Enzyme</a></strong><br/>
+  <em>by</em> <strong>Contact Sports</strong><br/>
+  <em>Album:</em> Enzyme
+</p>
+
+<p align="center"><code>1:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `1 h ago`
-- **[Euphoriphilia](https://open.spotify.com/track/2Kpiu6MFPeVjgbiLjEUHMm)** by **Suzy Sheer** *(Euphoriphilia)* - `1 h ago`
-- **[You idiot](https://open.spotify.com/track/4Jlj7Mhon9MQ7hC8kZrijM)** by **Helen Sun** *(talk with your Teeth)* - `1 h ago`
-- **[Forever](https://open.spotify.com/track/2WAnyOABI1cKBwOKNT6XDH)** by **bbpue** *(bbpue)* - `1 h ago`
-- **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)* - `1 h ago`
+- **[virgin suicides](https://open.spotify.com/track/6yD9IBMjCyiajGvmmWGJ39)** by **Brothel in Belize** *(virgin suicides)* - `1 min ago`
+- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `4 min ago`
+- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `3 h ago`
+- **[Euphoriphilia](https://open.spotify.com/track/2Kpiu6MFPeVjgbiLjEUHMm)** by **Suzy Sheer** *(Euphoriphilia)* - `3 h ago`
+- **[You idiot](https://open.spotify.com/track/4Jlj7Mhon9MQ7hC8kZrijM)** by **Helen Sun** *(talk with your Teeth)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 17:18:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 18:59:30 UTC*
 <!-- SPOTIFY-END -->
