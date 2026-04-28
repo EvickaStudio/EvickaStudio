@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732eb48a25701313d61b985475" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4Jlj7Mhon9MQ7hC8kZrijM">You idiot</a></strong><br/>
+  <em>by</em> <strong>Helen Sun</strong><br/>
+  <em>Album:</em> talk with your Teeth
+</p>
+
+<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:20</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Angel Off Duty](https://open.spotify.com/track/3OOxBeii85q1Vvf5NuSI33)** by **Cowgirl Clue** *(Total Freedom)* - `41 min ago`
-- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `44 min ago`
-- **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)* - `46 min ago`
-- **[Burning](https://open.spotify.com/track/4WkhMu7wONClKw2gIslnp9)** by **Sacred holes** *(Wirehair)* - `48 min ago`
-- **[Hearts That Run](https://open.spotify.com/track/5nYNiJS2lhHhnJBtrhs3xl)** by **Cowgirl Clue** *(Total Freedom)* - `52 min ago`
+- **[Forever](https://open.spotify.com/track/2WAnyOABI1cKBwOKNT6XDH)** by **bbpue** *(bbpue)* - `1 min ago`
+- **[too abstract online persona](https://open.spotify.com/track/0CTJbrwOSxKsJ28R5q1cCu)** by **meat computer** *(too abstract online persona)* - `2 min ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `5 min ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `8 min ago`
+- **[Angel Off Duty](https://open.spotify.com/track/3OOxBeii85q1Vvf5NuSI33)** by **Cowgirl Clue** *(Total Freedom)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 13:07:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 15:35:07 UTC*
 <!-- SPOTIFY-END -->
