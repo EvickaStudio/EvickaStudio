@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27340fb27f15a54947a67e337cc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c15a4d33fd18e2cd4a961a30" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6A7oU5L6aKfnEdMXajsFZJ">Enzyme</a></strong><br/>
-  <em>by</em> <strong>Contact Sports</strong><br/>
-  <em>Album:</em> Enzyme
+  <strong><a href="https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU">djCEO66</a></strong><br/>
+  <em>by</em> <strong>Psyke</strong><br/>
+  <em>Album:</em> djCEO66
 </p>
 
-<p align="center"><code>1:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:18</code></p>
+<p align="center"><code>0:27</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[virgin suicides](https://open.spotify.com/track/6yD9IBMjCyiajGvmmWGJ39)** by **Brothel in Belize** *(virgin suicides)* - `1 min ago`
-- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `4 min ago`
-- **[Ur Eyes](https://open.spotify.com/track/3cQYUujPdFBoQLk7vxVHeo)** by **Mori Mori** *(BB Void)* - `3 h ago`
-- **[Euphoriphilia](https://open.spotify.com/track/2Kpiu6MFPeVjgbiLjEUHMm)** by **Suzy Sheer** *(Euphoriphilia)* - `3 h ago`
-- **[You idiot](https://open.spotify.com/track/4Jlj7Mhon9MQ7hC8kZrijM)** by **Helen Sun** *(talk with your Teeth)* - `3 h ago`
+- **[DNA RAIN](https://open.spotify.com/track/57kIHII6uQTZpC0EdfkzjT)** by **Bladee** *(EXETER)* - `just now`
+- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `2 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `4 min ago`
+- **[Nothing Wrong](https://open.spotify.com/track/4WszIw0tmHSwqFejdZtrKi)** by **Mori Mori, 50matches** *(BB Void)* - `6 min ago`
+- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 18:59:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 20:19:19 UTC*
 <!-- SPOTIFY-END -->
