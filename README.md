@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27316eb1e685e6bd37ab3228de6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD">Disorder - 2007 Remaster</a></strong><br/>
-  <em>by</em> <strong>Joy Division</strong><br/>
-  <em>Album:</em> Unknown Pleasures (Collector's Edition)
+  <strong><a href="https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat">Wolves Howling</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Forever
 </p>
 
-<p align="center"><code>1:33</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:29</code></p>
+<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[High Life](https://open.spotify.com/track/3FlzuRmIZgqx58jzg71noL)** by **SUICIDAL-IDOL, hubithekid, FabFantasy** *(High Life)* - `1 min ago`
-- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `3 min ago`
-- **[Jedesmal](https://open.spotify.com/track/56XKSAP30m7klfOOUr4RWZ)** by **kevin** *(Jedesmal)* - `7 min ago`
-- **[Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x)** by **Vundabar** *(Gawk)* - `9 min ago`
-- **[Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr)** by **The Mamas & The Papas** *(Deliver)* - `12 min ago`
+- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `just now`
+- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `4 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `7 min ago`
+- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 09:39:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 11:25:43 UTC*
 <!-- SPOTIFY-END -->
