@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c15a4d33fd18e2cd4a961a30" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6tzMkqSYQnm3CUMOdSlmGU">djCEO66</a></strong><br/>
-  <em>by</em> <strong>Psyke</strong><br/>
-  <em>Album:</em> djCEO66
+  <strong><a href="https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6">back to friends</a></strong><br/>
+  <em>by</em> <strong>sombr</strong><br/>
+  <em>Album:</em> back to friends
 </p>
 
-<p align="center"><code>0:27</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:53</code></p>
+<p align="center"><code>3:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DNA RAIN](https://open.spotify.com/track/57kIHII6uQTZpC0EdfkzjT)** by **Bladee** *(EXETER)* - `just now`
-- **[MIN](https://open.spotify.com/track/0G49tAvyqKgrpQcEGWIMyF)** by **dreamloader** *(MIN)* - `2 min ago`
-- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `4 min ago`
-- **[Nothing Wrong](https://open.spotify.com/track/4WszIw0tmHSwqFejdZtrKi)** by **Mori Mori, 50matches** *(BB Void)* - `6 min ago`
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `9 min ago`
+- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `3 min ago`
+- **[perks of being a wallflower](https://open.spotify.com/track/6Zt4kkPMWPWfSfCA2PIzVq)** by **living proof** *(perks of being a wallflower)* - `4 min ago`
+- **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)* - `6 min ago`
+- **[bug bite](https://open.spotify.com/track/4XJoquezpUdDpb1pfBcuBb)** by **Fantasy Camp** *(long way home)* - `8 min ago`
+- **[Leb es oder lass es](https://open.spotify.com/track/5bJzKmFNpiTwGwLSNb5zVy)** by **makko** *(Leb es oder lass es)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 20:19:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 21:35:00 UTC*
 <!-- SPOTIFY-END -->
