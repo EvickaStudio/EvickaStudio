@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat">Wolves Howling</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Forever
-</p>
-
-<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:25</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `just now`
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `4 min ago`
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `7 min ago`
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `11 min ago`
+- **[Angel Off Duty](https://open.spotify.com/track/3OOxBeii85q1Vvf5NuSI33)** by **Cowgirl Clue** *(Total Freedom)* - `41 min ago`
+- **[wake me up](https://open.spotify.com/track/64068gRxJs2MFX1zMLVQXJ)** by **anna luna** *(wake me up)* - `44 min ago`
+- **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)* - `46 min ago`
+- **[Burning](https://open.spotify.com/track/4WkhMu7wONClKw2gIslnp9)** by **Sacred holes** *(Wirehair)* - `48 min ago`
+- **[Hearts That Run](https://open.spotify.com/track/5nYNiJS2lhHhnJBtrhs3xl)** by **Cowgirl Clue** *(Total Freedom)* - `52 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 11:25:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 13:07:58 UTC*
 <!-- SPOTIFY-END -->
