@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27324a63baa4c82a336ad7ad392" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3aWWSStcYGI3osHeKhBEYc">sperr mich ein</a></strong><br/>
+  <em>by</em> <strong>luu</strong><br/>
+  <em>Album:</em> sperr mich ein
+</p>
+
+<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>1:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `just now`
-- **[The Field](https://open.spotify.com/track/2BktKgjgV35ZzmDPnVuuve)** by **Dylan Thom** *(The Field)* - `3 min ago`
-- **[The New Low](https://open.spotify.com/track/7kDM964YJIqQKt7UM3U7F3)** by **LAWN CHAIR** *(The New Low)* - `6 min ago`
-- **[Paranoid Paparazzi](https://open.spotify.com/track/6hE4M1OIhQzHyAZCxffY8x)** by **Yung Lean** *(Jonatan)* - `9 min ago`
-- **[You Could Have It](https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl)** by **Horse Vision** *(You Could Have It)* - `12 min ago`
+- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `1 min ago`
+- **[Lipgloss](https://open.spotify.com/track/15qYAuCQCo2yogvXK2AzVr)** by **grim noir** *(Lipgloss)* - `2 min ago`
+- **[love castle](https://open.spotify.com/track/0E4j4XP6yuPXYtRvHmJPmz)** by **pink luu, dethkitty** *(love castle)* - `4 min ago`
+- **[BEDWARS CHAMPION](https://open.spotify.com/track/76pcr8hG1hkYu20pO3pWN3)** by **Vee4r, y.mike** *(BEDWARS CHAMPION)* - `7 min ago`
+- **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 09:30:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 11:17:19 UTC*
 <!-- SPOTIFY-END -->
