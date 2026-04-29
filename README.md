@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a0ec9a91a54b668d82167de4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273afa79470ba443a3de3f84ac4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH">fern als heimweh</a></strong><br/>
-  <em>by</em> <strong>RYLO</strong><br/>
-  <em>Album:</em> fern als heimweh
+  <strong><a href="https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg">Wenn die Sonne scheint</a></strong><br/>
+  <em>by</em> <strong>Rowli, Hank</strong><br/>
+  <em>Album:</em> Teenage Tears
 </p>
 
-<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:16</code></p>
+<p align="center"><code>0:09</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:11</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)* - `1 min ago`
-- **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)* - `4 min ago`
-- **[Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)** by **Kanye West, Chris Martin** *(Graduation)* - `7 min ago`
-- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `11 min ago`
-- **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `13 min ago`
+- **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)* - `1 min ago`
+- **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)* - `4 min ago`
+- **[eine Woche](https://open.spotify.com/track/1L5Yx9t9a4kUOGx0gdiX9p)** by **Steintor Herrenchor** *(Eine Woche Geburtstag)* - `7 min ago`
+- **[Wein](https://open.spotify.com/track/2x0KAWjLgt4nmGxaBirZhx)** by **makko** *(Wein)* - `9 min ago`
+- **[Fantasy](https://open.spotify.com/track/59WDUxuy4lvvzSGgXRhAu6)** by **Snow Strippers** *(The Snow Strippers)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 01:22:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 04:46:29 UTC*
 <!-- SPOTIFY-END -->
