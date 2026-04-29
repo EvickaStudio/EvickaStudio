@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a0ec9a91a54b668d82167de4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i">TL;DR</a></strong><br/>
-  <em>by</em> <strong>Bladee, Ecco2k, Thaiboy Digital</strong><br/>
-  <em>Album:</em> TL;DR
+  <strong><a href="https://open.spotify.com/track/0xfzLUQ5Fluxtqz9nXA6rH">fern als heimweh</a></strong><br/>
+  <em>by</em> <strong>RYLO</strong><br/>
+  <em>Album:</em> fern als heimweh
 </p>
 
-<p align="center"><code>0:46</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:04</code></p>
+<p align="center"><code>1:17</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Clash of Clans](https://open.spotify.com/track/5oJl2xKCAFCPy6eXjE6z0e)** by **EN6O** *(Clash of Clans)* - `just now`
-- **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)* - `2 min ago`
-- **[All I Ever Wanted - Radio Edit](https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8)** by **Basshunter** *(Now You're Gone - The Album)* - `5 min ago`
-- **[Drank & Drugs](https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP)** by **Lil Kleine, Ronnie Flex** *(New Wave)* - `8 min ago`
-- **[Premier Inn](https://open.spotify.com/track/3wmheeuyJHqbD3ao4cI5d9)** by **Good Kid** *(Good Kid 4)* - `10 min ago`
+- **[Leuchtreklame](https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP)** by **Haftbefehl, Schmyt, Bausa, Bazzazian** *(Das schwarze Album)* - `1 min ago`
+- **[einfach v2](https://open.spotify.com/track/4YVT8BzLaGN0B8NemHIYQU)** by **JEREMIAS** *(einfach v2)* - `4 min ago`
+- **[Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)** by **Kanye West, Chris Martin** *(Graduation)* - `7 min ago`
+- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `11 min ago`
+- **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-28 23:35:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 01:22:17 UTC*
 <!-- SPOTIFY-END -->
