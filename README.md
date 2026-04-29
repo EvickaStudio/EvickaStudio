@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw">Eventually</a></strong><br/>
+  <em>by</em> <strong>Tame Impala</strong><br/>
+  <em>Album:</em> Currents
+</p>
+
+<p align="center"><code>5:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>5:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)* - `4 h ago`
-- **[Dosenwerfen](https://open.spotify.com/track/6J4xrmg8cDpiAi62GapImB)** by **Yatsu, maaks** *(Dosenwerfen)* - `4 h ago`
-- **[ADHS (sped up)](https://open.spotify.com/track/1zQTJNBEah32Mt15ZNGVLA)** by **Shoto** *(ADHS (sped up))* - `4 h ago`
-- **[2006](https://open.spotify.com/track/0eTXu3klzUMd46ogF5QDgh)** by **SUICIDAL-IDOL, ANGELMANE** *(2006)* - `4 h ago`
-- **[party!](https://open.spotify.com/track/1U0YknHxhEhZKrJrBxBRu5)** by **hateoryx, ang3lx** *(party!)* - `4 h ago`
+- **[Verrückt](https://open.spotify.com/track/2Ihj2zmvAnCs6ZGjuYOStl)** by **BHZ, Longus Mongus** *(KOMMAKLAR)* - `2 min ago`
+- **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)* - `5 min ago`
+- **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)* - `7 min ago`
+- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `11 min ago`
+- **[C ma shit pt. 2](https://open.spotify.com/track/1iJRSsTH0ZHRihrkZ8Mvkc)** by **Realo, Simala, abel31, Recklessboise** *(C ma shit pt. 2)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 18:10:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 19:52:08 UTC*
 <!-- SPOTIFY-END -->
