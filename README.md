@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27307f251f34e5da6c7b591d27f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0RlRqK8oIV7DuV3UCGVcjQ">i'm the one in love</a></strong><br/>
-  <em>by</em> <strong>timesgone, DNA</strong><br/>
-  <em>Album:</em> i'm the one in love
-</p>
-
-<p align="center"><code>1:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>1:47</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tagebuch Freestyle Chapter 1](https://open.spotify.com/track/0uBM97AqqWH4EyYaerc3pw)** by **neji.mp3** *(Tagebuch Freestyle Chapter 1)* - `1 min ago`
-- **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)* - `3 min ago`
-- **[roter knopf](https://open.spotify.com/track/17a1NdCzQzychnMcrRjPwH)** by **Tamino404** *(roter knopf)* - `5 min ago`
-- **[Me and the Birds](https://open.spotify.com/track/4wEuNvb7oG8oZYrZPZ9rPr)** by **Duster** *(Contemporary Movement)* - `7 min ago`
-- **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)* - `9 min ago`
+- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `just now`
+- **[The Field](https://open.spotify.com/track/2BktKgjgV35ZzmDPnVuuve)** by **Dylan Thom** *(The Field)* - `3 min ago`
+- **[The New Low](https://open.spotify.com/track/7kDM964YJIqQKt7UM3U7F3)** by **LAWN CHAIR** *(The New Low)* - `6 min ago`
+- **[Paranoid Paparazzi](https://open.spotify.com/track/6hE4M1OIhQzHyAZCxffY8x)** by **Yung Lean** *(Jonatan)* - `9 min ago`
+- **[You Could Have It](https://open.spotify.com/track/2ndh30vZhrfL0Zpq8wRbvl)** by **Horse Vision** *(You Could Have It)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 07:16:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-29 09:30:36 UTC*
 <!-- SPOTIFY-END -->
