@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273eeb8d15e46859b416d936189" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu">Taking Drugs? - Original Mix</a></strong><br/>
-  <em>by</em> <strong>Scott Brown</strong><br/>
-  <em>Album:</em> Evolution Plus Classics (Mixed by Scott Brown)
+  <strong><a href="https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof">LONG SEASON</a></strong><br/>
+  <em>by</em> <strong>Fishmans</strong><br/>
+  <em>Album:</em> LONG SEASON
 </p>
 
-<p align="center"><code>3:05</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>6:03</code></p>
+<p align="center"><code>0:46</code> ░░░░░░░░░░░░░░░░░░░░ <code>35:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Teufelskreis](https://open.spotify.com/track/4xYE7pT9DWovz6fiWbLrvN)** by **Pocky Red, Hadesthegrim** *(Teufelskreis)* - `3 min ago`
-- **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)* - `5 min ago`
-- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `7 min ago`
-- **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)* - `10 min ago`
-- **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)* - `13 min ago`
+- **[Cigarettes and Wine](https://open.spotify.com/track/0scE5rA7sC7Tx8M0AmSkVn)** by **absent, Saint Purple** *(Cigarettes and Wine)* - `just now`
+- **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)* - `3 min ago`
+- **[Our Parents Used To Dance On This](https://open.spotify.com/track/58xkLl4sYMrBDQ8S8D47M8)** by **Abr.** *(1 to 50)* - `6 min ago`
+- **[Polaris](https://open.spotify.com/track/6t90Kwo22FeYIgM1C6wD61)** by **Parannoul** *(After the Magic)* - `10 min ago`
+- **[Down Under (feat. Colin Hay)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2)** by **Luude, Colin Hay** *(Down Under (feat. Colin Hay))* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 18:05:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 19:47:31 UTC*
 <!-- SPOTIFY-END -->
