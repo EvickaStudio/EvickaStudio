@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273eeb8d15e46859b416d936189" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ">Glimpse of Us</a></strong><br/>
-  <em>by</em> <strong>Joji</strong><br/>
-  <em>Album:</em> Glimpse of Us
+  <strong><a href="https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu">Taking Drugs? - Original Mix</a></strong><br/>
+  <em>by</em> <strong>Scott Brown</strong><br/>
+  <em>Album:</em> Evolution Plus Classics (Mixed by Scott Brown)
 </p>
 
-<p align="center"><code>0:41</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:53</code></p>
+<p align="center"><code>3:05</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>6:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)* - `just now`
-- **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)* - `9 min ago`
-- **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)* - `13 min ago`
-- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `16 min ago`
-- **[SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2)** by **XXXTENTACION** *(?)* - `20 min ago`
+- **[Teufelskreis](https://open.spotify.com/track/4xYE7pT9DWovz6fiWbLrvN)** by **Pocky Red, Hadesthegrim** *(Teufelskreis)* - `3 min ago`
+- **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)* - `5 min ago`
+- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `7 min ago`
+- **[Verhext](https://open.spotify.com/track/5lQM3nFRH405e64QQvhtGV)** by **grim noir** *(Verhext)* - `10 min ago`
+- **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 16:53:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 18:05:15 UTC*
 <!-- SPOTIFY-END -->
