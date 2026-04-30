@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e46cbcca7e7b2728c0b05460" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6">Gimme! Gimme! Gimme! (A Man After Midnight)</a></strong><br/>
-  <em>by</em> <strong>ABBA</strong><br/>
-  <em>Album:</em> Voulez-Vous
+  <strong><a href="https://open.spotify.com/track/2lzpiYbzB63e6wdChWTSsf">Perfect Violation</a></strong><br/>
+  <em>by</em> <strong>Varg²™, Bladee</strong><br/>
+  <em>Album:</em> Evanescence (a Love Letter)
 </p>
 
-<p align="center"><code>1:14</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>4:52</code></p>
+<p align="center"><code>2:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>4:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr)** by **ABBA** *(Arrival)* - `1 min ago`
-- **[The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV)** by **ABBA** *(Super Trouper)* - `5 min ago`
-- **[Nicht Mehr Da](https://open.spotify.com/track/6pK8XuXZg5NHgdLmjkOne5)** by **uusymon, James Jetski** *(Stardust)* - `22 min ago`
-- **[unendlichkeit - Main Edit](https://open.spotify.com/track/1ALs3LHwsOSIyU2oqPenTG)** by **CRO** *(tru.)* - `23 min ago`
-- **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)* - `27 min ago`
+- **[Calcium (Show Me Love)](https://open.spotify.com/track/0PJWvYMTuFN5eghoXFiifn)** by **ewshem** *(yee)* - `2 min ago`
+- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `7 min ago`
+- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `9 min ago`
+- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `11 min ago`
+- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 20:51:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 21:50:22 UTC*
 <!-- SPOTIFY-END -->
