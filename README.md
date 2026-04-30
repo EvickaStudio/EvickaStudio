@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733d1869d8c477d291a205a2d6" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO">Sparkle - movie ver.</a></strong><br/>
+  <em>by</em> <strong>RADWIMPS</strong><br/>
+  <em>Album:</em> Your Name.
+</p>
+
+<p align="center"><code>8:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>8:57</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Wonder](https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA)** by **Kanye West** *(Graduation)* - `15 h ago`
-- **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `15 h ago`
-- **[Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m)** by **Grizzly Bear** *(Veckatimest)* - `15 h ago`
-- **[Jealous](https://open.spotify.com/track/0bhudMmr0XdtBOjFbjq8R0)** by **Eyedress** *(Let's Skip to the Wedding)* - `15 h ago`
-- **[fuckk](https://open.spotify.com/track/1RFl1jsgW0EmRhtRYkrtJk)** by **bliiiss, Capoxxo** *(fuckk)* - `15 h ago`
+- **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)* - `8 min ago`
+- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `11 min ago`
+- **[Leben ist zu kurz um Angst zu haben](https://open.spotify.com/track/6PI0ckgQc7yuVfALKtZkBq)** by **makko** *(Pass dich nie an, Pass auf dich auf)* - `14 min ago`
+- **[bleach](https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt)** by **Vandalism** *(bleach)* - `16 min ago`
+- **[sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI)** by **Kasi, antonius** *(sommernacht)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 11:39:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 13:07:52 UTC*
 <!-- SPOTIFY-END -->
