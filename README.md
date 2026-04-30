@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27308596cc28b9f5b00bfe08ae7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq">Genesis</a></strong><br/>
-  <em>by</em> <strong>Grimes</strong><br/>
-  <em>Album:</em> Visions
+  <strong><a href="https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ">Glimpse of Us</a></strong><br/>
+  <em>by</em> <strong>Joji</strong><br/>
+  <em>Album:</em> Glimpse of Us
 </p>
 
-<p align="center"><code>2:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:15</code></p>
+<p align="center"><code>0:41</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)* - `2 min ago`
-- **[ELFBAR (feat. Skrt Cobain)](https://open.spotify.com/track/5BMle9FMhTy3rT79AU3aBO)** by **Yung Hurn, skrt cobain** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `4 min ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `7 min ago`
-- **[HOLLISTER (feat. EN6O)](https://open.spotify.com/track/3ZaoOOuSp3Osv8VjmePu64)** by **Yung Hurn, EN6O** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `9 min ago`
-- **[Silence of the Lambs](https://open.spotify.com/track/0mQEWoesnmt58MzH1LIOus)** by **Babyteeth** *(Silence of the Lambs)* - `12 min ago`
+- **[Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0)** by **RÜFÜS DU SOL** *(Bloom)* - `just now`
+- **[catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD)** by **julie** *(my anti-aircraft friend)* - `9 min ago`
+- **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)* - `13 min ago`
+- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `16 min ago`
+- **[SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2)** by **XXXTENTACION** *(?)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 15:21:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-04-30 16:53:48 UTC*
 <!-- SPOTIFY-END -->
