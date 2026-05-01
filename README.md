@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273bbaaa8bf9aedb07135d2c6d3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7">resonance - midwest emo version</a></strong><br/>
-  <em>by</em> <strong>jacal</strong><br/>
-  <em>Album:</em> resonance (midwest emo version)
+  <strong><a href="https://open.spotify.com/track/0qFTFL1V5nRMw4fmEodSYQ">Life In a Glasshouse</a></strong><br/>
+  <em>by</em> <strong>Radiohead</strong><br/>
+  <em>Album:</em> KID A MNESIA
 </p>
 
-<p align="center"><code>1:16</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:39</code></p>
+<p align="center"><code>4:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `1 min ago`
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
-- **[Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)** by **Lukas, Der Rapper, Gomme-Hymne** *(Wenn Der Gommemode Angeht!)* - `5 min ago`
-- **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)* - `8 min ago`
-- **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)* - `10 min ago`
+- **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)* - `4 min ago`
+- **[##pasletemps](https://open.spotify.com/track/0p1dzoxtXfD7E7EzAHVq6G)** by **5v, sparr00w** *(##pasletemps)* - `6 min ago`
+- **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)* - `8 min ago`
+- **[Transgender](https://open.spotify.com/track/3pbN3SGJott0Rgb5aE5kqc)** by **Crystal Castles** *((III))* - `10 min ago`
+- **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 11:52:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 13:00:14 UTC*
 <!-- SPOTIFY-END -->
