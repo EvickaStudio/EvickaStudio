@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)* - `3 h ago`
-- **[Perfect Violation](https://open.spotify.com/track/2lzpiYbzB63e6wdChWTSsf)** by **Varg²™, Bladee** *(Evanescence (a Love Letter))* - `3 h ago`
-- **[Calcium (Show Me Love)](https://open.spotify.com/track/0PJWvYMTuFN5eghoXFiifn)** by **ewshem** *(yee)* - `3 h ago`
-- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `3 h ago`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `3 h ago`
+- **[SHEDIM](https://open.spotify.com/track/07ohGQB6q5dEPioqXjN3Qo)** by **2hollis** *(SHEDIM)* - `7 h ago`
+- **[Perfect Violation](https://open.spotify.com/track/2lzpiYbzB63e6wdChWTSsf)** by **Varg²™, Bladee** *(Evanescence (a Love Letter))* - `7 h ago`
+- **[Calcium (Show Me Love)](https://open.spotify.com/track/0PJWvYMTuFN5eghoXFiifn)** by **ewshem** *(yee)* - `7 h ago`
+- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `7 h ago`
+- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 01:25:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 05:02:57 UTC*
 <!-- SPOTIFY-END -->
