@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bbaaa8bf9aedb07135d2c6d3" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0qFTFL1V5nRMw4fmEodSYQ">Life In a Glasshouse</a></strong><br/>
-  <em>by</em> <strong>Radiohead</strong><br/>
-  <em>Album:</em> KID A MNESIA
-</p>
-
-<p align="center"><code>4:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:36</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)* - `4 min ago`
-- **[##pasletemps](https://open.spotify.com/track/0p1dzoxtXfD7E7EzAHVq6G)** by **5v, sparr00w** *(##pasletemps)* - `6 min ago`
-- **[GTG](https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH)** by **Freddie Dredd** *(GTG)* - `8 min ago`
-- **[Transgender](https://open.spotify.com/track/3pbN3SGJott0Rgb5aE5kqc)** by **Crystal Castles** *((III))* - `10 min ago`
-- **[Silence / akiaura](https://open.spotify.com/track/6NzkliYpE6IAb300cZhnb2)** by **hentai boys, akiaura** *(4EVER)* - `13 min ago`
+- **[Hi-5](https://open.spotify.com/track/3lGuDoxCZpTtx3b1t21nHU)** by **lusi 7896, ilyproxy** *(delaFLeuR)* - `7 min ago`
+- **[CHAMPIONS](https://open.spotify.com/track/1PoFjQa6IAXcO2kTIkEDgF)** by **gard** *(FKING AMAZING)* - `10 min ago`
+- **[Mir & Dir](https://open.spotify.com/track/1DMFKQPdg9SzxmVdv7IQ75)** by **Brown-Eyes White Boy** *(Mir & Dir)* - `13 min ago`
+- **[All I've Seen](https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c)** by **Evanora Unlimited** *(All I've Seen)* - `15 min ago`
+- **[only us](https://open.spotify.com/track/4qya0DXu6FnGr3lN2rqMt2)** by **Senses, Drux** *(shallow breathing)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 13:00:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 14:18:18 UTC*
 <!-- SPOTIFY-END -->
