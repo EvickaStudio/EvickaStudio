@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273faa6560290393ee2057a6581" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/32DCrPLlNu23eKxjxctk6I">REDiCi</a></strong><br/>
-  <em>by</em> <strong>agelast222, gard</strong><br/>
-  <em>Album:</em> SOLAR TACTICS
+  <strong><a href="https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK">Cupid's Chokehold / Breakfast in America</a></strong><br/>
+  <em>by</em> <strong>Gym Class Heroes</strong><br/>
+  <em>Album:</em> The Papercut Chronicles
 </p>
 
-<p align="center"><code>0:13</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:18</code></p>
+<p align="center"><code>2:25</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>4:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r)** by **Radiohead** *(Pablo Honey)* - `just now`
-- **[c0ldLA/h0pelessPlace](https://open.spotify.com/track/6m04rkFdYrE2YZTHdLFizP)** by **TYM** *(c0ldLA/h0pelessPlace)* - `4 min ago`
-- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `10 min ago`
-- **[Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)** by **Sewerslvt** *(Draining Love Story)* - `12 min ago`
-- **[Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)** by **Sewerslvt** *(Draining Love Story)* - `15 min ago`
+- **[Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)** by **Kanye West** *(ye)* - `2 min ago`
+- **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)* - `6 min ago`
+- **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)* - `9 min ago`
+- **[i crash, u crash](https://open.spotify.com/track/2miw7jNOAe9Qny5TG3vGyg)** by **løve.wav, ghøst.wav** *(i crash, u crash)* - `13 min ago`
+- **[Fabergé](https://open.spotify.com/track/7lnQCEtaDJeMZN75siSxLc)** by **RIN** *(Fabergé)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 07:35:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 09:20:09 UTC*
 <!-- SPOTIFY-END -->
