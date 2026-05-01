@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d0feaedb9451a83179b0a21e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3tyaRpGUjrfkFYh4LOcmpV">Wingfield freestyle</a></strong><br/>
-  <em>by</em> <strong>User116, 5v</strong><br/>
-  <em>Album:</em> Wingfield freestyle
+  <strong><a href="https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7">resonance - midwest emo version</a></strong><br/>
+  <em>by</em> <strong>jacal</strong><br/>
+  <em>Album:</em> resonance (midwest emo version)
 </p>
 
-<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:12</code></p>
+<p align="center"><code>1:16</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[42](https://open.spotify.com/track/3ZxoEljEcB5jSr1y86ZnET)** by **Philip Brooks** *(42)* - `1 min ago`
-- **[tryna luvv u </3](https://open.spotify.com/track/2diDOIzxy3H9ozZlQc5Km6)** by **KidSnorlax, Pawl4k** *(tryna luvv u </3)* - `4 min ago`
-- **[misbehave](https://open.spotify.com/track/0ZdMggDdrTrPj9rKpBPtzo)** by **Senses** *(shallow breathing)* - `6 min ago`
-- **[CRUSH](https://open.spotify.com/track/50zopKTEXrLyaJ6qQ470YA)** by **Clover!, wasty, Bandiicam** *(CRUSH)* - `9 min ago`
-- **[covered in light](https://open.spotify.com/track/7ax0erxqzIVXJYagvBUIOp)** by **mxtty, dreamcache** *(baiori)* - `11 min ago`
+- **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `1 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
+- **[Wenn Der Gommemode Angeht!](https://open.spotify.com/track/52WOEqLORD1aR7y8rK85JN)** by **Lukas, Der Rapper, Gomme-Hymne** *(Wenn Der Gommemode Angeht!)* - `5 min ago`
+- **[keep yourself safe](https://open.spotify.com/track/4Mi9YgApMy0tuxil20PxmJ)** by **cy4ne, iwannabemissed** *(keep yourself safe)* - `8 min ago`
+- **[Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b)** by **Basement Jaxx** *(Rooty)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 10:50:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-01 11:52:19 UTC*
 <!-- SPOTIFY-END -->
