@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c68b61db6c5e04fa03e815e6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof">LONG SEASON</a></strong><br/>
-  <em>by</em> <strong>Fishmans</strong><br/>
-  <em>Album:</em> LONG SEASON
+  <strong><a href="https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF">Eyelash</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Love Is A State
 </p>
 
-<p align="center"><code>6:21</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>35:16</code></p>
+<p align="center"><code>1:15</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))* - `6 min ago`
-- **[Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV)** by **M83** *(Hurry up, We're Dreaming)* - `10 min ago`
-- **[Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s)** by **Labi Siffre** *(The Singer and the Song)* - `14 min ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `16 min ago`
-- **[Changes](https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz)** by **Charles Bradley, The Budos Band** *(Changes)* - `22 min ago`
+- **[World's a Fuck](https://open.spotify.com/track/1h6J3V3Z0x8ItK558Crm9x)** by **Sematary, Ghost Mountain** *(The Wagoner EP)* - `1 min ago`
+- **[Still Don't Know My Name (From "Euphoria: Season 1" Soundtrack)](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV)** by **Labrinth** *(Euphoria (Original Score from the HBO Series))* - `4 min ago`
+- **[jederzeit](https://open.spotify.com/track/5nA9CNCozY6bQzoUJU3083)** by **Tamino404, eedriaen** *(jederzeit)* - `7 min ago`
+- **[Rockstars](https://open.spotify.com/track/0N76gMgRQr2Kfs0qXPR3hb)** by **dusy, Young Lime, Scruffy** *(Rockstars)* - `9 min ago`
+- **[Nicht So Einfach](https://open.spotify.com/track/7lOOLxgxsITWujVvl2NXvp)** by **Sadi, Mo Nomad** *(2AM Forever)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 14:27:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 15:10:32 UTC*
 <!-- SPOTIFY-END -->
