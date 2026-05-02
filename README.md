@@ -96,9 +96,9 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)* - `2 h ago`
-- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)* - `15 h ago`
-- **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)* - `15 h ago`
+- **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)* - `3 h ago`
+- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)* - `16 h ago`
+- **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)* - `16 h ago`
 - **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)* - `16 h ago`
 - **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)* - `16 h ago`
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 10:26:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 11:12:21 UTC*
 <!-- SPOTIFY-END -->
