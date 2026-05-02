@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732eea528a47a5e4517c13e727" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD">Just Your Doll</a></strong><br/>
-  <em>by</em> <strong>Snow Strippers</strong><br/>
-  <em>Album:</em> Just Your Doll
-</p>
-
-<p align="center"><code>0:33</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:27</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn)** by **Rema** *(FUN)* - `just now`
-- **[Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK)** by **OMAH LAY** *(Waist)* - `3 min ago`
-- **[Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc)** by **Blaqbonez** *(Go Crazy)* - `7 min ago`
-- **[Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6)** by **Ayra Starr** *(Hot Body)* - `9 min ago`
-- **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))* - `11 min ago`
+- **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)* - `9 min ago`
+- **[WODRAINER](https://open.spotify.com/track/5JUVGhN9kashmZGVf5lSf2)** by **Bladee** *(Cold Visions)* - `13 min ago`
+- **[PARANOIA INTRO](https://open.spotify.com/track/68DW4TA3cANDG7Igy9SY3T)** by **Bladee** *(Cold Visions)* - `16 min ago`
+- **[PARANOIA INTRO](https://open.spotify.com/track/68DW4TA3cANDG7Igy9SY3T)** by **Bladee** *(Cold Visions)* - `17 min ago`
+- **[i cant say](https://open.spotify.com/track/4e3siXMZ2jZc4Z43hebk0R)** by **latex fruit, Technopagan** *(i cant say)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 17:37:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 18:33:52 UTC*
 <!-- SPOTIFY-END -->
