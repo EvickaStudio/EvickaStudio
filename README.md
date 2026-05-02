@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)* - `11 h ago`
-- **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)* - `12 h ago`
-- **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)* - `12 h ago`
-- **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)* - `12 h ago`
-- **[Miss You - Sped Up Version](https://open.spotify.com/track/1R133Fme0thKYEVPlWHhaW)** by **southstar** *(Miss You)* - `12 h ago`
+- **[Silver Surfer](https://open.spotify.com/track/7GVKfOD5anbSJvPPWDgJgN)** by **strangerperson** *(Silver Surfer)* - `9 min ago`
+- **[ex-freundin](https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh)** by **luu, Nosgov** *(immenser pflegefall)* - `13 h ago`
+- **[TINDER DATES](https://open.spotify.com/track/3zPAsdLkePyIYu5W89FAZU)** by **Hello Hannes, stixz** *(TINDER DATES)* - `13 h ago`
+- **[Lightsaber // Saviour](https://open.spotify.com/track/1HIy7ekqjyfGjDdOHNDGmz)** by **Yung Lean** *(Unknown Death 2002)* - `13 h ago`
+- **[My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ)** by **$uicideboy$** *(I No Longer Fear the Razor Guarding My Heel)* - `13 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 06:29:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 08:08:30 UTC*
 <!-- SPOTIFY-END -->
