@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27303a4cf597cfeb6cf300e706e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27355b52048f14d0564f8c8630f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4xknWgReka280wDuVjmTMZ">Closing Time</a></strong><br/>
-  <em>by</em> <strong>smokedope2016</strong><br/>
-  <em>Album:</em> THE COMEDOWN
+  <strong><a href="https://open.spotify.com/track/0qJR5242PvtHISvqxf4GE9">BLOMSTERTID</a></strong><br/>
+  <em>by</em> <strong>Dj Billybool, Eurohead, Bladee</strong><br/>
+  <em>Album:</em> DYR
 </p>
 
-<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:40</code></p>
+<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)* - `1 min ago`
-- **[Kinda Like It That Way](https://open.spotify.com/track/25g4Jk4tYA3gOJhBugTpeX)** by **Snow Strippers** *(April Mixtape 3)* - `4 min ago`
-- **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)* - `7 min ago`
-- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `9 min ago`
-- **[take me by the hand](https://open.spotify.com/track/1oo8xwvtRep4Frhrpte5Eg)** by **Oklou, Bladee** *(choke enough)* - `11 min ago`
+- **[In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)** by **Ayegy** *(In It, Not of It)* - `1 min ago`
+- **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)* - `4 min ago`
+- **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)* - `8 min ago`
+- **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)* - `10 min ago`
+- **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 15:59:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 16:54:11 UTC*
 <!-- SPOTIFY-END -->
