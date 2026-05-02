@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27355b52048f14d0564f8c8630f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732eea528a47a5e4517c13e727" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0qJR5242PvtHISvqxf4GE9">BLOMSTERTID</a></strong><br/>
-  <em>by</em> <strong>Dj Billybool, Eurohead, Bladee</strong><br/>
-  <em>Album:</em> DYR
+  <strong><a href="https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD">Just Your Doll</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> Just Your Doll
 </p>
 
-<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:35</code></p>
+<p align="center"><code>0:33</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In It, Not of It](https://open.spotify.com/track/2Im3VUQgzIolw3GCOemI3R)** by **Ayegy** *(In It, Not of It)* - `1 min ago`
-- **[Wax](https://open.spotify.com/track/4hMDZdt3oWX5HKW0wBXQ2S)** by **The Truth** *(U.S.T)* - `4 min ago`
-- **[Letting Go, Carry Us Away](https://open.spotify.com/track/6fH2KTFeo61I6QhtKzH0Qe)** by **User2222** *(User2222 Greatest Hits)* - `8 min ago`
-- **[The Sky Thats Between Us](https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j)** by **Eera** *(The Sky Thats Between Us)* - `10 min ago`
-- **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)* - `13 min ago`
+- **[FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn)** by **Rema** *(FUN)* - `just now`
+- **[Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK)** by **OMAH LAY** *(Waist)* - `3 min ago`
+- **[Go Crazy](https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc)** by **Blaqbonez** *(Go Crazy)* - `7 min ago`
+- **[Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6)** by **Ayra Starr** *(Hot Body)* - `9 min ago`
+- **[End of the Night - Sped Up](https://open.spotify.com/track/57uu1B5DIyK5up9PfYYn9I)** by **Baby Jane** *(A Grave Marked Strange (Sped Up))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 16:54:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-02 17:37:36 UTC*
 <!-- SPOTIFY-END -->
