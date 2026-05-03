@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273efebb3e764a0e7a74ce5393b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738e41e9fc097615819c40c190" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2vj55J14cjerZEHlZ5ez0l">52Hertz - Bonus Track</a></strong><br/>
-  <em>by</em> <strong>Dropped here</strong><br/>
-  <em>Album:</em> Need for speed
+  <strong><a href="https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv">Phonky Town</a></strong><br/>
+  <em>by</em> <strong>PlayaPhonk</strong><br/>
+  <em>Album:</em> Phonky Town
 </p>
 
-<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:23</code></p>
+<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[unknown feelings](https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w)** by **Novulent** *(unknown feelings)* - `just now`
-- **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)* - `3 min ago`
-- **[6ix](https://open.spotify.com/track/2txjhK0BwtEE8mXZNrPQ89)** by **Loukeman** *(Sd-2)* - `5 min ago`
-- **[2000](https://open.spotify.com/track/50WmaN9G4RyEo6imS11gD5)** by **Mietze Conte** *(Mietzee)* - `7 min ago`
-- **[Aim](https://open.spotify.com/track/4po0BRTseMisI5YnOlLhlk)** by **ear** *(The Most Dear and The Future)* - `8 min ago`
+- **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)* - `2 min ago`
+- **[Tausend Gesichter](https://open.spotify.com/track/2whUhJFehr6ST9toXzzpYK)** by **52Blue, Dropped here** *(Tausend Gesichter)* - `4 min ago`
+- **[Mom I'm Sorry](https://open.spotify.com/track/0L0wOoq39Y0jLO4qaFaavQ)** by **Dropped here** *(Mom I'm Sorry)* - `7 min ago`
+- **[cellophan](https://open.spotify.com/track/22pAAZC8ucFcHsGJx4Jwvi)** by **Niko Jug** *(cellophan)* - `9 min ago`
+- **[letzte warnung](https://open.spotify.com/track/6fOyLFGoVcEKc2fleonmuJ)** by **mickyi** *(letzte warnung)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 20:04:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 21:00:35 UTC*
 <!-- SPOTIFY-END -->
