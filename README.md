@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c999278e380650837fe7eb9b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD">FOR THE NIGHT! - SPED UP</a></strong><br/>
-  <em>by</em> <strong>Clover!</strong><br/>
-  <em>Album:</em> FOR THE NIGHT!
-</p>
-
-<p align="center"><code>0:45</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:50</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[EXOPLANET // HYPERTRANCE](https://open.spotify.com/track/41XuMnIooz7eeRnQAaVZzN)** by **nuphory, Luna Lenta** *(EXOPLANET // HYPERTRANCE)* - `just now`
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `4 min ago`
-- **[ONE SECOND (feat. Yung Lean)](https://open.spotify.com/track/2TGwmgjl7qszphP6hfe6Df)** by **Bladee, Yung Lean** *(Cold Visions)* - `8 min ago`
-- **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)* - `16 h ago`
-- **[WODRAINER](https://open.spotify.com/track/5JUVGhN9kashmZGVf5lSf2)** by **Bladee** *(Cold Visions)* - `16 h ago`
+- **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)* - `5 min ago`
+- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `8 min ago`
+- **[Things to Do](https://open.spotify.com/track/1V9lCLSierc1RFpERt6ak9)** by **Alex G** *(Race)* - `10 min ago`
+- **[Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE)** by **Pat Benatar** *(Crimes Of Passion)* - `12 min ago`
+- **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Love Is A State**](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 10:37:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 11:25:00 UTC*
 <!-- SPOTIFY-END -->
