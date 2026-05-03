@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27318e3bfafecd2f057f088e40b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC">Wenn du tanzt</a></strong><br/>
-  <em>by</em> <strong>Von Wegen Lisbeth</strong><br/>
-  <em>Album:</em> Grande
+  <strong><a href="https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO">Flop</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Basspunk
 </p>
 
-<p align="center"><code>1:01</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:50</code></p>
+<p align="center"><code>3:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Alles Gute](https://open.spotify.com/track/5oaBqJf0ZsJWaPuhUOOBCZ)** by **Faber** *(Abstinenz)* - `1 min ago`
-- **[Ich bin dein Mann](https://open.spotify.com/track/6zHnPU38izp8Iv5vhXldtG)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `5 min ago`
-- **[Ostseelied](https://open.spotify.com/track/0rQ1ru4yE6Pofe9kh4jW1X)** by **Hildegard Knef** *(Ich sehe die Welt durch deine Augen (Remastered))* - `7 min ago`
-- **[Kathrin und Lars](https://open.spotify.com/track/2xsvi6ZxyZKarb7UhG2Nzf)** by **Jacques Palminger, Erobique, Yvon** *(Songs for Joy)* - `9 min ago`
-- **[Gekommen um zu bleiben](https://open.spotify.com/track/0UdNzmV16GbFEDohWcEaDC)** by **Wir sind Helden** *(Von hier an blind)* - `15 min ago`
+- **[The Kids Are Coming Home](https://open.spotify.com/track/35m5M54N5PzJszAt866rTp)** by **Bassvictim, Worldpeace DMT** *(The Kids Are Coming Home)* - `3 min ago`
+- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `5 min ago`
+- **[Fahrrad fahr´n](https://open.spotify.com/track/4QYPN8GPhpXQ35nrcSPnmw)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `8 min ago`
+- **[Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)** by **Wir sind Helden** *(Die Reklamation)* - `12 min ago`
+- **[Wolken](https://open.spotify.com/track/2iYq7QAXjVKjui0UDHlZf2)** by **Bukahara** *(Canaries in a Coal Mine)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 16:10:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 17:06:28 UTC*
 <!-- SPOTIFY-END -->
