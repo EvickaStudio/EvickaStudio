@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27361eb816641a010b1ae297c71" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO">Flop</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp">Live too fast</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk
+  <em>Album:</em> Basspunk 2
 </p>
 
-<p align="center"><code>3:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:27</code></p>
+<p align="center"><code>0:08</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Kids Are Coming Home](https://open.spotify.com/track/35m5M54N5PzJszAt866rTp)** by **Bassvictim, Worldpeace DMT** *(The Kids Are Coming Home)* - `3 min ago`
-- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `5 min ago`
-- **[Fahrrad fahr´n](https://open.spotify.com/track/4QYPN8GPhpXQ35nrcSPnmw)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `8 min ago`
-- **[Aurélie](https://open.spotify.com/track/6vugYRjEYHJ3nsGP5kScpf)** by **Wir sind Helden** *(Die Reklamation)* - `12 min ago`
-- **[Wolken](https://open.spotify.com/track/2iYq7QAXjVKjui0UDHlZf2)** by **Bukahara** *(Canaries in a Coal Mine)* - `15 min ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `just now`
+- **[LA](https://open.spotify.com/track/1656nQPmnncFrUulSXiTw6)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
+- **[Ike piano](https://open.spotify.com/track/01NMNjq0UHn2CABMXnLJxA)** by **Bassvictim** *(Forever)* - `5 min ago`
+- **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)* - `8 min ago`
+- **[Alice](https://open.spotify.com/track/2U0c0gLahirV5552LZM11w)** by **Bassvictim** *(Alice)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 17:06:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 18:00:57 UTC*
 <!-- SPOTIFY-END -->
