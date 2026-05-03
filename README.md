@@ -96,21 +96,21 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp">Live too fast</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid">Gajówka</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
   <em>Album:</em> Basspunk 2
 </p>
 
-<p align="center"><code>0:08</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:27</code></p>
+<p align="center"><code>1:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `just now`
-- **[LA](https://open.spotify.com/track/1656nQPmnncFrUulSXiTw6)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
-- **[Ike piano](https://open.spotify.com/track/01NMNjq0UHn2CABMXnLJxA)** by **Bassvictim** *(Forever)* - `5 min ago`
-- **[Wolves Howling](https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat)** by **Bassvictim** *(Forever)* - `8 min ago`
-- **[Alice](https://open.spotify.com/track/2U0c0gLahirV5552LZM11w)** by **Bassvictim** *(Alice)* - `11 min ago`
+- **[Europa Baby](https://open.spotify.com/track/1VC1kOToLV0zQKWLRgR3LP)** by **ilyproxy** *(Europa Baby)* - `1 min ago`
+- **[Kate Moss](https://open.spotify.com/track/3CKvbgToq3umqvaHjC14bM)** by **S1RENA** *(Kate Moss)* - `4 min ago`
+- **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luutwo** *(doppelsuizid)* - `5 min ago`
+- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `7 min ago`
+- **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 18:00:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 19:16:12 UTC*
 <!-- SPOTIFY-END -->
