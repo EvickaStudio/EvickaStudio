@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv)** by **PlayaPhonk** *(Phonky Town)* - `2 h ago`
-- **[Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)** by **Thrilliam Angels, Ecco2k** *(The Static Screams Your Name)* - `2 h ago`
-- **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)* - `2 h ago`
-- **[Tausend Gesichter](https://open.spotify.com/track/2whUhJFehr6ST9toXzzpYK)** by **52Blue, Dropped here** *(Tausend Gesichter)* - `2 h ago`
-- **[Mom I'm Sorry](https://open.spotify.com/track/0L0wOoq39Y0jLO4qaFaavQ)** by **Dropped here** *(Mom I'm Sorry)* - `2 h ago`
+- **[Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv)** by **PlayaPhonk** *(Phonky Town)* - `3 h ago`
+- **[Solar Champion](https://open.spotify.com/track/269oY0B5KDp6jVTsl68AS3)** by **Thrilliam Angels, Ecco2k** *(The Static Screams Your Name)* - `3 h ago`
+- **[march Madness](https://open.spotify.com/track/3ibBN2Xhh8adRGqllN7CA0)** by **myspacemark** *(march Madness)* - `3 h ago`
+- **[Tausend Gesichter](https://open.spotify.com/track/2whUhJFehr6ST9toXzzpYK)** by **52Blue, Dropped here** *(Tausend Gesichter)* - `3 h ago`
+- **[Mom I'm Sorry](https://open.spotify.com/track/0L0wOoq39Y0jLO4qaFaavQ)** by **Dropped here** *(Mom I'm Sorry)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-03 23:26:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 00:09:38 UTC*
 <!-- SPOTIFY-END -->
