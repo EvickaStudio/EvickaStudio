@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735ac6226a668978bf43185e97" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273218d8387ba60f0ae14ea3b7d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1L0EA6BegmM4KMwTHmSHux">Empathy</a></strong><br/>
-  <em>by</em> <strong>Crystal Castles</strong><br/>
-  <em>Album:</em> (II)
+  <strong><a href="https://open.spotify.com/track/57KUPYB6CliPsFhZTMBL3g">Leb es oder lass es</a></strong><br/>
+  <em>by</em> <strong>makko</strong><br/>
+  <em>Album:</em> Leb es oder lass es
 </p>
 
-<p align="center"><code>3:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:09</code></p>
+<p align="center"><code>0:42</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)* - `3 min ago`
-- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `7 min ago`
-- **[I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)** by **Bladee** *(Spiderr)* - `10 min ago`
-- **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)* - `12 min ago`
-- **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)* - `15 min ago`
+- **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)* - `just now`
+- **[zwischen allem und nichts](https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn)** by **Kasi, antonius** *(sommernacht <3)* - `3 min ago`
+- **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)* - `6 min ago`
+- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `8 min ago`
+- **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 17:08:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 18:53:28 UTC*
 <!-- SPOTIFY-END -->
