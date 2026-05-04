@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273863a8ef358ed3c0e25e4486c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735ac6226a668978bf43185e97" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2">Invisible</a></strong><br/>
-  <em>by</em> <strong>Yung Sherman, Uli K, Bladee</strong><br/>
-  <em>Album:</em> Innocence v2
+  <strong><a href="https://open.spotify.com/track/1L0EA6BegmM4KMwTHmSHux">Empathy</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> (II)
 </p>
 
-<p align="center"><code>0:12</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:48</code></p>
+<p align="center"><code>3:10</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:09</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `just now`
-- **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)* - `43 min ago`
-- **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)* - `46 min ago`
-- **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)* - `49 min ago`
-- **[Destruction Age](https://open.spotify.com/track/6D60317nb2tnPetD4UHhgx)** by **akiaura, LONOWN, STM** *(Destruction Age)* - `51 min ago`
+- **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)* - `3 min ago`
+- **[IDFC (feat. Ravenna Golden)](https://open.spotify.com/track/6qo9Ai2LsURu7U79AveA5I)** by **WHIPPED CREAM, Ravenna Golden** *(WHO IS WHIPPED CREAM?)* - `7 min ago`
+- **[I AM SLOWLY BUT SURELY LOSING HOPE](https://open.spotify.com/track/3WieU75Yx5KEP1TnC8dTF8)** by **Bladee** *(Spiderr)* - `10 min ago`
+- **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)* - `12 min ago`
+- **[Keine Lovesongs](https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha)** by **grim noir** *(Keine Lovesongs)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 15:18:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 17:08:57 UTC*
 <!-- SPOTIFY-END -->
