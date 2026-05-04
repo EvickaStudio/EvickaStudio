@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273218d8387ba60f0ae14ea3b7d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273eadf8dadfda77d34a117deb6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/57KUPYB6CliPsFhZTMBL3g">Leb es oder lass es</a></strong><br/>
-  <em>by</em> <strong>makko</strong><br/>
-  <em>Album:</em> Leb es oder lass es
+  <strong><a href="https://open.spotify.com/track/27vUyn9Jmnky5ru1kuJgYu">Heb ab - sped up</a></strong><br/>
+  <em>by</em> <strong>S1RENA</strong><br/>
+  <em>Album:</em> Heb ab
 </p>
 
-<p align="center"><code>0:42</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:51</code></p>
+<p align="center"><code>1:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[One In A Million](https://open.spotify.com/track/0UkgsDVyTCy0naTEKwkDmu)** by **Bladee** *(Ste The Beautiful Martyr 1st Attempt)* - `just now`
-- **[zwischen allem und nichts](https://open.spotify.com/track/5UvTDAr7oqTU7e3Rm8hcjn)** by **Kasi, antonius** *(sommernacht <3)* - `3 min ago`
-- **[Wanna Get High](https://open.spotify.com/track/24JNCYivYDTzWnyYEb4k8n)** by **rvng** *(N1)* - `6 min ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `8 min ago`
-- **[Built This Way - Slowed](https://open.spotify.com/track/4qdeY9W7NYLSHlF3nX43TW)** by **DR0NE3** *(Built This Way (Slowed))* - `12 min ago`
+- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `just now`
+- **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)* - `1 min ago`
+- **[Infinity - Miguel Angelo Remix](https://open.spotify.com/track/2lIhwPUNSDgM7SmcgBeYrD)** by **Guru Josh Project, Miguel Angelo** *(Infinity (Miguel Angelo Remix))* - `2 min ago`
+- **[Was It Weird I Listened to Im God by Clams Casino,s When I Lost My Virginity](https://open.spotify.com/track/5T92IFQuMqrWbPlZLf6Utv)** by **DEADGHOSTBABY** *(Child Sacrifice)* - `5 min ago`
+- **[Dibiyu](https://open.spotify.com/track/6Q40HIdIAYJqsG5pivlpaR)** by **Evanora Unlimited, Ecco2k** *(Dibiyu)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 18:53:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 20:10:17 UTC*
 <!-- SPOTIFY-END -->
