@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bc25b81211df621713558012" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB">Shiko</a></strong><br/>
-  <em>by</em> <strong>Gehlektek, TakaTuka</strong><br/>
-  <em>Album:</em> Acid Pirate 13
+  <strong><a href="https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc">Stairway to Heaven - Remaster</a></strong><br/>
+  <em>by</em> <strong>Led Zeppelin</strong><br/>
+  <em>Album:</em> Led Zeppelin IV (Deluxe Edition)
 </p>
 
-<p align="center"><code>10:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>10:33</code></p>
+<p align="center"><code>0:42</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>8:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)* - `10 min ago`
-- **[wir_s3lbst](https://open.spotify.com/track/1Fk25C1ezbpW5z0A7KIvry)** by **Pink Katana** *(wir_s3lbst)* - `12 min ago`
-- **[52Hertz - Bonus Track](https://open.spotify.com/track/2vj55J14cjerZEHlZ5ez0l)** by **Dropped here** *(Need for speed)* - `14 min ago`
-- **[Ghost Town](https://open.spotify.com/track/3Hzn0Ow4z874WYWeBnkyDb)** by **Luca Eck, benzii** *(Ghost Town)* - `17 min ago`
-- **[sternenverlies](https://open.spotify.com/track/0Swreo8gT8PnR5YIKTY0k2)** by **stixz** *(toxics1ut)* - `22 min ago`
+- **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)* - `just now`
+- **[Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E)** by **Nena** *(Nena)* - `4 min ago`
+- **[I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl)** by **Elliott Fullam** *(What's Wrong)* - `8 min ago`
+- **[right away](https://open.spotify.com/track/1OwfnfTqiqV6SVdzk81ltc)** by **boy 2000** *(tape 2000)* - `11 min ago`
+- **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**this was all a dream**](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 09:34:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-04 11:25:05 UTC*
 <!-- SPOTIFY-END -->
