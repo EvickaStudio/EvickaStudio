@@ -91,32 +91,22 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27316d8d167cf0b365ff687db2e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7EX2AhlHtoSlUb7PtZQJmE">Loud (feat. Longus Mongus)</a></strong><br/>
-  <em>by</em> <strong>Monk, BHZ, Longus Mongus</strong><br/>
-  <em>Album:</em> Hellwach
-</p>
-
-<p align="center"><code>0:48</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:34</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)* - `just now`
-- **[if looks could kill](https://open.spotify.com/track/1cdqNRXIRrvT4HnApj6yw6)** by **Destroy Lonely** *(if looks could kill)* - `5 min ago`
-- **[grace](https://open.spotify.com/track/0aToIEze1byUgGOo6XvM5g)** by **vvalleys** *(grace)* - `9 min ago`
-- **[Melodie](https://open.spotify.com/track/2iGBtxtGTwomOhHoHptFSl)** by **OMG** *(Melodie / Kayseri)* - `11 min ago`
-- **[Wir kriegens hin](https://open.spotify.com/track/2dl3byZOlOaqEghpnDJmhq)** by **Kasi, antonius** *(No Hook)* - `13 min ago`
+- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `14 min ago`
+- **[Invisible](https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2)** by **Yung Sherman, Uli K, Bladee** *(Innocence v2)* - `15 min ago`
+- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `18 min ago`
+- **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)* - `21 min ago`
+- **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)* - `24 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ABBA**](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV)
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**null city**](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-05 09:17:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-05 10:57:58 UTC*
 <!-- SPOTIFY-END -->
