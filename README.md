@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `14 min ago`
-- **[Invisible](https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2)** by **Yung Sherman, Uli K, Bladee** *(Innocence v2)* - `15 min ago`
-- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `18 min ago`
-- **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)* - `21 min ago`
-- **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)* - `24 min ago`
+- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `1 h ago`
+- **[Invisible](https://open.spotify.com/track/5QDUTylUYO7iffJOVIuhK2)** by **Yung Sherman, Uli K, Bladee** *(Innocence v2)* - `1 h ago`
+- **[ABSTURZ](https://open.spotify.com/track/1fNTmaOeKOS5Qgl1n3ENhW)** by **Leftovers** *(ABSTURZ)* - `1 h ago`
+- **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)* - `1 h ago`
+- **[Berlin](https://open.spotify.com/track/77xtiun3KgJGmyp7u0whLy)** by **Maikel** *(Berlin)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**null city**](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-05 10:57:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-05 12:00:45 UTC*
 <!-- SPOTIFY-END -->
