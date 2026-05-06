@@ -96,10 +96,10 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[This One Is for You (RIP Dad)](https://open.spotify.com/track/0Fi62HR4UwkdFlvoVAUP1z)** by **Yung City** *(This One Is for You (RIP Dad))* - `49 min ago`
-- **[CASTLE OF GLASS](https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5)** by **Linkin Park** *(LIVING THINGS)* - `52 min ago`
-- **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)* - `55 min ago`
-- **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `57 min ago`
+- **[This One Is for You (RIP Dad)](https://open.spotify.com/track/0Fi62HR4UwkdFlvoVAUP1z)** by **Yung City** *(This One Is for You (RIP Dad))* - `1 h ago`
+- **[CASTLE OF GLASS](https://open.spotify.com/track/1r1fPuhj9H4VdXr7OK6FL5)** by **Linkin Park** *(LIVING THINGS)* - `1 h ago`
+- **[Better Off Alone GLITCHCORE](https://open.spotify.com/track/1YfEAOCpeq5mZ46vY4KSOP)** by **BadMoodRude** *(Better Off Alone GLITCHCORE)* - `1 h ago`
+- **[INTO YOU (feat. meat computer)](https://open.spotify.com/track/00FxXyZMcTO1hQutQoQazK)** by **Yung Hurn, meat computer** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `1 h ago`
 - **[Rainbow](https://open.spotify.com/track/5nOXdmvlZS4nRot3vwt7IH)** by **Bladee, Mechatok** *(Good Luck)* - `1 h ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-06 22:29:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-06 23:27:19 UTC*
 <!-- SPOTIFY-END -->
