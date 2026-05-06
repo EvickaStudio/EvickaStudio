@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bc25b81211df621713558012" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB">Shiko</a></strong><br/>
+  <em>by</em> <strong>Gehlektek, TakaTuka</strong><br/>
+  <em>Album:</em> Acid Pirate 13
+</p>
+
+<p align="center"><code>7:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>10:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[RITTER DER NACHT OUTRO](https://open.spotify.com/track/6n0BEMe62sSIo5Yg6vJEEc)** by **Punk Christ** *(ORGANISCHE CHEMIE)* - `1 h ago`
-- **[egobaby](https://open.spotify.com/track/5o6F1O26mp56RPkmyoSfQd)** by **Bladee** *(The Fool)* - `1 h ago`
-- **[Bequem](https://open.spotify.com/track/7mq4CCgO6vTBZHoOjF23b6)** by **makko** *(Leb es oder lass es 2)* - `2 h ago`
-- **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)* - `2 h ago`
-- **[its okay 2 cry\\](https://open.spotify.com/track/22G6ChG5lOHkxfPR1revKw)** by **Zaram** *(its okay 2 cry\\)* - `2 h ago`
+- **[bandage ##](https://open.spotify.com/track/3PhEF1J3D2rF72T3R9V7Zc)** by **i9bonsai** *(bandage ##)* - `7 min ago`
+- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
+- **[ENGEL 1](https://open.spotify.com/track/7fRrUk9XwVHpzQK5yYAr9U)** by **Yung Hurn** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `15 min ago`
+- **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)* - `16 min ago`
+- **[i feel better in the night time](https://open.spotify.com/track/2ordhPUd9pp98PnYGOqE8W)** by **dreamcache** *(i feel better in the night time)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-06 15:33:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-06 17:11:41 UTC*
 <!-- SPOTIFY-END -->
