@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27396a5f58c7bb18b04342dffb9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733b6d585b35256ca77fc82e3a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5">All Good Things (Come To An End)</a></strong><br/>
-  <em>by</em> <strong>DJ Traytex</strong><br/>
-  <em>Album:</em> All Good Things (Come To An End)
+  <strong><a href="https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ">Standby</a></strong><br/>
+  <em>by</em> <strong>Pitfall, kurtains</strong><br/>
+  <em>Album:</em> Standby
 </p>
 
-<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:24</code></p>
+<p align="center"><code>1:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>1:57</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Project Lee](https://open.spotify.com/track/4BWB4sloTnnEych80RIJhH)** by **Dj Settler** *(Project Lee)* - `just now`
-- **[Never](https://open.spotify.com/track/4wXLZtpqSPm7nYlpZllz6A)** by **Mag.Lo, O Super** *(Never)* - `3 min ago`
-- **[me me she](https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ)** by **RADWIMPS** *(RADWIMPS 4 ～おかずのごはん～)* - `9 min ago`
-- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))* - `14 min ago`
-- **[Hundra Dagar](https://open.spotify.com/track/1Zly94CKQYtYhawGbusOqx)** by **105** *(Hundra Dagar)* - `16 min ago`
+- **[Gewissenlos - Sped Up](https://open.spotify.com/track/1UTjmC05rcY37iWDwyg2ty)** by **Young Dom** *(Gewissenlos (Remixes))* - `1 min ago`
+- **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)* - `3 min ago`
+- **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)* - `6 min ago`
+- **[Saw](https://open.spotify.com/track/1WgSV4qb90fPut4rhwVhrV)** by **Tevvez** *(Pure)* - `9 min ago`
+- **[⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆](https://open.spotify.com/track/2iPcZ48HmKSZlOeRN59lGo)** by **snafu, weirdo girl** *(⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-06 09:38:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-06 11:27:53 UTC*
 <!-- SPOTIFY-END -->
