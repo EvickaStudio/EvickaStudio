@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ab86a12ff140c34a0125187a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27357a2826259b81fe89f3b3714" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6CAggC4rEiqOtpXru9JqDo">At my best,</a></strong><br/>
-  <em>by</em> <strong>bronclair</strong><br/>
-  <em>Album:</em> At my best,
+  <strong><a href="https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c">All I've Seen</a></strong><br/>
+  <em>by</em> <strong>Evanora Unlimited</strong><br/>
+  <em>Album:</em> All I've Seen
 </p>
 
-<p align="center"><code>0:19</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:20</code></p>
+<p align="center"><code>2:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Albaner mit Swag](https://open.spotify.com/track/4Dfh0zPBNF9QRkr841LnIF)** by **Sadi** *(Albaner mit Swag)* - `just now`
-- **[misbehave](https://open.spotify.com/track/0ZdMggDdrTrPj9rKpBPtzo)** by **Senses** *(shallow breathing)* - `2 min ago`
-- **[in ur calvins](https://open.spotify.com/track/7i7sqVjVO8YgoohEkuynYC)** by **benzii, notinbed** *(in ur calvins)* - `5 min ago`
-- **[Feather](https://open.spotify.com/track/3RWXgpW6fqDYx7uJF9Wwxi)** by **Bby Eco** *(Sky (i))* - `1 h ago`
-- **[Pourin Up Till Death](https://open.spotify.com/track/51iGtI8IMiUJt7lSjKojqT)** by **Vialice** *(Talk When Were Okay, Pt.3)* - `1 h ago`
+- **[CRUSH](https://open.spotify.com/track/50zopKTEXrLyaJ6qQ470YA)** by **Clover!, wasty, Bandiicam** *(CRUSH)* - `2 min ago`
+- **[Hi-5](https://open.spotify.com/track/3lGuDoxCZpTtx3b1t21nHU)** by **lusi 7896, ilyproxy** *(delaFLeuR)* - `4 min ago`
+- **[disguise](https://open.spotify.com/track/6pU8IbKwJPbhsJoYZJ6P6F)** by **mxtty, RudeClub** *(baiori)* - `7 min ago`
+- **[Hanging On A Minute](https://open.spotify.com/track/0jAYJeZbG2atnZA0Y609HW)** by **Tommy Fleece** *(Hanging On A Minute)* - `10 min ago`
+- **[i try my best i swear](https://open.spotify.com/track/6Sdujjvjqc5dPIdSZ3a5Vi)** by **mint** *(i try my best i swear)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 20:37:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 21:36:35 UTC*
 <!-- SPOTIFY-END -->
