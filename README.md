@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731a7d3019d8c9ef47f7941620" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ab86a12ff140c34a0125187a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0xF3zF4s2ed59NYTcyAKsb">$$$$</a></strong><br/>
-  <em>by</em> <strong>TECHG1RLS</strong><br/>
-  <em>Album:</em> $$$$
+  <strong><a href="https://open.spotify.com/track/6CAggC4rEiqOtpXru9JqDo">At my best,</a></strong><br/>
+  <em>by</em> <strong>bronclair</strong><br/>
+  <em>Album:</em> At my best,
 </p>
 
-<p align="center"><code>3:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:15</code></p>
+<p align="center"><code>0:19</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:20</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Numbers](https://open.spotify.com/track/0UZ1bYXnzhrG6r6rRSzHpE)** by **Worldpeace DMT, Rowan Please** *(The Velvet Underground & Rowan)* - `3 min ago`
-- **[Coco Manifesto](https://open.spotify.com/track/4u7c3d2wycoc2uW6Wd6Z0b)** by **Ms* Gloom** *(J is for Joon)* - `6 min ago`
-- **[In Dreams I Hold You](https://open.spotify.com/track/1Us8fG1B2Ll0va5ryDH5sQ)** by **Bby Eco** *(Sky (i))* - `10 min ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `12 min ago`
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `16 min ago`
+- **[Albaner mit Swag](https://open.spotify.com/track/4Dfh0zPBNF9QRkr841LnIF)** by **Sadi** *(Albaner mit Swag)* - `just now`
+- **[misbehave](https://open.spotify.com/track/0ZdMggDdrTrPj9rKpBPtzo)** by **Senses** *(shallow breathing)* - `2 min ago`
+- **[in ur calvins](https://open.spotify.com/track/7i7sqVjVO8YgoohEkuynYC)** by **benzii, notinbed** *(in ur calvins)* - `5 min ago`
+- **[Feather](https://open.spotify.com/track/3RWXgpW6fqDYx7uJF9Wwxi)** by **Bby Eco** *(Sky (i))* - `1 h ago`
+- **[Pourin Up Till Death](https://open.spotify.com/track/51iGtI8IMiUJt7lSjKojqT)** by **Vialice** *(Talk When Were Okay, Pt.3)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 19:10:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 20:37:23 UTC*
 <!-- SPOTIFY-END -->
