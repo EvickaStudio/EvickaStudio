@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731a7d3019d8c9ef47f7941620" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt">Three worlds apart</a></strong><br/>
-  <em>by</em> <strong>kuru</strong><br/>
-  <em>Album:</em> Backstage hologram
+  <strong><a href="https://open.spotify.com/track/0xF3zF4s2ed59NYTcyAKsb">$$$$</a></strong><br/>
+  <em>by</em> <strong>TECHG1RLS</strong><br/>
+  <em>Album:</em> $$$$
 </p>
 
-<p align="center"><code>1:11</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:12</code></p>
+<p align="center"><code>3:56</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Gimme it all](https://open.spotify.com/track/2hXJRgm82U2XLoh1HE05vz)** by **MGNA Crrrta** *(Beautiful Disaster)* - `1 min ago`
-- **[lucas ave](https://open.spotify.com/track/1jRN6Im9SjY1SJzDWVFpmq)** by **Jade 2008** *(lucas ave)* - `3 min ago`
-- **[All I Could Think Of](https://open.spotify.com/track/4p1gUXBhUjEgtoguPEyMoh)** by **Loukeman** *(Sd-3)* - `5 min ago`
-- **[Chain](https://open.spotify.com/track/3MdxgtCpfwgBGT98UMXAlk)** by **Suzy Sheer** *(Euphoriphilia)* - `7 min ago`
-- **[Is Loser An Emotion You Feel Too?](https://open.spotify.com/track/0CGFMWGcwZIuEPvjYdmgMd)** by **The Femcels** *(I Have To Get Hotter)* - `9 min ago`
+- **[Numbers](https://open.spotify.com/track/0UZ1bYXnzhrG6r6rRSzHpE)** by **Worldpeace DMT, Rowan Please** *(The Velvet Underground & Rowan)* - `3 min ago`
+- **[Coco Manifesto](https://open.spotify.com/track/4u7c3d2wycoc2uW6Wd6Z0b)** by **Ms* Gloom** *(J is for Joon)* - `6 min ago`
+- **[In Dreams I Hold You](https://open.spotify.com/track/1Us8fG1B2Ll0va5ryDH5sQ)** by **Bby Eco** *(Sky (i))* - `10 min ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `12 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 17:23:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 19:10:59 UTC*
 <!-- SPOTIFY-END -->
