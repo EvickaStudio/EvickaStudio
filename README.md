@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d5b24e609626e20cc88232ea" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273668f89613ff0436399963aba" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak">Ghetto Techno - Swimmingpool</a></strong><br/>
-  <em>by</em> <strong>Die Atzen</strong><br/>
-  <em>Album:</em> Atzen Musik Vol.1, 2 & 3
+  <strong><a href="https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp">Curse is Lifted - Club rmx</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Curse is Lifted (Club rmx)
 </p>
 
-<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:33</code></p>
+<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)* - `1 min ago`
-- **[rotten](https://open.spotify.com/track/0lSIYgRZ67n14ijRpBhLxD)** by **anna luna** *(rotten)* - `4 min ago`
-- **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)* - `6 min ago`
-- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `9 min ago`
-- **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)* - `12 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `2 min ago`
+- **[METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)** by **INTERWORLD** *(METAMORPHOSIS)* - `5 min ago`
+- **[Nie mehr auf Wolke 7](https://open.spotify.com/track/1swdoC3yiWgXqFORvP2Ifc)** by **makko** *(Lieb mich oder lass es, Pt.1+2)* - `8 min ago`
+- **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)* - `11 min ago`
+- **[Shut My Eyes](https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW)** by **Burrrn** *(Blaze Down His Way Like the Space Show)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 11:24:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 13:12:50 UTC*
 <!-- SPOTIFY-END -->
