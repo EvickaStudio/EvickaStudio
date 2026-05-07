@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27357a2826259b81fe89f3b3714" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3Gz983bt0MhXIcBKvASw8c">All I've Seen</a></strong><br/>
-  <em>by</em> <strong>Evanora Unlimited</strong><br/>
-  <em>Album:</em> All I've Seen
-</p>
-
-<p align="center"><code>2:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:19</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[CRUSH](https://open.spotify.com/track/50zopKTEXrLyaJ6qQ470YA)** by **Clover!, wasty, Bandiicam** *(CRUSH)* - `2 min ago`
-- **[Hi-5](https://open.spotify.com/track/3lGuDoxCZpTtx3b1t21nHU)** by **lusi 7896, ilyproxy** *(delaFLeuR)* - `4 min ago`
-- **[disguise](https://open.spotify.com/track/6pU8IbKwJPbhsJoYZJ6P6F)** by **mxtty, RudeClub** *(baiori)* - `7 min ago`
-- **[Hanging On A Minute](https://open.spotify.com/track/0jAYJeZbG2atnZA0Y609HW)** by **Tommy Fleece** *(Hanging On A Minute)* - `10 min ago`
-- **[i try my best i swear](https://open.spotify.com/track/6Sdujjvjqc5dPIdSZ3a5Vi)** by **mint** *(i try my best i swear)* - `12 min ago`
+- **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)* - `27 min ago`
+- **[YUNG SHERMAN (feat Yung Sherman)](https://open.spotify.com/track/7LZQAyiaX2t3RflQcCku1s)** by **Bladee, Yung Sherman** *(Cold Visions)* - `29 min ago`
+- **[BLUEBERRY YUM YUM](https://open.spotify.com/track/1UGcGxo10wet5bZik9pbZh)** by **BHZ, Monk, Dead Dawg, Big Pat** *(HALB:VIER DELUXE)* - `31 min ago`
+- **[KLOPF KLOPF](https://open.spotify.com/track/35cuGX9aGTQaeHFkEnrbwJ)** by **luutwo, Slatty** *(KLOPF KLOPF)* - `35 min ago`
+- **[Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk)** by **Edwin Rosen** *(Wie sehr tut es weh?)* - `37 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 21:36:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 22:41:54 UTC*
 <!-- SPOTIFY-END -->
