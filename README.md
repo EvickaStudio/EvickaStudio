@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736f9becf049248eec59e70f44" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733b22e9c1bb181646c3cf6e1d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/63gOTfEniAdF7IsVy6PSK4">Manifester</a></strong><br/>
-  <em>by</em> <strong>Loukeman</strong><br/>
-  <em>Album:</em> Sd-3
+  <strong><a href="https://open.spotify.com/track/5CtOcvApQBGISBBzVsVZYt">Three worlds apart</a></strong><br/>
+  <em>by</em> <strong>kuru</strong><br/>
+  <em>Album:</em> Backstage hologram
 </p>
 
-<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:23</code></p>
+<p align="center"><code>1:11</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:12</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `1 min ago`
-- **[Ballet Flat$ On The Ga$ Pedal](https://open.spotify.com/track/26VUliruOm9r2zbg7uJDmY)** by **Cowgirl Clue** *(Total Freedom)* - `4 min ago`
-- **[Fuck With The Stars](https://open.spotify.com/track/3fhGtquwJBpzG9JuCcUjJd)** by **Sodomland** *(61)* - `6 min ago`
-- **[I Just Remembered Everything Always Works Out for Me](https://open.spotify.com/track/65teFvaEuvjL4nQZhNSvWd)** by **Touching Ice** *(I Just Remembered Everything Always Works Out for Me)* - `9 min ago`
-- **[Body Parts](https://open.spotify.com/track/3STdWXx8MnhZGYdXmfsorN)** by **MGNA Crrrta** *(New Jersey)* - `12 min ago`
+- **[Gimme it all](https://open.spotify.com/track/2hXJRgm82U2XLoh1HE05vz)** by **MGNA Crrrta** *(Beautiful Disaster)* - `1 min ago`
+- **[lucas ave](https://open.spotify.com/track/1jRN6Im9SjY1SJzDWVFpmq)** by **Jade 2008** *(lucas ave)* - `3 min ago`
+- **[All I Could Think Of](https://open.spotify.com/track/4p1gUXBhUjEgtoguPEyMoh)** by **Loukeman** *(Sd-3)* - `5 min ago`
+- **[Chain](https://open.spotify.com/track/3MdxgtCpfwgBGT98UMXAlk)** by **Suzy Sheer** *(Euphoriphilia)* - `7 min ago`
+- **[Is Loser An Emotion You Feel Too?](https://open.spotify.com/track/0CGFMWGcwZIuEPvjYdmgMd)** by **The Femcels** *(I Have To Get Hotter)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 15:35:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 17:23:29 UTC*
 <!-- SPOTIFY-END -->
