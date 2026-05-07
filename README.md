@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c999278e380650837fe7eb9b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d5b24e609626e20cc88232ea" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1kn3EoHOuxnuix3S3JlSJD">FOR THE NIGHT! - SPED UP</a></strong><br/>
-  <em>by</em> <strong>Clover!</strong><br/>
-  <em>Album:</em> FOR THE NIGHT!
+  <strong><a href="https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak">Ghetto Techno - Swimmingpool</a></strong><br/>
+  <em>by</em> <strong>Die Atzen</strong><br/>
+  <em>Album:</em> Atzen Musik Vol.1, 2 & 3
 </p>
 
-<p align="center"><code>0:40</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>1:50</code></p>
+<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)* - `just now`
-- **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)* - `2 min ago`
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `5 min ago`
-- **[I <3 DRUGS 2](https://open.spotify.com/track/5maeafZ1PQJudjMJPT7CJq)** by **lavendr** *(I <3 DRUGS 2)* - `7 min ago`
-- **[Durch die Nacht](https://open.spotify.com/track/3AjmnzdVpa6kvcqkA6KGP9)** by **Edo Saiya, Young Richie Rich** *(This Was Home)* - `9 min ago`
+- **[Right Next 2 U](https://open.spotify.com/track/2bHUfrheXAbZSFkLr2TpgT)** by **SUICIDAL-IDOL, hoshie star** *(Right Next 2 U)* - `1 min ago`
+- **[rotten](https://open.spotify.com/track/0lSIYgRZ67n14ijRpBhLxD)** by **anna luna** *(rotten)* - `4 min ago`
+- **[Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2)** by **Cavetown** *(Cavetown)* - `6 min ago`
+- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `9 min ago`
+- **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 09:26:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 11:24:30 UTC*
 <!-- SPOTIFY-END -->
