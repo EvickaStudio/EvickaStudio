@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273668f89613ff0436399963aba" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736f9becf049248eec59e70f44" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp">Curse is Lifted - Club rmx</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Curse is Lifted (Club rmx)
+  <strong><a href="https://open.spotify.com/track/63gOTfEniAdF7IsVy6PSK4">Manifester</a></strong><br/>
+  <em>by</em> <strong>Loukeman</strong><br/>
+  <em>Album:</em> Sd-3
 </p>
 
-<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:39</code></p>
+<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `2 min ago`
-- **[METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz)** by **INTERWORLD** *(METAMORPHOSIS)* - `5 min ago`
-- **[Nie mehr auf Wolke 7](https://open.spotify.com/track/1swdoC3yiWgXqFORvP2Ifc)** by **makko** *(Lieb mich oder lass es, Pt.1+2)* - `8 min ago`
-- **[Don't Stop - Extended Mix](https://open.spotify.com/track/2Ct0gcyzozHlrVxVNYzgLx)** by **Rejecta** *(Generation Hardstyle - 2024)* - `11 min ago`
-- **[Shut My Eyes](https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW)** by **Burrrn** *(Blaze Down His Way Like the Space Show)* - `14 min ago`
+- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `1 min ago`
+- **[Ballet Flat$ On The Ga$ Pedal](https://open.spotify.com/track/26VUliruOm9r2zbg7uJDmY)** by **Cowgirl Clue** *(Total Freedom)* - `4 min ago`
+- **[Fuck With The Stars](https://open.spotify.com/track/3fhGtquwJBpzG9JuCcUjJd)** by **Sodomland** *(61)* - `6 min ago`
+- **[I Just Remembered Everything Always Works Out for Me](https://open.spotify.com/track/65teFvaEuvjL4nQZhNSvWd)** by **Touching Ice** *(I Just Remembered Everything Always Works Out for Me)* - `9 min ago`
+- **[Body Parts](https://open.spotify.com/track/3STdWXx8MnhZGYdXmfsorN)** by **MGNA Crrrta** *(New Jersey)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 13:12:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-07 15:35:42 UTC*
 <!-- SPOTIFY-END -->
