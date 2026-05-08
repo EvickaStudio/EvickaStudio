@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof">LONG SEASON</a></strong><br/>
-  <em>by</em> <strong>Fishmans</strong><br/>
-  <em>Album:</em> LONG SEASON
-</p>
-
-<p align="center"><code>24:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>35:16</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)* - `24 min ago`
-- **[video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)** by **blombi19** *(video)* - `27 min ago`
-- **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)* - `29 min ago`
-- **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)* - `32 min ago`
-- **[United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL)** by **Kendrick Lamar** *(Mr. Morale & The Big Steppers)* - `35 min ago`
+- **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')* - `35 min ago`
+- **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))* - `38 min ago`
+- **[Heroine](https://open.spotify.com/track/6N2rMGXBhNZ6slxJcp1E7z)** by **Dutch Disorder** *(Heroine)* - `44 min ago`
+- **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)* - `47 min ago`
+- **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 22:59:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 23:57:51 UTC*
 <!-- SPOTIFY-END -->
