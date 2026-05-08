@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730d17a6222838773c74be548c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f658592780611e78be2b6ebe" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6VMuUIEIkYWkpFPwzw2An8">Großstadtdschungel</a></strong><br/>
-  <em>by</em> <strong>viko63, penglord</strong><br/>
-  <em>Album:</em> Großstadtdschungel
+  <strong><a href="https://open.spotify.com/track/6tH0ClbEYj6OKTnTSfXiuQ">coke clutch chemistry</a></strong><br/>
+  <em>by</em> <strong>JB 50</strong><br/>
+  <em>Album:</em> coke clutch chemistry
 </p>
 
-<p align="center"><code>0:08</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:44</code></p>
+<p align="center"><code>0:04</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX)** by **Sportfreunde Stiller** *(Die gute Seite (Die lange Seite))* - `just now`
-- **[makkohatjedenliebaussersichselbst](https://open.spotify.com/track/205bdmtyfWa9bzvWvlD3nK)** by **makko** *(Leb es oder lass es 2)* - `3 min ago`
-- **[GOLDKRONE](https://open.spotify.com/track/3yuGQEAZEbM4SnDFqOzoR1)** by **Kkuba102, 102 Boyz, Uncle F** *(SACHSCHADEN EP)* - `6 min ago`
-- **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)* - `9 min ago`
-- **[Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)** by **Wir sind Helden** *(Von hier an blind)* - `11 min ago`
+- **[Nur Ein Kind](https://open.spotify.com/track/2LS98oN0QSE6FI78aTfhI5)** by **Brown-Eyes White Boy** *(Nur Ein Kind)* - `just now`
+- **[kund3n](https://open.spotify.com/track/2WZfloCBhYuxOuGRF2cAn0)** by **lil london** *(kund3n)* - `2 min ago`
+- **[Skins UK](https://open.spotify.com/track/3G2vwBxpdGkGu1EgVQFG5q)** by **toobrokeforfiji** *(Was is mit UNS los?)* - `4 min ago`
+- **[Da](https://open.spotify.com/track/5aHbkoSoqhUgbKewiRhk77)** by **wurms, LOU, Doba, marly, aeticbeats** *(Da)* - `7 min ago`
+- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**null city**](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 15:56:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 17:10:32 UTC*
 <!-- SPOTIFY-END -->
