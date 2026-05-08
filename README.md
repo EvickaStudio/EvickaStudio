@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27344c4f1f5bf2f4ff74a6dd8e4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735d42c1fa054a5a98f69a7ebe" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY">REMEMBER U MINE!</a></strong><br/>
-  <em>by</em> <strong>444pluto, Nosgov, NXTY</strong><br/>
-  <em>Album:</em> REMEMBER U MINE!
+  <strong><a href="https://open.spotify.com/track/6di0ubrcWF1vkf441tnRLh">Nie Mehr</a></strong><br/>
+  <em>by</em> <strong>CRO</strong><br/>
+  <em>Album:</em> Raop
 </p>
 
-<p align="center"><code>0:56</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:04</code></p>
+<p align="center"><code>0:11</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg)** by **carolesdaughter** *(Violent)* - `just now`
-- **[RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)** by **Tyler, The Creator** *(IGOR)* - `3 min ago`
-- **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)* - `6 min ago`
-- **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)* - `9 min ago`
-- **[herz aus stein](https://open.spotify.com/track/6T4j18kYFbajw6R8id6k5B)** by **Pink Katana** *(ich will nie wieder warten auf etwas das nicht kommt)* - `11 min ago`
+- **[BLEED (RUNAWAY)](https://open.spotify.com/track/38YiaD6Qc0zxcwONGRnWjZ)** by **RomancePlanet, Euphorizer** *(BLEED (RUNAWAY))* - `just now`
+- **[Schwebebahn](https://open.spotify.com/track/7sMFTDZMZjLGjrowjxwTY5)** by **Brown-Eyes White Boy** *(Schwebebahn)* - `2 min ago`
+- **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)* - `4 min ago`
+- **[Psychic](https://open.spotify.com/track/2o0HBEggQAyXYcIk4ZRMvY)** by **WILDE** *(Psychic)* - `7 min ago`
+- **[YMCA (Original Version 1978)](https://open.spotify.com/track/3UAdO916wku6gCnTL8ObL8)** by **Village People** *(YMCA (Original Version 1978))* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 20:59:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 21:59:55 UTC*
 <!-- SPOTIFY-END -->
