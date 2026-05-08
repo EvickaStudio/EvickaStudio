@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ccfe62f7f216145b913a7be8" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735eef4a5a0481a08f2cf993c3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ">Bitches Talk Shit</a></strong><br/>
-  <em>by</em> <strong>Sophia Stel</strong><br/>
-  <em>Album:</em> Bitches Talk Shit
+  <strong><a href="https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK">Limerence</a></strong><br/>
+  <em>by</em> <strong>Yves Tumor</strong><br/>
+  <em>Album:</em> Mono No Aware
 </p>
 
-<p align="center"><code>2:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:39</code></p>
+<p align="center"><code>2:23</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>5:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Dogs of War](https://open.spotify.com/track/6pidilGWd5NuREht6PQkMj)** by **Bassvictim** *(?)* - `2 min ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `3 min ago`
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `7 min ago`
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `9 min ago`
-- **[Babcia Jadzia](https://open.spotify.com/track/3YUiDAxi6If11zNnxJDbDi)** by **Bassvictim** *(?)* - `13 min ago`
+- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `2 min ago`
+- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `7 min ago`
+- **[doppelsuizid](https://open.spotify.com/track/19obpJDJbTc5D9QlYzOj9U)** by **mehlhaltig, luutwo** *(doppelsuizid)* - `11 min ago`
+- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `12 min ago`
+- **[No More](https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb)** by **Buckshot** *(No More)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**null city**](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 18:43:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 19:58:07 UTC*
 <!-- SPOTIFY-END -->
