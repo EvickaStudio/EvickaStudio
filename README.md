@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273992870e16fc3c33671145103" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739168173ffd9845a1192362bd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN">Ivy</a></strong><br/>
-  <em>by</em> <strong>Bby Eco</strong><br/>
-  <em>Album:</em> Sky (i)
+  <strong><a href="https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q">Ich_hoffe_du_bleibst_alleine</a></strong><br/>
+  <em>by</em> <strong>sparr00w, bleac</strong><br/>
+  <em>Album:</em> 00
 </p>
 
-<p align="center"><code>1:11</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:23</code></p>
+<p align="center"><code>0:27</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Titelmusik: Falsche Schuld - Folge 238](https://open.spotify.com/track/6P3we6odmyTFDgFxlG1Odj)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 min ago`
-- **[Inhaltsangabe: Falsche Schuld - Folge 238](https://open.spotify.com/track/5DSRlfcyC263GK0UK0y6YC)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `2 min ago`
-- **[Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K)** by **Pixies** *(Death to the Pixies)* - `3 min ago`
-- **[Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K)** by **Pixies** *(Death to the Pixies)* - `3 min ago`
-- **[Endstation](https://open.spotify.com/track/6AHUkMbo5qEanF8ng66t62)** by **kevin** *(Endstation)* - `7 min ago`
+- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `just now`
+- **[Während die Welt untergeht](https://open.spotify.com/track/7lsY7xFNPEvRKxMr4RKWAR)** by **diamando, DeeLou** *(Während die Welt untergeht)* - `3 min ago`
+- **[help me](https://open.spotify.com/track/0gQdWwUjqpO5GP60tOhR46)** by **mint** *(help me)* - `6 min ago`
+- **[ALONE IN THE DARK](https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8)** by **RomancePlanet** *(ALONE IN THE DARK)* - `9 min ago`
+- **[LMFAO](https://open.spotify.com/track/78iWYDMkDCaMnEXXFNU9Fm)** by **Drux, Lunaa, pradaaslife** *(Scrapclub)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 08:04:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 09:50:20 UTC*
 <!-- SPOTIFY-END -->
