@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730d17a6222838773c74be548c" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6VMuUIEIkYWkpFPwzw2An8">Großstadtdschungel</a></strong><br/>
+  <em>by</em> <strong>viko63, penglord</strong><br/>
+  <em>Album:</em> Großstadtdschungel
+</p>
+
+<p align="center"><code>0:08</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)** by **DJ Traytex** *(All Good Things (Come To An End))* - `13 min ago`
-- **[clover](https://open.spotify.com/track/1nHWYbknvW8IkiRHfaPlBf)** by **5v, Rit** *(clover)* - `18 min ago`
-- **[2012](https://open.spotify.com/track/03YRFKGzqLWvD0YHIOOqt8)** by **Tamino404** *(stoppschild)* - `20 min ago`
-- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `23 min ago`
-- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `42 min ago`
+- **[Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX)** by **Sportfreunde Stiller** *(Die gute Seite (Die lange Seite))* - `just now`
+- **[makkohatjedenliebaussersichselbst](https://open.spotify.com/track/205bdmtyfWa9bzvWvlD3nK)** by **makko** *(Leb es oder lass es 2)* - `3 min ago`
+- **[GOLDKRONE](https://open.spotify.com/track/3yuGQEAZEbM4SnDFqOzoR1)** by **Kkuba102, 102 Boyz, Uncle F** *(SACHSCHADEN EP)* - `6 min ago`
+- **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)* - `9 min ago`
+- **[Wenn es passiert](https://open.spotify.com/track/0tqdwcXyp9EytUIsR46OBw)** by **Wir sind Helden** *(Von hier an blind)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Summer Of Love**](https://open.spotify.com/track/7jgThHRTXTKyOrID1UhLm7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**null city**](https://open.spotify.com/track/7EtsnRBPnrmXQTqP7iP0c4)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 14:20:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 15:56:32 UTC*
 <!-- SPOTIFY-END -->
