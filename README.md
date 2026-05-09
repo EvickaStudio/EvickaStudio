@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27303966392fab52082be565005" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u">nachtaktiv</a></strong><br/>
-  <em>by</em> <strong>Tamino404</strong><br/>
-  <em>Album:</em> nachtaktiv
+  <strong><a href="https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l">Asleep - 2011 Remaster</a></strong><br/>
+  <em>by</em> <strong>The Smiths</strong><br/>
+  <em>Album:</em> Louder Than Bombs
 </p>
 
-<p align="center"><code>0:30</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:40</code></p>
+<p align="center"><code>0:22</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Colt](https://open.spotify.com/track/0ffDEk4cBumZAgfsQ4m9W2)** by **HighSchool** *(HighSchool)* - `just now`
-- **[Glück](https://open.spotify.com/track/1TpBsIXIDRIDFPLGzzJx41)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `5 min ago`
-- **[Left](https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi)** by **sign crushes motorist** *(i'll be okay)* - `7 min ago`
-- **[I Hate Myself](https://open.spotify.com/track/1YxvVoreQh1uAt1EyweBJv)** by **Junior** *(I Hate Myself)* - `10 min ago`
-- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `14 min ago`
+- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `just now`
+- **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)* - `3 min ago`
+- **[Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg)** by **carolesdaughter** *(Violent)* - `5 min ago`
+- **[RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)** by **Tyler, The Creator** *(IGOR)* - `7 min ago`
+- **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 14:32:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 15:34:39 UTC*
 <!-- SPOTIFY-END -->
