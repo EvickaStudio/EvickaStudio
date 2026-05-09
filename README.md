@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')* - `35 min ago`
-- **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))* - `38 min ago`
-- **[Heroine](https://open.spotify.com/track/6N2rMGXBhNZ6slxJcp1E7z)** by **Dutch Disorder** *(Heroine)* - `44 min ago`
-- **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)* - `47 min ago`
-- **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)* - `1 h ago`
+- **[Oh Darlin'](https://open.spotify.com/track/1nS2j25irD7rSv19e1LzDW)** by **Flawless Issues** *(Oh Darlin')* - `3 h ago`
+- **[The Love I Lost (feat. Teddy Pendergrass)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H)** by **Harold Melvin & The Blue Notes, Teddy Pendergrass** *(Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))* - `3 h ago`
+- **[Heroine](https://open.spotify.com/track/6N2rMGXBhNZ6slxJcp1E7z)** by **Dutch Disorder** *(Heroine)* - `3 h ago`
+- **[LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof)** by **Fishmans** *(LONG SEASON)* - `3 h ago`
+- **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-08 23:57:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 02:46:02 UTC*
 <!-- SPOTIFY-END -->
