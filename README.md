@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dbf223dbb6abdffa642eb287" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f9f1de08fccfce6067fbd225" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY">YMCA - Original Version 1978</a></strong><br/>
-  <em>by</em> <strong>Village People</strong><br/>
-  <em>Album:</em> YMCA
+  <strong><a href="https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof">LONG SEASON</a></strong><br/>
+  <em>by</em> <strong>Fishmans</strong><br/>
+  <em>Album:</em> LONG SEASON
 </p>
 
-<p align="center"><code>0:30</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:46</code></p>
+<p align="center"><code>11:45</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>35:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dieser kleine Junge](https://open.spotify.com/track/2cRdj9vZCVNFFOoX4Wwhpd)** by **Brown-Eyes White Boy** *(Metanarkose)* - `just now`
-- **[Hubba Bubba](https://open.spotify.com/track/1LhYl7a5VxCqpD1NgOhUJa)** by **Ski Aggu** *(2022 war film gewesen)* - `2 min ago`
-- **[Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl)** by **Aphex Twin** *(Drukqs)* - `4 min ago`
-- **[Gott segne die Säure](https://open.spotify.com/track/2PB0uECe4pzlPtdxPwNx5C)** by **KLAMER** *(Gott segne die Säure)* - `7 min ago`
-- **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by **my!lane** *(Sakura's Shadows)* - `13 min ago`
+- **[Saw U at the Party](https://open.spotify.com/track/21M8zlymTWKZZURL8BD8fa)** by **Hinoni** *(Scared of Everything)* - `11 min ago`
+- **[video](https://open.spotify.com/track/5i2l5OW3s2ujXMnhHv3jts)** by **blombi19** *(video)* - `14 min ago`
+- **[Tridactyl](https://open.spotify.com/track/6ZTlRa0xUKtncvewlkNjAI)** by **S3RL** *(Tridactyl)* - `16 min ago`
+- **[paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG)** by **Senses, mint** *(paranoid)* - `20 min ago`
+- **[United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL)** by **Kendrick Lamar** *(Mr. Morale & The Big Steppers)* - `22 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 16:33:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 17:34:48 UTC*
 <!-- SPOTIFY-END -->
