@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273668f89613ff0436399963aba" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve">Sometimes I believe in God (Sometimes I believe in Me)</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp">Curse is Lifted - Club rmx</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
+  <em>Album:</em> Curse is Lifted (Club rmx)
 </p>
 
-<p align="center"><code>0:07</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:40</code></p>
+<p align="center"><code>1:02</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `3 min ago`
-- **[The Kids Are Coming Home](https://open.spotify.com/track/35m5M54N5PzJszAt866rTp)** by **Bassvictim, Worldpeace DMT** *(The Kids Are Coming Home)* - `5 min ago`
-- **[L-ON-D-ON](https://open.spotify.com/track/3tNUUXCjHVmfc1i69CCSqx)** by **Bassvictim** *(L-ON-D-ON)* - `8 min ago`
-- **[Grey skies](https://open.spotify.com/track/1kgKfvTqX9lfYz3qKnYhCV)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `11 min ago`
-- **[Dog Tag freestyle](https://open.spotify.com/track/7yoXY59Fon8io1k2lir2z3)** by **Bassvictim** *(Forever)* - `13 min ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `1 min ago`
+- **[I'm sorry, King](https://open.spotify.com/track/6ZVQKGAkrEAdYXasWaXbfp)** by **Bassvictim** *(Forever)* - `3 min ago`
+- **[Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N)** by **Bassvictim, Worldpeace DMT** *(Year of the Dragon)* - `7 min ago`
+- **[Canary Wharf freestyle](https://open.spotify.com/track/61feSMPVPI3RadQEv8kvGb)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)* - `11 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 20:26:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 21:07:47 UTC*
 <!-- SPOTIFY-END -->
