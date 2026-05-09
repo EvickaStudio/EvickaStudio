@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dbf223dbb6abdffa642eb287" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l">Asleep - 2011 Remaster</a></strong><br/>
-  <em>by</em> <strong>The Smiths</strong><br/>
-  <em>Album:</em> Louder Than Bombs
+  <strong><a href="https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY">YMCA - Original Version 1978</a></strong><br/>
+  <em>by</em> <strong>Village People</strong><br/>
+  <em>Album:</em> YMCA
 </p>
 
-<p align="center"><code>0:22</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:13</code></p>
+<p align="center"><code>0:30</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>4:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `just now`
-- **[REMEMBER U MINE!](https://open.spotify.com/track/3Vf47P9JLiKOWpZoQxFiUY)** by **444pluto, Nosgov, NXTY** *(REMEMBER U MINE!)* - `3 min ago`
-- **[Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg)** by **carolesdaughter** *(Violent)* - `5 min ago`
-- **[RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo)** by **Tyler, The Creator** *(IGOR)* - `7 min ago`
-- **["1119"](https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU)** by **Edwin Rosen** *(mitleerenhänden)* - `10 min ago`
+- **[Dieser kleine Junge](https://open.spotify.com/track/2cRdj9vZCVNFFOoX4Wwhpd)** by **Brown-Eyes White Boy** *(Metanarkose)* - `just now`
+- **[Hubba Bubba](https://open.spotify.com/track/1LhYl7a5VxCqpD1NgOhUJa)** by **Ski Aggu** *(2022 war film gewesen)* - `2 min ago`
+- **[Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl)** by **Aphex Twin** *(Drukqs)* - `4 min ago`
+- **[Gott segne die Säure](https://open.spotify.com/track/2PB0uECe4pzlPtdxPwNx5C)** by **KLAMER** *(Gott segne die Säure)* - `7 min ago`
+- **[Stereo Love](https://open.spotify.com/track/07Qc3tqDPLDta7Lvc813Ix)** by **my!lane** *(Sakura's Shadows)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 15:34:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 16:33:53 UTC*
 <!-- SPOTIFY-END -->
