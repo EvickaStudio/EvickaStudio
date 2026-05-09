@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273668f89613ff0436399963aba" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733312c86adb11c0869fe7ac11" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp">Curse is Lifted - Club rmx</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Curse is Lifted (Club rmx)
+  <strong><a href="https://open.spotify.com/track/1d1hQYgtnz0x3EaGt8jOln">the breakers</a></strong><br/>
+  <em>by</em> <strong>Slyy Stone</strong><br/>
+  <em>Album:</em> the breakers
 </p>
 
-<p align="center"><code>1:02</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:39</code></p>
+<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `1 min ago`
-- **[I'm sorry, King](https://open.spotify.com/track/6ZVQKGAkrEAdYXasWaXbfp)** by **Bassvictim** *(Forever)* - `3 min ago`
-- **[Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N)** by **Bassvictim, Worldpeace DMT** *(Year of the Dragon)* - `7 min ago`
-- **[Canary Wharf freestyle](https://open.spotify.com/track/61feSMPVPI3RadQEv8kvGb)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)* - `11 min ago`
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `13 min ago`
+- **[help, im falling](https://open.spotify.com/track/0ZVVdHWYOLnNQaEG80pj0U)** by **meat computer** *(help, im falling)* - `1 min ago`
+- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `3 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `5 min ago`
+- **[Ike piano](https://open.spotify.com/track/01NMNjq0UHn2CABMXnLJxA)** by **Bassvictim** *(Forever)* - `8 min ago`
+- **[Canary Wharf freestyle - Clean Edit](https://open.spotify.com/track/5xyIJyeLCF5lS85EdqzymX)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 21:07:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 21:59:21 UTC*
 <!-- SPOTIFY-END -->
