@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a1a897ee5e642da6d945bcd7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0JL9TZip7mL7iwC5EOkALS">Lady Brown (feat. Cise Starr from CYNE)</a></strong><br/>
-  <em>by</em> <strong>Nujabes, Cise Starr</strong><br/>
-  <em>Album:</em> Metaphorical Music
+  <strong><a href="https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K">Where Is My Mind?</a></strong><br/>
+  <em>by</em> <strong>Pixies</strong><br/>
+  <em>Album:</em> Death to the Pixies
 </p>
 
-<p align="center"><code>2:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:19</code></p>
+<p align="center"><code>0:48</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `2 min ago`
-- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `6 min ago`
-- **[Life Number 9](https://open.spotify.com/track/5XtzNbJsuSvGLXFPXRPH2m)** by **Rosesleeves** *(Pixie)* - `7 min ago`
-- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
-- **[Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D)** by **Kaito Shoma, DJ Paul, Kingpin Skinny Pimp** *(Scary Garry)* - `11 min ago`
+- **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)* - `just now`
+- **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)* - `3 min ago`
+- **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)* - `5 min ago`
+- **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)* - `10 min ago`
+- **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 11:10:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 11:58:41 UTC*
 <!-- SPOTIFY-END -->
