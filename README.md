@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c618b13b941cb823c0ff38b4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c4bccc2345761807df68af1e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1mb7pWZHSX76JO3BswZK5V">Embrace</a></strong><br/>
-  <em>by</em> <strong>Brothel in Belize</strong><br/>
-  <em>Album:</em> War
+  <strong><a href="https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS">stares</a></strong><br/>
+  <em>by</em> <strong>lustr</strong><br/>
+  <em>Album:</em> stares
 </p>
 
-<p align="center"><code>2:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:46</code></p>
+<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Semester In Japan](https://open.spotify.com/track/7fdMdPJ3xwCJDMDVqqw7WR)** by **Tommy Fleece** *(audio stars)* - `2 min ago`
-- **[Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1)** by **Somewhere Special** *(Disguise)* - `4 min ago`
-- **[Caustic](https://open.spotify.com/track/4akQrFczed932aMXbY3Bw6)** by **The Hellp** *(LL)* - `7 min ago`
-- **[the stand](https://open.spotify.com/track/0Ld4SQCGZAmQfBGrujx1Nw)** by **Casual Affairs** *(why aren't u dancing?)* - `10 min ago`
-- **[F4](https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p)** by **DRES** *(F4)* - `12 min ago`
+- **[If Tomorrow Was Today](https://open.spotify.com/track/4YedZAtNzr0l0afAkzxFc0)** by **mach5, tonguetiedd** *(If Tomorrow Was Today)* - `1 min ago`
+- **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)* - `4 min ago`
+- **[Filthy](https://open.spotify.com/track/2CFsqZ9wzECgYYXuotAP5p)** by **MGNA Crrrta** *(Filthy)* - `7 min ago`
+- **[Figure Eight](https://open.spotify.com/track/6Q2AA1oghj3IQyvnPVfgTf)** by **Suzy Sheer, DJH** *(Pure Pulse, Slow Decay, Soft Release)* - `10 min ago`
+- **[Bruises](https://open.spotify.com/track/7Fkf0nbLxTvBFV1tgZbBwJ)** by **dgnr8** *(Bruises)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 22:50:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 23:38:30 UTC*
 <!-- SPOTIFY-END -->
