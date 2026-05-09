@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27344f0d250e45aa471d3ec3753" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K">Where Is My Mind?</a></strong><br/>
-  <em>by</em> <strong>Pixies</strong><br/>
-  <em>Album:</em> Death to the Pixies
+  <strong><a href="https://open.spotify.com/track/3we5D7wzInx8hg9J8AOpIw">Verdien dich nicht</a></strong><br/>
+  <em>by</em> <strong>Traumatin</strong><br/>
+  <em>Album:</em> Verdien dich nicht
 </p>
 
-<p align="center"><code>0:48</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:49</code></p>
+<p align="center"><code>1:54</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Verschwende deine Zeit](https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx)** by **Edwin Rosen** *(Verschwende deine Zeit)* - `just now`
-- **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)* - `3 min ago`
-- **[moral disease](https://open.spotify.com/track/1gictLzvSYKEOINRbBSlMl)** by **Levi Ryan** *(southern comfort EP)* - `5 min ago`
-- **[money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl)** by **100 gecs, Laura Les, Dylan Brady** *(1000 gecs)* - `10 min ago`
-- **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)* - `12 min ago`
+- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `1 min ago`
+- **[Es tut weh](https://open.spotify.com/track/4rzI1lhAXSMyktaA6nO7mX)** by **Leftovers** *(Müde)* - `6 min ago`
+- **[Secret](https://open.spotify.com/track/3ZzGmPgvYkJocj6gwfLh5V)** by **Mietze Conte** *(Mietzee)* - `9 min ago`
+- **[Look at the beautiful stars](https://open.spotify.com/track/4Zd0ZfElXwghxm0R3bX8og)** by **ALFANI.X** *(Look at the beautiful stars)* - `10 min ago`
+- **[dumb](https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h)** by **m1nutes** *(dumb)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 11:58:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 13:20:39 UTC*
 <!-- SPOTIFY-END -->
