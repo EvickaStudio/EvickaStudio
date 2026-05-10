@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734695121be0f2784694835eb4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a3679bb836e2aff58c0fbaa1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4rp8MSeLyjWlFu6BLQnOpX">Leaving</a></strong><br/>
-  <em>by</em> <strong>Operelly</strong><br/>
-  <em>Album:</em> *FLUTTERS AWAY*
+  <strong><a href="https://open.spotify.com/track/3OOxBeii85q1Vvf5NuSI33">Angel Off Duty</a></strong><br/>
+  <em>by</em> <strong>Cowgirl Clue</strong><br/>
+  <em>Album:</em> Total Freedom
 </p>
 
-<p align="center"><code>0:55</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:56</code></p>
+<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Let the keys cry](https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm)** by **kuru** *(Backstage hologram)* - `just now`
-- **[Silk Road](https://open.spotify.com/track/6cicrjj5BCOF5rvAD24P3L)** by **Thaiboy Digital, swedm®** *(Paradise)* - `3 min ago`
-- **[Dog Tag freestyle](https://open.spotify.com/track/7yoXY59Fon8io1k2lir2z3)** by **Bassvictim** *(Forever)* - `6 min ago`
-- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `8 min ago`
-- **[Waking Up](https://open.spotify.com/track/6XhaBJyRHsYgT1kbJHiEM2)** by **EXUM, Maxi** *(In Russia. A is a 9)* - `11 min ago`
+- **[Final Song](https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr)** by **Bassvictim** *(Forever)* - `1 min ago`
+- **[Everyone's favorite](https://open.spotify.com/track/4vJdxOBkBU8RT1FIzAwj1f)** by **Operelly** *(*FLUTTERS AWAY*)* - `4 min ago`
+- **[Katie Vaughn](https://open.spotify.com/track/5SYOKHVaadgY4TeGAxpmxZ)** by **Tommy Fleece** *(audio stars 2)* - `7 min ago`
+- **[halo_v2](https://open.spotify.com/track/5m9Evu44eFqjt5Edfy7nPI)** by **Baileyrp** *(halo_v2)* - `9 min ago`
+- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 20:07:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 21:04:22 UTC*
 <!-- SPOTIFY-END -->
