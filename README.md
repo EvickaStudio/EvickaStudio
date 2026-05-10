@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27325508b3f19336fa50e8faff8" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732830252e21ca3744b363804d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/798QU45K6HC5LO8zmSMiGw">Pennybox</a></strong><br/>
-  <em>by</em> <strong>Racecourse</strong><br/>
-  <em>Album:</em> July, December
+  <strong><a href="https://open.spotify.com/track/23yVyRd5xLly5KQPJZollL">12/21</a></strong><br/>
+  <em>by</em> <strong>Veronica Everheart</strong><br/>
+  <em>Album:</em> 12/21
 </p>
 
-<p align="center"><code>3:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:55</code></p>
+<p align="center"><code>1:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[12/21](https://open.spotify.com/track/23yVyRd5xLly5KQPJZollL)** by **Veronica Everheart** *(12/21)* - `3 min ago`
-- **[chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E)** by **2charm** *(star scum city)* - `6 min ago`
-- **[American girls](https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo)** by **MGNA Crrrta** *(American girls)* - `10 min ago`
-- **[Wash](https://open.spotify.com/track/6APWdaFsX1L2tk1SSfEZin)** by **sadie** *(Better Angels)* - `12 min ago`
-- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `15 min ago`
+- **[chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E)** by **2charm** *(star scum city)* - `1 min ago`
+- **[American girls](https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo)** by **MGNA Crrrta** *(American girls)* - `5 min ago`
+- **[Wash](https://open.spotify.com/track/6APWdaFsX1L2tk1SSfEZin)** by **sadie** *(Better Angels)* - `7 min ago`
+- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `10 min ago`
+- **[Shot Down](https://open.spotify.com/track/2ufVjBwoGv3el8XIPpgsMS)** by **Mayvi** *(Shot Down)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 18:04:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 19:21:18 UTC*
 <!-- SPOTIFY-END -->
