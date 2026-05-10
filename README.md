@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27325508b3f19336fa50e8faff8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2">Don't Stop Me Now</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
+  <strong><a href="https://open.spotify.com/track/798QU45K6HC5LO8zmSMiGw">Pennybox</a></strong><br/>
+  <em>by</em> <strong>Racecourse</strong><br/>
+  <em>Album:</em> July, December
 </p>
 
-<p align="center"><code>0:19</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:23</code></p>
+<p align="center"><code>3:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `just now`
-- **[Champion God Level](https://open.spotify.com/track/3aujFAv6o9EhKOPJYnGlMg)** by **fliggsy** *(Champion God Level)* - `2 min ago`
-- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `1 h ago`
-- **[Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2)** by **Alex G, Emily Yacina** *(Treehouse)* - `1 h ago`
-- **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by **Jennifer Lopez, Pitbull** *(Love?)* - `1 h ago`
+- **[12/21](https://open.spotify.com/track/23yVyRd5xLly5KQPJZollL)** by **Veronica Everheart** *(12/21)* - `3 min ago`
+- **[chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E)** by **2charm** *(star scum city)* - `6 min ago`
+- **[American girls](https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo)** by **MGNA Crrrta** *(American girls)* - `10 min ago`
+- **[Wash](https://open.spotify.com/track/6APWdaFsX1L2tk1SSfEZin)** by **sadie** *(Better Angels)* - `12 min ago`
+- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 17:11:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 18:04:32 UTC*
 <!-- SPOTIFY-END -->
