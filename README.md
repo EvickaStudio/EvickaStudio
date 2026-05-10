@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c4bccc2345761807df68af1e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS">stares</a></strong><br/>
-  <em>by</em> <strong>lustr</strong><br/>
-  <em>Album:</em> stares
-</p>
-
-<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:06</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[If Tomorrow Was Today](https://open.spotify.com/track/4YedZAtNzr0l0afAkzxFc0)** by **mach5, tonguetiedd** *(If Tomorrow Was Today)* - `1 min ago`
-- **[Used2](https://open.spotify.com/track/5Ev8BN8XmTMx7h75rBnOvT)** by **Somewhere Special** *(Used2)* - `4 min ago`
-- **[Filthy](https://open.spotify.com/track/2CFsqZ9wzECgYYXuotAP5p)** by **MGNA Crrrta** *(Filthy)* - `7 min ago`
-- **[Figure Eight](https://open.spotify.com/track/6Q2AA1oghj3IQyvnPVfgTf)** by **Suzy Sheer, DJH** *(Pure Pulse, Slow Decay, Soft Release)* - `10 min ago`
-- **[Bruises](https://open.spotify.com/track/7Fkf0nbLxTvBFV1tgZbBwJ)** by **dgnr8** *(Bruises)* - `12 min ago`
+- **[Undertow - damon r. Remix](https://open.spotify.com/track/6AbVHHJ188tEvQdWwWesKj)** by **The Hellp, damon r.** *(Enemy Remixed)* - `1 h ago`
+- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `1 h ago`
+- **[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)** by **Jane Remover** *(Revengeseekerz)* - `1 h ago`
+- **[Hydroxyzine](https://open.spotify.com/track/1BVHqVC4hVkAWFy2r5mK7s)** by **Contact Sports** *(Hydroxyzine)* - `1 h ago`
+- **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-09 23:38:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 01:24:28 UTC*
 <!-- SPOTIFY-END -->
