@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Undertow - damon r. Remix](https://open.spotify.com/track/6AbVHHJ188tEvQdWwWesKj)** by **The Hellp, damon r.** *(Enemy Remixed)* - `5 h ago`
-- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `5 h ago`
-- **[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)** by **Jane Remover** *(Revengeseekerz)* - `5 h ago`
-- **[Hydroxyzine](https://open.spotify.com/track/1BVHqVC4hVkAWFy2r5mK7s)** by **Contact Sports** *(Hydroxyzine)* - `5 h ago`
-- **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)* - `5 h ago`
+- **[Undertow - damon r. Remix](https://open.spotify.com/track/6AbVHHJ188tEvQdWwWesKj)** by **The Hellp, damon r.** *(Enemy Remixed)* - `7 h ago`
+- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `7 h ago`
+- **[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)** by **Jane Remover** *(Revengeseekerz)* - `7 h ago`
+- **[Hydroxyzine](https://open.spotify.com/track/1BVHqVC4hVkAWFy2r5mK7s)** by **Contact Sports** *(Hydroxyzine)* - `7 h ago`
+- **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 04:58:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 07:24:31 UTC*
 <!-- SPOTIFY-END -->
