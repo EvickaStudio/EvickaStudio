@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273afce4c9cd3313302c0a16ed1" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ">Halah</a></strong><br/>
-  <em>by</em> <strong>Mazzy Star</strong><br/>
-  <em>Album:</em> She Hangs Brightly
-</p>
-
-<p align="center"><code>2:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:16</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Please Let Me Wonder - Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7)** by **The Beach Boys** *(The Beach Boys Today! (Remastered))* - `2 min ago`
-- **[Magdalena](https://open.spotify.com/track/0uNGes2hztgG5F3nVc10dH)** by **Danny O'Keefe** *(Breezy Stories)* - `4 min ago`
-- **[Fahrrad fahr´n](https://open.spotify.com/track/4QYPN8GPhpXQ35nrcSPnmw)** by **Max Raabe** *(Der perfekte Moment… wird heut verpennt)* - `9 min ago`
-- **[can you drive](https://open.spotify.com/track/7p9rD1TxZTmuMKLWkoS2Tc)** by **Levi Ryan** *(operation wandering soul)* - `14 min ago`
-- **[taschen schwer](https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0)** by **5v, James Jetski** *(taschen schwer)* - `18 min ago`
+- **[Operator (That's Not the Way It Feels)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `24 min ago`
+- **[Snowqueen Of Texas](https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P)** by **The Mamas & The Papas** *(People Like Us)* - `28 min ago`
+- **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `31 min ago`
+- **[I Will - Remastered 2009](https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp)** by **The Beatles** *(The Beatles (Remastered))* - `34 min ago`
+- **[Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk)** by **Neil Young** *(Harvest Moon)* - `35 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 12:39:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 14:05:47 UTC*
 <!-- SPOTIFY-END -->
