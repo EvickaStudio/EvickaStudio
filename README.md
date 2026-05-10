@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739eb39412ac03eb70cd2a8ddc" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w">Duk Koo Kim</a></strong><br/>
-  <em>by</em> <strong>Sun Kil Moon</strong><br/>
-  <em>Album:</em> Ghosts of the Great Highway
-</p>
-
-<p align="center"><code>5:39</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>14:32</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kashmir](https://open.spotify.com/track/4Bw44taku7l1MiRdBxNkcb)** by **Nedaj** *(Kashmir)* - `5 min ago`
-- **[Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ)** by **Eera** *(Crash)* - `8 min ago`
-- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `14 min ago`
-- **[Fabergé](https://open.spotify.com/track/7lnQCEtaDJeMZN75siSxLc)** by **RIN** *(Fabergé)* - `15 min ago`
-- **[Ghetto Techno - Swimmingpool](https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak)** by **Die Atzen** *(Atzen Musik Vol.1, 2 & 3)* - `18 min ago`
+- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `3 min ago`
+- **[Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2)** by **Alex G, Emily Yacina** *(Treehouse)* - `5 min ago`
+- **[On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN)** by **Jennifer Lopez, Pitbull** *(Love?)* - `8 min ago`
+- **[Bianco](https://open.spotify.com/track/4m98OcCL585kG0tE4mbKxj)** by **Yung Hurn, RIN** *(Bianco)* - `13 min ago`
+- **[without you](https://open.spotify.com/track/5VXRRAMGatI1y9ncID1bis)** by **meat computer** *(without you)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ABBA**](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 15:12:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 16:08:09 UTC*
 <!-- SPOTIFY-END -->
