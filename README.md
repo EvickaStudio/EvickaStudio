@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732830252e21ca3744b363804d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734695121be0f2784694835eb4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/23yVyRd5xLly5KQPJZollL">12/21</a></strong><br/>
-  <em>by</em> <strong>Veronica Everheart</strong><br/>
-  <em>Album:</em> 12/21
+  <strong><a href="https://open.spotify.com/track/4rp8MSeLyjWlFu6BLQnOpX">Leaving</a></strong><br/>
+  <em>by</em> <strong>Operelly</strong><br/>
+  <em>Album:</em> *FLUTTERS AWAY*
 </p>
 
-<p align="center"><code>1:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:36</code></p>
+<p align="center"><code>0:55</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E)** by **2charm** *(star scum city)* - `1 min ago`
-- **[American girls](https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo)** by **MGNA Crrrta** *(American girls)* - `5 min ago`
-- **[Wash](https://open.spotify.com/track/6APWdaFsX1L2tk1SSfEZin)** by **sadie** *(Better Angels)* - `7 min ago`
-- **[27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov)** by **Bassvictim** *(Forever)* - `10 min ago`
-- **[Shot Down](https://open.spotify.com/track/2ufVjBwoGv3el8XIPpgsMS)** by **Mayvi** *(Shot Down)* - `13 min ago`
+- **[Let the keys cry](https://open.spotify.com/track/0FywccftKyXPwzXlKoFJmm)** by **kuru** *(Backstage hologram)* - `just now`
+- **[Silk Road](https://open.spotify.com/track/6cicrjj5BCOF5rvAD24P3L)** by **Thaiboy Digital, swedm®** *(Paradise)* - `3 min ago`
+- **[Dog Tag freestyle](https://open.spotify.com/track/7yoXY59Fon8io1k2lir2z3)** by **Bassvictim** *(Forever)* - `6 min ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `8 min ago`
+- **[Waking Up](https://open.spotify.com/track/6XhaBJyRHsYgT1kbJHiEM2)** by **EXUM, Maxi** *(In Russia. A is a 9)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 19:21:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 20:07:53 UTC*
 <!-- SPOTIFY-END -->
