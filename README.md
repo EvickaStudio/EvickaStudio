@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a3679bb836e2aff58c0fbaa1" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3OOxBeii85q1Vvf5NuSI33">Angel Off Duty</a></strong><br/>
-  <em>by</em> <strong>Cowgirl Clue</strong><br/>
-  <em>Album:</em> Total Freedom
-</p>
-
-<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:17</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Final Song](https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr)** by **Bassvictim** *(Forever)* - `1 min ago`
-- **[Everyone's favorite](https://open.spotify.com/track/4vJdxOBkBU8RT1FIzAwj1f)** by **Operelly** *(*FLUTTERS AWAY*)* - `4 min ago`
-- **[Katie Vaughn](https://open.spotify.com/track/5SYOKHVaadgY4TeGAxpmxZ)** by **Tommy Fleece** *(audio stars 2)* - `7 min ago`
-- **[halo_v2](https://open.spotify.com/track/5m9Evu44eFqjt5Edfy7nPI)** by **Baileyrp** *(halo_v2)* - `9 min ago`
-- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `13 min ago`
+- **[Malaysia Airlines](https://open.spotify.com/track/2ioYzfoZJRbJ8dy9veNqLo)** by **Contact Sports** *(Malaysia Airlines)* - `41 min ago`
+- **[Second Choice](https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs)** by **1LDK** *(1LDK)* - `45 min ago`
+- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `47 min ago`
+- **[I like the way your teeth sit](https://open.spotify.com/track/7jxTK9oyZJAePnUAm4UQZ1)** by **Tommy Fleece** *(audio stars 2)* - `50 min ago`
+- **[YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh)** by **A Good Year, Horse Vision** *(YSL)* - `53 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 21:04:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 22:02:20 UTC*
 <!-- SPOTIFY-END -->
