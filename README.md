@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Malaysia Airlines](https://open.spotify.com/track/2ioYzfoZJRbJ8dy9veNqLo)** by **Contact Sports** *(Malaysia Airlines)* - `41 min ago`
-- **[Second Choice](https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs)** by **1LDK** *(1LDK)* - `45 min ago`
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `47 min ago`
-- **[I like the way your teeth sit](https://open.spotify.com/track/7jxTK9oyZJAePnUAm4UQZ1)** by **Tommy Fleece** *(audio stars 2)* - `50 min ago`
-- **[YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh)** by **A Good Year, Horse Vision** *(YSL)* - `53 min ago`
+- **[Malaysia Airlines](https://open.spotify.com/track/2ioYzfoZJRbJ8dy9veNqLo)** by **Contact Sports** *(Malaysia Airlines)* - `1 h ago`
+- **[Second Choice](https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs)** by **1LDK** *(1LDK)* - `1 h ago`
+- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `1 h ago`
+- **[I like the way your teeth sit](https://open.spotify.com/track/7jxTK9oyZJAePnUAm4UQZ1)** by **Tommy Fleece** *(audio stars 2)* - `1 h ago`
+- **[YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh)** by **A Good Year, Horse Vision** *(YSL)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 22:02:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 23:06:25 UTC*
 <!-- SPOTIFY-END -->
