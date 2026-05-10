@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Undertow - damon r. Remix](https://open.spotify.com/track/6AbVHHJ188tEvQdWwWesKj)** by **The Hellp, damon r.** *(Enemy Remixed)* - `9 h ago`
-- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `9 h ago`
-- **[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)** by **Jane Remover** *(Revengeseekerz)* - `9 h ago`
-- **[Hydroxyzine](https://open.spotify.com/track/1BVHqVC4hVkAWFy2r5mK7s)** by **Contact Sports** *(Hydroxyzine)* - `9 h ago`
-- **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)* - `9 h ago`
+- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `38 min ago`
+- **[Eiszeit](https://open.spotify.com/track/79cvTvPiRhJ6Ubrl3i6Ipy)** by **James Jetski** *(Just Joking)* - `42 min ago`
+- **[ein letztes mal](https://open.spotify.com/track/7GfvRY2RlvtAblqBujpcIp)** by **absent** *(ein letztes mal)* - `44 min ago`
+- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)* - `46 min ago`
+- **[i crash, u crash](https://open.spotify.com/track/2miw7jNOAe9Qny5TG3vGyg)** by **løve.wav, ghøst.wav** *(i crash, u crash)* - `49 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**After Class**](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 09:11:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-10 10:36:12 UTC*
 <!-- SPOTIFY-END -->
