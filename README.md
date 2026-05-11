@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738b88064619ea563252230702" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6zyKrSyQWUqbIHAHQnCKry">Electronic Heart</a></strong><br/>
-  <em>by</em> <strong>NIVEK FFORHS</strong><br/>
-  <em>Album:</em> Electronic Heart
-</p>
-
-<p align="center"><code>2:00</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:08</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Gimme More - reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK)** by **Baileyrp** *(_Everything else (reimagined))* - `1 min ago`
-- **[Depriving You](https://open.spotify.com/track/2MWwFciTf2MK1j3jMClgkk)** by **Snow Strippers** *(April Mixtape 3)* - `3 min ago`
-- **[Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5)** by **The Hellp** *(Hazel)* - `6 min ago`
-- **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)* - `10 min ago`
-- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `13 min ago`
+- **[yrstruly](https://open.spotify.com/track/5ThwE7WEiof5vxPrYN2IfZ)** by **The Hellp** *(Enemy)* - `1 h ago`
+- **[Dj girl (spin that sh**)](https://open.spotify.com/track/1fLehvCF9rVB1pJlPeiDzE)** by **Tommy Fleece** *(audio stars 2)* - `1 h ago`
+- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `1 h ago`
+- **[Electronic Heart](https://open.spotify.com/track/6zyKrSyQWUqbIHAHQnCKry)** by **NIVEK FFORHS** *(Electronic Heart)* - `1 h ago`
+- **[Gimme More - reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK)** by **Baileyrp** *(_Everything else (reimagined))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 20:12:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 21:40:52 UTC*
 <!-- SPOTIFY-END -->
