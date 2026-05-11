@@ -91,24 +91,34 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738b88064619ea563252230702" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6zyKrSyQWUqbIHAHQnCKry">Electronic Heart</a></strong><br/>
+  <em>by</em> <strong>NIVEK FFORHS</strong><br/>
+  <em>Album:</em> Electronic Heart
+</p>
+
+<p align="center"><code>2:00</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Exist](https://open.spotify.com/track/1uXo5agROjNBTMoDF9ZgYM)** by **flywoah** *(Exist)* - `22 min ago`
-- **[Licht aus](https://open.spotify.com/track/2QN0d1qP7Lkrs6n50PPtza)** by **Murcy** *(Licht aus)* - `26 min ago`
-- **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)* - `29 min ago`
-- **[YKWIM? {slow//reverb}](https://open.spotify.com/track/3NLuRwdC33GHNouWUa0CUT)** by **Ryan Celsius Sounds, slow//reverb** *(YKWIM? {slow//reverb})* - `32 min ago`
-- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `36 min ago`
+- **[Gimme More - reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK)** by **Baileyrp** *(_Everything else (reimagined))* - `1 min ago`
+- **[Depriving You](https://open.spotify.com/track/2MWwFciTf2MK1j3jMClgkk)** by **Snow Strippers** *(April Mixtape 3)* - `3 min ago`
+- **[Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5)** by **The Hellp** *(Hazel)* - `6 min ago`
+- **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)* - `10 min ago`
+- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ABBA**](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV)
 
 
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 18:25:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 20:12:53 UTC*
 <!-- SPOTIFY-END -->
