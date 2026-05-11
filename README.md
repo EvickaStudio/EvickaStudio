@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ">We Built This City</a></strong><br/>
-  <em>by</em> <strong>Starship</strong><br/>
-  <em>Album:</em> Knee Deep In The Hoopla
-</p>
-
-<p align="center"><code>3:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:56</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `3 min ago`
-- **[Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas)** by **Kanye West** *(ye)* - `9 min ago`
-- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `12 min ago`
-- **[ritzen](https://open.spotify.com/track/5JQBRRBdlXB4RtD2K88Xga)** by **leander, ilyproxy, Hadesthegrim** *(GV Magazin: Deluxe Sex)* - `15 min ago`
-- **[Praying to the sky](https://open.spotify.com/track/7Bde3J8arhBqxONhjwfxOD)** by **Ashtraylol** *(Praying to the sky)* - `17 min ago`
+- **[Exist](https://open.spotify.com/track/1uXo5agROjNBTMoDF9ZgYM)** by **flywoah** *(Exist)* - `22 min ago`
+- **[Licht aus](https://open.spotify.com/track/2QN0d1qP7Lkrs6n50PPtza)** by **Murcy** *(Licht aus)* - `26 min ago`
+- **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)* - `29 min ago`
+- **[YKWIM? {slow//reverb}](https://open.spotify.com/track/3NLuRwdC33GHNouWUa0CUT)** by **Ryan Celsius Sounds, slow//reverb** *(YKWIM? {slow//reverb})* - `32 min ago`
+- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `36 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 16:44:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 18:25:46 UTC*
 <!-- SPOTIFY-END -->
