@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[yrstruly](https://open.spotify.com/track/5ThwE7WEiof5vxPrYN2IfZ)** by **The Hellp** *(Enemy)* - `1 h ago`
-- **[Dj girl (spin that sh**)](https://open.spotify.com/track/1fLehvCF9rVB1pJlPeiDzE)** by **Tommy Fleece** *(audio stars 2)* - `1 h ago`
-- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `1 h ago`
-- **[Electronic Heart](https://open.spotify.com/track/6zyKrSyQWUqbIHAHQnCKry)** by **NIVEK FFORHS** *(Electronic Heart)* - `1 h ago`
-- **[Gimme More - reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK)** by **Baileyrp** *(_Everything else (reimagined))* - `1 h ago`
+- **[yrstruly](https://open.spotify.com/track/5ThwE7WEiof5vxPrYN2IfZ)** by **The Hellp** *(Enemy)* - `2 h ago`
+- **[Dj girl (spin that sh**)](https://open.spotify.com/track/1fLehvCF9rVB1pJlPeiDzE)** by **Tommy Fleece** *(audio stars 2)* - `2 h ago`
+- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `2 h ago`
+- **[Electronic Heart](https://open.spotify.com/track/6zyKrSyQWUqbIHAHQnCKry)** by **NIVEK FFORHS** *(Electronic Heart)* - `2 h ago`
+- **[Gimme More - reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK)** by **Baileyrp** *(_Everything else (reimagined))* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 21:40:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 22:38:02 UTC*
 <!-- SPOTIFY-END -->
