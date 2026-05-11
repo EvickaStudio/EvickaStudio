@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27369da52a84aa6bfa737bb8d0e" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2XmSVyyLzmbH83GESZUP8g">Winterlove - sped up</a></strong><br/>
+  <em>by</em> <strong>Maikel</strong><br/>
+  <em>Album:</em> Winterlove
+</p>
+
+<p align="center"><code>1:07</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Malaysia Airlines](https://open.spotify.com/track/2ioYzfoZJRbJ8dy9veNqLo)** by **Contact Sports** *(Malaysia Airlines)* - `7 h ago`
-- **[Second Choice](https://open.spotify.com/track/26ep2tMoZo02kfIP8rAWfs)** by **1LDK** *(1LDK)* - `7 h ago`
-- **[So](https://open.spotify.com/track/51g2LWGC1Q9UU1Q3uPD2iJ)** by **Canyon** *(So)* - `7 h ago`
-- **[I like the way your teeth sit](https://open.spotify.com/track/7jxTK9oyZJAePnUAm4UQZ1)** by **Tommy Fleece** *(audio stars 2)* - `7 h ago`
-- **[YSL](https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh)** by **A Good Year, Horse Vision** *(YSL)* - `7 h ago`
+- **[bei dir](https://open.spotify.com/track/4UHywktuNrQML40XrK5uuY)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `1 min ago`
+- **[Self Reflection](https://open.spotify.com/track/6iKtC5zeCLLT9wVsgqySRQ)** by **Flawless Issues** *(Self Reflection/ Carfentanyl)* - `3 min ago`
+- **[im #obsessed w u lol](https://open.spotify.com/track/7twvecghY5rHcHcNJyhMfe)** by **korpsebunny** *(im #obsessed w u lol)* - `5 min ago`
+- **[Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU)** by **MGMT** *(Oracular Spectacular)* - `8 min ago`
+- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu, n3vio** *(ich bring mich um)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 04:33:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-11 08:03:47 UTC*
 <!-- SPOTIFY-END -->
