@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273143449eb60733df8727a8ea1" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx">reset_hallo</a></strong><br/>
+  <em>by</em> <strong>Pink Katana</strong><br/>
+  <em>Album:</em> Den Mutigen gehört die Welt
+</p>
+
+<p align="center"><code>1:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)* - `54 min ago`
-- **[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)** by **DJ Traytex** *(All Good Things (Come To An End))* - `58 min ago`
-- **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)* - `1 h ago`
-- **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)* - `1 h ago`
-- **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))* - `1 h ago`
+- **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)* - `1 min ago`
+- **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)* - `5 min ago`
+- **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)* - `6 min ago`
+- **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)* - `9 min ago`
+- **[Homecoming](https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe)** by **Kanye West, Chris Martin** *(Graduation)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-12 07:38:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-12 10:13:31 UTC*
 <!-- SPOTIFY-END -->
