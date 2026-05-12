@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734ae73fbe53c8d6edb4d59683" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4u74k3EOFFg3axbztxchnA">DUI_002</a></strong><br/>
-  <em>by</em> <strong>o0o, Aidan Swank, oaf1</strong><br/>
-  <em>Album:</em> DUI_002
+  <strong><a href="https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS">Home</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:23</code></p>
+<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[vamp babe](https://open.spotify.com/track/5AtrKfiVdvfydZEJEhQ2gT)** by **stixz** *(toxics1ut)* - `2 min ago`
-- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))* - `4 min ago`
-- **[Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX)** by **Take Care** *(Agony)* - `7 min ago`
-- **[Falkor's Return](https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ)** by **Indecorum** *(Sanctus)* - `9 min ago`
-- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `12 min ago`
+- **[The Dogs of War](https://open.spotify.com/track/6pidilGWd5NuREht6PQkMj)** by **Bassvictim** *(?)* - `1 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `2 min ago`
+- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `4 min ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `7 min ago`
+- **[Searching Hands](https://open.spotify.com/track/3j9TkJGSskFNtCPq2s3oxu)** by **Walter Frosch** *(Diskothekenbesitzer)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-12 19:18:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-12 20:56:44 UTC*
 <!-- SPOTIFY-END -->
