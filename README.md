@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[yrstruly](https://open.spotify.com/track/5ThwE7WEiof5vxPrYN2IfZ)** by **The Hellp** *(Enemy)* - `8 h ago`
-- **[Dj girl (spin that sh**)](https://open.spotify.com/track/1fLehvCF9rVB1pJlPeiDzE)** by **Tommy Fleece** *(audio stars 2)* - `8 h ago`
-- **[As I Break Apart](https://open.spotify.com/track/7K1TlPQ5m2UKQ8su8l6grG)** by **Eera, Lilac** *(As I Break Apart)* - `8 h ago`
-- **[Electronic Heart](https://open.spotify.com/track/6zyKrSyQWUqbIHAHQnCKry)** by **NIVEK FFORHS** *(Electronic Heart)* - `8 h ago`
-- **[Gimme More - reimagined](https://open.spotify.com/track/5gT1f5pdM7rNQi6E1r7jMK)** by **Baileyrp** *(_Everything else (reimagined))* - `8 h ago`
+- **[they should have found me by now](https://open.spotify.com/track/3tTgpHqjkuKqLzvDwnZs5X)** by **Dignified Burial, æmilia** *(they should have found me by now)* - `54 min ago`
+- **[All Good Things (Come To An End)](https://open.spotify.com/track/4PfnalD9fzuJ5Kx58Bwmu5)** by **DJ Traytex** *(All Good Things (Come To An End))* - `58 min ago`
+- **[i would lie](https://open.spotify.com/track/0FiT9qfTsJIf3wVK0j5MBn)** by **Nosgov** *(i would lie)* - `1 h ago`
+- **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)* - `1 h ago`
+- **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-12 04:55:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-12 07:38:16 UTC*
 <!-- SPOTIFY-END -->
