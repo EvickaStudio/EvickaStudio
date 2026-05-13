@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737037dfed700b1e6f72ff762d" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A">no insight</a></strong><br/>
+  <em>by</em> <strong>Senses, Nightclub20xx, ROAR</strong><br/>
+  <em>Album:</em> no insight
+</p>
+
+<p align="center"><code>2:07</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:22</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 06: Falsche Schuld - Folge 238](https://open.spotify.com/track/0D2GeB5bjBAExtiZNLkzcM)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
-- **[Kapitel 05: Falsche Schuld - Folge 238](https://open.spotify.com/track/0fUJsX4CJG2q9UrpPF1s8X)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
-- **[Kapitel 04: Falsche Schuld - Folge 238](https://open.spotify.com/track/07lCQKUNvHRV3gSphvqnsm)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
-- **[Kapitel 03: Falsche Schuld - Folge 238](https://open.spotify.com/track/0zcjcx0HqhJ89eU8BdxgG1)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
-- **[Kapitel 02: Falsche Schuld - Folge 238](https://open.spotify.com/track/3D2FDwNFjAwqBYeSdugHmH)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
+- **[u don't mean to](https://open.spotify.com/track/1xz5bsIn9aSm9cNo0QWRxR)** by **mint, Nightclub20xx** *(u don't mean to)* - `just now`
+- **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)* - `1 min ago`
+- **[Die letzten in der Bar](https://open.spotify.com/track/1ai3siBFBEntIacLminbuI)** by **hqwilli** *(Die letzten in der Bar)* - `6 min ago`
+- **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)* - `8 min ago`
+- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 15:34:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 17:49:11 UTC*
 <!-- SPOTIFY-END -->
