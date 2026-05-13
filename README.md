@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735ae4651ee587ea2bd52eb937" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ee89ccbcf1f022f9ebf6c2c3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5RcGNEUBEHqvmnNiu6Pllj">Smile - Bass</a></strong><br/>
-  <em>by</em> <strong>Eera, DJH</strong><br/>
-  <em>Album:</em> Smile (Bass)
+  <strong><a href="https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM">Schießstand</a></strong><br/>
+  <em>by</em> <strong>Yatsu</strong><br/>
+  <em>Album:</em> Schießstand
 </p>
 
-<p align="center"><code>1:22</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:58</code></p>
+<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>1:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[its hard :/](https://open.spotify.com/track/7nvJwoH6ZHqPJ4Vse1fTL3)** by **oaf1** *(its hard :/)* - `1 min ago`
-- **[Paris](https://open.spotify.com/track/0wlNT9VeWddlMq4A0kaYXv)** by **sparr00w** *(Soundcloud Archive)* - `3 min ago`
-- **[ichwillchecks pt. 2](https://open.spotify.com/track/4mqGRXiRTl2WF4C1jevwr7)** by **gard, 5v** *(ichwillchecks pt. 2)* - `5 min ago`
-- **[its okay 2 cry\\](https://open.spotify.com/track/22G6ChG5lOHkxfPR1revKw)** by **Zaram** *(its okay 2 cry\\)* - `7 min ago`
-- **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)* - `8 min ago`
+- **[Herz macht Turbo](https://open.spotify.com/track/65qtKbkMFtEyo76Zy0yLtW)** by **grim noir** *(Herz macht Turbo)* - `2 min ago`
+- **[kälter](https://open.spotify.com/track/1u5DIuFz0xr3SQ1s5cprmb)** by **5v, hqwilli** *(kälter)* - `4 min ago`
+- **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)* - `6 min ago`
+- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `9 min ago`
+- **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 08:09:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 10:41:11 UTC*
 <!-- SPOTIFY-END -->
