@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27372fe26fc3fba9088d5094d37" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5pB0eAPdqZk4VSaxrYXwzU">i can't find oaf1</a></strong><br/>
-  <em>by</em> <strong>Caspr, oaf1</strong><br/>
-  <em>Album:</em> i can't find oaf1
-</p>
-
-<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:37</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)* - `1 min ago`
-- **[addy bender](https://open.spotify.com/track/7uh8SYBoBbE70FQ6izqL1L)** by **bliiiss, d1v** *(addy bender)* - `4 min ago`
-- **[tear drops](https://open.spotify.com/track/0lWKY2WXWAE0EUpZUvnTR3)** by **KidSnorlax** *(tear drops)* - `8 min ago`
-- **[Schnuffel](https://open.spotify.com/track/5Ph8HMGpYiDRg4eTBPY1ox)** by **ilyproxy, leander, Hadesthegrim** *(Schnuffel)* - `10 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `14 min ago`
+- **[Kapitel 06: Falsche Schuld - Folge 238](https://open.spotify.com/track/0D2GeB5bjBAExtiZNLkzcM)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
+- **[Kapitel 05: Falsche Schuld - Folge 238](https://open.spotify.com/track/0fUJsX4CJG2q9UrpPF1s8X)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
+- **[Kapitel 04: Falsche Schuld - Folge 238](https://open.spotify.com/track/07lCQKUNvHRV3gSphvqnsm)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
+- **[Kapitel 03: Falsche Schuld - Folge 238](https://open.spotify.com/track/0zcjcx0HqhJ89eU8BdxgG1)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
+- **[Kapitel 02: Falsche Schuld - Folge 238](https://open.spotify.com/track/3D2FDwNFjAwqBYeSdugHmH)** by **Die drei ???** *(Folge 238: Falsche Schuld)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -124,11 +114,11 @@
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 12:31:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 15:34:09 UTC*
 <!-- SPOTIFY-END -->
