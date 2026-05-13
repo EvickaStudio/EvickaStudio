@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve">Sometimes I believe in God (Sometimes I believe in Me)</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
-</p>
-
-<p align="center"><code>1:52</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:40</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `1 min ago`
-- **[Lil Maria](https://open.spotify.com/track/71fdBQ3BuPyeS3UJWPXfZt)** by **Bassvictim** *(Forever)* - `4 min ago`
-- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `7 min ago`
-- **[As Long As](https://open.spotify.com/track/2ZtG5j7RXpCGBJOjXY2V6q)** by **Bassvictim** *(Basspunk)* - `10 min ago`
-- **[Flop](https://open.spotify.com/track/5qUhCz8GelCoO9L8rMDphO)** by **Bassvictim** *(Basspunk)* - `13 min ago`
+- **[Babcia Jadzia](https://open.spotify.com/track/3YUiDAxi6If11zNnxJDbDi)** by **Bassvictim** *(?)* - `57 min ago`
+- **[It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)** by **Bassvictim** *(Forever)* - `1 h ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `1 h ago`
+- **[Mr. President](https://open.spotify.com/track/5UDJO7XT3AywHB3gGotlfn)** by **Bassvictim** *(Forever)* - `1 h ago`
+- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 21:10:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-13 22:36:30 UTC*
 <!-- SPOTIFY-END -->
