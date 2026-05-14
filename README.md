@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f34a012b854ac55502a92e83" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27347066a9aac4e3493fe5b8677" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69">NEUANFANG</a></strong><br/>
-  <em>by</em> <strong>S1RENA</strong><br/>
-  <em>Album:</em> NEUANFANG
+  <strong><a href="https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI">Golden Brown</a></strong><br/>
+  <em>by</em> <strong>The Stranglers</strong><br/>
+  <em>Album:</em> La Folie
 </p>
 
-<p align="center"><code>1:10</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:43</code></p>
+<p align="center"><code>0:54</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hotel in Minsk](https://open.spotify.com/track/127zmcX6KMfXLPJXwdU1Bv)** by **jonatan leandoer96** *(Psychopath Ballads)* - `1 min ago`
-- **[One](https://open.spotify.com/track/7Ci3Yc9H2YliGFc1czyqI1)** by **Harry Nilsson** *(Aerial Ballet)* - `4 min ago`
-- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)* - `7 min ago`
-- **[Water Gun](https://open.spotify.com/track/0DinpFIGgJsvNPHtnMvDTj)** by **Somewhere Special** *(Playground)* - `10 min ago`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `14 min ago`
+- **[The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV)** by **ABBA** *(Super Trouper)* - `just now`
+- **[Traum](https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ)** by **CRO** *(Melodie (Deluxe-Premium Edition))* - `5 min ago`
+- **[Meant To Be](https://open.spotify.com/track/1g8u5MTX5ojGxovGP2kXQ6)** by **Cuntsniffer** *(Meant To Be)* - `9 min ago`
+- **[Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc)** by **SOFFIE** *(Für immer Frühling)* - `11 min ago`
+- **[fr<3nd](https://open.spotify.com/track/40jSWENDiZzjmfbrLOl4nD)** by **Maple** *(chubby)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-14 20:42:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-14 21:49:28 UTC*
 <!-- SPOTIFY-END -->
