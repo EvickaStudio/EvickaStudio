@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27318e4c2913a55fa0de4d2a0a5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b3a31d76d1575e1e102a1346" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF">In Da Party</a></strong><br/>
-  <em>by</em> <strong>smokedope2016</strong><br/>
-  <em>Album:</em> THE PEAK
+  <strong><a href="https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN">L1ebe 1n der Luft</a></strong><br/>
+  <em>by</em> <strong>S1RENA, TYM</strong><br/>
+  <em>Album:</em> L1ebe 1n der Luft
 </p>
 
-<p align="center"><code>0:08</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:21</code></p>
+<p align="center"><code>2:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Luv ₊˚ෆ](https://open.spotify.com/track/4244yblNKYTk7Yju1IhoBR)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `just now`
-- **[Ya Soshla S Uma](https://open.spotify.com/track/6H8w6IAkBkivet5V7VNiPf)** by **User2222** *(User2222 Greatest Hits)* - `2 min ago`
-- **[i ate myself](https://open.spotify.com/track/2hZYRLUj2GZCfhkQlU4ll0)** by **bbpue** *(bbpue)* - `7 min ago`
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `10 min ago`
-- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `13 min ago`
+- **[My Chalice](https://open.spotify.com/track/5DO18wFTnk0Dzrd6q7FjQK)** by **smokedope2016** *(THE COMEDOWN)* - `2 min ago`
+- **[Kiss Me Through the Scope](https://open.spotify.com/track/3GCMcuFshftdxKEeFTCIwK)** by **Thaiboy Digital** *(Legendary Member)* - `8 min ago`
+- **[Happily Ever After](https://open.spotify.com/track/6PlupK3wnLqxSFSP9oW4GW)** by **Ecco2k** *(D&G)* - `11 min ago`
+- **[Myth](https://open.spotify.com/track/2Zw3HNjaNV42LnQ2uY5JQs)** by **Beach House** *(Bloom)* - `13 min ago`
+- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**dreamloader**](https://open.spotify.com/artist/3vhSivgY8iMglDwTCnWBI2)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home**](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-14 15:02:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-14 17:08:15 UTC*
 <!-- SPOTIFY-END -->
