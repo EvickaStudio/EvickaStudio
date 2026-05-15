@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bbfd73699593a601c14165eb" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/01uhx2Rk77R81sgAqY8zRZ">Chained Up</a></strong><br/>
+  <em>by</em> <strong>Snow Strippers</strong><br/>
+  <em>Album:</em> Night Killaz Vol. 2
+</p>
+
+<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI)** by **The Stranglers** *(La Folie)* - `4 h ago`
-- **[The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV)** by **ABBA** *(Super Trouper)* - `4 h ago`
-- **[Traum](https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ)** by **CRO** *(Melodie (Deluxe-Premium Edition))* - `4 h ago`
-- **[Meant To Be](https://open.spotify.com/track/1g8u5MTX5ojGxovGP2kXQ6)** by **Cuntsniffer** *(Meant To Be)* - `4 h ago`
-- **[Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc)** by **SOFFIE** *(Für immer Frühling)* - `4 h ago`
+- **[Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE)** by **Flawed Mangoes** *(Killswitch Lullaby)* - `1 min ago`
+- **[Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI)** by **The Stranglers** *(La Folie)* - `8 h ago`
+- **[The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV)** by **ABBA** *(Super Trouper)* - `8 h ago`
+- **[Traum](https://open.spotify.com/track/6D579iDSk3u8fCokhBl8dQ)** by **CRO** *(Melodie (Deluxe-Premium Edition))* - `8 h ago`
+- **[Meant To Be](https://open.spotify.com/track/1g8u5MTX5ojGxovGP2kXQ6)** by **Cuntsniffer** *(Meant To Be)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-15 02:27:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-15 06:07:48 UTC*
 <!-- SPOTIFY-END -->
