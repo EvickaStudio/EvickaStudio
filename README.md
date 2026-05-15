@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3YUiDAxi6If11zNnxJDbDi">Babcia Jadzia</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
-</p>
-
-<p align="center"><code>6:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>7:24</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `6 min ago`
-- **[The Dogs of War](https://open.spotify.com/track/6pidilGWd5NuREht6PQkMj)** by **Bassvictim** *(?)* - `10 min ago`
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `11 min ago`
-- **[Don't Stop Me Now](https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2)** by **Bassvictim** *(?)* - `13 min ago`
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `17 min ago`
+- **[Kapitel 12: und der rote Büffel - Folge 237](https://open.spotify.com/track/75i71jWmiu6Nb7DjWCq9Lu)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `14 min ago`
+- **[Kapitel 11: und der rote Büffel - Folge 237](https://open.spotify.com/track/2jY6to3v9FjdQOafW2sWzw)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `18 min ago`
+- **[Kapitel 10: und der rote Büffel - Folge 237](https://open.spotify.com/track/1D5iqmg6CSuKl2DyqTpc3M)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `21 min ago`
+- **[Kapitel 09: und der rote Büffel - Folge 237](https://open.spotify.com/track/6GaznACi4sAUTwQn6hTUTg)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `24 min ago`
+- **[Kapitel 08: und der rote Büffel - Folge 237](https://open.spotify.com/track/0uP0jTl2skafLI5yhaLpA8)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `27 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-15 13:16:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-15 15:33:29 UTC*
 <!-- SPOTIFY-END -->
