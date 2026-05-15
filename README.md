@@ -96,29 +96,29 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 12: und der rote Büffel - Folge 237](https://open.spotify.com/track/75i71jWmiu6Nb7DjWCq9Lu)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `14 min ago`
-- **[Kapitel 11: und der rote Büffel - Folge 237](https://open.spotify.com/track/2jY6to3v9FjdQOafW2sWzw)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `18 min ago`
-- **[Kapitel 10: und der rote Büffel - Folge 237](https://open.spotify.com/track/1D5iqmg6CSuKl2DyqTpc3M)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `21 min ago`
-- **[Kapitel 09: und der rote Büffel - Folge 237](https://open.spotify.com/track/6GaznACi4sAUTwQn6hTUTg)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `24 min ago`
-- **[Kapitel 08: und der rote Büffel - Folge 237](https://open.spotify.com/track/0uP0jTl2skafLI5yhaLpA8)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `27 min ago`
+- **[Kapitel 12: und der rote Büffel - Folge 237](https://open.spotify.com/track/75i71jWmiu6Nb7DjWCq9Lu)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `1 h ago`
+- **[Kapitel 11: und der rote Büffel - Folge 237](https://open.spotify.com/track/2jY6to3v9FjdQOafW2sWzw)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `1 h ago`
+- **[Kapitel 10: und der rote Büffel - Folge 237](https://open.spotify.com/track/1D5iqmg6CSuKl2DyqTpc3M)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `2 h ago`
+- **[Kapitel 09: und der rote Büffel - Folge 237](https://open.spotify.com/track/6GaznACi4sAUTwQn6hTUTg)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `2 h ago`
+- **[Kapitel 08: und der rote Büffel - Folge 237](https://open.spotify.com/track/0uP0jTl2skafLI5yhaLpA8)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-15 15:33:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-15 17:13:42 UTC*
 <!-- SPOTIFY-END -->
