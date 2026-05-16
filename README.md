@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27390cfdbdde89b9c6fc04abf33" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW">Bildschirm</a></strong><br/>
-  <em>by</em> <strong>S1RENA</strong><br/>
-  <em>Album:</em> Bildschirm
-</p>
-
-<p align="center"><code>0:25</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[_+<(>_<)>+_===**++++++++__[--_>>>>>]}}}](https://open.spotify.com/track/0HEb8h395qcvn2KGZy3KFn)** by **snafu** *(:))* - `just now`
-- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `1 min ago`
-- **[dwm](https://open.spotify.com/track/1Yf3UraYx8X8Ks0Xfj8AcJ)** by **ideasforconversations** *(No Bad Words)* - `4 min ago`
-- **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)* - `7 min ago`
-- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `9 min ago`
+- **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)* - `55 min ago`
+- **[fly...](https://open.spotify.com/track/2arjaNvrGYRzlYKTjHjHQk)** by **wiv** *(fly...)* - `57 min ago`
+- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `58 min ago`
+- **[_+<(>_<)>+_===**++++++++__[--_>>>>>]}}}](https://open.spotify.com/track/0HEb8h395qcvn2KGZy3KFn)** by **snafu** *(:))* - `1 h ago`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 21:02:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 22:03:01 UTC*
 <!-- SPOTIFY-END -->
