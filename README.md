@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27369f3fad64158a156633e8874" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk">Roll The Dice</a></strong><br/>
-  <em>by</em> <strong>Nokia Angel</strong><br/>
-  <em>Album:</em> Roll The Dice
-</p>
-
-<p align="center"><code>2:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:07</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `1 min ago`
-- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `4 min ago`
-- **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)* - `7 min ago`
-- **[auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)** by **wilson100k** *(auf wiedersehen </3)* - `10 min ago`
-- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `12 min ago`
+- **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)* - `34 min ago`
+- **[Snus](https://open.spotify.com/track/11pyUJH4ZpGCHuOQH1qbEW)** by **4gegenbeat, BIGBAX** *(Snus)* - `37 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `39 min ago`
+- **[Another High](https://open.spotify.com/track/2M3Tyxn3jy1O89SH9XtHzd)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `41 min ago`
+- **[notfallkontakt](https://open.spotify.com/track/0IPMXUCfYjnY1dzyXskUNo)** by **Tamino404, eedrian** *(notfallkontakt)* - `43 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +108,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Edwin Rosen**](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -128,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 11:29:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 12:37:14 UTC*
 <!-- SPOTIFY-END -->
