@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27369f3fad64158a156633e8874" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/49np2f2cTDN9DvN7xtF4Mk">Roll The Dice</a></strong><br/>
+  <em>by</em> <strong>Nokia Angel</strong><br/>
+  <em>Album:</em> Roll The Dice
+</p>
+
+<p align="center"><code>2:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 12: und der rote Büffel - Folge 237](https://open.spotify.com/track/75i71jWmiu6Nb7DjWCq9Lu)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `19 h ago`
-- **[Kapitel 11: und der rote Büffel - Folge 237](https://open.spotify.com/track/2jY6to3v9FjdQOafW2sWzw)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `19 h ago`
-- **[Kapitel 10: und der rote Büffel - Folge 237](https://open.spotify.com/track/1D5iqmg6CSuKl2DyqTpc3M)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `19 h ago`
-- **[Kapitel 09: und der rote Büffel - Folge 237](https://open.spotify.com/track/6GaznACi4sAUTwQn6hTUTg)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `19 h ago`
-- **[Kapitel 08: und der rote Büffel - Folge 237](https://open.spotify.com/track/0uP0jTl2skafLI5yhaLpA8)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `19 h ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `1 min ago`
+- **[Runaway](https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO)** by **Lil Peep** *(Come Over When You're Sober, Pt. 2)* - `4 min ago`
+- **[valium](https://open.spotify.com/track/2YhagRbo9wI0Hy2FOIOORn)** by **Levi Ryan** *(valium)* - `7 min ago`
+- **[auf wiedersehen </3](https://open.spotify.com/track/3uUVSqEXJZ0Y6wZJTit95N)** by **wilson100k** *(auf wiedersehen </3)* - `10 min ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 10:18:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 11:29:36 UTC*
 <!-- SPOTIFY-END -->
