@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 12: und der rote Büffel - Folge 237](https://open.spotify.com/track/75i71jWmiu6Nb7DjWCq9Lu)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `13 h ago`
-- **[Kapitel 11: und der rote Büffel - Folge 237](https://open.spotify.com/track/2jY6to3v9FjdQOafW2sWzw)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `13 h ago`
-- **[Kapitel 10: und der rote Büffel - Folge 237](https://open.spotify.com/track/1D5iqmg6CSuKl2DyqTpc3M)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `13 h ago`
-- **[Kapitel 09: und der rote Büffel - Folge 237](https://open.spotify.com/track/6GaznACi4sAUTwQn6hTUTg)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `13 h ago`
-- **[Kapitel 08: und der rote Büffel - Folge 237](https://open.spotify.com/track/0uP0jTl2skafLI5yhaLpA8)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `13 h ago`
+- **[Kapitel 12: und der rote Büffel - Folge 237](https://open.spotify.com/track/75i71jWmiu6Nb7DjWCq9Lu)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `15 h ago`
+- **[Kapitel 11: und der rote Büffel - Folge 237](https://open.spotify.com/track/2jY6to3v9FjdQOafW2sWzw)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `15 h ago`
+- **[Kapitel 10: und der rote Büffel - Folge 237](https://open.spotify.com/track/1D5iqmg6CSuKl2DyqTpc3M)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `15 h ago`
+- **[Kapitel 09: und der rote Büffel - Folge 237](https://open.spotify.com/track/6GaznACi4sAUTwQn6hTUTg)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `15 h ago`
+- **[Kapitel 08: und der rote Büffel - Folge 237](https://open.spotify.com/track/0uP0jTl2skafLI5yhaLpA8)** by **Die drei ???** *(Folge 237: und der rote Büffel)* - `15 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Hollywood Smile**](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Going Home**](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 04:37:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 07:01:11 UTC*
 <!-- SPOTIFY-END -->
