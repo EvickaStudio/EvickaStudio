@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735ef315d54fd701725176292e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27390cfdbdde89b9c6fc04abf33" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM">Rather Be (feat. Jess Glynne)</a></strong><br/>
-  <em>by</em> <strong>Clean Bandit, Jess Glynne</strong><br/>
-  <em>Album:</em> New Eyes
+  <strong><a href="https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW">Bildschirm</a></strong><br/>
+  <em>by</em> <strong>S1RENA</strong><br/>
+  <em>Album:</em> Bildschirm
 </p>
 
-<p align="center"><code>3:23</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:47</code></p>
+<p align="center"><code>0:25</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ILLUMINATI](https://open.spotify.com/track/2wYTOWgGP4woPRhmEwRN9E)** by **LyteSpeed, Punkinloveee** *(ILLUMINATI)* - `3 min ago`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `5 min ago`
-- **[Butterfly](https://open.spotify.com/track/3CisGh5CyKBDnGtjmsszSo)** by **SMiLE.dk** *(Smile)* - `6 min ago`
-- **[M-TRAIN](https://open.spotify.com/track/5Psv24txgIm0VTzOHpYyE3)** by **Buckshot** *(M-TRAIN)* - `9 min ago`
-- **[sig sauer](https://open.spotify.com/track/2mhwofQZDzzYjlrZEZODbi)** by **Levi Ryan** *(operation wandering soul)* - `12 min ago`
+- **[_+<(>_<)>+_===**++++++++__[--_>>>>>]}}}](https://open.spotify.com/track/0HEb8h395qcvn2KGZy3KFn)** by **snafu** *(:))* - `just now`
+- **[Wenn alle Stricke reissen](https://open.spotify.com/track/3m5ElnNugava0TChDfx34x)** by **Edwin Rosen** *(Wenn alle Stricke reissen)* - `1 min ago`
+- **[dwm](https://open.spotify.com/track/1Yf3UraYx8X8Ks0Xfj8AcJ)** by **ideasforconversations** *(No Bad Words)* - `4 min ago`
+- **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)* - `7 min ago`
+- **[sky2k](https://open.spotify.com/track/0MaxvnFJG2FlpLMR9Hr20d)** by **dreamloader** *(sky2k)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 20:09:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-16 21:02:18 UTC*
 <!-- SPOTIFY-END -->
