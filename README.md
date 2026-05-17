@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c9100d944eee820a1f7e1679" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW">Red Siren Pick Up</a></strong><br/>
-  <em>by</em> <strong>Magdalene, Current Joys</strong><br/>
-  <em>Album:</em> Red Siren Pick Up
-</p>
-
-<p align="center"><code>1:19</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:58</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1)** by **Wasia Project** *(Bleeding Gold)* - `1 min ago`
-- **[bad bad bad](https://open.spotify.com/track/1xL1AWeE1U6R6KuR52KlWC)** by **mikeycyrus** *(:))* - `7 min ago`
-- **[Lovers by Chance](https://open.spotify.com/track/4S2aSsWfdCnZBtZ61u2RBM)** by **Brothel in Belize** *(Lovers by Chance)* - `9 min ago`
-- **[rock revival](https://open.spotify.com/track/0g1dHPSdejlStbPDZeByQy)** by **hateoryx** *(rock revival)* - `12 min ago`
-- **[Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b)** by **Charli xcx** *(Rock Music)* - `14 min ago`
+- **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)* - `26 min ago`
+- **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)* - `28 min ago`
+- **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)* - `31 min ago`
+- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `32 min ago`
+- **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint** *(remedy)* - `35 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 13:00:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 14:38:36 UTC*
 <!-- SPOTIFY-END -->
