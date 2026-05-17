@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a94bc3974dc10666c8e48ae2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1AZ5owrY1uctulD2cwxGSa">Bad Boy</a></strong><br/>
-  <em>by</em> <strong>Nightcore Reality</strong><br/>
-  <em>Album:</em> Bad Boy
+  <strong><a href="https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ">Suffocation</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> Crystal Castles (II)
 </p>
 
-<p align="center"><code>0:06</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:05</code></p>
+<p align="center"><code>0:40</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>4:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Pasta](https://open.spotify.com/track/4qiOITsogOIpTh3KSrYDjq)** by **$OHO BANI, Hugo Nameless, Nate Gordo** *($oho Bani Vol.1)* - `just now`
-- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `2 min ago`
-- **[Aria Math Hardstyle](https://open.spotify.com/track/3YMLLVNRCqS0daxwWqmCsj)** by **Mqx** *(Aria Math Hardstyle)* - `6 min ago`
-- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)* - `9 min ago`
-- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `11 min ago`
+- **[kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U)** by **Lil Peep, Lil Tracy** *(kisses in the wind)* - `just now`
+- **[i'm the one in love](https://open.spotify.com/track/0RlRqK8oIV7DuV3UCGVcjQ)** by **timesgone, DNA** *(i'm the one in love)* - `3 min ago`
+- **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)* - `4 min ago`
+- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `8 min ago`
+- **[GOT UR NUMB3R (v2)](https://open.spotify.com/track/0diD9SEK0oNBOx0p0QGvAB)** by **bugcried** *(GOT UR NUMB3R (v2))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 18:41:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 19:48:23 UTC*
 <!-- SPOTIFY-END -->
