@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[cant stop](https://open.spotify.com/track/4LXADCKJwKZrkX1GwQdAwJ)** by **cranes, ss3bby** *(cant stop)* - `1 h ago`
-- **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)* - `12 h ago`
-- **[fly...](https://open.spotify.com/track/2arjaNvrGYRzlYKTjHjHQk)** by **wiv** *(fly...)* - `12 h ago`
-- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `12 h ago`
-- **[_+<(>_<)>+_===**++++++++__[--_>>>>>]}}}](https://open.spotify.com/track/0HEb8h395qcvn2KGZy3KFn)** by **snafu** *(:))* - `12 h ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `1 h ago`
+- **[cant stop](https://open.spotify.com/track/4LXADCKJwKZrkX1GwQdAwJ)** by **cranes, ss3bby** *(cant stop)* - `3 h ago`
+- **[mental:^L0b0TomY](https://open.spotify.com/track/2HpGkBMM1dYo25DtiT8vBn)** by **jequya** *(mental:^L0b0TomY)* - `13 h ago`
+- **[fly...](https://open.spotify.com/track/2arjaNvrGYRzlYKTjHjHQk)** by **wiv** *(fly...)* - `13 h ago`
+- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `13 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 09:17:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 10:47:04 UTC*
 <!-- SPOTIFY-END -->
