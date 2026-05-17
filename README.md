@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat">Wolves Howling</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Forever
-</p>
-
-<p align="center"><code>1:06</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:25</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `1 min ago`
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `5 min ago`
-- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
-- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `11 min ago`
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `14 min ago`
+- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `29 min ago`
+- **[Falling](https://open.spotify.com/track/6WkiWn8bf8S29wSk0VwK7h)** by **Frost Children** *(SISTER)* - `31 min ago`
+- **[Don't You Feel](https://open.spotify.com/track/11xvUU40hy2hCVLrNjQFjt)** by **Snow Strippers** *(April Mixtape 3)* - `35 min ago`
+- **[Not ur friend](https://open.spotify.com/track/4sJpBTmkQ48MQeVudtmwuS)** by **The Femcels** *(Not ur friend)* - `37 min ago`
+- **[Cabin](https://open.spotify.com/track/3zIFQsdDFLmm6V7Ifu03Z6)** by **Somewhere Special** *(Cabin)* - `41 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 20:39:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 21:36:52 UTC*
 <!-- SPOTIFY-END -->
