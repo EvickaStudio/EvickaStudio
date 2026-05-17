@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730129638e916200110916cc45" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5OFlKHSo3b2PGeL1Z94m6B">Truest Of Blues</a></strong><br/>
+  <em>by</em> <strong>True Blue, The Bird</strong><br/>
+  <em>Album:</em> Star Witness
+</p>
+
+<p align="center"><code>0:30</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)* - `26 min ago`
-- **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)* - `28 min ago`
-- **[not the one to blame](https://open.spotify.com/track/3JAsBiT2FopvORYb7BoEqr)** by **mint, dy.wsh** *(not the one to blame)* - `31 min ago`
-- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `32 min ago`
-- **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint** *(remedy)* - `35 min ago`
+- **[California Dream Girl](https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0)** by **The Hellp** *(California Dream Girl)* - `just now`
+- **[Feel The Light](https://open.spotify.com/track/2GZP17O3nwewmDWBWDCBcz)** by **Somewhere Special** *(Feel The Light)* - `3 min ago`
+- **[TANTRA](https://open.spotify.com/track/7EbtXZzxeTCfCYfYHvn6E5)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `5 min ago`
+- **[Telephone](https://open.spotify.com/track/173oCRuE5CCCiG2XSzxUQH)** by **Elxnce, Cece Natalie** *(Ridgeway Drive / Blurred Sentimentality)* - `7 min ago`
+- **[Born Ready](https://open.spotify.com/track/54uq7hriCkMG74IjLtntax)** by **Thaiboy Digital, swedm®** *(Paradise)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -108,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 14:38:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 15:41:56 UTC*
 <!-- SPOTIFY-END -->
