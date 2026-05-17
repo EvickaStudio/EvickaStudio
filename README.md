@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a1765497ff7baf69f5db102f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c9100d944eee820a1f7e1679" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh">Meine Hände sind im Feuer - Die Sterne Remix</a></strong><br/>
-  <em>by</em> <strong>Edwin Rosen, sparr00w</strong><br/>
-  <em>Album:</em> Die Sterne
+  <strong><a href="https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW">Red Siren Pick Up</a></strong><br/>
+  <em>by</em> <strong>Magdalene, Current Joys</strong><br/>
+  <em>Album:</em> Red Siren Pick Up
 </p>
 
-<p align="center"><code>0:56</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:18</code></p>
+<p align="center"><code>1:19</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Siehst du wie die Stadt Weint?](https://open.spotify.com/track/4nc4t7jyUpMbdxACSX0IsJ)** by **sparr00w** *(Nadja)* - `just now`
-- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)* - `2 min ago`
-- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `6 min ago`
-- **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)* - `7 min ago`
-- **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)* - `9 min ago`
+- **[Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1)** by **Wasia Project** *(Bleeding Gold)* - `1 min ago`
+- **[bad bad bad](https://open.spotify.com/track/1xL1AWeE1U6R6KuR52KlWC)** by **mikeycyrus** *(:))* - `7 min ago`
+- **[Lovers by Chance](https://open.spotify.com/track/4S2aSsWfdCnZBtZ61u2RBM)** by **Brothel in Belize** *(Lovers by Chance)* - `9 min ago`
+- **[rock revival](https://open.spotify.com/track/0g1dHPSdejlStbPDZeByQy)** by **hateoryx** *(rock revival)* - `12 min ago`
+- **[Rock Music](https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b)** by **Charli xcx** *(Rock Music)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 11:55:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 13:00:41 UTC*
 <!-- SPOTIFY-END -->
