@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273693dd4d51ece50512b4a3e4d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738bc653b97a40a78d63b62460" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6N69VtfiVKjvtUqG5E7yNH">strangers</a></strong><br/>
-  <em>by</em> <strong>Brothel in Belize</strong><br/>
-  <em>Album:</em> strangers
+  <strong><a href="https://open.spotify.com/track/5ThwE7WEiof5vxPrYN2IfZ">yrstruly</a></strong><br/>
+  <em>by</em> <strong>The Hellp</strong><br/>
+  <em>Album:</em> Enemy
 </p>
 
-<p align="center"><code>0:35</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:44</code></p>
+<p align="center"><code>1:27</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Not The Only One](https://open.spotify.com/track/5NYNmvmzFIGR98WPSMOSPK)** by **Nation** *(BKJB / Not The Only One)* - `just now`
-- **[You Make Me](https://open.spotify.com/track/1HSlp96vquCYfekrT7AffA)** by **dgnr8** *(Bruises)* - `3 min ago`
-- **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)* - `6 min ago`
-- **[Heroes Don't Exist](https://open.spotify.com/track/4CEcy4bOP3v3DQTklHxhXp)** by **Snow Strippers** *(April Mixtape 2)* - `9 min ago`
-- **[house](https://open.spotify.com/track/4aFmTTHsMgp5VSwq7sLt6X)** by **anna luna** *(house)* - `12 min ago`
+- **[Comin Down](https://open.spotify.com/track/7EKzS2LbangMlzAlvY8cpr)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `1 min ago`
+- **[AA Chrome](https://open.spotify.com/track/1I28BDq0BCjLZF60AdCbjn)** by **SILICONE VALLEY** *(AA Chrome)* - `4 min ago`
+- **[Deceitful Eyes](https://open.spotify.com/track/3EspPNbxpFNYbPwlyAs8rJ)** by **Snow Strippers** *(April Mixtape 3)* - `6 min ago`
+- **[Reset](https://open.spotify.com/track/5ZZcINzdiNArgNStohLKdC)** by **Jonah Paz, Adeline Bateman** *(Exit)* - `8 min ago`
+- **[Touch](https://open.spotify.com/track/2WfKw9Ke0Q5Ytb0CUXqBU5)** by **Nation, Ecco2k** *(Nation 2)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 16:37:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 17:39:05 UTC*
 <!-- SPOTIFY-END -->
