@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730129638e916200110916cc45" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273693dd4d51ece50512b4a3e4d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5OFlKHSo3b2PGeL1Z94m6B">Truest Of Blues</a></strong><br/>
-  <em>by</em> <strong>True Blue, The Bird</strong><br/>
-  <em>Album:</em> Star Witness
+  <strong><a href="https://open.spotify.com/track/6N69VtfiVKjvtUqG5E7yNH">strangers</a></strong><br/>
+  <em>by</em> <strong>Brothel in Belize</strong><br/>
+  <em>Album:</em> strangers
 </p>
 
-<p align="center"><code>0:30</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:19</code></p>
+<p align="center"><code>0:35</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[California Dream Girl](https://open.spotify.com/track/4luiQl18IztB9tmtn0ACV0)** by **The Hellp** *(California Dream Girl)* - `just now`
-- **[Feel The Light](https://open.spotify.com/track/2GZP17O3nwewmDWBWDCBcz)** by **Somewhere Special** *(Feel The Light)* - `3 min ago`
-- **[TANTRA](https://open.spotify.com/track/7EbtXZzxeTCfCYfYHvn6E5)** by **SILICONE VALLEY** *(WORLD'S NO.1 SPIRIT)* - `5 min ago`
-- **[Telephone](https://open.spotify.com/track/173oCRuE5CCCiG2XSzxUQH)** by **Elxnce, Cece Natalie** *(Ridgeway Drive / Blurred Sentimentality)* - `7 min ago`
-- **[Born Ready](https://open.spotify.com/track/54uq7hriCkMG74IjLtntax)** by **Thaiboy Digital, swedm®** *(Paradise)* - `9 min ago`
+- **[Not The Only One](https://open.spotify.com/track/5NYNmvmzFIGR98WPSMOSPK)** by **Nation** *(BKJB / Not The Only One)* - `just now`
+- **[You Make Me](https://open.spotify.com/track/1HSlp96vquCYfekrT7AffA)** by **dgnr8** *(Bruises)* - `3 min ago`
+- **[Playground](https://open.spotify.com/track/2HMx9wZPJiuIt2xQ3Ggn9N)** by **Somewhere Special** *(Playground)* - `6 min ago`
+- **[Heroes Don't Exist](https://open.spotify.com/track/4CEcy4bOP3v3DQTklHxhXp)** by **Snow Strippers** *(April Mixtape 2)* - `9 min ago`
+- **[house](https://open.spotify.com/track/4aFmTTHsMgp5VSwq7sLt6X)** by **anna luna** *(house)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 15:41:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 16:37:12 UTC*
 <!-- SPOTIFY-END -->
